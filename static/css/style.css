@@ -221,3 +221,62 @@ figure.floatcenter, .align-center {
         font-size: 16px;
     }
 }
+
+#container4 {
+  clear:left;
+  float:left;
+  width:100%;
+  overflow:hidden;
+/*  background:#b2f0f9;  column 4 background colour */
+}
+#container3 {
+  clear:left;
+  float:left;
+  width:100%;
+  position:relative;
+  right:25%;
+/*  background:#89ffa2;  column 3 background colour */
+}
+#container2 {
+  clear:left;
+  float:left;
+  width:100%;
+  position:relative;
+  right:25%;
+/*  background:#ffa7a7;  column 2 background colour */
+}
+#container1 {
+  float:left;
+  width:100%;
+  position:relative;
+  right:25%;
+/*  background:#fff689;  column 1 background colour */
+}
+#col1 {
+  float:left;
+  width:13%;
+  position:relative;
+  left:77%;
+  overflow:hidden;
+}
+#col2 {
+  float:left;
+  width:20%;
+  position:relative;
+  left:75%;
+  overflow:hidden;
+}
+#col3 {
+  float:left;
+  width:40%;
+  position:relative;
+  left:70%;
+  overflow:hidden;
+}
+#col4 {
+  float:left;
+  width:20%;
+  position:relative;
+  left:70%;
+  overflow:hidden; 
+}
