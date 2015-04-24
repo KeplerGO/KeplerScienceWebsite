@@ -1,0 +1,5 @@
+Title: Kepler Robovetted KOI table released
+Date: 2015-04-02 01:00
+Author: Thomas Barclay
+
+The Kepler project has opened the Q1-Q17 DR24 KOI table at the [NASA Exoplanet Archive](http://exoplanetarchive.ipac.caltech.edu), adding 1368 new Kepler Objects of Interest (KOIs) to the cumulative table. This is a milestone release because it utilizes the first uniform processing of the entire Kepler data set and it represents a first attempt at fully automating the dispositioning process so as to produce a uniformly vetted catalog of planetary candidates (PCs) and false positives (FPs). This is being done via the use of "robovetters" - sophisticated decision trees that utilize a set of targeted metrics to mimic the decision-making process. While all KOIs in the Q1-Q17 DR24 KOI table are given dispositions, work on the robovetters is not yet complete. Thus, before the table is closed more KOIs will be added and dispositions will change. To get more information about this KOI table and to download the data it contains go to NExScI.
