@@ -26,6 +26,10 @@ HIDE_SITENAME = False
 
 DISPLAY_TAGS_ON_SIDEBAR = False
 
+IGNORE_FILES = [
+    "README.md",
+]
+
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -38,7 +42,8 @@ AUTHOR_FEED_RSS = None
 LINKS = (('Subscribe', 'http://keplerscience.arc.nasa.gov/NewsExploder.shtml'),
 		('Kepler Science Center', 'http://keplerscience.arc.nasa.gov/'),
          ('K2 Science Center', 'http://keplerscience.arc.nasa.gov/K2'),
-         ('Mission Manager Updates', 'http://www.nasa.gov/mission_pages/kepler/news/mmu.html'))
+         ('Mission Manager Updates', 'http://www.nasa.gov/mission_pages/kepler/news/mmu.html'),
+         ('Old Blog Posts','http://keplerscience.arc.nasa.gov/Blog.shtml'))
 
 SHOW_ARTICLE_AUTHOR = True
 
