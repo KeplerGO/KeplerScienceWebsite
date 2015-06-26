@@ -16,8 +16,7 @@ TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = u'en'
 
-#THEME = "/Users/tom/websites/K2MicrolensingWorkshop/tom-themes/gum"
-THEME = "/Users/tom/gitcode/pelican-bootstrap3"
+THEME = "themes/pelican-bootstrap3"
 BOOTSTRAP_THEME = 'flatly'
 BOOTSTRAP_FLUID = False
 
