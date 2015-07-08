@@ -11,7 +11,7 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 SITEURL = 'http://keplerscience.arc.nasa.gov/blog'
-#SITEURL = 'http://mrtommyb.github.io/KeplerBlog'
+#SITEURL = 'http://keplergo.github.io/KeplerBlog'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
