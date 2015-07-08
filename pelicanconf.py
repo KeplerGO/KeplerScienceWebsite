@@ -39,7 +39,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Subscribe', 'http://keplerscience.arc.nasa.gov/NewsExploder.shtml'),
-		('Kepler Science Center', 'http://keplerscience.arc.nasa.gov/'),
+		 ('Kepler Science Center', 'http://keplerscience.arc.nasa.gov/'),
          ('K2 Science Center', 'http://keplerscience.arc.nasa.gov/K2'),
          ('Mission Manager Updates', 'http://www.nasa.gov/mission_pages/kepler/news/mmu.html'),
          ('Old Blog Posts','http://keplerscience.arc.nasa.gov/Blog.shtml'))
