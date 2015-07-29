@@ -1,5 +1,5 @@
-# KeplerBlog
-Blog for the Kepler K2 Science Center
+# Kepler Science Website
+Website for the Kepler and K2 Science Center
 
 ## Usage
 
