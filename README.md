@@ -1,9 +1,14 @@
 # Kepler Science Website
-Website for the Kepler and K2 Science Center
+
+***A website for the Kepler/K2 Science Center
+that doesn't suck™***
 
 ## Usage
 
-Type `make html` to build the website.
+Type `make html` to build a static HTML version of the website.
+
+Type `made devserver` to start a development webserver on your local machine,
+and the point your browser to `localhost:8000`.
 
 ## Installation instructions
 

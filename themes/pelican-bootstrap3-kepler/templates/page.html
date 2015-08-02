@@ -45,20 +45,50 @@
 {% endblock %}
 
 {% block content %}
-    <section id="content" class="body">
-        <h1 class="entry-title">{{ page.title }}</h1>
-        {% import 'includes/translations.html' as translations with context %}
-        {{ translations.translations_for(page) }}
-        {% if PDF_PROCESSOR %}
-            <a href="{{ SITEURL }}/pdf/{{ page.slug }}.pdf">
-                get the pdf
-            </a>
-        {% endif %}
-        <div class="entry-content">
-            {{ page.content }}
-            {% if page.comments == 'enabled' %}
-                {% include 'includes/comments.html' %}
+    {% if page.toc is defined %}
+    <div class="col-sm-9">
+    {% else %}
+    <div class="col-sm-12">
+    {% endif %}
+        <section id="content" class="body">
+            <h1 class="entry-title">{{ page.title }}</h1>
+            {% import 'includes/translations.html' as translations with context %}
+            {{ translations.translations_for(page) }}
+            {% if PDF_PROCESSOR %}
+                <a href="{{ SITEURL }}/pdf/{{ page.slug }}.pdf">
+                    get the pdf
+                </a>
             {% endif %}
-        </div>
-    </section>
+            <div class="entry-content">
+                {{ page.content }}
+                {% if page.comments == 'enabled' %}
+                    {% include 'includes/comments.html' %}
+                {% endif %}
+            </div>
+        </section>
+    </div>
+
+    {% if page.toc is defined %}
+        <nav class="col-sm-3 visible-sm visible-md visible-lg bs-docs-sidebar" id="sidebarCol">
+            <div class="nav nav-stacked fixed" id="mytoc">
+            {{ page.toc }}
+            </div>
+        </nav>
+    {% endif %}
+{% endblock %}
+
+{% block scripts %}
+    {% if page.toc is defined %}
+        <script>
+          $('#mytoc').affix({
+                offset: {
+                  top: 50
+                }
+          });
+          $('body').scrollspy({
+              target: '#sidebarCol',
+              offset: 100
+          });
+        </script>
+    {% endif %}
 {% endblock %}
