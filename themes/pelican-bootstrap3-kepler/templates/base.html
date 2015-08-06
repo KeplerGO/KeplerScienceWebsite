@@ -158,11 +158,18 @@
                 {% endif %}
             </ul>
             
+            {% if RELATEDSITES %}
             <ul class="nav navbar-nav navbar-right">
-            
-              <li><a href="{{ SITEURL }}/{{ ARCHIVES_URL | default('archives.html') }}"><i class="fa fa-external-link"></i><span class="icon-label">Links</span></a></li>
-            
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Related sites <i class="fa fa-external-link"></i></a>
+                    <ul class="dropdown-menu">
+                        {% for title, target in RELATEDSITES %}
+                        <li><a href="{{ target }}">{{ title }}</a></li>
+                        {% endfor %}
+                    </ul>
+                </li>
             </ul>
+            {% endif %}
             
         </div>
         <!-- /.navbar-collapse -->

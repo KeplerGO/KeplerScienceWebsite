@@ -8,7 +8,7 @@ LOAD_CONTENT_CACHE = False
 
 AUTHOR = u'Thomas Barclay'
 SITENAME = u'Kepler &amp; K2'
-BANNER_SUBTITLE = u"Science Website"
+BANNER_SUBTITLE = u"Science Center Website"
 SITEURL = ''
 SITELOGO = 'images/NASA_logo_vector_lg.png'
 SITELOGO_SIZE = 32
@@ -41,14 +41,6 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
-"""
-LINKS = (('Subscribe', 'http://keplerscience.arc.nasa.gov/NewsExploder.shtml'),
-		 ('Kepler Science Center', 'http://keplerscience.arc.nasa.gov/'),
-         ('K2 Science Center', 'http://keplerscience.arc.nasa.gov/K2'),
-         ('Mission Manager Updates', 'http://www.nasa.gov/mission_pages/kepler/news/mmu.html'),
-         ('Old Blog Posts','http://keplerscience.arc.nasa.gov/Blog.shtml'))
-"""
 DISPLAY_BREADCRUMBS = True
 HIDE_SIDEBAR = True
 MD_EXTENSIONS = (['toc'])
@@ -68,6 +60,15 @@ MENUITEMS = (
         ('Data analysis', 'BROKEN'),
         ('Helpdesk', 'BROKEN'),
         )
+
+RELATEDSITES = (
+            ('Kepler Website @ NASA', 'http://www.nasa.gov/mission_pages/kepler/main/index.html'),
+            ('Education &amp; Outreach @ NASA', 'http://kepler.arc.nasa.gov'),
+            ('Mission Manager Updates @ NASA', 'http://www.nasa.gov/mission_pages/kepler/news/mmu.html'),
+            ('K2 Data Archive @ MAST', 'http://archive.stsci.edu/k2'),
+            ('Kepler Data Archive @ MAST', 'http://archive.stsci.edu/kepler'),
+            ('NASA Exoplanet Archive @ IPAC', 'http://exoplanetarchive.ipac.caltech.edu'),
+            )
 
 SHOW_ARTICLE_AUTHOR = True
 
