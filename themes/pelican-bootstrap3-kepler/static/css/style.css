@@ -194,9 +194,9 @@ figure.floatcenter, .align-center {
 
 #banner h1 {
     color: #fff;
-    font-family: "HelveticaNeue-CondensedBold","Helvetica Neue CE 600 Condensed","Helvetica Neue LT Condensed","Helvetica Neue 600 Condensed","HelveticaNeue-BoldCondensed","Helvetica Neue BoldCondensed","Helvetica Neue",Helvetica,Arial,sans-serif;
+    /* font-family: "HelveticaNeue-CondensedBold","Helvetica Neue CE 600 Condensed","Helvetica Neue LT Condensed","Helvetica Neue 600 Condensed","HelveticaNeue-BoldCondensed","Helvetica Neue BoldCondensed","Helvetica Neue",Helvetica,Arial,sans-serif; */
     font-size: 60px;
-    font-stretch: condensed;
+    /*font-stretch: condensed; */
     font-weight: 700;
     line-height: 0.9;
     margin: 0;
@@ -288,7 +288,7 @@ figure.floatcenter, .align-center {
 
 footer {
     font-size: 0.8em;
-    padding: 2em;
+    padding: 1em;
 }
 
 .container-wide {
@@ -301,6 +301,16 @@ footer {
     margin-bottom: 20px;
     padding-top: 10px;
     padding-bottom: 20px;
+}
+
+/* The list groups inside panels on the front page do not need bottom spacing. */
+.panel-body > .list-group {
+    margin-bottom: 0px;
+}
+
+/* Front page panel titles */
+h4.panel-title {
+    font-size: 19px;
 }
 
 
