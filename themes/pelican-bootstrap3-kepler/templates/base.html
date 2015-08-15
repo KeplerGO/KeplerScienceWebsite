@@ -82,6 +82,9 @@
     {% endif %}
     <link href="{{ SITEURL }}/theme/css/font-awesome.min.css" rel="stylesheet">
 
+    <link href="{{ SITEURL }}/theme/css/exoplanet_archive_icons.css" rel="stylesheet">
+    <link href="{{ SITEURL }}/theme/css/mission_icons.css" rel="stylesheet">
+
     <link href="{{ SITEURL }}/theme/css/pygments/{{ PYGMENTS_STYLE|default('native') }}.css" rel="stylesheet">
     {% if 'tipue_search' in PLUGINS %}
     <link href="{{ SITEURL}}/theme/tipuesearch/tipuesearch.css" rel="stylesheet">
@@ -161,7 +164,7 @@
             {% if RELATEDSITES %}
             <ul class="nav navbar-nav navbar-right">
                 <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Related sites <i class="fa fa-external-link"></i></a>
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
                     <ul class="dropdown-menu">
                         {% for title, target in RELATEDSITES %}
                         <li><a href="{{ target }}">{{ title }}</a></li>
@@ -182,6 +185,8 @@
     {% block banner %}{% endblock %}
 {% endif %}
 <!-- End Banner -->
+
+{% block core %}
 <div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
     <div class="row">
         {% if not HIDE_SIDEBAR or ABOUT_ME %}
@@ -209,6 +214,8 @@
         {% endif %}
     </div>
 </div>
+{% endblock core %}
+
 {% include 'includes/footer.html' %}
 
 <script src="{{ SITEURL }}/theme/js/jquery.min.js"></script>

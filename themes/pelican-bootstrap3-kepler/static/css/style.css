@@ -282,6 +282,28 @@ figure.floatcenter, .align-center {
 }
 
 
+/*** KEPLERIFICATION STARTS HERE
+(Changes to pelican-bootstrap below made by Geert for Kepler) 
+***/
+
+footer {
+    font-size: 0.8em;
+    padding: 2em;
+}
+
+.container-wide {
+    background-color: #ECF0F1;
+    width: 100%;
+}
+
+.container-icons {
+    margin-top: -20px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+
 /* ###########
    TABLE OF CONTENTS SIDE BAR
    ########### */

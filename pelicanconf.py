@@ -56,19 +56,42 @@ MENUITEMS = (
             ('Submenu 3', 'BROKEN'),
             )
         ),
-        ('K2 Observing', 'pages/k2-observing.html'),
+        ('K2 observing', 'pages/k2-observing.html'),
         ('Data analysis', 'BROKEN'),
-        ('Helpdesk', 'BROKEN'),
         )
+#  ('Helpdesk', 'BROKEN'),
+
+QUICK_LINKS = (
+            ('K2 Campaigns list', 'http://TBD'),
+            ('Publication database', 'http://TBD'),
+            )
+
+IMPORTANT_DATES = (
+            ('<b>9 Sep 2015</b><br>K2 Sci Con registration deadline', 'http://TBD'),
+            ('<b>10 Feb 2016</b><br>Campaigns 10-12 proposal deadline', 'http://TBD'),
+            ('<b>3 Mar 2016</b><br>Campaign 12 data release', 'http://TBD'),
+         )
+
+MEETINGS = (
+            ('<b>2-6 Nov 2015</b><br>K2 Science Conference', 'http://TBD'),
+            ('<b>12 Dec 2015</b><br>K2 session at the DPS meeting', 'http://TBD'),
+            ('<b>14 Dec 2015</b><br>RR Lyrae stars conference', 'http://TBD'),
+         )
 
 RELATEDSITES = (
             ('Kepler Website @ NASA', 'http://www.nasa.gov/mission_pages/kepler/main/index.html'),
-            ('Education &amp; Outreach @ NASA', 'http://kepler.arc.nasa.gov'),
+            ('Kepler Education &amp; Outreach @ NASA', 'http://kepler.arc.nasa.gov'),
             ('Mission Manager Updates @ NASA', 'http://www.nasa.gov/mission_pages/kepler/news/mmu.html'),
-            ('K2 Data Archive @ MAST', 'http://archive.stsci.edu/k2'),
             ('Kepler Data Archive @ MAST', 'http://archive.stsci.edu/kepler'),
+            ('K2 Data Archive @ MAST', 'http://archive.stsci.edu/k2'),
             ('NASA Exoplanet Archive @ IPAC', 'http://exoplanetarchive.ipac.caltech.edu'),
             )
+
+TWITTER_USERNAME = "KeplerGO"
+TWITTER_WIDGET_ID = "631217672827437056"
+
+DISPLAY_RECENT_POSTS_ON_SIDEBAR = False
+GITHUB_USER = False
 
 SHOW_ARTICLE_AUTHOR = True
 
@@ -76,7 +99,7 @@ SHOW_ARTICLE_AUTHOR = True
 #SOCIAL = (('You can add links in your config file', '#'),
 #          ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True

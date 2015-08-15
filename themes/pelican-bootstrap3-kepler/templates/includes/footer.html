@@ -1,39 +1,31 @@
-<!-- <footer>
-   <div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
-      <hr>
-      <div class="row">
-         {% if articles %}
-            {% set copy_date = articles[0].date.strftime('%Y') %}
-         {% else %}
-            {% set copy_date = '' %}
-         {% endif %}
-         <div class="col-xs-10">&copy; {{ copy_date }} {{ AUTHOR }}
-            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
-            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
-            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>
-            {%- if CC_LICENSE or CC_LICENSE_DERIVATIVES or CC_LICENSE_COMMERCIAL %}
-              {% from 'includes/cc-license.html' import cc_license_mark %}
-              <p><small>{{ cc_license_mark(cc_name=CC_LICENSE,derivatives=CC_LICENSE_DERIVATIVES,commercial=CC_LICENSE_COMMERCIAL,attr_markup=CC_ATTR_MARKUP,attr_props={'title':SITENAME,'name':article.author if article else AUTHOR,'url':SITEURL}) }}</small></p>
-            {% endif %}
-         </div>
-         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
-      </div>
-   </div>
-</footer>
--->
+<div class="container container-wide">
+  <footer>
 
-<footer>
-   <div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
-      <hr>
+     <div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
+      
+      <!-- Related websites -->  
       <div class="row">
-      {% if article %}
+        <div class="col-xs-12">
+          <h5><i class="fa fa-external-link"></i><span class="icon-label">Related websites:</span></h5>
+          {% for name, link in RELATEDSITES %}
+          <a href="{{ link }}" target="_blank">
+                  {{ name }}
+              </a>
+          <br/>
+          {% endfor %}
+        </div>
+      </div>
+
+      <!-- NASA logo and notices -->
+      <div class="row" style="margin-top:2em;">
+        {% if article %}
             {% set copy_date = article.locale_date %}
-         {% elif articles %}
+        {% elif articles %}
             {% set copy_date = articles[0].locale_date %}
-         {% else %}
+        {% else %}
             {% set copy_date = '' %}
-         {% endif %}
-         <div class="col-xs-10"> <a href="http://www.nasa.gov/"><img src="{{ SITEURL }}/images/NASA_logo_vector_lg.png" border="100" width="30" height="30"  alt="NASA Logo"></a> 
+        {% endif %}
+         <div class="col-xs-10"> <a href="http://www.nasa.gov/"><img src="{{ SITEURL }}/images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
          Last modified: {{ copy_date }}
             &middot; Editor: Thomas Barclay &middot; NASA Official: Jessie Dotson 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>
@@ -44,5 +36,7 @@
          </div>
          <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
       </div>
-   </div>
-</footer>
+    </div>
+
+  </footer>
+</div>

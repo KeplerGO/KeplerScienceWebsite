@@ -5,3 +5,126 @@
 {% block banner %}
 	{% include 'includes/banner.html' %}
 {% endblock %}
+
+{% block core %}
+
+<div class="container container-wide container-icons">
+<div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <h2>
+            <a href="survey.shtml">
+            <i class="fa fa-lg fa-flip-horizontal mission-icon-kepler"></i>
+            <span class="icon-label">The mission</span>
+            </a>
+          </h2>
+          <p>
+            Kepler &amp; K2 provide accurate lightcurves for exoplanet and astrophysics research.
+          </p>
+          <p>
+            <a class="btn btn-default" href="survey.shtml">More &raquo;</a>
+          </p>
+        </div>
+        <div class="col-md-4">
+         <h2>
+            <a href="survey.shtml">
+            <i class="fa fa-lg exoplanet-icon-light-curve-borderless"></i>
+            <span class="icon-label">K2 observing</span>
+            </a>
+          </h2>
+          <p>An open call for target proposals is launched every 4 months. US investigators can obtain funding.</p>
+          <p><a class="btn btn-default" href="science.shtml">More &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+         <h2>
+            <a href="survey.shtml">
+            <i class="fa fa-lg exoplanet-icon-planet-multi-borderless"></i>
+            <span class="icon-label">Data analysis</span>
+            </a>
+          </h2>
+          <p>Pixel data and lightcurves are publicly available without proprietary period.</p>
+          <p><a class="btn btn-default" href="data.shtml">More &raquo;</a></p>
+        </div>
+      </div>
+</div>
+</div>
+
+<div class="container">
+
+<div class="row">
+<div class="col-md-8">
+
+<h2 style="padding-bottom:0.3em;">News updates</h2>
+    {% if articles %}
+        {% for article in (articles_page.object_list if articles_page else articles) %}
+            <article>
+                <div style='padding-bottom:0.5em; font-weight:bold;'><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></div>
+                <div class="summary">{{ article.summary }}
+                    {% include 'includes/comment_count.html' %}
+                    <a class="btn btn-default btn-xs" href="{{ SITEURL }}/{{ article.url }}">More &raquo;</a>
+                </div>
+            </article>
+            <hr/>
+        {% endfor %}
+    {% endif %}
+</div>
+
+<div class="col-md-4" id="sidebar">
+<aside>
+<section class="well well-sm">
+<!-- {% include 'includes/sidebar.html' %} -->
+    <ul class="list-group list-group-flush">
+        <li class="list-group-item"><h3><i class="fa fa-link fa-lg"></i><span class="icon-label">Quick links</span></h3>
+          <ul class="list-group" id="links">
+            {% for name, link in QUICK_LINKS %}
+            <li class="list-group-item">
+                <a href="{{ link }}" target="_blank">
+                    {{ name }}
+                </a>
+            </li>
+            {% endfor %}
+          </ul>
+        </li>
+    </ul>
+
+    <ul class="list-group list-group-flush">
+        <li class="list-group-item"><h3><i class="fa fa-calendar fa-lg"></i><span class="icon-label">Important dates</span></h3>
+          <ul class="list-group" id="links">
+            {% for name, link in IMPORTANT_DATES %}
+            <li class="list-group-item">
+                <a href="{{ link }}" target="_blank">
+                    {{ name }}
+                </a>
+            </li>
+            {% endfor %}
+          </ul>
+        </li>
+    </ul>
+
+    <ul class="list-group list-group-flush">
+        <li class="list-group-item"><h3><i class="fa fa-users fa-lg"></i><span class="icon-label">Meetings</span></h3>
+          <ul class="list-group" id="links">
+            {% for name, link in MEETINGS %}
+            <li class="list-group-item">
+                <a href="{{ link }}" target="_blank">
+                    {{ name }}
+                </a>
+            </li>
+            {% endfor %}
+          </ul>
+        </li>
+    </ul>
+
+</section>
+</aside>
+</div>
+
+</div>
+
+<div class="row">
+
+
+</div>
+
+</div>
+{% endblock core %}
