@@ -20,37 +20,42 @@
 <!--Meta Data ends-->
 
 <head>
-    <title>K2 Campaign 3 Data Release - Kepler and K2</title>
+    <title>K2 Campaign 3 data release - Kepler &amp; K2</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
-    <link href="./image/Kepler_K2_logos_transp.png" rel="icon">
+    <link href="http://keplerscience.arc.nasa.gov/blog/image/Kepler_K2_logos_transp.png" rel="icon">
 
-<link rel="canonical" href="./k2-campaign-3-data-release.html">
+<link rel="canonical" href="http://keplerscience.arc.nasa.gov/blog/k2-campaign-3-data-release.html">
 
         <meta name="author" content="Geert Barentsen" />
-        <meta name="description" content="Target Pixels Files and Light Curves from K2 Campaign 3 are now in the process of being transferred to MAST, and work is ongoing to prepare the accompanying data release notes. We hope that the data will become available to the public by the end of next week. The Campaign ..." />
+        <meta name="description" content="Campaign 3 target pixel files, light curves, and full frame images are now available for download from the K2 data archive. The C3 target list included 16,375 standard long cadence and 55 standard short cadence targets. In addition, custom pixel apertures were collected along the trajectories of dwarf planet ..." />
 
-        <meta property="og:site_name" content="Kepler and K2" />
+        <meta property="og:site_name" content="Kepler &amp; K2" />
         <meta property="og:type" content="article"/>
-        <meta property="og:title" content="K2 Campaign 3 Data Release"/>
-        <meta property="og:url" content="./k2-campaign-3-data-release.html"/>
-        <meta property="og:description" content="Target Pixels Files and Light Curves from K2 Campaign 3 are now in the process of being transferred to MAST, and work is ongoing to prepare the accompanying data release notes. We hope that the data will become available to the public by the end of next week. The Campaign ..."/>
-        <meta property="article:published_time" content="2015-07-09" />
+        <meta property="og:title" content="K2 Campaign 3 data release"/>
+        <meta property="og:url" content="http://keplerscience.arc.nasa.gov/blog/k2-campaign-3-data-release.html"/>
+        <meta property="og:description" content="Campaign 3 target pixel files, light curves, and full frame images are now available for download from the K2 data archive. The C3 target list included 16,375 standard long cadence and 55 standard short cadence targets. In addition, custom pixel apertures were collected along the trajectories of dwarf planet ..."/>
+        <meta property="article:published_time" content="2015-07-21" />
             <meta property="article:section" content="K2" />
             <meta property="article:author" content="Geert Barentsen" />
 
 
     <!-- Bootstrap -->
-        <link rel="stylesheet" href="./theme/css/bootstrap.flatly.min.css" type="text/css"/>
-    <link href="./theme/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="http://keplerscience.arc.nasa.gov/blog/theme/css/bootstrap.flatly.min.css" type="text/css"/>
+    <link href="http://keplerscience.arc.nasa.gov/blog/theme/css/font-awesome.min.css" rel="stylesheet">
 
-    <link href="./theme/css/pygments/native.css" rel="stylesheet">
-    <link rel="stylesheet" href="./theme/css/style.css" type="text/css"/>
+    <link href="http://keplerscience.arc.nasa.gov/blog/theme/css/exoplanet_archive_icons.css" rel="stylesheet">
+    <link href="http://keplerscience.arc.nasa.gov/blog/theme/css/mission_icons.css" rel="stylesheet">
 
+    <link href="http://keplerscience.arc.nasa.gov/blog/theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://keplerscience.arc.nasa.gov/blog/theme/css/style.css" type="text/css"/>
+
+        <link href="http://keplerscience.arc.nasa.gov/blog/feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Kepler &amp; K2 ATOM Feed"/>
 
 </head>
 <body>
@@ -64,33 +69,61 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a href="./" class="navbar-brand">
-<img src="./images/NASA_logo_vector_lg.png" width="32"/> Kepler and K2            </a>
+            <a href="http://keplerscience.arc.nasa.gov/blog/" class="navbar-brand">
+<img src="http://keplerscience.arc.nasa.gov/blog/images/NASA_logo_vector_lg.png" width="32"/> Kepler &amp; K2            </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
+                        <li><a href="http://keplerscience.arc.nasa.gov/blog//">News</a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mission <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="http://keplerscience.arc.nasa.gov/blog/BROKEN">Science</a></li>
+                                <li><a href="http://keplerscience.arc.nasa.gov/blog/BROKEN">Submenu 2</a></li>
+                                <li><a href="http://keplerscience.arc.nasa.gov/blog/BROKEN">Submenu 3</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="http://keplerscience.arc.nasa.gov/blog/pages/k2-observing.html">K2 observing</a></li>
+                        <li><a href="http://keplerscience.arc.nasa.gov/blog/BROKEN">Data analysis</a></li>
             </ul>
+            
             <ul class="nav navbar-nav navbar-right">
-              <li><a href="./archives.html"><i class="fa fa-th-list"></i><span class="icon-label">Archives</span></a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="http://www.nasa.gov/mission_pages/kepler/main/index.html">Kepler Website @ NASA</a></li>
+                        <li><a href="http://kepler.arc.nasa.gov">Kepler Education &amp; Outreach @ NASA</a></li>
+                        <li><a href="http://www.nasa.gov/mission_pages/kepler/news/mmu.html">Mission Manager Updates @ NASA</a></li>
+                        <li><a href="http://archive.stsci.edu/kepler">Kepler Data Archive @ MAST</a></li>
+                        <li><a href="http://archive.stsci.edu/k2">K2 Data Archive @ MAST</a></li>
+                        <li><a href="http://exoplanetarchive.ipac.caltech.edu">NASA Exoplanet Archive @ IPAC</a></li>
+                    </ul>
+                </li>
             </ul>
+            
         </div>
         <!-- /.navbar-collapse -->
     </div>
 </div> <!-- /.navbar -->
 <!-- Banner -->
 <!-- End Banner -->
+
 <div class="container">
     <div class="row">
-        <div class="col-sm-9">
+        <div class="col-lg-12">
+            <ol class="breadcrumb">
+                <li><a href="http://keplerscience.arc.nasa.gov/blog" title="Kepler &amp; K2"><i class="fa fa-home fa-lg"></i></a></li>
+                <li class="active">K2 Campaign 3 data release</li>
+            </ol>
 
     <section id="content">
         <article>
             <header class="page-header">
                 <h1>
-                    <a href="./k2-campaign-3-data-release.html"
+                    <a href="http://keplerscience.arc.nasa.gov/blog/k2-campaign-3-data-release.html"
                        rel="bookmark"
-                       title="Permalink to K2 Campaign 3 Data Release">
-                        K2 Campaign 3 Data Release
+                       title="Permalink to K2 Campaign 3 data release">
+                        K2 Campaign 3 data release
                     </a>
                 </h1>
             </header>
@@ -100,107 +133,101 @@
 <footer class="post-info">
     <span class="label label-default">Date</span>
     <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2015-07-09T12:00:00-07:00"> Thu 09 July 2015</time>
+        <i class="fa fa-calendar"></i><time datetime="2015-07-21T10:00:00-07:00"> Tue 21 July 2015</time>
     </span>
             <span class="label label-default">By</span>
-            <a href="./author/geert-barentsen.html"><i class="fa fa-user"></i> Geert Barentsen</a>
+            <a href="http://keplerscience.arc.nasa.gov/blog/author/geert-barentsen.html"><i class="fa fa-user"></i> Geert Barentsen</a>
 
 
 
     
 </footer><!-- /.post-info -->                    </div>
                 </div>
-                <p>Target Pixels Files and Light Curves from K2 Campaign 3
-are now in the process of being transferred to <a href="http://archive.stsci.edu/k2">MAST</a>,
-and work is ongoing to prepare the accompanying data release notes.
-We hope that the data will become available to the public by the end of next week.</p>
-<p>The <a href="http://keplerscience.arc.nasa.gov/K2/GuestInvestigationsC03.shtml">Campaign 3 target list</a> included 16,375 standard long cadence and 55 standard short cadence targets.
-In addition we have included large pixel masks over dwarf planet (225088) 2007 OR10, the planet Neptune and its moon Nereid.</p>
-<p>Keep an eye on this blog for the release announcement.</p>
+                <p>Campaign 3 target pixel files, light curves, and full frame images are now
+available for download from the
+<a href="https://archive.stsci.edu/k2/">K2 data archive</a>.</p>
+<p>The <a href="http://keplerscience.arc.nasa.gov/K2/GuestInvestigationsC03.shtml">C3 target list</a>
+included 16,375 standard long cadence and 55 standard short cadence targets.
+In addition, custom pixel apertures were collected along the trajectories of
+dwarf planet (225088) 2007 OR10, the planet Neptune, and its moon Nereid.</p>
+<p>Data release notes are available at
+<a href="http://keplerscience.arc.nasa.gov/K2/C3drn.shtml">http://keplerscience.arc.nasa.gov/K2/C3drn.shtml</a>.
+We strongly encourage users to read the release notes.
+In particular, we draw attention to the following changes
+in the data processing:</p>
+<ul>
+<li>The background level is now removed from the calibrated pixel flux provided
+by the target pixel files (column FLUX), bringing the K2 TPF files in line
+with those that were previously made available for the prime Kepler mission.</li>
+<li>New quality flags now indicate which cadences were obtained during a thruster firing (column QUALITY).</li>
+<li>Simple Aperture Photometry (SAP_FLUX) and cotrended (PDCSAP_FLUX) light curves are now available for long cadence data.</li>
+</ul>
             </div>
             <!-- /.entry-content -->
         </article>
     </section>
 
         </div>
-        <div class="col-sm-3" id="sidebar">
-            <aside>
-
-<section class="well well-sm">
-    <ul class="list-group list-group-flush">
-
-
-
-    <li class="list-group-item"><h4><i class="fa fa-external-link-square fa-lg"></i><span class="icon-label">Links</span></h4>
-      <ul class="list-group" id="links">
-        <li class="list-group-item">
-            <a href="http://keplerscience.arc.nasa.gov/NewsExploder.shtml" target="_blank">
-                Subscribe
-            </a>
-        </li>
-        <li class="list-group-item">
-            <a href="http://keplerscience.arc.nasa.gov/" target="_blank">
-                Kepler Science Center
-            </a>
-        </li>
-        <li class="list-group-item">
-            <a href="http://keplerscience.arc.nasa.gov/K2" target="_blank">
-                K2 Science Center
-            </a>
-        </li>
-        <li class="list-group-item">
-            <a href="http://www.nasa.gov/mission_pages/kepler/news/mmu.html" target="_blank">
-                Mission Manager Updates
-            </a>
-        </li>
-        <li class="list-group-item">
-            <a href="http://keplerscience.arc.nasa.gov/Blog.shtml" target="_blank">
-                Old Blog Posts
-            </a>
-        </li>
-      </ul>
-    </li>
-    </ul>
-</section>
-            </aside>
-        </div>
     </div>
 </div>
-<!-- <footer>
-   <div class="container">
-      <hr>
-      <div class="row">
-         <div class="col-xs-10">&copy; 2015 Thomas Barclay
-            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
-            <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
-            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
-         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
-      </div>
-   </div>
-</footer>
--->
 
-<footer>
-   <div class="container">
-      <hr>
+<div class="container container-wide">
+  <footer>
+
+     <div class="container">
+      
+      <!-- Related websites -->  
       <div class="row">
-         <div class="col-xs-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" border="100" width="30" height="30"  alt="NASA Logo"></a> 
-         Last modified: Thu 09 July 2015
+        <div class="col-xs-12">
+          <h5><i class="fa fa-external-link"></i><span class="icon-label">Related websites:</span></h5>
+          <a href="http://www.nasa.gov/mission_pages/kepler/main/index.html" target="_blank">
+                  Kepler Website @ NASA
+              </a>
+          <br/>
+          <a href="http://kepler.arc.nasa.gov" target="_blank">
+                  Kepler Education &amp; Outreach @ NASA
+              </a>
+          <br/>
+          <a href="http://www.nasa.gov/mission_pages/kepler/news/mmu.html" target="_blank">
+                  Mission Manager Updates @ NASA
+              </a>
+          <br/>
+          <a href="http://archive.stsci.edu/kepler" target="_blank">
+                  Kepler Data Archive @ MAST
+              </a>
+          <br/>
+          <a href="http://archive.stsci.edu/k2" target="_blank">
+                  K2 Data Archive @ MAST
+              </a>
+          <br/>
+          <a href="http://exoplanetarchive.ipac.caltech.edu" target="_blank">
+                  NASA Exoplanet Archive @ IPAC
+              </a>
+          <br/>
+        </div>
+      </div>
+
+      <!-- NASA logo and notices -->
+      <div class="row" style="margin-top:2em;">
+         <div class="col-xs-10"> <a href="http://www.nasa.gov/"><img src="http://keplerscience.arc.nasa.gov/blog/images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
+         Last modified: Tue 21 July 2015
             &middot; Editor: Thomas Barclay &middot; NASA Official: Jessie Dotson 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
       </div>
-   </div>
-</footer>
-<script src="./theme/js/jquery.min.js"></script>
+    </div>
+
+  </footer>
+</div>
+<script src="http://keplerscience.arc.nasa.gov/blog/theme/js/jquery.min.js"></script>
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="./theme/js/bootstrap.min.js"></script>
+<script src="http://keplerscience.arc.nasa.gov/blog/theme/js/bootstrap.min.js"></script>
 
 <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
-<script src="./theme/js/respond.min.js"></script>
+<script src="http://keplerscience.arc.nasa.gov/blog/theme/js/respond.min.js"></script>
 
-    <script src="./theme/js/bodypadding.js"></script>
+    <script src="http://keplerscience.arc.nasa.gov/blog/theme/js/bodypadding.js"></script>
 
 </body>
 </html>

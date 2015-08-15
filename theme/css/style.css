@@ -280,3 +280,107 @@ figure.floatcenter, .align-center {
   left:70%;
   overflow:hidden; 
 }
+
+
+/*** KEPLERIFICATION STARTS HERE
+(Changes to pelican-bootstrap below made by Geert for Kepler) 
+***/
+
+footer {
+    font-size: 0.8em;
+    padding: 2em;
+}
+
+.container-wide {
+    background-color: #ECF0F1;
+    width: 100%;
+}
+
+.container-icons {
+    margin-top: -20px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+
+/* ###########
+   TABLE OF CONTENTS SIDE BAR
+   ########### */
+
+#mytoc {
+    padding-left: 20px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+
+#mytoc.affix-top {
+    position: absolute;
+    /*top: 50px;*/
+}
+
+#mytoc.affix {
+    top: 50px;
+}
+
+.toc ul {
+    padding: 0;
+    -webkit-padding-start: 0;
+}
+
+.toc li{
+    list-style-type: none;
+}
+
+.toc li>a {
+    /*color: #2a6496; */
+    padding: 4px 10px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.toc li>ul {
+    padding-bottom: 0.5em;
+}
+
+/* nested links */
+.toc li>ul>li>a {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 2em;
+    font-size: 0.8em;
+}
+
+.toc a {
+    border-left: 2px solid transparent;
+}
+
+.toc li>ul>li>a {
+    border-left: 2px solid transparent;
+}
+
+.toc .active>a, 
+.toc a:hover, 
+.toc a:focus {
+    /*color: #2a6496;*/
+    color: #18bc9c;
+    font-weight: 900;      
+    text-decoration: none;          
+    background-color: transparent;  
+    border-left: 2px solid #18bc9c;
+}
+
+.toc li>ul>li.active>a,
+.toc li>ul>li>a:hover,
+.toc li>ul>li>a:focus {
+    border-left: 2px solid #18bc9c; 
+}
+
+/* all active links */
+.toc .active>a, 
+.toc .active:hover>a,
+.toc .active:focus>a {
+    font-weight: 700;
+}
+
