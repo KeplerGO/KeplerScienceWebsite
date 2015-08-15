@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 import os
+import datetime
 
 # Temporary setting while playing with config:
 LOAD_CONTENT_CACHE = False
@@ -61,21 +62,23 @@ MENUITEMS = (
         )
 #  ('Helpdesk', 'BROKEN'),
 
-QUICK_LINKS = (
-            ('K2 Campaigns list', 'http://TBD'),
-            ('Publication database', 'http://TBD'),
+KEY_INFORMATION = (
+            ('K2 Campaign Fields', 'http://TBD'),
+            ('Data Access', 'http://TBD'),
+            ('Recent Publications', 'http://TBD'),
             )
 
 IMPORTANT_DATES = (
-            ('<b>9 Sep 2015</b><br>K2 Sci Con registration deadline', 'http://TBD'),
-            ('<b>10 Feb 2016</b><br>Campaigns 10-12 proposal deadline', 'http://TBD'),
-            ('<b>3 Mar 2016</b><br>Campaign 12 data release', 'http://TBD'),
+            ('<b>18 Sep 2015</b><br>K2 Science Conference abstract and hotel reservation deadline ', 'http://lcogt.net/k2scicon/'),
+            ('<b>28 Sep 2015</b><br>K2 Campaign 4 data release (expected)', ''),
+            ('<b>25 Dec 2015</b><br>K2 Campaign 5 data release (expected)', ''),
+            
          )
 
-MEETINGS = (
-            ('<b>2-6 Nov 2015</b><br>K2 Science Conference', 'http://TBD'),
-            ('<b>12 Dec 2015</b><br>K2 session at the DPS meeting', 'http://TBD'),
-            ('<b>14 Dec 2015</b><br>RR Lyrae stars conference', 'http://TBD'),
+MEETINGS = (('<b>13-15 Oct 2015</b><br>Kepler Exoplanet Populations Hack Week', 'http://keplerscience.arc.nasa.gov/KeplerHackWeek/'),
+            ('<b>18-22 Oct 2015</b><br>RR Lyrae 2015 Conference', 'http://rrl2015.hu/'),
+            ('<b>2-5 Nov 2015</b><br>K2 Science Conference', 'http://lcogt.net/k2scicon/'),
+            ('<b>8-13 Nov 2015</b><br>K2 workshop at the annual DPS meeting', 'http://aas.org/meetings/dps47'),
          )
 
 RELATEDSITES = (
@@ -106,3 +109,5 @@ RELATIVE_URLS = True
 
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
+
+DATE_MODIFIED = datetime.datetime.now().strftime('%Y-%m-%d')

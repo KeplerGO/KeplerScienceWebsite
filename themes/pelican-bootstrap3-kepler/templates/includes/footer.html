@@ -1,4 +1,4 @@
-<div class="container container-wide">
+<div class="container container-wide" style="margin-top: 1.5em;">
   <footer>
 
      <div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
@@ -25,7 +25,7 @@
         {% else %}
             {% set copy_date = '' %}
         {% endif %}
-         <div class="col-xs-10"> <a href="http://www.nasa.gov/"><img src="{{ SITEURL }}/images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
+         <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="{{ SITEURL }}/images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
          Last modified: {{ copy_date }}
             &middot; Editor: Thomas Barclay &middot; NASA Official: Jessie Dotson 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>
@@ -34,7 +34,7 @@
               <p><small>{{ cc_license_mark(cc_name=CC_LICENSE,derivatives=CC_LICENSE_DERIVATIVES,commercial=CC_LICENSE_COMMERCIAL,attr_markup=CC_ATTR_MARKUP,attr_props={'title':SITENAME,'name':article.author if article else AUTHOR,'url':SITEURL}) }}</small></p>
             {% endif %}
          </div>
-         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+         <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
       </div>
     </div>
 

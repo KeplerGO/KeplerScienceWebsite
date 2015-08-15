@@ -1,4 +1,4 @@
-{% extends "article_list.html" %}
+{% extends "base.html" %}
 
 {% block canonical_rel %}<link rel="canonical" href="{{ SITEURL }}">{% endblock %}
 
@@ -22,28 +22,28 @@
             Kepler &amp; K2 provide accurate lightcurves for exoplanet and astrophysics research.
           </p>
           <p>
-            <a class="btn btn-default" href="survey.shtml">More &raquo;</a>
+            <a class="btn btn-primary" href="survey.shtml">More &raquo;</a>
           </p>
         </div>
         <div class="col-md-4">
-         <h2>
+          <h2>
             <a href="survey.shtml">
             <i class="fa fa-lg exoplanet-icon-light-curve-borderless"></i>
             <span class="icon-label">K2 observing</span>
             </a>
           </h2>
           <p>An open call for target proposals is launched every 4 months. US investigators can obtain funding.</p>
-          <p><a class="btn btn-default" href="science.shtml">More &raquo;</a></p>
+          <p><a class="btn btn-primary" href="science.shtml">More &raquo;</a></p>
         </div>
         <div class="col-md-4">
-         <h2>
+          <h2>
             <a href="survey.shtml">
             <i class="fa fa-lg exoplanet-icon-planet-multi-borderless"></i>
             <span class="icon-label">Data analysis</span>
             </a>
           </h2>
           <p>Pixel data and lightcurves are publicly available without proprietary period.</p>
-          <p><a class="btn btn-default" href="data.shtml">More &raquo;</a></p>
+          <p><a class="btn btn-primary" href="data.shtml">More &raquo;</a></p>
         </div>
       </div>
 </div>
@@ -67,64 +67,79 @@
             <hr/>
         {% endfor %}
     {% endif %}
+
+
+ <a class="btn btn-primary" href="archives.html">News archive &raquo;</a>
+  <!-- {% include 'includes/pagination.html' %} -->
 </div>
 
-<div class="col-md-4" id="sidebar">
-<aside>
-<section class="well well-sm">
-<!-- {% include 'includes/sidebar.html' %} -->
-    <ul class="list-group list-group-flush">
-        <li class="list-group-item"><h3><i class="fa fa-link fa-lg"></i><span class="icon-label">Quick links</span></h3>
-          <ul class="list-group" id="links">
-            {% for name, link in QUICK_LINKS %}
-            <li class="list-group-item">
-                <a href="{{ link }}" target="_blank">
-                    {{ name }}
-                </a>
-            </li>
-            {% endfor %}
-          </ul>
-        </li>
+<div class="col-md-4" id="sidebar" style="padding-top:1.5em;">
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h4 class="panel-title"><i class="fa fa-group fa-lg"></i><span class="icon-label">K2 Conference</span></h4>
+  </div>
+  <div class="panel-body">
+    <img src="http://lcogt.net/files/media/k2scicon_web_banner.jpg" class='img-responsive'/><br/>
+    <a class="btn btn-default btn-xs" style="color: white;" href="http://lcogt.net/k2scicon/">Register now &raquo;</a>
+  </div>
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h4 class="panel-title"><i class="fa fa-star fa-lg"></i><span class="icon-label">Key information</span></h3>
+  </div>
+  <div class="panel-body">
+    <ul class="list-group">
+      {% for name, link in KEY_INFORMATION %}
+      <li class="list-group-item">
+          <a href="{{ link }}" target="_blank">
+              {{ name }} &raquo;
+          </a>
+      </li>
+      {% endfor %}
     </ul>
+  </div>
+</div>
 
-    <ul class="list-group list-group-flush">
-        <li class="list-group-item"><h3><i class="fa fa-calendar fa-lg"></i><span class="icon-label">Important dates</span></h3>
-          <ul class="list-group" id="links">
-            {% for name, link in IMPORTANT_DATES %}
-            <li class="list-group-item">
-                <a href="{{ link }}" target="_blank">
-                    {{ name }}
-                </a>
-            </li>
-            {% endfor %}
-          </ul>
-        </li>
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h4 class="panel-title"><i class="fa fa-calendar fa-lg"></i><span class="icon-label">Important dates</span></h4>
+  </div>
+  <div class="panel-body">
+    <ul class="list-group">
+      {% for name, link in IMPORTANT_DATES %}
+      <li class="list-group-item">
+          <a href="{{ link }}" target="_blank">
+              {{ name }}
+          </a>
+      </li>
+      {% endfor %}
     </ul>
+  </div>
+</div>
 
-    <ul class="list-group list-group-flush">
-        <li class="list-group-item"><h3><i class="fa fa-users fa-lg"></i><span class="icon-label">Meetings</span></h3>
-          <ul class="list-group" id="links">
-            {% for name, link in MEETINGS %}
-            <li class="list-group-item">
-                <a href="{{ link }}" target="_blank">
-                    {{ name }}
-                </a>
-            </li>
-            {% endfor %}
-          </ul>
-        </li>
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h4 class="panel-title"><i class="fa fa-group fa-lg"></i><span class="icon-label">Upcoming meetings</span></h4>
+  </div>
+  <div class="panel-body">
+    <ul class="list-group">
+      {% for name, link in MEETINGS %}
+      <li class="list-group-item">
+          <a href="{{ link }}" target="_blank">
+              {{ name }}
+          </a>
+      </li>
+      {% endfor %}
     </ul>
-
-</section>
-</aside>
+  </div>
 </div>
 
 </div>
 
-<div class="row">
-
-
 </div>
+
 
 </div>
 {% endblock core %}
