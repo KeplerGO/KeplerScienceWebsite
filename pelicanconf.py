@@ -52,21 +52,21 @@ PLUGINS = ['extract_toc']
 MENUITEMS = (
         ('News', '/'),
         ('Mission', (
-            ('Submenu 1', 'pages/k2-observing.html'),
-            ('Submenu 2', 'pages/k2-observing.html'),
-            ('Submenu 3', 'pages/k2-observing.html'),
+            ('Submenu 1', '/pages/k2-observing.html'),
+            ('Submenu 2', '/pages/k2-observing.html'),
+            ('Submenu 3', '/pages/k2-observing.html'),
             )
         ),
         ('K2 observing', (
-            ('Submenu 1', 'pages/k2-observing.html'),
-            ('Submenu 2', 'pages/k2-observing.html'),
-            ('Submenu 3', 'pages/k2-observing.html'),
+            ('Submenu 1', '/pages/k2-observing.html'),
+            ('Submenu 2', '/pages/k2-observing.html'),
+            ('Submenu 3', '/pages/k2-observing.html'),
             )
         ),
         ('Data analysis', (
-            ('Submenu 1', 'pages/k2-observing.html'),
-            ('Submenu 2', 'pages/k2-observing.html'),
-            ('Submenu 3', 'pages/k2-observing.html'),
+            ('Submenu 1', '/pages/k2-observing.html'),
+            ('Submenu 2', '/pages/k2-observing.html'),
+            ('Submenu 3', '/pages/k2-observing.html'),
             )
         ),
         )
