@@ -13,7 +13,7 @@ BANNER_SUBTITLE = u"Science Center Website"
 SITEURL = ''
 SITELOGO = 'images/NASA_logo_vector_lg.png'
 SITELOGO_SIZE = 32
-FAVICON = 'image/Kepler_K2_logos_transp.png'
+FAVICON = 'images/Kepler_K2_logos_transp.png'
 
 PATH = 'content'
 
@@ -51,14 +51,14 @@ PLUGINS = ['extract_toc']
 
 MENUITEMS = (
         ('News', '/'),
-        ('Mission', (
+        ('The missions', (
             ('Submenu 1', '/pages/k2-observing.html'),
             ('Submenu 2', '/pages/k2-observing.html'),
             ('Submenu 3', '/pages/k2-observing.html'),
             )
         ),
-        ('K2 observing', (
-            ('Submenu 1', '/pages/k2-observing.html'),
+        ('K2 Observing', (
+            ('Campaign fields', '/pages/k2-campaign-fields.html'),
             ('Submenu 2', '/pages/k2-observing.html'),
             ('Submenu 3', '/pages/k2-observing.html'),
             )
@@ -112,7 +112,7 @@ SHOW_ARTICLE_AUTHOR = True
 #SOCIAL = (('You can add links in your config file', '#'),
 #          ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = 5
+DEFAULT_PAGINATION = 6
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
