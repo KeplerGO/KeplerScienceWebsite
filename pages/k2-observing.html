@@ -17,7 +17,7 @@ using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2015-08-17" />
+    <meta name="dc.date.modified" content="2015-08-20" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -29,7 +29,7 @@ using pelican-bootstrap and flatly.
     <meta name="webmaster" content="Thomas.Barclay">
 
 
-    <link href="../image/Kepler_K2_logos_transp.png" rel="icon">
+    <link href="../images/Kepler_K2_logos_transp.png" rel="icon">
 
 <link rel="canonical" href="../pages/k2-observing.html">
 
@@ -75,7 +75,7 @@ using pelican-bootstrap and flatly.
             <ul class="nav navbar-nav">
                         <li><a href="..//">News</a></li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mission <b class="caret"></b></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">The missions <b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li><a href="..//pages/k2-observing.html">Submenu 1</a></li>
                                 <li><a href="..//pages/k2-observing.html">Submenu 2</a></li>
@@ -83,9 +83,9 @@ using pelican-bootstrap and flatly.
                             </ul>
                         </li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">K2 observing <b class="caret"></b></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">K2 Observing <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="..//pages/k2-observing.html">Submenu 1</a></li>
+                                <li><a href="..//pages/k2-campaign-fields.html">Campaign fields</a></li>
                                 <li><a href="..//pages/k2-observing.html">Submenu 2</a></li>
                                 <li><a href="..//pages/k2-observing.html">Submenu 3</a></li>
                             </ul>
@@ -236,6 +236,28 @@ The 116 square degree field of view is near-continuously monitored with 92% duty
 <script src="../theme/js/respond.min.js"></script>
 
     <script src="../theme/js/bodypadding.js"></script>
+
+<script>
+    $(function(){
+    $(".dropdown").hover(
+            function() {
+                $('.dropdown-menu', this).stop( true, true );
+                $(this).toggleClass('open');
+                $('b', this).toggleClass("caret caret-up");                
+            },
+            function() {
+                $('.dropdown-menu', this).stop( true, true );
+                $(this).toggleClass('open');
+                $('b', this).toggleClass("caret caret-up");                
+            });
+
+    $(".dropdown").click(
+      function() {
+         
+      }
+       );
+    });
+</script>
 
         <script>
           $('#mytoc').affix({

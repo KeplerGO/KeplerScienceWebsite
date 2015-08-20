@@ -52,8 +52,6 @@ using pelican-bootstrap and flatly.
     <link href="./theme/css/pygments/native.css" rel="stylesheet">
     <link rel="stylesheet" href="./theme/css/style.css" type="text/css"/>
 
-        <link href="./feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
-              title="Kepler &amp; K2 ATOM Feed"/>
 
 </head>
 <body>
@@ -74,7 +72,7 @@ using pelican-bootstrap and flatly.
             <ul class="nav navbar-nav">
                         <li><a href=".//">News</a></li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mission <b class="caret"></b></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">The missions <b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li><a href=".//pages/k2-observing.html">Submenu 1</a></li>
                                 <li><a href=".//pages/k2-observing.html">Submenu 2</a></li>
@@ -132,7 +130,7 @@ using pelican-bootstrap and flatly.
         <div class="col-md-4">
           <h2>
             <a href="pages/k2-observing.html">
-            <i class="fa fa-lg fa-flip-horizontal mission-icon-kepler fa-spin"></i>
+            <i class="fa fa-lg fa-flip-horizontal mission-icon-kepler"></i>
             <span class="icon-label">The missions</span>
             </a>
           </h2>
@@ -201,6 +199,66 @@ using pelican-bootstrap and flatly.
 
 <div class="col-md-4" id="sidebar" style="padding-top:1.5em;">
 
+
+<div class="panel panel-default visible-sm visible-md visible-lg">
+  <div class="panel-heading">
+    <h4 class="panel-title"><i class="fa fa-star fa-lg"></i><span class="icon-label">Recent science</span></h4>
+  </div>
+  <div class="panel-body zeropadding">
+
+<!-- Carousel
+================================================== -->
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+  </ol>
+  <div class="carousel-inner">
+
+    <div class="item active">
+      <img src="http://spaceplace.nasa.gov/review/build-a-spacecraft/kepler.png" alt="VPHAS+ footprint" class="img-responsive">
+      <div class="container">
+        <div class="carousel-caption">
+          <h1>The VST Photometric Hα Survey
+          of the Southern Galactic Plane and Bulge (VPHAS+)</h1>
+          <p class="lead">
+            <a class="btn btn-primary pull-right" href="survey.shtml">Read the survey description &raquo;</a>
+             VPHAS+ is imaging the Southern Milky Way in visible light (u, g, r, i, Hα) at ~1 arcsecond resolution down to &gt;20th magnitude.
+          </p>
+        </div>
+      </div>
+      <div class="carousel-credit">
+        <p>Image: ESO/S. Brunier</p>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="http://spaceplace.nasa.gov/review/build-a-spacecraft/kepler.png" alt="VPHAS+" class="img-responsive">
+      <div class="container">
+        <div class="carousel-caption">
+          <h1>News: image gallery updated</h1>
+          <p class="lead">
+            <a class="btn btn-primary pull-right" href="gallery.shtml">View the gallery &raquo;</a>
+            New images which demonstrate the quality of the VPHAS+ data, including observations towards Baade's Window, have been added to the gallery.
+          </p>
+        </div>
+      </div>
+      <div class="carousel-credit">
+        <p>Image: Baade's Window (VPHAS+/G. Barentsen)</p>
+      </div>
+    </div>
+
+
+  </div>
+  <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
+  <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+</div><!-- / carousel -->
+
+  </div>
+</div>
+
+
 <div class="panel panel-default">
   <div class="panel-heading">
     <h4 class="panel-title"><i class="fa fa-group fa-lg"></i><span class="icon-label">K2 Conference</span></h4>
@@ -213,7 +271,7 @@ using pelican-bootstrap and flatly.
 
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h4 class="panel-title"><i class="fa fa-star fa-lg"></i><span class="icon-label">Key information</span></h3>
+    <h4 class="panel-title"><i class="fa fa-paperclip fa-lg"></i><span class="icon-label">Key information</span></h3>
   </div>
   <div class="panel-body">
     <ul class="list-group">
@@ -356,5 +414,14 @@ using pelican-bootstrap and flatly.
 
     <script src="./theme/js/bodypadding.js"></script>
 
+<script>
+  !function ($) {
+    $(function(){
+      $('#myCarousel').carousel({
+        interval: 8000
+        })
+    })
+  }(window.jQuery)
+</script>
 </body>
 </html>
