@@ -313,6 +313,24 @@ h4.panel-title {
     font-size: 19px;
 }
 
+/* Front page carousel panel body needs no padding */
+.zeropadding {
+    padding:0px;
+}
+
+/* We changed the submenu hovering behaviour*/
+.caret-up {
+    width: 0; 
+    height: 0; 
+    border-left: 4px solid rgba(0, 0, 0, 0);
+    border-right: 4px solid rgba(0, 0, 0, 0);
+    border-bottom: 4px solid;
+    
+    display: inline-block;
+    margin-left: 2px;
+    vertical-align: middle;
+}
+
 
 /* ###########
    TABLE OF CONTENTS SIDE BAR
@@ -394,3 +412,112 @@ h4.panel-title {
     font-weight: 700;
 }
 
+
+/*=================
+  CAROUSEL 
+===================*/
+
+.carousel {
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.carousel {
+  background-color: #fff;
+}
+
+.carousel .container {
+  position: relative;
+  z-index: 9;
+  padding-left: 0px;
+  padding-right: 0px;
+  width: 100%;
+}
+
+.carousel .glyphicon-chevron-left,
+.carousel .glyphicon-chevron-right {
+    top: 55%;
+}
+
+.carousel .glyphicon-chevron-left {
+    left: 25%;
+}
+
+.carousel .glyphicon-chevron-right {
+    right: 25%;
+}
+
+.carousel-indicators {
+    bottom: 5px;
+}
+
+.carousel .item {
+    height: 175px;
+}
+
+/*
+.carousel img {
+  position: absolute;
+  top: 0;
+  left: 0; 
+  min-width: 100%;
+  padding-top: 2em;
+} */
+
+.carousel-caption {
+  background-color: rgba(236, 240, 241, 0.6);  /* rgba(0,0,0, 0.6); */
+  position: static;
+  padding: 0px 20px 10px 20px;
+  margin-top: 0px;
+  margin-left: 0px;
+  text-align: left;
+}
+
+.carousel-caption h1,
+.carousel-caption .lead {
+  text-align: left;
+  margin: 0;
+  line-height: 1.25;
+  /*color: #fff; 
+  text-shadow: 0 1px 1px rgba(0,0,0,.5); */
+}
+
+.carousel-caption h1 {
+  font-size:1.2em;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  font-weight: 700;
+}
+
+/*
+.carousel-caption p {
+  font-size:1.15em;
+}
+
+
+.carousel-caption .btn {
+  margin-top: 0.1em;
+  margin-left: 2em;
+  font-size: 1.0em;
+  padding: 8px;
+}*/
+
+
+.carousel-control.left {
+    background-image: -webkit-linear-gradient(left, rgba(236,240,241,0.9) 0, rgba(236,240,241,0.0001) 100%);
+    background-image: -o-linear-gradient(left, rgba(236,240,241,0.9) 0, rgba(236,240,241,0.0001) 100%);
+    background-image: linear-gradient(to right, rgba(236,240,241,0.9) 0, rgba(236,240,241,0.0001) 100%);
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#80ecf0f1', endColorstr='#00ecf0f1', GradientType=1);
+}
+
+.carousel-control.right {
+    left: auto;
+    right: 0;
+    background-image: -webkit-linear-gradient(left, rgba(236,240,241,0.0001) 0, rgba(236,240,241,0.9) 100%);
+    background-image: -o-linear-gradient(left, rgba(236,240,241,0.0001) 0, rgba(236,240,241,0.9) 100%);
+    background-image: linear-gradient(to right, rgba(236,240,241,0.0001) 0, rgba(236,240,241,0.9) 100%);
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00ecf0f1', endColorstr='#80ecf0f1', GradientType=1);
+}
