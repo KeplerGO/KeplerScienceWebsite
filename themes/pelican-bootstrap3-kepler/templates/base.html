@@ -231,27 +231,6 @@ using pelican-bootstrap and flatly.
 {% include 'includes/ga.html' %}
 {% include 'includes/piwik.html' %}
 
-<script>
-    $(function(){
-    $(".dropdown").hover(
-            function() {
-                $('.dropdown-menu', this).stop( true, true );
-                $(this).toggleClass('open');
-                $('b', this).toggleClass("caret caret-up");                
-            },
-            function() {
-                $('.dropdown-menu', this).stop( true, true );
-                $(this).toggleClass('open');
-                $('b', this).toggleClass("caret caret-up");                
-            });
-
-    $(".dropdown").click(
-      function() {
-                $(this).toggleClass('open');
-            }
-       );
-    });
-</script>
 
 {% block scripts %}{% endblock %}
 </body>

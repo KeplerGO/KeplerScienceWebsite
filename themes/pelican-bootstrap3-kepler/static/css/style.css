@@ -318,19 +318,6 @@ h4.panel-title {
     padding:0px;
 }
 
-/* We changed the submenu hovering behaviour*/
-.caret-up {
-    width: 0; 
-    height: 0; 
-    border-left: 4px solid rgba(0, 0, 0, 0);
-    border-right: 4px solid rgba(0, 0, 0, 0);
-    border-bottom: 4px solid;
-    
-    display: inline-block;
-    margin-left: 2px;
-    vertical-align: middle;
-}
-
 
 /* ###########
    TABLE OF CONTENTS SIDE BAR
