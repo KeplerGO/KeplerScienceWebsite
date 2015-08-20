@@ -42,7 +42,8 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-DISPLAY_BREADCRUMBS = True
+DISPLAY_BREADCRUMBS = False
+
 HIDE_SIDEBAR = True
 MD_EXTENSIONS = (['toc'])
 
@@ -50,32 +51,32 @@ PLUGIN_PATHS = [os.path.join(os.path.dirname(os.path.realpath(__file__)), "plugi
 PLUGINS = ['extract_toc']
 
 MENUITEMS = (
-        ('News', '/'),
+        ('News', ''),
         ('The missions', (
-            ('Submenu 1', '/pages/k2-observing.html'),
-            ('Submenu 2', '/pages/k2-observing.html'),
-            ('Submenu 3', '/pages/k2-observing.html'),
+            ('Submenu 1', 'pages/k2-observing.html'),
+            ('Submenu 2', 'pages/k2-observing.html'),
+            ('Submenu 3', 'pages/k2-observing.html'),
             )
         ),
         ('K2 Observing', (
-            ('Campaign fields', '/pages/k2-campaign-fields.html'),
-            ('Submenu 2', '/pages/k2-observing.html'),
-            ('Submenu 3', '/pages/k2-observing.html'),
+            ('Campaign fields', 'pages/k2-campaign-fields.html'),
+            ('Submenu 2', 'pages/k2-observing.html'),
+            ('Submenu 3', 'pages/k2-observing.html'),
             )
         ),
         ('Data analysis', (
-            ('Submenu 1', '/pages/k2-observing.html'),
-            ('Submenu 2', '/pages/k2-observing.html'),
-            ('Submenu 3', '/pages/k2-observing.html'),
+            ('Submenu 1', 'pages/k2-observing.html'),
+            ('Submenu 2', 'pages/k2-observing.html'),
+            ('Submenu 3', 'pages/k2-observing.html'),
             )
         ),
         )
 #  ('Helpdesk', 'BROKEN'),
 
 KEY_INFORMATION = (
-            ('K2 Campaign Fields', 'http://TBD'),
-            ('Data Access', 'http://TBD'),
-            ('Recent Publications', 'http://TBD'),
+            ('K2 Campaign fields', 'pages/k2-campaign-fields.html'),
+            ('Data access', 'http://TBD'),
+            ('Recent publications', 'http://TBD'),
             )
 
 IMPORTANT_DATES = (
