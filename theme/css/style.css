@@ -318,6 +318,18 @@ h4.panel-title {
     padding:0px;
 }
 
+.fa-margin {
+    margin-right: 0.3em;
+}
+
+/* Avoid links in tables having two lines */
+.table a:not(.btn) {
+    text-decoration: none;
+}
+
+.entry-content a.btn, .entry-content a.btn:hover {
+    border-bottom: 0px;
+}
 
 /* ###########
    TABLE OF CONTENTS SIDE BAR
