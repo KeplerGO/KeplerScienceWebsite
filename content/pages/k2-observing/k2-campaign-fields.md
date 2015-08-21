@@ -4,7 +4,7 @@ Save_as: fields.html
 This page details the fields of view of the K2 mission.
 
 
-![K2 campaign fields on the sky]({filename}/images/k2/CampaignSky.png)
+![K2 campaign fields on the sky]({filename}/images/k2/CampaignSkyII.png)
 
 
 <div class="panel panel-primary">
