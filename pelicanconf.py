@@ -59,9 +59,9 @@ MENUITEMS = (
             )
         ),
         ('K2 Observing', (
-            ('Campaign fields', 'pages/k2-campaign-fields.html'),
-            ('Submenu 2', 'pages/k2-observing.html'),
-            ('Submenu 3', 'pages/k2-observing.html'),
+            ('Photometric performance', 'pages/photometric-performance.html'),
+            ('Campaign fields', 'fields.html'),
+            ('How to propose targets?', 'k2-proposing-targets.html'),
             )
         ),
         ('Data analysis', (
