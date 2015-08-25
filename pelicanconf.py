@@ -50,6 +50,8 @@ MD_EXTENSIONS = (['toc'])
 PLUGIN_PATHS = [os.path.join(os.path.dirname(os.path.realpath(__file__)), "plugins")]
 PLUGINS = ['extract_toc']
 
+STATIC_PATHS = (['images', 'data'])
+
 MENUITEMS = (
         ('News', ''),
         ('The missions', (
