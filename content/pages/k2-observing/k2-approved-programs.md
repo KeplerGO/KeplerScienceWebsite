@@ -3,7 +3,7 @@ Save_as: k2-approved-programs.html
 
 [TOC]
 
-## Campaign 0
+## Campaign 0 (Mar 8 - May 30, 2014)
 <hr/>
 
 <i class="fa fa-calendar fa-margin"></i> Mar 8 - May 30, 2014
@@ -1368,7 +1368,7 @@ Save_as: k2-approved-programs.html
 
 
 
-## Campaign 1
+## Campaign 1 (May 30 - Aug 21, 2014)
 <hr/>
 
 (May 30-Aug 21, 2014)</a></span>
