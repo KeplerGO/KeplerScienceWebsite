@@ -3,21 +3,20 @@
 ***A website for the Kepler/K2 Science Center
 that doesn't suck™***
 
+Preview: http://keplergo.github.io/KeplerScienceWebsite/
+
 ## Usage
 
-Type `make html` to build a static HTML version of the website.
-
-Type `made devserver` to start a development webserver on your local machine,
+* `make html` to build a static HTML version of the website.
+* `make devserver` to start a development webserver on your local machine,
 and the point your browser to `localhost:8000`.
-
-Type `made github` to deploy the website to the demonstration server ( http://keplergo.github.io/KeplerScienceWebsite/ ).
+* `make github` to deploy the website to the preview server.
 
 ## Installation instructions
 
 You will need to ensure that `markdown` and `beautifulsoup4` are installed, e.g. using:
 ```
-pip install markdown
-pip install beautifulsoup4
+pip install markdown beautifulsoup4
 ```
 
 If `markdown` is not installed, you may only see a cryptic warning message (e.g. `No valid files found in content.`) when running `make html`.
