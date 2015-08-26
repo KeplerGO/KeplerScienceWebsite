@@ -47,11 +47,13 @@ DISPLAY_BREADCRUMBS = False
 HIDE_SIDEBAR = True
 MD_EXTENSIONS = (['toc'])
 
+STATIC_PATHS = ['images']
+
 PLUGIN_PATHS = [os.path.join(os.path.dirname(os.path.realpath(__file__)), "plugins")]
 PLUGINS = ['extract_toc']
 
 MENUITEMS = (
-        ('News', ''),
+        ('News', 'archives.html'),
         ('The missions', (
             ('Submenu 1', 'pages/k2-observing.html'),
             ('Submenu 2', 'pages/k2-observing.html'),
