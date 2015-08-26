@@ -55,6 +55,8 @@ PAGE_EXCLUDES = ['pages/k2-observing/approved-programs']
 PLUGIN_PATHS = [os.path.join(os.path.dirname(os.path.realpath(__file__)), "plugins")]
 PLUGINS = ['extract_toc']
 
+STATIC_PATHS = (['images', 'data'])
+
 MENUITEMS = (
         ('News', 'archives.html'),
         ('The missions', (
