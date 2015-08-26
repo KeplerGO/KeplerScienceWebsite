@@ -1,4 +1,5 @@
 Title: Photometric performance
+Save_as: k2-photometric-performance.html
 
 [TOC]
 

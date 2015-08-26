@@ -1,6 +1,5 @@
 Title: K2 observing
-Date: 2015-07-21 10:00
-Author: Geert Barentsen
+Save_as: k2-observing.html
 
 [TOC]
 
