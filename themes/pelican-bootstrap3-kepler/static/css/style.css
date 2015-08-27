@@ -331,6 +331,11 @@ h4.panel-title {
     border-bottom: 0px;
 }
 
+/* Avoid links in titles being underlined. */
+a.toc-backref {
+    border-bottom: 0px;
+}
+
 /* ###########
    TABLE OF CONTENTS SIDE BAR
    ########### */

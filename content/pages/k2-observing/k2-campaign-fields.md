@@ -1,5 +1,5 @@
 Title: K2 Campaign fields
-Save_as: fields.html
+Save_as: k2-fields.html
 
 This page details the fields of view of the K2 mission.
 
