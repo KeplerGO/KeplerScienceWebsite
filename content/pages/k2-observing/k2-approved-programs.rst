@@ -18,12 +18,15 @@ Campaign 2 (Aug 2014)
 
 Campaign 3 (Nov 2014)
 ---------------------
+.. include:: approved-programs/c3.html
 
 Campaign 4 (Feb 2015)
 ---------------------
+.. include:: approved-programs/c4.html
 
 Campaign 5 (Apr 2015)
 ---------------------
+.. include:: approved-programs/c5.html
 
 Campaign 6 (Jul 2015)
 ---------------------
