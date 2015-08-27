@@ -47,13 +47,18 @@ DISPLAY_BREADCRUMBS = False
 HIDE_SIDEBAR = True
 MD_EXTENSIONS = (['toc'])
 
+STATIC_PATHS = ['images', 'data']
+
+# Directories that contain html files we want to exclude (because they are included indirectly)
+PAGE_EXCLUDES = ['pages/k2-observing/approved-programs']
+
 PLUGIN_PATHS = [os.path.join(os.path.dirname(os.path.realpath(__file__)), "plugins")]
 PLUGINS = ['extract_toc']
 
 STATIC_PATHS = (['images', 'data'])
 
 MENUITEMS = (
-        ('News', ''),
+        ('News', 'archives.html'),
         ('The missions', (
             ('Submenu 1', 'pages/k2-observing.html'),
             ('Submenu 2', 'pages/k2-observing.html'),
@@ -61,8 +66,9 @@ MENUITEMS = (
             )
         ),
         ('K2 observing', (
-            ('Photometric performance', 'pages/photometric-performance.html'),
-            ('Campaign fields', 'fields.html'),
+            ('Overview', 'k2-observing.html'),
+            ('Photometric performance', 'k2-photometric-performance.html'),
+            ('Campaign fields', 'k2-fields.html'),
             ('How to propose targets?', 'k2-proposing-targets.html'),
             ('Approved programs', 'k2-approved-programs.html'),
             )
