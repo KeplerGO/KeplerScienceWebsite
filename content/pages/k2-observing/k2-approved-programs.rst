@@ -1,5 +1,5 @@
-K2 approved programs
-####################
+K2 approved targets & programs
+##############################
 :save_as: k2-approved-programs.html
 
 .. contents::
@@ -10,10 +10,11 @@ Campaign 0 (Mar 2014)
 
 Campaign 1 (May 2014)
 ---------------------
-.. include:: approved-programs/c0.html
+.. include:: approved-programs/c1.html
 
 Campaign 2 (Aug 2014)
 ---------------------
+.. include:: approved-programs/c2.html
 
 Campaign 3 (Nov 2014)
 ---------------------
