@@ -67,10 +67,10 @@ MENUITEMS = (
         ),
         ('K2 observing', (
             ('Overview', 'k2-observing.html'),
-            ('Photometric performance', 'k2-photometric-performance.html'),
             ('Campaign fields', 'k2-fields.html'),
+            ('Photometric performance', 'k2-photometric-performance.html'),
+            ('Targets & programs', 'k2-approved-programs.html'),
             ('How to propose targets?', 'k2-proposing-targets.html'),
-            ('Approved programs', 'k2-approved-programs.html'),
             )
         ),
         ('Data analysis', (
@@ -83,7 +83,9 @@ MENUITEMS = (
 #  ('Helpdesk', 'BROKEN'),
 
 KEY_INFORMATION = (
-            ('K2 Campaign fields', 'pages/k2-campaign-fields.html'),
+            ('K2 Campaign fields', 'k2-fields.html'),
+            ('K2 Approved targets', 'k2-approved-programs.html'),
+            ('K2 Target proposals', 'k2-proposing-targets.html'),
             ('Data access', 'http://TBD'),
             ('Recent publications', 'http://TBD'),
             )

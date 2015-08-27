@@ -4,14 +4,14 @@
     {% if DISPLAY_BREADCRUMBS %}
     <ol class="breadcrumb">
         <li><a href="{{ SITEURL }}" title="{{ SITENAME }}"><i class="fa fa-home fa-lg"></i></a></li>
-        <li class="active">News archive</li>
+        <li class="active">News updates</li>
     </ol>
     {% endif %}
 {% endblock %}
 
 {% block content %}
     <section id="content">
-        <h1>News archive</h1>
+        <h1>News updates</h1>
         <div id="archives">
             {% for article in dates %}
                 <p>
