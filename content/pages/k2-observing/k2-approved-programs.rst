@@ -4,6 +4,15 @@ K2 approved targets & programs
 
 .. contents::
 
+This page details the targets and programs that have been selected
+as part of the `Guest Observer Program <k2-proposing-targets.html>`_.
+
+The target list and approved programs are posted on this page
+as soon as the mission team has prepared the final target list
+for upload to the spacecraft, which happens 1-2 months before the start
+of a campaign.  The details of the approved programs are added
+when a campaign's data is released.
+
 Campaign 0 (Mar 2014)
 ---------------------
 .. include:: approved-programs/c0.html
@@ -30,3 +39,8 @@ Campaign 5 (Apr 2015)
 
 Campaign 6 (Jul 2015)
 ---------------------
+.. include:: approved-programs/c6.html
+
+Campaign 7 (Oct 2015)
+---------------------
+Coming soon.

@@ -1,6 +1,8 @@
 Title: How to propose targets for K2?
 Save_as: k2-proposing-targets.html
 
+[TOC]
+
 ## Campaigns 8-9-10 (Jan-Sep 2016)
       
 Final pointings for <a href="fields.shtml#8">Campaign 8</a> (RA = 01:05:21.12, Dec = +05:15:44.45), <a href="fields.shtml#9">Campaign 9</a> (RA = 18:01:25.08, Dec = -21:46:47.32) and <a href="fields.shtml#10">Campaign 10</a> (RA = 12:27:07.07, Dec = -04:01:37.8) have been set. We are requesting the community propose the targets to observe during Campaigns 8 and 10, while they propose to join the a Microlensing Science Team for Campaign 9.
@@ -55,3 +57,12 @@ Final pointings for <a href="fields.shtml#8">Campaign 8</a> (RA = 01:05:21.12, D
         * Provide the administrative elements of the proposal including a proposer biographical information, and a statement of current and pending financial support.
 
     * <a href="ProposalPreparationSubmit.shtml"> Submit</a> Step 2 of the proposal to NSPIRES before <font color=red> 23:59 EST on July 01, 2015.</font>
+
+
+## Director's Discretionary Time
+
+A small part of the pixel budget may be allocated by the project as Director's Discretionary Time (DDT),
+which is intended to facilitate observations that address
+scientific topics missed in the proposal review process.
+Investigators wishing to request DDT can contact 
+[keplergo@mail.arc.nasa.gov](keplergo@mail.arc.nasa.gov)

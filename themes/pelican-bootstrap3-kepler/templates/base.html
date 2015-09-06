@@ -117,8 +117,19 @@ using pelican-bootstrap and flatly.
 </head>
 <body>
 
+<!-- Print a warning message that this is not the official site -->
+{% if DEVMODE %}
+<div class="container container-wide" style="background-color: #e74c3c; color: white; padding: 1.5em; font-weight: bold;">
+  <div class="container">
+   <i class="fa fa-warning fa-lg fa-margin"></i>
+    This is a development preview of the new Kepler science website.  For the operational website, visit <a href="http://keplerscience.arc.nasa.gov/">http://keplerscience.arc.nasa.gov</a> instead.
+  </div>
+</div>
+{% endif %}
+
 <div class="navbar {% if BOOTSTRAP_NAVBAR_INVERSE %}navbar-inverse{% else %}navbar-default{% endif %} navbar-fixed-top" role="navigation">
-	<div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
+
+  <div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
                 <span class="sr-only">Toggle navigation</span>
@@ -166,7 +177,7 @@ using pelican-bootstrap and flatly.
             {% if RELATEDSITES %}
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <a href="{{ SITEURL }}/pages/helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
+                    <a href="{{ SITEURL }}/helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
                 </li>
             </ul>
             {% endif %}
