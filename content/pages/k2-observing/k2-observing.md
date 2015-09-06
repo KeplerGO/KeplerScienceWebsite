@@ -1,7 +1,8 @@
 Title: K2 observing
 Save_as: k2-observing.html
 
-*The K2 mission provides an opportunity to continue Kepler’s ground-breaking discoveries in the field of exoplanets and expand its role into new and exciting astrophysical observations.*
+<div class="well"><i>
+The K2 mission provides an opportunity to continue Kepler’s ground-breaking discoveries in the field of exoplanets and expand its role into new and exciting astrophysical observations.</i></div>
 
 ### Extending Kepler's power to the ecliptic
 
@@ -12,6 +13,44 @@ In Jun 2014, K2 became fully operational, obtaining a photometric precision appr
 ### A community-driven mission
 
 All K2 targets are proposed by the community through the [Guest Observer Program](k2-proposing-targets.html). The K2 mission welcomes all proposals including, but not exclusive to, exoplanet, stellar, extragalactic and solar system science.
+
+### K2 science motivations and potential
+
+Provide a yield of hot planets around bright stars for follow-up transit spectroscopy in order to facilitate rapid advances in exoplanet atmosphere chemistry and the search for water, clouds and greenhouse gases
+
+Provide a yield of small planets around bright and small stars in order to facilitate the most precise follow-up measurements to date of masses, densities and compositions
+
+Identify locations and characteristics of potentially-habitable planets around bright M-dwarfs in the solar neighborhood
+
+Determine if hot gas giants exist around young stars, or whether they migrate to small orbits at a later epoch by tidal or other interactions
+
+Determine the relationship between stellar structure, rotation and activity within stellar associations over a range of ages and metallicity
+
+Identify the progenitors of Type Ia supernovae from photometric structure in the rise to outburst maximum
+
+Discover and characterize binary stars within open clusters and stellar associations
+
+Characterize internal stellar structure and fundamental properties of stars using the tools of asteroseismology
+
+Provide a large, regular cadence survey of AGN activity in the optical bandpass
+
+Conduct multi-mission, multi-band monitoring campaigns of ecliptic targets using K2 with additional space-based hardware or ground-based telescopes.
+
+### Potential K2 science targets
+
+<ul>
+<li>Possible transiting planet hosts</li>
+<li>Pulsational variable stars</li>
+<li>Rotationally variable stars</li>
+<li>Flaring stars</li>
+<li>Accreting stars and interacting binaries</li>
+<li>Binary stars</li>
+<li>Open clusters</li>
+<li>Stellar associations</li>
+<li>Galaxies and supernovae</li>
+<li>Active Galactic Nuclei</li>
+<li>Microlenses</li>
+</ul>
 
 ### Learn more
 
