@@ -1,7 +1,9 @@
 Title: K2 Campaign fields
 Save_as: k2-fields.html
 
-This page details the fields of view of the K2 mission.
+Each K2 Campaign has a duration of approximately 80 days 
+and remains fixed upon a single boresight position. 
+This page details the previous and upcoming Campaign fields.
 
 
 ![K2 campaign fields on the sky]({filename}/images/k2/CampaignSkyII.png)
