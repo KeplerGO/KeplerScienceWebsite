@@ -31,6 +31,10 @@ Molnár, L., Szabó, R., Moskalik, P. A., et al.
 Hermes, J. J., Montgomery, M. H., Bell, Keaton J., et al.    
 2015, refereed ([2015ApJ...810L...5H](http://adsabs.harvard.edu/abs/2015ApJ...810L...5H))  
 
+2. HAT-P-56B: AN INFLATED MASSIVE HOT JUPITER TRANSITING A BRIGHT F STAR FOLLOWED UP WITH K2 CAMPAIGN 0 OBSERVATIONS  
+Huang, C. X., Hartman, J. D., Bakos, G. Á., et al.    
+2015, refereed ([2015AJ....150...85H](http://adsabs.harvard.edu/abs/2015AJ....150...85H))  
+
 
 2015-08
 -------
