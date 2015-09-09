@@ -4,6 +4,8 @@ from __future__ import unicode_literals
 import os
 import datetime
 
+DEVMODE = True  # Shows a red warning message at the top
+
 # Temporary setting while playing with config:
 LOAD_CONTENT_CACHE = False
 
@@ -60,32 +62,35 @@ STATIC_PATHS = (['images', 'data'])
 MENUITEMS = (
         ('News', 'archives.html'),
         ('The missions', (
-            ('Submenu 1', 'pages/k2-observing.html'),
-            ('Submenu 2', 'pages/k2-observing.html'),
-            ('Submenu 3', 'pages/k2-observing.html'),
+            ('Overview', 'the-missions.html'),
+            ('Science goals', 'the-science.html'),
+            ('Publications', 'publications.html'),
             )
         ),
         ('K2 observing', (
             ('Overview', 'k2-observing.html'),
-            ('Photometric performance', 'k2-photometric-performance.html'),
             ('Campaign fields', 'k2-fields.html'),
-            ('How to propose targets?', 'k2-proposing-targets.html'),
-            ('Approved programs', 'k2-approved-programs.html'),
+            ('Technical information', 'k2-photometric-performance.html'),
+            ('Targets & programs', 'k2-approved-programs.html'),
+            ('Proposal preparation', 'k2-proposing-targets.html'),
             )
         ),
         ('Data analysis', (
-            ('Submenu 1', 'pages/k2-observing.html'),
-            ('Submenu 2', 'pages/k2-observing.html'),
-            ('Submenu 3', 'pages/k2-observing.html'),
+            ('Data releases', 'data-releases.html'),
+            ('Accessing data', 'data-access.html'),
+            ('Pipeline', 'pipeline.html'),
+            ('Software', 'software.html'),
             )
         ),
         )
 #  ('Helpdesk', 'BROKEN'),
 
 KEY_INFORMATION = (
-            ('K2 Campaign fields', 'pages/k2-campaign-fields.html'),
+            ('K2 Campaign fields', 'k2-fields.html'),
+            ('K2 Approved targets', 'k2-approved-programs.html'),
+            ('K2 Proposal preparation', 'k2-proposing-targets.html'),
             ('Data access', 'http://TBD'),
-            ('Recent publications', 'http://TBD'),
+            ('Recent publications', 'publications.html'),
             )
 
 IMPORTANT_DATES = (

@@ -4,14 +4,23 @@
     {% if DISPLAY_BREADCRUMBS %}
     <ol class="breadcrumb">
         <li><a href="{{ SITEURL }}" title="{{ SITENAME }}"><i class="fa fa-home fa-lg"></i></a></li>
-        <li class="active">News archive</li>
+        <li class="active">News updates</li>
     </ol>
     {% endif %}
 {% endblock %}
 
 {% block content %}
-    <section id="content">
-        <h1>News archive</h1>
+    <section id="content" class="entry-content">
+        <h1>News updates</h1>
+
+        <div class="well">
+          This page provides news updates to help the scientific community propose targets and exploit data.
+          For more general news about Kepler's scientific results
+          and operations,
+          please visit the main <a href="http://www.nasa.gov/mission_pages/kepler/main/index.html">Kepler mission website</a> and the
+          <a href="http://www.nasa.gov/mission_pages/kepler/news/mmu.html">Mission Manager Blog</a>.
+        </div>
+
         <div id="archives">
             {% for article in dates %}
                 <p>

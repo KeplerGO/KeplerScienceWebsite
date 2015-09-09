@@ -336,6 +336,12 @@ a.toc-backref {
     border-bottom: 0px;
 }
 
+/* Add a bit more space between page sections of rst pages */
+div.section {
+    margin-top: 2.5em;
+    margin-bottom: 2.5em;
+}
+
 /* ###########
    TABLE OF CONTENTS SIDE BAR
    ########### */
