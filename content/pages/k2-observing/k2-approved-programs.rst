@@ -13,34 +13,48 @@ for upload to the spacecraft, which happens 1-2 months before the start
 of a campaign.  The details of the approved programs are added
 when a campaign's data is released.
 
-Campaign 0 (Mar 2014)
+Campaign 7 (Oct 2015)
 ---------------------
-.. include:: approved-programs/c0.html
-
-Campaign 1 (May 2014)
----------------------
-.. include:: approved-programs/c1.html
-
-Campaign 2 (Aug 2014)
----------------------
-.. include:: approved-programs/c2.html
-
-Campaign 3 (Nov 2014)
----------------------
-.. include:: approved-programs/c3.html
-
-Campaign 4 (Feb 2015)
----------------------
-.. include:: approved-programs/c4.html
-
-Campaign 5 (Apr 2015)
----------------------
-.. include:: approved-programs/c5.html
+.. include:: approved-programs/c7.html
 
 Campaign 6 (Jul 2015)
 ---------------------
 .. include:: approved-programs/c6.html
 
-Campaign 7 (Oct 2015)
+Campaign 5 (Apr 2015)
 ---------------------
-Coming soon.
+.. include:: approved-programs/c5.html
+
+Campaign 4 (Feb 2015)
+---------------------
+.. include:: approved-programs/c4.html
+
+Campaign 3 (Nov 2014)
+---------------------
+.. include:: approved-programs/c3.html
+
+Campaign 2 (Aug 2014)
+---------------------
+.. include:: approved-programs/c2.html
+
+Campaign 1 (May 2014)
+---------------------
+.. include:: approved-programs/c1.html
+
+Campaign 0 (Mar 2014)
+---------------------
+.. include:: approved-programs/c0.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
