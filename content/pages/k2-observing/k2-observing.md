@@ -1,39 +1,99 @@
-Title: K2 observing
+Title: K2 observing: overview
 Save_as: k2-observing.html
 
-[TOC]
+<div class="well"><i>
+The K2 mission provides an opportunity to continue Kepler’s ground-breaking discoveries in the field of exoplanets and expand its role into new and exciting astrophysical observations.</i></div>
 
-This is the first static webpage of the new Kepler/K2 science website.
+### Extending Kepler's power to the ecliptic
 
+The loss of a second of the four reaction wheels on board the Kepler 
+spacecraft in May 2013 brought an end to its four plus year primary science 
+mission to continuously monitor more than 150,000 stars 
+in the 116 square degree Kepler field for transiting exoplanet candidates. 
 
-## Title 1
-### Subtitle that is long
+Developed over the months following this failure, 
+the K2 mission represents a new concept for spacecraft operations 
+that enables continued scientific observations 
+with the Kepler space telescope. 
 
-From Oct 28, 2012 access to the Kepler data archives will be unrestricted. Images, pixels and light curves are downloaded from the MAST. Dispositioned and pre-dispositioned planet candidates are stored at the Exoplanet Archive. Ground- and space-based follow-up observations are archived at the CFOP. The Kepler project provides the opportunity for the community to add targets of any nature to the observing list through the GO program. NASA provides competitive, peer-reviewed funding opportunities to successful proposers within the GO program, proposers of projects mining the Kepler data archive (through the ADAP program), and grants for scientific investigations that further the primary goals of the Kepler mission (through the PSP program).
-The 116 square degree field of view is near-continuously monitored with 92% duty cycle. Sources in the magnitude range 4 < Kp < 21 will be considered for community target nomination. The Kepler photometer utilizes one broad bandpass, ranging from 4,200 to 9,000 Å and the point spread function is approximately 6 arcsec FWHM. Photometric precision is ~50 ppm for a Kp = 12 G2V star integrated over 30 minutes. 
+The K2 mission entails a series of sequential
+<a href="k2-fields.html">observing "Campaigns"</a> 
+of fields distributed around the ecliptic plane 
+and offers a photometric precision approaching that 
+of the original Kepler mission **<a href="k2-photometric-performance.html">to within a factor of approximately two</a>**.
 
-### Subtitle B
+Operating in the ecliptic plane minimizes the torque exerted 
+on the spacecraft by solar wind pressure, 
+reducing pointing drift to the point where spacecraft attitude 
+can effectively be controlled through a combination of thrusters 
+and the two remaining reaction wheels. 
 
-The Kepler spacecraft monitors 160,000+ stars with continuous, 30-min or 1-min sampling. Kepler's primary science objective is transit-driven exoplanet detection with emphasis on terrestrial, R < 2.5 REarth planets located within the habitable zones of Sun-like stars. The Kepler Science Center is dedicated to the service of the broad science community, with a charter to promote the exploitation of Kepler data and broaden the scientific impact of this mission. Kepler data provide a unique combination ofhotometric precision, duration, contiguity and source volume. The scientific community have opportunities to both develop observing programs and mine Kepler's rich public data archive. The community are encouraged to participate in Kepler's primary science and exploit the mission's unique archive and observing resources to pursue unrelated stellar and extragalactic astrophysics.
+Each ecliptic Campaign is limited by Sun angle constraints 
+to a duration of approximately 80 days. 
+Therefore, four to five K2 Campaigns can be performed 
+during each future 372-day orbit of the spacecraft.
 
+K2 is a **community-driven mission**.
+All K2 targets are proposed by the community through the [Guest Observer Program](k2-proposing-targets.html). The K2 mission welcomes all proposals including, but not exclusive to, exoplanet, stellar, extragalactic and solar system science.
 
-## Title 2
-### Subtitle A
-From Oct 28, 2012 access to the Kepler data archives will be unrestricted. Images, pixels and light curves are downloaded from the MAST. Dispositioned and pre-dispositioned planet candidates are stored at the Exoplanet Archive. Ground- and space-based follow-up observations are archived at the CFOP. The Kepler project provides the opportunity for the community to add targets of any nature to the observing list through the GO program. NASA provides competitive, peer-reviewed funding opportunities to successful proposers within the GO program, proposers of projects mining the Kepler data archive (through the ADAP program), and grants for scientific investigations that further the primary goals of the Kepler mission (through the PSP program).
-The 116 square degree field of view is near-continuously monitored with 92% duty cycle. Sources in the magnitude range 4 < Kp < 21 will be considered for community target nomination. The Kepler photometer utilizes one broad bandpass, ranging from 4,200 to 9,000 Å and the point spread function is approximately 6 arcsec FWHM. Photometric precision is ~50 ppm for a Kp = 12 G2V star integrated over 30 minutes. 
+### Scientific motivations
 
-### Subtitle B
+The scientific potential spans a wide range of astrophysics.
+It is anticipated that K2 will:
 
-From Oct 28, 2012 access to the Kepler data archives will be unrestricted. Images, pixels and light curves are downloaded from the MAST. Dispositioned and pre-dispositioned planet candidates are stored at the Exoplanet Archive. Ground- and space-based follow-up observations are archived at the CFOP. The Kepler project provides the opportunity for the community to add targets of any nature to the observing list through the GO program. NASA provides competitive, peer-reviewed funding opportunities to successful proposers within the GO program, proposers of projects mining the Kepler data archive (through the ADAP program), and grants for scientific investigations that further the primary goals of the Kepler mission (through the PSP program).
-The 116 square degree field of view is near-continuously monitored with 92% duty cycle. Sources in the magnitude range 4 < Kp < 21 will be considered for community target nomination. The Kepler photometer utilizes one broad bandpass, ranging from 4,200 to 9,000 Å and the point spread function is approximately 6 arcsec FWHM. Photometric precision is ~50 ppm for a Kp = 12 G2V star integrated over 30 minutes. 
+* Provide a yield of **hot planets around bright stars** for follow-up transit 
+spectroscopy in order to facilitate rapid advances in exoplanet atmosphere 
+chemistry and the search for water, clouds and greenhouse gases.
+* Provide a yield of **small planets around bright and small stars**
+in order to facilitate the most precise follow-up measurements to date
+of masses, densities and compositions.
+* Identify locations and characteristics of **potentially-habitable planets
+around bright M-dwarfs** in the solar neighborhood.
+* Determine if **hot gas giants exist around young stars**,
+or whether they migrate to small orbits at a later epoch
+by tidal or other interactions.
+* Determine the relationship between **stellar structure, rotation and activity** 
+within stellar associations over a range of ages and metallicity.
+* Identify the progenitors of **Type Ia supernovae**
+from photometric structure in the rise to outburst maximum.
+* Discover and characterize **binary stars** within open clusters and stellar associations.
+* Characterize internal stellar structure and fundamental properties of stars using the tools of **asteroseismology**.
+* Provide a large, regular cadence survey of **AGN activity** 
+in the optical bandpass.
+* Conduct multi-mission, **multi-band monitoring campaigns**
+of ecliptic targets using K2 with additional space-based hardware or ground-based telescopes.
 
-## Title 3
-### Subtitle A
+### Potential targets
 
-From Oct 28, 2012 access to the Kepler data archives will be unrestricted. Images, pixels and light curves are downloaded from the MAST. Dispositioned and pre-dispositioned planet candidates are stored at the Exoplanet Archive. Ground- and space-based follow-up observations are archived at the CFOP. The Kepler project provides the opportunity for the community to add targets of any nature to the observing list through the GO program. NASA provides competitive, peer-reviewed funding opportunities to successful proposers within the GO program, proposers of projects mining the Kepler data archive (through the ADAP program), and grants for scientific investigations that further the primary goals of the Kepler mission (through the PSP program).
-The 116 square degree field of view is near-continuously monitored with 92% duty cycle. Sources in the magnitude range 4 < Kp < 21 will be considered for community target nomination. The Kepler photometer utilizes one broad bandpass, ranging from 4,200 to 9,000 Å and the point spread function is approximately 6 arcsec FWHM. Photometric precision is ~50 ppm for a Kp = 12 G2V star integrated over 30 minutes. 
+<ul>
+<li>Possible transiting planet hosts</li>
+<li>Pulsational variable stars</li>
+<li>Rotationally variable stars</li>
+<li>Flaring stars</li>
+<li>Accreting stars and interacting binaries</li>
+<li>Binary stars</li>
+<li>Open clusters</li>
+<li>Stellar associations</li>
+<li>Galaxies and supernovae</li>
+<li>Active Galactic Nuclei</li>
+<li>Microlenses</li>
+<li>Asteroids</li>
+<li>Comets</li>
+</ul>
 
-### Subtitle B
+### Learn more
 
-From Oct 28, 2012 access to the Kepler data archives will be unrestricted. Images, pixels and light curves are downloaded from the MAST. Dispositioned and pre-dispositioned planet candidates are stored at the Exoplanet Archive. Ground- and space-based follow-up observations are archived at the CFOP. The Kepler project provides the opportunity for the community to add targets of any nature to the observing list through the GO program. NASA provides competitive, peer-reviewed funding opportunities to successful proposers within the GO program, proposers of projects mining the Kepler data archive (through the ADAP program), and grants for scientific investigations that further the primary goals of the Kepler mission (through the PSP program).
-The 116 square degree field of view is near-continuously monitored with 92% duty cycle. Sources in the magnitude range 4 < Kp < 21 will be considered for community target nomination. The Kepler photometer utilizes one broad bandpass, ranging from 4,200 to 9,000 Å and the point spread function is approximately 6 arcsec FWHM. Photometric precision is ~50 ppm for a Kp = 12 G2V star integrated over 30 minutes. 
+<ul>
+  <li>
+    <a href="k2-fields.html">Campaign fields &raquo;</a>
+  </li>
+  <li>
+    <a href="k2-photometric-performance.html">Photometric performance &raquo;</a>
+  </li>
+  <li>
+    <a href="k2-proposing-targets.html">Proposing targets &raquo;</a>
+  </li>
+  <li>
+    <a href="k2-approved-programs.html">Approved observing programs &raquo;</a>
+  </li>
+</ul>

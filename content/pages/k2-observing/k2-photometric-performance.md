@@ -1,24 +1,110 @@
-Title: Photometric performance
+Title: K2 technical information
 Save_as: k2-photometric-performance.html
 
 [TOC]
 
+## Summary
 
-### Introduction
+Kepler is in a heliocentric orbit, which insures a thermally stable 
+environment and provides the ability to remain on a single pointing for the
+duration of each Campaign. 
+Pointing is maintained by a combination of two reaction wheels and thrusters, 
+reacting to motion data provided by fine guidance sensors 
+(fine-point observing) or star trackers (coarse-point observing). 
 
-Based upon a series of 5-30 day engineering tests carried out between Oct 2013 and Jan 2014, autonomous and programmed spacecraft operations were refined in order to maximize thruster-assisted two-wheel performance from K2. As of Dec 2013, two-wheel testing has demonstrated all of the functionality required for the K2 mission:  pointing and controlling the telescope, aligning the roll angle with the solar balance ridge, tweaking roll with thrusters as required, and pointing the High-Gain Antenna to earth for Ka-Band downlink.  Data were collected to analyze K2 mission performance, confirming the operations concept. The fuel burn rate has been measured for all operational modes for K2.
+With only two remaining reaction wheels, 
+these operations are only possible while pointing within 
+the orbital plane of the spacecraft, which approximates to the ecliptic. 
+Only this specific family of pointings yields operational configurations 
+where solar pressure is largely mitigated by spacecraft geometry, 
+thereby making viable precision pointing and photometry 
+approaching the quality for the Kepler mission. 
 
-Field acquisition capabilities and correctional maneuvers for solar-induced drift are being refined in order to minimize the number of pixels required for individual target masks and consequently maximize the number of targets available to each campaign. Photometric precision is dependent primarily upon motion of the spacecraft boresight on jitter timescales shorter than an exposure length and solar-induced drift timescales longer than an exposure. The information below is a photometry status report from a 6-day engineering sequence collected during Dec 2013. 
+It is anticipated that K2 will achieve a benchmark photometric precision 
+on an m<sub>V</sub> = 12 G2V star of 170 parts-per-million (ppm) 
+in 30 minutes of integration, i.e., one long cadence exposure. 
+This corresponds to ~50 ppm over a 6.5-hour transit 
+of an Earth-sized body around that star.
+
+While stars brighter than m<sub>V</sub> = 11.5 will saturate some pixels, 
+K2 performs well on stars as bright as m<sub>V</sub> = 4, 
+provided the scientific benefit justifies the large number of pixels 
+needed to capture saturated flux bleeding along CCD columns. 
+Kepler also has many faint-target scientific applications 
+where m<sub>V</sub> = 20 objects yield a photometric precision 
+of 10% over 30 minutes.
+
+The broad photometric bandpass has a half-maximum transmission range 
+of 430 to 840 nm. 
+The instrument has neither changeable filters, 
+dispersing elements, nor a shutter. 
+The detector has a pixel scale of 3.98 arcseconds. 
+Image quality varies with position in the focal plane, 
+with the 95% encircled energy diameter ranging from 3.1 to 7.5 pixels, 
+with a median of 4.2 pixels. 
+The percentage of point-source flux concentrated in the center pixel 
+is between 20% and 62%, with a median value of 45%.
+
+## Data products
+
+Constraints imposed by onboard storage and communications 
+dictate that at most 6% of the data from the full focal plane 
+are saved and downloaded. 
+Instead, data for specific, predetermined targets are saved 
+and transmitted as subimages with a typical area of 160 pixels, 
+depending on source brightness. 
+The brighter a target, the more pixels are required to capture it. 
+Image size can be tailored further to accommodate 
+extended or very bright, saturated objects. 
+
+The Kepler Science Center derives pixel masks for those targets 
+successfully justified by proposers and upload these targets 
+to the spacecraft before each Campaign. 
+
+All observations are taken at one of two temporal resolution settings: 
+long (30-minute) or short (1-minute) cadence. 
+It is expected that on the order of 10,000 long cadence targets 
+will be available per Campaign, and on the order of 50 short cadence targets. 
+Extended or bright objects requiring larger aperture sizes 
+decrease the total number of targets available 
+and must be justified carefully.
+
+Data distribution and archival services are performed 
+by the Space Telescope Science Institute’s 
+<a href="https://archive.stsci.edu">MAST archive</a>. 
+Final data products available to observers 
+include original and calibrated pixel values 
+and light curves for each individual target. 
+The calibration corrects for bias level, smear, galactic cosmic rays, 
+flat fielding, dark current, background, and instrument noise. 
+Simple aperture photometry will be used to generate light curves. 
+
+Data is delivered tin Flexible Image Transport System (FITS) format. 
+A thorough understanding of the noise sources and systematic errors of K2 
+is needed by observers in order to generate their own light curves 
+from the original (uncalibrated or calibrated) pixel data 
+or interpret structure found in archived light curves. 
+There is no exclusive use period associated with any K2 data.
 
 
-### Field acquisition
+## Photometric performance
 
-Pre-planned boresight pointings are currently being acquired to a precision of 15 arcsec on the focal plane. Further improvements in absolute pointing using an iterative approach to field acquisition were tested in Jan 2014.
-
+The photometric precision is dependent primarily 
+upon motion of the spacecraft boresight on jitter timescales 
+shorter than an exposure length 
+and solar-induced drift timescales longer than an exposure. 
 
 ### Reaction wheel jitter
 
-During engineering tests between Oct-Dec 2013, the spacecraft collected data in a coarse-point mode. The measured Full-Width Half Maximum of the coarse-point K2 Point-Spread Function is a measure of spacecraft jitter and is within 5% of the fine-point Kepler Point-Spread Function across the entire field-of-view. The figure below provides a fit of the Kepler fine-point Point-Spread Function to a K2 coarse-point target close to the spacecraft boresight. From top-left to bottom-right: a 30 min observation of a 12th magnitude K2 star, the best-fitting Kepler PSF model, the best-fit model binned over detector pixels, and the fit residual. Spacecraft jitter during two-wheel operation is therefore generally only a few percent larger than the three-wheel Kepler mission and is not a major concern for K2 photometric precision. 
+During engineering tests between Oct-Dec 2013, 
+the spacecraft collected data in a coarse-point mode. 
+The measured Full-Width Half Maximum of the coarse-point 
+K2 Point-Spread Function is a measure of spacecraft jitter 
+and is within 5% of the fine-point Kepler Point-Spread Function 
+across the entire field-of-view. 
+
+The figure below provides a fit of the Kepler fine-point Point-Spread Function to a K2 coarse-point target close to the spacecraft boresight. 
+From top-left to bottom-right: a 30 min observation of a 12th magnitude K2 star, the best-fitting Kepler PSF model, the best-fit model binned over detector pixels, and the fit residual. Spacecraft jitter during two-wheel operation is therefore generally only a few percent larger than the three-wheel Kepler mission and is not a major concern for K2 photometric precision. 
 
 <a href="http://keplerscience.arc.nasa.gov/K2/images/Dec2013PRF.png"><img src="http://keplerscience.arc.nasa.gov/K2/images/Dec2013PRF.png" style="max-width: 640px;"></a>
 
