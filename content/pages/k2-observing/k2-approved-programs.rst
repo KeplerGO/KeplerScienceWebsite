@@ -43,4 +43,4 @@ Campaign 6 (Jul 2015)
 
 Campaign 7 (Oct 2015)
 ---------------------
-Coming soon.
+.. include:: approved-programs/c7.html
