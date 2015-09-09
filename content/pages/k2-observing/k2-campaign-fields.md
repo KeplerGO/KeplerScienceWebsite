@@ -226,31 +226,31 @@ This page details the previous and upcoming Campaign fields.
 
 ## Campaign 0
 
-<img class="img-responsive" style="min-width:97%;" src="http://keplerscience.arc.nasa.gov/K2/images/Field0/field0-final.png">
+<img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/C0_selected.png">
 
 ## Campaign 1
 
-<img class="img-responsive" style="min-width:97%;" src="http://keplerscience.arc.nasa.gov/K2/images/Field1/field1-final.png">
+<img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/C1_selected.png">
 
 ## Campaign 2
 
-<img class="img-responsive" style="min-width:97%;" src="http://keplerscience.arc.nasa.gov/K2/images/Field2/field2-final.png">
+<img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/C2_selected.png">
 
 ## Campaign 3
 
-<img class="img-responsive" style="min-width:97%;" src="http://keplerscience.arc.nasa.gov/K2/images/Field3/field3-final.png">
+<img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/C3_selected.png">
 
 ## Campaign 4
 
-<img class="img-responsive" style="min-width:97%;" src="http://keplerscience.arc.nasa.gov/K2/images/Field4/field4-final.png">
+<img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/C4_selected.png">
 
 ## Campaign 5
 
-<img class="img-responsive" style="min-width:97%;" src="http://keplerscience.arc.nasa.gov/K2/images/Field5/field5-final.png">
+<img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/C5_selected.png">
 
 ## Campaign 6
 
-<img class="img-responsive" style="min-width:97%;" src="http://keplerscience.arc.nasa.gov/K2/images/Field6/field6-final.png">
+<img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/C6_selected.png">
 
 ## Campaign 7
 
