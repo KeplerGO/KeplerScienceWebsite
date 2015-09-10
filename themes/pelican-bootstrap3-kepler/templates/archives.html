@@ -14,20 +14,27 @@
         <h1>News updates</h1>
 
         <div class="well">
-          This page provides news updates to help the scientific community propose targets and exploit data.
-          For more general news about Kepler's scientific results
-          and operations,
-          please visit the main <a href="http://www.nasa.gov/mission_pages/kepler/main/index.html">Kepler mission website</a> and the
-          <a href="http://www.nasa.gov/mission_pages/kepler/news/mmu.html">Mission Manager Blog</a>.
+          <i class="fa fa-lg fa-warning"></i>
+          This page provides news updates to help 
+          the scientific community 
+          propose K2 targets and analyse Kepler/K2 data.
+          For general news about Kepler's results and operations,
+          please visit <a href="http://www.nasa.gov/mission_pages/kepler/main/index.html">NASA's main Kepler mission website</a> 
+          and its <a href="http://www.nasa.gov/mission_pages/kepler/news/mmu.html">Mission Manager Blog</a> instead.
         </div>
 
-        <div id="archives">
-            {% for article in dates %}
-                <p>
-                    <span class="categories-timestamp"><time datetime="{{ article.date.isoformat() }}">{{ article.date.strftime("%d %b %Y") }}</time></span>
-                    <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}{% if article.subtitle %} - {{ article.subtitle }}{% endif %}</a>
-                </p>
-            {% endfor %}
-        </div>
+        <table class="table">
+          {% for article in dates %}
+              <tr>
+                <td style="width: 7.5em;">
+                  <span class="categories-timestamp"><time datetime="{{ article.date.isoformat() }}">{{ article.date.strftime("%d %b %Y") }}</time></span>
+                </td>
+                <td>
+                  <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}{% if article.subtitle %} - {{ article.subtitle }}{% endif %}</a>
+                </td>
+              </tr>
+          {% endfor %}
+        </table>
+        
     </section>
 {% endblock %}
