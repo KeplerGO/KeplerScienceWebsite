@@ -27,6 +27,26 @@ Colón, Knicole D., Morehead, Robert C., Ford, Eric B.
 Kley, Wilhelm, Haghighipour, Nader    
 2015, refereed ([2015A&A...581A..20K](http://adsabs.harvard.edu/abs/2015A&A...581A..20K))  
 
+6. HAT-P-56B: AN INFLATED MASSIVE HOT JUPITER TRANSITING A BRIGHT F STAR FOLLOWED UP WITH K2 CAMPAIGN 0 OBSERVATIONS  
+Huang, C. X., Hartman, J. D., Bakos, G. Á., et al.    
+2015, refereed ([2015AJ....150...85H](http://adsabs.harvard.edu/abs/2015AJ....150...85H))  
+
+7. MEASURING TRANSIT SIGNAL RECOVERY IN THE KEPLER PIPELINE II: DETECTION EFFICIENCY AS CALCULATED IN ONE YEAR OF DATA  
+Christiansen, Jessie L., Clarke, Bruce D., Burke, Christopher J., et al.    
+2015, refereed ([2015ApJ...810...95C](http://adsabs.harvard.edu/abs/2015ApJ...810...95C))  
+
+8. TRANSIT TIMING TO FIRST ORDER IN ECCENTRICITY  
+Agol, Eric, Deck, Katherine    
+2015, pre-print ([2015arXiv150901623A](http://adsabs.harvard.edu/abs/2015arXiv150901623A))  
+
+9. TRANSIT-DEPTH METALLICITY CORRELATION: A BAYESIAN APPROACH  
+Sarkis, P., Nehme, C.    
+2015, pre-print ([2015arXiv150900201S](http://adsabs.harvard.edu/abs/2015arXiv150900201S))  
+
+10. MAPS AND MASSES OF TRANSITING EXOPLANETS: TOWARDS NEW INSIGHTS INTO ATMOSPHERIC AND INTERIOR PROPERTIES OF PLANETS  
+de Wit, Julien    
+2015, pre-print ([2015arXiv150901493D](http://adsabs.harvard.edu/abs/2015arXiv150901493D))  
+
 
 2015-08
 -------
@@ -210,6 +230,10 @@ Petigura, Erik A., Schlieder, Joshua E., Crossfield, Ian J. M., et al.
 21. ECCENTRICITY EVOLUTION THROUGH ACCRETION OF PROTOPLANETS  
 Matsumoto, Yuji, Nagasawa, Makiko, Ida, Shigeru    
 2015, pre-print ([2015arXiv150708809M](http://adsabs.harvard.edu/abs/2015arXiv150708809M))  
+
+22. SURVIVAL OF PLANETS AROUND SHRINKING STELLAR BINARIES  
+Muñoz, Diego J., Lai, Dong    
+2015, refereed ([2015PNAS..112.9264M](http://adsabs.harvard.edu/abs/2015PNAS..112.9264M))  
 
 
 2015-06

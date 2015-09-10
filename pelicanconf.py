@@ -65,6 +65,7 @@ MENUITEMS = (
             ('Overview', 'the-missions.html'),
             ('Science goals', 'the-science.html'),
             ('Publications', 'publications.html'),
+            ('Conferences', 'conferences.html'),
             )
         ),
         ('K2 observing', (
