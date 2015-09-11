@@ -91,6 +91,7 @@ KEY_INFORMATION = (
             ('K2 Campaign fields', 'k2-fields.html'),
             ('K2 Approved targets', 'k2-approved-programs.html'),
             ('K2 Proposal preparation', 'k2-proposing-targets.html'),
+            ('K2 DDT call','k2-ddt.html'),
             ('Data access', 'http://TBD'),
             ('Recent publications', 'publications.html'),
             )
@@ -98,7 +99,10 @@ KEY_INFORMATION = (
 IMPORTANT_DATES = (
             ('<b>18 Sep 2015</b><br>K2 Science Conference abstract and hotel reservation deadline ', 'http://lcogt.net/k2scicon/'),
             ('<b>28 Sep 2015</b><br>K2 Campaign 4 data release (expected)', ''),
+            ('<b>5 Oct 2015</b><br>K2 DDT proposals due for Campaign 8', ''),
+            ('<b>10 Dec 2015</b><br>K2 DDT proposals due for Campaign 9', ''),
             ('<b>25 Dec 2015</b><br>K2 Campaign 5 data release (expected)', ''),
+            ('<b>10 Mar 2016</b><br>K2 DDT proposals due for Campaign 10', ''),
             
          )
 
