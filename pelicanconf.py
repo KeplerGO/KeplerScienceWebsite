@@ -74,6 +74,7 @@ MENUITEMS = (
             ('Technical information', 'k2-photometric-performance.html'),
             ('Targets & programs', 'k2-approved-programs.html'),
             ('Proposal preparation', 'k2-proposing-targets.html'),
+            ('DDT program','k2-ddt.html'),
             )
         ),
         ('Data analysis', (
