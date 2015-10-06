@@ -97,19 +97,20 @@ KEY_INFORMATION = (
             )
 
 IMPORTANT_DATES = (
-            ('<b>18 Sep 2015</b><br>K2 Science Conference abstract and hotel reservation deadline ', 'http://lcogt.net/k2scicon/'),
-            ('<b>28 Sep 2015</b><br>K2 Campaign 4 data release (expected)', ''),
+            ('<b>10 Oct 2015</b><br>K2 Science Conference student researcher award application deadline', 'http://lcogt.net/k2scicon-student-researcher-award/'),
             ('<b>5 Oct 2015</b><br>K2 DDT proposals due for Campaign 8', ''),
+            ('<b>20 Nov 2015</b><br>K2 Campaign 5 data release (expected)', ''),
             ('<b>10 Dec 2015</b><br>K2 DDT proposals due for Campaign 9', ''),
-            ('<b>25 Dec 2015</b><br>K2 Campaign 5 data release (expected)', ''),
+            ('<b>28 Dec 2015</b><br>K2 Campaign 6 data release (expected)', ''),
             ('<b>10 Mar 2016</b><br>K2 DDT proposals due for Campaign 10', ''),
-            
+            ('<b>28 Mar 2016</b><br>K2 Campaign 7 data release (expected)', ''),
          )
 
 MEETINGS = (('<b>13-15 Oct 2015</b><br>Kepler Exoplanet Populations Hack Week', 'http://keplerscience.arc.nasa.gov/KeplerHackWeek/'),
             ('<b>18-22 Oct 2015</b><br>RR Lyrae 2015 Conference', 'http://rrl2015.hu/'),
             ('<b>2-5 Nov 2015</b><br>K2 Science Conference', 'http://lcogt.net/k2scicon/'),
             ('<b>8-13 Nov 2015</b><br>K2 workshop at the annual DPS meeting', 'http://aas.org/meetings/dps47'),
+            ('<b>4-8 Jan 2015</b><br>K2 splinter session at the winter AAS meeting', 'http://aas.org/meetings/aas227'),
          )
 
 RELATEDSITES = (
