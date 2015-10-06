@@ -17,7 +17,7 @@ on astronomical research.
 Please contact us if you spot an error in the database,
 such as a missing publication.
 
-Last update: 09 Sep 2015.
+Last update: 10 Oct 2015.
 
 <hr/>
 
@@ -195,72 +195,72 @@ Here we list the most-active authors, defined as those with six or more first-au
 
  * Kipping, D (17 publications)
 
- * Chaplin, W (9 publications)
-
  * Baran, A (9 publications)
-
- * Steffen, J (9 publications)
-
- * Molenda-Zakowicz, J (9 publications)
-
- * Savanov, I (9 publications)
 
  * Hekker, S (9 publications)
 
- * Murphy, S (9 publications)
+ * Steffen, J (9 publications)
+
+ * Savanov, I (9 publications)
 
  * Kane, S (9 publications)
 
- * Ostensen, R (8 publications)
+ * Molenda-Zakowicz, J (9 publications)
+
+ * Murphy, S (9 publications)
+
+ * Chaplin, W (9 publications)
 
  * Kato, T (8 publications)
 
- * Stello, D (8 publications)
+ * Ostensen, R (8 publications)
 
  * Huber, D (8 publications)
 
- * Gilliland, R (7 publications)
-
- * Wang, J (7 publications)
-
- * Scaringi, S (7 publications)
-
- * Mosser, B (7 publications)
-
- * Silva Aguirre, V (7 publications)
+ * Stello, D (8 publications)
 
  * Ramsay, G (7 publications)
 
- * Sanchis-Ojeda, R (7 publications)
+ * Mosser, B (7 publications)
 
- * Tkachenko, A (7 publications)
+ * Wang, J (7 publications)
 
  * Armstrong, D (7 publications)
 
- * Lillo-Box, J (6 publications)
+ * Tkachenko, A (7 publications)
 
- * Barclay, T (6 publications)
+ * Gilliland, R (7 publications)
+
+ * Silva Aguirre, V (7 publications)
+
+ * Sanchis-Ojeda, R (7 publications)
+
+ * Scaringi, S (7 publications)
+
+ * Santerne, A (6 publications)
+
+ * Lissauer, J (6 publications)
+
+ * Gaidos, E (6 publications)
 
  * Campante, T (6 publications)
 
  * Mathur, S (6 publications)
 
- * Bonomo, A (6 publications)
-
- * Metcalfe, T (6 publications)
-
- * Santerne, A (6 publications)
-
- * Borucki, W (6 publications)
+ * Colon, K (6 publications)
 
  * Dawson, R (6 publications)
 
- * Gaidos, E (6 publications)
+ * Barclay, T (6 publications)
 
- * Rappaport, S (6 publications)
+ * Borucki, W (6 publications)
+
+ * Bonomo, A (6 publications)
+
+ * Lillo-Box, J (6 publications)
+
+ * Metcalfe, T (6 publications)
 
  * Corsaro, E (6 publications)
 
- * Lissauer, J (6 publications)
-
- * Colon, K (6 publications)
+ * Rappaport, S (6 publications)
