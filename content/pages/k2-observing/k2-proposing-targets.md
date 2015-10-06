@@ -213,8 +213,7 @@ Final pointings for <a href="fields.shtml#8">Campaign 8</a> (RA = 01:05:21.12, D
 
 ### Director's Discretionary Time
 
-A small part of the pixel budget may be allocated by the project as Director's Discretionary Time (DDT),
+A small part of the pixel budget may be allocated by the project as Director's Discretionary Targets (DDT),
 which is intended to facilitate observations that address
 scientific topics missed in the proposal review process.
-Investigators wishing to request DDT can contact 
-[keplergo@mail.arc.nasa.gov](keplergo@mail.arc.nasa.gov)
+More information and deadlines are available from the [DDT Program page](k2-ddt.html)
