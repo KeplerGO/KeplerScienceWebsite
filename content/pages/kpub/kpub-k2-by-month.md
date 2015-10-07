@@ -35,6 +35,10 @@ Hermes, J. J., Montgomery, M. H., Bell, Keaton J., et al.
 Huang, C. X., Hartman, J. D., Bakos, G. Á., et al.    
 2015, refereed ([2015AJ....150...85H](http://adsabs.harvard.edu/abs/2015AJ....150...85H))  
 
+3. [A HARPS VIEW ON K2-3](http://adsabs.harvard.edu/abs/2015A&A...581L...7A)  
+Almenara, J. M., Astudillo-Defru, N., Bonfils, X., et al.    
+2015, refereed ([2015A&A...581L...7A](http://adsabs.harvard.edu/abs/2015A&A...581L...7A))  
+
 
 2015-08
 -------

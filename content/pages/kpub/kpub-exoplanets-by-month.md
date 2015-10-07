@@ -4,6 +4,38 @@ Save_as: kpub-exoplanets-by-month.html
 [TOC]
 
 
+2015-11
+-------
+
+1. [ABSOLUTE MASSES AND RADII DETERMINATION IN MULTIPLANETARY SYSTEMS WITHOUT STELLAR MODELS](http://adsabs.harvard.edu/abs/2015MNRAS.453.2644A)  
+Almenara, J. M., Díaz, R. F., Mardling, R., et al.    
+2015, refereed ([2015MNRAS.453.2644A](http://adsabs.harvard.edu/abs/2015MNRAS.453.2644A))  
+
+2. [TIDES ALONE CANNOT EXPLAIN KEPLER PLANETS CLOSE TO 2:1 MMR](http://adsabs.harvard.edu/abs/2015MNRAS.453.4089S)  
+Silburt, Ari, Rein, Hanno    
+2015, refereed ([2015MNRAS.453.4089S](http://adsabs.harvard.edu/abs/2015MNRAS.453.4089S))  
+
+3. [NO CIRCUMBINARY PLANETS TRANSITING THE TIGHTEST KEPLER BINARIES - A POSSIBLE FINGERPRINT OF A THIRD STAR](http://adsabs.harvard.edu/abs/2015MNRAS.453.3554M)  
+Martin, David V., Mazeh, Tsevi, Fabrycky, Daniel C.    
+2015, refereed ([2015MNRAS.453.3554M](http://adsabs.harvard.edu/abs/2015MNRAS.453.3554M))  
+
+
+2015-10
+-------
+
+1. [HIGH-ORDER HARMONICS IN LIGHT CURVES OF KEPLER PLANETS](http://adsabs.harvard.edu/abs/2015MNRAS.453L..98A)  
+Armstrong, Caden, Rein, Hanno    
+2015, refereed ([2015MNRAS.453L..98A](http://adsabs.harvard.edu/abs/2015MNRAS.453L..98A))  
+
+2. [STUDYING ATMOSPHERE-DOMINATED HOT JUPITER KEPLER PHASE CURVES: EVIDENCE THAT INHOMOGENEOUS ATMOSPHERIC REFLECTION IS COMMON](http://adsabs.harvard.edu/abs/2015AJ....150..112S)  
+Shporer, Avi, Hu, Renyu    
+2015, refereed ([2015AJ....150..112S](http://adsabs.harvard.edu/abs/2015AJ....150..112S))  
+
+3. [DEEP GALEX UV SURVEY OF THE KEPLER FIELD I: POINT SOURCE CATALOG](http://adsabs.harvard.edu/abs/2015arXiv151000748O)  
+Olmedo, Manuel, Lloyd, James, Mamajek, Eric E., et al.    
+2015, pre-print ([2015arXiv151000748O](http://adsabs.harvard.edu/abs/2015arXiv151000748O))  
+
+
 2015-09
 -------
 
@@ -46,6 +78,30 @@ Sarkis, P., Nehme, C.
 10. [MAPS AND MASSES OF TRANSITING EXOPLANETS: TOWARDS NEW INSIGHTS INTO ATMOSPHERIC AND INTERIOR PROPERTIES OF PLANETS](http://adsabs.harvard.edu/abs/2015arXiv150901493D)  
 de Wit, Julien    
 2015, pre-print ([2015arXiv150901493D](http://adsabs.harvard.edu/abs/2015arXiv150901493D))  
+
+11. [A HARPS VIEW ON K2-3](http://adsabs.harvard.edu/abs/2015A&A...581L...7A)  
+Almenara, J. M., Astudillo-Defru, N., Bonfils, X., et al.    
+2015, refereed ([2015A&A...581L...7A](http://adsabs.harvard.edu/abs/2015A&A...581L...7A))  
+
+12. [A PAN-STARRS1 STUDY OF THE RELATIONSHIP BETWEEN WIDE BINARITY AND PLANET OCCURRENCE IN THE KEPLER FIELD](http://adsabs.harvard.edu/abs/2015arXiv150904712D)  
+Deacon, N. R., Kraus, A. L., Mann, A. W., et al.    
+2015, pre-print ([2015arXiv150904712D](http://adsabs.harvard.edu/abs/2015arXiv150904712D))  
+
+13. [A STATISTICAL SEARCH FOR A POPULATION OF EXO-TROJANS IN THE KEPLER DATA SET](http://adsabs.harvard.edu/abs/2015ApJ...811....1H)  
+Hippke, Michael, Angerhausen, Daniel    
+2015, refereed ([2015ApJ...811....1H](http://adsabs.harvard.edu/abs/2015ApJ...811....1H))  
+
+14. [A LOW STELLAR OBLIQUITY FOR WASP-47, A COMPACT MULTIPLANET SYSTEM WITH A HOT JUPITER AND AN ULTRA-SHORT PERIOD PLANET](http://adsabs.harvard.edu/abs/2015arXiv150905337S)  
+Sanchis-Ojeda, Roberto, Winn, Joshua N., Dai, Fei, et al.    
+2015, pre-print ([2015arXiv150905337S](http://adsabs.harvard.edu/abs/2015arXiv150905337S))  
+
+15. [GIANT IMPACT: AN EFFICIENT MECHANISM FOR DEVOLATILIZATION OF SUPER-EARTHS](http://adsabs.harvard.edu/abs/2015arXiv150905772L)  
+Liu, Shang-Fei, Hori, Yasunori, Lin, D. N. C., et al.    
+2015, pre-print ([2015arXiv150905772L](http://adsabs.harvard.edu/abs/2015arXiv150905772L))  
+
+16. [ECCENTRICITY EVOLUTION THROUGH ACCRETION OF PROTOPLANETS](http://adsabs.harvard.edu/abs/2015ApJ...810..106M)  
+Matsumoto, Yuji, Nagasawa, Makiko, Ida, Shigeru    
+2015, refereed ([2015ApJ...810..106M](http://adsabs.harvard.edu/abs/2015ApJ...810..106M))  
 
 
 2015-08

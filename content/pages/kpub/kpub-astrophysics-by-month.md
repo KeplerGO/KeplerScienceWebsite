@@ -4,6 +4,26 @@ Save_as: kpub-astrophysics-by-month.html
 [TOC]
 
 
+2015-12
+-------
+
+1. [STATISTICAL PROPERTIES OF SUPERFLARES ON SOLAR-TYPE STARS BASED ON 1-MIN CADENCE DATA](http://adsabs.harvard.edu/abs/2015EP&S...67...59M)  
+Maehara, Hiroyuki, Shibayama, Takuya, Notsu, Yuta, et al.    
+2015, refereed ([2015EP&S...67...59M](http://adsabs.harvard.edu/abs/2015EP&S...67...59M))  
+
+
+2015-11
+-------
+
+1. [A TURN-OFF DETACHED BINARY STAR V568 LYR IN THE KEPLER FIELD OF THE OLDEST OPEN CLUSTER (NGC 6791) IN THE GALAXY](http://adsabs.harvard.edu/abs/2015MNRAS.453.2937Y)  
+Yakut, K., Eggleton, P. P., Kalomeni, B., et al.    
+2015, refereed ([2015MNRAS.453.2937Y](http://adsabs.harvard.edu/abs/2015MNRAS.453.2937Y))  
+
+2. [UNCERTAINTIES ON NEAR-CORE MIXING IN RED-CLUMP STARS: EFFECTS ON THE PERIOD SPACING AND ON THE LUMINOSITY OF THE AGB BUMP](http://adsabs.harvard.edu/abs/2015MNRAS.453.2290B)  
+Bossini, Diego, Miglio, Andrea, Salaris, Maurizio, et al.    
+2015, refereed ([2015MNRAS.453.2290B](http://adsabs.harvard.edu/abs/2015MNRAS.453.2290B))  
+
+
 2015-10
 -------
 
@@ -34,6 +54,14 @@ Molnár, L., Szabó, R., Moskalik, P. A., et al.
 7. [ASTEROSEISMIC ANALYSIS OF KEPLER TARGET KIC 2837475](http://adsabs.harvard.edu/abs/2015MNRAS.453.2094Y)  
 Yang, Wuming, Tian, Zhijia, Bi, Shaolan, et al.    
 2015, refereed ([2015MNRAS.453.2094Y](http://adsabs.harvard.edu/abs/2015MNRAS.453.2094Y))  
+
+8. [ASTEROSEISMIC MODELING OF 16 CYG A & B USING THE COMPLETE KEPLER DATA SET](http://adsabs.harvard.edu/abs/2015ApJ...811L..37M)  
+Metcalfe, Travis S., Creevey, Orlagh L., Davies, Guy R.    
+2015, refereed ([2015ApJ...811L..37M](http://adsabs.harvard.edu/abs/2015ApJ...811L..37M))  
+
+9. [THE ANALYSIS OF INDEXED ASTRONOMICAL TIME SERIES - XII. THE STATISTICS OF OVERSAMPLED FOURIER SPECTRA OF NOISE PLUS A SINGLE SINUSOID](http://adsabs.harvard.edu/abs/2015MNRAS.453.1793K)  
+Koen, Chris    
+2015, refereed ([2015MNRAS.453.1793K](http://adsabs.harvard.edu/abs/2015MNRAS.453.1793K))  
 
 
 2015-09
@@ -70,6 +98,38 @@ Savanov, I. S., Dmitrienko, E. S.
 8. [ON THE ROTATION PERIOD DISTRIBUTION OF COROT AND KEPLER SUN-LIKE STARS](http://adsabs.harvard.edu/abs/2015arXiv150901523L)  
 Leao, I. C., Pasquini, L., Ferreira Lopes, C. E., et al.    
 2015, pre-print ([2015arXiv150901523L](http://adsabs.harvard.edu/abs/2015arXiv150901523L))  
+
+9. [KIC 9533489: A GENUINE Γ DORADUS - Δ SCUTI KEPLER HYBRID PULSATOR WITH TRANSIT EVENTS](http://adsabs.harvard.edu/abs/2015A&A...581A..77B)  
+Bognár, Zs., Lampens, P., Frémat, Y., et al.    
+2015, refereed ([2015A&A...581A..77B](http://adsabs.harvard.edu/abs/2015A&A...581A..77B))  
+
+10. [LAMOST OBSERVATIONS IN THE KEPLER FIELD. I. DATABASE OF LOW-RESOLUTION SPECTRA](http://adsabs.harvard.edu/abs/2015ApJS..220...19D)  
+De Cat, P., Fu, J. N., Ren, A. B., et al.    
+2015, refereed ([2015ApJS..220...19D](http://adsabs.harvard.edu/abs/2015ApJS..220...19D))  
+
+11. [KEPLER MONITORING OF AN L DWARF II. CLOUDS WITH MULTIYEAR LIFETIMES](http://adsabs.harvard.edu/abs/2015arXiv150907186G)  
+Gizis, John E., Dettman, Kyle G., Burgasser, Adam J., et al.    
+2015, pre-print ([2015arXiv150907186G](http://adsabs.harvard.edu/abs/2015arXiv150907186G))  
+
+12. [MEASURING THE NUMBER OF M-DWARFS PER M-DWARF USING KEPLER ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2015arXiv150904189S)  
+Shan, Yutong, Johnson, John A., Morton, Timothy D.    
+2015, pre-print ([2015arXiv150904189S](http://adsabs.harvard.edu/abs/2015arXiv150904189S))  
+
+13. [KEPLER OBSERVATIONS OF A-F PRE-MAIN SEQUENCE STARS IN UPPER SCORPIUS: DISCOVERY OF SIX NEW $\DELTA$~SCUTI AND ONE $\GAMMA$~DORADUS STARS](http://adsabs.harvard.edu/abs/2015arXiv150906943R)  
+Ripepi, V., Balona, L., Catanzaro, G., et al.    
+2015, pre-print ([2015arXiv150906943R](http://adsabs.harvard.edu/abs/2015arXiv150906943R))  
+
+14. [PLANET HUNTERS X. KIC 8462852 - WHERE'S THE FLUX?](http://adsabs.harvard.edu/abs/2015arXiv150903622B)  
+Boyajian, T. S., LaCourse, D. M., Rappaport, S. A., et al.    
+2015, pre-print ([2015arXiv150903622B](http://adsabs.harvard.edu/abs/2015arXiv150903622B))  
+
+15. [KIC 10080943: A BINARY STAR WITH TWO $\GAMMA$ DORADUS/$\DELTA$ SCUTI HYBRID PULSATORS. ANALYSIS OF THE G MODES](http://adsabs.harvard.edu/abs/2015arXiv150903317K)  
+Keen, M. A., Bedding, T. R., Murphy, S. J., et al.    
+2015, pre-print ([2015arXiv150903317K](http://adsabs.harvard.edu/abs/2015arXiv150903317K))  
+
+16. [ABSOLUTE STELLAR PARAMETERS OF KIC 09246715 -- A DOUBLE-GIANT ECLIPSING SYSTEM WITH A SOLAR-LIKE OSCILLATOR](http://adsabs.harvard.edu/abs/2015arXiv150903340H)  
+Hełminiak, Krzysztof G., Ukita, Nobuharu, Kambe, Eiji, et al.    
+2015, pre-print ([2015arXiv150903340H](http://adsabs.harvard.edu/abs/2015arXiv150903340H))  
 
 
 2015-08
