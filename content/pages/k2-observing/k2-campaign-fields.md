@@ -254,7 +254,7 @@ This page details the previous and upcoming Campaign fields.
 
 ## Campaign 7
 
-<img class="img-responsive" style="min-width:97%;" src="http://keplerscience.arc.nasa.gov/K2/images/Field7/field7-final.png">
+<img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/C7_selected.png">
 
 ## Campaign 8
 
