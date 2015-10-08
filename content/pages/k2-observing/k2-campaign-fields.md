@@ -91,7 +91,7 @@ This page details the previous and upcoming Campaign fields.
       <td><a href="#campaign-5">5</a></td>
       <td>2015 Apr 27</td>
       <td>2015 Jul 10</td>
-      <td>2015 Nov 20</td>
+      <td>2015 Oct 29</td>
       <td>08:40:37.84</td>
       <td>+16:49:46.61</td>
       <td><a href="k2-approved-programs.html#campaign-5-apr-2015">&#10004;</a></td>
@@ -102,7 +102,7 @@ This page details the previous and upcoming Campaign fields.
       <td><a href="#campaign-6">6</a></td>
       <td>2015 Jul 14</td>
       <td>2015 Sep 30</td>
-      <td>2016 Dec 28</td>
+      <td>2016 Jan 01</td>
       <td>13:39:27.61</td>
       <td>-11:17:43.29</td>
       <td><a href="k2-approved-programs.html#campaign-6-jul-2015">&#10004;</a></td>
