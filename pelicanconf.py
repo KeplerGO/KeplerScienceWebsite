@@ -110,6 +110,7 @@ MEETINGS = (('<b>13-15 Oct 2015</b><br>Kepler Exoplanet Populations Hack Week', 
             ('<b>18-22 Oct 2015</b><br>RR Lyrae 2015 Conference', 'http://rrl2015.hu/'),
             ('<b>2-5 Nov 2015</b><br>K2 Science Conference', 'http://lcogt.net/k2scicon/'),
             ('<b>8-13 Nov 2015</b><br>K2 workshop at the annual DPS meeting', 'http://aas.org/meetings/dps47'),
+            ('<b>9-10 Dec 2015</b><br>5th Australian Exoplanet Workshop', 'http://astronomy.swin.edu.au/planets/FifthWorkshop2015/'),
             ('<b>4-8 Jan 2015</b><br>K2 splinter session at the winter AAS meeting', 'http://aas.org/meetings/aas227'),
          )
 
