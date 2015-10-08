@@ -34,7 +34,7 @@ We expect to observe several hundred targets through the DDT program, which amou
 The fixed locations and observing windows of Campaigns 8, 9, and 10 are provided [at the field information page](k2-fields.html).  We particularly encourage DDT proposals for Campaign 9, which is a non-standard campaign. The Campaign 9 microlensing experiment involves the Kepler spacecraft observing in the positive velocity vector (+VV) direction at fields toward the Galactic bulge. This allows for simultaneous observations from Earth during Campaign 9. 
 
 
-
+ 
 ### DDT Proposal Submission Form 
 <a name="submissionform"></a>
 
