@@ -4,7 +4,7 @@ Save_as: k2-ddt.html
 
 ### Call for DDT Proposals for K2 Campaigns 8, 9, and 10
 
-A small percentage of the available K2 pixels in each campaign may be allocated by the K2 Guest Observer (GO) Office Director as Director's Discretionary Targets (DDTs).  The primary utilization of DDT programs is in support of community-proposed requests that are based on exceptional, time-critical observing opportunities that cannot be accommodated with the regular cycle of Calls for Proposals for K2. Other DDT usages include innovative observations that extend the scientific capabilities of K2, and extraordinary events and opportunities that necessitate -- in the view of the GO Office Director -- observations to be obtained with K2 for the benefit of the astronomical community.  Note that all DDT observations are publicly available immediately and no funding is available to the proposer for DDT observations.  Proposals from every institution are encouraged.
+A small percentage of the available K2 pixels in each campaign may be allocated by the K2 Guest Observer (GO) Office Director as Director's Discretionary Targets (DDTs).  The primary utilization of DDT programs is in support of community-proposed requests that are based on exceptional, time-critical observing opportunities that cannot be accommodated with the regular cycle of Calls for Proposals for K2. Other DDT usages include innovative observations that extend the scientific capabilities of K2, and extraordinary events and opportunities that necessitate -- in the view of the GO Office Director -- observations to be obtained with K2 for the benefit of the astronomical community.  Note that all DDT observations are publicly available immediately, and no funding is available to the proposer for DDT observations. 
 
 The purpose of the DDT program for K2 is therefore to facilitate observations that address emerging scientific topics or areas missed in the proposal review process and:
 
@@ -17,9 +17,9 @@ A DDT request should consist of <2 pages of text including all figures, tables, 
 * a strong scientific justification;
 * a description of the long-term legacy value of the program;
 * a justification for why the request was not submitted during the previous Call for Proposals;
-* a separate target table (the required format as well as a [template for the target table can be found here](http://keplerscience.arc.nasa.gov/K2/ProposalPreparationTargetTable.shtml)).
+* a separate target table (does not count toward the 2-page limit; the required format as well as a [template for the target table can be found here](http://keplerscience.arc.nasa.gov/K2/ProposalPreparationTargetTable.shtml)).
 
-Target overlap with the current GO target list will not be considered unless short cadence observations are being requested of a current long cadence target. Requests for DDT cannot be used to resubmit all or part of a proposal that was rejected by the normal peer review process.
+Target overlap with the current GO target list will not be considered unless short cadence observations are being requested of a current long cadence target. Requests for DDT cannot be used to resubmit all or part of a proposal that was rejected by the normal peer review process. DDT proposals from every institution are encouraged.
 
 DDT proposals are reviewed for both technical feasibility by someone in the project office and for scientific value by an outside reviewer.  The results of these reviews are sent to the K2 Project Scientist for approval and, if approved, the targets are placed into the observing list for the upcoming campaign.  An email reply to the proposer, stating the fate of the DDT request, will be sent out by the GO Office Director within one month of receipt of the initial request.
 
