@@ -8,8 +8,8 @@ Save_as: publications.html
 The Guest Observer Office curates <a href="kpub.html">a database
 of scientific publications</a> pertaining to Kepler and K2.
 The database currently contains
-1468 publications,
-of which 1324 are peer-reviewed.
+1493 publications,
+of which 1339 are peer-reviewed.
 This page present a series of statistics
 that demonstrate the important impact of Kepler/K2 data
 on astronomical research.
@@ -17,7 +17,7 @@ on astronomical research.
 Please contact us if you spot an error in the database,
 such as a missing publication.
 
-Last update: 09 Sep 2015.
+Last update: 07 Oct 2015.
 
 <hr/>
 
@@ -25,8 +25,8 @@ Last update: 09 Sep 2015.
 
 The graph below shows the number of publications as a function
 of year and mission.
-The publication count for Kepler is 1417,
-that of K2 is 51.
+The publication count for Kepler is 1441,
+that of K2 is 52.
 
 ![Publication rate by mission and year]({filename}/images/kpub/kpub-publication-rate.png)
 
@@ -46,9 +46,9 @@ View all publications &raquo;
 
 Both Kepler and K2 data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 711 works relate to exoplanets
+While 723 works relate to exoplanets
 (48%),
-a total of 757
+a total of 770
 pertain to other areas of astrophysics
 (52%).
 
@@ -67,7 +67,7 @@ View all astrophysics publications &raquo;
 ## Most-cited publications
 
 Kepler/K2 publications have cumulatively been cited
-34128 times.
+34135 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -187,7 +187,7 @@ within the last 90 days.
 ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 2734 unique author names.
+by a total of 2761 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
 
@@ -195,35 +195,35 @@ Here we list the most-active authors, defined as those with six or more first-au
 
  * Kipping, D (17 publications)
 
- * Chaplin, W (9 publications)
+ * Hekker, S (9 publications)
 
  * Baran, A (9 publications)
 
- * Steffen, J (9 publications)
+ * Chaplin, W (9 publications)
 
  * Molenda-Zakowicz, J (9 publications)
 
- * Savanov, I (9 publications)
-
- * Hekker, S (9 publications)
+ * Steffen, J (9 publications)
 
  * Murphy, S (9 publications)
 
- * Kane, S (9 publications)
+ * Savanov, I (9 publications)
 
- * Ostensen, R (8 publications)
+ * Kane, S (9 publications)
 
  * Kato, T (8 publications)
 
  * Stello, D (8 publications)
 
+ * Ostensen, R (8 publications)
+
  * Huber, D (8 publications)
 
- * Gilliland, R (7 publications)
+ * Sanchis-Ojeda, R (8 publications)
 
- * Wang, J (7 publications)
+ * Tkachenko, A (7 publications)
 
- * Scaringi, S (7 publications)
+ * Metcalfe, T (7 publications)
 
  * Mosser, B (7 publications)
 
@@ -231,36 +231,36 @@ Here we list the most-active authors, defined as those with six or more first-au
 
  * Ramsay, G (7 publications)
 
- * Sanchis-Ojeda, R (7 publications)
+ * Gilliland, R (7 publications)
 
- * Tkachenko, A (7 publications)
+ * Scaringi, S (7 publications)
 
  * Armstrong, D (7 publications)
 
- * Lillo-Box, J (6 publications)
-
- * Barclay, T (6 publications)
-
- * Campante, T (6 publications)
-
- * Mathur, S (6 publications)
-
- * Bonomo, A (6 publications)
-
- * Metcalfe, T (6 publications)
-
- * Santerne, A (6 publications)
-
- * Borucki, W (6 publications)
-
- * Dawson, R (6 publications)
+ * Wang, J (7 publications)
 
  * Gaidos, E (6 publications)
 
  * Rappaport, S (6 publications)
 
+ * Barclay, T (6 publications)
+
+ * Dawson, R (6 publications)
+
+ * Colon, K (6 publications)
+
+ * Santerne, A (6 publications)
+
+ * Bonomo, A (6 publications)
+
+ * Campante, T (6 publications)
+
+ * Borucki, W (6 publications)
+
+ * Lillo-Box, J (6 publications)
+
  * Corsaro, E (6 publications)
 
  * Lissauer, J (6 publications)
 
- * Colon, K (6 publications)
+ * Mathur, S (6 publications)
