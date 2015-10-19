@@ -3,7 +3,7 @@ K2 approved targets & programs
 :save_as: k2-approved-programs.html
 
 .. contents::
-
+ 
 This page details the targets and programs that have been selected
 as part of the `Guest Observer Program <k2-proposing-targets.html>`_.
 

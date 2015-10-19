@@ -4,8 +4,8 @@ Save_as: k2-photometric-performance.html
 [TOC]
 
 ## Summary
-
-Kepler is in a heliocentric orbit, which insures a thermally stable 
+ 
+The Kepler spacecraft is in a heliocentric orbit, which insures a thermally stable 
 environment and provides the ability to remain on a single pointing for the
 duration of each Campaign. 
 Pointing is maintained by a combination of two reaction wheels and thrusters, 
