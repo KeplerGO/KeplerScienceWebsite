@@ -63,7 +63,7 @@ MENUITEMS = (
         ('News', 'archives.html'),
         ('The missions', (
             ('Overview', 'the-missions.html'),
-            ('Science goals', 'the-science.html'),
+            ('Science', 'the-science.html'),
             ('Publications', 'publications.html'),
             ('Conferences', 'conferences.html'),
             )
@@ -97,21 +97,19 @@ KEY_INFORMATION = (
             )
 
 IMPORTANT_DATES = (
-            ('<b>10 Oct 2015</b><br>K2 Science Conference student researcher award application deadline', 'http://lcogt.net/k2scicon-student-researcher-award/'),
-            ('<b>5 Oct 2015</b><br>K2 DDT proposals due for Campaign 8', ''),
-            ('<b>20 Nov 2015</b><br>K2 Campaign 5 data release (expected)', ''),
-            ('<b>10 Dec 2015</b><br>K2 DDT proposals due for Campaign 9', ''),
-            ('<b>28 Dec 2015</b><br>K2 Campaign 6 data release (expected)', ''),
-            ('<b>10 Mar 2016</b><br>K2 DDT proposals due for Campaign 10', ''),
+            ('<b>29 Oct 2015</b><br>K2 Campaign 5 data release (expected)', ''),
+            ('<b>10 Dec 2015</b><br>K2 DDT proposals due for Campaign 9', 'k2-ddt.html'),
+            ('<b>01 Jan 2016</b><br>K2 Campaign 6 data release (expected)', ''),
+            ('<b>10 Mar 2016</b><br>K2 DDT proposals due for Campaign 10', 'k2-ddt.html'),
             ('<b>28 Mar 2016</b><br>K2 Campaign 7 data release (expected)', ''),
          )
 
-MEETINGS = (('<b>13-15 Oct 2015</b><br>Kepler Exoplanet Populations Hack Week', 'http://keplerscience.arc.nasa.gov/KeplerHackWeek/'),
-            ('<b>18-22 Oct 2015</b><br>RR Lyrae 2015 Conference', 'http://rrl2015.hu/'),
+MEETINGS = (('<b>18-22 Oct 2015</b><br>RR Lyrae 2015 Conference', 'http://rrl2015.hu/'),
             ('<b>2-5 Nov 2015</b><br>K2 Science Conference', 'http://lcogt.net/k2scicon/'),
-            ('<b>8-13 Nov 2015</b><br>K2 workshop at the annual DPS meeting', 'http://aas.org/meetings/dps47'),
+            
+            ('<b>8-13 Nov 2015</b><br>47th DPS Meeting', 'http://aas.org/meetings/dps47'),
             ('<b>9-10 Dec 2015</b><br>5th Australian Exoplanet Workshop', 'http://astronomy.swin.edu.au/planets/FifthWorkshop2015/'),
-            ('<b>4-8 Jan 2015</b><br>K2 splinter session at the winter AAS meeting', 'http://aas.org/meetings/aas227'),
+            ('<b>4-8 Jan 2015</b><br>227th AAS meeting', 'http://aas.org/meetings/aas227'),
          )
 
 RELATEDSITES = (

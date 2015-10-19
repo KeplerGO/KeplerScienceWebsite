@@ -1,21 +1,16 @@
-Title: Meetings and conferences
+Title: Kepler & K2 meetings and conferences
 Save_as: conferences.html
 
 ## Upcoming meetings
 
 <table class="table table-striped table-hover" style="max-width:40em;">
-  <tr>
-    <td style="width: 7em;">Oct 2015</td>
-    <td style="width: 20em;">Kepler Exoplanet Populations Hack Week</td>
-    <td><a href="http://keplerscience.arc.nasa.gov/KeplerHackWeek/">registration</a></td>
-  </tr>
-
 
   <tr>
     <td style="width: 7em;">Nov 2015</td>
-    <td>K2 Science Conference I</td>
-    <td><a href="http://lcogt.net/k2scicon/">registration</a></td>
+    <td style="width: 20em;">K2 Science Conference</td>
+    <td><a href="http://lcogt.net/k2scicon/">website</a></td>
   </tr>
+	
 </table>
 
 
@@ -23,6 +18,12 @@ Save_as: conferences.html
 
 <table class="table table-striped table-hover" style="max-width:40em;">
 
+  <tr>
+    <td style="width: 7em;">Oct 2015</td>
+    <td style="width: 20em;">Kepler Exoplanet Populations Hack Week</td>
+    <td><a href="http://keplerscience.arc.nasa.gov/KeplerHackWeek/">website</a></td>
+	</tr>
+	
   <tr>
     <td style="width: 7em;">May 2015</td>
     <td style="width: 20em;">K2 Microlensing Workshop</td>
