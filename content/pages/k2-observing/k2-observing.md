@@ -31,7 +31,7 @@ and the two remaining reaction wheels.
 Each ecliptic Campaign is limited by Sun angle constraints 
 to a duration of approximately 80 days. 
 Therefore, four to five K2 Campaigns can be performed 
-during each future 372-day orbit of the spacecraft.
+during each 372-day orbit of the spacecraft.
 
 K2 is a **community-driven mission**.
 All K2 targets are proposed by the community through the [Guest Observer Program](k2-proposing-targets.html). The K2 mission welcomes all proposals including, but not exclusive to, exoplanet, stellar, extragalactic and solar system science.
@@ -60,14 +60,14 @@ from photometric structure in the rise to outburst maximum.
 * Characterize internal stellar structure and fundamental properties of stars using the tools of **asteroseismology**.
 * Provide a large, regular cadence survey of **AGN activity** 
 in the optical bandpass.
-* Conduct multi-mission, **multi-band monitoring campaigns**
-of ecliptic targets using K2 with additional space-based hardware or ground-based telescopes.
+* Participate in multi-mission, **multi-band monitoring campaigns**
+of ecliptic targets along with other space-based hardware or ground-based telescopes.
 
 ### Potential targets
 
 <ul>
 <li>Possible transiting planet hosts</li>
-<li>Pulsational variable stars</li>
+<li>Pulsating stars</li>
 <li>Rotationally variable stars</li>
 <li>Flaring stars</li>
 <li>Accreting stars and interacting binaries</li>

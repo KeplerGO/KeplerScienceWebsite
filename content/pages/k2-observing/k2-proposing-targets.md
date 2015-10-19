@@ -29,14 +29,15 @@ scientifically and technically.
 Proposers should particularly note that short (1-minute) cadence resources 
 and bright targets are expensive in pixels and onboard storage 
 and have historically been in high demand. 
-Short cadence proposals must justify scientifically and technically the need for higher cadence monitoring relative to long cadence observations.
+Short cadence proposals must have a strong scientific and technical
+justification for the need for higher cadence monitoring relative to long cadence observations.
 
 Proposers must take into account the difference between science 
 that can be achieved exclusively using archived K2 and Kepler data 
 and science that requires new observations by K2. 
 The K2 GO program is specific to the case of science 
 requiring new observations. 
-Funding for archival science is provided through the Astrophysics Data Analysis Program (ADAP; Appendix D.2 of ROSES-2015) instead. 
+Funding for archival science is instead provided through the Astrophysics Data Analysis Program ([ADAP; Appendix D.2 of ROSES-2015](http://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={7EC3A68D-0FF5-627D-C6EF-03D6FDE528FB}&path=closedPast)). 
 This includes all Kepler data and previous K2 Campaigns. 
 
 All proposals to the K2 GO calls must justify 
@@ -79,8 +80,7 @@ Large proposals must also include the development and dissemination
 of a value-added community resource product.
 
 Funding for selected programs typically starts upon availability 
-of Campaign data to the Principal Investigator (PI).
-All data will be made available through the public archive 
+of Campaign data to the public archive 
 at the Mikulski Archive for Space Telescopes (MAST). 
 There is no exclusive use period associated with any K2 GO data. 
 
@@ -152,31 +152,41 @@ In addition to appearing as text within the proposal,
 this table must also be submitted electronically to the Kepler Science Center. 
 
 
-## Sollicitations
+## Solicitations
 
 
-### Campaigns 8-9-10
+### Campaigns 11-12-13
       
-Final pointings for <a href="fields.shtml#8">Campaign 8</a> (RA = 01:05:21.12, Dec = +05:15:44.45), <a href="fields.shtml#9">Campaign 9</a> (RA = 18:01:25.08, Dec = -21:46:47.32) and <a href="fields.shtml#10">Campaign 10</a> (RA = 12:27:07.07, Dec = -04:01:37.8) have been set. We are requesting the community propose the targets to observe during Campaigns 8 and 10, while they propose to join the a Microlensing Science Team for Campaign 9.
+Final pointings for <a href="fields.shtml#11">Campaign 8</a> (RA = ,
+Dec = ), <a href="fields.shtml#12">Campaign 12</a> (RA = , Dec = ) and
+<a href="fields.shtml#13">Campaign 13</a> (RA = , Dec = ) have been
+set. We are requesting the community propose the targets to observe
+during Campaigns 11, 12, and 13.
 
 * **Proposal deadline**<br/>
-  Step 1: 23:59 EST June 02, 2015<br/>
-  Step 2: 23:59 EST July 01, 2015<br/>
+  Step 1: Early February 2016 <br/>
+  Step 2: Early March 2016<br/>
   
-* **Anticipated duration of campaigns**<br/>
-  Campaign 8: Jan 3-Mar 26, 2016. Campaign 9: Apr 7-Jul 6, 2016. Campaign 10: Jul 6-Sep 21, 2016. Start and stop dates are approximate, flexible and could be overtaken by unanticipated operational events.<br/>
+* **Anticipated dates of campaigns**<br/>
+  Campaign 11: Sep 27-Dec 16, 2016. Campaign 12: Dec 22, 2016-Mar
+  12, 2017. Campaign 13: Mar 18-Jun 6, 2017. Start and stop dates are approximate, flexible and could be overtaken by unanticipated operational events.<br/>
   
 * **One proposal or two?**<br/>
   In the interest of efficiency, proposers are requested *NOT* to provide separate proposals with identical science cases for each of the campaigns. If the same science goals are spread across both campaigns, please provide one science justification and two target tables, one for each field.<br/>
   
 * **Target Selection**<br/>
-  In order to avoid inefficiency for Proposers, you are encouraged to use the online tool <a href="ToolsK2FOV.shtml">K2fov</a> to determine whether your targets fall upon silicon and propose only those that do. The precision of this tool is a few 4"x4" arcsec detector pixels. The tool has been updated for the boresight pointings of campaigns 8, 9 and 10.<br/>
+  In order to avoid inefficiency for Proposers, you are encouraged to
+  use the online tool <a href="ToolsK2FOV.shtml">K2fov</a> to
+  determine whether your targets fall upon silicon and propose only
+  those that do. The precision of this tool is a few 4"x4" arcsec
+  detector pixels. The tool will be updated shortly for the boresight
+  pointings of Campaigns 11, 12, and 13.<br/>
 
-* **Should you apply for targets that do not fall on Silicon?**<br/>
-  Please, no. The boresight locations for Campaigns 8, 9 and 10 are set. Proposing off-silicon targets is a waste of energy for proposers, reviewers and Project staff. Use <a href="ToolsK2FOV.shtml">K2fov</a> and apply only for targets that fall upon silicon (output flag "2").<br/>
+* **Should you apply for targets that do not fall on sSilicon?**<br/>
+  Please, no. The boresight locations for Campaigns 11, 12, and 13 are set. Proposing off-silicon targets is a waste of energy for proposers, reviewers and project staff. Use <a href="ToolsK2FOV.shtml">K2fov</a> and apply only for targets that fall upon silicon (output flag "2").<br/>
 
 * **The K2 Ecliptic Plane Input Catalog (EPIC)**<br/>
-  Proposers are asked to submit targets that have been selected from the <a href="http://archive.stsci.edu/k2/epic/search.php">EPIC</a>. The EPIC plays the same role for K2 that the <a href="http://adsabs.harvard.edu/abs/2011AJ....142..112B">Kepler Input Catalog (KIC)</a> played for Kepler target selection. The primary purpose of the catalog is to define photometric apertures for each potential target by providing celestial positions and Kepler bandpass magnitudes. EPIC parameters are produced by source matching existing multi-band catalogs and calculating color corrections for the Kepler bandpass. The EPIC has been updated with campaign 6 and 7 sources. Documentation describing the compilation of the EPIC is provided <a href="http://archive.stsci.edu/k2/documents.html">here</a>.<br/>
+  Proposers are asked to submit targets that have been selected from the <a href="http://archive.stsci.edu/k2/epic/search.php">EPIC</a>. The EPIC plays the same role for K2 that the <a href="http://adsabs.harvard.edu/abs/2011AJ....142..112B">Kepler Input Catalog (KIC)</a> played for Kepler target selection. The primary purpose of the catalog is to define photometric apertures for each potential target by providing celestial positions and Kepler bandpass magnitudes. EPIC parameters are produced by source matching existing multi-band catalogs and calculating color corrections for the Kepler bandpass. The EPIC has been updated with Campaign 6 and 7 sources. Documentation describing the compilation of the EPIC is provided <a href="http://archive.stsci.edu/k2/documents.html">here</a>.<br/>
 
 * **What type of science targets can be proposed?**<br/>
   There are no constraints on the type of science or science target that can be proposed.<br/>
@@ -192,12 +202,15 @@ Final pointings for <a href="fields.shtml#8">Campaign 8</a> (RA = 01:05:21.12, D
 
 
 * **How do I submit a proposal?**<br/>
-    * <a href="ProposalPreparationSubmit.shtml">Submit</a> Step 1 of the proposal by <font color=red>23:59 EST on June 02, 2015.</font>:
+    * <a href="ProposalPreparationSubmit.shtml">Submit</a> Step 1 of
+      the proposal by <font color=red> early February 2016.</font>:
     * Compile the material required for your proposal. The generic content of the proposal is described in Sec 2.3 of the
     <a href="http://www.hq.nasa.gov/office/procurement/nraguidebook/">NRA Proposers Guide</a>. Page
     limits and proposal content within the NRA Guide are amended within Sec 3.4 of the
-    <a href="http://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId=%7B980F0800-B319-53B1-A46D-EBF2E0BBE599%7D&path=open"> Cycle 3 K2 NRA</a>. We describe the content of the proposal
-    <a href="ProposalPreparationContent.shtml"> here</a>. Briefly, proposers will need to:</li>
+    <a
+    href="http://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId=%7B980F0800-B319-53B1-A46D-EBF2E0BBE599%7D&path=open">
+    K2 GO Cycle 3 NRA</a>. We describe the content of the proposal
+    <a href="ProposalPreparationContent.shtml"> here</a>. Briefly, proposers will need to:
     
         * Understand the <a href="Science.shtml">scope</a> of the
         Guest Observer Program. Science papers exploiting data from the Kepler and K2 mission can be found <a href="../PublicationsAstrophysics.shtml">here</a> and <a href="../PublicationsExoplanets.shtml">here</a>.
@@ -208,7 +221,8 @@ Final pointings for <a href="fields.shtml#8">Campaign 8</a> (RA = 01:05:21.12, D
         * Complete the <a href="ProposalPreparationTargetTable.shtml"> Target Table</a>, as an integral component of the proposal and as a separate submission to the Guest Observer Office.
         * Provide the administrative elements of the proposal including a proposer biographical information, and a statement of current and pending financial support.
 
-    * <a href="ProposalPreparationSubmit.shtml"> Submit</a> Step 2 of the proposal to NSPIRES before <font color=red> 23:59 EST on July 01, 2015.</font>
+    * <a href="ProposalPreparationSubmit.shtml"> Submit</a> Step 2 of
+      the proposal to NSPIRES by <font color=red> early March 2016.</font>
 
 
 ### Director's Discretionary Time
@@ -216,4 +230,4 @@ Final pointings for <a href="fields.shtml#8">Campaign 8</a> (RA = 01:05:21.12, D
 A small part of the pixel budget may be allocated by the project as Director's Discretionary Targets (DDT),
 which is intended to facilitate observations that address
 scientific topics missed in the proposal review process.
-More information and deadlines are available from the [DDT Program page](k2-ddt.html)
+More information and deadlines are available from the [DDT Program page](k2-ddt.html).

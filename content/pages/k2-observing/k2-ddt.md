@@ -28,7 +28,7 @@ To ensure that approved targets are included in the final target lists for each 
 * October 5, 2015 for Campaign 8 <font color=red> (deadline has passed)</font>
 * December 10, 2015 for Campaign 9
 * March 10, 2016 for Campaign 10
-
+ 
 We expect to observe several hundred targets through the DDT program, which amounts to a few per cent of the total targets allocated. The exact number of DDTs to be observed largely depends on the number of short versus long cadence DDTs approved. 
 
 The fixed locations and observing windows of Campaigns 8, 9, and 10 are provided [at the field information page](k2-fields.html).  We particularly encourage DDT proposals for Campaign 9, which is a non-standard campaign. The Campaign 9 microlensing experiment involves the Kepler spacecraft observing in the positive velocity vector (+VV) direction at fields toward the Galactic bulge. This allows for simultaneous observations from Earth during Campaign 9. 
