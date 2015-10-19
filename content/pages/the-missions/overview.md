@@ -4,7 +4,7 @@ Save_as: the-missions.html
 ### Kepler: searching for Earth-like planets around Sun-like stars
 
 The Kepler spacecraft launched in March 2009 and spent approximately
-four years monitoring 150,000+ stars with continuous, 30-min
+four years monitoring 150,000+ stars in the Cygnus-Lyra region with continuous, 30-min
 or 1-min sampling.  The primary science objective of the Kepler
 mission was transit-driven exoplanet detection with emphasis on terrestrial, R
 < 2.5 R<sub>Earth</sub> planets located within the habitable zones of Sun-like
