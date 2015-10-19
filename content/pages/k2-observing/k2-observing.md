@@ -1,32 +1,15 @@
-Title: K2 observing: overview
+Title: K2 observing: an overview
 Save_as: k2-observing.html
 
-<div class="well"><i>
-The K2 mission provides an opportunity to continue Kepler’s ground-breaking discoveries in the field of exoplanets and expand its role into new and exciting astrophysical observations.</i></div>
+The K2 mission provides the community with an opportunity to continue Kepler’s ground-breaking discoveries in the field of exoplanets and expand its role into new and exciting astrophysical observations.</i></div>
 
-### Extending Kepler's power to the ecliptic
-
-The loss of a second of the four reaction wheels on board the Kepler 
-spacecraft in May 2013 brought an end to its four plus year primary science 
-mission to continuously monitor more than 150,000 stars 
-in the 116 square degree Kepler field for transiting exoplanet candidates. 
-
-Developed over the months following this failure, 
-the K2 mission represents a new concept for spacecraft operations 
-that enables continued scientific observations 
-with the Kepler space telescope. 
-
-The K2 mission entails a series of sequential
+K2 observations entail a series of sequential
 <a href="k2-fields.html">observing "Campaigns"</a> 
 of fields distributed around the ecliptic plane 
 and offers a photometric precision approaching that 
-of the original Kepler mission **<a href="k2-photometric-performance.html">to within a factor of approximately two</a>**.
-
-Operating in the ecliptic plane minimizes the torque exerted 
-on the spacecraft by solar wind pressure, 
-reducing pointing drift to the point where spacecraft attitude 
-can effectively be controlled through a combination of thrusters 
-and the two remaining reaction wheels. 
+of the original Kepler mission **<a
+href="k2-photometric-performance.html">to within a factor of
+approximately two</a>**.
 
 Each ecliptic Campaign is limited by Sun angle constraints 
 to a duration of approximately 80 days. 
