@@ -153,6 +153,28 @@ This page details the previous and upcoming Campaign fields.
       <td>North Galactic cap</td>
     </tr>
 
+ <tr>
+      <td><a href="#campaign-11">11</a></td>
+      <td>2016 Sep 27</td>
+      <td>2016 Dec 16</td>
+      <td>2017 Mar 19</td>
+      <td>17:19:53.12</td>
+      <td>-23:56:57.07</td>
+      <td></td>
+      <td>Galactic Center</td>
+      </tr>
+
+  <tr>
+      <td><a href="#campaign-12">12</a></td>
+      <td>2016 Dec 22</td>
+      <td>2017 Mar 12</td>
+      <td>2017 Jun 05</td>
+      <td>23:19:12.83</td>
+      <td>-05:52:32.08</td>
+      <td></td>
+      <td>South Galactic Cap</td>
+    </tr>
+
   </tdata>
 </table>
 
@@ -182,30 +204,9 @@ This page details the previous and upcoming Campaign fields.
   </thead>
   
   <tdata>
-   <tr>
-      <td><a href="#campaign-11">11</a></td>
-      <td>2016 Sep 27</td>
-      <td>2016 Dec 16</td>
-      <td>2017 Mar 19</td>
-      <td>17:19:53.12</td>
-      <td>-23:56:57.07</td>
-      <td></td>
-      <td>Galactic Center</td>
-    </tr>
 
     <tr>
-      <td><a href="#campaign-12">12</a></td>
-      <td>2016 Dec 22</td>
-      <td>2017 Mar 12</td>
-      <td>2017 Jun 05</td>
-      <td>23:19:12.83</td>
-      <td>-05:52:32.08</td>
-      <td></td>
-      <td>South Galactic Cap</td>
-    </tr>
-
-    <tr>
-      <td><a href="#campaign-13">13</a></td>
+      <td><a href="#proposed-campaign-13">13</a></td>
       <td>2017 Mar 18</td>
       <td>2017 Jun 06</td>
       <td>2017 Sep 03</td>
@@ -268,12 +269,14 @@ This page details the previous and upcoming Campaign fields.
 
 <img class="img-responsive" style="min-width:97%;" src="http://keplerscience.arc.nasa.gov/K2/images/Field10/field10-final.png">
 
-## Proposed Campaign 11
+## Campaign 11
 
-<img class="img-responsive" style="min-width:97%;" src="http://keplerscience.arc.nasa.gov/K2/images/Field11/propField11.png">
+<img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/f11-final.png">
 
-## Proposed Campaign 12
+## Campaign 12
+
+<img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/f12-final.png">
 
 ## Proposed Campaign 13
 
-<img class="img-responsive" style="min-width:97%;" src="http://keplerscience.arc.nasa.gov/K2/images/Field13/propField13.png">
+<img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/f13-proposed.png">

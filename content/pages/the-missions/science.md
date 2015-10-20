@@ -190,7 +190,7 @@ square degree field of view on the sky is illustrated below.
 
   <thead>
     <tr>
-      <th>Proposal #</th>
+      <th>Proposal # </th>
       <th>PI</th>
       <th>Title</th>
     </tr>
@@ -199,9 +199,15 @@ square degree field of view on the sky is illustrated below.
   <tdata>
 
 <tr>
-      <td>08-KEPLER08-0003</td>
+      <td style="min-width: 8em;">08-KEPLER08-0003</td>
       <td>McNamara</td>
-      <td>MEASURING THE SUB-MILLIMAGNITUDE FREQUENCY SPECTRA OF PULSATING B STARS</td>
+      <td>MEASURING THE SUB-MILLIMAGNITUDE FREQUENCY SPECTRA OF
+      PULSATING B STARS</td>
+	  <td><a href="data/keplergo/go1/GO10003_McNamara.pdf" class="btn
+      btn-primary btn-xs"><i class="fa fa-download fa-margin"></i>
+      abstract</a></td>
+	  <td><a href="http://archive.stsci.edu/kepler/data_search/search.php?action=Search&max_records=100000&verb=3&ktc_target_type[]=LC&ktc_target_type[]=SC&ktc_investigation_id=*GO10003*" class="btn btn-primary btn-xs"><i class="fa fa-download fa-margin"></i> data</a></td>
+
       </tr>
 	  
   </tdata>
