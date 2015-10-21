@@ -116,6 +116,7 @@ RELATEDSITES = (
             ('Kepler Website @ NASA', 'http://www.nasa.gov/mission_pages/kepler/main/index.html'),
             ('Kepler Education &amp; Outreach @ NASA', 'http://kepler.arc.nasa.gov'),
             ('Mission Manager Updates @ NASA', 'http://www.nasa.gov/mission_pages/kepler/news/mmu.html'),
+            ('Kepler/K2 Website @ Ball Aerospace', 'http://www.ballaerospace.com/page.jsp?page=72'),
             ('Kepler Data Archive @ MAST', 'http://archive.stsci.edu/kepler'),
             ('K2 Data Archive @ MAST', 'http://archive.stsci.edu/k2'),
             ('NASA Exoplanet Archive @ IPAC', 'http://exoplanetarchive.ipac.caltech.edu'),
