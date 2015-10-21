@@ -19,6 +19,16 @@ The
 primarily hosts data related to the Kepler mission planet search.
 A table of confirmed planets from K2 is also hosted at NExScI.
 
+### Planet Hunters
+
+The [Planet Hunters](http://www.planethunters.org/) website offers the community the opportunity to
+visually inspect light curves from Kepler and K2.  Through the
+website, users can help identify
+new transiting planets, eclipsing binaries, and other types of
+variable stars. Thanks to the participation of hundreds of thousands
+of volunteers, Planet Hunters has discovered a number of new planets
+in the Kepler data to date.
+
 ### CFOP and ExoFOP-K2
 
 The [Kepler Community Follow-up Observing Program (CFOP)](https://cfop.ipac.caltech.edu/home/) website
