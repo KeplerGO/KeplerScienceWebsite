@@ -17,10 +17,4 @@ Here is a list of software products created by the Kepler/K2 Guest Observer Offi
     <td><a href="https://github.com/KeplerGO/kadenza">https://github.com/KeplerGO/kadenza</a></td>
 </tr>
 
-<tr>
-    <td>Kadenza</td>
-    <td>Converts raw cadence data from the Kepler spacecraft into astronomer-friendly FITS files.</td>
-    <td><a href="https://github.com/KeplerGO/kadenza">https://github.com/KeplerGO/kadenza</a></td>
-</tr>
-
 </table>
