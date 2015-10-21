@@ -1,5 +1,5 @@
 Title: K2 Science Conference Deadline Fast Approaching
-Date: 2015-10-15 11:00
+Date: 2015-09-15 11:00
 Author: Thomas Barclay
 
 The September 18 deadline for early registration, hotel reservation, & abstract submission for the [K2SciCon](http://lcogt.net/k2scicon/) is just a few days away.
