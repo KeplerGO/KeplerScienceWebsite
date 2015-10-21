@@ -92,7 +92,7 @@ KEY_INFORMATION = (
             ('K2 Approved targets', 'k2-approved-programs.html'),
             ('K2 Proposal preparation', 'k2-proposing-targets.html'),
             ('K2 DDT call','k2-ddt.html'),
-            ('Data access', 'http://TBD'),
+            ('Data access', 'data-access.html'),
             ('Recent publications', 'publications.html'),
             )
 
