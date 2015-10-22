@@ -1,11 +1,12 @@
 Title: Kepler/K2 Guest Observer Office Software
 Save_as: software.html
 
+[TOC]
+
 Here is a list of software products created by the Kepler/K2 Guest
 Observer Office for use in preparing for Kepler and K2 observations
 and for analyzing the collected data. The Guest Observer Office hosts
-source code on [Github](https://github.com/keplergo).  A link to the
-PyKE tool is below.
+source code on [Github](https://github.com/keplergo). 
 
 <table class="table table-striped table-hover" style="max-width:40em;">
 
@@ -72,18 +73,119 @@ mitigation. Systematic reduction in the Kepler pipeline is optimized
 to yield the highest number of potentially-detectable exoplanet
 transits from a sample of 160,000 stars. PyKE, on the other hand, is a
 group of python tasks developed for the reduction and analysis of
-Kepler Simple Aperture Photometry (SAP) data of individual targets
+Kepler pixel-level data and Simple Aperture Photometry (SAP) data of individual targets
 with individual characteristics. PyKE was developed to provide
 alternative data reduction, tunable to the user's specific science
 goals. The main purposes of these tasks are to i) re-extract light
 curves from manually-chosen pixel apertures and ii) cotrend and/or
 detrend the data in order to reduce or remove systematic noise
-structure using methods tun-able to user and target-specific
+structure using methods tune-able to user and target-specific
 requirements. Tasks to perform data analysis developed for the
 author's science programs are also included. PyKE is an open source
 project. Contributions of new tasks or enhanced functionality of
-existing tasks by the community are welcome. PyKE can be installed on
-all PYRAF supported platforms from here.
+existing tasks by the community are welcome.
+
+**Content**
+
+<table class="table table-striped table-hover" style="max-width:40em;">
+
+<tr>
+    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKeparith.shtml">keparith</a></td>
+    <td>Time-invariant algebra on light curve data </td>
+</tr>
+
+</table>
+
+
+
+**PyRAF installation**
+
+PyKE is a python-based PyRAF package which can also be executed without PyRAF on the command line of a shell. In order to install and run PyKE as a PyRAF package on your Mac or Linux platform you will need PyRAF to be pre-installed following these instructions. We recommend the Ureka binary install option.
+
+A PyRAF tutorial is provided, explaining functionality and the evolution of IRAF into a python-based scripting language. The Kepler tools have been tested against PyRAF version 2.1.6. Please report any deviant behavior using later versions of these packages.
+
+Download the PyKE package tarball by clicking the button at the top-right of the webpage.
+To install the Kepler package first create an empty directory to contain the PyKE package files. The most uniform place for this directory is alongside similar packages in the IRAF tree such as stsdas/ and tables/. If PyRAF has been installed e.g. on a mac using the Ureka instructions on the STScI python page then create a directory called /usr/local/Ureka/variants/common/iraf/kepler. Doing this may require administrator privileges. The command to create a new directory will be sudo mkdir /usr/local/Ureka/variants/common/iraf/kepler. 
+
+The folder /usr/local/Ureka/variants/common/iraf/kepler may already exist. If so, it was installed by the Ureka build and more often than not will contain an older version of the PyKE tools. We recommend you delete the content of that folder before continuing.
+
+Edit the extern.pkg file to define the package within the PyRAF system. The location of this file will typically be /usr/local/Ureka/variants/common/extern.pkg. Edit extern.pkg to include the two lines (again administrator privileges may be needed here):
+
+reset kepler = /usr/local/Ureka/variants/common/iraf/kepler/
+task kepler.pkg = kepler$kepler.cl
+
+Change directories to the PyKE root directory /usr/local/Ureka/variants/common/iraf/kepler and unpack the downloaded file PyKE.tar:
+
+% cd /usr/local/Ureka/variants/common/iraf/kepler/
+% tar xvf path/PyKE.tar
+
+where path is the location of the downloaded file. The tar operation may require root privilege.
+
+If you are an existing IRAF or PyRAF user, change directory to where your iraf login script 'login.cl' is located (for example, your home directory), and rerun the 'mkiraf' script, which re-initializes the uparm parameter files. 
+
+PyRAF requires that you be using csh or tcsh. If you are not running csh or tcsh change to cshell by typing: 
+
+% csh
+
+**PyRAF execution**
+
+For a full description on getting started go to chapter 2 of the PyRAF tutorial. Here's the short version:
+
+Before running this package for the first time add the Ureka executable files to your path by typing: eval `/Users/still/.ureka/ur_setup !*`. Tip - if you look in your startup file e.g. .cshrc in your home directory, you will find that the Ureka install process has made you a handy alias for this ugly command.
+Then create files for the storage of PyRAF environment variables and arguments: Within the working shell type 'mkiraf' and choose 'xterm'.
+
+Fire up PyRAF by typing 'pyraf'.
+
+Load the Kepler package by typing 'kepler'. You should see a welcome
+message and a list of available tasks.
+
+**Standalone installation**
+
+There are pros and cons to using PyKE as a PyRAF package. Users can rely on GUI operation and retention of input parameters previously used. On the other hand, installation of PyRAF on linux machines can occassionally be challenging. Users unwilling to attempt PyRAF installation can still use PyKE from within a unix/linux shell on the command line. GUI and parameter retention features are however lost in this operating mode and command line calls to PyKE can often be character strings of long length. A positive however is that calls to PyKE can be easily included within shell scripts. Find installation and execution instructions for shell-based PyKE here.
+
+**Citing PyKE in publications**
+
+Those wishing to cite PyKE in a publication may wish to reference Still & Barclay (2012). An appropriate statementment to include in the acknowledgements is: "This work made use of PyKE (Still & Barclay 2012), a software package for the reduction and analysis of Kepler data. This open source software project is developed and distributed by the NASA Kepler Guest Observer Office".
+
+**History**
+
+**Disclaimers**
+No Warranty: THE SUBJECT SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY WARRANTY OF ANY KIND, EITHER EXPRESSED, IMPLIED, OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTY THAT THE SUBJECT SOFTWARE WILL CONFORM TO SPECIFICATIONS, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR FREEDOM FROM INFRINGEMENT, ANY WARRANTY THAT THE SUBJECT SOFTWARE WILL BE ERROR FREE, OR ANY WARRANTY THAT DOCUMENTATION, IF PROVIDED, WILL CONFORM TO THE SUBJECT SOFTWARE. THIS AGREEMENT DOES NOT, IN ANY MANNER, CONSTITUTE AN ENDORSEMENT BY GOVERNMENT AGENCY OR ANY PRIOR RECIPIENT OF ANY RESULTS, RESULTING DESIGNS, HARDWARE, SOFTWARE PRODUCTS OR ANY OTHER APPLICATIONS RESULTING FROM USE OF THE SUBJECT SOFTWARE. FURTHER, GOVERNMENT AGENCY DISCLAIMS ALL WARRANTIES AND LIABILITIES REGARDING THIRD-PARTY SOFTWARE, IF PRESENT IN THE ORIGINAL SOFTWARE, AND DISTRIBUTES IT "AS IS."
+
+Waiver and Indemnity: RECIPIENT AGREES TO WAIVE ANY AND ALL CLAIMS
+AGAINST THE UNITED STATES GOVERNMENT, ITS CONTRACTORS AND
+SUBCONTRACTORS, AS WELL AS ANY PRIOR RECIPIENT. IF RECIPIENT'S USE OF
+THE SUBJECT SOFTWARE RESULTS IN ANY LIABILITIES, DEMANDS, DAMAGES,
+EXPENSES OR LOSSES ARISING FROM SUCH USE, INCLUDING ANY DAMAGES FROM
+PRODUCTS BASED ON, OR RESULTING FROM, RECIPIENT'S USE OF THE SUBJECT
+SOFTWARE, RECIPIENT SHALL INDEMNIFY AND HOLD HARMLESS THE UNITED
+STATES GOVERNMENT, ITS CONTRACTORS AND SUBCONTRACTORS, AS WELL AS ANY
+PRIOR RECIPIENT, TO THE EXTENT PERMITTED BY LAW. RECIPIENT'S SOLE
+REMEDY FOR ANY SUCH MATTER SHALL BE THE IMMEDIATE, UNILATERAL
+TERMINATION OF THIS AGREEMENT.
+
+**Notices**
+Copyright © 2010-2011 United States Government as represented by the Administrator of the National Aeronautics and Space Administration. All Rights Reserved.
+
+[NASA open source agreement](http://keplerscience.arc.nasa.gov/docs/KeplerScienceCommunityToolsNOSA.pdf)
+
+#### Walk-through examples
+
+PyKE is a suite of python software tools developed to reduce and analyze Kepler light curves, TPFs, and FFIs. PyKE tools provide the user with flexibility to tune pixel extraction and artifact mitigation for the scientific potential of individual target data. These examples provide use cases and reduction examples for the reader to follow. Data users are encouraged to experiment with the tunable input parameters for each tool. The procedures outlined in this section will not be optimal for all science, and it will ultimately be up to the user to determine what parameter values optimize scientific return.
+
+PyKE tasks can be called and controlled i) directly from the command line within the PyRAF environment, ii) entirely through GUI-driven operation using the epar function on the command line within the PyRAF environment, or iii) as standalone python scripts called from the command line of a unix/linux shell. For the sake of clarity in these walkthroughs, we provide uniformly the PyRAF GUI task invocations. To get started on each walkthrough - in an xterm (not an OS X terminal window), run the following command in the directory where you have downloaded your Kepler data:
+   % mkiraf
+setting the terminal type to xterm when asked. Then startup PyRAF and load the PyKE tools in the Kepler package by entering the following commands
+   % pyraf
+      --> kepler
+To execute any task in GUI mode, type epar <taskname>, e.g.
+      --> epar kepdraw
+
+* [Extract and cotrend new light curves from Target Pixel Files](http://keplerscience.arc.nasa.gov/PyKEprimerWalkthroughA.shtml)
+* [Mitigate motion and focus artifacts by redefining the optimal aperture](http://keplerscience.arc.nasa.gov/PyKEprimerWalkthroughB.shtml)
+* [Subjective light curve cotrending using basis vectors](http://keplerscience.arc.nasa.gov/PyKEprimerWalkthroughC.shtml)
+* [Removing stellar astrophysics and quarter stitching](http://keplerscience.arc.nasa.gov/PyKEprimerWalkthroughD.shtml)
+* [Mitigate K2 motion artifacts by correlating detrended flux with target centroids](http://keplerscience.arc.nasa.gov/PyKEprimerWalkthroughE.shtml)
 
 ### Additional tools
 
