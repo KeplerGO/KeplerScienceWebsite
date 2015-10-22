@@ -6,7 +6,7 @@ and remains fixed upon a single boresight position.
 This page details the previous and upcoming Campaign fields.
 
 
-![K2 campaign fields on the sky]({filename}/images/k2/CampaignSkyII.png)
+![K2 campaign fields on the sky]({filename}/images/k2/fieldsFor2017.v3.png)
 
 
 <div class="panel panel-primary">

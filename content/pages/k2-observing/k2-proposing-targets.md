@@ -66,6 +66,7 @@ including the degree to which the proposal satisfies
 K2’s observational constraints; and
  * The feasibility and suitability of the proposed analysis techniques.
 
+All proposals are peer-reviewed and ranked by a panel of professional volunteers, followed by ratification from NASA Headquarters. The members of the peer-review panel will not be disclosed. The deliberations of the panel will be disclosed to the Cycle 3 PIs only after ratification by the selecting official.
 
 ### Availability of funds
 
@@ -128,7 +129,8 @@ that are faint or missing from the EPIC.
 K2 collection of valid data relies on the delivery 
 of accurate celestial positions and magnitudes of each target. 
 Proposals must state the origin for this information, 
-especially if it does not come from the EPIC. 
+especially if it does not come from the EPIC.  Extended targets or
+targets with high proper motion should also be noted by the proposer.
 
 Determining whether or not desired targets fall on active regions 
 of the focal plane is also the responsibility of the proposer. 
@@ -154,6 +156,8 @@ this table must also be submitted electronically to the Kepler Science Center.
 
 ## Solicitations
 
+The call for K2 GO Cycle 4 proposals, which include Campaigns 11, 12,
+and 13, will be released soon.
 
 ### Campaigns 11-12-13
       
@@ -222,8 +226,12 @@ during Campaigns 11, 12, and 13.
         * Provide the administrative elements of the proposal including a proposer biographical information, and a statement of current and pending financial support.
 
     * <a href="ProposalPreparationSubmit.shtml"> Submit</a> Step 2 of
-      the proposal to NSPIRES by <font color=red> early March 2016.</font>
+      the proposal to NSPIRES by <font color=red> early March 2016.</font></br>
 
+* **Special instructions for non-US PIs**</br>
+</br>During the submission process, non-US PI-led proposals will need to be affiliated to a submitting organization. Do this by clicking on the "Account Mgmt" tab at the top of the NSPIRES page and follow the instructions. All non-US proposals should use the "Kepler Guest Observer Office" as your affiliation within NSPIRES. This is simply a fudge, albeit a required fudge, so that non-US PIs spend no more effort than this over the institutional endorsements that are mandatory for US investigators.
+
+When completing the proposal, there are a few obscure boxes on the standard form that need your attention. The organization name is "Kepler Guest Observer Office", doing business as the "Kepler Guest Observer Office". The DUNS number is "999999954" and the cage code is "ZZZ54". These details will make sense to you when you see the Step 2 proposal form. 
 
 ### Director's Discretionary Time
 

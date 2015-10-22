@@ -21,10 +21,10 @@ broad science community, with a charter to promote the continued exploitation of
 Kepler data and broaden the scientific impact of this mission. Kepler
 data provide a unique combination of photometric precision, duration,
 contiguity and source volume. The scientific community have the 
-opportunity to mine Kepler's
-rich public data archive. The community are encouraged to participate
+opportunity to mine [Kepler's
+rich public data archive](http://archive.stsci.edu/kepler/). The community are encouraged to participate
 in Kepler's primary science as well as exploit the mission's unique archive
-and observing resources to pursue unrelated stellar and extragalactic
+and observing resources to pursue stellar and extragalactic
 astrophysics.
 
 ### K2: extending Kepler's power to the ecliptic
@@ -36,7 +36,9 @@ in the 116 square degree Kepler field for transiting exoplanet
 candidates.  Developed over the months following this failure, 
 the K2 mission represents a new concept for spacecraft operations 
 that enables continued scientific observations 
-with the Kepler space telescope. 
+with the Kepler space telescope. K2 became fully operational in June
+2014 and has been obtaining a photometric precision that rivals that
+of the Kepler mission.
 
 The K2 mission entails a series of sequential
 <a href="k2-fields.html">observing "Campaigns"</a> 
