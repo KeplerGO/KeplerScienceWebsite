@@ -78,6 +78,10 @@ The Kepler and K2 mission pages at NExScI also detail the instructions for
 requesting a Kepler or K2 number for new planets discovered in the
 Kepler or K2 data.
 
+Long cadence (30-min) images and light curves are stored in files that
+span a quarter. Short cadence (1-min) images and light curves are
+stored in files that span a month.
+
 <table class="table table-striped table-hover" style="max-width:40em;">
   <thead>
     <tr>
