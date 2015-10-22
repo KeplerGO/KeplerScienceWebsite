@@ -1,7 +1,11 @@
 Title: K2 observing: an overview
 Save_as: k2-observing.html
 
-The K2 mission provides the community with an opportunity to continue Kepler’s ground-breaking discoveries in the field of exoplanets and expand its role into new and exciting astrophysical observations.</i></div>
+The K2 mission provides the community with an opportunity to continue
+Kepler’s ground-breaking discoveries in the field of exoplanets and
+expand its role into new and exciting astrophysical observations. A
+description of the mission concept and early results can be found in
+[Howell et al. 2014](http://adsabs.harvard.edu/abs/2014PASP..126..398H).</i></div>
 
 K2 observations entail a series of sequential
 <a href="k2-fields.html">observing "Campaigns"</a> 

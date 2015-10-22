@@ -9,6 +9,15 @@ which is hosted at the
 [NASA Exoplanet Science Institute (NExScI)](http://nexsci.caltech.edu/)
 and the [Mikulski Archive for Space Telescopes (MAST)](https://archive.stsci.edu/) which is located at the [Space Telescope Science Institute (STScI)](http://www.stsci.edu/). The Exoplanet Archive primarily hosts data related to the Kepler mission planet search while the MAST is responsible for hosting time series data and spacecraft calibration products for Kepler and K2. 
 
+**Documentation**
+
+* Kepler Instrument Handbook and Supplement
+* Kepler Archive Manual
+* The Kepler Input Catalog
+* Kepler Data Characteristics Handbook
+* Kepler Data Processing Handbook
+* Kepler Data Release Notes (see table below)
+
 ## Kepler Products
 
 The [Kepler mission page at MAST](https://archive.stsci.edu/kepler/) contains the latest news and updates
@@ -54,6 +63,17 @@ The documents can also be downloaded directly by following the links below.
 * Kepler Data Characteristics Handbook
 * Kepler Data Processing Handbook
 * Kepler Data Release Notes (see table below)
+
+The [Kepler mission page at NExScI](http://exoplanetarchive.ipac.caltech.edu/docs/KeplerMission.html) contains the following products:
+
+* KOI activity tables
+* Threshold-crossing events and data validation tables
+* Stellar information for observed Kepler targets
+* Ccompleteness and reliability products
+
+The Kepler and K2 mission pages at NExScI also detail the instructions for
+requesting a Kepler or K2 number for new planets discovered in the
+Kepler or K2 data.
 
 <table class="table table-striped table-hover" style="max-width:40em;">
   <thead>
@@ -233,6 +253,14 @@ below.  Much of the Kepler documentation is also relevant to the K2 data and can
 
 * The Ecliptic Planet Input Catalog
 * K2 Data Release Notes (see table below)
+
+The
+[K2 mission page at NExScI](http://exoplanetarchive.ipac.caltech.edu/docs/K2Mission.html)
+contains an interactive table of K2 targets.
+
+The Kepler and K2 mission pages at NExScI also detail the instructions for
+requesting a Kepler or K2 number for new planets discovered in the
+Kepler or K2 data.
 
 <table class="table table-striped table-hover" style="max-width:40em;">
   <thead>

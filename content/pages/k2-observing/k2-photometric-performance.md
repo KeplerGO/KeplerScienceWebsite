@@ -5,7 +5,7 @@ Save_as: k2-photometric-performance.html
 
 ## Summary
  
-The Kepler spacecraft is in a heliocentric orbit, which insures a thermally stable 
+The Kepler spacecraft is in an Earth-trailing heliocentric orbit, which insures a thermally stable 
 environment and provides the ability to remain on a single pointing for the
 duration of each Campaign. 
 Pointing is maintained by a combination of two reaction wheels and thrusters, 
@@ -20,7 +20,7 @@ where solar pressure is largely mitigated by spacecraft geometry,
 thereby making viable precision pointing and photometry 
 approaching the quality for the Kepler mission. 
 
-It is anticipated that K2 will achieve a benchmark photometric precision 
+Science observations are taken at one of two timing settings: long (30-min) or short (1-min) cadence. It is anticipated that K2 will achieve a benchmark photometric precision 
 on an m<sub>V</sub> = 12 G2V star of 170 parts-per-million (ppm) 
 in 30 minutes of integration, i.e., one long cadence exposure. 
 This corresponds to ~50 ppm over a 6.5-hour transit 
