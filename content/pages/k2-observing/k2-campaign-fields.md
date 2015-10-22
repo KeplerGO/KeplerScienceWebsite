@@ -171,7 +171,7 @@ by K2.
       <td>2017 Mar 12</td>
       <td>2017 Jun 05</td>
       <td>23:26:42.61</td>
-      <td>-5:05:44.33</td>
+      <td>-05:05:44.33</td>
       <td></td>
       <td>South Galactic Cap</td>
     </tr>
@@ -185,7 +185,7 @@ by K2.
 
 <div class="panel panel-primary">
   <div class="panel-heading">
-    <h3 class="panel-title">Proposed future fields</h3>
+    <h3 class="panel-title">Proposed future fields (coordinates may change)</h3>
   </div>
   <div class="panel-body">
 
