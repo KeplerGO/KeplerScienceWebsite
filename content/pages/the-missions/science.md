@@ -6,7 +6,13 @@ Save_as: the-science.html
 ## Science from Kepler
 
 With over four years of continuous monitoring of over 150,000 stars in
-the Cygnus-Lyra region, Kepler has produced and still continues to produce myriad scientific results.  Publications using Kepler data can be found [here](kpub-kepler.html).
+the Cygnus-Lyra region, Kepler has produced and still continues to
+produce myriad scientific results.  To date, Kepler has discovered
+over 4,000 planet candidates, many of which have been confirmed or
+validated.  These planets are highlighted in the image below.  Kepler data has also revealed insights into
+asteroseismology, eclipsing
+binary systems, gyrochronology, supernovae, and more.  All Kepler publications can
+be found [here](kpub-kepler.html).
 
 <img class="img-responsive" style="min-width:97%;" src="images/Kepler_cand_JR_21July2015.jpg">
 
@@ -15,12 +21,11 @@ the Cygnus-Lyra region, Kepler has produced and still continues to produce myria
 The prime Kepler mission operated from May 2, 2009 until May 8, 2013,
 when a second reaction wheel failed on the spacecraft.  In that time
 frame, the spacecraft completed a 90 degree roll every 3 months to
-optimize solar panel efficiency.  Kepler operations are divided into four quarters each year, separated by the quarterly rolls of the spacecraft.  The table
-below lists each operataional quarter, the corresponding Guest
+optimize solar panel efficiency.  Kepler operations are therefore divided into four quarters each year, separated by the quarterly rolls of the spacecraft.  The table
+below lists each operational quarter, the corresponding Guest
 Observer (GO) program cycle, the beginning and end dates for data
-collection, and the date the data was ingested at the MAST
-archive. Long cadence images and light curves are stored in files that
-span a quarter. Short cadence images and light curves are stored in files that span a month.
+collection, and the date the data was ingested at the [MAST
+archive](https://archive.stsci.edu/kepler/). 
 
 <table class="table table-striped table-hover" style="max-width:40em;">
   <thead>
@@ -184,74 +189,80 @@ span a quarter. Short cadence images and light curves are stored in files that s
 
 ### Working groups
 
-The Kepler Project fosters self-governing working groups of community scientists to advance and recommend upon aspects of primary mission science. Working groups also collaborate on science projects that are complementary to the primary science goals. The following is a list of the groups that are currently active, with links to a short description of the group's area of interest as well as a contact for those interested in participating or obtaining more information:
+The Kepler Project fosters self-governing working groups of community
+scientists to advance and recommend upon aspects of primary mission
+science. Working groups also collaborate on science projects that are
+complementary to the primary science goals. These groups are described briefly
+below.
 
-* Threshold Crossing Event Review Team (TCERT)
-POC: Michael Haas, NASA Ames Research Center
+* **Threshold Crossing Event Review Team (TCERT)**<br/>
+POC: [Michael Haas](Michael.R.Haas@nasa.gov), NASA Ames Research
+Center <br/>
+<br/>TCERT is primarily responsible for reviewing and dispositioning the Threshold Crossing Events (TCEs) identified by the Kepler Pipeline. A TCE is a statistically significant transit signal detected by Kepler's analysis pipeline. During the initial review process, TCEs that indicate a planetary-size companion are declared Kepler Objects of Interest (KOIs) and subjected to additional tests and more rigorous scrutiny. Once this in-depth analysis and evaluation is complete, each KOI will be dispositioned as a planetary candidate or false positive. These results are delivered on a regular basis to NExScI for public release through their Exoplanet Archive. 
 
-The Threshold-Crossing-Event Review Team (TCERT) is responsible for reviewing and dispositioning the Threshold Crossing Events (TCEs) identified by the Kepler Pipeline. A TCE is a statistically significant transit signal detected by Kepler's analysis pipeline. During the initial review process, TCEs that indicate a planetary-size companion are declared Kepler Objects of Interest (KOIs) and subjected to additional tests and more rigorous scrutiny. Once this in-depth analysis and evaluation is complete, each KOI will be dispositioned as a planetary candidate or false positive. These results will be delivered on a regular basis to NExScI for public release through their Exoplanet Archive. Besides participating in the TCE vetting process, the group helps to review pipeline products, procedures, and documentation with the goal of improving them for increased product reliability and operational efficiency.
+<br/>
 
-* The Follow-up Observing Program (FOP)
+* **Follow-up Observing Program (FOP)**<br/>
+POC: [David Ciardi](ciardi@ipac.caltech.edu), NASA Exoplanet Science
+Institute<br/>
+<br/>The scientific goals of the Kepler Extended Mission Follow-up Observation Program (XMFOP) are to confirm and validate the planetary nature of the Kepler Objects of Interest (KOIs) via the determination of stellar parameters, radial velocity curves, and stellar blends. Besides yielding exoplanet confirmations and characterizations, the work results in more accurate properties of the KOI host stars and, consequently, the planet candidates they harbor. The work also yields a better understanding of the overall reliability of the KOI catalog. The XMFOP performs the following duties in support of Kepler's scientific goals:
 
-POC: David Ciardi, NASA Exoplanet Science Institute
+	* Spectroscopic observations for the purpose of determining stellar properties.
+	* Spectroscopic observations for the purpose of identifying stellar companions and/or placing limits on the presence of such companions.
+	* High-precision radial velocity for a limited sample of relatively small exoplanet candidates to determine their masses and other orbital properties.
+	* High spatial resolution imaging for the purpose of detecting line-of-sight and/or physically associated stars in the photometric aperture and/or placing constraints on the presence of such blends.
+	* Other supporting observations as opportunities arise
+	(e.g. Spitzer, HST, etc).
 
-The scientific goals of the Kepler Extended Mission Follow-up Observation Program (XMFOP) are to confirm and validate the planetary nature of the Kepler Objects of Interest (KOIs) via the determination of stellar parameters, radial velocity curves, and stellar blends. Besides yielding exoplanet confirmations and characterizations, the work results in more accurate properties of the KOI host stars and, consequently, the planet candidates they harbor. The work also yields a better understanding of the overall reliability of the KOI catalog. The XMFOP performs the following duties in support of Kepler's scientific goals:
+<br/>
 
-Spectroscopic observations for the purpose of determining stellar properties.
-Spectroscopic observations for the purpose of identifying stellar companions and/or placing limits on the presence of such companions.
-High-precision radial velocity for a limited sample of relatively small exoplanet candidates to determine their masses and other orbital properties.
-High spatial resolution imaging for the purpose of detecting line-of-sight and/or physically associated stars in the photometric aperture and/or placing constraints on the presence of such blends.
-Other supporting observations as opportunities arise (e.g. Spitzer, HST, etc).
-XMFOP members participate in weekly telecons to strategize and discuss
-progress and select KOIs for follow-up observations based on the
-scientific priorities of the mission. Participation the XMFOP
-stimulates collaboration and provides for efficient observations,
-thereby reducing duplicative efforts, and provides opportunities for
-observers not funded directly by the mission to contribute directly to
-core mission objectives.
+* **False Positive Working Group (FP)**<br/>
+POC: [Steve Bryson](Steve.Bryson@nasa.gov), NASA Ames Research
+Center<br/>
+<br/>There are instrumental and astrophysical signals that mimic planetary transits in the Kepler flux time series. The Kepler False Positive Working Group is oriented towards identifying such astrophysical and instrumental false positives (FP) among the Kepler Objects of Interest (KOIs). The mandate of the FP working group is to:
 
-* False Positive Working Group (FP)
+	* Identify/confirm false positive KOIs via analysis of Kepler data.
+	* Track and incorporate false positive identifications from other observations from both the Kepler community follow up program and other sources.
+	* Identify sources of FP signals and recommend appropriate action (such as addition to the eclipsing binary catalog).
+	* Deliver lists of identified false positives to the Kepler archives at NExScI and MAST.
+	* Maintain the quality and integrity of the false positive flags
+      on the Kepler Exoplanet Archive (NexScI), including regular re-vetting using additional data as appropriate. <br/>
 
-POC: Steve Bryson, NASA Ames Research Center
+<br/>
 
-There are instrumental and astrophysical signals that mimic planetary transits in the Kepler flux time series. The Kepler False Positive Working Group is oriented towards identifying such astrophysical and instrumental false positives (FP) among the Kepler Objects of Interest (KOIs). The mandate of the FP working group is to:
+* **Star Properties Working Group (STAR)** <br/>
+POC: [Jaymie Matthews](matthews@astro.ubc.ca), University of British Columbia, POC: [Marc Pinsonneault](pinsonneault.1@osu.edu), Ohio State University<br/>
+<br/>Fundamental stellar properties are required for the determination of planet properties and for quantifying the sensitivity biases that affect the calculation of planet occurrence rates. The Star Properties working group acts as an advisory body for issues related to stellar characterization and the determination of fundamental stellar properties. Specific topics include:
 
-Identify/confirm false positive KOIs via analysis of Kepler data.
-Track and incorporate false positive identifications from other observations from both the Kepler community follow up program and other sources.
-Identify sources of FP signals and recommend appropriate action (such as addition to the eclipsing binary catalog).
-Deliver lists of identified false positives to the Kepler archives at NExScI and MAST.
-Maintain the quality and integrity of the false positive flags on the
-Kepler Exoplanet Archive (NexScI), including regular re-vetting using
-additional data as appropriate.
+	* Assess the systematic errors in the stellar properties provided in the Kepler Input Catalog.
+	* Provide recommendations to the project on the best strategy for adopting properties of all Kepler target stars and deliver regular updates of star properties to the Kepler Science Office for use as input to the pipeline analysis software and the light curve modeling that leads to planet properties.
+	* Provide recommendations to the Kepler project on the
+	optimization of follow-up resources for the goal of characterizing
+	the Kepler target stars. Recommendations are communicated to the
+	Follow-up Program (FOP) Coordinator before the start of the Kepler
+	observing season.
 
-* Stellar Properties Working Group (STAR)
-POC: Jaymie Matthews, University of British Columbia, POC: Marc Pinsonneault, Ohio State University
+<br/>
 
-Fundamental stellar properties are required for the determination of planet properties and for quantifying the sensitivity biases that affect the calculation of planet occurrence rates. The Star Properties working group acts as an advisory body for issues related to stellar characterization and the determination of fundamental stellar properties. Specific topics include:
+* **Kepler Asteroseismic Science Consortium (KASC)**<br/>
+POC: [Ron Gilliland](gillil@stsci.edu), Penn State<br/>
+<br/>The Kepler Asteroseismic Science Consortium (KASC) is a large and unique scientific collaboration, around which the asteroseismic analysis of Kepler data has been arranged since the beginning of the Mission. KASC is divided into ten working groups, each focusing on the analysis of different classes of pulsating stars. 
 
-Assess the systematic errors in the stellar properties provided in the Kepler Input Catalog.
-Provide recommendations to the project on the best strategy for adopting properties of all Kepler target stars and deliver regular updates of star properties to the Kepler Science Office for use as input to the pipeline analysis software and the light curve modeling that leads to planet properties.
-Provide recommendations to the Kepler project on the optimization of follow-up resources for the goal of characterizing the Kepler target stars. Recommendations are communicated to the Follow-up Program (FOP) Coordinator before the start of the Kepler observing season.
-Provide recommendations to the Kepler project on the down-select of targets in the extended mission based on the revised stellar characterizations produced by the working group.
+<br/>
 
-* Kepler Asteroseismic Science Consortium (KASC)
-POC: Ron Gilliland, Penn State
+* **Transit Timing Variations and Multiple-Body Working Group (TTV)**<br/>
+POC: [Jack Lissauer](Jack.J.Lissauer@nasa.gov), NASA Ames Research Center<br/>
+<br/>The scientific goals of the TTV working group are to characterize planetary systems, measure the distributions of important system parameters using the Kepler data, and estimate important quantities pertaining to Earth-size planets. The detection and analysis of transit timing variations is a means of confirming the planetary nature of a transiting object identified in Kepler data. Confirmation of Kepler's exoplanet candidates ultimately leads to higher catalog reliability and/or a quantitative assessment of that reliability. Full dynamical modeling of transit timing variations yields planet mass which, together with the planet radius produced by light curve modeling, yields planet density. The density distribution of small planets is of interest in understanding what fraction of Kepler's Earth-size planets are rocky. The TTV group also works to understand the sample statistics and architectures of multiple planet systems.
 
-The Kepler Asteroseismic Science Consortium (KASC) is a large and unique scientific collaboration, around which the asteroseismic analysis of Kepler data has been arranged since the beginning of the Mission. The structure of KASC fosters wide-ranging collaborations between research groups around the world, and provides an environment in which young postdocs and PhD students can easily forge new links and contacts. KASC is divided into ten working groups, each focusing on the analysis of different classes of pulsating stars. Members of KASC have access through the Kepler Asteroseismic Science Operations Center (KASOC) database to all Kepler data as soon as those data are made available in the KASOC. The database contains data that can also be found via the Mikulski Archive for Space Telescopes (MAST). In addition to the raw data, KASC-­‐corrected/modified data, stellar models, stellar parameters (estimated by KASC), ground-­‐based data (raw and reduced) and KASC publications are also made available to members. Visit the KASC website for more information, including how to become a KASC member.
+<br/>
 
-* Transit Timing Variations and Multiple-Body Working Group (TTV)
-POC: Jack Lissauer, NASA Ames Research Center
+* **Eclipsing Binary Working Group (EB)**<br/>
+POC: [Andrej Prsa](Andrej.prsa@villanova.edu), Villanova University<br/>
+<br/>The Eclipsing Binary Working Group is tasked with the following goals, in the order of priority:
 
-The scientific goals of the TTV working group are to characterize planetary systems, measure the distributions of important system parameters using the Kepler data, and estimate important quantities pertaining to Earth-size planets. The detection and analysis of transit timing variations is a means of confirming the planetary nature of a transiting object identified in Kepler data. Confirmation of Kepler's exoplanet candidates ultimately leads to higher catalog reliability and/or a quantitative assessment of that reliability. Full dynamical modeling of transit timing variations yields planet mass which, together with the planet radius produced by light curve modeling, yields planet density. The density distribution of small planets is of interest in understanding what fraction of Kepler's Earth-size planets are rocky. The TTV group also works to understand the sample statistics and architectures of multiple planet systems.
-
-* Eclipsing Binary Working Group (EB)
-POC: Andrej Prsa, Villanova University
-
-Kepler's core objective is to detect and characterize extrasolar planets, with a special emphasis on Earth-sized planets in the habitable zone (ηEarth). To support the core Kepler mission, the Eclipsing Binary Working Group is tasked with the following goals, in the order of priority:
-
-Maintain the catalog of eclipsing binaries in the Kepler field, including their ephemerides, the derived properties via automated methods, the geometric properties (eclipse widths, depths and separations), and any additional signal (ellipsoidal variability, eclipse timing variations, tertiary events, multiple periodicities); to find statistical properties of EBs: spatial distributions, multiplicity and orbital properties (eccentricity distributions);
-Determine the occurrence rate of false positives in the KOI catalog, including background (faint) eclipsing binaries that contaminate the target's photometric aperture as well as foreground (bright) eclipsing binaries that bleed into the target’s aperture; and
-Detect, validate and analyze circumstellar and circumbinary planets via tertiary events and eclipse timing variations.
+	* Maintain the catalog of eclipsing binaries in the Kepler field, including their ephemerides, the derived properties via automated methods, the geometric properties (eclipse widths, depths and separations), and any additional signal (ellipsoidal variability, eclipse timing variations, tertiary events, multiple periodicities); to find statistical properties of EBs: spatial distributions, multiplicity and orbital properties (eccentricity distributions);
+	* Determine the occurrence rate of false positives in the KOI catalog, including background (faint) eclipsing binaries that contaminate the target's photometric aperture as well as foreground (bright) eclipsing binaries that bleed into the target’s aperture; and
+	* Detect, validate and analyze circumstellar and circumbinary planets via tertiary events and eclipse timing variations.
 
 
 ### Guest Observer program
@@ -3434,25 +3445,12 @@ ECLIPSING BINARIES AND THE SPATIAL EXTENT OF THE OLD OPEN CLUSTER NGC
 
 ### Participating Scientist program
 
-The Kepler PSP is designed to augment the skill set of the Kepler
-Science Team, thereby enabling it to more effectively execute the
-science program of the mission. Participating Scientists serve as
-members of the Kepler Science Team and participate in Science Team
-activities, such as data processing and analysis, transit candidate
-follow-up and characterization, and publication. The Kepler
-Participating Scientist Program (PSP) is designed to fund community
-investigations that advance the goals of the Kepler Mission during its
-extended phase. Participating Scientists may pursue data processing
+The Kepler Participating Scientist Program (PSP) was designed to fund community
+investigations that advance the goals of the Kepler Mission.  Participating Scientists pursue data processing
 and analysis tasks, exoplanet candidate follow-up observations,
 completeness and reliability studies, characterization of the stellar
-target sample, etc.
-
-The Kepler PSP is complementary to, but distinct from, the Kepler
-Guest Observer (GO) program. The Kepler GO program offers the
-opportunity for members of the scientific community to select targets
-of general astrophysical interest in the Kepler field-of-view (both
-stellar and non-stellar), in pursuit of investigations that fall
-outside of the scope of the Kepler Science Team.
+target sample, and other activities.  Approved
+PSPs are listed below. 
 
 #### Cycle 1 (2008)
 
@@ -3966,11 +3964,14 @@ CIRCUMBINARY HABITABLE ZONE PLANETS
 
 ## Science from K2
 
-K2 is an active, community-driven mission with a variety of scientific results related
+K2 is an active, community-driven mission with a variety of scientific
+results that relate
 to the discovery of transiting planets around bright, nearby stars,
 star clusters, supernovae studies, Solar System objects, and more.  The
-latest publications using K2 data can be found [here](kpub-k2.html)
-and all the approved
-targets and programs for K2 can be found [here](k2-approved-programs.html). 
+latest publications using K2 data can be found [here](kpub-k2.html),
+and the currently approved
+targets and programs for K2 can be found
+[here](k2-approved-programs.html). The image below highlights some of
+the science that has been or will be conducted with data from K2.
 
 <img class="img-responsive" style="min-width:97%;" src="images/K2-Science_2015July22-PRINT.jpg">

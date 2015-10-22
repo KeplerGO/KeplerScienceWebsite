@@ -29,6 +29,6 @@ on Twitter to look at questions asked by others.
 The FAQ archives at MAST for
 [Kepler](http://archive.stsci.edu/mast_faq.php?mission=KEPLER) and
 [K2](http://archive.stsci.edu/mast_faq.php?mission=K2) answer many
-questions about the missions as well as
-retreiving and analyzing data.  If you still have questions feel free
-to contact us using the above email.
+questions about the missions as well as how to retrieve and analyze
+the data.  If you still have questions feel free
+to contact us at the above email address.
