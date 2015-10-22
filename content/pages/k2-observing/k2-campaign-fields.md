@@ -159,8 +159,8 @@ by K2.
       <td>2016 Sep 27</td>
       <td>2016 Dec 16</td>
       <td>2017 Mar 19</td>
-      <td>17:19:53.12</td>
-      <td>-23:56:57.07</td>
+      <td>17:21:33.12</td>
+      <td>-23:58:33.45</td>
       <td></td>
       <td>Galactic Center</td>
       </tr>
@@ -170,8 +170,8 @@ by K2.
       <td>2016 Dec 22</td>
       <td>2017 Mar 12</td>
       <td>2017 Jun 05</td>
-      <td>23:19:12.83</td>
-      <td>-05:52:32.08</td>
+      <td>23:26:42.61</td>
+      <td>-5:05:44.33</td>
       <td></td>
       <td>South Galactic Cap</td>
     </tr>
