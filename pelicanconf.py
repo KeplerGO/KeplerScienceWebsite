@@ -76,7 +76,7 @@ MENUITEMS = (
         ),
         ('Data analysis', (
             ('Data releases', 'data-releases.html'),
-            ('Accessing data', 'data-access.html'),
+            ('Data access', 'data-access.html'),
             ('Pipeline', 'pipeline.html'),
             ('Software', 'software.html'),
             )
