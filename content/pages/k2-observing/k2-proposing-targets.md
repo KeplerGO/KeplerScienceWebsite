@@ -160,10 +160,9 @@ and 13, will be released soon.
 
 ### Campaigns 11-12-13
       
-Final pointings for <a href="k2-fields.html#campaign-11">Campaign 11</a> (RA = 17:19:53.12,
-Dec = -23:56:57.07), <a href="k2-fields.html#campaign-12">Campaign
-12</a> (RA = 23:19:12.83, Dec = -05:52:32.08) and
-<a href="k2-fields.html#proposed-campaign-13">Campaign 13</a> (RA = 04:52:11.28, Dec = +20:48:50.06) have been
+Final pointings for <a href="k2-fields.html">Campaign 11</a>, <a href="k2-fields.html">Campaign
+12</a> and
+<a href="k2-fields.html">Campaign 13</a> have been
 set. We are requesting the community propose targets to observe
 during Campaigns 11, 12, and 13.
 
