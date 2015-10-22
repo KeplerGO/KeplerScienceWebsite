@@ -7,21 +7,20 @@ expand its role into new and exciting astrophysical observations. A
 description of the mission concept and early results can be found in
 [Howell et al. 2014](http://adsabs.harvard.edu/abs/2014PASP..126..398H).</i></div>
 
-K2 observations entail a series of sequential
-<a href="k2-fields.html">observing "Campaigns"</a> 
-of fields distributed around the ecliptic plane 
-and offers a photometric precision approaching that 
-of the original Kepler mission **<a
-href="k2-photometric-performance.html">to within a factor of
-approximately two</a>**.
-
-Each ecliptic Campaign is limited by Sun angle constraints 
-to a duration of approximately 80 days. 
+K2 observations entail a series of sequential observing **["Campaigns"](k2-fields.html)**
+of fields distributed around the ecliptic plane. Each ecliptic Campaign is limited by Sun angle constraints to a duration of approximately 80 days. 
 Therefore, four to five K2 Campaigns can be performed 
 during each 372-day orbit of the spacecraft.
 
-K2 is a **community-driven mission**.
-All K2 targets are proposed by the community through the [Guest Observer Program](k2-proposing-targets.html). The K2 mission welcomes all proposals including, but not exclusive to, exoplanet, stellar, extragalactic and solar system science.
+K2 is a community-driven mission.
+All K2 targets are proposed by the community through the
+**[Guest Observer Program](k2-proposing-targets.html)**. The K2 mission
+welcomes all proposals including, but not exclusive to, exoplanet,
+stellar, extragalactic and solar system science.  Since K2 offers a photometric precision approaching that of the original Kepler mission **<a
+href="k2-photometric-performance.html">to within a factor of
+approximately two</a>**, a variety of scientific goals can be readily
+achieved with K2's continuous, high-precision photometry.
+
 
 ### Scientific motivations
 
@@ -29,10 +28,8 @@ The scientific potential spans a wide range of astrophysics.
 It is anticipated that K2 will:
 
 * Provide a yield of **hot planets around bright stars** for follow-up transit 
-spectroscopy in order to facilitate rapid advances in exoplanet atmosphere 
-chemistry and the search for water, clouds and greenhouse gases.
-* Provide a yield of **small planets around bright and small stars**
-in order to facilitate the most precise follow-up measurements to date
+spectroscopy to facilitate rapid advances in the characterization of exoplanet atmospheres.
+* Provide a yield of **small planets around bright, small stars** to facilitate the most precise follow-up measurements to date
 of masses, densities and compositions.
 * Identify locations and characteristics of **potentially-habitable planets
 around bright M-dwarfs** in the solar neighborhood.
