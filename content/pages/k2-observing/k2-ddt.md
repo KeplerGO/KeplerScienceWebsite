@@ -1,4 +1,4 @@
-Title: K2 Director's Discretionary Target Program
+Title: K2 Director's Discretionary Target (DDT) program
 Save_as: k2-ddt.html
 
 

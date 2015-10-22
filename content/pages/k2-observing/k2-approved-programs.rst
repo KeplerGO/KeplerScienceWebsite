@@ -10,8 +10,8 @@ as part of the `Guest Observer Program <k2-proposing-targets.html>`_.
 The target list and approved programs are posted on this page
 as soon as the mission team has prepared the final target list
 for upload to the spacecraft, which happens 1-2 months before the start
-of a campaign.  The details of the approved programs are added
-when a campaign's data is released.
+of a Campaign.  The details of the approved programs are added
+when a Campaign's data is released.
 
 Campaign 7 (Oct 2015)
 ---------------------
