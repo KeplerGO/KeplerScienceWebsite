@@ -274,7 +274,10 @@ K2 long cadence (30-min) images are available for each Campaign.
 Light curves produced by the Project Office are available starting in
 Campaign 3.  Short cadence (1-min) images are also available for each
 Campaign, but no light curves are provided.  The relevant data release notes
-for each Campaign are linked in the table below.
+for each Campaign are linked in the table below.  The pipeline release
+notes for K2 are
+[available here](http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml),
+which detail deviations from the pipeline used for Kepler.
 
 <table class="table table-striped table-hover" style="max-width:40em;">
   <thead>
@@ -313,14 +316,14 @@ for each Campaign are linked in the table below.
       <td>C3</td>
       <td><a href="http://keplerscience.arc.nasa.gov/K2/C3drn.shtml">C3 DRN</a></td>
       <td>2015 Jul 17</td>
-      <td>9.2</td>
+      <td>9.3</td>
       </tr>
 
       <tr>
       <td>C4</td>
       <td><a href="http://keplerscience.arc.nasa.gov/K2/C4drn.shtml">C4 DRN</a></td>
       <td>2015 Sep 02</td>
-      <td>9.2</td>
+      <td>9.3</td>
       </tr>
 
 </tdata>

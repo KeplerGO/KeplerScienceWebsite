@@ -26,6 +26,7 @@ source code on [Github](https://github.com/keplergo).
     <td>PyKE</td>
     <td>A tool to create light curves with user-chosen pixel apertures and
     cotrend and/or detrend data.</td>
+	<td><a href="data/pyke/PyKE.tar">download PyKE</a></td>
 	</tr>
 	
 </table>
@@ -34,7 +35,8 @@ source code on [Github](https://github.com/keplergo).
 
 K2FOV reads a list of potential target positions (J2000 celestial coordinates) and returns whether they are likely to fall within the field of view of K2 during a specified observing campaign.
 
-The code is hosted on Github. Users will need python and numpy installed. Users who would like to produce plots like the one on the right also need to install matplotlib. Users of PyKE will already have these dependencies installed on their system. If you have pip, a python package manager, installed on your machine you can download and install the code by running:
+The code is hosted on Github. Users will need python and numpy
+installed. Users who would like to produce plots like the one below also need to install matplotlib. Users of PyKE will already have these dependencies installed on their system. If you have pip, a python package manager, installed on your machine you can download and install the code by running:
 
    <i>pip install K2fov</i>
 
@@ -51,13 +53,15 @@ integer, 0 for Campaign 0 or 1 for Campaign 1. The code will output
 two files, i) an updated ascii target list with an extra column
 flagging targets that land on active silicon, and ii) if matplotlib is
 intalled, a plot showing where the proposed targets fall on the focal
-plane. The format for the target list is very strict, you need three
-columns RA in degrees, Declination in degrees and Kepler
+plane. The format for the target list is very strict -- you need three
+columns: RA in degrees, Declination in degrees and Kepler
 magnitude. Headers or other additional columns will cause an execution
 failure. The code will output a similar file to the one input but with
 an extra column containing either a 0, 1 or 2, where 0 = not on
-silicon, 1 = near to the focal plane and worth proposing, and 2 =
-target is on active silicon.
+silicon, 1 = near to the focal plane, and 2 =
+target is on active silicon.  Targets near the focal plane (flagged
+with 1) but not on active silicon are not
+worth proposing, since the position of each K2 Campaign is fixed.
 
 <img class="img-responsive" style="min-width:97%;" src="images/K2FOV.png">
 

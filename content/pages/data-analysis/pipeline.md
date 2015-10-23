@@ -6,11 +6,13 @@ Save_as: pipeline.html
 Users are strongly encouraged to review the following papers prior to
 working with Kepler data. These
 papers describe the science operations, processing and characteristics
-of the light curves.  While operations for K2 are slightly different,
-these papers still provide a useful overview of the Kepler (and now
-K2) pipeline.  In addition to these papers, the user is also directed to the Kepler
+of the light curves. In addition to these papers, the user is also directed to the Kepler
 Instrument Handbook, the Data Release Notes, the Data Charactistics
-Handbook, links to which can all be found on the [data releases page](data-releases.html).
+Handbook, links to which can all be found on the
+[data releases page](data-releases.html).   While operations for K2 are slightly different,
+these papers still provide a useful overview of the Kepler (and now
+K2) pipeline.  We note that information specific to the K2 pipeline
+can be found in the [pipeline release notes](http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml).
 
 * [Kepler Mission Design, Realized Photometric Performance, and Early
 Science](http://adsabs.harvard.edu/abs/2010ApJ...713L..79K) (Koch, D. G., et al., 2010 ApJ, 713, L79)
