@@ -4,8 +4,8 @@ Save_as: k2-photometric-performance.html
 [TOC]
 
 ## Summary
- 
-The Kepler spacecraft is in an Earth-trailing heliocentric orbit, which insures a thermally stable 
+
+The Kepler spacecraft hosts 0.95-m aperture Schmidt telescope in an Earth-trailing heliocentric orbit, which insures a thermally stable 
 environment and provides the ability to remain on a single pointing for the
 duration of each Campaign. 
 Pointing is maintained by a combination of two reaction wheels and thrusters, 
