@@ -30,5 +30,6 @@ The FAQ archives at MAST for
 [Kepler](http://archive.stsci.edu/mast_faq.php?mission=KEPLER) and
 [K2](http://archive.stsci.edu/mast_faq.php?mission=K2) answer many
 questions about the missions as well as how to retrieve and analyze
-the data.  If you still have questions feel free
+the data.  The old FAQ archives can also be accessed on
+[here for Kepler](http://keplerscience.arc.nasa.gov/FAQ.shtml) and [here for K2](http://keplerscience.arc.nasa.gov/K2/FAQ.shtml). If you still have questions feel free
 to contact us at the above email address.
