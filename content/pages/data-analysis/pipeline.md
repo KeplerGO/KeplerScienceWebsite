@@ -3,16 +3,19 @@ Save_as: pipeline.html
 
 [TOC]
 
-Users are strongly encouraged to review the following papers prior to
-working with Kepler data. These
+Users are encouraged to review the following papers prior to
+working with Kepler or K2 data. These
 papers describe the science operations, processing and characteristics
 of the light curves. In addition to these papers, the user is also directed to the Kepler
 Instrument Handbook, the Data Release Notes, the Data Charactistics
 Handbook, links to which can all be found on the
 [data releases page](data-releases.html).   While operations for K2 are slightly different,
-these papers still provide a useful overview of the Kepler (and now
-K2) pipeline.  We note that information specific to the K2 pipeline
-can be found in the [pipeline release notes](http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml).
+these papers still provide a useful overview that is largely relevant
+for the K2 pipeline.  We note that the latest information specific to the K2 pipeline
+can be found in the
+[pipeline release notes](http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml).
+Users of K2 data are strongly encouraged to read both the pipeline and
+data release notes for K2.
 
 * [Kepler Mission Design, Realized Photometric Performance, and Early
 Science](http://adsabs.harvard.edu/abs/2010ApJ...713L..79K) (Koch, D. G., et al., 2010 ApJ, 713, L79)
@@ -215,7 +218,7 @@ affected pixels. Event detection occurs first in the PA module flow,
 to ensure that this brightening is not confused with much more
 localized excess photoelectrons produced by cosmic rays. Pixels
 affected by Argabrightening are "gapped" in the light curve, i.e., set
-to -Inf. Listings of the specfic affected cadences are presented in
+to -Inf. Listings of the specific affected cadences are presented in
 the relevant data release notes for Kepler and K2. <br/>
 
 * **Cosmic ray cleaning** <br/>
@@ -538,7 +541,7 @@ Corners are provided in J2000 celestial coordinates for all four seasonal roll r
 
 #### Instrument response
 
-The primary instrument aboard Kepler is the focal plane array
+The Kepler spacecraft hosts 0.95-m aperture Schmidt telescope.  The primary instrument aboard Kepler is the focal plane array
 consisting of 21 science and 4 Fine Guidance Sensor CCD modules. Field
 flattener lenses on each module map the spherical telescope image
 surface onto the flat CCD chips, and define the overall wavelength

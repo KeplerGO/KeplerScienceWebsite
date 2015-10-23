@@ -71,12 +71,13 @@ PyKE is a suite of python software tools developed to reduce and
 analyze Kepler and K2 light curves, TPFs, and FFIs. PyKE tools provide the
 user with flexibility to tune pixel extraction and artifact mitigation
 for the scientific potential of individual target data. A variety of
-other tasks are also included. PyKE is an open source
-project. Contributions of new tasks or enhanced functionality of
-existing tasks by the community are welcome.
+other tasks are also included. A [PyKE primer](http://keplerscience.arc.nasa.gov/PyKEprimer.shtml) provides a thorough
+description of the Kepler data products and analysis techniques to consider.
 
 The current version of PyKE is 2.6.2.  PyKE contributors are Martin
-Still and Tom Barclay.
+Still and Tom Barclay. PyKE is an open source
+project. Contributions of new tasks or enhanced functionality of
+existing tasks by the community are welcome.
 
 #### PyKE Tasks
 
