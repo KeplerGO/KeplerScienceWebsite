@@ -7,7 +7,7 @@ using pelican-bootstrap and flatly.
 >
 
 <head>
-    <title>Kepler and K2 Data Processing Pipeline - Kepler &amp; K2</title>
+    <title>Kepler and K2 data processing pipeline - Kepler &amp; K2</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -17,7 +17,7 @@ using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2015-10-22" />
+    <meta name="dc.date.modified" content="2015-10-23" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -38,7 +38,7 @@ using pelican-bootstrap and flatly.
 
     <meta property="og:site_name" content="Kepler &amp; K2" />
     <meta property="og:type" content="article"/>
-    <meta property="og:title" content="Kepler and K2 Data Processing Pipeline"/>
+    <meta property="og:title" content="Kepler and K2 data processing pipeline"/>
     <meta property="og:url" content="./pages/kepler-and-k2-data-processing-pipeline.html"/>
     <meta property="og:description" content="Users are encouraged to review the following papers prior to working with Kepler or K2 data. These papers describe the science operations, processing and characteristics of the light curves. In addition to these papers, the user is also directed to the Kepler Instrument Handbook, the Data Release Notes, the Data ..." />
 
@@ -99,6 +99,7 @@ using pelican-bootstrap and flatly.
                                 <li><a href="./k2-fields.html">Campaign fields</a></li>
                                 <li><a href="./k2-photometric-performance.html">Technical information</a></li>
                                 <li><a href="./k2-approved-programs.html">Targets & programs</a></li>
+                                <li><a href="./k2-c9.html">Microlensing experiment</a></li>
                                 <li><a href="./k2-proposing-targets.html">Proposal preparation</a></li>
                                 <li><a href="./k2-ddt.html">DDT program</a></li>
                             </ul>
@@ -133,7 +134,7 @@ using pelican-bootstrap and flatly.
 
     <div class="col-sm-9">
         <section id="content" class="body">
-            <h1 class="entry-title">Kepler and K2 Data Processing Pipeline</h1>
+            <h1 class="entry-title">Kepler and K2 data processing pipeline</h1>
             <div class="entry-content">
                 
 <p>Users are encouraged to review the following papers prior to
@@ -144,11 +145,10 @@ Instrument Handbook, the Data Release Notes, the Data Charactistics
 Handbook, links to which can all be found on the
 <a href="data-releases.html">data releases page</a>.   While operations for K2 are slightly different,
 these papers still provide a useful overview that is largely relevant
-for the K2 pipeline.  We note that the latest information specific to the K2 pipeline
-can be found in the
-<a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml">pipeline release notes</a>.
+for the K2 pipeline.  <strong>We note that the latest information specific
+to the K2 pipeline can be found in the <a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml">pipeline release notes</a>.
 Users of K2 data are strongly encouraged to read both the pipeline and
-data release notes for K2.</p>
+data release notes for K2.</strong></p>
 <ul>
 <li><a href="http://adsabs.harvard.edu/abs/2010ApJ...713L..79K">Kepler Mission Design, Realized Photometric Performance, and Early
 Science</a> (Koch, D. G., et al., 2010 ApJ, 713, L79)</li>
@@ -160,19 +160,21 @@ Science</a> (Koch, D. G., et al., 2010 ApJ, 713, L79)</li>
   (Jenkins, J. M., et al., 2010 ApJ, 713, L87)</li>
 <li><a href="http://adsabs.harvard.edu/abs/2010ApJ...713L..97B">The Kepler Pixel Response Function</a>
   (Bryson, S. T., et al., 2010 ApJ, 713, L97)</li>
+<li><a href="http://adsabs.harvard.edu/abs/2010SPIE.7740E..1XQ">Pixel-Level Calibration in the Kepler Science Operations Center
+Pipeline</a>
+(Quintana, E. V., et al., 2010 Proc. SPIE, 7740, 77401X)</li>
+<li><a href="http://adsabs.harvard.edu/abs/2010SPIE.7740E..1UT">Presearch Data Conditioning in the Kepler Science Operations Center Pipeline</a>
+  (Twicken, J. D., et al., 2010 Proc. SPIE, 7740, 77401U)</li>
 <li><a href="http://adsabs.harvard.edu/abs/2010ApJ...713L.160G">Initial Characteristics of Kepler Short Cadence Data</a>
   (Gilliland, R. L., et al., 2010 ApJ, 713, 160)</li>
 <li><a href="http://adsabs.harvard.edu/abs/2010ApJ...713L.120J">Initial Characteristics of Kepler Long Cadence Data for Detecting Planet Transits</a>
   (Jenkins, J. M., et al., 2010 ApJ, 713, 120)</li>
 <li><a href="http://adsabs.harvard.edu/abs/2010arXiv1001.0305M">Preliminary Astrometric Results from Kepler</a>
   (Monet, D. G., et al., 2010 ApJL, submitted)</li>
-<li><a href="http://adsabs.harvard.edu/abs/2010SPIE.7740E..1XQ">Pixel-Level Calibration in the Kepler Science Operations Center
-Pipeline</a>
-(Quintana, E. V., et al., 2010 Proc. SPIE, 7740, 77401X)</li>
-<li><a href="http://adsabs.harvard.edu/abs/2010SPIE.7740E..1UT">Presearch Data Conditioning in the Kepler Science Operations Center Pipeline</a>
-  (Twicken, J. D., et al., 2010 Proc. SPIE, 7740, 77401U)</li>
+<li><a href="http://adsabs.harvard.edu/abs/2014PASP..126..398H">The K2 Mission: Characterization and Early Results</a> (Howell,
+  S. B., et al., 2014 PASP, 126, 398)</li>
 </ul>
-<h3 id="pipeline-overview">Pipeline Overview</h3>
+<h3 id="pipeline-overview">Pipeline overview</h3>
 <p>Data collected by the Kepler photometer are recorded on orbit, downlinked,
 archived, and end up at the Space Science Division of NASA's Ames
 Research Center. All science data is processed and calibrated through
@@ -649,7 +651,7 @@ caution:</p>
 (3) Complex light curves, exhibiting multiple varying components, for
 example and eclipsing binary with one or both components also
 variable.</p>
-<h3 id="calibration-of-kepler-data">Calibration of Kepler data</h3>
+<h3 id="kepler-characteristics">Kepler characteristics</h3>
 <h4 id="orbit">Orbit</h4>
 <p>Kepler is in an Earth-trailing heliocentric orbit, which insured a
 thermally stable environment and provided the ability to remain on a
@@ -859,7 +861,7 @@ image to check for nearby bright sources which may affect a target. Also note sa
 the same (+/-1) column to check for charge
 bleeds.  Users may wish to contruct their own background estimates
 using the background pixel files available on the data archive at MAST.</p>
-<h4 id="signal-to-noise-properties">Signal-to-noise properties</h4>
+<h4 id="signal-to-noise">Signal-to-noise</h4>
 <p>The following plot provides an ensemble comparison of Kepler
 three-wheel fine-point precision (red), K2 two-wheel coarse-point
 precision (green) and K2 two-wheel fine-point precision (blue). The
@@ -1062,19 +1064,19 @@ observation (1 long cadence).</p>
             <div class="nav nav-stacked fixed" id="mytoc">
             <div class="toc">
 <ul>
-<li><a href="#pipeline-overview">Pipeline Overview</a><ul>
+<li><a href="#pipeline-overview">Pipeline overview</a><ul>
 <li><a href="#calibration-cal">Calibration (CAL)</a></li>
 <li><a href="#photometric-analysis-pa">Photometric Analysis (PA)</a></li>
 <li><a href="#pre-search-data-conditioning-pdc">Pre-search Data Conditioning (PDC)</a></li>
 </ul>
 </li>
-<li><a href="#calibration-of-kepler-data">Calibration of Kepler data</a><ul>
+<li><a href="#kepler-characteristics">Kepler characteristics</a><ul>
 <li><a href="#orbit">Orbit</a></li>
 <li><a href="#field-of-view">Field of view</a></li>
 <li><a href="#instrument-response">Instrument response</a></li>
 <li><a href="#pixel-response-function">Pixel response function</a></li>
 <li><a href="#backgrounds">Backgrounds</a></li>
-<li><a href="#signal-to-noise-properties">Signal-to-noise properties</a></li>
+<li><a href="#signal-to-noise">Signal-to-noise</a></li>
 <li><a href="#flux-calibration">Flux calibration</a></li>
 <li><a href="#astrometry">Astrometry</a></li>
 </ul>
