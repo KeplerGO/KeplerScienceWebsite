@@ -70,6 +70,7 @@ MENUITEMS = (
             ('Campaign fields', 'k2-fields.html'),
             ('Technical information', 'k2-photometric-performance.html'),
             ('Targets & programs', 'k2-approved-programs.html'),
+            ('Microlensing experiment', 'k2-c9.html'),
             ('Proposal preparation', 'k2-proposing-targets.html'),
             ('DDT program','k2-ddt.html'),
             )
@@ -85,9 +86,9 @@ MENUITEMS = (
 
 KEY_INFORMATION = (
             ('K2 Campaign fields', 'k2-fields.html'),
-            ('K2 Approved targets', 'k2-approved-programs.html'),
-            ('K2 Proposal preparation', 'k2-proposing-targets.html'),
-            ('K2 DDT call','k2-ddt.html'),
+            ('K2 approved programs', 'k2-approved-programs.html'),
+            ('K2 proposal preparation', 'k2-proposing-targets.html'),
+            ('K2 DDT program','k2-ddt.html'),
             ('Data access', 'data-access.html'),
             ('Recent publications', 'publications.html'),
             )

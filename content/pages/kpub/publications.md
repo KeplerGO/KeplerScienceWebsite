@@ -10,7 +10,7 @@ of scientific publications</a> pertaining to Kepler and K2.
 The database currently contains
 1493 publications,
 of which 1339 are peer-reviewed.
-This page present a series of statistics
+This page presents a series of statistics
 that demonstrate the important impact of Kepler/K2 data
 on astronomical research.
 
@@ -25,7 +25,7 @@ Last update: 07 Oct 2015.
 
 The graph below shows the number of publications as a function
 of year and mission.
-The publication count for Kepler is 1441,
+The publication count for Kepler is 1441, while
 that of K2 is 52.
 
 ![Publication rate by mission and year]({filename}/images/kpub/kpub-publication-rate.png)

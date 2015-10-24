@@ -1,4 +1,4 @@
-Title: Kepler and K2 Project Deliveries
+Title: Kepler and K2 project deliveries
 Save_as: data-releases.html
 
 [TOC]
@@ -16,7 +16,7 @@ Exoplanet Archive primarily hosts data related to the Kepler and K2 mission plan
 In the following sections we list the main products from Kepler and
 K2, and we describe a few of the products in some detail.  For tools
 and tips on
-inspecting and analyzing Kepler or K2 data, [check out this page](software.html).
+inspecting and analyzing Kepler or K2 data, [users should check out this page](software.html).
 
 ## Documentation
 
@@ -46,7 +46,7 @@ on Kepler products. The following Kepler data products and catalogs are availabl
 through MAST and can be downloaded
 [here](https://archive.stsci.edu/kepler/data_products.html):
 
-**Data products**
+**Data products at MAST**
 
 * Long and short cadence target pixel files
 * Long and short cadence light curves
@@ -61,7 +61,7 @@ through MAST and can be downloaded
 * Ancillary engineering files
 * Latest SPICE kernels (bsp an tsc binary files)
 
-**Catalogs**
+**Catalogs at MAST**
 
 * Kepler Input Catalog (KIC)
 * KIC joined with characteristics table
@@ -78,7 +78,7 @@ contains the following products and also details the instructions for
 requesting a Kepler number for new planets discovered in the
 Kepler data:
 
-**Data products**
+**Data products at NExScI**
 
 * KOI activity tables
 * Threshold-crossing events and data validation tables
@@ -243,7 +243,7 @@ the latest news and updates on K2 products. The following K2 data
 products and catalogs are available through MAST and can be downloaded
 [here](https://archive.stsci.edu/k2/data_products.html):
 
-**Data products**
+**Data products at MAST**
 
 * Long and short cadence target pixel files
 * Long cadence light curves (and some user-provided light curves)
@@ -257,7 +257,7 @@ products and catalogs are available through MAST and can be downloaded
 * Two-wheel concept engineering test data (some HLSP light curves
 exist)
 
-**Catalogs**
+**Catalogs at MAST**
 
 * Ecliptic Plane Input Catalog (EPIC)
 * Thruster firings for Campaign 1 and Campaign 2
@@ -329,7 +329,13 @@ which detail deviations from the pipeline used for Kepler.
 </tdata>
 </table>
 
-## Full-Frame Images (FFIs)
+## Main data products
+
+A few of the data products from Kepler and K2 are described
+below. For a comprehensive list of available products, see the above
+lists for [Kepler](data-releases.html#kepler-product-overview) and [K2](data-releases.html#k2-product-overview).
+
+### Full frame images (FFIs)
 
 The Kepler detector is a photometer with an array of 42 CCDs or 21 modules. The
 Kepler field of view spans 115.6 square degrees over 95 million
@@ -344,11 +350,13 @@ For K2, typically only two FFIs are collected per Campaign.  [These can
 also be downloaded through MAST](http://archive.stsci.edu/k2/ffi/search.php).
 
 FFI data format is defined in section 2.3.3 of the [Kepler Archive
-Manual](http://archive.stsci.edu/kepler/manuals/archive_manual.pdf). Note that as of May 2014, the Kepler detector has two dead modules (3 and 7).
+Manual](http://archive.stsci.edu/kepler/manuals/archive_manual.pdf). Note
+that as of May 2014, the Kepler detector has two dead modules (3 and
+7). 
 
 <img class="img-responsive" style="min-width:97%;" src="images/kepler-fov-full.jpg">
 
-## Target Pixel Files (TPFs)
+### Target pixel files (TPFs)
 
 The Kepler camera takes one exposure every 6.5s. Exposures are summed
 onboard and stored at either 1765.5 s (29.4 min) cadence
@@ -389,7 +397,7 @@ photometry stored in the associated light curve file. White pixels are
 included in the photometric aperture that maximizes target
 signal-to-noise over nominal observations.
 
-## Light curve files
+### Light curve files
 
 The light curves are derived from the TPFs. There is a one-to-one
 correspondence between the files and timestamps and quality flags
@@ -423,7 +431,7 @@ Manual](http://archive.stsci.edu/kepler/manuals/archive_manual.pdf). Light
 curves are available for all quarters of Kepler data, but are only
 available (from the Project Office) for Campaign 3 and later for K2.
 
-## Collateral data
+### Collateral data
 
 Collateral data is collected onboard for the purpose of calibrating
 science data. Collateral pixels estimate the bias level, dark current
@@ -434,13 +442,13 @@ provided in section 2.3.7 of the [Kepler Archive
 Manual](http://archive.stsci.edu/kepler/manuals/archive_manual.pdf). These
 files are available for both Kepler and K2.
 
-## Auxiliary data
+## Auxiliary data products
 
 Auxiliary data is not collected directly by the spacecraft, but is
 derived from spacecraft data. Some of the currently available auxiliary data is
 described below.
 
-### Cotrending Basis Vectors (CBVs)
+### Cotrending basis vectors (CBVs)
 
 CBVs are provided for each operational quarter of the mission. These are derived by
 the Kepler pipeline from Principle Component Analysis and used to
@@ -453,7 +461,7 @@ section 2.3.4 of the [Kepler Archive
 Manual](http://archive.stsci.edu/kepler/manuals/archive_manual.pdf). [Software for applying the CBVs
 to data can be found here](http://keplerscience.arc.nasa.gov/ContributedSoftwareKepcotrend.shtml).
 
-### Pixel Response Functions (PRFs)
+### Pixel response functions (PRFs)
 
 The PRFs model the Point Spread Function (PSF) of the telescope with
 the pointing stability of the Kepler spacecraft. The PSF varies across

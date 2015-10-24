@@ -10,7 +10,7 @@ through the Guest Observer (GO) program.
 This page details the program and its aims.
 
 
-## Programmatic Information
+## Programmatic information
 
 
 ### Permitted science areas
@@ -18,16 +18,14 @@ This page details the program and its aims.
 The K2 GO program welcomes proposals addressing compelling scientific questions 
 in **any area of astrophysics and planetary science** 
 providing the required observations are amenable 
-to the operational characteristics and constraints of the mission. 
-
-The science motivation may include, but is not limited to, 
+to the operational characteristics and constraints of the mission. The science motivation may include, but is not limited to, 
 exoplanet detection, stellar astrophysics, 
-galactic and extragalactic astrophysics, and Solar System science. 
+galactic and extragalactic astrophysics, and solar system science. 
 
 All science proposals must be compelling and carefully justified
 scientifically and technically. 
 Proposers should particularly note that short (1-minute) cadence resources 
-and bright (Kp < 9) targets are expensive in pixels and that onboard storage 
+and bright (Kp < 9) targets are expensive in pixels and onboard storage 
 and have historically been in high demand. 
 Proposals for short cadence or bright targets must have a very strong scientific and technical
 justification.
@@ -38,9 +36,8 @@ and science that requires new observations by K2.
 The K2 GO program is specific to the case of science 
 requiring new observations. 
 Funding for archival science is instead provided through the Astrophysics Data Analysis Program ([ADAP; Appendix D.2 of ROSES-2015](http://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={7EC3A68D-0FF5-627D-C6EF-03D6FDE528FB}&path=closedPast)). 
-This includes all Kepler data and archived data from K2 Campaigns. 
-
-All proposals to the K2 GO calls must justify 
+This includes all Kepler data and archived data from K2 Campaigns. All
+proposals to the K2 GO calls therefore must justify 
 the need for new observational data within their program. 
 However, we welcome proposals that build upon data already collected 
 and programs requiring more data to enhance or complete investigations.
@@ -121,8 +118,7 @@ The target search tool accesses the Ecliptic Plane Input Catalog (EPIC),
 which provides physical data, coordinates, magnitudes, and colors, 
 for sources close to K2 silicon. 
 The EPIC is complete only to m<sub>V</sub> ~ 17; 
-specifications of the catalog are documented at
-<a href="http://archive.stsci.edu/k2/epic.pdf">http://archive.stsci.edu/k2/epic.pdf</a>. 
+specifications of the catalog are [documented here](http://archive.stsci.edu/k2/epic.pdf). 
 
 It is the proposer’s responsibility to identify targets 
 that are faint or missing from the EPIC. 
@@ -146,8 +142,7 @@ in a pre-defined format to specify desired observing modes
 and other needed parameters. 
 
 A definition of each column and a template for insertion into the proposal 
-may be downloaded from the Kepler Science Center website at 
-<a href="http://keplerscience.arc.nasa.gov/K2/ProposalPreparationTargetTable.shtml">http://keplerscience.arc.nasa.gov/K2/ProposalPreparationTargetTable.shtml</a>. 
+can be [downloaded from the Kepler Science Center website](http://keplerscience.arc.nasa.gov/K2/ProposalPreparationTargetTable.shtml). 
 
 In addition to appearing as text within the proposal, 
 this table must also be submitted electronically to the Kepler Science Center. 
@@ -155,7 +150,7 @@ this table must also be submitted electronically to the Kepler Science Center.
 
 ## Solicitations
 
-The call for K2 GO Cycle 4 proposals, which include Campaigns 11, 12,
+The call for K2 GO Cycle 4 proposals, which will include Campaigns 11, 12,
 and 13, will be released soon.
 
 ### Campaigns 11-12-13
@@ -164,16 +159,16 @@ Final pointings for <a href="k2-fields.html">Campaign 11</a>, <a href="k2-fields
 12</a> and
 <a href="k2-fields.html">Campaign 13</a> have been
 set. We are requesting the community propose targets to observe
-during Campaigns 11, 12, and 13.
+during only these Campaigns.
 
 * **Proposal deadline**<br/>
-  Step 1: Early February 2016 <br/>
-  Step 2: Early March 2016<br/>
+  Step 1: early February 2016 <br/>
+  Step 2: early March 2016<br/>
   
 * **Anticipated dates of campaigns**<br/>
-Campaign 11: Sep 27-Dec 16, 2016 <br/>
-Campaign 12: Dec 22, 2016-Mar 12, 2017 <br/>
-Campaign 13: Mar 18-Jun 6, 2017 <br/>
+Campaign 11: 2016 Sep 27 - Dec 16 <br/>
+Campaign 12: 2016 Dec 22 - 2017 Mar 12 <br/>
+Campaign 13: 2017 Mar 18 - Jun 06 <br/>
 Start and stop dates are approximate, flexible and could be overtaken by unanticipated operational events.<br/>
   
 * **One proposal or two?**<br/>
@@ -187,11 +182,11 @@ Start and stop dates are approximate, flexible and could be overtaken by unantic
   detector pixels. The tool will be updated shortly for the boresight
   pointings of Campaigns 11, 12, and 13.<br/>
 
-* **Should you apply for targets that do not fall on sSilicon?**<br/>
+* **Should you apply for targets that do not fall on silicon?**<br/>
   Please, no. The boresight locations for Campaigns 11, 12, and 13 are set. Proposing off-silicon targets is a waste of energy for proposers, reviewers and project staff. Use <a href="software.html#k2fov">K2fov</a> and apply only for targets that fall upon silicon (output flag "2").<br/>
 
 * **The K2 Ecliptic Plane Input Catalog (EPIC)**<br/>
-  Proposers are asked to submit targets that have been selected from the <a href="http://archive.stsci.edu/k2/epic/search.php">EPIC</a>. The EPIC plays the same role for K2 that the <a href="http://adsabs.harvard.edu/abs/2011AJ....142..112B">Kepler Input Catalog (KIC)</a> played for Kepler target selection. The primary purpose of the catalog is to define photometric apertures for each potential target by providing celestial positions and Kepler bandpass magnitudes. EPIC parameters are produced by source matching existing multi-band catalogs and calculating color corrections for the Kepler bandpass. Documentation describing the compilation of the EPIC is provided <a href="http://archive.stsci.edu/k2/documents.html">here</a>.<br/>
+  Proposers are asked to submit targets that have been selected from the <a href="http://archive.stsci.edu/k2/epic/search.php">EPIC</a>. The EPIC plays the same role for K2 that the <a href="http://adsabs.harvard.edu/abs/2011AJ....142..112B">Kepler Input Catalog (KIC)</a> played for Kepler target selection. The primary purpose of the catalog is to define photometric apertures for each potential target by providing celestial positions and Kepler bandpass magnitudes. EPIC parameters are produced by source matching existing multi-band catalogs and calculating color corrections for the Kepler bandpass. Documentation describing the compilation of the EPIC is provided <a href="http://archive.stsci.edu/k2/epic.pdf">here</a>.<br/>
 
 * **What type of science targets can be proposed?**<br/>
   There are no constraints on the type of science or science target that can be proposed.<br/>
@@ -212,31 +207,28 @@ Start and stop dates are approximate, flexible and could be overtaken by unantic
   terms of pixel usage. Targets brighter than 3rd magnitude in the
   Kepler bandpass cannot be observed because charge bleeding along CCD
   pixel columns will fall into collateral pixels of the
-  detector. Bright targets (Kp < 9) and short cadence targets will requires strong, compelling science cases.<br/>
+  detector. Bright targets (Kp < 9) and short cadence targets require strong, compelling science cases.<br/>
 
 
 * **How do I submit a proposal?**<br/>
-    * <a href="ProposalPreparationSubmit.shtml">Submit</a> Step 1 of
-      the proposal by <font color=red> early February 2016.</font>
+    * Submit Step 1 of
+      the proposal to  NSPIRES by <font color=red> early February 2016.</font>
     * Compile the material required for your proposal. The generic content of the proposal is described in Sec 2.3 of the
     <a href="http://www.hq.nasa.gov/office/procurement/nraguidebook/">NRA Proposers Guide</a>. Page
-    limits and proposal content within the NRA Guide are amended within Sec 3.4 of the
-    <a
-    href="http://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId=%7B980F0800-B319-53B1-A46D-EBF2E0BBE599%7D&path=open">
-    K2 GO Cycle 4 NRA</a>. We describe the content of the proposal
-    <a href="ProposalPreparationContent.shtml"> here</a>. Briefly, proposers will need to:
+    limits and proposal content within the NRA Guide are amended
+    within the K2 GO Cycle 4 NRA (to be released soon).  Briefly, proposers will need to:
     
-        * Understand the <a href="Science.shtml">scope</a> of the
-        Guest Observer program. Science papers exploiting data from the Kepler and K2 mission can be found <a href="../PublicationsAstrophysics.shtml">here</a> and <a href="../PublicationsExoplanets.shtml">here</a>.
-        * Familiarize yourself with the <a href="../Documentation.shtml">technical documentation</a> for the mission.
+        * Understand the scope of the
+        Guest Observer program. Science papers exploiting data from the Kepler and K2 mission can be found [here](publications.html).
+        * Familiarize yourself with the [technical documentation](data-releases.html#documentation) for the mission.
         * Develop and justify a science concept for observations
           within Campaigns specific to the current GO Cycle <a href="fields.html"></a>.
         * Identify appropriate targets for the proposed observations using the
         <a href="http://archive.stsci.edu/k2/epic/search.php">K2 Target Search</a> page as the primary (but not exclusive) source list. This search page provides for the construction of short or long target lists based upon e.g. celestial cone searches, magnitude and color.
-        * Complete the <a href="ProposalPreparationTargetTable.shtml"> Target Table</a>, as an integral component of the proposal and as a separate submission to the Guest Observer Office.
+        * Complete the [Target Table](http://keplerscience.arc.nasa.gov/K2/ProposalPreparationTargetTable.shtml) as an integral component of the proposal and as a separate submission to the Guest Observer Office.
         * Provide the administrative elements of the proposal including a proposer biographical information, and a statement of current and pending financial support.
 
-    * <a href="ProposalPreparationSubmit.shtml"> Submit</a> Step 2 of
+    * Submit Step 2 of
       the proposal to NSPIRES by <font color=red> early March 2016.</font>
 <br/>
 

@@ -5,7 +5,9 @@ Save_as: k2-photometric-performance.html
 
 ## Summary
 
-The Kepler spacecraft hosts 0.95-m aperture Schmidt telescope in an Earth-trailing heliocentric orbit, which insures a thermally stable 
+The K2 mission is described in detail in [Howell et al. (2014)](http://adsabs.harvard.edu/abs/2014PASP..126..398H).  We summarize key aspects of the mission here, relevant for conducting observations with K2.
+
+The Kepler spacecraft hosts a 0.95-m aperture Schmidt telescope in an Earth-trailing heliocentric orbit, which insures a thermally stable 
 environment and provides the ability to remain on a single pointing for the
 duration of each Campaign. 
 Pointing is maintained by a combination of two reaction wheels and thrusters, 
@@ -38,9 +40,9 @@ The instrument has neither changeable filters,
 dispersing elements, nor a shutter. 
 The detector has a pixel scale of 3.98 arcseconds. 
 Image quality varies with position in the focal plane, 
-with the 95% encircled energy diameter ranging from 3.1 to 7.5 pixels and a median of 4.2 pixels. 
+with the 95% encircled energy diameter ranging from 3.1 to 7.5 pixels with a median value of 4.2 pixels. 
 The percentage of point-source flux concentrated in the center pixel 
-is between 20% and 62%, with a median value of 45%.
+is between 20% and 62% with a median value of 45%.
 
 ## Data products
 
@@ -52,29 +54,28 @@ and transmitted as subimages with a typical area of 160 pixels,
 depending on source brightness. 
 The brighter a target, the more pixels required to capture it. 
 Pixel apertures can be tailored further to accommodate 
-extended or very bright, saturated objects. 
-
-The Kepler Science Center derives pixel masks for those targets 
+extended or very bright, saturated objects. The Kepler Science Center derives pixel masks for those targets 
 successfully justified by proposers and uploads these targets 
 to the spacecraft before each Campaign. 
 
-It is expected that on the order of 10,000 long cadence targets and 50 short cadence targets will be available per Campaign.  The number of observed targets in each Campaign varies based on the density of the field and on how many extended or bright objects are observed.  Such objects require larger aperture sizes and decrease the total number of targets available.  These targets must be justified carefully.
+It is expected that on the order of 10,000 to 20,000 long cadence targets and 50 to 100 short cadence targets will be available per Campaign.  The number of observed targets in each Campaign varies based on the density of the field and on how many extended or bright objects are observed.  Such objects require larger aperture sizes and decrease the total number of targets available.  These targets must be justified carefully.
 
 Data distribution and archival services are performed 
 by the Space Telescope Science Institute’s 
 <a href="https://archive.stsci.edu/k2">MAST archive</a>. 
 Final data products available to observers 
 include original and calibrated pixel values 
-and light curves for each individual target. 
+and light curves for each individual target (starting in Campaign 3). 
 The calibration corrects for bias level, smear, galactic cosmic rays, 
 flat fielding, dark current, background, and instrument noise. 
-Simple aperture photometry is used to generate light curves (for Campaign 3 and later). 
+Simple aperture photometry is used to generate long cadence light curves (starting in Campaign 3). 
 
 Data is delivered in Flexible Image Transport System (FITS) format. 
 A thorough understanding of the noise sources and systematic errors of K2 
 is needed by observers in order to generate their own light curves 
 from the original (uncalibrated or calibrated) pixel data 
-or interpret structure found in archived light curves. 
+or interpret structure found in archived light curves.
+
 There is no exclusive use period associated with any K2 data.
 
 A comprehensive list of data products for K2 is given [here](data-releases.html#k2-product-overview).
@@ -104,7 +105,7 @@ From top-left to bottom-right: a 30 min observation of a 12th magnitude K2 star,
 
 ### Solar pressure-induced drift
 
-Low-frequency motion due to solar pressure and subsequent thruster firings causes targets to drift across detector pixels and is the dominant factor in photometric precision after photon statistics. The frequency of reaction wheel momentum resaturations and thruster-controlled pointing tweaks will be tuned to trade photometric precision with pixel mask size and fuel consumption. During the Dec 2013 test, resaturations occurred on a 48-hour cycle and pointing tweaks every 12 hours. Thruster firings kept targets localized to within three pixels across the duration of the 6-day test run. For the purposes of providing a photometric precision measure that can be compared with the Kepler mission, an uncrowded 12th magnitude target is selected for showcasing and its sensitivity to a 6-hour duration planet transit is measured. After defining a pixel mask to contain the 3-pixel focal-plane drift of the target, motion systematics and stellar astrophysics are removed from the subsequently derived Simple Aperture Photometry time series with a 48-hour Savitzky-Golay filter (a standard method to prepare stellar light curves for transit searches). The subsequent median 6-hr photometric precision of a 12th mag target is 87 ppm (94 &micro;mag). This is within a factor of 4 of the fine-point Kepler mission precision for quiet G dwarfs. The blue shaded regions represent times associated with reaction wheel resaturations and engineering tests. The data collected during these intervals were clipped from the time-series. 
+Low-frequency motion due to solar pressure and subsequent thruster firings cause targets to drift across detector pixels and is the dominant factor in photometric precision after photon statistics. The frequency of reaction wheel momentum resaturations and thruster-controlled pointing tweaks will be tuned to trade photometric precision with pixel mask size and fuel consumption. During the Dec 2013 test, resaturations occurred on a 48-hour cycle and pointing tweaks every 12 hours. Thruster firings kept targets localized to within three pixels across the duration of the 6-day test run. For the purposes of providing a photometric precision measure that can be compared with the Kepler mission, an uncrowded 12th magnitude target is selected for showcasing and its sensitivity to a 6-hour duration planet transit is measured. After defining a pixel mask to contain the 3-pixel focal-plane drift of the target, motion systematics and stellar astrophysics are removed from the subsequently derived Simple Aperture Photometry time series with a 48-hour Savitzky-Golay filter (a standard method to prepare stellar light curves for transit searches). The subsequent median 6-hr photometric precision of a 12th mag target is 87 ppm (94 &micro;mag). This is within a factor of 4 of the fine-point Kepler mission precision for quiet G dwarfs. The blue shaded regions represent times associated with reaction wheel resaturations and engineering tests. The data collected during these intervals were clipped from the time-series. 
 
 <a href="http://keplerscience.arc.nasa.gov/K2/images/Dec2013SAP.png"><img src="http://keplerscience.arc.nasa.gov/K2/images/Dec2013SAP.png" style="max-width: 640px;"></a>
 
@@ -113,7 +114,7 @@ A major activity during ongoing testing is the measurement of thermal alignment 
 
 ### Fine-point photometric precision
 
-Fine-point operations were achieved and maintained during the Feb 2014 engineering test. The plot below compares a 12th magnitude target observed during the Dec 2013 coarse-point operations (left) with a 12th magnitude target collected in fine-point (right). The spacecraft pointed in different directions for these two tests and therefore this is not a like-for-like comparison - the nature and intrinsic variability of both targets is unknown. Nevertheless, in this example, fine-point increases the photometric precision relative to coarse-point by a factor 2. In both plots, the blue curve is 30-min cadence data, the red diamonds are the same data, binned to 6 hours. The dashed line represents the 1-&sigma; standard deviation of the 30-min data. The median 6-hr photometric precision of the 12th magnitude coarse-point target is 82 ppm, while the same measure for the fine-point target is 44 ppm.
+Fine-point operations were achieved and maintained during the Feb 2014 engineering test. The plot below compares a 12th magnitude target observed during the Dec 2013 coarse-point operations (left) with a 12th magnitude target collected in fine-point (right). The spacecraft pointed in different directions for these two tests and therefore this is not a like-for-like comparison - the nature and intrinsic variability of both targets is unknown. Nevertheless, in this example, fine-point increases the photometric precision relative to coarse-point by a factor of 2. In both plots, the blue curve is 30-min cadence data, the red diamonds are the same data, binned to 6 hours. The dashed line represents the 1-&sigma; standard deviation of the 30-min data. The median 6-hr photometric precision of the 12th magnitude coarse-point target is 82 ppm, while the same measure for the fine-point target is 44 ppm.
 
 <a href="http://keplerscience.arc.nasa.gov/K2/images/Feb2014SAP.png"><img src="http://keplerscience.arc.nasa.gov/K2/images/Feb2014SAP.png" style="max-width: 640px;"></a>
 
