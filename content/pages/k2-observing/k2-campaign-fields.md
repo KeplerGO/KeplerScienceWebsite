@@ -185,7 +185,7 @@ by K2.
 
 <div class="panel panel-primary">
   <div class="panel-heading">
-    <h3 class="panel-title">Proposed future fields</h3>
+    <h3 class="panel-title">Proposed future fields (coordinates may change)</h3>
   </div>
   <div class="panel-body">
 
