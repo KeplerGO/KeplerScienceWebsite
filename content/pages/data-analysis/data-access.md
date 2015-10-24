@@ -1,4 +1,4 @@
-Title: Kepler and K2 Data Access and Related Surveys
+Title: Kepler and K2 data access and related surveys
 Save_as: data-access.html
 
 [TOC]
@@ -10,7 +10,7 @@ The
 is responsible for hosting time series data and spacecraft calibration
 products for Kepler and K2, as well as a variety of other data
 products and catalogs.  The data products, catalogs, and documentation
-are [listed here](data-releases.html#kepler-product-overview) and can be found at the
+are [listed here](data-releases.html) and can be downloaded at the
 [Kepler](https://archive.stsci.edu/kepler/) and [K2](https://archive.stsci.edu/k2/) mission pages at MAST.
 
 ### NExScI

@@ -5,14 +5,16 @@ Save_as: the-missions.html
 
 The Kepler spacecraft launched in March 2009 and spent a little over
 four years monitoring more than 150,000 stars in the Cygnus-Lyra region with continuous 30-min
-or 1-min sampling.  The primary science objective of the nominal Kepler
+or 1-min sampling.  The primary science objective of the Kepler
 mission was transit-driven exoplanet detection with an emphasis on
 terrestrial (R
 < 2.5 R<sub>Earth</sub>) planets located within the habitable zones of Sun-like
 stars.  Kepler exceeded its nominal mission lifetime of three years
 and continued operating for an additional year as an extended
 mission. Between the nominal and extended missions, [Kepler has discovered thousands of transiting
-planets](the-science.html#science-from-kepler) and revealed that small planets are abundant in the Galaxy.  The ultimate goal is to measure the fraction of stars with Earth-size
+planets](the-science.html#science-from-kepler) and revealed that small
+planets are abundant in the Galaxy.  The ultimate goal of the Kepler
+mission is to measure the fraction of stars with Earth-size
 planets as well as the fraction of stars harboring Earth-size planets
 in the Habitable Zone, work which is still in progress by the Kepler Science Office.
 
@@ -30,10 +32,10 @@ astrophysics.
 ### K2: extending Kepler's power to the ecliptic
 
 The loss of a second of the four reaction wheels on board the Kepler 
-spacecraft in May 2013 brought an end to Kepler's four plus year primary science 
+spacecraft in May 2013 brought an end to Kepler's four plus year science 
 mission to continuously monitor more than 150,000 stars to search for
 transiting exoplanets.  Developed over the months following this failure, 
-the K2 mission represents a new concept for spacecraft operations 
+the [K2 mission](http://adsabs.harvard.edu/abs/2014PASP..126..398H) represents a new concept for spacecraft operations 
 that enables continued scientific observations 
 with the Kepler space telescope. K2 became fully operational in June
 2014 and is expected to continue operating until 2017 or 2018.
@@ -53,6 +55,6 @@ to a duration of approximately 80 days.
 
 K2 is an entirely community-driven mission.
 All K2 targets are proposed by the community through the
-[Guest Observer Program](k2-proposing-targets.html). The K2 mission
+[Guest Observer program](k2-proposing-targets.html). The K2 mission
 welcomes all proposals including, but not exclusive to, exoplanet,
-stellar, extragalactic and solar system science. 
+stellar, extragalactic, and solar system science. 

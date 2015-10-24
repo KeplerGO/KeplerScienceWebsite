@@ -1,4 +1,4 @@
-Title: Kepler and K2 Data Processing Pipeline
+Title: Kepler and K2 data processing pipeline
 Save_as: pipeline.html
 
 [TOC]
@@ -11,11 +11,10 @@ Instrument Handbook, the Data Release Notes, the Data Charactistics
 Handbook, links to which can all be found on the
 [data releases page](data-releases.html).   While operations for K2 are slightly different,
 these papers still provide a useful overview that is largely relevant
-for the K2 pipeline.  We note that the latest information specific to the K2 pipeline
-can be found in the
-[pipeline release notes](http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml).
+for the K2 pipeline.  **We note that the latest information specific
+to the K2 pipeline can be found in the [pipeline release notes](http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml).
 Users of K2 data are strongly encouraged to read both the pipeline and
-data release notes for K2.
+data release notes for K2.**
 
 * [Kepler Mission Design, Realized Photometric Performance, and Early
 Science](http://adsabs.harvard.edu/abs/2010ApJ...713L..79K) (Koch, D. G., et al., 2010 ApJ, 713, L79)
@@ -27,20 +26,21 @@ Science](http://adsabs.harvard.edu/abs/2010ApJ...713L..79K) (Koch, D. G., et al.
   (Jenkins, J. M., et al., 2010 ApJ, 713, L87)
 * [The Kepler Pixel Response Function](http://adsabs.harvard.edu/abs/2010ApJ...713L..97B)
   (Bryson, S. T., et al., 2010 ApJ, 713, L97)
+* [Pixel-Level Calibration in the Kepler Science Operations Center
+Pipeline](http://adsabs.harvard.edu/abs/2010SPIE.7740E..1XQ)
+(Quintana, E. V., et al., 2010 Proc. SPIE, 7740, 77401X)
+* [Presearch Data Conditioning in the Kepler Science Operations Center Pipeline](http://adsabs.harvard.edu/abs/2010SPIE.7740E..1UT)
+  (Twicken, J. D., et al., 2010 Proc. SPIE, 7740, 77401U)
 * [Initial Characteristics of Kepler Short Cadence Data](http://adsabs.harvard.edu/abs/2010ApJ...713L.160G)
   (Gilliland, R. L., et al., 2010 ApJ, 713, 160)
 * [Initial Characteristics of Kepler Long Cadence Data for Detecting Planet Transits](http://adsabs.harvard.edu/abs/2010ApJ...713L.120J)
   (Jenkins, J. M., et al., 2010 ApJ, 713, 120)
 * [Preliminary Astrometric Results from Kepler](http://adsabs.harvard.edu/abs/2010arXiv1001.0305M)
   (Monet, D. G., et al., 2010 ApJL, submitted)
-* [Pixel-Level Calibration in the Kepler Science Operations Center
-Pipeline](http://adsabs.harvard.edu/abs/2010SPIE.7740E..1XQ)
-(Quintana, E. V., et al., 2010 Proc. SPIE, 7740, 77401X)
-* [Presearch Data Conditioning in the Kepler Science Operations Center Pipeline](http://adsabs.harvard.edu/abs/2010SPIE.7740E..1UT)
-  (Twicken, J. D., et al., 2010 Proc. SPIE, 7740, 77401U)
+* [The K2 Mission: Characterization and Early Results](http://adsabs.harvard.edu/abs/2014PASP..126..398H) (Howell,
+  S. B., et al., 2014 PASP, 126, 398)
 
-
-### Pipeline Overview
+### Pipeline overview
 
 Data collected by the Kepler photometer are recorded on orbit, downlinked,
 archived, and end up at the Space Science Division of NASA's Ames
@@ -519,7 +519,7 @@ caution:
 example and eclipsing binary with one or both components also
 variable.
 
-### Calibration of Kepler data
+### Kepler characteristics
 
 #### Orbit
 
@@ -767,7 +767,7 @@ the same (+/-1) column to check for charge
 bleeds.  Users may wish to contruct their own background estimates
 using the background pixel files available on the data archive at MAST.
 
-#### Signal-to-noise properties
+#### Signal-to-noise
 
 The following plot provides an ensemble comparison of Kepler
 three-wheel fine-point precision (red), K2 two-wheel coarse-point

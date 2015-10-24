@@ -8,19 +8,21 @@ Save_as: the-science.html
 With over four years of continuous monitoring of over 150,000 stars in
 the Cygnus-Lyra region, Kepler has produced and still continues to
 produce myriad scientific results.  To date, Kepler has discovered
-over 4,000 planet candidates, many of which have been confirmed or
-validated.  These planets are highlighted in the image below.  Kepler data has also revealed insights into
-asteroseismology, eclipsing
-binary systems, gyrochronology, supernovae, and more.  All Kepler publications can
+over
+[4,600 planet candidates](http://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=koi),
+many of which have already been confirmed or
+validated.  These planets are highlighted in the image below.  Kepler data has also revealed insights into eclipsing
+binary systems, asteroseismology, gyrochronology, supernovae, and
+more.  A comprehensive list of Kepler publications can
 be found [here](kpub-kepler.html).
 
 <img class="img-responsive" style="min-width:97%;" src="images/Kepler_cand_JR_21July2015.jpg">
 
 ### Data collection timeline
 
-The prime Kepler mission operated from May 2, 2009 until May 8, 2013,
-when a second reaction wheel failed on the spacecraft.  In that time
-frame, the spacecraft completed a 90 degree roll every 3 months to
+The prime Kepler mission operated from 2009 May 2 until 2013 May 8,
+when a second reaction wheel failed on the spacecraft.  During its
+four years of operation, the spacecraft completed a 90 degree roll every 3 months to
 optimize solar panel efficiency.  Kepler operations are therefore divided into four quarters each year, separated by the quarterly rolls of the spacecraft.  The table
 below lists each operational quarter, the corresponding Guest
 Observer (GO) program cycle, the beginning and end dates for data
@@ -192,7 +194,8 @@ archive](https://archive.stsci.edu/kepler/).
 The Kepler Project fosters self-governing working groups of community
 scientists to advance and recommend upon aspects of primary mission
 science. Working groups also collaborate on science projects that are
-complementary to the primary science goals. These groups are described briefly
+complementary to the primary science goals. Several of these groups
+are still active.  All the working groups are described briefly
 below.
 
 * **Threshold Crossing Event Review Team (TCERT)**<br/>
@@ -3465,6 +3468,7 @@ PSPs are listed below.
   <thead>
     <tr>
       <th>Name </th>
+      <th>Institution </th>
       <th>Title</th>
     </tr>
   </thead>
@@ -3472,12 +3476,15 @@ PSPs are listed below.
   <tdata>
 
  <tr>
- <td style="min-width: 14em;">
+ <td style="min-width: 11em;">
  Derek Buzasi
+ </td>
+ <td style="min-width: 11em;">
+ US Air Force Academy
   </td>
   <td>
 REMOVING A SOURCE OF PLANETARY DETECTION BIAS: STELLAR GRANULATION MODELS FOR KEPLER
-  </td>
+</td>
   <td>
 <a href="data/keplerpsp/c1/c1_Buzasi.pdf" class="btn
       btn-primary btn-xs"><i class="fa fa-download fa-margin"></i>
@@ -3486,9 +3493,11 @@ REMOVING A SOURCE OF PLANETARY DETECTION BIAS: STELLAR GRANULATION MODELS FOR KE
  </tr>
 
  <tr>
- <td style="min-width: 14em;">
+ <td>
  Laurance Doyle
-  </td>
+ </td>
+ <td>
+SETI Institute  </td>
   <td>
 DETECTION OF EXTRASOLAR PLANETS AROUND ECLIPSING BINARIES IN THE KEPLER FIELD
   </td>
@@ -3500,9 +3509,12 @@ DETECTION OF EXTRASOLAR PLANETS AROUND ECLIPSING BINARIES IN THE KEPLER FIELD
  </tr>
 
  <tr>
- <td style="min-width: 14em;">
+ <td>
  Eric Ford
-  </td>
+ </td>
+ <td>
+ University of Florida
+ </td>
   <td>
 CHARACTERIZING THE ORBITAL ECCENTRICITIES OF EARTH-LIKE PLANETS WITH KEPLER
   </td>
@@ -3514,9 +3526,11 @@ CHARACTERIZING THE ORBITAL ECCENTRICITIES OF EARTH-LIKE PLANETS WITH KEPLER
   </tr>
 
  <tr>
- <td style="min-width: 14em;">
+ <td>
  Jonathan Fortney
-  </td>
+ </td>
+ <td>
+NASA Ames Research Center </td>
   <td>
 GIANT PLANET SCIENCE FROM THE KEPLER MISSION
   </td>
@@ -3528,9 +3542,12 @@ GIANT PLANET SCIENCE FROM THE KEPLER MISSION
   </tr>
 
  <tr>
- <td style="min-width: 14em;">
+ <td>
  Matthew Holman
-  </td>
+ </td>
+ <td>
+ Smithsonian Astrophysical Observatory
+ </td>
   <td>
 APPLYING THE METHOD OF TRANSIT TIMING VARIATIONS TO KEPLER
   </td>
@@ -3542,8 +3559,11 @@ APPLYING THE METHOD OF TRANSIT TIMING VARIATIONS TO KEPLER
   </tr>
 
  <tr>
- <td style="min-width: 14em;">
+ <td>
  Sara Seager
+ </td>
+ <td>
+ Massachusetts Institute of Technology
  </td>
   <td>
 THEORETICAL INTERPRETATION OF KEPLER EXOPLANET ALBEDOS AND REFLECTED LIGHT CURVES
@@ -3556,9 +3576,11 @@ THEORETICAL INTERPRETATION OF KEPLER EXOPLANET ALBEDOS AND REFLECTED LIGHT CURVE
   </tr>
 
  <tr>
- <td style="min-width: 14em;">
+ <td>
  Jason Steffen
  </td>
+ <td>
+Fermilab </td>
   <td>
 DETECTING ADDITIONAL PLANETS IN TRANSITING SYSTEMS USING TRANSIT TIMING VARIATIONS
   </td>
@@ -3570,9 +3592,11 @@ DETECTING ADDITIONAL PLANETS IN TRANSITING SYSTEMS USING TRANSIT TIMING VARIATIO
   </tr>
 
 <tr>
- <td style="min-width: 14em;">
+ <td>
  William Welsh
  </td>
+ <td>
+San Diego State University </td>
   <td>
 DETAILED MODELLING OF EXTRASOLAR PLANET TRANSIT OBSERVATIONS AS A KEPLER PARTICIPATING SCIENTIST
   </td>
@@ -3601,7 +3625,8 @@ DETAILED MODELLING OF EXTRASOLAR PLANET TRANSIT OBSERVATIONS AS A KEPLER PARTICI
 
   <thead>
     <tr>
-      <th>Name </th>
+    <th>Name </th>
+	<th>Institution</th>
       <th>Title</th>
     </tr>
   </thead>
@@ -3609,8 +3634,11 @@ DETAILED MODELLING OF EXTRASOLAR PLANET TRANSIT OBSERVATIONS AS A KEPLER PARTICI
   <tdata>
 
  <tr>
- <td style="min-width: 14em;">
+ <td style="min-width: 11em;">
  David Charbonneau
+ </td>
+  <td style="min-width: 11em;">
+  Harvard College
   </td>
   <td>
 VALIDATING KEPLER'S HABITABLE-ZONE SUPER-EARTHS WITH THE SPITZER SPACE TELESCOPE
@@ -3623,8 +3651,11 @@ VALIDATING KEPLER'S HABITABLE-ZONE SUPER-EARTHS WITH THE SPITZER SPACE TELESCOPE
   </tr>
 
  <tr>
- <td style="min-width: 14em;">
+ <td style="min-width: 11em;">
  Eric Ford
+ </td>
+ <td style="min-width: 11em;">
+  University of Florida
   </td>
   <td>
 CHARACTERIZING THE ORBITAL ECCENTRICITIES OF EARTH-SIZE PLANETS AND ARCHITECTURES OF PLANETARY SYSTEMS WITH KEPLER
@@ -3637,8 +3668,11 @@ CHARACTERIZING THE ORBITAL ECCENTRICITIES OF EARTH-SIZE PLANETS AND ARCHITECTURE
   </tr>
 
 <tr>
- <td style="min-width: 14em;">
+ <td>
  Matthew Holman
+ </td>
+ <td>
+ Smithsonian Astrophysical Observatory
   </td>
   <td>
 APPLYING THE METHOD OF TRANSIT TIMING VARIATIONS TO KEPLER: PHASE 2
@@ -3651,8 +3685,11 @@ APPLYING THE METHOD OF TRANSIT TIMING VARIATIONS TO KEPLER: PHASE 2
   </tr>
 
 <tr>
- <td style="min-width: 14em;">
+ <td >
  Tsevi Mazeh
+ </td>
+ <td>
+ Tel Aviv University
   </td>
   <td>
 DISCOVERY OF SHORT-PERIOD NON-TRANSITING PLANETS/BROWN-DWARF/LOW-MASS-STELLAR COMPANIONS THROUGH THE BEAMING (DOPPLER BOOSTING) EFFECT IN KEPLER LIGHTCURVES
@@ -3665,9 +3702,12 @@ DISCOVERY OF SHORT-PERIOD NON-TRANSITING PLANETS/BROWN-DWARF/LOW-MASS-STELLAR CO
   </tr>
   
 <tr>
- <td style="min-width: 14em;">
+ <td>
  Andrej Prsa
-  </td>
+ </td>
+<td>
+Villanova University
+</td>
   <td>
 THOROUGH UNDERSTANDING OF FOREGROUND AND BACKGROUND ECLIPSING BINARY STAR POPULATIONS OBSERVED BY KEPLER
   </td>
@@ -3679,8 +3719,11 @@ THOROUGH UNDERSTANDING OF FOREGROUND AND BACKGROUND ECLIPSING BINARY STAR POPULA
   </tr>
 
 <tr>
- <td style="min-width: 14em;">
+ <td>
  Jason Rowe
+ </td>
+ <td>
+ SETI Institute
   </td>
   <td>
 UNIFORM MODELING OF KEPLER OBJECTS OF INTEREST
@@ -3693,8 +3736,11 @@ UNIFORM MODELING OF KEPLER OBJECTS OF INTEREST
   </tr>
 
 <tr>
- <td style="min-width: 14em;">
+ <td >
  Simon Schuler
+ </td>
+ <td >
+ Association for Universities for Research in Astronomy
   </td>
   <td>
 CHARACTERIZING PLANETARY SYSTEMS: CHEMICAL ABUNDANCES OF KEPLER STARS FROM KECK/HIRES FOLLOW-UP SPECTROSCOPY
@@ -3707,8 +3753,11 @@ CHARACTERIZING PLANETARY SYSTEMS: CHEMICAL ABUNDANCES OF KEPLER STARS FROM KECK/
   </tr>
   
 <tr>
- <td style="min-width: 14em;">
+ <td>
  Jason Steffen
+ </td>
+ <td>
+ Fermilab
   </td>
   <td>
 DETECTING AND CHARACTERIZING PLANETARY SYSTEMS WITH TRANSIT TIMING VARIATIONS
@@ -3721,8 +3770,11 @@ DETECTING AND CHARACTERIZING PLANETARY SYSTEMS WITH TRANSIT TIMING VARIATIONS
   </tr>
 
 <tr>
- <td style="min-width: 14em;">
+ <td>
  Angelle Tanner
+ </td>
+  <td>
+ Georgia State University
   </td>
   <td>
 TESTING KEPLER ASTROMETRY WITH OUR NEAREST NEIGHBORS
@@ -3735,9 +3787,12 @@ TESTING KEPLER ASTROMETRY WITH OUR NEAREST NEIGHBORS
   </tr>
 
 <tr>
- <td style="min-width: 14em;">
+ <td >
  Guillermo Torres
-  </td>
+ </td>
+<td>
+Smithsonian Astrophysical Observatory
+</td>
   <td>
 VALIDATION OF KEPLER CANDIDATE TRANSITING PLANETS WITH BLENDER
   </td>
@@ -3749,9 +3804,12 @@ VALIDATION OF KEPLER CANDIDATE TRANSITING PLANETS WITH BLENDER
   </tr>
 
 <tr>
- <td style="min-width: 14em;">
+ <td>
  William Welsh
-  </td>
+ </td>
+ <td>
+ San Diego State University
+ </td>
   <td>
 DETAILED MODELING OF EXOPLANET TRANSITS
   </td>
@@ -3763,9 +3821,12 @@ DETAILED MODELING OF EXOPLANET TRANSITS
   </tr>
 
 <tr>
- <td style="min-width: 14em;">
+ <td>
  Joshua Winn
-  </td>
+ </td>
+ <td>
+ Massachusetts Institute of Technology
+ </td>
   <td>
 OBLIQUITIES OF KEPLER STARS: CLUES TO PLANET MIGRATION
   </td>
@@ -3794,7 +3855,8 @@ OBLIQUITIES OF KEPLER STARS: CLUES TO PLANET MIGRATION
 
   <thead>
     <tr>
-      <th>Name </th>
+    <th>Name </th>
+	<th>Institution</th>
       <th>Title</th>
     </tr>
   </thead>
@@ -3802,8 +3864,11 @@ OBLIQUITIES OF KEPLER STARS: CLUES TO PLANET MIGRATION
   <tdata>
 
  <tr>
- <td style="min-width: 14em;">
+ <td style="min-width: 11em;">
  Jessie Christiansen
+ </td>
+  <td style="min-width: 11em;">
+  IPAC
   </td>
   <td>
 TOWARDS ETA-EARTH: CHARACTERIZING THE DETECTION RATE OF SMALL PLANETS IN THE KEPLER PIPELINE
@@ -3816,9 +3881,12 @@ TOWARDS ETA-EARTH: CHARACTERIZING THE DETECTION RATE OF SMALL PLANETS IN THE KEP
   </tr>
 
  <tr>
- <td style="min-width: 14em;">
+ <td>
  Justin Crepp
-  </td>
+ </td>
+ <td>
+ University Of Notre Dame
+ </td>
   <td>
 DEEP AO IMAGING VALIDATION OF KOI'S USING THE LARGE BINOCULAR TELESCOPE
   </td>
@@ -3830,9 +3898,12 @@ DEEP AO IMAGING VALIDATION OF KOI'S USING THE LARGE BINOCULAR TELESCOPE
   </tr>
 
  <tr>
- <td style="min-width: 14em;">
+ <td>
  Michael Endl
-  </td>
+ </td>
+ <td>
+ University Of Texas, Austin
+ </td>
   <td>
 CHARACTERIZATION OF THE STELLAR POPULATION IN THE KEPLER FIELD: PUTTING KEPLER'S SMALL PLANETS INTO A GALACTIC CONTEXT
   </td>
@@ -3844,10 +3915,13 @@ CHARACTERIZATION OF THE STELLAR POPULATION IN THE KEPLER FIELD: PUTTING KEPLER'S
   </tr>
 
 <tr>
- <td style="min-width: 14em;">
+ <td >
  Daniel Fabrycky
   </td>
   <td>
+  University Of Chicago
+  </td>
+<td>
 THE ARCHITECTURES OF EXTRASOLAR TERRESTRIAL SYSTEMS
   </td>
   <td>
@@ -3858,10 +3932,13 @@ THE ARCHITECTURES OF EXTRASOLAR TERRESTRIAL SYSTEMS
   </tr>
 
 <tr>
- <td style="min-width: 14em;">
+ <td>
  Daniel Huber
   </td>
   <td>
+  SETI Institute
+  </td>
+<td>
 ACCURATE FUNDAMENTAL PROPERTIES OF KEPLER TARGET STARS
   </td>
   <td>
@@ -3872,9 +3949,12 @@ ACCURATE FUNDAMENTAL PROPERTIES OF KEPLER TARGET STARS
   </tr>
 
 <tr>
- <td style="min-width: 14em;">
+ <td>
  Timothy Morton
-  </td>
+ </td>
+ <td>
+ California Institute of Technology
+ </td>
   <td>
 COMPLETING THE KEPLER CENSUS OF EARTH-LIKE PLANETS
   </td>
@@ -3886,9 +3966,12 @@ COMPLETING THE KEPLER CENSUS OF EARTH-LIKE PLANETS
   </tr>
 
 <tr>
- <td style="min-width: 14em;">
+ <td>
  Aviv Ofir
-  </td>
+ </td>
+ <td>
+ Weizmann Institute of Science
+ </td>
   <td>
 A DEEP SEARCH FOR SMALL PLANETS AND MULTIPLE SYSTEMS USING THE SARS PIPELINE
   </td>
@@ -3900,10 +3983,13 @@ A DEEP SEARCH FOR SMALL PLANETS AND MULTIPLE SYSTEMS USING THE SARS PIPELINE
   </tr>
 
 <tr>
- <td style="min-width: 14em;">
+ <td>
  Jason Rowe
   </td>
   <td>
+  SETI Institute
+  </td>
+<td>
 UNIFORM MODELING OF KEPLER OBJECTS OF INTEREST
   </td>
   <td>
@@ -3914,9 +4000,12 @@ UNIFORM MODELING OF KEPLER OBJECTS OF INTEREST
   </tr>
 
 <tr>
- <td style="min-width: 14em;">
+ <td>
  Jason Steffen
-  </td>
+ </td>
+ <td>
+ Northwestern University, Evanston
+ </td>
   <td>
 CONFIRMING SMALL PLANETS AND MEASURING THEIR MASSES WITH TRANSIT TIMING VARIATIONS
   </td>
@@ -3928,9 +4017,12 @@ CONFIRMING SMALL PLANETS AND MEASURING THEIR MASSES WITH TRANSIT TIMING VARIATIO
   </tr>
 
 <tr>
- <td style="min-width: 14em;">
+ <td>
  Guillermo Torres
-  </td>
+ </td>
+ <td>
+ Smithsonian Institution/Smithsonian Astrophysical Observatory
+ </td>
   <td>
 VALIDATION OF SMALL KEPLER CANDIDATE TRANSITING PLANETS WITH BLENDER
   </td>
@@ -3942,10 +4034,13 @@ VALIDATION OF SMALL KEPLER CANDIDATE TRANSITING PLANETS WITH BLENDER
   </tr>
 
 <tr>
- <td style="min-width: 14em;">
+ <td>
  William Welsh
   </td>
   <td>
+  San Diego State University
+  </td>
+<td>
 CIRCUMBINARY HABITABLE ZONE PLANETS
   </td>
   <td>
@@ -3967,7 +4062,7 @@ CIRCUMBINARY HABITABLE ZONE PLANETS
 K2 is an active, community-driven mission with a variety of scientific
 results that relate
 to the discovery of transiting planets around bright, nearby stars,
-star clusters, supernovae studies, Solar System objects, and more.  The
+star clusters, supernovae studies, solar system objects, and more.  The
 latest publications using K2 data can be found [here](kpub-k2.html),
 and the currently approved
 targets and programs for K2 can be found

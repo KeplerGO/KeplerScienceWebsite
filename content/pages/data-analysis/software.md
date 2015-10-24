@@ -1,4 +1,4 @@
-Title: Kepler/K2 Guest Observer Office Software
+Title: Kepler/K2 Guest Observer Office software
 Save_as: software.html
 
 [TOC]
@@ -11,15 +11,15 @@ source code on [Github](https://github.com/keplergo).
 <table class="table table-striped table-hover" style="max-width:40em;">
 
 <tr>
-    <td>K2Fov</td>
-    <td>A tool to check whether targets are within the field of view for each K2 campaign</td>
-    <td><a href="https://github.com/KeplerGO/K2fov">https://github.com/KeplerGO/K2fov</a></td>
-</tr>
-
-<tr>
     <td>Kadenza</td>
     <td>Converts raw cadence data from the Kepler spacecraft into astronomer-friendly FITS files.</td>
     <td><a href="https://github.com/KeplerGO/kadenza">https://github.com/KeplerGO/kadenza</a></td>
+	</tr>
+	
+<tr>
+    <td>K2Fov</td>
+    <td>A tool to check whether targets are within the field of view for each K2 campaign</td>
+    <td><a href="https://github.com/KeplerGO/K2fov">https://github.com/KeplerGO/K2fov</a></td>
 </tr>
 
 <tr>
@@ -28,7 +28,7 @@ source code on [Github](https://github.com/keplergo).
     cotrend and/or detrend data.</td>
 	<td><a href="data/pyke/PyKE.tar">download the latest version of PyKE</a></td>
 	</tr>
-	
+
 </table>
 
 ### K2fov
@@ -72,14 +72,76 @@ analyze Kepler and K2 light curves, TPFs, and FFIs. PyKE tools provide the
 user with flexibility to tune pixel extraction and artifact mitigation
 for the scientific potential of individual target data. A variety of
 other tasks are also included. A [PyKE primer](http://keplerscience.arc.nasa.gov/PyKEprimer.shtml) provides a thorough
-description of the Kepler data products and analysis techniques to consider.
+description of the Kepler data products and analysis techniques to
+consider. We also provide links to a sample of PyKE tutorials below.
 
 The current version of PyKE is 2.6.2.  PyKE contributors are Martin
 Still and Tom Barclay. PyKE is an open source
 project. Contributions of new tasks or enhanced functionality of
 existing tasks by the community are welcome.
 
-#### PyKE Tasks
+#### PyRAF installation
+
+PyKE is a python-based [PyRAF](http://www.stsci.edu/institute/software_hardware/pyraf) package which can also be executed without PyRAF on the command line of a shell. In order to install and run PyKE as a PyRAF package on your Mac or Linux platform you will need PyRAF to be pre-installed [following these instructions](http://www.stsci.edu/institute/software_hardware/pyraf/stsci_python/installation). We recommend the Ureka binary install option.
+
+[A PyRAF tutorial is provided here](http://stsdas.stsci.edu/pyraf/doc.old/pyraf_tutorial/), explaining functionality and the evolution of IRAF into a python-based scripting language. The Kepler tools have been tested against PyRAF version 2.1.6. Please report any deviant behavior using later versions of these packages.
+
+* [Download the PyKE package tarball](data/pyke/PyKE.tar).
+* To install the Kepler package first create an empty directory to contain the PyKE package files. The most uniform place for this directory is alongside similar packages in the IRAF tree such as stsdas/ and tables/. If PyRAF has been installed e.g. on a Mac using the Ureka instructions on the STScI python page then create a directory called /usr/local/Ureka/variants/common/iraf/kepler. Doing this may require administrator privileges. The command to create a new directory will be sudo mkdir /usr/local/Ureka/variants/common/iraf/kepler. 
+
+* The folder /usr/local/Ureka/variants/common/iraf/kepler may already exist. If so, it was installed by the Ureka build and more often than not will contain an older version of the PyKE tools. We recommend you delete the content of that folder before continuing.
+
+* Edit the extern.pkg file to define the package within the PyRAF
+system. The location of this file will typically be
+/usr/local/Ureka/variants/common/extern.pkg. Edit extern.pkg to
+include the two lines (again administrator privileges may be needed here): <br/>
+*reset kepler = /usr/local/Ureka/variants/common/iraf/kepler/* <br/>
+*task kepler.pkg = kepler$kepler.cl*
+
+* Change directories to the PyKE root directory /usr/local/Ureka/variants/common/iraf/kepler and unpack the downloaded file PyKE.tar:<br/>
+% cd /usr/local/Ureka/variants/common/iraf/kepler/<br/>
+% tar xvf *path*/PyKE.tar<br/>
+where *path* is the location of the downloaded file. The tar operation may require root privilege.
+
+* If you are an existing IRAF or PyRAF user, change directory to where your iraf login script 'login.cl' is located (for example, your home directory), and rerun the 'mkiraf' script, which re-initializes the uparm parameter files. 
+
+* PyRAF requires that you be using csh or tcsh. If you are not running csh or tcsh change to cshell by typing: <br/>
+% csh
+
+#### PyRAF execution
+
+For a full description on getting started see the [PyRAF tutorial](http://stsdas.stsci.edu/pyraf/doc.old/pyraf_tutorial/). In summary:
+
+* Before running this package for the first time add the Ureka
+  executable files to your path by typing: eval
+  `/Users/still/.ureka/ur_setup !*`. Tip - if you look in your startup
+  file, e.g., .cshrc in your home directory, you will find that the
+  Ureka install process has made you a handy alias for this ugly
+  command.
+  
+* Create files for the storage of PyRAF environment variables and
+  arguments. Within the working shell type 'mkiraf' and choose
+  'xterm'.
+  
+* Fire up PyRAF by typing 'pyraf'.
+
+* Load the Kepler package by typing 'kepler'. You should see a welcome
+message and a list of available tasks.
+
+#### Standalone installation
+
+There are pros and cons to using PyKE as a PyRAF package. Users can
+rely on GUI operation and retention of input parameters previously
+used. On the other hand, installation of PyRAF on Linux machines can
+occasionally be challenging. Users unwilling to attempt PyRAF
+installation can still use PyKE from within a Unix/Linux shell on the
+command line. GUI and parameter retention features are however lost in
+this operating mode and command line calls to PyKE can often be long
+character strings. However, a positive is that calls to PyKE can be easily included within shell scripts. [Find installation and execution instructions for shell-based PyKE here](http://keplerscience.arc.nasa.gov/StandAlonePyKE.shtml).
+
+#### PyKE tasks
+
+A comprehensive list of PyKE tasks is provided here.
 
 <table class="table table-striped table-hover" style="max-width:70em;">
 
@@ -255,70 +317,39 @@ existing tasks by the community are welcome.
 	
 </table>
 
-#### PyRAF installation
+#### PyKE tutorials
 
-PyKE is a python-based [PyRAF](http://www.stsci.edu/institute/software_hardware/pyraf) package which can also be executed without PyRAF on the command line of a shell. In order to install and run PyKE as a PyRAF package on your Mac or Linux platform you will need PyRAF to be pre-installed [following these instructions](http://www.stsci.edu/institute/software_hardware/pyraf/stsci_python/installation). We recommend the Ureka binary install option.
+These examples provide use cases and reduction examples for the user to follow. The procedures outlined in this section will not be optimal for all science, and it will ultimately be up to the user to determine what parameter values optimize scientific return.
 
-[A PyRAF tutorial is provided here](http://stsdas.stsci.edu/pyraf/doc.old/pyraf_tutorial/), explaining functionality and the evolution of IRAF into a python-based scripting language. The Kepler tools have been tested against PyRAF version 2.1.6. Please report any deviant behavior using later versions of these packages.
+PyKE tasks can be called and controlled (i) directly from the command
+line within the PyRAF environment, (ii) entirely through GUI-driven
+operation using the epar function on the command line within the PyRAF
+environment, or (iii) as standalone python scripts called from the
+command line of a unix/linux shell. For the sake of clarity in these
+walkthroughs, we provide uniformly the PyRAF GUI task invocations. To
+get started on each walkthrough - in an xterm (not an OS X terminal
+window), run the following command in the directory where you have
+downloaded your Kepler or K2 data:<br/>
 
-* [Download the PyKE package tarball](data/pyke/PyKE.tar).
-* To install the Kepler package first create an empty directory to contain the PyKE package files. The most uniform place for this directory is alongside similar packages in the IRAF tree such as stsdas/ and tables/. If PyRAF has been installed e.g. on a Mac using the Ureka instructions on the STScI python page then create a directory called /usr/local/Ureka/variants/common/iraf/kepler. Doing this may require administrator privileges. The command to create a new directory will be sudo mkdir /usr/local/Ureka/variants/common/iraf/kepler. 
+  % mkiraf <br/>
 
-* The folder /usr/local/Ureka/variants/common/iraf/kepler may already exist. If so, it was installed by the Ureka build and more often than not will contain an older version of the PyKE tools. We recommend you delete the content of that folder before continuing.
+setting the terminal type to *xterm* when asked. Then startup PyRAF and load the PyKE tools in the Kepler package by entering the following commands <br/>
 
-* Edit the extern.pkg file to define the package within the PyRAF
-system. The location of this file will typically be
-/usr/local/Ureka/variants/common/extern.pkg. Edit extern.pkg to
-include the two lines (again administrator privileges may be needed here): <br/>
-*reset kepler = /usr/local/Ureka/variants/common/iraf/kepler/* <br/>
-*task kepler.pkg = kepler$kepler.cl*
+  % pyraf <br/>
 
-* Change directories to the PyKE root directory /usr/local/Ureka/variants/common/iraf/kepler and unpack the downloaded file PyKE.tar:<br/>
-% cd /usr/local/Ureka/variants/common/iraf/kepler/<br/>
-% tar xvf *path*/PyKE.tar<br/>
-where *path* is the location of the downloaded file. The tar operation may require root privilege.
+  --> kepler <br/>
 
-* If you are an existing IRAF or PyRAF user, change directory to where your iraf login script 'login.cl' is located (for example, your home directory), and rerun the 'mkiraf' script, which re-initializes the uparm parameter files. 
+To execute any task in GUI mode, type *epar <taskname>*, e.g. <br/>
 
-* PyRAF requires that you be using csh or tcsh. If you are not running csh or tcsh change to cshell by typing: <br/>
-% csh
+  --> epar kepdraw <br/>
 
-#### PyRAF execution
+* [Extract and cotrend new light curves from Target Pixel Files](http://keplerscience.arc.nasa.gov/PyKEprimerWalkthroughA.shtml)
+* [Mitigate motion and focus artifacts by redefining the optimal aperture](http://keplerscience.arc.nasa.gov/PyKEprimerWalkthroughB.shtml)
+* [Subjective light curve cotrending using basis vectors](http://keplerscience.arc.nasa.gov/PyKEprimerWalkthroughC.shtml)
+* [Removing stellar astrophysics and quarter stitching](http://keplerscience.arc.nasa.gov/PyKEprimerWalkthroughD.shtml)
+* [Mitigate K2 motion artifacts by correlating detrended flux with target centroids](http://keplerscience.arc.nasa.gov/PyKEprimerWalkthroughE.shtml)
 
-For a full description on getting started see the [PyRAF tutorial](http://stsdas.stsci.edu/pyraf/doc.old/pyraf_tutorial/). In summary:
-
-* Before running this package for the first time add the Ureka
-  executable files to your path by typing: eval
-  `/Users/still/.ureka/ur_setup !*`. Tip - if you look in your startup
-  file, e.g., .cshrc in your home directory, you will find that the
-  Ureka install process has made you a handy alias for this ugly
-  command.
-  
-* Create files for the storage of PyRAF environment variables and
-  arguments. Within the working shell type 'mkiraf' and choose
-  'xterm'.
-  
-* Fire up PyRAF by typing 'pyraf'.
-
-* Load the Kepler package by typing 'kepler'. You should see a welcome
-message and a list of available tasks.
-
-#### Standalone installation
-
-There are pros and cons to using PyKE as a PyRAF package. Users can
-rely on GUI operation and retention of input parameters previously
-used. On the other hand, installation of PyRAF on Linux machines can
-occasionally be challenging. Users unwilling to attempt PyRAF
-installation can still use PyKE from within a Unix/Linux shell on the
-command line. GUI and parameter retention features are however lost in
-this operating mode and command line calls to PyKE can often be long
-character strings. However, a positive is that calls to PyKE can be easily included within shell scripts. [Find installation and execution instructions for shell-based PyKE here](http://keplerscience.arc.nasa.gov/StandAlonePyKE.shtml).
-
-#### Citing PyKE in publications
-
-Those wishing to cite PyKE in a publication can reference [Still & Barclay (2012)](http://adsabs.harvard.edu/abs/2012ascl.soft08004S). An appropriate statement to include in the acknowledgements is: *"This work made use of PyKE (Still & Barclay 2012), a software package for the reduction and analysis of Kepler data. This open source software project is developed and distributed by the NASA Kepler Guest Observer Office."*
-
-#### PyKE History
+#### PyKE history
 
 <table class="table table-striped table-hover" style="max-width:70em;">
   <thead>
@@ -450,6 +481,16 @@ Those wishing to cite PyKE in a publication can reference [Still & Barclay (2012
 </tdata>
 </table>
 
+#### Citing PyKE
+
+Those wishing to cite PyKE in a publication can reference
+[Still & Barclay (2012)](http://adsabs.harvard.edu/abs/2012ascl.soft08004S). An
+appropriate statement to include in the acknowledgements is: *"This
+work made use of PyKE (Still & Barclay 2012), a software package for
+the reduction and analysis of Kepler data. This open source software
+project is developed and distributed by the NASA Kepler Guest Observer
+Office."*
+
 **Disclaimers**<br/>
 <u>No Warranty</u>: THE SUBJECT SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY WARRANTY OF ANY KIND, EITHER EXPRESSED, IMPLIED, OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTY THAT THE SUBJECT SOFTWARE WILL CONFORM TO SPECIFICATIONS, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR FREEDOM FROM INFRINGEMENT, ANY WARRANTY THAT THE SUBJECT SOFTWARE WILL BE ERROR FREE, OR ANY WARRANTY THAT DOCUMENTATION, IF PROVIDED, WILL CONFORM TO THE SUBJECT SOFTWARE. THIS AGREEMENT DOES NOT, IN ANY MANNER, CONSTITUTE AN ENDORSEMENT BY GOVERNMENT AGENCY OR ANY PRIOR RECIPIENT OF ANY RESULTS, RESULTING DESIGNS, HARDWARE, SOFTWARE PRODUCTS OR ANY OTHER APPLICATIONS RESULTING FROM USE OF THE SUBJECT SOFTWARE. FURTHER, GOVERNMENT AGENCY DISCLAIMS ALL WARRANTIES AND LIABILITIES REGARDING THIRD-PARTY SOFTWARE, IF PRESENT IN THE ORIGINAL SOFTWARE, AND DISTRIBUTES IT "AS IS."
 
@@ -470,39 +511,7 @@ Copyright © 2010-2011 United States Government as represented by the Administra
 
 [NASA OPEN SOURCE AGREEMENT](http://keplerscience.arc.nasa.gov/docs/KeplerScienceCommunityToolsNOSA.pdf)
 
-#### Walk-through examples
-
-These examples provide use cases and reduction examples for the user to follow. The procedures outlined in this section will not be optimal for all science, and it will ultimately be up to the user to determine what parameter values optimize scientific return.
-
-PyKE tasks can be called and controlled (i) directly from the command
-line within the PyRAF environment, (ii) entirely through GUI-driven
-operation using the epar function on the command line within the PyRAF
-environment, or (iii) as standalone python scripts called from the
-command line of a unix/linux shell. For the sake of clarity in these
-walkthroughs, we provide uniformly the PyRAF GUI task invocations. To
-get started on each walkthrough - in an xterm (not an OS X terminal
-window), run the following command in the directory where you have
-downloaded your Kepler or K2 data:<br/>
-
-  % mkiraf <br/>
-
-setting the terminal type to *xterm* when asked. Then startup PyRAF and load the PyKE tools in the Kepler package by entering the following commands <br/>
-
-  % pyraf <br/>
-
-  --> kepler <br/>
-
-To execute any task in GUI mode, type *epar <taskname>*, e.g. <br/>
-
-  --> epar kepdraw <br/>
-
-* [Extract and cotrend new light curves from Target Pixel Files](http://keplerscience.arc.nasa.gov/PyKEprimerWalkthroughA.shtml)
-* [Mitigate motion and focus artifacts by redefining the optimal aperture](http://keplerscience.arc.nasa.gov/PyKEprimerWalkthroughB.shtml)
-* [Subjective light curve cotrending using basis vectors](http://keplerscience.arc.nasa.gov/PyKEprimerWalkthroughC.shtml)
-* [Removing stellar astrophysics and quarter stitching](http://keplerscience.arc.nasa.gov/PyKEprimerWalkthroughD.shtml)
-* [Mitigate K2 motion artifacts by correlating detrended flux with target centroids](http://keplerscience.arc.nasa.gov/PyKEprimerWalkthroughE.shtml)
-
-### Additional tools
+### Other tools
 
 A variety of other public software exists for inspection of Kepler and K2 FITS
 data.  An incomplete list is provided here. FV can be used to inspect
@@ -522,8 +531,7 @@ structure and content of the TPF is the GUI-driven tool FV. FV is software that 
 
 **Load and inspect tabulated data**
 
-After starting up the FV application, the primary GUI will open.
-
+* Start up the FV application to open the primary GUI.
 * Click on the "Open File..." button in the menu.
 * Use the file browser that pops up to navigate the folders on your system.
 * Click on the TPF of interest and then the "Open" button. The file summary GUI
@@ -558,12 +566,11 @@ the Java tool TOPCAT (Tool for Operation on Catalogs and Tables).
 
 **Load data and display data table**
 
-After starting up the TOPCAT application, the main control GUI will open. The
+* Start up TOPCAT to open the main control GUI. The
 left-most icon on the options bar at the top allows the user to open and
 inspect light curve files. Other icons provide data table display,
 data plotting, filtering and statistics, and output of a variety of
 different data formats.
-
 * Click on the "Load New Table" icon (top-left) to open a new GUI. In the "Format" dialog box scroll down and click on "FITS".
 * Click on the "Filestore Browser" button to navigate through your directories; choose the desired file by clicking on it.
 * The file name will appear in the left-hand window of the main GUI. The
