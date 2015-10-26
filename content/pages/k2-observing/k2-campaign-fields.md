@@ -156,8 +156,8 @@ by K2.
 
  <tr>
       <td><a href="#campaign-11">11</a></td>
-      <td>2016 Sep 27</td>
-      <td>2016 Dec 16</td>
+      <td>2016 Sep 24</td>
+      <td>2016 Dec 8</td>
       <td>2017 Mar 19</td>
       <td>17:21:33.12</td>
       <td>-23:58:33.45</td>
@@ -167,8 +167,8 @@ by K2.
 
   <tr>
       <td><a href="#campaign-12">12</a></td>
-      <td>2016 Dec 22</td>
-      <td>2017 Mar 12</td>
+      <td>2016 Dec 15</td>
+      <td>2017 Mar 4</td>
       <td>2017 Jun 05</td>
       <td>23:26:42.61</td>
       <td>-05:05:44.33</td>
@@ -208,8 +208,8 @@ by K2.
 
     <tr>
       <td><a href="#proposed-campaign-13">13</a></td>
-      <td>2017 Mar 18</td>
-      <td>2017 Jun 06</td>
+      <td>2017 Mar 8</td>
+      <td>2017 May 27</td>
       <td>2017 Sep 03</td>
       <td>04:52:11.28</td>
       <td>+20:48:50.06</td>
