@@ -6,6 +6,12 @@ import datetime
 
 DEVMODE = True  # Shows a red warning message at the top
 
+if DEVMODE:
+    ANALYTICS = ()
+else:
+    ANALYTICS = ("""<script language="javascript" id="_fed_an_ua_tag" src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA"></script>""",
+                 """<script language="javascript" id="_fed_an_ua_tag" src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA&subagency=ARC&dclink=true"></script>""")
+
 # Temporary setting while playing with config:
 LOAD_CONTENT_CACHE = False
 
@@ -30,7 +36,6 @@ HIDE_SITENAME = False
 IGNORE_FILES = [
     "README.md",
 ]
-
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -103,6 +108,9 @@ IMPORTANT_DATES = (
             ('<b>01 Jan 2016</b><br>'
              'K2 Campaign 6 data release (expected)',
              'data-releases.html#k2-product-overview'),
+            ('<b>Feb 2016</b><br>'
+             'K2 Campaigns 11-13 proposal deadline',
+             'k2-proposing-targets.html#campaigns-11-12-13'),
             ('<b>10 Mar 2016</b><br>'
              'K2 DDT proposals due for Campaign 10',
              'k2-ddt.html'),
@@ -125,7 +133,7 @@ MEETINGS = (
              '227th AAS meeting',
              'http://aas.org/meetings/aas227'),
             ('<b>11-15 Jul 2016</b><br>'
-             'Kepler Asteroseismology Workshop (KASC)',
+             'KASC Asteroseismology Workshop',
              'http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/getMeetings.html?number=4796'),
         )
 
@@ -156,4 +164,3 @@ DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 
 DATE_MODIFIED = datetime.datetime.now().strftime('%Y-%m-%d')
-
