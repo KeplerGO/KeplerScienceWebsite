@@ -3,6 +3,30 @@ Save_as: the-science.html
 
 [TOC]
 
+## Science from K2
+
+K2 is an active, community-driven mission with a variety of scientific
+results that relate to the discovery of transiting planets around bright, nearby stars,
+star clusters, extragalactic astrophysics, supernovae studies, solar system objects, and
+more. For example, K2 has already discovered over 20 transiting planets
+with hundreds more candidates awaiting confirmation.  K2 has also
+provided unparalleled photometry of Neptune and asteroids in the solar
+system.  Additional information about the mission, including publications using K2
+data, the previous and upcoming Campaigns, and approved targets and
+programs can be found on the following pages.
+
+* [Overview of the K2 mission](k2-observing.html)
+* [Publications using K2 data](kpub-k2.html)
+* [K2 Campaign fields](k2-fields.html)
+* [K2 technical information](k2-photometric-performance.html)
+* [K2 approved targets and programs](k2-approved-programs.html)
+* [K2 Campaign 9 microlensing experiment](k2-c9.html)
+
+The image below highlights some of
+the science that has been or will be conducted with data from K2.
+
+<img class="img-responsive" style="min-width:97%;" src="images/K2-Science_2015July22-PRINT.jpg">
+
 ## Science from Kepler
 
 With over four years of continuous monitoring of over 150,000 stars in
@@ -4056,17 +4080,3 @@ CIRCUMBINARY HABITABLE ZONE PLANETS
   </div>
   </div>
 
-
-## Science from K2
-
-K2 is an active, community-driven mission with a variety of scientific
-results that relate
-to the discovery of transiting planets around bright, nearby stars,
-star clusters, supernovae studies, solar system objects, and more.  The
-latest publications using K2 data can be found [here](kpub-k2.html),
-and the currently approved
-targets and programs for K2 can be found
-[here](k2-approved-programs.html). The image below highlights some of
-the science that has been or will be conducted with data from K2.
-
-<img class="img-responsive" style="min-width:97%;" src="images/K2-Science_2015July22-PRINT.jpg">
