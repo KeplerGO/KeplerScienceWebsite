@@ -22,8 +22,8 @@ where solar pressure is largely mitigated by spacecraft geometry,
 thereby making viable precision pointing and photometry 
 approaching the quality achieved for the Kepler mission. 
 
-Science observations are taken at one of two timing settings: long (30-min) or short (1-min) cadence. When in fine-point observing, [K2 is capable of achieving a benchmark photometric precision](k2-photometric-performance.html#fine-point-photometric-precision) on an m<sub>V</sub> = 12 G2V star of 170 parts-per-million (ppm) in 30 minutes of integration, i.e., one long cadence exposure. 
-This corresponds to ~50 ppm over a 6.5-hour transit 
+Science observations are taken at one of two timing settings: long (30-min) or short (1-min) cadence. When in fine-point observing, [K2 is capable of achieving a benchmark photometric precision](k2-photometric-performance.html#fine-point-photometric-precision) on an m<sub>V</sub> = 12 G2V star of better than 170 parts-per-million (ppm) in 30 minutes of integration, i.e., one long cadence exposure. 
+This corresponds to ~30 ppm over a 6.5-hour transit 
 of an Earth-sized body around that star.
 
 While stars brighter than m<sub>V</sub> = 11.5 will saturate some pixels, 
@@ -125,3 +125,4 @@ photometrically-quiet dwarf stars.  Note that the data from Campaign 3
 was taken after applying an increase in pointing control bandwidth, so
 data in earlier Campaigns will provide slightly poorer photometric precision.  
 
+<img class="img-responsive" style="max-width: 640px;" src="images/k2-kpcdpp-201508.png">
