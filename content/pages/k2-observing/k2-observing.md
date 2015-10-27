@@ -17,15 +17,18 @@ the image below ([Howell et al. 2014](http://adsabs.harvard.edu/abs/2014PASP..12
 Therefore, four to five K2 Campaigns can be performed 
 during each 372-day orbit of the spacecraft.
 
-<img class="img-responsive" style="min-width:97%;" src="images/k2-orbit.png">
+<img class="img-responsive" style="max-width:90%;" src="images/k2-orbit.png">
 
 K2 is a community-driven mission. All K2 targets are proposed by the community through the
 [Guest Observer program](k2-proposing-targets.html). The K2 mission
 welcomes all proposals including, but not exclusive to, exoplanet,
 stellar, extragalactic and solar system science.  Since K2 offers a photometric precision [approaching that of the original Kepler mission](k2-photometric-performance.html), a variety of scientific goals can be readily
-achieved with K2's continuous, high-precision photometry. 
+achieved with K2's continuous, high-precision photometry of fields
+that span different parts of the galaxy (as illustrated in the image
+below).
 
-<img class="img-responsive" style="max-width:97%;" src="images/k2-kpcdpp-201508.png">
+<img class="img-responsive" style="max-width:65%;" src="images/k2_graphic_sm.jpeg">
+*Image Credit: NASA Ames/W. Stenzel*
 
 ### Scientific motivations
 

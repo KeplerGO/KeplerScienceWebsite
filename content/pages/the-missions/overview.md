@@ -56,8 +56,14 @@ K2 is an entirely community-driven mission.
 All K2 targets are proposed by the community through the
 [Guest Observer program](k2-proposing-targets.html). The K2 mission
 welcomes all proposals including, but not exclusive to, exoplanet,
-stellar, extragalactic, and solar system science. 
+stellar, extragalactic, and solar system science.
 
-The image below highlights Kepler's six years in science (and
-counting!) as of May 2015 (credit: NASA Ames/W. Stenzel).
-<img class="img-responsive" style="min-width:97%;" src="images/shareable_-_kepler_-_numbers_12may2015-2_1041sq.jpeg">
+<br/>
+
+**The image below highlights Kepler's six years in science (and
+counting!) as of May 2015.**
+
+<br/>
+
+<img class="img-responsive" style="max-width:60%;" src="images/shareable_-_kepler_-_numbers_12may2015-2_1041sq.jpeg">
+*Image Credit: NASA Ames/W. Stenzel*
