@@ -43,10 +43,9 @@ with the Kepler space telescope. K2 became fully operational in June
 The K2 mission entails a series of sequential observing
 <a href="k2-fields.html">"Campaigns"</a> 
 of fields distributed around the ecliptic plane 
-and offers a photometric precision approaching that 
-of the original Kepler mission <a
-href="k2-photometric-performance.html#photometric-performance">to within a factor of
-approximately two</a>. Operating in the ecliptic plane minimizes the torque exerted 
+and offers a photometric precision <a
+href="k2-photometric-performance.html#photometric-performance">approaching that 
+of the original Kepler mission</a>. Operating in the ecliptic plane minimizes the torque exerted 
 on the spacecraft by solar wind pressure, 
 reducing pointing drift to the point where spacecraft attitude 
 can effectively be controlled through a combination of thrusters 
