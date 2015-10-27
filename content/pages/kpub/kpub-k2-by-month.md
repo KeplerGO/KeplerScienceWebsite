@@ -23,6 +23,58 @@ Buysschaert, B., Aerts, C., Bloemen, S., et al.
 Molnár, L., Szabó, R., Moskalik, P. A., et al.    
 2015, refereed ([2015MNRAS.452.4283M](http://adsabs.harvard.edu/abs/2015MNRAS.452.4283M))  
 
+5. [WASP-47: A HOT JUPITER SYSTEM WITH TWO ADDITIONAL PLANETS DISCOVERED BY K2](http://adsabs.harvard.edu/abs/2015ApJ...812L..18B)  
+Becker, Juliette C., Vanderburg, Andrew, Adams, Fred C., et al.    
+2015, refereed ([2015ApJ...812L..18B](http://adsabs.harvard.edu/abs/2015ApJ...812L..18B))  
+
+6. [VARIABLE STARS IN ONE OPEN CLUSTER WITHIN THE KEPLER/K2-CAMPAIGN-5 FIELD: M 67 (NGC 2682)](http://adsabs.harvard.edu/abs/2015arXiv151005693N)  
+Nardiello, D., Libralato, M., Bedin, L. R., et al.    
+2015, pre-print ([2015arXiv151005693N](http://adsabs.harvard.edu/abs/2015arXiv151005693N))  
+
+7. [EPIC 201585823, A RARE TRIPLE-MODE RR LYRAE STAR DISCOVERED IN K2 MISSION DATA](http://adsabs.harvard.edu/abs/2015arXiv151003347K)  
+Kurtz, Donald W., Bowman, Dominic M., Ebo, Simon J., et al.    
+2015, pre-print ([2015arXiv151003347K](http://adsabs.harvard.edu/abs/2015arXiv151003347K))  
+
+8. [PUSHING THE LIMITS, EPISODE 2: K2 OBSERVATIONS OF EXTRAGALACTIC RR LYRAE STARS IN THE DWARF GALAXY LEO IV](http://adsabs.harvard.edu/abs/2015ApJ...812....2M)  
+Molnár, L., Pál, A., Plachy, E., et al.    
+2015, refereed ([2015ApJ...812....2M](http://adsabs.harvard.edu/abs/2015ApJ...812....2M))  
+
+9. [HII 2407: A LOW-MASS ECLIPSING BINARY REVEALED BY K2 OBSERVATIONS OF THE PLEIADES](http://adsabs.harvard.edu/abs/2015arXiv151006399D)  
+David, Trevor J., Stauffer, John, Hillenbrand, Lynne A., et al.    
+2015, pre-print ([2015arXiv151006399D](http://adsabs.harvard.edu/abs/2015arXiv151006399D))  
+
+10. [THE K2-ESPRINT PROJECT I: DISCOVERY OF THE DISINTEGRATING ROCKY PLANET K2-22B WITH A COMETARY HEAD AND LEADING TAIL](http://adsabs.harvard.edu/abs/2015ApJ...812..112S)  
+Sanchis-Ojeda, R., Rappaport, S., Pallè, E., et al.    
+2015, refereed ([2015ApJ...812..112S](http://adsabs.harvard.edu/abs/2015ApJ...812..112S))  
+
+11. [PHOTO-DYNAMICAL MASS DETERMINATION OF THE MULTI-PLANETARY SYSTEM K2-19](http://adsabs.harvard.edu/abs/2015arXiv151001047B)  
+Barros, S. C. C., Almenara, J. M., Demangeon, O., et al.    
+2015, pre-print ([2015arXiv151001047B](http://adsabs.harvard.edu/abs/2015arXiv151001047B))  
+
+12. [ONE OF THE CLOSEST EXOPLANET PAIRS TO THE 3:2 MEAN MOTION RESONANCE: K2-19B AND C](http://adsabs.harvard.edu/abs/2015A&A...582A..33A)  
+Armstrong, David J., Santerne, Alexandre, Veras, Dimitri, et al.    
+2015, refereed ([2015A&A...582A..33A](http://adsabs.harvard.edu/abs/2015A&A...582A..33A))  
+
+13. [CHARACTERIZATION OF THE K2-19 MULTIPLE-TRANSITING PLANETARY SYSTEM VIA HIGH-DISPERSION SPECTROSCOPY, AO IMAGING, AND TRANSIT TIMING VARIATIONS](http://adsabs.harvard.edu/abs/2015arXiv151001060N)  
+Narita, Norio, Hirano, Teruyuki, Fukui, Akihiko, et al.    
+2015, pre-print ([2015arXiv151001060N](http://adsabs.harvard.edu/abs/2015arXiv151001060N))  
+
+14. [TWO TRANSITING EARTH-SIZE PLANETS NEAR RESONANCE ORBITING A NEARBY COOL STAR](http://adsabs.harvard.edu/abs/2015ApJ...811..102P)  
+Petigura, Erik A., Schlieder, Joshua E., Crossfield, Ian J. M., et al.    
+2015, refereed ([2015ApJ...811..102P](http://adsabs.harvard.edu/abs/2015ApJ...811..102P))  
+
+15. [ACCRETION-INDUCED VARIABILITY LINKS YOUNG STELLAR OBJECTS, WHITE DWARFS, AND BLACK HOLES](http://adsabs.harvard.edu/abs/2015arXiv151002471S)  
+Scaringi, S., Maccarone, T. J., Koerding, E., et al.    
+2015, pre-print ([2015arXiv151002471S](http://adsabs.harvard.edu/abs/2015arXiv151002471S))  
+
+16. [PERIODIC TRANSIT AND VARIABILITY SEARCH WITH SIMULTANEOUS SYSTEMATICS FILTERING: IS IT WORTH IT?](http://adsabs.harvard.edu/abs/2015arXiv151005133K)  
+Kovacs, Geza, Hartman, Joel D., Bakos, Gaspar A.    
+2015, pre-print ([2015arXiv151005133K](http://adsabs.harvard.edu/abs/2015arXiv151005133K))  
+
+17. [HD144548: A YOUNG TRIPLY ECLIPSING SYSTEM IN THE UPPER SCORPIUS OB ASSOCIATION](http://adsabs.harvard.edu/abs/2015arXiv151003773A)  
+Alonso, R., Deeg, H. J., Hoyer, S., et al.    
+2015, pre-print ([2015arXiv151003773A](http://adsabs.harvard.edu/abs/2015arXiv151003773A))  
+
 
 2015-09
 -------
@@ -38,6 +90,10 @@ Huang, C. X., Hartman, J. D., Bakos, G. Á., et al.
 3. [A HARPS VIEW ON K2-3](http://adsabs.harvard.edu/abs/2015A&A...581L...7A)  
 Almenara, J. M., Astudillo-Defru, N., Bonfils, X., et al.    
 2015, refereed ([2015A&A...581L...7A](http://adsabs.harvard.edu/abs/2015A&A...581L...7A))  
+
+4. [PHOTOMETRY OF VERY BRIGHT STARS WITH KEPLER AND K2 SMEAR DATA](http://adsabs.harvard.edu/abs/2015arXiv151000008P)  
+Pope, Benjamin, White, Timothy, Huber, Daniel, et al.    
+2015, pre-print ([2015arXiv151000008P](http://adsabs.harvard.edu/abs/2015arXiv151000008P))  
 
 
 2015-08
