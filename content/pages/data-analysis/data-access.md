@@ -90,8 +90,8 @@ through NASA's
 [Skyview](http://skyview.gsfc.nasa.gov/current/cgi/titlepage.pl)
 facility. 
 
-<img class="img-responsive" style="min-width:97%;" src="images/KOI326_UKIRT_J_correct.png">
-<img class="img-responsive" style="min-width:97%;" src="images/koi326_DSS2red_1amin.png">
+<img class="img-responsive" style="max-width:57%;" src="images/KOI326_UKIRT_J_correct.png">
+<img class="img-responsive" style="min-width:57%;" src="images/koi326_DSS2red_1amin.png">
 
 **Instructions for accessing the UKIRT J-band survey of the
 Kepler field**

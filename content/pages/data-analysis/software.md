@@ -63,7 +63,11 @@ target is on active silicon.  Targets near the focal plane (flagged
 with 1) but not on active silicon are not
 worth proposing, since the position of each K2 Campaign is fixed.
 
-<img class="img-responsive" style="min-width:97%;" src="images/K2FOV.png">
+<br/>
+
+<img class="img-responsive" style="max-width:77%;" src="images/K2FOV.png">
+
+<br/>
 
 ### PyKE
 
@@ -547,7 +551,11 @@ click on one of the "Header" buttons. The "Hist" and "Plot" buttons provide hist
 * On the summary GUI, click the "Image" button.
 * FV will ask whether you want replace the current selected image. Click "No".
 
+<br/>
+
 <img class="img-responsive" style="min-width:97%;" src="images/TPF-FV3.jpg">
+
+<br/>
 
 The above figure shows typical images stored within a TPF. The left-hand image is stored in the time-tagged data table and contains calibrated, background-subtracted and cosmic ray removed pixel fluxes. The right-hand image contains a bitmap that describes the employment of each pixel. Black pixels are not collected, yellow are collected but do not contribute to the photometry stored in the light curve products. White pixels are included in the photometric aperture that maximizes target signal-to-noise over nominal short timescales of observation.
 
@@ -631,7 +639,11 @@ file, click "OK" and another window opens with the header information.
 The below image displays the result of the example procedure detailed
 above. The image shows a side-by-side comparison of a region within the first Q10 FFI (left) with the same region of the Digitized Sky Survey (right).
 
+<br/>
+
 <img class="img-responsive" style="min-width:97%;" src="images/ds9-dss.jpg">
+
+<br/>
 
 Note: With so many subimages within an FFI file, it is not immediately
 obvious with DS9 how to navigate to a specific celestial location. The
