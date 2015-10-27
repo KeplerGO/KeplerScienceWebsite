@@ -123,6 +123,14 @@ Helled, Ravit, Lozovsky, Michael, Zucker, Shay
 Mulders, Gijs D., Pascucci, Ilaria, Apai, Daniel    
 2015, pre-print ([2015arXiv151002481M](http://adsabs.harvard.edu/abs/2015arXiv151002481M))  
 
+24. [A DISINTEGRATING MINOR PLANET TRANSITING A WHITE DWARF](http://adsabs.harvard.edu/abs/2015arXiv151006387V)  
+Vanderburg, Andrew, Johnson, John Asher, Rappaport, Saul, et al.    
+2015, pre-print ([2015arXiv151006387V](http://adsabs.harvard.edu/abs/2015arXiv151006387V))  
+
+25. [MULTIWAVELENGTH TRANSIT OBSERVATIONS OF THE CANDIDATE DISINTEGRATING PLANETESIMALS ORBITING WD 1145+017](http://adsabs.harvard.edu/abs/2015arXiv151006434C)  
+Croll, Bryce, Dalba, Paul A., Vanderburg, Andrew, et al.    
+2015, pre-print ([2015arXiv151006434C](http://adsabs.harvard.edu/abs/2015arXiv151006434C))  
+
 
 2015-09
 -------
