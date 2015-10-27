@@ -8,9 +8,14 @@ description of the mission concept and early results can be found in
 [Howell et al. 2014](http://adsabs.harvard.edu/abs/2014PASP..126..398H).
 
 K2 observations entail a series of sequential observing
-["Campaigns"](k2-fields.html) of fields distributed around the ecliptic plane. Each ecliptic Campaign is limited by Sun angle constraints to a duration of approximately 80 days. 
+["Campaigns"](k2-fields.html) of fields distributed around the
+ecliptic plane. Each ecliptic Campaign is limited by Sun angle
+constraints to a duration of approximately 80 days as illustrated in
+the image below ([Howell et al. 2014](http://adsabs.harvard.edu/abs/2014PASP..126..398H)). 
 Therefore, four to five K2 Campaigns can be performed 
 during each 372-day orbit of the spacecraft.
+
+<img class="img-responsive" style="min-width:50%;" src="images/k2-orbit.png">
 
 K2 is a community-driven mission. All K2 targets are proposed by the community through the
 [Guest Observer program](k2-proposing-targets.html). The K2 mission
@@ -19,6 +24,7 @@ stellar, extragalactic and solar system science.  Since K2 offers a photometric 
 approximately two](k2-photometric-performance.html), a variety of scientific goals can be readily
 achieved with K2's continuous, high-precision photometry.
 
+<img class="img-responsive" style="max-width:50%;" src="images/Feb2014Precision.png">
 
 ### Scientific motivations
 
