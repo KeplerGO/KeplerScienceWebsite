@@ -21,7 +21,8 @@ BANNER_SUBTITLE = u"Science Center Website"
 SITEURL = ''
 SITELOGO = 'images/NASA_logo_vector_lg.png'
 SITELOGO_SIZE = 32
-FAVICON = 'images/Kepler_K2_logos_transp.png'
+#FAVICON = 'images/Kepler_K2_logos_transp.png'
+FAVICON = 'images/favicon.png'
 TIMEZONE = 'America/Los_Angeles'
 DEFAULT_LANG = u'en'
 
