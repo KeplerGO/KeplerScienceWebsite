@@ -769,13 +769,18 @@ using the background pixel files available on the data archive at MAST.
 
 #### Signal-to-noise
 
-The following plot provides an ensemble comparison of Kepler
-three-wheel fine-point precision (red), K2 two-wheel coarse-point
-precision (green) and K2 two-wheel fine-point precision (blue). The
-red lines are carefully-selected quiet G dwarfs, falling upon
-arbitrary modules of the Kepler detector.
+The following plot below demonstrates the fine-point photometric precision achieved by K2 in Campaign 3 (orange) compared to
+Kepler in Quarter 10 (blue) [credit: Andrew Vanderburg, created using the method described in
+[Vanderburg (2014)](http://adsabs.harvard.edu/abs/2014arXiv1412.1827V)
+and
+[Vanderburg & Johnson (2014)](http://adsabs.harvard.edu/abs/2014PASP..126..948V)]. Giant
+stars were excluded from the computation of the combined differential
+photometric precision (CDPP) to provide a comparison against
+photometrically-quiet dwarf stars.  Note that the data from Campaign 3
+was taken after applying an increase in pointing control bandwidth, so
+data in earlier K2 Campaigns will provide slightly poorer photometric precision.  
 
-<img class="img-responsive" style="min-width:97%;" src="images/Feb2014Precision.png">
+<img class="img-responsive" style="min-width:97%;" src="images/k2-kpcdpp-201508.png">
 
 The limiting factor for observations of faint sources is set by source
 confusion, rather than the photometric accuracy computed for isolated
