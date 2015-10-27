@@ -85,7 +85,11 @@ elements:
 A schematic of the Kepler Processing Pipeline is shown below. The
 primary software modules are indicated on the left.
 
+<br/>
+
 <img class="img-responsive" style="min-width:97%;" src="images/pipeline1_drn5.jpg">
+
+<br/>
 
 #### Calibration (CAL)
 
@@ -118,7 +122,11 @@ photometry.
 
 Below is a block diagram of a Kepler CCD, showing the science and collateral pixel locations.
 
+<br/>
+
 <img class="img-responsive" style="min-width:97%;" src="images/CCD_blockdiagram1.jpg">
+
+<br/>
 
 The focal plane CCD models are applied within CAL to execute the following tasks:
 
@@ -303,7 +311,11 @@ edge of the FOV, it also exhibits greater sensitivity to focus jitter
 and drift. The total amplitude of the centroid motion is on order 0.1
 pixels, equivalent to 0.4 arcseconds.
 
+<br/>
+
 <img class="img-responsive" style="min-width:97%;" src="images/centroid_motion_drn5f4.jpg">
+
+<br/>
 
 * **Astrometric solution**<br/>
 PA performs a standard function of astronomical data pipelines:
@@ -537,7 +549,11 @@ square degree field of view on the sky is illustrated below.  Tables that contai
 module are available for download ([ascii](data/morc_2_ra_dec_4_seasons.txt) and [Microsoft Excel](data/morc_2_ra_dec_4_seasons.xls)).
 Corners are provided in J2000 celestial coordinates for all four seasonal roll rotations.
 
-<img class="img-responsive" style="min-width:97%;" src="images/Keplerfieldofviewstarchart.gif">
+<br/>
+
+<img class="img-responsive" style="max-width:67%;" src="images/Keplerfieldofviewstarchart.gif">
+
+<br/>
 
 #### Instrument response
 
@@ -552,8 +568,15 @@ additional masked real pixels and virtual pixels for collection of
 collateral data.  As of May 2014, two of the modules are no longer in
 working order.
 
-<img class="img-responsive" style="min-width:97%;" src="images/kepler_CCDarray.jpg">
-<img class="img-responsive" style="min-width:97%;" src="images/kepler_focalplane1.jpg">
+<br/>
+
+<img class="img-responsive" style="max-width:67%;" src="images/kepler_CCDarray.jpg">
+
+<br/>
+
+<img class="img-responsive" style="max-width:67%;" src="images/kepler_focalplane1.jpg">
+
+<br/>
 
 The Kepler focal plane detectors and the optical elements within the
 Kepler telescope are illustrated above (from the [Kepler Instrument Handbook](data/documentation/KSCI-19033-001.pdf)).
@@ -567,11 +590,13 @@ of the optical spectrum. This response curve was
 derived during pre-flight testing and
 represents the laboratory calibration of the Kepler photometer. 
 
-<img class="img-responsive" style="min-width:97%;" src="images/kepler_response1.jpg">
+<br/>
 
-<img class="img-responsive" style="min-width:97%;" src="images/kepler_response2.jpg">
+<img class="img-responsive" style="max-width:97%;" src="images/kepler_response1.jpg">
 
-The above plot shows the optical element components of the Kepler Instrument Response compared
+<br/>
+
+The below plot shows the optical element components of the Kepler Instrument Response compared
 to approximate M5 and G2 stellar spectra. The total photometer spectral response is a combination of the
 transmission functions of all optical elements, including the Schmidt
 corrector, the primary mirror assembly, the field flatterner lenses on
@@ -581,9 +606,13 @@ anti-reflection coated; a bandpass filter coating was applied to the
 back surfaces. At long wavelengths the coating was designed to minimize
 fringing.
 
-<img class="img-responsive" style="min-width:97%;" src="images/kepler_bandpass_jason1.jpg">
+<br/>
 
-The above figure shows a comparison of the Kepler, MOST, CoRoT and Johnson response
+<img class="img-responsive" style="max-width:87%;" src="images/kepler_response2.jpg">
+
+<br/>
+
+The figure below shows a comparison of the Kepler, MOST, CoRoT and Johnson response
 curves (kindly provided by Jason Rowe and extracted from
 2009IAUS..253..121R). The transmission functions for the Johnson B,V,R,I
 filters have been scaled to peak at 100% transmission. The
@@ -591,6 +620,12 @@ spectrum for an A2V star is shown in cyan, which peaks in the UV and
 the spectrum for a M2V star is shown in orange which peaks in the
 infrared. The two spectra have been scaled to have equal flux in the
 Johnson V filter.
+
+<br/>
+
+<img class="img-responsive" style="max-width:67%;" src="images/kepler_bandpass_jason1.jpg">
+
+<br/>
 
 #### Pixel response function
 
@@ -645,7 +680,11 @@ the center. The pixelated image is shown below and a contoured version
 above. (Adapted from [Bryson et al.
 (2010)](http://adsabs.harvard.edu/abs/2010ApJ...713L..97B)).
 
+<br/>
+
 <img class="img-responsive" style="min-width:97%;" src="images/bryson_prfs1.jpg">
+
+<br/>
 
 For K2, image quality continues to vary with position in the focal plane, with the 95% encircled energy diameter ranging from 3.1 to 7.5 pixels and a median of 4.2 pixels. The percentage of point-source flux concentrated in the center pixel is between 20% and 62%, with a median value of 45%.
 
@@ -705,7 +744,7 @@ ecliptic plane.
   spacecraft motions (jitter and drift). Motion of the source center
   during an observing season, even at the millipixel level, will
   induce variations in the contaminating flux, introducing small
-  levels of noise into the light curve. </br>
+  levels of noise into the light curve. <br/>
 
 Instrumental backgrounds include the detector bias level (also termed
 black level), which is removed in the CAL pipeline module, scattered light, unexpected electronic
@@ -758,7 +797,11 @@ evident:
 * The difference in background counts produced by viewing
 perpendicular to the Galactic plane is about a factor of 1.8.
 
+<br/>
+
 <img class="img-responsive" style="min-width:97%;" src="images/kepler_background_Q0+1.jpg">
+
+<br/>
 
  The treatment of the background by the pipeline for
 crowded sources may not be optimal. Users should inspect the FOV around sources using a Kepler full-frame
@@ -780,7 +823,11 @@ photometrically-quiet dwarf stars.  Note that the data from Campaign 3
 was taken after applying an increase in pointing control bandwidth, so
 data in earlier K2 Campaigns will provide slightly poorer photometric precision.  
 
+<br/>
+
 <img class="img-responsive" style="min-width:97%;" src="images/k2-kpcdpp-201508.png">
+
+<br/>
 
 The limiting factor for observations of faint sources is set by source
 confusion, rather than the photometric accuracy computed for isolated

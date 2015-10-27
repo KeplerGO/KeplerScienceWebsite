@@ -354,7 +354,11 @@ Manual](http://archive.stsci.edu/kepler/manuals/archive_manual.pdf). Note
 that as of May 2014, the Kepler detector has two dead modules (3 and
 7). 
 
+<br/>
+
 <img class="img-responsive" style="min-width:97%;" src="images/kepler-fov-full.jpg">
+
+<br/>
 
 ### Target pixel files (TPFs)
 
@@ -385,7 +389,11 @@ The target pixel files are the rawest form of target-specific data
 available from the Kepler and K2 archives at MAST.  The TPF data format is defined in section 2.3.2 of the [Kepler Archive
 Manual](http://archive.stsci.edu/kepler/manuals/archive_manual.pdf). 
 
+<br/>
+
 <img class="img-responsive" style="min-width:97%;" src="images/TPF-FV3.jpg">
+
+<br/>
 
 Typical images stored within a TPF. The left-hand image is stored in a
 time-tagged data table and contains calibrated, background-subtracted
