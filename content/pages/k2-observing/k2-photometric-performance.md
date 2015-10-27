@@ -114,14 +114,14 @@ A major activity during ongoing testing is the measurement of thermal alignment 
 
 ### Fine-point photometric precision
 
-Fine-point operations were achieved and maintained during the Feb 2014 engineering test. The plot below compares a 12th magnitude target observed during the Dec 2013 coarse-point operations (left) with a 12th magnitude target collected in fine-point (right). The spacecraft pointed in different directions for these two tests and therefore this is not a like-for-like comparison - the nature and intrinsic variability of both targets is unknown. Nevertheless, in this example, fine-point increases the photometric precision relative to coarse-point by a factor of 2. In both plots, the blue curve is 30-min cadence data, the red diamonds are the same data, binned to 6 hours. The dashed line represents the 1-&sigma; standard deviation of the 30-min data. The median 6-hr photometric precision of the 12th magnitude coarse-point target is 82 ppm, while the same measure for the fine-point target is 44 ppm.
+The following plot below demonstrates the fine-point photometric precision achieved by K2 in Campaign 3 (orange) compared to
+Kepler in Quarter 10 (blue) [credit: Andrew Vanderburg, created using the method described in
+[Vanderburg (2014)](http://adsabs.harvard.edu/abs/2014arXiv1412.1827V)
+and
+[Vanderburg & Johnson (2014)](http://adsabs.harvard.edu/abs/2014PASP..126..948V)]. Giant
+stars were excluded from the computation of the combined differential
+photometric precision (CDPP) to provide a comparison against
+photometrically-quiet dwarf stars.  Note that the data from Campaign 3
+was taken after applying an increase in pointing control bandwidth, so
+data in earlier Campaigns will provide slightly poorer photometric precision.  
 
-<a href="http://keplerscience.arc.nasa.gov/K2/images/Feb2014SAP.png"><img src="http://keplerscience.arc.nasa.gov/K2/images/Feb2014SAP.png" style="max-width: 640px;"></a>
-
-The following plot provides an ensemble comparison of Kepler three-wheel fine-point precision (red), K2 two-wheel coarse-point precision (green) and K2 two-wheel fine-point precision (blue). The red lines are carefully-selected quiet G dwarfs, falling upon arbitrary modules of the Kepler detector. The green points are stars of unknown spectral type and intrinsic variability and therefore the scatter around a power law fit (dashed line) is considerably larger than the Kepler sample. The K2 fine-point ensemble has been extracted from pixels using apertures optimized for signal-to-noise, and systematic, motion-related structure has been calculated and subtracted using singular value deconvolution across the ensemble of light curves. The large scatter demonstrates that the engineering targets display a range of intrinsic astrophysical variability, however, the noise floor suggests that K2 fine-point data is a significant improvement upon coarse-point quality and approaches the photometric precision of the Kepler archive. 
-
-<a href="http://keplerscience.arc.nasa.gov/K2/images/Feb2014Precision.png"><img src="http://keplerscience.arc.nasa.gov/K2/images/Feb2014Precision.png" style="max-width: 640px;"></a>
-
-The series of plots below contain the same 11th magnitude target, observed during the Feb 2014 fine-point observations. In each a Mandel-Agol planet transit model has been injected, assuming the star is solar-size and the planet has an orbital period of 1.5 days. In each curve four transits have therefore been injected over a 9-day time series and folded upon the orbital period. Such Jupiters (top-left), Neptunes (top-right) and Super-Earths (bottom-left) will be readily detected by current planet searching algorithms. The 6-hr 5-&sigma; Earth-like transit depth (bottom-right) will be challenging, just as it is in the Kepler time-series, but will becoming increasingly significant with more recorded transits.
-
-<a href="http://keplerscience.arc.nasa.gov/K2/images/Feb2014Injection.png"><img src="http://keplerscience.arc.nasa.gov/K2/images/Feb2014Injection.png" style="max-width: 640px;"></a>
