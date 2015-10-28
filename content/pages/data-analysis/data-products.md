@@ -87,150 +87,179 @@ Kepler data:
 
 ### Kepler data release notes
 
-Kepler long cadence (30-min) images and light curves are stored in files that
+The prime Kepler mission operated from 2009 May 2 until 2013 May 8,
+when a second reaction wheel failed on the spacecraft.  During its
+four years of operation, the spacecraft completed a 90 degree roll every 3 months to
+optimize solar panel efficiency.  Kepler operations are therefore divided into four quarters each year, separated by the quarterly rolls of the spacecraft.  The table
+below lists each operational quarter, the corresponding Guest
+Observer (GO) program cycle, the beginning and end dates for data
+collection, and the date the data was ingested at the [MAST
+archive](https://archive.stsci.edu/kepler/).
+
+Note that Kepler long cadence (30-min) images and light curves are stored in files that
 span a quarter. Short cadence (1-min) images and light curves are
-stored in files that span a month.  The relevant data release notes
-for each quarter are linked in the table below.
+stored in files that span a month.
+
+The latest data release notes describe [Data Release 24 for Quarters
+0-17](https://archive.stsci.edu/kepler/release_notes/release_notes24/KSCI-19064-002DRN24.pdf).  [Earlier release notes for individual quarters can be found at MAST](https://archive.stsci.edu/kepler/data_release.html).
 
 <table class="table table-striped table-hover" style="max-width:40em;">
   <thead>
     <tr>
-      <th>Quarter</th>
-      <th>Release Note</th>
-      <th>Date</th>
-      <th>Pipeline Processing Version</th>
+      <th>Operational quarter</th>
+      <th>GO cycle</th>
+      <th>Start</th>
+      <th>Stop</th>
+      <th>Data archived</th>
     </tr>
   </thead>
 
   <tdata>
-      <tr>
-      <td>Q0</td>
-	  <td><a
-	  href="http://archive.stsci.edu/kepler/release_notes/release_notes21/DataRelease_21_20130508.pdf">DRN #21 KSCI-19061</a></td>
-      <td>2013 May 07</td>
-      <td>8.3/9.0</td>
-      </tr>
-	  
-      <tr>
-      <td>Q1</td>
-<td><a
-	  href="http://archive.stsci.edu/kepler/release_notes/release_notes21/DataRelease_21_20130508.pdf">DRN #21 KSCI-19061</a></td>      <td>2013 May 07</td>
-      <td>8.3/9.0</td>
+
+  <tr>
+      <td>0</td>
+	  <td>N/A</td>
+      <td>2009 May 02</td>
+      <td>2009 May 11</td>
+      <td>2009 Oct 21</td>
       </tr>
 
-      <tr>
-      <td>Q2</td>
-<td><a
-	  href="http://archive.stsci.edu/kepler/release_notes/release_notes21/DataRelease_21_20130508.pdf">DRN #21 KSCI-19061</a></td>      <td>2013 May 07</td>
-      <td>8.3/9.0</td>
+    <tr>
+      <td>1</td>
+	  <td>N/A</td>
+      <td>2009 May 13</td>
+      <td>2009 Jun 15</td>
+      <td>2009 Oct 23</td>
+    </tr>
+
+    <tr>
+      <td>2</td>
+	  <td>1</td>
+      <td>2009 Jun 20</td>
+      <td>2009 Sep 16</td>
+      <td>2010 Jan 15</td>
       </tr>
 
-      <tr>
-      <td>Q3</td>
-<td><a
-	  href="http://archive.stsci.edu/kepler/release_notes/release_notes21/DataRelease_21_20130508.pdf">DRN #21 KSCI-19061</a></td>      <td>2013 May 07</td>
-      <td>8.3/9.0</td>
+    <tr>
+      <td>3</td>
+	  <td>1</td>
+      <td>2009 Sep 18</td>
+      <td>2009 Dec 16</td>
+      <td>2010 Apr 15</td>
       </tr>
 
-      <tr>
-      <td>Q4</td>
-<td><a
-	  href="http://archive.stsci.edu/kepler/release_notes/release_notes21/DataRelease_21_20130508.pdf">DRN #21 KSCI-19061</a></td>      <td>2013 May 07</td>
-      <td>8.3/9.0</td>
+    <tr>
+      <td>4</td>
+	  <td>1</td>
+      <td>2009 Dec 19</td>
+      <td>2010 Mar 19</td>
+      <td>2010 Aug 04</td>
       </tr>
 
-      <tr>
-      <td>Q5</td>
-<td><a
-	  href="http://archive.stsci.edu/kepler/release_notes/release_notes21/DataRelease_21_20130508.pdf">DRN #21 KSCI-19061</a></td>      <td>2013 May 07</td>
-      <td>8.3/9.0</td>
+    <tr>
+      <td>5</td>
+	  <td>1</td>
+      <td>2010 Mar 20</td>
+      <td>2010 Jun 23</td>
+      <td>2010 Oct 23</td>
       </tr>
 
-      <tr>
-      <td>Q6</td>
-<td><a
-	  href="http://archive.stsci.edu/kepler/release_notes/release_notes21/DataRelease_21_20130508.pdf">DRN #21 KSCI-19061</a></td>      <td>2013 May 07</td>
-      <td>8.3/9.0</td>
+    <tr>
+      <td>6</td>
+	  <td>2</td>
+      <td>2010 Jun 24</td>
+      <td>2010 Sep 22</td>
+      <td>2011 Jan 23</td>
       </tr>
 
-      <tr>
-      <td>Q7</td>
-<td><a
-	  href="http://archive.stsci.edu/kepler/release_notes/release_notes21/DataRelease_21_20130508.pdf">DRN #21 KSCI-19061</a></td>      <td>2013 May 07</td>
-      <td>8.3/9.0</td>
+
+    <tr>
+      <td>7</td>
+	  <td>2</td>
+      <td>2010 Sep 23</td>
+      <td>2010 Dec 22</td>
+      <td>2011 Apr 23</td>
       </tr>
 
-      <tr>
-      <td>Q8</td>
-<td><a
-	  href="http://archive.stsci.edu/kepler/release_notes/release_notes21/DataRelease_21_20130508.pdf">DRN #21 KSCI-19061</a></td>      <td>2013 May 07</td>
-      <td>8.3/9.0</td>
+    <tr>
+      <td>8</td>
+	  <td>2</td>
+      <td>2010 Dec 22</td>
+      <td>2011 Mar 24</td>
+      <td>2011 Jul 24</td>
       </tr>
 
-      <tr>
-      <td>Q9</td>
-<td><a
-	  href="http://archive.stsci.edu/kepler/release_notes/release_notes21/DataRelease_21_20130508.pdf">DRN #21 KSCI-19061</a></td>      <td>2013 May 07</td>
-      <td>8.3/9.0</td>
+    <tr>
+      <td>9</td>
+	  <td>2</td>
+      <td>2011 Mar 19</td>
+      <td>2011 Jun 27</td>
+      <td>2011 Nov 18</td>
       </tr>
 
-      <tr>
-      <td>Q10</td>
-<td><a
-	  href="http://archive.stsci.edu/kepler/release_notes/release_notes21/DataRelease_21_20130508.pdf">DRN #21 KSCI-19061</a></td>      <td>2013 May 07</td>
-      <td>8.3/9.0</td>
+    <tr>
+      <td>10</td>
+	  <td>3</td>
+      <td>2011 Jun 28</td>
+      <td>2011 Sep 27</td>
+      <td>2012 Jan 27</td>
       </tr>
 
-      <tr>
-      <td>Q11</td>
-<td><a
-	  href="http://archive.stsci.edu/kepler/release_notes/release_notes21/DataRelease_21_20130508.pdf">DRN #21 KSCI-19061</a></td>      <td>2013 May 07</td>
-      <td>8.3/9.0</td>
-      </tr>
-	  
-      <tr>
-      <td>Q12</td>
-<td><a
-	  href="http://archive.stsci.edu/kepler/release_notes/release_notes21/DataRelease_21_20130508.pdf">DRN #21 KSCI-19061</a></td>      <td>2013 May 07</td>
-      <td>8.3/9.0</td>
+    <tr>
+      <td>11</td>
+	  <td>3</td>
+      <td>2011 Sep 29</td>
+      <td>2012 Jan 04</td>
+      <td>2012 May 04</td>
       </tr>
 
-      <tr>
-      <td>Q13</td>
-<td><a
-	  href="http://archive.stsci.edu/kepler/release_notes/release_notes21/DataRelease_21_20130508.pdf">DRN #21 KSCI-19061</a></td>      <td>2013 May 07</td>
-      <td>8.3/9.0</td>
+
+    <tr>
+      <td>12</td>
+	  <td>3</td>
+      <td>2012 Jan 05</td>
+      <td>2012 Mar 28</td>
+      <td>2012 Jul 28</td>
       </tr>
 
-      <tr>
-      <td>Q14</td>
-<td><a
-	  href="http://archive.stsci.edu/kepler/release_notes/release_notes21/DataRelease_21_20130508.pdf">DRN
-      #21 KSCI-19061</a></td>
-	  <td>2013 May 07</td>
-      <td>8.3/9.0</td>
+    <tr>
+      <td>13</td>
+	  <td>3</td>
+      <td>2012 Mar 29</td>
+      <td>2012 Jun 27</td>
+      <td>2012 Oct 23</td>
       </tr>
 
-      <tr>
-      <td>Q15</td>
-	  <td><a
-	  href="http://archive.stsci.edu/kepler/release_notes/release_notes20/DataRelease_20_20130502.pdf">DRN #20 KSCI-19060</a></td>
-      <td>2013 Apr 27</td>
-      <td>9.0</td>
+    <tr>
+      <td>14</td>
+	  <td>4</td>
+      <td>2012 Jun 28</td>
+      <td>2012 Oct 03</td>
+      <td>2013 Feb 03</td>
       </tr>
 
-      <tr>
-      <td>Q16</td>
-	  <td><a  href="http://archive.stsci.edu/kepler/release_notes/release_notes22/DataRelease_22_20130802.pdf">DRN #22 KSCI-19062</a></td>
+    <tr>
+      <td>15</td>
+	  <td>4</td>
+      <td>2012 Oct 05</td>
+      <td>2013 Jan 11</td>
+      <td>2013 May 06</td>
+      </tr>
+
+    <tr>
+      <td>16</td>
+	  <td>4</td>
+      <td>2013 Jan 12</td>
+      <td>2013 Apr 08</td>
       <td>2013 Aug 02</td>
-      <td>9.0</td>
       </tr>
 
-      <tr>
-      <td>Q17</td>
-	  <td><a	href="http://archive.stsci.edu/kepler/release_notes/release_notes23/DataRelease_23_20131218.pdf">DRN #23 KSCI-19063</a></td>
-      <td>2013 Dec 13</td>
-      <td>9.1</td>
+    <tr>
+      <td>17</td>
+	  <td>4</td>
+      <td>2013 Apr 09</td>
+      <td>2013 May 08</td>
+      <td>2013 Dec 09</td>
       </tr>
 	  
 </tdata>
