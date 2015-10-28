@@ -96,7 +96,7 @@ Observer (GO) program cycle, the beginning and end dates for data
 collection, and the date the data was ingested at the [MAST
 archive](https://archive.stsci.edu/kepler/).
 
-Note that Kepler long cadence (30-min) images and light curves are stored in files that
+Kepler long cadence (30-min) images and light curves are stored in files that
 span a quarter. Short cadence (1-min) images and light curves are
 stored in files that span a month.
 
@@ -299,11 +299,20 @@ requesting a K2 number for new planets discovered in the K2 data.
 
 ### K2 data release notes
 
-K2 long cadence (30-min) images are available for each Campaign.
+The table below lists each operational K2 Campaign, the corresponding
+Guest Observer (GO) program cycle, the beginning and end dates for
+data collection, and the date the data was ingested at the [MAST
+archive](https://archive.stsci.edu/k2/). The first four Campaigns had GO programs that were not
+conducted through NASA Roses and so do not have an official cycle
+associated with them.
+
+Note that K2 long cadence (30-min) images are available for each Campaign.
 Light curves produced by the Project Office are available starting in
 Campaign 3.  Short cadence (1-min) images are also available for each
-Campaign, but no light curves are provided.  The relevant data release notes
-for each Campaign are linked in the table below.  The pipeline release
+Campaign, but no light curves are provided.
+
+The relevant data release notes
+for each Campaign are also linked in the table below.  The pipeline release
 notes for K2 are
 [available here](http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml),
 which detail deviations from the pipeline used for Kepler.
@@ -324,6 +333,7 @@ which detail deviations from the pipeline used for Kepler.
 
       <tr>
       <td>C0</td>
+	  <td>N/A</td>
 	  <td>2014 Mar 08</td>
 	  <td>2014 May 27</td>
       <td>2014 Sep 08</td>
@@ -332,6 +342,7 @@ which detail deviations from the pipeline used for Kepler.
 
       <tr> 
       <td>C1</td>
+	  <td>N/A</td>
 	  <td>2014 May 30</td>
 	  <td>2014 Aug 21</td>
       <td>2014 Dec 23</td>
@@ -340,6 +351,7 @@ which detail deviations from the pipeline used for Kepler.
 
       <tr>
       <td>C2</td>
+  	  <td>N/A</td>
 	  <td>2014 Aug 23</td>
       <td>2014 Nov 13</td>
       <td>2015 Mar 16</td>
@@ -348,6 +360,7 @@ which detail deviations from the pipeline used for Kepler.
 
       <tr>
       <td>C3</td>
+	  <td>N/A</td>
       <td>2014 Nov 14</td>
       <td>2015 Feb 03</td>
       <td>2015 Jul 17</td>
@@ -356,6 +369,7 @@ which detail deviations from the pipeline used for Kepler.
 
       <tr>
       <td>C4</td>
+  	  <td>1</td>
 	  <td>2015 Feb 07</td>
 	  <td>2015 Apr 23</td>
       <td>2015 Sep 04</td>
