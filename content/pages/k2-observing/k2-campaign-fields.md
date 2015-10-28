@@ -41,20 +41,30 @@ by K2.
       <td>2014&nbsp;Sep&nbsp;08</td>
       <td>06:33:11.14</td>
       <td>+21:35:16.40</td>
-      <td><a href="k2-approved-programs.html#campaign-0-mar-2014">&#10004;</a></td>
-      <td></td>
-      <td style="min-width: 14em;">Near Galactic Anti-center, M35, NGC 2158</td>
+      <td class="text-center">
+        <a href="k2-approved-programs.html#campaign-0-mar-2014">&#10004;</a>
+      </td>
+      <td class="text-center">
+        <a href="http://keplerscience.arc.nasa.gov/K2/C0drn.shtml">&#10004;</a>
+      </td>
+      <td style="min-width: 12em;">
+        Near Galactic Anti-center, M35, NGC 2158
+      </td>
     </tr>
 
     <tr>
       <td><a href="#campaign-1">1</a></td>
-      <td>2014 May 30</td>
-      <td>2014 Aug 21</td>
-      <td>2014 Dec 21</td>
+      <td>2014&nbsp;May&nbsp;30</td>
+      <td>2014&nbsp;Aug&nbsp;21</td>
+      <td>2014&nbsp;Dec&nbsp;21</td>
       <td>11:35:45.51</td>
       <td>+01:25:02.28</td>
-      <td><a href="k2-approved-programs.html#campaign-1-may-2014">&#10004;</a></td>
-      <td></td>
+      <td class="text-center">
+        <a href="k2-approved-programs.html#campaign-1-may-2014">&#10004;</a>
+      </td>
+      <td class="text-center">
+        <a href="http://keplerscience.arc.nasa.gov/K2/C1drn.shtml">&#10004;</a>
+      </td>
       <td>North Galactic Cap</td>
     </tr>
 
@@ -65,8 +75,12 @@ by K2.
       <td>2015 Mar 10</td>
       <td>16:24:30.34</td>
       <td>-22:26:50.28</td>
-      <td><a href="k2-approved-programs.html#campaign-2-aug-2014">&#10004;</a></td>
-      <td></td>
+      <td class="text-center">
+        <a href="k2-approved-programs.html#campaign-2-aug-2014">&#10004;</a>
+      </td>
+      <td class="text-center">
+        <a href="http://keplerscience.arc.nasa.gov/K2/C2drn.shtml">&#10004;</a>
+      </td>
       <td>Near Galactic Center, M4, M80, M19, Upr Sco, rho Oph</td>
     </tr>
 
@@ -77,8 +91,12 @@ by K2.
       <td>2015 Jul 17</td>
       <td>22:26:39.68</td>
       <td>-11:05:47.99</td>
-      <td><a href="k2-approved-programs.html#campaign-3-nov-2014">&#10004;</a></td>
-      <td></td>
+      <td class="text-center">
+        <a href="k2-approved-programs.html#campaign-3-nov-2014">&#10004;</a>
+      </td>
+      <td class="text-center">
+        <a href="http://keplerscience.arc.nasa.gov/K2/C3drn.shtml">&#10004;</a>
+      </td>
       <td>South Galactic Cap, Neptune</td>
     </tr>
 
@@ -89,8 +107,12 @@ by K2.
       <td>2015 Sep 04</td>
       <td>03:56:18.22</td>
       <td>+18:39:38.09</td>
-      <td><a href="k2-approved-programs.html#campaign-4-feb-2015">&#10004;</a></td>
-      <td></td>
+      <td class="text-center">
+        <a href="k2-approved-programs.html#campaign-4-feb-2015">&#10004;</a>
+      </td>
+      <td class="text-center">
+        <a href="http://keplerscience.arc.nasa.gov/K2/C4drn.shtml">&#10004;</a>
+      </td>
       <td>M45 (Pleiades), NGC1647, Hyades</td>
     </tr>
 
@@ -101,8 +123,11 @@ by K2.
       <td>2015 Oct 29</td>
       <td>08:40:37.84</td>
       <td>+16:49:46.61</td>
-      <td><a href="k2-approved-programs.html#campaign-5-apr-2015">&#10004;</a></td>
-      <td></td>
+      <td class="text-center">
+        <a href="k2-approved-programs.html#campaign-5-apr-2015">&#10004;</a>
+      </td>
+      <td class="text-center">
+      </td>
       <td>M44 (Beehive), M67</td>
     </tr>
 
@@ -113,8 +138,10 @@ by K2.
       <td>2016 Jan 01</td>
       <td>13:39:27.61</td>
       <td>-11:17:43.29</td>
-      <td><a href="k2-approved-programs.html#campaign-6-jul-2015">&#10004;</a></td>
-      <td></td>
+      <td class="text-center">
+        <a href="k2-approved-programs.html#campaign-6-jul-2015">&#10004;</a>
+      </td>
+      <td class="text-center"></td>
       <td>North Galactic Cap</td>
     </tr>
 
@@ -125,8 +152,12 @@ by K2.
       <td>2016 Mar 28</td>
       <td>19:11:18.84</td>
       <td>-23:21:36.07</td>
-      <td><a href="k2-approved-programs.html#campaign-7-oct-2015">&#10004;</a></td>
-      <td></td>
+      <td class="text-center">
+        <a href="k2-approved-programs.html#campaign-7-oct-2015">&#10004;</a>
+      </td>
+      <td class="text-center">
+
+      </td>
       <td>Near Galactic Center, NGC 6717</td>
     </tr>
 
@@ -137,8 +168,12 @@ by K2.
       <td>2016 Jun 19</td>
       <td>01:05:21.12</td>
       <td>+05:15:44.45</td>
-      <td></td>
-      <td></td>
+      <td class="text-center">
+        
+      </td>
+      <td class="text-center">
+        
+      </td>
       <td>Uranus</td>
     </tr>
 
@@ -149,8 +184,12 @@ by K2.
       <td>2016 Sep 26</td>
       <td>18:01:25.08</td>
       <td>-21:46:47.32</td>
-      <td></td>
-      <td></td>
+      <td class="text-center">
+        
+      </td>
+      <td class="text-center">
+        
+      </td>
       <td>Galactic Center, Baades Window, M21, M18, M25, M8</td>
     </tr>
 
@@ -161,8 +200,12 @@ by K2.
       <td>2016 Dec 22</td>
       <td>12:27:07.07</td>
       <td>-04:01:37.8</td>
-      <td></td>
-      <td></td>
+      <td class="text-center">
+        
+      </td>
+      <td class="text-center">
+        
+      </td>
       <td>North Galactic cap</td>
     </tr>
 
@@ -173,8 +216,12 @@ by K2.
       <td>2017 Mar 19</td>
       <td>17:21:33.12</td>
       <td>-23:58:33.45</td>
-      <td></td>
-      <td></td>
+      <td class="text-center">
+        
+      </td>
+      <td class="text-center">
+        
+      </td>
       <td>Galactic Center</td>
       </tr>
 
@@ -185,8 +232,12 @@ by K2.
       <td>2017 Jun 05</td>
       <td>23:26:42.61</td>
       <td>-05:05:44.33</td>
-      <td></td>
-      <td></td>
+      <td class="text-center">
+        
+      </td>
+      <td class="text-center">
+        
+      </td>
       <td>South Galactic Cap</td>
     </tr>
 
