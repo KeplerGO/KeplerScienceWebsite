@@ -11,7 +11,7 @@ The target list and approved programs are posted on this page
 as soon as the mission team has prepared the final target list
 for upload to the spacecraft, which happens 1-2 months before the start
 of a Campaign.  Some details of the approved programs are provided
-here, but the `data release notes <data-releases.html#k2-data-release-notes>`_ should be consulted for more
+here, but the `data release notes <data-products.html#k2-data-release-notes>`_ should be consulted for more
 comprehensive notes for each Campaign.
 
 Campaign 7 (Oct 2015)

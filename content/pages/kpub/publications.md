@@ -3,8 +3,6 @@ Save_as: publications.html
 
 [TOC]
 
-## Summary
-
 The Guest Observer office curates a list of scientific publications
 pertaining to Kepler and K2.
 The database contains 1546 publications,
@@ -188,15 +186,9 @@ Here we list the most-active authors, defined as those with six or more first-au
 
  * Sanchis-Ojeda, R (10 publications)
 
- * Hekker, S (9 publications)
-
- * Kane, S (9 publications)
-
- * Steffen, J (9 publications)
-
  * Chaplin, W (9 publications)
 
- * Murphy, S (9 publications)
+ * Hekker, S (9 publications)
 
  * Baran, A (9 publications)
 
@@ -204,54 +196,60 @@ Here we list the most-active authors, defined as those with six or more first-au
 
  * Savanov, I (9 publications)
 
+ * Kane, S (9 publications)
+
+ * Steffen, J (9 publications)
+
+ * Murphy, S (9 publications)
+
  * Stello, D (8 publications)
-
- * Huber, D (8 publications)
-
- * Ostensen, R (8 publications)
-
- * Armstrong, D (8 publications)
 
  * Gilliland, R (8 publications)
 
- * Kato, T (8 publications)
+ * Ostensen, R (8 publications)
 
  * Scaringi, S (8 publications)
 
  * Wang, J (8 publications)
 
- * Tkachenko, A (7 publications)
+ * Armstrong, D (8 publications)
+
+ * Huber, D (8 publications)
+
+ * Kato, T (8 publications)
 
  * Silva Aguirre, V (7 publications)
-
- * Mosser, B (7 publications)
 
  * Metcalfe, T (7 publications)
 
  * Ramsay, G (7 publications)
 
- * Lillo-Box, J (6 publications)
+ * Mosser, B (7 publications)
 
- * Rappaport, S (6 publications)
-
- * Borucki, W (6 publications)
+ * Tkachenko, A (7 publications)
 
  * Bonomo, A (6 publications)
-
- * Corsaro, E (6 publications)
-
- * Barclay, T (6 publications)
-
- * Gaidos, E (6 publications)
-
- * Campante, T (6 publications)
 
  * Lissauer, J (6 publications)
 
  * Dawson, R (6 publications)
 
- * Santerne, A (6 publications)
+ * Lillo-Box, J (6 publications)
+
+ * Borucki, W (6 publications)
+
+ * Campante, T (6 publications)
+
+ * Barclay, T (6 publications)
 
  * Colon, K (6 publications)
 
+ * Rappaport, S (6 publications)
+
+ * Santerne, A (6 publications)
+
  * Mathur, S (6 publications)
+
+ * Gaidos, E (6 publications)
+
+ * Corsaro, E (6 publications)

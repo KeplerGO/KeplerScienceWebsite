@@ -9,7 +9,7 @@ papers describe the science operations, processing and characteristics
 of the light curves. In addition to these papers, the user is also directed to the Kepler
 Instrument Handbook, the Data Release Notes, the Data Charactistics
 Handbook, links to which can all be found on the
-[data releases page](data-releases.html).   While operations for K2 are slightly different,
+[data releases page](data-products.html).   While operations for K2 are slightly different,
 these papers still provide a useful overview that is largely relevant
 for the K2 pipeline.  **We note that the latest information specific
 to the K2 pipeline can be found in the [pipeline release notes](http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml).
@@ -61,7 +61,7 @@ Science Institute. The archived data includes the raw and calibrated
 pixel values for all sources, background pixels, calibrated and
 corrected light curves, and related ancillary engineering
 data. The specific data products and content
-archived at MAST are detailed [here](data-releases.html).
+archived at MAST are detailed [here](data-products.html).
 
 **Pipeline components**
 
