@@ -311,13 +311,13 @@ Light curves produced by the Project Office are available starting in
 Campaign 3.  Short cadence (1-min) images are also available for each
 Campaign, but no light curves are provided.
 
-The relevant data release notes
+The relevant data release and pipeline notes
 for each Campaign are also linked in the table below.  The pipeline release
 notes for K2 are
 [available here](http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml),
 which detail deviations from the pipeline used for Kepler.
 
-<table class="table table-striped table-hover" style="max-width:40em;">
+<table class="table table-striped table-hover" style="max-width:50em;">
   <thead>
     <tr>
     <th>Campaign</th>
@@ -326,6 +326,7 @@ which detail deviations from the pipeline used for Kepler.
 	<th>Stop</th>
       <th>Archive date</th>
       <th>Release note</th>
+	  <th>Pipeline note</th>
     </tr>
   </thead>
 
@@ -337,7 +338,9 @@ which detail deviations from the pipeline used for Kepler.
 	  <td>2014 Mar 08</td>
 	  <td>2014 May 27</td>
       <td>2014 Sep 08</td>
-      <td><a href="http://keplerscience.arc.nasa.gov/K2/C0drn.shtml">C0 DRN</a></td>
+      <td><a
+      href="http://keplerscience.arc.nasa.gov/K2/C0drn.shtml">DRN</a></td>
+	  <td><a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr2">PRN</a></td>
       </tr>
 
       <tr> 
@@ -346,7 +349,9 @@ which detail deviations from the pipeline used for Kepler.
 	  <td>2014 May 30</td>
 	  <td>2014 Aug 21</td>
       <td>2014 Dec 23</td>
-      <td><a href="http://keplerscience.arc.nasa.gov/K2/C1drn.shtml">C1 DRN</a></td>
+      <td><a
+      href="http://keplerscience.arc.nasa.gov/K2/C1drn.shtml">DRN</a></td>
+	  	  <td><a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr3">PRN</a></td>
       </tr>
 
       <tr>
@@ -355,7 +360,9 @@ which detail deviations from the pipeline used for Kepler.
 	  <td>2014 Aug 23</td>
       <td>2014 Nov 13</td>
       <td>2015 Mar 16</td>
-      <td><a href="http://keplerscience.arc.nasa.gov/K2/C2drn.shtml">C2 DRN</a></td>
+      <td><a
+      href="http://keplerscience.arc.nasa.gov/K2/C2drn.shtml">DRN</a></td>
+	  	  <td><a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr4">PRN</a></td>
       </tr>
 
       <tr>
@@ -364,7 +371,9 @@ which detail deviations from the pipeline used for Kepler.
       <td>2014 Nov 14</td>
       <td>2015 Feb 03</td>
       <td>2015 Jul 17</td>
-	  <td><a href="http://keplerscience.arc.nasa.gov/K2/C3drn.shtml">C3 DRN</a></td>
+	  <td><a
+      href="http://keplerscience.arc.nasa.gov/K2/C3drn.shtml">DRN</a></td>
+	  	  <td><a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr5">PRN</a></td>
       </tr>
 
       <tr>
@@ -373,7 +382,9 @@ which detail deviations from the pipeline used for Kepler.
 	  <td>2015 Feb 07</td>
 	  <td>2015 Apr 23</td>
       <td>2015 Sep 04</td>
-      <td><a href="http://keplerscience.arc.nasa.gov/K2/C4drn.shtml">C4 DRN</a></td>
+      <td><a
+      href="http://keplerscience.arc.nasa.gov/K2/C4drn.shtml">DRN</a></td>
+	  <td><a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr6">PRN</a></td>
       </tr>
 
 </tdata>
