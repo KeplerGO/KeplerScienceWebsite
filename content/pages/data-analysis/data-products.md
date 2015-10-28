@@ -106,11 +106,11 @@ The latest data release notes describe [Data Release 24 for Quarters
 <table class="table table-striped table-hover" style="max-width:40em;">
   <thead>
     <tr>
-      <th>Operational quarter</th>
+      <th>Quarter</th>
       <th>GO cycle</th>
       <th>Start</th>
       <th>Stop</th>
-      <th>Data archived</th>
+      <th>Archive date</th>
     </tr>
   </thead>
 
@@ -311,10 +311,12 @@ which detail deviations from the pipeline used for Kepler.
 <table class="table table-striped table-hover" style="max-width:40em;">
   <thead>
     <tr>
-      <th>Campaign</th>
-      <th>Release Note</th>
-      <th>Date</th>
-      <th>Pipeline Processing Version</th>
+    <th>Campaign</th>
+	<th>GO cycle</th>
+	<th>Start</th>
+	<th>Stop</th>
+      <th>Archive date</th>
+      <th>Release note</th>
     </tr>
   </thead>
 
@@ -322,37 +324,42 @@ which detail deviations from the pipeline used for Kepler.
 
       <tr>
       <td>C0</td>
+	  <td>2014 Mar 08</td>
+	  <td>2014 May 27</td>
+      <td>2014 Sep 08</td>
       <td><a href="http://keplerscience.arc.nasa.gov/K2/C0drn.shtml">C0 DRN</a></td>
-      <td>2014 Sep 09</td>
-      <td>9.2</td>
       </tr>
 
       <tr> 
       <td>C1</td>
+	  <td>2014 May 30</td>
+	  <td>2014 Aug 21</td>
+      <td>2014 Dec 23</td>
       <td><a href="http://keplerscience.arc.nasa.gov/K2/C1drn.shtml">C1 DRN</a></td>
-      <td>2014 Dec 24</td>
-      <td>9.2</td>
       </tr>
 
       <tr>
       <td>C2</td>
+	  <td>2014 Aug 23</td>
+      <td>2014 Nov 13</td>
+      <td>2015 Mar 16</td>
       <td><a href="http://keplerscience.arc.nasa.gov/K2/C2drn.shtml">C2 DRN</a></td>
-      <td>2015 Apr 02</td>
-      <td>9.2</td>
       </tr>
 
       <tr>
       <td>C3</td>
-      <td><a href="http://keplerscience.arc.nasa.gov/K2/C3drn.shtml">C3 DRN</a></td>
+      <td>2014 Nov 14</td>
+      <td>2015 Feb 03</td>
       <td>2015 Jul 17</td>
-      <td>9.3</td>
+	  <td><a href="http://keplerscience.arc.nasa.gov/K2/C3drn.shtml">C3 DRN</a></td>
       </tr>
 
       <tr>
       <td>C4</td>
+	  <td>2015 Feb 07</td>
+	  <td>2015 Apr 23</td>
+      <td>2015 Sep 04</td>
       <td><a href="http://keplerscience.arc.nasa.gov/K2/C4drn.shtml">C4 DRN</a></td>
-      <td>2015 Sep 02</td>
-      <td>9.3</td>
       </tr>
 
 </tdata>
