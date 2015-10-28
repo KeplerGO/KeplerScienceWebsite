@@ -1,15 +1,29 @@
-Title: Helpdesk
+Title: Kepler/K2 Helpdesk
 Save_as: helpdesk.html
 
-## Personnel
+### Guest Observer Office
 
-* Thomas Barclay, Director
-* Geert Barentsen, Support Scientist
-* Knicole Colon, Support Scientist
+<div class="row">
+    <div class="col-sm-3 text-center">
+        <img src="/images/faces/tom.jpg" class="img-circle"><br>
+        Dr Thomas Barclay<br>
+        Director
+    </div>
+    <div class="col-sm-3 text-center">
+        <img src="/images/faces/geert.jpg" class="img-circle"><br>
+        Dr Geert Barentsen<br>
+        Support Scientist
+    </div>
+    <div class="col-sm-3 text-center">
+        <img src="/images/faces/knicole.jpg" class="img-circle"><br>
+        Dr Knicole Colón<br>
+        Support Scientist
+</div>
+</div>
 
-## E-mail
+### E-mail
 
-You can contact the Kepler/K2 Guest Observer Office at [keplergo@mail.arc.nasa.gov](keplergo@mail.arc.nasa.gov) for advice and information on:
+You can contact the Guest Observer Office at [keplergo@mail.arc.nasa.gov](keplergo@mail.arc.nasa.gov) for advice and information on:
 
 * the Kepler or K2 missions;
 * instrument characteristics;
@@ -18,13 +32,13 @@ You can contact the Kepler/K2 Guest Observer Office at [keplergo@mail.arc.nasa.g
 
 Your contact information will be used to answer your query and will not be used for commercial purposes or given away except as required by law. For more information, consult the [NASA Privacy Policy](http://www.nasa.gov/about/highlights/HP_Privacy.html).
 
-## Twitter
+### Twitter
 
 You can also tweet your questions to <a href="https://twitter.com/KeplerGO">@KeplerGO</a>, 
 or search for hashtag <a href="https://twitter.com/search?q=k2help">#k2help</a>
 on Twitter to look at questions asked by others.
 
-## FAQ
+### FAQ
 
 The FAQ archives at MAST for
 [Kepler](http://archive.stsci.edu/mast_faq.php?mission=KEPLER) and
