@@ -1,5 +1,5 @@
 Title: Mission objectives
-Save_as: the-missions.html
+Save_as: objectives.html
 
 [TOC]
 
@@ -17,12 +17,12 @@ stars.
 Kepler exceeded its nominal mission lifetime of three years
 and continued operating for an additional year as an extended
 mission. Between the nominal and extended missions, [Kepler has discovered thousands of transiting
-planets](the-science.html#science-from-kepler) and revealed that small
+planets](science.html#science-from-kepler) and revealed that small
 planets are abundant in the Galaxy.  The ultimate goal of the Kepler
 mission is to measure the fraction of stars with Earth-size
 planets as well as the fraction of stars harboring Earth-size planets
 in the Habitable Zone, work which is still in progress by the Kepler
-Science Office. The community is also encouraged to exploit the mission's [unique data archive](data-releases.html).
+Science Office. The community is also encouraged to exploit the mission's [unique data archive](data-products.html).
 
 <br/>
 

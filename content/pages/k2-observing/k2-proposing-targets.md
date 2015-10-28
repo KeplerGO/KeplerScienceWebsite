@@ -220,7 +220,7 @@ Start and stop dates are approximate, flexible and could be overtaken by unantic
     
         * Understand the scope of the
         Guest Observer program. Science papers exploiting data from the Kepler and K2 mission can be found [here](publications.html).
-        * Familiarize yourself with the [technical documentation](data-releases.html#documentation) for the mission.
+        * Familiarize yourself with the [technical documentation](data-products.html#documentation) for the mission.
         * Develop and justify a science concept for observations
           within Campaigns specific to the current GO Cycle <a href="fields.html"></a>.
         * Identify appropriate targets for the proposed observations using the

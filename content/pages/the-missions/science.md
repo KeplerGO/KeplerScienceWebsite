@@ -1,5 +1,5 @@
 Title: Science
-Save_as: the-science.html
+Save_as: science.html
 
 [TOC]
 

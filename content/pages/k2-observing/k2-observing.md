@@ -116,7 +116,7 @@ or interpret structure found in archived light curves.
 There is no exclusive use period associated with any K2 data.
 
 A comprehensive list of data products for K2 is given
-[here](data-releases.html#k2-product-overview).
+[here](data-products.html#k2-product-overview).
 
 
 

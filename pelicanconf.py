@@ -65,9 +65,9 @@ STATIC_PATHS = (['images', 'data'])
 MENUITEMS = (
         ('News', 'archives.html'),
         ('The missions', (
-            ('Objectives', 'the-missions.html'),
-            ('Telescope', 'the-spacecraft.html'),
-            ('Science', 'the-science.html'),
+            ('Objectives', 'objectives.html'),
+            ('Telescope', 'the-kepler-space-telescope.html'),
+            ('Science', 'science.html'),
             ('Publications', 'publications.html'),
             ('Conferences', 'conferences.html'),
             )
@@ -82,7 +82,7 @@ MENUITEMS = (
             )
         ),
         ('Data analysis', (
-            ('Data products', 'data-releases.html'),
+            ('Data products', 'data-products.html'),
             ('Pipeline', 'pipeline.html'),
             ('Software', 'software.html'),
             ('Related surveys', 'related-surveys.html'),
@@ -91,23 +91,23 @@ MENUITEMS = (
         )
 
 KEY_INFORMATION = (
-            ('K2 fields', 'k2-fields.html'),
-            ('K2 proposal preparation', 'k2-proposing-targets.html'),
-            ('K2 discretionary time','k2-ddt.html'),
-            ('Kepler/K2 data products', 'data-releases.html'),
-            ('Kepler/K2 publications', 'publications.html'),
+            ('K2: Fields', 'k2-fields.html'),
+            ('K2: Proposing targets', 'k2-proposing-targets.html'),
+            ('K2: Discretionary time', 'k2-ddt.html'),
+            ('Kepler/K2: Data products', 'data-products.html'),
+            ('Kepler/K2: Publications', 'publications.html'),
             )
 
 IMPORTANT_DATES = (
             ('<b>29 Oct 2015</b><br>'
              'K2 Campaign 5 data release (expected)',
-             'data-releases.html#k2-product-overview'),
+             'data-products.html#k2-product-overview'),
             ('<b>10 Dec 2015</b><br>'
              'K2 DDT proposals due for Campaign 9',
              'k2-ddt.html'),
             ('<b>01 Jan 2016</b><br>'
              'K2 Campaign 6 data release (expected)',
-             'data-releases.html#k2-product-overview'),
+             'data-products.html#k2-product-overview'),
             ('<b>Feb 2016</b><br>'
              'K2 Campaigns 11-13 proposal deadline',
              'k2-proposing-targets.html#campaigns-11-12-13'),
@@ -116,7 +116,7 @@ IMPORTANT_DATES = (
              'k2-ddt.html'),
             ('<b>28 Mar 2016</b><br>'
              'K2 Campaign 7 data release (expected)',
-             'data-releases.html#k2-product-overview'),
+             'data-products.html#k2-product-overview'),
          )
 
 MEETINGS = (

@@ -1,5 +1,5 @@
 Title: Kepler and K2 data products
-Save_as: data-releases.html
+Save_as: data-products.html
 
 [TOC]
 
@@ -34,10 +34,10 @@ below.
 * [Kepler Input Catalog (KIC)](http://adsabs.harvard.edu/abs/2011AJ....142..112B)
 * [Kepler Data Characteristics Handbook](http://archive.stsci.edu/kepler/manuals/Data_Characteristics.pdf)
 * [Kepler Data Processing Handbook](http://archive.stsci.edu/kepler/manuals/KSCI-19081-001_Data_Processing_Handbook.pdf)
-* [Kepler Data Release Notes](data-releases.html#kepler-data-release-notes) 
+* [Kepler Data Release Notes](data-products.html#kepler-data-release-notes) 
 <br/>
 * [K2 Ecliptic Plane Input Catalog (EPIC)](https://archive.stsci.edu/k2/epic.pdf)
-* [K2 Data Release Notes](data-releases.html#k2-data-release-notes)
+* [K2 Data Release Notes](data-products.html#k2-data-release-notes)
 
 ## Kepler product overview
 
@@ -333,7 +333,7 @@ which detail deviations from the pipeline used for Kepler.
 
 A few of the data products from Kepler and K2 are described
 below. For a comprehensive list of available products, see the above
-lists for [Kepler](data-releases.html#kepler-product-overview) and [K2](data-releases.html#k2-product-overview).
+lists for [Kepler](data-products.html#kepler-product-overview) and [K2](data-products.html#k2-product-overview).
 
 ### Full frame images (FFIs)
 
