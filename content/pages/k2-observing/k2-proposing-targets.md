@@ -1,4 +1,4 @@
-Title: K2 Guest Observer (GO) program
+Title: K2 proposal preparation
 Save_as: k2-proposing-targets.html
 
 [TOC]
@@ -10,7 +10,7 @@ through the Guest Observer (GO) program.
 This page details the program and its aims.
 
 
-## Programmatic information
+## Guest Observer program
 
 
 ### Permitted science areas

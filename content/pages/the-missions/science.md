@@ -3,6 +3,11 @@ Save_as: the-science.html
 
 [TOC]
 
+<img class="img-responsive" style="max-width:60%;" src="images/shareable_-_kepler_-_numbers_12may2015-2_1041sq.jpeg">
+*Image Credit: NASA Ames/W. Stenzel*
+
+<hr>
+
 ## Science from K2
 
 K2 is an active, community-driven mission with a variety of scientific
@@ -26,6 +31,7 @@ The image below highlights some of
 the science that has been or will be conducted with data from K2.
 
 <img class="img-responsive" style="min-width:97%;" src="images/K2-Science_2015July22-PRINT.jpg">
+*Image Credit: NASA Ames/W. Stenzel*
 
 ## Science from Kepler
 
@@ -41,6 +47,7 @@ more.  A comprehensive list of Kepler publications can
 be found [here](kpub-kepler.html).
 
 <img class="img-responsive" style="min-width:97%;" src="images/Kepler_cand_JR_21July2015.jpg">
+*Image Credit: NASA Ames/W. Stenzel*
 
 ### Data collection timeline
 
