@@ -1,4 +1,4 @@
-Title: Kepler and K2 project deliveries
+Title: Kepler and K2 data products
 Save_as: data-releases.html
 
 [TOC]

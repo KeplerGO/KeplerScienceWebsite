@@ -65,7 +65,8 @@ STATIC_PATHS = (['images', 'data'])
 MENUITEMS = (
         ('News', 'archives.html'),
         ('The missions', (
-            ('Overview', 'the-missions.html'),
+            ('Objectives', 'the-missions.html'),
+            ('Telescope', 'the-spacecraft.html'),
             ('Science', 'the-science.html'),
             ('Publications', 'publications.html'),
             ('Conferences', 'conferences.html'),
@@ -74,29 +75,27 @@ MENUITEMS = (
         ('K2 observing', (
             ('Overview', 'k2-observing.html'),
             ('Campaign fields', 'k2-fields.html'),
-            ('Technical information', 'k2-photometric-performance.html'),
             ('Targets & programs', 'k2-approved-programs.html'),
             ('Microlensing experiment', 'k2-c9.html'),
             ('Proposal preparation', 'k2-proposing-targets.html'),
-            ('DDT program','k2-ddt.html'),
+            ('Discretionary time','k2-ddt.html'),
             )
         ),
         ('Data analysis', (
-            ('Data releases', 'data-releases.html'),
-            ('Data access', 'data-access.html'),
+            ('Data products', 'data-releases.html'),
             ('Pipeline', 'pipeline.html'),
             ('Software', 'software.html'),
+            ('Related surveys', 'related-surveys.html'),
             )
         ),
         )
 
 KEY_INFORMATION = (
-            ('K2 Campaign fields', 'k2-fields.html'),
-            ('K2 approved programs', 'k2-approved-programs.html'),
+            ('K2 fields', 'k2-fields.html'),
             ('K2 proposal preparation', 'k2-proposing-targets.html'),
-            ('K2 DDT program','k2-ddt.html'),
-            ('Data access', 'data-access.html'),
-            ('Recent publications', 'publications.html'),
+            ('K2 discretionary time','k2-ddt.html'),
+            ('Kepler/K2 data products', 'data-releases.html'),
+            ('Kepler/K2 publications', 'publications.html'),
             )
 
 IMPORTANT_DATES = (

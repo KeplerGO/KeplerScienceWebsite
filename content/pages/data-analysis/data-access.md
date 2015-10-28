@@ -1,27 +1,7 @@
-Title: Kepler and K2 data access and related surveys
-Save_as: data-access.html
+Title: Related surveys
+Save_as: related-surveys.html
 
 [TOC]
-
-### MAST
-
-The
-[Mikulski Archive for Space Telescopes (MAST)](https://archive.stsci.edu/)
-is responsible for hosting time series data and spacecraft calibration
-products for Kepler and K2, as well as a variety of other data
-products and catalogs.  The data products, catalogs, and documentation
-are [listed here](data-releases.html) and can be downloaded at the
-[Kepler](https://archive.stsci.edu/kepler/) and [K2](https://archive.stsci.edu/k2/) mission pages at MAST.
-
-### NExScI
-
-The
-[NASA Exoplanet Science Institute (NExScI)](http://nexsci.caltech.edu/)
-primarily hosts data related to the Kepler mission planet search.  A
-table of K2 targets is also hosted at NExScI.
-Interactive tables and documentation can be found here for
-[Kepler](http://exoplanetarchive.ipac.caltech.edu/docs/KeplerMission.html)
-and here for [K2](http://exoplanetarchive.ipac.caltech.edu/docs/K2Mission.html).
 
 ### Planet Hunters
 
