@@ -123,9 +123,9 @@ MEETINGS = (
             ('<b>2-5 Nov 2015</b><br>'
              'K2 Science Conference',
              'http://lcogt.net/k2scicon/'),
-            ('<b>8-13 Nov 2015</b><br>'
-             '47th DPS Meeting',
-             'http://aas.org/meetings/dps47'),
+            ('<b>10 Nov 2015</b><br>'
+             'K2 Workshop at the DPS',
+             'special-k2-workshop-at-the-dps-on-10-november-2015.html'),
             ('<b>9-10 Dec 2015</b><br>'
              '5th Australian Exoplanet Workshop',
              'http://astronomy.swin.edu.au/planets/FifthWorkshop2015/'),
