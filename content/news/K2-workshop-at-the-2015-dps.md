@@ -11,9 +11,9 @@ The schedule is as follows:
 
  - K2 background (15 mins) - <i>Thomas Barclay, NASA Ames</i>
  - Targeting solar system bodies (10 mins) - <i>Geert Barentsen, NASA Ames</i>
- - K2 support and the ExoFOP (15 mins) - <i>NExScI</i> 
+ - K2 support and the ExoFOP (15 mins) - <i>Rachel Akeson, NExScI</i> 
  - Observations of Neptune and Uranus (15 mins) - <i>Amy Simon (NASA GSFC)</i>
- - Pluto and the TNOs (15 mins) - <i>Csaba Kiss (Konkoly Obs., Hungary)</i>
+ - Pushing the limits of K2: observing distant, small Solar System bodies with Kepler (15 mins) - <i>Csaba Kiss (Konkoly Obs., Hungary)</i>
  - Trojan Asteroids (15 min) - <i>Erin Ryan (NASA GSFC)</i>
  - Q&A (5 mins)
 
