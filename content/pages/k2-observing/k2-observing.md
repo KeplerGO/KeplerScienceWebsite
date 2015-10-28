@@ -26,7 +26,7 @@ where solar pressure is largely mitigated by spacecraft geometry,
 thereby making viable precision pointing and photometry 
 approaching the quality achieved for the Kepler mission. 
 
-###  Observing capabilities
+### Capabilities
 
 Science observations are taken at one of two timing settings: long (30-min) or short (1-min) cadence. When in fine-point observing, [K2 is capable of achieving a benchmark photometric precision](k2-photometric-performance.html#fine-point-photometric-precision) on an m<sub>V</sub> = 12 G2V star of better than 170 parts-per-million (ppm) in 30 minutes of integration, i.e., one long cadence exposure. 
 This corresponds to ~30 ppm over a 6.5-hour transit 
