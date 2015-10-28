@@ -24,9 +24,10 @@ by K2.
       <th>Start</th>
       <th>Stop</th>
       <th>Data&nbsp;available</th>
-      <th>RA (J2000)</th>
-      <th>Dec (J2000)</th>
-      <th>Targets</th>
+      <th>RA&nbsp;(J2000)</th>
+      <th>Dec&nbsp;(J2000)</th>
+      <th>Target&nbsp;list</th>
+      <th>Release&nbsp;notes</th>
       <th>Comments</th>
     </tr>
   </thead>
@@ -35,12 +36,13 @@ by K2.
 
     <tr>
       <td><a href="#campaign-0">0</a></td>
-      <td>2014 Mar 08</td>
-      <td>2014 May 27</td>
-      <td>2014 Sep 08</td>
+      <td>2014&nbsp;Mar&nbsp;08</td>
+      <td>2014&nbsp;May&nbsp;27</td>
+      <td>2014&nbsp;Sep&nbsp;08</td>
       <td>06:33:11.14</td>
       <td>+21:35:16.40</td>
       <td><a href="k2-approved-programs.html#campaign-0-mar-2014">&#10004;</a></td>
+      <td></td>
       <td style="min-width: 14em;">Near Galactic Anti-center, M35, NGC 2158</td>
     </tr>
 
@@ -52,6 +54,7 @@ by K2.
       <td>11:35:45.51</td>
       <td>+01:25:02.28</td>
       <td><a href="k2-approved-programs.html#campaign-1-may-2014">&#10004;</a></td>
+      <td></td>
       <td>North Galactic Cap</td>
     </tr>
 
@@ -63,6 +66,7 @@ by K2.
       <td>16:24:30.34</td>
       <td>-22:26:50.28</td>
       <td><a href="k2-approved-programs.html#campaign-2-aug-2014">&#10004;</a></td>
+      <td></td>
       <td>Near Galactic Center, M4, M80, M19, Upr Sco, rho Oph</td>
     </tr>
 
@@ -74,6 +78,7 @@ by K2.
       <td>22:26:39.68</td>
       <td>-11:05:47.99</td>
       <td><a href="k2-approved-programs.html#campaign-3-nov-2014">&#10004;</a></td>
+      <td></td>
       <td>South Galactic Cap, Neptune</td>
     </tr>
 
@@ -85,6 +90,7 @@ by K2.
       <td>03:56:18.22</td>
       <td>+18:39:38.09</td>
       <td><a href="k2-approved-programs.html#campaign-4-feb-2015">&#10004;</a></td>
+      <td></td>
       <td>M45 (Pleiades), NGC1647, Hyades</td>
     </tr>
 
@@ -96,6 +102,7 @@ by K2.
       <td>08:40:37.84</td>
       <td>+16:49:46.61</td>
       <td><a href="k2-approved-programs.html#campaign-5-apr-2015">&#10004;</a></td>
+      <td></td>
       <td>M44 (Beehive), M67</td>
     </tr>
 
@@ -107,6 +114,7 @@ by K2.
       <td>13:39:27.61</td>
       <td>-11:17:43.29</td>
       <td><a href="k2-approved-programs.html#campaign-6-jul-2015">&#10004;</a></td>
+      <td></td>
       <td>North Galactic Cap</td>
     </tr>
 
@@ -118,6 +126,7 @@ by K2.
       <td>19:11:18.84</td>
       <td>-23:21:36.07</td>
       <td><a href="k2-approved-programs.html#campaign-7-oct-2015">&#10004;</a></td>
+      <td></td>
       <td>Near Galactic Center, NGC 6717</td>
     </tr>
 
@@ -128,6 +137,7 @@ by K2.
       <td>2016 Jun 19</td>
       <td>01:05:21.12</td>
       <td>+05:15:44.45</td>
+      <td></td>
       <td></td>
       <td>Uranus</td>
     </tr>
@@ -140,6 +150,7 @@ by K2.
       <td>18:01:25.08</td>
       <td>-21:46:47.32</td>
       <td></td>
+      <td></td>
       <td>Galactic Center, Baades Window, M21, M18, M25, M8</td>
     </tr>
 
@@ -150,6 +161,7 @@ by K2.
       <td>2016 Dec 22</td>
       <td>12:27:07.07</td>
       <td>-04:01:37.8</td>
+      <td></td>
       <td></td>
       <td>North Galactic cap</td>
     </tr>
@@ -162,6 +174,7 @@ by K2.
       <td>17:21:33.12</td>
       <td>-23:58:33.45</td>
       <td></td>
+      <td></td>
       <td>Galactic Center</td>
       </tr>
 
@@ -172,6 +185,7 @@ by K2.
       <td>2017 Jun 05</td>
       <td>23:26:42.61</td>
       <td>-05:05:44.33</td>
+      <td></td>
       <td></td>
       <td>South Galactic Cap</td>
     </tr>
