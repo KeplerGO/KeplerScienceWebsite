@@ -11,7 +11,7 @@ the scientific exploitation of the data.
 
 # Campaign 4
 
-## Essentials
+## At a glance
 
 ***Pointing***
 
