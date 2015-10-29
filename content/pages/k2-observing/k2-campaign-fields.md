@@ -14,21 +14,21 @@ by K2.
   <div class="panel-heading">
     <h3 class="panel-title">Field dates and positions</h3>
   </div>
-  <div class="panel-body">
+  <div class="panel-body" style="overflow-x: auto;">
 
 
 <table class="table table-striped table-hover">
   <thead>
     <tr>
-      <th>Field</th>
-      <th>Start</th>
-      <th>Stop</th>
-      <th>Data&nbsp;available</th>
-      <th>RA&nbsp;(J2000)</th>
-      <th>Dec&nbsp;(J2000)</th>
-      <th>Target&nbsp;list</th>
-      <th>Release&nbsp;notes</th>
-      <th>Comments</th>
+      <th style="vertical-align: middle;">Field</th>
+      <th style="vertical-align: middle;">Start</th>
+      <th style="vertical-align: middle;">Stop</th>
+      <th style="vertical-align: middle;">Data&nbsp;available</th>
+      <th style="vertical-align: middle;">RA (J2000)</th>
+      <th style="vertical-align: middle;">Dec (J2000)</th>
+      <th style="vertical-align: middle;" class="text-center">Target<br>list</th>
+      <th style="vertical-align: middle;" class="text-center">Release<br>notes</th>
+      <th style="vertical-align: middle;">Comments</th>
     </tr>
   </thead>
 
@@ -81,7 +81,7 @@ by K2.
       <td class="text-center">
         <a href="http://keplerscience.arc.nasa.gov/K2/C2drn.shtml">&#10004;</a>
       </td>
-      <td>Near Galactic Center, M4, M80, M19, Upr Sco, rho Oph</td>
+      <td>Near Gal Center, M4, M80, M19, Upr Sco, rho Oph</td>
     </tr>
 
     <tr>
@@ -174,7 +174,7 @@ by K2.
       <td class="text-center">
         
       </td>
-      <td>Uranus</td>
+      <td>Uranus, IC1613</td>
     </tr>
 
     <tr>
@@ -222,7 +222,7 @@ by K2.
       <td class="text-center">
         
       </td>
-      <td>Galactic Center</td>
+      <td>Galactic Center, Saturn</td>
       </tr>
 
   <tr>
@@ -238,16 +238,31 @@ by K2.
       <td class="text-center">
         
       </td>
-      <td>South Galactic Cap</td>
+      <td>South Galactic Cap, Chiron, Mars</td>
+    </tr>
+
+    <tr>
+      <td><a href="#campaign-13">13</a></td>
+      <td>2017 Mar 8</td>
+      <td>2017 May 27</td>
+      <td>2017 Sep 03</td>
+      <td>04:51:11.24</td>
+      <td>+20:47:10.69</td>
+      <td class="text-center">
+        
+      </td>
+      <td class="text-center">
+        
+      </td>
+      <td>Hyades, Taurus</td>
     </tr>
 
   </tdata>
 </table>
-
   </div>
 </div>
 
-
+<!--
 <div class="panel panel-primary">
   <div class="panel-heading">
     <h3 class="panel-title">Proposed future fields</h3>
@@ -271,21 +286,12 @@ by K2.
   
   <tdata>
 
-    <tr>
-      <td><a href="#proposed-campaign-13">13</a></td>
-      <td>2017 Mar 8</td>
-      <td>2017 May 27</td>
-      <td>2017 Sep 03</td>
-      <td>04:52:11.28</td>
-      <td>+20:48:50.06</td>
-      <td></td>
-      <td>Hyades</td>
-    </tr>
   </tdata>
 </table>
 
   </div>
 </div>
+-->
 
 <hr/>
 
@@ -325,24 +331,24 @@ by K2.
 
 ## Campaign 8
 
-<img class="img-responsive" style="min-width:97%;" src="http://keplerscience.arc.nasa.gov/K2/images/Field8/field8-final.png">
+<img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/field8-final.png">
 
 ## Campaign 9
 
-<img class="img-responsive" style="min-width:97%;" src="http://keplerscience.arc.nasa.gov/K2/images/Field9/field9-final.png">
+<img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/field9-final.png">
 
 ## Campaign 10
 
-<img class="img-responsive" style="min-width:97%;" src="http://keplerscience.arc.nasa.gov/K2/images/Field10/field10-final.png">
+<img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/field10-final.png">
 
 ## Campaign 11
 
-<img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/f11-final.png">
+<img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/field11-final.png">
 
 ## Campaign 12
 
-<img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/f12-final.png">
+<img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/field12-final.png">
 
-## Proposed Campaign 13
+## Campaign 13
 
-<img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/f13-proposed.png">
+<img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/field13-final.png">
