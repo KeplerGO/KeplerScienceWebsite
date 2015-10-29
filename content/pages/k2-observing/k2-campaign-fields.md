@@ -42,10 +42,10 @@ by K2.
       <td>06:33:11.14</td>
       <td>+21:35:16.40</td>
       <td class="text-center">
-        <a href="k2-approved-programs.html#campaign-0-mar-2014">&#10004;</a>
+        <a href="k2-approved-programs.html#campaign-0-mar-2014"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
-        <a href="http://keplerscience.arc.nasa.gov/K2/C0drn.shtml">&#10004;</a>
+        <a href="http://keplerscience.arc.nasa.gov/K2/C0drn.shtml"><i class="fa fa-check"></i></a>
       </td>
       <td style="min-width: 12em;">
         Near Galactic Anti-center, M35, NGC 2158
@@ -60,10 +60,10 @@ by K2.
       <td>11:35:45.51</td>
       <td>+01:25:02.28</td>
       <td class="text-center">
-        <a href="k2-approved-programs.html#campaign-1-may-2014">&#10004;</a>
+        <a href="k2-approved-programs.html#campaign-1-may-2014"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
-        <a href="http://keplerscience.arc.nasa.gov/K2/C1drn.shtml">&#10004;</a>
+        <a href="http://keplerscience.arc.nasa.gov/K2/C1drn.shtml"><i class="fa fa-check"></i></a>
       </td>
       <td>North Galactic Cap</td>
     </tr>
@@ -76,10 +76,10 @@ by K2.
       <td>16:24:30.34</td>
       <td>-22:26:50.28</td>
       <td class="text-center">
-        <a href="k2-approved-programs.html#campaign-2-aug-2014">&#10004;</a>
+        <a href="k2-approved-programs.html#campaign-2-aug-2014"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
-        <a href="http://keplerscience.arc.nasa.gov/K2/C2drn.shtml">&#10004;</a>
+        <a href="http://keplerscience.arc.nasa.gov/K2/C2drn.shtml"><i class="fa fa-check"></i></a>
       </td>
       <td>Near Gal Center, M4, M80, M19, Upr Sco, rho Oph</td>
     </tr>
@@ -92,10 +92,10 @@ by K2.
       <td>22:26:39.68</td>
       <td>-11:05:47.99</td>
       <td class="text-center">
-        <a href="k2-approved-programs.html#campaign-3-nov-2014">&#10004;</a>
+        <a href="k2-approved-programs.html#campaign-3-nov-2014"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
-        <a href="http://keplerscience.arc.nasa.gov/K2/C3drn.shtml">&#10004;</a>
+        <a href="http://keplerscience.arc.nasa.gov/K2/C3drn.shtml"><i class="fa fa-check"></i></a>
       </td>
       <td>South Galactic Cap, Neptune</td>
     </tr>
@@ -108,10 +108,10 @@ by K2.
       <td>03:56:18.22</td>
       <td>+18:39:38.09</td>
       <td class="text-center">
-        <a href="k2-approved-programs.html#campaign-4-feb-2015">&#10004;</a>
+        <a href="k2-approved-programs.html#campaign-4-feb-2015"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
-        <a href="http://keplerscience.arc.nasa.gov/K2/C4drn.shtml">&#10004;</a>
+        <a href="http://keplerscience.arc.nasa.gov/K2/C4drn.shtml"><i class="fa fa-check"></i></a>
       </td>
       <td>M45 (Pleiades), NGC1647, Hyades</td>
     </tr>
@@ -124,7 +124,7 @@ by K2.
       <td>08:40:37.84</td>
       <td>+16:49:46.61</td>
       <td class="text-center">
-        <a href="k2-approved-programs.html#campaign-5-apr-2015">&#10004;</a>
+        <a href="k2-approved-programs.html#campaign-5-apr-2015"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
       </td>
@@ -139,7 +139,7 @@ by K2.
       <td>13:39:27.61</td>
       <td>-11:17:43.29</td>
       <td class="text-center">
-        <a href="k2-approved-programs.html#campaign-6-jul-2015">&#10004;</a>
+        <a href="k2-approved-programs.html#campaign-6-jul-2015"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center"></td>
       <td>North Galactic Cap</td>
@@ -153,7 +153,7 @@ by K2.
       <td>19:11:18.84</td>
       <td>-23:21:36.07</td>
       <td class="text-center">
-        <a href="k2-approved-programs.html#campaign-7-oct-2015">&#10004;</a>
+        <a href="k2-approved-programs.html#campaign-7-oct-2015"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
 
