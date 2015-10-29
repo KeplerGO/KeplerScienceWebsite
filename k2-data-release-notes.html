@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<!--
+Crafted with ♥ by Geert Barentsen, Thomas Barclay & Knicole colon at NASA Ames
+in August 2015, using pelican-bootstrap and flatly.
+-->
+<html lang="en"
+>
+
+<head>
+    <title>K2 Data Release Notes - Kepler &amp; K2</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--Custom meta data-->
+
+    <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
+    <meta name="dc.format" content="text/html" />
+    <meta name="dc.date.modified" content="2015-10-28" />
+    <meta name="dc.language" content="en" />
+    <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
+    <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
+    <meta name="dc.audience" content="Astronomers, Astrophysicists, Scientists, Researchers" />
+    <meta name="dc.subject.discipline" content="Astrophysics, Astronomy" />
+    <meta name="orgcode" content="SSA">
+    <meta name="rno" content="Thomas.Barclay">
+    <meta name="content-owner" content="Thomas.Barclay">
+    <meta name="webmaster" content="Thomas.Barclay">
+
+
+    <link href="./images/favicon.png" rel="icon">
+
+<link rel="canonical" href="./pages/k2-data-release-notes.html">
+
+        <meta name="author" content="Thomas Barclay" />
+        <meta name="description" content="This page details the key features of the K2 data releases, including a description of technical issues relevant to the scientific exploitation of the data. Campaign 4 Essentials Pointing RA: 59.0759116 degrees Dec: 18.6605794 degrees Roll: -167.6992793 degrees Targets 15,853 in long cadence (LC) 122 in ..." />
+
+    <meta property="og:site_name" content="Kepler &amp; K2" />
+    <meta property="og:type" content="article"/>
+    <meta property="og:title" content="K2 Data Release Notes"/>
+    <meta property="og:url" content="./pages/k2-data-release-notes.html"/>
+    <meta property="og:description" content="This page details the key features of the K2 data releases, including a description of technical issues relevant to the scientific exploitation of the data. Campaign 4 Essentials Pointing RA: 59.0759116 degrees Dec: 18.6605794 degrees Roll: -167.6992793 degrees Targets 15,853 in long cadence (LC) 122 in ..." />
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="./theme/css/bootstrap.flatly.min.css" type="text/css"/>
+    <link href="./theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="./theme/css/exoplanet_archive_icons.css" rel="stylesheet">
+    <link href="./theme/css/mission_icons.css" rel="stylesheet">
+
+    <link href="./theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="./theme/css/style.css" type="text/css"/>
+
+        <link href="./feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+              title="Kepler &amp; K2 ATOM Feed"/>
+
+</head>
+<body>
+
+<!-- Print a warning message that this is not the official site -->
+<div class="container container-wide" style="background-color: #e74c3c; color: white; padding: 1.5em; font-weight: bold;">
+  <div class="container">
+   <i class="fa fa-warning fa-lg fa-margin"></i>
+    This is a preview of the new Kepler/K2 science website.  For the current website, visit <a href="http://keplerscience.arc.nasa.gov/">http://keplerscience.arc.nasa.gov</a>
+  </div>
+</div>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+
+  <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="./" class="navbar-brand">
+<img src="./images/NASA_logo_vector_lg.png" width="32"/> Kepler &amp; K2            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                        <li><a href="./archives.html">News</a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">The missions <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./objectives.html">Objectives</a></li>
+                                <li><a href="./the-kepler-space-telescope.html">Telescope</a></li>
+                                <li><a href="./science.html">Science</a></li>
+                                <li><a href="./publications.html">Publications</a></li>
+                                <li><a href="./conferences.html">Conferences</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">K2 observing <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./k2-observing.html">Overview</a></li>
+                                <li><a href="./k2-fields.html">Campaign fields</a></li>
+                                <li><a href="./k2-approved-programs.html">Targets & programs</a></li>
+                                <li><a href="./k2-c9.html">Microlensing experiment</a></li>
+                                <li><a href="./k2-proposing-targets.html">Proposal preparation</a></li>
+                                <li><a href="./k2-ddt.html">Discretionary time</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data analysis <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./data-products.html">Data products</a></li>
+                                <li><a href="./pipeline.html">Pipeline</a></li>
+                                <li><a href="./software.html">Software</a></li>
+                                <li><a href="./related-surveys.html">Related surveys</a></li>
+                            </ul>
+                        </li>
+            </ul>
+            
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="./helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
+                </li>
+            </ul>
+            
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+
+    <div class="col-sm-9">
+        <section id="content" class="body">
+            <h1 class="entry-title">K2 Data Release Notes</h1>
+            <div class="entry-content">
+                
+<p>This page details the key features of the K2 data releases,
+including a description of technical issues relevant to
+the scientific exploitation of the data.</p>
+<hr>
+<h1 id="campaign-4">Campaign 4</h1>
+<h2 id="essentials">Essentials</h2>
+<p><strong><em>Pointing</em></strong></p>
+<ul>
+<li>RA: 59.0759116 degrees</li>
+<li>Dec: 18.6605794 degrees</li>
+<li>Roll: -167.6992793 degrees</li>
+</ul>
+<p><strong><em>Targets</em></strong></p>
+<ul>
+<li>15,853 in long cadence (LC)</li>
+<li>122 in short cadence (SC)</li>
+<li>Several custom targets (see below)</li>
+</ul>
+<p><strong><em>Full Frame Images (FFI)</em></strong></p>
+<ul>
+<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2015051131033-c04_ffi-cal.fits">ktwo2015051131033-c04_ffi-cal.fits</a> (389 MB)</li>
+<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2015092174954-c04_ffi-cal.fits">ktwo2015092174954-c04_ffi-cal.fits</a> (389 MB)</li>
+</ul>
+<p><strong><em>First cadence</em></strong></p>
+<ul>
+<li>Time: 2015-02-08 06:50:09.177 UTC</li>
+<li>Long Cadence Number: 103744</li>
+<li>Short Cadence Number: 2976430</li>
+</ul>
+<p><strong><em>Last cadence</em></strong></p>
+<ul>
+<li>Time: 2015-04-20 04:32:47.045 UTC</li>
+<li>Long Cadence Number: 107213</li>
+<li>Short Cadence Number: 3078009</li>
+</ul>
+<div class="thumbnail" style="width: 68%;">
+<div class="caption">
+<i>Figure: Schematic of Kepler's C4 field-of-view with selected targets shown with purple dots.</i>
+</div>
+<a href="images/campaign_selected/C4_selected.png">
+<img alt="C4 field-of-view with selected targets" class="img-responsive" src="images/campaign_selected/C4_selected.png">
+</img></a>
+</div>
+<div class="thumbnail" style="width: 68%;">
+<div class="caption">
+<i>Figure: Distribution of the Kepler magnitudes of observed targets in C4. All targets are chosen by Guest Observers. The bimodality is due to how the largest Guest Observer programs were selected for C4.</i>
+</div>
+<a href="images/release-notes/c4/C4_lcDistribution.png">
+<img alt="Distribution of the Kepler magnitudes of observed targets in C4." class="img-responsive" src="images/release-notes/c4/C4_lcDistribution.png">
+</img></a>
+</div>
+<h2 id="features-and-events">Features and events</h2>
+<p><br>
+<strong><em>Pleiades and Hyades</em></strong></br></p>
+<p>One Director's Discretionary Target program (GO4901, PI:White) was approved in Campaign 4 which observes the nine 3–5 mag B-stars and red giants in the Pleiades and Hyades open clusters. The targets were observed using circular pixel masks (20 pixels in radius) that cover the wings of the PSF but not the entire saturation bleed.</p>
+<p>The two stars in the Hyades are γ Tau and δ1 Tau. The seven stars in the Pleiades are: Alcyone (η Tau), Atlas (27 Tau), Electra (17 Tau), Maia (20 Tau), Merope (23 Tau), Taygeta (19 Tau) and Pleione (28 Tau). These stars are all listed in the EPIC; however, their data are listed by custom aperture number at the MAST in the range 200007765--200007773.</p>
+<div class="thumbnail" style="width: 68%;">
+<div class="caption">
+<i>Figure: The Pleiades open cluster as seen on module 15 of the K2 C4 FFI.</i>
+</div>
+<a href="images/release-notes/c4/c4-pleiades-k2-1579.png">
+<img alt="The Pleiades open cluster as seen on module 15 of the K2 C4 FFI." class="img-responsive" src="images/release-notes/c4/c4-pleiades-k2-1579.png">
+</img></a>
+</div>
+<p><br>
+<strong><em>Trans-Neptunian Object</em></strong></br></p>
+<p>The Trans-Neptunian Object 2002 KY14 was observed in Campaign 4 by creating 1340 masks that cover the path of the TNO. The custom aperture numbers range from 200006425 to 200007764. These observations were taken as part of Guest Observer program GO4110 (PI:Schwamb).</p>
+<p><br>
+<strong><em>Background Residuals near Pleiades</em></strong></br></p>
+<p>Background removal for channels near the Pleiades has larger than normal residuals. These large residuals occur on mod.outs 10.3 and 15.1 through 15.4 due to the background on these channels being dominated by dust clouds near the Pleiades. The rich spatial structure of the Pleiades' dust clouds is poorly captured by the low order (≤ 4) polynomial model used to fit the background flux, with the best fit for these channels being given by a constant. This fit is done for every cadence, and the result is higher than normal background residuals, with residuals as large as 7 times the standard deviation of the background pixel values. (Normal residuals are typically less than the background standard deviation.)</p>
+<p>We recommend caution when using light curves or the background model on these channels. Note that the FLUX column of the target pixel files contains calibrated pixels with the background subtracted. The amount of background that was subtracted per pixel can be found in the <a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr5">FLUX_BKG column</a> and restored, if desired.</p>
+<p>Local background estimates per star may produce higher-quality results. The change in the constant background level on these channels over time is in family with the median background change on other channels</p>
+<p><br>
+<strong><em>Lightcurves Created with Non-Optimal Apertures</em></strong></br></p>
+<p>Due to an incompatibility between K2 roll motion and the determination of photometric optimal apertures, some light curves may be based on apertures that are too small and therefore have more noise than necessary. In particular, there are 887 stellar targets that are particularly suspect; they are listed <a href="http://keplerscience.arc.nasa.gov/K2/K2drn/C4/C4_reduced_ap_targets.txt">here</a>. The brighter targets in this set may have correct optimal apertures, but stars with Kp &gt; 13 have been shown to have lower photometric precision than non-suspect stars of similar brightness.</p>
+<p><br>
+<strong><em>Stars Show Lower Than Expected Flux</em></strong></br></p>
+<p>The comparison of the measured flux to the flux based on their Kepler magnitudes in the EPIC catalog shows that ≈3,752 stars (23.8% of all stellar targets) are too bright by about a magnitude. The EPIC catalog field Kepflag gives the provenance of the Kepler magnitude estimate by listing the catalog magnitudes used to estimate the Kepler magnitude. Stars with Kepflag = “JHK” or “J” have Kepler magnitudes that are generally overestimated. These stars appear at all magnitudes, but predominantly have EPIC Kepler magnitudes dimmer than 14. The optimal apertures used to generate light curves for these “JHK” or “J” targets may be larger than optimal, reducing their photometric precision.</p>
+<div class="thumbnail" style="width: 100%;">
+<div class="caption">
+<i>Figure: histograms of the relative flux for C4 stellar targets. Left: the relative flux distribution of stellar targets with EPIC Kepflag values of “gri” or “BV”, showing that their measured flux is consistent with the expected flux. Right: the relative flux distribution of stellar targets with EPIC Kepflag values of “JHK” or “J”, showing that the observed flux is less than half the expected flux.</i>
+</div>
+<a href="images/release-notes/c4/lowfluxJband.png">
+<img alt="histograms of the relative flux for C4 stellar targets" class="img-responsive" src="images/release-notes/c4/lowfluxJband.png">
+</img></a>
+</div>
+<p><br>
+<strong><em>Several Stars Show Higher Than Expected Flux</em></strong></br></p>
+<p>There is a group of target stars whose measured flux is more than twice that expected from their EPIC Kepler magnitudes. The figure below shows that these stars fall into spatial groups that are aligned with RA and Dec, rather than focal plane coordinates, strongly indicating that the cause of this anomaly is catalog error. The source of this error is presently unknown and is not correlated with Kepflag values. The optimal apertures used to generate light curves for these targets may be smaller than optimal, reducing their photometric precision.</p>
+<div class="thumbnail" style="width: 68%;">
+<div class="caption">
+<i>Figure: all C4 target stars plotted in celestial coordinates, colored by their Kepler magnitude inferred from their observed flux minus their Kepler magnitude from the EPIC catalog. There are two square-like regions and a line of blue markers, indicating stars whose inferred Kepler magnitude is about a magnitude smaller than their catalog magnitude, indicating that these stars are about a magnitude brighter than expected. The randomly distributed red markers are consistent with the population of Kepflag = “JHK” or “J” stars whose brightness is overestimated.</i>
+</div>
+<a href="images/release-notes/c4/C4radecKepMag.png">
+<img alt="all C4 target stars plotted in celestial coordinates, colored by their Kepler magnitude inferred from their observed flux minus their Kepler magnitude from the EPIC catalog" class="img-responsive" src="images/release-notes/c4/C4radecKepMag.png">
+</img></a>
+</div>
+<p><br>
+<strong><em>Stellar Targets with Negative Lightcurve Values</em></strong></br></p>
+<p>Seventy-six stellar targets show negative flux values in their SAP_FLUX light curves, which is somewhat more than normally seen. Most of these are very dim, near background level targets at the edge of the focal plane where K2 roll has the largest impact, so it is not surprising that the roll causes negative flux values after background removal. The bright targets with negative flux values either have isolated negative flux outliers or are on the Pleiades channels, where there are large background residuals due to the constant background model on these channels, see above.</p>
+<p><br>
+<strong><em>Light Curve Quality</em></strong></br></p>
+<p>The dominant systematic present in K2 simple aperture photometry light curves is a sawtooth shape that is due to the roll of the spacecraft approximately every 6 hours. The PDC module of the Kepler Pipeline uses Principle Component Analysis to remove this signal in addition to other systematics. Below, we examine observed trends and noise levels in the PDC light curves for C4, Data Release 6.</p>
+<div class="thumbnail" style="width: 68%;">
+<div class="caption">
+<i>Figure: CDPP measured for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. All cadences flagged as having definite thruster firings are gapped.</i>
+</div>
+<a href="images/release-notes/c4/c4-cdpp_kepMag_full_FOV.jpg">
+<img alt="CDPP measured for all targets as a function of Kepler magnitude" class="img-responsive" src="images/release-notes/c4/c4-cdpp_kepMag_full_FOV.jpg">
+</img></a>
+</div>
+<p>The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion:</p>
+<div class="thumbnail" style="width: 68%;">
+<div class="caption">
+<i>Figure: 10th percentile CDPP of the 12th magnitude targets across the focal plane. The better performance near the center is evident.</i>
+</div>
+<a href="images/release-notes/c4/c4-10pcdpp_12th_mag.jpg">
+<img alt="10th percentile CDPP of the 12th magnitude targets across the focal plane" class="img-responsive" src="images/release-notes/c4/c4-10pcdpp_12th_mag.jpg">
+</img></a>
+</div>
+<h2 id="release-history">Release History</h2>
+<p>The following is the data release history for this campaign. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.</p>
+<ul>
+<li><a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr6">Data Release 6</a></li>
+</ul>
+<p><br>
+<strong><em>Notes Specific to Data Release 6</em></strong></br></p>
+<p>These notes are issues specific to how the data was processed and are likely to change when the data are reprocessed.</p>
+<p><em>SC PDC Quality Flags</em></p>
+<p>The PDC quality flags were populated for some of the SC targets even though there are no SC PDC light curves. These flags are: manual exclude (bit 9), SPSD detected (bit 11), and impulsive outlier removed (bit 12). Users may simply ignore these flags.</p>
+<hr>
+<h1 id="campaign-3">Campaign 3</h1>
+<p>TBC</p>
+<hr>
+<h1 id="campaign-2">Campaign 2</h1>
+<p>TBC</p>
+<hr>
+<h1 id="campaign-1">Campaign 1</h1>
+<p>TBC</p>
+<hr>
+<h1 id="campaign-0">Campaign 0</h1>
+<p>TBC</p></hr></hr></hr></hr></hr>
+            </div>
+        </section>
+    </div>
+
+        <nav class="col-sm-3 visible-sm visible-md visible-lg bs-docs-sidebar" id="sidebarCol">
+            <div class="nav nav-stacked fixed" id="mytoc">
+            <div class="toc">
+<ul>
+<li><a href="#campaign-4">Campaign 4</a><ul>
+<li><a href="#essentials">Essentials</a></li>
+<li><a href="#features-and-events">Features and events</a></li>
+<li><a href="#release-history">Release History</a></li>
+</ul>
+</li>
+<li><a href="#campaign-3">Campaign 3</a></li>
+<li><a href="#campaign-2">Campaign 2</a></li>
+<li><a href="#campaign-1">Campaign 1</a></li>
+<li><a href="#campaign-0">Campaign 0</a></li>
+</ul>
+</div>
+            </div>
+        </nav>
+        </div>
+    </div>
+</div>
+
+<div class="container container-wide" style="margin-top: 1.5em;">
+  <footer>
+
+     <div class="container">
+      
+      <!-- Related websites -->  
+      <div class="row">
+        <div class="col-xs-12">
+          <h5><i class="fa fa-external-link"></i><span class="icon-label">Related websites:</span></h5>
+          <a href="http://www.nasa.gov/mission_pages/kepler/main/index.html" target="_blank">
+                  Kepler Website @ NASA
+              </a>
+          <br/>
+          <a href="http://kepler.arc.nasa.gov" target="_blank">
+                  Kepler Education &amp; Outreach @ NASA
+              </a>
+          <br/>
+          <a href="http://www.nasa.gov/mission_pages/kepler/news/mmu.html" target="_blank">
+                  Mission Manager Updates @ NASA
+              </a>
+          <br/>
+          <a href="http://www.ballaerospace.com/page.jsp?page=72" target="_blank">
+                  Kepler/K2 Website @ Ball Aerospace
+              </a>
+          <br/>
+          <a href="http://archive.stsci.edu/kepler" target="_blank">
+                  Kepler Data Archive @ MAST
+              </a>
+          <br/>
+          <a href="http://archive.stsci.edu/k2" target="_blank">
+                  K2 Data Archive @ MAST
+              </a>
+          <br/>
+          <a href="http://exoplanetarchive.ipac.caltech.edu" target="_blank">
+                  NASA Exoplanet Archive @ IPAC
+              </a>
+          <br/>
+        </div>
+      </div>
+
+      <!-- NASA logo and notices -->
+      <div class="row" style="margin-top:2em;">
+         <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
+         Last modified: Wed 28 October 2015
+            &middot; Editor: Thomas Barclay &middot; NASA Official: Jessie Dotson 
+            &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
+         <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+    </div>
+
+  </footer>
+</div>
+<script src="./theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="./theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="./theme/js/respond.min.js"></script>
+
+    <script src="./theme/js/bodypadding.js"></script>
+<!-- Analytics scripts -->
+
+
+        <script>
+          $('#mytoc').affix({
+                offset: {
+                  top: 50
+                }
+          });
+          $('body').scrollspy({
+              target: '#sidebarCol',
+              offset: 100
+          });
+        </script>
+</body>
+</html>
