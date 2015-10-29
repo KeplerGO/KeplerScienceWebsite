@@ -60,9 +60,8 @@ the image below ([Howell et al. 2014](http://adsabs.harvard.edu/abs/2014PASP..12
 Therefore, four to five K2 Campaigns can be performed 
 during each 372-day orbit of the spacecraft.
 
-<br/>
-
-<img class="img-responsive" style="max-width:90%;" src="images/k2-orbit.png">
+<a href="http://www.nasa.gov/kepler/keplers-second-light-how-k2-will-work"><img class="img-responsive" style="max-width:90%;" src="images/k2_explained_25nov_story.jpg"></a>
+*Image Credit: NASA Ames/W. Stenzel*
 
 <br/>
 
