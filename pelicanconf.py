@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 import os
 import datetime
 
-DEVMODE = True  # Shows a red warning message at the top
+DEVMODE = False  # Shows a red warning message at the top
 
 if DEVMODE:
     ANALYTICS = ()
@@ -16,8 +16,10 @@ else:
 LOAD_CONTENT_CACHE = False
 
 AUTHOR = u'Thomas Barclay'
-SITENAME = u'Kepler &amp; K2'
-BANNER_SUBTITLE = u"Science Center Website"
+#SITENAME = u'Kepler &amp; K2'
+#BANNER_SUBTITLE = u"Science Center Website"
+SITENAME = "Kepler &amp; K2"
+BANNER_SUBTITLE = "Science Center"
 SITEURL = ''
 SITELOGO = 'images/NASA_logo_vector_lg.png'
 SITELOGO_SIZE = 32
@@ -126,6 +128,9 @@ MEETINGS = (
             ('<b>10 Nov 2015</b><br>'
              'K2 Workshop at the DPS',
              'special-k2-workshop-at-the-dps-on-10-november-2015.html'),
+            ('<b>29 Nov - 4 Dec 2015</b><br>'
+             'Extreme Solar Systems III',
+             'http://ciera.northwestern.edu/Hawaii2015.php'),
             ('<b>9-10 Dec 2015</b><br>'
              '5th Australian Exoplanet Workshop',
              'http://astronomy.swin.edu.au/planets/FifthWorkshop2015/'),
@@ -138,13 +143,11 @@ MEETINGS = (
         )
 
 RELATEDSITES = (
-            ('Kepler Website @ NASA',
+            ("Kepler/K2 News and Media Resources",
              'http://www.nasa.gov/mission_pages/kepler/main/index.html'),
-            ('Kepler Education &amp; Outreach @ NASA',
+            ('Kepler/K2 Education Resources',
              'http://kepler.arc.nasa.gov'),
-            ('Mission Manager Updates @ NASA',
-             'http://www.nasa.gov/mission_pages/kepler/news/mmu.html'),
-            ('Kepler/K2 Website @ Ball Aerospace',
+            ('Kepler/K2 @ Ball Aerospace',
              'http://www.ballaerospace.com/page.jsp?page=72'),
             ('Kepler Data Archive @ MAST',
              'http://archive.stsci.edu/kepler'),
