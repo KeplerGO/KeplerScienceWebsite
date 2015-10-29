@@ -13,53 +13,65 @@ the scientific exploitation of the data.
 
 ## At a glance
 
-***Pointing***
+<div class="col-lg-5">
 
-* RA: 59.0759116 degrees
-* Dec: 18.6605794 degrees
-* Roll: -167.6992793 degrees
+    <b><i>Pointing</i></b>
+    <ul>
+        <li>RA: 59.0759116 degrees</li>
+        <li>Dec: 18.6605794 degrees</li>
+        <li>Roll: -167.6992793 degrees</li>
+    </ul>
 
-***Targets***
+    <b><i>Targets</i></b>
+    <ul>
+        <li>15,853 in long cadence (LC)</li>
+        <li>122 in short cadence (SC)</li>
+        <li>Several custom targets (see below)</li>
+    </ul>
 
-* 15,853 in long cadence (LC)
-* 122 in short cadence (SC)
-* Several custom targets (see below)
+    <b><i>Full Frame Images (FFI)</i></b>
+    <ul>
+        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2015051131033-c04_ffi-cal.fits">ktwo2015051131033-c04_ffi-cal.fits</a></li>
+        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2015092174954-c04_ffi-cal.fits">ktwo2015092174954-c04_ffi-cal.fits</a></li>
+    </ul>
 
-***Full Frame Images (FFI)***
+    <b><i>First cadence</i></b>
+    <ul>
+        <li>Time: 2015-02-08 06:50:09.177 UTC</li>
+        <li>Long Cadence Number: 103744</li>
+        <li>Short Cadence Number: 2976430</li>
+    </ul>
 
-* <a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2015051131033-c04_ffi-cal.fits">ktwo2015051131033-c04_ffi-cal.fits</a> (389 MB)
-* <a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2015092174954-c04_ffi-cal.fits">ktwo2015092174954-c04_ffi-cal.fits</a> (389 MB)
+    <b><i>Last cadence</i></b>
+    <ul>
+        <li>Time: 2015-04-20 04:32:47.045 UTC</li>
+        <li>Long Cadence Number: 107213</li>
+        <li>Short Cadence Number: 3078009</li>
+    </ul>
 
-***First cadence***
-
-* Time: 2015-02-08 06:50:09.177 UTC
-* Long Cadence Number: 103744
-* Short Cadence Number: 2976430
-
-***Last cadence***
-
-* Time: 2015-04-20 04:32:47.045 UTC
-* Long Cadence Number: 107213
-* Short Cadence Number: 3078009
-
-<div class="thumbnail" style="width: 68%;">
-    <div class="caption">
-        <i>Figure: Schematic of Kepler's C4 field-of-view with selected targets shown with purple dots.</i>
-    </div>
-    <a href="images/campaign_selected/C4_selected.png">
-        <img src="images/campaign_selected/C4_selected.png" class="img-responsive" alt="C4 field-of-view with selected targets">
-    </a>
 </div>
 
-<div class="thumbnail" style="width: 68%;">
-    <div class="caption">
-        <i>Figure: Distribution of the Kepler magnitudes of observed targets in C4. All targets are chosen by Guest Observers. The bimodality is due to how the largest Guest Observer programs were selected for C4.</i>
-    </div>
-    <a href="images/release-notes/c4/C4_lcDistribution.png">
-        <img src="images/release-notes/c4/C4_lcDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed targets in C4.">
-    </a>
-</div>
+<div class="col-lg-7">
 
+    <div class="thumbnail">
+        <div class="caption">
+            <i>Figure: C4 field-of-view with selected targets shown as purple dots.</i>
+        </div>
+        <a href="images/campaign_selected/C4_selected.png">
+            <img src="images/campaign_selected/C4_selected.png" class="img-responsive" alt="C4 field-of-view with selected targets">
+        </a>
+    </div>
+
+    <div class="thumbnail">
+        <div class="caption">
+            <i>Figure: Distribution of the Kepler magnitudes of observed targets in C4. All targets are chosen by Guest Observers. The bimodality is due to how the largest Guest Observer programs were selected for C4.</i>
+        </div>
+        <a href="images/release-notes/c4/C4_lcDistribution.png">
+            <img src="images/release-notes/c4/C4_lcDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed targets in C4.">
+        </a>
+    </div>
+
+</div>
 
 ## Features and events
 
