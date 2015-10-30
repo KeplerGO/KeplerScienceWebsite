@@ -57,7 +57,7 @@
         {% for article in (articles_page.object_list if articles_page else articles) %}
             <article>
                 <div style='padding-bottom:0.5em; font-weight:bold;'><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></div>
-                <div class="summary">{{ article.summary }}
+                <div class="summary entry-content">{{ article.summary }}
                     {% include 'includes/comment_count.html' %}
                     <a class="btn btn-default btn-xs" href="{{ SITEURL }}/{{ article.url }}">More &raquo;</a>
                 </div>
