@@ -101,22 +101,22 @@ KEY_INFORMATION = (
             )
 
 IMPORTANT_DATES = (
-            ('<b>29 Oct 2015</b><br>'
+            ('<b>29 Oct 2015</b>',
              'K2 Campaign 5 data release (expected)',
              'data-products.html#k2-product-overview'),
-            ('<b>10 Dec 2015</b><br>'
+            ('<b>10 Dec 2015</b>',
              'K2 DDT proposals due for Campaign 9',
              'k2-ddt.html'),
-            ('<b>01 Jan 2016</b><br>'
+            ('<b>01 Jan 2016</b>',
              'K2 Campaign 6 data release (expected)',
              'data-products.html#k2-product-overview'),
-            ('<b>Feb 2016</b><br>'
+            ('<b>Feb 2016</b>',
              'K2 Campaigns 11-13 proposal deadline',
              'k2-proposing-targets.html#campaigns-11-12-13'),
-            ('<b>10 Mar 2016</b><br>'
+            ('<b>10 Mar 2016</b>',
              'K2 DDT proposals due for Campaign 10',
              'k2-ddt.html'),
-            ('<b>28 Mar 2016</b><br>'
+            ('<b>28 Mar 2016</b>',
              'K2 Campaign 7 data release (expected)',
              'data-products.html#k2-product-overview'),
          )
