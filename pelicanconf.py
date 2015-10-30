@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 import os
 import datetime
 
-DEVMODE = False  # Shows a red warning message at the top
+DEVMODE = True  # Shows a red warning message at the top
 
 if DEVMODE:
     ANALYTICS = ()
