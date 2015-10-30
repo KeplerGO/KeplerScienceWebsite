@@ -120,7 +120,7 @@ by K2.
       <td><a href="#campaign-5">5</a></td>
       <td>2015 Apr 27</td>
       <td>2015 Jul 10</td>
-      <td>2015 Oct 29</td>
+      <td>2015 Oct 30</td>
       <td>08:40:37.84</td>
       <td>+16:49:46.61</td>
       <td class="text-center">
@@ -147,7 +147,7 @@ by K2.
 
     <tr>
       <td><a href="#campaign-7">7</a></td>
-      <td>2015 Oct 04</td>
+      <td>2015 Oct 03</td>
       <td>2015 Dec 26</td>
       <td>2016 Mar 28</td>
       <td>19:11:18.84</td>
@@ -180,7 +180,7 @@ by K2.
     <tr>
       <td><a href="#campaign-9">9</a></td>
       <td>2016 Apr 07</td>
-      <td>2016 Jul 01</td>
+      <td>2016 Jul 02</td>
       <td>2016 Sep 26</td>
       <td>18:01:25.08</td>
       <td>-21:46:47.32</td>
@@ -196,7 +196,7 @@ by K2.
     <tr>
       <td><a href="#campaign-10">10</a></td>
       <td>2016 Jul 06</td>
-      <td>2016 Sep 23</td>
+      <td>2016 Sep 20</td>
       <td>2016 Dec 22</td>
       <td>12:27:07.07</td>
       <td>-04:01:37.8</td>
@@ -206,13 +206,13 @@ by K2.
       <td class="text-center">
         
       </td>
-      <td>North Galactic cap</td>
+      <td>North Galactic Cap</td>
     </tr>
 
  <tr>
       <td><a href="#campaign-11">11</a></td>
       <td>2016 Sep 24</td>
-      <td>2016 Dec 8</td>
+      <td>2016 Dec 08</td>
       <td>2017 Mar 19</td>
       <td>17:21:33.12</td>
       <td>-23:58:33.45</td>
@@ -228,7 +228,7 @@ by K2.
   <tr>
       <td><a href="#campaign-12">12</a></td>
       <td>2016 Dec 15</td>
-      <td>2017 Mar 4</td>
+      <td>2017 Mar 04</td>
       <td>2017 Jun 05</td>
       <td>23:26:42.61</td>
       <td>-05:05:44.33</td>
@@ -243,7 +243,7 @@ by K2.
 
     <tr>
       <td><a href="#campaign-13">13</a></td>
-      <td>2017 Mar 8</td>
+      <td>2017 Mar 08</td>
       <td>2017 May 27</td>
       <td>2017 Sep 03</td>
       <td>04:51:11.24</td>
