@@ -93,7 +93,7 @@
   <div class="panel-heading">
     <h4 class="panel-title"><i class="fa fa-paperclip fa-lg"></i><span class="icon-label">Key information</span></h3>
   </div>
-  <div class="panel-body">
+  <div class="panel-body entry-content">
     <ul class="list-group">
       {% for name, link in KEY_INFORMATION %}
       <li class="list-group-item">
@@ -113,8 +113,9 @@
   </div>
   <div class="panel-body">
     <ul class="list-group">
-      {% for name, link in IMPORTANT_DATES %}
+      {% for date, name, link in IMPORTANT_DATES %}
       <li class="list-group-item">
+          {{ date }}<br>
           <a href="{{ link }}">
               {{ name }}
           </a>
