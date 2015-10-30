@@ -162,13 +162,13 @@ set. We are requesting the community propose targets to observe
 during only these Campaigns.
 
 * **Proposal deadline**<br/>
-  Step 1: early February 2016 <br/>
-  Step 2: early March 2016<br/>
+  Step 1: 2016 Feb 05 <br/>
+  Step 2: 2016 Mar 04 <br/>
   
 * **Anticipated dates of campaigns**<br/>
-Campaign 11: 2016 Sep 27 - Dec 16 <br/>
-Campaign 12: 2016 Dec 22 - 2017 Mar 12 <br/>
-Campaign 13: 2017 Mar 18 - Jun 06 <br/>
+Campaign 11: 2016 Sep 24 - Dec 08 <br/>
+Campaign 12: 2016 Dec 15 - 2017 Mar 04 <br/>
+Campaign 13: 2017 Mar 08 - May 27 <br/>
 Start and stop dates are approximate, flexible and could be overtaken by unanticipated operational events.<br/>
   
 * **One proposal or two?**<br/>
@@ -212,7 +212,7 @@ Start and stop dates are approximate, flexible and could be overtaken by unantic
 
 * **How do I submit a proposal?**<br/>
     * Submit Step 1 of
-      the proposal to  NSPIRES by <font color=red> early February 2016.</font>
+      the proposal to  NSPIRES by <font color=red> February 5, 2016.</font>
     * Compile the material required for your proposal. The generic content of the proposal is described in Sec 2.3 of the
     <a href="http://www.hq.nasa.gov/office/procurement/nraguidebook/">NRA Proposers Guide</a>. Page
     limits and proposal content within the NRA Guide are amended
@@ -229,7 +229,7 @@ Start and stop dates are approximate, flexible and could be overtaken by unantic
         * Provide the administrative elements of the proposal including a proposer biographical information, and a statement of current and pending financial support.
 
     * Submit Step 2 of
-      the proposal to NSPIRES by <font color=red> early March 2016.</font>
+      the proposal to NSPIRES by <font color=red> March 4, 2016.</font>
 <br/>
 
 * **Special instructions for non-US PIs**<br/>
