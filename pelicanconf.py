@@ -128,6 +128,9 @@ MEETINGS = (
             ('<b>10 Nov 2015</b><br>'
              'K2 Workshop at the DPS',
              'special-k2-workshop-at-the-dps-on-10-november-2015.html'),
+             ('<b>16-18 Nov 2015</b><br>'
+             'Enabling Tranisting Exoplanet Science with JWST',
+             'http://www.cvent.com/events/enabling-transiting-exoplanet-science-with-jwst/event-summary-122488a7d40e4953adc6dda02f02a643.aspx'),
             ('<b>29 Nov - 4 Dec 2015</b><br>'
              'Extreme Solar Systems III',
              'http://ciera.northwestern.edu/Hawaii2015.php'),

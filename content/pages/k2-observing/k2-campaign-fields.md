@@ -120,7 +120,7 @@ by K2.
       <td><a href="#campaign-5">5</a></td>
       <td>2015 Apr 27</td>
       <td>2015 Jul 10</td>
-      <td>2015 Oct 30</td>
+      <td>2015 Oct 29</td>
       <td>08:40:37.84</td>
       <td>+16:49:46.61</td>
       <td class="text-center">
