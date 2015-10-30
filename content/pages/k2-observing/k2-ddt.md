@@ -2,7 +2,7 @@ Title: K2 Director's Discretionary Target (DDT) program
 Save_as: k2-ddt.html
 
 
-### Call for DDT Proposals for K2 Campaigns 8, 9, and 10
+### Call for DDT Proposals for Campaigns 8, 9, and 10
 
 A small percentage of the available K2 pixels in each campaign may be allocated by the K2 Guest Observer (GO) Office Director as Director's Discretionary Targets (DDTs).  The primary utilization of DDT programs is in support of community-proposed requests that are based on exceptional, time-critical observing opportunities that cannot be accommodated with the regular cycle of Calls for Proposals for K2. Other DDT usages include innovative observations that extend the scientific capabilities of K2, and extraordinary events and opportunities that necessitate -- in the view of the GO Office Director -- observations to be obtained with K2 for the benefit of the astronomical community.  Note that all DDT observations are publicly available immediately, and no funding is available to the proposer for DDT observations. 
 
