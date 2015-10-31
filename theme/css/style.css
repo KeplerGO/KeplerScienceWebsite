@@ -80,7 +80,7 @@ a, a:hover {
 
 .entry-content a {
     text-decoration: none;
-    border-bottom: 1px dotted;
+    border-bottom: 1px dashed;
 }
 
 .entry-content a:hover {
@@ -218,7 +218,7 @@ figure.floatcenter, .align-center {
        font-size: 30px; /* !important;*/
     }
     #banner .intro{
-        font-size: 16px;
+        font-size: 20px;
     }
 }
 
