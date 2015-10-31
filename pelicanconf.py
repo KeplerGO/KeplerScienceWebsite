@@ -101,9 +101,6 @@ KEY_INFORMATION = (
             )
 
 IMPORTANT_DATES = (
-            ('<b>29 Oct 2015</b>',
-             'K2 Campaign 5 data release (expected)',
-             'data-products.html#k2-product-overview'),
             ('<b>10 Dec 2015</b>',
              'K2 DDT proposals due for Campaign 9',
              'k2-ddt.html'),
