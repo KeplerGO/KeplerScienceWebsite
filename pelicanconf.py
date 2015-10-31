@@ -33,7 +33,7 @@ THEME = "themes/pelican-bootstrap3-kepler"
 BOOTSTRAP_THEME = 'flatly'
 BOOTSTRAP_FLUID = False
 
-BANNER = "images/K2-sc-galacticcoords.png"
+BANNER = "images/Fergal-galacticcoords-27May-redo30Oct-sc-tb.png"
 HIDE_SITENAME = False
 
 IGNORE_FILES = [
