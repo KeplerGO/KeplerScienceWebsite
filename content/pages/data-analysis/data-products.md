@@ -339,7 +339,7 @@ which detail deviations from the pipeline used for Kepler.
 	  <td>2014 May 27</td>
       <td>2014 Sep 08</td>
       <td><a
-      href="http://keplerscience.arc.nasa.gov/K2/C0drn.shtml">DRN</a></td>
+      href="k2-data-release-notes.html#k2-campaign-0">DRN</a></td>
 	  <td><a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr2">PRN</a></td>
       </tr>
 
@@ -350,7 +350,7 @@ which detail deviations from the pipeline used for Kepler.
 	  <td>2014 Aug 21</td>
       <td>2014 Dec 23</td>
       <td><a
-      href="http://keplerscience.arc.nasa.gov/K2/C1drn.shtml">DRN</a></td>
+      href="k2-data-release-notes.html#k2-campaign-1">DRN</a></td>
 	  	  <td><a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr3">PRN</a></td>
       </tr>
 
@@ -361,7 +361,7 @@ which detail deviations from the pipeline used for Kepler.
       <td>2014 Nov 13</td>
       <td>2015 Mar 16</td>
       <td><a
-      href="http://keplerscience.arc.nasa.gov/K2/C2drn.shtml">DRN</a></td>
+      href="k2-data-release-notes.html#k2-campaign-2">DRN</a></td>
 	  	  <td><a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr4">PRN</a></td>
       </tr>
 
@@ -372,7 +372,7 @@ which detail deviations from the pipeline used for Kepler.
       <td>2015 Feb 03</td>
       <td>2015 Jul 17</td>
 	  <td><a
-      href="http://keplerscience.arc.nasa.gov/K2/C3drn.shtml">DRN</a></td>
+      href="k2-data-release-notes.html#k2-campaign-3">DRN</a></td>
 	  	  <td><a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr5">PRN</a></td>
       </tr>
 
@@ -383,7 +383,7 @@ which detail deviations from the pipeline used for Kepler.
 	  <td>2015 Apr 23</td>
       <td>2015 Sep 04</td>
       <td><a
-      href="http://keplerscience.arc.nasa.gov/K2/C4drn.shtml">DRN</a></td>
+      href="k2-data-release-notes.html#k2-campaign-4">DRN</a></td>
 	  <td><a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr6">PRN</a></td>
       </tr>
 

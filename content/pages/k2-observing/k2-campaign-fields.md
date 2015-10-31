@@ -45,7 +45,7 @@ by K2.
         <a href="k2-approved-programs.html#campaign-0-mar-2014"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
-        <a href="http://keplerscience.arc.nasa.gov/K2/C0drn.shtml"><i class="fa fa-check"></i></a>
+        <a href="k2-data-release-notes.html#k2-campaign-0"><i class="fa fa-check"></i></a>
       </td>
       <td style="min-width: 12em;">
         Near Galactic Anti-center, M35, NGC 2158
@@ -63,7 +63,7 @@ by K2.
         <a href="k2-approved-programs.html#campaign-1-may-2014"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
-        <a href="http://keplerscience.arc.nasa.gov/K2/C1drn.shtml"><i class="fa fa-check"></i></a>
+        <a href="k2-data-release-notes.html#k2-campaign-1"><i class="fa fa-check"></i></a>
       </td>
       <td>North Galactic Cap</td>
     </tr>
@@ -79,7 +79,7 @@ by K2.
         <a href="k2-approved-programs.html#campaign-2-aug-2014"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
-        <a href="http://keplerscience.arc.nasa.gov/K2/C2drn.shtml"><i class="fa fa-check"></i></a>
+        <a href="k2-data-release-notes.html#k2-campaign-2"><i class="fa fa-check"></i></a>
       </td>
       <td>Near Gal Center, M4, M80, M19, Upr Sco, rho Oph</td>
     </tr>
@@ -95,7 +95,7 @@ by K2.
         <a href="k2-approved-programs.html#campaign-3-nov-2014"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
-        <a href="http://keplerscience.arc.nasa.gov/K2/C3drn.shtml"><i class="fa fa-check"></i></a>
+        <a href="k2-data-release-notes.html#k2-campaign-3"><i class="fa fa-check"></i></a>
       </td>
       <td>South Galactic Cap, Neptune</td>
     </tr>
@@ -111,7 +111,7 @@ by K2.
         <a href="k2-approved-programs.html#campaign-4-feb-2015"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
-        <a href="http://keplerscience.arc.nasa.gov/K2/C4drn.shtml"><i class="fa fa-check"></i></a>
+        <a href="k2-data-release-notes.html#k2-campaign-4"><i class="fa fa-check"></i></a>
       </td>
       <td>M45 (Pleiades), NGC1647, Hyades</td>
     </tr>
