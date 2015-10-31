@@ -167,3 +167,4 @@ DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 
 DATE_MODIFIED = datetime.datetime.now().strftime('%Y-%m-%d')
+
