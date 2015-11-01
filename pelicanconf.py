@@ -136,11 +136,13 @@ MEETINGS = (
              'http://astronomy.swin.edu.au/planets/FifthWorkshop2015/'),
             ('<b>4-8 Jan 2015</b><br>'
              '227th AAS meeting',
-             'http://aas.org/meetings/aas227'),
-            ('<b>11-15 Jul 2016</b><br>'
-             'KASC Asteroseismology Workshop',
-             'http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/getMeetings.html?number=4796'),
-        )
+             'http://aas.org/meetings/aas227')
+            )
+"""
+('<b>11-15 Jul 2016</b><br>'
+ 'KASC Asteroseismology Workshop',
+ 'http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/getMeetings.html?number=4796'),
+"""
 
 RELATEDSITES = (
             ("Kepler/K2 News and Media Resources",
@@ -158,7 +160,7 @@ RELATEDSITES = (
             )
 
 SHOW_ARTICLE_AUTHOR = True
-DEFAULT_PAGINATION = 7
+DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
@@ -167,4 +169,3 @@ DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 
 DATE_MODIFIED = datetime.datetime.now().strftime('%Y-%m-%d')
-
