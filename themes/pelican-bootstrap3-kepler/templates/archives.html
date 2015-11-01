@@ -24,26 +24,38 @@
           <a href="keplergonews-request@lists.arc.nasa.gov">keplergonews-request@lists.arc.nasa.gov</a> with the subject
           heading <i>subscribe</i>. If you would like to stop receiving the
           newsletter then send email to the same address with the
-	  subject heading <i>unsubscribe</i>. </br>
-
-	  </br>
-	  For general news about Kepler's results and operations,
+	        subject heading <i>unsubscribe</i>. <br>
+	        <br>
+	        For general news about Kepler's results and operations,
           please visit <a href="http://www.nasa.gov/mission_pages/kepler/main/index.html">NASA's Kepler and K2 mission website</a> 
           and its <a href="http://www.nasa.gov/mission_pages/kepler/news/mmu.html">Mission Manager Blog</a> instead.
         </div>
 
-        <table class="table">
-          {% for article in dates %}
-              <tr>
-                <td style="width: 7.5em;">
-                  <span class="categories-timestamp"><time datetime="{{ article.date.isoformat() }}">{{ article.date.strftime("%d %b %Y") }}</time></span>
-                </td>
-                <td>
-                  <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}{% if article.subtitle %} - {{ article.subtitle }}{% endif %}</a>
-                </td>
-              </tr>
-          {% endfor %}
-        </table>
+        <div class="row">
+
+          <div class="col-md-8">
+            <table class="table">
+              {% for article in dates %}
+                  <tr>
+                    <td style="width: 7.5em;">
+                      <span class="categories-timestamp"><time datetime="{{ article.date.isoformat() }}">{{ article.date.strftime("%d %b %Y") }}</time></span>
+                    </td>
+                    <td>
+                      <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}{% if article.subtitle %} - {{ article.subtitle }}{% endif %}</a>
+                    </td>
+                  </tr>
+              {% endfor %}
+            </table>
+        </div>
+
+        <div class="col-md-4">
+          <h4><i class="fa fa-twitter fa-lg"></i><span class="icon-label">Follow the Guest Observer Office</span></h4>
+          <!-- Code provided by Twitter: -->  
+          <a class="twitter-timeline"  href="https://twitter.com/KeplerGO" data-widget-id="660626331810447360">Tweets by @KeplerGO</a>
+          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        </div>  <!-- end col-md-4 -->
+
+      </div> <!-- end row -->
         
     </section>
 {% endblock %}
