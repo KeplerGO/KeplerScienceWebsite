@@ -46,16 +46,3 @@ Campaign 0 (Mar 2014)
 ---------------------
 .. include:: approved-programs/c0.html
 
-
-
-
-
-
-
-
-
-
-
-
-
-
