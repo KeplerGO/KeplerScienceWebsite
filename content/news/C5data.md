@@ -1,5 +1,5 @@
 Title: K2 Campaign 5 Data Release
-Date: 2015-11-01 12:00
+Date: 2015-11-02 12:00
 Author: Geert Barentsen
 
 Target pixel files, light curves, and full frame images for [Campaign 5](k2-approved-programs.html#campaign-5) are now available for download from the [K2 data archive at MAST](https://archive.stsci.edu/k2/).
