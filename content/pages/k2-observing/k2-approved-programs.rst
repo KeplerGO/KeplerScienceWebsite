@@ -14,35 +14,35 @@ of a Campaign.  Some details of the approved programs are provided
 here, but the `data release notes <data-products.html#k2-data-release-notes>`_ should be consulted for more
 comprehensive notes for each Campaign.
 
-Campaign 7 (Oct 2015)
+Campaign 7
 ---------------------
 .. include:: approved-programs/c7.html
 
-Campaign 6 (Jul 2015)
+Campaign 6
 ---------------------
 .. include:: approved-programs/c6.html
 
-Campaign 5 (Apr 2015)
+Campaign 5
 ---------------------
 .. include:: approved-programs/c5.html
 
-Campaign 4 (Feb 2015)
+Campaign 4
 ---------------------
 .. include:: approved-programs/c4.html
 
-Campaign 3 (Nov 2014)
+Campaign 3
 ---------------------
 .. include:: approved-programs/c3.html
 
-Campaign 2 (Aug 2014)
+Campaign 2
 ---------------------
 .. include:: approved-programs/c2.html
 
-Campaign 1 (May 2014)
+Campaign 1
 ---------------------
 .. include:: approved-programs/c1.html
 
-Campaign 0 (Mar 2014)
+Campaign 0
 ---------------------
 .. include:: approved-programs/c0.html
 
