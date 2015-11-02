@@ -2,6 +2,16 @@ body {
     padding-top: 70px;
 }
 
+/* This fixes the problem that links to internal anchors
+are unaware of the fixed header: */
+div[id]:before, h1[id]:before, h2[id]:before, h3[id]:before, h4[id]:before {
+  display: block;
+  content: " ";
+  margin-top: -75px;
+  height: 75px;
+  visibility: hidden;
+}
+
 #sidebar .list-group, #sidebar .list-group-item {
     background-color: transparent;
 }
