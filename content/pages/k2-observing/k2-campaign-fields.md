@@ -190,7 +190,7 @@ by K2.
       <td class="text-center">
         
       </td>
-      <td>Galactic Center, Baades Window, M21, M18, M25, M8</td>
+      <td>Galactic Center, M21, M18, M25, M8, Pluto</td>
     </tr>
 
     <tr>
