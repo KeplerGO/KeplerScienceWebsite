@@ -42,7 +42,7 @@ by K2.
       <td>06:33:11.14</td>
       <td>+21:35:16.40</td>
       <td class="text-center">
-        <a href="k2-approved-programs.html#campaign-0-mar-2014"><i class="fa fa-check"></i></a>
+        <a href="k2-approved-programs.html#campaign-0"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
         <a href="k2-data-release-notes.html#k2-campaign-0"><i class="fa fa-check"></i></a>
@@ -60,7 +60,7 @@ by K2.
       <td>11:35:45.51</td>
       <td>+01:25:02.28</td>
       <td class="text-center">
-        <a href="k2-approved-programs.html#campaign-1-may-2014"><i class="fa fa-check"></i></a>
+        <a href="k2-approved-programs.html#campaign-1"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
         <a href="k2-data-release-notes.html#k2-campaign-1"><i class="fa fa-check"></i></a>
@@ -76,7 +76,7 @@ by K2.
       <td>16:24:30.34</td>
       <td>-22:26:50.28</td>
       <td class="text-center">
-        <a href="k2-approved-programs.html#campaign-2-aug-2014"><i class="fa fa-check"></i></a>
+        <a href="k2-approved-programs.html#campaign-2"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
         <a href="k2-data-release-notes.html#k2-campaign-2"><i class="fa fa-check"></i></a>
@@ -92,7 +92,7 @@ by K2.
       <td>22:26:39.68</td>
       <td>-11:05:47.99</td>
       <td class="text-center">
-        <a href="k2-approved-programs.html#campaign-3-nov-2014"><i class="fa fa-check"></i></a>
+        <a href="k2-approved-programs.html#campaign-3"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
         <a href="k2-data-release-notes.html#k2-campaign-3"><i class="fa fa-check"></i></a>
@@ -108,7 +108,7 @@ by K2.
       <td>03:56:18.22</td>
       <td>+18:39:38.09</td>
       <td class="text-center">
-        <a href="k2-approved-programs.html#campaign-4-feb-2015"><i class="fa fa-check"></i></a>
+        <a href="k2-approved-programs.html#campaign-4"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
         <a href="k2-data-release-notes.html#k2-campaign-4"><i class="fa fa-check"></i></a>
@@ -124,7 +124,7 @@ by K2.
       <td>08:40:37.84</td>
       <td>+16:49:46.61</td>
       <td class="text-center">
-        <a href="k2-approved-programs.html#campaign-5-apr-2015"><i class="fa fa-check"></i></a>
+        <a href="k2-approved-programs.html#campaign-5"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
       </td>
@@ -139,7 +139,7 @@ by K2.
       <td>13:39:27.61</td>
       <td>-11:17:43.29</td>
       <td class="text-center">
-        <a href="k2-approved-programs.html#campaign-6-jul-2015"><i class="fa fa-check"></i></a>
+        <a href="k2-approved-programs.html#campaign-6"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center"></td>
       <td>North Galactic Cap</td>
@@ -153,7 +153,7 @@ by K2.
       <td>19:11:18.84</td>
       <td>-23:21:36.07</td>
       <td class="text-center">
-        <a href="k2-approved-programs.html#campaign-7-oct-2015"><i class="fa fa-check"></i></a>
+        <a href="k2-approved-programs.html#campaign-7"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
 
