@@ -16,6 +16,11 @@ div[id]:before, h1[id]:before, h2[id]:before, h3[id]:before, h4[id]:before {
     background-color: transparent;
 }
 
+/* Fix display of wide content/tables on narrow displays e.g. mobile */
+.panel-body {
+  overflow-x: auto;
+}
+
 /* for list-groups nested within a list-group-item, reset the bottom margin */
 .list-group-item > .list-group {
     margin-bottom: 0px;

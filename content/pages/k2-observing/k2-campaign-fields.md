@@ -14,7 +14,7 @@ by K2.
   <div class="panel-heading">
     <h3 class="panel-title">Field dates and positions</h3>
   </div>
-  <div class="panel-body" style="overflow-x: auto;">
+  <div class="panel-body">
 
 
 <table class="table table-striped table-hover">
