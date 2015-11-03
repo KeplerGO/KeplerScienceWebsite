@@ -4,13 +4,11 @@
 
 @font-face {
   font-family: "mission_icons";
-  /* src: url("../fonts/mission_icons_43cf18d23ea39523564671b8e178207e.eot"); */
-  /* src: url("../fonts/mission_icons_43cf18d23ea39523564671b8e178207e.eot?#iefix") format("embedded-opentype"), */
-  src: url("../fonts/mission_icons_geert.woff") format("woff"),
-       url("../fonts/mission_icons_geert.ttf") format("truetype");
-  /*src: url("../fonts/mission_icons_geert.woff") format("woff"),
-       url("../fonts/mission_icons_geert.ttf") format("truetype"),
-       url("../fonts/mission_icons_geert.svg#mission_icons") format("svg"); */
+  src: url("../fonts/mission_icons_7ccfa858bb8604cc60a35f9aef311a1e.eot");
+  src: url("../fonts/mission_icons_7ccfa858bb8604cc60a35f9aef311a1e.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/mission_icons_7ccfa858bb8604cc60a35f9aef311a1e.woff") format("woff"),
+       url("../fonts/mission_icons_7ccfa858bb8604cc60a35f9aef311a1e.ttf") format("truetype"),
+       url("../fonts/mission_icons_7ccfa858bb8604cc60a35f9aef311a1e.svg#mission_icons") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -18,7 +16,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "mission_icons";
-    src: url("../fonts/mission_icons_43cf18d23ea39523564671b8e178207e.svg#mission_icons") format("svg");
+    src: url("../fonts/mission_icons_7ccfa858bb8604cc60a35f9aef311a1e.svg#mission_icons") format("svg");
   }
 }
 
