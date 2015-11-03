@@ -6,9 +6,9 @@ and remains fixed upon a single boresight position.
 This page details the previous and upcoming Campaign fields observed
 by K2.
 
+## Planned fields
 
-![K2 campaign fields on the sky]({filename}/images/k2/fieldsFor2017.v3.png)
-
+<img src="images/k2/fieldsFor2017.v3.png" style="margin-left: -100px;" class="img-responsive" alt="K2 campaign fields on the sky">
 
 <div class="panel panel-primary">
   <div class="panel-heading">
@@ -33,7 +33,6 @@ by K2.
   </thead>
 
   <tdata>
-
     <tr>
       <td><a href="#campaign-0">0</a></td>
       <td>2014&nbsp;Mar&nbsp;08</td>
@@ -262,12 +261,17 @@ by K2.
   </div>
 </div>
 
+<hr>
 
-<p>The fields below indicate fields being considered for Campaign 14 and beyond. The coordinates are not final and we encourage the community
+## Proposed future fields
+
+<p>The fields below indicate fields being considered for Campaign 14 and beyond.</p>
+
+<p>The coordinates are not final and we encourage the community
 to provide input on their placement.</p>
 
-<div class="row">
-<div class="col-sm-6">
+<img src="images/k2/proposed-future-fields.png" style="margin-left: -100px;" class="img-responsive">
+
 <div class="panel panel-primary">
   <div class="panel-heading">
     <h3 class="panel-title">Proposed future fields</h3>
@@ -278,79 +282,107 @@ to provide input on their placement.</p>
   <thead>
     <tr>
       <th>Field</th>
-      <th>Central date</th>
+      <th>Start</th>
+      <th>Stop</th>
       <th>RA (J2000)</th>
       <th>Dec (J2000)</th>
+      <th>Comments</th>
     </tr>
   </thead>
   <tdata>
-    <tr><td>14</td><td>2017 Jul 27</td><td>10:39:52.08</td><td>+07:07:56.5</td></tr>
-    <tr><td>15</td><td>2017 Oct 18</td><td>15:26:24.31</td><td>-19:36:29.5</td></tr>
-    <tr><td>16</td><td>2018 Jan 12</td><td>21:23:59.19</td><td>-16:27:21.4</td></tr>
-    <tr><td>17</td><td>2018 Mar 1</td><td>0:33:23.94</td><td>+01:57:31.2</td></tr>
+    <tr>
+      <td>14</td>
+      <td>2017 May 30</td>
+      <td>2017 Aug 28</td>
+      <td>10:39:52.08</td>
+      <td>+07:07:56.5</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>2017 Aug 21</td>
+      <td>2017 Nov 18</td>
+      <td>15:26:24.31</td>
+      <td>-19:36:29.5</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>2017 Nov 20</td>
+      <td>2018 Feb 9</td>
+      <td>21:23:59.19</td>
+      <td>-16:27:21.4</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>2018 Feb 1</td>
+      <td>2018 Apr 22</td>
+      <td>0:33:23.94</td>
+      <td>+01:57:31.2</td>
+      <td></td>
+    </tr>
   </tdata>
 </table>
   </div>
 </div>
-</div>
-</div>
 
 <hr/>
 
-# Fields of view
+## Fields of view
 
-## Campaign 0
+### Campaign 0
 
 <img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/C0_selected.png">
 
-## Campaign 1
+### Campaign 1
 
 <img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/C1_selected.png">
 
-## Campaign 2
+### Campaign 2
 
 <img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/C2_selected.png">
 
-## Campaign 3
+### Campaign 3
 
 <img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/C3_selected.png">
 
-## Campaign 4
+### Campaign 4
 
 <img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/C4_selected.png">
 
-## Campaign 5
+### Campaign 5
 
 <img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/C5_selected.png">
 
-## Campaign 6
+### Campaign 6
 
 <img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/C6_selected.png">
 
-## Campaign 7
+### Campaign 7
 
 <img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/C7_selected.png">
 
-## Campaign 8
+### Campaign 8
 
 <img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/field8-final.png">
 
-## Campaign 9
+### Campaign 9
 
 <img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/field9-final.png">
 
-## Campaign 10
+### Campaign 10
 
 <img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/field10-final.png">
 
-## Campaign 11
+### Campaign 11
 
 <img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/field11-final.png">
 
-## Campaign 12
+### Campaign 12
 
 <img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/field12-final.png">
 
-## Campaign 13
+### Campaign 13
 
 <img class="img-responsive" style="min-width:97%;" src="images/campaign_selected/field13-final.png">
