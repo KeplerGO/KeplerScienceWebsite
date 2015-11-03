@@ -8,7 +8,7 @@ by K2.
 
 ## Planned fields
 
-<img src="images/k2/fieldsFor2017.v3.png" style="margin-left: -100px;" class="img-responsive" alt="K2 campaign fields on the sky">
+<a href="images/k2/fieldsFor2017.v3.png"><img src="images/k2/fieldsFor2017.v3.png" class="img-responsive" alt="K2 campaign fields on the sky"></a>
 
 <div class="panel panel-primary">
   <div class="panel-heading">
@@ -270,7 +270,7 @@ by K2.
 <p>The coordinates are not final and we encourage the community
 to provide input on their placement.</p>
 
-<img src="images/k2/proposed-future-fields.png" style="margin-left: -100px;" class="img-responsive">
+<a href="images/k2/proposed-future-fields.png"><img src="images/k2/proposed-future-fields.png" class="img-responsive"></a>
 
 <div class="panel panel-primary">
   <div class="panel-heading">
@@ -318,8 +318,8 @@ to provide input on their placement.</p>
       <td>17</td>
       <td>2018 Feb 1</td>
       <td>2018 Apr 22</td>
-      <td>0:33:23.94</td>
-      <td>+01:57:31.2</td>
+      <td>12:33:23.94</td>
+      <td>-01:57:31.2</td>
       <td></td>
     </tr>
   </tdata>
