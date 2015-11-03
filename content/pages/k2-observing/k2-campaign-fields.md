@@ -262,7 +262,12 @@ by K2.
   </div>
 </div>
 
-<!--
+
+<p>The fields below indicate fields being considered for Campaign 14 and beyond. The coordinates are not final and we encourage the community
+to provide input on their placement.</p>
+
+<div class="row">
+<div class="col-sm-6">
 <div class="panel panel-primary">
   <div class="panel-heading">
     <h3 class="panel-title">Proposed future fields</h3>
@@ -270,28 +275,25 @@ by K2.
   <div class="panel-body">
 
 <table class="table table-striped table-hover">
-
   <thead>
     <tr>
       <th>Field</th>
-      <th>Start</th>
-      <th>Stop</th>
-      <th>Data Available</th>
+      <th>Central date</th>
       <th>RA (J2000)</th>
       <th>Dec (J2000)</th>
-      <th>Targets</th>
-      <th>Comments</th>
     </tr>
   </thead>
-  
   <tdata>
-
+    <tr><td>14</td><td>2017 Jul 27</td><td>10:39:52.08</td><td>+07:07:56.5</td></tr>
+    <tr><td>15</td><td>2017 Oct 18</td><td>15:26:24.31</td><td>-19:36:29.5</td></tr>
+    <tr><td>16</td><td>2018 Jan 12</td><td>21:23:59.19</td><td>-16:27:21.4</td></tr>
+    <tr><td>17</td><td>2018 Mar 1</td><td>0:33:23.94</td><td>+01:57:31.2</td></tr>
   </tdata>
 </table>
-
   </div>
 </div>
--->
+</div>
+</div>
 
 <hr/>
 
