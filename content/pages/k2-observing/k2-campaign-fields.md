@@ -157,7 +157,7 @@ by K2.
       <td class="text-center">
 
       </td>
-      <td>Near Galactic Center, NGC 6717</td>
+      <td>Near Galactic Center, NGC 6717, Pluto</td>
     </tr>
 
     <tr>
@@ -189,7 +189,7 @@ by K2.
       <td class="text-center">
         
       </td>
-      <td>Galactic Center, M21, M18, M25, M8, Pluto</td>
+      <td>Galactic Center, M21, M18, M25, M8, Earth, Mars</td>
     </tr>
 
     <tr>
