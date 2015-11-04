@@ -179,7 +179,7 @@ by K2.
     </tr>
 
     <tr>
-      <td><a href="#c9">9</a></td>
+      <td><a href="#c9">9</a><sup>†</sup></td>
       <td>2016 Apr 07</td>
       <td>2016 Jul 02</td>
       <td>2016 Sep 26</td>
@@ -263,6 +263,10 @@ by K2.
   </div>
 </div>
 
+<p>
+<b><sup>†</sup>Note:</b> field 9 is a forward-facing campaign (+VV), enabling simultaneous observations to be made from the ground.
+</p>
+
 <hr>
 
 ## Proposed future fields
@@ -318,17 +322,21 @@ We encourage the community to provide input on their placement.
       <td></td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>17<sup>†</sup></td>
       <td>2018 Feb 1</td>
       <td>2018 Apr 22</td>
       <td>12:33:23.94</td>
       <td>-01:57:31.2</td>
-      <td>+VV (enables simultaneous observations from ground)</td>
+      <td>Forward-facing</td>
     </tr>
   </tdata>
 </table>
   </div>
 </div>
+
+<p>
+<b><sup>†</sup>Note:</b> field 17 is proposed to be a forward-facing campaign (+VV), enabling simultaneous observations from the ground.
+</p>
 
 <hr/>
 
