@@ -5,8 +5,8 @@ Save_as: publications.html
 
 The Guest Observer office curates a list of scientific publications
 pertaining to Kepler and K2.
-The database contains 1546 publications,
-of which 1360 are peer-reviewed.
+The database contains 1568 publications,
+of which 1365 are peer-reviewed.
 It demonstrates the important impact of Kepler/K2 data
 on astronomical research.
 
@@ -23,7 +23,7 @@ Or by topic:
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/KeplerGO/kpub">GitHub repository</a> of the database.
 
-Last update: 27 Oct 2015.
+Last update: 04 Nov 2015.
 
 <hr/>
 
@@ -31,8 +31,8 @@ Last update: 27 Oct 2015.
 
 The graph below shows the number of publications as a function
 of year and mission.
-The publication count for Kepler is 1478,
-that of K2 is 68.
+The publication count for Kepler is 1495,
+that of K2 is 73.
 
 ![Publication rate by mission and year]({filename}/images/kpub/kpub-publication-rate.png)
 
@@ -42,11 +42,11 @@ that of K2 is 68.
 
 Both Kepler and K2 data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 750 works relate to exoplanets
-(49%),
-a total of 796
+While 760 works relate to exoplanets
+(48%),
+a total of 808
 pertain to other areas of astrophysics
-(51%).
+(52%).
 
 
 ![Publications by subject]({filename}/images/kpub/kpub-piechart.png)
@@ -121,14 +121,14 @@ Fressin, François, Torres, Guillermo, Charbonneau, David, et al.
 [2013ApJ...766...81F](http://adsabs.harvard.edu/abs/2013ApJ...766...81F)
 <span class="badge">239 citations</span>
 
-13. ARCHITECTURE AND DYNAMICS OF KEPLER'S CANDIDATE MULTIPLE TRANSITING PLANET SYSTEMS  
-Lissauer, Jack J., Ragozzine, Darin, Fabrycky, Daniel C., et al.    
-[2011ApJS..197....8L](http://adsabs.harvard.edu/abs/2011ApJS..197....8L)
-<span class="badge">237 citations</span>
-
-14. KEPLER ASTEROSEISMOLOGY PROGRAM: INTRODUCTION AND FIRST RESULTS  
+13. KEPLER ASTEROSEISMOLOGY PROGRAM: INTRODUCTION AND FIRST RESULTS  
 Gilliland, Ronald L., Brown, Timothy M., Christensen-Dalsgaard, Jørgen, et al.    
 [2010PASP..122..131G](http://adsabs.harvard.edu/abs/2010PASP..122..131G)
+<span class="badge">237 citations</span>
+
+14. ARCHITECTURE AND DYNAMICS OF KEPLER'S CANDIDATE MULTIPLE TRANSITING PLANET SYSTEMS  
+Lissauer, Jack J., Ragozzine, Darin, Fabrycky, Daniel C., et al.    
+[2011ApJS..197....8L](http://adsabs.harvard.edu/abs/2011ApJS..197....8L)
 <span class="badge">237 citations</span>
 
 15. GRAVITY MODES AS A WAY TO DISTINGUISH BETWEEN HYDROGEN- AND HELIUM-BURNING RED GIANT STARS  
@@ -176,7 +176,7 @@ within the last 90 days.
 ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 2802 unique author names.
+by a total of 2828 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
 
@@ -186,70 +186,70 @@ Here we list the most-active authors, defined as those with six or more first-au
 
  * Sanchis-Ojeda, R (10 publications)
 
- * Chaplin, W (9 publications)
-
- * Hekker, S (9 publications)
-
- * Baran, A (9 publications)
-
  * Molenda-Zakowicz, J (9 publications)
-
- * Savanov, I (9 publications)
-
- * Kane, S (9 publications)
-
- * Steffen, J (9 publications)
 
  * Murphy, S (9 publications)
 
- * Stello, D (8 publications)
+ * Chaplin, W (9 publications)
 
- * Gilliland, R (8 publications)
+ * Steffen, J (9 publications)
 
- * Ostensen, R (8 publications)
+ * Kane, S (9 publications)
 
- * Scaringi, S (8 publications)
+ * Savanov, I (9 publications)
 
- * Wang, J (8 publications)
+ * Baran, A (9 publications)
+
+ * Hekker, S (9 publications)
 
  * Armstrong, D (8 publications)
 
- * Huber, D (8 publications)
-
  * Kato, T (8 publications)
 
- * Silva Aguirre, V (7 publications)
+ * Gilliland, R (8 publications)
 
- * Metcalfe, T (7 publications)
+ * Wang, J (8 publications)
 
- * Ramsay, G (7 publications)
+ * Ostensen, R (8 publications)
 
- * Mosser, B (7 publications)
+ * Ramsay, G (8 publications)
+
+ * Scaringi, S (8 publications)
+
+ * Huber, D (8 publications)
+
+ * Stello, D (8 publications)
 
  * Tkachenko, A (7 publications)
 
+ * Santerne, A (7 publications)
+
+ * Metcalfe, T (7 publications)
+
+ * Mosser, B (7 publications)
+
+ * Silva Aguirre, V (7 publications)
+
+ * Borucki, W (6 publications)
+
+ * Mathur, S (6 publications)
+
+ * Lillo-Box, J (6 publications)
+
+ * Barclay, T (6 publications)
+
+ * Campante, T (6 publications)
+
+ * Gaidos, E (6 publications)
+
+ * Rappaport, S (6 publications)
+
  * Bonomo, A (6 publications)
+
+ * Colon, K (6 publications)
+
+ * Corsaro, E (6 publications)
 
  * Lissauer, J (6 publications)
 
  * Dawson, R (6 publications)
-
- * Lillo-Box, J (6 publications)
-
- * Borucki, W (6 publications)
-
- * Campante, T (6 publications)
-
- * Barclay, T (6 publications)
-
- * Colon, K (6 publications)
-
- * Rappaport, S (6 publications)
-
- * Santerne, A (6 publications)
-
- * Mathur, S (6 publications)
-
- * Gaidos, E (6 publications)
-
- * Corsaro, E (6 publications)
