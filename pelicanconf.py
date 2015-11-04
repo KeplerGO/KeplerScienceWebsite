@@ -16,14 +16,11 @@ else:
 LOAD_CONTENT_CACHE = False
 
 AUTHOR = u'Thomas Barclay'
-#SITENAME = u'Kepler &amp; K2'
-#BANNER_SUBTITLE = u"Science Center Website"
 SITENAME = "Kepler &amp; K2"
 BANNER_SUBTITLE = "Science Center"
-SITEURL = ''
+SITEURL = "http://keplerscience.arc.nasa.gov"
 SITELOGO = 'images/NASA_logo_vector_lg.png'
 SITELOGO_SIZE = 32
-#FAVICON = 'images/Kepler_K2_logos_transp.png'
 FAVICON = 'images/favicon.png'
 TIMEZONE = 'America/Los_Angeles'
 DEFAULT_LANG = u'en'
@@ -40,8 +37,11 @@ IGNORE_FILES = [
     "README.md",
 ]
 
-# Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
+# Enable RSS feeds
+FEED_DOMAIN = "http://keplerscience.arc.nasa.gov"
+FEED_ALL_ATOM = "feeds/all.atom.xml"
+FEED_ALL_RSS = "feeds/all.rss.xml"
+# We don't need per-author or per-category or per-translation feeds
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None

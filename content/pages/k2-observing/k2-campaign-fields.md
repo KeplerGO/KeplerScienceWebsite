@@ -281,7 +281,7 @@ We encourage the community to provide input on their placement.
   </div>
   <div class="panel-body">
 
-<table class="table table-striped table-hover">
+<table class="table table-striped table-hover" style="font-size: 0.9em;">
   <thead>
     <tr>
       <th>Field</th>
@@ -295,8 +295,8 @@ We encourage the community to provide input on their placement.
   <tdata>
     <tr>
       <td>14</td>
-      <td>2017 May 30</td>
-      <td>2017 Aug 28</td>
+      <td>2017&nbsp;May&nbsp;30</td>
+      <td>2017&nbsp;Aug&nbsp;28</td>
       <td>10:39:52.08</td>
       <td>+07:07:56.5</td>
       <td></td>
@@ -323,7 +323,7 @@ We encourage the community to provide input on their placement.
       <td>2018 Apr 22</td>
       <td>12:33:23.94</td>
       <td>-01:57:31.2</td>
-      <td></td>
+      <td>+VV (enables simultaneous observations from ground)</td>
     </tr>
   </tdata>
 </table>
