@@ -342,7 +342,7 @@ We encourage the community to provide input on their placement.
   </div>
   <div class="col-lg-6">
     <b id="c1">Campaign 1</b>
-    <a href="images/campaign_selected/C1_selected.png"><img class="img-responsive" src="images/campaign_selected/C1_selected.png"></a>
+    <a href="images/k2/field1-final.png"><img class="img-responsive" src="images/k2/field1-final.png"></a>
   </div>
 </div>
 
