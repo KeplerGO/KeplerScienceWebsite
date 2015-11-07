@@ -3,7 +3,10 @@
 ***A website for the Kepler/K2 Science Center
 that doesn't suck™***
 
-Preview: http://keplergo.github.io/KeplerScienceWebsite/
+Live URL: http://keplerscience.arc.nasa.gov
+
+Test URL: http://keplergo.github.io/KeplerScienceWebsite/
+
 
 ## Usage
 
