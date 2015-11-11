@@ -119,10 +119,10 @@ IMPORTANT_DATES = (
          )
 
 MEETINGS = (
-            (('<b>9-13 Nov 2015</b><br>'
+            ('<b>9-13 Nov 2015</b><br>'
              'Kepler/K2 booth at #DPS15',
              'special-k2-workshop-at-the-dps-on-10-november-2015.html'),
-             ('<b>16-18 Nov 2015</b><br>'
+            ('<b>16-18 Nov 2015</b><br>'
              'Transiting Exoplanet Science with JWST',
              'http://www.cvent.com/events/enabling-transiting-exoplanet-science-with-jwst/event-summary-122488a7d40e4953adc6dda02f02a643.aspx'),
             ('<b>29 Nov - 4 Dec 2015</b><br>'
@@ -132,14 +132,12 @@ MEETINGS = (
              '5th Australian Exoplanet Workshop',
              'http://astronomy.swin.edu.au/planets/FifthWorkshop2015/'),
             ('<b>4-8 Jan 2015</b><br>'
-             '227th AAS meeting',
-             'http://aas.org/meetings/aas227')
+             'K2 workshop @ AAS Meeting',
+             'http://aas.org/meetings/aas227'),
+            ('<b>11-15 Jul 2016</b><br>'
+             'KASC Asteroseismology Workshop',
+             'http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/getMeetings.html?number=4796')
             )
-"""
-('<b>11-15 Jul 2016</b><br>'
- 'KASC Asteroseismology Workshop',
- 'http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/getMeetings.html?number=4796'),
-"""
 
 RELATEDSITES = (
             ("Kepler/K2 News and Media Resources",
