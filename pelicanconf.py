@@ -119,9 +119,6 @@ IMPORTANT_DATES = (
          )
 
 MEETINGS = (
-            ('<b>9-13 Nov 2015</b><br>'
-             'Kepler/K2 booth at #DPS15',
-             'special-k2-workshop-at-the-dps-on-10-november-2015.html'),
             ('<b>16-18 Nov 2015</b><br>'
              'Transiting Exoplanet Science with JWST',
              'http://www.cvent.com/events/enabling-transiting-exoplanet-science-with-jwst/event-summary-122488a7d40e4953adc6dda02f02a643.aspx'),
