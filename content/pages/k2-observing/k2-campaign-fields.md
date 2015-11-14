@@ -5,10 +5,11 @@ Save_as: k2-fields.html
 
 Each K2 Campaign has a duration of approximately 80 days 
 and remains fixed upon a single boresight position. 
-This page details the previous and upcoming Campaign fields observed
-by K2.
+This page details the previous, current, and future K2 Campaign fields.
 
-## Observed and current fields
+# Field dates and positions
+
+## Observed and planned
 
 <a href="images/k2/fieldsFor2017.v3.png"><img src="images/k2/fieldsFor2017.v3.png" class="img-responsive" alt="K2 campaign fields on the sky"></a>
 
@@ -260,21 +261,27 @@ by K2.
 
   </tdata>
 </table>
+
+  <p>
+  <b><sup>†</sup>Note:</b> field 9 is a forward-facing campaign (+VV), enabling simultaneous observations to be made from the ground.
+  </p>
+
   </div>
 </div>
 
-<p>
-<b><sup>†</sup>Note:</b> field 9 is a forward-facing campaign (+VV), enabling simultaneous observations to be made from the ground.
-</p>
 
 <hr>
 
-## Proposed future fields
+## Future (preliminary)
 
 <p>
 The fields below indicate fields being considered for Campaign 14 and beyond. 
-The coordinates are not final.
-We encourage the community to provide input on their placement.
+The coordinates are not final and ***will*** change to optimise science
+and accommodate engineering constraints (e.g. the availability of guide stars).
+</p>
+
+<p>
+We encourage the community to provide input on the placement of these fields.
 </p>
 
 <a href="images/k2/proposed-future-fields.png"><img src="images/k2/proposed-future-fields.png" class="img-responsive"></a>
@@ -289,8 +296,8 @@ We encourage the community to provide input on their placement.
   <thead>
     <tr>
       <th>Field</th>
-      <th>Start</th>
-      <th>Stop</th>
+      <th>Start after<sup>†</sup></th>
+      <th>End before<sup>†</sup></th>
       <th>RA (J2000)</th>
       <th>Dec (J2000)</th>
       <th>Comments</th>
@@ -322,7 +329,7 @@ We encourage the community to provide input on their placement.
       <td></td>
     </tr>
     <tr>
-      <td>17<sup>†</sup></td>
+      <td>17<sup>††</sup></td>
       <td>2018 Feb 1</td>
       <td>2018 Apr 22</td>
       <td>12:33:23.94</td>
@@ -331,17 +338,23 @@ We encourage the community to provide input on their placement.
     </tr>
   </tdata>
 </table>
+<p>
+<b><sup>†</sup>Note:</b> the dates shown are the <i>earliest possible</i> start dates, and the <i>latest possible</i> end dates.  The feasible date ranges of these campaigns overlap slightly to allow for some flexibility
+in the final choice of dates and positions.</p>
+<p>
+<b><sup>††</sup>Note:</b> field 17 is proposed to be a forward-facing campaign (+VV), enabling simultaneous observations to be made from the ground
+during the campaign.
+</p>
+
   </div>
 </div>
-
-<p>
-<b><sup>†</sup>Note:</b> field 17 is proposed to be a forward-facing campaign (+VV), enabling simultaneous observations from the ground.
-</p>
 
 <hr/>
 
 
-## Fields of view
+# Sky footprints
+
+## Plots
 
 <div class="row">
   <div class="col-lg-6">
@@ -419,3 +432,75 @@ We encourage the community to provide input on their placement.
     <a href="images/campaign_selected/field13-final.png"><img class="img-responsive" src="images/campaign_selected/field13-final.png"></a>
   </div>
 </div>
+
+
+## K2fov tool
+
+The K2fov tool enables users to test
+whether targets fall within a campaign field using a Python script.
+See the <a href="software.html#k2fov">installation and usage instructions</a>
+on the software page.
+
+
+## Machine-readable files
+
+To enable the community to create custom field visualisations
+or target selection tools, the K2fov tool has been used to create
+a series of user-friendly text files
+which detail the sky coordinates of the corners
+of each CCD channel in each campaign. 
+
+***JSON footprint files***
+
+These files specify the channel corners
+in both ecliptic and galactic coordinates,
+and also provide campaign dates, module/channel identifiers, and comments:
+
+* [k2-c00-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c00-footprint.json)
+* [k2-c01-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c01-footprint.json)
+* [k2-c02-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c02-footprint.json)
+* [k2-c03-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c03-footprint.json)
+* [k2-c04-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c04-footprint.json)
+* [k2-c05-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c05-footprint.json)
+* [k2-c06-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c06-footprint.json)
+* [k2-c07-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c07-footprint.json)
+* [k2-c08-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c08-footprint.json)
+* [k2-c09-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c09-footprint.json)
+* [k2-c10-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c10-footprint.json)
+* [k2-c11-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c11-footprint.json)
+* [k2-c12-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c12-footprint.json)
+* [k2-c13-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c13-footprint.json)
+
+***Preliminary JSON footprint files***
+
+Campaigns 14 and beyond are in the preliminary planning stage.
+The coordinates listed in the footprint files below are not final and will 
+definitely change:
+
+* [k2-c14-footprint-preliminary.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c14-footprint-preliminary.json)
+* [k2-c15-footprint-preliminary.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c15-footprint-preliminary.json)
+* [k2-c16-footprint-preliminary.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c16-footprint-preliminary.json)
+* [k2-c17-footprint-preliminary.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c17-footprint-preliminary.json)
+
+***Usage***
+
+Files in the JSON format can easily be read into a Python script using its
+standard *json* module, for example:
+
+    import json
+    footprint_dictionary = json.load(open("k2-c13-footprint.json"))
+
+The dictionary obtained in this way may then be used to 
+plot the position of a CCD channel on the sky.
+For example, the position of channel #10 in Campaign 13
+can be visualised as follows:
+
+    import matplotlib.pyplot as pl
+    ch10 = footprint_dictionary["channels"]["10"]
+    pl.plot(ch10["corners_ra"] + ch10["corners_ra"][:1],
+            ch10["corners_dec"] + ch10["corners_dec"][:1])
+    pl.show()
+
+**Beware**: a plot obtained in this way approximates channel edges
+as straight lines rather than great circles in the sky,
+causing small deviations from the true footprint near the poles.
