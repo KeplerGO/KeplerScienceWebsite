@@ -442,7 +442,7 @@ See the <a href="software.html#k2fov">installation and usage instructions</a>
 on the software page.
 
 
-## Machine-readable files
+## JSON files
 
 To enable the community to create custom field visualisations
 or target selection tools, the K2fov tool has been used to create
@@ -501,6 +501,6 @@ can be visualised as follows:
             ch10["corners_dec"] + ch10["corners_dec"][:1])
     pl.show()
 
-**Beware**: a plot obtained in this way approximates channel edges
-as straight lines rather than great circles in the sky,
-causing small deviations from the true footprint near the poles.
+Beware: a plot obtained in this way approximates channel edges
+as straight lines in the 2D-projected sky.
+This is an approximation of the great circles on which the channel edges lie.

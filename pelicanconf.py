@@ -93,7 +93,7 @@ MENUITEMS = (
         )
 
 KEY_INFORMATION = (
-            ('K2: Fields', 'k2-fields.html'),
+            ('K2: Field dates & footprints', 'k2-fields.html'),
             ('K2: Proposing targets', 'k2-proposing-targets.html'),
             ('K2: Discretionary time', 'k2-ddt.html'),
             ('Kepler/K2: Data products', 'data-products.html'),
@@ -102,19 +102,19 @@ KEY_INFORMATION = (
 
 IMPORTANT_DATES = (
             ('<b>10 Dec 2015</b>',
-             'K2 DDT proposals due for Campaign 9',
+             'K2 C9 DDT proposal deadline',
              'k2-ddt.html'),
             ('<b>01 Jan 2016</b>',
-             'K2 Campaign 6 data release (expected)',
+             'K2 C6 data release (expected)',
              'data-products.html#k2-product-overview'),
-            ('<b>Feb 2016</b>',
-             'K2 Campaigns 11-13 proposal deadline',
+            ('<b>5 Feb 2016</b>',
+             'K2 C11-13 proposal deadline (step 1)',
              'k2-proposing-targets.html#campaigns-11-12-13'),
             ('<b>10 Mar 2016</b>',
-             'K2 DDT proposals due for Campaign 10',
+             'K2 C10 DDT proposal deadline',
              'k2-ddt.html'),
             ('<b>28 Mar 2016</b>',
-             'K2 Campaign 7 data release (expected)',
+             'K2 C7 data release (expected)',
              'data-products.html#k2-product-overview'),
          )
 
