@@ -453,7 +453,7 @@ of each CCD channel in each campaign.
 ***JSON footprint files***
 
 These files specify the channel corners
-in both ecliptic and galactic coordinates,
+in both equatorial and galactic coordinates,
 and also provide campaign dates, module/channel identifiers, and comments:
 
 * [k2-c00-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c00-footprint.json)
