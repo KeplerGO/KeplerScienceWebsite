@@ -7,7 +7,7 @@ Each K2 Campaign has a duration of approximately 80 days
 and remains fixed upon a single boresight position. 
 This page details the previous, current, and future K2 Campaign fields.
 
-# Field dates and positions
+# Campaign dates & positions
 
 ## Observed and planned
 
@@ -352,9 +352,9 @@ during the campaign.
 <hr/>
 
 
-# Sky footprints
+# Fields of view
 
-## Plots
+## Footprint plots
 
 <div class="row">
   <div class="col-lg-6">
@@ -434,61 +434,32 @@ during the campaign.
 </div>
 
 
-## K2fov tool
+## Footprint files
 
-The K2fov tool enables users to test
-whether targets fall within a campaign field using a Python script.
-See the <a href="software.html#k2fov">installation and usage instructions</a>
-on the software page.
+To enable the community to create custom field visualisations,
+the coordinates in the footprint plots shown above
+have been exported to machine-readable CSV and JSON text files.
+These files specify the coordinates of the corners of each CCD channel
+in each campaign, along with the observing dates and module numbers.
+The JSON files also provide galactic coordinates.
 
+Campaigns 0 through 13:
 
-## JSON files
+* [k2-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-footprint.json)
+* [k2-footprint.csv](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-footprint.csv)
 
-To enable the community to create custom field visualisations
-or target selection tools, the K2fov tool has been used to create
-a series of user-friendly text files
-which detail the sky coordinates of the corners
-of each CCD channel in each campaign. 
+Campaigns 14 through 17:
 
-***JSON footprint files***
+* [k2-footprint-proposed.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-footprint.json) **(preliminary!)**
+* [k2-footprint-proposed.csv](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-footprint.csv) **(preliminary!)**
 
-These files specify the channel corners
-in both equatorial and galactic coordinates,
-and also provide campaign dates, module/channel identifiers, and comments:
+***Usage of the JSON files***
 
-* [k2-c00-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c00-footprint.json)
-* [k2-c01-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c01-footprint.json)
-* [k2-c02-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c02-footprint.json)
-* [k2-c03-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c03-footprint.json)
-* [k2-c04-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c04-footprint.json)
-* [k2-c05-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c05-footprint.json)
-* [k2-c06-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c06-footprint.json)
-* [k2-c07-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c07-footprint.json)
-* [k2-c08-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c08-footprint.json)
-* [k2-c09-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c09-footprint.json)
-* [k2-c10-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c10-footprint.json)
-* [k2-c11-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c11-footprint.json)
-* [k2-c12-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c12-footprint.json)
-* [k2-c13-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c13-footprint.json)
-
-***Preliminary JSON footprint files***
-
-Campaigns 14 and beyond are in the preliminary planning stage.
-The coordinates listed in the footprint files below are not final and will 
-definitely change:
-
-* [k2-c14-footprint-preliminary.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c14-footprint-preliminary.json)
-* [k2-c15-footprint-preliminary.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c15-footprint-preliminary.json)
-* [k2-c16-footprint-preliminary.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c16-footprint-preliminary.json)
-* [k2-c17-footprint-preliminary.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-c17-footprint-preliminary.json)
-
-***Usage***
-
-Files in the JSON format can easily be read into a Python script using its
-standard *json* module, for example:
+Files in the JSON format can easily be read into a Python script using the
+standard *json* module. For example:
 
     import json
-    footprint_dictionary = json.load(open("k2-c13-footprint.json"))
+    footprint_dictionary = json.load(open("k2-footprint.json"))
 
 The dictionary obtained in this way may then be used to 
 plot the position of a CCD channel on the sky.
@@ -496,11 +467,18 @@ For example, the position of channel #10 in Campaign 13
 can be visualised as follows:
 
     import matplotlib.pyplot as pl
-    ch10 = footprint_dictionary["channels"]["10"]
-    pl.plot(ch10["corners_ra"] + ch10["corners_ra"][:1],
-            ch10["corners_dec"] + ch10["corners_dec"][:1])
+    mychannel = footprint_dictionary["c13"]["channels"]["10"]
+    pl.plot(mychannel["corners_ra"] + mychannel["corners_ra"][:1],
+            mychannel["corners_dec"] + mychannel["corners_dec"][:1])
     pl.show()
 
-Beware: a plot obtained in this way approximates channel edges
+Beware however that a plot obtained in this way approximates channel edges
 as straight lines in the 2D-projected sky.
-This is an approximation of the great circles on which the channel edges lie.
+
+
+## K2fov software
+
+The K2fov tool enables the community to plot K2's field of view and test
+whether targets fall within a campaign field using a Python script.
+See the <a href="software.html#k2fov">installation and usage instructions</a>
+on the software page.
