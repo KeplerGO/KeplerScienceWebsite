@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2015-11-09" />
+    <meta name="dc.date.modified" content="2015-11-14" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -34,13 +34,13 @@ in August 2015, using pelican-bootstrap and flatly.
 <link rel="canonical" href="./pages/k2-campaign-fields.html">
 
         <meta name="author" content="Thomas Barclay" />
-        <meta name="description" content="Each K2 Campaign has a duration of approximately 80 days and remains fixed upon a single boresight position. This page details the previous and upcoming Campaign fields observed by K2. Observed and current fields Field dates and positions Field Start Stop Data available RA (J2000) Dec (J2000) Targetlist Release ..." />
+        <meta name="description" content="Each K2 Campaign has a duration of approximately 80 days and remains fixed upon a single boresight position. This page details the previous, current, and future K2 Campaign fields. Campaign dates &amp; positions Observed and planned Field dates and positions Field Start Stop Data available RA (J2000) Dec (J2000) Targetlist ..." />
 
     <meta property="og:site_name" content="Kepler &amp; K2" />
     <meta property="og:type" content="article"/>
     <meta property="og:title" content="K2 Campaign fields"/>
     <meta property="og:url" content="./pages/k2-campaign-fields.html"/>
-    <meta property="og:description" content="Each K2 Campaign has a duration of approximately 80 days and remains fixed upon a single boresight position. This page details the previous and upcoming Campaign fields observed by K2. Observed and current fields Field dates and positions Field Start Stop Data available RA (J2000) Dec (J2000) Targetlist Release ..." />
+    <meta property="og:description" content="Each K2 Campaign has a duration of approximately 80 days and remains fixed upon a single boresight position. This page details the previous, current, and future K2 Campaign fields. Campaign dates &amp; positions Observed and planned Field dates and positions Field Start Stop Data available RA (J2000) Dec (J2000) Targetlist ..." />
 
 
     <!-- Bootstrap -->
@@ -133,9 +133,9 @@ in August 2015, using pelican-bootstrap and flatly.
                 
 <p>Each K2 Campaign has a duration of approximately 80 days 
 and remains fixed upon a single boresight position. 
-This page details the previous and upcoming Campaign fields observed
-by K2.</p>
-<h2 id="observed-and-current-fields">Observed and current fields</h2>
+This page details the previous, current, and future K2 Campaign fields.</p>
+<h1 id="campaign-dates-positions">Campaign dates &amp; positions</h1>
+<h2 id="observed-and-planned">Observed and planned</h2>
 <p><a href="images/k2/fieldsFor2017.v3.png"><img alt="K2 campaign fields on the sky" class="img-responsive" src="images/k2/fieldsFor2017.v3.png"/></a></p>
 <div class="panel panel-primary">
 <div class="panel-heading">
@@ -355,17 +355,20 @@ by K2.</p>
 </tr>
 </tdata>
 </table>
-</div>
-</div>
 <p>
 <b><sup>†</sup>Note:</b> field 9 is a forward-facing campaign (+VV), enabling simultaneous observations to be made from the ground.
-</p>
+  </p>
+</div>
+</div>
 <hr>
-<h2 id="proposed-future-fields">Proposed future fields</h2>
+<h2 id="future-preliminary">Future (preliminary)</h2>
 <p>
 The fields below indicate fields being considered for Campaign 14 and beyond. 
-The coordinates are not final.
-We encourage the community to provide input on their placement.
+The coordinates are not final and ***will*** change to optimise science
+and accommodate engineering constraints (e.g. the availability of guide stars).
+</p>
+<p>
+We encourage the community to provide input on the placement of these fields.
 </p>
 <p><a href="images/k2/proposed-future-fields.png"><img class="img-responsive" src="images/k2/proposed-future-fields.png"/></a></p>
 <div class="panel panel-primary">
@@ -377,8 +380,8 @@ We encourage the community to provide input on their placement.
 <thead>
 <tr>
 <th>Field</th>
-<th>Start</th>
-<th>Stop</th>
+<th>Start after<sup>†</sup></th>
+<th>End before<sup>†</sup></th>
 <th>RA (J2000)</th>
 <th>Dec (J2000)</th>
 <th>Comments</th>
@@ -410,7 +413,7 @@ We encourage the community to provide input on their placement.
 <td></td>
 </tr>
 <tr>
-<td>17<sup>†</sup></td>
+<td>17<sup>††</sup></td>
 <td>2018 Feb 1</td>
 <td>2018 Apr 22</td>
 <td>12:33:23.94</td>
@@ -419,13 +422,18 @@ We encourage the community to provide input on their placement.
 </tr>
 </tdata>
 </table>
-</div>
-</div>
 <p>
-<b><sup>†</sup>Note:</b> field 17 is proposed to be a forward-facing campaign (+VV), enabling simultaneous observations from the ground.
+<b><sup>†</sup>Note:</b> the dates shown are the <i>earliest possible</i> start dates, and the <i>latest possible</i> end dates.  The feasible date ranges of these campaigns overlap slightly to allow for some flexibility
+in the final choice of dates and positions.</p>
+<p>
+<b><sup>††</sup>Note:</b> field 17 is proposed to be a forward-facing campaign (+VV), enabling simultaneous observations to be made from the ground
+during the campaign.
 </p>
+</div>
+</div>
 <hr/>
-<h2 id="fields-of-view">Fields of view</h2>
+<h1 id="fields-of-view">Fields of view</h1>
+<h2 id="footprint-plots">Footprint plots</h2>
 <div class="row">
 <div class="col-lg-6">
 <b id="c0">Campaign 0</b>
@@ -495,7 +503,47 @@ We encourage the community to provide input on their placement.
 <b id="c13">Campaign 13</b>
 <a href="images/campaign_selected/field13-final.png"><img class="img-responsive" src="images/campaign_selected/field13-final.png"/></a>
 </div>
-</div></hr>
+</div>
+<h2 id="footprint-files">Footprint files</h2>
+<p>To enable the community to create custom field visualisations,
+the coordinates in the footprint plots shown above
+have been exported to machine-readable CSV and JSON text files.
+These files specify the coordinates of the corners of each CCD channel
+in each campaign, along with the observing dates and module numbers.
+The JSON files also provide galactic coordinates.</p>
+<p>Campaigns 0 through 13:</p>
+<ul>
+<li><a href="https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-footprint.json">k2-footprint.json</a></li>
+<li><a href="https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-footprint.csv">k2-footprint.csv</a></li>
+</ul>
+<p>Campaigns 14 through 17:</p>
+<ul>
+<li><a href="https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-footprint.json">k2-footprint-proposed.json</a> <strong>(preliminary!)</strong></li>
+<li><a href="https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-footprint.csv">k2-footprint-proposed.csv</a> <strong>(preliminary!)</strong></li>
+</ul>
+<p><strong><em>Usage of the JSON files</em></strong></p>
+<p>Files in the JSON format can easily be read into a Python script using the
+standard <em>json</em> module. For example:</p>
+<pre><code>import json
+footprint_dictionary = json.load(open("k2-footprint.json"))
+</code></pre>
+<p>The dictionary obtained in this way may then be used to 
+plot the position of a CCD channel on the sky.
+For example, the position of channel #10 in Campaign 13
+can be visualised as follows:</p>
+<pre><code>import matplotlib.pyplot as pl
+mychannel = footprint_dictionary["c13"]["channels"]["10"]
+pl.plot(mychannel["corners_ra"] + mychannel["corners_ra"][:1],
+        mychannel["corners_dec"] + mychannel["corners_dec"][:1])
+pl.show()
+</code></pre>
+<p>Beware however that a plot obtained in this way approximates channel edges
+as straight lines in the 2D-projected sky.</p>
+<h2 id="k2fov-software">K2fov software</h2>
+<p>The K2fov tool enables the community to plot K2's field of view and test
+whether targets fall within a campaign field using a Python script.
+See the <a href="software.html#k2fov">installation and usage instructions</a>
+on the software page.</p></hr>
             </div>
         </section>
     </div>
@@ -504,9 +552,17 @@ We encourage the community to provide input on their placement.
             <div class="nav nav-stacked fixed" id="mytoc">
             <div class="toc">
 <ul>
-<li><a href="#observed-and-current-fields">Observed and current fields</a></li>
-<li><a href="#proposed-future-fields">Proposed future fields</a></li>
-<li><a href="#fields-of-view">Fields of view</a></li>
+<li><a href="#campaign-dates-positions">Campaign dates &amp; positions</a><ul>
+<li><a href="#observed-and-planned">Observed and planned</a></li>
+<li><a href="#future-preliminary">Future (preliminary)</a></li>
+</ul>
+</li>
+<li><a href="#fields-of-view">Fields of view</a><ul>
+<li><a href="#footprint-plots">Footprint plots</a></li>
+<li><a href="#footprint-files">Footprint files</a></li>
+<li><a href="#k2fov-software">K2fov software</a></li>
+</ul>
+</li>
 </ul>
 </div>
             </div>
