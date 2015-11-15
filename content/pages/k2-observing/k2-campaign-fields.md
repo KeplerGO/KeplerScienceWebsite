@@ -17,18 +17,18 @@ This page details the previous, current, and future K2 Campaign fields.
   <div class="panel-heading">
     <h3 class="panel-title">Field dates and positions</h3>
   </div>
-  <div class="panel-body" style="padding:0;">
+  <div class="panel-body">
 
 
-<table class="table table-striped table-hover" style="font-size: 0.75em;">
+<table class="table table-striped table-hover" style="font-size: 0.77em;">
   <thead>
     <tr>
       <th style="vertical-align: middle;">Field</th>
       <th style="vertical-align: middle;">Start</th>
       <th style="vertical-align: middle;">Stop</th>
-      <th style="vertical-align: middle;">Data&nbsp;available</th>
-      <th style="vertical-align: middle;">RA (J2000)</th>
-      <th style="vertical-align: middle;">Dec (J2000)</th>
+      <th style="vertical-align: middle;">Data<br>available</th>
+      <th style="vertical-align: middle;">RA</th>
+      <th style="vertical-align: middle;">Dec</th>
       <th style="vertical-align: middle;" class="text-center">Target<br>list</th>
       <th style="vertical-align: middle;" class="text-center">Release<br>notes</th>
       <th style="vertical-align: middle;">Comments</th>
@@ -83,7 +83,7 @@ This page details the previous, current, and future K2 Campaign fields.
       <td class="text-center">
         <a href="k2-data-release-notes.html#k2-campaign-2"><i class="fa fa-check"></i></a>
       </td>
-      <td>Near Gal Center, M4, M80, M19, Upr Sco, rho Oph</td>
+      <td>Near Gal Center, M4, M80, M19, Upr Sco, &rho; Oph</td>
     </tr>
 
     <tr>
@@ -192,7 +192,7 @@ This page details the previous, current, and future K2 Campaign fields.
       <td class="text-center">
         
       </td>
-      <td>Galactic Center, M21, M18, M25, M8, Earth, Mars</td>
+      <td>Gal Center, M21, M18, M25, M8, Earth, Mars</td>
     </tr>
 
     <tr>
@@ -450,8 +450,8 @@ Campaigns 0 through 13:
 
 Campaigns 14 through 17:
 
-* [k2-footprint-proposed.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-footprint.json) **(preliminary!)**
-* [k2-footprint-proposed.csv](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-footprint.csv) **(preliminary!)**
+* [k2-footprint-proposed.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-footprint-proposed.json) **(preliminary!)**
+* [k2-footprint-proposed.csv](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-footprint-proposed.csv) **(preliminary!)**
 
 ***Usage of the JSON files***
 
