@@ -7,9 +7,9 @@ Each K2 Campaign has a duration of approximately 80 days
 and remains fixed upon a single boresight position. 
 This page details the previous, current, and future K2 Campaign fields.
 
-# Campaign dates & positions
+## Campaign dates & positions
 
-## Observed and planned
+### Observed and planned
 
 <a href="images/k2/fieldsFor2017.v3.png"><img src="images/k2/fieldsFor2017.v3.png" class="img-responsive" alt="K2 campaign fields on the sky"></a>
 
@@ -272,7 +272,7 @@ This page details the previous, current, and future K2 Campaign fields.
 
 <hr>
 
-## Future (preliminary)
+### Future (preliminary)
 
 <p>
 The fields below indicate fields being considered for Campaign 14 and beyond. 
@@ -352,9 +352,9 @@ during the campaign.
 <hr/>
 
 
-# Fields of view
+## Fields of view
 
-## Footprint plots
+### Footprint plots
 
 <div class="row">
   <div class="col-lg-6">
@@ -434,7 +434,7 @@ during the campaign.
 </div>
 
 
-## Footprint files
+### Footprint files
 
 To enable the community to create custom field visualisations,
 the coordinates in the footprint plots shown above
@@ -476,7 +476,7 @@ Beware however that a plot obtained in this way approximates channel edges
 as straight lines in the 2D-projected sky.
 
 
-## K2fov software
+### K2fov software
 
 The K2fov tool enables the community to plot K2's field of view and test
 whether targets fall within a campaign field using a Python script.
