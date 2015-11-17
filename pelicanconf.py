@@ -93,7 +93,7 @@ MENUITEMS = (
         )
 
 KEY_INFORMATION = (
-            ('K2: Field dates & footprints', 'k2-fields.html'),
+            ('K2: Fields', 'k2-fields.html'),
             ('K2: Proposing targets', 'k2-proposing-targets.html'),
             ('K2: Discretionary time', 'k2-ddt.html'),
             ('Kepler/K2: Data products', 'data-products.html'),
