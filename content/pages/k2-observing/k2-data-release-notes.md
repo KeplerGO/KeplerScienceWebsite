@@ -268,6 +268,8 @@ Seventy-six stellar targets show negative flux values in their SAP_FLUX light cu
 
 The dominant systematic present in K2 simple aperture photometry light curves is a sawtooth shape that is due to the roll of the spacecraft approximately every 6 hours. The PDC module of the Kepler Pipeline uses Principle Component Analysis to remove this signal in addition to other systematics. Below, we examine observed trends and noise levels in the PDC light curves for C4, Data Release 6.
 
+<a href="images/release-notes/c4/K2-C04_CDPP_Summary.txt">Table giving 6.5-hr CDPP as a function of magnitude.</a>
+
 <div class="thumbnail" style="width: 68%;">
     <div class="caption">
         <i>Figure: CDPP measured for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. All cadences flagged as having definite thruster firings are gapped.</i>
