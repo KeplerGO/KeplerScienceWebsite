@@ -7,7 +7,127 @@ This page details the key features of the K2 data releases,
 including a description of technical issues relevant to
 the scientific exploitation of the data.
 
+
 <hr>
+
+# K2 Campaign 5
+
+## At a glance
+
+<div class="col-lg-5">
+
+    <b><i>Pointing</i></b>
+    <ul>
+        <li>RA: 130.1576478 degrees</li>
+        <li>Dec: 16.8296140 degrees</li>
+        <li>Roll: 166.0591297 degrees</li>
+    </ul>
+
+    <b><i>Targets</i></b>
+    <ul>
+        <li>25,850 in long cadence (LC)</li>
+        <li>204 in short cadence (SC)</li>
+        <li>Several custom targets (see below)</li>
+    </ul>
+
+    <b><i>Full Frame Images (FFI)</i></b>
+    <ul>
+        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2015127093352-c05_ffi-cal.fits">ktwo2015127093352-c05_ffi-cal.fits</a></li>
+        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2015170131810-c05_ffi-cal.fits">ktwo2015170131810-c05_ffi-cal.fits</a></li>
+    </ul>
+
+    <b><i>First cadence</i></b>
+    <ul>
+        <li>Time: 2015-04-27 02:18:11.949 UTC</li>
+        <li>Long Cadence Number: 107552</li>
+        <li>Short Cadence Number: 3215020</li>
+    </ul>
+
+    <b><i>Last cadence</i></b>
+    <ul>
+        <li>Time: 2015-07-10 22:39:43.571 UTC</li>
+        <li>Long Cadence Number: 111214</li>
+        <li>Short Cadence Number: 3324909</li>
+    </ul>
+
+</div>
+
+<div class="col-lg-7">
+
+    <div class="thumbnail">
+        <div class="caption">
+            <i>Figure: Schematic of Kepler's C5 field-of-view with observed targets shown with purple dots.</i>
+        </div>
+        <a href="images/campaign_selected/C5_selected.png">
+            <img src="images/campaign_selected/C5_selected.png" class="img-responsive" alt="C5 field-of-view with selected targets">
+        </a>
+    </div>
+
+    <div class="thumbnail">
+        <div class="caption">
+            <i>Figure: Distribution of the Kepler magnitudes of observed targets in C5. All targets are chosen by Guest Observers. The bimodality is due to how the largest <a href="k2-approved-programs.html#campaign-5">Guest Observer programs</a> were selected.</i>
+        </div>
+        <a href="images/release-notes/c5/C5LcMagDistribution.png">
+            <img src="images/release-notes/c5/C5LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed targets in C5.">
+        </a>
+    </div>
+
+</div>
+
+## Features and events
+
+<br>
+***M67***
+
+The open cluster M67 was observed by collecting a 400x400 region of sky near the core of the cluster in modules 6.1 and 6.2. See the image below. These data are grouped into 72 custom apertures, each with a 50x50 pixel mask or smaller. Their data are listed by custom aperture number at the MAST in the range 200008644--200008715.
+
+<div class="thumbnail" style="width: 68%;">
+    <div class="caption">
+        <i>Figure: The tiling of the M67 open cluster is shown in green on mod.outs 6.1 and 6.2 of C5.</i>
+    </div>
+    <a href="images/release-notes/c5/M67Tiling.png">
+        <img src="images/release-notes/c5/M67Tiling.png" class="img-responsive" alt="The tiling of the M67 open cluster is shown in green on mod.outs 6.1 and 6.2 of C5.">
+    </a>
+</div>
+
+<br>
+***Trans-Neptunian Object***
+
+The Trans-Neptunian Object TNO (126154) 2001 YH140 was observed in Campaign 5 by creating 565 1 x n pixel target definitions (where n ranges from 4 to 21) that cover the path of the TNO. The custom aperture numbers range from 200008716 to 200009280.
+
+<br>
+***Noted Data Anomalies***
+
+Approximately 55.5 days after the start of C5, we note a small (~4000 electrons per cadence) increase in the median dark level that lasts approximately a day. The event is likely caused by a Coronal Mass Ejection, and its size is small compared to other normal variations seen in the dark level. This change in dark level is part of the normal calibration process that occurs in the CAL module.
+
+One Argabrightening event was seen in the observed background level approximately 38 days into the campaign and affects a majority of the channels. This event is flagged on bit 13 in the QUALITY column of the light curve and target pixel files for those targets on the affected channels.
+
+<br>
+***Light Curve Quality***
+
+The dominant systematic present in K2 simple aperture photometry light curves is a sawtooth shape that is due to the roll of the spacecraft approximately every 6 hours. The PDC module of the Kepler Pipeline uses Principle Component Analysis to remove this signal in addition to other systematics. Below, we examine observed noise levels in the PDC light curves for C5, Data Release 7.
+
+<a href="images/release-notes/c5/K2-C05_CDPP_Summary.txt">Table giving 6.5-hr CDPP as a function of magnitude.</a>
+
+<div class="thumbnail" style="width: 68%;">
+    <div class="caption">
+        <i>Figure: CDPP measured for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. Also, the photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
+    </div>
+    <a href="images/release-notes/c5/K2-C05_logg_CDPP_vs_model.png">
+        <img src="images/release-notes/c5/K2-C05_logg_CDPP_vs_model.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
+    </a>
+</div>
+
+
+## Release History
+
+The following is the data release history for this campaign. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
+
+* <a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr7">Data Release 7</a>
+
+<hr>
+
+
 
 # K2 Campaign 4
 

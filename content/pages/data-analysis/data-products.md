@@ -387,6 +387,16 @@ which detail deviations from the pipeline used for Kepler.
 	  <td><a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr6">PRN</a></td>
       </tr>
 
+      <tr>
+      <td>C5</td>
+      <td>1</td>
+    <td>2015 Apr 27</td>
+    <td>2015 Jul 10</td>
+      <td>2015 Oct 29</td>
+      <td><a
+      href="k2-data-release-notes.html#k2-campaign-5">DRN</a></td>
+    <td><a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr7">PRN</a></td>
+      </tr>
 </tdata>
 </table>
 
