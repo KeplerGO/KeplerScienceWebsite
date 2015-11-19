@@ -1,0 +1,75 @@
+/*
+  Icon Font: mission_icons
+*/
+
+@font-face {
+  font-family: "mission_icons";
+  src: url("../fonts/mission_icons_7ccfa858bb8604cc60a35f9aef311a1e.eot");
+  src: url("../fonts/mission_icons_7ccfa858bb8604cc60a35f9aef311a1e.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/mission_icons_7ccfa858bb8604cc60a35f9aef311a1e.woff") format("woff"),
+       url("../fonts/mission_icons_7ccfa858bb8604cc60a35f9aef311a1e.ttf") format("truetype"),
+       url("../fonts/mission_icons_7ccfa858bb8604cc60a35f9aef311a1e.svg#mission_icons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "mission_icons";
+    src: url("../fonts/mission_icons_7ccfa858bb8604cc60a35f9aef311a1e.svg#mission_icons") format("svg");
+  }
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.mission-icon-2mass:before,
+.mission-icon-akari:before,
+.mission-icon-blast:before,
+.mission-icon-bolocam:before,
+.mission-icon-cosmos:before,
+.mission-icon-herschel:before,
+.mission-icon-iras:before,
+.mission-icon-irts:before,
+.mission-icon-iso:before,
+.mission-icon-kepler:before,
+.mission-icon-msx:before,
+.mission-icon-planck:before,
+.mission-icon-ptf:before,
+.mission-icon-sdss:before,
+.mission-icon-sofia:before,
+.mission-icon-spitzer:before,
+.mission-icon-swas:before,
+.mission-icon-wise:before {
+  display: inline-block;
+  font-family: "mission_icons";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.mission-icon-2mass:before { content: "\f10f"; }
+.mission-icon-akari:before { content: "\f110"; }
+.mission-icon-blast:before { content: "\f100"; }
+.mission-icon-bolocam:before { content: "\f111"; }
+.mission-icon-cosmos:before { content: "\f10e"; }
+.mission-icon-herschel:before { content: "\f10d"; }
+.mission-icon-iras:before { content: "\f10c"; }
+.mission-icon-irts:before { content: "\f10b"; }
+.mission-icon-iso:before { content: "\f10a"; }
+.mission-icon-kepler:before { content: "\f101"; }
+.mission-icon-msx:before { content: "\f109"; }
+.mission-icon-planck:before { content: "\f108"; }
+.mission-icon-ptf:before { content: "\f107"; }
+.mission-icon-sdss:before { content: "\f106"; }
+.mission-icon-sofia:before { content: "\f105"; }
+.mission-icon-spitzer:before { content: "\f102"; }
+.mission-icon-swas:before { content: "\f104"; }
+.mission-icon-wise:before { content: "\f103"; }

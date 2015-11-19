@@ -1,0 +1,189 @@
+/*
+  Icon Font: exoplanet_archive_icons
+*/
+
+@font-face {
+  font-family: "exoplanet_archive_icons";
+  src: url("../fonts/exoplanet_archive_icons_711bce651ea93569147479127a10ea38.eot");
+  src: url("../fonts/exoplanet_archive_icons_711bce651ea93569147479127a10ea38.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/exoplanet_archive_icons_711bce651ea93569147479127a10ea38.woff") format("woff"),
+       url("../fonts/exoplanet_archive_icons_711bce651ea93569147479127a10ea38.ttf") format("truetype"),
+       url("../fonts/exoplanet_archive_icons_711bce651ea93569147479127a10ea38.svg#exoplanet_archive_icons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "exoplanet_archive_icons";
+    src: url("../fonts/exoplanet_archive_icons_711bce651ea93569147479127a10ea38.svg#exoplanet_archive_icons") format("svg");
+  }
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.exoplanet-icon-api-gear:before,
+.exoplanet-icon-api-gear-borderless:before,
+.exoplanet-icon-api-gear-solid:before,
+.exoplanet-icon-api-search:before,
+.exoplanet-icon-api-search-borderless:before,
+.exoplanet-icon-api-search-solid:before,
+.exoplanet-icon-api-wrench:before,
+.exoplanet-icon-api-wrench-borderless:before,
+.exoplanet-icon-api-wrench-solid:before,
+.exoplanet-icon-book:before,
+.exoplanet-icon-book-borderless:before,
+.exoplanet-icon-book-solid:before,
+.exoplanet-icon-calendar:before,
+.exoplanet-icon-calendar-borderless:before,
+.exoplanet-icon-calendar-solid:before,
+.exoplanet-icon-discussion:before,
+.exoplanet-icon-discussion-borderless:before,
+.exoplanet-icon-discussion-solid:before,
+.exoplanet-icon-download:before,
+.exoplanet-icon-download-borderless:before,
+.exoplanet-icon-download-solid:before,
+.exoplanet-icon-facebook:before,
+.exoplanet-icon-facebook-borderless:before,
+.exoplanet-icon-facebook-solid:before,
+.exoplanet-icon-gplus:before,
+.exoplanet-icon-gplus-borderless:before,
+.exoplanet-icon-gplus-solid:before,
+.exoplanet-icon-light-curve:before,
+.exoplanet-icon-light-curve-borderless:before,
+.exoplanet-icon-light-curve-solid:before,
+.exoplanet-icon-observatory:before,
+.exoplanet-icon-observatory-borderless:before,
+.exoplanet-icon-observatory-solid:before,
+.exoplanet-icon-planet-candidate:before,
+.exoplanet-icon-planet-candidate-borderless:before,
+.exoplanet-icon-planet-candidate-solid:before,
+.exoplanet-icon-planet-confirmed:before,
+.exoplanet-icon-planet-confirmed-borderless:before,
+.exoplanet-icon-planet-confirmed-solid:before,
+.exoplanet-icon-planet-multi:before,
+.exoplanet-icon-planet-multi-borderless:before,
+.exoplanet-icon-planet-multi-solid:before,
+.exoplanet-icon-plot:before,
+.exoplanet-icon-plot-borderless:before,
+.exoplanet-icon-plot-simple:before,
+.exoplanet-icon-plot-simple-borderless:before,
+.exoplanet-icon-plot-simple-solid:before,
+.exoplanet-icon-plot-solid:before,
+.exoplanet-icon-question:before,
+.exoplanet-icon-question-borderless:before,
+.exoplanet-icon-question-solid:before,
+.exoplanet-icon-search:before,
+.exoplanet-icon-search-borderless:before,
+.exoplanet-icon-search-solid:before,
+.exoplanet-icon-table:before,
+.exoplanet-icon-table-borderless:before,
+.exoplanet-icon-table-simple:before,
+.exoplanet-icon-table-simple-borderless:before,
+.exoplanet-icon-table-simple-solid:before,
+.exoplanet-icon-table-solid:before,
+.exoplanet-icon-transit:before,
+.exoplanet-icon-transit-borderless:before,
+.exoplanet-icon-transit-solid:before,
+.exoplanet-icon-twitter:before,
+.exoplanet-icon-twitter-borderless:before,
+.exoplanet-icon-twitter-solid:before,
+.exoplanet-icon-video:before,
+.exoplanet-icon-video-borderless:before,
+.exoplanet-icon-video-solid:before,
+.exoplanet-icon-wikipedia:before,
+.exoplanet-icon-wikipedia-borderless:before,
+.exoplanet-icon-wikipedia-solid:before,
+.exoplanet-icon-youtube:before,
+.exoplanet-icon-youtube-borderless:before,
+.exoplanet-icon-youtube-solid:before {
+  display: inline-block;
+  font-family: "exoplanet_archive_icons";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.exoplanet-icon-api-gear:before { content: "\f100"; }
+.exoplanet-icon-api-gear-borderless:before { content: "\f101"; }
+.exoplanet-icon-api-gear-solid:before { content: "\f102"; }
+.exoplanet-icon-api-search:before { content: "\f103"; }
+.exoplanet-icon-api-search-borderless:before { content: "\f104"; }
+.exoplanet-icon-api-search-solid:before { content: "\f105"; }
+.exoplanet-icon-api-wrench:before { content: "\f106"; }
+.exoplanet-icon-api-wrench-borderless:before { content: "\f107"; }
+.exoplanet-icon-api-wrench-solid:before { content: "\f108"; }
+.exoplanet-icon-book:before { content: "\f109"; }
+.exoplanet-icon-book-borderless:before { content: "\f10a"; }
+.exoplanet-icon-book-solid:before { content: "\f10b"; }
+.exoplanet-icon-calendar:before { content: "\f10c"; }
+.exoplanet-icon-calendar-borderless:before { content: "\f10d"; }
+.exoplanet-icon-calendar-solid:before { content: "\f10e"; }
+.exoplanet-icon-discussion:before { content: "\f10f"; }
+.exoplanet-icon-discussion-borderless:before { content: "\f110"; }
+.exoplanet-icon-discussion-solid:before { content: "\f111"; }
+.exoplanet-icon-download:before { content: "\f112"; }
+.exoplanet-icon-download-borderless:before { content: "\f113"; }
+.exoplanet-icon-download-solid:before { content: "\f114"; }
+.exoplanet-icon-facebook:before { content: "\f115"; }
+.exoplanet-icon-facebook-borderless:before { content: "\f116"; }
+.exoplanet-icon-facebook-solid:before { content: "\f117"; }
+.exoplanet-icon-gplus:before { content: "\f118"; }
+.exoplanet-icon-gplus-borderless:before { content: "\f119"; }
+.exoplanet-icon-gplus-solid:before { content: "\f11a"; }
+.exoplanet-icon-light-curve:before { content: "\f11b"; }
+.exoplanet-icon-light-curve-borderless:before { content: "\f11c"; }
+.exoplanet-icon-light-curve-solid:before { content: "\f11d"; }
+.exoplanet-icon-observatory:before { content: "\f11e"; }
+.exoplanet-icon-observatory-borderless:before { content: "\f11f"; }
+.exoplanet-icon-observatory-solid:before { content: "\f120"; }
+.exoplanet-icon-planet-candidate:before { content: "\f121"; }
+.exoplanet-icon-planet-candidate-borderless:before { content: "\f122"; }
+.exoplanet-icon-planet-candidate-solid:before { content: "\f123"; }
+.exoplanet-icon-planet-confirmed:before { content: "\f124"; }
+.exoplanet-icon-planet-confirmed-borderless:before { content: "\f125"; }
+.exoplanet-icon-planet-confirmed-solid:before { content: "\f126"; }
+.exoplanet-icon-planet-multi:before { content: "\f127"; }
+.exoplanet-icon-planet-multi-borderless:before { content: "\f128"; }
+.exoplanet-icon-planet-multi-solid:before { content: "\f129"; }
+.exoplanet-icon-plot:before { content: "\f12a"; }
+.exoplanet-icon-plot-borderless:before { content: "\f12b"; }
+.exoplanet-icon-plot-simple:before { content: "\f12c"; }
+.exoplanet-icon-plot-simple-borderless:before { content: "\f12d"; }
+.exoplanet-icon-plot-simple-solid:before { content: "\f12e"; }
+.exoplanet-icon-plot-solid:before { content: "\f12f"; }
+.exoplanet-icon-question:before { content: "\f130"; }
+.exoplanet-icon-question-borderless:before { content: "\f131"; }
+.exoplanet-icon-question-solid:before { content: "\f132"; }
+.exoplanet-icon-search:before { content: "\f133"; }
+.exoplanet-icon-search-borderless:before { content: "\f134"; }
+.exoplanet-icon-search-solid:before { content: "\f135"; }
+.exoplanet-icon-table:before { content: "\f136"; }
+.exoplanet-icon-table-borderless:before { content: "\f137"; }
+.exoplanet-icon-table-simple:before { content: "\f138"; }
+.exoplanet-icon-table-simple-borderless:before { content: "\f139"; }
+.exoplanet-icon-table-simple-solid:before { content: "\f13a"; }
+.exoplanet-icon-table-solid:before { content: "\f13b"; }
+.exoplanet-icon-transit:before { content: "\f13c"; }
+.exoplanet-icon-transit-borderless:before { content: "\f13d"; }
+.exoplanet-icon-transit-solid:before { content: "\f13e"; }
+.exoplanet-icon-twitter:before { content: "\f13f"; }
+.exoplanet-icon-twitter-borderless:before { content: "\f140"; }
+.exoplanet-icon-twitter-solid:before { content: "\f141"; }
+.exoplanet-icon-video:before { content: "\f142"; }
+.exoplanet-icon-video-borderless:before { content: "\f143"; }
+.exoplanet-icon-video-solid:before { content: "\f144"; }
+.exoplanet-icon-wikipedia:before { content: "\f145"; }
+.exoplanet-icon-wikipedia-borderless:before { content: "\f146"; }
+.exoplanet-icon-wikipedia-solid:before { content: "\f147"; }
+.exoplanet-icon-youtube:before { content: "\f148"; }
+.exoplanet-icon-youtube-borderless:before { content: "\f149"; }
+.exoplanet-icon-youtube-solid:before { content: "\f14a"; }

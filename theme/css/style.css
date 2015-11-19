@@ -1,0 +1,548 @@
+body {
+    padding-top: 70px;
+}
+
+/* This fixes the problem that links to internal anchors
+are unaware of the fixed header: */
+div[id]:before, h1[id]:before, h2[id]:before, h3[id]:before, h4[id]:before {
+  display: block;
+  content: " ";
+  margin-top: -75px;
+  height: 75px;
+  visibility: hidden;
+}
+
+#sidebar .list-group, #sidebar .list-group-item {
+    background-color: transparent;
+}
+
+/* Fix display of wide content/tables on narrow displays e.g. mobile */
+.panel-body {
+  overflow-x: auto;
+}
+
+/* for list-groups nested within a list-group-item, reset the bottom margin */
+.list-group-item > .list-group {
+    margin-bottom: 0px;
+}
+
+/* for list-group-items nested within a list-group-item, reset the bottom
+   padding of the last item, b/c the containing item has paddimg already 
+ */
+.list-group-item .list-group-item:last-child {
+    padding-bottom: 0px;
+}
+
+.list-group-item {
+    border: none;
+}
+
+.tag-0 {
+    font-size: 16pt;
+}
+
+.tag-1 {
+    font-size: 13pt;
+}
+
+.tag-2 {
+    font-size: 10pt;
+}
+
+.tag-3 {
+    font-size: 8pt;
+}
+
+.tag-4 {
+    font-size: 6pt;
+}
+
+#aboutme {
+    padding-top: 0px;
+    padding-bottom: 5px;
+    -ms-word-break: normal;
+    word-break: normal;
+}
+
+#sidebar {
+    padding-top: 0px;
+    -ms-word-break: break-all;
+    word-break: break-all;
+    word-break: break-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+}
+
+#sidebar a {
+    color: inherit;
+}
+
+.icon-label {
+    margin-left: 10px;
+}
+
+/* Example for how to control spacing between icon and label in specific
+   lists in the sidebar. To change, override in your CUSTOM_CSS           */
+#sidebar #social i {
+    margin-right: 3px;
+}
+
+a, a:hover {
+    color: inherit;
+}
+
+.entry-content a {
+    text-decoration: none;
+    border-bottom: 1px dashed;
+}
+
+.entry-content a:hover {
+    text-decoration: none;
+    border-bottom: 1px solid;
+}
+
+.entry-content img {
+    max-width: 100%;
+    height: auto;
+}
+
+.entry-content figcaption, .caption {
+    font-size: small;
+    margin-bottom: 2px;
+}
+
+.summary img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+.floatright, .align-right {
+    float: right;
+}
+
+.floatleft, .align-left {
+    float: left;
+}
+
+.floatcenter, .align-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figure.floatright, .align-right {
+    margin-left: 4px;
+}
+
+figure.floatleft, .align-left {
+    margin-right: 4px;
+}
+
+figure.floatcenter, .align-center {
+    margin-bottom: 11px;
+}
+
+.highlighttable pre {
+    /* Removes bootstrap default margin-bottom */
+    margin-bottom: 0px;
+}
+
+.highlighttable {
+    /* Adds them margin-bottom to highlightable instead of <pre> */
+    margin-bottom: 11px;
+}
+
+.highlighttable {
+    width: 100%;
+}
+
+#categories ul, #tags ul {
+    list-style: none;
+    padding: 0;
+    margin-left: 0;
+}
+
+.docutils.footnote td.label {
+    display: table-cell;
+    font-size: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+    color: inherit;
+    text-align: inherit;
+    white-space: inherit;
+    border-radius: inherit;
+}
+
+.categories-timestamp {
+    color: #AAAAAA;
+    font-size: 0.9em;
+    margin-right: 10px;
+}
+
+.tagcloud li {
+    padding: 0px;
+}
+
+#banner {
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-attachment: scroll;
+    background-size: cover; 
+    background-color: #C4C4C4;
+    margin: 0 0 20px;
+    padding: 70px 0; /*controls padding around inner text*/
+    position: relative;
+}
+
+#banner .copy {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.5);
+    display: inline;
+    float: left;
+    max-width: 600px;
+    padding: 20px;
+    position: relative;
+    z-index: 1;
+}
+
+#banner h1 {
+    color: #fff;
+    /* font-family: "HelveticaNeue-CondensedBold","Helvetica Neue CE 600 Condensed","Helvetica Neue LT Condensed","Helvetica Neue 600 Condensed","HelveticaNeue-BoldCondensed","Helvetica Neue BoldCondensed","Helvetica Neue",Helvetica,Arial,sans-serif; */
+    font-size: 60px;
+    /*font-stretch: condensed; */
+    font-weight: 700;
+    line-height: 0.9;
+    margin: 0;
+    text-transform: uppercase;
+}
+#banner .intro {
+    color: #fff;
+    font-size: 40px;
+    line-height: 1.33;
+    opacity: 0.5;
+}
+#banner .btn, #banner .intro {
+    margin-left: 4px;
+}
+
+/* Solutions for mobile and small screens  */
+@media (max-width: 650px) {
+    #banner h1{
+       font-size: 30px; /* !important;*/
+    }
+    #banner .intro{
+        font-size: 20px;
+    }
+}
+
+#container4 {
+  clear:left;
+  float:left;
+  width:100%;
+  overflow:hidden;
+/*  background:#b2f0f9;  column 4 background colour */
+}
+#container3 {
+  clear:left;
+  float:left;
+  width:100%;
+  position:relative;
+  right:25%;
+/*  background:#89ffa2;  column 3 background colour */
+}
+#container2 {
+  clear:left;
+  float:left;
+  width:100%;
+  position:relative;
+  right:25%;
+/*  background:#ffa7a7;  column 2 background colour */
+}
+#container1 {
+  float:left;
+  width:100%;
+  position:relative;
+  right:25%;
+/*  background:#fff689;  column 1 background colour */
+}
+#col1 {
+  float:left;
+  width:13%;
+  position:relative;
+  left:77%;
+  overflow:hidden;
+}
+#col2 {
+  float:left;
+  width:20%;
+  position:relative;
+  left:75%;
+  overflow:hidden;
+}
+#col3 {
+  float:left;
+  width:40%;
+  position:relative;
+  left:70%;
+  overflow:hidden;
+}
+#col4 {
+  float:left;
+  width:20%;
+  position:relative;
+  left:70%;
+  overflow:hidden; 
+}
+
+
+/*** KEPLERIFICATION STARTS HERE
+(Changes to pelican-bootstrap below made by Geert for Kepler) 
+***/
+
+footer {
+    font-size: 0.8em;
+    padding: 1em;
+}
+
+.container-wide {
+    background-color: #ECF0F1;
+    width: 100%;
+}
+
+.container-icons {
+    margin-top: -20px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+/* The list groups inside panels on the front page do not need bottom spacing. */
+.panel-body > .list-group {
+    margin-bottom: 0px;
+}
+
+/* Front page panel titles */
+h4.panel-title {
+    font-size: 19px;
+}
+
+/* Front page carousel panel body needs no padding */
+.zeropadding {
+    padding:0px;
+}
+
+.fa-margin {
+    margin-right: 0.3em;
+}
+
+/* Avoid links in tables having two lines */
+.table a:not(.btn) {
+    text-decoration: none;
+}
+
+.entry-content a.btn, .entry-content a.btn:hover {
+    border-bottom: 0px;
+}
+
+/* Avoid links in titles being underlined. */
+a.toc-backref {
+    border-bottom: 0px;
+}
+
+/* Add a bit more space between page sections of rst pages */
+div.section {
+    margin-top: 2.5em;
+    margin-bottom: 2.5em;
+}
+
+/* ###########
+   TABLE OF CONTENTS SIDE BAR
+   ########### */
+
+#mytoc {
+    padding-left: 20px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+
+#mytoc.affix-top {
+    position: absolute;
+    /*top: 50px;*/
+}
+
+#mytoc.affix {
+    top: 50px;
+}
+
+.toc ul {
+    padding: 0;
+    -webkit-padding-start: 0;
+}
+
+.toc li{
+    list-style-type: none;
+}
+
+.toc li>a {
+    /*color: #2a6496; */
+    padding: 4px 10px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.toc li>ul {
+    padding-bottom: 0.5em;
+}
+
+/* nested links */
+.toc li>ul>li>a {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 2em;
+    font-size: 0.8em;
+}
+
+.toc a {
+    border-left: 2px solid transparent;
+}
+
+.toc li>ul>li>a {
+    border-left: 2px solid transparent;
+}
+
+.toc .active>a, 
+.toc a:hover, 
+.toc a:focus {
+    /*color: #2a6496;*/
+    color: #18bc9c;
+    font-weight: 900;      
+    text-decoration: none;          
+    background-color: transparent;  
+    border-left: 2px solid #18bc9c;
+}
+
+.toc li>ul>li.active>a,
+.toc li>ul>li>a:hover,
+.toc li>ul>li>a:focus {
+    border-left: 2px solid #18bc9c; 
+}
+
+/* all active links */
+.toc .active>a, 
+.toc .active:hover>a,
+.toc .active:focus>a {
+    font-weight: 700;
+}
+
+
+/*=================
+  CAROUSEL 
+===================*/
+
+.carousel {
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.carousel {
+  background-color: #fff;
+}
+
+.carousel .container {
+  position: relative;
+  z-index: 9;
+  padding-left: 0px;
+  padding-right: 0px;
+  width: 100%;
+}
+
+.carousel .glyphicon-chevron-left,
+.carousel .glyphicon-chevron-right {
+    top: 55%;
+}
+
+.carousel .glyphicon-chevron-left {
+    left: 25%;
+}
+
+.carousel .glyphicon-chevron-right {
+    right: 25%;
+}
+
+.carousel-indicators {
+    bottom: 5px;
+}
+
+.carousel .item {
+    height: 175px;
+}
+
+/*
+.carousel img {
+  position: absolute;
+  top: 0;
+  left: 0; 
+  min-width: 100%;
+  padding-top: 2em;
+} */
+
+.carousel-caption {
+  background-color: rgba(236, 240, 241, 0.6);  /* rgba(0,0,0, 0.6); */
+  position: static;
+  padding: 0px 20px 10px 20px;
+  margin-top: 0px;
+  margin-left: 0px;
+  text-align: left;
+}
+
+.carousel-caption h1,
+.carousel-caption .lead {
+  text-align: left;
+  margin: 0;
+  line-height: 1.25;
+  /*color: #fff; 
+  text-shadow: 0 1px 1px rgba(0,0,0,.5); */
+}
+
+.carousel-caption h1 {
+  font-size:1.2em;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  font-weight: 700;
+}
+
+/*
+.carousel-caption p {
+  font-size:1.15em;
+}
+
+
+.carousel-caption .btn {
+  margin-top: 0.1em;
+  margin-left: 2em;
+  font-size: 1.0em;
+  padding: 8px;
+}*/
+
+
+.carousel-control.left {
+    background-image: -webkit-linear-gradient(left, rgba(236,240,241,0.9) 0, rgba(236,240,241,0.0001) 100%);
+    background-image: -o-linear-gradient(left, rgba(236,240,241,0.9) 0, rgba(236,240,241,0.0001) 100%);
+    background-image: linear-gradient(to right, rgba(236,240,241,0.9) 0, rgba(236,240,241,0.0001) 100%);
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#80ecf0f1', endColorstr='#00ecf0f1', GradientType=1);
+}
+
+.carousel-control.right {
+    left: auto;
+    right: 0;
+    background-image: -webkit-linear-gradient(left, rgba(236,240,241,0.0001) 0, rgba(236,240,241,0.9) 100%);
+    background-image: -o-linear-gradient(left, rgba(236,240,241,0.0001) 0, rgba(236,240,241,0.9) 100%);
+    background-image: linear-gradient(to right, rgba(236,240,241,0.0001) 0, rgba(236,240,241,0.9) 100%);
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00ecf0f1', endColorstr='#80ecf0f1', GradientType=1);
+}

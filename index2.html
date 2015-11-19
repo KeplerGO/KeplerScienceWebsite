@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<!--
+Crafted with ♥ by Geert Barentsen, Thomas Barclay & Knicole colon at NASA Ames
+in August 2015, using pelican-bootstrap and flatly.
+-->
+<html lang="en"
+>
+
+<head>
+    <title>Kepler &amp; K2 Science Center</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--Custom meta data-->
+
+    <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
+    <meta name="dc.format" content="text/html" />
+    <meta name="dc.date.modified" content="2015-11-19" />
+    <meta name="dc.language" content="en" />
+    <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
+    <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
+    <meta name="dc.audience" content="Astronomers, Astrophysicists, Scientists, Researchers" />
+    <meta name="dc.subject.discipline" content="Astrophysics, Astronomy" />
+    <meta name="orgcode" content="SSA">
+    <meta name="rno" content="Thomas.Barclay">
+    <meta name="content-owner" content="Thomas.Barclay">
+    <meta name="webmaster" content="Thomas.Barclay">
+
+
+    <link href="./images/favicon.png" rel="icon">
+
+<link rel="canonical" href=".">
+        <meta name="author" content="Thomas Barclay" />
+
+    <!-- Open Graph tags -->
+        <meta property="og:site_name" content="Kepler &amp; K2" />
+        <meta property="og:type" content="website"/>
+        <meta property="og:title" content="Kepler &amp; K2"/>
+        <meta property="og:url" content="."/>
+        <meta property="og:description" content="Kepler &amp; K2"/>
+
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="./theme/css/bootstrap.flatly.min.css" type="text/css"/>
+    <link href="./theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="./theme/css/exoplanet_archive_icons.css" rel="stylesheet">
+    <link href="./theme/css/mission_icons.css" rel="stylesheet">
+
+    <link href="./theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="./theme/css/style.css" type="text/css"/>
+
+    <link href="./feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Kepler &amp; K2 ATOM Feed"/>
+    <link href="./feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="Kepler &amp; K2 RSS Feed"/>
+
+</head>
+<body>
+
+<!-- Print a warning message that this is not the official site -->
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+
+  <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="./" class="navbar-brand">
+<img src="./images/NASA_logo_vector_lg.png" width="32"/> Kepler &amp; K2            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                        <li><a href="./archives.html">News</a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">The missions <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./objectives.html">Objectives</a></li>
+                                <li><a href="./the-kepler-space-telescope.html">Telescope</a></li>
+                                <li><a href="./science.html">Science</a></li>
+                                <li><a href="./publications.html">Publications</a></li>
+                                <li><a href="./conferences.html">Conferences</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">K2 observing <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./k2-observing.html">Overview</a></li>
+                                <li><a href="./k2-fields.html">Campaign fields</a></li>
+                                <li><a href="./k2-approved-programs.html">Targets & programs</a></li>
+                                <li><a href="./k2-c9.html">Microlensing experiment</a></li>
+                                <li><a href="./k2-proposing-targets.html">Proposal preparation</a></li>
+                                <li><a href="./k2-ddt.html">Discretionary time</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data analysis <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./data-products.html">Data products</a></li>
+                                <li><a href="./pipeline.html">Pipeline</a></li>
+                                <li><a href="./software.html">Software</a></li>
+                                <li><a href="./related-surveys.html">Related surveys</a></li>
+                            </ul>
+                        </li>
+            </ul>
+            
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="./helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
+                </li>
+            </ul>
+            
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<style>
+	#banner{
+	    background-image:url("./images/kepler-k2-banner.jpg");
+	}
+</style>
+
+<div id="banner">
+	<div class="container">
+		<div class="copy">
+			<h1>Kepler &amp; K2</h1>
+				<p class="intro">Science Center</p>
+		</div>
+	</div>
+</div><!-- End Banner -->
+
+
+<div class="container container-wide container-icons">
+<div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <h2>
+            <i class="fa fa-lg fa-margin mission-icon-kepler"></i>
+            <a href="objectives.html">The missions</a>
+          </h2>
+          <p>
+            Kepler &amp; K2 provide long-baseline, high-precision photometry for exoplanet and astrophysics research.
+          </p>
+          <p>
+            <a class="btn btn-primary" href="objectives.html">More &raquo;</a>
+          </p>
+        </div>
+        <div class="col-md-4">
+          <h2>
+            <i class="fa fa-lg fa-margin exoplanet-icon-light-curve-borderless"></i>
+            <a href="k2-observing.html">K2 observing</a>
+          </h2>
+          <p>
+            K2 is a community-driven mission: targets and funding are awarded through open calls for proposals.
+          </p>
+          <p><a class="btn btn-primary" href="k2-observing.html">More &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+          <h2>
+            <i class="fa fa-lg fa-margin exoplanet-icon-planet-multi-borderless"></i>
+            <a href="data-products.html">Data analysis</a>
+          </h2>
+          <p>
+            Pixel data, lightcurves, and analysis software are publicly available with no proprietary period.
+          </p>
+          <p><a class="btn btn-primary" href="data-products.html">More &raquo;</a></p>
+        </div>
+      </div>
+</div>
+</div>
+
+<div class="container">
+
+<div class="row">
+<div class="col-md-8">
+
+<h2 style="padding-bottom:0.3em;">News for scientists</h2>
+            <article>
+                <div><b><a href="./k2-campaign-3-data-release.html">K2 Campaign 3 data release</a></b>
+                </div>
+                <span class="categories-timestamp"><time datetime="2015-07-21T10:00:00-07:00">21 Jul 2015</time></span>  
+                <div class="summary entry-content" style="padding-top: 0.5em; "><p>Campaign 3 target pixel files, light curves, and full frame images are now
+available for download from the
+<a href="https://archive.stsci.edu/k2/">K2 data archive</a>.</p>
+<p>The <a href="http://keplerscience.arc.nasa.gov/K2/GuestInvestigationsC03.shtml">C3 target list</a>
+included 16,375 standard long cadence and 55 standard short cadence targets.
+In addition, custom pixel apertures were collected along the trajectories of
+dwarf planet ...</p>
+                    <a class="btn btn-default btn-xs" href="./k2-campaign-3-data-release.html">More &raquo;</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <div><b><a href="./got-a-hook-the-keplerk2-press-team-would-like-to-hear-from-you.html">Got a hook? The Kepler/K2 press team would like to hear from you.</a></b>
+                </div>
+                <span class="categories-timestamp"><time datetime="2015-07-14T02:00:00-07:00">14 Jul 2015</time></span>  
+                <div class="summary entry-content" style="padding-top: 0.5em; "><p>The K2 mission, the repurposing of the prolific planet-hunting Kepler spacecraft, is an achievement that spans well beyond the NASA team and across the science and engineering communities. The resulting new scientific observation opportunities are a testament to ingenuity and teamwork, and we would like to help bring attention to ...</p>
+                    <a class="btn btn-default btn-xs" href="./got-a-hook-the-keplerk2-press-team-would-like-to-hear-from-you.html">More &raquo;</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <div><b><a href="./anticipated-observing-and-archiving-dates-now-listed-online.html">Anticipated Observing and Archiving Dates Now Listed Online</a></b>
+                </div>
+                <span class="categories-timestamp"><time datetime="2015-07-13T00:00:00-07:00">13 Jul 2015</time></span>  
+                <div class="summary entry-content" style="padding-top: 0.5em; "><p>To assist folks with planning their K2 related activities (follow-up observing, graduate student work, etc.) <a href="http://keplerscience.arc.nasa.gov/K2/Fields.shtml">we have made available the anticipated dates</a> that we will archive pixel level and light curve data at <a href="http://archive.stsci.edu/k2/">the MAST</a> for all K2 campaigns through to C13. These dates are subject to change due of ...</p>
+                    <a class="btn btn-default btn-xs" href="./anticipated-observing-and-archiving-dates-now-listed-online.html">More &raquo;</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <div><b><a href="./campaign-3-data-processing-complete.html">Campaign 3 data processing complete</a></b>
+                </div>
+                <span class="categories-timestamp"><time datetime="2015-07-09T00:00:00-07:00">09 Jul 2015</time></span>  
+                <div class="summary entry-content" style="padding-top: 0.5em; "><p>Data processing for K2 Campaign 3 is now complete
+and the pixel files are in the process of being transferred to the <a href="http://archive.stsci.edu/k2">MAST archive</a>.
+We anticipate that the data will become available to the public by July 15, 2015. This data release will include both pixel level data and project ...</p>
+                    <a class="btn btn-default btn-xs" href="./campaign-3-data-processing-complete.html">More &raquo;</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <div><b><a href="./campaign-6-target-list-available-online.html">Campaign 6 Target list available online</a></b>
+                </div>
+                <span class="categories-timestamp"><time datetime="2015-06-26T09:00:00-07:00">26 Jun 2015</time></span>  
+                <div class="summary entry-content" style="padding-top: 0.5em; "><p>The K2 <a href="http://keplerscience.arc.nasa.gov/K2/GuestInvestigationsC06.shtml">Campaign 6 Target List</a> has now been posted. This target list consists of 28,289 standard long cadence and 84 standard short cadence targets. In addition we have included large pixel masks over 65 Trojan Asteroids. Bodies within our own Solar System move relative to the celestial sphere ...</p>
+                    <a class="btn btn-default btn-xs" href="./campaign-6-target-list-available-online.html">More &raquo;</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <div><b><a href="./save-the-date-for-the-k2-science-conference-november-2-5-2015.html">Save the date for the K2 Science Conference.  November 2-5, 2015</a></b>
+                </div>
+                <span class="categories-timestamp"><time datetime="2015-06-03T06:00:00-07:00">03 Jun 2015</time></span>  
+                <div class="summary entry-content" style="padding-top: 0.5em; "><p>The LCOGT (Las Cumbres Observatory Global Telescope Network) invites the whole astronomical community to celebrate the science from the first year of the NASA K2 mission in Santa Barbara, California. The meeting will take place November 2-5, 2015.</p>
+<p>The organizers encourage K2 users to present early scientific results from all ...</p>
+                    <a class="btn btn-default btn-xs" href="./save-the-date-for-the-k2-science-conference-november-2-5-2015.html">More &raquo;</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <div><b><a href="./campaign-5-target-list-available-online.html">Campaign 5 Target list available online</a></b>
+                </div>
+                <span class="categories-timestamp"><time datetime="2015-06-02T09:00:00-07:00">02 Jun 2015</time></span>  
+                <div class="summary entry-content" style="padding-top: 0.5em; "><p>The K2 <a href="http://keplerscience.arc.nasa.gov/K2/GuestInvestigationsC05.shtml">Campaign 5 Target List</a> has now been posted. The Campaign 5 target list consists of 25,099 standard long cadence and 204 standard short cadence targets. In addition we have included large pixel masks over dwarf planet (126154) 2002 YH140. We also observed the open cluster M67. The ...</p>
+                    <a class="btn btn-default btn-xs" href="./campaign-5-target-list-available-online.html">More &raquo;</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <div><b><a href="./additional-targets-available-in-future-k2-campaigns.html">Additional Targets Available in Future K2 Campaigns</a></b>
+                </div>
+                <span class="categories-timestamp"><time datetime="2015-06-02T05:00:00-07:00">02 Jun 2015</time></span>  
+                <div class="summary entry-content" style="padding-top: 0.5em; "><p>As some of you prepare your K2 Cycle 3 proposal target lists I wanted to alert you to an increase in the number of targets that we can observe with K2. </p>
+<p>Our pointing has been significantly better than our conservative pointing assumptions we used when we built our pixel cost ...</p>
+                    <a class="btn btn-default btn-xs" href="./additional-targets-available-in-future-k2-campaigns.html">More &raquo;</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <div><b><a href="./due-date-for-k2-guest-observer-cycle-3-step-1-proposal-fast-approaching.html">Due date for K2 Guest Observer Cycle 3 Step-1 Proposal Fast Approaching</a></b>
+                </div>
+                <span class="categories-timestamp"><time datetime="2015-05-29T05:00:00-07:00">29 May 2015</time></span>  
+                <div class="summary entry-content" style="padding-top: 0.5em; "><p>The K2 Guest Observer Cycle 3 proposal call is observations of targets in Campaigns 8 and 10. The due date for Step-1 proposals (essentially a compulsory notice of intent) is June 2, 2015 at midnight Eastern Time. Investigators may not submit a Full Proposal (Step-2) without first submitting a Step-1 ...</p>
+                    <a class="btn btn-default btn-xs" href="./due-date-for-k2-guest-observer-cycle-3-step-1-proposal-fast-approaching.html">More &raquo;</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
+                <div><b><a href="./exofop-k2-website-launched.html">ExoFOP-K2 website launched</a></b>
+                </div>
+                <span class="categories-timestamp"><time datetime="2015-05-05T12:00:00-07:00">05 May 2015</time></span>  
+                <div class="summary entry-content" style="padding-top: 0.5em; "><p><a href="https://cfop.ipac.caltech.edu/k2/">ExoFOP-K2</a> is a web site designed to optimize resources and facilitate collaboration in follow-up studies of K2 targets. It serves as a repository for community-gathered follow-up data and is supported by the NASA <a href="http://exoplanetarchive.ipac.caltech.edu/index.html">Exoplanet Archive</a> infrastructure.</p>
+<p>In addition to continuing to support Kepler via the original <a href="https://cfop.ipac.caltech.edu/home/">CFOP website</a>, this new ...</p>
+                    <a class="btn btn-default btn-xs" href="./exofop-k2-website-launched.html">More &raquo;</a>
+                </div>
+            </article>
+            <hr/>
+
+ <a class="btn btn-primary" href="archives.html">News archive &raquo;</a>
+  <!--         <ul class="pagination">
+                <li class="prev"><a href="./index.html">&laquo;</a>
+                </li>
+                    <li class=""><a
+                            href="./index.html">1</a></li>
+                    <li class="active"><a
+                            href="./index2.html">2</a></li>
+                    <li class=""><a
+                            href="./index3.html">3</a></li>
+                <li class="next"><a
+                        href="./index3.html">&raquo;</a></li>
+        </ul>
+ -->
+</div>
+
+
+<!-- SIDEBAR starts here -->
+
+<div class="col-md-4" style="padding-top:1.5em;">
+
+<!-- Special-purpose panel -->
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h4 class="panel-title"><i class="fa fa-group fa-lg"></i><span class="icon-label">K2 Conference</span></h4>
+  </div>
+  <div class="panel-body">
+    <img src="http://lcogt.net/files/media/k2scicon_web_banner.jpg" class='img-responsive'/><br/>
+    <a class="btn btn-default btn-xs" style="color: white;"
+  href="http://lcogt.net/k2scicon/">2-5 Nov 2015: Talks and posters now available &raquo;</a>
+  </div>
+</div>
+
+<!-- Key information panel -->
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h4 class="panel-title"><i class="fa fa-paperclip fa-lg"></i><span class="icon-label">Key information</span></h3>
+  </div>
+  <div class="panel-body entry-content">
+    <ul class="list-group">
+      <li class="list-group-item">
+          <a href="k2-fields.html">
+              K2: Fields &raquo;
+          </a>
+      </li>
+      <li class="list-group-item">
+          <a href="k2-proposing-targets.html">
+              K2: Proposing targets &raquo;
+          </a>
+      </li>
+      <li class="list-group-item">
+          <a href="k2-ddt.html">
+              K2: Discretionary time &raquo;
+          </a>
+      </li>
+      <li class="list-group-item">
+          <a href="data-products.html">
+              Kepler/K2: Data products &raquo;
+          </a>
+      </li>
+      <li class="list-group-item">
+          <a href="publications.html">
+              Kepler/K2: Publications &raquo;
+          </a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<!-- Important dates panel -->
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h4 class="panel-title"><i class="fa fa-calendar fa-lg"></i><span class="icon-label">Important dates</span></h4>
+  </div>
+  <div class="panel-body">
+    <ul class="list-group">
+      <li class="list-group-item">
+          <b>10 Dec 2015</b><br>
+          <a href="k2-ddt.html">
+              K2 Campaign 9 DDT proposals due
+          </a>
+      </li>
+      <li class="list-group-item">
+          <b>01 Jan 2016</b><br>
+          <a href="data-products.html#k2-product-overview">
+              K2 Campaign 6 data release (expected)
+          </a>
+      </li>
+      <li class="list-group-item">
+          <b>5 Feb 2016</b><br>
+          <a href="k2-proposing-targets.html#campaigns-11-12-13">
+              K2 Campaigns 11-13 proposals due (step 1)
+          </a>
+      </li>
+      <li class="list-group-item">
+          <b>10 Mar 2016</b><br>
+          <a href="k2-ddt.html">
+              K2 Campaign 10 DDT proposals due
+          </a>
+      </li>
+      <li class="list-group-item">
+          <b>28 Mar 2016</b><br>
+          <a href="data-products.html#k2-product-overview">
+              K2 Campaign 7 data release (expected)
+          </a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<!-- Upcoming Meetings panel -->
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h4 class="panel-title"><i class="fa fa-group fa-lg"></i><span class="icon-label">Upcoming meetings</span></h4>
+  </div>
+  <div class="panel-body">
+    <ul class="list-group">
+      <li class="list-group-item">
+          <a href="http://www.cvent.com/events/enabling-transiting-exoplanet-science-with-jwst/event-summary-122488a7d40e4953adc6dda02f02a643.aspx">
+              <b>16-18 Nov 2015</b><br>Transiting Exoplanet Science with JWST
+          </a>
+      </li>
+      <li class="list-group-item">
+          <a href="http://ciera.northwestern.edu/Hawaii2015.php">
+              <b>29 Nov - 4 Dec 2015</b><br>Extreme Solar Systems III
+          </a>
+      </li>
+      <li class="list-group-item">
+          <a href="http://astronomy.swin.edu.au/planets/FifthWorkshop2015/">
+              <b>9-10 Dec 2015</b><br>5th Australian Exoplanet Workshop
+          </a>
+      </li>
+      <li class="list-group-item">
+          <a href="http://aas.org/meetings/aas227">
+              <b>4-8 Jan 2015</b><br>K2 workshop @ AAS Meeting
+          </a>
+      </li>
+      <li class="list-group-item">
+          <a href="http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/getMeetings.html?number=4796">
+              <b>11-15 Jul 2016</b><br>KASC Asteroseismology Workshop
+          </a>
+      </li>
+
+      <li class="list-group-item">
+        <a href="conferences.html">View past meetings &raquo;</a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<!-- Twitter panel -->
+<div>
+  <!-- Code provided by Twitter: -->  
+  <a class="twitter-timeline"  href="https://twitter.com/KeplerGO" data-widget-id="660626331810447360">Tweets by @KeplerGO</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+
+</div>
+
+</div>
+
+
+</div>
+
+<div class="container container-wide" style="margin-top: 1.5em;">
+  <footer>
+
+     <div class="container">
+      
+      <!-- Related websites -->  
+      <div class="row">
+        <div class="col-xs-12">
+          <h5><i class="fa fa-external-link"></i><span class="icon-label">Related websites:</span></h5>
+          <a href="http://www.nasa.gov/mission_pages/kepler/main/index.html" target="_blank">
+                  Kepler/K2 News and Media Resources
+              </a>
+          <br/>
+          <a href="http://kepler.arc.nasa.gov" target="_blank">
+                  Kepler/K2 Education Resources
+              </a>
+          <br/>
+          <a href="http://www.ballaerospace.com/page.jsp?page=72" target="_blank">
+                  Kepler/K2 @ Ball Aerospace
+              </a>
+          <br/>
+          <a href="http://archive.stsci.edu/kepler" target="_blank">
+                  Kepler Data Archive @ MAST
+              </a>
+          <br/>
+          <a href="http://archive.stsci.edu/k2" target="_blank">
+                  K2 Data Archive @ MAST
+              </a>
+          <br/>
+          <a href="http://exoplanetarchive.ipac.caltech.edu" target="_blank">
+                  NASA Exoplanet Archive @ IPAC
+              </a>
+          <br/>
+        </div>
+      </div>
+
+      <!-- NASA logo and notices -->
+      <div class="row" style="margin-top:2em;">
+         <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
+         Last modified: Fri 06 November 2015
+            &middot; Editor: Thomas Barclay &middot; NASA Official: Jessie Dotson 
+            &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
+         <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+    </div>
+
+  </footer>
+</div>
+<script src="./theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="./theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="./theme/js/respond.min.js"></script>
+
+    <script src="./theme/js/bodypadding.js"></script>
+<!-- Analytics scripts -->
+<script language="javascript" id="_fed_an_ua_tag" src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA"></script>
+<script language="javascript" id="_fed_an_ua_tag" src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA&subagency=ARC&dclink=true"></script>
+
+
+</body>
+</html>
