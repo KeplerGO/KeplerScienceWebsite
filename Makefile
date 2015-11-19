@@ -5,27 +5,18 @@ PELICANOPTS=
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
-CONFFILE=$(BASEDIR)/pelicanconf.py
-PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-FTP_HOST=localhost
-FTP_USER=anonymous
-FTP_TARGET_DIR=/
+CONFFILE=$(BASEDIR)/pelicanconf.py
+DEVCONF=$(BASEDIR)/pelicanconf-dev.py
+LIVECONF=$(BASEDIR)/pelicanconf-live.py
 
 SSH_HOST=localhost
 SSH_PORT=22
 SSH_USER=root
 SSH_TARGET_DIR=/var/www
 
-S3_BUCKET=my_s3_bucket
-
-CLOUDFILES_USERNAME=my_rackspace_username
-CLOUDFILES_API_KEY=my_rackspace_api_key
-CLOUDFILES_CONTAINER=my_cloudfiles_container
-
-DROPBOX_DIR=~/Dropbox/Public/
-
 GITHUB_PAGES_BRANCH=gh-pages
+GITHUB_LIVE_BRANCH=live
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
@@ -36,26 +27,30 @@ help:
 	@echo 'Makefile for a pelican Web site                                        '
 	@echo '                                                                       '
 	@echo 'Usage:                                                                 '
-	@echo '   make html                        (re)generate the web site          '
+	@echo '   make html                        generate for local use             '
+	@echo '   make html-dev                    generate for github.io dev server  '
+	@echo '   make html-live                   generate for production web server '
 	@echo '   make clean                       remove the generated files         '
 	@echo '   make regenerate                  regenerate files upon modification '
-	@echo '   make publish                     generate using production settings '
 	@echo '   make serve [PORT=8000]           serve site at http://localhost:8000'
 	@echo '   make devserver [PORT=8000]       start/restart develop_server.sh    '
 	@echo '   make stopserver                  stop local server                  '
 	@echo '   make ssh_upload                  upload the web site via SSH        '
 	@echo '   make rsync_upload                upload the web site via rsync+ssh  '
-	@echo '   make dropbox_upload              upload the web site via Dropbox    '
-	@echo '   make ftp_upload                  upload the web site via FTP        '
-	@echo '   make s3_upload                   upload the web site via S3         '
-	@echo '   make cf_upload                   upload the web site via Cloud Files'
 	@echo '   make github                      upload the web site via gh-pages   '
+	@echo '   make kpub                        update the publication stats (requires kpub)'
 	@echo '                                                                       '
-	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html'
+	@echo 'Set DEBUG to 1 to enable Pelican debugging, e.g. make DEBUG=1 html     '
 	@echo '                                                                       '
 
 html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
+
+html-dev:
+	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(DEVCONF) $(PELICANOPTS)
+
+html-live:
+	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(LIVECONF) $(PELICANOPTS)
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
@@ -82,35 +77,24 @@ stopserver:
 	kill -9 `cat srv.pid`
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
-publish:
-	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
-
-ssh_upload: publish
+ssh_upload: html-live
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
-rsync_upload: publish
+rsync_upload: html-live
 	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
 
-dropbox_upload: publish
-	cp -r $(OUTPUTDIR)/* $(DROPBOX_DIR)
-
-ftp_upload: publish
-	lftp ftp://$(FTP_USER)@$(FTP_HOST) -e "mirror -R $(OUTPUTDIR) $(FTP_TARGET_DIR) ; quit"
-
-s3_upload: publish
-	s3cmd sync $(OUTPUTDIR)/ s3://$(S3_BUCKET) --acl-public --delete-removed --guess-mime-type
-
-cf_upload: publish
-	cd $(OUTPUTDIR) && swift -v -A https://auth.api.rackspacecloud.com/v1.0 -U $(CLOUDFILES_USERNAME) -K $(CLOUDFILES_API_KEY) upload -c $(CLOUDFILES_CONTAINER) .
-
-github: publish
-	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
+github: html-dev
+	ghp-import -m "Generate dev site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH)
 
-.PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
+live: html-live
+	ghp-import -m "Generate live site" -b $(GITHUB_LIVE_BRANCH) $(OUTPUTDIR)
+	git push origin $(GITHUB_LIVE_BRANCH)
 
 kpub:
 	cd content/pages/kpub; \
 	kpub --save
 	cd content/images/kpub; \
 	kpub-plot
+
+.PHONY: html html-dev html-live help clean regenerate serve devserver ssh_upload rsync_upload github live kpub
