@@ -10,7 +10,7 @@ In Campaign 5, 25,850 long cadence and 204 short cadence targets were observed.
 We additionally collected large pixel masks over dwarf planet 
 (126154) 2001 YH140. 
 We also observed the open cluster M67. 
-The cluster was tiled with 73 individual apertures to create 
+The cluster was tiled with 72 individual apertures to create 
 a contiguous 400x400 pixel region over two channels.
 
 Detailed [data release notes for Campaign 5](k2-data-release-notes.html#k2-campaign-5) are available.
