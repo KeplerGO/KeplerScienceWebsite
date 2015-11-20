@@ -57,7 +57,8 @@ STATIC_PATHS = (['images', 'data'])
 PAGE_EXCLUDES = ['pages/k2-observing/approved-programs']
 
 # The fancy table of contents sidebar requires a plugin
-PLUGIN_PATHS = [os.path.join(os.path.dirname(os.path.realpath(__file__)), "plugins")]
+PLUGIN_PATHS = [os.path.join(os.path.dirname(os.path.realpath(__file__)),
+                             "plugins")]
 PLUGINS = ['extract_toc']
 
 # Defines the menu items in the top bar
@@ -70,23 +71,23 @@ MENUITEMS = (
             ('Publications', 'publications.html'),
             ('Conferences', 'conferences.html'),
             )
-        ),
+         ),
         ('K2 observing', (
             ('Overview', 'k2-observing.html'),
             ('Campaign fields', 'k2-fields.html'),
-            ('Targets & programs', 'k2-approved-programs.html'),
+            ('Targets &amp; programs', 'k2-approved-programs.html'),
             ('Microlensing experiment', 'k2-c9.html'),
             ('Proposal preparation', 'k2-proposing-targets.html'),
-            ('Discretionary time','k2-ddt.html'),
+            ('Discretionary time', 'k2-ddt.html'),
             )
-        ),
+         ),
         ('Data analysis', (
             ('Data products', 'data-products.html'),
             ('Pipeline', 'pipeline.html'),
             ('Software', 'software.html'),
             ('Related surveys', 'related-surveys.html'),
             )
-        ),
+         ),
         )
 
 # Defines the "key information" box on the front page
