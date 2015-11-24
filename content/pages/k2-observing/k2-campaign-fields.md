@@ -7,7 +7,7 @@ Each K2 Campaign has a duration of approximately 80 days
 and remains fixed upon a single boresight position. 
 This page details the previous, current, and future K2 Campaign fields.
 
-## Campaign dates & positions
+## Campaigns overview
 
 ### Observed and planned
 
@@ -71,7 +71,7 @@ This page details the previous, current, and future K2 Campaign fields.
     </tr>
 
     <tr>
-      <td><a href="#2">2</a></td>
+      <td><a href="#c2">2</a></td>
       <td>2014 Aug 23</td>
       <td>2014 Nov 13</td>
       <td>2015 Mar 16</td>
@@ -435,7 +435,7 @@ during the campaign.
 </div>
 
 
-### Footprint files
+### CSV/JSON files
 
 To enable the community to create custom field visualisations,
 the coordinates in the footprint plots shown above
@@ -446,14 +446,15 @@ The JSON files also provide galactic coordinates.
 
 Campaigns 0 through 13:
 
-* [k2-footprint.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-footprint.json)
-* [k2-footprint.csv](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-footprint.csv)
+* [k2-footprint.json](https://github.com/KeplerGO/K2FootprintFiles/raw/master/k2-footprint.json)
+* [k2-footprint.csv](https://github.com/KeplerGO/K2FootprintFiles/raw/master/k2-footprint.csv)
 
 Campaigns 14 through 17:
 
-* [k2-footprint-proposed.json](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-footprint-proposed.json) **(preliminary!)**
-* [k2-footprint-proposed.csv](https://raw.githubusercontent.com/KeplerGO/K2metadata/master/json-footprint-files/k2-footprint-proposed.csv) **(preliminary!)**
+* [k2-footprint-proposed.json](https://github.com/KeplerGO/K2FootprintFiles/raw/master/k2-footprint-proposed.json) **(preliminary!)**
+* [k2-footprint-proposed.csv](https://github.com/KeplerGO/K2FootprintFiles/raw/master/k2-footprint-proposed.csv) **(preliminary!)**
 
+<br/>
 ***Usage of the JSON files***
 
 Files in the JSON format can easily be read into a Python script using the
@@ -476,6 +477,17 @@ can be visualised as follows:
 Beware however that a plot obtained in this way approximates channel edges
 as straight lines in the 2D-projected sky.
 
+
+### MOC files
+
+In addition to the JSON and CSV files described above,
+we also offer sky coverage information in the MOC data format.
+MOC is a HealPix-based VO standard which can be opened using the
+[Aladin interactive sky atlas](http://aladin.u-strasbg.fr),
+where it can be used to query remote databases given a K2 footprint.
+
+The MOC files, one for each Campaign, can be downloaded from
+[a GitHub repository](https://github.com/KeplerGO/K2FootprintFiles/tree/master/moc-files).
 
 ### K2fov software
 
