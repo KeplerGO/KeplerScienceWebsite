@@ -29,9 +29,16 @@ of detected microlensing events.&lt;/p&gt;
 the community at large), the Guest Observer Office is offering a small number of pixels for approved Director's Discretionary Target (DDT) programs.
 &lt;a href="http://keplerscience.arc.nasa.gov/k2-ddt.html"&gt;The call for DDT proposals can be found here&lt;/a&gt;.   &lt;font
 color=red&gt;The deadline for DDT proposals for Campaign 9 is December
-10, 2015.&lt;/font&gt;&lt;/p&gt;</summary></entry><entry><title>K2 Campaign 5 Data Release</title><link href="http://keplerscience.arc.nasa.gov/k2-campaign-5-data-release.html" rel="alternate"></link><updated>2015-11-02T12:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2015-11-02:k2-campaign-5-data-release.html</id><summary type="html">&lt;p&gt;Target pixel files, light curves, and full frame images for &lt;a href="k2-approved-programs.html#campaign-5"&gt;Campaign 5&lt;/a&gt; are now available for download from the &lt;a href="https://archive.stsci.edu/k2/"&gt;K2 data archive at MAST&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;In Campaign 5, 25,099 long cadence and 204 short cadence targets were observed.  We additionally collected large pixel masks over dwarf planet (126154) 2002 YH140. We also observed the open cluster M67. The cluster was tiled with 73 individual apertures to create a contiguous 400x400 pixel region over two channels.&lt;/p&gt;
-&lt;p&gt;Detailed data release notes for Campaign 5 are expected to be available soon.&lt;/p&gt;</summary></entry><entry><title>New Kepler/K2 Science Center Website Launched</title><link href="http://keplerscience.arc.nasa.gov/new-keplerk2-science-center-website-launched.html" rel="alternate"></link><updated>2015-11-01T12:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2015-11-01:new-keplerk2-science-center-website-launched.html</id><summary type="html">&lt;p&gt;The Kepler/K2 Science Center has launched a new website.
+10, 2015.&lt;/font&gt;&lt;/p&gt;</summary></entry><entry><title>K2 Campaign 5 Data Release</title><link href="http://keplerscience.arc.nasa.gov/k2-campaign-5-data-release.html" rel="alternate"></link><updated>2015-11-02T12:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2015-11-02:k2-campaign-5-data-release.html</id><summary type="html">&lt;p&gt;Target pixel files, light curves, and full frame images for 
+&lt;a href="k2-approved-programs.html#campaign-5"&gt;Campaign 5&lt;/a&gt; are now available
+for download from the &lt;a href="https://archive.stsci.edu/k2/"&gt;K2 data archive at MAST&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In Campaign 5, 25,850 long cadence and 204 short cadence targets were observed.
+We additionally collected large pixel masks over dwarf planet 
+(126154) 2001 YH140. 
+We also observed the open cluster M67. 
+The cluster was tiled with 72 individual apertures to create 
+a contiguous 400x400 pixel region over two channels.&lt;/p&gt;
+&lt;p&gt;Detailed &lt;a href="k2-data-release-notes.html#k2-campaign-5"&gt;data release notes for Campaign 5&lt;/a&gt; are available.&lt;/p&gt;</summary></entry><entry><title>New Kepler/K2 Science Center Website Launched</title><link href="http://keplerscience.arc.nasa.gov/new-keplerk2-science-center-website-launched.html" rel="alternate"></link><updated>2015-11-01T12:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2015-11-01:new-keplerk2-science-center-website-launched.html</id><summary type="html">&lt;p&gt;The Kepler/K2 Science Center has launched a new website.
 The reorganized pages, which you are looking at right now,
 provide resources for scientists interested in using data from the missions.&lt;/p&gt;
 &lt;p&gt;New features of the website include:&lt;/p&gt;
