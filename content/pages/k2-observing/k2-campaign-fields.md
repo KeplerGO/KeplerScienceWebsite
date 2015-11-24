@@ -446,13 +446,13 @@ The JSON files also provide galactic coordinates.
 
 Campaigns 0 through 13:
 
-* [k2-footprint.json](https://github.com/KeplerGO/K2FootprintFiles/raw/master/k2-footprint.json)
-* [k2-footprint.csv](https://github.com/KeplerGO/K2FootprintFiles/raw/master/k2-footprint.csv)
+* [k2-footprint.json](https://github.com/KeplerGO/K2FootprintFiles/raw/master/json/k2-footprint.json)
+* [k2-footprint.csv](https://github.com/KeplerGO/K2FootprintFiles/raw/master/csv/k2-footprint.csv)
 
 Campaigns 14 through 17:
 
-* [k2-footprint-proposed.json](https://github.com/KeplerGO/K2FootprintFiles/raw/master/k2-footprint-proposed.json) **(preliminary!)**
-* [k2-footprint-proposed.csv](https://github.com/KeplerGO/K2FootprintFiles/raw/master/k2-footprint-proposed.csv) **(preliminary!)**
+* [k2-footprint-proposed.json](https://github.com/KeplerGO/K2FootprintFiles/raw/master/json/k2-footprint-proposed.json) **(preliminary!)**
+* [k2-footprint-proposed.csv](https://github.com/KeplerGO/K2FootprintFiles/raw/master/csv/k2-footprint-proposed.csv) **(preliminary!)**
 
 <br/>
 ***Usage of the JSON files***
@@ -487,7 +487,7 @@ MOC is a HealPix-based VO standard which can be opened using the
 where it can be used to query remote databases given a K2 footprint.
 
 The MOC files, one for each Campaign, can be downloaded from
-[a GitHub repository](https://github.com/KeplerGO/K2FootprintFiles/tree/master/moc-files).
+[a GitHub repository](https://github.com/KeplerGO/K2FootprintFiles/tree/master/moc).
 
 ### K2fov software
 
