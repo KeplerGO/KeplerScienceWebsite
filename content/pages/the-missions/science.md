@@ -23,7 +23,7 @@ programs can be found on the following pages.
 * [Overview of the K2 mission](k2-observing.html)
 * [Publications using K2 data](kpub-k2.html)
 * [K2 Campaign fields](k2-fields.html)
-* [K2 technical information](k2-photometric-performance.html)
+* [K2 technical information](k2-observing.html#fine-point-photometric-precision)
 * [K2 approved targets and programs](k2-approved-programs.html)
 * [K2 Campaign 9 microlensing experiment](k2-c9.html)
 
