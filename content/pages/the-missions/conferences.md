@@ -1,27 +1,21 @@
 Title: Kepler & K2 meetings and conferences
 Save_as: conferences.html
 
-## Upcoming meetings
+## Past meetings
 
-<table class="table table-striped table-hover" style="max-width:40em;">
+<table class="table table-striped table-hover" style="max-width:50em;">
 
   <tr>
     <td style="width: 7em;">Nov 2015</td>
     <td style="width: 20em;">K2 Science Conference</td>
-    <td><a href="http://lcogt.net/k2scicon/">website</a></td>
+    <td><a href="http://lcogt.net/k2scicon/">website</a>, <a href="http://lcogt.net/k2scicon-talks/">slides</a>, <a href="https://twitter.com/search?q=%23K2SciCon">#K2SciCon tweets</a></td>
   </tr>
-	
-</table>
-
-
-## Past meetings
-
-<table class="table table-striped table-hover" style="max-width:40em;">
 
   <tr>
     <td style="width: 7em;">Oct 2015</td>
     <td style="width: 20em;">Kepler Exoplanet Populations Hack Week</td>
-    <td><a href="http://keplerscience.arc.nasa.gov/KeplerHackWeek/">website</a></td>
+    <td><a href="http://keplerscience.arc.nasa.gov/KeplerHackWeek/">website</a>, <a href="https://twitter.com/search?q=%23KeplerHack">#KeplerHack tweets</a>
+    </td>
 	</tr>
 	
   <tr>
@@ -50,3 +44,9 @@ Save_as: conferences.html
   </tr>
 
 </table>
+
+
+## Upcoming meetings
+
+A future Kepler/K2 Science Conference is being planned. Stay tuned!
+

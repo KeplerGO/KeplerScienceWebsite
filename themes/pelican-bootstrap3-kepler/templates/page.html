@@ -46,7 +46,7 @@
 
 {% block content %}
     {% if page.toc is defined %}
-    <div class="col-sm-9">
+    <div class="col-sm-9" data-spy="scroll" data-target="#sidebarCol">
     {% else %}
     <div class="col-sm-12">
     {% endif %}
@@ -87,6 +87,14 @@
               target: '#sidebarCol',
               offset: 100
           });
+
+          // Fix for issue #32:
+          function refreshScrollspy() {
+                $('[data-spy="scroll"]').each(function() {
+                    $(this).scrollspy('refresh');
+                });
+          }
+          $("img").bind('load', refreshScrollspy);
         </script>
     {% endif %}
 {% endblock %}

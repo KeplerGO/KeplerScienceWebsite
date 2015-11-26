@@ -4,16 +4,13 @@ from __future__ import unicode_literals
 import os
 import datetime
 
-DEVMODE = False  # Shows a red warning message at the top
+# If `DEVMODE = True`, show a red warning banner at the top
+DEVMODE = False   # pelicanconf-dev.py will override this
 
-if DEVMODE:
-    ANALYTICS = ()
-else:
-    ANALYTICS = ("""<script language="javascript" id="_fed_an_ua_tag" src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA"></script>""",
-                 """<script language="javascript" id="_fed_an_ua_tag" src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA&subagency=ARC&dclink=true"></script>""")
+CACHE_CONTENT = True
 
-# Temporary setting while playing with config:
-LOAD_CONTENT_CACHE = False
+ANALYTICS = ()   # pelicanconf-live.py will override this
+
 
 AUTHOR = u'Thomas Barclay'
 SITENAME = "Kepler &amp; K2"
@@ -53,17 +50,18 @@ HIDE_SIDEBAR = True
 MD_EXTENSIONS = (['toc'])
 
 # Which static data dirs should be uploaded as part of the website?
-STATIC_PATHS = ['images', 'data']
-
-# Directories that contain html files we want to exclude
-# (because they are sub-pages included through rst includes)
-PAGE_EXCLUDES = ['pages/k2-observing/approved-programs']
-
-PLUGIN_PATHS = [os.path.join(os.path.dirname(os.path.realpath(__file__)), "plugins")]
-PLUGINS = ['extract_toc']
-
 STATIC_PATHS = (['images', 'data'])
 
+# Directories that contain html files we want to exclude
+# because they are sub-pages included through rst includes
+PAGE_EXCLUDES = ['pages/k2-observing/approved-programs']
+
+# The fancy table of contents sidebar requires a plugin
+PLUGIN_PATHS = [os.path.join(os.path.dirname(os.path.realpath(__file__)),
+                             "plugins")]
+PLUGINS = ['extract_toc']
+
+# Defines the menu items in the top bar
 MENUITEMS = (
         ('News', 'archives.html'),
         ('The missions', (
@@ -73,25 +71,26 @@ MENUITEMS = (
             ('Publications', 'publications.html'),
             ('Conferences', 'conferences.html'),
             )
-        ),
+         ),
         ('K2 observing', (
             ('Overview', 'k2-observing.html'),
             ('Campaign fields', 'k2-fields.html'),
-            ('Targets & programs', 'k2-approved-programs.html'),
+            ('Targets &amp; programs', 'k2-approved-programs.html'),
             ('Microlensing experiment', 'k2-c9.html'),
             ('Proposal preparation', 'k2-proposing-targets.html'),
-            ('Discretionary time','k2-ddt.html'),
+            ('Discretionary time', 'k2-ddt.html'),
             )
-        ),
+         ),
         ('Data analysis', (
             ('Data products', 'data-products.html'),
             ('Pipeline', 'pipeline.html'),
             ('Software', 'software.html'),
             ('Related surveys', 'related-surveys.html'),
             )
-        ),
+         ),
         )
 
+# Defines the "key information" box on the front page
 KEY_INFORMATION = (
             ('K2: Fields', 'k2-fields.html'),
             ('K2: Proposing targets', 'k2-proposing-targets.html'),
@@ -100,50 +99,42 @@ KEY_INFORMATION = (
             ('Kepler/K2: Publications', 'publications.html'),
             )
 
+# Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
             ('<b>10 Dec 2015</b>',
-             'K2 DDT proposals due for Campaign 9',
+             'K2 Campaign 9 DDT proposals due',
              'k2-ddt.html'),
             ('<b>01 Jan 2016</b>',
              'K2 Campaign 6 data release (expected)',
              'data-products.html#k2-product-overview'),
-            ('<b>Feb 2016</b>',
-             'K2 Campaigns 11-13 proposal deadline',
+            ('<b>5 Feb 2016</b>',
+             'K2 Campaigns 11-13 proposals due (step 1)',
              'k2-proposing-targets.html#campaigns-11-12-13'),
             ('<b>10 Mar 2016</b>',
-             'K2 DDT proposals due for Campaign 10',
+             'K2 Campaign 10 DDT proposals due',
              'k2-ddt.html'),
             ('<b>28 Mar 2016</b>',
              'K2 Campaign 7 data release (expected)',
              'data-products.html#k2-product-overview'),
          )
 
+# Defines the "meetings" box on the front page
 MEETINGS = (
-            ('<b>2-5 Nov 2015</b><br>'
-             'K2 Science Conference',
-             'http://lcogt.net/k2scicon/'),
-            ('<b>10 Nov 2015</b><br>'
-             'K2 Workshop at the DPS',
-             'special-k2-workshop-at-the-dps-on-10-november-2015.html'),
-             ('<b>16-18 Nov 2015</b><br>'
-             'Transiting Exoplanet Science with JWST',
-             'http://www.cvent.com/events/enabling-transiting-exoplanet-science-with-jwst/event-summary-122488a7d40e4953adc6dda02f02a643.aspx'),
             ('<b>29 Nov - 4 Dec 2015</b><br>'
              'Extreme Solar Systems III',
              'http://ciera.northwestern.edu/Hawaii2015.php'),
             ('<b>9-10 Dec 2015</b><br>'
              '5th Australian Exoplanet Workshop',
              'http://astronomy.swin.edu.au/planets/FifthWorkshop2015/'),
-            ('<b>4-8 Jan 2015</b><br>'
-             '227th AAS meeting',
-             'http://aas.org/meetings/aas227')
+            ('<b>5 Jan 2015</b><br>'
+             'K2 workshop @ AAS Meeting',
+             'http://aas.org/meetings/aas227'),
+            ('<b>11-15 Jul 2016</b><br>'
+             'KASC Asteroseismology Workshop',
+             'http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/getMeetings.html?number=4796')
             )
-"""
-('<b>11-15 Jul 2016</b><br>'
- 'KASC Asteroseismology Workshop',
- 'http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/getMeetings.html?number=4796'),
-"""
 
+# Defines the "related websites" listing in the footer of all pages
 RELATEDSITES = (
             ("Kepler/K2 News and Media Resources",
              'http://www.nasa.gov/mission_pages/kepler/main/index.html'),
@@ -162,7 +153,6 @@ RELATEDSITES = (
 SHOW_ARTICLE_AUTHOR = True
 DEFAULT_PAGINATION = 10
 
-# Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
 DISPLAY_PAGES_ON_MENU = False
