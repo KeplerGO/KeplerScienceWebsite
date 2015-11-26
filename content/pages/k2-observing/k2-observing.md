@@ -28,7 +28,7 @@ approaching the quality achieved for the Kepler mission.
 
 ### Capabilities
 
-Science observations are taken at one of two timing settings: long (30-min) or short (1-min) cadence. When in fine-point observing, [K2 is capable of achieving a benchmark photometric precision](k2-photometric-performance.html#fine-point-photometric-precision) on an m<sub>V</sub> = 12 G2V star of better than 170 parts-per-million (ppm) in 30 minutes of integration, i.e., one long cadence exposure. 
+Science observations are taken at one of two timing settings: long (30-min) or short (1-min) cadence. When in fine-point observing, [K2 is capable of achieving a benchmark photometric precision](k2-observing.html#fine-point-photometric-precision) on an m<sub>V</sub> = 12 G2V star of better than 170 parts-per-million (ppm) in 30 minutes of integration, i.e., one long cadence exposure. 
 This corresponds to ~30 ppm over a 6.5-hour transit 
 of an Earth-sized body around that star.
 
@@ -68,7 +68,7 @@ during each 372-day orbit of the spacecraft.
 K2 is a community-driven mission. All K2 targets are proposed by the community through the
 [Guest Observer program](k2-proposing-targets.html). The K2 mission
 welcomes all proposals including, but not exclusive to, exoplanet,
-stellar, extragalactic and solar system science.  Since K2 offers a photometric precision [approaching that of the original Kepler mission](k2-photometric-performance.html), a variety of scientific goals can be readily
+stellar, extragalactic and solar system science.  Since K2 offers a photometric precision [approaching that of the original Kepler mission](k2-observing.html#fine-point-photometric-precision), a variety of scientific goals can be readily
 achieved with K2's continuous, high-precision photometry of fields
 that span different parts of the galaxy (as illustrated in the image
 below).
