@@ -126,7 +126,7 @@ MEETINGS = (
             ('<b>9-10 Dec 2015</b><br>'
              '5th Australian Exoplanet Workshop',
              'http://astronomy.swin.edu.au/planets/FifthWorkshop2015/'),
-            ('<b>5 Jan 2015</b><br>'
+            ('<b>5 Jan 2015 @ 7:30pm</b><br>'
              'K2 workshop @ AAS Meeting',
              'http://aas.org/meetings/aas227'),
             ('<b>11-15 Jul 2016</b><br>'
