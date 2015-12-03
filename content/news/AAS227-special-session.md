@@ -24,7 +24,7 @@ The schedule is as follows:
  - K2 Clusters & young stars (10 min) - <i>Ann Marie Cody, NASA Ames</i>
  - K2 Asteroseismology (10 min) - <i>Ruth Angus, Oxford</i>
  - K2 Observations of AGN and Supernovae (10 min) - <i>Peter Garnavich, Notre Dame</i>
- - K2 Microlens Experiment (10 min) <i>Rachel Street, LCOGT</i>
+ - K2 Microlens Experiment (10 min) - <i>Rachel Street, LCOGT</i>
  - Q&A
 
-(PS: Will there be free beverages and snacks? Come to the session to find out!)
+(PS: Will there be beverages and snacks? Come to the session to find out!)
