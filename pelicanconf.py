@@ -126,9 +126,9 @@ MEETINGS = (
             ('<b>9-10 Dec 2015</b><br>'
              '5th Australian Exoplanet Workshop',
              'http://astronomy.swin.edu.au/planets/FifthWorkshop2015/'),
-            ('<b>5 Jan 2015 @ 7:30pm</b><br>'
-             'K2 workshop @ AAS Meeting',
-             'http://aas.org/meetings/aas227'),
+            ('<b>5 Jan 2015</b><br>'
+             'K2 Special Session at #AAS227',
+             'http://keplerscience.arc.nasa.gov/k2-special-session-at-aas227-on-5-jan-2016.html'),
             ('<b>11-15 Jul 2016</b><br>'
              'KASC Asteroseismology Workshop',
              'http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/getMeetings.html?number=4796')

@@ -48,5 +48,16 @@ Save_as: conferences.html
 
 ## Upcoming meetings
 
+
+<table class="table table-striped table-hover" style="max-width:50em;">
+
+  <tr>
+    <td style="width: 7em;">5 Jan 2016</td>
+    <td style="width: 20em;">K2 Special Session at #AAS27</td>
+    <td><a href="http://keplerscience.arc.nasa.gov/k2-special-session-at-aas227-on-5-jan-2016.html">schedule</a></td>
+  </tr>
+
+</table>
+
 A future Kepler/K2 Science Conference is being planned. Stay tuned!
 
