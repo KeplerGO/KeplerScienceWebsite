@@ -75,7 +75,7 @@ with a budget capped at $50,000.
  * Large proposals—proposals requesting 1000 or more targets, 
 with a budget capped at $150,000. 
 Large proposals must also include the development and dissemination 
-of a value-added community resource product.
+of a value-added community resource product that the proposal will provide at the end of the period of performance of the grant and how that product will be made available to the community.
 
 Funding for selected programs typically starts upon availability 
 of Campaign data to the public archive 
@@ -141,12 +141,111 @@ All proposals for targets are required to include a target table
 in a pre-defined format to specify desired observing modes 
 and other needed parameters. 
 
-A definition of each column and a template for insertion into the proposal 
-can be [downloaded from the Kepler Science Center website](http://keplerscience.arc.nasa.gov/K2/ProposalPreparationTargetTable.shtml). 
+The target tables generally provide all the information required by the Kepler Science Center to incorporate GO sources within the observing list. Table fields are described below with an example. If a proposal includes targets within multiple campaign fields, then a separate target table should be prepared for each field.
+
+An example of a valid target table is shown in the image below. <a
+href="data/K2/K2-2-propnum-PI.xls">The corresponding .xls file can be downloaded here.</a>
+
+<a href="images/template-target-table.png"><img
+src="images/template-target-table.png" class="img-responsive"
+alt="Template Target Table"></a>
+
+A definition of each column is included in the below table.
+
+<table class="table table-striped table-hover" style="max-width:70em;">
+  <thead>
+    <tr>
+      <th>Attribute</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+
+<tdata>
+
+<tr>
+    <td style="min-width: 10em;">Object </td>
+    <td>The Ecliptic Plane Input Catalog (EPIC) ID number. This
+    attribute can be determined by using the <a
+href="http://archive.stsci.edu/k2/epic/search.php">K2 EPIC Target
+    Search</a> page. The EPIC ID is coupled to celestial coordinates and magnitudes. If the proposed target does not have an EPIC ID number please use a unique identifier, common or catalog name for this source, and supply the J2000 celestial coordinates in the Right Ascension and Declination columns of your target table.</td>
+</tr>
+
+<tr>
+    <td>Right Ascension </td>
+    <td>Right Ascension (J2000) of the center of the desired aperture. Celestial coordinates are only required if the target is not listed in the <a
+href="http://archive.stsci.edu/k2/epic/search.php">K2 EPIC Target
+    Search</a> page. Adhere to decimal degree format. </td>
+</tr>
+
+<tr>
+    <td>Declination </td>
+    <td>Declination (J2000) of the center of the desired aperture. Celestial coordinates are only required if the target is not listed in the <a
+href="http://archive.stsci.edu/k2/epic/search.php">K2 EPIC Target
+    Search</a> page. Adhere to decimal degree format. </td>
+	</tr>
+
+<tr>
+    <td>Kp </td>
+    <td>The apparent magnitude of the target in the Kepler bandpass. The combination of celestial coordinates and magnitude are the primary data required by the Kepler Science Center to calculate target pixel masks. The Kepler magnitude for most sources can be obtained from the <a
+href="http://archive.stsci.edu/k2/epic/search.php">K2 EPIC Target
+    Search</a> page. If no Kepler bandpass magnitude is provided in the EPIC, <a
+href="http://keplerscience.arc.nasa.gov/the-kepler-space-telescope.html#flux-calibration">it
+    can be estimated</a>. If the magnitude entered here is brighter than the EPIC magnitude, then the user-supplied magnitude will be adopted. For highly-variable stars, list the brightest predicted magnitude.
+ </td>
+</tr>
+
+<tr>
+    <td>Cadence Mode </td>
+    <td>The observing mode requested. Long cadence (30-minute) mode or Short cadence (1-minute) mode. </td>
+	</tr>
+
+<tr>
+    <td>&delta;RA </td>
+    <td>Proper motion of the target in units of arcsec per year. This information is optional and should only be provided if the proposer disagrees with the proper motion provided in the EPIC. </td>
+	</tr>
+
+<tr>
+    <td>&delta;Dec </td>
+    <td>Proper motion of the target in units of arcsec per year. This information is optional and should only be provided if the proposer disagrees with the proper motion provided in the EPIC. </td>
+</tr>
+
+<tr>
+    <td>Extent </td>
+    <td>The radius of the semi-major axis of an extended target such as a galaxy. To reiterate, this is the radius, NOT the diameter i.e. the furthest distance that structure extends from the target coordinates provided. This column should be ignored if all targets are point sources. </td>
+	</tr>
+
+<tr>
+    <td>Comments </td>
+    <td>If a target is non-standard, provide a brief description of non-standard table entries including: (a) user-supplied magnitude; (b) user-supplied coordinates; (c) extended sources; (d) the amplitude of highly variable stars, (e) high proper motion stars; (f) custom mask requests. Comments should be expanded upon within the text of the science justification of the proposal. </td>
+	</tr>
+	
+</tdata>
+</table>
+
+A blank template target table for insertion into the proposal 
+can be [downloaded here](data/K2/K2-Cnn-propnum-PINAME.xls). 
 
 In addition to appearing as text within the proposal, 
 this table must also be submitted electronically to the Kepler Science Center. 
 
+Each campaign target table must appear in two places:
+
+1.  Embedded within the body of your uploaded proposal package to NSPIRES.
+2.  As a separate electronic file submitted directly to the Kepler Guest Observer Office.
+
+Instructions on how to provide both versions of the table are detailed below: 
+
+1.  Download the template file written in Microsoft Excel format: <a
+href="data/K2/K2-Cnn-propnum-PINAME.xls">K2-Cnn-propnum-PINAME.xls</a>
+2.  Populate the table using either Microsoft Excel or the freeware [OpenOffice](http://www.openoffice.org/) package. Insert additional table rows if needed, one per proposed target.
+3.  Copy / paste or encapsulate the table into the submission package between the science justification / technical management section and the PI's biography.
+4.  Rename the Excel spreadsheet according the format
+    K2-Ccampaign-no-propid-PIname.xls, where propid is the proposal ID
+    number assigned to the proposal by NSPIRES at the time of
+    submission and PIname is the surname of the PI. A separate target
+    table should be created for each campaign.  An example would be K2-C04-0097-SMITH.xls
+5.  Attach the renamed spreadsheet to an email and send it to the GO
+    Office at **keplergo@mail.arc.nasa.gov** before the proposal deadline.
 
 ## Solicitations
 
@@ -156,7 +255,7 @@ and 13</a>, has been released and
 are requesting the community propose targets to observe
 during only these three Campaigns.
 
-### Proposal FAQs  
+### FAQs  
 
 * **What are the proposal deadlines?**<br/>
   Step 1: 2016 Feb 05 <br/>
@@ -210,29 +309,44 @@ Start and stop dates are approximate, flexible and could be overtaken by unantic
   detector. Bright targets (Kp < 9) and short cadence targets require strong, compelling science cases.<br/>
 
 
-### Proposal submission process
+### Submission process
 
 K2 proposal submission is a 2-step process. Both steps are
 mandatory. To propose for Campaigns 11, 12 and 13, investigators are
 required to submit Step 1 through the NSPIRES website by 23:59 EST
 February 5, 2016 and are required to submit Step 2 to the NSPIRES
-website by 23:59 EST March 4, 2016. All proposers need to register with NSPIRES in order to submit both parts of the proposal. The separation of the proposal into two steps is required in order to expedite the completion of review administration and target engineering before the start of Campaign 11.
+website by 23:59 EST March 4, 2016. All proposers need to register
+with NSPIRES in order to submit both parts of the proposal. The
+separation of the proposal into two steps is required in order to
+expedite the completion of review administration and target
+engineering before the start of Campaign 11. Detailed instructions for
+submitting a K2 proposal to the GO call are provided below:
+
+* If new to the NASA Solicitation and Proposal Integrated Review and
+  Evaluation System, NSPIRES,
+  [register on the NSPIRES website](https://nspires.nasaprs.com/external/aboutRegistration.do).
+
+* Familiarize yourself with the NASA Research Announcement (NRA) Research Opportunities in Space and Earth Sciences Announcement 2015 [(ROSES-2015)](http://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={9F1341A9-6D0F-F075-C993-276263B186ED}&path=open). This document provides an overview of the NRA process and is a compilation of most solicitations within NASA's Science Mission Directorate.
+
+* Read the [Cycle 4 K2 Research Announcement](http://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={7A635D8E-1B2B-2488-5E0D-5C81471D150B}&path=open). New amendments to the Kepler NRA are publicized at NSPIRES. Check this page regularly.
 
 * [Submit Step 1 of
       the proposal to NSPIRES](http://nspires.nasaprs.com/external/)
-      by <font color=red> February 5, 2016.</font>  [Instructions for
+      by <font color=red> 23:59 EST February 5, 2016.</font>  [Instructions for
       Step 1 submission can be found here](http://science.nasa.gov/media/medialibrary/2015/02/13/Step-1_instructions_.pdf).
 * Compile the material required for your proposal. The generic content of the proposal is described in Sec 2.3 of the
     <a href="http://www.hq.nasa.gov/office/procurement/nraguidebook/">NRA Proposers Guide</a>. Page
     limits and proposal content within the NRA Guide are amended
     within the
     [K2 GO Cycle 4 NRA](http://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={7A635D8E-1B2B-2488-5E0D-5C81471D150B}&path=open).
-    Note that the Scientific/Technical/Management section of the Step-2 proposal, which consists of
-text, tables (excluding the Target Table), and figures must not exceed four pages for
-proposals in the Small category, or six pages for proposals in the Large category. An
-additional 0.5 pages is allowed in Large proposals to describe
+    Note that the Scientific/Technical/Management section of the
+    Step-2 proposal, which consists of text, tables (excluding the
+    Target Table), and figures must not exceed four pages for
+    proposals in the Small category, or six pages for proposals in the
+    Large category. An additional 0.5 pages is allowed in Large proposals to describe
     progress the proposers have made to delivering value-added
-community resources.  References do not count against the page limit. Briefly, proposers will need to:
+    community resources.  References do not count against the page
+    limit. In summary:
     
        * Understand the scope of the
         Guest Observer program. Science papers exploiting data from the Kepler and K2 mission can be found [here](publications.html).
@@ -241,17 +355,26 @@ community resources.  References do not count against the page limit. Briefly, p
           within Campaigns specific to the current GO Cycle <a href="fields.html"></a>.
        * Identify appropriate targets for the proposed observations using the
         <a href="http://archive.stsci.edu/k2/epic/search.php">K2 Target Search</a> page as the primary (but not exclusive) source list. This search page provides for the construction of short or long target lists based upon e.g. celestial cone searches, magnitude and color.
-       * Complete the [Target Table](http://keplerscience.arc.nasa.gov/K2/ProposalPreparationTargetTable.shtml) as an integral component of the proposal and as a separate submission to the Guest Observer Office.
+       * Complete the [Target Table](k2-proposing-targets.html#target-table) as an integral component of the proposal and as a separate submission to the Guest Observer Office.
        * Provide the administrative elements of the proposal
           including a proposer biographical information, and a
           statement of current and pending financial support.
-
-
+	   * Although a detailed budget is not requested in either Step-1 or
+  Step-2 proposals, the statement of work in the Step-2 proposal
+  should clearly identify any and all members of the proposing team
+  who would receive funding under the proposed investigation. The
+  funding amounts will be determined formulaically based on target
+  allocation.
+	   * Large proposals that anticipate delivery of a data product/products
+  to one of the NASA archives (e.g., MAST or the NASA Exoplanet
+  Database) for curation must also include a letter of acknowledgement from
+  the relevant archive.
+  
 * [Submit Step 2 of
       the proposal to NSPIRES]((http://nspires.nasaprs.com/external/))
-      by <font color=red> March 4, 2016.</font> [Instructions for Step
+      by <font color=red> 23:59 EST March 4, 2016.</font> [Instructions for Step
       2 submission can be found here](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=431288/solicitationId=%7B1639473A-DDFB-D01F-6DF7-37C676E7BAAF%7D/viewSolicitationDocument=1/Submitting%20Step%202%20Instructions_req_step1.pdf).
-<br/>
+	  <br/>
 
 * **Special instructions for non-US PIs**<br/>
 During the submission process, non-US PI-led proposals will need to be
@@ -263,6 +386,71 @@ fudge, albeit a required fudge, so that non-US PIs spend no more
 effort than this over the institutional endorsements that are
 mandatory for US investigators.<br/>
 <br/>When completing the proposal, there are a few obscure boxes on the standard form that need your attention. The organization name is "Kepler Guest Observer Office", doing business as the "Kepler Guest Observer Office". The DUNS number is "999999954" and the cage code is "ZZZ54". These details will make sense to you when you see the Step 2 proposal form. 
+
+The following table summarizes the content of material to be supplied
+by the Principal Investigator in support of a K2 GO proposal. This
+package is to be uploaded to NSPIRES during the process of submitting
+electronic proposals. Descriptions for the content of each element are
+provided in sec 2.3 of the [2015 NRA Proposers Guidebook](http://www.hq.nasa.gov/office/procurement/nraguidebook/proposer2015.pdf). The
+right-hand column provides page limits for the package elements. Page
+limits on this web site override the NRA-generic limits within the
+handbook. Caveats to the page limits are provided as footnotes. The
+completed package upload must not exceed 15 pages. If a large target
+table extends beyond the 15 page limit then truncate the table so that
+the page limit is not exceeded and make a note within the proposal
+that the table has been truncated. PIs should not feel compelled to
+meet the page limits, but must submit all items appropriate to their
+proposal.
+
+
+<table class="table table-striped table-hover" style="max-width:70em;">
+  <thead>
+    <tr>
+      <th>Content</th>
+      <th>Page Limit</th>
+    </tr>
+  </thead>
+
+<tdata>
+
+<tr>
+    <td style="min-width: 5em;">Table of Contents </td>
+    <td>1</td>
+	</tr>
+
+<tr>
+    <td>Science justification and technical management, "Small" proposals<sup>†</sup> </td>
+    <td>4</td>
+	</tr>
+
+<tr>
+    <td>Science justification and technical management, "Large" proposals<sup>†</sup> </td>
+    <td>6</td>
+	</tr>
+
+<tr>
+    <td>Target table </td>
+    <td>as needed</td>
+	</tr>
+
+<tr>
+    <td>PI biography </td>
+    <td>2</td>
+	</tr>
+
+<tr>
+    <td>Co-I biography (per Co-I) </td>
+    <td>1 per Co-I</td>
+	</tr>
+
+<tr>
+    <td>Current and pending support </td>
+    <td>as needed</td>
+	</tr>
+	
+</tdata>
+</table>
+<sup>†</sup>Includes text, tables, and figures. References and the required target table do not count against these page limits, but the target table should be truncated in cases where it would cause this section to exceed 15 pages.
 
 ### Director's Discretionary Time
 
