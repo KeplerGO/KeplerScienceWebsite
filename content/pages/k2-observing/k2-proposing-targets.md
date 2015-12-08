@@ -71,9 +71,9 @@ There are typically two categories of K2 GO proposals.
 They are:
 
  * Small proposals—proposals requesting fewer than 1000 targets, 
-with a budget capped at $30,000.
+with a budget capped at $50,000.
  * Large proposals—proposals requesting 1000 or more targets, 
-with a budget capped at $100,000. 
+with a budget capped at $150,000. 
 Large proposals must also include the development and dissemination 
 of a value-added community resource product.
 
@@ -150,22 +150,20 @@ this table must also be submitted electronically to the Kepler Science Center.
 
 ## Solicitations
 
-The call for K2 GO Cycle 4 proposals, which will include Campaigns 11, 12,
-and 13, will be released soon.
+The call for K2 GO Cycle 4 proposals, which includes <a href="k2-fields.html">Campaigns 11, 12,
+and 13</a>, has been released and
+[is available at NSPIRES](http://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={7A635D8E-1B2B-2488-5E0D-5C81471D150B}&path=open). We
+are requesting the community propose targets to observe
+during only these three Campaigns.
 
-### Campaigns 11-12-13
-      
-Final pointings for <a href="k2-fields.html">Campaign 11</a>, <a href="k2-fields.html">Campaign
-12</a> and
-<a href="k2-fields.html">Campaign 13</a> have been
-set. We are requesting the community propose targets to observe
-during only these Campaigns.
+### Proposal FAQs  
 
-* **Proposal deadline**<br/>
+* **What are the proposal deadlines?**<br/>
   Step 1: 2016 Feb 05 <br/>
   Step 2: 2016 Mar 04 <br/>
   
-* **Anticipated dates of campaigns**<br/>
+* **What are the anticipated dates of the campaigns included in the
+current solicitation?**<br/>
 Campaign 11: 2016 Sep 24 - Dec 08 <br/>
 Campaign 12: 2016 Dec 15 - 2017 Mar 04 <br/>
 Campaign 13: 2017 Mar 08 - May 27 <br/>
@@ -174,18 +172,18 @@ Start and stop dates are approximate, flexible and could be overtaken by unantic
 * **One proposal or two?**<br/>
   In the interest of efficiency, proposers are requested *NOT* to provide separate proposals with identical science cases for each of the campaigns. If the same science goals are spread across both campaigns, please provide one science justification and two target tables, one for each field.<br/>
   
-* **Target Selection**<br/>
+* **How do I select targets on silicon?**<br/>
   In order to avoid inefficiency for proposers, you are encouraged to
   use the online tool <a href="software.html#k2fov">K2fov</a> to
   determine whether your targets fall upon silicon and propose only
   those that do. The precision of this tool is a few 4x4 arcsec
-  detector pixels. The tool will be updated shortly for the boresight
+  detector pixels. The tool has been updated for the boresight
   pointings of Campaigns 11, 12, and 13.<br/>
 
-* **Should you apply for targets that do not fall on silicon?**<br/>
+* **Should I apply for targets that do not fall on silicon?**<br/>
   Please, no. The boresight locations for Campaigns 11, 12, and 13 are set. Proposing off-silicon targets is a waste of energy for proposers, reviewers and project staff. Use <a href="software.html#k2fov">K2fov</a> and apply only for targets that fall upon silicon (output flag "2").<br/>
 
-* **The K2 Ecliptic Plane Input Catalog (EPIC)**<br/>
+* **What is the K2 Ecliptic Plane Input Catalog (EPIC)?**<br/>
   Proposers are asked to submit targets that have been selected from the <a href="http://archive.stsci.edu/k2/epic/search.php">EPIC</a>. The EPIC plays the same role for K2 that the <a href="http://adsabs.harvard.edu/abs/2011AJ....142..112B">Kepler Input Catalog (KIC)</a> played for Kepler target selection. The primary purpose of the catalog is to define photometric apertures for each potential target by providing celestial positions and Kepler bandpass magnitudes. EPIC parameters are produced by source matching existing multi-band catalogs and calculating color corrections for the Kepler bandpass. Documentation describing the compilation of the EPIC is provided <a href="http://archive.stsci.edu/k2/epic.pdf">here</a>.<br/>
 
 * **What type of science targets can be proposed?**<br/>
@@ -199,7 +197,9 @@ Start and stop dates are approximate, flexible and could be overtaken by unantic
   between 10,000 and 20,000 targets per Campaign. Approximately 50 to 100 short cadence targets are anticipated per Campaign.<br/>
 
 * **How many pixels around each target will be collected?**<br/>
-  This is currently unquantified, but K2 target pixel masks are anticipated to be significantly larger than Kepler pixel masks. Extra halos of pixels will be added to K2 masks in order to capture uncertainties in field acquisition (currently a pixel) and pointing drift over time (currently a pixel).<br/>
+  The number of pixels collected for each target depends on the
+  target's Kepler magnitude.  For Kp = 12, the target pixel masks include
+  approximately 100 pixels.  Extra halos of pixels will be added to K2 masks in order to capture uncertainties in field acquisition (currently a pixel) and pointing drift over time (currently a pixel).<br/>
 
 * **Are there bright or faint magnitude limits?**<br/>
   There are no faint limits upon the brightness of targets that can be
@@ -210,26 +210,47 @@ Start and stop dates are approximate, flexible and could be overtaken by unantic
   detector. Bright targets (Kp < 9) and short cadence targets require strong, compelling science cases.<br/>
 
 
-* **How do I submit a proposal?**<br/>
-    * Submit Step 1 of
-      the proposal to  NSPIRES by <font color=red> February 5, 2016.</font>
-    * Compile the material required for your proposal. The generic content of the proposal is described in Sec 2.3 of the
+### Proposal submission process
+
+K2 proposal submission is a 2-step process. Both steps are
+mandatory. To propose for Campaigns 11, 12 and 13, investigators are
+required to submit Step 1 through the NSPIRES website by 23:59 EST
+February 5, 2016 and are required to submit Step 2 to the NSPIRES
+website by 23:59 EST March 4, 2016. All proposers need to register with NSPIRES in order to submit both parts of the proposal. The separation of the proposal into two steps is required in order to expedite the completion of review administration and target engineering before the start of Campaign 11.
+
+* [Submit Step 1 of
+      the proposal to NSPIRES](http://nspires.nasaprs.com/external/)
+      by <font color=red> February 5, 2016.</font>  [Instructions for
+      Step 1 submission can be found here](http://science.nasa.gov/media/medialibrary/2015/02/13/Step-1_instructions_.pdf).
+* Compile the material required for your proposal. The generic content of the proposal is described in Sec 2.3 of the
     <a href="http://www.hq.nasa.gov/office/procurement/nraguidebook/">NRA Proposers Guide</a>. Page
     limits and proposal content within the NRA Guide are amended
-    within the K2 GO Cycle 4 NRA (to be released soon).  Briefly, proposers will need to:
+    within the
+    [K2 GO Cycle 4 NRA](http://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={7A635D8E-1B2B-2488-5E0D-5C81471D150B}&path=open).
+    Note that the Scientific/Technical/Management section of the Step-2 proposal, which consists of
+text, tables (excluding the Target Table), and figures must not exceed four pages for
+proposals in the Small category, or six pages for proposals in the Large category. An
+additional 0.5 pages is allowed in Large proposals to describe
+    progress the proposers have made to delivering value-added
+community resources.  References do not count against the page limit. Briefly, proposers will need to:
     
-        * Understand the scope of the
+       * Understand the scope of the
         Guest Observer program. Science papers exploiting data from the Kepler and K2 mission can be found [here](publications.html).
-        * Familiarize yourself with the [technical documentation](data-products.html#documentation) for the mission.
-        * Develop and justify a science concept for observations
+       * Familiarize yourself with the [technical documentation](data-products.html#documentation) for the mission.
+       * Develop and justify a science concept for observations
           within Campaigns specific to the current GO Cycle <a href="fields.html"></a>.
-        * Identify appropriate targets for the proposed observations using the
+       * Identify appropriate targets for the proposed observations using the
         <a href="http://archive.stsci.edu/k2/epic/search.php">K2 Target Search</a> page as the primary (but not exclusive) source list. This search page provides for the construction of short or long target lists based upon e.g. celestial cone searches, magnitude and color.
-        * Complete the [Target Table](http://keplerscience.arc.nasa.gov/K2/ProposalPreparationTargetTable.shtml) as an integral component of the proposal and as a separate submission to the Guest Observer Office.
-        * Provide the administrative elements of the proposal including a proposer biographical information, and a statement of current and pending financial support.
+       * Complete the [Target Table](http://keplerscience.arc.nasa.gov/K2/ProposalPreparationTargetTable.shtml) as an integral component of the proposal and as a separate submission to the Guest Observer Office.
+       * Provide the administrative elements of the proposal
+          including a proposer biographical information, and a
+          statement of current and pending financial support.
 
-    * Submit Step 2 of
-      the proposal to NSPIRES by <font color=red> March 4, 2016.</font>
+
+* [Submit Step 2 of
+      the proposal to NSPIRES]((http://nspires.nasaprs.com/external/))
+      by <font color=red> March 4, 2016.</font> [Instructions for Step
+      2 submission can be found here](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=431288/solicitationId=%7B1639473A-DDFB-D01F-6DF7-37C676E7BAAF%7D/viewSolicitationDocument=1/Submitting%20Step%202%20Instructions_req_step1.pdf).
 <br/>
 
 * **Special instructions for non-US PIs**<br/>
