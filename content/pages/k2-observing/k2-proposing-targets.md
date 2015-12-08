@@ -268,7 +268,7 @@ Campaign 12: 2016 Dec 15 - 2017 Mar 04 <br/>
 Campaign 13: 2017 Mar 08 - May 27 <br/>
 Start and stop dates are approximate, flexible and could be overtaken by unanticipated operational events.<br/>
   
-* **One proposal or two?**<br/>
+* **Should I submit one proposal or two?**<br/>
   In the interest of efficiency, proposers are requested *NOT* to provide separate proposals with identical science cases for each of the campaigns. If the same science goals are spread across both campaigns, please provide one science justification and two target tables, one for each field.<br/>
   
 * **How do I select targets on silicon?**<br/>
@@ -344,7 +344,8 @@ submitting a K2 proposal to the GO call are provided below:
     <a href="http://www.hq.nasa.gov/office/procurement/nraguidebook/">NRA Proposers Guide</a>. Page
     limits and proposal content within the NRA Guide are amended
     within the
-    [K2 GO Cycle 4 NRA](http://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={7A635D8E-1B2B-2488-5E0D-5C81471D150B}&path=open).
+    [K2 GO Cycle 4 NRA](http://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={7A635D8E-1B2B-2488-5E0D-5C81471D150B}&path=open)
+    and are summarized in the table below.
     Note that the Scientific/Technical/Management section of the
     Step-2 proposal, which consists of text, tables (excluding the
     Target Table), and figures must not exceed four pages for
@@ -422,7 +423,7 @@ proposal.
 	</tr>
 
 <tr>
-    <td>Science justification and technical management, "Large" proposals<sup>†</sup> </td>
+    <td>Science justification and technical management, "Large" proposals<sup>†</sup><sup>&Dagger;</sup> </td>
     <td>6</td>
 	</tr>
 
@@ -448,7 +449,12 @@ proposal.
 	
 </tdata>
 </table>
-<sup>†</sup>Includes text, tables, and figures. References and the required target table do not count against these page limits, but the target table should be truncated in cases where it would cause this section to exceed 15 pages.
+<sup>†</sup>Includes text, tables, and figures. References and the
+required target table do not count against these page limits, but the
+target table should be truncated in cases where it would cause this
+section to exceed 15 pages.<br/>
+<sup>&Dagger;</sup>An additional 0.5 pages is allowed in "Large" proposals to describe
+    progress the proposers have made to delivering value-added community resources.
 
 ### Director's Discretionary Time
 
