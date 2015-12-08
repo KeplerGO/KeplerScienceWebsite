@@ -334,7 +334,13 @@ submitting a K2 proposal to the GO call are provided below:
       the proposal to NSPIRES](http://nspires.nasaprs.com/external/)
       by <font color=red> 23:59 EST February 5, 2016.</font>  [Instructions for
       Step 1 submission can be found here](http://science.nasa.gov/media/medialibrary/2015/02/13/Step-1_instructions_.pdf).
-* Compile the material required for your proposal. The generic content of the proposal is described in Sec 2.3 of the
+
+* [Submit Step 2 of
+      the proposal to NSPIRES]((http://nspires.nasaprs.com/external/))
+      by <font color=red> 23:59 EST March 4, 2016.</font> [Instructions for Step
+      2 submission can be found here](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=431288/solicitationId=%7B1639473A-DDFB-D01F-6DF7-37C676E7BAAF%7D/viewSolicitationDocument=1/Submitting%20Step%202%20Instructions_req_step1.pdf).
+
+* Material required for your proposal is described here. The generic content of the proposal is described in Sec 2.3 of the
     <a href="http://www.hq.nasa.gov/office/procurement/nraguidebook/">NRA Proposers Guide</a>. Page
     limits and proposal content within the NRA Guide are amended
     within the
@@ -359,24 +365,17 @@ submitting a K2 proposal to the GO call are provided below:
        * Provide the administrative elements of the proposal
           including a proposer biographical information, and a
           statement of current and pending financial support.
+	   * Large proposals that anticipate delivery of a data product/products
+  to one of the NASA archives (e.g., MAST or the NASA Exoplanet
+  Database) for curation must also include a letter of acknowledgement from
+  the relevant archive.
 	   * Although a detailed budget is not requested in either Step-1 or
   Step-2 proposals, the statement of work in the Step-2 proposal
   should clearly identify any and all members of the proposing team
   who would receive funding under the proposed investigation. The
   funding amounts will be determined formulaically based on target
   allocation.
-	   * Large proposals that anticipate delivery of a data product/products
-  to one of the NASA archives (e.g., MAST or the NASA Exoplanet
-  Database) for curation must also include a letter of acknowledgement from
-  the relevant archive.
-  
-* [Submit Step 2 of
-      the proposal to NSPIRES]((http://nspires.nasaprs.com/external/))
-      by <font color=red> 23:59 EST March 4, 2016.</font> [Instructions for Step
-      2 submission can be found here](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=431288/solicitationId=%7B1639473A-DDFB-D01F-6DF7-37C676E7BAAF%7D/viewSolicitationDocument=1/Submitting%20Step%202%20Instructions_req_step1.pdf).
-	  <br/>
-
-* **Special instructions for non-US PIs**<br/>
+       * **Special instructions for non-US PIs**<br/>
 During the submission process, non-US PI-led proposals will need to be
 affiliated to a submitting organization. Do this by clicking on the
 "Account Mgmt" tab at the top of the NSPIRES page and follow the
@@ -384,8 +383,7 @@ instructions. All non-US proposals should use the "Kepler Guest
 Observer Office" as your affiliation within NSPIRES. This is simply a
 fudge, albeit a required fudge, so that non-US PIs spend no more
 effort than this over the institutional endorsements that are
-mandatory for US investigators.<br/>
-<br/>When completing the proposal, there are a few obscure boxes on the standard form that need your attention. The organization name is "Kepler Guest Observer Office", doing business as the "Kepler Guest Observer Office". The DUNS number is "999999954" and the cage code is "ZZZ54". These details will make sense to you when you see the Step 2 proposal form. 
+mandatory for US investigators. When completing the proposal, there are a few obscure boxes on the standard form that need your attention. The organization name is "Kepler Guest Observer Office", doing business as the "Kepler Guest Observer Office". The DUNS number is "999999954" and the cage code is "ZZZ54". These details will make sense to you when you see the Step 2 proposal form. 
 
 The following table summarizes the content of material to be supplied
 by the Principal Investigator in support of a K2 GO proposal. This
