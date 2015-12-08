@@ -253,7 +253,8 @@ The call for K2 GO Cycle 4 proposals, which includes <a href="k2-fields.html">Ca
 and 13</a>, has been released and
 [is available at NSPIRES](http://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={7A635D8E-1B2B-2488-5E0D-5C81471D150B}&path=open). We
 are requesting the community propose targets to observe
-during only these three Campaigns.
+during only these three Campaigns. The execution of the K2 GO Cycle 4 is contingent upon the outcome of
+the 2016 Senior Review.
 
 ### FAQs  
 
@@ -454,7 +455,8 @@ required target table do not count against these page limits, but the
 target table should be truncated in cases where it would cause this
 section to exceed 15 pages.<br/>
 <sup>&Dagger;</sup>An additional 0.5 pages is allowed in "Large" proposals to describe
-    progress the proposers have made to delivering value-added community resources.
+    progress the proposers have made to delivering value-added
+	community resources, but the total proposal package still must not exceed 15 pages.
 
 ### Director's Discretionary Time
 
