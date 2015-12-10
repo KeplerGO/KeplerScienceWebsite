@@ -138,7 +138,7 @@ This page details the previous, current, and future K2 Campaign fields.
       <td><a href="#c6">6</a></td>
       <td>2015 Jul 14</td>
       <td>2015 Sep 30</td>
-      <td>2016 Jan 01</td>
+      <td>2016 Jan 25</td>
       <td>13:39:28</td>
       <td>-11:17:43</td>
       <td class="text-center">
@@ -150,7 +150,7 @@ This page details the previous, current, and future K2 Campaign fields.
 
     <tr>
       <td><a href="#c7">7</a></td>
-      <td>2015 Oct 03</td>
+      <td>2015 Oct 04</td>
       <td>2015 Dec 26</td>
       <td>2016 Mar 28</td>
       <td>19:11:19</td>
@@ -183,7 +183,7 @@ This page details the previous, current, and future K2 Campaign fields.
     <tr>
       <td><a href="#c9">9</a><sup>†</sup></td>
       <td>2016 Apr 07</td>
-      <td>2016 Jul 02</td>
+      <td>2016 Jul 01</td>
       <td>2016 Sep 26</td>
       <td>18:01:25</td>
       <td>-21:46:47</td>
@@ -216,7 +216,7 @@ This page details the previous, current, and future K2 Campaign fields.
       <td><a href="#c11">11</a></td>
       <td>2016 Sep 24</td>
       <td>2016 Dec 08</td>
-      <td>2017 Mar 19</td>
+      <td>2017 Mar 13</td>
       <td>17:21:33</td>
       <td>-23:58:33</td>
       <td class="text-center">
@@ -232,7 +232,7 @@ This page details the previous, current, and future K2 Campaign fields.
       <td><a href="#c12">12</a></td>
       <td>2016 Dec 15</td>
       <td>2017 Mar 04</td>
-      <td>2017 Jun 05</td>
+      <td>2017 May 28</td>
       <td>23:26:43</td>
       <td>-05:05:44</td>
       <td class="text-center">
@@ -248,7 +248,7 @@ This page details the previous, current, and future K2 Campaign fields.
       <td><a href="#c13">13</a></td>
       <td>2017 Mar 08</td>
       <td>2017 May 27</td>
-      <td>2017 Sep 03</td>
+      <td>2017 Aug 26</td>
       <td>04:51:11</td>
       <td>+20:47:11</td>
       <td class="text-center">
@@ -307,16 +307,16 @@ We encourage the community to provide input on the placement of these fields.
   <tdata>
     <tr>
       <td>14</td>
-      <td>2017&nbsp;May&nbsp;30</td>
-      <td>2017&nbsp;Aug&nbsp;28</td>
+      <td>2017 May 31</td>
+      <td>2017 Aug 19</td>
       <td>10:39:52.08</td>
       <td>+07:07:56.5</td>
       <td></td>
     </tr>
     <tr>
       <td>15</td>
-      <td>2017 Aug 21</td>
-      <td>2017 Nov 18</td>
+      <td>2017 Aug 23</td>
+      <td>2017 Nov 08</td>
       <td>15:26:24.31</td>
       <td>-19:36:29.5</td>
       <td></td>
