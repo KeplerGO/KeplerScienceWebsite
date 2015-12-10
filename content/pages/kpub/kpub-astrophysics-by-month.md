@@ -19,6 +19,14 @@ Casagrande, L., Silva Aguirre, V., Schlesinger, K. J., et al.
 Kurtz, Donald W., Bowman, Dominic M., Ebo, Simon J., et al.    
 2016, refereed ([2016MNRAS.455.1237K](http://adsabs.harvard.edu/abs/2016MNRAS.455.1237K))  
 
+4. [CONTINUOUS `STUNTED' OUTBURSTS DETECTED FROM THE CATACLYSMIC VARIABLE KIC 9202990 USING KEPLER DATA](http://adsabs.harvard.edu/abs/2016MNRAS.455.2772R)  
+Ramsay, Gavin, Hakala, Pasi, Wood, Matt A., et al.    
+2016, refereed ([2016MNRAS.455.2772R](http://adsabs.harvard.edu/abs/2016MNRAS.455.2772R))  
+
+5. [VARIABLE STARS IN ONE OPEN CLUSTER WITHIN THE KEPLER/K2-CAMPAIGN-5 FIELD: M 67 (NGC 2682)](http://adsabs.harvard.edu/abs/2016MNRAS.455.2337N)  
+Nardiello, D., Libralato, M., Bedin, L. R., et al.    
+2016, refereed ([2016MNRAS.455.2337N](http://adsabs.harvard.edu/abs/2016MNRAS.455.2337N))  
+
 
 2015-12
 -------
@@ -34,6 +42,38 @@ Keen, M. A., Bedding, T. R., Murphy, S. J., et al.
 3. [KEPLER OBSERVATIONS OF A-F PRE-MAIN-SEQUENCE STARS IN UPPER SCORPIUS: DISCOVERY OF SIX NEW Δ SCUTI AND ONE Γ DORADUS STARS](http://adsabs.harvard.edu/abs/2015MNRAS.454.2606R)  
 Ripepi, V., Balona, L., Catanzaro, G., et al.    
 2015, refereed ([2015MNRAS.454.2606R](http://adsabs.harvard.edu/abs/2015MNRAS.454.2606R))  
+
+4. [HD 144548: A YOUNG TRIPLY ECLIPSING SYSTEM IN THE UPPER SCORPIUS OB ASSOCIATION](http://adsabs.harvard.edu/abs/2015A&A...584L...8A)  
+Alonso, R., Deeg, H. J., Hoyer, S., et al.    
+2015, refereed ([2015A&A...584L...8A](http://adsabs.harvard.edu/abs/2015A&A...584L...8A))  
+
+5. [PERIOD SPACINGS IN RED GIANTS. I. DISENTANGLING ROTATION AND REVEALING CORE STRUCTURE DISCONTINUITIES](http://adsabs.harvard.edu/abs/2015A&A...584A..50M)  
+Mosser, B., Vrard, M., Belkacem, K., et al.    
+2015, refereed ([2015A&A...584A..50M](http://adsabs.harvard.edu/abs/2015A&A...584A..50M))  
+
+6. [BEER ANALYSIS OF KEPLER AND COROT LIGHT CURVES. IV. DISCOVERY OF FOUR NEW LOW-MASS WHITE-DWARF COMPANIONS IN THE KEPLER DATA](http://adsabs.harvard.edu/abs/2015ApJ...815...26F)  
+Faigler, S., Kull, I., Mazeh, T., et al.    
+2015, refereed ([2015ApJ...815...26F](http://adsabs.harvard.edu/abs/2015ApJ...815...26F))  
+
+7. [ACTIVE GALACTIC NUCLEI DISCOVERED IN THE KEPLER MISSION](http://adsabs.harvard.edu/abs/2015AJ....150..188S)  
+Shaya, Edward J., Olling, Robert, Mushotzky, Richard    
+2015, refereed ([2015AJ....150..188S](http://adsabs.harvard.edu/abs/2015AJ....150..188S))  
+
+8. [LESSONS LEARNT FROM THE SOLAR NEIGHBOURHOOD AND THE KEPLER FIELD](http://adsabs.harvard.edu/abs/2015arXiv151202283C)  
+Casagrande, Luca    
+2015, pre-print ([2015arXiv151202283C](http://adsabs.harvard.edu/abs/2015arXiv151202283C))  
+
+9. [K2 VARIABLE CATALOGUE II: MACHINE LEARNING CLASSIFICATION OF VARIABLE STARS AND ECLIPSING BINARIES IN K2 FIELDS 0-4](http://adsabs.harvard.edu/abs/2015arXiv151201246A)  
+Armstrong, D. J., Kirk, J., Lam, K. W. F., et al.    
+2015, pre-print ([2015arXiv151201246A](http://adsabs.harvard.edu/abs/2015arXiv151201246A))  
+
+10. [OPTICAL SETI OBSERVATIONS OF THE ANOMALOUS STAR KIC 8462852](http://adsabs.harvard.edu/abs/2015arXiv151202388S)  
+Schuetz, Marlin, Vakoch, Douglas A., Shostak, Seth, et al.    
+2015, pre-print ([2015arXiv151202388S](http://adsabs.harvard.edu/abs/2015arXiv151202388S))  
+
+11. [THE SOLAR-STELLAR CONNECTION](http://adsabs.harvard.edu/abs/2015SSRv..196..303B)  
+Brun, A. S., García, R. A., Houdek, G., et al.    
+2015, refereed ([2015SSRv..196..303B](http://adsabs.harvard.edu/abs/2015SSRv..196..303B))  
 
 
 2015-11
@@ -106,6 +146,42 @@ Lodieu, N., Alonso, R., Gonzalez Hernandez, J. I., et al.
 17. [KIC 4739791: A NEW R CMA-TYPE ECLIPSING BINARY WITH A PULSATING COMPONENT](http://adsabs.harvard.edu/abs/2015arXiv151103764L)  
 Lee, Jae Woo, Kim, Seung-Lee, Hong, Kyeongsoo, et al.    
 2015, pre-print ([2015arXiv151103764L](http://adsabs.harvard.edu/abs/2015arXiv151103764L))  
+
+18. [KEPLER LIGHT CURVE ANALYSIS OF THE BLAZAR W2R 1926+42](http://adsabs.harvard.edu/abs/2015arXiv151105232M)  
+Mohan, P., Gupta, Alok C., Bachev, R., et al.    
+2015, pre-print ([2015arXiv151105232M](http://adsabs.harvard.edu/abs/2015arXiv151105232M))  
+
+19. [INTERNAL ROTATION OF THE RED-GIANT STAR KIC 4448777 BY MEANS OF ASTEROSEISMIC INVERSION](http://adsabs.harvard.edu/abs/2015arXiv151106160D)  
+Di Mauro, M . P., Ventura, R., Cardini, D., et al.    
+2015, pre-print ([2015arXiv151106160D](http://adsabs.harvard.edu/abs/2015arXiv151106160D))  
+
+20. [PROPERTIES OF STELLAR ACTIVITY CYCLES](http://adsabs.harvard.edu/abs/2015arXiv151106116K)  
+Korhonen, Heidi    
+2015, pre-print ([2015arXiv151106116K](http://adsabs.harvard.edu/abs/2015arXiv151106116K))  
+
+21. [IRTF/SPEX OBSERVATIONS OF THE UNUSUAL KEPLER LIGHTCURVE SYSTEM KIC8462852](http://adsabs.harvard.edu/abs/2015arXiv151200121L)  
+Lisse, C. M., Sitko, M. L., Marengo, M.    
+2015, pre-print ([2015arXiv151200121L](http://adsabs.harvard.edu/abs/2015arXiv151200121L))  
+
+22. [KIC 8462852: TRANSIT OF A LARGE COMET FAMILY](http://adsabs.harvard.edu/abs/2015arXiv151108821B)  
+Bodman, Eva H. L., Quillen, Alice    
+2015, pre-print ([2015arXiv151108821B](http://adsabs.harvard.edu/abs/2015arXiv151108821B))  
+
+23. [THE HERMES SOLAR ATLAS AND THE SPECTROSCOPIC ANALYSIS OF THE SEISMIC SOLAR ANALOGUE KIC3241581](http://adsabs.harvard.edu/abs/2015arXiv151106583B)  
+Beck, P. G., Allende Prieto, C., Van Reeth, T., et al.    
+2015, pre-print ([2015arXiv151106583B](http://adsabs.harvard.edu/abs/2015arXiv151106583B))  
+
+24. [ASTEROSEISMIC INVERSIONS FOR RADIAL DIFFERENTIAL ROTATION OF SUN-LIKE STARS: SENSITIVITY TO UNCERTAINTIES](http://adsabs.harvard.edu/abs/2015arXiv151108365S)  
+Schunker, Hannah, Schou, Jesper, Ball, Warrick H.    
+2015, pre-print ([2015arXiv151108365S](http://adsabs.harvard.edu/abs/2015arXiv151108365S))  
+
+25. [RED GIANT MASSES AND AGES DERIVED FROM CARBON AND NITROGEN ABUNDANCES](http://adsabs.harvard.edu/abs/2015arXiv151108203M)  
+Martig, Marie, Fouesneau, Morgan, Rix, Hans-Walter, et al.    
+2015, pre-print ([2015arXiv151108203M](http://adsabs.harvard.edu/abs/2015arXiv151108203M))  
+
+26. [SPECTROSCOPIC DETERMINATION OF MASSES (AND IMPLIED AGES) FOR RED GIANTS](http://adsabs.harvard.edu/abs/2015arXiv151108204N)  
+Ness, M., Hogg, David W., Rix, H-W., et al.    
+2015, pre-print ([2015arXiv151108204N](http://adsabs.harvard.edu/abs/2015arXiv151108204N))  
 
 
 2015-10

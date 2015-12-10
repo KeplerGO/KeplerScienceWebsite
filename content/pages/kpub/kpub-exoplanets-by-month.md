@@ -19,6 +19,18 @@ Helled, Ravit, Lozovsky, Michael, Zucker, Shay
 Mislis, D., Bachelet, E., Alsubai, K. A., et al.    
 2016, refereed ([2016MNRAS.455..626M](http://adsabs.harvard.edu/abs/2016MNRAS.455..626M))  
 
+4. [THE HOST STARS OF KEPLER'S HABITABLE EXOPLANETS: SUPERFLARES, ROTATION AND ACTIVITY](http://adsabs.harvard.edu/abs/2016MNRAS.455.3110A)  
+Armstrong, D. J., Pugh, C. E., Broomhall, A. -M., et al.    
+2016, refereed ([2016MNRAS.455.3110A](http://adsabs.harvard.edu/abs/2016MNRAS.455.3110A))  
+
+5. [OSCILLATIONS OF RELATIVE INCLINATION ANGLES IN COMPACT EXTRASOLAR PLANETARY SYSTEMS](http://adsabs.harvard.edu/abs/2016MNRAS.455.2980B)  
+Becker, Juliette C., Adams, Fred C.    
+2016, refereed ([2016MNRAS.455.2980B](http://adsabs.harvard.edu/abs/2016MNRAS.455.2980B))  
+
+6. [A TRIPLE ORIGIN FOR THE LACK OF TIGHT COPLANAR CIRCUMBINARY PLANETS AROUND SHORT-PERIOD BINARIES](http://adsabs.harvard.edu/abs/2016MNRAS.455.3180H)  
+Hamers, Adrian S., Perets, Hagai B., Portegies Zwart, Simon F.    
+2016, refereed ([2016MNRAS.455.3180H](http://adsabs.harvard.edu/abs/2016MNRAS.455.3180H))  
+
 
 2015-12
 -------
@@ -30,6 +42,34 @@ Huang, C. X., Penev, K., Hartman, J. D., et al.
 2. [PHOTODYNAMICAL MASS DETERMINATION OF THE MULTIPLANETARY SYSTEM K2-19](http://adsabs.harvard.edu/abs/2015MNRAS.454.4267B)  
 Barros, S. C. C., Almenara, J. M., Demangeon, O., et al.    
 2015, refereed ([2015MNRAS.454.4267B](http://adsabs.harvard.edu/abs/2015MNRAS.454.4267B))  
+
+3. [KOI-2939B: THE LARGEST AND LONGEST-PERIOD KEPLER TRANSITING CIRCUMBINARY PLANET](http://adsabs.harvard.edu/abs/2015arXiv151200189K)  
+Kostov, Veselin B., Orosz, Jerome A., Welsh, William F., et al.    
+2015, pre-print ([2015arXiv151200189K](http://adsabs.harvard.edu/abs/2015arXiv151200189K))  
+
+4. [ZODIACAL EXOPLANETS IN TIME (ZEIT) I: A NEPTUNE-SIZED PLANET ORBITING AN M4.5 DWARF IN THE HYADES STAR CLUSTER](http://adsabs.harvard.edu/abs/2015arXiv151200483M)  
+Mann, Andrew W., Gaidos, Eric, Mace, Gregory N., et al.    
+2015, pre-print ([2015arXiv151200483M](http://adsabs.harvard.edu/abs/2015arXiv151200483M))  
+
+5. [AN INCREASE IN THE MASS OF PLANETARY SYSTEMS AROUND LOWER-MASS STARS](http://adsabs.harvard.edu/abs/2015ApJ...814..130M)  
+Mulders, Gijs D., Pascucci, Ilaria, Apai, Dániel    
+2015, refereed ([2015ApJ...814..130M](http://adsabs.harvard.edu/abs/2015ApJ...814..130M))  
+
+6. [CHARACTERIZATION OF KEPLER-91B AND THE INVESTIGATION OF A POTENTIAL TROJAN COMPANION USING EXONEST](http://adsabs.harvard.edu/abs/2015ApJ...814..147P)  
+Placek, Ben, Knuth, Kevin H., Angerhausen, Daniel, et al.    
+2015, refereed ([2015ApJ...814..147P](http://adsabs.harvard.edu/abs/2015ApJ...814..147P))  
+
+7. [ROBUST TTV MASS MEASUREMENTS: TEN KEPLER EXOPLANETS BETWEEN 3 AND 8 EARTH MASSES WITH DIVERSE DENSITIES AND INCIDENT FLUXES](http://adsabs.harvard.edu/abs/2015arXiv151202003J)  
+Jontof-Hutter, Daniel, Ford, Eric B., Rowe, Jason F., et al.    
+2015, pre-print ([2015arXiv151202003J](http://adsabs.harvard.edu/abs/2015arXiv151202003J))  
+
+8. [PLANET HUNTERS. VIII. CHARACTERIZATION OF 41 LONG-PERIOD EXOPLANET CANDIDATES FROM KEPLER ARCHIVAL DATA](http://adsabs.harvard.edu/abs/2015arXiv151202559W)  
+Wang, Ji, Fischer, Debra A., Barclay, Thomas, et al.    
+2015, pre-print ([2015arXiv151202559W](http://adsabs.harvard.edu/abs/2015arXiv151202559W))  
+
+9. [DETAILED ABUNDANCES OF STARS WITH SMALL PLANETS DISCOVERED BY KEPLER. I. THE FIRST SAMPLE](http://adsabs.harvard.edu/abs/2015ApJ...815....5S)  
+Schuler, Simon C., Vaz, Zachary A., Katime Santrich, Orlando J., et al.    
+2015, refereed ([2015ApJ...815....5S](http://adsabs.harvard.edu/abs/2015ApJ...815....5S))  
 
 
 2015-11
@@ -106,6 +146,46 @@ Kane, Stephen R.
 18. [TWO TRANSITING LOW DENSITY SUB-SATURNS FROM K2](http://adsabs.harvard.edu/abs/2015arXiv151104497P)  
 Petigura, Erik A., Howard, Andrew W., Lopez, Eric D., et al.    
 2015, pre-print ([2015arXiv151104497P](http://adsabs.harvard.edu/abs/2015arXiv151104497P))  
+
+19. [KIC 8462852: THE INFRARED FLUX](http://adsabs.harvard.edu/abs/2015ApJ...814L..15M)  
+Marengo, Massimo, Hulsebus, Alan, Willis, Sarah    
+2015, refereed ([2015ApJ...814L..15M](http://adsabs.harvard.edu/abs/2015ApJ...814L..15M))  
+
+20. [THE HOST STARS OF KEPLERS HABITABLE EXOPLANETS: SUPERFLARES, ROTATION AND ACTIVITY](http://adsabs.harvard.edu/abs/2015arXiv151105306A)  
+Armstrong, D. J., Pugh, C. E., Broomhall, A. -M., et al.    
+2015, pre-print ([2015arXiv151105306A](http://adsabs.harvard.edu/abs/2015arXiv151105306A))  
+
+21. [THE ENIGMATIC AND EPHEMERAL M DWARF SYSTEM KOI 6705: CHESHIRE CAT OR WILD GOOSE?](http://adsabs.harvard.edu/abs/2015arXiv151106471G)  
+Gaidos, Eric, Mann, Andrew W., Ansdell, Megan    
+2015, pre-print ([2015arXiv151106471G](http://adsabs.harvard.edu/abs/2015arXiv151106471G))  
+
+22. [THE INITIAL PHYSICAL CONDITIONS OF KEPLER-36 B & C](http://adsabs.harvard.edu/abs/2015arXiv151107385O)  
+Owen, James E., Morton, Timothy D.    
+2015, pre-print ([2015arXiv151107385O](http://adsabs.harvard.edu/abs/2015arXiv151107385O))  
+
+23. [PLANETARY CANDIDATES FROM THE FIRST YEAR OF THE K2 MISSION](http://adsabs.harvard.edu/abs/2015arXiv151107820V)  
+Vanderburg, Andrew, Latham, David W., Buchhave, Lars A., et al.    
+2015, pre-print ([2015arXiv151107820V](http://adsabs.harvard.edu/abs/2015arXiv151107820V))  
+
+24. [TEN MULTI-PLANET SYSTEMS FROM K2 CAMPAIGNS 1 & 2 AND THE MASSES OF TWO HOT SUPER-EARTHS](http://adsabs.harvard.edu/abs/2015arXiv151109213S)  
+Sinukoff, Evan, Howard, Andrew W., Petigura, Erik A., et al.    
+2015, pre-print ([2015arXiv151109213S](http://adsabs.harvard.edu/abs/2015arXiv151109213S))  
+
+25. [SERENDIPITOUS SCIENCE FROM THE K2 MISSION](http://adsabs.harvard.edu/abs/2015arXiv151109069B)  
+Buzasi, Derek L., Carboneau, Lindsey, Hessler, Carly, et al.    
+2015, pre-print ([2015arXiv151109069B](http://adsabs.harvard.edu/abs/2015arXiv151109069B))  
+
+26. [THE KEPLER-454 SYSTEM: A SMALL, NOT-ROCKY INNER PLANET, A JOVIAN WORLD, AND A DISTANT COMPANION](http://adsabs.harvard.edu/abs/2015arXiv151109097G)  
+Gettel, Sara, Charbonneau, David, Dressing, Courtney D., et al.    
+2015, pre-print ([2015arXiv151109097G](http://adsabs.harvard.edu/abs/2015arXiv151109097G))  
+
+27. [THE DETAILED CHEMICAL COMPOSITION OF THE TERRESTRIAL PLANET HOST KEPLER-10](http://adsabs.harvard.edu/abs/2015arXiv151109287L)  
+Liu, F., Yong, D., Asplund, M., et al.    
+2015, pre-print ([2015arXiv151109287L](http://adsabs.harvard.edu/abs/2015arXiv151109287L))  
+
+28. [THE K2-ESPRINT PROJECT III: A CLOSE-IN SUPER-EARTH AROUND A METAL-RICH MID-M DWARF](http://adsabs.harvard.edu/abs/2015arXiv151108508H)  
+Hirano, Teruyuki, Fukui, Akihiko, Mann, Andrew W., et al.    
+2015, pre-print ([2015arXiv151108508H](http://adsabs.harvard.edu/abs/2015arXiv151108508H))  
 
 
 2015-10

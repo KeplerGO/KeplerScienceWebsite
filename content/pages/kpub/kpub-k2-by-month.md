@@ -15,6 +15,10 @@ Pope, B. J. S., White, T. R., Huber, D., et al.
 Kurtz, Donald W., Bowman, Dominic M., Ebo, Simon J., et al.    
 2016, refereed ([2016MNRAS.455.1237K](http://adsabs.harvard.edu/abs/2016MNRAS.455.1237K))  
 
+3. [VARIABLE STARS IN ONE OPEN CLUSTER WITHIN THE KEPLER/K2-CAMPAIGN-5 FIELD: M 67 (NGC 2682)](http://adsabs.harvard.edu/abs/2016MNRAS.455.2337N)  
+Nardiello, D., Libralato, M., Bedin, L. R., et al.    
+2016, refereed ([2016MNRAS.455.2337N](http://adsabs.harvard.edu/abs/2016MNRAS.455.2337N))  
+
 
 2015-12
 -------
@@ -26,6 +30,18 @@ Huang, C. X., Penev, K., Hartman, J. D., et al.
 2. [PHOTODYNAMICAL MASS DETERMINATION OF THE MULTIPLANETARY SYSTEM K2-19](http://adsabs.harvard.edu/abs/2015MNRAS.454.4267B)  
 Barros, S. C. C., Almenara, J. M., Demangeon, O., et al.    
 2015, refereed ([2015MNRAS.454.4267B](http://adsabs.harvard.edu/abs/2015MNRAS.454.4267B))  
+
+3. [ZODIACAL EXOPLANETS IN TIME (ZEIT) I: A NEPTUNE-SIZED PLANET ORBITING AN M4.5 DWARF IN THE HYADES STAR CLUSTER](http://adsabs.harvard.edu/abs/2015arXiv151200483M)  
+Mann, Andrew W., Gaidos, Eric, Mace, Gregory N., et al.    
+2015, pre-print ([2015arXiv151200483M](http://adsabs.harvard.edu/abs/2015arXiv151200483M))  
+
+4. [HD 144548: A YOUNG TRIPLY ECLIPSING SYSTEM IN THE UPPER SCORPIUS OB ASSOCIATION](http://adsabs.harvard.edu/abs/2015A&A...584L...8A)  
+Alonso, R., Deeg, H. J., Hoyer, S., et al.    
+2015, refereed ([2015A&A...584L...8A](http://adsabs.harvard.edu/abs/2015A&A...584L...8A))  
+
+5. [K2 VARIABLE CATALOGUE II: MACHINE LEARNING CLASSIFICATION OF VARIABLE STARS AND ECLIPSING BINARIES IN K2 FIELDS 0-4](http://adsabs.harvard.edu/abs/2015arXiv151201246A)  
+Armstrong, D. J., Kirk, J., Lam, K. W. F., et al.    
+2015, pre-print ([2015arXiv151201246A](http://adsabs.harvard.edu/abs/2015arXiv151201246A))  
 
 
 2015-11
@@ -42,6 +58,22 @@ Lodieu, N., Alonso, R., Gonzalez Hernandez, J. I., et al.
 3. [TWO TRANSITING LOW DENSITY SUB-SATURNS FROM K2](http://adsabs.harvard.edu/abs/2015arXiv151104497P)  
 Petigura, Erik A., Howard, Andrew W., Lopez, Eric D., et al.    
 2015, pre-print ([2015arXiv151104497P](http://adsabs.harvard.edu/abs/2015arXiv151104497P))  
+
+4. [PLANETARY CANDIDATES FROM THE FIRST YEAR OF THE K2 MISSION](http://adsabs.harvard.edu/abs/2015arXiv151107820V)  
+Vanderburg, Andrew, Latham, David W., Buchhave, Lars A., et al.    
+2015, pre-print ([2015arXiv151107820V](http://adsabs.harvard.edu/abs/2015arXiv151107820V))  
+
+5. [TEN MULTI-PLANET SYSTEMS FROM K2 CAMPAIGNS 1 & 2 AND THE MASSES OF TWO HOT SUPER-EARTHS](http://adsabs.harvard.edu/abs/2015arXiv151109213S)  
+Sinukoff, Evan, Howard, Andrew W., Petigura, Erik A., et al.    
+2015, pre-print ([2015arXiv151109213S](http://adsabs.harvard.edu/abs/2015arXiv151109213S))  
+
+6. [SERENDIPITOUS SCIENCE FROM THE K2 MISSION](http://adsabs.harvard.edu/abs/2015arXiv151109069B)  
+Buzasi, Derek L., Carboneau, Lindsey, Hessler, Carly, et al.    
+2015, pre-print ([2015arXiv151109069B](http://adsabs.harvard.edu/abs/2015arXiv151109069B))  
+
+7. [THE K2-ESPRINT PROJECT III: A CLOSE-IN SUPER-EARTH AROUND A METAL-RICH MID-M DWARF](http://adsabs.harvard.edu/abs/2015arXiv151108508H)  
+Hirano, Teruyuki, Fukui, Akihiko, Mann, Andrew W., et al.    
+2015, pre-print ([2015arXiv151108508H](http://adsabs.harvard.edu/abs/2015arXiv151108508H))  
 
 
 2015-10
