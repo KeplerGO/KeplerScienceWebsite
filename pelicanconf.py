@@ -101,9 +101,6 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b>10 Dec 2015</b>',
-             'K2 Campaign 9 DDT proposals due',
-             'k2-ddt.html'),
             ('<b>01 Jan 2016</b>',
              'K2 Campaign 6 data release (expected)',
              'data-products.html#k2-product-overview'),
@@ -120,18 +117,18 @@ IMPORTANT_DATES = (
 
 # Defines the "meetings" box on the front page
 MEETINGS = (
-            ('<b>29 Nov - 4 Dec 2015</b><br>'
-             'Extreme Solar Systems III',
-             'http://ciera.northwestern.edu/Hawaii2015.php'),
             ('<b>9-10 Dec 2015</b><br>'
              '5th Australian Exoplanet Workshop',
              'http://astronomy.swin.edu.au/planets/FifthWorkshop2015/'),
             ('<b>5 Jan 2015</b><br>'
-             'K2 Special Session at #AAS227',
+             'K2 Special Session @ #AAS227',
              'http://keplerscience.arc.nasa.gov/k2-special-session-at-aas227-on-5-jan-2016.html'),
+            ('<b>13-15 Jan 2016</b><br>'
+             'K2 Session @ 20th Microlensing Workshop',
+             'http://www.iap.fr/microlensing2016/'),
             ('<b>11-15 Jul 2016</b><br>'
-             'KASC Asteroseismology Workshop',
-             'http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/getMeetings.html?number=4796')
+             'TASC2-KASC9 Asteroseismology Workshop',
+             'http://www.iastro.pt/research/conferences/spacetk16/')
             )
 
 # Defines the "related websites" listing in the footer of all pages
