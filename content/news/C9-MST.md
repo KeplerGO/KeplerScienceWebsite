@@ -23,7 +23,6 @@ of detected microlensing events.
 The MST is comprised of the following people:
 
 * David Bennett (NASA Goddard Space Flight Center)
-* Andrew Gould (Ohio State University)
 * Calen Henderson (JPL/Caltech)
 * David Hogg (New York University)
 * Matthew Penny (Ohio State University)
