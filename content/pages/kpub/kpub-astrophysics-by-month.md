@@ -75,6 +75,34 @@ Schuetz, Marlin, Vakoch, Douglas A., Shostak, Seth, et al.
 Brun, A. S., García, R. A., Houdek, G., et al.    
 2015, refereed ([2015SSRv..196..303B](http://adsabs.harvard.edu/abs/2015SSRv..196..303B))  
 
+12. [THE K2 ECLIPTIC PLANE INPUT CATALOG (EPIC) AND STELLAR CLASSIFICATIONS OF 119,000 TARGETS IN CAMPAIGNS 1-7](http://adsabs.harvard.edu/abs/2015arXiv151202643H)  
+Huber, Daniel, Bryson, Stephen T., Haas, Michael R., et al.    
+2015, pre-print ([2015arXiv151202643H](http://adsabs.harvard.edu/abs/2015arXiv151202643H))  
+
+13. [VARIABILITY OF KEPLER SOLAR-LIKE STARS HARBORING SMALL EXOPLANETS](http://adsabs.harvard.edu/abs/2015arXiv151203108H)  
+Howell, Steve B., Ciardi, David R., Giampapa, Mark S., et al.    
+2015, pre-print ([2015arXiv151203108H](http://adsabs.harvard.edu/abs/2015arXiv151203108H))  
+
+14. [CONSTRAINTS ON THE CIRCUMSTELLAR DUST AROUND KIC 8462852](http://adsabs.harvard.edu/abs/2015arXiv151203693T)  
+Thompson, M. A., Scicluna, P., Kemper, F., et al.    
+2015, pre-print ([2015arXiv151203693T](http://adsabs.harvard.edu/abs/2015arXiv151203693T))  
+
+15. [THEY ARE SMALL WORLDS AFTER ALL: REVISED PROPERTIES OF KEPLER M DWARF STARS AND THEIR PLANETS](http://adsabs.harvard.edu/abs/2015arXiv151204437G)  
+Gaidos, E., Mann, A. W., Kraus, A. L., et al.    
+2015, pre-print ([2015arXiv151204437G](http://adsabs.harvard.edu/abs/2015arXiv151204437G))  
+
+16. [AN ECLIPSING DOUBLE-LINE SPECTROSCOPIC BINARY AT THE STELLAR/SUBSTELLAR BOUNDARY IN THE UPPER SCORPIUS OB ASSOCIATION](http://adsabs.harvard.edu/abs/2015A&A...584A.128L)  
+Lodieu, N., Alonso, R., González Hernández, J. I., et al.    
+2015, refereed ([2015A&A...584A.128L](http://adsabs.harvard.edu/abs/2015A&A...584A.128L))  
+
+17. [A GRANULATION "FLICKER"-BASED MEASURE OF STELLAR SURFACE GRAVITY](http://adsabs.harvard.edu/abs/2015arXiv151203454B)  
+Bastien, Fabienne A., Stassun, Keivan G., Basri, Gibor, et al.    
+2015, pre-print ([2015arXiv151203454B](http://adsabs.harvard.edu/abs/2015arXiv151203454B))  
+
+18. [TESTING THE CORES OF FIRST ASCENT RED-GIANT STARS USING THE PERIOD SPACING OF G MODES](http://adsabs.harvard.edu/abs/2015arXiv151203656L)  
+Lagarde, Nadège, Bossini, Diego, Miglio, Andrea, et al.    
+2015, pre-print ([2015arXiv151203656L](http://adsabs.harvard.edu/abs/2015arXiv151203656L))  
+
 
 2015-11
 -------

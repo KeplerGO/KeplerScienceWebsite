@@ -5,8 +5,8 @@ Save_as: publications.html
 
 The Guest Observer office curates a list of scientific publications
 pertaining to Kepler and K2.
-The database contains 1583 publications,
-of which 1400 are peer-reviewed.
+The database contains 1595 publications,
+of which 1402 are peer-reviewed.
 It demonstrates the important impact of Kepler/K2 data
 on astronomical research.
 
@@ -23,7 +23,7 @@ Or by topic:
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/KeplerGO/kpub">GitHub repository</a> of the database.
 
-Last update: 09 Dec 2015.
+Last update: 17 Dec 2015.
 
 <hr/>
 
@@ -31,8 +31,8 @@ Last update: 09 Dec 2015.
 
 The graph below shows the number of publications as a function
 of year and mission.
-The publication count for Kepler is 1506,
-that of K2 is 77.
+The publication count for Kepler is 1514,
+that of K2 is 81.
 
 ![Publication rate by mission and year]({filename}/images/kpub/kpub-publication-rate.png)
 
@@ -42,9 +42,9 @@ that of K2 is 77.
 
 Both Kepler and K2 data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 767 works relate to exoplanets
+While 772 works relate to exoplanets
 (48%),
-a total of 816
+a total of 823
 pertain to other areas of astrophysics
 (52%).
 
@@ -56,7 +56,7 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 Kepler/K2 publications have cumulatively been cited
-37497 times.
+37499 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -101,14 +101,14 @@ Batalha, Natalie M., Borucki, William J., Bryson, Stephen T., et al.
 [2011ApJ...729...27B](http://adsabs.harvard.edu/abs/2011ApJ...729...27B)
 <span class="badge">273 citations</span>
 
-9. GRAVITY AND LIMB-DARKENING COEFFICIENTS FOR THE KEPLER, COROT, SPITZER, UVBY, UBVRIJHK, AND SLOAN PHOTOMETRIC SYSTEMS  
-Claret, A., Bloemen, S.    
-[2011A&A...529A..75C](http://adsabs.harvard.edu/abs/2011A&A...529A..75C)
-<span class="badge">269 citations</span>
-
-10. KEPLER-16: A TRANSITING CIRCUMBINARY PLANET  
+9. KEPLER-16: A TRANSITING CIRCUMBINARY PLANET  
 Doyle, Laurance R., Carter, Joshua A., Fabrycky, Daniel C., et al.    
 [2011Sci...333.1602D](http://adsabs.harvard.edu/abs/2011Sci...333.1602D)
+<span class="badge">269 citations</span>
+
+10. GRAVITY AND LIMB-DARKENING COEFFICIENTS FOR THE KEPLER, COROT, SPITZER, UVBY, UBVRIJHK, AND SLOAN PHOTOMETRIC SYSTEMS  
+Claret, A., Bloemen, S.    
+[2011A&A...529A..75C](http://adsabs.harvard.edu/abs/2011A&A...529A..75C)
 <span class="badge">269 citations</span>
 
 11. THE FALSE POSITIVE RATE OF KEPLER AND THE OCCURRENCE OF PLANETS  
@@ -176,7 +176,7 @@ within the last 90 days.
 ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 2905 unique author names.
+by a total of 2917 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
 
@@ -186,74 +186,76 @@ Here we list the most-active authors, defined as those with six or more first-au
 
  * Kane, S (11 publications)
 
- * Armstrong, D (10 publications)
-
  * Chaplin, W (10 publications)
 
- * Baran, A (9 publications)
-
- * Ramsay, G (9 publications)
-
- * Murphy, S (9 publications)
+ * Armstrong, D (10 publications)
 
  * Hekker, S (9 publications)
 
- * Molenda-Zakowicz, J (9 publications)
-
  * Steffen, J (9 publications)
-
- * Wang, J (9 publications)
 
  * Savanov, I (9 publications)
 
- * Ostensen, R (8 publications)
+ * Huber, D (9 publications)
 
- * Kato, T (8 publications)
+ * Ramsay, G (9 publications)
+
+ * Baran, A (9 publications)
+
+ * Murphy, S (9 publications)
+
+ * Wang, J (9 publications)
+
+ * Molenda-Zakowicz, J (9 publications)
+
+ * Ostensen, R (8 publications)
 
  * Sanchis-Ojeda, R (8 publications)
 
- * Huber, D (8 publications)
-
  * Mosser, B (8 publications)
 
- * Scaringi, S (8 publications)
+ * Gaidos, E (8 publications)
 
  * Stello, D (8 publications)
 
- * Gilliland, R (7 publications)
+ * Kato, T (8 publications)
 
- * Tkachenko, A (7 publications)
+ * Scaringi, S (8 publications)
 
  * Silva Aguirre, V (7 publications)
 
  * Santerne, A (7 publications)
 
- * Gaidos, E (7 publications)
+ * Gilliland, R (7 publications)
 
- * Lillo-Box, J (6 publications)
+ * Tkachenko, A (7 publications)
 
  * Rappaport, S (6 publications)
 
- * Bonomo, A (6 publications)
+ * Barclay, T (6 publications)
 
  * Borucki, W (6 publications)
 
- * Lissauer, J (6 publications)
-
  * Colon, K (6 publications)
 
- * Beck, P (6 publications)
-
- * Barclay, T (6 publications)
+ * Lillo-Box, J (6 publications)
 
  * Campante, T (6 publications)
 
- * Metcalfe, T (6 publications)
-
- * Mathur, S (6 publications)
-
  * Faigler, S (6 publications)
+
+ * Bonomo, A (6 publications)
+
+ * Howell, S (6 publications)
 
  * Corsaro, E (6 publications)
 
+ * Mathur, S (6 publications)
+
+ * Lissauer, J (6 publications)
+
+ * Metcalfe, T (6 publications)
+
  * Dawson, R (6 publications)
+
+ * Beck, P (6 publications)

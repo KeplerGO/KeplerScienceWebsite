@@ -43,6 +43,22 @@ Alonso, R., Deeg, H. J., Hoyer, S., et al.
 Armstrong, D. J., Kirk, J., Lam, K. W. F., et al.    
 2015, pre-print ([2015arXiv151201246A](http://adsabs.harvard.edu/abs/2015arXiv151201246A))  
 
+6. [THE K2 ECLIPTIC PLANE INPUT CATALOG (EPIC) AND STELLAR CLASSIFICATIONS OF 119,000 TARGETS IN CAMPAIGNS 1-7](http://adsabs.harvard.edu/abs/2015arXiv151202643H)  
+Huber, Daniel, Bryson, Stephen T., Haas, Michael R., et al.    
+2015, pre-print ([2015arXiv151202643H](http://adsabs.harvard.edu/abs/2015arXiv151202643H))  
+
+7. [SINGLE TRANSIT CANDIDATES FROM K2: DETECTION AND PERIOD ESTIMATION](http://adsabs.harvard.edu/abs/2015arXiv151203722O)  
+Osborn, H. P., Armstrong, D. J., Brown, D. J. A., et al.    
+2015, pre-print ([2015arXiv151203722O](http://adsabs.harvard.edu/abs/2015arXiv151203722O))  
+
+8. [CHARACTERIZATION OF THE K2-19 MULTIPLE-TRANSITING PLANETARY SYSTEM VIA HIGH-DISPERSION SPECTROSCOPY, AO IMAGING, AND TRANSIT TIMING VARIATIONS](http://adsabs.harvard.edu/abs/2015ApJ...815...47N)  
+Narita, Norio, Hirano, Teruyuki, Fukui, Akihiko, et al.    
+2015, refereed ([2015ApJ...815...47N](http://adsabs.harvard.edu/abs/2015ApJ...815...47N))  
+
+9. [AN ECLIPSING DOUBLE-LINE SPECTROSCOPIC BINARY AT THE STELLAR/SUBSTELLAR BOUNDARY IN THE UPPER SCORPIUS OB ASSOCIATION](http://adsabs.harvard.edu/abs/2015A&A...584A.128L)  
+Lodieu, N., Alonso, R., González Hernández, J. I., et al.    
+2015, refereed ([2015A&A...584A.128L](http://adsabs.harvard.edu/abs/2015A&A...584A.128L))  
+
 
 2015-11
 -------

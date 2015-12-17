@@ -71,6 +71,26 @@ Wang, Ji, Fischer, Debra A., Barclay, Thomas, et al.
 Schuler, Simon C., Vaz, Zachary A., Katime Santrich, Orlando J., et al.    
 2015, refereed ([2015ApJ...815....5S](http://adsabs.harvard.edu/abs/2015ApJ...815....5S))  
 
+10. [SINGLE TRANSIT CANDIDATES FROM K2: DETECTION AND PERIOD ESTIMATION](http://adsabs.harvard.edu/abs/2015arXiv151203722O)  
+Osborn, H. P., Armstrong, D. J., Brown, D. J. A., et al.    
+2015, pre-print ([2015arXiv151203722O](http://adsabs.harvard.edu/abs/2015arXiv151203722O))  
+
+11. [THE KEPLER DICHOTOMY IN PLANETARY DISKS: LINKING KEPLER OBSERVABLES TO SIMULATIONS OF LATE-STAGE PLANET FORMATION](http://adsabs.harvard.edu/abs/2015arXiv151203445M)  
+Moriarty, John, Ballard, Sarah    
+2015, pre-print ([2015arXiv151203445M](http://adsabs.harvard.edu/abs/2015arXiv151203445M))  
+
+12. [CHARACTERIZATION OF THE K2-19 MULTIPLE-TRANSITING PLANETARY SYSTEM VIA HIGH-DISPERSION SPECTROSCOPY, AO IMAGING, AND TRANSIT TIMING VARIATIONS](http://adsabs.harvard.edu/abs/2015ApJ...815...47N)  
+Narita, Norio, Hirano, Teruyuki, Fukui, Akihiko, et al.    
+2015, refereed ([2015ApJ...815...47N](http://adsabs.harvard.edu/abs/2015ApJ...815...47N))  
+
+13. [ORBITAL ARCHITECTURES OF PLANET-HOSTING BINARIES: I. FORMING FIVE SMALL PLANETS IN THE TRUNCATED DISK OF KEPLER-444A](http://adsabs.harvard.edu/abs/2015arXiv151203428D)  
+Dupuy, Trent J., Kratter, Kaitlin M., Kraus, Adam L., et al.    
+2015, pre-print ([2015arXiv151203428D](http://adsabs.harvard.edu/abs/2015arXiv151203428D))  
+
+14. [THERE MIGHT BE GIANTS: UNSEEN JUPITER-MASS PLANETS AS SCULPTORS OF TIGHTLY-PACKED PLANETARY SYSTEMS](http://adsabs.harvard.edu/abs/2015arXiv151202649H)  
+Hands, T. O., Alexander, R. D.    
+2015, pre-print ([2015arXiv151202649H](http://adsabs.harvard.edu/abs/2015arXiv151202649H))  
+
 
 2015-11
 -------

@@ -103,6 +103,38 @@ Schuetz, Marlin, Vakoch, Douglas A., Shostak, Seth, et al.
 Brun, A. S., García, R. A., Houdek, G., et al.    
 2015, refereed ([2015SSRv..196..303B](http://adsabs.harvard.edu/abs/2015SSRv..196..303B))  
 
+16. [VARIABILITY OF KEPLER SOLAR-LIKE STARS HARBORING SMALL EXOPLANETS](http://adsabs.harvard.edu/abs/2015arXiv151203108H)  
+Howell, Steve B., Ciardi, David R., Giampapa, Mark S., et al.    
+2015, pre-print ([2015arXiv151203108H](http://adsabs.harvard.edu/abs/2015arXiv151203108H))  
+
+17. [CONSTRAINTS ON THE CIRCUMSTELLAR DUST AROUND KIC 8462852](http://adsabs.harvard.edu/abs/2015arXiv151203693T)  
+Thompson, M. A., Scicluna, P., Kemper, F., et al.    
+2015, pre-print ([2015arXiv151203693T](http://adsabs.harvard.edu/abs/2015arXiv151203693T))  
+
+18. [THE KEPLER DICHOTOMY IN PLANETARY DISKS: LINKING KEPLER OBSERVABLES TO SIMULATIONS OF LATE-STAGE PLANET FORMATION](http://adsabs.harvard.edu/abs/2015arXiv151203445M)  
+Moriarty, John, Ballard, Sarah    
+2015, pre-print ([2015arXiv151203445M](http://adsabs.harvard.edu/abs/2015arXiv151203445M))  
+
+19. [THEY ARE SMALL WORLDS AFTER ALL: REVISED PROPERTIES OF KEPLER M DWARF STARS AND THEIR PLANETS](http://adsabs.harvard.edu/abs/2015arXiv151204437G)  
+Gaidos, E., Mann, A. W., Kraus, A. L., et al.    
+2015, pre-print ([2015arXiv151204437G](http://adsabs.harvard.edu/abs/2015arXiv151204437G))  
+
+20. [ORBITAL ARCHITECTURES OF PLANET-HOSTING BINARIES: I. FORMING FIVE SMALL PLANETS IN THE TRUNCATED DISK OF KEPLER-444A](http://adsabs.harvard.edu/abs/2015arXiv151203428D)  
+Dupuy, Trent J., Kratter, Kaitlin M., Kraus, Adam L., et al.    
+2015, pre-print ([2015arXiv151203428D](http://adsabs.harvard.edu/abs/2015arXiv151203428D))  
+
+21. [THERE MIGHT BE GIANTS: UNSEEN JUPITER-MASS PLANETS AS SCULPTORS OF TIGHTLY-PACKED PLANETARY SYSTEMS](http://adsabs.harvard.edu/abs/2015arXiv151202649H)  
+Hands, T. O., Alexander, R. D.    
+2015, pre-print ([2015arXiv151202649H](http://adsabs.harvard.edu/abs/2015arXiv151202649H))  
+
+22. [A GRANULATION "FLICKER"-BASED MEASURE OF STELLAR SURFACE GRAVITY](http://adsabs.harvard.edu/abs/2015arXiv151203454B)  
+Bastien, Fabienne A., Stassun, Keivan G., Basri, Gibor, et al.    
+2015, pre-print ([2015arXiv151203454B](http://adsabs.harvard.edu/abs/2015arXiv151203454B))  
+
+23. [TESTING THE CORES OF FIRST ASCENT RED-GIANT STARS USING THE PERIOD SPACING OF G MODES](http://adsabs.harvard.edu/abs/2015arXiv151203656L)  
+Lagarde, Nadège, Bossini, Diego, Miglio, Andrea, et al.    
+2015, pre-print ([2015arXiv151203656L](http://adsabs.harvard.edu/abs/2015arXiv151203656L))  
+
 
 2015-11
 -------
