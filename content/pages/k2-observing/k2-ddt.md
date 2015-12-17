@@ -26,7 +26,7 @@ DDT proposals are reviewed for both technical feasibility by someone in the proj
 To ensure that approved targets are included in the final target lists for each campaign, proposals must be submitted by the following dates:
 
 * October 5, 2015 for Campaign 8 <font color=red> (deadline has passed)</font>
-* December 10, 2015 for Campaign 9
+* December 10, 2015 for Campaign 9 <font color=red> (deadline has passed)</font>
 * March 10, 2016 for Campaign 10
  
 We expect to observe several hundred targets through the DDT program, which amounts to a few per cent of the total targets allocated. The exact number of DDTs to be observed largely depends on the number of short versus long cadence DDTs approved. 

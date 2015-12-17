@@ -26,7 +26,7 @@ source code on [Github](https://github.com/keplergo).
     <td>PyKE</td>
     <td>A tool to create light curves with user-chosen pixel apertures and
     cotrend and/or detrend data.</td>
-	<td><a href="data/pyke/PyKE.tar">download the latest version of PyKE</a></td>
+	<td><a href="https://github.com/KeplerGO/PyKE/releases">download the latest version of PyKE</a></td>
 	</tr>
 
 </table>
@@ -90,7 +90,7 @@ PyKE is a python-based [PyRAF](http://www.stsci.edu/institute/software_hardware/
 
 [A PyRAF tutorial is provided here](http://stsdas.stsci.edu/pyraf/doc.old/pyraf_tutorial/), explaining functionality and the evolution of IRAF into a python-based scripting language. The Kepler tools have been tested against PyRAF version 2.1.6. Please report any deviant behavior using later versions of these packages.
 
-* [Download the PyKE package tarball](data/pyke/PyKE.tar).
+* [Download the PyKE package tarball](https://github.com/KeplerGO/PyKE/releases).
 * To install the Kepler package first create an empty directory to contain the PyKE package files. The most uniform place for this directory is alongside similar packages in the IRAF tree such as stsdas/ and tables/. If PyRAF has been installed e.g. on a Mac using the Ureka instructions on the STScI python page then create a directory called /usr/local/Ureka/variants/common/iraf/kepler. Doing this may require administrator privileges. The command to create a new directory will be sudo mkdir /usr/local/Ureka/variants/common/iraf/kepler. 
 
 * The folder /usr/local/Ureka/variants/common/iraf/kepler may already exist. If so, it was installed by the Ureka build and more often than not will contain an older version of the PyKE tools. We recommend you delete the content of that folder before continuing.
@@ -102,7 +102,7 @@ include the two lines (again administrator privileges may be needed here): <br/>
 *reset kepler = /usr/local/Ureka/variants/common/iraf/kepler/* <br/>
 *task kepler.pkg = kepler$kepler.cl*
 
-* Change directories to the PyKE root directory /usr/local/Ureka/variants/common/iraf/kepler and unpack the downloaded file PyKE.tar:<br/>
+* Change directories to the PyKE root directory /usr/local/Ureka/variants/common/iraf/kepler and unpack the downloaded PyKE tarball:<br/>
 % cd /usr/local/Ureka/variants/common/iraf/kepler/<br/>
 % tar xvf *path*/PyKE.tar<br/>
 where *path* is the location of the downloaded file. The tar operation may require root privilege.
