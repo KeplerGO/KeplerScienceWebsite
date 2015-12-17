@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2015-12-14" />
+    <meta name="dc.date.modified" content="2015-12-16" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -157,7 +157,7 @@ source code on <a href="https://github.com/keplergo">Github</a>. </p>
 <td>PyKE</td>
 <td>A tool to create light curves with user-chosen pixel apertures and
     cotrend and/or detrend data.</td>
-<td><a href="data/pyke/PyKE.tar">download the latest version of PyKE</a></td>
+<td><a href="https://github.com/KeplerGO/PyKE/releases">download the latest version of PyKE</a></td>
 </tr>
 </table>
 <h3 id="k2fov">K2fov</h3>
@@ -202,7 +202,7 @@ existing tasks by the community are welcome.</p>
 <p>PyKE is a python-based <a href="http://www.stsci.edu/institute/software_hardware/pyraf">PyRAF</a> package which can also be executed without PyRAF on the command line of a shell. In order to install and run PyKE as a PyRAF package on your Mac or Linux platform you will need PyRAF to be pre-installed <a href="http://www.stsci.edu/institute/software_hardware/pyraf/stsci_python/installation">following these instructions</a>. We recommend the Ureka binary install option.</p>
 <p><a href="http://stsdas.stsci.edu/pyraf/doc.old/pyraf_tutorial/">A PyRAF tutorial is provided here</a>, explaining functionality and the evolution of IRAF into a python-based scripting language. The Kepler tools have been tested against PyRAF version 2.1.6. Please report any deviant behavior using later versions of these packages.</p>
 <ul>
-<li><a href="data/pyke/PyKE.tar">Download the PyKE package tarball</a>.</li>
+<li><a href="https://github.com/KeplerGO/PyKE/releases">Download the PyKE package tarball</a>.</li>
 <li>
 <p>To install the Kepler package first create an empty directory to contain the PyKE package files. The most uniform place for this directory is alongside similar packages in the IRAF tree such as stsdas/ and tables/. If PyRAF has been installed e.g. on a Mac using the Ureka instructions on the STScI python page then create a directory called /usr/local/Ureka/variants/common/iraf/kepler. Doing this may require administrator privileges. The command to create a new directory will be sudo mkdir /usr/local/Ureka/variants/common/iraf/kepler. </p>
 </li>
@@ -218,7 +218,7 @@ include the two lines (again administrator privileges may be needed here): <br/>
 <em>task kepler.pkg = kepler$kepler.cl</em></p>
 </li>
 <li>
-<p>Change directories to the PyKE root directory /usr/local/Ureka/variants/common/iraf/kepler and unpack the downloaded file PyKE.tar:<br/>
+<p>Change directories to the PyKE root directory /usr/local/Ureka/variants/common/iraf/kepler and unpack the downloaded PyKE tarball:<br/>
 % cd /usr/local/Ureka/variants/common/iraf/kepler/<br/>
 % tar xvf <em>path</em>/PyKE.tar<br/>
 where <em>path</em> is the location of the downloaded file. The tar operation may require root privilege.</p>
@@ -769,7 +769,7 @@ indicated. <a href="http://archive.stsci.edu/kepler/ffi_display.php">The Kepler 
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Tue 08 December 2015
+         Last modified: Wed 16 December 2015
             &middot; Editor: Thomas Barclay &middot; NASA Official: Jessie Dotson 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
