@@ -31,8 +31,8 @@ Last update: 17 Dec 2015.
 
 The graph below shows the number of publications as a function
 of year and mission.
-The publication count for Kepler is 1505,
-that of K2 is 80.
+The publication count for Kepler is 1504,
+that of K2 is 81.
 
 ![Publication rate by mission and year]({filename}/images/kpub/kpub-publication-rate.png)
 
@@ -42,11 +42,11 @@ that of K2 is 80.
 
 Both Kepler and K2 data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 768 works relate to exoplanets
-(48%),
-a total of 817
+While 769 works relate to exoplanets
+(49%),
+a total of 816
 pertain to other areas of astrophysics
-(52%).
+(51%).
 
 
 ![Publications by subject]({filename}/images/kpub/kpub-piechart.png)
@@ -184,76 +184,76 @@ Here we list the most-active authors, defined as those with six or more first-au
 
  * Kipping, D (17 publications)
 
- * Steffen, J (10 publications)
-
  * Huber, D (10 publications)
 
- * Chaplin, W (10 publications)
+ * Steffen, J (10 publications)
 
  * Kane, S (10 publications)
 
+ * Chaplin, W (10 publications)
+
  * Baran, A (9 publications)
 
- * Savanov, I (9 publications)
-
- * Armstrong, D (9 publications)
+ * Murphy, S (9 publications)
 
  * Molenda-Zakowicz, J (9 publications)
-
- * Murphy, S (9 publications)
 
  * Hekker, S (9 publications)
 
  * Wang, J (9 publications)
 
- * Sanchis-Ojeda, R (8 publications)
+ * Armstrong, D (9 publications)
 
- * Gaidos, E (8 publications)
+ * Savanov, I (9 publications)
+
+ * Ramsay, G (8 publications)
+
+ * Stello, D (8 publications)
+
+ * Kato, T (8 publications)
 
  * Ostensen, R (8 publications)
 
- * Ramsay, G (8 publications)
+ * Gaidos, E (8 publications)
+
+ * Sanchis-Ojeda, R (8 publications)
 
  * Scaringi, S (8 publications)
 
  * Mosser, B (8 publications)
 
- * Kato, T (8 publications)
-
- * Stello, D (8 publications)
-
- * Gilliland, R (7 publications)
-
  * Santerne, A (7 publications)
-
- * Silva Aguirre, V (7 publications)
 
  * Tkachenko, A (7 publications)
 
+ * Silva Aguirre, V (7 publications)
+
+ * Gilliland, R (7 publications)
+
+ * Lillo-Box, J (6 publications)
+
+ * Rappaport, S (6 publications)
+
  * Barclay, T (6 publications)
+
+ * Colon, K (6 publications)
+
+ * Corsaro, E (6 publications)
+
+ * Dawson, R (6 publications)
 
  * Borucki, W (6 publications)
 
  * Lissauer, J (6 publications)
 
- * Mathur, S (6 publications)
-
  * Beck, P (6 publications)
 
- * Colon, K (6 publications)
+ * Mathur, S (6 publications)
 
  * Howell, S (6 publications)
 
  * Metcalfe, T (6 publications)
 
- * Dawson, R (6 publications)
-
  * Campante, T (6 publications)
 
  * Bonomo, A (6 publications)
-
- * Rappaport, S (6 publications)
-
- * Lillo-Box, J (6 publications)
-
- * Corsaro, E (6 publications)
