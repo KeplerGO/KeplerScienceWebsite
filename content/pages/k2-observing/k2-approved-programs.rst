@@ -14,6 +14,10 @@ of a Campaign.  Some details of the approved programs are provided
 here, but the `data release notes <data-products.html#k2-data-release-notes>`_ should be consulted for more
 comprehensive notes for each Campaign.
 
+Campaign 8
+---------------------
+.. include:: approved-programs/c8.html
+
 Campaign 7
 ---------------------
 .. include:: approved-programs/c7.html
