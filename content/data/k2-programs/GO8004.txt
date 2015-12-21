@@ -15,7 +15,7 @@ We propose to explore core structure of horizontal branch (HB) stars by applying
      We have also incorporated students into our work. Many of our papers include graduate and undergraduate students as significant contributors. Missouri State University does not have a graduate program, and as a result, undergraduate students have learned to process, analyze, and interpret NASA Satellite data to detect pulsations and signatures of binarity. They have also been involved in pre- and post-Kepler characterization studies, providing them with a broad range of training.
 
 
-# Observed targets associated with this program (7)
+# Targets requested by this program that have been observed (7)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220179214, 18.5775471, -0.820448, 14.926, GO8018_LC|GO8004_LC|GO8007_LC|GO8004_SC|GO8007_SC
 220265912, 14.6027765, 1.909745, 15.192, GO8004_LC|GO8007_LC|GO8004_SC|GO8007_SC

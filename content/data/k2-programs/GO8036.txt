@@ -12,7 +12,7 @@ We have selected ~1400 targets for long-cadence observations using colors, reduc
 The proposal addresses two main K2 science goals: exoplanet detection and stellar astrophysics. Due to the low number of K2 short-cadence slots, our survey is the only K2 program allowing a systematic combination of asteroseismology and transits to characterize exoplanets. Kepler was not optimized towards observing bright low-luminosity RGB stars, and hence new K2 observations are required to address the key science questions of this project.
 
 
-# Observed targets associated with this program (471)
+# Targets requested by this program that have been observed (471)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220143642, 17.1109066, -2.1328321, 11.962, GO8042_LC|GO8036_LC
 220145271, 17.3321953, -2.067606, 11.444, GO8042_LC|GO8036_LC

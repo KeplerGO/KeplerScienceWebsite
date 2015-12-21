@@ -16,7 +16,7 @@ The probability for a transit by an Earth-size planet at 0.01 AU is 1%. Hence, t
 In addition to the transit search, the 30-min cadence of the LC data is well suited for measuring the rotation periods for a large number of WDs for the first time. WDs have typical rotation periods of a few hours to a few days, though there are only a handful of measurements available. Kepler's precision provides an excellent opportunity to measure the rotation periods for our targets, including the ones with relatively weak magnetic fields. We have already analyzed the K2 data from Fields 0 and 1, and identified a 2.4h period eclipsing double WD system (paper in prep) and detected variability in about a dozen WDs. The former system displays 70s long eclipses (as confirmed from the ground), and demonstrates our team's ability in making excellent use of the K2 data.
 
 
-# Observed targets associated with this program (124)
+# Targets requested by this program that have been observed (124)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220155299, 17.5551662, -1.700832, 16.659, GO8018_LC|GO8019_LC|GO8006_LC|GO8048_LC|GO8018_SC|GO8048_SC
 220167900, 18.6740856, -1.289825, 18.476, GO8018_LC|GO8019_LC|GO8006_LC

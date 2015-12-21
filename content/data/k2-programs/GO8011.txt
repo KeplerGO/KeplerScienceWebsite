@@ -8,7 +8,7 @@ CoIs:
 This program will use very sensitive photometric observations of white dwarfs by Kepler/K2 during Campaigns 8 and 10 to search for rotational modulation of the flux from low-magnetic field white dwarf stars caused by magnetic phenomena (such as starspots and plages). On the expected white dwarf rotation periods (about 1 day, generalizing from nonradially pulsating white dwarfs), the low amplitude of the expected variations renders them extremely difficult to detect using ground-based photometry. K2 will be able to observe many well-studied field (and cluster) white dwarfs. Measurement of rotation modulation (or even upper limits to photometric amplitude variations) will further exploit those data to teach us about magnetic fields in these stars that are otherwise inaccessible observationally. In the nonradially pulsating white dwarfs, we can independently measure the rotation rate, providing a test of asteroseismic rotation periods.
 
 
-# Observed targets associated with this program (12)
+# Targets requested by this program that have been observed (12)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220171396, 17.6749439, -1.14424, 15.33, GO8012_LC|GO8018_LC|GO8006_LC|GO8042_LC|GO8011_LC
 220195291, 20.4510002, -0.181386, 16.581, GO8018_LC|GO8019_LC|GO8006_LC|GO8048_LC|GO8011_LC

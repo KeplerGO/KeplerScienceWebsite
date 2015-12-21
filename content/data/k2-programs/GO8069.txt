@@ -12,7 +12,7 @@ We have developed a method for exoplanet transit search using K2 data that resul
 We propose to target the brightest (~100) Sgr stream member stars in Campaign 8 of the K2 Mission and, using our transit detection procedure, search the light curves for large planets transiting these giant stars. These signals will be small and the light curves will be noisy, therefore robust noise modeling will be crucial for transit signal discovery. While the chance of discovering a transiting planet belonging to the Sgr stream is low, the cost is low and the discovery of even a single transiting planet of extragalactic origin would be exciting.
 
 
-# Observed targets associated with this program (16)
+# Targets requested by this program that have been observed (16)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220189330, 14.4389257, -0.411892, 16.449, GO8069_LC
 220201765, 17.6102123, 0.059295, 14.731, GO8069_LC

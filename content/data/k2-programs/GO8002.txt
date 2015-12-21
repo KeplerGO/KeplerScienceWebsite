@@ -18,7 +18,7 @@ The aim of the present proposal is to perform an asteroseismic study of bright s
 Based on previous proposals, we estimate requesting for 30 to 40 targets per campaign. These targets should show detectable solar-like oscillations with periods of the order of minutes, meaning that SC data are a pre-requisite for detecting the oscillations. We will be preparing analysis-ready light curves from the target pixel data using in-house software. Next, we shall apply well-tested analysis procedures to the frequency-power spectra of the light curves. These procedures will be used to estimate both the global seismic parameters and the parameters describing individual modes of oscillation (in particular their frequencies). Finally, detailed frequency modeling using state-of-the-art stellar evolution codes will provide the properties of the stars. An important aspect will be to understand the systematics on the derived properties that arise from changes in the input physics and the effects introduced by different evolutionary codes. The methodology delineated above has already been successfully applied to the analysis of K2 Campaign 1 data, for which we reached a very good understanding of the asteroseismic detection yield.
 
 
-# Observed targets associated with this program (41)
+# Targets requested by this program that have been observed (41)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220154470, 16.7957954, -1.732082, 7.285, GO8013_LC|GO8051_LC|GO8077_LC|GO8031_LC|GO8002_LC|GO8028_LC
 220158274, 17.5245609, -1.599106, 9.452, GO8051_LC|GO8032_LC|GO8077_LC|GO8002_LC|GO8028_LC

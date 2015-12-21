@@ -16,7 +16,7 @@ Using these diagnostics, our group has recently demonstrated a bias in variabili
 Without a better understanding of differences in quasar variability across the diversity of quasar emission line properties, we will not be able to fully understand the physics of quasar variability.  To address this problem, we propose to observe 975 known (and candidate) luminous quasars with a mean redshift of z~1.5 -- such objects are far more likely to host winds than the typical AGNs studied by Kepler/K2 to date.  Stacking analysis of the quasars as a function of their known intrinsic properties will allow us to overcome the relatively short timescale of the K2 observing campaigns and will enable us to distinguish differences in the variability of quasars with and without strong winds.	Crucially 166 of our targets are in the so-called SDSS Stripe 82 area and already have up to 100 epochs of data over the course of 8 years.  The combination of these data with new K2 data would be an incredibly powerful tool for AGN variability analysis.
 
 
-# Observed targets associated with this program (529)
+# Targets requested by this program that have been observed (529)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220149324, 17.0448513, -1.915995, 19.061, GO8052_LC
 220152700, 16.5260639, -1.797178, 18.377, GO8052_LC

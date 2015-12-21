@@ -20,7 +20,7 @@ By including wide binary components as Kepler targets, we will produce a valuabl
 Target Selection. We will use the proper motion catalogue produced by Kraus et al. (2014) based on the methods of Kraus & Hillenbrand (2007) including proper motions, estimated spectral types and distance moduli from SED fitting. We will select objects in both Fields 8 and 10 with significant (>5sigma) proper motions above 30mas/yr. From these we will select pairs of widely separated objects with common proper motion and distance.  To remove contamination due to coincident pairings of unrelated field stars, we will plot a histogram similar to the one we constructed for field 6 of pair separation. From this we will select pairs which lie in the region dominated by true physical pairs.
 
 
-# Observed targets associated with this program (185)
+# Targets requested by this program that have been observed (185)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220146804, 16.6165981, -2.0116529, 14.052, GO8012_LC|GO8059_LC|GO8042_LC
 220157953, 17.4572372, -1.608523, 15.965, GO8059_LC|GO8031_LC

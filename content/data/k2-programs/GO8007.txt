@@ -14,7 +14,7 @@ The transit depth may vary between 25% (Jovian radius) down to 0.2% (Earth radiu
 The secondary goal of this proposal is to detect photometric variations due to reflection effects by a faint stellar companion, ellipsoidal deformations, Doppler boosting. Kepler has already given an important contribution to this field. K2 can increase by a factor 5 to 10 the statistics of well studied sdB+WD and sdB+M-dwarf systems. We point out that the secondary goal is compatible with LC data.
 
 
-# Observed targets associated with this program (3)
+# Targets requested by this program that have been observed (3)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220179214, 18.5775471, -0.820448, 14.926, GO8018_LC|GO8004_LC|GO8007_LC|GO8004_SC|GO8007_SC
 220265912, 14.6027765, 1.909745, 15.192, GO8004_LC|GO8007_LC|GO8004_SC|GO8007_SC

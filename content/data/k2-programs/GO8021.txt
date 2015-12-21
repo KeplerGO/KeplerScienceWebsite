@@ -26,7 +26,7 @@ pc to accurately determine their rotation rates. In K2 fields 8 and
 10, we will observe seven nearby systems, including three K and four M dwarfs. We expect to have the most complete characterization of a set of the nearest K and M stars in all K2 fields that has ever been accomplished.
 
 
-# Observed targets associated with this program (4)
+# Targets requested by this program that have been observed (4)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220260370, 11.2703934, 1.785521, 8.476, GO8068_LC|GO8051_LC|GO8021_LC|GO8032_LC|GO8077_LC|GO8040_LC|GO8049_LC
 220265960, 18.1979179, 1.910971, 12.776, GO8056_LC|GO8021_LC|GO8042_LC|GO8008_LC

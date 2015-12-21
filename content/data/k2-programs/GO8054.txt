@@ -20,7 +20,7 @@ EXPECTED YIELD. Our target list encompasses 86 targets in total for both campaig
 By combining this proposed program with our previous K2 efforts, we are building up a consistent sample that will allow us to precisely constrain the occurrence rate and physical/orbital properties of terrestrial planets orbiting ultra-cool dwarfs.
 
 
-# Observed targets associated with this program (32)
+# Targets requested by this program that have been observed (32)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220170497, 13.7462835, -1.1875139, 17.417, GO8030_LC|GO8054_LC
 220172329, 18.2399578, -1.103738, 18.397, GO8054_LC

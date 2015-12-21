@@ -14,7 +14,7 @@ Methodology: Nearby stars are among the most well-studied stellar systems, makin
 Relevance of Proposed Research to this Solicitation: While I have only touched on the value of these targets in terms of exoplanet detections and the assessment of habitability, there is a long list of other research programs that this data would facilitate, even if no exoplanets are found. These include stellar activity (spots, rotation, flares) and stellar pulsation. This work identifies a sample of K2 targets, which are directly related to the original Kepler mission of planet discovery, and directly tied to Objective 1.6 in the NASA 2014 Strategic Plan.
 
 
-# Observed targets associated with this program (5)
+# Targets requested by this program that have been observed (5)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220260370, 11.2703934, 1.785521, 8.476, GO8068_LC|GO8051_LC|GO8021_LC|GO8032_LC|GO8077_LC|GO8040_LC|GO8049_LC
 220417763, 15.6023865, 5.0614481, 8.334, GO8032_LC|GO8077_LC|GO8049_LC

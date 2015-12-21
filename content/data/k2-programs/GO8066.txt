@@ -18,7 +18,7 @@ The goal of high precision time resolved photometry is to reduce or in the best 
 Finding these extremely valuable targets will enable us to do exactly the kind of basic research that advances our knowledge by characterization of planets and planetary systems outside of our Solar System in order to determine their compositions, dynamics, energetics, and chemical behaviors. The proposed study will directly support NASAs goal to Discover and study planets around other stars, in order to understand the underlying physical processes of exoplanets and to improve understanding of their origins.
 
 
-# Observed targets associated with this program (479)
+# Targets requested by this program that have been observed (479)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220155692, 17.0379848, -1.687752, 9.529, GO8066_LC|GO8042_LC
 220157170, 17.1019421, -1.63614, 10.496, GO8066_LC|GO8042_LC

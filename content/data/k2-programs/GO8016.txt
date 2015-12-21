@@ -26,7 +26,7 @@ Schaefer, B. E. et al. 2000, ApJ, 529, 1026
 Simon, T. et al. 1980, ApJ, 239, 911
 
 
-# Observed targets associated with this program (7)
+# Targets requested by this program that have been observed (7)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220220139, 20.7095623, 0.712054, 8.399, GO8068_LC|GO8032_LC|GO8077_LC|GO8016_LC|GO8002_LC|GO8002_SC
 220258930, 18.3206272, 1.753653, 13.65, GO8016_LC|GO8042_LC|GO8036_LC

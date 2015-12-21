@@ -8,7 +8,7 @@ CoIs: Rowe, Jason Frank; Quintana, Elisa Victoria; Coughlin, Jeffrey Langer; Cal
 We seek to create a catalog of well-vetted exoplanets discovered by the K2 mission, suitable for follow-up by JWST and other facilities. We propose the observation of approx. 6,000 bright, dwarf stars, over campaigns 8 and 10, which is expected to yield at least 100 transiting exoplanets. We will thoroughly vet these planets to eliminate many different types of false positives, utilizing our group's deep experience in vetting exoplanets discovered by the main Kepler mission. We will create a publicly available catalog of all planet candidates for use in exoplanet occurrence rate and other studies. This proposal utilizes the unique capabilities of the K2 mission, including its extreme photometric precision and continuous 75-day observing range. This proposal directly contributes towards NASA's Astrophysics Divisions science goal to "Discover and study planets around other stars, and explore whether they could harbor life. It also contributes to the K2 solicitation goal of addressing compelling scientific questions in the field of stellar astrophysics.
 
 
-# Observed targets associated with this program (3896)
+# Targets requested by this program that have been observed (3896)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220133206, 16.9701023, -2.58373, 15.212, GO8056_LC|GO8032_LC
 220141540, 17.11689, -2.2254231, 14.946, GO8032_LC

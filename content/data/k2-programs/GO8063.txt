@@ -12,7 +12,7 @@ We propose to observe bright red giants stars in long cadence mode in the K2 cam
 	We have selected ~40 bright (Kp~5-8) red giants which are ideally suited for this project due to their precisely determined distances, large angular sizes for interferometry, and detectable oscillations in the 80 day K2 baseline. Red giants observed by Kepler were generally too faint to meet these criteria, making K2 uniquely suited to perform these observations. Our proposal addresses compelling questions in stellar structure and evolution, and is hence directly related to the K2 GO solicitation.
 
 
-# Observed targets associated with this program (13)
+# Targets requested by this program that have been observed (13)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220216322, 11.477417, 0.579407, 7.519, GO8063_LC|GO8031_LC|GO8036_LC
 220284887, 16.1817017, 2.313714, 8.186, GO8068_LC|GO8063_LC

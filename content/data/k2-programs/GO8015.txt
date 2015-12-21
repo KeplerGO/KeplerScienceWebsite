@@ -22,7 +22,7 @@ Landolt, A. U. 1992, AJ, 104, 340
 Landolt, A. U. 2013, JAAVSO, 41, 159
 
 
-# Observed targets associated with this program (22)
+# Targets requested by this program that have been observed (22)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220210778, 13.793644, 0.385894, 14.384, GO8015_LC
 220217055, 13.9141006, 0.605418, 11.489, GO8042_LC|GO8015_LC

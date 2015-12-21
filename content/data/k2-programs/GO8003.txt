@@ -21,7 +21,7 @@ Only 15 Am stars were observed during the original Kepler mission. So far with K
 The K2 mission provides a unique opportunity to investigate the photometric variability of Am stars at micro-magnitude precision. This will provide new insights into the competition between stellar pulsations and element separation processes, as well as the nature of the stellar (and sub-stellar) companions to these chemically peculiar A-type stars.
 
 
-# Observed targets associated with this program (2)
+# Targets requested by this program that have been observed (2)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220287035, 11.9291792, 2.36112, 14.747, GO8003_LC
 220316998, 18.5285606, 2.996731, 10.919, GO8077_LC|GO8003_LC|GO8028_LC

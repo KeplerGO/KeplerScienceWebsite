@@ -25,7 +25,7 @@ The total eclipse of an Earth-sized WD by a Jovian or BD sized companion in a fe
 We estimate that our target list will be made up of 169 and 108 WDs (campaigns 8 and 10 respectively), that have been spectroscopically identified or are deemed to have a 90% or greater probability of being a WD (Fusillo et al. 2015), and which are brighter than Kepler Magnitude 19.5 from the McCook & Sion and SDSS catalogues.
 
 
-# Observed targets associated with this program (159)
+# Targets requested by this program that have been observed (159)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220153710, 17.5944042, -1.758795, 19.209, GO8019_LC
 220155089, 17.0298996, -1.708256, 19.015, GO8019_LC
