@@ -2,7 +2,7 @@
 
 Title: Rotation of M dwarfs: spindown, activity, and gyrochronology
 
-PI: Aleks Scholz (University of St Andrews)
+PI: Scholz, Aleks (University of St Andrews)
 CoIs: Matt, Sean P; Stelzer, Beate; Peterson, Dawn E
 
 Stellar rotation is a fundamental parameter for the evolution of stars and planets. Perhaps the biggest challenge in this context is to explain the spindown and the rotation-activity interplay in very low mass stars with spectral type M -- the most abundant type of star in our Galaxy. 

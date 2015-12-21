@@ -2,7 +2,7 @@
 
 Title: Searching for Terrestrial Planets Orbiting Cool Stars and Brown Dwarfs with K2
 
-PI: Brice-Olivier Demory (University of Cambridge)
+PI: Demory, Brice-Olivier (University of Cambridge)
 CoIs: Queloz, Didier Patrick; Gillon, Michael; Huber, Daniel
 
 SUMMARY. We propose to use K2 to conduct a detailed search for Earth-sized planets orbiting the brightest cool stars and brown dwarfs (spectral types from M6 to L5, Demory et al., 2013b). This population of objects presents several advantages for exoplanet surveys. First, cool stars and brown dwarfs are small and thus result in favorable planet-to-star area ratios. Second, because of their low effective temperature, the inner edge of their habitable zone can be extremely close (down to a few days only). Third, our targets are bright at infrared wavelengths, which will enable detailed follow-up studies. Our program therefore represents a unique opportunity to find a transiting Earth-size exoplanet for which atmospheric features (including biosignatures) could be detected with near-to-come facilities such as JWST. Such an exoplanet has not been discovered yet. As of today, K2 is the only facility that provides the required stability and photometric precision to make this survey successful. This proposal is a continuation of our K2 campaigns 0 through 7 observations.

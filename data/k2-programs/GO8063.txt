@@ -2,7 +2,7 @@
 
 Title: Testing asteroseismology with bright red giants using C8 and C10 K2 timeseries and interferometry
 
-PI: Tabetha Suzanne Boyajian (Yale University)
+PI: Boyajian, Tabetha Suzanne (Yale University)
 CoIs: Silva Aguirre, Victor; Creevey, Orlagh; Huber, Daniel; White, Timothy R
 
 We propose to observe bright red giants stars in long cadence mode in the K2 campaign fields 8 and 10, where interferometric and high-resolution spectroscopic supporting observations will allow us to address several exciting science questions pertaining to 1) asteroseismic scaling relations, 2) chemical mixing processes in stellar interiors, and 3) the abundance of helium. 

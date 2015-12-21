@@ -2,7 +2,7 @@
 
 Title: Short-cadence lightcurves of WASP-107 and WASP-118: a sub-Saturn transiting a spotted star, and a hot Jupiter
 
-PI: David Robert Anderson (Keele University)
+PI: Anderson, David Robert (Keele University)
 CoIs: Hellier, Coel; Southworth, John
 
 For planets that transit across their host stars, we can use spectroscopy and photometry to measure planetary mass and radius. This leads to constraints on the planets' bulk compositions, internal structures, and formation and evolution histories. We recently discovered two transiting planet systems, WASP-107 and WASP-118, which will be on silicon during K2 campaigns 10 and 8, respectively. 

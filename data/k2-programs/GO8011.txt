@@ -2,7 +2,7 @@
 
 Title: Search for rotational modulation in precise photometry of white dwarf stars
 
-PI: Steven Kawaler (Iowa State University)
+PI: Kawaler, Steven (Iowa State University)
 CoIs: 
 
 This program will use very sensitive photometric observations of white dwarfs by Kepler/K2 during Campaigns 8 and 10 to search for rotational modulation of the flux from low-magnetic field white dwarf stars caused by magnetic phenomena (such as starspots and plages). On the expected white dwarf rotation periods (about 1 day, generalizing from nonradially pulsating white dwarfs), the low amplitude of the expected variations renders them extremely difficult to detect using ground-based photometry. K2 will be able to observe many well-studied field (and cluster) white dwarfs. Measurement of rotation modulation (or even upper limits to photometric amplitude variations) will further exploit those data to teach us about magnetic fields in these stars that are otherwise inaccessible observationally. In the nonradially pulsating white dwarfs, we can independently measure the rotation rate, providing a test of asteroseismic rotation periods.

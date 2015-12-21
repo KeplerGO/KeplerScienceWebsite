@@ -2,7 +2,7 @@
 
 Title: The effect of wide binaries on planet occurrence - K2 Cycle 3
 
-PI: Niall R Deacon (University of Hertfordshire)
+PI: Deacon, Niall R (University of Hertfordshire)
 CoIs: Mann, Andrew Withycombe; Kraus, Adam L
 
 The effect of wide binaries on planet occurrence - K2 Campaigns 8 and 10

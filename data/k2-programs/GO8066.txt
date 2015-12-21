@@ -2,7 +2,7 @@
 
 Title: Catch K2-Twos: Finding the Best Planets for Ground-Based Follow Up Spectrophotometry
 
-PI: Avi M Mandell (NASA GSFC)
+PI: Mandell, Avi M (NASA GSFC)
 CoIs: Morris, Brett M; Huitson, Catherine; Angerhausen, Daniel
 
 Studying extrasolar planets is one of the major frontiers of astronomy today.  The field has transformed from simple identification to comprehensive categorization and characterization of exoplanets and exoplanetary systems. Analyses of data provided by the NASA's Kepler mission has revolutionized this field by compiling a statistically significant number of transiting planets and planetary candidates, providing  time series data for a large sample of systems that can be utilized in consistent comparative studies (e.g. Angerhausen et al., 2015).

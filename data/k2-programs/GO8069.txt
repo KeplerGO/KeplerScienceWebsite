@@ -2,7 +2,7 @@
 
 Title: The search for "extragalactic" exoplanets in the Sagittarius stream
 
-PI: David W Hogg (New York University)
+PI: Hogg, David W (New York University)
 CoIs: Foreman-Mackey, Daniel; Price-Whelan, Adrian M
 
 The proposed pointing for Campaign 8 of the K2 Mission presents an unprecedented opportunity to discover and characterize planets transiting stars belonging to the Sagittarius stellar stream (Sgr stream). The Sgr stream is a well-studied tidal debris structure that wraps around the entire Milky Way and is detected in many different stellar populations (from main sequence to M and K giant stars). The nearest sections of the stream visible in Field 8 span a range of distances from 10-30 kpc, closer than satellite galaxies around the Milky Way but still many times the distance of the farthest known transiting exoplanets. Even at these distances, K2 will be able to easily observe giant stars.

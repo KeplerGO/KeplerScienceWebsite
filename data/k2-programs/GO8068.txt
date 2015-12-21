@@ -2,7 +2,7 @@
 
 Title: Characterizing Small Planets with K2 and HARPS-N
 
-PI: David Charbonneau (Harvard University Dept of Astronomy)
+PI: Charbonneau, David (Harvard University Dept of Astronomy)
 CoIs: Vanderburg, Andrew; Buchhave, Lars A; Lopez-Morales, Mercedes; Latham, David W.; Dressing, Courtney D; Dumusque, Xavier; Johnson, John Asher
 
 Follow-up studies of the small planets detected by Kepler have revealed a remarkable diversity of planet densities, indicating that predicting planetary properties from a radius measurement alone could lead to significant errors in our estimate of the frequency of rocky (and possibly habitable) worlds. We propose to study the relationship between the masses, radii, insolation, and metallicities of small planets by targeting moderately bright stars with K2 and conducting follow-up high-precision radial velocity (RV) measurements with HARPS-N. Our goal is to obtain a mass precision of 15%, the minimum value required to distinguish between compositional models. 

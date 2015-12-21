@@ -2,7 +2,7 @@
 
 Title: Probing the Planetary Population of High-Mass Stars
 
-PI: William D. Cochran (The University of Texas at Austin)
+PI: Cochran, William D. (The University of Texas at Austin)
 CoIs: Shporer, Avi; Johnson, Marshall C
 
 Objectives: To date most planet searches have been confined to stars of spectral type F and later, as hotter stars have fewer spectral lines and tend to be rapidly rotating, making precise radial velocity (RV) observations difficult. By observing a sample of A and early F stars, K2 can expand the number of known planets around stars with M~1.5-2.5 M_sun. This population has been probed largely through RV surveys of subgiant stars in this mass range [1], but the masses of these stars have been debated [2]. During its primary mission, Kepler discovered a handful of planets around A-type stars, most notably Kepler-13 Ab [3], plus a number of planet candidates which are pending validation. K2 observations of main sequence A and F stars will complement subgiant RV observations, as K2 is sensitive to smaller planets and will be able to probe close-in planets that have already been engulfed by the subgiants. K2 can thus be used to expand the sample of known transiting planets around these stars, which currently number seven confirmed planets, too few to allow statistically significant investigations of this population. We thus propose to search for planets around such stars with K2.

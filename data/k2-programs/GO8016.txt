@@ -2,7 +2,7 @@
 
 Title: Superflares on RS CVn and BY Dra Stars
 
-PI: Bradley E. Schaefer (Louisiana State University)
+PI: Schaefer, Bradley E. (Louisiana State University)
 CoIs: Hudson, Hugh S
 
 It came as a startling surprise when otherwise-ordinary G-type main sequence stars (including some of the closest known solar twins) were discovered to have flares with energies 10^34 to 10^39 ergs (Schaefer et al. 2000).  These 'superflares' have durations from minutes to days, amplitudes up to 3 mags, and emission from X-ray to radio.  Kepler has made for a revolution in superflares by providing large event numbers on many Sun-like stars (Maehara et al. 2012; Schaefer 2012).  The most popular current model has reconnection of the magnetic fields stretching between the Sun-like star and a nearby planet (Rubenstein & Schaefer 2000; Lanza 2008).  This scenario was explicitly stealing the model for RS CVn superflares.

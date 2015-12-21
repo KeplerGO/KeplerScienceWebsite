@@ -2,7 +2,7 @@
 
 Title: K2 Observations of Variable White Dwarfs in Fields 8 and 10
 
-PI: James J Hermes (Astronomy Group)
+PI: Hermes, James J (Astronomy Group)
 CoIs: Kawaler, Steven; Montgomery, Mike; Gentile Fusillo, Nicola; Raddi, Roberto; Gaensicke, Boris Teddy; Bell, Keaton; Winget, D. E.
 
 We propose observations of variable white dwarfs in Fields 8 & 10 of the K2 mission. We propose short-cadence observations of known and high-probability pulsating white dwarfs within the empirical DAV instability strip. We additionally propose observations of known magnetic and convective-atmosphere white dwarfs to constrain magnetic activity in these stars.

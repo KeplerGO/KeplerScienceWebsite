@@ -2,7 +2,7 @@
 
 Title: Monitoring the Closest Stars in K2 Fields 8 and 10
 
-PI: Wei-Chun Jao (Georgia State University)
+PI: Jao, Wei-Chun (Georgia State University)
 CoIs: Henry, Todd J.
 
 The fundamentals of stellar astronomy are built upon studies of nearby

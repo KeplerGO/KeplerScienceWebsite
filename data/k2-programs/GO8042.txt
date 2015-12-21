@@ -2,7 +2,7 @@
 
 Title: Galactic Archaeology on a grand scale
 
-PI: Dennis Stello (University of Sydney)
+PI: Stello, Dennis (University of Sydney)
 CoIs: Pinsonneault, Marc Howard; Mathur, Savita; Miglio, Andrea; Freeman, Kenneth; Buzasi, Derek L; Sharma, Sanjib
 
 MOTIVATION: Unravelling the evolutionary history of the Milky Way has been a long-standing problem in contemporary astrophysics, and solving this will have significant ramifications for our understanding of how other galaxies form and evolve. Success will depend on understanding the stars within our Galaxy: their role as its building blocks and the driver of its chemical evolution. This demands precise measurements of the fundamental properties of stars, something we have currently achieved mainly for the solar neighbourhood. Initial investigations in this new field of near-field cosmology  better known as Galactic Archaeology  has used Kepler and CoRoT data and shown that asteroseismically-determined radii, masses and ages of red giants have tremendous potential for expanding our view into how the Galaxy formed and evolved.
