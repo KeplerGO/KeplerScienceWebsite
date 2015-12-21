@@ -1,0 +1,104 @@
+# Summary of K2 Program GO8037
+
+Title: Pulsation dynamics and galactic structure studies using K2 RR Lyrae stars
+
+PI: Robert Szabo (Konkoly Observatory of the Hungarian Academy of Sciences)
+CoIs: Plachy, Emese; Banyai, Evelin; Molnar, Laszlo; Kolenberg, Katrien
+
+Abstract. Space observations of RR Lyrae stars delivered an avalanche of discoveries including new dynamical phenomena that helped to study the internal structure and evolution of horizontal-branch stars. These objects are excellent galactic structure tracers and distance indicators, therefore understanding their dynamics is of crucial importance to advance our knowledge of galaxy formation and evolution in the Local Group of galaxies and beyond. In this proposal we plan to study ~110 RR Lyrae stars in Field 8 and ~230 in Field 10 in long cadence and 5-5 in short cadence mode. The sample will be used to conduct galactic structure studies and to improve our understanding of the pulsational dynamics of RR Lyrae stars.
+
+Research goals. 1. Study the Galactic structure and history by obtaining distances to RR Lyrae stars and determine their spatial distribution (halo streams, over-densities). During the K2 Mission we are building a unique database from field to field covering different parts of our Galaxy, to yield an unprecedented photometric RR Lyrae sample which will form the base of galactic structure studies and near-field cosmology. 2. Statistical analysis of various dynamical phenomena (double-mode pulsation, Blazhko-modulation, period-doubling, low-dimensional chaos, nonradial modes) and their occurrence rates to better understand their origin and their effect on distance determination. This can only be accomplished with K2. 3. Analyze in detail all RR Lyrae light curves, especially overtone and classical double-mode pulsators. The original Kepler field contained no double-mode RR Lyrae stars, and only a few overtone pulsators. In previous fields K2 observed 5 RRd and 24 RRc, but with Fields 8 &10 we will be able to increase their number by a factor of 2 and 3, respectively. This will aid the investigation of dynamical phenomena (resonances, mode interactions) that may be important in other types of pulsating stars, but can be best studied only in large-amplitude stars and with space photometry, and will also help to derive masses for RRd stars.
+
+Methods. We produce light curves from target pixel data (PyKE and own software), then apply corrections, trend-filtering, outlier removal, etc. Standard time-frequency analysis (by e.g. Period04) and study of time-dependent features are envisaged. Metallicities will be derived from empirical relations calibrated with high-resolution Keck/CFHT spectra. State-of-the-art numerical hydrocodes (Florida-Budapest, Warsaw) will be used to interpret the results. Synthetic galactic models (TRILEGAL) will be used to compare the galactic location and number of the observed sample with simulations.
+Targets. Approximately 100 and 230 RR Lyrae stars will be proposed (5-5 stars per field for short cadence observations). Although the RR Lyrae stars are faint due to their distances, the majority falling between 15 and 19 mag, where Kepler's precision is still high for these objects. 
+
+Experience of team members. Our team consists of members of the Working Group#7 (RR Lyrae and Cepheids) of the Kepler Asteroseismic Science Consortium, who have been working on Kepler data (also preparation and target selection) since the launch of the original mission. Our scientists are experts on data reduction, pixel photometry, light curve and time-frequency analysis, as well as theorists performing numerical hydrodynamical modeling. We developed dedicated software and routinely analyze Kepler and K2 data, and published 15+ Kepler RR Lyrae papers in high-impact journals. The group has access to ground-based follow-up (multi- color photometric and spectroscopic) instruments in Taiwan, Korea, USA, Canada and Hungary to complement space-based observations. We are currently finalizing two K2 papers featuring the first unambiguous detection of the Blazhko effect beyond the Magellanic Clouds, and a summary paper on RR Lyrae stars observed in the K2 Engineering Field.
+
+
+# Observed targets associated with this program (85)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+220142950, 17.3205414, -2.1636569, 14.977, GO8037_LC|GO8037_SC
+220146083, 17.6936245, -2.037431, 17.605, GO8037_LC
+220161256, 16.3709412, -1.502808, 14.069, GO8037_LC
+220180957, 14.6166706, -0.750592, 18.2, GO8037_LC
+220181683, 13.3693409, -0.722576, 18.023, GO8037_LC
+220189368, 16.9373493, -0.410251, 18.339, GO8037_LC
+220190195, 16.4987946, -0.378889, 16.743, GO8037_LC
+220191991, 16.5013485, -0.309445, 14.189, GO8037_LC|GO8037_SC
+220192221, 12.3486414, -0.299824, 18.411, GO8037_LC
+220198467, 15.6211233, -0.059295, 15.815, GO8037_LC
+220198696, 13.4092722, -0.050701, 16.057, GO8037_LC
+220209683, 18.6942596, 0.345839, 15.691, GO8037_LC
+220220825, 21.8098106, 0.73433, 18.321, GO8037_LC
+220229719, 18.3891926, 1.0442801, 15.304, GO8037_LC|GO8042_LC
+220235122, 22.0565491, 1.232618, 17.906, GO8037_LC
+220236119, 19.0172119, 1.262714, 17.606, GO8037_LC
+220242787, 14.7564287, 1.41286, 18.978, GO8037_LC
+220244829, 17.7383366, 1.460484, 17.129, GO8037_LC
+220253247, 15.330822, 1.638077, 17.712, GO8037_LC
+220254538, 20.9241428, 1.66504, 17.133, GO8037_LC
+220254937, 22.7479095, 1.6735131, 17.89, GO8037_LC
+220262425, 21.5879707, 1.8319629, 16.888, GO8037_LC
+220262484, 17.7362595, 1.833289, 17.288, GO8037_LC
+220270196, 23.4436951, 2.0019901, 18.404, GO8037_LC
+220271165, 19.7007942, 2.0213771, 14.285, GO8037_LC
+220277833, 18.4185047, 2.1610439, 13.269, GO8037_LC|GO8077_LC|GO8037_SC
+220280760, 20.5526485, 2.2225721, 15.859, GO8037_LC|GO8031_LC
+220287868, 10.8360367, 2.3778579, 17.203, GO8037_LC
+220288040, 12.3959522, 2.3817461, 14.083, GO8037_LC
+220289837, 12.2679882, 2.420989, 13.917, GO8037_LC|GO8077_LC
+220305336, 16.928051, 2.7501049, 16.701, GO8037_LC
+220308445, 13.5527172, 2.817544, 19.076, GO8037_LC
+220313822, 11.5928583, 2.9289999, 17.165, GO8037_LC
+220325182, 21.9118576, 3.175251, 17.436, GO8037_LC
+220326597, 18.4719009, 3.206399, 17.617, GO8037_LC
+220340933, 9.6342373, 3.501965, 15.611, GO8037_LC|GO8031_LC
+220343343, 14.7905722, 3.5536051, 16.109, GO8037_LC
+220359154, 12.5960855, 3.883898, 16.674, GO8037_LC
+220378583, 15.9958057, 4.2811322, 15.802, GO8037_LC|GO8031_LC
+220383290, 13.6825743, 4.3795972, 16.667, GO8037_LC
+220391875, 10.0040483, 4.5518718, 19.323, GO8037_LC
+220421090, 22.7467823, 5.1253238, 14.67, GO8037_LC
+220424589, 15.0858335, 5.1935081, 17.354, GO8037_LC
+220429650, 16.2078705, 5.2893209, 15.15, GO8037_LC
+220432468, 10.3310156, 5.3463082, 13.812, GO8037_LC
+220435063, 15.6373196, 5.3950071, 12.783, GO8037_LC|GO8077_LC|GO8037_SC
+220453584, 13.7932472, 5.754333, 19.598, GO8037_LC
+220455109, 21.9994087, 5.7844381, 18.157, GO8037_LC
+220460648, 23.5484848, 5.894784, 17.193, GO8037_LC
+220468851, 22.9509583, 6.0635161, 11.929, GO8037_LC|GO8077_LC|GO8037_SC
+220480814, 22.8344536, 6.3333368, 10.217, GO8051_LC|GO8037_LC|GO8077_LC|GO8028_LC
+220489863, 16.7602139, 6.5357718, 17.7, GO8037_LC
+220493201, 19.5511303, 6.6096039, 16.696, GO8037_LC
+220497567, 18.4078617, 6.712049, 17.333, GO8037_LC
+220500689, 22.8316383, 6.7884569, 16.277, GO8037_LC
+220501059, 15.1388483, 6.7962699, 12.652, GO8037_LC|GO8077_LC|GO8037_SC
+220511999, 14.4947948, 7.0408721, 18.38, GO8037_LC
+220518877, 17.294426, 7.1975379, 19.451, GO8037_LC
+220528452, 14.7997808, 7.4021158, 17.651, GO8037_LC
+220545244, 14.3924847, 7.7815032, 12.242, GO8037_LC|GO8077_LC|GO8037_SC
+220575441, 16.6821671, 8.4949446, 17.584, GO8037_LC
+220604574, 18.2913837, 9.127244, 17.688, GO8037_LC
+220611561, 17.6774292, 9.2822533, 16.561, GO8037_LC
+220636134, 19.7918758, 9.8452721, 17.299, GO8037_LC|GO8037_SC
+220640471, 17.8942299, 9.9497366, 16.295, GO8037_LC
+220654797, 18.7752972, 10.2983398, 15.937, GO8037_LC
+220658946, 17.3289032, 10.4003639, 12.046, GO8037_LC|GO8077_LC
+220661075, 19.4405365, 10.4550362, 17.881, GO8037_LC
+220688027, 16.1145058, 11.1409616, 17.828, GO8037_LC
+220689083, 18.7263088, 11.1712713, 18.182, GO8037_LC
+220721216, 14.5052681, 12.0960274, 17.206, GO8037_LC
+229228806, , , , GO8037_LC
+229228807, , , , GO8037_LC
+229228808, , , , GO8037_LC
+229228809, , , , GO8037_LC
+229228810, , , , GO8037_LC
+229228811, , , , GO8037_LC
+229228812, , , , GO8037_LC
+229228813, , , , GO8037_LC
+229228814, , , , GO8037_LC
+229228815, , , , GO8037_LC
+229228816, , , , GO8037_LC
+229228817, , , , GO8037_LC
+229228818, , , , GO8037_LC
+229228819, , , , GO8037_LC

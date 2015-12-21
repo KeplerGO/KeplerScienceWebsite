@@ -1,0 +1,56 @@
+# Summary of K2 Program GO8054
+
+Title: Searching for Terrestrial Planets Orbiting Cool Stars and Brown Dwarfs with K2
+
+PI: Brice-Olivier Demory (University of Cambridge)
+CoIs: Queloz, Didier Patrick; Gillon, Michael; Huber, Daniel
+
+SUMMARY. We propose to use K2 to conduct a detailed search for Earth-sized planets orbiting the brightest cool stars and brown dwarfs (spectral types from M6 to L5, Demory et al., 2013b). This population of objects presents several advantages for exoplanet surveys. First, cool stars and brown dwarfs are small and thus result in favorable planet-to-star area ratios. Second, because of their low effective temperature, the inner edge of their habitable zone can be extremely close (down to a few days only). Third, our targets are bright at infrared wavelengths, which will enable detailed follow-up studies. Our program therefore represents a unique opportunity to find a transiting Earth-size exoplanet for which atmospheric features (including biosignatures) could be detected with near-to-come facilities such as JWST. Such an exoplanet has not been discovered yet. As of today, K2 is the only facility that provides the required stability and photometric precision to make this survey successful. This proposal is a continuation of our K2 campaigns 0 through 7 observations.
+
+SCIENCE GOALS. Our primary science goal is to find terrestrial planets orbiting bright nearby, ultra-cool stars and brown dwarfs. Nearly all of the proposed targets benefit from spectroscopic observations that will facilitate the characterisation of planets transiting them. None of the small planets found so far with Kepler will be amenable to detailed characterisation, even with JWST. Our K2 proposed observations represents a unique opportunity to find a rocky planet for which a transmission/emission spectrum could be obtained with near-to-come facilities.
+
+High-precision monitoring of cool stars and brown dwarfs will also prove to be particularly useful for understanding the variability nature of these objects in the visible, even if no transit is detected throughout the sample (see Demory et al. 2013b).
+
+RELEVANCE TO NASA. This proposal requests target allocation to search for terrestrial planets orbiting in the habitable zone of ultra-cool dwarfs with K2. This program will significantly improve our knowledge of the only population of planets (those that orbit ultra-cool stars) for which atmospheric biosignature gases could be detected with JWST in a reasonable amount of time. Our proposal meets three objectives of the NASA's Origins Program, namely the characterisation of exoplanets, study of planetary formation and the search for cosmic life.
+
+METHODOLOGY. We perform the target selection tailored to fields 8 and 10, as we did for the previous campaigns. Our selection is based on a compiled database of the brightest ultra-cool dwarfs based on the literature. This sample is thus clean of false positives and most targets benefit from detailed spectroscopic characterisation. We have also been developing a photometric pipeline using as inputs the K2 target pixel files to extract the photometric time-series. The aperture is recentered on the target star for each frame and, after centroiding, the time-series are detrended in a MCMC framework to remove position-dependent systematics. We trained our pipeline on the K2 C0-C2 data and we obtain results that validates the feasibility of our program.
+
+EXPECTED YIELD. Our target list encompasses 86 targets in total for both campaigns.
+
+By combining this proposed program with our previous K2 efforts, we are building up a consistent sample that will allow us to precisely constrain the occurrence rate and physical/orbital properties of terrestrial planets orbiting ultra-cool dwarfs.
+
+
+# Observed targets associated with this program (32)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+220170497, 13.7462835, -1.1875139, 17.417, GO8030_LC|GO8054_LC
+220172329, 18.2399578, -1.103738, 18.397, GO8054_LC
+220175791, 13.3019915, -0.955345, 18.31, GO8054_LC
+220177427, 16.0312805, -0.891214, 18.072, GO8054_LC
+220178295, 12.9790649, -0.855457, 17.255, GO8054_LC
+220181289, 15.7977448, -0.738083, 15.652, GO8030_LC|GO8054_LC
+220183046, 13.768404, -0.66475, 17.642, GO8054_LC
+220186653, 13.5272961, -0.517188, 17.207, GO8030_LC|GO8054_LC
+220187312, 12.3422422, -0.492649, 17.818, GO8054_LC
+220187472, 16.7654419, -0.486543, 17.832, GO8054_LC
+220187612, 17.6557598, -0.481216, 17.327, GO8054_LC
+220189125, 17.2249641, -0.419847, 17.654, GO8054_LC
+220195098, 12.0360041, -0.188392, 17.367, GO8030_LC|GO8054_LC
+220195996, 13.5412712, -0.154447, 15.864, GO8030_LC|GO8054_LC
+220197688, 11.7322865, -0.088671, 16.687, GO8030_LC|GO8054_LC
+220203045, 19.9361343, 0.105032, 16.896, GO8030_LC|GO8054_LC
+220205873, 13.051343, 0.204792, 18.488, GO8054_LC
+220207660, 12.4930153, 0.270124, 17.406, GO8054_LC
+220210147, 20.8559494, 0.362738, 18.224, GO8054_LC
+220211467, 11.3593283, 0.409592, 17.413, GO8054_LC
+220220365, 13.0973034, 0.71969, 18.07, GO8030_LC|GO8054_LC
+220220958, 15.6743717, 0.739383, 16.438, GO8054_LC
+220227563, 20.6114731, 0.974045, 17.88, GO8054_LC
+220233977, 20.0339603, 1.194523, 18.181, GO8054_LC
+220398312, 12.3677816, 4.6826582, 17.339, GO8054_LC
+220459682, 23.1822777, 5.875433, 18.273, GO8054_LC
+229228979, , , , GO8054_LC
+229228980, , , , GO8054_LC
+229228981, , , , GO8054_LC
+229228982, , , , GO8054_LC
+229228983, , , , GO8054_LC
+229228984, , , , GO8054_LC

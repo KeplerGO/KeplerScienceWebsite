@@ -16,6 +16,22 @@ comprehensive notes for each Campaign.
 
 Campaign 8
 ---------------------
+.. raw:: html
+  
+  <p>
+  
+  </p>
+  <ul class="list-group">
+    <li class="list-group-item">
+      <i class="fa fa-calendar fa-margin"></i>
+      Jan 3 - Mar 23, 2016
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-download fa-margin"></i>
+      <a href="data/campaigns/c8/K2Campaign8targets.csv">Target list (csv)</a>
+    </li>
+  </ul>
+
 .. include:: approved-programs/c8.html
 
 Campaign 7
