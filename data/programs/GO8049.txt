@@ -1,0 +1,23 @@
+# Summary of K2 Program GO8049
+
+Title: Monitoring of Targets Within 100 Light Years
+
+PI: Seth Redfield (Wesleyan University)
+CoIs: Cauley, Paul Wilson
+
+Science Goals and Objectives: Temporal monitoring of stars within 100 light years provides an opportunity to search for close planetary systems that are optimal for follow-up studies, as well as evaluate the stellar properties that are critical to the evolution of planetary atmospheres. A complete census of the physical properties of a star and planetary system is necessary for an evaluation of the habitability of planets. It is precisely these nearest systems that the question of habitability will be examined in greatest detail in the decades to come. I propose for consideration the sample of all nearby stars with reliable parallaxes within 100 light years or 30.7 pc. A planetary inventory of our immediate galactic neighborhood is attractive for many reasons. This sample is comprised of relatively bright stars, which means any form of follow-up (e.g., planetary atmosphere measurements [e.g., Redfield et al. 2008, Jensen et al. 2012], astrometry, direct imaging, spin-orbit alignment measurements, stellar metallicity, stellar activity) is easier, and possible with ground-based and space-based telescopes with a range of aperture sizes. This broadens the number of instruments observing these targets, encouraging independent confirmation of marginal detections, as well as experimenting with new observational techniques. Given the occurrence rates of short period planets from Freesin et al. (2013), it is likely that there are planets orbiting these stars. While some of these targets are likely monitored with radial velocity measurements, the hottest and coolest stars present significant challenges. A complementary transit search that is unbiased in this way, would be valuable. 
+
+Estimate of the Number of Targets: Given the sparse distribution of very nearby stars, we estimate the total number of targets to be about 30 (based on the numbers proposed in previous campaigns). This sample is likely to be dominated by cool, low-mass stars (typically G stars or cooler, including many M stars). In particular, there are likely to be a few extremely close stellar systems, within the 100 nearest stars, that should certainly be monitored. The bright, early type stars are also important to monitor, not only because of the difficulty in getting precision radial velocity measurements, but also because they facilitate better opportunities for transmission spectroscopy of their transiting planets. 
+
+Methodology: Nearby stars are among the most well-studied stellar systems, making them an ideal sample to integrate the many components that go into an evaluation of habitability. An example is the evaluation of the stellar wind strength, which is critical to the long-term evolution of planetary atmospheres (Lammer et al. 2003). One of the only methods to detect the weak, but important, stellar winds of low mass stars is through the detection of the astrosphere, the analog to the heliosphere, where the outward pressure of the stellar wind balances the inward pressure of the surrounding local interstellar medium. This has only been possible with the nearest stars (i.e., within 30 pc; Wood et al. 2005, Edelman et al. 2014). While many of these stars are bright, and therefore more expensive in terms of pixel usage, it is worth pushing this constraint. Long cadence observations would be appropriate. 
+
+Relevance of Proposed Research to this Solicitation: While I have only touched on the value of these targets in terms of exoplanet detections and the assessment of habitability, there is a long list of other research programs that this data would facilitate, even if no exoplanets are found. These include stellar activity (spots, rotation, flares) and stellar pulsation. This work identifies a sample of K2 targets, which are directly related to the original Kepler mission of planet discovery, and directly tied to Objective 1.6 in the NASA 2014 Strategic Plan.
+
+
+# Observed targets associated with this program (5)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+220260370, 11.2703934, 1.785521, 8.476, GO8068_LC|GO8051_LC|GO8021_LC|GO8032_LC|GO8077_LC|GO8040_LC|GO8049_LC
+220417763, 15.6023865, 5.0614481, 8.334, GO8032_LC|GO8077_LC|GO8049_LC
+220429217, 12.0957355, 5.2806149, 5.507, GO8021_LC|GO8040_LC|GO8049_LC|GO8021_SC
+220434748, 12.2912569, 5.3886142, 12.359, GO8018_LC|GO8048_LC|GO8011_LC|GO8028_LC|GO8049_LC|GO8018_SC|GO8048_SC|GO8049_SC
+220501313, 13.039012, 6.8030062, 11.138, GO8056_LC|GO8066_LC|GO8042_LC|GO8008_LC|GO8049_LC

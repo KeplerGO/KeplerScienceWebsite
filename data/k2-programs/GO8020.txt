@@ -1,0 +1,29 @@
+# Summary of K2 Program GO8020
+
+Title: Short-Duration Flares on Mira Stars in Fields 8 & 10
+
+PI: Bradley E. Schaefer (Louisiana State University)
+CoIs: 
+
+Mira stars are slowly pulsating red giant stars with periods of order a year, so it came as a startling surprise when they were discovered to have short-duration flares (Schaefer 1991).  These flares were observed with amplitudes 0.4 to 1.4 mag and durations from 3 minutes to 3 hours, and were visible in both the optical and the radio.  Mira flares have been confirmed by Maffei & Tosti (1995), de Laverny et al. (1998), and Stencel et al. (2003), with flare durations lasting up to 6 days.  However, studies by Mais et al. (2004), Wozniak et al. (2004), and Lebzelter (2011) have failed to find any flares on various samples of red giants.  It is currently unclear what subset of Mira stars and what phases show flares, no detailed models have been made, and we have little knowledge of flare demographics.  Models of Mira flares (e.g., Struck et al. 2002) point to magnetic reconnection involving planets orbiting the Mira star.
+	
+The original Kepler mission did look at 317 M giant stars, but this includes only two classic Mira stars (Banyai et al. 2013).  They do not report any flares, but they only report on Fourier transforms for periods longer than a day, so this study was not sensitive to Mira flares.  Nevertheless, this study provides a proof that Kepler can follow Mira stars with 30-minute time resolution and ~0.1 millimag accuracy.  I have already made successful K2 proposals for 3+32+3+2+2+47 Miras in Fields 0, 2, 4, 5, 6, and 7.  I have already fully analyzed data for five Miras (for a total of 0.84 Mira-years) and have found no flares down to 0.7 millimag amplitude.  With Mira flares being rare, perhaps once in several years when averaged over all Miras, an accumulation of many years of exposure is required to get significant demographics for flares.  For K2 Fields 8 & 10, I have selected 1 and 3 targets, all confirmed Mira variables that are always brighter than V=16.  
+	
+I propose to have Kepler monitor 4 Mira stars during the K2 mission for Fields 8 & 10, with the 30-minute cadence, with the goal to be to discover flares from a few minutes to days in duration.  The analysis is to run the light curve through a flare finder as used for Gamma-Ray Burst triggering, because this is an identical task of searching for flares of unknown time, size, and shape on a roughly-sinusoidal varying background, with a 5.5 sigma threshold accounting for the many time intervals over the many stars.  This statistical limit will be applicable to fast flares, with our experience showing that the real limit is imposed by 'faint' cosmic rays that cannot be recognized by changed PSFs.  For flares found, amplitudes, durations, phases, energy estimates, and light curves would be published, along with demographic results like size-frequency distributions.
+	
+RELEVANCE.    Ground-based light curves are notoriously difficult to find small rare flares, while the Kepler satellite solves this due to having sub-millimag accuracy and a relentless light curve without gaps for many months.  So Kepler is unique at being able to address the many big unknowns regarding Mira flares.  My small K2 program will increase the number of Mira stars monitored by Kepler from 2 (for the original Kepler field) to 95 (with Fields 0-10), and so will make such a big advance that it has the potential for solving many of the questions.  K2 will provide the first accurate and full-coverage light curve for the startling flares on Mira stars, and will give detailed demographic properties, like flare frequency/size/duration as a function of Mira type, period, and phase.
+	
+Banyai, E. et al. 2013, MNRAS, 436, 1576	
+de Laverny, P. et al. 1998, A&A, 330, 169
+Lebzelter, T. 2011, A&A, 530, A35		
+Maffei, P., & Tosti, G. 1995, AJ, 109, 2652
+Mais, D. et al. 2004, JAAVSO, 33, 48	
+Schaefer, B. E. 1991, ApJ, 366, L39
+Stencel, R. et al. 2003, in 12th Cambridge Workshop on Cool Stars, p. 1074
+Struck, C. et al. 2002, ApJLett, 572, L83.	
+Wozniak, P. et al. 2004, AJ, 127, 2436
+
+
+# Observed targets associated with this program (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+220311474, 22.6596394, 2.8816669, 11.816, GO8031_LC|GO8020_LC

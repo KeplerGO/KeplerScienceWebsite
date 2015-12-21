@@ -1,0 +1,24 @@
+# Summary of K2 Program GO8060
+
+Title: Short-cadence lightcurves of WASP-107 and WASP-118: a sub-Saturn transiting a spotted star, and a hot Jupiter
+
+PI: David Robert Anderson (Keele University)
+CoIs: Hellier, Coel; Southworth, John
+
+For planets that transit across their host stars, we can use spectroscopy and photometry to measure planetary mass and radius. This leads to constraints on the planets' bulk compositions, internal structures, and formation and evolution histories. We recently discovered two transiting planet systems, WASP-107 and WASP-118, which will be on silicon during K2 campaigns 10 and 8, respectively. 
+
+WASP-107b is a warm Saturn in a 5.7-day orbit around a K6 star and WASP-118b is a hot Jupiter in a 4.0-day orbit around an F6 star. Both stars are bright (V~11) and so are good targets for further study; indeed only 18 (13) Kepler exoplanet host stars are brighter than WASP-107 (WASP-118). As accurate and precise stellar and planetary dimensions require well-sampled transit lightcurves, we request short-cadence (SC) data. We have our own software proven capable of processing and analysing the data. 
+
+It would be particularly interesting to know the bulk composition of WASP-107b. 
+With a mass 2.2 times that of Neptune and 0.40 times that of Saturn, but a radius 0.94 times that of Jupiter, WASP-107b is in the transition region between ice giants and gas giants. This sets a lower limit on the planetary mass above which large gaseous envelopes can be accreted and retained by proto-planets on their way to becoming gas giants. WASP-107b will prove useful to planetary formation theory, which faces the challenge of explaining how ice giants avoid the runaway gas accretion that otherwise would have turned them into gas giants. 
+
+By measuring the wavelengths of star-light preferentially scattered and absorbed by a transiting planet's atmosphere (transmission spectroscopy), we can infer the atmosphere's composition, and thus the planet's formation and evolution history. Due to the brightness of the host stars and the distended natures of the planetary atmospheres, both WASP-107 and WASP-118 are good targets for transmission spectroscopy.
+
+Giant planets in few-day orbits, or 'hot Jupiters', are thought to have formed farther out and then migrated inwards. The pathway(s) via which hot Jupiters migrate are poorly understood, though we can rectify this by measuring the orbital obliquities of a range of systems. 
+
+We will measure the sky-projected obliquity of WASP-118b with awarded spectroscopy time. With SC K2 data we will determine the inclination of the stellar spin axis and thus the orbital obliquity in three dimensions. WASP-107 rotates too slowly to measure obliquity via spectroscopy, but we are afforded an alternative opportunity due to the spottiness of the star. Its spottiness is evidenced by the periodic modulation of the WASP survey lightcurve and a spot-crossing event in a follow-up lightcurve. By measuring the times at which star spots are occulted by the planet over multiple transits, for which SC data are mandatory, we can infer the obliquity of the planet's orbit.
+
+
+# Observed targets associated with this program (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+220303276, 19.5505428, 2.7028241, 10.934, GO8068_LC|GO8051_LC|GO8060_LC|GO8032_LC|GO8077_LC|GO8060_SC
