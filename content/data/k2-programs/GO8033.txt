@@ -2,7 +2,7 @@
 
 Title: K2 Exoplanet Ecliptic Survey - KEES
 
-PI: Christopher J Burke (SETI Institute)
+PI: Burke, Christopher J (SETI Institute)
 CoIs: Mullally, Fergal; Huber, Daniel
 
 Science Goals:

@@ -2,7 +2,7 @@
 
 Title: Characterization of Be stars in Kepler K2 fields
 
-PI: Marcelo Emilio (UNIVERSIDADE ESTADUAL DE PONTA GROSSA)
+PI: Emilio, Marcelo (UNIVERSIDADE ESTADUAL DE PONTA GROSSA)
 CoIs: Janot-a, Eduardo; Rabello-Soares, Maria Cristina; Andrade, Laerte; Armstrong, James D.
 
 1. Introduction

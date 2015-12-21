@@ -2,7 +2,7 @@
 
 Title: The Am stars: peculiarities, pulsations and planets
 
-PI: Barry Smalley (Keele University)
+PI: Smalley, Barry (Keele University)
 CoIs: Holdsworth, Daniel L; Murphy, Simon James; Ripepi, Vincenzo; Catanzaro, Gianni
 
 The metallic-line (Am) stars are a sub-class of A-type stars which exhibit strong lines of transition elements and weakening of Ca and Sc lines compared to the strength of the Balmer lines. The strength of the metal lines is thought to arise from the interplay between gravitational settling and radiative acceleration in an A-type star where the magnetic field is weak or absent. Stars needs to be rotating more slowly than about 120 km/s in order for radiative diffusion to compete with meridional circulation. Most, but not all, Am stars appear to be members of binary systems with periods between 2 and 10 days. 

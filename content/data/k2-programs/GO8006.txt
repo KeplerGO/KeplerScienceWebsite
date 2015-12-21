@@ -2,7 +2,7 @@
 
 Title: Habitable Planets Around White Dwarfs in Fields 8 and 10
 
-PI: Mukremin Kilic (University of Oklahoma)
+PI: Kilic, Mukremin (University of Oklahoma)
 CoIs: Mullally, Fergal; Loeb, Abraham; Debes, John Henry; Agol, Eric
 
 The search for planets in the habitable zone has so far focused on solar-type stars and M dwarfs. However, transiting planets in the habitable zone around white dwarfs (WDs) may be common  and they provide our best chance to detect bio-markers on an exoplanet. The habitable zone around WDs extends from 0.005 AU to 0.02 AU (P = 4-30 h, Agol 2011) for WDs older than about 1 Gyr. Since WDs are slightly larger than Earth, Earth-size and even smaller planets can easily be detected. We expect the planets within 1 AU of solar type stars to be destroyed in the giant phase. Hence, planets in the habitable zone around WDs must arrive there after this phase. There are several ways to form such planets near the WD or bring them closer (see the Kepler white paper by our team). Planets have been detected around evolved, post-main-sequence stars. In addition, tidally disrupted asteroids and dwarf planets have been detected around 4.3% of WDs in the form of debris disks. If the history of exoplanet science has taught us anything, it is that planets are ubiquitous and they exist in the most unusual places, including very close to their host stars and even around pulsars. 

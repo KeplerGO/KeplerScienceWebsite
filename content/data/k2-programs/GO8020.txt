@@ -2,7 +2,7 @@
 
 Title: Short-Duration Flares on Mira Stars in Fields 8 & 10
 
-PI: Bradley E. Schaefer (Louisiana State University)
+PI: Schaefer, Bradley E. (Louisiana State University)
 CoIs: 
 
 Mira stars are slowly pulsating red giant stars with periods of order a year, so it came as a startling surprise when they were discovered to have short-duration flares (Schaefer 1991).  These flares were observed with amplitudes 0.4 to 1.4 mag and durations from 3 minutes to 3 hours, and were visible in both the optical and the radio.  Mira flares have been confirmed by Maffei & Tosti (1995), de Laverny et al. (1998), and Stencel et al. (2003), with flare durations lasting up to 6 days.  However, studies by Mais et al. (2004), Wozniak et al. (2004), and Lebzelter (2011) have failed to find any flares on various samples of red giants.  It is currently unclear what subset of Mira stars and what phases show flares, no detailed models have been made, and we have little knowledge of flare demographics.  Models of Mira flares (e.g., Struck et al. 2002) point to magnetic reconnection involving planets orbiting the Mira star.

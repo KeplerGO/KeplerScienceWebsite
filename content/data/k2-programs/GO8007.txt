@@ -2,7 +2,7 @@
 
 Title: A survey to detect first sdB Planetary Transits
 
-PI: Roberto Silvotti (INAF)
+PI: Silvotti, Roberto (INAF)
 CoIs: Ostensen, Roy H.
 
 To date almost nothing is known about the final (WD) configuration of ~97% of planetary systems! While not a single bona-fide planet has been identified orbiting an isolated WD (Faedi+2011,MNRAS 410, 899), it is now widely accepted that the dusty and/or gaseous disks that we see within one solar radius around many WDs are produced by the tidal disruption of asteroids (Farihi+2010, MNRAS 404, 2123). An increasing fraction of WDs (>=27%) show a metal enrichment due to the fall into the WD atmosphere of ancient planetary material (Koester+2014, A&A 566, 34), whose chemical composition is similar to that seen in different Solar-system meteorites (Gansicke+2012, MNRAS 424, 333).

@@ -2,7 +2,7 @@
 
 Title: Searching for Extended Exoplanetary Atmospheres Around Active Stars
 
-PI: Adam Gabriel Jensen (University of Nebraska-Kearney)
+PI: Jensen, Adam Gabriel (University of Nebraska-Kearney)
 CoIs: Cauley, Paul Wilson; Redfield, Seth; Endl, Michael
 
 A key question in studying any planetary atmosphere is what happens at the boundary between the atmosphere and interplanetary space.  This unbound, outermost layer of an atmosphere is called its exosphere.  Several observations of extended atmospheres have been made (e.g., Vidal-Madjar et al. 2003, 2004; Linsky et al. 2010; Schlawin et al. 2010; Lecavelier Des Etangs et al. 2010, 2012; Fossati et al. 2010; Jensen et al. 2012; Cauley et al. 2015, submitted) in hydrogen (both ground-state and excited) and various metals.

@@ -2,7 +2,7 @@
 
 Title: Planets Around Low-Metallicity Stars
 
-PI: William D. Cochran (The University of Texas at Austin)
+PI: Cochran, William D. (The University of Texas at Austin)
 CoIs: Paetzold, Martin; Lee, Byeong-Cheol; Yong, David; Hatzes, Artie; Endl, Michael; Rauer, Heike
 
 Objectives:

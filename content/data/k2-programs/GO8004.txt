@@ -2,7 +2,7 @@
 
 Title: Understanding extreme horizontal branch stars using asteroseismology; including a known p-mode pulsator and MS companions
 
-PI: Mike D Reed (Missouri State University)
+PI: Reed, Mike D (Missouri State University)
 CoIs: Ostensen, Roy H.; Jeffery, Christopher Simon; Baran, Andrzej S; Telting, John
 
 We propose to explore core structure of horizontal branch (HB) stars by applying asteroseismological tools to Kepler data of extreme horizontal branch (spectral class subdwarf B) stars. Subdwarf B (sdB) stars are the atmosphere-stripped cores of horizontal branch stars. Many happen to pulsate, and many of these are also in short-period binaries, and that provides us with sensitive probes of their structure. In C8, there is a known p-mode sdB star in a long-period binary with an FV star. This provides only the second rich p-mode example using Kepler, with binarity as a bonus! 

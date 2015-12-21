@@ -2,7 +2,7 @@
 
 Title: Eclipses, transits and variability of white dwarf stars with the K2 Mission
 
-PI: Matt R. Burleigh (University of Leicester)
+PI: Burleigh, Matt R. (University of Leicester)
 CoIs: Holberg, Jay B; Barstow, Martin Adrian; Braker, Ian Peter; Lawrie, Katherine Anne
 
 Matt Burleigh(1)(PI), Jay Holberg(2)(Co-I), Martin Barstow(1)(Co-I), Ian Braker(1)(Graduate Student), Katherine Lawrie(1)(Co-I)

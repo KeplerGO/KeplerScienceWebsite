@@ -2,7 +2,7 @@
 
 Title: Asteroseismology of solar-type stars with K2
 
-PI: Tiago Campante (University of Birmingham)
+PI: Campante, Tiago (University of Birmingham)
 CoIs: Basu, Sarbani; Latham, David W.; Huber, Daniel; Chaplin, William J
 
 Asteroseismology is proving to be particularly significant for the study of solar-type stars (i.e., low-mass main-sequence stars and cool subgiants). This is in great part due to the exquisite data that have been made available by NASAs Kepler space telescope, with detections of solar-like oscillations made in several hundred field stars, including a statistical sample of exoplanet hosts. Extension of Keplers capabilities to the ecliptic through the repurposed K2 mission thus offers a unique opportunity to continue asteroseismic studies of solar-type stars.

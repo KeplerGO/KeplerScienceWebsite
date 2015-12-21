@@ -2,7 +2,7 @@
 
 Title: Giants Orbiting Giants: A Search for Transiting Planets around Oscillating Red-Giant Branch Stars with K2
 
-PI: Daniel Huber (SETI Institute)
+PI: Huber, Daniel (SETI Institute)
 CoIs: Lopez, Eric David; Mann, Andrew Withycombe; Chaplin, William J; Fortney, Jonathan J; Gaidos, Eric; Pinsonneault, Marc Howard; Johnson, John Asher
 
 While exoplanet transit surveys are increasingly focused on cool dwarfs, transiting planets orbiting red-giant branch (RGB) stars are largely unexplored. Due to their diversity in fundamental properties (masses, luminosities, chemical compositions), RGB stars are ideal targets to tackle two key unsolved questions in exoplanet science: the occurrence rate of gas-giant planets as a function of host star mass, and the role of stellar incident flux on the radius inflation of gas-giant planets. We propose to continue our survey of low-luminosity RGB stars (with radii between ~3.5-8 solar radii) to detect transiting gas-giant planets with K2 and address the above science questions by combining exoplanet transits and asteroseismology.

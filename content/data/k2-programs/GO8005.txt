@@ -2,7 +2,7 @@
 
 Title: Characterizing the Optical Emission from 3C273 and other quasars
 
-PI: Ann E. Wehrle (Space Science Institute)
+PI: Wehrle, Ann E. (Space Science Institute)
 CoIs: Carini, Michael Thomas; Wiita, Paul J
 
 We propose to measure the  long and short cadence light curves of the archetypal quasar 3C273 and to measure the long cadence light curves of a large statistically complete sample of 185 quasars drawn from the Sloan Digital Sky Survey

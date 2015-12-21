@@ -2,7 +2,7 @@
 
 Title: Pulsation dynamics and galactic structure studies using K2 RR Lyrae stars
 
-PI: Robert Szabo (Konkoly Observatory of the Hungarian Academy of Sciences)
+PI: Szabo, Robert (Konkoly Observatory of the Hungarian Academy of Sciences)
 CoIs: Plachy, Emese; Banyai, Evelin; Molnar, Laszlo; Kolenberg, Katrien
 
 Abstract. Space observations of RR Lyrae stars delivered an avalanche of discoveries including new dynamical phenomena that helped to study the internal structure and evolution of horizontal-branch stars. These objects are excellent galactic structure tracers and distance indicators, therefore understanding their dynamics is of crucial importance to advance our knowledge of galaxy formation and evolution in the Local Group of galaxies and beyond. In this proposal we plan to study ~110 RR Lyrae stars in Field 8 and ~230 in Field 10 in long cadence and 5-5 in short cadence mode. The sample will be used to conduct galactic structure studies and to improve our understanding of the pulsational dynamics of RR Lyrae stars.

@@ -2,7 +2,7 @@
 
 Title: The K2 Extragalactic Survey (KEGS) for Transients
 
-PI: Ed Shaya (U. of Maryland)
+PI: Shaya, Ed (U. of Maryland)
 CoIs: Olling, Robert P; Rest, Armin; Kasen, Daniel Nathan; Garnavich, Peter M.; Tucker, Brad E; Mushotzky, Richard
 
 Supernovae (SN) and Active Galactic Nuclei (AGN) vary on timescales of hours to months and are still shrouded in mystery. We propose a Large K2 Program to monitor ~2000 bright (r < 18 mag, z < 0.1) galaxies in Campaign 8 and ~2600 in Campaign 10 which should yield 12 - 24 great light curves (LCs) of supernovae. To date, we have identified 6 supernovae in Kepler GO programs (3 Type Ia and 3 Type II, although one may be Type IIn/Ia-csm), and we also found that ~ 4% of our galaxies display AGN activity (Shaya et al 2015) (variable at > 0.001% level). We plan to: a) determine the types of companions to progenitors of SNe using features in the early breakout (t < 4 days) LCs; b) explore the explosion physics of SN, especially SN Ia, using subtle features during their rise (t < 20 days); c) improve the calibration of SN Ia as standard candles for measuring distances, Ho, and dark energy using K2 LCs of unprecedented detail; d) in nearby galaxies, look for fast (t < 10 day) and faint (Mv > -15) transients in a new range of parameter space provided by K2; and e) add significant knowledge to the virtually unexplored very low-Eddington regime of AGN. 

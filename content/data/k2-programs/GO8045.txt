@@ -2,7 +2,7 @@
 
 Title: Accretion disc variability in Cataclysmic Variables
 
-PI: Elme Breedt (University of Warwick)
+PI: Breedt, Elme (University of Warwick)
 CoIs: Gaensicke, Boris Teddy; Steeghs, Daniel
 
 Accretion discs are a common occurrence in the universe. They exist on physical scales spanning orders of magnitude, ranging from the parsec scale discs which power active galactic nuclei to protoplanetary discs around young stellar objects (several AU) and the discs around accreting white dwarfs in cataclysmic variables (few thousand km). The flow of material and angular momentum through these discs are governed by the same underlying physical processes, but timescales involved scale as R^2 (where R is the disc radius), so span a vast range. For this reason, the accretion discs around cataclysmic variables (CVs) are the ideal laboratories for investigating model disc structure and the effects of accretion rate variations, as the equivalent variations in larger discs cannot be studied in human lifetimes.
