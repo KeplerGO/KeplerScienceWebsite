@@ -1,0 +1,25 @@
+# Summary of K2 Program GO7022
+
+Title: The Close-Binary Fraction of Planetary Nebulae in K2 Field 7
+
+PI: Schaefer, Bradley E. (Louisiana State University)
+CoIs: Edwards, Zachary I
+
+The common textbook states that any single star, similar to our Sun, will eventually result in a Planetary Nebula (PN).  Recently, however, theory suggests that PNe can only occur from close binary systems (as a preferred method to create the unique, non-spherical morphologies seen in common PNe), indicating that a single star might not create a PN.  This leaves the mass loss mechanism and fate of single stars, much like our Sun, unknown.  Current theory has big uncertainties, and there are competing groups championing the various possibilities.  To test the theories and differentiate between these ideas, we must measure the binary fraction of central stars in PNe.  Over the last decade, large efforts have been made to search for companions of the central white dwarf by all the usual means of spectroscopy (searching for radial velocity variations), imaging (looking for close in companions), and photometry (looking for brightness modulations on the orbital period).  The trouble is that all these methods have low and poorly-known discovery efficiencies.  To date, there is an estimated binary fraction of ~20% (Miszalski et al. 2009).  But the question is whether the binary fraction is really this low, or is it just poor discovery efficiency? 
+
+Kepler can solve this long-running controversy, because it has proven to be very efficient in detecting eclipses, reflection effects, and ellipsoidal variations at millimag accuracy, thus allowing detection of binary systems with periods <10 days.  That is, when looked at with sub-millimag accuracy, nearly all not-long-period binaries will display periodic modulation on the orbital period.  There were five PNe located and period-searched in the original Kepler field (Douchin et al. 2011).  Kepler studies of these PN nuclei found periodic variations in all five of their light curves that indicate binarity.  The periods of the central stars range between 0.17-1.47 days with orbital modulations at the 0.2-10 millimag level.  (Note, such periodic modulation is effectively impossible to discover from the ground.)  Of these five PNe, the faintest central star was at V=18.2 mag in the center of Kn61.  This original study proves that Kepler is highly efficient at binary discovery, and so this appears to be the only way to answer the problem, but only with more than just five PNe.
+
+Only the K2 mission can measure more PNe so as to get the numbers required for a confident answer.  We have proposed for K2 to observe PN nuclei in the various prior Fields, with 3 in Field 0, 4 in Field 2, and 1 in Field 4.  Over the first ten Fields, K2 will amass good statistics to measure the binarity of PN nuclei.  Field 6 has zero useable PNe, while Field 7 has seven good PNe.  These new PNe all have central stars brighter than V=17.4 mag.  So we are proposing to have K2 target the seven PNe in Field 7 with the 30-minute cadence.
+
+RELEVANCE: Only the Kepler spacecraft can discover PN binarity with high efficiency, and only the K2 mission over the first ten fields can collect enough systems to get out of small number statistics.  The increased sample size of PNe from K2 observations will further add to the number of PNe observed by the Kepler spacecraft, thus allowing for tighter constraints to be placed on the actual binary fraction of central stars in PNe and refine the Miszalski et al. (2009) binary fraction.  Our binary fraction will resolve a debate that is central to the evolution of sun-like stars.  As such, our proposed program is very relevant for NASA's goals of better understanding stellar evolution and the fate of our Sun in particular.
+
+Douchin, D., et al. 2011, arXiv 1110.4436v2  
+Miszalski, B., et al. 2009, A&A, 496, 81
+
+# Targets requested by this program that have been observed (5)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+214857824, 282.0505676, -25.4812222, 13.349, GO7013_LC|GO7022_LC
+214910524, 281.1796875, -25.359436, 13.954, GO7013_LC|GO7022_LC
+215837631, 281.6463318, -23.4467449, 12.509, GO7013_LC|GO7030_LC|GO7084_LC|GO7022_LC|GO7042_LC
+216730154, 283.8778381, -21.8277187, 13.768, GO7013_LC|GO7022_LC
+218761702, 285.2589417, -18.2035313, 16.251, GO7022_LC

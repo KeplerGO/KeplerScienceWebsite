@@ -23,7 +23,6 @@ Stencel, R. et al. 2003, in 12th Cambridge Workshop on Cool Stars, p. 1074
 Struck, C. et al. 2002, ApJLett, 572, L83.	
 Wozniak, P. et al. 2004, AJ, 127, 2436
 
-
 # Targets requested by this program that have been observed (1)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220311474, 22.6596394, 2.8816669, 11.816, GO8031_LC|GO8020_LC

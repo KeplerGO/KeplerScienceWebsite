@@ -1,0 +1,27 @@
+# Summary of K2 Program GO4037
+
+Title: Superflares on RS CVn Stars
+
+PI: Schaefer, Bradley E. (Louisiana State University)
+CoIs: Hudson, Hugh S
+
+RS CVn stars are close binaries involving a G-type main sequence star (or a subgiant) around a cooler star, with the 1-14 day orbital period making for synchronized rotation.  This fast rotation makes the stars magnetically active, and they show large spots and bright calcium emission lines.  RS CVn stars also have large amplitude flares, with brightening up to 1.6 mag, emissions from X-ray to radio, and durations from an hour to a bit over a day.  These 'superflares' have energies up to 10^38 erg.  This is an astounding amount of energy, and impossible to explain with any normal solar-flare-like model.  Theoretical ideas all center on reconnection of magnetic fields in coronal loops, but the loops must be large and the fields strong, and this can only be done by involving the fields between the two binary star components.  But the field configurations and the detailed microphysics are not known.  RS CVn superflares have adequate observations from X-ray to optical to radio for a relatively small number of events.  But what is missing, that K2 can uniquely provide, is long coverage of many RS CVn systems to provide good and unbiased demographics, as well as the great sensitivity needed to confidently detect small amplitude events.  Kepler has not looked at any RS CVn systems previously, so we are proposing to use K2 to target 34 RS CVns in Fields 4 and 5.  With this, we will be able to push the detectable flare amplitude down by two orders-of-magnitude and our long coverage will be able to push to the largest amplitude superflares.  The great statistics from K2 will be able to perform tests like measuring the orbital phase dependence of flare frequency so as to distinguish between the magnetic loop and the magnetospheric tail reconnection models.
+
+	RS CVn superflares fit into a larger picture of superflares on Sun-like stars, with these other superflares having similar observational properties, yet their parent stars have no apparent companions.  One likely model for superflares on Sun-like stars is the same as we describe for RS CVn flares, except that the cool star is replaced by a close-in planet as the place to anchor the magnetic loops.  A goal of this K2 proposal is to test how similar are the two types of superflares.  For example, we will test whether the size-frequency distributions are the same, with a further comparison to Solar flares.  Only K2 can do this.
+
+# Targets requested by this program that have been observed (14)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210464781, 57.91516, 14.796695, 11.548, GO4020_LC|GO4060_LC|GO4106_LC|GO4104_LC|GO4037_LC
+210485181, 53.299059, 15.158551, 16.789, GO4011_LC|GO4006_LC|GO4037_LC
+210529250, 53.294837, 15.890264, 13.803, GO4020_LC|GO4089_LC|GO4054_LC|GO4037_LC
+210804191, 59.20814, 19.930408, 15.317, GO4032_LC|GO4097_LC|GO4011_LC|GO4006_LC|GO4037_LC
+210885497, 60.233703, 21.166281, 15.504, GO4020_LC|GO4097_LC|GO4011_LC|GO4006_LC|GO4037_LC
+210946427, 61.304492, 22.12882, 14.497, GO4097_LC|GO4037_LC
+211019716, 64.544948, 23.284653, 10.021, GO4105_SC|GO4020_LC|GO4018_LC|GO4057_LC|GO4032_LC|GO4089_LC|GO4048_LC|GO4105_LC|GO4095_LC|GO4064_LC|GO4104_LC|GO4037_LC|GO4024_LC
+211033155, 56.667685, 23.49774, 11.867, GO4074_SC|GO4020_LC|GO4018_LC|GO4032_LC|GO4060_LC|GO4048_LC|GO4074_LC|GO4091_LC|GO4106_LC|GO4104_LC|GO4037_LC|GO4024_LC
+211041649, 62.984257, 23.636323, 9.254, GO4105_SC|GO4018_LC|GO4057_LC|GO4032_LC|GO4048_LC|GO4105_LC|GO4095_LC|GO4064_LC|GO4072_LC|GO4104_LC|GO4037_LC|GO4024_LC|GO4109_LC
+211050460, 57.275455, 23.781247, 10.483, GO4020_LC|GO4018_LC|GO4032_LC|GO4060_LC|GO4048_LC|GO4029_LC|GO4090_LC|GO4033_LC|GO4007_LC|GO4091_LC|GO4104_LC|GO4037_LC|GO4024_LC
+211081096, 57.203983, 24.267388, 10.73, GO4020_LC|GO4018_LC|GO4032_LC|GO4060_LC|GO4048_LC|GO4029_LC|GO4033_LC|GO4007_LC|GO4091_LC|GO4104_LC|GO4037_LC|GO4024_LC
+211087059, 58.605179, 24.360078, 10.793, GO4105_SC|GO4020_LC|GO4060_LC|GO4029_LC|GO4105_LC|GO4090_LC|GO4033_LC|GO4007_LC|GO4104_LC|GO4037_LC|GO4082_LC
+211093684, 57.426151, 24.463004, 11.884, GO4020_LC|GO4018_LC|GO4032_LC|GO4060_LC|GO4048_LC|GO4029_LC|GO4033_LC|GO4007_LC|GO4091_LC|GO4106_LC|GO4104_LC|GO4037_LC|GO4024_LC
+211112974, 56.085442, 24.772859, 10.867, GO4032_SC|GO4020_LC|GO4018_LC|GO4032_LC|GO4060_LC|GO4048_LC|GO4029_LC|GO4033_LC|GO4007_LC|GO4091_LC|GO4101_LC|GO4104_LC|GO4037_LC|GO4024_LC

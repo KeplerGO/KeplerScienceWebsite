@@ -1,0 +1,28 @@
+# Summary of K2 Program GO6059
+
+Title: Short cadence K2 observations of accreting compact objects
+
+PI: Scaringi, Simone (Max Planck Institute for Extraterrestrial Physics)
+CoIs: Maccarone, Thomas Joseph; Long, Knox S.; Knigge, Christian; Groot, Paul J; Koerding, Elmar
+
+Short-cadence (SC) Kepler observations of compact binaries have already had a major impact to astrophysics. Thanks to its fast photometric cadence, continuous monitoring and high photometric accuracy, Kepler has provided unprecedented insights into various types of compact binaries, and holds an enormous potential for other astrophysical domains on top of planet hunting. Some of the most notable studies have revealed i) the mass ratio and precise orbital parameters through Doppler beaming and Romer delays for compact binaries (Bloemen et al. 2011, MNRAS,410, 178, Bloemen et al. 2012, MNRAS, 422, 2600), ii) the discovery of the rms-flux relation in the aperiodic flickering of accreting white dwarfs (WD, Scaringi et al. 2012, MNRAS, 421, 2854) iii) stringent tests to the disk instability model through the precise characterization of dwarf nova (DN) outburst cycles and (Cannizzo et al. 2012, ApJ, 747, 117) iv) the application of the fluctuating accretion disk model employed on aperiodic variability of X-ray binaries and Active Galactic Nuclei to accreting white dwarfs (Scaringi 2014, MNRAS, 438, 1233). Here we propose to continue exploiting the capabilities of SC Kepler data through the use of K2, and specifically ask to observe 1 targets in Field 6 and 4 targets in Field 7 all short cadence mode.
+
+All targets have been selected from the Ritter & Kolb cataloge (A&A, 404, 301). We will probe for all their broad-band variability properties. Together with similar targets observed during the previous K2 campaigns, this will form the most comprehensive study of optical aperiodic variability in accreting compact objects. The results will be compared to the X-ray variability observed in X-ray binaries and Active Galactic Nuclei to test the current accretion disk models.
+
+Here a brief description of each one:
+
+HS Vir, Field 6: Cataclysmic variable of the Dwarf nova type with an orbital period of 1.84 hours, also displaying positive superhumps. 
+
+V1082 Sgr, Field 7: Nova-like cataclysmic variable with an orbital period of 20.8 hours. This will be the longest period nova-like observed with Kepler.
+
+V4743 Sgr, Field 7: Intermediate polar cataclysmic variable also studied at X-ray wavelengths (Ness et al., 2003, AJ, 594, L127), with an orbital and spin period of 6.7 hours and 23.6 minutes respectivley.
+
+V729 Sgr, Field 7: Dwarf nova cataclysmic variable with an orbital period of 4.6 hours.
+
+HETE J1900.1-2455, Field 7: Low mass X-ray binary contain a pulsar (spin period of 377 Hz) with an orbital period of 83.3 minutes. This will be the first of its kind observed with Kepler.
+
+Additional targets might be added from searching the Catalina Sky Survey (CSS) or the Palomar Transient Factory (PTF) if found to be on silicon and if their magnitudes are found to be suitable (Km<16) for aperiodic variability studies.
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+212700993, 205.9101715, -8.2344065, 15.598, GO6038_SC|GO6048_SC|GO6059_SC|GO6038_LC|GO6040_LC|GO6048_LC|GO6059_LC

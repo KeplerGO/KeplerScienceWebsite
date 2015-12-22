@@ -1,0 +1,15 @@
+# Summary of K2 Program GO4105
+
+Title: Solar-like Oscillations in Eclipsing-Binary Systems
+
+PI: Gaulme, Patrick (New Mexico State University)
+CoIs: Chaplin, William J; Baudin, Frederic; Derekas, Aliz; Johnson, Jennifer Anne; Mosser, Benoit; Huber, Daniel; Appourchaux, Thierry; Gizon, Laurent; Hekker, Saskia; Rawls, Meredith L; Jackiewicz, Jason; McKeever, Jean M; Mathur, Savita; Bedding, Tim; Guzik, Joyce Ann; Silva Aguirre, Victor
+
+We propose to use K2 unique capability to detect solar-like oscillations of main-sequence and red-giant stars that belong to well-known eclipsing binaries. Binary systems hosting at least one star with detectable solar-like pulsations are becoming important astrophysical targets because they provide a way to calibrate asteroseismology. Indeed, eclipsing binary systems allow for accurate determination of masses and radii of both stars by combining photometric and radial-velocity measurements, which can then be compared with asteroseismic estimates. Eclipsing binaries are also interesting for the physical processes resulting from tidal interactions, which may influence their evolution when the stars are close enough. So far, all the published stars known to both display solar-like oscillations and belong to eclipsing binaries are red-giants, and all have been detected by the Kepler mission (Hekker et al. 2010, Gaulme et al. 2013 & 2014, Beck et al. 2014). The purpose of this GO proposal is to observe a small set of eclipsing binaries, including either a red-giant or a main-sequence solar-like star, that are already well characterized in terms of physical parameters (orbits, masses, radii). Doing so present two main advantages. Firstly, observing well-known systems helps predicting the likelihood of detecting solar-like oscillations. Secondly, the objective is to reduce the burden of ground-based follow-up, which is very time-consuming when radial-velocities need to be measured.
+
+# Targets requested by this program that have been observed (4)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211416577, 132.836709, 11.890565, 11.206, GO4105_SC
+211913235, 135.171315, 18.92317, 11.496, GO4105_SC|GO5020_LC|GO5057_LC|GO4104_LC|GO4105_LC
+211918335, 130.007101, 18.999848, 10.042, GO4105_SC|GO5007_LC|GO5018_LC|GO5024_LC|GO5029_LC|GO5032_LC|GO5033_LC|GO5048_LC|GO5057_LC|GO4104_LC|GO4105_LC|GO5023_LC|GO5060_LC
+212173112, 129.375529, 23.561565, 9.91, GO4105_SC|GO5020_LC|GO5057_LC|GO4104_LC|GO4105_LC

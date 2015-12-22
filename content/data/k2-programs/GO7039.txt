@@ -1,0 +1,46 @@
+# Summary of K2 Program GO7039
+
+Title: Asteroseismology of Solar-Type Stars with K2
+
+PI: Davies, Guy Rhys (University of Birmingham)
+CoIs: Chaplin, William J; Basu, Sarbani; Huber, Daniel; Latham, David W.
+
+We propose a selection of bright solar-type stars, including cool main-
+sequence dwarfs and sub-giants, for asteroseismic observations in K2 Fields 6 and 7. These stars are predicted to show detectable solar-like oscillations with periods of the order of minutes. Short cadence data are therefore a pre-requisite for detecting the oscillations. Our list comprises stars that will be prime targets for one of the main goals of K2, the detection of exoplanets around bright solar-type stars, for which precise RV follow-up will be possible. We seek to take advantage of the opportunity to have Kepler observe targets for asteroseismology that are typically brighter than those observed in the nominal Mission. Because the targets are brighter, much more accurate and detailed prior constraints (e.g., from parallaxes, detailed spectroscopy, interferometry, etc.) will be available on these stars than was usually the case for asteroseismic targets in the original field. It will therefore be possible to bring the full potential of asteroseismology to bear to test the physics of stellar interiors. It will also be possible to go beyond studying stellar structure, to put constraints on the evolution of the solar neighbourhood. These solar-type targets in Field 6 and 7, along with the targets from previous and future fields, will allow us to constrain the age-metallicity relation of nearby field stars in a manner that has not been possible before. Note that asteroseismic data can constrain stellar ages much better than any other method. By providing asteroseismic ages of stars with detectable surface rotation periods we will also provide additional calibrators for gyrochonology. And of course, asteroseismology will allow us to better characterize targets that have detected exoplanets, including any new detections made by K2 and also already-known hosts that are on our list.
+
+# Targets requested by this program that have been observed (34)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+213279447, 287.6151428, -30.0071163, 6.463, GO7039_LC|GO7078_LC|GO7071_LC|GO7030_LC
+213332010, 287.6742554, -29.8136673, 7.878, GO7039_LC|GO7087_LC|GO7030_LC|GO7039_SC
+213387881, 290.414032, -29.6054649, 6.996, GO7039_LC|GO7087_LC|GO7030_LC
+213410372, 290.5160828, -29.5230808, 6.989, GO7039_LC|GO7078_LC|GO7087_LC|GO7030_LC
+213461346, 285.5818481, -29.3419209, 8.541, GO7039_LC|GO7030_LC|GO7039_SC
+213554577, 289.8565369, -29.0210304, 8.1, GO7039_LC|GO7016_LC|GO7030_LC|GO7039_SC
+213836600, 283.9950562, -28.1302299, 8.351, GO7039_LC|GO7078_LC|GO7030_LC
+213841509, 284.2770996, -28.115839, 8.961, GO7039_LC|GO7087_LC|GO7030_LC|GO7039_SC
+213873758, 293.1680603, -28.0198078, 6.99, GO7039_LC|GO7087_LC|GO7046_LC|GO7030_LC
+214049657, 283.8886719, -27.5170612, 9.324, GO7086_LC|GO7039_LC|GO7087_LC|GO7030_LC|GO7039_SC
+214073502, 293.7866821, -27.4518013, 9.123, GO7086_LC|GO7039_LC|GO7087_LC|GO7030_LC|GO7039_SC
+214112021, 281.5677795, -27.3463554, 8.273, GO7039_LC|GO7078_LC|GO7087_LC|GO7030_LC
+214155925, 287.2690125, -27.2271137, 9.068, GO7039_LC|GO7087_LC|GO7030_LC|GO7039_SC
+214287331, 288.4848022, -26.8762569, 7.08, GO7039_LC|GO7030_LC
+214378308, 286.436554, -26.6420746, 8.878, GO7039_LC|GO7078_LC|GO7087_LC|GO7030_LC|GO7039_SC
+214722449, 281.1852112, -25.7976856, 8.267, GO7086_LC|GO7039_LC|GO7078_LC|GO7016_LC|GO7087_LC|GO7030_LC
+214905993, 281.1723938, -25.3699093, 8.431, GO7086_LC|GO7039_LC|GO7016_LC|GO7087_LC|GO7030_LC|GO7039_SC
+214974178, 281.8243713, -25.2162437, 9.031, GO7039_LC|GO7016_LC|GO7087_LC|GO7030_LC|GO7039_SC
+215035735, 294.2583618, -25.080267, 8.285, GO7039_LC|GO7016_LC|GO7087_LC|GO7030_LC|GO7039_SC
+215051461, 284.0017395, -25.0457458, 7.295, GO7039_LC|GO7078_LC|GO7087_LC|GO7030_LC
+215225833, 286.2498474, -24.6669731, 8.406, GO7039_LC|GO7030_LC
+216056514, 291.2757568, -23.0418282, 7.543, GO7039_LC|GO7078_LC|GO7030_LC
+216228024, 295.0988159, -22.7284832, 8.873, GO7039_LC|GO7078_LC|GO7016_LC|GO7087_LC|GO7030_LC|GO7039_SC
+216259393, 280.9279785, -22.6704502, 7.965, GO7039_LC|GO7078_LC|GO7087_LC|GO7030_LC
+216769803, 289.2956848, -21.757021, 8.202, GO7039_LC|GO7016_LC|GO7087_LC|GO7030_LC
+216896381, 286.0845337, -21.5314617, 7.995, GO7086_LC|GO7039_LC|GO7078_LC|GO7087_LC|GO7030_LC
+216931153, 287.4134827, -21.4696732, 8.36, GO7039_LC|GO7087_LC|GO7030_LC
+218197771, 288.1837158, -19.2355499, 8.085, GO7039_LC|GO7016_LC|GO7087_LC|GO7030_LC
+218683659, 291.9170532, -18.3508396, 8.801, GO7039_LC|GO7078_LC|GO7030_LC|GO7039_SC
+218837285, 288.6373596, -18.0597706, 8.259, GO7039_LC|GO7078_LC|GO7016_LC|GO7030_LC|GO7039_SC
+218910907, 289.4041748, -17.9217567, 8.053, GO7039_LC|GO7016_LC|GO7030_LC|GO7039_SC
+219119080, 285.1069946, -17.4843693, 7.69, GO7039_LC|GO7030_LC
+219179379, 285.460022, -17.3516216, 8.203, GO7039_LC|GO7030_LC|GO7039_SC
+219565258, 288.0404663, -16.4304886, 8.382, GO7039_LC|GO7087_LC|GO7030_LC|GO7039_SC

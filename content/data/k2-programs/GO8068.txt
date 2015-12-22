@@ -19,7 +19,6 @@ We will deliver the following value added community resource products to the NAS
 
 Our campaign to measure the masses of small K2 planets with precision better than 15% will have a tremendous impact on our understanding of small planets. By increasing the number of small planets with precise mass and radius estimates, we will enable investigations of the fraction of rocky planets as a function of planetary and stellar parameters such as orbital period, the presence of additional planets, and stellar metallicity. Improving our understanding of the relationship between the masses and radii of small planets will provide useful background information when selecting targets for atmospheric characterization with the James Webb Space Telescope and prioritizing the follow-up observations of planets detected by the Transiting Exoplanet Survey Satellite.
 
-
 # Targets requested by this program that have been observed (3633)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220135666, 17.0366783, -2.468612, 12.71, GO8068_LC|GO8077_LC

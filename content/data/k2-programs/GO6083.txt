@@ -1,0 +1,58 @@
+# Summary of K2 Program GO6083
+
+Title: K2 Observations of Variable White Dwarfs in Fields 6 and 7
+
+PI: Hermes, James J (Astronomy Group)
+CoIs: Raddi, Roberto; Gaensicke, Boris Teddy; Marsh, Tom; Gentile Fusillo, Nicola
+
+We propose observations of variable white dwarfs (WDs) in Fields 6 & 7 of the K2 mission. We propose short-cadence observations of known and high-probability pulsating WDs within the empirical ZZ Ceti instability strip. We additionally propose observations of known magnetic WDs to constrain magnetic activity and rotation rates in these stars.
+
+As they cool, WDs stars with hydrogen-dominated atmospheres pulsate as DAVs (a.k.a. ZZ Ceti stars) when they reach the appropriate effective temperature to foster a hydrogen partial-ionization zone, which efficiently drives global oscillations. This range of temperatures empirically spans roughly 12,60011,100 K for typical-mass (0.6 Msun), log g = 8.0 WDs (Gianninas et al. 2011, ApJ, 743, 138). Pulsating WDs provide an important glimpse into the interior of the future of the vast majority (> 97%) of all stars in our Galaxy, including our Sun, allowing us to probe the masses and compositions of their electron-degenerate cores, as well as of their non-degenerate envelopes; to determine their internal rota- tion profiles; and to detect weak magnetic fields (see reviews by Winget & Kepler 2008 (ARA&A, 46, 157) and Fontaine & Brassard 2008 (PASP, 120, 1043).
+
+Since the ZZ Ceti instability strip is defined by temperature, color selection is an excellent predictor of variability. Our team discovered all DAVs in the original Kepler mission, which has led to exquisite insight into WD interiors. We have applied the same photometric selection methods to K2 Fields 6 & 7, and have identified several WDs on silicon with colors consistent with the empirical ZZ Ceti instability strip. Since there is little SDSS overlap with K2 Fields 6 & 7, we have searched for new candidates using u', g', r' colors from the VST/ATLAS survey in the regions overlapping with Field 6 (no ATLAS data exists for Field 7). We have also searched for candidate DAVs from WDs with appropriate colors in the SuperCOSMOS Sky Survey (Rowell & Hambly 2011, MNRAS, 417, 93); this is how we discovered the first DAV in the original Kepler field (Hermes et al. 2011, ApJ, 741, L16). There is also one previously known, bright pulsating WD on silicon in Field 6: the DAV EC140121446 (V =15.5 mag).
+
+Every new DAV we can observe with Kepler adds value, since it brings us that much closer to sta- tistically significant studies of WDs with ensemble asteroseismology (e.g. Chaplin et al. 2011, Science, 332, 213). To date, there are only six pulsating WDs with more than two weeks of Kepler observations, although several were observed in K2 Field 1. With typical pulsations ranging from 100  1400 s, we require short-cadence observations of these WDs. We expect to propose roughly 4 DAVs for Field 6 and 2 DAVs for Field 7. Minute-cadence K2 observations have the added benefit of catching transits/eclipses of the WD, revealing any unresolved double-degenerate binaries or even planetary companions.
+
+Additionally, we propose observations of multiple strongly magnetic WDs in Fields 6 and 7 to carry out the first in-depth study into the magnetic activity of the endpoints of stellar evolution.
+
+# Targets requested by this program that have been observed (39)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+212342534, 204.2468872, -16.3288383, 16.993, GO6045_SC|GO6001_LC|GO6003_LC|GO6028_LC|GO6045_LC|GO6050_LC|GO6063_LC|GO6071_LC|GO6083_LC
+212395381, 210.988266, -15.0195904, 15.719, GO6001_SC|GO6003_SC|GO6045_SC|GO6083_SC|GO6001_LC|GO6003_LC|GO6040_LC|GO6045_LC|GO6050_LC|GO6071_LC|GO6083_LC
+212410755, 203.9728394, -14.6703053, 13.462, GO6047_SC|GO6047_LC|GO6058_LC|GO6083_LC
+212564858, 199.4468384, -11.351675, 15.661, GO6045_SC|GO6001_LC|GO6003_LC|GO6045_LC|GO6050_LC|GO6083_LC
+212591300, 206.0057068, -10.7851477, 18.167, GO6003_LC|GO6083_LC
+212626651, 199.0224609, -9.9838161, 17.897, GO6003_LC|GO6083_LC
+212628097, 209.8096771, -9.9491873, 18.115, GO6083_SC|GO6003_LC|GO6083_LC
+212654649, 209.1656647, -9.3391533, 17.337, GO6045_SC|GO6003_LC|GO6045_LC|GO6083_LC
+212662111, 202.0996094, -9.1647053, 16.841, GO6045_SC|GO6001_LC|GO6003_LC|GO6045_LC|GO6050_LC|GO6083_LC
+212662594, 210.5886993, -9.1528759, 16.9, GO6083_LC
+212676650, 201.414444, -8.8219719, 13.544, GO6083_LC
+212682624, 211.1947174, -8.6813307, 15.815, GO6083_LC
+212688167, 210.8420563, -8.5500736, 17.784, GO6003_LC|GO6083_LC
+212697009, 210.9771576, -8.3344431, 16.384, GO6083_LC
+212698814, 210.3284302, -8.2895679, 16.599, GO6003_LC|GO6083_LC
+212704608, 208.4795837, -8.1444139, 17.311, GO6003_LC|GO6083_LC
+212707862, 208.9363556, -8.0651302, 15.548, GO6010_SC|GO6047_SC|GO6003_LC|GO6010_LC|GO6047_LC|GO6058_LC|GO6083_LC
+212745040, 200.6682892, -7.1136918, 15.912, GO6083_LC
+212749589, 199.3268433, -6.9911919, 16.18, GO6001_LC|GO6003_LC|GO6050_LC|GO6063_LC|GO6083_LC
+212756842, 207.2015076, -6.7891641, 16.652, GO6001_LC|GO6003_LC|GO6040_LC|GO6083_LC
+212759017, 209.1989746, -6.729425, 18.151, GO6083_SC|GO6003_LC|GO6083_LC
+212813988, 207.4789734, -5.1034098, 17.278, GO6083_LC
+229228123, , , , GO6083_SC|GO6083_LC
+229228124, , , , GO6083_SC|GO6083_LC
+229228125, , , , GO6083_LC
+229228126, , , , GO6083_LC
+229228127, , , , GO6083_LC
+229228128, , , , GO6083_LC
+229228129, , , , GO6083_LC
+229228130, , , , GO6083_LC
+229228131, , , , GO6083_LC
+229228132, , , , GO6083_LC
+229228133, , , , GO6083_LC
+229228134, , , , GO6083_LC
+229228135, , , , GO6083_LC
+229228136, , , , GO6083_LC
+229228137, , , , GO6083_LC
+229228138, , , , GO6083_LC
+229228139, , , , GO6083_LC

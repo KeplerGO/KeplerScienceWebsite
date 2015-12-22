@@ -1,0 +1,27 @@
+# Summary of K2 Program GO4015
+
+Title: Using K2 to probe variability in young stellar objects
+
+PI: Akeson, Rachel L (Caltech)
+CoIs: Ciardi, David R; Turner, Neal; Carpenter, John M; Hartmann, Lee; Beichman, Charles A.; Stauffer, John R.; Rebull, Luisa; hillenbrand, lynne a; Cody, Ann Marie
+
+We propose to observe 17 objects in or near the Taurus star formation region.  Seven of these objects are known young stars in Taurus, five are likely to be younger than a few hundred Myr and five show some signatures of youth but need validation as young stellar objects. Our specific goals are to 1) Obtain the best possible light curve for T Tau, the original, defining member of the class of young stellar objects, as well as other young stellar objects, in order to quantitatively characterize the variability and to examine the physical origin of this variability, 2) determine the variability types, levels, and time scales for all objects, 3) correlate the measured variations with known properties of the objects such as infrared excess level, and 4) compare the variations of the Taurus objects to those previously observed for young stars in other star formation regions.
+
+This proposal addresses the NASA astrophysics strategic goal to explore the origin and evolution of stars.  New data with K2 is required to address these science goals as the original Kepler field did not contain any objects at this early evolutionary state in the formation of stars and planets.
+
+# Targets requested by this program that have been observed (14)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210612142, 65.586623, 17.136604, 17.89, GO4090_LC|GO4092_LC|GO4015_LC
+210716088, 66.746593, 18.596865, 19.403, GO4090_LC|GO4092_LC|GO4015_LC
+210780789, 65.555513, 19.577566, 14.2, GO4076_LC|GO4090_LC|GO4092_LC|GO4015_LC
+210865655, 62.618105, 20.8641, 17.439, GO4015_LC
+210929228, 61.378688, 21.852944, 14.089, GO4057_LC|GO4076_LC|GO4097_LC|GO4090_LC|GO4092_LC|GO4015_LC
+210936710, 61.16405, 21.971816, 14.26, GO4020_LC|GO4057_LC|GO4023_LC|GO4076_LC|GO4097_LC|GO4090_LC|GO4092_LC|GO4015_LC
+210936757, 61.166032, 21.972631, 13.125, GO4020_LC|GO4057_LC|GO4060_LC|GO4097_LC|GO4090_LC|GO4092_LC|GO4015_LC
+210955775, 62.773785, 22.275365, 14.093, GO4020_LC|GO4097_LC|GO4011_LC|GO4015_LC
+211038410, 58.82962, 23.583818, 17.703, GO4090_LC|GO4092_LC|GO4015_LC
+211067472, 61.819718, 24.04937, 17.828, GO4090_LC|GO4092_LC|GO4015_LC
+211104793, 63.16959, 24.637709, 13.798, GO4020_LC|GO4090_LC|GO4015_LC
+211137540, 60.518384, 25.202835, 18.301, GO4090_LC|GO4092_LC|GO4015_LC
+211159819, 58.649871, 25.618936, 12.146, GO4020_LC|GO4090_LC|GO4092_LC|GO4015_LC
+211159865, 58.648171, 25.619768, 13.524, GO4020_LC|GO4076_LC|GO4090_LC|GO4092_LC|GO4015_LC

@@ -14,7 +14,6 @@ We will continue our search for transit signals in the K2 photometry using the w
 
 This proposal directly addresses two objectives from the prime Kepler mission: measuring planet occurrence rates and characterizing small planets with Doppler mass measurements.
 
-
 # Targets requested by this program that have been observed (8276)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220133060, 16.9912701, -2.5905769, 13.28, GO8077_LC

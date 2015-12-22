@@ -1,0 +1,17 @@
+# Summary of K2 Program GO7066
+
+Title: Characterizing the confirmed transiting-hot-Jupiter systems HATS-9 and HATS-11 with K2 Short-Cadence Photometry
+
+PI: Bakos, Gaspar Aron (Princeton University)
+CoIs: Espinoza, Nestor; Jordan, Andres; Brahm, Rafael Andres
+
+Here we propose to observe two recently discovered transiting planet systems: HATS-9 (2MASS 19231442-2009587) and HATS11 (2MASS 19173618-2223236). The former, a V = 13.3 (Kepler magnitude 13.2), solar-type (T = 5400, Rstar = 1.5Rsun, M = 1Msun) star, is orbited by a very short-period hot-Jupiter (P=1.915d, Rp = 1.1Rjup, Mp = 0.84Mjup, Brahm et al., 2015, in prep.), while the latter is a V = 13.9 (Kepler magnitude 13.9), solar-type (T = 6000 K, Rstar = 1.4Rsun, M = 1Msun) star orbited by an inflated hot-Jupiter (P=3.62d, Rp = 1.5Rjup, Mp = 0.85Mjup, Rabus et al., 2015, in prep.). Both stars are on silicon in Field 7 of the K2 mission.
+
+From the transit and radial velocity measurements for these targets, we estimate that the potential of detecting reflected light signatures is very high for both in comparison with all the confirmed Kepler planets, with HATS-9b showing (Rp/a)^2 ~ 300 ppm and HATS-11b showing (Rp/a)^2 ~ 250 ppm (for comparison, the median reflected light signature of planets with (Rp/a)^2 > 100 ppm is ~150 ppm). As such, these are very interesting targets for characterization with the K2 mission, whose high-precision photometry will be able to constrain the day-side emission of these planets through phase curve and secondary eclipse measurements. The latter is a very interesting measurement for both planets: on one hand, HATS-9b has a radius significantly smaller than planets with similarly high stellar irradiation levels which are as a consecuence very inflated, a fate that this planet has somehow avoided, while HATS-11b has a radius significantly larger than planets with similar stellar irradiation levels, indicating that both are atypical hot-Jupiters. We will also be able to determine the eccentricity of these systems, which is specifically important for HATS-9b, for which we have constrained it to be e < 0.129 (95% credibility upper limit). The importance of better constraining the eccentricity for this system comes from the fact that the stellar host is estimated to be old (11 Gyr) and, as such, one would expect the eccentricity to be zero due to tidal circularization; constraining it with high-precision K2 photometry will thus allow us to put orbital evolution models to test.
+
+In addition to the science aims already mentioned above, the high-precision K2 photometry will also allow us to (1) further constrain important planetary parameters such as mass, radius and density for the targets, (2) constrain the possibility of additional planets via TTV and/or additional transits and (3) look for stellar oscillations in order to improve the stellar parameters. For these science aims to be met, we request short-cadence observations for these targets in order to have high-quality transit lightcurves given the 3.5h and 4.2h transit durations for HATS-9b and HATS-11b respectively.
+
+# Targets requested by this program that have been observed (2)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+216414930, 289.4007568, -22.3899269, 13.737, GO7066_LC|GO7085_LC|GO7066_SC
+217671466, 290.8101196, -20.1663456, 13.095, GO7066_LC|GO7066_SC

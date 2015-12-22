@@ -1,0 +1,32 @@
+# Summary of K2 Program GO6002
+
+Title: Searching for Terrestrial Planets Orbiting Cool Stars and Brown Dwarfs with K2
+
+PI: Demory, Brice-Olivier (University of Cambridge)
+CoIs: Gillon, Michael; Huber, Daniel; Queloz, Didier Patrick
+
+SUMMARY. We propose to use K2 to conduct a detailed search for Earth-sized planets orbiting the brightest cool stars and brown dwarfs (spectral types from M0 to L8, Demory et al., 2013b). This population of objects presents several advantages for exoplanet surveys. First, cool stars and brown dwarfs are small and thus result in favorable planet-to-star area ratios. Second, because of their low effective temperature, the inner edge of their habitable zone can be extremely close (down to a few days only). Third, our targets are bright at infrared wavelengths, which will enable detailed follow-up studies. Our program therefore represents a unique opportunity to find a transiting Earth-size exoplanet for which atmospheric features (including biosignatures) could be detected with near-to-come facilities such as JWST. Such an exoplanet has not been discovered yet. As of today, K2 is the only facility that provides the required stability and photometric precision to make this survey successful. This proposal is a continuation of our K2 campaigns 0, 1, 2 and 3 observations.
+
+SCIENCE GOALS. Our primary science goal is to find terrestrial planets orbiting bright nearby, ultra-cool stars and brown dwarfs. Nearly all of the proposed targets benefit from spectroscopic observations that will facilitate the characterisation of planets transiting them. None of the small planets found so far with Kepler will be amenable to detailed characterisation, even with JWST. Our K2 proposed observations represents a unique opportunity to find a rocky planet for which a transmission/emission spectrum could be obtained with near-to-come facilities.
+
+High-precision monitoring of cool stars and brown dwarfs will also prove to be particularly useful for understanding the variability nature of these objects in the visible, even if no transit is detected throughout the sample (see Demory et al. 2013b).
+
+RELEVANCE TO NASA. This proposal requests target allocation to search for terrestrial planets orbiting in the habitable zone of ultra-cool dwarfs with K2. This program will significantly improve our knowledge of the only population of planets (those that orbit ultra-cool stars) for which atmospheric biosignature gases could be detected with JWST in a reasonable amount of time. Our proposal meets three objectives of the NASA's Origins Program, namely the characterisation of exoplanets, study of planetary formation and the search for cosmic life.
+
+METHODOLOGY. We perform the target selection tailored to fields 6 and 7, as we did for the previous campaigns. Our selection is based on the M-dwarf bright star catalog of Lepine & Gaidos in one hand and a compiled database of the brightest ultra-cool dwarfs based on the literature. This sample is thus clean of false positives and most targets benefit from detailed spectroscopic characterisation. We have also been developing a photometric pipeline using as inputs the K2 target pixel files to extract the photometric time-series. The aperture is recentered on the target star for each frame and, after centroiding, the time-series are detrended in a MCMC framework to remove position-dependent systematics. We trained our pipeline on the K2 engineering data of February 2014 and we obtain results that validates the feasibility of our program. We already found several planet candidates in that dataset.
+
+EXPECTED YIELD. Our target list is still in preparation. We expect to assemble a list of 110 to 190 bright ultra-cool dwarfs for fields 6 and 7. 
+
+By combining this proposed program with our previous K2 efforts, we are building up a consistent sample that will allow us to precisely constrain the occurrence rate and physical/orbital properties of terrestrial planets orbiting ultra-cool dwarfs.
+
+# Targets requested by this program that have been observed (9)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+212287292, 204.8604736, -17.9181499, 14.796, GO6002_LC|GO6006_LC
+212402103, 205.0480042, -14.8664322, 14.835, GO6002_LC|GO6006_LC|GO6008_LC
+212411722, 209.3123932, -14.6480494, 14.21, GO6002_LC|GO6006_LC|GO6008_LC
+212556566, 204.6703491, -11.5354939, 12.856, GO6052_SC|GO6002_LC|GO6008_LC|GO6032_LC|GO6052_LC|GO6060_LC
+212681564, 202.5115662, -8.7071047, 11.824, GO6052_SC|GO6002_LC|GO6008_LC|GO6016_LC|GO6028_LC|GO6032_LC|GO6052_LC|GO6060_LC|GO6065_LC
+212820594, 202.5096741, -4.8889508, 14.665, GO6006_SC|GO6002_LC|GO6006_LC|GO6008_LC|GO6037_LC
+212826600, 203.1017761, -4.6868572, 13.755, GO6006_SC|GO6002_LC|GO6006_LC|GO6008_LC|GO6037_LC
+229227142, , , , GO6002_LC
+229227143, , , , GO6002_LC

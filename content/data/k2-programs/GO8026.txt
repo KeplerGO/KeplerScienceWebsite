@@ -27,7 +27,6 @@ Kepler 2 is the only means currently available that is capable of obtaining ligh
 
 For these reasons, that K2 is unique in its capability and that C8 Stripe 82 offers an unprecedented prior record of flaring, new K2 observations are required. Thus this proposed work is responsive to the K2 call for Campaign 8.
 
-
 # Targets requested by this program that have been observed (1200)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220170413, 13.5743046, -1.19133, 18.817, GO8026_LC

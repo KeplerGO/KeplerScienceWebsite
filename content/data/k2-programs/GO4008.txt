@@ -1,0 +1,35 @@
+# Summary of K2 Program GO4008
+
+Title: New Swift X-ray Sources in K2_x0014_Rigorously Probing Active Galaxy Accretion and Stellar Variability
+
+PI: Boyd, Patricia T. (UMBC and NASA's Goddard Space Flight Center)
+CoIs: Brown, Alexander; Smith, Krista Lynne; Howell, Steve B; Gehrels, Neil; Mushotzky, Richard; Gelino, Dawn M
+
+We request K2 monitoring of new X-ray sources in the Campaign 4 field discovered with our ongoing Kepler-Swift Active Galaxies Survey (KSwAGS). The first phase of the KSwAGS uncovered 93 bright X-ray sources in the original Kepler FOV (Smith et al., in preparation). Approximately half of these sources were indeed active galaxies while the remainder were active stars of various type (pulsating stars, rapid rotators, close binaries, flaring M-stars).  High-precision optical follow-up would have been scientifically useful on all newly-discovered X-ray targets, however the fourth Kepler reaction wheel failed before we could propose monitoring of these sources.  All existing archived AGN light curves in the Kepler database were thus selected using near-infrared photometric methods (e.g., Edelson & Malkan 2012). These methods preferentially select AGN with high black hole masses (MBH e 108 MSUN), since the method fails if the continuum is dominated by starlight, instead of AGN light. Fortunately, X-ray selection uncovers low-MBH, low luminosity, and low accretion-rate AGN. These types of AGN have predicted variability timescales short enough to be constrained by a 75-day K2 campaign. Indeed, narrow-line Sy 1 objects (NLS1) are expected to vary on timescales of days to weeks. This science is complimentary to what we are conducting in the original field with high-MBH objects, since the accretion physics is expected to differ between these types of objects (i.e., low-accretion rate objects may have advection dominated accretion flows or other scenarios instead of the canonical optically-thick, geometrically-thin accretion disk).  Swift will begin surveying the K2 Campaign 4 FOV in 2014 Sept. We anticipate ~50 sources from this survey, based on the original KSwAGS, which discovered 93. The photometric precision and high duty cycle of K2 will be more than adequate for our purposes. Our objectives cannot be met using archival Kepler data because these AGN targets were selected with techniques that are biased toward high MBH objects.
+
+# Targets requested by this program that have been observed (24)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210307221, 58.247914, 10.92689, 19.87, GO4008_LC
+210324198, 59.916826, 11.47413, 9.23, GO4008_LC|GO4023_LC|GO4029_LC|GO4104_LC
+210336461, 59.279779, 11.843149, 12.348, GO4020_LC|GO4008_LC|GO4089_LC
+210355746, 58.103167, 12.378796, 9.943, GO4008_LC|GO4029_LC|GO4090_LC|GO4033_LC|GO4007_LC|GO4104_LC
+210356450, 54.537786, 12.397963, 10.931, GO4020_LC|GO4008_LC|GO4029_LC|GO4033_LC|GO4007_LC|GO4104_LC
+210362756, 59.9489, 12.562872, 13.55, GO4020_LC|GO4008_LC|GO4060_LC|GO4097_LC|GO4006_LC|GO4054_LC
+210371136, 57.506127, 12.778316, 17.646, GO4008_LC
+210371757, 55.825436, 12.793946, 8.202, GO4008_LC|GO4029_LC
+210384590, 59.649246, 13.105031, 9.168, GO4018_LC|GO4008_LC|GO4060_LC|GO4048_LC|GO4033_LC|GO4007_LC|GO4095_LC|GO4104_LC|GO4024_LC|GO4082_LC
+210391196, 59.347234, 13.259466, 19.792, GO4008_LC
+210407864, 59.40597, 13.646359, 14.23, GO4008_LC|GO4007_LC
+210414765, 53.674179, 13.800127, 17.179, GO4008_LC|GO4096_LC
+210426551, 54.226192, 14.054624, 10.318, GO4057_LC|GO4008_LC|GO4060_LC|GO4029_LC|GO4033_LC|GO4007_LC|GO4104_LC|GO4052_LC
+210434654, 54.042052, 14.2207, 13.433, GO4020_LC|GO4008_LC
+210467490, 55.038275, 14.846805, 17.371, GO4038_LC|GO4008_LC
+210505125, 61.480636, 15.498993, 8.6, GO4008_LC|GO4033_LC|GO4007_LC|GO4104_LC
+210647256, 55.640866, 17.630754, 17.519, GO4008_LC
+210736934, 58.708938, 18.909161, 18.429, GO4008_LC
+210747313, 59.036928, 19.067296, 18.695, GO4008_LC
+210865374, 62.639215, 20.860121, 12.484, GO4008_LC|GO4097_LC
+210865436, 62.640608, 20.860925, 12.035, GO4008_LC|GO4060_LC|GO4029_LC|GO4022_LC
+210935262, 61.133893, 21.948366, 18.447, GO4008_LC
+210935378, 61.132977, 21.949921, 17.977, GO4008_LC
+210984191, 54.574225, 22.72662, 17.673, GO4008_LC

@@ -1,0 +1,19 @@
+# Summary of K2 Program GO5037
+
+Title: Superflares on RS CVn Stars
+
+PI: Schaefer, Bradley E. (Louisiana State University)
+CoIs: Hudson, Hugh S
+
+RS CVn stars are close binaries involving a G-type main sequence star (or a subgiant) around a cooler star, with the 1-14 day orbital period making for synchronized rotation.  This fast rotation makes the stars magnetically active, and they show large spots and bright calcium emission lines.  RS CVn stars also have large amplitude flares, with brightening up to 1.6 mag, emissions from X-ray to radio, and durations from an hour to a bit over a day.  These 'superflares' have energies up to 10^38 erg.  This is an astounding amount of energy, and impossible to explain with any normal solar-flare-like model.  Theoretical ideas all center on reconnection of magnetic fields in coronal loops, but the loops must be large and the fields strong, and this can only be done by involving the fields between the two binary star components.  But the field configurations and the detailed microphysics are not known.  RS CVn superflares have adequate observations from X-ray to optical to radio for a relatively small number of events.  But what is missing, that K2 can uniquely provide, is long coverage of many RS CVn systems to provide good and unbiased demographics, as well as the great sensitivity needed to confidently detect small amplitude events.  Kepler has not looked at any RS CVn systems previously, so we are proposing to use K2 to target 34 RS CVns in Fields 4 and 5.  With this, we will be able to push the detectable flare amplitude down by two orders-of-magnitude and our long coverage will be able to push to the largest amplitude superflares.  The great statistics from K2 will be able to perform tests like measuring the orbital phase dependence of flare frequency so as to distinguish between the magnetic loop and the magnetospheric tail reconnection models.
+
+	RS CVn superflares fit into a larger picture of superflares on Sun-like stars, with these other superflares having similar observational properties, yet their parent stars have no apparent companions.  One likely model for superflares on Sun-like stars is the same as we describe for RS CVn flares, except that the cool star is replaced by a close-in planet as the place to anchor the magnetic loops.  A goal of this K2 proposal is to test how similar are the two types of superflares.  For example, we will test whether the size-frequency distributions are the same, with a further comparison to Solar flares.  Only K2 can do this.
+
+# Targets requested by this program that have been observed (6)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211427165, 132.855432, 12.049022, 13.483, GO5020_LC|GO5031_LC|GO5037_LC|GO5057_LC
+211768258, 134.065452, 16.864615, 14.951, GO5037_LC
+211775229, 133.245578, 16.964288, 14.663, GO5007_LC|GO5020_LC|GO5037_LC
+211832598, 132.077174, 17.778762, 15.899, GO5037_LC
+212006725, 126.342652, 20.365768, 17.683, GO5004_LC|GO5018_LC|GO5024_LC|GO5026_LC|GO5037_LC|GO5048_LC|GO5081_LC
+212141606, 134.285981, 22.854453, 15.971, GO5037_LC

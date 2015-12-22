@@ -1,0 +1,24 @@
+# Summary of K2 Program GO6058
+
+Title: Kepler light curves of hot subdwarf binaries
+
+PI: Geier, Stephan (European Southern Observatory)
+CoIs: Heber, Ulrich; Nemeth, Peter; Kupfer, Thomas; Ostensen, Roy H.
+
+Hot subdwarf-B (sdB) stars are core-helium burning stars that have evolved from the red giant stage to the extreme blue end of the horizontal branch in a process where almost the entire envelope has been lost through interactions with a companion. Many sdBs are known to have close companions with periods
+ranging from 0.05 to 10 days, and must have evolved through the common-envelope-ejection (CEE) process. The closest systems are quite easy to study from the ground, but Kepler observations have opened the door for precise studies of the population of systems with periods between
+0.5 and and 10 days.
+
+Several close binary sdB stars were discovered by the original Kepler mission. The excellent Kepler light curves show photometric signals from Doppler beaming, ellipsoidal deformations and mutual irradiation effects. Long-cadence K2 observations presents us with an unique opportunity to accumulate a larger sample of post-common envelope sdB binaries that can shed light on the statistics of the CEE process, and thereby constrain the long sought after efficiency parameters that govern the common envelope stage of evolution. In the process we hope to find new particularly interesting binary systems, such as the eclipsing cases and those with extraordinary masses that could be progenitors of type-Ia supernovae.
+
+# Targets requested by this program that have been observed (9)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+212410755, 203.9728394, -14.6703053, 13.462, GO6047_SC|GO6047_LC|GO6058_LC|GO6083_LC
+212465180, 202.3009186, -13.4787817, 15.588, GO6010_SC|GO6010_LC|GO6058_LC
+212498842, 199.7180328, -12.7583246, 15.262, GO6010_SC|GO6047_SC|GO6010_LC|GO6047_LC|GO6058_LC
+212508753, 199.4135895, -12.5478592, 15.132, GO6010_SC|GO6047_SC|GO6010_LC|GO6040_LC|GO6047_LC|GO6058_LC
+212567176, 198.0098114, -11.3041925, 17.646, GO6010_SC|GO6047_SC|GO6010_LC|GO6047_LC|GO6058_LC
+212630158, 198.4048615, -9.9039898, 15.747, GO6047_SC|GO6047_LC|GO6058_LC
+212707862, 208.9363556, -8.0651302, 15.548, GO6010_SC|GO6047_SC|GO6003_LC|GO6010_LC|GO6047_LC|GO6058_LC|GO6083_LC
+212762631, 209.4760895, -6.6255212, 13.759, GO6010_SC|GO6010_LC|GO6058_LC
+212818294, 209.7058105, -4.9634428, 16.194, GO6010_SC|GO6010_LC|GO6058_LC

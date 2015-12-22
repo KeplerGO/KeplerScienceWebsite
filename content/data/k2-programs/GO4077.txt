@@ -1,0 +1,13 @@
+# Summary of K2 Program GO4077
+
+Title: Accretion disc variability in Cataclysmic Variables
+
+PI: Breedt, Elme (University of Warwick)
+CoIs: Marsh, Tom; Steeghs, Daniel; Gaensicke, Boris Teddy
+
+We propose to continue our monitoring programme of the accreting compact binaries in the K2 fields. In fields 4 and 5, a total of 10 accreting white dwarfs (cataclysmic variables, CVs) fall on active silicon. These targets clearly illustrate the range of variability timescales present in the lightcurves of accreting compact objects, e.g. accretion disc flickering (seconds), white dwarf spin (seconds), eclipses (minutes), the orbital period (hours) and disc precession (days). K2 is uniquely suited to provide the long baseline, uninterrupted, high precision, high cadence photometric coverage that is needed to study accretion and accretion variability. The resulting library of high quality lightcurves from K2 will provide a diverse, representative observational sample from which to investigate disc-based phenomena.
+
+# Targets requested by this program that have been observed (2)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210662654, 59.774641, 17.842916, 17.992, GO4077_SC|GO4077_LC|GO4049_LC
+211025282, 62.910766, 23.372246, 18.125, GO4057_LC|GO4077_LC|GO4049_LC

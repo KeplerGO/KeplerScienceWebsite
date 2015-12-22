@@ -1,0 +1,16 @@
+# Summary of K2 Program GO4044
+
+Title: PRESENTS: PRobing Early Stellar EvolutioN with asTeroSeismology
+
+PI: Zwintz, Konstanze (KU Leuven)
+CoIs: 
+
+The goal of this proposal is to discover and analyze pulsational variability in intermediate mass pre-main sequence (pre-MS) stars using the high-precision and high duty-cycle photometric time series obtained with the K2 mission.
+
+Although we have a general concept of how stars are formed and evolve, our current knowledge of early stellar evolution is limited and contains a lot of unsolved questions such as the determination of pre-MS lifetimes and ages, and the speed of early stellar evolution. Young intermediate-mass stars with ~1 to 6 solar masses have similar atmospheric properties to their evolved counterparts in the (post-)main sequence phase. Hence, it is not possible to constrain the evolutionary stage of a given star by its atmospheric properties (i.e., effective temperature, surface gravity and luminosity) alone. As pre-MS stars differ from their more evolved analogues of same atmospheric properties mostly in their interiors, asteroseismology provides an independent method to constrain the evolutionary stage of a field star. It also allows investigating the relevance of various physical processes to early stellar evolution. An example for the enormous potential of the application of asteroseismic methods to pre-MS stars is described in our recent study (Zwintz et al. 2014, Science, 345, 550) where we revealed a first connection between the oscillation properties of pre-MS stars and their relative stage in the pre-MS evolution.
+
+Here we propose to observe 10 previously identified intermediate mass pre-MS stars in fields 4 and 5 that lie in the effective temperature range between ~15 000K (spectral type B5) and ~6500K (spectral type F5) to search for SPB, delta Scuti and gamma Doradus type pulsations.
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211025541, 63.638159, 23.376765, 9.963, GO4033_LC|GO4007_LC|GO4044_LC|GO4104_LC

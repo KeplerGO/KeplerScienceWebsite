@@ -1,0 +1,15 @@
+# Summary of K2 Program GO5003
+
+Title: Testing DA White Dwarf Variability:  Can They Be Standard Stars?
+
+PI: Schaefer, Bradley E. (Louisiana State University)
+CoIs: Xue, Zhichao
+
+Supernova cosmology is the primary means to measure Dark Energy and other cosmology problems, while the current limiting factor for _x0018_precision cosmology_x0019_ is the accuracy of the photometric calibration.  Large efforts have been made worldwide to generate standard stars to better than 1%, with the best efforts going to using DA White Dwarfs as on-chip standards. The general bias is that non-binary DA WDs (away from the ZZ Ceti instability strip) should be extremely stable in their brightness, but this has never been tested to better than 1% or so over a broad range of time scales.  (Ground-based telescopes do not have the stability, while HST does not have the cadence to test for variability on most timescales.)  If DA WDs are stable to the 0.1% level or so, then they would make excellent standards for supernova cosmology.  But, if a substantial fraction of DA WDs are variable at more than the ~0.3% level, then this solution will not work as planned.  The original Kepler field had 11 non-binary DA WDs, and our analysis shows 3-out-of-11 have >0.44% RMS intrinsic variation with timescales from 0.5-5 days, while 5-out-of-11 have >0.23% RMS intrinsic variations.  With this small-number statistics, the use of white dwarfs as standards for supernova cosmology is dubious.  But the numbers from the original Kepler field are too small to support any conclusions that are far-reaching for the big projects. To get substantial statistics on white dwarf variability, we propose to observe the 6 DA WDs in Fields 4 and 5 of the K2 mission that are brighter than 16.5 mag.  (We will add further systems in later K2 fields.)  Our goal is to measure the variability of large numbers of DA WDs, to test whether they can be used as standard stars for supernova cosmology.
+
+# Targets requested by this program that have been observed (4)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211821115, 123.157546, 17.617061, 13.491, GO5003_LC|GO5017_LC|GO5041_LC
+211923589, 133.877905, 19.077044, 16.542, GO5073_SC|GO5001_LC|GO5003_LC|GO5073_LC
+212148813, 130.720983, 23.00707, 14.55, GO5073_SC|GO5001_LC|GO5003_LC|GO5017_LC|GO5041_LC|GO5073_LC
+212173448, 129.892956, 23.569284, 16.726, GO5001_LC|GO5003_LC|GO5041_LC

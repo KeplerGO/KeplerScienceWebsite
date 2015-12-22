@@ -25,7 +25,6 @@ mission to observe the sample of the nearest K and M dwarfs within 25
 pc to accurately determine their rotation rates. In K2 fields 8 and
 10, we will observe seven nearby systems, including three K and four M dwarfs. We expect to have the most complete characterization of a set of the nearest K and M stars in all K2 fields that has ever been accomplished.
 
-
 # Targets requested by this program that have been observed (4)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220260370, 11.2703934, 1.785521, 8.476, GO8068_LC|GO8051_LC|GO8021_LC|GO8032_LC|GO8077_LC|GO8040_LC|GO8049_LC

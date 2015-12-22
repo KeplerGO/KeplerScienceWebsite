@@ -23,7 +23,6 @@ Kasen. 2010,AJ,708,1025
 Olling, Mushotzky, Shaya, et al. 2015, Nature,521,332335 
 Shaya, Olling, Mushotzky. 2015, submitted to AJ
 
-
 # Targets requested by this program that have been observed (2649)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220136961, 17.4101944, -2.4145939, 17.755, GO8070_LC

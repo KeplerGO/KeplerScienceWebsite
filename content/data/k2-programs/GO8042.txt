@@ -14,7 +14,6 @@ taking advantage of K2s 360-degree view along the ecliptic. With this data we ai
 
 METHOLOGY: The K2 data will be used to determine radius, mass, and age of each star using asteroseismology, complemented by ground-based spectroscopy from large surveys targeting both hemispheres (APOGEE, GALAH, Gaia-ESO, and RAVE). We will use our seismic inferred stellar properties to stresstest state-of-the-art Galaxy models (Galaxia, TRILEGAL).
 
-
 # Targets requested by this program that have been observed (6186)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220131668, 17.0400124, -2.654249, 15.947, GO8012_LC|GO8042_LC|GO8031_LC

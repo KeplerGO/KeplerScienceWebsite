@@ -1,0 +1,32 @@
+# Summary of K2 Program GO7014
+
+Title: Sampling the Cepheid instability strip with K2
+
+PI: Molnar, Laszlo (Konkoly Observatory)
+CoIs: Evans, Nancy Remage; Neilson, Hilding; Szabo, Robert; Szabados, Laszlo
+
+Cepheids are a diverse family of pulsating variable yellow supergiants, that are crucial for understanding stellar structure and evolution. They are powerful standard candles for extragalactic and cosmological studies. They are also key tools for stellar astrophysics for exploring connections between pulsation, mass loss, convection and rotation along as tracers of stellar populations and clusters. In the next decade, Cepheids will be employed to measure the Hubble constant to a precision of 1% using JWST, WFIRST and Gaia. Very few Cepheids have been observed by space-based photometric missions so far. But Kepler may change this: Field 7 of the K2 mission will point towards Sagittarius, to the vicinity of the center of the Milky Way, where several Cepheids can be found. We identified 10 stars that fall on silicon and spread along the Cepheid instability strip, covering multiple subtypes of the variable star class. 
+
+Classical Cepheids. 
+We found two members, V350 Sgr and ASAS J193435-1921.7. V350 Sgr is a well-known star, one of the few binary Cepheids where the orbits and dynamical masses have been determined for the system. Both stars pulsate in the fundamental mode, with periods of 5.15 and 2.12 days, respectively. With the K2 light curves we will be able to search for period jitter and determine its dependence from the pulsation periods and amplitudes.
+
+Type II Cepheids (BL Her and W Vir stars). 
+Type II Cepheids have not been observed from space before the K2 mission. We identified two short-period, so-called BL Her-type stars within the field, V52 and V839 Sgr. Hydrodynamic models suggest that various dynamical phenomena like period doubling and chaos can occur in these stars. Continuous, high-precision light curves are ideally suited to detect chaos in such light curves. Four long-period, W Vir-type stars are located in the field too (V377, V410, V1037 and V1077 Sgr). W Vir stars show more irregularities in their light curves than classical Cepheids. Continuous K2 measurements may tell whether period doubling or other variations are behind these observations. Moreover, if any of these stars pulsate in the first overtone, we will be able to look for the mysterious PX/P1~0.61 mode observed in RR Lyraes and classical Cepheids extend to these stars or not.
+
+Semiregular stars. 
+The instability strip of type II Cepheids extends towards the RV Tauri and yellow semiregular stars. These stars have long pulsation periods and often changing light-curve properties. Although the two stars we identified, V1043 and V4061 Sgr, have main periods similar to the length of a K2 campaign, they exhibit variations on shorter timescales (~30-50 days) that can be followed in exquisite  detail.
+
+Technical details
+Only two targets are above the saturation limit, V350 Sgr (V~7.5 mag) and V4061 Sgr (V~9.2 mag). We propose all stars to be observed in long cadence mode. The KASC Working Group 7 has been involved in the Kepler mission from the start and has all the necessary skills to reduce the target pixel files and analyze the data.
+
+# Targets requested by this program that have been observed (9)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+214047277, 284.0730591, -27.5237827, 10.677, GO7014_LC
+215881928, 284.9051514, -23.3645191, 14.606, GO7014_LC
+217235287, 289.0458069, -20.9321823, 15.155, GO7014_LC
+217257168, 284.4665833, -20.8936253, 11.79, GO7014_LC|GO7032_LC
+217693968, 282.040802, -20.1265583, 13.289, GO7014_LC
+217987553, 286.6122742, -19.6097927, 12.482, GO7014_LC
+218128117, 293.6444702, -19.3611012, 12.757, GO7014_LC
+218177215, 284.1051636, -19.2730198, 13.596, GO7014_LC
+218642654, 286.5130615, -18.4282284, 12.166, GO7030_LC|GO7014_LC

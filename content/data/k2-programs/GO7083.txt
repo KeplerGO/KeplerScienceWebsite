@@ -1,0 +1,26 @@
+# Summary of K2 Program GO7083
+
+Title: K2 Observations of Variable White Dwarfs in Fields 6 and 7
+
+PI: Hermes, James J (Astronomy Group)
+CoIs: Raddi, Roberto; Gaensicke, Boris Teddy; Marsh, Tom; Gentile Fusillo, Nicola
+
+We propose observations of variable white dwarfs (WDs) in Fields 6 & 7 of the K2 mission. We propose short-cadence observations of known and high-probability pulsating WDs within the empirical ZZ Ceti instability strip. We additionally propose observations of known magnetic WDs to constrain magnetic activity and rotation rates in these stars.
+
+As they cool, WDs stars with hydrogen-dominated atmospheres pulsate as DAVs (a.k.a. ZZ Ceti stars) when they reach the appropriate effective temperature to foster a hydrogen partial-ionization zone, which efficiently drives global oscillations. This range of temperatures empirically spans roughly 12,60011,100 K for typical-mass (0.6 Msun), log g = 8.0 WDs (Gianninas et al. 2011, ApJ, 743, 138). Pulsating WDs provide an important glimpse into the interior of the future of the vast majority (> 97%) of all stars in our Galaxy, including our Sun, allowing us to probe the masses and compositions of their electron-degenerate cores, as well as of their non-degenerate envelopes; to determine their internal rota- tion profiles; and to detect weak magnetic fields (see reviews by Winget & Kepler 2008 (ARA&A, 46, 157) and Fontaine & Brassard 2008 (PASP, 120, 1043).
+
+Since the ZZ Ceti instability strip is defined by temperature, color selection is an excellent predictor of variability. Our team discovered all DAVs in the original Kepler mission, which has led to exquisite insight into WD interiors. We have applied the same photometric selection methods to K2 Fields 6 & 7, and have identified several WDs on silicon with colors consistent with the empirical ZZ Ceti instability strip. Since there is little SDSS overlap with K2 Fields 6 & 7, we have searched for new candidates using u', g', r' colors from the VST/ATLAS survey in the regions overlapping with Field 6 (no ATLAS data exists for Field 7). We have also searched for candidate DAVs from WDs with appropriate colors in the SuperCOSMOS Sky Survey (Rowell & Hambly 2011, MNRAS, 417, 93); this is how we discovered the first DAV in the original Kepler field (Hermes et al. 2011, ApJ, 741, L16). There is also one previously known, bright pulsating WD on silicon in Field 6: the DAV EC140121446 (V =15.5 mag).
+
+Every new DAV we can observe with Kepler adds value, since it brings us that much closer to sta- tistically significant studies of WDs with ensemble asteroseismology (e.g. Chaplin et al. 2011, Science, 332, 213). To date, there are only six pulsating WDs with more than two weeks of Kepler observations, although several were observed in K2 Field 1. With typical pulsations ranging from 100  1400 s, we require short-cadence observations of these WDs. We expect to propose roughly 4 DAVs for Field 6 and 2 DAVs for Field 7. Minute-cadence K2 observations have the added benefit of catching transits/eclipses of the WD, revealing any unresolved double-degenerate binaries or even planetary companions.
+
+Additionally, we propose observations of multiple strongly magnetic WDs in Fields 6 and 7 to carry out the first in-depth study into the magnetic activity of the endpoints of stellar evolution.
+
+# Targets requested by this program that have been observed (7)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+216449698, 281.9855347, -22.3271523, 13.789, GO7083_LC|GO7001_LC|GO7045_LC|GO7003_LC|GO7050_LC|GO7063_LC|GO7045_SC
+218649358, 286.9509888, -18.4155178, 18.357, GO7083_LC|GO7003_LC
+229228311, , , , GO7083_LC
+229228362, , , , GO7003_LC|GO7083_LC
+229228363, , , , GO7083_LC|GO7003_LC|GO7083_SC
+229228364, , , , GO7083_LC|GO7003_LC|GO7083_SC
+229228369, , , , GO7083_LC|GO7003_LC

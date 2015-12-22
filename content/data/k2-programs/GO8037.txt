@@ -14,7 +14,6 @@ Targets. Approximately 100 and 230 RR Lyrae stars will be proposed (5-5 stars pe
 
 Experience of team members. Our team consists of members of the Working Group#7 (RR Lyrae and Cepheids) of the Kepler Asteroseismic Science Consortium, who have been working on Kepler data (also preparation and target selection) since the launch of the original mission. Our scientists are experts on data reduction, pixel photometry, light curve and time-frequency analysis, as well as theorists performing numerical hydrodynamical modeling. We developed dedicated software and routinely analyze Kepler and K2 data, and published 15+ Kepler RR Lyrae papers in high-impact journals. The group has access to ground-based follow-up (multi- color photometric and spectroscopic) instruments in Taiwan, Korea, USA, Canada and Hungary to complement space-based observations. We are currently finalizing two K2 papers featuring the first unambiguous detection of the Blazhko effect beyond the Magellanic Clouds, and a summary paper on RR Lyrae stars observed in the K2 Engineering Field.
 
-
 # Targets requested by this program that have been observed (85)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220142950, 17.3205414, -2.1636569, 14.977, GO8037_LC|GO8037_SC

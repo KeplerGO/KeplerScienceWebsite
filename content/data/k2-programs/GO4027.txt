@@ -1,0 +1,12 @@
+# Summary of K2 Program GO4027
+
+Title: Short cadence K2 observations of eclipsing compact binaries
+
+PI: Scaringi, Simone (K.U. Leuven)
+CoIs: Knigge, Christian; Koerding, Elmar; Long, Knox S.; Groot, Paul J; Maccarone, Thomas Joseph
+
+We propose to obtain short cadence K2 observations for one detached eclipsing binary in Field 4 and two eclipsing accreting white dwarfs in Field 5. For Field 4 we ask to observe the white dwarf + red dwarf binary V471 Tau, and establish the existence of a third body companion as previously claimed, but also constrain its mass to a better precision. In Field 5 we ask to observe the two eclipsing accreting white dwarfs AC Cnc and GY Cnc. AC Cnc is a nova-like variable whilst GY Cnc is a dwarf nova. With the K2 observations we will model the high-frequency variability with the current fluctuating accretion disk model, thus inferring disk geometry and viscosity for both systems. This will enable us to perform a comparative study between the aperiodic variability properties of dwarf nova versus nova-like cataclysmic variables, and determine whether previously reported differences are consistently found within other systems. Furthermore we will exploit the eclipses in these systems to resolve the high-frequency variability in orbital phase, thus providing an independent way to infer the disk geometry.
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210619926, 57.604035, 17.246507, 9.233, GO4043_SC|GO4027_SC|GO4020_LC|GO4018_LC|GO4057_LC|GO4043_LC|GO4032_LC|GO4060_LC|GO4048_LC|GO4029_LC|GO4001_LC|GO4033_LC|GO4007_LC|GO4072_LC|GO4104_LC|GO4027_LC|GO4024_LC

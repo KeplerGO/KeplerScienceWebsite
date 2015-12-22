@@ -23,7 +23,6 @@ Huat, A.-L. ; Hubert, A.-M. ; Baudin et al., 2009, A&A 506,95.
 Neiner, C. Floquet, M. Samadi, R. et al., 2012, A&A 546, A47.
 Dziembowski, W.A., Daszynska-Daszkiewicz L., Pamyatnykh, A.A. 2007, MNRAS 374, 248.
 
-
 # Targets requested by this program that have been observed (8)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220280695, 22.7268658, 2.2212579, 9.659, GO8077_LC|GO8028_LC|GO8080_LC

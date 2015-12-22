@@ -1,0 +1,23 @@
+# Summary of K2 Program GO7063
+
+Title: Testing DA White Dwarf Variability: Can They Be Standard Stars?
+
+PI: Schaefer, Bradley E. (Louisiana State University)
+CoIs: Xue, Zhichao
+
+Supernova cosmology is a vast and important enterprise, with extensive upcoming ground-based and space-based photometry of supernova light curves, so as to provide the primary measure of Dark Energy. The dominant source of error is now the photometric uncertainty in calibrating the supernova light curves. To advance, better calibrations are needed.  The goal is to get calibrations better than 1%, and hopefully much better than 1%, as such is needed to measure the Dark Energy parameters to the needed precision. The best way to get better standards is to use DA white dwarfs (WDs) in each field as primary standards. With this, only differential photometry is used and the standards will be on-chip with all individual images. As such, substantial effort is being made worldwide to learn to calibrate the DA WDs. A further advantage of DA WDs is that they should be extremely stable standard stars (provided that they are not in close binaries and are not near the ZZ Cet instability strip).
+
+A critical question for this large enterprise is whether DA WDs really are stable?  To be useful for the Dark Energy problem, they have to be nearly all with variability of less than something like 0.1%.  Answering this question is essentially impossible by prior methods.  For example, ground-based methods do not have real accuracy for single measures better than 1% or so (Landolt 2009), and multiple observations have problems with stability.  Even HST cannot be used to provide meaningful tests because the available dwell time on any WD will be too small to detect many types of variability.  The Kepler spacecraft uniquely can answer the question of the amplitude of DA WD variability, because only Kepler has millimag accuracy, awesome stability, and a relentless observing cadence with no gaps for long time spans.
+
+The original Kepler mission observed 11 non-binary DA WDs, all far from the instability strip (Østensen et al. 2011).  These were examined for periodic pulsations, but not for measuring the amplitude of their intrinsic variability.  We have analyzed the 11 light curves from the original Kepler field, correcting for systematic variations and for the usual scatter from Poisson noise.  (We have previously proposed for 6 DA WDs in K2 Fields 4 & 5, but results are not available for these.)  We found that 8 out of 11 stars had intrinsic variations at below the 0.2% level.  But we found the remaining 3 stars to have variations with amplitudes of 0.35%, 0.5%, and 1%, all varying on timescales from half-a-day to 5 days.  This is daunting, because nearly 30% of the DA WDs are too variable to be used for supernova cosmology.  But this result is small-number statistics, and many more systems are needed before anyone can rest the full weight of supernova cosmology and Dark Energy parameters on the DA WDs.
+
+We have selected 4 targets in Field 6 and 1 target in Field 7, as based on the following criteria:  (1) Each must be a spectroscopically confirmed DA WD.  (2) Each must be apparently single and away from the instability strip.  (3) Each must be brighter than 16th mag so that the Poisson noise will be low enough to allow detection of low-amplitude variations even over single time bins.  (4) Each must be definitely on-chip as reported by the K2fov program.
+
+RELEVANCE: One of NASA's top priorities is the measure of Dark Energy, while the supernova cosmology programs desperately need <1% accuracy in their calibration.  DA WDs are currently the best prospects, but it is unknown whether these stars are stable enough.  Only Kepler can measure such variability, and from the original field it looks like ~30% are too variable to use. The increased sample size of  DA WDs from K2 observations will further add to the number of DA WDs observed by the Kepler spacecraft, thus allowing for tighter constraints to be placed on whether they can be standards or not.
+
+Landolt, A. 2013, AJ, 146, 131
+Østensen, R. et al. 2011, MNRAS, 414, 2860
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+216449698, 281.9855347, -22.3271523, 13.789, GO7083_LC|GO7001_LC|GO7045_LC|GO7003_LC|GO7050_LC|GO7063_LC|GO7045_SC

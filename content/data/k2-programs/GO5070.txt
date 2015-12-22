@@ -1,0 +1,16 @@
+# Summary of K2 Program GO5070
+
+Title: Nature and Origin of Hypervelocity Stars
+
+PI: Ziegerer, Eva (Dr. Karl Remeis-Sternwarte)
+CoIs: Geier, Stephan; Heber, Ulrich; Kreuzer, Simon; Heuser, Christian
+
+Hypervelocity Stars (HVS) move so fast that they are unbound to the Galaxy. The tidal disruption of a close binary by the supermassive black hole (SMBH) in the Galactic center was suggested as their origin. Most of the known HVSs are of late B spectral type. Therefore, their evolutionary state is still ambigious - either they are distant, massive (2-4 solar masses) main sequence stars or closer, low mass blue horizontal branch stars.
+
+To achieve the full 6D phase space information their distances need to be known accurately. With Kepler light curves it will be possible to detect the low amplitude, slow variability indicative of a slowly pulsating main sequence star.
+
+In addition, inconsistencies between time of flight and evolutionary lifetime occured, which call for ejection scenarios involving triple systems and mergers. Such a triple could be ejected as a HVS binary through interactions with the SMBH in the Galactic Center. The discovery of such a binary could explain the appearence of young stars in the distant Galactic halo by rejuvenation through merging. But much more close HVS binaries are predicted to exist than mergers. The K2 mission will enable us to search for close companions via eclipses, reflection effects from a cool companion or ellipsoidal deformations of the primary caused by a white dwarf companion predicted by models of the triple ejection scenario.
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211720816, 129.756278, 16.196671, 16.709, GO5001_LC|GO5070_LC

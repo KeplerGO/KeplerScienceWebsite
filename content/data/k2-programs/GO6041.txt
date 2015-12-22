@@ -1,0 +1,23 @@
+# Summary of K2 Program GO6041
+
+Title: K2 monitoring of known transiting planet phase curves and bright planet hosts
+
+PI: Zhao, Ming (Penn State University)
+CoIs: Wright, Jason T; Beatty, Thomas G; Bastien, Fabienne Anne; Curtis, Jason Lee
+
+We propose K2 monitoring of known, nearby transiting planet phase curves and characterization of known planet hosts in the Campaign 6 & 7 fields. Nearby known planets are all orbiting bright stars (V<13) and have Radial Velocity (RV) measurements.  Continuous K2 monitoring of these rare but important targets will provide invaluable data for detailed high precision characterization of both the planets and their host stars. Previous K2 campaigns, unfortunately, have missed most, if not all, of these nearby bright and known planetary systems (e.g., WASP-17, WASP-47, WASP-75, GJ 876, etc., to name a few).  We therefore propose and urge Campaigns 6 & 7 to include these systems.
+
+In particular, Campaigns 6 & 7 will have better pointing than previous ones, and Campaign 6 will cover a high galactic latitude, providing the highest available photometry quality in K2. Our main science goals are: 1. to measure the optical phase curves and albedos of available known transiting hot Jupiters, study their atmospheric dynamics in the case where infra-red phase curves are (or will be) available, and compare with other hot Jupiters as an ensemble; 2. to measure the optical secondary eclipses of these hot Jupiters and constrain their orbital eccentricity with existing RV data to study their dynamical history; 3. to look for possible transits of known RV planets in these two fields; and 4. to characterize the stellar properties (rotation, activity) of known planet hosts and long-term RV targets to better understand the stars, their planets, and aid the search of additional planets in these systems. 
+
+We propose ~10 known planetary systems and long-term California Planet Search (CPS) RV targets in Campaigns 6 & 7, including four transiting planets. We require short cadence data for the known transiting planets in order to constrain the ingress and egress timing of their transits and eclipses to precisely measure their eccentricity. We only need long cadence data for the rest of the RV systems. We will implement the detrending and calibration methodology developed by Vanderburg & Johnson (2014) and combine it with our own algorithms to extract the raw K2 light curves. Our transiting planet host stars are in the magnitude range of 11 to 13 mag in the visible, falling in the sweet spot of the demonstrated K2 precision of 30 - 40 ppm per 6-hour integration (Vanderburg & Johnson 2014),  sufficient to measure the optical phase curves and secondary eclipses of these best hot Jupiters with high significance when combining the 75-day data together. 
+
+Our science goals are directly related to exoplanet detection, characterization and stellar astrophysics, all of which are the main areas of the K2 GO program and NASAs exoplanet exploration program. These observations cannot be replicated from the ground due to the requirement of continuous monitoring and very high precision for optical phase curves. Particularly, the optical phase curves will be rare and valuable datasets for exoplanet characterization before the era of TESS.
+
+# Targets requested by this program that have been observed (6)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+212285603, 206.4612885, -17.9682312, 10.668, GO6005_SC|GO6052_SC|GO6005_LC|GO6008_LC|GO6032_LC|GO6041_LC|GO6046_LC|GO6052_LC|GO6060_LC|GO6065_LC|GO6069_LC
+212300977, 203.7581024, -17.5035496, 11.738, GO6018_SC|GO6041_SC|GO6018_LC|GO6030_LC|GO6036_LC|GO6041_LC|GO6069_LC|GO6087_LC
+212414696, 199.5563965, -14.582099, 9.576, GO6030_LC|GO6041_LC|GO6069_LC|GO6086_LC|GO6087_LC
+212667055, 211.2945404, -9.0485058, 8.533, GO6030_LC|GO6041_LC|GO6057_LC|GO6078_LC|GO6086_LC|GO6087_LC
+212756297, 207.6558685, -6.8040042, 13.009, GO6018_SC|GO6034_SC|GO6041_SC|GO6018_LC|GO6030_LC|GO6032_LC|GO6034_LC|GO6041_LC|GO6086_LC
+212828608, 206.2722473, -4.6203408, 9.99, GO6008_LC|GO6030_LC|GO6032_LC|GO6041_LC|GO6046_LC|GO6057_LC|GO6065_LC|GO6069_LC|GO6078_LC|GO6086_LC

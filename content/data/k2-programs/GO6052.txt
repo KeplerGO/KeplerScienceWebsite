@@ -1,0 +1,30 @@
+# Summary of K2 Program GO6052
+
+Title: KARMENES: The K2+CARMENES short cadence search of M dwarfs as host of close-in planets and pulsations
+
+PI: Rodriguez-Lopez, Cristina (Instituto de Astrofisica de Andalucia (IAA-CSIC))
+CoIs: Amado, Pedro Jose; Anglada, Guillem; Caballero, Jose A; Ofir, Aviv; Ribas, Ignasi; Quirrenbach, Andreas; Reiners, Ansgar; Palle, Enric; Bejar, Victor
+
+KARMENES: The K2+CARMENES short cadence search of M dwarfs as host of close-in planets and pulsations
+
+Scientific Justification
+In the last few years, M dwarfs have been the objects of desire regarding the search of exoplanets resembling as much as possible our own Earth. The reasons behind it are the more favorable planet-star mass ratio to detect the gravitational pull via Doppler shifts and the increase in transit probability, due to planets being closer to the small host M dwarf. This increase in transit probability is emphasized for close-in planets with orbital periods of only a few hours and shorter semi major axis. Nowadays, there are six exoplanets with periods shorter than half a day and less than 1.5 Earth radii (Sanchís-Ojeda et al. 2013, ApJ, 775, 54; Batalha et al. 2011, ApJ, 729, 27; Charpinet et al. 2011, Nature, 480, 496), two of which orbit M dwarfs: KOI-1843b (Ofir and Dreizler 2013, A&A, 555, A58) and Kepler-42c (Muirhead et al. 2012, ApJ, 747, 144). The physical nature of these newly discovered objects is a matter of debate and finding more objects to test the class and its role in the planet formation scenarios is crucial, and the object of this proposal.
+
+The traditional sampling long cadences of exoplanets searches are inadequate and a handicap for the detection of short period signals, as the one we aim here. Therefore, we request 1 minute cadence observations of about a dozen targets, selected to be the brightest in the field from the CARMENES spectrograph input catalog (CARMENCITA; Caballero et al. 2013, Protostars and Planets VI, Heidelberg) and from the Exoplanets database.
+
+The short cadence observations required have a twofold objective as they naturally combine synergies with the search for pulsations around M dwarfs. The theoretical instability strip of M dwarfs has been predicted (Rodríguez-López et al. 2014, MNRAS, 438, 2371) for M dwarfs in the main sequence with Teff [3300, 4300]K and logg [4.5, 5.1], where the proposed targets will be chosen, to show periods in the 20 minutes to 3 hours range. Amplitudes are unknown but expected to be in the ppm regime. Therefore, short cadence observations with a large baseline are essential to be able to detect the shortest periods and low amplitudes. The discovery of the first pulsating M dwarf would be a breakthrough, allowing the independent precise determination of critical parameters of the star, such as its age, and of the possible planets.
+
+Should null results in planets discovery or pulsations be obtained, the data would still produce very useful science to be exploited within CARMENES consortium through the characterization of photometric variability due to flares and magnetic activity modulated by stellar rotation.
+
+Methodology
+Light curves will be extracted from the target pixel files, corrected from outliers and smoothed with appropriate splines, and a Fourier Transform analysis will be done to search for any periodicities in the data (Rodríguez-López et al. 2015, MNRAS, 446, 2613). The data will be promptly published: in case of a planet discovery, a derivation of the parameters of the system, dynamical studies and ground-based follow-up is planned; in the case of discovery of pulsations, a publication in a high-impact review journal is foreseen, as it will be the first pulsating of the class. Theoretical models and tools are ready to do a complete asteroseismic analysis of the frequencies of oscillation and derive fundamental parameters of the star.
+
+This proposal perfectly addresses some of the K2 Science Motivations: 1/ the characterization of the internal structure and fundamental properties of stars using the tools of asteroseismology and 2/ goes a step further in providing a yield of small planets around bright and small stars to facilitate precise follow-up; even if some of the stars are faint, CARMENES still will be capable of doing the follow-up, resulting in a fruitful alliance between K2 mission and CARMENES.
+
+# Targets requested by this program that have been observed (5)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+212285603, 206.4612885, -17.9682312, 10.668, GO6005_SC|GO6052_SC|GO6005_LC|GO6008_LC|GO6032_LC|GO6041_LC|GO6046_LC|GO6052_LC|GO6060_LC|GO6065_LC|GO6069_LC
+212518629, 199.1893158, -12.3389406, 12.46, GO6052_SC|GO6008_LC|GO6032_LC|GO6046_LC|GO6052_LC|GO6060_LC|GO6069_LC
+212556566, 204.6703491, -11.5354939, 12.856, GO6052_SC|GO6002_LC|GO6008_LC|GO6032_LC|GO6052_LC|GO6060_LC
+212560714, 201.2988434, -11.4436436, 11.274, GO6052_SC|GO6008_LC|GO6029_LC|GO6032_LC|GO6052_LC|GO6060_LC|GO6069_LC|GO6086_LC
+212681564, 202.5115662, -8.7071047, 11.824, GO6052_SC|GO6002_LC|GO6008_LC|GO6016_LC|GO6028_LC|GO6032_LC|GO6052_LC|GO6060_LC|GO6065_LC

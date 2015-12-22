@@ -14,7 +14,6 @@ We propose to explore core structure of horizontal branch (HB) stars by applying
      Our team has extensively explored many aspects of sdB stars, including spectroscopic characterization, binary properties, and the application of asteroseismic tools. We have been examining sdB stars since their pulsations were discovered in 1996 and have published over 20 papers from Kepler's main mission.
      We have also incorporated students into our work. Many of our papers include graduate and undergraduate students as significant contributors. Missouri State University does not have a graduate program, and as a result, undergraduate students have learned to process, analyze, and interpret NASA Satellite data to detect pulsations and signatures of binarity. They have also been involved in pre- and post-Kepler characterization studies, providing them with a broad range of training.
 
-
 # Targets requested by this program that have been observed (7)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220179214, 18.5775471, -0.820448, 14.926, GO8018_LC|GO8004_LC|GO8007_LC|GO8004_SC|GO8007_SC

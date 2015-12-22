@@ -14,7 +14,6 @@ We will employ our extensive background in the analysis of Kepler data in order 
 Relevance:
 This study is proposing science targets for the K2 Campaign 8 and 10 fields.  Detection and characterization for transiting planets on the ecliptic cannot be accomplished with existing Kepler data as Kepler did not observe the ecliptic.  We estimate that ~1100 targets combining Campaign 8 and 10 targets will be proposed placing this proposal in the large proposal category.
 
-
 # Targets requested by this program that have been observed (1628)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220317560, 9.4651241, 3.0077741, 9.961, GO8068_LC|GO8051_LC|GO8032_LC|GO8077_LC|GO8033_LC

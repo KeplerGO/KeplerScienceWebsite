@@ -1,0 +1,24 @@
+# Summary of K2 Program GO5049
+
+Title: Continuous Monitoring of Cataclysmic Variables in the K2 Fields
+
+PI: Garnavich, Peter M. (University of Notre Dame)
+CoIs: Szkody, Paula; Templeton, Matthew
+
+The original Kepler field contained 27 previously known and/or subsequently discovered cataclysmic variables (CVs) which are close binaries with mass transfer from a late main-sequence star to a white dwarf. Kepler monitored 15 of these systems with results currently published for 8. The detailed coverage enabled unique studies of quiescent orbital and sporadic variability as well as the changes in the disk and stream impact area during short and long dwarf nova outbursts. We propose to monitor a set of CVs in the K2 fields of Campaigns 4 and 5. These data will extend the range of CV types studied with Kepler's unprecedented continuous, fast-candence observations.
+
+# Targets requested by this program that have been observed (13)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211378898, 133.838262, 11.304186, 18.752, GO5077_SC|GO5049_LC|GO5057_LC|GO5077_LC
+211481740, 131.112968, 12.875557, 14.112, GO5027_SC|GO5049_SC|GO5062_SC|GO5077_SC|GO5027_LC|GO5049_LC|GO5057_LC|GO5062_LC|GO5077_LC
+211511906, 123.031814, 13.306796, 19.188, GO5077_SC|GO5049_LC|GO5057_LC|GO5077_LC
+211617909, 135.306316, 14.784669, 16.185, GO5073_SC|GO5049_LC|GO5057_LC|GO5073_LC|GO5077_LC
+211906940, 137.460622, 18.829815, 16.368, GO5027_SC|GO5049_SC|GO5077_SC|GO5027_LC|GO5049_LC|GO5077_LC
+211931594, 123.236952, 19.199377, 16.2, GO5077_SC|GO5049_LC|GO5057_LC|GO5077_LC
+211935743, 124.900394, 19.261051, 19.938, GO5057_LC|GO5049_LC
+228682490, 123.1523132, 16.3293095, 17.6, GO5049_LC
+228682491, 126.5154877, 11.6392202, 16.0, GO5049_LC
+228682492, 127.0906372, 10.89569, 17.9, GO5049_LC
+228682493, 130.2837524, 10.4268303, 15.6, GO5049_LC
+228682494, 133.5391846, 20.22756, 17.5, GO5049_LC
+228682495, 130.1089935, 22.0795803, 19.6, GO5077_LC|GO5049_LC

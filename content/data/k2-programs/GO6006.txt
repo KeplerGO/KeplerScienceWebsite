@@ -1,0 +1,25 @@
+# Summary of K2 Program GO6006
+
+Title: Ultracool Dwarfs: Clouds, Flares, and Exoplanets
+
+PI: Gizis, John E. (University of Delaware)
+CoIs: Burgasser, Adam J; Schmidt, Sarah Jane; Williams, Peter K G
+
+We propose to observe nearby ultracool dwarfs using the Kepler K2 mission to characterize their cloud/weather properties, measure
+their flare rates, and detect their planetary companions. Like gas giant planets, very-low-mass stars and brown dwarfs form
+condensate clouds in their atmospheres. K2 can unique characterize variability due to these clouds, both rotation modulation on a
+timescale of hours and weather evolution of the clouds on timescales from days to months. Magnetic activity changes dramatically
+at the stellar/substellar hydrogen-burning limits, but some ultracool dwarfs are known to flare. We will measure the white light
+flare rate in well-defined statistical samples as a function of effective temperature, rotation rate, and age. Flares are tied to magnetic
+reconnection rates and the energy budget. We also aim to detect transiting exoplanets by continuing to monitor each available
+ultracool dwarf in K2 campaigns; brown dwarfs, gas giants, and even large rocky planets are detectable. The K2 targets include nearby field late-M and L dwarfs. The Phase 2 proposal will include fewer than 50 long-cadence targets and  10 short-cadence targets in the two fields.
+
+# Targets requested by this program that have been observed (7)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+212287292, 204.8604736, -17.9181499, 14.796, GO6002_LC|GO6006_LC
+212402103, 205.0480042, -14.8664322, 14.835, GO6002_LC|GO6006_LC|GO6008_LC
+212411722, 209.3123932, -14.6480494, 14.21, GO6002_LC|GO6006_LC|GO6008_LC
+212521662, 205.7947845, -12.2737808, 18.744, GO6006_LC
+212820594, 202.5096741, -4.8889508, 14.665, GO6006_SC|GO6002_LC|GO6006_LC|GO6008_LC|GO6037_LC
+212826600, 203.1017761, -4.6868572, 13.755, GO6006_SC|GO6002_LC|GO6006_LC|GO6008_LC|GO6037_LC
+229227169, , , , GO6006_LC

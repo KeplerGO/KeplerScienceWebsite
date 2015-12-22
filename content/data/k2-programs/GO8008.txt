@@ -17,7 +17,6 @@ Recent survey work has provided excellent, nearly complete samples of M dwarfs i
 
 Here we propose to investigate the rotation periods of the Superblink M dwarfs using Kepler. Several hundred of them (about 30 per field) are likely to be covered by the K2 fields from 2014 to 2016. For fields 8-10, observed in 2016, we propose to include ~100 targets in the K2 fields for these campaigns for long-cadence (30 min) monitoring. We anticipate that most of them will fall onto the Kepler chips. For the subsequent fields we will submit similarly sized numbers of objects. Our team combines expertise in period search and time series analysis, magnetic activity and spindown modeling. The data from this run will be analysed in a timely manner in the context of a PhD project supervised by all three co-investigators.
 
-
 # Targets requested by this program that have been observed (25)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220209255, 12.9388475, 0.33062, 11.731, GO8056_LC|GO8068_LC|GO8032_LC|GO8077_LC|GO8008_LC

@@ -1,0 +1,14 @@
+# Summary of K2 Program GO4055
+
+Title: Magnetic and Pulsational Activity in Bright B-Stars
+
+PI: Gies, Douglas Russell (Georgia State University)
+CoIs: 
+
+The K2 C4 campaign offers us the means to explore photometric variations among the massive B-stars that were generally absent in the original Kepler FOV that was directed away from the Galactic plane.  Here we propose to make the most accurate investigations to date of two Be stars and two chemically peculiar B-stars.  Be stars are rapidly rotating objects that eject mass into circumstellar disks.  K2 observations will reveal what role pulsations play in the mass loss processes and disk structure variations of these Be stars.  The chemically peculiar B-stars exhibit rotational modulation caused by starspots.  Time series photometry of two such stars in the C4 FOV will show us how their magnetic fields develop over timescales of months.
+
+# Targets requested by this program that have been observed (3)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210586108, 52.427361, 16.762333, 8.436, GO4033_LC|GO4007_LC|GO4055_LC
+210788932, 55.578946, 19.700256, 5.796, GO4079_LC|GO4033_LC|GO4007_LC|GO4055_LC
+210964459, 63.213524, 22.413459, 6.195, GO4079_LC|GO4033_LC|GO4007_LC|GO4055_LC

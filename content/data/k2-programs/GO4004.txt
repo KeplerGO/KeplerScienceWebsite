@@ -1,0 +1,14 @@
+# Summary of K2 Program GO4004
+
+Title: Short-Duration Flares on Mira Stars
+
+PI: Schaefer, Bradley E. (Louisiana State University)
+CoIs: 
+
+With the year-long pulsational periods for Mira stars, it came as a startling surprise when many groups found short-duration (minutes to days) flares with amplitudes 0.4-1.4 mag.  Even now, little is known about these Mira flares, mainly because they are rare and because the small number of prior light curves have poor-cadence, poor stability, and inadequate accuracy.  Theoretical ideas have no detail, mainly because the observations are poor, with typical proposed mechanisms relating to magnetic reconnection associated with big loops tied in to close-in planets.  This observational and theoretical stagnation can be uniquely broken with the K2 mission, where the multiple fields will cover many Mira stars, allowing for wonderful light curves with millimag accuracy and no gaps for ~75 days each.  So I am proposing to observe 4 Miras in Field 4 and 3 Miras in Field 5.  The millimag accuracy in the K2 light curves will allow for the discovery of the presumably more-frequent flares of low amplitude.  The main data analysis will be the identification of short flares, and the measurement of their properties (duration, amplitude, energy, light curve shape, and phase in the Mira cycle).  These products will be used to create demographic results, like flare frequency/size/duration as a function of Mira type, period, and phase.  The K2 mission, and only the K2 mission, can turn the field from data-starved to data-rich.  Finally, the theorists will have something that they can work with.
+
+# Targets requested by this program that have been observed (3)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210686705, 58.551054, 18.172935, 10.977, GO4029_LC|GO4004_LC
+210788181, 54.201141, 19.688715, 12.532, GO4020_LC|GO4004_LC
+211155977, 58.267834, 25.544576, 6.19, GO4020_LC|GO4004_LC

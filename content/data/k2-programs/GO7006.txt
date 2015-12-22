@@ -1,0 +1,20 @@
+# Summary of K2 Program GO7006
+
+Title: Ultracool Dwarfs: Clouds, Flares, and Exoplanets
+
+PI: Gizis, John E. (University of Delaware)
+CoIs: Burgasser, Adam J; Schmidt, Sarah Jane; Williams, Peter K G
+
+We propose to observe nearby ultracool dwarfs using the Kepler K2 mission to characterize their cloud/weather properties, measure
+their flare rates, and detect their planetary companions. Like gas giant planets, very-low-mass stars and brown dwarfs form
+condensate clouds in their atmospheres. K2 can unique characterize variability due to these clouds, both rotation modulation on a
+timescale of hours and weather evolution of the clouds on timescales from days to months. Magnetic activity changes dramatically
+at the stellar/substellar hydrogen-burning limits, but some ultracool dwarfs are known to flare. We will measure the white light
+flare rate in well-defined statistical samples as a function of effective temperature, rotation rate, and age. Flares are tied to magnetic
+reconnection rates and the energy budget. We also aim to detect transiting exoplanets by continuing to monitor each available
+ultracool dwarf in K2 campaigns; brown dwarfs, gas giants, and even large rocky planets are detectable. The K2 targets include nearby field late-M and L dwarfs. The Phase 2 proposal will include fewer than 50 long-cadence targets and  10 short-cadence targets in the two fields.
+
+# Targets requested by this program that have been observed (2)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+217976219, 287.2842102, -19.6299896, 15.902, GO7006_LC|GO7037_LC|GO7002_LC|GO7006_SC
+218498792, 293.7133179, -18.6929455, 17.16, GO7006_LC|GO7002_LC|GO7037_LC

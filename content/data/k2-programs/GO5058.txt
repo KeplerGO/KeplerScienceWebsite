@@ -1,0 +1,13 @@
+# Summary of K2 Program GO5058
+
+Title: Atmospheric Studies of K2 Exoplanets via Novel Light-Curve Processing
+
+PI: Coughlin, Jeffrey Langer (SETI Institute)
+CoIs: Lopez-Morales, Mercedes
+
+We have developed a novel pixel-level light curve reduction technique for use with K2 data. We plan to apply this technique to observations of four non-transiting exoplanets, as well as any transiting exoplanets discovered via K2 campaigns 4 and 5. This technique removes systematics introduced by the spacecraft, while preserving astrophysical variability at all timescales. The resulting data will allow for the modeling of these exoplanets' phase curve variations, and secondary eclipses if present. This will yield valuable information regarding the climate and structure of these hot Jupiter's atmospheres. We plan to make the pixel-level reduction code publicly available, and produce calibrated light curves for all K2 campaign 4 and 5 targets. This proposal directly contributes towards NASA's Astrophysics Division_x0019_s science goal to "Discover and study planets around other stars, and explore whether they could harbor life."
+
+# Targets requested by this program that have been observed (2)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211936827, 130.54791, 19.277002, 11.9, GO5058_SC|GO5007_LC|GO5012_LC|GO5018_LC|GO5024_LC|GO5029_LC|GO5032_LC|GO5033_LC|GO5048_LC|GO5058_LC|GO4104_LC|GO4106_LC|GO5060_LC|GO5095_LC
+211998346, 130.432573, 20.226865, 10.352, GO5007_LC|GO5012_LC|GO5018_LC|GO5024_LC|GO5029_LC|GO5032_LC|GO5033_LC|GO5048_LC|GO5052_LC|GO5058_LC|GO4104_LC|GO5060_LC

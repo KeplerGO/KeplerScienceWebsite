@@ -1,0 +1,31 @@
+# Summary of K2 Program GO5036
+
+Title: Ultracool Dwarfs: Clouds, Flares, and Exoplanets
+
+PI: Gizis, John E. (University of Delaware)
+CoIs: Williams, Peter K G; Paudel, Rishi R; Schmidt, Sarah Jane; Burgasser, Adam J
+
+We propose to observe nearby ultracool dwarfs using the Kepler K2 mission to characterize their cloud/weather properties, measure their flare rates, and detect their planetary companions. Like gas giant planets, very-low-mass stars and brown dwarfs form condensate clouds in their atmospheres. K2 can unique characterize variability due to these clouds, both rotation modulation on a timescale of hours and weather evolution of the clouds on timescales from days to months. Magnetic activity changes dramatically at the stellar/substellar hydrogen-burning limits, but some ultracool dwarfs are known to flare.  We will measure the white light flare rate in well-defined statistical samples as a function of effective temperature, rotation rate, and age. Flares are tied to magnetic reconnection rates and the energy budget. We also aim to detect transiting exoplanets by continuing to monitor each available ultracool dwarf in K2 campaigns; brown dwarfs, gas giants, and even large rocky planets are detectable.  The K2 Campaigns 4 and 5 targets include nearby field late-M and L dwarfs.
+
+# Targets requested by this program that have been observed (20)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211328277, 130.888478, 10.413071, 17.798, GO5036_SC|GO5081_LC|GO5030_LC|GO5036_LC
+211329075, 127.983268, 10.428261, 14.951, GO5036_SC|GO5039_SC|GO5036_LC|GO5039_LC
+211332457, 128.848607, 10.492178, 14.465, GO5036_SC|GO5036_LC|GO5081_LC
+211357895, 132.649725, 10.954338, 18.0, GO5023_LC|GO5036_LC|GO5081_LC|GO5030_LC
+211628806, 127.277674, 14.939601, 16.15, GO5036_SC|GO5036_LC|GO5081_LC|GO5030_LC
+211680042, 127.842566, 15.647536, 17.266, GO5036_LC|GO5081_LC|GO5030_LC
+211727819, 129.38677, 16.293901, 18.144, GO5036_LC|GO5081_LC|GO5030_LC
+211891128, 129.218309, 18.595991, 18.046, GO5036_LC|GO5081_LC|GO5030_LC
+211962038, 126.677623, 19.656242, 17.713, GO5036_SC|GO5036_LC|GO5081_LC
+211963497, 137.450931, 19.678574, 16.132, GO5036_SC|GO5039_SC|GO5036_LC|GO5081_LC|GO5030_LC|GO5039_LC
+211970944, 124.469425, 19.791103, 17.037, GO5036_LC|GO5081_LC
+211978512, 136.379267, 19.909292, 17.434, GO5036_LC|GO5081_LC|GO5030_LC
+211981633, 129.499046, 19.95775, 17.889, GO5036_LC|GO5081_LC|GO5030_LC
+212028433, 127.31235, 20.728119, 18.205, GO5036_LC|GO5048_LC|GO5081_LC
+212102189, 127.613506, 22.062668, 17.133, GO5036_LC|GO5081_LC
+212111554, 134.522912, 22.249502, 16.67, GO5036_LC|GO5081_LC|GO5030_LC
+212127137, 133.496552, 22.560087, 17.818, GO5036_LC|GO5081_LC|GO5030_LC
+212128548, 134.199742, 22.58839, 17.151, GO5023_LC|GO5036_LC|GO5057_LC|GO5081_LC|GO5030_LC
+212136544, 127.858677, 22.749638, 16.323, GO5036_LC|GO5081_LC
+212178513, 127.899756, 23.697451, 18.19, GO5036_SC|GO5036_LC|GO5011_LC|GO5081_LC

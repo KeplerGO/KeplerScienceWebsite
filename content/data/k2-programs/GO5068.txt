@@ -1,0 +1,12 @@
+# Summary of K2 Program GO5068
+
+Title: Deep asteroseismic sounding of pulsating sdB stars in K2 fields
+
+PI: Charpinet, Stephane (Observatoire Midi-Pyrenees - Laboratoire d'Astrophysique)
+CoIs: 
+
+Pulsating hot B subdwarfs (sdB) are evolved extreme horizontal branch stars whose internal structure and dynamics is both representative of low mass star's helium burning cores and reflects their past evolution over the main sequence and red giant phases. A significant fraction of the sdB stars develop rich nonradial oscillations involving both p and g-modes making them privileged targets for deep asteroseismic probing, provided that high quality photometric data can be obtained. With this proposal, we intend to exploit all the opportunities arising with K2 to obtain very high precision seismic data for these pulsating stars whenever possible. These, combined with data obtained during the Kepler 1 mission, will be extremely valuable to secure a representative enough sample of sdB stars with deep asteroseismic information on their internal structure available. Our team is expert in analyzing and modeling pulsating sdB stars and we have developed efficient tools to interpret the embedded seismic information (see eg Van Grootel et al. 2013, A&A, 553, 97 and references therein). This project is important to improve our knowledge of the structure and evolution of stars before and during their late stages, a domain where K2 has a significant role to play by monitoring the targets of this kind that are present in the selected fields.
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211765471, 133.348574, 16.826456, 14.035, GO5068_SC|GO5001_LC|GO5068_LC

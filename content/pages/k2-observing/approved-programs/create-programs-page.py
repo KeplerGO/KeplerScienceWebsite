@@ -1,10 +1,7 @@
 """Prepares an overview of the K2 programs and summaries for the website."""
 import os
-import logging
+import re
 import pandas as pd
-
-log = logging.getLogger("k2programs")
-log.setLevel("INFO")
 
 
 class TargetList(object):
@@ -44,25 +41,26 @@ class ProgramList(object):
         return self._df.loc[self._df['Response seq number'] == seqnum].iloc[0]
 
 
-class WebResourceFactory(object):
+class WebSummaryCreator(object):
 
-    def __init__(self, targetlist, programlist):
+    def __init__(self, targetlist, programlist, campaign=None):
         self.targetlist = targetlist
         self.programlist = programlist
         self.programs = self.targetlist.get_unique_programs()
+        self.campaign = campaign
 
     def to_html(self):
         html = (".. raw:: html\n\n"
                 "  <div class='panel panel-primary'>\n\n"
                 "    <div class='panel-heading'>\n"
-                "      <h3 class='panel-title'>Programs that contributed to the Campaign 8 target list</h3>\n"
+                "      <h3 class='panel-title'>Programs that contributed to the Campaign " + str(self.campaign) + " target list</h3>\n"
                 "    </div>\n\n"
                 "    <div class='panel-body'>\n"
-                "      <i>Click on the titles to view abstracts and target lists.</i>\n"
+                "      <i>Click on a title to view the abstract and a list of targets observed.</i>\n"
                 "      <table class='table table-striped table-hover'>\n"
                 "        <thead>\n"
                 "        <tr>\n"
-                "          <th>ID</th>\n"
+                "          <th>Program</th>\n"
                 "          <th style='min-width:7em;'>PI</th>\n"
                 "          <th>Title</th>\n"
                 "          <th>Targets</th>\n"
@@ -81,7 +79,7 @@ class WebResourceFactory(object):
                         "        </tr>\n\n".format(program_id,
                                                    program["PI Last name"],
                                                    url,
-                                                   program["Title"],
+                                                   program["Title"].translate(dict.fromkeys(range(1, 32))),
                                                    len(targets))
                      )
         html += "      </table>\n    </div>\n  </div>\n"
@@ -89,7 +87,7 @@ class WebResourceFactory(object):
 
     def write_html(self, output_fn):
         with open(output_fn, "w") as output:
-            log.info("Writing {}".format(output_fn))
+            print("Writing {}".format(output_fn))
             output.write(self.to_html())
 
     def write_summaries(self, output_dir=""):
@@ -109,20 +107,26 @@ class WebResourceFactory(object):
                 pi_institute = program["Company name"]
 
             co_investigators = []
-            for idx in range(1, 16):
-                field = program["Member - {} Member name; Role; Email; Organization; Phone".format(idx)]
-                if field != "":
-                    co_investigators.append(field.split(";")[0].strip())
+            for idx in range(1, 99):  # Number of "Member" columns is variable
+                try:
+                    field = program["Member - {} Member name; Role; Email; Organization; Phone".format(idx)]
+                    if field != "":
+                        co_investigators.append(field.split(";")[0].strip())
+                except KeyError:
+                    continue  # Max number of "Member" columns reached
 
-            # Some proposals manage to contain ascii control characters,
-            # let's remove those
+            # Some abstracts contain control characters (wtf?), remove these
             summary = program["Summary"].translate(dict.fromkeys(range(14, 32)))
+            # Also remove excessive whitespace
+            summary = summary.replace("\n\n\n\n", "\n\n").replace("\n\n\n", "\n\n")
+            # Only allow two whitespaces after a period
+            summary = re.sub("(?<!\.)(\n\n)", " ", summary)
 
             output_fn = os.path.join(output_dir, "{}.txt".format(program_id))
             with open(output_fn, "w") as output:
-                log.info("Writing {}".format(output_fn))
+                print("Writing {}".format(output_fn))
                 output.write("# Summary of K2 Program {}\n\nTitle: {}\n\n"
-                             "PI: {} ({})\nCoIs: {}\n\n{}\n\n\n"
+                             "PI: {} ({})\nCoIs: {}\n\n{}\n\n"
                              "# Targets requested by this program "
                              "that have been observed ({})\n{}"
                              "".format(program_id,
@@ -137,8 +141,33 @@ class WebResourceFactory(object):
                              )
 
 if __name__ == "__main__":
-    tl = TargetList("../../../data/campaigns/c8/K2Campaign8targets.csv")
-    pl = ProgramList("/home/gb/Dropbox/k2/Campaign8_9_10/K2GO3_2 Investigation Report.xls")
-    wrf = WebResourceFactory(tl, pl)
-    wrf.write_html("c8.html")
-    wrf.write_summaries("/home/gb/dev/KeplerScienceWebsite/content/data/k2-programs/")
+    cfg = {
+           "summaries_dir": "/home/gb/dev/KeplerScienceWebsite/content/data/k2-programs/",
+           "4": {
+                    "targetlist": "../../../data/campaigns/c4/K2Campaign4targets.csv",
+                    "programlist": "/home/gb/Dropbox/k2/Campaign4_5/K2GO1_programs_geert_edit.xls"
+                },
+           "5": {
+                    "targetlist": "../../../data/campaigns/c5/K2Campaign5targets.csv",
+                    "programlist": "/home/gb/Dropbox/k2/Campaign4_5/K2GO1_programs_geert_edit.xls"
+                },
+           "6": {
+                    "targetlist": "../../../data/campaigns/c6/K2Campaign6targets.csv",
+                    "programlist": "/home/gb/Dropbox/k2/Campaign6_7/K2GO2_1 Updated Investigation Report 1_28.xls"
+                },
+           "7": {
+                    "targetlist": "../../../data/campaigns/c7/K2Campaign7targets.csv",
+                    "programlist": "/home/gb/Dropbox/k2/Campaign6_7/K2GO2_1 Updated Investigation Report 1_28.xls"
+                },
+           "8": {
+                    "targetlist": "../../../data/campaigns/c8/K2Campaign8targets.csv",
+                    "programlist": "/home/gb/Dropbox/k2/Campaign8_9_10/K2GO3_2 Investigation Report.xls"
+                },
+           }
+
+    for campaign in ["4", "5", "6", "7", "8"]:
+        tl = TargetList(cfg[campaign]["targetlist"])
+        pl = ProgramList(cfg[campaign]["programlist"])
+        wrf = WebSummaryCreator(tl, pl, campaign=campaign)
+        wrf.write_html("c{}.html".format(campaign))
+        wrf.write_summaries(cfg["summaries_dir"])
