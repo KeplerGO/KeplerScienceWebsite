@@ -1,0 +1,20 @@
+# Summary of K2 Program GO4043
+
+Title: K2 Observations of Variable White Dwarfs in Fields 4 and 5
+
+PI: Hermes, James J (Astronomy Group)
+CoIs: Bours, Madelon; Gentile Fusillo, Nicola; Greiss, Sandra; Marsh, Tom; Bell, Keaton; Parsons, Steven Gary; Gaensicke, Boris Teddy
+
+We propose observations of known and suspected variable white dwarfs in Fields 4 & 5 of the K2 mission. We propose short-cadence observations of pulsating WDs within the empirical ZZ Ceti instability strip, which will allow unprecedented insight into the interiors of these stellar remnants. We also propose short-cadence observations of several unique post-common-envelope binaries that are known to exhibit eclipses, including the brightest such system known, V471 Tau. Finally, we propose short- and long-cadence observations of known strongly magnetic white dwarfs to constrain magnetic activity and rotation rates in these stars.
+
+# Targets requested by this program that have been observed (9)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210381639, 58.978719, 13.033308, 18.205, GO4043_SC|GO4043_LC
+210395719, 61.158092, 13.366692, 17.546, GO4043_SC|GO4043_LC
+210397465, 59.600969, 13.408553, 17.668, GO4043_SC|GO4043_LC
+210412981, 59.539096, 13.760826, 16.773, GO4043_SC|GO4043_LC
+210415184, 59.540615, 13.810125, 18.343, GO4043_SC|GO4043_LC
+210619926, 57.604035, 17.246507, 9.233, GO4043_SC|GO4027_SC|GO4020_LC|GO4018_LC|GO4057_LC|GO4043_LC|GO4032_LC|GO4060_LC|GO4048_LC|GO4029_LC|GO4001_LC|GO4033_LC|GO4007_LC|GO4072_LC|GO4104_LC|GO4027_LC|GO4024_LC
+210659779, 56.320172, 17.802151, 16.521, GO4043_SC|GO4057_LC|GO4043_LC|GO4001_LC|GO4073_LC
+210744672, 59.059884, 19.027486, 17.791, GO4043_SC|GO4043_LC
+220115934, , , , GO4043_SC|GO4043_LC

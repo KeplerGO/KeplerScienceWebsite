@@ -11,8 +11,7 @@ Methodology: The Kepler Mission was a planet finding machine!  Our team has exte
 
 Relevance to Kepler-GO Program: Using space-based astronomical observations of star fields with K2 we will search for and characterize new planets around hot stars. Our research has the potential to determine whether the properties of the host star, convective or radiative atmospheres, play a role in the formation and evolution of planetary systems.  We expect to apply for targets in future observing campaigns to make sure we find ample planetary systems around hot-stars to meet our research goals.
 
-
-# Observed targets associated with this program (236)
+# Targets requested by this program that have been observed (236)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220145469, 17.1335773, -2.0599329, 8.165, GO8051_LC|GO8077_LC|GO8031_LC|GO8028_LC
 220150649, 17.4116154, -1.871159, 10.051, GO8077_LC|GO8028_LC

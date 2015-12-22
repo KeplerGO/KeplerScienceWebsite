@@ -1,0 +1,39 @@
+# Summary of K2 Program GO4001
+
+Title: A Search for Habitable Planets Around White Dwarfs in Fields 4 and 5
+
+PI: Kilic, Mukremin (University of Oklahoma)
+CoIs: Mazeh, Tsevi Moshe; Loeb, Abraham; Mullally, Fergal; Maoz, Dan; Debes, John Henry; Brown, Warren R; Agol, Eric
+
+A large fraction of white dwarfs (WDs) may hot planets in their habitable zones. These planets may provide our best chance to detect bio-markers on a transiting exoplanet, thanks to the diminished contrast ratio between the Earth-sized WD and its Earth-sized planets. The James Webb Space Telescope is capable of obtaining the first spectroscopic measurements of such planets, yet there are no known planets around WDs. Here we propose to take advantage of the unique capability of the K2 mission to perform a transit survey that is capable of detecting the first planet in the habitable zone of a white dwarf. There are nearly 400 WDs known in Fields 4 and 5. Thanks to the large field of view of Kepler, for the first time in history, a large number of WDs can be observed at the same time, which is essential for discovering transits. This survey will maintain Kepler's spirit of searching for habitable Earths, but near new hosts.
+
+# Targets requested by this program that have been observed (28)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210315527, 58.349502, 11.200202, 18.838, GO4041_LC|GO4017_LC|GO4001_LC
+210346126, 59.820121, 12.112158, 16.915, GO4001_LC
+210355209, 59.578643, 12.364351, 17.208, GO4001_LC
+210372930, 59.724929, 12.822374, 18.734, GO4001_LC
+210377280, 61.103849, 12.928716, 18.518, GO4001_LC
+210398578, 59.225646, 13.433897, 18.367, GO4073_SC|GO4001_LC|GO4073_LC
+210403895, 57.164901, 13.558093, 18.056, GO4041_LC|GO4017_LC|GO4001_LC|GO4003_LC
+210471507, 62.244192, 14.918842, 19.93, GO4001_LC
+210480719, 56.728601, 15.081714, 18.679, GO4073_SC|GO4001_LC|GO4073_LC
+210484300, 64.559712, 15.143604, 18.983, GO4017_SC|GO4041_LC|GO4017_LC|GO4001_LC
+210507741, 63.828671, 15.542097, 19.546, GO4001_LC
+210520485, 58.185501, 15.749874, 18.709, GO4073_SC|GO4001_LC|GO4073_LC
+210571155, 58.773131, 16.539352, 18.307, GO4073_SC|GO4001_LC|GO4073_LC
+210605073, 65.62329, 17.037875, 17.887, GO4001_LC
+210609259, 56.129281, 17.095534, 17.658, GO4073_SC|GO4001_LC|GO4073_LC
+210619926, 57.604035, 17.246507, 9.233, GO4043_SC|GO4027_SC|GO4020_LC|GO4018_LC|GO4057_LC|GO4043_LC|GO4032_LC|GO4060_LC|GO4048_LC|GO4029_LC|GO4001_LC|GO4033_LC|GO4007_LC|GO4072_LC|GO4104_LC|GO4027_LC|GO4024_LC
+210659779, 56.320172, 17.802151, 16.521, GO4043_SC|GO4057_LC|GO4043_LC|GO4001_LC|GO4073_LC
+210705160, 66.474818, 18.436329, 18.712, GO4001_LC
+210705164, 56.145114, 18.436405, 15.731, GO4073_SC|GO4098_SC|GO4041_LC|GO4001_LC|GO4073_LC|GO4098_LC
+210802569, 62.572794, 19.906956, 17.462, GO4041_LC|GO4001_LC
+220115909, , , , GO4073_SC|GO4001_LC|GO4073_LC
+220115918, , , , GO4073_SC|GO4001_LC|GO4073_LC
+220115932, , , , GO4001_LC
+220115933, , , , GO4073_SC|GO4041_LC|GO4017_LC|GO4001_LC|GO4073_LC
+220115937, , , , GO4001_LC
+220115941, , , , GO4001_LC
+220115944, , , , GO4041_LC|GO4001_LC
+220115963, , , , GO4001_LC

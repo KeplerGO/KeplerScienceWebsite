@@ -15,8 +15,7 @@ Relevance: Our program will not only discover and characterize new planets aroun
 
 References: [1] Johnson, J. A., Clanton, C., Howard, A. W., et al. 2011, ApJS, 197, 26 [2] Lloyd, J. P. 2011, ApJL, 739, L49 [3] Mislis, D., & Hodgkin, S. 2012, MNRAS, 422, 1512 [4] Shporer, A., Jenkins, J. M., Rowe, J. F., et al. 2011, AJ, 142, 195 [5] Johnson, M. C., Cochran, W. D., Albrecht, S., et al. 2014, ApJ, 790, 30
 
-
-# Observed targets associated with this program (16)
+# Targets requested by this program that have been observed (16)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220147642, 17.8662319, -1.978725, 12.417, GO8077_LC|GO8050_LC
 220210995, 20.0829296, 0.39371, 11.948, GO8068_LC|GO8077_LC|GO8050_LC

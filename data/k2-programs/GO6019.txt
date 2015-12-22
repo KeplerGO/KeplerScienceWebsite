@@ -1,0 +1,23 @@
+# Summary of K2 Program GO6019
+
+Title: Internal Mixing Processes and Angular Momentum Transport in Pulsating B-type Stars on the Main Sequence
+
+PI: Papics, Peter I (Instituut voor Sterrenkunde)
+CoIs: Briquet, Maryline; Aerts, Conny Clara; De Cat, Peter
+
+Stellar lifetime is strongly influenced by internal mixing processes, such as core overshooting and rotation. These effects, and their precise dependency on the presence of magnetic fields or their contribution to the transport of angular momentum and chemical species are poorly known. This lack of understanding results in uncertainties on current stellar structure and evolution models of massive stars. Because many studies within modern astrophysics rely on precise predictions of these models, such as chemical enrichment of galaxies, age determination of the Universe, stellar life cycles and their effect on star and planetary system formation, dynamics within stellar clusters, etc., these uncertainties need to be resolved.
+
+Asteroseismology is one of the few tools which allows us to study the interiors of stars by the interpretation of their non-radial oscillations. In the last years the field went through an unprecedented evolution, thanks to the immense growth in observational data and the vast improvements of asteroseismological techniques. While the nominal Kepler mission already implied a revolution in stellar physics of solar-like stars and red giants, similar achievements were not possible for massive OB stars as most of such targets were avoided in the FoV.
+
+The frequency spectra of the pulsating beta Cep and slowly pulsating B (SPB) stars are strongly influenced by the mentioned mixing processes (e.g., Miglio et al. 2008, MNRAS, 386, 1487), which makes them ideal asteroseismic probes. By calculating theoretical pulsation models (based on stellar structure models with different input physics) we can confront the observed and theoretical frequencies and put constraints on the parameters which are either missing from, or ill-constrained in current theories. A handful of available detailed analyses show such a variety in the observed variable behaviour (e.g., Degroote et al. 2010, Nature, 464, 259; Papics et al. 2011, A&A, 528, A123; Degroote et al. 2011, A&A, 536, A82; Papics et al. 2012, A&A, 542, A55), that details in the internal physics of these stars must be different. So far, in-depth seismic modelling resulting in the determination of the overshooting parameter was achieved for only one SPB star from Kepler data (Papics et al. 2014, A&A 570, A8), bringing the total number of OB dwarfs for which this value is available to 16 (Aerts et al. 2014, arXiv:1407.6479). 
+
+Although the amount of observational constraints is growing, the number of in-depth investigations providing precise physical parameters, and their coverage of the instability strips is too low to refine theory. K2 can have a significant contribution to extending this sample, and get us closer to the much-needed precise calibration of stellar structure and evolution models of massive stars. Furthermore, the different K2 Fields pointing towards different stellar populations of the Galaxy will show if/how internal processes and parameters depend on the presence of magnetic field, internal rotation, and stellar properties such as metallicity across the instability strips. Our final goal is to give a quantitative seismic estimate of core overshooting and internal rotational mixing using a sample of B-type stars, and obtain improvements from typically 20% to 1% relative precision in the interior physics laws for such stars. This will propagate to the very first seismic  and thus reliable  calibration of stellar evolution models in the upper part of the Hertzsprung-Russell Diagram.
+
+We propose a few tens of targets for Fields 6 and 7 of the K2 Mission. All targets are well suited for Long Cadence, because the dominant oscillations are in the order of a day. This also explains why ground-based observations are extremely difficult for these targets.
+
+# Targets requested by this program that have been observed (4)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+212286667, 206.1304474, -17.9370022, 7.666, GO6016_LC|GO6019_LC|GO6030_LC
+212431975, 203.6187439, -14.1959496, 12.46, GO6019_LC
+212447084, 200.5060577, -13.8646469, 10.323, GO6019_LC
+212450527, 200.9409027, -13.7905874, 12.79, GO6019_LC

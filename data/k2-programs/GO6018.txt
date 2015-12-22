@@ -1,0 +1,19 @@
+# Summary of K2 Program GO6018
+
+Title: High-precision photometry of Qatar-2 and WASP-55: the two currently known transiting planets in K2 field 6
+
+PI: Southworth, John (Keele University)
+CoIs: Mancini, Luigi; Hellier, Coel
+
+The study of extrasolar planets is a young field but already represents one of the major scientific advances of the 21st century, due in particular to the remarkable results achieved during the main mission of the Kepler satellite. Of the known extrasolar planets, only those which transit their host stars can be characterised in detail. For these objects, analysis of photometry and spectroscopy can yield measurements of their masses and radii, and thus densities and surface gravities, enabling studies of the structure, formation and evolution of planets and planetary systems.
+
+The K2 mission field 6 contains two known transiting extrasolar planets: Qatar-2 and WASP-55. Both are gas-giant planets in short-period orbits (1.3 and 4.5 days respectively) whose masses and radii have been measured to precisions of between 2% and 10% from ground-based observations. Detailed error budgets from past studies of transiting planets have shown that the quality of the light curve is the main determinant of the precision of the measured properties of the system (e.g. Southworth, 2009, MNRAS, 394, 272), especially for density and surface gravity. 
+
+Qatar-2 is also known to show strong spot activity in the parent star: an extensive ground-based study based on 17 transit light curves found spot-crossing events in all of the transits (Mancini et al., 2014, MNRAS, 443, 2391). These were used to measure the orbital obliquity of the system to high precision, further informing theories of the formation of planetary systems. 
+
+We propose to observe Qatar-2 and WASP-55 with Kepler K2 in short cadence. We will use the light curves to measure the physical properties of both systems to very high precision, using the methodology we have developed over the past 8 years (see Southworth, 2012, MNRAS, 426, 1291 and references therein) and a K2 data reduction pipeline currently being developed by our group. Short-cadence data is mandatory to resolve the spot crossing events in the transits of Qatar-2, which have a characteristic timescale of approximately 15 minutes. For WASP-55, short-cadence data is necessary to obtain a measurement of the planet's density to 2-3% precision (long cadence observations would only give a precision of 5-6%), which is needed to usefully constrain the internal structure of a planet of this mass (see Fortney et al., 2007, ApJ, 659, 1661).
+
+# Targets requested by this program that have been observed (2)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+212300977, 203.7581024, -17.5035496, 11.738, GO6018_SC|GO6041_SC|GO6018_LC|GO6030_LC|GO6036_LC|GO6041_LC|GO6069_LC|GO6087_LC
+212756297, 207.6558685, -6.8040042, 13.009, GO6018_SC|GO6034_SC|GO6041_SC|GO6018_LC|GO6030_LC|GO6032_LC|GO6034_LC|GO6041_LC|GO6086_LC

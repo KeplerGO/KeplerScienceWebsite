@@ -1,0 +1,19 @@
+# Summary of K2 Program GO6075
+
+Title: Testing asteroseismology with bright red giants using K2 timeseries and interferometry
+
+PI: Boyajian, Tabetha Suzanne (Yale University)
+CoIs: Silva Aguirre, Victor; Huber, Daniel; White, Timothy R; Creevey, Orlagh
+
+We propose to observe bright red giants stars in long cadence mode in the K2 fields 6 and 7, where interferometric and high-resolution spectroscopic supporting observations will allow us to address several exciting science questions pertaining to 1) asteroseismic scaling relations, 2) chemical mixing processes in stellar interiors, and 3) the abundance of helium. 
+Widely used in the asteroseismology of red giants, asteroseismic scaling relations connect stellar properties such as masses and radii to easy-to-derive seismic parameters such as the frequency of maximum power and the large frequency separation. Although scaling relations do have some theoretical justification, they are still mostly based on the only star whose parameters we truly know: the Sun. The precise seismic K2 observations coupled with high-quality ground-based interferometric and spectroscopic data of bright nearby giants will allow us to subject the scaling relations to the most demanding tests. 
+The second application is to constrain the poorly understood mixing processes working inside red giants, such as thermohaline mixing, rotation, and deep circulation. These processes are predicted to have different impact at different stages of red giant evolution, and to leave imprints in the surface chemical composition of a star. Precise seismic log (g) from K2 time series, coupled with high resolution spectroscopy, will allow for a detailed abundance determination of a large number of chemical species.  The correlations between elements (e.g. [C/ Fe] vs [N/ Fe]) and departure from their theoretically predicted values (as in the case of Li or 12 C/13 C) are tracers of internal mixing processes, and will be studied as a function of the seismically determined mass.
+The third goal of this proposal is to address one of the biggest uncertainties in stellar astrophysics: the abundance of helium in stars. The helium second ionization zone inside a star produces an abrupt change in the local sound speed, which is detectable in the Fourier spectrum of time series as a periodic variation. We will construct detailed models of red giants where this variation is detected, and coupled with independent constraints on angular diameter and detailed surface composition, we will put stringent constraints on the helium abundance of red giants and test our assumptions on enrichment laws of the Galaxy.
+We have selected ~25 bright (Kp~5-8) red giants which are ideally suited for this project due to their precisely determined distances, large angular sizes for interferometry, and detectable oscillations in the 80 day K2 baseline. Red giants observed by Kepler were generally too faint to meet these criteria, making K2 uniquely suited to perform these observations. Our proposal addresses compelling questions in stellar structure and evolution, and is hence directly related to the K2 GO solicitation.
+
+# Targets requested by this program that have been observed (4)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+212323171, 201.5260773, -16.8584881, 6.341, GO6016_LC|GO6075_LC
+212397473, 211.1124115, -14.9717054, 6.146, GO6016_LC|GO6075_LC
+212703886, 210.0194855, -8.1616421, 6.373, GO6016_LC|GO6075_LC
+212785873, 202.2615051, -5.9554958, 8.181, GO6032_LC|GO6075_LC|GO6084_LC

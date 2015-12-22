@@ -1,0 +1,24 @@
+# Summary of K2 Program GO6057
+
+Title: Looking for young planetary systems with K2 and VLT/SPHERE
+
+PI: Vigan, Arthur (Laboratoire d'Astrophysique de Marseille)
+CoIs: Barros, Susana CC; Deleuil, Magali; Moutou, Claire; Santerne, Alexandre; Demangeon, Olivier
+
+We propose to join the forces of K2 from space and SPHERE at the VLT to detect planetary systems around 8 young (25-600 Myr), nearby (3-60 pc) stars, which are part of our 200-nights direct imaging survey that will be conducted with SPHERE over the next 5 years. 
+
+Looking for planetary systems around young stars with Kepler is a compelling approach to provide constraints on the migration mechanisms and their timescales (Lloyd et al. 2013, arXiv, 1309.1520). In particular, for hot Jupiters, it would allow discriminating between migration during formation within the protoplanetary disk (e.g. Alibert et al. 2004, A&A, 417, 25) and migration through tidal interactions (e.g. Rasio & Ford 1996, Science, 274, 954) that occur on much longer timescales (>500 Myr). For our targets, K2 will provide unprecedented access to the innermost orbital regions around these stars, allowing the identification of small planet candidates within 0.3 AU. The direct imaging follow-up at high-contrast and high-angular resolution with VLT/SPHERE will not only decrease the probability of astrophysical false-positives by background objects to extremely low levels, but it will also complete the picture of these systems in the 5-50 AU range thanks to its unique sensitivity to young giant planets. In addition, some of our targets are also part of a long-term, high-precision radial velocity monitoring with HARPS at the ESO 3.6 m telescope in La Silla, which will allow bridging the gap between the K2 and SPHERE observations.
+
+Any joint detection of a planetary system with K2 and SPHERE would be a major discovery and constitute a "Rosetta stone" system for the study and understanding of migration processes and interactions in planetary systems. This is a central question for systems with giant planets at wide orbital separation, for which the far out location could be the result of migration through gravitational interactions with other planets in the system.
+
+Finally, the youngest of our stars can present a significant variability and spots that can challenge the detection of transit signals. To improve our sensitivity to small planets, we propose to observe our targets younged than 250 Myr in short-cadence, which will enable a better filtering of the activity during the processing of the data. In addition, this will allow using asteroseismology to determine the stellar properties down to a few percent, providing an even better understanding of these interesting young stars.
+
+In summary, we want to look for young planetary systems using two powerful exoplanet-hunting instruments, K2 and VLT/SPHERE. We propose to observe 8 stars with ages <600~Myr that will fall into the K2 Fields #6 and #7. All but one have late spectral types and a Kepler magnitude Kp<10. We propose to obtain short-cadence data for 5 of them to use asteroseismology to constraint the physical properties of these young star and to increase our sensitivity to small planets.
+
+# Targets requested by this program that have been observed (5)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+212591132, 207.0419006, -10.7887487, 8.644, GO6030_LC|GO6057_LC|GO6085_LC|GO6086_LC|GO6087_LC
+212648649, 205.9242249, -9.4755878, 9.278, GO6030_LC|GO6032_LC|GO6057_LC|GO6069_LC|GO6078_LC|GO6086_LC|GO6087_LC
+212667055, 211.2945404, -9.0485058, 8.533, GO6030_LC|GO6041_LC|GO6057_LC|GO6078_LC|GO6086_LC|GO6087_LC
+212692562, 203.2971497, -8.4433479, 8.39, GO6039_SC|GO6030_LC|GO6039_LC|GO6057_LC|GO6086_LC|GO6087_LC
+212828608, 206.2722473, -4.6203408, 9.99, GO6008_LC|GO6030_LC|GO6032_LC|GO6041_LC|GO6046_LC|GO6057_LC|GO6065_LC|GO6069_LC|GO6078_LC|GO6086_LC

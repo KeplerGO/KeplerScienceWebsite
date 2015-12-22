@@ -1,0 +1,15 @@
+# Summary of K2 Program GO7015
+
+Title: Measuring the Optical Light Curves of Fermi Blazars
+
+PI: Wehrle, Ann E. (Space Science Institute)
+CoIs: Wiita, Paul J; Carini, Michael Thomas
+
+We propose to measure the K2 long cadence light curves of approximately 14 Fermi gamma-ray blazars.  We will compare the properties of the  light curves to those of other Fermi blazars for which we have approved and proposed K2 observations. Eight and six Fermi blazars will be observable with high precision in K2 Campaigns 6 and 7, respectively.  Our scientific goal is to determine the origin of optical emission in these gamma ray blazars at the time of K2 observations. The three candidate origins are: 1) a single dominant synchrotron-emitting region in a jet; 2) substantial contributions from multiple synchrotron-emitting regions in a jet; and 3) an accretion disk with multiple thermal emitting regions.  We will correct the light curves for motion of the spacecraft using the method of Vanderberg and Johnson (2014 PASP 126, 948). Then we will use our own software developed for Kepler observations to compute power spectral densities and fit power law slopes to the power spectral densities. Our previous Kepler work has been published (Wehrle et al. 2013 ApJ 773, 89;  Revalski et al. 2014 ApJ 785, 60; Carini and Ryle 2012 ApJ 749, 70).  The proposed research is relevant to the K2 Cycle 2 solicitation because we will carry out an investigation of science targets using the high precision photometry of the K2 mission with the goal of understanding the origin of optical emission in the cores of  active galactic nuclei. We address the NASA Astrophysics goal of understanding the nature of black holes in the Universe.
+
+# Targets requested by this program that have been observed (4)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+217154395, 290.8840332, -21.0759125, 16.732, GO7026_LC|GO7015_LC
+217700467, 287.7902222, -20.1153164, 16.471, GO7015_LC
+218129423, 289.4367065, -19.3588142, 15.341, GO7026_LC|GO7015_LC
+229228355, , , , GO7015_LC

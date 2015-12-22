@@ -15,8 +15,7 @@ Every new pulsating white dwarf we can observe with Kepler adds value, since it 
 
 Additionally, we propose observations of multiple convective and/or possibly magnetic white dwarfs in Fields 8 and 10 to carry out the first in-depth study into the magnetic activity of the endpoints of stellar evolution. These long-baseline photometric observations will test white dwarf variability on a large scale and in a completely new regime.
 
-
-# Observed targets associated with this program (142)
+# Targets requested by this program that have been observed (142)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220140191, 17.0263481, -2.281183, 15.961, GO8018_LC
 220151091, 18.1142101, -1.856325, 14.045, GO8018_LC

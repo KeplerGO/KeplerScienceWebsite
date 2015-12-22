@@ -1,0 +1,35 @@
+# Summary of K2 Program GO7060
+
+Title: Rotation of M dwarfs: spindown, activity, and gyrochronology
+
+PI: Scholz, Aleks (University of St Andrews)
+CoIs: Stelzer, Beate; Matt, Sean P
+
+Stellar rotation is a fundamental parameter for the evolution of stars and planets. Perhaps the biggest challenge in this context is to explain the spindown and the rotation-activity interplay in very low mass stars with spectral type M -- the most abundant type of star in our Galaxy.
+
+Our best spindown models which very successfully reproduce the rotation rates of FGK stars, encounter many problems in the M dwarf regime (Gallet & Bouvier 2013, Mohanty & Reiners 2012). In addition, the gyrochronology period-age relations established for FGK stars do not apply to M dwarfs. A successful theory of the spindown of M dwarfs is going to lead to new insights into magnetic field generation, wind physics, and habitability of planets (e.g., Matt et al. 2012).  For a better understanding of the connection between activity, rotation, and age, we suggest to observe a well-defined sample of nearby M dwarfs with well-studied activity properties in the Kepler K2 mission.
+
+The ideal parameter to constrain models is the rotation period which can be measured with high accuracy from photometric monitoring. Because M dwarfs have long spindown timescales (>1 Gyr), obtaining periods for evolved objects is critical. While large samples of periods exist for M dwarfs in clusters up to 600 Myr (Scholz et al. 2011), the situation is much different for the field. From the ground, rotation periods have only been measured for small (~50), biased samples of M dwarfs (Irwin et al. 2011). Interestingly, these few periods show a wide spread from a few hours up to 150 d, in stark contrast to the periods of more massive stars.
+
+Measuring rotation periods for field M dwarfs is very challenging from the ground, due to the wide spread in periods, the low amplitudes, and the faintness of the objects. While a large sample of M dwarfs have been covered in the original Kepler field (McQuillan et al.2013), most of them are too distant for detailed characterisation (distance, age, binarity, activity levels). The wide sky coverage of the K2 mission represents a unique opportunity to tackle this problem.
+
+Recent survey work has provided excellent, nearly complete samples of M dwarfs in the solar neighbourhood. The Superblink catalog by Lepine & Gaidos (2011) comprises an all-sky list of 8889 M dwarf candidates brighter than J=10, most of them within 60 pc, with estimated spectral types ranging from K7 to M7. Detailed follow-up for these objects is underway. Lepine et al. (2013) confirm spectroscopically that the candidate list contains very litte (<10%) contamination. All these objects will soon have information on parallaxes, kinematics, and binarity from Gaia, which should provide good constraints on ages and masses. A large fraction of them have been detected in UV or X-rays, allowing for detailed activity studies (Stelzer et al. 2013).
+
+Here we propose to investigate the rotation periods of the Superblink M dwarfs using Kepler. A subsample of ~300 (about 30 per field) are likely to be covered by the K2 fields 0 to 9 from 2014 to 2016. For fields 6 and 7, observed in 2015, we propose to include ~100 targets in the K2 fields for these campaigns for long-cadence (30 min) monitoring. We anticipate that most of them  will fall onto the Kepler chips. For the subsequent fields we will submit similarly sized numbers of objects. Our team combines expertise in period search and time series analysis, magnetic activity and spindown modeling. The data from this run will be analysed in a timely manner in the context of a PhD project supervised by all three co-investigators.
+
+# Targets requested by this program that have been observed (14)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+213817346, 291.9700928, -28.1879711, 13.335, GO7002_LC|GO7060_LC|GO7065_LC|GO7046_LC
+214089305, 292.9917603, -27.4086189, 12.515, GO7008_LC|GO7060_LC
+214269391, 282.5881653, -26.9236298, 9.349, GO7008_LC|GO7060_LC|GO7065_LC|GO7046_LC
+214787262, 289.1483154, -25.6449642, 12.533, GO7008_LC|GO7086_LC|GO7060_LC|GO7032_LC
+215004972, 282.5856018, -25.1480579, 11.315, GO7008_LC|GO7032_LC|GO7060_LC
+215632123, 282.4554138, -23.8361492, 8.454, GO7060_LC|GO7016_LC
+215818496, 280.5461731, -23.4829807, 11.017, GO7008_LC|GO7086_LC|GO7060_LC|GO7085_LC|GO7005_LC
+215969058, 288.8433228, -23.2030144, 11.578, GO7008_LC|GO7086_LC|GO7064_LC|GO7060_LC|GO7071_LC|GO7085_LC
+216273315, 284.1331177, -22.6448059, 12.387, GO7008_LC|GO7086_LC|GO7060_LC|GO7085_LC
+216848322, 282.861084, -21.6166496, 11.981, GO7008_LC|GO7086_LC|GO7060_LC|GO7032_LC
+216892056, 291.6731873, -21.5390549, 12.503, GO7008_LC|GO7086_LC|GO7060_LC|GO7085_LC
+218121888, 281.8196106, -19.3724251, 12.043, GO7008_LC|GO7002_LC|GO7060_LC|GO7016_LC
+218790299, 282.3791809, -18.1491413, 10.721, GO7060_LC
+219448194, 285.8311462, -16.7268333, 12.043, GO7008_LC|GO7086_LC|GO7060_LC

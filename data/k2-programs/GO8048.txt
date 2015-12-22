@@ -13,8 +13,7 @@ Methodology: Given the similarity in size between the host star and even small p
 
 Relevance of Proposed Research to this Solicitation: A detection of an object transiting a white dwarf would be significant finding for many areas of astrophysics (e.g., stellar evolution, planetary migration, planet formation, atmospheric characterization), and in line with the objectives of the original Kepler mission, to identify planet candidates. This work identifies a sample of K2 targets, which are directly related to the original Kepler mission of planet discovery, and directly tied to Objective 1.6 in the NASA 2014 Strategic Plan.
 
-
-# Observed targets associated with this program (73)
+# Targets requested by this program that have been observed (73)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220155299, 17.5551662, -1.700832, 16.659, GO8018_LC|GO8019_LC|GO8006_LC|GO8048_LC|GO8018_SC|GO8048_SC
 220195291, 20.4510002, -0.181386, 16.581, GO8018_LC|GO8019_LC|GO8006_LC|GO8048_LC|GO8011_LC

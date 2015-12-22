@@ -1,0 +1,17 @@
+# Summary of K2 Program GO5002
+
+Title: KARMENES: The K2+CARMENES short cadence search of M dwarfs as hosts of close-in planets and pulsations
+
+PI: Rodriguez-Lopez, Cristina (Instituto de Astrofisica de Andalucia (IAA-CSIC))
+CoIs: Ribas, Ignasi; Caballero, Jose A; Quirrenbach, Andreas; Reiners, Ansgar; Anglada, Guillem; Amado, Pedro Jose; Ofir, Aviv; Palle, Enric
+
+We propose high-cadence observations of a selection of 11 (6) nearby M dwarfs in Field 4 (5) from the CARMENES spectrograph input catalog (CARMENCITA) and the MEarth survey catalog with the aim of detecting ultra-short period planets with orbital periods of only a few hours, and pulsations predicted to be in the 20 minutes to 3 hours range. Time-series analysis techniques will be used to accomplish our goals. The high cadence choice is non-negotiable to discover the theoretically predicted pulsations, which would enable the precise characterization of the M dwarfs inner structure and age, the Holy Grail of M dwarfs. This proposal perfectly addresses some of the K2 Science Motivations: 1/ the characterization of the internal structure and fundamental properties of stars using the tools of asteroseismology and 2/ goes a step further in providing small planets around bright and small stars to facilitate precise follow-up; even if some of the targets are faint in the optical, CARMENES still will be capable of doing the follow-up, as the targets emit more flux in the nIR, resulting in a fruitful alliance between K2 mission and CARMENES.
+
+# Targets requested by this program that have been observed (6)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211480655, 136.55852, 12.859502, 12.214, GO5002_SC|GO5002_LC|GO5006_LC|GO5020_LC|GO5029_LC|GO5081_LC|GO5097_LC
+211642294, 129.28317, 15.129313, 10.787, GO5002_SC|GO4102_SC|GO5098_SC|GO5002_LC|GO5020_LC|GO5029_LC|GO5071_LC|GO5081_LC|GO4104_LC|GO5060_LC|GO4102_LC|GO5011_LC|GO4109_LC|GO5072_LC|GO5098_LC
+211892034, 136.429034, 18.609377, 11.583, GO5002_SC|GO5002_LC|GO5006_LC|GO5020_LC|GO5029_LC|GO5081_LC|GO4104_LC|GO5060_LC|GO4109_LC
+211945363, 134.314257, 19.404908, 12.349, GO5002_SC|GO5039_SC|GO5020_LC|GO5029_LC|GO5081_LC|GO5097_LC|GO5011_LC|GO4109_LC|GO5002_LC|GO5039_LC
+212104761, 132.056146, 22.11404, 14.589, GO5002_SC|GO5002_LC|GO5006_LC|GO5020_LC|GO5097_LC|GO5011_LC
+212144340, 129.122944, 22.912364, 14.722, GO5002_SC|GO5002_LC|GO5006_LC|GO5020_LC|GO5097_LC|GO5011_LC

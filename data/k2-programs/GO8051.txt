@@ -17,8 +17,7 @@ We will propose a large sample of approximately 2000 targets.  Stellar metallici
 Relevance:
 We are searching for new exoplanetary systems. These results will provide important new constraints on the physics and chemistry of planetary system formation, as well as provide constraints for the computation of planet occurrence rates. We will address the Kepler mission goals of obtaining an inventory of the diversity of planetary systems around sun-like stars. We will also obtain data very complementary to the goals of the TESS program, and help guide planetary system science for JWST studies.
 
-
-# Observed targets associated with this program (886)
+# Targets requested by this program that have been observed (886)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220145469, 17.1335773, -2.0599329, 8.165, GO8051_LC|GO8077_LC|GO8031_LC|GO8028_LC
 220147388, 17.8170242, -1.988471, 8.82, GO8068_LC|GO8051_LC|GO8032_LC|GO8077_LC

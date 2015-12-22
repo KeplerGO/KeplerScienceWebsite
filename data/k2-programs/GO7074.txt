@@ -1,0 +1,45 @@
+# Summary of K2 Program GO7074
+
+Title: Gas Stream Dynamics in Algol-Type Interacting Binary Systems
+
+PI: Peters, Geraldine J (University of Southern California)
+CoIs: Wilson, R. E.
+
+Scientific Goals: We propose K2 (long cadence) observations of eclipsing binary systems in Fields 6 and 7 to study the dynamics of mass transfer in interacting binaries of the Algol type. The project is inspired by our discovery of  a new class of short-period interacting binaries during Kepler Cycles 1-4.   Kepler  observation revealed that several systems with Algol-like light curves display unequal brightness at their quadrature phases and that the quadrature brightness ratio varies from  > 1 to <1 on a time scale of about 100-400 days (http://nexsci.caltech.edu/conferences/KeplerII/posters/peters.pdf). To our knowledge such behavior has never been reported from ground-based photometry.  We call these binaries L/T (Leading/Trailing hemisphere) variables.  The variability is likely due to changes in the sizes, temperatures, and locations of either hot accretion or cool magnetic spots. In the hot spot interpretation the location of the impact site and its migration serve as a diagnostic of stream dynamics in mass transferring Algols.  From new observations of Algols and related eclipsing binaries in K2 Fields 6 and 7, we will secure data that will characterize the location/motion of hot accretion spots. The location of impact site and the nature of its azimuthal motion will indicate whether the stream is magnetically-controlled or purely a result of hydrodynamic flow. Our investigation is part of a wider study of the detailed physics of mass transfer in Algols.
+
+Number of Targets: 40 to 50 including Fields 6 & 7
+We searched the regions centered on Fields 6 & 7 for eclipsing binaries with EA (eclipsing Algols) and  EB (eclipsing binaries of the beta Lyr type) designations using a 9.0º search radius. Several catalogs of variable stars were consulted including  Avvakumova et al. (2013), Malkov et al. (2006), Budding et al. (2004), the General Catalog of Variable Stars (Samus et al. 2013), and Simbad.  Systems with Kepler magnitudes between 6.0-14.0 were considered candidates for observation. There are several systems with Kepler magnitudes in the 8-10 range, for which K2 will yield an excellent S/N.
+
+Methodology: As in our continuing project on the L/T variables in the Kepler Field, the K2 light curves will be modeled with the Wilson-Devinney (WD) program (Wilson & Devinney 1971, Wilson 2012 and references therein).  Stellar and spot parameters are determined.  We are currently exploring whether a migrating hot accretion spot on the primary and/or cool spots on the secondary can explain the quadrature light variability.
+
+Relevance to the Solicitation: Only with the continuous photometric coverage of high precision provided by K2 can one identify binaries with unequal quadrature light and study the L/T phenomenon, as the variations are less  than 3% of the quadrature flux. One needs a continuous train of eclipse data over many orbital cycles to characterize the variability, including degree of the flux variations and its phase dependence. 
+
+References:
+Avvakumova, E. A., Malkov, O. Yu., & Kniazev, A. Yu. 2013,  Astr. Nach., 334,  860
+	Budding, E., Erdem, A., Çiçek, C., Bulut, I., et al. 2004, A&A, 417, 263
+Malkov, O. Yu., Oblak, E., Snegireva, E. A., & Torra, J.  2006, A&A, 446, 785
+	Samus N.N., Durlevich O.V., Kazarovets E V., Kireeva N.N., Pastukhova E.N., Zharova A.V., et al.           2007-2012 ( General Catalogue of Variable Stars, VizieR On-line Data Catalog: B/gcvs)
+Wilson, R.E. 2012, AJ, 144, 73
+Wilson, R.E., & Devinney, E.J. 1971, ApJ, 166, 605
+
+# Targets requested by this program that have been observed (19)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+213196496, 287.6510925, -30.3421288, 12.007, GO7074_LC|GO7033_LC|GO7016_LC|GO7040_LC|GO7033_SC
+213338208, 290.0162659, -29.7904778, 13.322, GO7074_LC|GO7040_LC
+214078428, 282.2043152, -27.4383602, 14.335, GO7074_LC|GO7040_LC
+214229494, 282.1661987, -27.0292702, 13.597, GO7074_LC|GO7040_LC
+214506212, 281.2725525, -26.3247261, 14.165, GO7082_LC|GO7074_LC|GO7040_LC
+214675496, 287.7368469, -25.9109898, 8.707, GO7017_LC|GO7078_LC|GO7074_LC|GO7016_LC|GO7040_LC|GO7042_LC|GO7030_LC
+215204996, 287.0728149, -24.7117577, 13.882, GO7074_LC|GO7040_LC
+215553038, 289.4198914, -23.9813137, 13.917, GO7074_LC|GO7040_LC
+215746168, 286.9045715, -23.619051, 12.127, GO7074_LC|GO7040_LC
+215826635, 287.7271118, -23.4674511, 13.606, GO7074_LC|GO7040_LC
+215854473, 290.7043457, -23.4154873, 13.261, GO7074_LC|GO7040_LC
+216254956, 279.9012451, -22.6787434, 10.797, GO7021_LC|GO7074_LC|GO7016_LC|GO7030_LC|GO7074_SC
+216306336, 283.4724426, -22.5849972, 13.572, GO7074_LC|GO7040_LC
+216931564, 290.2722778, -21.4689999, 13.964, GO7074_LC|GO7040_LC
+216997973, 284.1510925, -21.3518734, 12.426, GO7074_LC|GO7040_LC
+217284183, 287.5440063, -20.8456993, 13.313, GO7074_LC|GO7040_LC
+217402696, 285.5830383, -20.6374187, 13.541, GO7074_LC|GO7040_LC
+218212249, 288.8859253, -19.2096157, 13.115, GO7074_LC|GO7040_LC|GO7032_LC
+218796935, 288.1818237, -18.1366673, 11.515, GO7030_LC|GO7074_LC|GO7033_LC|GO7040_LC|GO7033_SC

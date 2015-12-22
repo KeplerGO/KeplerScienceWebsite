@@ -1,0 +1,17 @@
+# Summary of K2 Program GO4098
+
+Title: Monitoring the closest stars in K2 field 4 and 5
+
+PI: Jao, Wei-Chun (Georgia State University)
+CoIs: Henry, Todd J.
+
+We propose to observe 12 closest stars in Kepler 2 field 4 and 5. These stars are F8 _x0013_ M3.5 dwarfs and a white dwarf, a sample that in microcosm mimics the population of the solar neighborhood. Although the odds of detecting a transit among only 12 targets is small, the variability data are valuable for astrophysical studies of the nearest stars and an investment in the future, should non-transiting planets eventually be discovered around these stars. We can also set-up a complementary long-term variability monitoring program in conjunction to Kepler_x0019_s short-term data and will gather a full picture of the stars_x0019_ variability and flaring events, which are important to habitability of planets.
+
+# Targets requested by this program that have been observed (6)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210579749, 55.938534, 16.667247, 9.982, GO4102_SC|GO4098_SC|GO4020_LC|GO4057_LC|GO4071_LC|GO4060_LC|GO4011_LC|GO4029_LC|GO4072_LC|GO4102_LC|GO4081_LC|GO4098_LC|GO4109_LC
+210580056, 55.969017, 16.672025, 9.296, GO4102_SC|GO4098_SC|GO4020_LC|GO4057_LC|GO4071_LC|GO4023_LC|GO4060_LC|GO4029_LC|GO4033_LC|GO4007_LC|GO4072_LC|GO4102_LC|GO4104_LC|GO4081_LC|GO4098_LC|GO4109_LC
+210623267, 55.653693, 17.293506, 7.697, GO4098_SC|GO4071_LC|GO4033_LC|GO4007_LC|GO4072_LC|GO4104_LC|GO4098_LC
+210705164, 56.145114, 18.436405, 15.731, GO4073_SC|GO4098_SC|GO4041_LC|GO4001_LC|GO4073_LC|GO4098_LC
+210938993, 61.334409, 22.008902, 5.775, GO4098_SC|GO4018_LC|GO4057_LC|GO4071_LC|GO4023_LC|GO4033_LC|GO4007_LC|GO4104_LC|GO4098_LC
+211183710, 59.973122, 26.090025, 11.073, GO4002_SC|GO4098_SC|GO4020_LC|GO4011_LC|GO4002_LC|GO4098_LC|GO4109_LC

@@ -1,0 +1,17 @@
+# Summary of K2 Program GO7048
+
+Title: K2 observations of cataclysmic variables and related objects
+
+PI: Ramsay, Gavin (Armagh Observatory)
+CoIs: Wood, Matthew A; Cannizzo, John Kendall; Smale, Alan P
+
+Cataclysmic variables (CVs) provide the cleanest available natural laboratories to investigate the physics of accretion. The timing capabilities and sensitivity of K2 are well matched to the timescales and amplitude of accretion variability in these sources. The combination provides an superb opportunity to test and refine the
+paradigms of stellar accretion with high-precision, uniform data over the more than two month time interval. We propose a continuation of our multifaceted observational and modeling program that puts our current understanding of accretion to the test and has the potential to measure the spatial structure of modeldependent disc parameters. K2 observations of CVs and related objects are profoundly impacting our understanding of accretion dynamics and the nature of viscosity in the wider astrophysical context, and these data will provide an outstanding astrophysical legacy for the K2 mission archive.
+
+# Targets requested by this program that have been observed (5)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+214433392, 288.8444519, -26.5038261, 14.955, GO7040_LC|GO7038_LC|GO7048_LC
+214539533, 289.2045898, -26.2426949, 14.351, GO7059_LC|GO7040_LC|GO7038_LC|GO7048_LC|GO7059_SC|GO7048_SC
+217936562, 283.6679993, -19.6999035, 11.628, GO7038_LC|GO7048_LC
+218331937, 283.478241, -18.9946232, 11.765, GO7007_LC|GO7040_LC|GO7038_LC|GO7048_LC|GO7007_SC|GO7038_SC
+219095783, 285.1660461, -17.5349197, 17.043, GO7040_LC|GO7038_LC|GO7048_LC

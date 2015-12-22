@@ -7,8 +7,7 @@ CoIs: Gomez Maqueo Chew, Yilen; Triaud, Amaury
 
 The goal of NASA's exoplanet mission TESS (to be launched in 2017) is to detect transiting planets around bright dwarf stars. Due to the satellite's orbit, TESS will only be able to find potentially habitable worlds around the lowest mass M dwarfs (M < 0.3 Msun). To fully understand the planets around these M dwarfs, it is paramount to accurately characterize their host stars (i.e., determine their mass, radius, effective temperature, and metallicity). We propose to obtain K2 long-cadence data of four (4) known eclipsing binaries with an F or G-dwarf primary star and an M dwarf secondary star.  A full analysis of these unequal mass binaries allows for spectroscopic derivation of the temperature and metallicity of the primary star, and consequently the derivation of the mass and radius for both stellar components and the M-dwarf temperature.  K2 is the only means to acquire the full light curve for these objects, and its extremely high precision photometry allows for tight constraints on the radii of both components and more importantly the detection of the shallow secondary eclipses from which the secondary temperature is derived. Our measurements of the physical properties of the M dwarfs will better calibrate empirical and theoretical relationships at the bottom of the main sequence ultimately providing the best characterization of potentially habitable worlds discovered by TESS.
 
-
-# Observed targets associated with this program (2)
+# Targets requested by this program that have been observed (2)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220196587, 13.8072147, -0.131667, 10.922, GO8068_LC|GO8051_LC|GO8032_LC|GO8077_LC|GO8055_LC
 220477223, 16.6435928, 6.2495432, 11.402, GO8068_LC|GO8032_LC|GO8077_LC|GO8055_LC|GO8066_LC|GO8033_LC

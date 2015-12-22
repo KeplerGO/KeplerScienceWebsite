@@ -1,0 +1,47 @@
+# Summary of K2 Program GO6037
+
+Title: Activity and Planets at the Bottom of the Main-Sequence
+
+PI: Muirhead, Philip Steven (Boston University)
+CoIs: West, Andrew A; Skinner, Julie N; Cushing, Michael C; Schneider, Adam
+
+We propose to observe a carefully selected sample of ultra-cool dwarfs (UCDs) with K2 during Campaigns 6 and 7.  UCDs occupy the transition from main-sequence stars to brown dwarfs (late-M and later) and are essential to understanding the formation and evolution of the lowest mass objects in the Universe.  Historically, photometric monitoring of UCDs for transiting planets and rotational spot modulation has been hampered by their intrinsic faintness and the expected short duration of transit events.  The K2 spacecraft provides an excellent opportunity to study these objects in more detail, thanks to the large aperture and near-continuous 80-day photometric coverage of each K2 field.
+
+Searching for Transiting Planets Orbiting UCDs: The discovery of a transiting-planet orbiting a UCD would having significant implications for the field of exoplanets.  UCDs are small, all roughly the diameter of Jupiter, which implies deep fractional transit signatures.  UCDs are also relatively bright in the infrared.  A planet that transits a UCD, whether gaseous or rocky, would be an ideal target for near-infrared transit transmission spectroscopy, as has been successfully performed on super Earths orbiting mid-M dwarf stars with the Hubble Space Telescope.  Future transit transmission observations with NASAs James Webb Space Telescope may be able to detect biosignatures in the atmospheres of rocky planets, but only for those planets that transit ultra-cool dwarfs.  The transits from rocky planets orbiting mid-M dwarf stars and earlier are simply not deep enough to search for biosignatures over the expected lifetime of JWST.  Recent studies of short-period planet occurrence around early and mid M dwarfs show that lower mass stars have significantly more rocky short-period planets than Sun-like stars. Extrapolating to ultra-cool dwarfs, we expect a large fraction, if not all UCDs to harbor rocky planets with transit probabilities of ~10%.
+
+Spot morphology at the M/L transition: Studies indicate that over 90% of UCDs show evidence of surface activity in the form of H± emission; however, the nature of the activity is not fully understood.  Unlike sun-like stars, UCDs have fully convective interiors and are expected to have magnetic field morphologies markedly different from the Sun.  With precise photometric monitoring of UCDs with K2 we will measure the morphology of spots on the surfaces of UCDs via light curve inversion.  We will also search for flare events and correlate those flare events to specific spots structures.
+
+Surface activity in UCDs is related to stellar wind and ultraviolet emission from their chromospheres, both of which affect the photochemistry in the upper atmospheres of orbiting exoplanets.  Understanding the nature of surface activity on UCDs is therefore critical for interpreting transit-transmission spectroscopy, as well as inferring the habitability of any detected planets.  K2 provides a unique opportunity to study ultra-cool dwarfs in a way never before realized.
+
+# Targets requested by this program that have been observed (30)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+212820594, 202.5096741, -4.8889508, 14.665, GO6006_SC|GO6002_LC|GO6006_LC|GO6008_LC|GO6037_LC
+212826600, 203.1017761, -4.6868572, 13.755, GO6006_SC|GO6002_LC|GO6006_LC|GO6008_LC|GO6037_LC
+229227243, , , , GO6037_LC
+229227244, , , , GO6037_LC
+229227245, , , , GO6037_LC
+229227246, , , , GO6037_LC
+229227247, , , , GO6037_LC
+229227248, , , , GO6037_LC
+229227249, , , , GO6037_LC
+229227250, , , , GO6037_LC
+229227251, , , , GO6037_LC
+229227252, , , , GO6037_LC
+229227253, , , , GO6037_LC
+229227254, , , , GO6037_LC
+229227255, , , , GO6037_LC
+229227256, , , , GO6037_LC
+229227257, , , , GO6037_LC
+229227258, , , , GO6037_LC
+229227259, , , , GO6037_LC
+229227260, , , , GO6037_LC
+229227261, , , , GO6037_LC
+229227262, , , , GO6037_LC
+229227263, , , , GO6037_LC
+229227264, , , , GO6037_LC
+229227265, , , , GO6037_LC
+229227266, , , , GO6037_LC
+229227267, , , , GO6037_LC
+229227268, , , , GO6037_LC
+229227269, , , , GO6037_LC
+229227270, , , , GO6037_LC

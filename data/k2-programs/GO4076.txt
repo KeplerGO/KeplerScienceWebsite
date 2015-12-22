@@ -1,0 +1,18 @@
+# Summary of K2 Program GO4076
+
+Title: "A photometric study of a few T Tauri-type stars in the Taurus constellation"
+
+PI: Siwak, Michal (Cracov Pedagogical University)
+CoIs: 
+
+Classical T Tauri-type stars (CTTS) are young (about 1-10 Myr) stars, showing strong (about 1-3 mag) photometric variability. While the variability occuring in the timescale of months and years can be easily characterized from the Earth, the study of light variations occuring in the time scale of minutes, days and weeks do require a space-based, nearly uninterrupted observations.    Experienced from our MOST satellite campaigns of several brigth CTTS, a few weeks long nearly-continous photometric observations analyzed with Fourier and wavelet techniques are crucial for characterisation of accretion effects, playing major role in photometric variablity of the stars. Additionally, observations made with a minute time-resolution are necessary for detection of short lasting small dips in light curves of young stars, likely caused by hypothetical "dusty clumps", occulting small hot spots on the stars produced during the plasma accretion from the disc.
+
+# Targets requested by this program that have been observed (7)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210658027, 65.219772, 17.778184, 13.817, GO4020_LC|GO4057_LC|GO4076_LC|GO4097_LC|GO4011_LC|GO4090_LC|GO4092_LC
+210777988, 65.497644, 19.535116, 9.609, GO4076_SC|GO4023_LC|GO4089_LC|GO4076_LC|GO4029_LC|GO4090_LC|GO4092_LC|GO4104_LC
+210780789, 65.555513, 19.577566, 14.2, GO4076_LC|GO4090_LC|GO4092_LC|GO4015_LC
+210929228, 61.378688, 21.852944, 14.089, GO4057_LC|GO4076_LC|GO4097_LC|GO4090_LC|GO4092_LC|GO4015_LC
+210936710, 61.16405, 21.971816, 14.26, GO4020_LC|GO4057_LC|GO4023_LC|GO4076_LC|GO4097_LC|GO4090_LC|GO4092_LC|GO4015_LC
+211106344, 58.009403, 24.663243, 11.659, GO4020_LC|GO4018_LC|GO4032_LC|GO4060_LC|GO4076_LC|GO4048_LC|GO4090_LC|GO4092_LC|GO4064_LC|GO4106_LC|GO4024_LC
+211159865, 58.648171, 25.619768, 13.524, GO4020_LC|GO4076_LC|GO4090_LC|GO4092_LC|GO4015_LC

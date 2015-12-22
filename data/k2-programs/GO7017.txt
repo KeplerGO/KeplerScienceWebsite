@@ -1,0 +1,35 @@
+# Summary of K2 Program GO7017
+
+Title: HIGH MySTERY: Probing high-mass stellar
+evolution models with binary stars
+
+PI: Tkachenko, Andrew (KU Leuven)
+CoIs: De Cat, Peter; Mathis, Stephane; Aerts, Conny Clara; Debosscher, Jonas; Neiner, Coralie
+
+The mass discrepancy problem in binary stars stands for the difference between the stellar component masses inferred from binary dynamics and those obtained from spectral characteristics of stars and evolutionary models. The problem clearly points to some missing physical ingredients in stellar structure and evolution theory, and is often solved by introducing an additional near core mixing into evolutionary models by means of an unusually large core overshoot. Our goal is an independent seismic evaluation of the core overshoot parameter for pulsating binary components. 
+Binary stars provide a valuable test of the tidal evolution theory. This theory, in particular, describes the evolution of eccentric binary orbits into the stage of two stars with synchronized spin rates and residing in a circular orbit. Current theory predicts time-scale of spins synchronization to be shorter than the time-scale of the orbit circularization. This often contradicts our observations, thus our goal is to test and, if necessary, refine tidal evolution theory, by considering different types of interactions within a binary system.
+The resonant excitation of stars free oscillation modes through dynamical tides within a binary system is a direct result of the above mentioned interactions. These tidally induced oscillations provide a potential of probing deep stellar interiors, but the topic is not well explored observationally. We shall remedy the lack of high-quality photometric data for massive binary stars and detections of their tidally-induced oscillations.
+A statistically significant sample of pulsating binaries with precise masses is required to meet our science goals. The current sample consists of about a hundred of binaries and is greatly biased towards short orbital periods (< 10 d). With K2, we aim at observing about 100 members of the class of massive binary stars, which will lead to significant extension of the sample, in particular towards longer orbital periods.
+Our team has all necessary tools and expertise to perform photometric and spectroscopic data reduction and analyses. The pixel data files delivered by the K2 mission will be used to extract the light curves by means of the software available at the host institute of the project PI. We will rely on the data analysis strategy that proved to be very efficient (e.g., Tkachenko et al. 2014, MNRAS, 438, 3093) and comprises of using the methods like Wilson-Devinney and spectral disentangling for the analysis of light curves and stellar spectra, respectively.
+The K2 mission is the only available instrument to deliver the required data for our science goal. The high-quality photometric data, coupled with the state-of-the-art modelling tools, will ensure accurate subtraction of the orbital signal from the light curves, and will allow accurate frequency and asteroseismic analyses. Tidally induced pulsations have periods of a few days, so long cadence is sufficient for our targets.
+The present team was a part of the MASSIVE consortium applying for the K2 observations during previous campaigns. We used the experience gained from previous campaigns to do a careful selection of the best K2 targets for our aims in the fields of Campaigns 6&7. The total number of targets to be proposed for the observations is estimated to be about 20.
+
+# Targets requested by this program that have been observed (17)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+213062557, 286.1881714, -30.9486485, 8.859, GO7017_LC|GO7078_LC|GO7016_LC|GO7042_LC|GO7030_LC
+213063050, 286.1836853, -30.9460068, 11.744, GO7030_LC|GO7017_LC|GO7016_LC
+213615377, 287.9510803, -28.8200264, 10.456, GO7017_LC|GO7078_LC|GO7016_LC|GO7042_LC|GO7030_LC
+213809117, 293.0131226, -28.2124462, 8.248, GO7017_LC|GO7040_LC|GO7042_LC|GO7030_LC
+214675496, 287.7368469, -25.9109898, 8.707, GO7017_LC|GO7078_LC|GO7074_LC|GO7016_LC|GO7040_LC|GO7042_LC|GO7030_LC
+214918279, 289.0996094, -25.3421707, 8.744, GO7017_LC|GO7078_LC|GO7016_LC|GO7042_LC|GO7030_LC
+215067200, 281.2066956, -25.0109177, 5.921, GO7017_LC|GO7042_LC|GO7030_LC
+216403157, 280.8343506, -22.4108162, 7.82, GO7017_LC|GO7078_LC|GO7042_LC|GO7030_LC
+216791564, 282.864502, -21.7181797, 9.941, GO7017_LC|GO7078_LC|GO7042_LC|GO7030_LC
+217066606, 284.8048096, -21.2306614, 8.879, GO7017_LC|GO7078_LC|GO7042_LC|GO7030_LC
+217524417, 284.5448608, -20.4237614, 7.103, GO7061_LC|GO7017_LC|GO7078_LC|GO7040_LC|GO7042_LC|GO7030_LC
+217944595, 282.1309509, -19.6856461, 9.173, GO7017_LC|GO7040_LC|GO7042_LC|GO7030_LC
+218404213, 289.5455933, -18.8638058, 7.101, GO7017_LC|GO7078_LC|GO7042_LC|GO7030_LC
+218473951, 286.7846985, -18.7381706, 6.431, GO7017_LC|GO7078_LC|GO7040_LC|GO7042_LC|GO7030_LC
+219367259, 289.4616394, -16.9213886, 8.232, GO7017_LC|GO7078_LC|GO7016_LC|GO7042_LC
+219378499, 289.756958, -16.8949013, 9.274, GO7017_LC|GO7078_LC|GO7016_LC|GO7042_LC
+219731547, 288.7564087, -15.9765244, 9.126, GO7017_LC|GO7078_LC|GO7040_LC|GO7042_LC

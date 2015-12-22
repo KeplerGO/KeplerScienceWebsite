@@ -1,0 +1,19 @@
+# Summary of K2 Program GO7005
+
+Title: A dedicated survey of late type dwarfs
+
+PI: Ramsay, Gavin (Armagh Observatory)
+CoIs: Doyle, John Gerard
+
+Flares are seen on a wide range of stars including our Sun. However, flares from stars much less massive than the Sun are more common. At the start of K2 we initiated a project to observe late type stars with a range of spectral type to determine how the flare activity depended on physical properties such as mass and rotation period and hence gain a better understanding of the underlying physics of flares. Our work will also have implications for determining how flares can effect the habitability of any exoplanets orbiting their parent star. We will select up to a dozen targets in Fields 6 and in 7 and will cover M and early L spectral types. Since some flares can last only a few to tens of mins we will request short cadence mode data for some targets.
+
+# Targets requested by this program that have been observed (8)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+215632069, 282.4556885, -23.8362293, 9.293, GO7008_LC|GO7041_LC|GO7065_LC|GO7057_LC|GO7016_LC|GO7005_LC|GO7046_LC|GO7023_LC
+215818496, 280.5461731, -23.4829807, 11.017, GO7008_LC|GO7086_LC|GO7060_LC|GO7085_LC|GO7005_LC
+215885999, 290.6954041, -23.3571053, 10.524, GO7005_LC
+216355597, 282.1274414, -22.4962063, 9.407, GO7005_LC
+216800194, 281.0075684, -21.7026901, 8.924, GO7005_LC
+218675504, 291.0310974, -18.3662663, 9.253, GO7005_LC
+218801320, 288.3914185, -18.1282463, 10.893, GO7005_LC
+219752047, 289.1970215, -15.9170952, 10.421, GO7005_LC

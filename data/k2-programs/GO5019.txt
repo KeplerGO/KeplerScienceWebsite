@@ -1,0 +1,24 @@
+# Summary of K2 Program GO5019
+
+Title: The Suns of M67
+
+PI: Giampapa, Mark Steven (AURA, INC.)
+CoIs: Hall, Jeffrey C
+
+The solar-age and solar-metallicity open cluster, M67, is a benchmark cluster for understanding stellar evolution and the nature of solar-type stars. Önehag et al. (2011, A&A, 528, A85) find that solar twins in M67 have photospheric spectra that are virtually indistinguishable from the Sun_x0019_s at echelle resolutions.  Therefore, K2 data would enable for the first time a high-precision comparison of the variability characteristics of solar analogs to that of the Sun, which is characterized by cycle-related variability at the level of about 0.1% (1 mmag) and a superimposed rotational modulation by spots with amplitudes in the 1 _x0014_ 3 millimag range.  Our primary observational objective in this proposal is to obtain estimates of rotation periods of solar-type stars in M67 with previous Ca II activity measurements from Giampapa et al. (2006, ApJ, 651, 444). The results from this program will provide important constraints for (1) the relationship between activity and rotation at solar age and (2) the angular momentum evolution in sun-like stars.
+
+The solar counterparts in M67 have an apparent brightness of V ~ 14.5.  Therefore, the benchmark precision of 170 ppm for V=12 G2 V stars in one long cadence (LC) observation can be attained in 5 hours or the equivalent of 10 LC observations.  Alternatively, a precision of 0.5 mmag needed to resolve rotational modulation in the 0.1% _x0013_ 0.2%  range could be achieved in about 0.6 hours or two LC sequences.  Approximately 2.8 solar-like rotation periods (~ 27d) could be observed in the ~ 75-day duration of K2 Field 5 observation. Our approach will be to analyze sequences of 2 _x0013_ 10 LC observations for rotation measures and single LC sequences for transient activity.  The K2 data will be augmented by a contemporaneous survey of the program targets using Lowell Observatory's new 4.3-m Discovery Channel Telescope (DCT).
+
+While the specific objective is to obtain rotation measures of solar counterparts in M67, K2 observations of M67 will yield additional perspectives on the variability of its many solar-type stars at precisions that are unattainable from the ground for the M67 solar analogs (V ~ 14.5). The frequency of occurrence of _x0018_superflaring_x0019_ (Notsu et al. 2013; Maehara et al. 2012) in sun-like stars at solar age could be investigated for the first time in addition to other forms of transient activity, each of which could impact the conditions in exoplanetary systems.  In summary of one important application, the K2 data-set for M67 would be an indispensible first step towards the characterization of the conditions of the habitable zones in sun-like stars at solar age.  Finally, transits of super-Earths and larger exoplanets could be detected.  These goals are scientifically and technically compatible with the K2 mission while scientifically relevant to NASA programs such as Habitable Worlds and Living With A Star.
+
+# Targets requested by this program that have been observed (9)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211396493, 132.741072, 11.58744, 14.043, GO5007_LC|GO5019_LC|GO5031_LC|GO5048_LC
+211396846, 132.980207, 11.59264, 13.839, GO5007_LC|GO5019_LC|GO5031_LC
+211397127, 132.779706, 11.596836, 14.153, GO5019_LC|GO5031_LC|GO5048_LC
+211397319, 132.777248, 11.59971, 14.535, GO5019_LC|GO5031_LC|GO5048_LC
+211400002, 132.783411, 11.640555, 14.455, GO5019_LC|GO5048_LC
+211400106, 132.869216, 11.64209, 14.85, GO5019_LC|GO5048_LC
+211400500, 132.84945, 11.647812, 14.501, GO5018_LC|GO5019_LC|GO5048_LC
+211418176, 132.616886, 11.914045, 14.223, GO5007_LC|GO5018_LC|GO5019_LC|GO5031_LC|GO5048_LC
+211422935, 132.839593, 11.984661, 13.386, GO5019_LC

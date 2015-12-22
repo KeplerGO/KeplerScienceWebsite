@@ -1,0 +1,16 @@
+# Summary of K2 Program GO4014
+
+Title: HD 24355: A classical roAp star in the K2 Field
+
+PI: Holdsworth, Daniel L (Keele University)
+CoIs: 
+
+We propose Short Cadence observations of HD 24355, the only classical rapidly oscillating Ap (roAp) star in the K2 fields. The pulsation in HD 24355 was detected using the SuperWASP instrument and was found to have a period of 6.4 minutes and an amplitude of 1.65 millimagnitudes. We also detect a 14 day modulation in the lightcurve, representative of the rotation period of the star. SC observations are necessary to analyse this high frequency pulsator as the signature is well above the nominal Nyquist frequency of the Long Cadence mode.  SC observations will allow us to monitor the pulsation for frequency variability, a feature seen in two of the five previous Kepler roAp stars, as well as allowing us to determine if there are other pulsation modes below the ground-based detection limits. Finally, we aim to build on the results of the analysis of the roAp star KIC 10195926 and search for evidence for multiple pulsation axes in this roAp star.
+
+To achieve our goals, we will conduct thorough data reduction of the provided data, aiming to maximise the output to best fit our science goals. Pulsational analysis will make use of linear and non-linear least squares fitting to the extracted lightcurve. The data will be sub-divided to monitor frequency and amplitude variations over the observing period.
+
+Detailed analysis of this classical, high-amplitude, milli-magnitude, roAp star will be compared to those carried-out on the previous low-amplitude, micro-magnitude, roAp stars observed in the original Kepler mission, with the aim of determining if there are fundamental differences between the high and low amplitude roAp stars.
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211161128, 58.34623, 25.642604, 9.738, GO4014_SC|GO4021_LC|GO4033_LC|GO4014_LC|GO4035_LC

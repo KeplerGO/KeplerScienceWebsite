@@ -1,0 +1,28 @@
+# Summary of K2 Program GO5040
+
+Title: Asteroseismology of delta Scuty stars in the Pleiades and Beehive clusters
+
+PI: Barcelo Forteza, Sebastia (Instituto de Astrofisica de Canarias (IAC))
+CoIs: 
+
+The scientific goal of our proposal is to study the internal dynamics and structure of delta Scuti stars using the tools of asteroseismology.
+
+The structure and rotation of this kind of stars are very complex. In contrast to the well-known solar type oscillations, there are still many unknowns regarding the oscillations in delta Scuti stars: why are hundreds of modes needed to explain the oscillations observed in their light curves? Is there a real spacing as the one seen for solar type oscillations? Could we observe different kinds of modes depending on the rotation rate compared with the critical one? Our aim is to answer these and further questions.
+
+We want to observe up to twenty three stars in two different open clusters: the Pleiades and the Beehive clusters. We can retrieve more information from the study of stars that belong to open clusters than from isolated stars. The key assumption is that, because they have a common origin, these stars have the same characteristics and we can do an isochronal fit to estimate different parameters like age, distance or metalicity. These quantities can then be related to the oscillations observed in each one of these stars.
+
+Furthermore, thanks to the high quality of K2 data and the new techniques that the community has developed, we can improve our results from terrestrial observations made by STEPHI's network.
+
+# Targets requested by this program that have been observed (11)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211914004, 130.545032, 18.934374, 7.949, GO5018_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5040_LC|GO5048_LC|GO5086_LC
+211931309, 130.137336, 19.194326, 8.929, GO5018_LC|GO5021_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5040_LC|GO5048_LC|GO5086_LC
+211933524, 130.163501, 19.228294, 9.156, GO5033_LC|GO5040_LC|GO5048_LC|GO5086_LC
+211935741, 130.326651, 19.260998, 8.059, GO5018_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5040_LC|GO5048_LC|GO5086_LC|GO5023_LC|GO5064_LC
+211936696, 129.936106, 19.275215, 9.167, GO5033_LC|GO5040_LC|GO5048_LC|GO5086_LC
+211945791, 130.527074, 19.411256, 7.958, GO5018_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5040_LC|GO5048_LC|GO5086_LC
+211953002, 129.41961, 19.518421, 8.722, GO5018_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5040_LC|GO5048_LC|GO5086_LC|GO5023_LC
+211957791, 129.787909, 19.592396, 8.817, GO5018_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5040_LC|GO5048_LC|GO5086_LC
+211983602, 129.657758, 19.989753, 8.616, GO5018_LC|GO5021_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5040_LC|GO5048_LC|GO5086_LC
+211995573, 130.111459, 20.182, 8.786, GO5033_LC|GO5040_LC|GO5048_LC|GO5086_LC
+212027212, 123.612699, 20.707804, 6.899, GO5040_LC|GO5045_LC

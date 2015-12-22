@@ -1,0 +1,41 @@
+# Summary of K2 Program GO7067
+
+Title: Observing high-priority transit candidates and eclipsing binaries from HATSouth with K2 long-cadence photometry
+
+PI: Bakos, Gaspar Aron (Princeton University)
+CoIs: Hartman, Joel D; Mancini, Luigi
+
+We propose to observe 24 stars in campaign 7 of the K2 mission which have been selected as candidate transiting planets based on observations by the HATSouth survey. The transit signals found in the HATSouth light curves for these candidates have periods ranging from 0.6 days to 16.7 days. The candidates have V magnitudes ranging from 12.8 to 16.4. Follow-up spectroscopic observations have been carried out for 15 of these candidates, based on which 8 have been identified as eclipsing binaries and 7 remain active candidates. There are 9 other candidates which remain active, and have not yet received follow-up observations. Two of the candidates have high precision RV observations which vary in phase with the photometric ephemeris and strongly suggest that they are transiting hot Jupiter systems. We are requesting long-cadence observations for all 24 of these objects.
+
+The K2 observations of these stars will serve several purposes: (1) confirming the transit detections for marginal candidates; (2) allowing us to rule out a variety of false positives by detecting secondary eclipses, large amplitude out-of-transit ellipsoidal variations, or differences in depth between even and odd transits; (3) providing high precision light curves to use in determining the properties of confirmed planets; (4) measuring the photometric rotation periods of the candidates; (5) for the 8 objects already found to be eclipsing binaries we will combine the high precision K2 light curves with our RV observations to determine the physical properties of the transiting M dwarf stars in these systems, we will also attempt an independent measure of the component masses through modelling the ellipsoidal and doppler boosting signals.
+
+A similar proposal was previously submitted to follow-up HATNet candidates in K2 campaign 0. These observations allowed us to confirm a new well-characterized transiting planet (HTR220-003; Huang et al. 2015, in preparation) demonstrating the promise of our method.
+
+This proposal is relevant to the NASA goal of finding and characterizing exoplanetary systems.
+
+# Targets requested by this program that have been observed (24)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+214439239, 289.2985229, -26.4893227, 15.467, GO7067_LC
+214512594, 288.6398621, -26.3090744, 15.909, GO7067_LC
+214652580, 290.2932739, -25.9666157, 14.307, GO7067_LC
+214912104, 289.8248291, -25.3558941, 14.276, GO7067_LC
+215101303, 289.4114685, -24.9358578, 14.891, GO7067_LC
+215234145, 296.2214966, -24.649271, 13.114, GO7030_LC|GO7067_LC
+215353525, 294.0773621, -24.3963909, 14.765, GO7067_LC
+215358983, 294.4802246, -24.384943, 13.786, GO7067_LC
+215474548, 288.8956299, -24.1430073, 15.95, GO7067_LC
+215626177, 289.434021, -23.8475742, 12.964, GO7067_LC
+215714765, 293.9234619, -23.6784687, 14.386, GO7067_LC
+215716837, 290.1205444, -23.6746407, 15.076, GO7067_LC
+215816368, 295.9132996, -23.4870014, 15.628, GO7067_LC
+215969174, 291.4786987, -23.2027931, 14.3, GO7067_LC
+216231580, 295.1570129, -22.7216892, 14.771, GO7067_LC
+216442060, 291.0415344, -22.3408909, 12.796, GO7067_LC
+216562832, 291.4645691, -22.1251469, 15.818, GO7067_LC
+216579956, 288.3367615, -22.0945969, 15.188, GO7067_LC
+217149884, 290.6599426, -21.0838795, 14.216, GO7067_LC
+217231249, 288.2290344, -20.9394398, 13.838, GO7067_LC
+217393088, 289.4391174, -20.6543751, 15.293, GO7067_LC
+218131080, 289.2023926, -19.3559074, 12.7, GO7067_LC
+218210199, 288.2145996, -19.2131672, 13.848, GO7067_LC
+218475491, 290.2160645, -18.7352734, 14.849, GO7067_LC

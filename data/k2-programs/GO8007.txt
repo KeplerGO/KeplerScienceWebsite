@@ -13,8 +13,7 @@ The main goal of this proposal is to detect sdB planetary transits and measure f
 The transit depth may vary between 25% (Jovian radius) down to 0.2% (Earth radius). Given the high number of transits in a ~90 days observation, K2 should be able to measure objects with a radius smaller than the Moon. If we find transits, PEPSI@LBT (presently in commissioning) and EXPRESSO@VLT (first light in 2016) will be able to measure the star's RVs in order to obtain also masses and densities of these extremely hot and peculiar planetary remnants.
 The secondary goal of this proposal is to detect photometric variations due to reflection effects by a faint stellar companion, ellipsoidal deformations, Doppler boosting. Kepler has already given an important contribution to this field. K2 can increase by a factor 5 to 10 the statistics of well studied sdB+WD and sdB+M-dwarf systems. We point out that the secondary goal is compatible with LC data.
 
-
-# Observed targets associated with this program (3)
+# Targets requested by this program that have been observed (3)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220179214, 18.5775471, -0.820448, 14.926, GO8018_LC|GO8004_LC|GO8007_LC|GO8004_SC|GO8007_SC
 220265912, 14.6027765, 1.909745, 15.192, GO8004_LC|GO8007_LC|GO8004_SC|GO8007_SC

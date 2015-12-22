@@ -18,7 +18,6 @@ Giant planets in few-day orbits, or 'hot Jupiters', are thought to have formed f
 
 We will measure the sky-projected obliquity of WASP-118b with awarded spectroscopy time. With SC K2 data we will determine the inclination of the stellar spin axis and thus the orbital obliquity in three dimensions. WASP-107 rotates too slowly to measure obliquity via spectroscopy, but we are afforded an alternative opportunity due to the spottiness of the star. Its spottiness is evidenced by the periodic modulation of the WASP survey lightcurve and a spot-crossing event in a follow-up lightcurve. By measuring the times at which star spots are occulted by the planet over multiple transits, for which SC data are mandatory, we can infer the obliquity of the planet's orbit.
 
-
-# Observed targets associated with this program (1)
+# Targets requested by this program that have been observed (1)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220303276, 19.5505428, 2.7028241, 10.934, GO8068_LC|GO8051_LC|GO8060_LC|GO8032_LC|GO8077_LC|GO8060_SC

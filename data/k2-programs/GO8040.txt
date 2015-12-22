@@ -11,8 +11,7 @@ Our team detected excited, n=2 hydrogen (through hydrogen alpha absorption) in t
 
 We propose to search for planets around stars which are candidates for chromospheric activity in the Kepler Campaign 8 and 10 fields.  The initial (but not exhaustive) basis for our target list is the tens of possible targets in the approximate fields listed in the Radial Velocity Experiment (RAVE) Survey's catalogue of chromospherically active stars (Zerjal et al. 2013).  Looking for planets around active stars with radial velocity methods is often disfavored because the stellar noise limits RV precision.  However, this makes the transit method the more important way to detect planets in these cases.  Furthermore, if any of these stars do have a transiting planet, they will be excellent potential candidates for follow-up spectroscopy with the large ground-based telescopes (Keck I, Hobby-Eberly Telescope) that our team has used in the past to detect exospheric absorption.  The goal of follow-up spectroscopic observations would be to search for excited hydrogen absorption from an exosphere, including possible pre-transit signals.  As a secondary science product, many of these active stars will have light curves worth studying on their own for stellar astrophysics purposes.
 
-
-# Observed targets associated with this program (15)
+# Targets requested by this program that have been observed (15)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
 220180985, 16.6071663, -0.749451, 8.64, GO8051_LC|GO8032_LC|GO8077_LC|GO8040_LC|GO8002_LC|GO8028_LC
 220190909, 19.2014656, -0.351016, 11.366, GO8051_LC|GO8040_LC|GO8042_LC

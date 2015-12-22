@@ -1,0 +1,21 @@
+# Summary of K2 Program GO5066
+
+Title: Classical and Type II Cepheids in the C4 and C5 fields of the K2 Mission
+
+PI: Molnar, Laszlo (Konkoly Observatory)
+CoIs: Evans, Nancy Remage; Neilson, Hilding; Jurkovic, Monika I; Kuehn, Charles August; Kolenberg, Katrien; Derekas, Aliz; Plachy, Emese; Jeon, Young-Beom; Szabo, Robert; Nemec, James M; Ngeow, Chow-Choong; Moskalik, Pawel A
+
+Cepheids are a diverse family of instability strip variable stars, giant ands supergiants, that are crucial for the understanding of stellar structure and evolution. At the same time, they are powerful standard candles for extragalactic and cosmological studies. They are key tools for stellar astrophysics for exploring connections between pulsation, mass loss, convection and rotation, as well as tracers of stellar populations and clusters. In the next decade, Cepheids will be employed to measure the Hubble constant to a precision of 1% using the James Webb Space Telescope, WFIRST and GAIA. To achieve these goals, uninterrupted, high-precision photometric measurements of Cepheids with the Kepler space telescope will be crucial, in order to understand the details of their light variations.
+
+Cepheids are rare beasts in the Galaxy. So far, very few members were observed by space photometric missions: the original Kepler field, for example contained a single Type I star only. Observing every known and candidate Cepheids in the K2 mission will greatly enhance our understanding of these important stars. Our research goals include the understanding of period jitter and its connection to stellar evolution and pulsation, and to probe the effects of convection and granulation on Cepheid light curves. Observing the smaller, older Type II Cepheids will help us to gain insight into the formation theories of these stars. Field stars will also allow for a unique opportunity to compare their K2 light curves with extragalactic Cepheids that will be potentially observable in future K2 Fields. In order to meet these goals, a systematic survey of all known and suspected Cepheids in all K2 fields is required.
+
+We identified eight Cepheid candidates in Field 4 and four in Field 5 of the K2 mission. Most of these stars are rather unknown, small-amplitude variable stars, promising to explore the limits of radial pulsation and test whether the previously-detected period jitter is ubiquitous, and if it is a result of surface convection or pulsation instabilities. We propose to observe all stars in long-candence mode.
+
+Our team consists of members of the Working Group#7 (RR Lyrae and Cepheids) of the Kepler Asteroseismic Science Consortium, who have been working on Kepler data since the launch of the mission. Thus, we have scientists who are experts on data reduction, pixel photometry, light curve and time-frequency analysis. Our team also consists of theorists with expertise in hydrodynamic, stellar evolution and stellar atmosphere modeling. Space-based photometry will be accompanied with ground-based photometric and spectroscopic observations to classify all proposed targets, select the bona-fide Cepheids and determine their fundamental parameters.
+
+# Targets requested by this program that have been observed (4)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211394018, 128.843611, 11.549424, 12.434, GO5020_LC|GO5066_LC
+211584699, 123.204163, 14.331357, 9.124, GO5020_LC|GO5066_LC
+211759736, 123.804031, 16.744854, 11.157, GO5020_LC|GO5066_LC|GO4104_LC
+212146366, 126.542315, 22.954947, 8.81, GO5029_LC|GO5066_LC

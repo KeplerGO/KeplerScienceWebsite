@@ -1,0 +1,39 @@
+# Summary of K2 Program GO5045
+
+Title: The Am stars: peculiarities, pulsations and planets
+
+PI: Smalley, Barry (Keele University)
+CoIs: Ripepi, Vincenzo; ABEDIGAMBA, OYIRWOTH PATRICK; Catanzaro, Gianni; Murphy, Simon James; Antoci, Victoria; Balona, Luis A
+
+The metallic-line Am stars are a slowly rotating chemically peculiar sub-class of the A-type stars. Their peculiarities are thought to arise from the interplay between gravitational settling and radiative acceleration. Stars need to be rotating slower than about 120 km/s in order for radiative diffusion to compete with meridional circulation. Most, but not all, Am stars appear to be members of binary systems with periods between 2_x0013_10 days.
+
+Recent studies have found that a significant fraction of Am stars have low-level pulsations, which is at odds with the need for stability to produce the chemical peculiarities. In addition there is increasing evidence for planets orbiting around A-type stars.
+
+Using K2 we will collect a statistically-significant sample of  Am stars, in order to: 1. study the interaction between pulsations and radiative diffusion, 2. perform a statistical study of the incidence of pulsations and binarity within the Am stars, 3. search for additional transiting planetary systems around A-type stars.
+
+We will conduct in-depth periodogram analyses to search for stellar pulsations and low-level variability as we have previously applied to Kepler data. We will complement the photometric analyses with ground-based spectroscopy as necessary.
+
+In conclusion, the K2 mission provides a unique opportunity to investigate the photometric variability of Am stars at micro-magnitude precision. This will provide new insights into the competition between stellar pulsations and element separation processes, as well as the nature of the stellar (and sub-stellar) companions to these chemically peculiar A-type stars.
+
+# Targets requested by this program that have been observed (20)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211780967, 126.457819, 17.046268, 6.057, GO5007_LC|GO5045_LC
+211825317, 123.546421, 17.675952, 6.476, GO5045_LC|GO5023_LC|GO5064_LC
+211909623, 129.325945, 18.869968, 8.961, GO5033_LC|GO5045_LC
+211910450, 129.200014, 18.882806, 8.976, GO5018_LC|GO5021_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5045_LC|GO5048_LC|GO5057_LC|GO5086_LC
+211921647, 131.443895, 19.049461, 8.678, GO5007_LC|GO5033_LC|GO5045_LC|GO5048_LC
+211953905, 130.075414, 19.531987, 7.513, GO5007_LC|GO5033_LC|GO5045_LC|GO5048_LC
+211954496, 129.990712, 19.54148, 7.448, GO5007_LC|GO5033_LC|GO5045_LC|GO5048_LC|GO5057_LC
+211955190, 129.985399, 19.552991, 7.337, GO5033_LC|GO5045_LC|GO5048_LC|GO5023_LC|GO5064_LC
+211973658, 130.097779, 19.834975, 8.52, GO5007_LC|GO5033_LC|GO5045_LC|GO5048_LC
+211980142, 130.237221, 19.934853, 8.629, GO5018_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5045_LC|GO5048_LC|GO5086_LC
+211982469, 130.047719, 19.971134, 6.69, GO5007_LC|GO5033_LC|GO5045_LC|GO5048_LC|GO5023_LC|GO5064_LC
+211983916, 130.063954, 19.994291, 8.743, GO5018_LC|GO5021_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5045_LC|GO5048_LC|GO5086_LC
+211989558, 129.928273, 20.086218, 8.573, GO5033_LC|GO5045_LC|GO5048_LC|GO5023_LC|GO5064_LC
+211993818, 126.204921, 20.152995, 7.218, GO5045_LC|GO5057_LC|GO5075_LC|GO5089_LC|GO4104_LC|GO5023_LC
+212005201, 129.07268, 20.341507, 7.505, GO5007_LC|GO5033_LC|GO5045_LC|GO5048_LC|GO5057_LC
+212008515, 131.367724, 20.395389, 8.85, GO5018_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5045_LC|GO5048_LC|GO5086_LC
+212027212, 123.612699, 20.707804, 6.899, GO5040_LC|GO5045_LC
+212082764, 133.995694, 21.692197, 8.833, GO5007_LC|GO5033_LC|GO5045_LC
+212091594, 134.098328, 21.859352, 9.53, GO5033_LC|GO5045_LC
+212092446, 128.288888, 21.875895, 9.012, GO5021_LC|GO5033_LC|GO5045_LC
