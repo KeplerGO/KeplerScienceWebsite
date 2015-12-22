@@ -1,0 +1,135 @@
+# Summary of K2 Program GO8041
+
+Title: Extragalactic Cepheids in the Local Group member IC 1613
+
+PI: Molnar, Laszlo (Konkoly Observatory)
+CoIs: Pal, Andras; Neilson, Hilding; Plachy, Emese; Szabo, Robert
+
+Research goals
+
+IC 1613 is an isolated irregular dwarf galaxy within the Local Group. Thanks to its relative proximity (730 kpc), low foreground reddening, and the large number of Cepheid stars in it, it has been the subject of several studies during the past century (see, e.g. Sandage 1971, Bernard et al. 2010, and references therein). It played a key role in the discovery of the different stellar populations and the calibration of the Cepheid period-luminosity relation.  
+
+Although Cepheid stars have been extensively studied in the past, space photometric observations uncovered some new, puzzling details about them. Results from Kepler and MOST showed that significant jitter occurs in the light curve shape and period (Derekas et al. 2012, Evans et al. 2015). Some stars exhibit a low-amplitude additional modes of unknown origin. One mode in particular is strongly linked to the first overtone with a period ratio of ~0.6-0.64, across variable star classes (Moskalik 2014). This mode was first discovered in classical Cepheids in the Large Magellanic Cloud, and later in RR Lyrae stars too. We recently identified the same mode in the K2 observations of first-overtone galactic Cepheids. 
+
+We expect that a significant portion of the IC 1613 sample will be measured accurately enough and long enough (for several pulsation cycles) that we will be able to search for the signs of period jitter and additional modes. The results will then be directly comparable to the K2 observations of Cepheids in the Milky Way. 
+
+Targets
+
+IC 1613 will be observable in its entirety during Campaign 8. It contains about 200 known Cepheids between 19 and 23 magnitudes in V, of which 30 are brighter than 21 magnitudes. The experiences with the faint trans-Neptunian objects (Pál et al. 2015) and with the RR Lyrae stars in the dwarf galaxy Leo IV (Molnár et al., in prep.) indicate that meaningful photometry can be extracted even for targets as faint as 21-23 magnitudes. The brightest stars pulsate with periods comparable with the campaign length (20-40 days), but most stars have periods shorter than 10 days and therefore several consecutive pulsation cycles will be observable. 
+
+Beside the classical Cepheids, a few W Vir stars (Type-II Cepheids) are also known in the galaxy. Furthermore, an extended mosaic covering the area may also allow for extracting additional bright sources to explore other science cases.
+
+Observing strategy and research team
+
+Given the faintness of the targets, we propose to observe all targets in long cadence mode. Cepheids populate IC 1613 quite densely, compared to the resolution of Kepler. Their spatial distribution justifies tiling a large part of the galaxy with a continuous mosaic, instead of individual, potentially overlapping target pixel masks. Image subtraction techniques will be applied to extract the photometry of the faint but strongly variable stars. We will employ the same pipelines that we used to process the TNO and Leo IV targets.
+
+Our team includes members of the KASC RR Lyrae and Cepheid Working Group, and consists of researchers who are experts in pixel photometry and crowded fields, light curve analysis, and hydrodynamic modelling of stellar pulsation. We routinely analyse Kepler and K2 data and have published multiple papers on related topics. 
+
+References
+Bernard, E.J. et al., 2010, ApJ, 712, 1259
+Derekas, A. et al., 2012, MNRAS, 425, 1312
+Evans, N. R. et al., 2015, MNRAS, 446, 4008
+Moskalik, P., 2014, IAUS, 301, 249
+Pál, A., et al., 2015, ApJ, 804, L45
+Sandage, A., 1971, ApJ, 166, 13
+
+# Targets requested by this program that have been observed (98)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+200068656, , , , GO8041_LC|LC_IC1613_TILE
+200068657, , , , GO8041_LC|LC_IC1613_TILE
+200068658, , , , GO8041_LC|LC_IC1613_TILE
+200068659, , , , GO8041_LC|LC_IC1613_TILE
+200068660, , , , GO8041_LC|LC_IC1613_TILE
+200068661, , , , GO8041_LC|LC_IC1613_TILE
+200068662, , , , GO8041_LC|LC_IC1613_TILE
+200068663, , , , GO8041_LC|LC_IC1613_TILE
+200068664, , , , GO8041_LC|LC_IC1613_TILE
+200068665, , , , GO8041_LC|LC_IC1613_TILE
+200068666, , , , GO8041_LC|LC_IC1613_TILE
+200068667, , , , GO8041_LC|LC_IC1613_TILE
+200068668, , , , GO8041_LC|LC_IC1613_TILE
+200068669, , , , GO8041_LC|LC_IC1613_TILE
+200068670, , , , GO8041_LC|LC_IC1613_TILE
+200068671, , , , GO8041_LC|LC_IC1613_TILE
+200068672, , , , GO8041_LC|LC_IC1613_TILE
+200068673, , , , GO8041_LC|LC_IC1613_TILE
+200068674, , , , GO8041_LC|LC_IC1613_TILE
+200068675, , , , GO8041_LC|LC_IC1613_TILE
+200068676, , , , GO8041_LC|LC_IC1613_TILE
+200068677, , , , GO8041_LC|LC_IC1613_TILE
+200068678, , , , GO8041_LC|LC_IC1613_TILE
+200068679, , , , GO8041_LC|LC_IC1613_TILE
+200068680, , , , GO8041_LC|LC_IC1613_TILE
+200068681, , , , GO8041_LC|LC_IC1613_TILE
+200068682, , , , GO8041_LC|LC_IC1613_TILE
+200068683, , , , GO8041_LC|LC_IC1613_TILE
+200068684, , , , GO8041_LC|LC_IC1613_TILE
+200068685, , , , GO8041_LC|LC_IC1613_TILE
+200068686, , , , GO8041_LC|LC_IC1613_TILE
+200068687, , , , GO8041_LC|LC_IC1613_TILE
+200068688, , , , GO8041_LC|LC_IC1613_TILE
+200068689, , , , GO8041_LC|LC_IC1613_TILE
+200068690, , , , GO8041_LC|LC_IC1613_TILE
+200068691, , , , GO8041_LC|LC_IC1613_TILE
+200068692, , , , GO8041_LC|LC_IC1613_TILE
+200068693, , , , GO8041_LC|LC_IC1613_TILE
+200068694, , , , GO8041_LC|LC_IC1613_TILE
+200068695, , , , GO8041_LC|LC_IC1613_TILE
+200068696, , , , GO8041_LC|LC_IC1613_TILE
+200068697, , , , GO8041_LC|LC_IC1613_TILE
+200068698, , , , GO8041_LC|LC_IC1613_TILE
+200068699, , , , GO8041_LC|LC_IC1613_TILE
+200068700, , , , GO8041_LC|LC_IC1613_TILE
+200068701, , , , GO8041_LC|LC_IC1613_TILE
+200068702, , , , GO8041_LC|LC_IC1613_TILE
+200068703, , , , GO8041_LC|LC_IC1613_TILE
+229228820, , , , GO8041_LC
+229228821, , , , GO8041_LC
+229228822, , , , GO8041_LC
+229228823, , , , GO8041_LC
+229228824, , , , GO8041_LC
+229228825, , , , GO8041_LC
+229228826, , , , GO8041_LC
+229228827, , , , GO8041_LC
+229228828, , , , GO8041_LC
+229228829, , , , GO8041_LC
+229228830, , , , GO8041_LC
+229228831, , , , GO8041_LC
+229228832, , , , GO8041_LC
+229228833, , , , GO8041_LC
+229228834, , , , GO8041_LC
+229228835, , , , GO8041_LC
+229228836, , , , GO8041_LC
+229228837, , , , GO8041_LC
+229228838, , , , GO8041_LC
+229228839, , , , GO8041_LC
+229228840, , , , GO8041_LC
+229228841, , , , GO8041_LC
+229228842, , , , GO8041_LC
+229228843, , , , GO8041_LC
+229228844, , , , GO8041_LC
+229228845, , , , GO8041_LC
+229228846, , , , GO8041_LC
+229228847, , , , GO8041_LC
+229228848, , , , GO8041_LC
+229228849, , , , GO8041_LC
+229228850, , , , GO8041_LC
+229228851, , , , GO8041_LC
+229228852, , , , GO8041_LC
+229228853, , , , GO8041_LC
+229228854, , , , GO8041_LC
+229228855, , , , GO8041_LC
+229228856, , , , GO8041_LC
+229228857, , , , GO8041_LC
+229228858, , , , GO8041_LC
+229228859, , , , GO8041_LC
+229228860, , , , GO8041_LC
+229228861, , , , GO8041_LC
+229228862, , , , GO8041_LC
+229228863, , , , GO8041_LC
+229228864, , , , GO8041_LC
+229228865, , , , GO8041_LC
+229228866, , , , GO8041_LC
+229228867, , , , GO8041_LC
+229228868, , , , GO8041_LC
+229228869, , , , GO8041_LC

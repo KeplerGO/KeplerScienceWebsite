@@ -1,0 +1,20 @@
+# Summary of K2 Program GO4075
+
+Title: Testing asteroseismology with bright red giants using K2 timeseries and interferometry
+
+PI: Boyajian, Tabetha Suzanne (Yale University)
+CoIs: 
+
+We propose to observe a small number of bright nearby red giant stars taken from the Hipparcos catalogue, for which we will obtain additional ground-based interferometric observations and high-resolution spectra to determine precise values of the angular diameter 0, T eff, log (g), and surface composition. These additional constraints, coupled with the oscillation spectrum derived from K2 observations and the available parallax information, will provide the most stringent tests possible of the asteroseismic techniques used to determine masses, radii and ages of stars, as well as the physical processes governing the evolution of red giants and the Galaxy.
+
+# Targets requested by this program that have been observed (9)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210416404, 64.429269, 13.836591, 6.742, GO4075_LC|GO4033_LC|GO4007_LC|GO4104_LC
+210437885, 61.379676, 14.286293, 7.066, GO4075_LC|GO4104_LC
+210503728, 60.185589, 15.475282, 7.485, GO4075_LC|GO4089_LC|GO4104_LC
+210786593, 55.946724, 19.665036, 5.952, GO4075_LC|GO4104_LC
+210940412, 57.902593, 22.031358, 6.51, GO4075_LC|GO4104_LC
+210989213, 52.110702, 22.804008, 5.871, GO4075_LC|GO4023_LC|GO4089_LC|GO4104_LC
+211037863, 63.10418, 23.57457, 7.079, GO4075_LC|GO4033_LC|GO4007_LC|GO4064_LC|GO4104_LC
+211056039, 62.215637, 23.871136, 6.779, GO4075_LC|GO4033_LC|GO4007_LC|GO4104_LC
+211141798, 59.299266, 25.282831, 7.308, GO4075_LC|GO4104_LC

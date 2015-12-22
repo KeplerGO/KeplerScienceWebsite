@@ -17,9 +17,9 @@ class TargetList(object):
             all_ids.extend(program_id.split("|"))
         unique_ids = sorted(
                              set(
-                                  [program_id.split("_")[0]
+                                  [program_id.split("_")[0].strip()
                                    for program_id in all_ids
-                                   if program_id.startswith("GO")]
+                                   if program_id.strip().startswith("GO")]
                              )
                      )
         return unique_ids
@@ -38,7 +38,10 @@ class ProgramList(object):
 
     def get_program(self, progam_id):
         seqnum = int(progam_id[3:])
-        return self._df.loc[self._df['Response seq number'] == seqnum].iloc[0]
+        try:
+            return self._df.loc[self._df['Response seq number'] == seqnum].iloc[0]
+        except IndexError:  # Program not in list
+            return None
 
 
 class WebSummaryCreator(object):
@@ -68,6 +71,8 @@ class WebSummaryCreator(object):
                 "        </thead>\n\n")
         for program_id in self.programs:
             program = self.programlist.get_program(program_id)
+            if program is None:
+                continue
             targets = self.targetlist.get_targets(program_id)
             url = "data/k2-programs/{}.txt".format(program_id)
             html += (
@@ -92,7 +97,10 @@ class WebSummaryCreator(object):
 
     def write_summaries(self, output_dir=""):
         for program_id in self.programs:
-            program = self.programlist.get_program(program_id).fillna("")
+            program = self.programlist.get_program(program_id)
+            if program is None:
+                continue
+            program = program.fillna("")
             targets = self.targetlist.get_targets(program_id)
             if program["PI Middle name"] == "":
                 pi_name = (program["PI Last name"] +
@@ -142,34 +150,38 @@ class WebSummaryCreator(object):
                                        )
                              )
 
-if __name__ == "__main__":
-    cfg = {
-           "summaries_dir": "/home/gb/dev/KeplerScienceWebsite/content/data/k2-programs/",
-           "4": {
-                    "targetlist": "../../../data/campaigns/c4/K2Campaign4targets.csv",
-                    "programlist": "/home/gb/Dropbox/k2/Campaign4_5/K2GO1_programs_geert_edit.xls"
-                },
-           "5": {
-                    "targetlist": "../../../data/campaigns/c5/K2Campaign5targets.csv",
-                    "programlist": "/home/gb/Dropbox/k2/Campaign4_5/K2GO1_programs_geert_edit.xls"
-                },
-           "6": {
-                    "targetlist": "../../../data/campaigns/c6/K2Campaign6targets.csv",
-                    "programlist": "/home/gb/Dropbox/k2/Campaign6_7/K2GO2_1 Updated Investigation Report 1_28.xls"
-                },
-           "7": {
-                    "targetlist": "../../../data/campaigns/c7/K2Campaign7targets.csv",
-                    "programlist": "/home/gb/Dropbox/k2/Campaign6_7/K2GO2_1 Updated Investigation Report 1_28.xls"
-                },
-           "8": {
-                    "targetlist": "../../../data/campaigns/c8/K2Campaign8targets.csv",
-                    "programlist": "/home/gb/Dropbox/k2/Campaign8_9_10/K2GO3_2 Investigation Report.xls"
-                },
-           }
+CFG = {
+       "summaries_dir": "/home/gb/dev/KeplerScienceWebsite/content/data/k2-programs/",
+       "4": {
+                "targetlist": "/home/gb/dev/KeplerScienceWebsite/content/data/campaigns/c4/K2Campaign4targets.csv",
+                "programlist": "/home/gb/Dropbox/k2/Campaign4_5/K2GO1_programs_geert_edit.xls"
+            },
+       "5": {
+                "targetlist": "/home/gb/dev/KeplerScienceWebsite/content/data/campaigns/c5/K2Campaign5targets.csv",
+                "programlist": "/home/gb/Dropbox/k2/Campaign4_5/K2GO1_programs_geert_edit.xls"
+            },
+       "6": {
+                "targetlist": "/home/gb/dev/KeplerScienceWebsite/content/data/campaigns/c6/K2Campaign6targets.csv",
+                "programlist": "/home/gb/Dropbox/k2/Campaign6_7/K2GO2_1 Updated Investigation Report 1_28.xls"
+            },
+       "7": {
+                "targetlist": "/home/gb/dev/KeplerScienceWebsite/content/data/campaigns/c7/K2Campaign7targets.csv",
+                "programlist": "/home/gb/Dropbox/k2/Campaign6_7/K2GO2_1 Updated Investigation Report 1_28.xls"
+            },
+       "8": {
+                "targetlist": "/home/gb/dev/KeplerScienceWebsite/content/data/campaigns/c8/K2Campaign8targets.csv",
+                "programlist": "/home/gb/Dropbox/k2/Campaign8_9_10/K2GO3_2 Investigation Report.xls"
+            },
+       }
 
+def create_website_pages():
     for campaign in ["4", "5", "6", "7", "8"]:
-        tl = TargetList(cfg[campaign]["targetlist"])
-        pl = ProgramList(cfg[campaign]["programlist"])
+        tl = TargetList(CFG[campaign]["targetlist"])
+        pl = ProgramList(CFG[campaign]["programlist"])
         wrf = WebSummaryCreator(tl, pl, campaign=campaign)
         wrf.write_html("c{}.html".format(campaign))
-        wrf.write_summaries(cfg["summaries_dir"])
+        wrf.write_summaries(CFG["summaries_dir"])
+
+
+if __name__ == "__main__":
+    create_website_pages()

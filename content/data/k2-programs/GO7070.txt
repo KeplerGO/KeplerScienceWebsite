@@ -1,0 +1,28 @@
+# Summary of K2 Program GO7070
+
+Title: PICK2: Planets In Clusters with K2
+
+PI: Cochran, William D. (The University of Texas at Austin)
+CoIs: Rauer, Heike; Yong, David; Lee, Byeong-Cheol; Paetzold, Martin
+
+Objectives:
+We propose to obtain high precision K2 photometry of the members of the open stellar cluster Ruprecht 147 (NGC 6774), which will be observed in K2 campaign 7, in order to search for transiting planets. Rup 147 is the oldest (~3Gyr) nearby open cluster.  Open clusters provide a homogeneous sample of stars in which the major independent variable is the stellar mass.  Thus, they provide an excellent laboratory for investigating the physics of planetary system formation and evolution.  These data for Rup 147, combined with C4 data for the Pleiades and Hyades, and with C5 data for M44 and M67, will help us to understand the formation and dynamical evolution of planetary systems as a function of stellar age and metallicity.  These clusters span a range of ages from 125Myr for the Pleiades up to 3-5 Gyr for M67.  Rup 147 provides much needed additional data for older clusters.   All of the clusters range from solar to slightly super-solar metallicity.
+
+Methodology:
+We have assembled a large, diverse and highly experienced international team for this investigation.  The DLR group (led by Dr. H. Rauer) will extract the K2 photometry and model the light curves.  The Cologne group (led by Dr. M.  Paetzold)  will search the light curves for planetary transit signatures.  The groups at Texas (led by proposal PI Dr. W. Cochran) and at KASI (led by Dr.  B.-C. Lee) will conduct extensive followup observations including ground-based photometry, high precision RV measurement, high resolution optical and near-IR spectroscopy in order to confirm the planetary candidates and Doppler tomographic analysis of any rapidly rotating planetary candidates.  The group at Australian National University (led by Dr. D. Yong) will perform detailed spectral analysis of our follow-up data in order to derive stellar parameters and chemical abundances.  and will perform Doppler tomographic analysis of any rapidly rotating planetary candidates.
+
+Targets:
+We will propose approximately 100 targets.  They range in Kepler magnitude from 7.4 to 14.4, with most of the targets in the range 10 < Kp < 13.  Thus, according to Aigrain et al (2014, MNRAS in press, arXiv:1412.6304) we expect to obtain a 6.5 hour CDPP of about 100 ppm or better.
+
+Relevance:
+We are searching for new exoplanetary systems.  These results will provide important new constraints on the physics of planetary system formation and early dynamical evolution, as well as provide constraints for the computation of planet occurrence rates.  We will address the Kepler mission goals of obtaining an inventory of the diversity of planetary systems around sun-like stars. We will also obtain data very complementary to the goals of the TESS program, and help guide planetary system science for JWST studies.
+
+# Targets requested by this program that have been observed (7)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+219539381, 289.2432556, -16.4981575, 13.845, GO7070_LC
+219580919, 288.9718018, -16.3894329, 15.202, GO7070_LC
+219582870, 288.9710388, -16.3841763, 15.772, GO7070_LC
+219584539, 288.9695435, -16.3797302, 15.101, GO7070_LC
+219594140, 288.9633789, -16.3542614, 14.855, GO7070_LC
+219599652, 288.9517822, -16.3395157, 14.647, GO7070_LC
+219602352, 288.954895, -16.3322659, 16.262, GO7070_LC

@@ -1,0 +1,40 @@
+# Summary of K2 Program GO8065
+
+Title: New Swift X-ray Sources in K2  Rigorously Probing Active Galaxy Accretion and Stellar Variability
+
+PI: Boyd, Patricia T. (UMBC and NASA's Goddard Space Flight Center)
+CoIs: Smith, Krista Lynne; Brown, Alexander; Mushotzky, Richard; Gehrels, Neil
+
+Scientific Justification---Central Objectives
+We request further K2 monitoring of new X-ray sources in the Campaigns 8 and 10 fields discovered with our ongoing Kepler-Swift Active Galaxies Survey (KSwAGS) to probe accretion onto compact objects at a variety of scales. The first phase of the KSwAGS survey uncovered 93 bright X-ray sources in the original Kepler FOV (Smith et al., in preparation). Approximately half of these sources were indeed active galaxies while the remainder were active stars of various types (pulsating stars, rapid rotators, close binaries, flaring M-stars). High precision optical follow-up would be scientifically useful for all sources; however, the fourth Kepler reaction wheel failed before we could propose Kepler monitoring of the new X-ray targets. We successfully received time for K2 to monitor KSwAGS sources in Field 4, and are awaiting the data currently. This proposal is therefore the second in our rolling plan to survey K2 Fields with Swift, and follow up with K2 optical monitoring.
+
+Previous AGN in the original Kepler field were selected using near-infrared photometric methods (e.g., Edelson & Malkan 2012). These methods preferentially select AGN with high black hole masses (MBH e 108 MSUN), since the method fails if the continuum is dominated by starlight rather than AGN light (e.g., Lacy et al. 2004, Stern et al. 2012). Fortunately, X-ray selection uncovers low-MBH, low luminosity, and low accretion-rate AGN. These types of AGN have predicted variability timescales short enough to be constrained by a 75-day K2 campaign. Indeed, narrow-line Sy 1 objects (NLS1) are expected to vary on timescales of days to weeks. This science is complimentary to what we are conducting in the original field with high-MBH objects, since the accretion physics is expected to differ between these types of objects (i.e., low-accretion rate objects may have advection dominated accretion flows or other scenarios instead of the canonical optically-thick, geometrically-thin accretion disk). This further monitoring will critically enhance the sample numbers of K2-monitored AGN discovered using a relatively unbiased selection method.
+
+Methodology
+We aim to use Keplers unprecedented photometric precision to detect characteristic variability timescales using Fourier analysis, which is far superior to the structure function analysis that must be used on ground-based light curves. These timescales are the only possible direct observables of AGN accretion physics, which remains an important astrophysical mystery.  Additionally, these X-ray selected targets will fill in the phase-space of black hole mass and accretion rate, complementing our work in the original Kepler field.
+
+
+Relevance of Proposed Research
+Our KSwAGS project has been assigned high priority status by the Swift team, and should begin surveying 1 module each in the K2 Campaigns 8 and 10 FOVs in July 2015. We anticipate ~50 sources based on the detection rate in previous KSwAGS fields. The photometric precision of K2 will be more than adequate for our scientific purposes.
+
+# Targets requested by this program that have been observed (19)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+220138945, 16.9074059, -2.3292429, 17.146, GO8065_LC
+220139324, 17.5678272, -2.3140759, 17.065, GO8065_LC|GO8001_LC
+220140691, 17.3356037, -2.2609949, 12.573, GO8065_LC
+220142089, 16.9386597, -2.2002299, 18.259, GO8065_LC
+220152513, 17.7048721, -1.804852, 19.575, GO8065_LC
+220154819, 17.036272, -1.7191401, 17.441, GO8065_LC
+220155450, 17.3427563, -1.695928, 14.188, GO8065_LC
+220155578, 17.7184868, -1.691328, 18.382, GO8065_LC
+220160830, 17.0360546, -1.516636, 18.984, GO8065_LC
+220161287, 17.5052013, -1.501846, 13.671, GO8065_LC|GO8042_LC
+220168331, 18.6144714, -1.2760611, 17.719, GO8065_LC|GO8005_LC
+220286644, 15.8041382, 2.3527589, 17.145, GO8065_LC|GO8001_LC
+220358127, 17.5491714, 3.8646269, 19.693, GO8065_LC
+220469205, 19.1092262, 6.0707889, 17.409, GO8065_LC
+220469206, 19.1092224, 6.0708079, 17.56, GO8065_LC|GO8005_LC
+220471533, 16.3595085, 6.120821, 17.663, GO8065_LC
+220471613, 16.3600464, 6.1226258, 18.211, GO8065_LC
+220525459, 15.7275362, 7.336762, 18.204, GO8065_LC|GO8052_LC
+220533366, 17.6338406, 7.5133729, 8.672, GO8065_LC

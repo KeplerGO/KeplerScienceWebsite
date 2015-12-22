@@ -1,0 +1,17 @@
+# Summary of K2 Program GO4042
+
+Title: HIGH MySTERY: Probing HIGH-Mass STellar Evolution models with binaRY stars
+
+PI: Tkachenko, Andrew (KU Leuven)
+CoIs: 
+
+Our proposal has a specific focus on massive pulsating stars in binary systems. Pulsating stars are very important objects because asteroseismology, the study of the properties of stellar oscillations, is the only way to probe deep interiors of stars, which otherwise remain unavailable for direct observations with our instruments. Binary stars are irreplaceable for probing models of stellar structure and evolution, as they provide us with dynamical masses, which are pure observational, model-independent values. Stars in close binary systems undergo different evolutionary scenario from single stars of similar mass, due to tidal interactions between stellar components. Thus, we get the opportunity to evaluate and further develop the tidal theory by studying close binary systems. Dynamical tidal forces in binary systems may lead to a resonant excitation of stellar pulsations in individual binary components. These tidally-induced oscillations provide a potential of probing deep stellar interiors, but the topic is currently not well explored observationally.
+
+Recent investigations showed that present-day single-star evolutionary models are inadequate and lack a serious amount of near-core mixing when applied to binary stars. A large sample of pulsating binaries with precise masses is required to draw any firm conclusions. So far, for about a hundred of massive binaries only, the masses were derived to the required precision, and the current sample is greatly biased towards short orbital period binaries. With K2, we aim at observing about 100 members of the class of massive binary stars, which will lead to significant extension of the sample, in particular towards longer orbital periods. The key questions to be addressed in our research are: is it feasible to use the core overshoot parameter alone in an attempt to solve the mass discrepancy problem in massive binary systems? What is the role of tidally-induced pulsations in the evolution of angular momentum within a binary system? What are the key mechanisms and type of interactions that are responsible for the discrepancy between the observations and tidal evolution theory?
+
+# Targets requested by this program that have been observed (4)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211014211, 60.236744, 23.201484, 7.025, GO4042_LC|GO4033_LC|GO4007_LC|GO4064_LC
+211054599, 57.491891, 23.848694, 6.922, GO4042_LC|GO4018_LC|GO4057_LC|GO4033_LC|GO4007_LC|GO4064_LC
+211088413, 57.340622, 24.380954, 6.713, GO4042_LC|GO4018_LC|GO4057_LC|GO4048_LC|GO4033_LC|GO4007_LC|GO4035_LC|GO4024_LC
+211106023, 56.860574, 24.658456, 9.133, GO4042_LC|GO4064_LC

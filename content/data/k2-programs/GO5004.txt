@@ -1,0 +1,14 @@
+# Summary of K2 Program GO5004
+
+Title: Short-Duration Flares on Mira Stars
+
+PI: Schaefer, Bradley E. (Louisiana State University)
+CoIs: 
+
+With the year-long pulsational periods for Mira stars, it came as a startling surprise when many groups found short-duration (minutes to days) flares with amplitudes 0.4-1.4 mag.  Even now, little is known about these Mira flares, mainly because they are rare and because the small number of prior light curves have poor-cadence, poor stability, and inadequate accuracy.  Theoretical ideas have no detail, mainly because the observations are poor, with typical proposed mechanisms relating to magnetic reconnection associated with big loops tied in to close-in planets.  This observational and theoretical stagnation can be uniquely broken with the K2 mission, where the multiple fields will cover many Mira stars, allowing for wonderful light curves with millimag accuracy and no gaps for ~75 days each.  So I am proposing to observe 4 Miras in Field 4 and 3 Miras in Field 5.  The millimag accuracy in the K2 light curves will allow for the discovery of the presumably more-frequent flares of low amplitude.  The main data analysis will be the identification of short flares, and the measurement of their properties (duration, amplitude, energy, light curve shape, and phase in the Mira cycle).  These products will be used to create demographic results, like flare frequency/size/duration as a function of Mira type, period, and phase.  The K2 mission, and only the K2 mission, can turn the field from data-starved to data-rich.  Finally, the theorists will have something that they can work with.
+
+# Targets requested by this program that have been observed (3)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211546985, 123.377651, 13.801413, 11.776, GO5004_LC|GO5020_LC|GO4104_LC
+211911323, 128.942876, 18.895758, 9.17, GO5004_LC|GO5029_LC
+212006725, 126.342652, 20.365768, 17.683, GO5004_LC|GO5018_LC|GO5024_LC|GO5026_LC|GO5037_LC|GO5048_LC|GO5081_LC
