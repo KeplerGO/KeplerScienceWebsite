@@ -1,0 +1,24 @@
+# Summary of K2 Program GO7027
+
+Title: The First Kepler Observations of the Pulsations of an R Coronae Borealis Star.
+
+PI: Clayton, Geoffrey C. (Louisiana State University)
+CoIs: De Marco, Orsola; Welch, Doug; Montiel, Edward J; Saio, Hideyuki
+
+K2 will open a new avenue into the detailed study of the pulsations of the R Coronae Borealis (RCB) stars (Clayton 2012). The ~80 days of near continuous, high-precision observations will be the first of its kind observations of any RCB star. One RCB star, V1157 Sgr, is expected to be on silicon during Field 7 observations. These potential observations will be several orders of magnitude more precise than the best that can be done from the ground, with a typical cadence of once per day and uncertainties > 0.01 mag. These observations will provide a better understanding of the pulsation mechanisms and modes in RCB stars. They also provide new inputs to stellar pulsation models in order to better determine their masses. RCB stars are thought to be ~0.9 M(Sun) from stellar pulsation models (Saio 2008). This estimated mass agrees well with the predicted mass of the merger products of a CO- and a He-WD (Han 1998). Final-flash stars, since they are single white dwarfs, should typically have masses of 0.55-0.6 M(Sun). No RCB star, with T(eff) = 5000-7000 K, is known to be a binary so these mass estimates are of great importance to understanding the evolution of these enigmatic stars.
+
+RCB stars show periodic or semi-periodic light and radial velocity fluctuations due to both radial and non-radial pulsations. These stars show pulsation periods in the 40-100 d range (Lawson et al. 1990). These variations are separate from the large declines in brightness caused by dust forming around the star. The pulsations in RCB stars are thought to arise through strange-mode instabilities. Strange modes occur in stars with high luminosity where radiation pressure dominates (Saio 2008). 
+
+RCB stars comprise a peculiar and rare class of stars that offers an excellent opportunity to reveal crucial insights into the advanced stages of stellar evolution. The first star of this class, R Coronae Borealis (R CrB), was discovered to be variable over two centuries ago. The known population of RCB stars is now ~150 stars in the Galaxy and the Magellanic Clouds (MC). RCB stars form a class of cool, carbon-rich supergiants that have almost no hydrogen. They undergo extreme, irregular declines in brightness, of up to 9 magnitudes, due to the formation of thick clouds of carbon dust. Two scenarios have been proposed for the origin of an RCB star: the Double Degenerate (DD) and the final helium-shell flash (FF) models. The former involves the merger of a CO- and a He-WD. In the latter, a star evolving from a planetary nebula (PN) central star expands to supergiant size by a FF. Three stars (Sakurais Object, V605 Aql, and FG Sge) have been observed to undergo FF outbursts.
+
+Most amazingly, in the last decade RCB stars were found to have unique chemical abundances. Clayton et al. (2007) discovered that RCB stars have 16O/18O ratios that are ~500 times lower than the Sun or any known star. Soon after, Pandey et al. (2008) found that 19F was also overabundant. The combination of extreme levels of 18O and 19F, which are both by-products of partial He-burning, suggest that nucleosynthesis must have occurred, but was then interrupted and ultimately quenched during the formation of the RCB stars. Sakurais Object shows no evidence for 18O. On the other hand, Sakurais object and other FF objects are enriched in Lithium (Li). Several RCB stars, including R CrB itself, have significant Li in their atmospheres. The production of 18O and 19F requires temperatures large enough to completely destroy any Li present. Hence, the simultaneous enrichment of Li, 18O, and 19F is not expected in the WD merger or final flash scenarios. The study of the pulsations of RCB stars will be crucial in helping to distinguish between the DD and FF scenarios.
+
+Clayton, G.C. 2012, JAAVSO, 40, 539
+Clayton, G. C., et al. 2007, ApJ, 662, 1220 
+Lawson, W. A. et al.  1990, MNRAS, 247, 91 
+Pandey, G., Lambert, D. L., & Rao, N. K. 2008, ApJ, 674, 1068 
+Saio, H. 2008, ASP Conf. Ser., 391, 69
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+217483971, 287.5492859, -20.4950008, 11.461, GO7027_LC

@@ -1,0 +1,20 @@
+# Summary of K2 Program GO4038
+
+Title: AGN Variability Studies with Kepler K2 Campaigns 4 and 5
+
+PI: Edelson, Rick (University of Maryland, College Park)
+CoIs: Horne, Keith; Vaughan, Simon; Massaro, Francesco; Malkan, Matthew A
+
+Kepler is revolutionizing the study of optical variability in AGN, with light curves having unprecedented precision, sampling and duty cycle.  This led to the first observation of a break in the optical PSD of a Seyfert 1 galaxy and clarification of the nature of microvariability in blazars.  We propose continued Kepler LC monitoring of 127 AGN and AGN candidates in Campaigns 4 and 5 as part of our program to observe hundreds of AGN throughout the K2 mission.  This will vastly improve the statistical leverage for characterizing optical variability and assure Kepler's legacy for AGN studies.  The most important AGN on Kepler silicon in this round is the bright, rapidly-variable blazar OJ 287.  We request SC monitoring of this source in order to assure adequate temporal sampling for this unique observing opportunity.
+
+# Targets requested by this program that have been observed (9)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210397302, 62.945424, 13.404626, 16.889, GO4038_LC|GO4056_LC
+210398049, 55.873632, 13.421974, 17.915, GO4038_LC
+210452310, 65.387879, 14.565078, 16.006, GO4038_LC
+210467490, 55.038275, 14.846805, 17.371, GO4038_LC|GO4008_LC
+210523272, 54.226842, 15.795964, 17.371, GO4038_LC
+210552824, 56.107876, 16.258974, 17.426, GO4038_LC
+210886049, 60.4382, 21.17465, 17.736, GO4038_LC
+211006936, 63.18203, 23.084827, 17.829, GO4038_LC
+211039300, 54.255875, 23.598322, 17.025, GO4038_LC

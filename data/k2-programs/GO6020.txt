@@ -1,0 +1,20 @@
+# Summary of K2 Program GO6020
+
+Title: Kepler photometry of important eclipsing binaries in K2 fields 6 and 7
+
+PI: Southworth, John (Keele University)
+CoIs: Maxted, Pierre F
+
+Almost all of astrophysics is underpinned by our understanding of the physics of normal stars. The development of reliable theoretical models of stars, culminating in the 1990s and 2000s, is one of the great achievements of stellar physics. But a plethora of the physical phenomena implemented in modern codes are poorly understood and often reduced to fudge factors, some of which are calibrated on only one object: our Sun. Significant uncertainties surround our understanding of phenomena such as mixing length, convective core overshooting, mass loss, rotation, magnetic fields, and even stellar formation mechanisms.
+
+Eclipsing binary stars (EBs) are our primary source of empirical measurements of stellar properties, and can yield mass and radius measurements to better than 1% (e.g. Southworth et al., 2005, MNRAS, 363, 529). They are thus used to calibrate theoretical models (Pols et al., 1998, MNRAS, 298, 525), provide real-world mass--radius--temperature relations (Torres et al., 2010, A&ARv, 18, 67), and identify parameter space where theoretical models fail (Lopez-Morales, 2007, ApJ, 660, 732). Low-mass EBs show clear deviations from theoretical predictions which currently limit our understanding of extrasolar planets (Southworth, 2009, MNRAS, 394, 272).
+
+Other important uses of EBs are as direct distance indicators (Pietrzynski et al., 2013, Nature, 495, 76), calibrators of asteroseismic scaling relations (Frandsen et al., 2013, A&A, 556, A138), probes of chemical evolution of massive stars (Pavlovski et al., 2009, MNRAS, 400, 791), and tracers of binary evolutionary processes (Maxted et al., 2013, Nature, 498, 463). We now know of circumbinary planets which have been found because they orbit EBs (Doyle et al., 2011, Science, 333, 1602).
+
+The study of an EB is critically dependent on getting a good light curve, from which the radii can be measured to high accuracy. Ground-based studies are hindered by limited photometric precision and the inability to observe during bad weather or daytime, forcing observers to spend sometimes years chasing eclipses of the most interesting and important objects. The remarkable abilities of Kepler bypass these problems, yielding data of much greater quantity and quality than could ever be achieved from the ground. In addition to a K2 light curve, high-resolution spectroscopy is required to determine the masses (through radial velocity measurements) and atmospheric parameters of the stars in an EB. Spectroscopic data can straightforwardly be obtained from ground-based facilities, as continuous monitoring through the orbital period is not required. The K2 data will be reduced using a pipeline currently being developed by our group, and the remaining analysis will be performed with existing tools written or operated by the applicants.
+
+The SuperWASP survey has built up a huge database of billions of photometric measurements of bright stars, which are systematically searched for transiting planets (Pollacco et al., 2006, PASP, 118, 1407). These data are also excellent for the identification of variable stars, particularly EBs. We have searched the SuperWASP database for EBs in K2 fields 6 and 7, finding 15 which are excellent candidates for follow-up K2 observations. We propose 13 targets for long cadence slots, as the deep eclipses mean the system properties can be constrained to high accuracy even using long-cadence observations. Two targets need short-cadence slots due to their small orbital periods, which make their eclipses short. The eclipse durations of these two objects are 73 min and 122 min, so they would be entirely subsumed into 2 and 4 long-cadence datapoints, respectively, leading to poor constraints on the radii of the component stars.
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+212559866, 203.0456085, -11.4628267, 11.864, GO6020_LC|GO6030_LC|GO6040_LC|GO6069_LC|GO6087_LC

@@ -1,0 +1,19 @@
+# Summary of K2 Program GO8030
+
+Title: Ultracool Dwarfs: Clouds, Flares, and Exoplanets
+
+PI: Gizis, John E. (University of Delaware)
+CoIs: Paudel, Rishi R; Williams, Peter K G; Burgasser, Adam J; Schmidt, Sarah Jane
+
+We propose to observe nearby ultracool dwarfs using the Kepler K2 mission to characterize their cloud/weather properties, measure their flare rates, and detect their planetary companions. Like gas giant planets, very-low-mass stars and brown dwarfs form condensate clouds in their atmospheres. K2 can uniquely characterize variability due to these clouds, both rotation modulation on a timescale of hours and weather evolution of the clouds on timescales from days to months. Magnetic activity changes dramatically at the stellar/substellar hydrogen-burning limits, but some ultracool dwarfs are known to flare. We will measure the white light flare rate in well-defined statistical samples as a function of effective temperature, rotation rate, and age. Flares are tied to magnetic reconnection rates and the energy budget. We also aim to detect transiting exoplanets by continuing to monitor each available ultracool dwarf in K2 campaigns; brown dwarfs, gas giants, and even large rocky planets are detectable. The Campaigns 8 and 10 targets include nearby field late-M and L dwarfs, and one T2 dwarf.
+
+# Targets requested by this program that have been observed (8)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+220170497, 13.7462835, -1.1875139, 17.417, GO8030_LC|GO8054_LC
+220181289, 15.7977448, -0.738083, 15.652, GO8030_LC|GO8054_LC
+220186653, 13.5272961, -0.517188, 17.207, GO8030_LC|GO8054_LC
+220195098, 12.0360041, -0.188392, 17.367, GO8030_LC|GO8054_LC
+220195996, 13.5412712, -0.154447, 15.864, GO8030_LC|GO8054_LC
+220197688, 11.7322865, -0.088671, 16.687, GO8030_LC|GO8054_LC
+220203045, 19.9361343, 0.105032, 16.896, GO8030_LC|GO8054_LC
+220220365, 13.0973034, 0.71969, 18.07, GO8030_LC|GO8054_LC
