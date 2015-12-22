@@ -78,8 +78,16 @@ Campaign 6
       Jul 11 - Oct 3, 2015
     </li>
     <li class="list-group-item">
+      <i class="fa fa-pencil-square-o fa-margin"></i>
+      Data release notes (coming soon)
+    </li>
+    <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
       <a href="data/campaigns/c6/K2Campaign6targets.csv">Target list (csv)</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-external-link fa-margin"></i>
+      Target pixel files (coming soon)  
     </li>
   </ul>
 
@@ -88,7 +96,7 @@ Campaign 6
 Campaign 5
 ---------------------
 .. raw:: html
-
+ 
   <p>
     The Campaign 5 target list consists of 25,850 standard long cadence and 204 standard short cadence targets. 
     We also observed Trans-Neptunian Object 2001 YH40 and the open cluster M67.
@@ -101,11 +109,11 @@ Campaign 5
     </li>
     <li class="list-group-item">
       <i class="fa fa-pencil-square-o fa-margin"></i>
-      Release notes (coming soon)
+      <a href="k2-data-release-notes.html#k2-campaign-5">Data release notes</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-cog fa-margin"></i>
-      <a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr6">Pipeline: 9.3</a>
+      <a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr7">Pipeline: 9.3</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -138,7 +146,7 @@ Campaign 4
     </li>
     <li class="list-group-item">
       <i class="fa fa-pencil-square-o fa-margin"></i>
-      <a href="k2-data-release-notes.html#k2-campaign-4">Release notes</a>
+      <a href="k2-data-release-notes.html#k2-campaign-4">Data release notes</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-cog fa-margin"></i>
