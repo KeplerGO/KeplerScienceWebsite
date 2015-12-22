@@ -11,7 +11,6 @@ CACHE_CONTENT = True
 
 ANALYTICS = ()   # pelicanconf-live.py will override this
 
-
 AUTHOR = u'Thomas Barclay'
 SITENAME = "Kepler &amp; K2"
 BANNER_SUBTITLE = "Science Center"
@@ -101,7 +100,7 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b>01 Jan 2016</b>',
+            ('<b>25 Jan 2016</b>',
              'K2 Campaign 6 data release (expected)',
              'data-products.html#k2-product-overview'),
             ('<b>5 Feb 2016</b>',
