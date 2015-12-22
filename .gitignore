@@ -12,4 +12,5 @@ cache/
 
 *.pid
 sandbox
+tmp
 upload.sh
