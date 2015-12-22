@@ -6,9 +6,7 @@ PI: Buzasi, Derek L (Florida Gulf Coast University)
 CoIs: Preston, Heather
 
 Although the Kepler mission has revolutionized exoplanet science, the success of transit surveys cannot fully replace ground-based spectroscopic radial velocity observations. In particular, radial velocity surveys such as those executed by HARPS and HIRES yield the planetary mass, assuming the host star is well-characterized. However, radial velocity surveys are inefficient, as they require relatively large amounts of large telescope time, and instruments observe only one star at a time. Proper target selection is therefore critical to maximize the probability of success. Typically search programs focus on relatively bright (V < 12) mid-G to early M dwarfs, excluding known active stars and spectroscopic binaries. This proposal takes advantage of the capabilities of K2 to greatly improve target selection and the resulting exoplanet detection rate, through the use of a technique which allows us to preferentially select systems with large values of sini based on photometry alone.  We propose to observe all lower main sequence stars (Teff = 2700-6500 K ) with V < 12 in both K2 fields 4 and 5. This amounts to approximately 4000 targets in each field. Our expected scientific outcomes are: 1. Identification of the best targets in these K2 fields for future planet searches.
-
 2. Improved data on stellar rotation and activity as functions of metallicity and other fundamental parameters for our target stars. The use of different fields than the original Kepler FOV will enable sampling new portions of the stellar population of the Galaxy.
-
 3. Detection of short-period (P < 20 d ) planets around our targets.
 
 # Targets requested by this program that have been observed (143)

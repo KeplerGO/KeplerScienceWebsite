@@ -121,6 +121,8 @@ class WebSummaryCreator(object):
             summary = summary.replace("\n\n\n\n", "\n\n").replace("\n\n\n", "\n\n")
             # Only allow two whitespaces after a period
             summary = re.sub("(?<!\.)(\n\n)", " ", summary)
+            # ... unless it's a numeric listing
+            summary = re.sub("(\n\n)(\d)", "\n\\2", summary)
 
             output_fn = os.path.join(output_dir, "{}.txt".format(program_id))
             with open(output_fn, "w") as output:
