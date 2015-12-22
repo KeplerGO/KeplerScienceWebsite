@@ -20,7 +20,7 @@ We are exploring techniques to detrend sensitivity changes over the short (daily
 
 References: 
 Kasen. 2010,AJ,708,1025 
-Olling, Mushotzky, Shaya, et al. 2015, Nature,521,332335 
+Olling, Mushotzky, Shaya, et al. 2015, Nature,521,332335 
 Shaya, Olling, Mushotzky. 2015, submitted to AJ
 
 

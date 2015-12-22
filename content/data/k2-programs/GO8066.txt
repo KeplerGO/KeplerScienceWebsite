@@ -15,7 +15,7 @@ To identify ideal candidates for ground-based characterization studies, we there
 
 The goal of high precision time resolved photometry is to reduce or in the best case remove all noise to achieve photon-noise limited photometry. After years of experience with these data a number of best practices for their handling have emerged: For the reduction and preparation of K2 data as well as for the planet search in the reduced data, we have access to a number of standard procedures that are already widely used in the community (e.g. the PyKe tools,  Barclay & Still 2012;  K2 specific best practices, Foreman-Mackey et al. 2015; or SIP, Angus et al. 2015).  
 
-Finding these extremely valuable targets will enable us to do exactly the kind of basic research that advances our knowledge by characterization of planets and planetary systems outside of our Solar System in order to determine their compositions, dynamics, energetics, and chemical behaviors. The proposed study will directly support NASAs goal to Discover and study planets around other stars, in order to understand the underlying physical processes of exoplanets and to improve understanding of their origins.
+Finding these extremely valuable targets will enable us to do exactly the kind of basic research that advances our knowledge by characterization of planets and planetary systems outside of our Solar System in order to determine their compositions, dynamics, energetics, and chemical behaviors. The proposed study will directly support NASAs goal to Discover and study planets around other stars, in order to understand the underlying physical processes of exoplanets and to improve understanding of their origins.
 
 
 # Targets requested by this program that have been observed (479)
