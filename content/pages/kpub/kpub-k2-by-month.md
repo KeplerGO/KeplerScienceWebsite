@@ -27,6 +27,10 @@ Kurtz, Donald W., Bowman, Dominic M., Ebo, Simon J., et al.
 Pope, B. J. S., White, T. R., Huber, D., et al.    
 2016, refereed ([2016MNRAS.455L..36P](http://adsabs.harvard.edu/abs/2016MNRAS.455L..36P))  
 
+4. [PERIODIC TRANSIT AND VARIABILITY SEARCH WITH SIMULTANEOUS SYSTEMATICS FILTERING: IS IT WORTH IT?](http://adsabs.harvard.edu/abs/2016A&A...585A..57K)  
+Kovács, Géza, Hartman, Joel D., Bakos, Gáspár Á.    
+2016, refereed ([2016A&A...585A..57K](http://adsabs.harvard.edu/abs/2016A&A...585A..57K))  
+
 
 2015-12
 -------
@@ -66,6 +70,14 @@ Huber, Daniel, Bryson, Stephen T., Haas, Michael R., et al.
 9. [SINGLE TRANSIT CANDIDATES FROM K2: DETECTION AND PERIOD ESTIMATION](http://adsabs.harvard.edu/abs/2015arXiv151203722O)  
 Osborn, H. P., Armstrong, D. J., Brown, D. J. A., et al.    
 2015, pre-print ([2015arXiv151203722O](http://adsabs.harvard.edu/abs/2015arXiv151203722O))  
+
+10. [NEPTUNE'S DYNAMIC ATMOSPHERE FROM KEPLER K2 OBSERVATIONS: IMPLICATIONS FOR BROWN DWARF LIGHT CURVE ANALYSES](http://adsabs.harvard.edu/abs/2015arXiv151207090S)  
+Simon, Amy A., Rowe, Jason F., Gaulme, Patrick, et al.    
+2015, pre-print ([2015arXiv151207090S](http://adsabs.harvard.edu/abs/2015arXiv151207090S))  
+
+11. [THAT'S HOW WE ROLL: THE NASA K2 MISSION SCIENCE PRODUCTS AND THEIR PERFORMANCE METRICS](http://adsabs.harvard.edu/abs/2015arXiv151206162V)  
+Van Cleve, Jeffrey E., Howell, Steve B., Smith, Jeffrey C., et al.    
+2015, pre-print ([2015arXiv151206162V](http://adsabs.harvard.edu/abs/2015arXiv151206162V))  
 
 
 2015-11

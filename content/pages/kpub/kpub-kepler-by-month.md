@@ -171,6 +171,22 @@ Thompson, M. A., Scicluna, P., Kemper, F., et al.
 Gaidos, E., Mann, A. W., Kraus, A. L., et al.    
 2015, pre-print ([2015arXiv151204437G](http://adsabs.harvard.edu/abs/2015arXiv151204437G))  
 
+29. [IRTF/SPEX OBSERVATIONS OF THE UNUSUAL KEPLER LIGHT CURVE SYSTEM KIC8462852](http://adsabs.harvard.edu/abs/2015ApJ...815L..27L)  
+Lisse, C. M., Sitko, M. L., Marengo, M.    
+2015, refereed ([2015ApJ...815L..27L](http://adsabs.harvard.edu/abs/2015ApJ...815L..27L))  
+
+30. [PLANET HUNTERS. VIII. CHARACTERIZATION OF 41 LONG-PERIOD EXOPLANET CANDIDATES FROM KEPLER ARCHIVAL DATA](http://adsabs.harvard.edu/abs/2015ApJ...815..127W)  
+Wang, Ji, Fischer, Debra A., Barclay, Thomas, et al.    
+2015, refereed ([2015ApJ...815..127W](http://adsabs.harvard.edu/abs/2015ApJ...815..127W))  
+
+31. [PLANETARY CANDIDATES OBSERVED BY KEPLER. VII. THE FIRST FULLY UNIFORM CATALOG BASED ON THE ENTIRE 48 MONTH DATASET (Q1-Q17 DR24)](http://adsabs.harvard.edu/abs/2015arXiv151206149C)  
+Coughlin, Jeffrey L., Mullally, F., Thompson, Susan E., et al.    
+2015, pre-print ([2015arXiv151206149C](http://adsabs.harvard.edu/abs/2015arXiv151206149C))  
+
+32. [CORRELATIONS BETWEEN COMPOSITIONS AND ORBITS ESTABLISHED BY THE GIANT IMPACT ERA OF PLANET FORMATION](http://adsabs.harvard.edu/abs/2015arXiv151204951D)  
+Dawson, Rebekah I., Lee, Eve J., Chiang, Eugene    
+2015, pre-print ([2015arXiv151204951D](http://adsabs.harvard.edu/abs/2015arXiv151204951D))  
+
 
 2015-11
 -------

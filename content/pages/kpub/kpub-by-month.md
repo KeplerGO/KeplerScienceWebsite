@@ -71,6 +71,10 @@ Helled, Ravit, Lozovsky, Michael, Zucker, Shay
 Goździewski, K., Migaszewski, C., Panichi, F., et al.    
 2016, refereed ([2016MNRAS.455L.104G](http://adsabs.harvard.edu/abs/2016MNRAS.455L.104G))  
 
+13. [PERIODIC TRANSIT AND VARIABILITY SEARCH WITH SIMULTANEOUS SYSTEMATICS FILTERING: IS IT WORTH IT?](http://adsabs.harvard.edu/abs/2016A&A...585A..57K)  
+Kovács, Géza, Hartman, Joel D., Bakos, Gáspár Á.    
+2016, refereed ([2016A&A...585A..57K](http://adsabs.harvard.edu/abs/2016A&A...585A..57K))  
+
 
 2015-12
 -------
@@ -222,6 +226,30 @@ Osborn, H. P., Armstrong, D. J., Brown, D. J. A., et al.
 37. [THEY ARE SMALL WORLDS AFTER ALL: REVISED PROPERTIES OF KEPLER M DWARF STARS AND THEIR PLANETS](http://adsabs.harvard.edu/abs/2015arXiv151204437G)  
 Gaidos, E., Mann, A. W., Kraus, A. L., et al.    
 2015, pre-print ([2015arXiv151204437G](http://adsabs.harvard.edu/abs/2015arXiv151204437G))  
+
+38. [NEPTUNE'S DYNAMIC ATMOSPHERE FROM KEPLER K2 OBSERVATIONS: IMPLICATIONS FOR BROWN DWARF LIGHT CURVE ANALYSES](http://adsabs.harvard.edu/abs/2015arXiv151207090S)  
+Simon, Amy A., Rowe, Jason F., Gaulme, Patrick, et al.    
+2015, pre-print ([2015arXiv151207090S](http://adsabs.harvard.edu/abs/2015arXiv151207090S))  
+
+39. [IRTF/SPEX OBSERVATIONS OF THE UNUSUAL KEPLER LIGHT CURVE SYSTEM KIC8462852](http://adsabs.harvard.edu/abs/2015ApJ...815L..27L)  
+Lisse, C. M., Sitko, M. L., Marengo, M.    
+2015, refereed ([2015ApJ...815L..27L](http://adsabs.harvard.edu/abs/2015ApJ...815L..27L))  
+
+40. [PLANET HUNTERS. VIII. CHARACTERIZATION OF 41 LONG-PERIOD EXOPLANET CANDIDATES FROM KEPLER ARCHIVAL DATA](http://adsabs.harvard.edu/abs/2015ApJ...815..127W)  
+Wang, Ji, Fischer, Debra A., Barclay, Thomas, et al.    
+2015, refereed ([2015ApJ...815..127W](http://adsabs.harvard.edu/abs/2015ApJ...815..127W))  
+
+41. [PLANETARY CANDIDATES OBSERVED BY KEPLER. VII. THE FIRST FULLY UNIFORM CATALOG BASED ON THE ENTIRE 48 MONTH DATASET (Q1-Q17 DR24)](http://adsabs.harvard.edu/abs/2015arXiv151206149C)  
+Coughlin, Jeffrey L., Mullally, F., Thompson, Susan E., et al.    
+2015, pre-print ([2015arXiv151206149C](http://adsabs.harvard.edu/abs/2015arXiv151206149C))  
+
+42. [THAT'S HOW WE ROLL: THE NASA K2 MISSION SCIENCE PRODUCTS AND THEIR PERFORMANCE METRICS](http://adsabs.harvard.edu/abs/2015arXiv151206162V)  
+Van Cleve, Jeffrey E., Howell, Steve B., Smith, Jeffrey C., et al.    
+2015, pre-print ([2015arXiv151206162V](http://adsabs.harvard.edu/abs/2015arXiv151206162V))  
+
+43. [CORRELATIONS BETWEEN COMPOSITIONS AND ORBITS ESTABLISHED BY THE GIANT IMPACT ERA OF PLANET FORMATION](http://adsabs.harvard.edu/abs/2015arXiv151204951D)  
+Dawson, Rebekah I., Lee, Eve J., Chiang, Eugene    
+2015, pre-print ([2015arXiv151204951D](http://adsabs.harvard.edu/abs/2015arXiv151204951D))  
 
 
 2015-11
