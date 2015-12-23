@@ -23,9 +23,6 @@ Campaign 8
 ---------------------
 .. raw:: html
   
-  <p>
-  
-  </p>
   <ul class="list-group">
     <li class="list-group-item">
       <i class="fa fa-calendar fa-margin"></i>

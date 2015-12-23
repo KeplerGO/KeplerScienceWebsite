@@ -1,4 +1,5 @@
-"""Prepares an overview of the K2 programs and summaries for the website."""
+"""Prepares an overview of the K2 programs and summaries for the website.
+"""
 import os
 import re
 import pandas as pd
@@ -59,7 +60,7 @@ class WebSummaryCreator(object):
                 "      <h3 class='panel-title'>Programs that contributed to the Campaign " + str(self.campaign) + " target list</h3>\n"
                 "    </div>\n\n"
                 "    <div class='panel-body'>\n"
-                "      <i>Click on a title to view the abstract and a list of targets observed.</i>\n"
+                "      <i>Click on a title to view the abstract. Click on the number of targets to download the target list.</i>\n"
                 "      <table class='table table-striped table-hover'>\n"
                 "        <thead>\n"
                 "        <tr>\n"
@@ -74,17 +75,19 @@ class WebSummaryCreator(object):
             if program is None:
                 continue
             targets = self.targetlist.get_targets(program_id)
-            url = "data/k2-programs/{}.txt".format(program_id)
+            url_summary = "data/k2-programs/{}.txt".format(program_id)
+            url_targets = "data/k2-programs/{}-targets.csv".format(program_id)
             html += (
                         "        <tr>\n"
                         "          <td>{}</td>\n"
                         "          <td>{}</td>\n"
                         "          <td><a href='{}'>{}</a></td>\n"
-                        "          <td class='text-right'>{}</td>\n"
+                        "          <td class='text-right'><a href='{}'>{}</a></td>\n"
                         "        </tr>\n\n".format(program_id,
                                                    program["PI Last name"],
-                                                   url,
+                                                   url_summary,
                                                    program["Title"].translate(dict.fromkeys(range(1, 32))),
+                                                   url_targets,
                                                    len(targets))
                      )
         html += "      </table>\n    </div>\n  </div>\n"
@@ -96,6 +99,7 @@ class WebSummaryCreator(object):
             output.write(self.to_html())
 
     def write_summaries(self, output_dir=""):
+        """Produce txt files for all programs with title/summary/targets."""
         for program_id in self.programs:
             program = self.programlist.get_program(program_id)
             if program is None:
@@ -150,6 +154,19 @@ class WebSummaryCreator(object):
                                        )
                              )
 
+    def write_targetlists(self, output_dir=""):
+        """Write a CSV target list for each program."""
+        for program_id in self.programs:
+            program = self.programlist.get_program(program_id)
+            if program is None:
+                continue
+            targets = self.targetlist.get_targets(program_id)
+            output_fn = os.path.join(output_dir, "{}-targets.csv".format(program_id))
+            with open(output_fn, "w") as output:
+                print("Writing {}".format(output_fn))
+                output.write(targets.to_csv(index=False))
+
+
 CFG = {
        "summaries_dir": "/home/gb/dev/KeplerScienceWebsite/content/data/k2-programs/",
        "4": {
@@ -174,13 +191,15 @@ CFG = {
             },
        }
 
+
 def create_website_pages():
     for campaign in ["4", "5", "6", "7", "8"]:
         tl = TargetList(CFG[campaign]["targetlist"])
         pl = ProgramList(CFG[campaign]["programlist"])
-        wrf = WebSummaryCreator(tl, pl, campaign=campaign)
-        wrf.write_html("c{}.html".format(campaign))
-        wrf.write_summaries(CFG["summaries_dir"])
+        wsc = WebSummaryCreator(tl, pl, campaign=campaign)
+        wsc.write_html("c{}.html".format(campaign))
+        wsc.write_summaries(CFG["summaries_dir"])
+        wsc.write_targetlists(CFG["summaries_dir"])
 
 
 if __name__ == "__main__":
