@@ -1,0 +1,16 @@
+# Summary of K2 Program GO4030
+
+Title: Monitoring the atmospheres of brown dwarfs
+
+PI: Patience, Jennifer (ASU)
+CoIs: Rajan, Abhijith; De Rosa, Robert John; Ward-Duong, Kimberly Dolan
+
+With the exceptional monitoring capabilities of the K2 mission, we propose to obtain long-cadence measurements of a set of brown dwarfs within campaigns 4 and 5. The targets span a large range of spectral types, enabling an investigation into atmospheres with temperatures overlapping with transiting and imaged exoplanets. The proposed data will provide a unique resource for the investigation of the atmospheres of substellar objects, with observations spanning more than one hundred rotation periods. The proposed data will be used to investigate the periodicity and persistence of variability linked to atmospheric processes or activity, along with the identification of potentially rare events such as flares. The proposed K2 data would be augmented with ground-based multi-wavelength infrared observations and form a key component of a student thesis.
+
+# Targets requested by this program that have been observed (5)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210327027, 58.847376, 11.562141, 15.399, GO4036_SC|GO4036_LC|GO4030_LC|GO4081_LC
+210522262, 61.781358, 15.779381, 16.935, GO4036_LC|GO4057_LC|GO4030_LC|GO4081_LC
+210879793, 62.28961, 21.077606, 16.968, GO4036_LC|GO4057_LC|GO4030_LC|GO4081_LC
+210998473, 58.924646, 22.950466, 17.615, GO4036_LC|GO4057_LC|GO4030_LC
+211003775, 52.177733, 23.034775, 18.253, GO4036_LC|GO4030_LC|GO4081_LC

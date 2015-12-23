@@ -1,0 +1,58 @@
+# Summary of K2 Program GO7064
+
+Title: A Search For Transiting Planets in K2 Campaign 7 on Stars Pre-selected by HATSouth
+
+PI: Bakos, Gaspar Aron (Princeton University)
+CoIs: Hartman, Joel D; Bhatti, Waqas A; Jordan, Andres; Mancini, Luigi
+
+We propose a large program for campaign 7 of the K2 mission to carry out a survey for transiting planets around a sample of ~3000 stars pre-selected based on observations from the HATSouth ground-based transit survey indicating that they may have transits. All stars in this survey have HATSouth light curves with periodic box-shaped transit signals that have been marginally detected with 5.5 < S/N < 10.0, and with shapes, durations, and other properties consistent with being planetary transits. The signals were considered too marginal for the targets to be selected as HATSouth planet candidates, as each candidate has a high chance of being a false alarm, but the probability that any given star in this sample has a short period transiting planet is significantly higher than for stars chosen at random from the field. The transit signals found in the light curves for these stars have orbital periods ranging from 0.5 to 20 days, transit depths between 1.5 mmag and 68 mmag (around K and M dwarf stars), and Sloan r magnitudes between 8.2 and 16.0. The transit signals, if present, would easily be confirmed by K2.
+
+We are requesting long-cadence K2 observations for all of these stars, which we will reduce to trend-filtered light curves using our existing pipeline and serve to the public through our HATSouth light curve server. We will combine these light curves with the existing HATSouth data and search the combined data for transit signals. Lists of candidate planets will also be made public. New candidates identified based on the K2 data will be entered into our HATSouth follow-up program to confirm planets and determine their properties.
+
+This proposal is relevant to the NASA goal of finding and characterizing exoplanetary systems.
+
+# Targets requested by this program that have been observed (43)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+214398813, 293.0752869, -26.5901108, 13.199, GO7008_LC|GO7086_LC|GO7064_LC
+214522613, 288.5023804, -26.2844887, 13.622, GO7086_LC|GO7064_LC|GO7032_LC
+214563401, 287.8976135, -26.1843052, 15.017, GO7008_LC|GO7064_LC
+214587758, 290.2829895, -26.1243973, 11.102, GO7086_LC|GO7064_LC|GO7087_LC|GO7030_LC
+214899216, 288.8135986, -25.3854904, 11.545, GO7086_LC|GO7030_LC|GO7064_LC|GO7087_LC|GO7032_LC
+215157717, 294.8548584, -24.8134327, 15.786, GO7008_LC|GO7064_LC|GO7071_LC
+215266406, 295.157135, -24.5806046, 12.756, GO7030_LC|GO7064_LC
+215451730, 288.6549072, -24.1906986, 12.536, GO7030_LC|GO7064_LC
+215712157, 295.5897522, -23.6835308, 12.91, GO7008_LC|GO7086_LC|GO7030_LC|GO7064_LC
+215715746, 288.782959, -23.6767044, 12.639, GO7030_LC|GO7064_LC
+215748262, 289.2291565, -23.6152039, 12.082, GO7086_LC|GO7030_LC|GO7064_LC
+215814953, 293.5849304, -23.4895992, 14.561, GO7008_LC|GO7086_LC|GO7064_LC
+215826817, 295.4919128, -23.4670982, 13.17, GO7086_LC|GO7030_LC|GO7064_LC
+215860056, 294.9211426, -23.4051094, 12.376, GO7086_LC|GO7030_LC|GO7064_LC
+215969058, 288.8433228, -23.2030144, 11.578, GO7008_LC|GO7086_LC|GO7064_LC|GO7060_LC|GO7071_LC|GO7085_LC
+216058942, 291.8241577, -23.0373707, 12.016, GO7030_LC|GO7064_LC
+216271111, 290.4931641, -22.6488686, 15.557, GO7008_LC|GO7064_LC
+216305396, 289.9993286, -22.5866604, 12.229, GO7030_LC|GO7064_LC|GO7085_LC
+216326608, 295.0109253, -22.5484486, 12.34, GO7086_LC|GO7030_LC|GO7064_LC
+216332061, 288.1355896, -22.5384979, 12.537, GO7030_LC|GO7064_LC|GO7085_LC
+216334329, 288.0766602, -22.5343876, 12.896, GO7030_LC|GO7064_LC|GO7085_LC
+216353299, 291.0292664, -22.5002575, 14.972, GO7008_LC|GO7064_LC
+216362663, 288.1106262, -22.4836159, 12.485, GO7030_LC|GO7064_LC
+216376896, 288.3529053, -22.4580956, 12.931, GO7030_LC|GO7064_LC|GO7085_LC
+216395469, 291.7012634, -22.4247952, 10.568, GO7086_LC|GO7064_LC|GO7085_LC|GO7032_LC
+216631089, 289.5317078, -22.0032978, 11.147, GO7086_LC|GO7064_LC|GO7085_LC|GO7030_LC
+216662737, 289.8809814, -21.947567, 9.554, GO7086_LC|GO7064_LC|GO7085_LC|GO7087_LC|GO7028_LC|GO7030_LC
+216912592, 290.5610962, -21.5021629, 10.721, GO7021_LC|GO7064_LC|GO7042_LC
+217052775, 290.9029236, -21.2547112, 11.952, GO7030_LC|GO7064_LC|GO7087_LC
+217204898, 288.8781738, -20.9864388, 14.258, GO7047_LC|GO7064_LC|GO7058_LC|GO7010_LC|GO7047_SC|GO7010_SC
+217519153, 290.4455872, -20.4329681, 11.832, GO7030_LC|GO7064_LC|GO7016_LC
+217597196, 289.777771, -20.2961273, 9.834, GO7078_LC|GO7064_LC|GO7016_LC
+217762754, 290.3947754, -20.0055084, 12.41, GO7078_LC|GO7064_LC|GO7028_LC
+218056755, 289.8770752, -19.4876518, 12.881, GO7030_LC|GO7064_LC
+218167392, 288.9187012, -19.2906036, 11.348, GO7030_LC|GO7078_LC|GO7064_LC
+218206100, 293.6208191, -19.2203732, 11.426, GO7030_LC|GO7078_LC|GO7064_LC
+218220487, 291.4297791, -19.1947136, 14.381, GO7008_LC|GO7086_LC|GO7064_LC
+218302396, 291.3302002, -19.0478039, 11.884, GO7030_LC|GO7064_LC|GO7087_LC
+218321796, 293.4167786, -19.012886, 13.729, GO7064_LC|GO7071_LC
+218345322, 291.7440796, -18.970253, 12.048, GO7030_LC|GO7064_LC
+218478643, 293.1472473, -18.7294159, 13.19, GO7030_LC|GO7064_LC
+218480433, 290.2716675, -18.7261963, 12.72, GO7030_LC|GO7064_LC
+218637228, 293.1544495, -18.4383945, 14.795, GO7047_LC|GO7064_LC|GO7058_LC|GO7047_SC

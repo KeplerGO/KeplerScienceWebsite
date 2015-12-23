@@ -1,0 +1,16 @@
+# Summary of K2 Program GO6036
+
+Title: Exploring Optical Phase Variations of Hot Jupiters with K2
+
+PI: Lewis, Nikole K (Space Telescope Science Institute)
+CoIs: Demory, Brice-Olivier
+
+Goals/Objectives:  Observations of exoplanets at a broad range of wavelengths from the visible to the infrared are crucial for characterizing their atmospheric properties.  Here we propose to use the K2 observatory to monitor a handful of systems know to host close-in gas giant planets in search of planetary signals at visible wavelengths, specifically phase variations.  The shape and amplitude of planetary phase variations at visible wavelengths place important constraints on the planetary albedo, global circulation patterns, and global energy budgets, especially when combined with similar observations at longer wavelengths from observatories such as the Spitzer Space Telescope.  Phase-curve observations of Kepler-7b from the original Kepler mission revealed the presence of an inhomogenous cloud layer.  We hope to add to the current population of exoplanets with visible wavelength phase-curve observations by selecting the most viable targets in the K2 field of view for Campaigns 6 and 7.  By expanding the catalog of exoplanet visible wavelength phase-curve observations we will help to further refine atmospheric theories for hot Jupiters.
+
+Methodology:  Four known exoplanet hosts that are sufficiently bright for phase-curve studies (V < 14) will fall upon the active silicon of the K2 detectors during Campaigns 6 and 7.    The planets in these four systems (WASP-55b, Qatar-2b WASP-67b, and HD179949b) are all Jupiter-sized planets, but span a wide range in effective temperature (1000-1900 K) and density (0.2-2.2 g/cc).  Effective temperature and planetary density, and hence gravity, are the two of the strongest drivers of both cloud formation and atmospheric circulation processes.  Two of the targets (WASP-67b and HD179949b) have been observed with Spitzer, which will allow us to disentangle the competing effects of thermal emission and scattering in the Kepler bandpass.  In particular HD179949b, a close analog to Kepler-7b, has existing 8 micron phase-curve observations.  We will use our well-developed Kepler pipeline to process the data to achieve the level of precision necessary to robustly detect any phase variations/secondary eclipses if present.  We will further develop three-dimensional atmospheric models for these planets to aid in the interpretation of the K2 data for the identified planets.  
+
+Relevance:  The observations proposed here are highly relevant to the scope of the K2 Guest Observer program.  Specifically, the proposed observations make use of K2s unique visible wavelength high-precision photometric capabilities.  Phase-curve observations require long-duration, ideally uninterrupted, stares that only a facility such as K2 can provide at visible wavelengths, which provide important probes of planetary albedo and global circulation patterns.
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+212300977, 203.7581024, -17.5035496, 11.738, GO6018_SC|GO6041_SC|GO6018_LC|GO6030_LC|GO6036_LC|GO6041_LC|GO6069_LC|GO6087_LC

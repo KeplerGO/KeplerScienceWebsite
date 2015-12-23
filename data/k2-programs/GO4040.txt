@@ -1,0 +1,25 @@
+# Summary of K2 Program GO4040
+
+Title: Asteroseismology of delta Scuty stars in the Pleiades and Beehive clusters
+
+PI: Barcelo Forteza, Sebastia (Instituto de Astrofisica de Canarias (IAC))
+CoIs: 
+
+The scientific goal of our proposal is to study the internal dynamics and structure of delta Scuti stars using the tools of asteroseismology.
+
+The structure and rotation of this kind of stars are very complex. In contrast to the well-known solar type oscillations, there are still many unknowns regarding the oscillations in delta Scuti stars: why are hundreds of modes needed to explain the oscillations observed in their light curves? Is there a real spacing as the one seen for solar type oscillations? Could we observe different kinds of modes depending on the rotation rate compared with the critical one? Our aim is to answer these and further questions.
+
+We want to observe up to twenty three stars in two different open clusters: the Pleiades and the Beehive clusters. We can retrieve more information from the study of stars that belong to open clusters than from isolated stars. The key assumption is that, because they have a common origin, these stars have the same characteristics and we can do an isochronal fit to estimate different parameters like age, distance or metalicity. These quantities can then be related to the oscillations observed in each one of these stars.
+
+Furthermore, thanks to the high quality of K2 data and the new techniques that the community has developed, we can improve our results from terrestrial observations made by STEPHI's network.
+
+# Targets requested by this program that have been observed (8)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210668119, 55.669612, 17.916941, 12.09, GO4040_SC|GO4033_LC|GO4040_LC
+211044267, 56.86178, 23.678337, 7.815, GO4040_SC|GO4018_LC|GO4048_LC|GO4033_LC|GO4007_LC|GO4086_LC|GO4035_LC|GO4040_LC|GO4024_LC
+211069629, 55.807739, 24.086053, 15.809, GO4040_SC|GO4057_LC|GO4040_LC
+211072836, 56.830613, 24.13912, 8.827, GO4040_SC|GO4018_LC|GO4048_LC|GO4021_LC|GO4033_LC|GO4086_LC|GO4012_LC|GO4045_LC|GO4035_LC|GO4040_LC|GO4024_LC
+211088007, 55.930186, 24.374585, 8.882, GO4040_SC|GO4018_LC|GO4048_LC|GO4033_LC|GO4012_LC|GO4040_LC|GO4024_LC
+211093705, 56.393568, 24.463303, 9.053, GO4040_SC|GO4018_LC|GO4060_LC|GO4048_LC|GO4033_LC|GO4007_LC|GO4086_LC|GO4012_LC|GO4035_LC|GO4040_LC|GO4024_LC
+211101694, 56.850253, 24.588428, 8.664, GO4040_SC|GO4018_LC|GO4048_LC|GO4033_LC|GO4086_LC|GO4035_LC|GO4040_LC|GO4024_LC
+211115721, 56.764798, 24.819928, 8.817, GO4040_SC|GO4018_LC|GO4048_LC|GO4033_LC|GO4086_LC|GO4064_LC|GO4012_LC|GO4035_LC|GO4040_LC|GO4024_LC

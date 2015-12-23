@@ -1,0 +1,37 @@
+# Summary of K2 Program GO5072
+
+Title: Discovering Planets Orbiting Bright Stars Suitable for Atmospheric Characterization
+
+PI: Fischer, Debra Ann (Yale University)
+CoIs: Boyajian, Tabetha Suzanne; Wang, Ji; Schmitt, Joseph; Madhusudhan, Nikku
+
+We propose to observe 73 bright (K < 10), mostly solar-type, main sequence stars to discover transiting planet candidates.  We will eliminate false positives with follow-up Keck AO and measure their masses, a critical parameter for atmospheric modeling, with Yale Keck-HIRES time.  With planets suitable for atmospheric follow-up (i.e., typically planets with large atmospheres), we will use Yale time on a new, near-IR spectrograph, MRO-NESSI, to measure and characterize their atmospheres.  The host star brightness will allow for robust measurements of their pressure-temperature profiles and atmospheric compositions, adding to the extremely small collection of other exoplanets with well-characterized atmospheres orbiting bright stars.  Other potential discoveries include the presence of disequilibrium chemistry and thermal inversions.  A well-characterized exoplanet atmosphere provides important information on planet formation, the planet_x0019_s structure, and fundamental atmospheric physics, while also providing the crucial building blocks towards future measurements of a habitable, Earth-like planet_x0019_s atmosphere.
+
+The discovery of the transiting candidates will be made via a transit-finding computer algorithm and by visual inspection of the light curves for this limited set of stars. To engage the public in this search, we will feature these light curves on the citizen science Planet Hunters project (PI: D. Fischer and C. Lintott) to allow our public volunteers to participate in the search for transiting planets.  This project continues Kepler_x0019_s legacy of discovering and characterizing planets. The ability to complete this project is enabled by Kepler_x0019_s wide-field, continuous monitoring to achieve precise photometric observations for a large number of stars simultaneously.  The deliverable of this project will be at least one bright, nearby exoplanet with measured atmospheric properties. These bright stars will be prime targets for subsequent studies and may eventually serve as targets for the search for life on other planets.
+
+# Targets requested by this program that have been observed (24)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211369808, 133.697837, 11.155964, 9.63, GO5020_LC|GO4104_LC|GO4109_LC|GO5072_LC
+211392382, 129.961633, 11.522669, 8.25, GO5007_LC|GO5033_LC|GO5057_LC|GO5071_LC|GO4104_LC|GO5023_LC|GO5060_LC|GO5072_LC|GO5098_LC
+211491918, 123.649641, 13.022828, 8.74, GO5007_LC|GO5029_LC|GO5071_LC|GO4104_LC|GO5060_LC|GO4109_LC|GO5098_LC|GO5072_LC
+211529519, 130.139598, 13.556391, 9.908, GO5007_LC|GO5020_LC|GO5029_LC|GO5033_LC|GO5046_LC|GO5057_LC|GO4104_LC|GO5060_LC|GO5072_LC
+211566266, 125.230541, 14.071338, 9.231, GO5007_LC|GO5029_LC|GO5057_LC|GO5071_LC|GO4104_LC|GO5060_LC|GO5098_LC|GO4109_LC|GO5072_LC
+211575521, 124.805785, 14.200683, 7.722, GO5007_LC|GO5057_LC|GO4104_LC|GO5072_LC
+211635860, 123.783354, 15.039905, 10.851, GO5007_LC|GO5020_LC|GO5029_LC|GO5060_LC|GO5072_LC|GO5011_LC|GO4109_LC
+211642294, 129.28317, 15.129313, 10.787, GO5002_SC|GO4102_SC|GO5098_SC|GO5002_LC|GO5020_LC|GO5029_LC|GO5071_LC|GO5081_LC|GO4104_LC|GO5060_LC|GO4102_LC|GO5011_LC|GO4109_LC|GO5072_LC|GO5098_LC
+211693168, 128.127209, 15.823942, 9.93, GO5020_LC|GO4104_LC|GO5060_LC|GO5072_LC|GO4109_LC
+211750200, 133.672957, 16.611211, 8.453, GO5007_LC|GO5029_LC|GO5033_LC|GO4104_LC|GO5023_LC|GO5072_LC|GO5064_LC
+211773901, 131.36938, 16.945701, 9.228, GO5007_LC|GO5029_LC|GO5033_LC|GO4104_LC|GO5060_LC|GO5072_LC
+211795547, 129.304031, 17.254067, 9.024, GO5007_LC|GO5029_LC|GO5033_LC|GO4104_LC|GO5060_LC|GO5072_LC
+211826254, 132.653639, 17.689322, 9.221, GO5007_LC|GO5029_LC|GO5033_LC|GO4104_LC|GO5022_LC|GO5060_LC|GO5072_LC
+211915941, 124.62126, 18.964717, 9.541, GO5007_LC|GO5029_LC|GO4104_LC|GO5060_LC|GO5072_LC
+211921787, 123.170285, 19.051342, 11.056, GO5007_LC|GO5029_LC|GO4104_LC|GO5072_LC
+211993252, 133.046511, 20.143423, 10.231, GO5007_LC|GO5029_LC|GO5033_LC|GO4104_LC|GO5060_LC|GO5072_LC
+212001861, 123.715924, 20.285117, 10.174, GO5007_LC|GO5020_LC|GO5052_LC|GO4104_LC|GO5023_LC|GO5064_LC|GO5072_LC
+212026577, 132.099962, 20.696475, 8.777, GO5007_LC|GO5033_LC|GO4104_LC|GO5060_LC|GO5072_LC|GO5083_LC
+212080687, 131.366439, 21.653576, 10.339, GO5007_LC|GO5012_LC|GO5018_LC|GO5024_LC|GO5029_LC|GO5032_LC|GO5033_LC|GO5048_LC|GO5052_LC|GO4104_LC|GO5060_LC|GO5072_LC
+212091107, 125.878798, 21.849362, 9.167, GO5007_LC|GO5020_LC|GO5029_LC|GO5071_LC|GO4104_LC|GO5060_LC|GO5072_LC|GO4109_LC
+212127059, 133.185455, 22.558395, 10.684, GO5007_LC|GO5029_LC|GO5033_LC|GO5046_LC|GO5057_LC|GO4104_LC|GO5060_LC|GO5072_LC
+212143260, 132.543638, 22.88962, 10.06, GO5007_LC|GO5029_LC|GO5033_LC|GO5052_LC|GO4104_LC|GO5060_LC|GO5072_LC
+212159707, 129.232423, 23.246654, 9.33, GO5007_LC|GO4104_LC|GO5023_LC|GO5072_LC|GO4109_LC|GO5064_LC
+212164789, 126.760366, 23.365086, 8.865, GO5007_LC|GO4104_LC|GO5060_LC|GO5072_LC

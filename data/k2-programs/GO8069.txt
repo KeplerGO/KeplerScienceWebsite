@@ -1,0 +1,31 @@
+# Summary of K2 Program GO8069
+
+Title: The search for "extragalactic" exoplanets in the Sagittarius stream
+
+PI: Hogg, David W (New York University)
+CoIs: Foreman-Mackey, Daniel; Price-Whelan, Adrian M
+
+The proposed pointing for Campaign 8 of the K2 Mission presents an unprecedented opportunity to discover and characterize planets transiting stars belonging to the Sagittarius stellar stream (Sgr stream). The Sgr stream is a well-studied tidal debris structure that wraps around the entire Milky Way and is detected in many different stellar populations (from main sequence to M and K giant stars). The nearest sections of the stream visible in Field 8 span a range of distances from 10-30 kpc, closer than satellite galaxies around the Milky Way but still many times the distance of the farthest known transiting exoplanets. Even at these distances, K2 will be able to easily observe giant stars.
+
+We have developed a method for exoplanet transit search using K2 data that resulted in the publication of the first systematic catalog of transit candidates based on a K2 data release. This method can robustly detect transiting exoplanets despite the large systematic variability introduced by the diminished pointing precision of the Kepler spacecraft and it is reasonably complete to faint apparent magnitudes (Kp ~ 17-18 mag).
+
+We propose to target the brightest (~100) Sgr stream member stars in Campaign 8 of the K2 Mission and, using our transit detection procedure, search the light curves for large planets transiting these giant stars. These signals will be small and the light curves will be noisy, therefore robust noise modeling will be crucial for transit signal discovery. While the chance of discovering a transiting planet belonging to the Sgr stream is low, the cost is low and the discovery of even a single transiting planet of extragalactic origin would be exciting.
+
+# Targets requested by this program that have been observed (16)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+220189330, 14.4389257, -0.411892, 16.449, GO8069_LC
+220201765, 17.6102123, 0.059295, 14.731, GO8069_LC
+220215515, 13.5444088, 0.550792, 16.25, GO8069_LC
+220215985, 19.8309917, 0.567829, 14.588, GO8069_LC
+220246285, 10.9870472, 1.493697, 16.278, GO8069_LC
+220257822, 20.015749, 1.730853, 16.435, GO8069_LC
+220262073, 21.9555416, 1.823597, 14.746, GO8069_LC
+220277043, 16.2570496, 2.144233, 16.581, GO8069_LC
+220282337, 21.4339447, 2.2579961, 16.288, GO8069_LC
+220318583, 18.6583424, 3.0303249, 14.626, GO8069_LC
+220321867, 10.1073732, 3.1028619, 15.915, GO8031_LC|GO8069_LC
+220384650, 15.7983046, 4.4069848, 14.563, GO8069_LC
+220439455, 22.9120789, 5.47929, 14.379, GO8069_LC
+220483096, 18.1389408, 6.3864541, 15.686, GO8031_LC|GO8069_LC
+220534635, 11.219677, 7.5430608, 15.235, GO8069_LC
+220687205, 16.6252956, 11.1194448, 14.457, GO8069_LC

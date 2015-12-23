@@ -1,0 +1,35 @@
+# Summary of K2 Program GO5093
+
+Title: Understanding extreme horizontal branch stars via asteroseismology
+
+PI: Reed, Mike D (Missouri State University)
+CoIs: 
+
+We propose to explore core structure of horizontal branch stars by applying asteroseismological tools to Kepler data of extreme horizontal branch (spectral class subdwarf B) stars. Subdwarf B (sdB) stars are the atmosphere-stripped cores of horizontal branch stars. Many happen to pulsate, and that allows us to probe their structure. From Kepler's main mission, we learned how to identify pulsation modes and to constrain structure models from period spacings and frequency multiplets.
+
+        Period spacings also help to discern internal structure and age since some stars show substantial mode trapping while in others it appears to be absent. The amount (and location) of the mode trapping sequence is a function of the core structure which evolves with time. By sampling sdB stars of different evolutionary age and envelope mass, we can use the small deviations of period spacings to constrain structure models.
+
+        Frequency multiplets also tell us the rotation period and orientation of the pulsation axis. From this information we have discovered that rotation periods are long (20-100 days), even for stars with binary period down to 0.4 days. This is a surprising result as it has been assumed that close binaries quickly tidally lock their components.
+
+        We made significant progress from the original Kepler mission. However, to fully exploit those advances, we need to complete the characterization of helium-fusing cores across their range of age (from zero-age to terminal-age on the horizontal branch) and temperature (an indicator of the envelope-to-core mass ratio). It would also be a huge benefit to have more examples of pulsators in binaries, as that allows us to further explore how angular momentum is conserved and/or transferred during envelope ejection.
+
+        To continue working toward a complete understanding of horizontal branch cores (including mass loss and post-helium-flash evolution), we are proposing that K2 obtain short-cadence (SC) observations of a selection of likely sdB pulsators and long-cadence (LC) observations of remaining sdB stars. The SC data can fully explore pulsations and short-period (1 day) binaries and while the LC data can detect some pulsations while still exploring binary sdB stars, especially the longer-period ones.
+
+        Our team has extensively explored many aspects of sdB stars, including spectroscopic characterization, binary properties, and the application of asteroseismic tools. We have been examining sdB stars since their pulsations were discovered in 1996 and have published over 20 papers from Kepler's main mission.
+
+        We have also incorporated students into our work. Many of our papers include graduate and undergraduate students as signficant contributors. Missouri State University does not have a graduate program, and as a result, undergraduate students have learned to process, analyze, and interpret NASA Satellite data to detect pulsations and signatures of binarity. They have also been involved in pre- and post-Kepler characterization studies, providing them with a broad range of training.
+
+# Targets requested by this program that have been observed (12)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211400847, 131.195875, 11.652843, 16.432, GO5050_SC|GO5093_SC|GO5047_LC|GO5050_LC|GO5093_LC
+211495446, 130.432738, 13.074995, 14.03, GO5065_SC|GO5093_SC|GO5047_LC|GO5065_LC|GO5093_LC
+211499370, 126.486699, 13.131541, 14.601, GO5050_SC|GO5093_SC|GO5047_LC|GO5050_LC|GO5057_LC|GO5093_LC
+211696659, 129.016618, 15.871219, 15.502, GO5050_SC|GO5093_SC|GO5001_LC|GO5047_LC|GO5050_LC|GO5093_LC
+211708181, 123.140314, 16.023293, 13.775, GO5050_SC|GO5093_SC|GO5001_LC|GO5047_LC|GO5050_LC|GO5093_LC
+211727748, 130.344641, 16.292858, 14.99, GO5050_SC|GO5093_SC|GO5001_LC|GO5047_LC|GO5050_LC|GO5093_LC
+211779126, 134.205286, 17.020746, 12.925, GO5050_SC|GO5065_SC|GO5093_SC|GO5047_LC|GO5050_LC|GO5065_LC|GO5093_LC
+211823779, 125.014, 17.653958, 15.224, GO5093_SC|GO5001_LC|GO5047_LC|GO5093_LC
+211841249, 126.895703, 17.898908, 14.646, GO5050_SC|GO5093_SC|GO5001_LC|GO5047_LC|GO5050_LC|GO5093_LC
+211938328, 129.050164, 19.298929, 15.781, GO5050_SC|GO5093_SC|GO5047_LC|GO5050_LC|GO5057_LC|GO5093_LC
+212108396, 126.19709, 22.186932, 16.021, GO5093_SC|GO5001_LC|GO5047_LC|GO5093_LC
+212137838, 127.260962, 22.776864, 16.54, GO5093_SC|GO5047_LC|GO5093_LC

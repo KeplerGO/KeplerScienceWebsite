@@ -1,0 +1,15 @@
+# Summary of K2 Program GO5053
+
+Title: Measuring the Light Curves of the Binary Black Hole Candidate OJ287 and Other Fermi Blazars
+
+PI: Wehrle, Ann E. (Space Science Institute)
+CoIs: Wiita, Paul J; Carini, Michael Thomas
+
+We propose to measure the K2 long cadence light curves of the blazar OJ 287 and several other Fermi gamma-ray blazars. OJ 287 may contain a close binary supermassive black hole, based on substantial evidence of a ~12-year periodicity in optical light curves.  OJ 287 is visible to the K2 mission in Campaign 5 in summer 2015, a few months before a major outburst is anticipated. OJ 287 is detected strongly by the Fermi gamma-ray mission. We will compare the properties of the OJ 287 light curve to those of other Fermi blazars for which we have approved and proposed K2 observations.  Seven additional Fermi blazars will be observable with high precision  in K2 Campaigns 4 and 5.  Our scientific goal is to determine the origin of optical emission in these gamma ray blazars at the time of K2 observations.  The three candidate origins are:  1) a single dominant synchrotron-emitting region in a jet; 2) substantial contributions from multiple synchrotron-emitting regions in a jet; and 3) an accretion disk with multiple thermal emitting regions.
+
+# Targets requested by this program that have been observed (4)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211394951, 131.803887, 11.56392, 17.331, GO5053_LC|GO5038_LC
+211504760, 130.198279, 13.206547, 18.264, GO5053_LC
+211559047, 136.395776, 13.968441, 16.404, GO5053_LC
+211991001, 133.703657, 20.10851, 14.819, GO5038_SC|GO5053_LC|GO5056_LC|GO5096_LC|GO5038_LC

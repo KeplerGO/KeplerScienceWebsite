@@ -1,0 +1,69 @@
+# Summary of K2 Program GO7024
+
+Title: Short-Duration Flares on Mira Stars
+
+PI: Schaefer, Bradley E. (Louisiana State University)
+CoIs: 
+
+Mira stars are slowly pulsating red giant stars with periods of order a year, so it came as a startling surprise when they were discovered to have short-duration flares (Schaefer 1991).  These flares were observed with amplitudes 0.4 to 1.4 mag and durations from 3 minutes to 3 hours, and were visible in both the optical and the radio.  Mira flares have been confirmed by Maffei & Tosti (1995), de Laverny et al. (1998), and Stencel et al. (2003), with flare durations lasting up to 6 days.  However, studies by Mais et al. (2004), Wozniak et al. (2004), and Lebzelter (2011) have failed to find any flares on various samples of red giants.  It is currently unclear what subset of Mira stars and what phases show flares, no detailed models have been made, and we have little knowledge of flare demographics.  Models of Mira flares (e.g., Struck et al. 2002) point to magnetic reconnection involving planets orbiting the Mira star.
+	
+The original Kepler mission did look at 317 M giant stars, but this includes only two classic Mira stars (Banyai et al. 2013).  They do not report any flares, but they only report on Fourier transforms for periods longer than a day, so this study was not sensitive to Mira flares.  Nevertheless, this study provides a proof that Kepler can follow Mira stars with 30-minute time resolution and ~0.1 millimag accuracy.  I have already made successful K2 proposals for 3+30+5+2 Miras in Fields 0, 2, 4, and 5.  (Fields 1 & 3 have no Mira stars.)  I have already reduced the Field 0 light curves, and I find flares at the 0.0005 to 0.0020 mag level.
+	
+For K2 Fields 6 & 7, I have selected 2 and 49 targets, all confirmed Mira variables.  I selected only those that are always brighter than V=16, to ensure good photometric accuracy, and to avoid biasing against flares near minimum.  All targets are on-chip by K2fov.
+	
+I propose to have Kepler monitor Mira stars during the K2 mission for Fields 6 & 7, with the 30-minute cadence, with the goal to be to discover flares from a few minutes to days in duration.  (Even with a 3 minute flare, a 0.1 mag amplitude event would be easily detected as a 10 millimag event which should be highly significant.)  The analysis would be to subtract a long-term spline-fit to the light curve, make running box-averages over a wide range of bin-sizes, and seek flares above a 5-sigma significance level (after accounting for the number of trials and bins searched).  This statistical limit will be applicable to fast flares, while flares longer than a day or so will be limited by the accuracy of interpolating the before-and-after light curve.  For flares found, amplitudes, durations, phases, energy estimates, and light curves would be published, along with demographic results like size-frequency distributions.
+	
+RELEVANCE.    Ground-based light curves are notoriously difficult to find small rare flares, while the Kepler satellite solves this due to having sub-millimag accuracy and a relentless light curve without gaps for many months.  So Kepler is unique at being able to address the many big unknowns regarding Mira flares.  My small K2 program will increase the number of Mira stars monitored by Kepler from 2 (for the original Kepler field) to 93 (with Fields 0-7), and so will make such a big advance that it has the potential for solving many of the questions.  K2 will provide the first accurate and full-coverage light curve for the startling flares on Mira stars, and will give detailed demographic properties, like flare frequency/size/duration as a function of Mira type, period, and phase.
+	
+Banyai, E. et al. 2013, MNRAS, 436, 1576	
+de Laverny, P. et al. 1998, A&A, 330, 169
+Lebzelter, T. 2011, A&A, 530, A35		
+Maffei, P., & Tosti, G. 1995, AJ, 109, 2652
+Mais, D. et al. 2004, JAAVSO, 33, 48	
+Schaefer, B. E. 1991, ApJ, 366, L39
+Stencel, R. et al. 2003, in 12th Cambridge Workshop on Cool Stars, p. 1074
+Struck, C. et al. 2002, ApJLett, 572, L83.	
+Wozniak, P. et al. 2004, AJ, 127, 2436
+
+# Targets requested by this program that have been observed (40)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+213197918, 286.6325073, -30.3361664, 10.124, GO7024_LC
+213242980, 287.5879517, -30.1512413, 12.976, GO7024_LC
+213328461, 290.2857971, -29.827425, 11.315, GO7016_LC|GO7024_LC
+214110981, 283.4542236, -27.3493214, 8.536, GO7024_LC
+214193925, 284.8166504, -27.1241322, 12.348, GO7024_LC|GO7032_LC
+214255814, 282.6286926, -26.9592972, 11.306, GO7016_LC|GO7024_LC
+214718078, 288.4955139, -25.808075, 6.864, GO7024_LC|GO7032_LC
+214810175, 282.7305298, -25.5913219, 12.297, GO7032_LC|GO7024_LC
+214936080, 281.4957581, -25.3018246, 13.074, GO7032_LC|GO7024_LC
+214950155, 280.6504211, -25.2699814, 8.173, GO7024_LC
+215082803, 283.8308411, -24.9763889, 15.54, GO7024_LC
+215214095, 282.6030884, -24.6922226, 8.458, GO7032_LC|GO7024_LC
+215372953, 280.8602905, -24.3553886, 11.636, GO7024_LC
+215432362, 295.1630249, -24.2314091, 13.244, GO7024_LC
+215487620, 286.1229858, -24.1155319, 13.4, GO7024_LC
+215575259, 289.4284363, -23.9401779, 8.194, GO7024_LC
+215808401, 281.2124939, -23.5023422, 9.235, GO7024_LC
+215857222, 287.2887878, -23.4104748, 8.012, GO7024_LC|GO7032_LC
+216023883, 288.1468506, -23.1017418, 13.682, GO7024_LC
+216065247, 285.1320801, -23.0258389, 12.409, GO7024_LC
+216223443, 286.7449951, -22.7368889, 7.55, GO7024_LC
+216361745, 288.4579773, -22.4852448, 11.841, GO7024_LC
+217108364, 287.578186, -21.1571522, 10.946, GO7024_LC|GO7032_LC
+217119153, 281.719635, -21.1382332, 8.294, GO7024_LC
+217949053, 289.3782654, -19.6777897, 8.414, GO7024_LC|GO7032_LC
+218157973, 289.1741333, -19.307682, 8.334, GO7024_LC
+218233155, 291.5766602, -19.1721859, 11.833, GO7016_LC|GO7024_LC
+218270596, 282.4738464, -19.1045456, 12.068, GO7024_LC
+218315918, 289.8580322, -19.0235329, 6.313, GO7024_LC|GO7032_LC
+218432834, 288.6360474, -18.8119259, 9.87, GO7024_LC
+218456618, 290.5719299, -18.7688274, 8.294, GO7024_LC
+218498032, 286.4280396, -18.6943188, 11.94, GO7024_LC
+218596457, 291.7606506, -18.5140114, 8.96, GO7024_LC
+218621582, 281.4345093, -18.4673634, 13.687, GO7024_LC
+218786464, 291.2201538, -18.1564255, 10.8, GO7024_LC
+218889999, 292.9161682, -17.9599819, 11.105, GO7024_LC
+219013435, 285.4820862, -17.7137299, 8.615, GO7024_LC
+219184365, 287.3917236, -17.3405209, 11.405, GO7024_LC
+219346000, 289.0601501, -16.9714069, 10.68, GO7024_LC
+219548501, 288.4848633, -16.4743881, 11.782, GO7024_LC

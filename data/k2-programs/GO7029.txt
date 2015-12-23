@@ -1,0 +1,22 @@
+# Summary of K2 Program GO7029
+
+Title: Looking for Very Short Period Planets with the K2 Mission
+
+PI: Jackson, Brian K (Boise State University)
+CoIs: Adams, Elisabeth Rose; Endl, Michael
+
+Science Goals and Objectives  From wispy gas giants on the verge of disruption to tiny rocky bodies already falling apart, short period exoplanets pose a severe challenge to theories of planet formation and evolution, but they dominate observational constraints on planetary composition, internal structure, meteorology, and more. For instance, the only rocky exoplanets for which mass estimates can be made (except for the few fortuitous systems that exhibit transit-timing variations) are those in very short period orbits  Kepler-10 b and, recently, Kepler-78 b are two famous examples. Moreover, understanding the origins of very short period planets may elucidate key processes in formation and evolution. Gas disk migration may have brought the objects in from where they formed but would require disks extending to nearly the stellar surfaces, contrary to observations and theoretical expectations that stellar magnetospheres truncate gas disks much farther out. We propose to collect photometric observations of stars that may host very short period planets (with periods d 1 day) using the K2 mission. We will convert the raw K2 images into light curves and search for transits. We will follow up putative transit candidates with spectral and radial velocity observations to continue the already fruitful and exciting search for very short period planets.
+
+Targets  Our proposal will include d 1,000 main-sequence F-K stars, putting our proposal in the small category. We will select objects suitable for spectral observation and possible radial velocity (RV) follow-up and use the online tool provided by K2 to check that all targets fall on K2 silicon (code 2). We request that our targets be observed even if this proposal is not selected for funding.
+
+Methodology  For Task 1, we will generate photometric time series from the raw K2 images, and the Kepler PyKE python package provides the necessary capabilities, based on Vanderburg & Johnson (2014). For Task 2, we will detrend light curves and apply an automated search algorithm (EEBLS  Kovacs et al., 2002) to find transits. We will also perform (to the extent possible) photometric and pixel-level analyses to vet candidate signals. For Task 3, for vetted candidates, we will characterize host stars and collect RV observations using low-precision spectra to rule out binaries and blend scenarios. For available targets, we will collect and analyze precise RVs from the HRS spectrograph on the Hobby-Eberly Telescope (HET) at McDonald Observatory to confirm candidates as planets and estimate their masses. For targets inaccessible from McDonald, we will propose for follow-up observations at a suitable facility, Keck, for example.
+
+Relevance  This proposal will leverage the unique capabilities of the K2 mission to look for an unusual and astrophysically compelling class of planet.
+
+References
+Kovacs, G., Zucker, S., & Mazeh, T. 2002, AAP, 391, 369 
+Vanderburg, A., & Johnson, J. A. 2014, PASP, 126, 948
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+214794018, 284.6621094, -25.6289425, 10.525, GO7086_LC|GO7029_LC|GO7087_LC|GO7030_LC

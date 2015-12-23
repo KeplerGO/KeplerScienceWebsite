@@ -1,0 +1,58 @@
+# Summary of K2 Program GO5086
+
+Title: Using asteroseismology to trace the evolution of intermediate-mass stars in clusters
+
+PI: Antoci, Victoria (Aarhus University)
+CoIs: 
+
+The oscillating A and early F type stars, which do not obey scaling relationships as found in red giants and solar-like stars and are more complicated to analyze, also underwent a Keplerian revolution. For example, we have strong evidence that there is more than one pulsation mechanism at work in Delta Sct stars, showing that convection in the outer envelope can play an important role (Antoci et al. 2011, Antoci et al., submitted). Kurtz et al. (2014) measured for the first time the internal rotation rate for a Delta Sct/Gamma Dor hybrid from examination of splittings of individual oscillation modes.
+
+Here we propose to observe all known pulsators, fainter than 7th magnitude in the V band, of Gamma Dor, Delta Sct, SPB and Be type as well as stars with reliable spectral type identification and atmospheric parameter measurements (v sin i, Teff , log g, ...). Our selected stars are located in clusters that are visible in campaigns 4 and 5. We wish to observe over a hundred of stars in these clusters. The Pleiades, NGC 1647, Hyades, M44 and M67 cover a range of ages (approximately 100 Myr to 4.8 Gyr) and offer _x0018_snapshots_x0019_ in the life of stars over a range of masses with approximately the same initial chemical composition. All clusters, with the exception of M67, are young enough to harbour pulsating, intermediate-mass stars on or near the main sequence. In the case of M67 the turn-off mass is only slightly higher than the solar one, meaning that all massive stars have evolved off the main sequence. However, this cluster has several known pulsating blue stragglers, which are thought to be the product of mergers or accretion in binary systems. The true origin of these stars is still under debate but studying their oscillations may uncover their formation scenario. For example, the helium content in the merger scenario is higher and this will influence the oscillatory behaviour, which we can measure. In other words the K2 mission can for the first time offer a homogeneous sample of oscillating intermediate-mass stars over a range of well determined ages and chemical compositions.
+
+Work plan: After basic photometric reductions and identification of the pulsation modes, we plan to do an asteroseismic analyses of the light curves and explore their oscillatory behaviour. We will use the asteroseismic results to test the recently suggested driving mechanism proposed by Antoci et al. (submitted), which is related to the turbulent pressure in the stellar envelope. We will also probe the edges of the instability regions in the HR diagram and select the best targets to do theoretical in-depth studies. K2 is the only mission in the near future, to do the science proposed here because it delivers homogeneous observations and long uninterrupted data sets of pulsating stars in clusters with sufficient precision over a large range of magnitudes. We will be able to determine the oscillation frequencies unambiguously even for the stars oscillating with periods shorter than the Nyquist frequency imposed by the LC data, as studied by Murphy et al. (in prep).
+
+To summarize, the combination of homogeneous K2 observations with already available ground-based photometric and spectroscopic data as well as constrains set from cluster ensemble studies and eclipsing binary systems is a unique opportunity to do asteroseismic studies of early-type stars.
+
+# Targets requested by this program that have been observed (41)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211797674, 127.413818, 17.283503, 10.548, GO5007_LC|GO5020_LC|GO5029_LC|GO5052_LC|GO5057_LC|GO5086_LC|GO4104_LC|GO5060_LC
+211910450, 129.200014, 18.882806, 8.976, GO5018_LC|GO5021_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5045_LC|GO5048_LC|GO5057_LC|GO5086_LC
+211910977, 131.32504, 18.890366, 9.561, GO5012_LC|GO5018_LC|GO5024_LC|GO5032_LC|GO5033_LC|GO5035_LC|GO5048_LC|GO5086_LC|GO5023_LC
+211912407, 130.490908, 18.911724, 9.352, GO5074_SC|GO5018_LC|GO5024_LC|GO5032_LC|GO5033_LC|GO5048_LC|GO5074_LC|GO5086_LC
+211914004, 130.545032, 18.934374, 7.949, GO5018_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5040_LC|GO5048_LC|GO5086_LC
+211927313, 129.426516, 19.133763, 9.79, GO5007_LC|GO5018_LC|GO5024_LC|GO5029_LC|GO5032_LC|GO5033_LC|GO5048_LC|GO5086_LC|GO5060_LC
+211927867, 130.400854, 19.142644, 9.351, GO5074_SC|GO5018_LC|GO5024_LC|GO5029_LC|GO5032_LC|GO5033_LC|GO5035_LC|GO5048_LC|GO5074_LC|GO5086_LC
+211931309, 130.137336, 19.194326, 8.929, GO5018_LC|GO5021_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5040_LC|GO5048_LC|GO5086_LC
+211933524, 130.163501, 19.228294, 9.156, GO5033_LC|GO5040_LC|GO5048_LC|GO5086_LC
+211935741, 130.326651, 19.260998, 8.059, GO5018_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5040_LC|GO5048_LC|GO5086_LC|GO5023_LC|GO5064_LC
+211936168, 130.439555, 19.267289, 10.075, GO5007_LC|GO5012_LC|GO5018_LC|GO5024_LC|GO5029_LC|GO5032_LC|GO5033_LC|GO5048_LC|GO5086_LC
+211936696, 129.936106, 19.275215, 9.167, GO5033_LC|GO5040_LC|GO5048_LC|GO5086_LC
+211939206, 129.968081, 19.312641, 10.137, GO5007_LC|GO5018_LC|GO5024_LC|GO5029_LC|GO5033_LC|GO5048_LC|GO5086_LC|GO4101_LC|GO4104_LC|GO5060_LC
+211945791, 130.527074, 19.411256, 7.958, GO5018_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5040_LC|GO5048_LC|GO5086_LC
+211950227, 130.106426, 19.475771, 9.816, GO5074_SC|GO5018_LC|GO5024_LC|GO5029_LC|GO5033_LC|GO5048_LC|GO5074_LC|GO5086_LC
+211951863, 129.695611, 19.500929, 9.168, GO5074_SC|GO5018_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5048_LC|GO5074_LC|GO5086_LC
+211953002, 129.41961, 19.518421, 8.722, GO5018_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5040_LC|GO5048_LC|GO5086_LC|GO5023_LC
+211954550, 130.362412, 19.54247, 9.796, GO5074_SC|GO5007_LC|GO5018_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5048_LC|GO5074_LC|GO5086_LC
+211954593, 130.669671, 19.543193, 9.841, GO5007_LC|GO5018_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5048_LC|GO5086_LC|GO5060_LC
+211957791, 129.787909, 19.592396, 8.817, GO5018_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5040_LC|GO5048_LC|GO5086_LC
+211972837, 129.977592, 19.82192, 13.547, GO5007_LC|GO5057_LC|GO5086_LC|GO4107_LC
+211973314, 130.294477, 19.829548, 8.981, GO5018_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5048_LC|GO5086_LC
+211979345, 130.307389, 19.921995, 8.337, GO5018_LC|GO5021_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5048_LC|GO5086_LC
+211980142, 130.237221, 19.934853, 8.629, GO5018_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5045_LC|GO5048_LC|GO5086_LC
+211980688, 130.357671, 19.943569, 10.609, GO5032_SC|GO5007_LC|GO5018_LC|GO5024_LC|GO5029_LC|GO5032_LC|GO5033_LC|GO5048_LC|GO5052_LC|GO5086_LC|GO4104_LC|GO5060_LC
+211983602, 129.657758, 19.989753, 8.616, GO5018_LC|GO5021_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5040_LC|GO5048_LC|GO5086_LC
+211983916, 130.063954, 19.994291, 8.743, GO5018_LC|GO5021_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5045_LC|GO5048_LC|GO5086_LC
+211984243, 129.764938, 19.999748, 8.708, GO5018_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5048_LC|GO5086_LC
+211985076, 129.390897, 20.013674, 8.633, GO5018_LC|GO5021_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5048_LC|GO5086_LC
+211986176, 129.996155, 20.031409, 9.39, GO5018_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5048_LC|GO5086_LC|GO5023_LC|GO5064_LC
+211988287, 129.979432, 20.065025, 10.076, GO5074_SC|GO5007_LC|GO5012_LC|GO5018_LC|GO5024_LC|GO5029_LC|GO5032_LC|GO5033_LC|GO5048_LC|GO5074_LC|GO5086_LC
+211990908, 130.092964, 20.106772, 10.042, GO5007_LC|GO5018_LC|GO5024_LC|GO5029_LC|GO5032_LC|GO5033_LC|GO5048_LC|GO5086_LC|GO5064_LC
+211991571, 129.771809, 20.117171, 9.503, GO5018_LC|GO5024_LC|GO5032_LC|GO5033_LC|GO5048_LC|GO5086_LC
+211994121, 129.993224, 20.158254, 9.182, GO5018_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5048_LC|GO5086_LC
+211994195, 130.471415, 20.159436, 8.948, GO5018_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5048_LC|GO5086_LC|GO5023_LC
+211995547, 130.590057, 20.181643, 9.36, GO5074_SC|GO5018_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5048_LC|GO5074_LC|GO5086_LC
+211995573, 130.111459, 20.182, 8.786, GO5033_LC|GO5040_LC|GO5048_LC|GO5086_LC
+212006227, 131.2676, 20.357739, 10.213, GO5007_LC|GO5018_LC|GO5024_LC|GO5029_LC|GO5032_LC|GO5033_LC|GO5048_LC|GO5086_LC|GO4101_LC|GO4104_LC|GO5060_LC
+212008515, 131.367724, 20.395389, 8.85, GO5018_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5045_LC|GO5048_LC|GO5086_LC
+212015247, 132.391251, 20.508089, 9.533, GO5018_LC|GO5024_LC|GO5032_LC|GO5033_LC|GO5035_LC|GO5048_LC|GO5086_LC
+212033939, 130.721109, 20.819236, 9.097, GO5018_LC|GO5024_LC|GO5033_LC|GO5035_LC|GO5048_LC|GO5086_LC

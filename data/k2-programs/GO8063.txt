@@ -1,0 +1,28 @@
+# Summary of K2 Program GO8063
+
+Title: Testing asteroseismology with bright red giants using C8 and C10 K2 timeseries and interferometry
+
+PI: Boyajian, Tabetha Suzanne (Yale University)
+CoIs: Silva Aguirre, Victor; Creevey, Orlagh; Huber, Daniel; White, Timothy R
+
+We propose to observe bright red giants stars in long cadence mode in the K2 campaign fields 8 and 10, where interferometric and high-resolution spectroscopic supporting observations will allow us to address several exciting science questions pertaining to 1) asteroseismic scaling relations, 2) chemical mixing processes in stellar interiors, and 3) the abundance of helium. 
+	Widely used in the asteroseismology of red giants, asteroseismic scaling relations connect stellar properties such as masses and radii to easy-to-derive seismic parameters such as the frequency of maximum power and the large frequency separation. Although scaling relations do have some theoretical justification, they are still mostly based on the only star whose parameters we truly know: the Sun. The precise seismic K2 observations coupled with high-quality ground-based interferometric and spectroscopic data of bright nearby giants will allow us to subject the scaling relations to the most demanding tests. 
+	The second application is to constrain the poorly understood mixing processes working inside red giants, such as thermohaline mixing, rotation, and deep circulation. These processes are predicted to have different impact at different stages of red giant evolution, and to leave imprints in the surface chemical composition of a star. Precise seismic log (g) from K2 time series, coupled with high resolution spectroscopy, will allow for a detailed abundance determination of a large number of chemical species. The correlations between elements (e.g. [C/ Fe] vs [N/ Fe]) and departure from their theoretically predicted values (as in the case of Li or 12 C/13 C) are tracers of internal mixing processes, and will be studied as a function of the seismically determined mass. 
+	The third goal of this proposal is to address one of the biggest uncertainties in stellar astrophysics: the abundance of helium in stars. The helium second ionization zone inside a star produces an abrupt change in the local sound speed, which is detectable in the Fourier spectrum of time series as a periodic variation. We will construct detailed models of red giants where this variation is detected, and coupled with independent constraints on angular diameter and detailed surface composition, we will put stringent constraints on the helium abundance of red giants and test our assumptions on enrichment laws of the Galaxy. 
+	We have selected ~40 bright (Kp~5-8) red giants which are ideally suited for this project due to their precisely determined distances, large angular sizes for interferometry, and detectable oscillations in the 80 day K2 baseline. Red giants observed by Kepler were generally too faint to meet these criteria, making K2 uniquely suited to perform these observations. Our proposal addresses compelling questions in stellar structure and evolution, and is hence directly related to the K2 GO solicitation.
+
+# Targets requested by this program that have been observed (13)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+220216322, 11.477417, 0.579407, 7.519, GO8063_LC|GO8031_LC|GO8036_LC
+220284887, 16.1817017, 2.313714, 8.186, GO8068_LC|GO8063_LC
+220329825, 16.5240669, 3.2746699, 8.07, GO8063_LC
+220374617, 16.4246063, 4.1985431, 7.073, GO8063_LC|GO8031_LC
+220388171, 10.2080021, 4.4783158, 8.321, GO8063_LC
+220456348, 13.492589, 5.8091521, 8.139, GO8063_LC
+220503133, 14.5810595, 6.8443112, 6.534, GO8063_LC|GO8031_LC
+220505841, 12.7657461, 6.899847, 8.349, GO8063_LC
+220524013, 15.41506, 7.3052931, 7.51, GO8063_LC|GO8040_LC|GO8031_LC
+220537649, 14.4937563, 7.6116271, 8.234, GO8063_LC
+220548055, 11.4181604, 7.8450208, 7.66, GO8063_LC|GO8040_LC|GO8031_LC|GO8036_LC
+220551967, 15.5285282, 7.9405222, 7.344, GO8063_LC|GO8031_LC
+220568655, 16.3505402, 8.3319941, 8.396, GO8063_LC

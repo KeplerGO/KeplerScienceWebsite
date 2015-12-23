@@ -1,0 +1,15 @@
+# Summary of K2 Program GO4028
+
+Title: Two eclipsing binaries in the Pleiades
+
+PI: Southworth, John (Keele University)
+CoIs: Chaplin, William J; Maxted, Pierre F
+
+Eclipsing binary star systems are a foundation stone of stellar astrophysics. Those which are members of stellar clusters are even more valuable because of the additional observational constraints which can be brought to bear on theoretical models of stellar evolution. Two eclipsing binaries are known to be members of the Pleiades, one of the closest and most important open clusters. Ground-based light curves of these objects yield imprecise measurements of their physical properties, whereas Kepler K2 observations will lead to mass and radius measurements to 0.5% accuracy and distances to 1.5%. These will be used to test the predictions of stellar theory, confirm the resolution of the Pleiades distance discrepancy, and measure the helium abundance of the cluster. Observations of K2 quality are critical to obtaining high-precision results.
+
+The K2 light curves will be modelled using the JKTEBOP code in order to determine the photometric parameters of the systems. Radial velocities will be obtained from ground-based spectroscopy using the ONECOR and TODCOR algorithms. The effective temperatures and chemical compositions of the stars will be measured from the spectra using spectral disentangling. Combining the results of these analyses will yield measurements of the stellar masses, radii and luminosities. Via empirical surface brightness calibrations we will determine the distances to the two objects to 1.5% precision and accuracy. High-quality echelle spectroscopy has already been obtained for one of the two targets; the data for the second target will be obtained in the 2015 observing season.
+
+# Targets requested by this program that have been observed (2)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210822691, 55.30942, 20.214874, 11.885, GO4028_LC|GO4057_LC|GO4060_LC|GO4033_LC|GO4007_LC|GO4104_LC
+211082420, 56.872724, 24.288344, 8.364, GO4028_LC|GO4018_LC|GO4057_LC|GO4048_LC|GO4033_LC|GO4007_LC|GO4045_LC|GO4035_LC|GO4024_LC

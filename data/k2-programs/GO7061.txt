@@ -1,0 +1,54 @@
+# Summary of K2 Program GO7061
+
+Title: Seismology of magnetic stars, massive stars and classical Be stars with K2 in Field 6 and Field 7
+
+PI: Buysschaert, Bram D (Institute for Astronomy, KU Leuven)
+CoIs: Briquet, Maryline; Moravveji, Ehsan; Aerts, Conny Clara; Neiner, Coralie
+
+Only a few dozen magnetic Bp stars, classical Be stars, and evolved massive OB-type stars have been previously observed from space. The majority of these observations were done with the CoRoT mission and only few have been monitored in Campaign 0 (C0) of the K2 mission. These data show a high variety of variability, much more diverse than anticipated. We aim to obtain a thorough understanding of this variability by increasing the sample with K2 data of higher quality than the C0 data.
+
+Magnetic massive Bp stars have a magnetic field frozen into the star after the star formation process initiated within the original molecular cloud. The field is aligned according to simple geometric configurations, most often a dipole configuration (e.g.  Neiner et al. 2012,A&A,537,A138). The magnetic field can influence the stellar oscillations (e.g.  magnetic mode splitting; Aerts et al. 2010 for a monograph on asteroseismology) and internal properties (e.g. inhibit mixing; Briquet et al. 2012,MNRAS,427,483). When information on the magnetic field and the seismic properties are combined, strong constraints can be made on the stellar modelling, providing detailed information about the physical processes in the stellar interior. We aim to increase drastically the sample of Bp stars for which such modelling can be performed.
+
+Classical Be stars are fast rotating massive stars which show emission in at least one Balmer line (Collins 987,IAUC,92,3). A circumstellar disk, which is fed by material of the star during periodic outbursts, is responsible for this emission. The reason of the outbursts is not yet fully understood, but it is believed to be related to the fast rotation combined with the stellar oscillations, since all Be stars pulsate. These pulsations can either be caused by the º-mechanism, giving rise to ² Cep or SPB type pulsators, or by stochastic excitation which are further enhanced by the rapid stellar rotation (Neiner et al. 2012,A&A,546, A47). Considering the latter type of pulsations Neiner et al. (2013, ASPC,479,319) concluded that gravito-inertial modes could be playing a key-role in the formation of the circumstellar disks of Be stars by angular momentum transport. We intend to test this scenario, as well as to study the internal properties of the Be stars, from a large K2 sample.
+
+Our last group of proposed targets are the very massive (evolved) OB-type stars. Less than a dozen of these targets were ever observed with photometry from space. Five unevolved O stars were measured with CoRoT (e.g. Briquet et al. 2011, A&A,527,A112). The stellar structure and evolution of OB supergiants remains largely uncertain. We have analysed the five O stars observed in C0 of K2 (Buysschaert et al., in preparation) and found one pulsator and several rotationally modulated stars, but the data quality is too limited and too short in time to perform detailed seismic modelling. A similar conclusion holds for the monitored supergiant candidates. We therefore propose to embark upon new investigations of O-type dwarfs and OB supergiants.
+
+The photometric accuracy and the high duty-cycle of K2 makes the mission best suited to reach our science goals. State-of-the-art modelling tools will be used to translate the seismic information to detailed stellar models. It is expected that none of these massive stars show photometric variations on very short timescales, therefore observations in long-cadence are sufficient.
+
+For the majority of the classical Be stars, spectra are already provided by the BeSS database (Neiner et al. 2011,AJ,142,149). Spectropolarimetric observations will be obtained with ESPaDOnS, HARPSpol or Narval. Our team members already worked together under the MASSIVE consortium and the gathered expertise will be optimal to assess the feasibility of the targets in the proposed Fields 6 and 7.  Around 30 targets were selected in for our study of classical Be stars, magnetic Bp stars and OB-type stars, combined over both fields.
+
+# Targets requested by this program that have been observed (33)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+213536762, 286.4454346, -29.0811234, 7.208, GO7061_LC|GO7042_LC|GO7030_LC
+213786701, 281.9047852, -28.2797241, 7.498, GO7061_LC|GO7019_LC|GO7042_LC|GO7030_LC
+214133870, 286.5802002, -27.2870884, 7.5, GO7061_LC|GO7019_LC|GO7042_LC|GO7030_LC
+214197027, 282.1448059, -27.1158218, 10.292, GO7061_LC|GO7030_LC
+214230785, 284.5745544, -27.0258217, 9.402, GO7061_LC|GO7042_LC|GO7030_LC
+214282058, 283.6587219, -26.8900661, 8.386, GO7061_LC|GO7042_LC|GO7030_LC
+214503319, 286.790741, -26.3317986, 9.376, GO7061_LC|GO7030_LC
+214775703, 287.7451477, -25.6721401, 10.369, GO7061_LC|GO7016_LC
+215357858, 282.7858582, -24.3873672, 9.324, GO7061_LC|GO7030_LC
+215431167, 282.5220032, -24.2340088, 10.134, GO7061_LC|GO7087_LC|GO7030_LC
+215584931, 280.3528748, -23.922472, 10.063, GO7061_LC
+215636676, 284.3228455, -23.827364, 10.282, GO7061_LC|GO7016_LC|GO7042_LC
+215876375, 293.7147522, -23.3748474, 9.72, GO7061_LC|GO7078_LC|GO7016_LC|GO7030_LC
+215964333, 280.3746948, -23.2117996, 9.926, GO7061_LC|GO7021_LC|GO7016_LC|GO7042_LC|GO7030_LC
+216005035, 291.4172974, -23.1367073, 9.73, GO7061_LC|GO7016_LC
+216006623, 280.5494995, -23.1338425, 9.135, GO7061_LC|GO7016_LC|GO7042_LC|GO7030_LC
+216262918, 280.0458679, -22.6638336, 8.837, GO7061_LC|GO7016_LC|GO7042_LC|GO7030_LC
+216652481, 279.8759766, -21.9655571, 8.013, GO7061_LC|GO7016_LC|GO7042_LC|GO7030_LC
+216719726, 286.3192139, -21.8463783, 9.864, GO7061_LC|GO7016_LC|GO7042_LC
+216956748, 290.6815186, -21.4243126, 10.573, GO7061_LC|GO7078_LC
+217323447, 289.1951294, -20.7764778, 9.592, GO7061_LC|GO7078_LC|GO7016_LC
+217437213, 285.9190369, -20.5769119, 9.333, GO7061_LC|GO7016_LC|GO7030_LC
+217524417, 284.5448608, -20.4237614, 7.103, GO7061_LC|GO7017_LC|GO7078_LC|GO7040_LC|GO7042_LC|GO7030_LC
+217692814, 285.888031, -20.1285934, 7.931, GO7061_LC|GO7042_LC|GO7030_LC
+217954347, 283.2394409, -19.6683712, 9.078, GO7061_LC|GO7016_LC|GO7042_LC|GO7030_LC
+218341250, 283.829834, -18.9776325, 9.06, GO7061_LC|GO7042_LC|GO7030_LC
+218490752, 286.1997375, -18.70755, 8.827, GO7061_LC|GO7042_LC
+218676652, 281.4718018, -18.3640652, 8.384, GO7061_LC|GO7030_LC
+218818457, 285.1120911, -18.0955982, 10.411, GO7061_LC|GO7030_LC
+219198038, 285.8625183, -17.3100052, 9.046, GO7061_LC|GO7016_LC|GO7030_LC
+219353144, 289.8475647, -16.9545574, 9.725, GO7061_LC|GO7019_LC|GO7042_LC
+219390193, 286.3120117, -16.8668365, 8.103, GO7061_LC|GO7016_LC|GO7042_LC|GO7030_LC
+219402549, 287.7351074, -16.8370819, 11.764, GO7061_LC|GO7030_LC|GO7042_LC

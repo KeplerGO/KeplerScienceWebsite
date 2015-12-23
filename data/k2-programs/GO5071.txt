@@ -1,0 +1,18 @@
+# Summary of K2 Program GO5071
+
+Title: Monitoring Targets Within 100 Light Years
+
+PI: Redfield, Seth (Wesleyan University)
+CoIs: 
+
+Temporal monitoring of stars within 100 light years provides an opportunity to search for close planetary systems that are optimal for follow-up studies, as well as evaluate the stellar properties that are critical to the evolution of planetary atmospheres.  A complete census of the physical properties of a star and planetary system is necessary for an evaluation of the habitability of planets.  It is precisely these nearest systems that the question of habitability will be examined in greatest detail in the decades to come.  I propose for consideration the sample of all nearby stars with reliable parallaxes within 100 light years (or 30.7 pc).  The sample is expected to be less than 30 targets, and they may be observed with the long cadence.  While the probability of a detection of a planet in such a small sample is low, given the total sample in all K2 campaigns, it is favorable that such a nearby planetary system will be detected.  If so, it is likely to be one of the most heavily scrutinized systems given the relative ease of follow-up observations.  This not only applies to the planetary properties (e.g., planetary atmosphere measurements, astrometry, direct imaging, spin-orbit alignment measurements), but also the stellar properties (e.g., metallicity, activity, wind strength), and even the circumstellar (e.g., debris disk, exozodical emission) and surrounding interstellar properties.  For example, stellar winds are critical to the long-term evolution of planetary atmospheres, even when they are relatively weak, like those of solar-like stars.  The only method of measuring such winds is through the interaction of the interstellar medium and the stellar wind, which creates an astrosphere.  This requires some knowledge of the surrounding interstellar medium and stellar properties, and has only been successful for very nearby stars.  Therefore, given its proximity, a planet found in the proposed sample of nearby stellar systems has the best opportunity to be fully characterized with a comprehensive and robust suite of measurements.
+
+# Targets requested by this program that have been observed (7)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211392382, 129.961633, 11.522669, 8.25, GO5007_LC|GO5033_LC|GO5057_LC|GO5071_LC|GO4104_LC|GO5023_LC|GO5060_LC|GO5072_LC|GO5098_LC
+211491918, 123.649641, 13.022828, 8.74, GO5007_LC|GO5029_LC|GO5071_LC|GO4104_LC|GO5060_LC|GO4109_LC|GO5098_LC|GO5072_LC
+211566266, 125.230541, 14.071338, 9.231, GO5007_LC|GO5029_LC|GO5057_LC|GO5071_LC|GO4104_LC|GO5060_LC|GO5098_LC|GO4109_LC|GO5072_LC
+211642294, 129.28317, 15.129313, 10.787, GO5002_SC|GO4102_SC|GO5098_SC|GO5002_LC|GO5020_LC|GO5029_LC|GO5071_LC|GO5081_LC|GO4104_LC|GO5060_LC|GO4102_LC|GO5011_LC|GO4109_LC|GO5072_LC|GO5098_LC
+211944670, 127.906521, 19.394282, 10.549, GO5057_LC|GO5071_LC|GO5097_LC|GO5023_LC|GO4109_LC|GO5098_LC|GO5064_LC
+211944676, 127.906656, 19.394321, 9.904, GO5023_LC|GO5071_LC|GO5081_LC|GO5098_LC
+212091107, 125.878798, 21.849362, 9.167, GO5007_LC|GO5020_LC|GO5029_LC|GO5071_LC|GO4104_LC|GO5060_LC|GO5072_LC|GO4109_LC

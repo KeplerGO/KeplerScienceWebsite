@@ -1,0 +1,25 @@
+# Summary of K2 Program GO8004
+
+Title: Understanding extreme horizontal branch stars using asteroseismology; including a known p-mode pulsator and MS companions
+
+PI: Reed, Mike D (Missouri State University)
+CoIs: Ostensen, Roy H.; Jeffery, Christopher Simon; Baran, Andrzej S; Telting, John
+
+We propose to explore core structure of horizontal branch (HB) stars by applying asteroseismological tools to Kepler data of extreme horizontal branch (spectral class subdwarf B) stars. Subdwarf B (sdB) stars are the atmosphere-stripped cores of horizontal branch stars. Many happen to pulsate, and many of these are also in short-period binaries, and that provides us with sensitive probes of their structure. In C8, there is a known p-mode sdB star in a long-period binary with an FV star. This provides only the second rich p-mode example using Kepler, with binarity as a bonus! 
+     From Kepler's main mission, we learned how to identify pulsation modes, determine rotation periods, detect Doppler boosting, and to constrain structure models from period spacings, frequency multiplets, and subsynchrous rotators via binarity. From K2 (F0 and F1), we have found the longest-period sdB+M binary and the first subsynchronously rotating ellipsoidal variable; both with pulsating sdB stars!
+     Period spacings also help to discern internal structure and age since some stars show substantial mode trapping while in others it appears to be absent. The amount (and location) of the mode trapping sequence is a function of the core structure which evolves with time. By sampling sdB stars of different evolutionary age and envelope mass, we can use the small deviations of period spacings to constrain structure models and see how HB cores evolve.
+     Frequency multiplets also tell us the rotation period and orientation of the pulsation axis. From this information we have discovered that rotation periods are long (20-100 days), even for stars with binary period down to 0.4 days. This is a surprising result as it has been assumed that close binaries quickly tidally lock their components; allowing us to explore how angular momentum is conserved and/or transferred during envelope ejection.
+     We have made significant progress and amazing discoveries from the original Kepler mission and our first K2 targets. However, to fully exploit those advances, we need to complete the characterization of helium-fusing cores across their range of age (from zero-age to terminal-age on the horizontal branch) and temperature (an indicator of the envelope-to-core mass ratio). And C8 includes a known p-mode pulsator, which would be only the second one observed by Kepler, providing extremely valuable information.
+     To continue working toward a complete understanding of horizontal branch cores (including mass loss and post-helium-flash evolution), we are proposing that K2 obtain short-cadence (SC) observations of two pulsating sdB stars in C8 and C10, with PG 0048 in C8 an already established pulsator.
+     Our team has extensively explored many aspects of sdB stars, including spectroscopic characterization, binary properties, and the application of asteroseismic tools. We have been examining sdB stars since their pulsations were discovered in 1996 and have published over 20 papers from Kepler's main mission.
+     We have also incorporated students into our work. Many of our papers include graduate and undergraduate students as significant contributors. Missouri State University does not have a graduate program, and as a result, undergraduate students have learned to process, analyze, and interpret NASA Satellite data to detect pulsations and signatures of binarity. They have also been involved in pre- and post-Kepler characterization studies, providing them with a broad range of training.
+
+# Targets requested by this program that have been observed (7)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+220179214, 18.5775471, -0.820448, 14.926, GO8018_LC|GO8004_LC|GO8007_LC|GO8004_SC|GO8007_SC
+220265912, 14.6027765, 1.909745, 15.192, GO8004_LC|GO8007_LC|GO8004_SC|GO8007_SC
+220376019, 16.0903187, 4.2269611, 12.113, GO8004_LC|GO8048_LC|GO8015_LC|GO8004_SC|GO8048_SC
+220422705, 10.5255032, 5.1565042, 12.865, GO8018_LC|GO8077_LC|GO8004_LC|GO8015_LC|GO8004_SC
+220468352, 19.1138229, 6.053236, 13.013, GO8077_LC|GO8004_LC|GO8004_SC
+220614972, 12.8622408, 9.3591185, 14.291, GO8004_LC|GO8004_SC
+220641886, 11.8717499, 9.9821377, 10.397, GO8004_LC|GO8007_LC|GO8028_LC|GO8004_SC|GO8007_SC

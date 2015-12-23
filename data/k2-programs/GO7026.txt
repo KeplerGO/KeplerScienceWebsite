@@ -1,0 +1,25 @@
+# Summary of K2 Program GO7026
+
+Title: Rapid Optical Variability in Infrared and Optically Bright Blazars
+
+PI: Carini, Michael Thomas (Western Kentucky University)
+CoIs: 
+
+Blazars are extreme examples of the phenomena known as Active Galactic Nuclei (AGN). The defining characteristics of blazars are a featureless (or nearly featureless) optical continuum, large amplitude and highly variable polarization, and large amplitude continuum variability at all wavelengths. Their weak/absent discrete spectral features leave us with only continuum variability and/or polarization variability as a diagnostic of the emission mechanisms at work in these objects. The blazar class of objects is comprised of the BL Lacertae (BL Lac) objects and the flat spectrum radio quasars (FSRQ). The difference between a BL Lac and a FSRQ lies primarily in the strength of any emission lines present in the spectrum. In the BL Lac objects, emission lines are nonexistent or are present with equivalent widths < 5 Å, while in the FSRQ emission lines are present with equivalent widths > 5 Å. Blazar spectral energy distributions display a two-bump structure. At low energies there is a peak arising from synchrotron emission in the jet, while at higher energies the peak is believed to be the result of inverse Compton scattering of photons off of relativistic electrons in the jet. The frequency of the synchrotron peak divides blazars into sub-classes: low frequency peaked (LBL), intermediate frequency peaked (IBL), and high frequency peaked (HBL).
+
+Long cadence observations of a sample of optical and IR bright blazars identified in the F6 and F7 field of the K2 mission are proposed. The source sample will be comprised of blazars with Kep magnitude < 17 which are either already identified as blazars or sources in the fields found on the Wise blazar strip (DAbrusco et al. 2012) that are not previously identified blazars. There will be at most 100 sources in the final proposed sample. The Kepler spacecraft demonstrated the ability to produce unprecedented light curves of AGN during the prime Kepler mission (Mushotzky et al. 2011, Carini & Ryle 2012, Edelson et al. 2013, Wherle et al. 2013). Our initial results from K2 F0 and F1 indicate a better than expected performance from K2 (Carini & Williams, 2015).  The continuous, highly sampled light curves that will be obtained in the K2 mission will allow a detailed exploration of blazar variability on timescales of minutes to several months that is not possible with ground based observations. These observations will allow the determination of the minimum timescale of the variability, which is related to the size of the emitting region in the jet via light travel time arguments. They will also allow the determination of the slope of the power spectral density (PSD) on timescales from minutes to several months and allow searches for breaks in the high frequency PSD that indicate the presence of characteristic variability timescales. Finally, the expected sampling and quality of this data set will allow a search for quasi-periodic oscillations on the optical light curves of blazars. Bright blazars are being chosen so that they can continue to be monitored from the ground post K2 in order to extend the time series and characterize the PSD across a wider range of frequencies. 
+
+The K2 Guest Observer-Cycle 2 solicitation calls for acquisition and analysis of new scientific data utilizing K2s high precision/high cadence photometry capabilities. The proposed observations and subsequent science require such observations and are thus relevant to this solicitation. 
+
+Carini, M.T., Williams, J., 2015, AAS 225, 144.55; Carini, M.T., Ryle, W.T., 2012, ApJ, 749, 70; DAbsrusco, R. et al., 2012, ApJ, 748,68; Edelson, R.  et al.,  2013, ApJ 766 16; Mushotzky, R.F., et al. 2011, ApJ Letters, 743, 12; Wherle, A. E. et al., 2013, ApJ, 773, 89.
+
+# Targets requested by this program that have been observed (8)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+213490088, 291.2127075, -29.2416744, 16.375, GO7013_LC|GO7026_LC
+213874866, 290.5702515, -28.016531, 17.507, GO7026_LC
+214668143, 282.7129211, -25.9285336, 17.095, GO7026_LC
+215412285, 293.7201843, -24.2734165, 17.733, GO7026_LC
+215658985, 288.936554, -23.7841454, 17.458, GO7026_LC
+217154395, 290.8840332, -21.0759125, 16.732, GO7026_LC|GO7015_LC
+217509281, 283.9812012, -20.4503498, 16.686, GO7026_LC
+218129423, 289.4367065, -19.3588142, 15.341, GO7026_LC|GO7015_LC

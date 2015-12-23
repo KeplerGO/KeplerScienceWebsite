@@ -1,0 +1,15 @@
+# Summary of K2 Program GO8014
+
+Title: Continuous Monitoring of Cataclysmic Variables in the K2 Fields
+
+PI: Garnavich, Peter M. (University of Notre Dame)
+CoIs: Templeton, Matthew; Kennedy, Mark; Szkody, Paula
+
+The original Kepler field contained 27 previously known and/or subsequently discovered cataclysmic variables (CVs) which are close binaries with mass transfer from a late main-sequence star to a white dwarf. Kepler monitored 15 of these systems with results currently published for 8. The detailed coverage enabled unique studies of quiescent orbital and sporadic variability as well as the changes in the disk and stream impact area during short and long dwarf nova outbursts. We propose to monitor a set of CVs in the K2 fields of Campaigns 8 and 10. We have matched the Cycle 3 fields with several CV databases and expect a total of about 11 targets will be requested in this cycle. These data will extend the range of CV types studied with Kepler's unprecedented continuous, fast-candence observations.
+
+# Targets requested by this program that have been observed (4)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+220615486, 19.0573502, 9.3711014, 19.058, GO8045_LC|GO8014_LC|GO8024_LC|GO8045_SC
+229228475, , , , GO8014_LC
+229228476, , , , GO8014_LC
+229228477, , , , GO8014_LC

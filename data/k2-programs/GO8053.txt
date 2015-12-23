@@ -1,0 +1,29 @@
+# Summary of K2 Program GO8053
+
+Title: The K2 Extragalactic Survey (KEGS) in Nearby Galaxies: Cycle 3
+
+PI: Tucker, Brad E (Mt. Stromlo Observatory)
+CoIs: Hounsell, Rebekah; Rest, Armin; Shaya, Ed; Garnavich, Peter M.; Olling, Robert P; Mushotzky, Richard; Kasen, Daniel Nathan
+
+We propose a K2 Program to monitor about 50 large, nearby galaxies in Campaigns 8 and 10 to look  for fast (t < 10 day) and faint (Mv > -15) stellar transients. The K2 science mission, with its long baseline, high cadence, high precision and multi-targeting capabilities provides a unique opportunity to examine a broad range of such variables and transients.
+
+Perets et al. 2010 found a new class of faint events (Mv > -16) that were spectroscopically similar to SN Ib/c but have strong calcium lines in their nebular spectra. These objects, characterized by a relatively fast light curve (12 - 15 days to peak brightness),  are difficult to find by traditional surveys, and thus the progenitors of these interesting events are unknown.  In addition, Drout et al. 2014, using the Pan-STARRS1 survey, found a few transients that were relatively bright (-20 < Mv < -16) but with a time to maximum of only a few days. Even though they are bright, their short time scale, some brightening in only a day, causes these events to usually be missed. The stellar origin of these events is also unknown.
+
+This program will be very sensitive to LBV- and nova-like eruptions, large amplitude flare stars, cataclysmic variable stars, and other still unknown types of faint, fast transients.
+
+We will undertake a major, concurrent ground-based effort (along with the main KEGS survey) to observe these galaxies every other day using SkyMapper and ATLAS Pathfinder. We will also coordinate multi- color photometry and spectra to classify the transients using PESSTO, and existing programs at Siding Spring, Lick, Gemini, and Keck.
+
+# Targets requested by this program that have been observed (12)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+220227817, 18.2323112, 0.981515, 17.097, GO8053_LC
+220230270, 16.9438343, 1.064348, 19.928, GO8053_LC
+220264951, 20.0922298, 1.888396, 18.043, GO8053_LC
+220321977, 12.9577436, 3.105561, 15.209, GO8053_LC
+220494386, 19.0023422, 6.6371269, 16.337, GO8053_LC
+220538312, 15.3543034, 7.6271329, 18.851, GO8053_LC
+229228973, , , , GO8053_LC
+229228974, , , , GO8053_LC
+229228975, , , , GO8053_LC
+229228976, , , , GO8053_LC
+229228977, , , , GO8053_LC
+229228978, , , , GO8053_LC

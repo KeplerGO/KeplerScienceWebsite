@@ -1,0 +1,93 @@
+# Summary of K2 Program GO4069
+
+Title: Exploiting RR Lyrae stars in the C4 and C5 fields of the K2 Mission
+
+PI: Szabo, Robert (Konkoly Observatory of the Hungarian Academy of Sciences)
+CoIs: Nemec, James M; Kuehn, Charles August; Plachy, Emese; Molnar, Laszlo; Guggenberger, Elisabeth; Kolenberg, Katrien; Ngeow, Chow-Choong; Jeon, Young-Beom; Moskalik, Pawel A
+
+Space observations of RR Lyrae stars delivered an avalanche of discoveries including new dynamical phenomena that helped to study the internal structure and evolution of horizontal-branch stars. These objects are excellent galactic structure tracers and distance indicators, therefore understanding their dynamics _x0013_ and their optical behavior _x0013_ is of crucial importance to advance our knowledge of galaxy formation and evolution in the Local Group of galaxies and beyond. We plan to study 87 and 90 RR Lyrae stars in the Fields 4&5 with K2's unique capabilities of providing long, uninterrupted, high-precision space photometry. The sample will be used to conduct galactic structure studies and to improve our understanding of dynamical behavior of RR Lyrae stars. Our immediate objectives are: 1. Study the Galactic structure and history by obtaining distances to RR Lyrae stars and determine their spatial distribution (halo streams, over-densities). During the K2 Mission we will build up a unique database from field to field covering different parts of our Galaxy, to yield an unprecedented photometric RR Lyrae sample which will form the base of galactic structure studies and near-field cosmology. 2. Statistical analysis of various dynamical phenomena (double-mode pulsation, Blazhko-modulation, period-doubling, low-dimensional chaos, nonradial modes) and their occurrence rates to better understand their origin and their effect on distance determination. This can only be accomplished with K2. 3. Analyze in detail all RR Lyrae light curves, especially overtone and classical double-mode pulsators. The original Kepler field contained no RRd stars, and only a few RRc. This will aid the investigation of dynamical phenomena (resonances, mode interactions) that may be important in other types of pulsating stars, but can be best studied only in large-amplitude stars and with space photometry. After producing light curves from target pixel data we apply standard time-frequency analysis and study  time-dependent features. State-of-the-art numerical hydrocodes and ground-based follow-up observations will be used to interpret the results. Synthetic galactic models  will be computed to compare the galactic location and number of the observed sample with simulations. The proposed project will provide a unique opportunity to better understand these highly variable classical pulsating stars on the horizontal branch and their role in unraveling the formation of our Galaxy.
+
+# Targets requested by this program that have been observed (82)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210311535, 58.619936, 11.071452, 18.424, GO4069_LC
+210322126, 58.64854, 11.407395, 18.771, GO4069_LC
+210343581, 60.108515, 12.039104, 19.017, GO4069_LC
+210345648, 58.142889, 12.098321, 15.087, GO4069_LC
+210361885, 62.215634, 12.541252, 16.588, GO4069_LC
+210389601, 58.723087, 13.222803, 18.307, GO4069_LC
+210399040, 62.387081, 13.444339, 17.134, GO4069_LC
+210418729, 60.482777, 13.888205, 18.927, GO4069_LC
+210438688, 57.548881, 14.302434, 17.387, GO4069_LC
+210454384, 58.888087, 14.604441, 17.525, GO4069_LC
+210457607, 58.348618, 14.665098, 18.561, GO4069_LC
+210464181, 54.939685, 14.785275, 17.339, GO4069_LC
+210471429, 58.810884, 14.9175, 19.889, GO4069_LC
+210475866, 59.606292, 14.997906, 19.442, GO4069_LC
+210507908, 54.934893, 15.544499, 19.085, GO4069_LC
+210509604, 60.252178, 15.571917, 16.095, GO4069_LC
+210511418, 54.454827, 15.601362, 19.661, GO4069_LC
+210577318, 52.348397, 16.631229, 18.049, GO4069_LC
+210600482, 54.206216, 16.972652, 17.636, GO4069_LC
+210607917, 53.350717, 17.076248, 18.898, GO4069_LC
+210617106, 53.775331, 17.206639, 19.684, GO4069_LC
+210665016, 52.393442, 17.874837, 18.902, GO4069_LC
+210678680, 53.282818, 18.063694, 15.161, GO4069_LC
+210681941, 57.297641, 18.108371, 18.438, GO4069_LC
+210692429, 59.136305, 18.254215, 18.339, GO4069_LC
+210697426, 56.123511, 18.32525, 14.786, GO4069_LC
+210707203, 57.961599, 18.466192, 18.988, GO4069_LC
+210729707, 58.586271, 18.800642, 17.706, GO4069_LC
+210733035, 65.293497, 18.850958, 18.679, GO4069_LC
+210739713, 66.577806, 18.95301, 15.757, GO4069_LC
+210740526, 57.659207, 18.965201, 16.112, GO4069_LC
+210746706, 55.108472, 19.058093, 15.095, GO4069_LC
+210754711, 66.567775, 19.182075, 16.663, GO4069_LC
+210755194, 53.337871, 19.189335, 18.014, GO4069_LC
+210763406, 53.312681, 19.31382, 14.651, GO4069_SC|GO4069_LC
+210766289, 65.66354, 19.357075, 16.398, GO4069_LC
+210796097, 58.836867, 19.809991, 15.58, GO4069_LC
+210810957, 62.425298, 20.034501, 15.142, GO4069_LC
+210815465, 56.252764, 20.103211, 16.002, GO4069_LC
+210830646, 57.082594, 20.335462, 13.751, GO4069_LC|GO4007_LC
+210831816, 58.051273, 20.353114, 15.852, GO4069_LC
+210839363, 57.69794, 20.46893, 14.392, GO4069_SC|GO4069_LC
+210868876, 58.049919, 20.912655, 18.006, GO4069_LC
+210889448, 62.124197, 21.226526, 15.422, GO4069_LC
+210896547, 53.537632, 21.338052, 16.512, GO4069_LC
+210920803, 57.315769, 21.716721, 18.195, GO4069_LC
+210925792, 52.675758, 21.798813, 17.712, GO4069_LC
+210933539, 52.991105, 21.921016, 15.218, GO4069_SC|GO4069_LC
+210994946, 58.963237, 22.894835, 18.278, GO4069_LC
+211010071, 62.522502, 23.13463, 16.656, GO4069_LC
+211048310, 58.639714, 23.745179, 15.53, GO4069_LC
+211069540, 63.954609, 24.084409, 14.948, GO4069_LC|GO4020_LC
+211072039, 62.041403, 24.126383, 16.802, GO4069_LC
+211077985, 57.15293, 24.220036, 12.992, GO4069_SC|GO4069_LC|GO4029_LC|GO4033_LC|GO4007_LC|GO4086_LC
+211091644, 60.135037, 24.430531, 16.262, GO4069_LC
+211101195, 60.880069, 24.580213, 15.418, GO4069_LC
+220115899, , , , GO4069_LC
+220115902, , , , GO4069_LC
+220115904, , , , GO4069_LC
+220115912, , , , GO4069_LC
+220115915, , , , GO4069_LC
+220115916, , , , GO4069_LC
+220115917, , , , GO4069_LC
+220115929, , , , GO4069_LC
+220115935, , , , GO4069_LC
+220115936, , , , GO4069_LC
+220115938, , , , GO4069_LC
+220115942, , , , GO4069_LC
+220115946, , , , GO4069_LC
+220115949, , , , GO4069_LC
+220115951, , , , GO4069_LC
+220115952, , , , GO4069_LC
+220115954, , , , GO4069_LC
+220115955, , , , GO4069_LC
+220115956, , , , GO4069_LC
+220115959, , , , GO4069_LC
+220115960, , , , GO4069_LC
+220115961, , , , GO4069_LC
+220115962, , , , GO4069_LC
+220115969, , , , GO4069_LC
+220115970, , , , GO4069_LC
+220115973, , , , GO4069_LC

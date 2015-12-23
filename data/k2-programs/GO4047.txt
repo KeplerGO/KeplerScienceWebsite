@@ -1,0 +1,16 @@
+# Summary of K2 Program GO4047
+
+Title: Kepler light curves of hot subdwarf binaries
+
+PI: Kupfer, Thomas (Radboud University Nijmegen)
+CoIs: Nemeth, Peter; Heber, Ulrich; Ostensen, Roy H.; Geier, Stephan; Ziegerer, Eva
+
+Hot subdwarf-B (sdB) stars are core-helium burning stars that have evolved from the red giant stage to the extreme blue end of the horizontal branch in a process where almost the entire envelope has been lost through interactions with a companion. Many sdBs are known to have close companions with periods ranging from 0.05 to 10 days, and must have evolved through the common-envelope-ejection (CEE) process. The closest systems are quite easy to study from the ground, but Kepler observations have opened the door for precise studies of the population of systems with periods between 0.5 and and 10 days.
+
+Several close binary sdB stars were discovered by the original Kepler mission. The excellent Kepler light curves show photometric signals from Doppler beaming, ellipsoidal deformations and mutual irradiation effects. Long-cadence K2 observations presents us with an unique opportunity to accumulate a larger sample of post-common envelope sdB binaries that can shed light on the statistics of the CEE process, and thereby constrain the long sought after efficiency parameters that govern the common envelope stage of evolution. In the process we hope to find new particularly interesting binary systems, such as the eclipsing cases and those with extraordinary masses that could be progenitors of type-Ia supernovae.
+
+# Targets requested by this program that have been observed (3)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210586972, 53.704952, 16.774953, 17.274, GO4047_LC
+210731139, 51.113448, 18.821777, 16.366, GO4093_SC|GO4050_SC|GO4093_LC|GO4047_LC|GO4050_LC
+220115930, , , , GO4050_SC|GO4047_LC|GO4050_LC

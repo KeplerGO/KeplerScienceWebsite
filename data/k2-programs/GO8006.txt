@@ -1,0 +1,143 @@
+# Summary of K2 Program GO8006
+
+Title: Habitable Planets Around White Dwarfs in Fields 8 and 10
+
+PI: Kilic, Mukremin (University of Oklahoma)
+CoIs: Mullally, Fergal; Loeb, Abraham; Debes, John Henry; Agol, Eric
+
+The search for planets in the habitable zone has so far focused on solar-type stars and M dwarfs. However, transiting planets in the habitable zone around white dwarfs (WDs) may be common  and they provide our best chance to detect bio-markers on an exoplanet. The habitable zone around WDs extends from 0.005 AU to 0.02 AU (P = 4-30 h, Agol 2011) for WDs older than about 1 Gyr. Since WDs are slightly larger than Earth, Earth-size and even smaller planets can easily be detected. We expect the planets within 1 AU of solar type stars to be destroyed in the giant phase. Hence, planets in the habitable zone around WDs must arrive there after this phase. There are several ways to form such planets near the WD or bring them closer (see the Kepler white paper by our team). Planets have been detected around evolved, post-main-sequence stars. In addition, tidally disrupted asteroids and dwarf planets have been detected around 4.3% of WDs in the form of debris disks. If the history of exoplanet science has taught us anything, it is that planets are ubiquitous and they exist in the most unusual places, including very close to their host stars and even around pulsars. 
+
+Here we propose to take advantage of the unique capability of the Kepler 2 mission to perform a transit survey of the WDs in Fields 8 and 10. Using spectroscopy, photometry, and astrometry data from the McCook & Sion White Dwarf catalog, the Sloan Digital Sky Survey, and the SuperCosmos Sky Survey, we identify 273 WDs on active silicon in Fields 8 and 10. We propose LC observations of all WD targets. 
+
+SC observations would have the best constraints on transiting planets around WDs. However, given the small number of SC slots available, LC mode data will still enable us to achieve our science goals. Planets in the habitable zone would eclipse their stars for about 2 min. Hence, the LC mode data will dilute the transit signal by a factor of 15. However, since the transit depth is >50% for an Earth-size or bigger planet around an average size WD, these transits will have >3% depth in the LC data, and they will still be visible. Even with the decreased sensitivity of the 2wheel mode, Kepler can still detect transits of Earth-size or bigger planets around WDs. 
+
+The probability for a transit by an Earth-size planet at 0.01 AU is 1%. Hence, the discovery of habitable planets around WDs requires a survey of at least 100 targets, if all of them have such planets. Previously, we proposed for K2 observations of about 500 target WDs in Fields 0-7. The addition of the 273 WDs from Fields 8 and 10 will bring the total number of WDs surveyed by the K2 mission to about 770. This survey will provide the first constraints on the frequency of habitable planets around WDs. Our proposed survey is relatively cheap due to the relatively small number of WD targets in Fields 8 and 10 . On the other hand, this survey is capable of finding the first planets in the WD habitable zone, and the James Webb Space Telescope is capable of obtaining the first spectroscopic measurements of such planets. 
+
+In addition to the transit search, the 30-min cadence of the LC data is well suited for measuring the rotation periods for a large number of WDs for the first time. WDs have typical rotation periods of a few hours to a few days, though there are only a handful of measurements available. Kepler's precision provides an excellent opportunity to measure the rotation periods for our targets, including the ones with relatively weak magnetic fields. We have already analyzed the K2 data from Fields 0 and 1, and identified a 2.4h period eclipsing double WD system (paper in prep) and detected variability in about a dozen WDs. The former system displays 70s long eclipses (as confirmed from the ground), and demonstrates our team's ability in making excellent use of the K2 data.
+
+# Targets requested by this program that have been observed (124)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+220155299, 17.5551662, -1.700832, 16.659, GO8018_LC|GO8019_LC|GO8006_LC|GO8048_LC|GO8018_SC|GO8048_SC
+220167900, 18.6740856, -1.289825, 18.476, GO8018_LC|GO8019_LC|GO8006_LC
+220171396, 17.6749439, -1.14424, 15.33, GO8012_LC|GO8018_LC|GO8006_LC|GO8042_LC|GO8011_LC
+220177283, 14.3720131, -0.896725, 18.137, GO8018_LC|GO8019_LC|GO8006_LC
+220177359, 13.1879969, -0.893606, 17.428, GO8006_LC
+220178204, 13.0351086, -0.859614, 16.58, GO8018_LC|GO8006_LC|GO8018_SC
+220188903, 19.7383633, -0.429584, 14.912, GO8018_LC|GO8006_LC
+220190701, 12.2087975, -0.359844, 19.41, GO8019_LC|GO8006_LC
+220194824, 14.4898376, -0.19896, 17.243, GO8006_LC
+220195291, 20.4510002, -0.181386, 16.581, GO8018_LC|GO8019_LC|GO8006_LC|GO8048_LC|GO8011_LC
+220204626, 17.849535, 0.159765, 17.197, GO8018_LC|GO8006_LC|GO8018_SC
+220207878, 15.0096464, 0.278469, 17.594, GO8001_LC|GO8005_LC|GO8006_LC|GO8052_LC
+220210247, 15.1396589, 0.366713, 18.709, GO8005_LC|GO8006_LC|GO8052_LC
+220213377, 18.4448814, 0.474627, 15.37, GO8019_LC|GO8006_LC|GO8048_LC|GO8011_LC
+220214880, 15.9232492, 0.52572, 18.189, GO8006_LC
+220219115, 13.8330383, 0.677608, 18.38, GO8006_LC
+220221874, 11.3702822, 0.77122, 19.463, GO8019_LC|GO8006_LC
+220227239, 13.5773506, 0.962756, 17.567, GO8018_LC|GO8006_LC
+220229849, 21.3630142, 1.048771, 18.325, GO8006_LC
+220243746, 16.3510246, 1.435218, 17.825, GO8018_LC|GO8019_LC|GO8006_LC|GO8048_LC
+220257559, 14.9423265, 1.7260751, 17.759, GO8018_LC|GO8019_LC|GO8006_LC|GO8048_LC
+220258806, 16.6542988, 1.750837, 16.39, GO8018_LC|GO8019_LC|GO8006_LC|GO8048_LC|GO8018_SC|GO8048_SC
+220261605, 16.7033253, 1.81256, 17.257, GO8018_LC|GO8019_LC|GO8006_LC|GO8048_LC|GO8011_LC
+220274129, 16.3697643, 2.0836511, 16.787, GO8018_LC|GO8019_LC|GO8006_LC|GO8048_LC
+220286089, 17.3985443, 2.3419709, 17.503, GO8018_LC|GO8019_LC|GO8006_LC|GO8048_LC
+220340149, 10.3655634, 3.485229, 18.117, GO8018_LC|GO8019_LC|GO8006_LC
+220389562, 13.5153551, 4.5052662, 18.458, GO8012_LC|GO8006_LC
+220418494, 15.9588194, 5.0757012, 14.007, GO8019_LC|GO8006_LC|GO8048_LC|GO8011_LC
+220437541, 23.0549603, 5.4424119, 16.359, GO8018_LC|GO8019_LC|GO8006_LC|GO8048_LC|GO8018_SC|GO8048_SC
+220440023, 23.0953159, 5.4899182, 18.274, GO8018_LC|GO8019_LC|GO8006_LC|GO8018_SC
+220465047, 19.0764847, 5.987514, 18.909, GO8018_LC|GO8019_LC|GO8006_LC
+220468647, 18.3222103, 6.0594659, 18.525, GO8018_LC|GO8019_LC|GO8006_LC
+220472396, 19.6716061, 6.139905, 18.722, GO8006_LC|GO8052_LC
+220477306, 15.9537077, 6.2517109, 16.031, GO8018_LC|GO8019_LC|GO8006_LC|GO8048_LC
+220477963, 19.3399181, 6.2670522, 18.556, GO8018_LC|GO8019_LC|GO8006_LC|GO8048_LC
+220485670, 22.2105236, 6.4436011, 18.731, GO8018_LC|GO8019_LC|GO8006_LC
+220488720, 12.3095942, 6.510509, 17.739, GO8018_LC|GO8019_LC|GO8006_LC|GO8048_LC|GO8018_SC|GO8048_SC
+220488871, 21.3658714, 6.5135541, 19.739, GO8006_LC
+220492214, 11.5234318, 6.5870662, 18.689, GO8019_LC|GO8006_LC
+220492253, 19.8786907, 6.5877891, 19.474, GO8019_LC|GO8006_LC
+220494994, 14.7141533, 6.6524639, 17.637, GO8018_LC|GO8019_LC|GO8006_LC|GO8048_LC
+220500374, 12.0831614, 6.7817292, 18.357, GO8019_LC|GO8006_LC
+220505437, 12.7514954, 6.8915138, 18.425, GO8006_LC
+220512358, 10.0478725, 7.0487981, 19.751, GO8006_LC
+220515906, 18.3015709, 7.1311612, 18.247, GO8018_LC|GO8019_LC|GO8006_LC|GO8048_LC
+220518824, 15.9090662, 7.1960821, 18.973, GO8018_LC|GO8019_LC|GO8006_LC
+220524741, 13.4356518, 7.321517, 17.32, GO8018_LC|GO8019_LC|GO8006_LC|GO8048_LC|GO8018_SC|GO8048_SC
+220533642, 19.240942, 7.5199699, 17.536, GO8018_LC|GO8019_LC|GO8006_LC|GO8048_LC
+220534697, 13.206378, 7.544632, 18.764, GO8018_LC|GO8019_LC|GO8006_LC
+220538141, 23.0435219, 7.6234198, 17.532, GO8018_LC|GO8019_LC|GO8006_LC
+220544140, 10.798336, 7.7576618, 18.619, GO8006_LC
+220552441, 14.2400494, 7.9525628, 17.52, GO8018_LC|GO8019_LC|GO8006_LC|GO8048_LC|GO8018_SC|GO8048_SC
+220556372, 12.1578512, 8.0458088, 15.671, GO8019_LC|GO8006_LC|GO8048_LC|GO8048_SC
+220556523, 18.4442444, 8.0496101, 18.683, GO8018_LC|GO8019_LC|GO8006_LC
+220564309, 13.5734682, 8.2269211, 16.918, GO8018_LC|GO8019_LC|GO8006_LC|GO8048_LC
+220594937, 13.3601866, 8.9131308, 17.301, GO8018_LC|GO8019_LC|GO8006_LC|GO8048_LC
+220602431, 11.2966337, 9.0792618, 17.938, GO8018_LC|GO8019_LC|GO8006_LC
+220613144, 17.2618675, 9.3161077, 18.296, GO8006_LC
+220627017, 12.2145519, 9.6376038, 17.939, GO8018_LC|GO8019_LC|GO8006_LC|GO8048_LC
+220635383, 16.1720963, 9.8284454, 14.528, GO8018_LC|GO8019_LC|GO8006_LC|GO8048_LC|GO8011_LC
+220641805, 12.850729, 9.9803677, 18.608, GO8018_LC|GO8019_LC|GO8006_LC
+220651498, 19.1395321, 10.2157812, 16.473, GO8018_LC|GO8019_LC|GO8006_LC|GO8048_LC
+220664528, 14.5612688, 10.5412989, 18.299, GO8018_LC|GO8006_LC|GO8048_LC
+220670436, 18.6568947, 10.6846724, 15.498, GO8018_LC|GO8019_LC|GO8006_LC|GO8048_LC|GO8011_LC|GO8018_SC|GO8048_SC|GO8011_SC
+220688744, 15.5555649, 11.1618366, 18.637, GO8018_LC|GO8019_LC|GO8006_LC
+220697132, 18.0960903, 11.3934078, 15.49, GO8018_LC|GO8019_LC|GO8006_LC|GO8011_LC
+220711638, 13.8633947, 11.803894, 17.677, GO8018_LC|GO8019_LC|GO8006_LC|GO8048_LC|GO8011_LC
+220714767, 19.6481323, 11.8955631, 17.36, GO8019_LC|GO8006_LC
+229228397, , , , GO8006_LC
+229228398, , , , GO8006_LC
+229228399, , , , GO8006_LC
+229228400, , , , GO8006_LC
+229228401, , , , GO8006_LC
+229228402, , , , GO8006_LC
+229228403, , , , GO8006_LC
+229228404, , , , GO8006_LC
+229228405, , , , GO8006_LC
+229228406, , , , GO8006_LC
+229228407, , , , GO8006_LC
+229228408, , , , GO8006_LC
+229228409, , , , GO8006_LC
+229228410, , , , GO8006_LC
+229228411, , , , GO8006_LC
+229228412, , , , GO8006_LC
+229228413, , , , GO8006_LC
+229228414, , , , GO8006_LC
+229228415, , , , GO8006_LC
+229228416, , , , GO8006_LC
+229228417, , , , GO8006_LC
+229228418, , , , GO8006_LC
+229228419, , , , GO8006_LC
+229228420, , , , GO8006_LC
+229228421, , , , GO8006_LC
+229228422, , , , GO8006_LC
+229228423, , , , GO8006_LC
+229228424, , , , GO8006_LC
+229228425, , , , GO8006_LC
+229228426, , , , GO8006_LC
+229228427, , , , GO8006_LC
+229228428, , , , GO8006_LC
+229228429, , , , GO8006_LC
+229228430, , , , GO8006_LC
+229228431, , , , GO8006_LC
+229228432, , , , GO8006_LC
+229228433, , , , GO8006_LC
+229228434, , , , GO8006_LC
+229228435, , , , GO8006_LC
+229228436, , , , GO8006_LC
+229228437, , , , GO8006_LC
+229228438, , , , GO8006_LC
+229228439, , , , GO8006_LC
+229228440, , , , GO8006_LC
+229228441, , , , GO8006_LC
+229228442, , , , GO8006_LC
+229228443, , , , GO8006_LC
+229228444, , , , GO8006_LC
+229228445, , , , GO8006_LC
+229228446, , , , GO8006_LC
+229228447, , , , GO8006_LC
+229228448, , , , GO8006_LC
+229228449, , , , GO8006_LC
+229228450, , , , GO8006_LC
+229228451, , , , GO8006_LC
+229228452, , , , GO8006_LC

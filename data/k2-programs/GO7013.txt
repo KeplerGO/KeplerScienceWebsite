@@ -1,0 +1,49 @@
+# Summary of K2 Program GO7013
+
+Title: Measuring the Binary Fraction of Planetary Nebula Central Stars
+
+PI: Jacoby, George H (GMTO / Carnegie)
+CoIs: De Marco, Orsola
+
+Until fairly recently, it was believed that every star between 1 and 8 solar masses enters a short (<50,000 yr) planetary nebula (PN) phase between the AGB and white dwarf phases. Over the last decade, this textbook picture of stellar evolution has begun to break down. Considerable evidence now exists to argue that PN formation may require uncommon circumstances (e.g., binary interactions; De Marco 2009).
+
+The principal failings include (1) the number of PNe in galaxies is 5 times too low, (2) PNe should not form in globular clusters, but they do in small numbers, (3) over 80% of PNe are non-spherical yet their progenitor stars have a spherical wind, and (4) the PN luminosity function (PNLF) method for measuring galaxy distances should fail for ellipticals by a factor of 3 in distance. These anomalies can be explained by and large if most PNe are a manifestation of binary interactions rather than a normal phase of stellar evolution. A close-to-home implication is that the Sun will not become a PN (De Marco 2009; Jacoby et al 1997).
+
+We monitored all 6 PN central stars in Keplers original field. From ground-based data, we expect that 1 in 5-6 PN central stars will exhibit variability of sufficient amplitude (0.05 mag) to imply a close companion (Miszalski et al. 2009); none of the Kepler sample was a known variable. With Keplers superior photometric precision, we detected periodic variability in 3 PN central stars and quasi-periodic behavior in a fourth, at amplitudes 10-100 times lower than ground-based data can measure. The nature of all 4 variables is almost certainly a consequence of binary interactions (De Marco et al 2015).
+
+Of the remaining 2 PNe, Kepler was unable to separate the central star from the nebula (i.e., no result) in one case. In the other case (Abell 61), the star didnt vary, but its spherical morphological is compatible with a single star origin and hence, no photometric variation. Consequently, all 5 observed PNe are consistent with binary PN formation.
+
+Even assuming that data from campaigns 0 and 2 will prove useful, our existing sample (12) is too small to constrain the statistics of the low amplitude binaries. Thus, we request Kepler observations of our targets for Campaign 7, which will raise the PN count from ~12 to ~24*. That will bring the Kepler binary central stars search to a statistical level that is comparable to other binary PN central star detection methods (Miszalski et al 2009; Douchin et al 2015).  As with our cycle 3 data from the original Kepler mission, we will follow up photometric variables with radial velocity spectra to validate binary periodicities (see De Marco et al 2015).
+
+In terms of broader impact, resolving the PN formation mechanism can (1) explain the workings of the PNLF and improve our confidence in its results, and (2) change our expectations for the chemical composition of material returned to the ISM and subsequent galactic chemical evolution.
+
+*This is a continuing program from the original Kepler mission, cycle 3 (5 objects), and the K2 Campaign 0 (3 targets, data being analyzed) and Campaign 2 (4 objects). We will significantly improve the statistics of the sample of 12 objects (5+3+4) from previous proposals.  Campaign 7 is critical, as it is the best field for studying PNe with Kepler. It includes 17 targets, including 4 PNe that we recently discovered for this proposal. Several (~5) may be too faint relative to their nebulae, so we expect that Kepler will provide useful data for ~12 new targets from Campaign 7. 
+
+References:
+Aller, A. et al, 2011, in Planetary Nebulae: An Eye to the Future, IAU Symp. 283.
+De Marco, O., 2009. PASP, 121, 316
+De Marco, O. et al., 2013, MNRAS 428, 2118
+De Marco, O. et al, 2015, MNRAS, submitted, under review
+Douchin, D. et al, 2015, MNRAS, accepted (18 Dec 2014)
+Jacoby, G. et al, 1997, AJ, 114, 2611
+Jacoby, G. et al, 2010, PASA, 27, 156
+Miszalski, B. et al., 2009, A&A 496, 813
+
+# Targets requested by this program that have been observed (16)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+213490088, 291.2127075, -29.2416744, 16.375, GO7013_LC|GO7026_LC
+214857824, 282.0505676, -25.4812222, 13.349, GO7013_LC|GO7022_LC
+214910524, 281.1796875, -25.359436, 13.954, GO7013_LC|GO7022_LC
+215636537, 284.4432983, -23.8276253, 17.119, GO7013_LC
+215822473, 283.8722229, -23.4754944, 19.075, GO7013_LC
+215825200, 283.7703247, -23.4702263, 13.677, GO7013_LC
+215837631, 281.6463318, -23.4467449, 12.509, GO7013_LC|GO7030_LC|GO7084_LC|GO7022_LC|GO7042_LC
+216129500, 280.0830383, -22.9081306, 12.105, GO7013_LC|GO7042_LC
+216606732, 279.506897, -22.0469036, 14.855, GO7013_LC
+216730154, 283.8778381, -21.8277187, 13.768, GO7013_LC|GO7022_LC
+218761322, 285.2557983, -18.2042446, 15.46, GO7013_LC
+229228146, , , , GO7013_LC
+229228150, , , , GO7013_LC
+229228185, , , , GO7013_LC
+229228214, , , , GO7013_LC
+229228269, , , , GO7013_LC

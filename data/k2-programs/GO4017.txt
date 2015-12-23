@@ -1,0 +1,16 @@
+# Summary of K2 Program GO4017
+
+Title: Search for sub-kilogauss magnetic fields in white dwarfs with K2 photometry
+
+PI: Kawaler, Steven (Iowa State University)
+CoIs: 
+
+A surface magnetic field on a white dwarf is currently detectable via spectroscopy when the field approaches 1 MG; such a magnetic field is hard to understand originating from a _x0018_normal_x0019_ main sequence progenitor. As a result, we have little information on the evolution of the magnetic field of main sequences stars in this final stage of evolution except for those with anomalously strong fields. This program will use very sensitive photometric observations of white dwarfs by Kepler/K2 to search for rotational modulation of the flux from low-magnetic field white dwarf stars caused by magnetic phenomena (such as starspots and plages).   On the expected white dwarf rotation periods (about 1 day, generalizing from nonradially pulsating white dwarfs), the low amplitude of the expected variations renders them extremely difficult to detect using ground-based photometry. K2 will be able to observe many well-studied field white dwarfs and many in the Pleiades, Hyades, and M44. Measurement of rotation modulation (or even upper limits to photometric amplitude variations)  will further exploit those data to teach us about magnetic fields in these stars that are otherwise inaccessible observationally.  In the case of ZZ Ceti pulsators, we may for the first time independently measure the rotation rate, providing a test of asteroseismic rotation periods.
+
+# Targets requested by this program that have been observed (5)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210315527, 58.349502, 11.200202, 18.838, GO4041_LC|GO4017_LC|GO4001_LC
+210403895, 57.164901, 13.558093, 18.056, GO4041_LC|GO4017_LC|GO4001_LC|GO4003_LC
+210484300, 64.559712, 15.143604, 18.983, GO4017_SC|GO4041_LC|GO4017_LC|GO4001_LC
+210991241, 53.72185, 22.835346, 15.391, GO4041_LC|GO4017_LC|GO4003_LC
+220115933, , , , GO4073_SC|GO4041_LC|GO4017_LC|GO4001_LC|GO4073_LC

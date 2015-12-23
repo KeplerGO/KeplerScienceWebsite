@@ -1,0 +1,34 @@
+# Summary of K2 Program GO5050
+
+Title: A survey to detect first sdB Planetary Transits
+
+PI: Silvotti, Roberto (INAF)
+CoIs: Ostensen, Roy H.
+
+Although only 2% of stars evolve through the subdwarf B (sdB) phase (e.g. Heber 2009 ARA&A 47, 211 and refs. therein), there are at least two good reasons to study sdB planets/BDs: i) to date very little is known on the late-stage evolution of planetary systems. No detections yet around single white dwarfs (e.g. Hogan et al. 2009, MNRAS 396, 2074). Theory predicts a gap in the final distribution of orbital periods, due to the opposite effects of stellar mass loss (planets pushed outwards) and tidal interactions (planets pushed inwards) during the RGB and AGB (Villaver & Livio 2009, ApJ 705, L81; Mustill & Villaver 2012, ApJ, 761, 121; Nordhaus & Spiegel 2013, MNRAS 432, 500). Observational constraints are essential to test the models. SdB planets offer a unique opportunity to disentangle the effects of the RG expansion alone (while WD planets are affected also by AGB expansion and PN ejection).
+
+ii) The envelope ejection needed to form an sdB star is well explained in terms of close binary evolution for half of the sdBs that have a close stellar companion (Han et al. 2002, MNRAS 336, 449; 2003, MNRAS 341, 669), but is more problematic for the other half of apparently single sdB stars. The presence of close massive planets or BDs is a possible explanation (Soker 1998,AJ 116, 1308; Han et al. 2012, PASP Conf. Series 452, 3).
+
+In the last 7 years the first planet/BD candidates around sdB stars were detected (Silvotti et al. 2014, ASP Conf. Series 481, 13).
+
+In particular, during its primary mission (K1), Kepler has detected two planetary systems around KIC05807616 (Charpinet et al. 2011, Nature 480, 496) and KIC10001893 (Silvotti et al. 2014, A&A in press) from illumination photometric variations, i.e. reflection/re-emission of the stellar light.
+
+These planets (or planetary remnants) have Earth-like radii and are in very tight orbits. Previously they must have been engulfed by the RG envelope of the sdB precursor. Based on these discoveries, from statistical considerations it comes out that 1 out of ~40 single sdB stars is expected to show a planetary transit.
+
+A similar number (1 out of ~25) is obtained independently from a small sample of 27 bright single-lined sdB stars showing small RV variations, that can be associated with massive sub-stellar companions (Geier et al. 2012, ASP Conf. Series, 452, 153).
+
+The main goal of this proposal is to detect first sdB planetary transits and measure for the 1st time sdB planet radii by targeting in SC ~40-50 sdB/sdO stars in the 9 fields of K2. SC is required as the typical transit duration of a close planet with 6h<P_orb<24h is 15 to 40 min. The transit depth varies between a 25% occultation for a Jovian planet down to 0.2% for Earth-like planets (assuming a typical sdB radius of 0.2 R_Sun). Given the high number of transits in a ~75 days run, K2 should be able to measure objects with a radius smaller than the Moon. If we find transits, in 1-3 years from now PEPSI@LBT and EXPRESSO@VLT may be able to measure the star's RVs in order to obtain also masses and densities of these extremely hot and peculiar planetary remnants.
+
+The secondary goal of this proposal is to find more Jovian/BD companions to sdB stars in tight orbits through illumination effects and increase the statistics of these objects. With ~2.5 months of data companions with Jovian radii are easily detectable. This secondary goal is compatible with LC data. LC data will also allow to increase the statistics of sdB faint stellar companions (WD or M-dwarf) through reflection/re-emission, ellipsoidal deformations, Doppler boosting; and to find new g-mode sdB pulsators and study them through asteroseismology.
+
+# Targets requested by this program that have been observed (9)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211400847, 131.195875, 11.652843, 16.432, GO5050_SC|GO5093_SC|GO5047_LC|GO5050_LC|GO5093_LC
+211499370, 126.486699, 13.131541, 14.601, GO5050_SC|GO5093_SC|GO5047_LC|GO5050_LC|GO5057_LC|GO5093_LC
+211517387, 127.43645, 13.384032, 17.324, GO5050_SC|GO5001_LC|GO5047_LC|GO5050_LC
+211696659, 129.016618, 15.871219, 15.502, GO5050_SC|GO5093_SC|GO5001_LC|GO5047_LC|GO5050_LC|GO5093_LC
+211708181, 123.140314, 16.023293, 13.775, GO5050_SC|GO5093_SC|GO5001_LC|GO5047_LC|GO5050_LC|GO5093_LC
+211727748, 130.344641, 16.292858, 14.99, GO5050_SC|GO5093_SC|GO5001_LC|GO5047_LC|GO5050_LC|GO5093_LC
+211779126, 134.205286, 17.020746, 12.925, GO5050_SC|GO5065_SC|GO5093_SC|GO5047_LC|GO5050_LC|GO5065_LC|GO5093_LC
+211841249, 126.895703, 17.898908, 14.646, GO5050_SC|GO5093_SC|GO5001_LC|GO5047_LC|GO5050_LC|GO5093_LC
+211938328, 129.050164, 19.298929, 15.781, GO5050_SC|GO5093_SC|GO5047_LC|GO5050_LC|GO5057_LC|GO5093_LC

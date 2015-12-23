@@ -1,0 +1,23 @@
+# Summary of K2 Program GO4041
+
+Title: Eclipses, transits and variability of white dwarf stars with the K2 Mission
+
+PI: Burleigh, Matt R. (University of Leicester)
+CoIs: Braker, Ian Peter; Goad, Michael R; Holberg, Jay B; Barstow, Martin Adrian; Casewell, Sarah L
+
+This proposal is to obtain high precision photometry of White Dwarfs within the two proposed fields of K2 Cycle 1 to search for planets, brown dwarfs and stellar variability.
+
+Such a survey (combined with the other K2 fields) would allow for the monitoring of statistically significant numbers of White Dwarfs to be able to put constraints on the existence planets in short period orbits around White Dwarfs. Any transiting objects that are detected could be prime targets for follow up observations by the JWST (Loeb & Maoz 2013). Such a survey would also be able to detect brown dwarfs around White Dwarfs allowing further constraints on the smallest object that can survive common envelope evolution. In addition any unexpected variability would also be detected such as the Kepler mission found in BOKS 53856 (Holberg and Howell 2011).
+
+# Targets requested by this program that have been observed (10)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210315527, 58.349502, 11.200202, 18.838, GO4041_LC|GO4017_LC|GO4001_LC
+210403895, 57.164901, 13.558093, 18.056, GO4041_LC|GO4017_LC|GO4001_LC|GO4003_LC
+210484300, 64.559712, 15.143604, 18.983, GO4017_SC|GO4041_LC|GO4017_LC|GO4001_LC
+210705164, 56.145114, 18.436405, 15.731, GO4073_SC|GO4098_SC|GO4041_LC|GO4001_LC|GO4073_LC|GO4098_LC
+210802569, 62.572794, 19.906956, 17.462, GO4041_LC|GO4001_LC
+210991241, 53.72185, 22.835346, 15.391, GO4041_LC|GO4017_LC|GO4003_LC
+211122782, 56.690047, 24.940435, 17.82, GO4041_LC
+220115933, , , , GO4073_SC|GO4041_LC|GO4017_LC|GO4001_LC|GO4073_LC
+220115944, , , , GO4041_LC|GO4001_LC
+220115964, , , , GO4041_LC

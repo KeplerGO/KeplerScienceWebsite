@@ -1,0 +1,47 @@
+# Summary of K2 Program GO8015
+
+Title: How Constant are Standard Stars?
+
+PI: Schaefer, Bradley E. (Louisiana State University)
+CoIs: Xue, Zhichao; Landolt, Arlo U; Clem, James L
+
+How constant are standard stars?  Of the original 104 standard stars for Johnson's UBV system, 80% are known or suspected variables (Landolt 2013).  The Landolt standards have typical single-measurement errors of 1.4% in the V, and with averages of 15 individual observations on 8 nights (Landolt 1992), so many types of variability will be missed.  Similarly, the Sloan u'g'r'i'z' standard stars have accurately-measured average-magnitudes, but the variability for individual stars could be as large as 1%-3%.  According to R. Bohlin, the three primary standard stars for the Hubble Space Telescope (HST) could easily be variable at the 1% level.
+
+If the variability of standard stars is at the 1%-3% level, it would become critical for several large-scale enterprises in astrophysics.  For example, the massive efforts to use supernovae for cosmology now have the calibration error for the standard stars as the largest uncertainty in the error budget (e.g., Amanullah et al. 2010), so the only way to advance in our knowledge of Dark Energy is to get better standard stars.  The supernova community has set the ambitious goal of calibration to the 1% level, so standards are needed to much better than the 1% level.  All these efforts and goals are denied if the standard stars themselves vary at the 1% level, or if even some substantial fraction vary at the 0.5% or 0.3% level.
+
+Ground-based and HST space-based observations have proven ineffective at testing standard stars for variability at smaller than the 1%-3% level.  But Kepler is perfect for testing standard stars for variability down to the millimag level over a very wide range of timescales.  But to make any such test, the standards must be in the Kepler field of view.  Most standards are either along the equator or far from the ecliptic.  For all of the K2 fields 0-13, it turns out that standard stars are only visible in K2 Fields 8 and 10.  So K2 Cycle 3 is the only opportunity to measure the real variability of standard stars.
+
+We have identified 25 Landolt standards in Field 8, 11 Landolt standards in Field 10, and 7 Sloan standards in Field 10.  These standards are from 11th to 16th mag, right in Kepler's sweet-spot, so we will get better than millimag accuracy for all our targets.  We propose to use K2 to get long-cadence light curves to test all 41 stars for their levels of variability.  Our analysis will consist of performing Fourier transforms seeking periodic variations, the calculation of the RMS variability on long and short timescales (with correction for Poisson noise), a flare search, and the peak-to-peak variations on timescales long enough so that Poisson noise does not dominate.  Our product will be the full characterization of the variability of all 70 standard stars, resulting in fractions of stars of various types that are variable at greater than several levels.
+
+The results of our K2 Cycle 3 program will have far reaching effects.  If we find that some substantial fraction of standards have variability at the 0.5% level or more, then the many communities will have to work hard to solve the problem.  Our results might point to some type of standards as having the lowest variability.  Our results can quantify how many standard star observations are needed to beat down the variability each night.  Or if we find variability to be common and large enough, then this would point to a path involving NIST-calibrated light sources flown in the upper atmosphere.
+
+RELEVANCE:  NASA-funded experiments need calibration to the 1% level, so standard stars need be constant to much better than 1%, yet current measures of standards have not gotten tests below the 1%-3% level.  Only the K2 mission can measure the real low-amplitude variability of standard stars, and these are only visible during Cycle 3 (i.e., Fields 8 and 10).
+	
+Amanullah, R. et al. 2010, ApJ, 716, 712
+Landolt, A. U. 1992, AJ, 104, 340
+Landolt, A. U. 2013, JAAVSO, 41, 159
+
+# Targets requested by this program that have been observed (22)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+220210778, 13.793644, 0.385894, 14.384, GO8015_LC
+220217055, 13.9141006, 0.605418, 11.489, GO8042_LC|GO8015_LC
+220217399, 13.8712168, 0.6188, 15.0, GO8031_LC|GO8015_LC
+220218255, 13.6548119, 0.649329, 13.005, GO8077_LC|GO8015_LC
+220218494, 13.6969032, 0.656814, 14.82, GO8015_LC
+220218767, 13.5672426, 0.66517, 13.177, GO8032_LC|GO8042_LC|GO8015_LC
+220218924, 13.6282196, 0.671392, 14.999, GO8015_LC
+220218950, 13.7140236, 0.67215, 13.683, GO8032_LC|GO8077_LC|GO8042_LC|GO8015_LC
+220219044, 13.8400669, 0.675289, 14.899, GO8015_LC
+220219354, 13.6399603, 0.684835, 14.165, GO8015_LC
+220220386, 13.7912579, 0.720243, 11.577, GO8077_LC|GO8015_LC|GO8028_LC
+220220500, 13.680706, 0.723918, 14.898, GO8015_LC
+220220882, 13.7635317, 0.736388, 15.521, GO8015_LC
+220221040, 13.8727407, 0.742441, 11.988, GO8068_LC|GO8032_LC|GO8077_LC|GO8015_LC
+220221739, 13.3085346, 0.767257, 13.735, GO8077_LC|GO8015_LC
+220222456, 13.4456816, 0.793024, 12.593, GO8068_LC|GO8077_LC|GO8015_LC
+220222885, 13.3188906, 0.808018, 9.955, GO8042_LC|GO8015_LC
+220223965, 13.8586388, 0.846897, 15.495, GO8015_LC
+220224105, 13.8489752, 0.851998, 15.03, GO8042_LC|GO8015_LC
+220226402, 13.7999067, 0.932653, 10.18, GO8068_LC|GO8051_LC|GO8032_LC|GO8077_LC|GO8042_LC|GO8015_LC
+220376019, 16.0903187, 4.2269611, 12.113, GO8004_LC|GO8048_LC|GO8015_LC|GO8004_SC|GO8048_SC
+220422705, 10.5255032, 5.1565042, 12.865, GO8018_LC|GO8077_LC|GO8004_LC|GO8015_LC|GO8004_SC

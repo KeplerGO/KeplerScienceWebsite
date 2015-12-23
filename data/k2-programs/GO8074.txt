@@ -1,0 +1,17 @@
+# Summary of K2 Program GO8074
+
+Title: New Algol Candidates for Investigating Gas Stream Dynamics in Interacting Binary Systems
+
+PI: Peters, Geraldine J (University of Southern California)
+CoIs: Wilson, R. E.
+
+The K2 mission and the modeling capabilities of the Wilson-Devinney (WD) binary system analysis program present a unique opportunity to probe gas stream dynamics and/or magnetic activity from the recently discovered brightness variations in Algol binaries that we call L/T (Leading/Trailing hemisphere) variables. The L/T phenomenon was discovered in Kepler data and has never been reported in ground-based photometry. L/T behavior is likely due to changes in either hot accretion or cool magnetic spots. In the hot spot interpretation the impact site's location and movement can be diagnostic of stream dynamics that may be modulated by magnetic fields. In the cool spot scenario the variability is a consequence of magnetic activity on the mass loser. We propose K2 observations in the LC mode of 10 Algol systems in Fields 8 and 10 to expand our study of mass transfer dynamics and the importance of magnetic fields.  In K2 Cycle 3 we are extending our study to close eclipsing systems with periods less than 1.0  day to investigate whether enhanced tidal interaction has influence on the L/T ratio and behavior. The Kepler and K2 databases are deficient in observations of very short-period Algols.  Modeling the K2 light curves with the WD program, stellar and spot parameters, including spot motions, will be determined so as to generate a virtual image of the binary versus time. This project will yield information on the detailed physics of mass transfer, especially the roles of accretion hot spots and magnetic fields. The updated WD program will be made available for future applications by others working with the Kepler/K2  databases.
+
+# Targets requested by this program that have been observed (6)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+220180327, 14.4743052, -0.776275, 11.809, GO8068_LC|GO8032_LC|GO8077_LC|GO8074_LC
+220320211, 14.7163448, 3.066031, 11.826, GO8068_LC|GO8032_LC|GO8077_LC|GO8074_LC
+220349319, 9.5098381, 3.684525, 11.715, GO8042_LC|GO8074_LC
+220501719, 19.2296638, 6.8116989, 8.854, GO8051_LC|GO8032_LC|GO8077_LC|GO8031_LC|GO8074_LC
+220727924, 14.4078503, 12.3071213, 10.935, GO8077_LC|GO8074_LC|GO8028_LC
+220731239, 14.9588699, 12.4177055, 13.903, GO8077_LC|GO8042_LC|GO8074_LC

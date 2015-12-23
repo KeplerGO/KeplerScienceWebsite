@@ -1,0 +1,33 @@
+# Summary of K2 Program GO6021
+
+Title: Probing the Planetary Population of High-Mass Stars
+
+PI: Cochran, William D. (The University of Texas at Austin)
+CoIs: Johnson, Marshall C; Shporer, Avi
+
+Objectives: To date most planet searches have been confined to stars of spectral type F and later, as hotter stars have fewer spectral lines and tend to be rapidly rotating, making radial velocity (RV) observations difficult. By observing a sample of A and early F stars, K2 can help to expand the number of known planets around stars with M~1.5-2.5 M_sun. This population has been probed largely through RV surveys of subgiant stars in this mass range [1], but the actual masses of these subgiants have been debated [2]. During its primary mission, Kepler discovered a handful of planets around A-type stars, most notably Kepler-13 Ab [3], plus a number of planet candidates which are pending validation. K2 observations of main sequence A and F stars will complement subgiant RV observations, as K2 is sensitive to smaller planets and will be able to probe close-in planets that have already been engulfed by the subgiants. K2 can thus be used to expand the sample of known transiting planets around these stars, which currently number five confirmed planets, too few to allow statistically significant investigations of this population. We thus propose to search for planets around such stars with K2. 
+
+Targets: We plan to request approximately 500 long cadence targets, mostly in Field 7. The sample will consist of A and early F-type dwarfs. We will propose for targets with 8<V<12.5, allowing for high quality photometry and spectroscopy while not requiring many K2 detector pixels.
+
+Methodology: We will process the K2 data and search for planetary transit signals using PyKE. We will conduct reconnaissance spectroscopy of planet candidate hosts using the 2.7m Harlan J. Smith Telescope at McDonald Observatory; we will leverage our group's experience with similar observations of Kepler prime mission targets. For long-period targets where the K2 observations are insufficient to constrain the transit parameters to the desired precision, we will conduct follow-up photometric observations with the Las Cumbres Observatory Global Telescope Network (LCOGT). Any planet candidates in our sample will (by design) not be amenable to confirmation using standard RV techniques. Instead, we will validate our candidates using other techniques. We will be able to confirm massive, short-period planets using photometry alone by searching for beaming and ellipsoidal variations caused by the planetary orbit, which gives the planetary mass and can even find non-transiting planets [4]. A stars are typically photometrically quiet, making them prime targets for this technique. We will also use Doppler tomography (an extension of the Rossiter-McLaughlin effect to rapidly rotating stars, where the spectral line distortion during transit is spectroscopically resolved) to validate planet candidates, and to measure the alignment between the stellar spin and planetary orbit. We are currently pursuing a program to validate Kepler prime mission candidates using Doppler tomography [5], and will use the same methodology for K2 candidates.
+
+Relevance: Our program will not only discover and characterize new planets around massive stars but also provide insight into the planetary population and planet formation and migration around these stars. It will thus address two of the science goals of NASA's Astrophysics program, namely, "Explore the origin and evolution of the galaxies, stars, and planets that make up our universe" and "Discover and study planets around other stars." We require new K2 observations in order to expand the sample of massive stars that has been surveyed for planets, building on the sample from Kepler and our earlier K2 programs.
+
+References: [1] Johnson, J. A., Clanton, C., Howard, A. W., et al. 2011, ApJS, 197, 26 [2] Lloyd, J. P. 2011, ApJL, 739, L49 [3] Mislis, D., & Hodgkin, S. 2012, MNRAS, 422, 1512 [4] Shporer, A., Jenkins, J. M., Rowe, J. F., et al. 2011, AJ, 142, 195 [5] Johnson, M. C., Cochran, W. D., Albrecht, S., et al. 2014, ApJ, 790, 30
+
+# Targets requested by this program that have been observed (14)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+212311547, 199.933197, -17.1888542, 11.446, GO6021_LC|GO6030_LC
+212446036, 201.0214081, -13.8880901, 8.903, GO6021_LC|GO6030_LC
+212446860, 199.6007385, -13.8702784, 11.538, GO6021_LC|GO6030_LC
+212485655, 197.7822876, -13.0440903, 11.412, GO6021_LC
+212609385, 202.3240814, -10.3775501, 9.543, GO6021_LC|GO6030_LC
+212649842, 205.1737213, -9.4483089, 12.071, GO6021_LC|GO6030_LC
+212649915, 204.5932007, -9.446784, 11.248, GO6021_LC
+212656176, 210.6110992, -9.3041677, 11.924, GO6021_LC|GO6030_LC
+212680433, 204.1195526, -8.7345104, 10.052, GO6016_LC|GO6021_LC|GO6030_LC
+212735068, 205.0146027, -7.3808579, 11.164, GO6021_LC|GO6030_LC|GO6087_LC
+212739787, 198.7170105, -7.2568011, 11.565, GO6021_LC|GO6030_LC
+212748816, 200.0362854, -7.011899, 10.824, GO6021_LC|GO6030_LC
+212776694, 201.5151825, -6.2212172, 11.372, GO6021_LC|GO6030_LC
+212812754, 206.4141693, -5.1424398, 9.82, GO6021_LC|GO6030_LC|GO6069_LC

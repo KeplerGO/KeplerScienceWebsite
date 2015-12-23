@@ -1,0 +1,17 @@
+# Summary of K2 Program GO6081
+
+Title: Asteroseismology of the Brightest K2 Stars
+
+PI: Huber, Daniel (SETI Institute)
+CoIs: White, Timothy R; Aerts, Conny Clara; Silva Aguirre, Victor
+
+Science Goals and Objectives: The most powerful test of our understanding of stellar structure and evolution comes from the brightest stars in the night sky, for which complementary observational techniques (such as astrometry, asteroseismology, and interferometry) can be combined. So far, stars brighter than V < 5 mag were rarely observed with Kepler/K2 due to the large number of pixels required to capture the saturated pixel columns. We propose K2 long-cadence observations of the 10 brightest (V ~ 1-5 mag) K2 stars in campaign 6 & 7 using a novel technique which uses a small number of unsaturated pixels (equivalent to 20 12th magnitude G-type stars per target). Asteroseismic studies of these bright targets will allow unprecedented tests of asteroseismic scaling relations for K giants and insights into poorly understood internal physical processes in A and B stars such convective core overshooting and internal differential rotation.
+
+Methodology: Our targets will be selected from the Hipparcos catalog using a V < 5 mag cut, which yields 10 targets that fall on silicon in Campaign 6 and 7 (including Spica, a V=1 binary system with a 4 day period, ellipsoidal variability, and a gamma Cepheid variable primary component with a 4.2 hour pulsation period). We will use small (~20x20 pixel) circular apertures around the saturated core for each target, and perform photometry using weighted sums of unsaturated pixels in the wings of the circular aperture. The method has been demonstrated to successfully recover pulsations of stars observed in K2 Campaign 0, as well as oscillations in saturated giants observed by Kepler. We will also organize spectroscopic and interferometric follow-up observations that will be combined with the K2 photometry.
+
+Relevance to Solicitation: The proposal addresses fundamental stellar astrophysics and the study of bright stars, both of which are key science goals of the K2 mission. In addition to pulsations, we expect to detect other astrophysical variability such as rotational modulation and ellipsoidal variations, which will give new insights into the physical nature and evolution of these bright stars. Additionally, our project may serendipitously yield the discovery of the brightest transiting exoplanet host star to date, in line with the key K2 science goal of detecting transits around bright stars.
+
+# Targets requested by this program that have been observed (2)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+212356048, 201.8631897, -15.9735813, 4.552, GO6081_LC
+212573842, 201.2982483, -11.1613188, 7.886, GO6040_LC|GO6081_LC
