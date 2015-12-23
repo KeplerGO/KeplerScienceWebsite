@@ -112,6 +112,9 @@ IMPORTANT_DATES = (
             ('<b>28 Mar 2016</b>',
              'K2 Campaign 7 data release (expected)',
              'data-products.html#k2-product-overview'),
+            ('<b>19 Jun 2016</b>',
+             'K2 Campaign 8 data release (expected)',
+             'data-products.html#k2-product-overview'),
          )
 
 # Defines the "meetings" box on the front page
