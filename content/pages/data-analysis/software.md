@@ -44,25 +44,23 @@ Alternatively, users can download the code package from Github (using the button
 
    <i>python setup.py install</i>
 
-There are a few different ways to execute the code within your shell. The simplest method is to download this file, make it executable, and run it:
+There are a few different ways to execute the code within your shell. The simplest method is to use the command-line tool that gets installed automatically:
 
-   <i>./runK2onSilicon.py myTargetList.csv campaignNumber</i>
+   <i>K2onSilicon myTargetList.csv campaignNumber</i>
 
 In the example above you should replace campaignNumber with an
-integer, 0 for Campaign 0 or 1 for Campaign 1. The code will output
+integer, e.g. 0 for Campaign 0 or 12 for Campaign 12. The code will output
 two files, i) an updated ascii target list with an extra column
 flagging targets that land on active silicon, and ii) if matplotlib is
 intalled, a plot showing where the proposed targets fall on the focal
-plane. The format for the target list is very strict -- you need three
+plane.
+
+The format for the target list is very strict -- you need three
 columns: RA in degrees, Declination in degrees and Kepler
 magnitude. Headers or other additional columns will cause an execution
 failure. The code will output a similar file to the one input but with
-an extra column containing either a 0, 1 or 2, where 0 = not on
-silicon, 1 = near to the focal plane, and 2 =
-target is on active silicon.  Targets near the focal plane (flagged
-with 1) but not on active silicon are not
-worth proposing, since the position of each K2 Campaign is fixed.
-
+an extra column containing either a 0 or 2, where 0 = not on
+silicon, and 2 = target is on active silicon.
 <br/>
 
 <img class="img-responsive" style="max-width:77%;" src="images/K2FOV.png">
