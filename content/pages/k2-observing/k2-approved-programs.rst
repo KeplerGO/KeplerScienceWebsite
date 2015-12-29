@@ -22,7 +22,10 @@ should be consulted for more comprehensive notes for each Campaign.
 Campaign 8
 ---------------------
 .. raw:: html
-  
+
+  <p>
+  The Campaign 8 target list includes 24187 standard long cadence and 54 short cadence targets. The planet Uranus will be observed for roughly a month in short cadence and the remaining time in long cadence, in addition four of its moons make the long cadence target list. Six Trojan asteroids and four TNOs round out the solar system targets. The irregular dwarf galaxy IC 1613 will be observed with a large pixel mask and several very bright stars will be targeted using custom pixel masks that only collect the wings of the PSF.
+  </p>
   <ul class="list-group">
     <li class="list-group-item">
       <i class="fa fa-calendar fa-margin"></i>
@@ -41,7 +44,7 @@ Campaign 7
 .. raw:: html
   
   <p>
-  
+  Campaign 7 there was a significant drop in the number of targets observed relative to previous campaigns. This drop was because the number of targets we can observe is a function of our on-board compression efficiency. The extremely dense nature of the Campaign 7 field forced us to assume a poorer compression estimate than we used for earlier campaigns. This target list consists of 13,469 standard long cadence and 72 standard short cadence targets. We tiled a region around the open cluster Ruprecht 147 using 60 individual pixel masks. In addition, we included large pixel masks over 3 Trojan/Hilda Asteroids and the (dwarf) planet Pluto. Bodies within our own Solar System move relative to the celestial sphere and are covered by long streaks of pixels. We tiled just a subset of the pixels that make up the path the Trojans/Hildas move along. These observations are in long cadence. Finally, we also observed 10 very bright stars by targeting just the central region of pixels around these targets but excluding the bleed columns.
   </p>
   <ul class="list-group">
     <li class="list-group-item">
