@@ -10,11 +10,16 @@ class TargetList(object):
 
     def __init__(self, csv_filename):
         self._df = pd.read_csv(csv_filename)
+        # The column names in the target lists aren't consistent
+        if " Investigation IDs" in self._df:
+            self._programs_key = " Investigation IDs"
+        else:
+            self._programs_key = "Investigation IDs"
 
     def get_unique_programs(self):
         """Returns a sorted list of unique program ids in the target list."""
         all_ids = []
-        for program_id in self._df[" Investigation IDs"]:
+        for program_id in self._df[self._programs_key]:
             all_ids.extend(program_id.split("|"))
         unique_ids = sorted(
                              set(
@@ -27,18 +32,25 @@ class TargetList(object):
 
     def get_targets(self, program_id):
         """Returns the list of EPIC IDs for a single program."""
-        mask = self._df[" Investigation IDs"].str.contains(program_id)
+        mask = self._df[self._programs_key].str.contains(program_id)
         return self._df.loc[mask]
 
 
 class ProgramList(object):
     """Class for interacting with a program list in NSPIRES's Excel format."""
 
-    def __init__(self, excel_filename):
-        self._df = pd.read_excel(excel_filename)
+    def __init__(self, table_filename):
+        if table_filename.endswith("xls"):
+            self._df = pd.read_excel(table_filename)
+        else:
+            self._df = pd.read_csv(table_filename)
 
-    def get_program(self, progam_id):
-        seqnum = int(progam_id[3:])
+    def get_program(self, program_id):
+      try:
+        return self._df.loc[self._df['program_id'] == program_id].iloc[0]
+      except KeyError:
+        # The excel sheets contain the response sequence number rather than the GO id
+        seqnum = int(program_id[3:])
         try:
             return self._df.loc[self._df['Response seq number'] == seqnum].iloc[0]
         except IndexError:  # Program not in list
@@ -75,7 +87,11 @@ class WebSummaryCreator(object):
             if program is None:
                 continue
             targets = self.targetlist.get_targets(program_id)
-            url_summary = "data/k2-programs/{}.txt".format(program_id)
+            if int(self.campaign) > 3:
+                url_summary = "data/k2-programs/{}.txt".format(program_id)
+            else:
+                edit_program_id = program_id.replace("GO3", "GO2")
+                url_summary = "data/k2-programs/{}_{}.pdf".format(edit_program_id, program["PI Last name"])
             url_targets = "data/k2-programs/{}-targets.csv".format(program_id)
             html += (
                         "        <tr>\n"
@@ -169,6 +185,22 @@ class WebSummaryCreator(object):
 
 CFG = {
        "summaries_dir": "/home/gb/dev/KeplerScienceWebsite/content/data/k2-programs/",
+       "0": {
+                "targetlist": "/home/gb/dev/KeplerScienceWebsite/content/data/campaigns/c0/K2Campaign0targets.csv",
+                "programlist": "/home/gb/Dropbox/k2/k2-c0123-programs.csv"
+            },
+       "1": {
+                "targetlist": "/home/gb/dev/KeplerScienceWebsite/content/data/campaigns/c1/K2Campaign1targets.csv",
+                "programlist": "/home/gb/Dropbox/k2/k2-c0123-programs.csv"
+            },
+       "2": {
+                "targetlist": "/home/gb/dev/KeplerScienceWebsite/content/data/campaigns/c2/K2Campaign2targets.csv",
+                "programlist": "/home/gb/Dropbox/k2/k2-c0123-programs.csv"
+            },
+       "3": {
+                "targetlist": "/home/gb/dev/KeplerScienceWebsite/content/data/campaigns/c3/K2Campaign3targets.csv",
+                "programlist": "/home/gb/Dropbox/k2/k2-c0123-programs.csv"
+            },
        "4": {
                 "targetlist": "/home/gb/dev/KeplerScienceWebsite/content/data/campaigns/c4/K2Campaign4targets.csv",
                 "programlist": "/home/gb/Dropbox/k2/Campaign4_5/K2GO1_programs_geert_edit.xls"
@@ -193,12 +225,13 @@ CFG = {
 
 
 def create_website_pages():
-    for campaign in ["4", "5", "6", "7", "8"]:
+    for campaign in ["0", "1", "2", "3"]: #["4", "5", "6", "7", "8"]:
         tl = TargetList(CFG[campaign]["targetlist"])
         pl = ProgramList(CFG[campaign]["programlist"])
         wsc = WebSummaryCreator(tl, pl, campaign=campaign)
         wsc.write_html("c{}.html".format(campaign))
-        wsc.write_summaries(CFG["summaries_dir"])
+        if int(campaign) > 3:
+          wsc.write_summaries(CFG["summaries_dir"])
         wsc.write_targetlists(CFG["summaries_dir"])
 
 

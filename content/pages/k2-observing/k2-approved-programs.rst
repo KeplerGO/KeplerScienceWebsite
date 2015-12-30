@@ -13,7 +13,7 @@ for upload to the spacecraft, which happens 1-2 months before the start
 of a Campaign.
 
 You can click on the title of each program to read a summary
-of the research objectives and view a list of the associated targets.
+of the research objectives and view a list of the observed targets.
 
 After data has been released, the 
 `data release notes <data-products.html#k2-data-release-notes>`_ 
@@ -32,8 +32,16 @@ Campaign 8
       Jan 3 - Mar 23, 2016
     </li>
     <li class="list-group-item">
+      <i class="fa fa-pencil-square-o fa-margin"></i>
+      Data release notes (coming soon)
+    </li>
+    <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
       <a href="data/campaigns/c8/K2Campaign8targets.csv">Target list (csv)</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-external-link fa-margin"></i>
+      Target pixel files (coming soon)  
     </li>
   </ul>
 
@@ -52,8 +60,16 @@ Campaign 7
       Oct 4 - Dec 26, 2015
     </li>
     <li class="list-group-item">
+      <i class="fa fa-pencil-square-o fa-margin"></i>
+      Data release notes (coming soon)
+    </li>
+    <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
       <a href="data/campaigns/c7/K2Campaign7targets.csv">Target list (csv)</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-external-link fa-margin"></i>
+      Target pixel files (coming soon)  
     </li>
   </ul>
 
@@ -166,17 +182,140 @@ Campaign 4
 
 Campaign 3
 ---------------------
+.. raw:: html
+
+  <p>
+    The Campaign 3 target list consists of 16,375 standard long cadence and 55 standard short cadence targets. In addition we have included large pixel masks over dwarf planet (225088) 2007 OR10, the planet Neptune and its moon Nereid. Bodies within our own Solar System move relative to the celestial sphere and are covered by long streaks of pixels. We tiled the entire extent of (225088) 2007 OR10, Neptune and Nereid in long cadence, and we have tiled approximate 20 days either side of the stationary point of Neptune in short cadence.
+  </p>
+  <p>
+    There was an error in the software we supplied to the community that reports whether potential targets fall on active silicon. The roll coordinate used in the software was 5 degrees off from the as-flown pointing. The result is that roughly 20% of proposed targets fell off active silicon and were not observable. We backfilled the target list with targets from lower ranked programs. The error was regrettable and we have put steps in place to prevent this happening again.
+  </p>
+  <ul class="list-group">
+    <li class="list-group-item">
+      <i class="fa fa-calendar fa-margin"></i>
+      Nov 14, 2014 - Feb 6, 2015
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-pencil-square-o fa-margin"></i>
+      <a href="k2-data-release-notes.html#k2-campaign-3">Release notes</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-cog fa-margin"></i>
+      <a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr5">Pipeline: 9.3</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-download fa-margin"></i>
+      <a href="data/campaigns/c3/K2Campaign3targets.csv">Target list (csv)</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-external-link fa-margin"></i>
+      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c3/">Target pixel files (MAST)</a>   
+    </li>
+  </ul>
+
 .. include:: approved-programs/c3.html
 
 Campaign 2
 ---------------------
+.. raw:: html
+
+  <p>
+    The Campaign 2 target list consists of 13,399 standard long cadence and 54 short cadence targets. In addition we have included large pixel masks over the clusters M4 and M80. If a target falls within either the M4 or M80 large mask it will not appear in the target list.
+  </p>
+  <p>
+      Two Solar System bodies were selected - trans-Neptunian object (278361) 2007 JJ43 and Comet C/2013 A1 (Siding Spring). The Solar System bodies are moving relative to the celestial sphere and are covered by long streaks of pixels. The full cluster and Solar System pixel masks are made up of many smaller masks.
+  </p>
+  <ul class="list-group">
+    <li class="list-group-item">
+      <i class="fa fa-calendar fa-margin"></i>
+      Aug 22 - Nov 11, 2014
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-pencil-square-o fa-margin"></i>
+      <a href="k2-data-release-notes.html#k2-campaign-2">Release notes</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-cog fa-margin"></i>
+      <a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr4">Pipeline: 9.2</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-download fa-margin"></i>
+      <a href="data/campaigns/c2/K2Campaign2targets.csv">Target list (csv)</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-external-link fa-margin"></i>
+      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c2/">Target pixel files (MAST)</a>   
+    </li>
+  </ul>
+
 .. include:: approved-programs/c2.html
+
 
 Campaign 1
 ---------------------
+.. raw:: html
+
+  <p>
+    The Campaign 1 target list includes the trans-Neptunian object
+    2002 GV31.  A custom aperture was implemented for this moving target.  
+  </p>
+  <ul class="list-group">
+    <li class="list-group-item">
+      <i class="fa fa-calendar fa-margin"></i>
+      May 30 - Aug 21, 2014
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-pencil-square-o fa-margin"></i>
+      <a href="k2-data-release-notes.html#k2-campaign-1">Release notes</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-cog fa-margin"></i>
+      <a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr3">Pipeline: 9.2</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-download fa-margin"></i>
+      <a href="data/campaigns/c1/K2Campaign1targets.csv">Target list (csv)</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-external-link fa-margin"></i>
+      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c1/">Target pixel files (MAST)</a>   
+    </li>
+  </ul>
+
 .. include:: approved-programs/c1.html
 
 Campaign 0
 ---------------------
-.. include:: approved-programs/c0.html
+.. raw:: html
 
+  <p>
+    Campaign 0 was a full-length engineering test and is notably shorter in
+    duration than later campaigns.  This in the only campaign where the target list was not selected
+    by peer-review.  The Campaign 0 target list
+    includes the open clusters M35 (NGC 2168) and NGC 2158.  These
+    were observed using 154 separate 50x50 pixel masks.
+  </p>
+  <ul class="list-group">
+    <li class="list-group-item">
+      <i class="fa fa-calendar fa-margin"></i>
+      Mar 8 - May 30, 2014
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-file-text-o fa-margin"></i>
+      <a href="k2-data-release-notes.html#k2-campaign-0">Release notes</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-cog fa-margin"></i>
+      <a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr2">Pipeline: 9.2</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-download fa-margin"></i>
+      <a href="data/campaigns/c0/K2Campaign0targets.csv">Target list (csv)</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-external-link fa-margin"></i>
+      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c0/">Target pixel files (MAST)</a>   
+    </li>
+  </ul>
+
+.. include:: approved-programs/c0.html
