@@ -41,7 +41,7 @@ Campaign 8
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
-      Target pixel files (coming soon)  
+      Target pixel files (coming soon)
     </li>
   </ul>
 
@@ -69,7 +69,7 @@ Campaign 7
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
-      Target pixel files (coming soon)  
+      Target pixel files (coming soon)
     </li>
   </ul>
 

@@ -91,7 +91,8 @@ MENUITEMS = (
 
 # Defines the "key information" box on the front page
 KEY_INFORMATION = (
-            ('K2: Fields', 'k2-fields.html'),
+            ('K2: Campaign fields', 'k2-fields.html'),
+            ('K2: Observed programs', 'k2-approved-programs.html'),
             ('K2: Proposing targets', 'k2-proposing-targets.html'),
             ('K2: Discretionary time', 'k2-ddt.html'),
             ('Kepler/K2: Data products', 'data-products.html'),
