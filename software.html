@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2015-12-29" />
+    <meta name="dc.date.modified" content="2015-12-30" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -160,23 +160,21 @@ installed. Users who would like to produce plots like the one below also need to
 <p><i>pip install K2fov</i></p>
 <p>Alternatively, users can download the code package from Github (using the button lower-right labeled Download ZIP), unzip the file in a directory, cd to the directory within a shell and run:</p>
 <p><i>python setup.py install</i></p>
-<p>There are a few different ways to execute the code within your shell. The simplest method is to download this file, make it executable, and run it:</p>
-<p><i>./runK2onSilicon.py myTargetList.csv campaignNumber</i></p>
+<p>There are a few different ways to execute the code within your shell. The simplest method is to use the command-line tool that gets installed automatically:</p>
+<p><i>K2onSilicon myTargetList.csv campaignNumber</i></p>
 <p>In the example above you should replace campaignNumber with an
-integer, 0 for Campaign 0 or 1 for Campaign 1. The code will output
+integer, e.g. 0 for Campaign 0 or 12 for Campaign 12. The code will output
 two files, i) an updated ascii target list with an extra column
 flagging targets that land on active silicon, and ii) if matplotlib is
 intalled, a plot showing where the proposed targets fall on the focal
-plane. The format for the target list is very strict -- you need three
+plane.</p>
+<p>The format for the target list is very strict -- you need three
 columns: RA in degrees, Declination in degrees and Kepler
 magnitude. Headers or other additional columns will cause an execution
 failure. The code will output a similar file to the one input but with
-an extra column containing either a 0, 1 or 2, where 0 = not on
-silicon, 1 = near to the focal plane, and 2 =
-target is on active silicon.  Targets near the focal plane (flagged
-with 1) but not on active silicon are not
-worth proposing, since the position of each K2 Campaign is fixed.</p>
-<p><br/></p>
+an extra column containing either a 0 or 2, where 0 = not on
+silicon, and 2 = target is on active silicon.
+<br/></p>
 <p><img class="img-responsive" src="images/K2FOV.png" style="max-width:77%;"/></p>
 <p><br/></p>
 <h3 id="pyke">PyKE</h3>
