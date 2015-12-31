@@ -115,6 +115,10 @@ Coughlin, Jeffrey L., Mullally, F., Thompson, Susan E., et al.
 Dawson, Rebekah I., Lee, Eve J., Chiang, Eugene    
 2015, pre-print ([2015arXiv151204951D](http://adsabs.harvard.edu/abs/2015arXiv151204951D))  
 
+21. [THE INFLUENCE OF THE EXTREME ULTRAVIOLET SPECTRAL ENERGY DISTRIBUTION ON THE STRUCTURE AND COMPOSITION OF THE UPPER ATMOSPHERE OF EXOPLANETS](http://adsabs.harvard.edu/abs/2015arXiv151206470G)  
+Guo, J. H., Ben-Jaffel, Lotfi    
+2015, pre-print ([2015arXiv151206470G](http://adsabs.harvard.edu/abs/2015arXiv151206470G))  
+
 
 2015-11
 -------

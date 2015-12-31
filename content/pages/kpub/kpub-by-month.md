@@ -75,6 +75,10 @@ Goździewski, K., Migaszewski, C., Panichi, F., et al.
 Kovács, Géza, Hartman, Joel D., Bakos, Gáspár Á.    
 2016, refereed ([2016A&A...585A..57K](http://adsabs.harvard.edu/abs/2016A&A...585A..57K))  
 
+14. [A SUBSYNCHRONOUSLY ROTATING PULSATING SUBDWARF B STAR IN A SHORT-PERIOD BINARY WITH A WHITE DWARF COMPANION](http://adsabs.harvard.edu/abs/2016A&A...585A..66B)  
+Baran, A. S., Telting, J. H., Németh, P., et al.    
+2016, refereed ([2016A&A...585A..66B](http://adsabs.harvard.edu/abs/2016A&A...585A..66B))  
+
 
 2015-12
 -------
@@ -250,6 +254,14 @@ Van Cleve, Jeffrey E., Howell, Steve B., Smith, Jeffrey C., et al.
 43. [CORRELATIONS BETWEEN COMPOSITIONS AND ORBITS ESTABLISHED BY THE GIANT IMPACT ERA OF PLANET FORMATION](http://adsabs.harvard.edu/abs/2015arXiv151204951D)  
 Dawson, Rebekah I., Lee, Eve J., Chiang, Eugene    
 2015, pre-print ([2015arXiv151204951D](http://adsabs.harvard.edu/abs/2015arXiv151204951D))  
+
+44. [THE INFLUENCE OF THE EXTREME ULTRAVIOLET SPECTRAL ENERGY DISTRIBUTION ON THE STRUCTURE AND COMPOSITION OF THE UPPER ATMOSPHERE OF EXOPLANETS](http://adsabs.harvard.edu/abs/2015arXiv151206470G)  
+Guo, J. H., Ben-Jaffel, Lotfi    
+2015, pre-print ([2015arXiv151206470G](http://adsabs.harvard.edu/abs/2015arXiv151206470G))  
+
+45. [KEPLER ECLIPSING BINARY STARS. VII. THE CATALOG OF ECLIPSING BINARIES FOUND IN THE ENTIRE KEPLER DATA-SET](http://adsabs.harvard.edu/abs/2015arXiv151208830K)  
+Kirk, Brian, Conroy, Kyle, Prša, Andrej, et al.    
+2015, pre-print ([2015arXiv151208830K](http://adsabs.harvard.edu/abs/2015arXiv151208830K))  
 
 
 2015-11
