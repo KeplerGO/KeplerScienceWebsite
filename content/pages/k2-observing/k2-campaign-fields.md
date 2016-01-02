@@ -277,7 +277,7 @@ This page details the previous, current, and future K2 Campaign fields.
 
 <p>
 The fields below indicate fields being considered for Campaign 14 and beyond. 
-The coordinates are not final and ***will*** change to optimise science
+The coordinates are not final and <i>will</i> change to optimize science
 and accommodate engineering constraints (e.g. the availability of guide stars).
 </p>
 
@@ -353,9 +353,18 @@ during the campaign.
 <hr/>
 
 
-## Fields of view
+## Target selection tools
 
-### Footprint plots
+The [K2fov Python package](https://github.com/KeplerGO/K2fov) enables the community to test whether targets fall within a campaign field,
+while its sister [K2ephem package](https://github.com/KeplerGO/K2ephem)
+allows moving Solar System bodies to be checked.
+
+You can learn more about the installation and usage of these tools [on the software page](software.html).
+
+<hr/>
+
+
+## Visualizations
 
 <div class="row">
   <div class="col-lg-6">
@@ -434,8 +443,12 @@ during the campaign.
   </div>
 </div>
 
+<hr/>
 
-### CSV/JSON files
+
+## Machine-readable files
+
+### Text format
 
 To enable the community to create custom field visualisations,
 the coordinates in the footprint plots shown above
@@ -478,7 +491,7 @@ Beware however that a plot obtained in this way approximates channel edges
 as straight lines in the 2D-projected sky.
 
 
-### MOC files
+### MOC format
 
 In addition to the JSON and CSV files described above,
 we also offer sky coverage information in the MOC data format.
@@ -488,10 +501,3 @@ where it can be used to query remote databases given a K2 footprint.
 
 The MOC files, one for each Campaign, can be downloaded from
 [a GitHub repository](https://github.com/KeplerGO/K2FootprintFiles/tree/master/moc).
-
-### K2fov software
-
-The K2fov tool enables the community to plot K2's field of view and test
-whether targets fall within a campaign field using a Python script.
-See the <a href="software.html#k2fov">installation and usage instructions</a>
-on the software page.
