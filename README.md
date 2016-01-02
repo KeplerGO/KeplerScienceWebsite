@@ -13,7 +13,9 @@ Test URL: http://keplergo.github.io/KeplerScienceWebsite/
 * `make html` to build a static HTML version of the website.
 * `make devserver` to start a development webserver on your local machine,
 and the point your browser to `localhost:8000`.
-* `make github` to deploy the website to the preview server.
+* `make github` to deploy the website to the [Test URL](http://keplergo.github.io/KeplerScienceWebsite/).
+* `make live` to deploy the website to the [Live URL](http://keplerscience.arc.nasa.gov).
+
 
 ## Installation instructions
 
@@ -22,7 +24,7 @@ You will need to ensure that `pelican`, `markdown` and `beautifulsoup4` are inst
 pip install pelican markdown beautifulsoup4
 ```
 
-If `markdown` is not installed, you may only see a cryptic warning message (e.g. `No valid files found in content.`) when running `make html`.
+If `markdown` is not installed, you may get a very cryptic warning message (`"No valid files found in content."`) when running `make html`.
 
 
 # Layout and html elements
@@ -41,3 +43,12 @@ The content can be defined in MarkDown (md), ReStructuredText (rst),
 or simply html.  There is a useful Markdown cheat sheet here:
 
     https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+
+## Authors
+
+Created by Thomas Barclay, Geert Barentsen, and Knicole Colón
+for the Kepler/K2 Guest Observer Office at NASA Ames.
+
+Created using the [Pelican package](getpelican.com] and the
+[pelican-bootstrap3 theme](https://github.com/DandyDev/pelican-bootstrap3).
