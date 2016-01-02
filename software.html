@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2015-12-31" />
+    <meta name="dc.date.modified" content="2016-01-02" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -34,13 +34,13 @@ in August 2015, using pelican-bootstrap and flatly.
 <link rel="canonical" href="./pages/keplerk2-guest-observer-office-software.html">
 
         <meta name="author" content="Thomas Barclay" />
-        <meta name="description" content="Here is a list of software products created by the Kepler/K2 Guest Observer Office for use in preparing for Kepler and K2 observations and for analyzing the collected data. The Guest Observer Office hosts source code on Github. Kadenza Converts raw cadence data from the Kepler spacecraft into astronomer-friendly ..." />
+        <meta name="description" content="Here is a list of software products created by the Kepler/K2 Guest Observer Office for use in preparing for Kepler and K2 observations and for analyzing the collected data. The Guest Observer Office hosts source code on Github. K2fov Checks whether a celestial coordinate falls within the field of ..." />
 
     <meta property="og:site_name" content="Kepler &amp; K2" />
     <meta property="og:type" content="article"/>
     <meta property="og:title" content="Kepler/K2 Guest Observer Office software"/>
     <meta property="og:url" content="./pages/keplerk2-guest-observer-office-software.html"/>
-    <meta property="og:description" content="Here is a list of software products created by the Kepler/K2 Guest Observer Office for use in preparing for Kepler and K2 observations and for analyzing the collected data. The Guest Observer Office hosts source code on Github. Kadenza Converts raw cadence data from the Kepler spacecraft into astronomer-friendly ..." />
+    <meta property="og:description" content="Here is a list of software products created by the Kepler/K2 Guest Observer Office for use in preparing for Kepler and K2 observations and for analyzing the collected data. The Guest Observer Office hosts source code on Github. K2fov Checks whether a celestial coordinate falls within the field of ..." />
 
 
     <!-- Bootstrap -->
@@ -134,49 +134,123 @@ in August 2015, using pelican-bootstrap and flatly.
 <p>Here is a list of software products created by the Kepler/K2 Guest
 Observer Office for use in preparing for Kepler and K2 observations
 and for analyzing the collected data. The Guest Observer Office hosts
-source code on <a href="https://github.com/keplergo">Github</a>. </p>
-<table class="table table-striped table-hover" style="max-width:40em;">
+source code on <a href="https://github.com/KeplerGO">Github</a>. </p>
+<table class="table table-striped table-hover" style="max-width:50em;">
 <tr>
-<td>Kadenza</td>
-<td>Converts raw cadence data from the Kepler spacecraft into astronomer-friendly FITS files.</td>
-<td><a href="https://github.com/KeplerGO/kadenza">https://github.com/KeplerGO/kadenza</a></td>
+<td>K2fov</td>
+<td>
+        Checks whether a celestial coordinate falls within the field of view
+        of a K2 campaign.
+    </td>
+<td>
+<a href="https://github.com/KeplerGO/K2fov">github.com/KeplerGO/K2fov</a>
+</td>
 </tr>
 <tr>
-<td>K2Fov</td>
-<td>A tool to check whether targets are within the field of view for each K2 campaign</td>
-<td><a href="https://github.com/KeplerGO/K2fov">https://github.com/KeplerGO/K2fov</a></td>
+<td>K2ephem</td>
+<td>
+        Checks whether a moving Solar System body, e.g. an asteroid or comet,
+        falls within the field of view of any K2 campaign.
+    </td>
+<td>
+<a href="https://github.com/KeplerGO/K2fov">github.com/KeplerGO/K2ephem</a>
+</td>
 </tr>
 <tr>
 <td>PyKE</td>
-<td>A tool to create light curves with user-chosen pixel apertures and
-    cotrend and/or detrend data.</td>
-<td><a href="https://github.com/KeplerGO/PyKE/releases">download the latest version of PyKE</a></td>
+<td>
+        A tool to create light curves with user-chosen pixel apertures and
+        cotrend and/or detrend data.
+    </td>
+<td>
+<a href="https://github.com/KeplerGO/PyKE">github.com/KeplerGO/PyKE</a>
+</td>
+</tr>
+<tr>
+<td>Kadenza</td>
+<td>
+        Converts raw cadence data from the Kepler spacecraft into astronomer-friendly FITS files.</td>
+<td>
+<a href="https://github.com/KeplerGO/kadenza">github.com/KeplerGO/kadenza</a>
+</td>
 </tr>
 </table>
 <h3 id="k2fov">K2fov</h3>
-<p>K2FOV reads a list of potential target positions (J2000 celestial coordinates) and returns whether they are likely to fall within the field of view of K2 during a specified observing campaign.</p>
-<p>The code is hosted on Github. Users will need python and numpy
-installed. Users who would like to produce plots like the one below also need to install matplotlib. Users of PyKE will already have these dependencies installed on their system. If you have pip, a python package manager, installed on your machine you can download and install the code by running:</p>
-<p><i>pip install K2fov</i></p>
-<p>Alternatively, users can download the code package from Github (using the button lower-right labeled Download ZIP), unzip the file in a directory, cd to the directory within a shell and run:</p>
-<p><i>python setup.py install</i></p>
-<p>There are a few different ways to execute the code within your shell. The simplest method is to use the command-line tool that gets installed automatically:</p>
-<p><i>K2onSilicon myTargetList.csv campaignNumber</i></p>
-<p>In the example above you should replace campaignNumber with an
-integer, e.g. 0 for Campaign 0 or 12 for Campaign 12. The code will output
-two files, i) an updated ascii target list with an extra column
-flagging targets that land on active silicon, and ii) if matplotlib is
-intalled, a plot showing where the proposed targets fall on the focal
-plane.</p>
+<p>K2fov is a Python package that allows users to check whether a target falls within the field of view of K2.</p>
+<p>In particular, the package adds the <em>K2onSilicon</em> and <em>K2findCampaigns</em> tools to the command line, which allow the visibility of targets to be checked during one or all campaigns, respectively.</p>
+<p>The code and documentation is <a href="https://github.com/KeplerGO/K2fov">hosted on Github</a> and only briefly summarized here.</p>
+<h4 id="installation">Installation</h4>
+<p>Users will need to have a working version of Python 2 or 3 installed.
+If this requirement is met, K2fov can be installed using pip:</p>
+<pre><code>pip install K2fov
+</code></pre>
+<p>If you have a previous version installed, please make sure you upgrade to the latest version using:</p>
+<pre><code>pip install K2fov --upgrade
+</code></pre>
+<p>It is important to upgrade frequently to ensure that you are using the most up to date K2 field parameters.</p>
+<h4 id="usage">Usage</h4>
+<p>Installing K2fov will automatically add a command line tool to your path called <em>K2onSilicon</em>, which takes a list of targets as input and writes a new list that indicates the "silicon status" of each target, i.e. whether or not it falls on one of the detectors of the spacecraft's focal plane.</p>
+<p>The simplest thing to do is to have a CSV file with columns "RA_degrees, Dec_degrees, Kepmag". Do not use a header. 
+For example, create a file called mytargetlist.csv containing the following rows:</p>
+<pre><code>178.19284, 1.01924, 13.2
+171.14213, 5.314616, 11.3
+</code></pre>
 <p>The format for the target list is very strict -- you need three
-columns: RA in degrees, Declination in degrees and Kepler
-magnitude. Headers or other additional columns will cause an execution
-failure. The code will output a similar file to the one input but with
-an extra column containing either a 0 or 2, where 0 = not on
-silicon, and 2 = target is on active silicon.
+columns: ra, dec, and magnitude.
+Headers or other additional columns will cause an execution failure.</p>
+<p>You can then check whether each object in the file falls on silicon by calling K2onSilicon from the command line:</p>
+<pre><code>K2onSilicon mytargetlist.csv 1
+</code></pre>
+<p>Where mytargetlist.csv is your CSV file and 1 is the K2 Campaign number.</p>
+<p>Running the code will output an updated target list containing the three input columns and an extra column containing either a "0" or "2":</p>
+<ul>
+<li>0 = Not observable</li>
+<li>2 = Target is in the K2 field of view and on silicon</li>
+</ul>
+<p>The code will also write an image, called targets_fov.png, showing where the targets fall. An example is shown below.
 <br/></p>
 <p><img class="img-responsive" src="images/K2FOV.png" style="max-width:77%;"/></p>
 <p><br/></p>
+<p>If instead of checking the targets in a single campaign, you want to understand whether a target is visible in any past or future K2 Campaign, you can use a different tool called <em>K2findCampaigns</em>.</p>
+<p>For example, to verify whether J2000 coordinate (ra, dec) = (269.5, -28.5) degrees is visible at any point during the K2 mission, type:</p>
+<pre><code>$ K2findCampaigns 269.5 -28.5
+Success! The target is on silicon during K2 campaigns [9].
+</code></pre>
+<p>You can also check a list of targets using the alternative command line tool called <em>K2findCampaigns-csv</em>.</p>
+<h3 id="k2ephem">K2ephem</h3>
+<p>K2ephem is a Python package that allows to check
+whether a Solar System body, i.e. a moving asteroid or comet,
+falls within the field of view of a K2 campaign.</p>
+<p>It provides a command-line tool that will automatically grab the ephemeris
+of an object from NASA's JPL/Horizons service and then check its K2 visibility
+using <em>K2fov</em>.</p>
+<h4 id="installation_1">Installation</h4>
+<p>You need to have a working version of Python 2 or 3 installed.
+If this requirement is met, you can install K2ephem using pip</p>
+<pre><code>pip install K2ephem --upgrade
+</code></pre>
+<p>If required, this command will take care of installing
+the two required dependencies (<em>K2fov</em> and <em>pandas</em>).</p>
+<h4 id="usage_1">Usage</h4>
+<p>After installation, you can call <em>K2ephem</em> from the command line.
+For example, to verify whether comet Chiron can be observed by K2, simply type:</p>
+<pre><code>K2ephem Chiron
+</code></pre>
+<p>Or you can type <em>K2ephem --help</em> to see the detailed usage instructions:</p>
+<pre><code>$ K2ephem --help
+usage: K2ephem [-h] [--first campaign] [--last campaign] target
+
+Check if a Solar System object is (or was) observable by NASA's K2 mission.
+This command will query JPL/Horizons to find out.
+
+positional arguments:
+  target            Name of the target. Must be known to JPL/Horizons.
+
+optional arguments:
+  -h, --help        show this help message and exit
+  --first campaign  First campaign to check (default: 0)
+  --last campaign   Final campaign to check (default: 18)
+</code></pre>
 <h3 id="pyke">PyKE</h3>
 <p>PyKE is a suite of python software tools developed to reduce and
 analyze Kepler and K2 light curves, TPFs, and FFIs. PyKE tools provide the
@@ -686,6 +760,12 @@ well as 2MASS and GALEX sources located within the frame, are marked
 with symbols and are user-selectable. Sources for which the data have been
 published or made public are also
 indicated. <a href="http://archive.stsci.edu/kepler/ffi_display.php">The Kepler FFI tool can be accessed here</a>. <a href="http://archive.stsci.edu/k2/ffi_display.php">The K2 FFI tool can be accessed here</a>.</p>
+<h4 id="k2flix">K2flix</h4>
+<p>K2flix enables the pixel data to be visualized
+by turning Kepler/K2's Target Pixel Files (TPF) into 
+contrast-stretched animated gifs or MPEG-4 movies.
+K2flix can be used both as a command-line tool or using its Python API.
+The tool is hosted and documented on <a href="https://github.com/barentsen/k2flix">GitHub</a>.</p>
             </div>
         </section>
     </div>
@@ -694,7 +774,16 @@ indicated. <a href="http://archive.stsci.edu/kepler/ffi_display.php">The Kepler 
             <div class="nav nav-stacked fixed" id="mytoc">
             <div class="toc">
 <ul>
-<li><a href="#k2fov">K2fov</a></li>
+<li><a href="#k2fov">K2fov</a><ul>
+<li><a href="#installation">Installation</a></li>
+<li><a href="#usage">Usage</a></li>
+</ul>
+</li>
+<li><a href="#k2ephem">K2ephem</a><ul>
+<li><a href="#installation_1">Installation</a></li>
+<li><a href="#usage_1">Usage</a></li>
+</ul>
+</li>
 <li><a href="#pyke">PyKE</a><ul>
 <li><a href="#pyraf-installation">PyRAF installation</a></li>
 <li><a href="#pyraf-execution">PyRAF execution</a></li>
@@ -711,6 +800,7 @@ indicated. <a href="http://archive.stsci.edu/kepler/ffi_display.php">The Kepler 
 <li><a href="#ds9">DS9</a></li>
 <li><a href="#keplerffi">KeplerFFI</a></li>
 <li><a href="#mast-ffi-viewer">MAST FFI Viewer</a></li>
+<li><a href="#k2flix">K2flix</a></li>
 </ul>
 </li>
 </ul>
