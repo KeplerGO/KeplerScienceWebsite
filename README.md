@@ -50,5 +50,5 @@ or simply html.  There is a useful Markdown cheat sheet here:
 Created by Thomas Barclay, Geert Barentsen, and Knicole Colón
 for the Kepler/K2 Guest Observer Office at NASA Ames.
 
-Created using the [Pelican package](getpelican.com] and the
+Created using the [Pelican package](getpelican.com) and the
 [pelican-bootstrap3 theme](https://github.com/DandyDev/pelican-bootstrap3).
