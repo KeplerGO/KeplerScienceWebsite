@@ -14,13 +14,12 @@ requested by the community through the Cycle 4 call.
 
 To help the community select and propose the most interesting targets,
 the Guest Observer Office has prepared a "K2-SIMBAD" catalog which lists all 240,000 objects which appear in the [SIMBAD database](http://simbad.u-strasbg.fr) and will fall within the fields of future K2 Campaigns.
-The catalog details object IDs, spectral types, object classifications, citation counts, proper motions, and selected photometry. It can be [downloaded in full from our GitHub repository](https://github.com/KeplerGO/K2FootprintFiles/tree/master/simbad).
+The catalog details object IDs, spectral types, object classifications, citation counts, proper motions, and selected photometry as recorded in SIMBAD. It can be [downloaded in full from our GitHub repository](https://github.com/KeplerGO/K2FootprintFiles/tree/master/simbad).
 
-The K2-SIMBAD catalog does not replace the [EPIC Input Catalog](https://archive.stsci.edu/k2/epic/search.php), which remains the principal target selection tool. Instead it provides an overview of candidate targets that have already appeared in the astronomical literature and may hence trigger or inspire K2 Cycle 4 proposals.
+The K2-SIMBAD catalog does not replace the [EPIC Input Catalog](https://archive.stsci.edu/k2/epic/search.php), which remains the principal target selection tool. Instead it provides an overview of objects that have appeared in the literature and may hence trigger or inspire K2 Cycle 4 proposals.
 
-Below we list a selection of notable objects that we encountered while
-constructing the catalog, along with interesting Solar System bodies
-that will be visible as determined by the [K2ephem tool](https://github.com/KeplerGO/K2ephem).  This list is not exhaustive by any means and we encourage members of the community to share missing highlights for inclusion on this page.
+Below we list a selection of notable objects that we encountered in the  catalog, along with interesting Solar System bodies
+that will be visible as determined by the [K2ephem tool](https://github.com/KeplerGO/K2ephem).  This list is not exhaustive by any means and we encourage members of the community to share missing highlights for inclusion.
 
 
 ## Highlights in Campaign 11
