@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2015-12-30" />
+    <meta name="dc.date.modified" content="2016-01-02" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -373,7 +373,7 @@ This page details the previous, current, and future K2 Campaign fields.</p>
 <h3 id="future-preliminary">Future (preliminary)</h3>
 <p>
 The fields below indicate fields being considered for Campaign 14 and beyond. 
-The coordinates are not final and ***will*** change to optimise science
+The coordinates are not final and <i>will</i> change to optimize science
 and accommodate engineering constraints (e.g. the availability of guide stars).
 </p>
 <p>
@@ -441,8 +441,13 @@ during the campaign.
 </div>
 </div>
 <hr/>
-<h2 id="fields-of-view">Fields of view</h2>
-<h3 id="footprint-plots">Footprint plots</h3>
+<h2 id="target-selection-tools">Target selection tools</h2>
+<p>The <a href="https://github.com/KeplerGO/K2fov">K2fov Python package</a> enables the community to test whether targets fall within a campaign field,
+while its sister <a href="https://github.com/KeplerGO/K2ephem">K2ephem package</a>
+allows moving Solar System bodies to be checked.</p>
+<p>You can learn more about the installation and usage of these tools <a href="software.html">on the software page</a>.</p>
+<hr/>
+<h2 id="visualizations">Visualizations</h2>
 <div class="row">
 <div class="col-lg-6">
 <b id="c0">Campaign 0</b>
@@ -513,7 +518,9 @@ during the campaign.
 <a href="images/campaign_selected/field13-final.png"><img class="img-responsive" src="images/campaign_selected/field13-final.png"/></a>
 </div>
 </div>
-<h3 id="csvjson-files">CSV/JSON files</h3>
+<hr/>
+<h2 id="machine-readable-files">Machine-readable files</h2>
+<h3 id="text-format">Text format</h3>
 <p>To enable the community to create custom field visualisations,
 the coordinates in the footprint plots shown above
 have been exported to machine-readable CSV and JSON text files.
@@ -549,19 +556,14 @@ pl.show()
 </code></pre>
 <p>Beware however that a plot obtained in this way approximates channel edges
 as straight lines in the 2D-projected sky.</p>
-<h3 id="moc-files">MOC files</h3>
+<h3 id="moc-format">MOC format</h3>
 <p>In addition to the JSON and CSV files described above,
 we also offer sky coverage information in the MOC data format.
 MOC is a HealPix-based VO standard which can be opened using the
 <a href="http://aladin.u-strasbg.fr">Aladin interactive sky atlas</a>,
 where it can be used to query remote databases given a K2 footprint.</p>
 <p>The MOC files, one for each Campaign, can be downloaded from
-<a href="https://github.com/KeplerGO/K2FootprintFiles/tree/master/moc">a GitHub repository</a>.</p>
-<h3 id="k2fov-software">K2fov software</h3>
-<p>The K2fov tool enables the community to plot K2's field of view and test
-whether targets fall within a campaign field using a Python script.
-See the <a href="software.html#k2fov">installation and usage instructions</a>
-on the software page.</p></hr>
+<a href="https://github.com/KeplerGO/K2FootprintFiles/tree/master/moc">a GitHub repository</a>.</p></hr>
             </div>
         </section>
     </div>
@@ -575,11 +577,11 @@ on the software page.</p></hr>
 <li><a href="#future-preliminary">Future (preliminary)</a></li>
 </ul>
 </li>
-<li><a href="#fields-of-view">Fields of view</a><ul>
-<li><a href="#footprint-plots">Footprint plots</a></li>
-<li><a href="#csvjson-files">CSV/JSON files</a></li>
-<li><a href="#moc-files">MOC files</a></li>
-<li><a href="#k2fov-software">K2fov software</a></li>
+<li><a href="#target-selection-tools">Target selection tools</a></li>
+<li><a href="#visualizations">Visualizations</a></li>
+<li><a href="#machine-readable-files">Machine-readable files</a><ul>
+<li><a href="#text-format">Text format</a></li>
+<li><a href="#moc-format">MOC format</a></li>
 </ul>
 </li>
 </ul>
@@ -629,7 +631,7 @@ on the software page.</p></hr>
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Tue 29 December 2015
+         Last modified: Sun 03 January 2016
             &middot; Editor: Thomas Barclay &middot; NASA Official: Jessie Dotson 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>

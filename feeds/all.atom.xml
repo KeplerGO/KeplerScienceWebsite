@@ -1,5 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="http://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="http://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>http://keplerscience.arc.nasa.gov/</id><updated>2015-12-29T12:00:00-08:00</updated><entry><title>Campaign 8 target list now available online</title><link href="http://keplerscience.arc.nasa.gov/campaign-8-target-list-now-available-online.html" rel="alternate"></link><updated>2015-12-29T12:00:00-08:00</updated><author><name>Tom Barclay</name></author><id>tag:keplerscience.arc.nasa.gov,2015-12-29:campaign-8-target-list-now-available-online.html</id><summary type="html">&lt;p&gt;The K2 &lt;a href="http://keplerscience.arc.nasa.gov/k2-approved-programs.html#campaign-8"&gt;Campaign 8 Target List&lt;/a&gt; has now been posted. The Campaign 8 target list includes 24187 standard long cadence and 54 short cadence targets. The planet Uranus will be observed for roughly a month in short cadence and the remaining time in long cadence, in addition four of its moons make the long cadence target list. Six Trojan asteroids and four TNOs round out the solar system targets.
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="http://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="http://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>http://keplerscience.arc.nasa.gov/</id><updated>2016-01-03T13:00:00-08:00</updated><entry><title>K2 Cycle 4: Highlights in future fields</title><link href="http://keplerscience.arc.nasa.gov/k2-cycle-4-highlights-in-future-fields.html" rel="alternate"></link><updated>2016-01-03T13:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2016-01-03:k2-cycle-4-highlights-in-future-fields.html</id><summary type="html">&lt;p&gt;Proposals for targets to be observed by K2 in Campaigns 11, 12, and 13
+are currently being solicited as part of &lt;a href="call-for-k2-go-cycle-4-proposals-for-campaigns-11-12-and-13.html"&gt;K2 Guest Observer Cycle 4&lt;/a&gt;.
+Step 1 submissions for these proposals are due on &lt;strong&gt;February 5, 2016&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="k2-fields.html"&gt;fields of these campaigns&lt;/a&gt; 
+will cover roughly 100 square degrees at a time near the
+constellations of Ophiucus (C11), Aquarius (C12), and Taurus (C13).
+All the objects that will be observed during these campaigns must be
+requested by the community through the Cycle 4 call.&lt;/p&gt;
+&lt;p&gt;To help the community select and propose the most interesting targets,
+the Guest Observer Office has prepared a "K2-SIMBAD" catalog which lists all 240,000 objects which appear in the &lt;a href="http://simbad.u-strasbg.fr"&gt;SIMBAD database&lt;/a&gt; and will fall within the fields of future K2 Campaigns.
+The catalog details object IDs, spectral types, object classifications, citation counts, proper motions, and selected photometry. It can be &lt;a href="https://github.com/KeplerGO/K2FootprintFiles/tree/master/simbad"&gt;downloaded in full from our GitHub repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The K2-SIMBAD catalog does not replace the &lt;a href="https://archive.stsci.edu/k2/epic/search.php"&gt;EPIC Input Catalog&lt;/a&gt;, which remains the principal target selection tool. Instead it provides an overview of candidate targets that have already appeared in the astronomical literature and may hence trigger or inspire K2 Cycle 4 proposals.&lt;/p&gt;
+&lt;p&gt;Below we list a selection of notable objects that we encountered while
+constructing the catalog, along with interesting Solar System bodies
+that will be visible as determined by the &lt;a href="https://github.com/KeplerGO/K2ephem"&gt;K2ephem tool&lt;/a&gt;.  This list is not exhaustive by any means and we encourage members of the community to share missing highlights for inclusion on this page.&lt;/p&gt;
+&lt;h2 id="highlights-in-campaign-11"&gt;Highlights in Campaign 11&lt;/h2&gt;
+&lt;p&gt;C11 is located near the Galactic Center in the region of Ophiucus.
+Notable objects in the field will include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Saturn&lt;/strong&gt; and its moons;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://en.wikipedia.org/wiki/Messier_9"&gt;Messier 9&lt;/a&gt;&lt;/strong&gt;: a 12 Gyr-old globular cluster, also known as NGC 6333;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="http://simbad.u-strasbg.fr/simbad/sim-id?Ident=GCVS%20BF%20Oph"&gt;BF Oph&lt;/a&gt;&lt;/strong&gt;: a bright classical Cepheid;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://en.wikipedia.org/wiki/Kepler%27s_Supernova"&gt;Kepler's Supernova Remnant&lt;/a&gt;&lt;/strong&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;V2116 Oph&lt;/strong&gt;: a symbiotic star (V=18);&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Terzan 5&lt;/strong&gt;: a global cluster in the Galactic Bulge;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://en.wikipedia.org/wiki/28978_Ixion"&gt;Asteroid Ixion&lt;/a&gt;&lt;/strong&gt;: a likely dwarf planet;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://en.wikipedia.org/wiki/87_Sylvia"&gt;Asteroid Sylvia&lt;/a&gt;&lt;/strong&gt;: an asteroid with two moons;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Asteroid 311999&lt;/strong&gt;: a Mars Trojan.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="highlights-in-campaign-12"&gt;Highlights in Campaign 12&lt;/h2&gt;
+&lt;p&gt;C12 is located towards the South Galactic Cap, in the region of Aquarius.
+Notable objects in the field will include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Mars&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HIP 116454&lt;/strong&gt;: a known exoplanet host star;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://en.wikipedia.org/wiki/2060_Chiron"&gt;Comet Chiron&lt;/a&gt;&lt;/strong&gt;: a comet with a suspected ring system;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://en.wikipedia.org/wiki/118401_LINEAR"&gt;118401 LINEAR&lt;/a&gt;&lt;/strong&gt;: a Main Belt Comet (MBC);&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://en.wikipedia.org/wiki/25143_Itokawa"&gt;Asteroid Itokawa&lt;/a&gt;&lt;/strong&gt;: visited by the Hayabuse spacecraft in 2005;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="highlights-in-campaign-13"&gt;Highlights in Campaign 13&lt;/h2&gt;
+&lt;p&gt;&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/HL_Tau_protoplanetary_disk.jpg/225px-HL_Tau_protoplanetary_disk.jpg" class="img-responsive" style="float:right; padding:1em;"&gt;&lt;/p&gt;
+&lt;p&gt;C13 is located towards the Galactic Anti-Center near Taurus.
+Notable objects in the field will include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Aldebaran&lt;/strong&gt;: a famous K-type giant, V=0;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://en.wikipedia.org/wiki/5535_Annefrank"&gt;Asteroid Annefrank&lt;/a&gt;&lt;/strong&gt;: visited by the Stardust spacecraft in 2002;&lt;/li&gt;
+&lt;li&gt;The &lt;strong&gt;Taurus Star-Forming Region&lt;/strong&gt;, including:&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://en.wikipedia.org/wiki/HL_Tauri"&gt;HL Tau&lt;/a&gt;&lt;/strong&gt;: star with a protoplanetary disk famously imaged by ALMA (V=15);&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://en.wikipedia.org/wiki/LkCa_15_b"&gt;LkCa15&lt;/a&gt;&lt;/strong&gt;: thought to show an actively-forming exoplanet in direct imaging data;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AA Tau&lt;/strong&gt;: contains an unconfirmed transiting 20 MJup companion (V=12);&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;V1213 Tau&lt;/strong&gt;: associated with a Herbig Haro outflow (HH 30);&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;XZ Tau&lt;/strong&gt;: binary young system which showed a superflare in 2000;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HBC 393&lt;/strong&gt;: FUOr object, undergoing abrupt mass accretion events.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;The &lt;strong&gt;Hyades open cluster&lt;/strong&gt;, including:&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;eps Tau&lt;/strong&gt;: a bright member of the Hyades with a known RV planet (V=4);&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;NGC 1817&lt;/strong&gt;: 1 Gyr open cluster, ~2 kpc distance;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;NGC 1647, 1746, 1750, 1802, 1807&lt;/strong&gt;: open clusters, not well-studied.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="other-candidate-highlights"&gt;Other candidate highlights&lt;/h2&gt;
+&lt;p&gt;Along with the highlights listed above, the &lt;a href="https://github.com/KeplerGO/K2FootprintFiles/tree/master/simbad"&gt;K2-SIMBAD catalog&lt;/a&gt; details thousands of known
+objects in Campaigns 11-13 including, but not limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2040 M-type stars;&lt;/li&gt;
+&lt;li&gt;1270 RR Lyr Variables;&lt;/li&gt;
+&lt;li&gt;1219 Quasars;&lt;/li&gt;
+&lt;li&gt;727 High proper-motion stars&lt;/li&gt;
+&lt;li&gt;280 Mira Variables;&lt;/li&gt;
+&lt;li&gt;252 Young Stellar Objects;&lt;/li&gt;
+&lt;li&gt;167 Active Galactic Nuclei;&lt;/li&gt;
+&lt;li&gt;152 White Dwarfs (3 pulsating);&lt;/li&gt;
+&lt;li&gt;133 Herbig Haro Objects;&lt;/li&gt;
+&lt;li&gt;71 T Tauri Stars;&lt;/li&gt;
+&lt;li&gt;57 Brown Dwarfs;&lt;/li&gt;
+&lt;li&gt;29 Blue Stragglers;&lt;/li&gt;
+&lt;li&gt;18 O-type stars;&lt;/li&gt;
+&lt;li&gt;16 Cataclysmic Variables;&lt;/li&gt;
+&lt;li&gt;11 Symbiotic Stars;&lt;/li&gt;
+&lt;li&gt;4 Wolf Rayet stars;&lt;/li&gt;
+&lt;li&gt;1 FU Orionis variable.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It is the task of the community to determine which of these objects
+are amenable to observations using the Kepler spacecraft.
+Again, note that targets which are not proposed for will not be observed.&lt;/p&gt;</summary></entry><entry><title>K2 Cycle 4: Target selection tools</title><link href="http://keplerscience.arc.nasa.gov/k2-cycle-4-target-selection-tools.html" rel="alternate"></link><updated>2016-01-02T12:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2016-01-02:k2-cycle-4-target-selection-tools.html</id><summary type="html">&lt;p&gt;Proposals for targets to be observed by K2 in Campaigns 11, 12, and 13
+are currently being solicited as part of &lt;a href="call-for-k2-go-cycle-4-proposals-for-campaigns-11-12-and-13.html"&gt;K2 Guest Observer Cycle 4&lt;/a&gt;.
+Step 1 submissions for these proposals are due on &lt;strong&gt;February 5, 2016&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Proposals must be accompanied by a &lt;a href="http://keplerscience.arc.nasa.gov/k2-proposing-targets.html#target-table"&gt;target table&lt;/a&gt; which details the objects
+to be observed.
+To enable the community to select and propose the most interesting targets,
+the following resources are available:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The Ecliptic Plane Input Catalog (&lt;strong&gt;EPIC&lt;/strong&gt;) has been updated to include targets for Campaigns 11-13. The catalogs can be &lt;a href="https://archive.stsci.edu/k2/epic/search.php"&gt;queried online&lt;/a&gt; or &lt;a href="https://archive.stsci.edu/missions/k2/catalogs/"&gt;downloaded in text format&lt;/a&gt; from MAST.&lt;/li&gt;
+&lt;li&gt;The &lt;strong&gt;&lt;a href="https://github.com/KeplerGO/K2fov"&gt;K2fov&lt;/a&gt;&lt;/strong&gt; package has been updated to include the details of fields 11-12-13, along with the preliminary positions of fields 14 through 17. Installing the package adds two executables to the command line, &lt;em&gt;K2onSilicon&lt;/em&gt; and &lt;em&gt;K2findCampaigns&lt;/em&gt;, which allow the visibility of targets to be checked during one or all campaigns.  If you have a previous version of K2fov installed, it is crucial that you upgrade to version 3.0 or higher ("pip install K2fov --upgrade").&lt;/li&gt;
+&lt;li&gt;A new package called &lt;strong&gt;&lt;a href="https://github.com/KeplerGO/K2ephem"&gt;K2ephem&lt;/a&gt;&lt;/strong&gt; has been built on top of K2fov to allow the visibility of Solar System bodies, i.e. asteroids and comets, to be checked in a user-friendly way.&lt;/li&gt;
+&lt;li&gt;The &lt;strong&gt;sky footprints&lt;/strong&gt; of past and future campaigns have been made available
+as &lt;a href="http://keplerscience.arc.nasa.gov/k2-fields.html#machine-readable-files"&gt;machine-readable text files&lt;/a&gt;. These files detail the coordinates of the CCD corners during each Campaign and allow users to create custom visualizations or run custom target selection algorithms.  The footprints are also available in the &lt;a href="k2-fields.html#moc-format"&gt;MOC data format&lt;/a&gt; which can be opened and visualized using the &lt;a href="http://aladin.u-strasbg.fr/"&gt;Aladin interactive sky atlas&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please &lt;a href="helpdesk.html"&gt;contact the Guest Observer Office&lt;/a&gt; if you have questions related to these tools or the preparation of your proposal.&lt;/p&gt;</summary></entry><entry><title>Campaign 8 target list now available online</title><link href="http://keplerscience.arc.nasa.gov/campaign-8-target-list-now-available-online.html" rel="alternate"></link><updated>2015-12-29T12:00:00-08:00</updated><author><name>Tom Barclay</name></author><id>tag:keplerscience.arc.nasa.gov,2015-12-29:campaign-8-target-list-now-available-online.html</id><summary type="html">&lt;p&gt;The K2 &lt;a href="http://keplerscience.arc.nasa.gov/k2-approved-programs.html#campaign-8"&gt;Campaign 8 Target List&lt;/a&gt; has now been posted. The Campaign 8 target list includes 24187 standard long cadence and 54 short cadence targets. The planet Uranus will be observed for roughly a month in short cadence and the remaining time in long cadence, in addition four of its moons make the long cadence target list. Six Trojan asteroids and four TNOs round out the solar system targets.
 The irregular dwarf galaxy IC 1613 will be observed with a large pixel mask and several very bright stars will be targeted using custom pixel masks that only collect the wings of the PSF.&lt;/p&gt;
 &lt;p&gt;We now make available a list of targets observed as part of all executed programs. Programs from previous campaigns also now have this information included. We encourage PIs from all campaigns to check the &lt;a href="http://keplerscience.arc.nasa.gov/k2-approved-programs.html"&gt;list of approved programs&lt;/a&gt;.&lt;/p&gt;</summary></entry><entry><title>Presenting results at AAS that have public appeal? Let us know!</title><link href="http://keplerscience.arc.nasa.gov/presenting-results-at-aas-that-have-public-appeal-let-us-know.html" rel="alternate"></link><updated>2015-12-17T12:00:00-08:00</updated><author><name>Knicole Colon</name></author><id>tag:keplerscience.arc.nasa.gov,2015-12-17:presenting-results-at-aas-that-have-public-appeal-let-us-know.html</id><summary type="html">&lt;p&gt;The K2 mission is well into its second year of operations and is routinely producing exciting and significant science from its observations of fields along the ecliptic.  The prime Kepler mission also continues to yield scientifically significant results from its four-year-long observations of the Cygnus-Lyra region.&lt;/p&gt;
 &lt;p&gt;While we consider each scientific result to be critical to the legacy of both Kepler and K2, some results are of particular interest to the public (e.g., an exoplanet orbiting in the habitable zone of a nearby star, or stars with unique flux variations that spark a public conversation on alien megastructures). &lt;/p&gt;
