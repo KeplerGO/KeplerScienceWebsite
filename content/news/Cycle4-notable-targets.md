@@ -52,7 +52,7 @@ Notable objects in the field will include:
 
 ## Highlights in Campaign 13
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/HL_Tau_protoplanetary_disk.jpg/225px-HL_Tau_protoplanetary_disk.jpg" class="img-responsive" style="float:right; padding:1em;" class="visible-md visible-lg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/HL_Tau_protoplanetary_disk.jpg/225px-HL_Tau_protoplanetary_disk.jpg" class="hidden-xs hidden-sm" style="float:right; padding:1em;">
 
 C13 is located towards the Galactic Anti-Center near Taurus.
 Notable objects in the field will include:

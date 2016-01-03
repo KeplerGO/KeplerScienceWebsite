@@ -17,4 +17,4 @@ the following resources are available:
 * The **sky footprints** of past and future campaigns have been made available
 as [machine-readable text files](http://keplerscience.arc.nasa.gov/k2-fields.html#machine-readable-files). These files detail the coordinates of the CCD corners during each Campaign and allow users to create custom visualizations or run custom target selection algorithms.  The footprints are also available in the [MOC data format](k2-fields.html#moc-format) which can be opened and visualized using the [Aladin interactive sky atlas](http://aladin.u-strasbg.fr/).
 
-Please [contact the Guest Observer Office](helpdesk.html) if you have questions related to these tools or the preparation of your proposal.
+Please [contact the Guest Observer Office](helpdesk.html) if you have questions.
