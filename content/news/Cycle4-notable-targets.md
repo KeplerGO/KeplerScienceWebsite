@@ -35,7 +35,8 @@ Notable objects in the field will include:
 * **Terzan 5**: a global cluster in the Galactic Bulge;
 * **[Asteroid Ixion](https://en.wikipedia.org/wiki/28978_Ixion)**: a likely dwarf planet;
 * **[Asteroid Sylvia](https://en.wikipedia.org/wiki/87_Sylvia)**: an asteroid with two moons;
-* **Asteroid 311999**: a Mars Trojan.
+* **Asteroid 311999**: a Mars Trojan;
+* **Comet 116P/Wild 4**.
 
 
 ## Highlights in Campaign 12
@@ -48,6 +49,7 @@ Notable objects in the field will include:
 * **[Comet Chiron](https://en.wikipedia.org/wiki/2060_Chiron)**: a comet with a suspected ring system;
 * **[118401 LINEAR](https://en.wikipedia.org/wiki/118401_LINEAR)**: a Main Belt Comet (MBC);
 * **[Asteroid Itokawa](https://en.wikipedia.org/wiki/25143_Itokawa)**: visited by the Hayabuse spacecraft in 2005;
+* **Comet 53P/Van Biesbroeck**.
 
 
 ## Highlights in Campaign 13
