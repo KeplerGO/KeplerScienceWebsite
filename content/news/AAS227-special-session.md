@@ -28,3 +28,7 @@ The schedule is as follows:
  - Q&A
 
 (PS: Will there be beverages and snacks? Come to the session to find out!)
+
+<div>
+<img src="images/news/aas227-special-session.jpg" class="img-responsive">
+</div>
