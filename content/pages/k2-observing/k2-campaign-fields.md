@@ -309,33 +309,41 @@ We encourage the community to provide input on the placement of these fields.
       <td>14</td>
       <td>2017 May 31</td>
       <td>2017 Aug 19</td>
-      <td>10:39:52.08</td>
-      <td>+07:07:56.5</td>
-      <td></td>
+      <td>10:39:52</td>
+      <td>+07:07:57</td>
+      <td>Approximate position</td>
     </tr>
     <tr>
       <td>15</td>
       <td>2017 Aug 23</td>
       <td>2017 Nov 08</td>
-      <td>15:26:24.31</td>
-      <td>-19:36:29.5</td>
-      <td></td>
+      <td>15:26:24</td>
+      <td>-19:36:30</td>
+      <td>Approximate position</td>
     </tr>
     <tr>
       <td>16</td>
       <td>2017 Nov 20</td>
       <td>2018 Feb 9</td>
-      <td>21:23:59.19</td>
-      <td>-16:27:21.4</td>
-      <td></td>
+      <td>21:23:59</td>
+      <td>-16:27:21</td>
+      <td>Approximate position</td>
     </tr>
     <tr>
       <td>17<sup>††</sup></td>
       <td>2018 Feb 1</td>
       <td>2018 Apr 22</td>
-      <td>12:33:23.94</td>
-      <td>-01:57:31.2</td>
+      <td>12:33:24</td>
+      <td>-01:57:31</td>
       <td>Forward-facing</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>2018 Apr 22</td>
+      <td>2018 Jul 12</td>
+      <td>07:31:33</td>
+      <td>+20:13:38</td>
+      <td>Approximate position</td>
     </tr>
   </tdata>
 </table>
