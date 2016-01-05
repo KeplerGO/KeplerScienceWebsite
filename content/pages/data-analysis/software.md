@@ -28,7 +28,7 @@ source code on [Github](https://github.com/KeplerGO).
         falls within the field of view of any K2 campaign.
     </td>
     <td>
-        <a href="https://github.com/KeplerGO/K2fov">github.com/KeplerGO/K2ephem</a>
+        <a href="https://github.com/KeplerGO/K2ephem">github.com/KeplerGO/K2ephem</a>
     </td>
 </tr>
 
