@@ -1,7 +1,6 @@
-# Kepler Science Website
+# Kepler/K2 Science Website [![DOI](https://zenodo.org/badge/10301/KeplerGO/KeplerScienceWebsite.svg)](https://zenodo.org/badge/latestdoi/10301/KeplerGO/KeplerScienceWebsite)
 
-***A website for the Kepler/K2 Science Center
-that doesn't suck™***
+***The website for astronomers using data from NASA's Kepler/K2 mission.***
 
 Live URL: http://keplerscience.arc.nasa.gov
 
@@ -52,3 +51,21 @@ for the Kepler/K2 Guest Observer Office at NASA Ames.
 
 Created using the [Pelican package](getpelican.com) and the
 [pelican-bootstrap3 theme](https://github.com/DandyDev/pelican-bootstrap3).
+
+
+## Citation
+
+You can cite the Kepler/K2 Science Website in your publications using its [DOI identifier](http://dx.doi.org/10.5281/zenodo.44393)
+or using the following BibTex code:
+```
+@misc{tom_barclay_2016_44393,
+  author       = {Tom Barclay and
+                  Geert Barentsen and
+                  Knicole Colon},
+  title        = {KeplerScienceWebsite: 20160106},
+  month        = jan,
+  year         = 2016,
+  doi          = {10.5281/zenodo.44393},
+  url          = {http://dx.doi.org/10.5281/zenodo.44393}
+}
+```
