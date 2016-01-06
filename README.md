@@ -1,7 +1,6 @@
-# Kepler Science Website
+# Kepler/K2 Science Website
 
-***A website for the Kepler/K2 Science Center
-that doesn't suck™***
+***The website for astronomers using data from NASA's Kepler/K2 mission.***
 
 Live URL: http://keplerscience.arc.nasa.gov
 
