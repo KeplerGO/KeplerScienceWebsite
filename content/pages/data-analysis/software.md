@@ -78,7 +78,7 @@ It is important to upgrade frequently to ensure that you are using the most up t
 
 #### Usage
 
-Installing K2fov will automatically add a command line tool to your path called *K2onSilicon*, which takes a list of targets as input and writes a new list that indicates the "silicon status" of each target, i.e. whether or not it falls on one of the detectors of the spacecraft's focal plane.
+Installing K2fov will automatically add a command line tool to your path called *k2onsilicon*, which takes a list of targets as input and writes a new list that indicates the "silicon status" of each target, i.e. whether or not it falls on one of the detectors of the spacecraft's focal plane.
 
 The simplest thing to do is to have a CSV file with columns "RA_degrees, Dec_degrees, Kepmag". Do not use a header. 
 For example, create a file called mytargetlist.csv containing the following rows:
@@ -92,7 +92,7 @@ Headers or other additional columns will cause an execution failure.
 
 You can then check whether each object in the file falls on silicon by calling K2onSilicon from the command line:
 
-    K2onSilicon mytargetlist.csv 1
+    k2onsilicon mytargetlist.csv 1
 
 Where mytargetlist.csv is your CSV file and 1 is the K2 Campaign number.
 
@@ -108,11 +108,11 @@ The code will also write an image, called targets_fov.png, showing where the tar
 
 <br/>
 
-If instead of checking the targets in a single campaign, you want to understand whether a target is visible in any past or future K2 Campaign, you can use a different tool called *K2findCampaigns*.
+If instead of checking the targets in a single campaign, you want to understand whether a target is visible in any past or future K2 Campaign, you can use a different tool called *k2findcampaigns*.
 
 For example, to verify whether J2000 coordinate (ra, dec) = (269.5, -28.5) degrees is visible at any point during the K2 mission, type:
 
-    $ K2findCampaigns 269.5 -28.5
+    $ k2findcampaigns 269.5 -28.5
     Success! The target is on silicon during K2 campaigns [9].
 
 You can also check a list of targets using the alternative command line tool called *K2findCampaigns-csv*.
@@ -140,15 +140,15 @@ the two required dependencies (*K2fov* and *pandas*).
 
 #### Usage
 
-After installation, you can call *K2ephem* from the command line.
+After installation, you can call *k2ephem* from the command line.
 For example, to verify whether comet Chiron can be observed by K2, simply type:
 
-    K2ephem Chiron
+    k2ephem Chiron
 
 Or you can type *K2ephem --help* to see the detailed usage instructions:
 
-    $ K2ephem --help
-    usage: K2ephem [-h] [--first campaign] [--last campaign] target
+    $ k2ephem --help
+    usage: k2ephem [-h] [--first campaign] [--last campaign] target
 
     Check if a Solar System object is (or was) observable by NASA's K2 mission.
     This command will query JPL/Horizons to find out.
