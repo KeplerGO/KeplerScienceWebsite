@@ -78,7 +78,7 @@ It is important to upgrade frequently to ensure that you are using the most up t
 
 #### Usage
 
-Installing K2fov will automatically add a command line tool to your path called *k2onsilicon*, which takes a list of targets as input and writes a new list that indicates the "silicon status" of each target, i.e. whether or not it falls on one of the detectors of the spacecraft's focal plane.
+Installing K2fov will automatically add a command line tool to your path called *K2onSilicon*, which takes a list of targets as input and writes a new list that indicates the "silicon status" of each target, i.e. whether or not it falls on one of the detectors of the spacecraft's focal plane.
 
 The simplest thing to do is to have a CSV file with columns "RA_degrees, Dec_degrees, Kepmag". Do not use a header. 
 For example, create a file called mytargetlist.csv containing the following rows:
@@ -92,7 +92,7 @@ Headers or other additional columns will cause an execution failure.
 
 You can then check whether each object in the file falls on silicon by calling K2onSilicon from the command line:
 
-    k2onsilicon mytargetlist.csv 1
+    K2onSilicon mytargetlist.csv 1
 
 Where mytargetlist.csv is your CSV file and 1 is the K2 Campaign number.
 
@@ -108,11 +108,11 @@ The code will also write an image, called targets_fov.png, showing where the tar
 
 <br/>
 
-If instead of checking the targets in a single campaign, you want to understand whether a target is visible in any past or future K2 Campaign, you can use a different tool called *k2findcampaigns*.
+If instead of checking the targets in a single campaign, you want to understand whether a target is visible in any past or future K2 Campaign, you can use a different tool called *K2findCampaigns*.
 
 For example, to verify whether J2000 coordinate (ra, dec) = (269.5, -28.5) degrees is visible at any point during the K2 mission, type:
 
-    $ k2findcampaigns 269.5 -28.5
+    $ K2findCampaigns 269.5 -28.5
     Success! The target is on silicon during K2 campaigns [9].
 
 You can also check a list of targets using the alternative command line tool called *K2findCampaigns-csv*.
@@ -140,15 +140,15 @@ the two required dependencies (*K2fov* and *pandas*).
 
 #### Usage
 
-After installation, you can call *k2ephem* from the command line.
+After installation, you can call *K2ephem* from the command line.
 For example, to verify whether comet Chiron can be observed by K2, simply type:
 
-    k2ephem Chiron
+    K2ephem Chiron
 
 Or you can type *K2ephem --help* to see the detailed usage instructions:
 
-    $ k2ephem --help
-    usage: k2ephem [-h] [--first campaign] [--last campaign] target
+    $ K2ephem --help
+    usage: K2ephem [-h] [--first campaign] [--last campaign] target
 
     Check if a Solar System object is (or was) observable by NASA's K2 mission.
     This command will query JPL/Horizons to find out.
@@ -255,163 +255,163 @@ A comprehensive list of PyKE tasks is provided here.
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepclip.shtml"> kepclip</a></td>
     <td> Remove unwanted time ranges from Kepler time series data </td>
-	</tr>
+    </tr>
 
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepconvert.shtml"> kepconvert</a></td>
     <td>Convert Kepler FITS time series to or from a different file format </td>
-	</tr>
+    </tr>
 
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepcotrend.shtml"> kepcotrend</a></td>
     <td>Remove systematic trends in photometry using cotrending basis vectors </td>
-	</tr>
+    </tr>
 
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepdetrend.shtml"> kepdetrend</a></td>
     <td>Detrend systematic features from Simple Aperture Photometry (SAP) data </td>
-	</tr>
+    </tr>
 
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepdiffim.shtml"> kepdiffim</a></td>
     <td>Difference imaging of pixels within a target mask </td>
-	</tr>
+    </tr>
 
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepdraw.shtml"> kepdraw</a></td>
     <td>Interactive plotting of Kepler time series data </td>
-	</tr>
+    </tr>
 
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepdynamic.shtml"> kepdynamic</a></td>
     <td>Construct a dynamic (time-dependent) power spectrum from Kepler time series data </td>
-	</tr>
+    </tr>
 
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepextract.shtml"> kepextract</a></td>
     <td>Derive a light curve from a target pixel file, with user-defined apertures </td>
-	</tr>
+    </tr>
 
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepffi.shtml"> kepffi</a></td>
     <td>Plot sub-areas of Kepler Full Frame Images and define custom target apertures </td>
-	</tr>
+    </tr>
 
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepfield.shtml"> kepfield</a></td>
     <td>Superimpose photometric mask and source positions over a target pixel image </td>
-	</tr>
+    </tr>
 
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepfilter.shtml"> kepfilter</a></td>
     <td>Remove low frequency variability from time-series, preserve transits and flares </td>
-	</tr>
+    </tr>
 
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepflatten.shtml"> kepflatten</a></td>
     <td>Low bandpass or high bandpass signal filtering </td>
-	</tr>
+    </tr>
 
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepfold.shtml"> kepfold</a></td>
     <td>Fold data on a linear ephemeris </td>
-	</tr>
+    </tr>
 
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepft.shtml"> kepft</a></td>
     <td>Calculate and store a Fourier Transform from a Kepler time series </td>
-	</tr>
+    </tr>
 
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKephead.shtml"> kephead</a></td>
     <td>Search for and list FITS keywords in Kepler data files </td>
-	</tr>
+    </tr>
 
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepimages.shtml"> kepimages</a></td>
     <td>Create a series of separate FITS image files from a Target Pixel File </td>
-	</tr>
+    </tr>
 
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepmask.shtml"> kepmask</a></td>
     <td>Plots, creates or edits custom light curve extraction masks for target pixel files </td>
-	</tr>
+    </tr>
 
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepoutlier.shtml"> kepoutlier</a></td>
     <td>Remove or replace data outliers from a time series</td>
-	</tr>
+    </tr>
 
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKeppca.shtml"> keppca</a></td>
     <td>Pixel-level principal component analysis of time series </td>
-	</tr>
+    </tr>
 
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKeppixseries.shtml"> keppixseries</a></td>
     <td>Individual time series photometry for all pixels within a target mask </td>
-	</tr>
-	
+    </tr>
+    
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepprf.shtml"> kepprf</a></td>
     <td>Fit a PSF model to a specific image within a Target Pixel File </td>
-	</tr>
-	
+    </tr>
+    
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepprfphot.shtml"> kepprfphot</a></td>
     <td>Fit a PSF model to time series observations within a Target Pixel File </td>
-	</tr>
-	
+    </tr>
+    
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKeprange.shtml"> keprange</a></td>
     <td>Interactively define and store time ranges via a GUI </td>
-	</tr>
+    </tr>
 
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepsff.shtml"> kepsff</a></td>
     <td>Correct aperture photmetry using target motion </td>
-	</tr>
+    </tr>
 
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepsmooth.shtml"> kepsmooth</a></td>
     <td>Smooth Kepler light curve data by convolution</td>
-	</tr>
+    </tr>
 
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepstddev.shtml"> kepstddev</a></td>
     <td>Calculate Combined Differental Photometric Precision for time series light curve </td>
-	</tr>
+    </tr>
 
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepstitch.shtml"> kepstitch</a></td>
     <td>Append multiple month short cadence and/or multiple quarter long cadence data</td>
-	</tr>
+    </tr>
 
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKeptimefix.shtml"> keptimefix</a></td>
     <td>Correct time stamps in Target Pixel Files to TDB system </td>
-	</tr>
+    </tr>
 
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKeptransit.shtml"> keptransit</a></td>
     <td>Fit planet trasit models to Kepler time-series </td>
-	</tr>
+    </tr>
 
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKeptrial.shtml"> keptrial</a></td>
     <td>Calculate best period and error estimate from Fourier transform </td>
-	</tr>
+    </tr>
 
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKeptrim.shtml"> keptrim</a></td>
     <td>Trim pixels from Target Pixel Files </td>
-	</tr>
+    </tr>
 
 <tr>
     <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepwindow.shtml"> kepwindow</a></td>
     <td>Calculate and store the window function for a Kepler time series </td>
-	</tr>
-	
+    </tr>
+    
 </table>
 
 #### PyKE tutorials
@@ -469,49 +469,49 @@ To execute any task in GUI mode, type *epar <taskname>*, e.g. <br/>
     <td>2011-07-03</td>
     <td>2.0.0 </td>
     <td>Added support for FITS v2.0 archive files (MS) </td>
-	</tr>
+    </tr>
 
 <tr>
     <td>2011-07-21</td>
     <td>2.1.0 </td>
     <td>Added kepcotrend tool to package (TB) </td>
-	</tr>
+    </tr>
 
 <tr>
     <td>2011-08-30</td>
     <td>2.1.1 </td>
     <td>Trapped new behavior of STSCI_PYTHON 2.12 in reading multi-dimension FITS columns (MS) </td>
-	</tr>
+    </tr>
 
 <tr>
     <td>2011-09-22</td>
     <td>2.1.2 </td>
     <td>Plot style updates to kepdraw and kepsmooth (MS) </td>
-	</tr>
+    </tr>
 
 <tr>
     <td>2011-10-20</td>
     <td>2.1.3 </td>
     <td>Added short cadence functionality to basis vector cotrending in kepcotrend. Added simple light curve algebra tool kepartih to package (TB) </td>
-	</tr>
+    </tr>
 
 <tr>
     <td>2012-06-09</td>
     <td>2.2.0 </td>
     <td>Provided greater plotting stability on linux/unix operating systems. Tasks can be executed from within the PyRAF environment or from within a linux/unix shell without compiling against PyRAF or IRAF. Added the kepflatten tool to the task list (MS,TB). </td>
-	</tr>
+    </tr>
 
 <tr>
     <td>2012-07-02</td>
     <td>2.2.1 </td>
     <td>keparith bug addressed. Fatal error upon PDCSAP photometry arithmetic fixed (TB). </td>
-	</tr>
+    </tr>
 
 <tr>
     <td>2012-10-01</td>
     <td>2.2.2 </td>
     <td>kepflatten bug addressed: light curve fits no longer tapered after 4,000 timestamps. NaN handling in kepdraw improved for speed. Two options now provided in kepdraw - fast and ugly - slow and pretty (MS). </td>
-	</tr>
+    </tr>
 
 <tr>
     <td>2012-10-09</td>
