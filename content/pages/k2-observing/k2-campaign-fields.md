@@ -138,7 +138,7 @@ This page details the previous, current, and future K2 Campaign fields.
       <td><a href="#c6">6</a></td>
       <td>2015 Jul 14</td>
       <td>2015 Sep 30</td>
-      <td>2016 Jan 25</td>
+      <td>2016 Feb 9</td>
       <td>13:39:28</td>
       <td>-11:17:43</td>
       <td class="text-center">
@@ -285,7 +285,7 @@ and accommodate engineering constraints (e.g. the availability of guide stars).
 We encourage the community to provide input on the placement of these fields.
 </p>
 
-<a href="images/k2/proposed-future-fields.png"><img src="images/k2/proposed-future-fields.png" class="img-responsive"></a>
+<a href="images/k2/proposed-future-fields-2018.png"><img src="images/k2/proposed-future-fields-2018.png" class="img-responsive"></a>
 
 <div class="panel panel-primary">
   <div class="panel-heading">

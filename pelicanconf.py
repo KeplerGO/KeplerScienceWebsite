@@ -101,11 +101,14 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b>25 Jan 2016</b>',
-             'K2 Campaign 6 data release (expected)',
-             'data-products.html#k2-product-overview'),
             ('<b>5 Feb 2016</b>',
              'K2 Campaigns 11-13 proposals due (step 1)',
+             'k2-proposing-targets.html#campaigns-11-12-13'),
+            ('<b>9 Feb 2016</b>',
+             'K2 Campaign 6 data release (expected)',
+             'data-products.html#k2-product-overview'),
+            ('<b>4 Mar 2016</b>',
+             'K2 Campaigns 11-13 proposals due (step 2)',
              'k2-proposing-targets.html#campaigns-11-12-13'),
             ('<b>10 Mar 2016</b>',
              'K2 Campaign 10 DDT proposals due',
@@ -120,15 +123,12 @@ IMPORTANT_DATES = (
 
 # Defines the "meetings" box on the front page
 MEETINGS = (
-            ('<b>9-10 Dec 2015</b><br>'
-             '5th Australian Exoplanet Workshop',
-             'http://astronomy.swin.edu.au/planets/FifthWorkshop2015/'),
-            ('<b>5 Jan 2015</b><br>'
-             'K2 Special Session @ #AAS227',
-             'http://keplerscience.arc.nasa.gov/k2-special-session-at-aas227-on-5-jan-2016.html'),
             ('<b>13-15 Jan 2016</b><br>'
              'K2 Session @ 20th Microlensing Workshop',
              'http://www.iap.fr/microlensing2016/'),
+             ('<b>12-16 Jun 2016</b><br>'
+             'K2 Session @ AAS 228th Meeting',
+             'http://aas.org/meetings/aas228'),
             ('<b>11-15 Jul 2016</b><br>'
              'TASC2-KASC9 Asteroseismology Workshop',
              'http://www.iastro.pt/research/conferences/spacetk16/')
