@@ -126,7 +126,7 @@ MEETINGS = (
             ('<b>13-15 Jan 2016</b><br>'
              'K2 Session @ 20th Microlensing Workshop',
              'http://www.iap.fr/microlensing2016/'),
-             ('<b>12-16 Jun 2016</b><br>'
+            ('<b>12-16 Jun 2016</b><br>'
              'K2 Session @ AAS 228th Meeting',
              'http://aas.org/meetings/aas228'),
             ('<b>11-15 Jul 2016</b><br>'
