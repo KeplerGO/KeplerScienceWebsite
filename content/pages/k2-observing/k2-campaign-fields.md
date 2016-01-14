@@ -281,9 +281,8 @@ The coordinates are not final and <i>will</i> change to optimize science
 and accommodate engineering constraints (e.g. the availability of guide stars).
 </p>
 
-<p>
-We encourage the community to provide input on the placement of these fields.
-</p>
+We encourage the community to provide input on the placement of these
+fields by emailing us at [keplergo@mail.arc.nasa.gov](keplergo@mail.arc.nasa.gov). 
 
 <a href="images/k2/proposed-future-fields-2018.png"><img src="images/k2/proposed-future-fields-2018.png" class="img-responsive"></a>
 
