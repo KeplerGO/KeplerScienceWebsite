@@ -104,7 +104,7 @@ IMPORTANT_DATES = (
             ('<b>5 Feb 2016</b>',
              'K2 Campaigns 11-13 proposals due (step 1)',
              'k2-proposing-targets.html#campaigns-11-12-13'),
-            ('<b>9 Feb 2016</b>',
+            ('<b>11 Feb 2016</b>',
              'K2 Campaign 6 data release (expected)',
              'data-products.html#k2-product-overview'),
             ('<b>4 Mar 2016</b>',
