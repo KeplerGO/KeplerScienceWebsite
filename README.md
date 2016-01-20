@@ -18,9 +18,9 @@ and the point your browser to `localhost:8000`.
 
 ## Installation instructions
 
-You will need to ensure that `pelican`, `markdown` and `beautifulsoup4` are installed, e.g. using:
+You will need to ensure that `pelican`, `markdown`, `beautifulsoup4`, and `ghp-import` are installed, e.g. using:
 ```
-pip install pelican markdown beautifulsoup4
+pip install pelican markdown beautifulsoup4 ghp-import
 ```
 
 If `markdown` is not installed, you may get a very cryptic warning message (`"No valid files found in content."`) when running `make html`.
