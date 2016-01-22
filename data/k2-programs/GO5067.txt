@@ -11,5 +11,5 @@ Our strategy comprises the selection of stars with moderate activity level in th
 
 # Targets requested by this program that have been observed (2)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
-211836492, 126.478849, 17.833573, 8.537, GO5007_LC|GO5067_LC|GO4104_LC|GO5060_LC
-211994828, 129.88926, 20.169517, 8.982, GO5020_LC|GO5067_LC|GO4104_LC
+211836492, 126.478849, 17.833573, 8.537, GO5007_LC|GO5067_LC|GO5104_LC|GO5060_LC
+211994828, 129.88926, 20.169517, 8.982, GO5020_LC|GO5067_LC|GO5104_LC
