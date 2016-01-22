@@ -65,16 +65,6 @@ class WebSummaryCreator(object):
         self.programs = self.targetlist.get_unique_programs()
         self.campaign = campaign
 
-    def _correct_program_id(self, program_id):
-        """Workaround for GitHub issue #65."""
-        if self.campaign == "3" and program_id.startswith("GO2"):
-            corrected_program_id = "GO3" + program_id[3:]
-        elif self.campaign == "5" and program_id.startswith("GO4"):
-            corrected_program_id = "GO5" + program_id[3:]
-        else:
-            corrected_program_id = program_id
-        return corrected_program_id
-
     def to_html(self):
         html = (".. raw:: html\n\n"
                 "  <div class='panel panel-primary'>\n\n"
@@ -93,25 +83,23 @@ class WebSummaryCreator(object):
                 "        </tr>\n"
                 "        </thead>\n\n")
         for program_id in self.programs:
-            # See GitHub issue #65
-            corrected_program_id = self._correct_program_id(program_id)
             program = self.programlist.get_program(program_id)
             if program is None:
                 continue
             targets = self.targetlist.get_targets(program_id)
             if int(self.campaign) > 3:
-                url_summary = "data/k2-programs/{}.txt".format(corrected_program_id)
+                url_summary = "data/k2-programs/{}.txt".format(program_id)
             else:
                 edit_program_id = program_id.replace("GO3", "GO2")
                 url_summary = "data/k2-programs/{}_{}.pdf".format(edit_program_id, program["PI Last name"])
-            url_targets = "data/k2-programs/{}-targets.csv".format(corrected_program_id)
+            url_targets = "data/k2-programs/{}-targets.csv".format(program_id)
             html += (
                         "        <tr>\n"
                         "          <td>{}</td>\n"
                         "          <td>{}</td>\n"
                         "          <td><a href='{}'>{}</a></td>\n"
                         "          <td class='text-right'><a href='{}'>{}</a></td>\n"
-                        "        </tr>\n\n".format(corrected_program_id,
+                        "        </tr>\n\n".format(program_id,
                                                    program["PI Last name"],
                                                    url_summary,
                                                    program["Title"].translate(dict.fromkeys(range(1, 32))),
@@ -129,13 +117,11 @@ class WebSummaryCreator(object):
     def write_summaries(self, output_dir=""):
         """Produce txt files for all programs with title/summary/targets."""
         for program_id in self.programs:
-            # See GitHub issue #65
-            corrected_program_id = self._correct_program_id(program_id)
-            program = self.programlist.get_program(corrected_program_id)
+            program = self.programlist.get_program(program_id)
             if program is None:
                 continue
             program = program.fillna("")
-            targets = self.targetlist.get_targets(program_id)  # do not use the corrected program id, the error is in the target list
+            targets = self.targetlist.get_targets(program_id)
             if program["PI Middle name"] == "":
                 pi_name = (program["PI Last name"] +
                            ", " + program["PI First name"])
@@ -150,7 +136,6 @@ class WebSummaryCreator(object):
             # In early K2 days we had to submit proposals for foreign PIs or something
             if pi_institute.startswith("Bay Area"):
                 pi_institute = ""
-
             co_investigators = []
             for idx in range(1, 99):  # Number of "Member" columns is variable
                 try:
@@ -169,14 +154,14 @@ class WebSummaryCreator(object):
             # ... unless it's a numeric listing
             summary = re.sub("(\n\n)(\d)", "\n\\2", summary)
 
-            output_fn = os.path.join(output_dir, "{}.txt".format(corrected_program_id))
+            output_fn = os.path.join(output_dir, "{}.txt".format(program_id))
             with open(output_fn, "w") as output:
                 print("Writing {}".format(output_fn))
                 output.write("# Summary of K2 Program {}\n\nTitle: {}\n\n"
                              "PI: {} ({})\nCoIs: {}\n\n{}\n\n"
                              "# Targets requested by this program "
                              "that have been observed ({})\n{}"
-                             "".format(corrected_program_id,
+                             "".format(program_id,
                                        program["Title"],
                                        pi_name,
                                        pi_institute,
@@ -190,13 +175,11 @@ class WebSummaryCreator(object):
     def write_targetlists(self, output_dir=""):
         """Write a CSV target list for each program."""
         for program_id in self.programs:
-            # See GitHub issue #65
-            corrected_program_id = self._correct_program_id(program_id)
             program = self.programlist.get_program(program_id)
             if program is None:
                 continue
             targets = self.targetlist.get_targets(program_id)
-            output_fn = os.path.join(output_dir, "{}-targets.csv".format(corrected_program_id))
+            output_fn = os.path.join(output_dir, "{}-targets.csv".format(program_id))
             with open(output_fn, "w") as output:
                 print("Writing {}".format(output_fn))
                 output.write(targets.to_csv(index=False))

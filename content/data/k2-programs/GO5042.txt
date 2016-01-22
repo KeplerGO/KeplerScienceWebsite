@@ -11,4 +11,4 @@ Recent investigations showed that present-day single-star evolutionary models ar
 
 # Targets requested by this program that have been observed (1)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
-211920612, 130.9839, 19.034175, 8.433, GO4107_SC|GO5033_LC|GO5042_LC|GO5057_LC|GO4107_LC|GO5023_LC
+211920612, 130.9839, 19.034175, 8.433, GO5107_SC|GO5033_LC|GO5042_LC|GO5057_LC|GO5107_LC|GO5023_LC
