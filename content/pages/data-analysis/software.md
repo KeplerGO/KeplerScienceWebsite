@@ -11,7 +11,7 @@ source code on [Github](https://github.com/KeplerGO).
 <table class="table table-striped table-hover" style="max-width:50em;">
 
 <tr>
-    <td>K2fov</td>
+    <td><a href="http://keplerscience.arc.nasa.gov/software.html#k2fov">K2fov</a></td>
     <td>
         Checks whether a celestial coordinate falls within the field of view
         of a K2 campaign.
@@ -22,7 +22,7 @@ source code on [Github](https://github.com/KeplerGO).
 </tr>
 
 <tr>
-    <td>K2ephem</td>
+    <td><a href="http://keplerscience.arc.nasa.gov/software.html#k2ephem">K2ephem</a></td>
     <td>
         Checks whether a moving Solar System body, e.g. an asteroid or comet,
         falls within the field of view of any K2 campaign.
@@ -33,7 +33,7 @@ source code on [Github](https://github.com/KeplerGO).
 </tr>
 
 <tr>
-    <td>PyKE</td>
+    <td><a href="http://keplerscience.arc.nasa.gov/software.html#pyke">PyKE</a></td>
     <td>
         A tool to create light curves with user-chosen pixel apertures and
         cotrend and/or detrend data.
@@ -44,7 +44,7 @@ source code on [Github](https://github.com/KeplerGO).
 </tr>
 
 <tr>
-    <td>Kadenza</td>
+    <td><a href="http://keplerscience.arc.nasa.gov/software.html#kadenza">Kadenza</a></td>
     <td>
         Converts raw cadence data from the Kepler spacecraft into astronomer-friendly FITS files.</td>
     <td>
