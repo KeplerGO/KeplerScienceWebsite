@@ -128,7 +128,10 @@ MEETINGS = (
              'http://aas.org/meetings/aas228'),
             ('<b>11-15 Jul 2016</b><br>'
              'TASC2-KASC9 Asteroseismology Workshop',
-             'http://www.iastro.pt/research/conferences/spacetk16/')
+             'http://www.iastro.pt/research/conferences/spacetk16/'),
+            ('<b>17-27 Jul 2016</b><br>'
+             'Asteroseismology and Exoplanets: Listening to the Stars and Searching for New Worlds',
+             'http://www.iastro.pt/research/conferences/faial2016/')
             )
 
 # Defines the "related websites" listing in the footer of all pages
