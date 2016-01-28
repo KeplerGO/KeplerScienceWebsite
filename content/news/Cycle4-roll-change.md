@@ -17,7 +17,8 @@ K2fov can be updated from the command line using pip:
 
     pip install K2fov --upgrade
 
-The version number of your K2fov installation may be verified using the following command:
+The version number of your K2fov installation may be verified
+using the following command:
 
     python -c "import pkg_resources; print(pkg_resources.require('K2fov')[0].version)"
 
@@ -33,20 +34,20 @@ During these Campaigns, spacecraft telemetry will be downlinked
 using a different low-gain antenna than before:
 <i>LGA2</i> instead of <i>LGA1</i>.
 This antenna provides a better orientation to Earth
-and compensates for the increasing range of the spacecraft to the Earth
-(now 0.8 AU).
+and compensates for the increasing range 
+of the spacecraft to the Earth (now 0.8 AU).
 
 The change of antenna was recently trialled during Campaign 7,
 where it was found to cause a small increase in the roll drift rate.
 The reduced pointing performance was understood to be caused
-by the antenna's radiation force,
-which is emerging from a different position on the spacecraft
-when <i>LGA2</i> is used.
+by the antenna's radiation pressure,
+which torques the spacecraft slightly differently when <i>LGA2</i> is used,
+increasing the roll rate.
 
 To optimize fuel usage and photometric precision,
 the K2 team has decided to adjust the roll angle
 of Campaigns 11, 12, and 13 by a very small amount
-(~0.16 degrees) to optimally balance the spacecraft
+(0.12--0.16 degrees) to optimally balance the spacecraft
 against solar pressure and antenna radiation
 when <i>LGA2</i> is in use.
 
@@ -67,3 +68,4 @@ for one of the CCD detectors near the corner of the focal plane during K2 Campai
 </div>
 
 Please [contact the Guest Observer Office](helpdesk.html) if you have questions.
+
