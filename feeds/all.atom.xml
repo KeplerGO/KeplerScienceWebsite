@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="http://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="http://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>http://keplerscience.arc.nasa.gov/</id><updated>2016-01-27T12:00:00-08:00</updated><entry><title>Minor changes in the fields of Campaigns 11, 12, and 13</title><link href="http://keplerscience.arc.nasa.gov/minor-changes-in-the-fields-of-campaigns-11-12-and-13.html" rel="alternate"></link><updated>2016-01-27T12:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2016-01-27:minor-changes-in-the-fields-of-campaigns-11-12-and-13.html</id><summary type="html">&lt;h3 id="summary"&gt;Summary&lt;/h3&gt;
-&lt;p&gt;K2 users are alerted to a small but necessary adjustment
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="http://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="http://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>http://keplerscience.arc.nasa.gov/</id><updated>2016-01-27T12:00:00-08:00</updated><entry><title>Minor changes in the fields of Campaigns 11, 12, and 13</title><link href="http://keplerscience.arc.nasa.gov/minor-changes-in-the-fields-of-campaigns-11-12-and-13.html" rel="alternate"></link><updated>2016-01-27T12:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2016-01-27:minor-changes-in-the-fields-of-campaigns-11-12-and-13.html</id><summary type="html">&lt;p&gt;K2 users are alerted to a small but necessary adjustment
 in the position of Campaigns 11, 12, and 13,
 for which target proposals are currently being solicited as part of the 
 &lt;a href="call-for-k2-go-cycle-4-proposals-for-campaigns-11-12-and-13.html"&gt;K2 Guest Observer Cycle 4&lt;/a&gt;.&lt;/p&gt;
@@ -30,24 +29,25 @@ where it was found to cause a small increase in the roll drift rate.
 The reduced pointing performance was understood to be caused
 by the antenna's radiation force,
 which is emerging from a different position on the spacecraft
-for &lt;i&gt;LGA2&lt;/i&gt;.&lt;/p&gt;
+when &lt;i&gt;LGA2&lt;/i&gt; is used.&lt;/p&gt;
 &lt;p&gt;To optimize fuel usage and photometric precision,
 the K2 team has decided to adjust the roll angle
 of Campaigns 11, 12, and 13 by a very small amount
 (~0.16 degrees) to optimally balance the spacecraft
-against solar pressure and antenna radiation.&lt;/p&gt;
+against solar pressure and antenna radiation
+when &lt;i&gt;LGA2&lt;/i&gt; is in use.&lt;/p&gt;
 &lt;p&gt;As a consequence, there is a minor change in the fields of view covered by K2
 during these campaigns. The position of the CCD edges
 are being shifted by ~0.5 arcsec (~0.1 px) near the center of the
 focal plane, and by up to 60 arcsec (~15 px) near the corners.
 The change is illustrated in the figure below,
-which shows the sky coverage for a CCD channel near the field corner both
-before (red) and after (blue) the adjustment.&lt;/p&gt;
+which shows the change in sky coverage for a single CCD channel
+near the corner of the Campaign 11 field.&lt;/p&gt;
 &lt;div class="thumbnail"&gt;
 &lt;a href="images/news/c11-roll-change-in-channel-71.png"&gt;&lt;img src="images/news/c11-roll-change-in-channel-71.png" class="img-responsive" style="max-width:600px;"&gt;&lt;/a&gt;
 &lt;div class="caption"&gt;
 &lt;i&gt;Figure: Illustration of the effect of the change in sky coverage
-for one of the CCD detectors near the corner of the focal plane (channel 71),during K2 Campaign 11.  The edges of the field are shifted by up to ~60 arcsec.&lt;/i&gt;
+for one of the CCD detectors near the corner of the focal plane during K2 Campaign 11.  The edges of the field are shifted by up to ~60 arcsec.&lt;/i&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
