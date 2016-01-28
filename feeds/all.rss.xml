@@ -1,5 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kepler &amp; K2</title><link>http://keplerscience.arc.nasa.gov/</link><description></description><atom:link href="http://keplerscience.arc.nasa.gov/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 12 Jan 2016 16:00:00 -0800</lastBuildDate><item><title>Previous Short Cadence Data Available at NExScI</title><link>http://keplerscience.arc.nasa.gov/previous-short-cadence-data-available-at-nexsci.html</link><description>&lt;p&gt;As previously reported, Kepler Q2--Q16, data release 24, short-cadence data was calibrated incorrectly, making it unsuitable for use in projects requiring high photometric precision.  This is described in &lt;a href="http://archive.stsci.edu/kepler/release_notes/release_notes24/KSCI-19064-002a-DRN24err.pdf"&gt;this erratum&lt;/a&gt;.  As a service to the community, the NASA Exoplanet Archive has made available the short cadence data that were released prior to DR24. Only the original FITS files are available and the data release number varies by quarter; see the header keyword DATA_REL. The data may be obtained from NExScI by using this &lt;a href="http://exoplanetarchive.ipac.caltech.edu/bulk_data_download/wget_all_prior_SC.bat"&gt;wget script&lt;/a&gt;.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Thomas Barclay</dc:creator><pubDate>Tue, 12 Jan 2016 16:00:00 -0800</pubDate><guid>tag:keplerscience.arc.nasa.gov,2016-01-12:previous-short-cadence-data-available-at-nexsci.html</guid></item><item><title>K2 Cycle 4: Highlights in future fields</title><link>http://keplerscience.arc.nasa.gov/k2-cycle-4-highlights-in-future-fields.html</link><description>&lt;p&gt;Proposals for targets to be observed by K2 in Campaigns 11, 12, and 13
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kepler &amp; K2</title><link>http://keplerscience.arc.nasa.gov/</link><description></description><atom:link href="http://keplerscience.arc.nasa.gov/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 27 Jan 2016 12:00:00 -0800</lastBuildDate><item><title>Minor changes in the fields of Campaigns 11, 12, and 13</title><link>http://keplerscience.arc.nasa.gov/minor-changes-in-the-fields-of-campaigns-11-12-and-13.html</link><description>&lt;h3 id="summary"&gt;Summary&lt;/h3&gt;
+&lt;p&gt;K2 users are alerted to a small but necessary adjustment
+in the position of Campaigns 11, 12, and 13,
+for which target proposals are currently being solicited as part of the 
+&lt;a href="call-for-k2-go-cycle-4-proposals-for-campaigns-11-12-and-13.html"&gt;K2 Guest Observer Cycle 4&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The change, explained below, alters ~0.2% of sky area covered
+and is unlikely to affect the vast majority of proposals.
+All users are nevertheless encouraged to update the 
+&lt;a href="software.html#k2fov"&gt;K2fov&lt;/a&gt; target selection tool
+to version 4.0, which was released on 27 Jan 2016 and includes the change.&lt;/p&gt;
+&lt;p&gt;K2fov can be updated from the command line using pip:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;pip install K2fov --upgrade
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The version number of your K2fov installation may be verified using the following command:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;python -c "import pkg_resources; print(pkg_resources.require('K2fov')[0].version)"
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This should return "4.0.0" or higher.&lt;/p&gt;
+&lt;h3 id="background"&gt;Background&lt;/h3&gt;
+&lt;p&gt;Campaigns 11, 12, and 13 are being rotated slightly to
+accommodate a change in the configuration of the Kepler spacecraft. &lt;/p&gt;
+&lt;p&gt;During these Campaigns, spacecraft telemetry will be downlinked
+using a different low-gain antenna than before:
+&lt;i&gt;LGA2&lt;/i&gt; instead of &lt;i&gt;LGA1&lt;/i&gt;.
+This antenna provides a better orientation to Earth
+and compensates for the increasing range of the spacecraft to the Earth
+(now 0.8 AU).&lt;/p&gt;
+&lt;p&gt;The change of antenna was recently trialled during Campaign 7,
+where it was found to cause a small increase in the roll drift rate.
+The reduced pointing performance was understood to be caused
+by the antenna's radiation force,
+which is emerging from a different position on the spacecraft
+for &lt;i&gt;LGA2&lt;/i&gt;.&lt;/p&gt;
+&lt;p&gt;To optimize fuel usage and photometric precision,
+the K2 team has decided to adjust the roll angle
+of Campaigns 11, 12, and 13 by a very small amount
+(~0.16 degrees) to optimally balance the spacecraft
+against solar pressure and antenna radiation.&lt;/p&gt;
+&lt;p&gt;As a consequence, there is a minor change in the fields of view covered by K2
+during these campaigns. The position of the CCD edges
+are being shifted by ~0.5 arcsec (~0.1 px) near the center of the
+focal plane, and by up to 60 arcsec (~15 px) near the corners.
+The change is illustrated in the figure below,
+which shows the sky coverage for a CCD channel near the field corner both
+before (red) and after (blue) the adjustment.&lt;/p&gt;
+&lt;div class="thumbnail"&gt;
+&lt;a href="images/news/c11-roll-change-in-channel-71.png"&gt;&lt;img src="images/news/c11-roll-change-in-channel-71.png" class="img-responsive" style="max-width:600px;"&gt;&lt;/a&gt;
+&lt;div class="caption"&gt;
+&lt;i&gt;Figure: Illustration of the effect of the change in sky coverage
+for one of the CCD detectors near the corner of the focal plane (channel 71),during K2 Campaign 11.  The edges of the field are shifted by up to ~60 arcsec.&lt;/i&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Please &lt;a href="helpdesk.html"&gt;contact the Guest Observer Office&lt;/a&gt; if you have questions.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Wed, 27 Jan 2016 12:00:00 -0800</pubDate><guid>tag:keplerscience.arc.nasa.gov,2016-01-27:minor-changes-in-the-fields-of-campaigns-11-12-and-13.html</guid></item><item><title>Previous Short Cadence Data Available at NExScI</title><link>http://keplerscience.arc.nasa.gov/previous-short-cadence-data-available-at-nexsci.html</link><description>&lt;p&gt;As previously reported, Kepler Q2--Q16, data release 24, short-cadence data was calibrated incorrectly, making it unsuitable for use in projects requiring high photometric precision.  This is described in &lt;a href="http://archive.stsci.edu/kepler/release_notes/release_notes24/KSCI-19064-002a-DRN24err.pdf"&gt;this erratum&lt;/a&gt;.  As a service to the community, the NASA Exoplanet Archive has made available the short cadence data that were released prior to DR24. Only the original FITS files are available and the data release number varies by quarter; see the header keyword DATA_REL. The data may be obtained from NExScI by using this &lt;a href="http://exoplanetarchive.ipac.caltech.edu/bulk_data_download/wget_all_prior_SC.bat"&gt;wget script&lt;/a&gt;.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Thomas Barclay</dc:creator><pubDate>Tue, 12 Jan 2016 16:00:00 -0800</pubDate><guid>tag:keplerscience.arc.nasa.gov,2016-01-12:previous-short-cadence-data-available-at-nexsci.html</guid></item><item><title>K2 Cycle 4: Highlights in future fields</title><link>http://keplerscience.arc.nasa.gov/k2-cycle-4-highlights-in-future-fields.html</link><description>&lt;p&gt;Proposals for targets to be observed by K2 in Campaigns 11, 12, and 13
 are currently being solicited as part of &lt;a href="call-for-k2-go-cycle-4-proposals-for-campaigns-11-12-and-13.html"&gt;K2 Guest Observer Cycle 4&lt;/a&gt;.
 Step 1 submissions for these proposals are due on &lt;strong&gt;February 5, 2016&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;The &lt;a href="k2-fields.html"&gt;fields of these campaigns&lt;/a&gt; 
@@ -88,8 +140,8 @@ objects in Campaigns 11-13 including, but not limited to:&lt;/p&gt;
 are amenable to observations by the Kepler spacecraft.
 Again, note that targets which are not proposed will not be observed.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Sun, 03 Jan 2016 13:00:00 -0800</pubDate><guid>tag:keplerscience.arc.nasa.gov,2016-01-03:k2-cycle-4-highlights-in-future-fields.html</guid></item><item><title>K2 Cycle 4: Target selection tools</title><link>http://keplerscience.arc.nasa.gov/k2-cycle-4-target-selection-tools.html</link><description>&lt;p&gt;Proposals for targets to be observed by K2 in Campaigns 11, 12, and 13
 are currently being solicited as part of &lt;a href="call-for-k2-go-cycle-4-proposals-for-campaigns-11-12-and-13.html"&gt;K2 Guest Observer Cycle 4&lt;/a&gt;.
-Step 1 submissions for these proposals are due on &lt;strong&gt;February 5, 2016&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Proposals must be accompanied by a &lt;a href="http://keplerscience.arc.nasa.gov/k2-proposing-targets.html#target-table"&gt;target table&lt;/a&gt; which details the objects
+Mandatory Step 1 submissions for these proposals are due on &lt;strong&gt;February 5, 2016&lt;/strong&gt;, followed by a Step 2 deadline on March 4th, 2016.&lt;/p&gt;
+&lt;p&gt;Proposals must be accompanied by a &lt;a href="http://keplerscience.arc.nasa.gov/k2-proposing-targets.html#target-table"&gt;target table&lt;/a&gt; (by the Step 2 deadline) which details the objects
 to be observed.
 To enable the community to select and propose the most interesting targets,
 the following resources are available:&lt;/p&gt;

@@ -7,7 +7,7 @@ in August 2015, using pelican-bootstrap and flatly.
 >
 
 <head>
-    <title>Kepler/K2 Helpdesk - Kepler &amp; K2 Science Center</title>
+    <title>Minor changes in the fields of Campaigns 11, 12, and 13 - Kepler &amp; K2</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -31,16 +31,19 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="./images/favicon.png" rel="icon">
 
-<link rel="canonical" href="./pages/keplerk2-helpdesk.html">
+<link rel="canonical" href="./minor-changes-in-the-fields-of-campaigns-11-12-and-13.html">
 
-        <meta name="author" content="Thomas Barclay" />
-        <meta name="description" content="Guest Observer Office Dr Thomas Barclay Director Dr Geert Barentsen Support Scientist Dr Knicole Colón Support Scientist E-mail You can contact the Guest Observer Office at keplergo@mail.arc.nasa.gov for advice and information on: the Kepler or K2 missions; instrument characteristics; data and calibration issues; data analysis software ..." />
+        <meta name="author" content="Geert Barentsen" />
+        <meta name="description" content="Summary K2 users are alerted to a small but necessary adjustment in the position of Campaigns 11, 12, and 13, for which target proposals are currently being solicited as part of the K2 Guest Observer Cycle 4. The change, explained below, alters ~0.2% of sky area covered and is ..." />
 
-    <meta property="og:site_name" content="Kepler &amp; K2" />
-    <meta property="og:type" content="article"/>
-    <meta property="og:title" content="Kepler/K2 Helpdesk"/>
-    <meta property="og:url" content="./pages/keplerk2-helpdesk.html"/>
-    <meta property="og:description" content="Guest Observer Office Dr Thomas Barclay Director Dr Geert Barentsen Support Scientist Dr Knicole Colón Support Scientist E-mail You can contact the Guest Observer Office at keplergo@mail.arc.nasa.gov for advice and information on: the Kepler or K2 missions; instrument characteristics; data and calibration issues; data analysis software ..." />
+        <meta property="og:site_name" content="Kepler &amp; K2" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Minor changes in the fields of Campaigns 11, 12, and 13"/>
+        <meta property="og:url" content="./minor-changes-in-the-fields-of-campaigns-11-12-and-13.html"/>
+        <meta property="og:description" content="Summary K2 users are alerted to a small but necessary adjustment in the position of Campaigns 11, 12, and 13, for which target proposals are currently being solicited as part of the K2 Guest Observer Cycle 4. The change, explained below, alters ~0.2% of sky area covered and is ..."/>
+        <meta property="article:published_time" content="2016-01-27" />
+            <meta property="article:section" content="news" />
+            <meta property="article:author" content="Geert Barentsen" />
 
 
     <!-- Bootstrap -->
@@ -133,53 +136,89 @@ in August 2015, using pelican-bootstrap and flatly.
     <div class="row">
         <div class="col-lg-12">
 
-    <div class="col-sm-12">
-        <section id="content" class="body">
-            <h1 class="entry-title">Kepler/K2 Helpdesk</h1>
+    <section id="content">
+        <article>
+            <header >
+                <h1>
+                    <a href="./minor-changes-in-the-fields-of-campaigns-11-12-and-13.html"
+                       rel="bookmark"
+                       title="Permalink to Minor changes in the fields of Campaigns 11, 12, and 13">
+                        Minor changes in the fields of Campaigns 11, 12, and 13
+                    </a>
+                </h1>
+            </header>
             <div class="entry-content">
-                <h3 id="guest-observer-office">Guest Observer Office</h3>
-<div class="row">
-    <div class="col-sm-3 text-center">
-        <img src="images/faces/tom.jpg" class="img-circle"><br>
-        Dr Thomas Barclay<br>
-        Director
-    </div>
-    <div class="col-sm-3 text-center">
-        <img src="images/faces/geert.jpg" class="img-circle"><br>
-        Dr Geert Barentsen<br>
-        Support Scientist
-    </div>
-    <div class="col-sm-3 text-center">
-        <img src="images/faces/knicole.jpg" class="img-circle"><br>
-        Dr Knicole Colón<br>
-        Support Scientist
+<p style="margin-bottom: 1.5em;">
+    <span class="published categories-timestamp">
+        News article posted on
+        <time datetime="2016-01-27T12:00:00-08:00"> 27 Jan 2016</time>
+    
+
+
+            by <a href="./author/geert-barentsen.html">Geert Barentsen</a>
+
+
+
+    
+
+    </span>
+</p><!-- /.post-info -->                <h3 id="summary">Summary</h3>
+<p>K2 users are alerted to a small but necessary adjustment
+in the position of Campaigns 11, 12, and 13,
+for which target proposals are currently being solicited as part of the 
+<a href="call-for-k2-go-cycle-4-proposals-for-campaigns-11-12-and-13.html">K2 Guest Observer Cycle 4</a>.</p>
+<p>The change, explained below, alters ~0.2% of sky area covered
+and is unlikely to affect the vast majority of proposals.
+All users are nevertheless encouraged to update the 
+<a href="software.html#k2fov">K2fov</a> target selection tool
+to version 4.0, which was released on 27 Jan 2016 and includes the change.</p>
+<p>K2fov can be updated from the command line using pip:</p>
+<pre><code>pip install K2fov --upgrade
+</code></pre>
+<p>The version number of your K2fov installation may be verified using the following command:</p>
+<pre><code>python -c "import pkg_resources; print(pkg_resources.require('K2fov')[0].version)"
+</code></pre>
+<p>This should return "4.0.0" or higher.</p>
+<h3 id="background">Background</h3>
+<p>Campaigns 11, 12, and 13 are being rotated slightly to
+accommodate a change in the configuration of the Kepler spacecraft. </p>
+<p>During these Campaigns, spacecraft telemetry will be downlinked
+using a different low-gain antenna than before:
+<i>LGA2</i> instead of <i>LGA1</i>.
+This antenna provides a better orientation to Earth
+and compensates for the increasing range of the spacecraft to the Earth
+(now 0.8 AU).</p>
+<p>The change of antenna was recently trialled during Campaign 7,
+where it was found to cause a small increase in the roll drift rate.
+The reduced pointing performance was understood to be caused
+by the antenna's radiation force,
+which is emerging from a different position on the spacecraft
+for <i>LGA2</i>.</p>
+<p>To optimize fuel usage and photometric precision,
+the K2 team has decided to adjust the roll angle
+of Campaigns 11, 12, and 13 by a very small amount
+(~0.16 degrees) to optimally balance the spacecraft
+against solar pressure and antenna radiation.</p>
+<p>As a consequence, there is a minor change in the fields of view covered by K2
+during these campaigns. The position of the CCD edges
+are being shifted by ~0.5 arcsec (~0.1 px) near the center of the
+focal plane, and by up to 60 arcsec (~15 px) near the corners.
+The change is illustrated in the figure below,
+which shows the sky coverage for a CCD channel near the field corner both
+before (red) and after (blue) the adjustment.</p>
+<div class="thumbnail">
+<a href="images/news/c11-roll-change-in-channel-71.png"><img src="images/news/c11-roll-change-in-channel-71.png" class="img-responsive" style="max-width:600px;"></a>
+<div class="caption">
+<i>Figure: Illustration of the effect of the change in sky coverage
+for one of the CCD detectors near the corner of the focal plane (channel 71),during K2 Campaign 11.  The edges of the field are shifted by up to ~60 arcsec.</i>
 </div>
 </div>
 
-<h3 id="e-mail">E-mail</h3>
-<p>You can contact the Guest Observer Office at <a href="keplergo@mail.arc.nasa.gov">keplergo@mail.arc.nasa.gov</a> for advice and information on:</p>
-<ul>
-<li>the Kepler or K2 missions;</li>
-<li>instrument characteristics;</li>
-<li>data and calibration issues;</li>
-<li>data analysis software.</li>
-</ul>
-<p>Your contact information will be used to answer your query and will not be used for commercial purposes or given away except as required by law. For more information, consult the <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">NASA Privacy Policy</a>.</p>
-<h3 id="twitter">Twitter</h3>
-<p>You can also tweet your questions to <a href="https://twitter.com/KeplerGO">@KeplerGO</a>, 
-or search for hashtag <a href="https://twitter.com/search?q=k2help">#k2help</a>
-on Twitter to look at questions asked by others.</p>
-<h3 id="faq">FAQ</h3>
-<p>The FAQ archives at MAST for
-<a href="http://archive.stsci.edu/mast_faq.php?mission=KEPLER">Kepler</a> and
-<a href="http://archive.stsci.edu/mast_faq.php?mission=K2">K2</a> answer many
-questions about the missions as well as how to retrieve and analyze
-the data.  The FAQ archives on the original Kepler/K2 website can be accessed
-<a href="http://keplerscience.arc.nasa.gov/FAQ.shtml">here for Kepler</a> and
-<a href="http://keplerscience.arc.nasa.gov/K2/FAQ.shtml">here for K2</a>. </p>
+<p>Please <a href="helpdesk.html">contact the Guest Observer Office</a> if you have questions.</p>
             </div>
-        </section>
-    </div>
+            <!-- /.entry-content -->
+        </article>
+    </section>
 
         </div>
     </div>
