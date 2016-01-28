@@ -4,9 +4,9 @@ Author: Geert Barentsen
 
 Proposals for targets to be observed by K2 in Campaigns 11, 12, and 13
 are currently being solicited as part of [K2 Guest Observer Cycle 4](call-for-k2-go-cycle-4-proposals-for-campaigns-11-12-and-13.html).
-Step 1 submissions for these proposals are due on **February 5, 2016**.
+Mandatory Step 1 submissions for these proposals are due on **February 5, 2016**, followed by a Step 2 deadline on March 4th, 2016.
 
-Proposals must be accompanied by a [target table](http://keplerscience.arc.nasa.gov/k2-proposing-targets.html#target-table) which details the objects
+Proposals must be accompanied by a [target table](http://keplerscience.arc.nasa.gov/k2-proposing-targets.html#target-table) (by the Step 2 deadline) which details the objects
 to be observed.
 To enable the community to select and propose the most interesting targets,
 the following resources are available:
