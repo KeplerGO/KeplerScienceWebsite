@@ -11,7 +11,7 @@ The change, explained below, alters ~0.2% of sky area covered
 and is unlikely to affect the vast majority of proposals.
 All users are nevertheless encouraged to update the 
 <a href="software.html#k2fov">K2fov</a> target selection tool
-to version 4.0, which was released on 27 Jan 2016 and includes the change.
+to version 4.0, which was released on 27 Jan 2016 to include the change.
 
 K2fov can be updated from the command line using pip:
 
@@ -57,7 +57,8 @@ are being shifted by ~0.5 arcsec (~0.1 px) near the center of the
 focal plane, and by up to 60 arcsec (~15 px) near the corners.
 The change is illustrated in the figure below,
 which shows the change in sky coverage for a single CCD channel
-near the corner of the Campaign 11 field.
+near the corner of C11,
+where the shift is the most significant.
 
 <div class="thumbnail">
 <a href="images/news/c11-roll-change-in-channel-71.png"><img src="images/news/c11-roll-change-in-channel-71.png" class="img-responsive" style="max-width:600px;"></a>
