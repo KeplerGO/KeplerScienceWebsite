@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2016-01-27" />
+    <meta name="dc.date.modified" content="2016-01-28" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -174,7 +174,8 @@ to version 4.0, which was released on 27 Jan 2016 and includes the change.</p>
 <p>K2fov can be updated from the command line using pip:</p>
 <pre><code>pip install K2fov --upgrade
 </code></pre>
-<p>The version number of your K2fov installation may be verified using the following command:</p>
+<p>The version number of your K2fov installation may be verified
+using the following command:</p>
 <pre><code>python -c "import pkg_resources; print(pkg_resources.require('K2fov')[0].version)"
 </code></pre>
 <p>This should return "4.0.0" or higher.</p>
@@ -185,18 +186,18 @@ accommodate a change in the configuration of the Kepler spacecraft. </p>
 using a different low-gain antenna than before:
 <i>LGA2</i> instead of <i>LGA1</i>.
 This antenna provides a better orientation to Earth
-and compensates for the increasing range of the spacecraft to the Earth
-(now 0.8 AU).</p>
+and compensates for the increasing range 
+of the spacecraft to the Earth (now 0.8 AU).</p>
 <p>The change of antenna was recently trialled during Campaign 7,
 where it was found to cause a small increase in the roll drift rate.
 The reduced pointing performance was understood to be caused
-by the antenna's radiation force,
-which is emerging from a different position on the spacecraft
-when <i>LGA2</i> is used.</p>
+by the antenna's radiation pressure,
+which torques the spacecraft slightly differently when <i>LGA2</i> is used,
+increasing the roll rate.</p>
 <p>To optimize fuel usage and photometric precision,
 the K2 team has decided to adjust the roll angle
 of Campaigns 11, 12, and 13 by a very small amount
-(~0.16 degrees) to optimally balance the spacecraft
+(0.12--0.16 degrees) to optimally balance the spacecraft
 against solar pressure and antenna radiation
 when <i>LGA2</i> is in use.</p>
 <p>As a consequence, there is a minor change in the fields of view covered by K2
