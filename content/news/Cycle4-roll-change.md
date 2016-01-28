@@ -2,8 +2,6 @@ Title: Minor changes in the fields of Campaigns 11, 12, and 13
 Date: 2016-01-27 12:00
 Author: Geert Barentsen
 
-### Summary
-
 K2 users are alerted to a small but necessary adjustment
 in the position of Campaigns 11, 12, and 13,
 for which target proposals are currently being solicited as part of the 
@@ -43,27 +41,28 @@ where it was found to cause a small increase in the roll drift rate.
 The reduced pointing performance was understood to be caused
 by the antenna's radiation force,
 which is emerging from a different position on the spacecraft
-for <i>LGA2</i>.
+when <i>LGA2</i> is used.
 
 To optimize fuel usage and photometric precision,
 the K2 team has decided to adjust the roll angle
 of Campaigns 11, 12, and 13 by a very small amount
 (~0.16 degrees) to optimally balance the spacecraft
-against solar pressure and antenna radiation.
+against solar pressure and antenna radiation
+when <i>LGA2</i> is in use.
 
 As a consequence, there is a minor change in the fields of view covered by K2
 during these campaigns. The position of the CCD edges
 are being shifted by ~0.5 arcsec (~0.1 px) near the center of the
 focal plane, and by up to 60 arcsec (~15 px) near the corners.
 The change is illustrated in the figure below,
-which shows the sky coverage for a CCD channel near the field corner both
-before (red) and after (blue) the adjustment.
+which shows the change in sky coverage for a single CCD channel
+near the corner of the Campaign 11 field.
 
 <div class="thumbnail">
 <a href="images/news/c11-roll-change-in-channel-71.png"><img src="images/news/c11-roll-change-in-channel-71.png" class="img-responsive" style="max-width:600px;"></a>
 <div class="caption">
 <i>Figure: Illustration of the effect of the change in sky coverage
-for one of the CCD detectors near the corner of the focal plane (channel 71),during K2 Campaign 11.  The edges of the field are shifted by up to ~60 arcsec.</i>
+for one of the CCD detectors near the corner of the focal plane during K2 Campaign 11.  The edges of the field are shifted by up to ~60 arcsec.</i>
 </div>
 </div>
 
