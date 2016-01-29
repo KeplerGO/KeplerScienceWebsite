@@ -1,5 +1,5 @@
 Title: Minor changes in the fields of Campaigns 11, 12, and 13
-Date: 2016-01-27 12:00
+Date: 2016-01-28 16:00
 Author: Geert Barentsen
 
 K2 users are alerted to a small but necessary adjustment
@@ -60,13 +60,13 @@ which shows the change in sky coverage for a single CCD channel
 near the corner of C11,
 where the shift is the most significant.
 
-<div class="thumbnail">
-<a href="images/news/c11-roll-change-in-channel-71.png"><img src="images/news/c11-roll-change-in-channel-71.png" class="img-responsive" style="max-width:600px;"></a>
+Please [contact the Guest Observer Office](helpdesk.html) if you have questions.
+
+<div class="thumbnail col-sm-6">
+<a href="images/news/c11-roll-change-in-channel-71.png"><img src="images/news/c11-roll-change-in-channel-71.png" class="img-responsive" style="max-width:500px;"></a>
 <div class="caption">
 <i>Figure: Illustration of the effect of the change in sky coverage
 for one of the CCD detectors near the corner of the focal plane during K2 Campaign 11.  The edges of the field are shifted by up to ~60 arcsec.</i>
 </div>
 </div>
-
-Please [contact the Guest Observer Office](helpdesk.html) if you have questions.
 
