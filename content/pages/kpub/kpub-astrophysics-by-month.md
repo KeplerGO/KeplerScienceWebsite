@@ -79,6 +79,50 @@ Greiss, S., Hermes, J. J., Gaensicke, B. T., et al.
 Brogaard, K., Jessen-Hansen, J., Handberg, R., et al.    
 2016, pre-print ([2016arXiv160101412B](http://adsabs.harvard.edu/abs/2016arXiv160101412B))  
 
+13. [INTERNAL ROTATION OF THE RED-GIANT STAR KIC 4448777 BY MEANS OF ASTEROSEISMIC INVERSION](http://adsabs.harvard.edu/abs/2016ApJ...817...65D)  
+Di Mauro, M. P., Ventura, R., Cardini, D., et al.    
+2016, refereed ([2016ApJ...817...65D](http://adsabs.harvard.edu/abs/2016ApJ...817...65D))  
+
+14. [DETERMINING THE AGE OF THE KEPLER OPEN CLUSTER NGC 6819 WITH A NEW TRIPLE SYSTEM AND OTHER ECLIPSING BINARY STARS](http://adsabs.harvard.edu/abs/2016arXiv160104069B)  
+Brewer, Lauren N., Sandquist, Eric L., Mathieu, Robert D., et al.    
+2016, pre-print ([2016arXiv160104069B](http://adsabs.harvard.edu/abs/2016arXiv160104069B))  
+
+15. [LAMOST OBSERVATIONS IN THE KEPLER FIELD: SPECTRAL CLASSIFICATION WITH THE MKCLASS CODE](http://adsabs.harvard.edu/abs/2016AJ....151...13G)  
+Gray, R. O., Corbally, C. J., De Cat, P., et al.    
+2016, refereed ([2016AJ....151...13G](http://adsabs.harvard.edu/abs/2016AJ....151...13G))  
+
+16. [KIC 7177553: A QUADRUPLE SYSTEM OF TWO CLOSE BINARIES](http://adsabs.harvard.edu/abs/2016arXiv160102926L)  
+Lehmann, H., Borkovits, T., Rappaport, S. A., et al.    
+2016, pre-print ([2016arXiv160102926L](http://adsabs.harvard.edu/abs/2016arXiv160102926L))  
+
+17. [FUNDAMENTAL STELLAR PARAMETERS AND AGE-METALLICITY RELATION OF KEPLER RED GIANTS IN COMPARISON WITH THEORETICAL EVOLUTIONARY TRACKS](http://adsabs.harvard.edu/abs/2016arXiv160106886T)  
+Takeda, Y., Tajitsu, A., Sato, B., et al.    
+2016, pre-print ([2016arXiv160106886T](http://adsabs.harvard.edu/abs/2016arXiv160106886T))  
+
+18. [YOUNG ``DIPPER" STARS IN UPPER SCO AND OPH OBSERVED BY K2](http://adsabs.harvard.edu/abs/2016ApJ...816...69A)  
+Ansdell, M., Gaidos, E., Rappaport, S. A., et al.    
+2016, refereed ([2016ApJ...816...69A](http://adsabs.harvard.edu/abs/2016ApJ...816...69A))  
+
+19. [NEW INSIGHTS FOR HIGH-PRECISION ASTEROSEISMOLOGY: ACOUSTIC RADIUS OF KIC 6225718](http://adsabs.harvard.edu/abs/2016arXiv160105492W)  
+Wu, Tao, Li, Yan    
+2016, pre-print ([2016arXiv160105492W](http://adsabs.harvard.edu/abs/2016arXiv160105492W))  
+
+20. [KIC 8462852 FADED AT AN AVERAGE RATE OF 0.165+-0.013 MAGNITUDES PER CENTURY FROM 1890 TO 1989](http://adsabs.harvard.edu/abs/2016arXiv160103256S)  
+Schaefer, Bradley E.    
+2016, pre-print ([2016arXiv160103256S](http://adsabs.harvard.edu/abs/2016arXiv160103256S))  
+
+21. [KIC 8462852 DID LIKELY NOT FADE DURING THE LAST 100 YEARS](http://adsabs.harvard.edu/abs/2016arXiv160107314H)  
+Hippke, Michael, Angerhausen, Daniel    
+2016, pre-print ([2016arXiv160107314H](http://adsabs.harvard.edu/abs/2016arXiv160107314H))  
+
+22. [ASTEROSEISMOLOGY OF RED GIANTS: FROM ANALYSING LIGHT CURVES TO ESTIMATING AGES](http://adsabs.harvard.edu/abs/2016arXiv160102802D)  
+Davies, G. R., Miglio, A.    
+2016, pre-print ([2016arXiv160102802D](http://adsabs.harvard.edu/abs/2016arXiv160102802D))  
+
+23. [THEORETICAL PREDICTION OF CHROMOSPHERIC OSCILLATIONS IN LATE-TYPE STARS](http://adsabs.harvard.edu/abs/2016Ap&SS.361...23F)  
+Fawzy, Diaa E., Musielak, Z. E.    
+2016, refereed ([2016Ap&SS.361...23F](http://adsabs.harvard.edu/abs/2016Ap&SS.361...23F))  
+
 
 2015-12
 -------

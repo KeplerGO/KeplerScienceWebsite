@@ -5,8 +5,8 @@ Save_as: publications.html
 
 The Guest Observer office curates a list of scientific publications
 pertaining to Kepler and K2.
-The database contains 1611 publications,
-of which 1434 are peer-reviewed.
+The database contains 1634 publications,
+of which 1445 are peer-reviewed.
 It demonstrates the important impact of Kepler/K2 data
 on astronomical research.
 
@@ -23,7 +23,7 @@ Or by topic:
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/KeplerGO/kpub">GitHub repository</a> of the database.
 
-Last update: 11 Jan 2016.
+Last update: 28 Jan 2016.
 
 <hr/>
 
@@ -31,8 +31,8 @@ Last update: 11 Jan 2016.
 
 The graph below shows the number of publications as a function
 of year and mission.
-The publication count for Kepler is 1525,
-that of K2 is 86.
+The publication count for Kepler is 1546,
+that of K2 is 88.
 
 ![Publication rate by mission and year]({filename}/images/kpub/kpub-publication-rate.png)
 
@@ -42,9 +42,9 @@ that of K2 is 86.
 
 Both Kepler and K2 data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 779 works relate to exoplanets
+While 791 works relate to exoplanets
 (48%),
-a total of 832
+a total of 843
 pertain to other areas of astrophysics
 (52%).
 
@@ -56,7 +56,7 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 Kepler/K2 publications have cumulatively been cited
-39008 times.
+39012 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -176,7 +176,7 @@ within the last 90 days.
 ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 3033 unique author names.
+by a total of 3050 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
 
@@ -184,13 +184,13 @@ Here we list the most-active authors, defined as those with six or more first-au
 
  * Kipping, D (17 publications)
 
- * Huber, D (10 publications)
-
- * Baran, A (10 publications)
+ * Steffen, J (11 publications)
 
  * Kane, S (10 publications)
 
- * Steffen, J (10 publications)
+ * Baran, A (10 publications)
+
+ * Huber, D (10 publications)
 
  * Chaplin, W (10 publications)
 
@@ -202,58 +202,60 @@ Here we list the most-active authors, defined as those with six or more first-au
 
  * Hekker, S (9 publications)
 
- * Molenda-Zakowicz, J (9 publications)
+ * Armstrong, D (9 publications)
 
  * Savanov, I (9 publications)
 
- * Armstrong, D (9 publications)
+ * Gaidos, E (9 publications)
 
- * Gaidos, E (8 publications)
+ * Molenda-Zakowicz, J (9 publications)
+
+ * Mosser, B (8 publications)
+
+ * Sanchis-Ojeda, R (8 publications)
+
+ * Ramsay, G (8 publications)
+
+ * Scaringi, S (8 publications)
 
  * Ostensen, R (8 publications)
 
  * Kato, T (8 publications)
 
- * Ramsay, G (8 publications)
-
- * Sanchis-Ojeda, R (8 publications)
-
- * Mosser, B (8 publications)
-
- * Scaringi, S (8 publications)
-
- * Tkachenko, A (7 publications)
-
  * Santerne, A (7 publications)
-
- * Gilliland, R (7 publications)
-
- * Silva Aguirre, V (7 publications)
 
  * Dawson, R (7 publications)
 
+ * Campante, T (7 publications)
+
+ * Gilliland, R (7 publications)
+
+ * Tkachenko, A (7 publications)
+
+ * Silva Aguirre, V (7 publications)
+
+ * Bonomo, A (6 publications)
+
  * Colon, K (6 publications)
+
+ * Corsaro, E (6 publications)
+
+ * Mathur, S (6 publications)
+
+ * Beck, P (6 publications)
+
+ * Metcalfe, T (6 publications)
+
+ * Howell, S (6 publications)
+
+ * Ballard, S (6 publications)
+
+ * Lissauer, J (6 publications)
 
  * Lillo-Box, J (6 publications)
 
  * Barclay, T (6 publications)
 
- * Metcalfe, T (6 publications)
-
- * Bonomo, A (6 publications)
-
  * Rappaport, S (6 publications)
 
  * Borucki, W (6 publications)
-
- * Corsaro, E (6 publications)
-
- * Beck, P (6 publications)
-
- * Mathur, S (6 publications)
-
- * Howell, S (6 publications)
-
- * Campante, T (6 publications)
-
- * Lissauer, J (6 publications)

@@ -91,6 +91,90 @@ Brogaard, K., Jessen-Hansen, J., Handberg, R., et al.
 Ginski, C., Mugrauer, M., Seeliger, M., et al.    
 2016, pre-print ([2016arXiv160101524G](http://adsabs.harvard.edu/abs/2016arXiv160101524G))  
 
+22. [INTERNAL ROTATION OF THE RED-GIANT STAR KIC 4448777 BY MEANS OF ASTEROSEISMIC INVERSION](http://adsabs.harvard.edu/abs/2016ApJ...817...65D)  
+Di Mauro, M. P., Ventura, R., Cardini, D., et al.    
+2016, refereed ([2016ApJ...817...65D](http://adsabs.harvard.edu/abs/2016ApJ...817...65D))  
+
+23. [THE ENIGMATIC AND EPHEMERAL M DWARF SYSTEM KOI 6705: CHESHIRE CAT OR WILD GOOSE?](http://adsabs.harvard.edu/abs/2016ApJ...817...50G)  
+Gaidos, Eric, Mann, Andrew W., Ansdell, Megan    
+2016, refereed ([2016ApJ...817...50G](http://adsabs.harvard.edu/abs/2016ApJ...817...50G))  
+
+24. [THE KEPLER-454 SYSTEM: A SMALL, NOT-ROCKY INNER PLANET, A JOVIAN WORLD, AND A DISTANT COMPANION](http://adsabs.harvard.edu/abs/2016ApJ...816...95G)  
+Gettel, Sara, Charbonneau, David, Dressing, Courtney D., et al.    
+2016, refereed ([2016ApJ...816...95G](http://adsabs.harvard.edu/abs/2016ApJ...816...95G))  
+
+25. [REVISED MASSES AND DENSITIES OF THE PLANETS AROUND KEPLER-10](http://adsabs.harvard.edu/abs/2016arXiv160106168W)  
+Weiss, Lauren M., Rogers, Leslie A., Isaacson, Howard T., et al.    
+2016, pre-print ([2016arXiv160106168W](http://adsabs.harvard.edu/abs/2016arXiv160106168W))  
+
+26. [ANALYSIS OF THE EXOPLANET CONTAINING SYSTEM KEPLER-91](http://adsabs.harvard.edu/abs/2016Ap&SS.361...17B)  
+Budding, E., Püsküllü, Ç., Rhodes, M. D., et al.    
+2016, refereed ([2016Ap&SS.361...17B](http://adsabs.harvard.edu/abs/2016Ap&SS.361...17B))  
+
+27. [DETERMINING THE AGE OF THE KEPLER OPEN CLUSTER NGC 6819 WITH A NEW TRIPLE SYSTEM AND OTHER ECLIPSING BINARY STARS](http://adsabs.harvard.edu/abs/2016arXiv160104069B)  
+Brewer, Lauren N., Sandquist, Eric L., Mathieu, Robert D., et al.    
+2016, pre-print ([2016arXiv160104069B](http://adsabs.harvard.edu/abs/2016arXiv160104069B))  
+
+28. [ORBITAL DYNAMICS OF EXOPLANETARY SYSTEMS KEPLER-62, HD 200964 AND KEPLER-11](http://adsabs.harvard.edu/abs/2016arXiv160102110M)  
+Mia, Rajib, Singh Kushvah, Badam    
+2016, pre-print ([2016arXiv160102110M](http://adsabs.harvard.edu/abs/2016arXiv160102110M))  
+
+29. [LAMOST OBSERVATIONS IN THE KEPLER FIELD: SPECTRAL CLASSIFICATION WITH THE MKCLASS CODE](http://adsabs.harvard.edu/abs/2016AJ....151...13G)  
+Gray, R. O., Corbally, C. J., De Cat, P., et al.    
+2016, refereed ([2016AJ....151...13G](http://adsabs.harvard.edu/abs/2016AJ....151...13G))  
+
+30. [KIC 7177553: A QUADRUPLE SYSTEM OF TWO CLOSE BINARIES](http://adsabs.harvard.edu/abs/2016arXiv160102926L)  
+Lehmann, H., Borkovits, T., Rappaport, S. A., et al.    
+2016, pre-print ([2016arXiv160102926L](http://adsabs.harvard.edu/abs/2016arXiv160102926L))  
+
+31. [THE KEPLER DICHOTOMY AMONG THE M DWARFS: HALF OF SYSTEMS CONTAIN FIVE OR MORE COPLANAR PLANETS](http://adsabs.harvard.edu/abs/2016ApJ...816...66B)  
+Ballard, Sarah, Johnson, John Asher    
+2016, refereed ([2016ApJ...816...66B](http://adsabs.harvard.edu/abs/2016ApJ...816...66B))  
+
+32. [ORBITAL ARCHITECTURES OF PLANET-HOSTING BINARIES. I. FORMING FIVE SMALL PLANETS IN THE TRUNCATED DISK OF KEPLER-444A](http://adsabs.harvard.edu/abs/2016ApJ...817...80D)  
+Dupuy, Trent J., Kratter, Kaitlin M., Kraus, Adam L., et al.    
+2016, refereed ([2016ApJ...817...80D](http://adsabs.harvard.edu/abs/2016ApJ...817...80D))  
+
+33. [FUNDAMENTAL STELLAR PARAMETERS AND AGE-METALLICITY RELATION OF KEPLER RED GIANTS IN COMPARISON WITH THEORETICAL EVOLUTIONARY TRACKS](http://adsabs.harvard.edu/abs/2016arXiv160106886T)  
+Takeda, Y., Tajitsu, A., Sato, B., et al.    
+2016, pre-print ([2016arXiv160106886T](http://adsabs.harvard.edu/abs/2016arXiv160106886T))  
+
+34. [NEW INSIGHTS FOR HIGH-PRECISION ASTEROSEISMOLOGY: ACOUSTIC RADIUS OF KIC 6225718](http://adsabs.harvard.edu/abs/2016arXiv160105492W)  
+Wu, Tao, Li, Yan    
+2016, pre-print ([2016arXiv160105492W](http://adsabs.harvard.edu/abs/2016arXiv160105492W))  
+
+35. [KIC 8462852 FADED AT AN AVERAGE RATE OF 0.165+-0.013 MAGNITUDES PER CENTURY FROM 1890 TO 1989](http://adsabs.harvard.edu/abs/2016arXiv160103256S)  
+Schaefer, Bradley E.    
+2016, pre-print ([2016arXiv160103256S](http://adsabs.harvard.edu/abs/2016arXiv160103256S))  
+
+36. [KIC 8462852 DID LIKELY NOT FADE DURING THE LAST 100 YEARS](http://adsabs.harvard.edu/abs/2016arXiv160107314H)  
+Hippke, Michael, Angerhausen, Daniel    
+2016, pre-print ([2016arXiv160107314H](http://adsabs.harvard.edu/abs/2016arXiv160107314H))  
+
+37. [ASTEROSEISMOLOGY OF RED GIANTS: FROM ANALYSING LIGHT CURVES TO ESTIMATING AGES](http://adsabs.harvard.edu/abs/2016arXiv160102802D)  
+Davies, G. R., Miglio, A.    
+2016, pre-print ([2016arXiv160102802D](http://adsabs.harvard.edu/abs/2016arXiv160102802D))  
+
+38. [SPIN-ORBIT ALIGNMENT OF EXOPLANET SYSTEMS: ENSEMBLE ANALYSIS USING ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2016arXiv160106052C)  
+Campante, T. L., Lund, M. N., Kuszlewicz, J. S., et al.    
+2016, pre-print ([2016arXiv160106052C](http://adsabs.harvard.edu/abs/2016arXiv160106052C))  
+
+39. [OPTICAL PHASE CURVES AS DIAGNOSTICS FOR AEROSOL COMPOSITION IN EXOPLANETARY ATMOSPHERES](http://adsabs.harvard.edu/abs/2016arXiv160103050O)  
+Oreshenko, Maria, Heng, Kevin, Demory, Brice-Olivier    
+2016, pre-print ([2016arXiv160103050O](http://adsabs.harvard.edu/abs/2016arXiv160103050O))  
+
+40. [THEORETICAL PREDICTION OF CHROMOSPHERIC OSCILLATIONS IN LATE-TYPE STARS](http://adsabs.harvard.edu/abs/2016Ap&SS.361...23F)  
+Fawzy, Diaa E., Musielak, Z. E.    
+2016, refereed ([2016Ap&SS.361...23F](http://adsabs.harvard.edu/abs/2016Ap&SS.361...23F))  
+
+41. [DYNAMICAL CONSIDERATIONS FOR LIFE IN MULTI-HABITABLE PLANETARY SYSTEMS](http://adsabs.harvard.edu/abs/2016ApJ...816...97S)  
+Steffen, Jason H., Li, Gongjie    
+2016, refereed ([2016ApJ...816...97S](http://adsabs.harvard.edu/abs/2016ApJ...816...97S))  
+
+42. [TATOOINE NURSERIES: STRUCTURE AND EVOLUTION OF CIRCUMBINARY PROTOPLANETARY DISKS](http://adsabs.harvard.edu/abs/2016ApJ...816...94V)  
+Vartanyan, David, Garmilla, José A., Rafikov, Roman R.    
+2016, refereed ([2016ApJ...816...94V](http://adsabs.harvard.edu/abs/2016ApJ...816...94V))  
+
 
 2015
 ----
