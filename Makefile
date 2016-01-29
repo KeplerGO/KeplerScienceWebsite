@@ -96,5 +96,7 @@ kpub:
 	kpub --save
 	cd content/images/kpub; \
 	kpub-plot
+	git add content/pages/kpub/* content/images/kpub/*
+	git commit -m "Publication stats update"
 
 .PHONY: html html-dev html-live help clean regenerate serve devserver ssh_upload rsync_upload github live kpub
