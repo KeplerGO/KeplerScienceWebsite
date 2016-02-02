@@ -75,9 +75,10 @@ MENUITEMS = (
             ('Overview', 'k2-observing.html'),
             ('Campaign fields', 'k2-fields.html'),
             ('Targets &amp; programs', 'k2-approved-programs.html'),
-            ('Microlensing experiment', 'k2-c9.html'),
+            ('Data release notes', 'k2-data-release-notes.html'),
             ('Proposal preparation', 'k2-proposing-targets.html'),
             ('Discretionary time', 'k2-ddt.html'),
+            ('Microlensing experiment', 'k2-c9.html'),
             )
          ),
         ('Data analysis', (
