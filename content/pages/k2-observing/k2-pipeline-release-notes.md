@@ -26,7 +26,7 @@ One change was made to the Calibration module, CAL, to correct how the short cad
 <div class="well">
 
 <h2> Incorrect SC Smear </h2>
-<p> Reported in February 2016, the Erratum applies to short-cadence data in K2 data releases 1--7.</p>
+<p> Reported in February 2016, the Erratum applies to short-cadence data in K2 data releases 1-7.</p>
 
 <p>An accounting error has scrambled much of the short-cadence collateral smear data used to correct for the effects of Kepler’s shutterless readout.  This error has been present since launch and affects approximately half of all short-cadence targets observed by Kepler and K2 to date.  The resulting calibration errors are present in both the short-cadence target pixel files and the short-cadence light curves for Kepler Data Releases 1-24 and K2 Data Releases 1-7. This error does not affect long-cadence data. </p>
 

@@ -7,8 +7,138 @@ This page details the key features of the K2 data releases,
 including a description of technical issues relevant to
 the scientific exploitation of the data.
 
+<hr>
+
+# K2 Campaign 6
+
+## At a glance
+
+<div class="col-lg-5">
+
+    <b><i>Pointing</i></b>
+    <ul>
+        <li>RA: 204.8650344 degrees</li>
+        <li>Dec: -11.2953585 degrees</li>
+        <li>Roll: 159.6356000 degrees</li>
+    </ul>
+
+    <b><i>Targets</i></b>
+    <ul>
+        <li> 47,626 in long cadence (LC)</li>
+        <li> 84 in short cadence (SC)</li>
+        <li>Several custom targets (see below)</li>
+    </ul>
+
+    <b><i>Full Frame Images (FFI)</i></b>
+    <ul>
+        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo22015207050529-c06_ffi-cal.fits">ktwo2015207050529-c06_ffi-cal.fits</a></li>
+        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2015246104018-c06_ffi-cal.fits">ktwo2015246104018-c06_ffi-cal.fits</a></li>
+    </ul>
+
+    <b><i>First cadence</i></b>
+    <ul>
+        <li>Time: 2015-07-13 22:45:04 UTC</li>
+        <li>Long Cadence Number: 111362</li>
+        <li>Short Cadence Number: 3445209</li>
+    </ul>
+
+    <b><i>Last cadence</i></b>
+    <ul>
+        <li>Time: 2015-09-30 21:11:29 UTC</li>
+        <li>Long Cadence Number: 115224</li>
+        <li>Short Cadence Number: 3329320</li>
+    </ul>
+
+</div>
+
+<div class="col-lg-7">
+
+    <div class="thumbnail">
+        <div class="caption">
+            <i>Figure: Schematic of Kepler's C6 field-of-view with observed targets shown with purple dots.</i>
+        </div>
+        <a href="images/campaign_selected/C6_selected.png">
+            <img src="images/campaign_selected/C6_selected.png" class="img-responsive" alt="C6 field-of-view with selected targets">
+        </a>
+    </div>
+
+    <div class="thumbnail">
+        <div class="caption">
+            <i>Figure: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The bimodality is due to how the largest <a href="k2-approved-programs.html#campaign-6">GO  programs</a> were selected.</i>
+        </div>
+        <a href="images/release-notes/c6/c6LcMagDistribution.png">
+            <img src="images/release-notes/c6/C6LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed targets.">
+        </a>
+    </div>
+
+</div>
+
+## Features and events
+
+<br>
+***Spica***
+
+The star Spica, α Virginis, the 15th brightest star in the sky, is on silcon during Campaign 6. As can be seen on the FFI below, Spica is on mod.out 18.3 (channel 63) and its Schmidt-corrector reflection lies on mod.out 8.3. The star bleeds into both smear regions, preventing proper smear correction on columns 805-816 on channel 63.  Also, because of cross-talk, the Spica signal appears on all channels of module 18 at the same row and column position, but to a lesser degree.  For more information on cross-talk, see the [Instrument handbook](http://archive.stsci.edu/kepler/manuals/KSCI-19033-001.pdfs). 
+
+The [EPIC catalog](http://archive.stsci.edu/k2/epic/search.php) has a magnitude of Kp=7.9 for Spica (see EPIC number 212573842). This incorrect magnitude likely occurred because Spica is very blue.  As a result the aperture given to this target is much smaller than required to collect all the light.  
+
+<div class="thumbnail" style="width: 68%;">
+    <div class="caption">
+        <i>Figure: The FFI taken during Campaign 6 showing the bright star Spica and its reflection.</i>
+    </div>
+    <a href="images/release-notes/c6/spica.png">
+        <img src="images/release-notes/c6/spica.png" class="img-responsive" alt="The FFI taken during Campaign 6 showing the bright star Spica and its reflection.">
+    </a>
+</div>
+
+<br>
+***Observed Trojans***
+
+During Campaign 6, K2 observed 65 Trojan asteroids were observed as part of program [GO6025]("data/c6/GO6025_Ryan.pdf"). Each were tiled with 1 x n pixel target definitions, where n ranges from 1 to 217. The tiled region of three examples are shown in the figure below.  The range of custom aperture number given to these objects is 200041889 -- 200061149. A mapping of the trojan's designation number to the custom aperture numbers can be <a file="data/c6/trojanCustomApertureC6.csv">downloaded here.</a>
+
+<div class="thumbnail" style="width: 70%;">
+    <div class="caption">
+        <i>Figure: The selected pixels, highlighted in green, from one channel. The path of three trojans are shown creating long green lines in the image.</i>
+    </div>
+    <a href="images/release-notes/c6/exTrojanPath.png">
+        <img src="images/release-notes/c6/exTrojanPath.png" class="img-responsive" alt="The path of three trojans are shown on one channel.">
+    </a>
+</div>
+
+<br>
+***Variable Guide Star***
+
+The guide star on Module 25 for Campaign 6 was a variable star. The periodicity was 7 hours and the signal varied from 10,000 DN to 16,000 DN. No adverse effects due to this variability were found.  
+
+
+
+<br>
+***Light Curve Quality***
+
+The dominant systematic present in K2 simple aperture photometry light curves is a sawtooth shape that is due to the roll of the spacecraft approximately every 6 hours. The PDC module of the Kepler Pipeline uses Principle Component Analysis to remove this signal in addition to other systematics. Below, we examine observed noise levels in the PDC light curves for C6, Data Release 8.
+
+<a href="images/release-notes/c6/K2-C06_bin1.00_sc1.00_CDPP_Summary.txt">Table giving 6.5-hr CDPP as a function of magnitude.</a>
+
+<div class="thumbnail" style="width: 70%;">
+    <div class="caption">
+    <i>Figure: CDPP measured for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. Also, the photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. <a href="images/release-notes/c6/K2-C6_dwarf__CDPP_by_mod_out.eps">See here for CDPP as a function of position on the focal plane.</a>. All cadences coincident with a definite thruster firing are gapped.</i>
+    </div>
+    <a href="images/release-notes/c5/K2-C06_logg_CDPP_vs_model.png">
+        <img src="images/release-notes/c6/K2-C6_logg_CDPP_vs_model.png " class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
+    </a>
+</div>
+
+## Release History
+
+The following is the data release history for this campaign. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
+
+* <a href="k2-pipeline-release-notes.html">Data Release 8</a>
+
+    * Note: The short cadence data will be released a few weeks after the long cadence data so that a bug fix can be implemented to correct how the smear correction is done. The [Erratum]() regarding the smear data will not apply to the SC data. 
 
 <hr>
+
+
 
 # K2 Campaign 5
 
@@ -123,11 +253,9 @@ The dominant systematic present in K2 simple aperture photometry light curves is
 
 The following is the data release history for this campaign. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
 
-* <a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr7">Data Release 7</a>
+* <a href="k2-pipeline-release-notes.html">Data Release 7</a>
 
 <hr>
-
-
 
 # K2 Campaign 4
 
@@ -295,7 +423,7 @@ The photometric precision is generally better near the center of the focal plane
 
 The following is the data release history for this campaign. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
 
-* <a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr6">Data Release 6</a>
+* <a href="k2-pipeline-release-notes.html">Data Release 6</a>
 
 <br>
 ***Notes Specific to Data Release 6***
@@ -451,7 +579,7 @@ Campaign 3 had a nominal duration of 80 days, but an actual duration of only 69.
 
 The following is the data release history for this campaign. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
 
-* <a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr5">Data Release 5</a>
+* <a href="k2-pipeline-release-notes.html">Data Release 5</a>
 
 <hr>
 
@@ -621,7 +749,7 @@ For C2, a number of targets were proposed without <a href="https://archive.stsci
 
 The following is the data release history for this campaign. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
 
-* <a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr4">Data Release 4</a>
+* <a href="k2-pipeline-release-notes.html">Data Release 4</a>
 
 <hr>
 
