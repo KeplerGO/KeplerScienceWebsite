@@ -63,6 +63,10 @@ Davies, G. R., Aguirre, V. Silva, Bedding, T. R., et al.
 Schunker, H., Schou, J., Ball, W. H.    
 2016, refereed ([2016A&A...586A..24S](http://adsabs.harvard.edu/abs/2016A&A...586A..24S))  
 
+12. [A SEARCH FOR BRIEF OPTICAL FLASHES ASSOCIATED WITH THE SETI TARGET KIC 846285](http://adsabs.harvard.edu/abs/2016arXiv160200987A)  
+Abeysekara, A. U., Archambault, S., Archer, A., et al.    
+2016, pre-print ([2016arXiv160200987A](http://adsabs.harvard.edu/abs/2016arXiv160200987A))  
+
 
 2016-01
 -------
@@ -158,6 +162,30 @@ Davies, G. R., Miglio, A.
 23. [THEORETICAL PREDICTION OF CHROMOSPHERIC OSCILLATIONS IN LATE-TYPE STARS](http://adsabs.harvard.edu/abs/2016Ap&SS.361...23F)  
 Fawzy, Diaa E., Musielak, Z. E.    
 2016, refereed ([2016Ap&SS.361...23F](http://adsabs.harvard.edu/abs/2016Ap&SS.361...23F))  
+
+24. [NEREID FROM SPACE: ROTATION, SIZE AND SHAPE ANALYSIS FROM KEPLER/K2, HERSCHEL AND SPITZER OBSERVATIONS](http://adsabs.harvard.edu/abs/2016arXiv160102395K)  
+Kiss, Cs., Pál, A., Farkas-Takács, A. I., et al.    
+2016, pre-print ([2016arXiv160102395K](http://adsabs.harvard.edu/abs/2016arXiv160102395K))  
+
+25. [ROTATIONAL MODULATION IN B STARS OBSERVED BY THE KEPLER K2 MISSION](http://adsabs.harvard.edu/abs/2016MNRAS.tmp...35B)  
+Balona, L. A.    
+2016, refereed ([2016MNRAS.tmp...35B](http://adsabs.harvard.edu/abs/2016MNRAS.tmp...35B))  
+
+26. [PLANET HUNTERS X. KIC 8462852 - WHERE'S THE FLUX?*<SUP>†</SUP>](http://adsabs.harvard.edu/abs/2016MNRAS.tmp...12B)  
+Boyajian, T. S., LaCourse, D. M., Rappaport, S. A., et al.    
+2016, refereed ([2016MNRAS.tmp...12B](http://adsabs.harvard.edu/abs/2016MNRAS.tmp...12B))  
+
+27. [FUNDAMENTAL STELLAR PARAMETERS AND AGE-METALLICITY RELATION OF KEPLER RED GIANTS IN COMPARISON WITH THEORETICAL EVOLUTIONARY TRACKS](http://adsabs.harvard.edu/abs/2016MNRAS.tmp....6T)  
+Takeda, Y., Tajitsu, A., Sato, B., et al.    
+2016, refereed ([2016MNRAS.tmp....6T](http://adsabs.harvard.edu/abs/2016MNRAS.tmp....6T))  
+
+28. [PRECISE STELLAR SURFACE GRAVITIES FROM THE TIME SCALES OF CONVECTIVELY DRIVEN BRIGHTNESS VARIATIONS](http://adsabs.harvard.edu/abs/2016SciA....250654K)  
+Kallinger, Thomas, Hekker, Saskia, Garcia, Rafael A., et al.    
+2016, refereed ([2016SciA....250654K](http://adsabs.harvard.edu/abs/2016SciA....250654K))  
+
+29. [WEAKENED MAGNETIC BRAKING AS THE ORIGIN OF ANOMALOUSLY RAPID ROTATION IN OLD FIELD STARS](http://adsabs.harvard.edu/abs/2016Natur.529..181V)  
+van Saders, Jennifer L., Ceillier, Tugdual, Metcalfe, Travis S., et al.    
+2016, refereed ([2016Natur.529..181V](http://adsabs.harvard.edu/abs/2016Natur.529..181V))  
 
 
 2015-12
