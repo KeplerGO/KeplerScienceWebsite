@@ -163,9 +163,9 @@ in August 2015, using pelican-bootstrap and flatly.
     
 
     </span>
-</p><!-- /.post-info -->                <p>A K2 Guest Observer notified the Kepler Science Center in November 2015 of a puzzling
-difference between the short- and long-cadence calibrated pixel data
-for a specific K2 target.</p>
+</p><!-- /.post-info -->                <p>A K2 Guest Observer notified the Kepler Science Center in November 2015
+of a puzzling difference between the short- and long-cadence
+calibrated pixel data for a specific K2 target.</p>
 <p>After investigation, the problem was traced to an accounting error
 for the short-cadence collateral smear data.
 Under some conditions, these data are passed incorrectly
@@ -174,10 +174,12 @@ assigned to the wrong columns within a target’s aperture.</p>
 <p>In these cases, the pipeline’s pixel-level calibration routine
 applies an erroneous smear correction.</p>
 <h3 id="impact">Impact</h3>
-<p>The issue has been present since launch and affects approximately
+<p>The issue has been present since launch and affects both the target pixel
+files and the light curves of approximately
 half of all short-cadence targets in all releases to date,
-i.e., Kepler Data Releases 1-24 and K2 Data Releases for Campaigns 0-5.
-A list of all the affected targets is attached below.</p>
+i.e. Kepler Data Releases 1-24 and K2 Data Releases for Campaigns 0-5.
+A list of all the affected targets is attached below.
+The long cadence data for these or other targets is <em>not</em> affected.</p>
 <p>Since the smear signal is often small compared to the target signal,
 the effect is negligible for many targets.
 However, the smear signal is scene-dependent,
@@ -192,13 +194,14 @@ Comparison of the short-cadence pixel image with the long-cadence pixel image
 (which is not affected by this problem)
 can be used to estimate the magnitude of any contaminating signal.</p>
 <h3 id="solution">Solution</h3>
-<p>A solution for the issue has been implemented in the pipeline.
-All the affected data sets will be corrected as follows:</p>
+<p>The Kepler pipeline has been amended to ensure that the 
+correct smear data is used at all times. 
+All affected data will be corrected as follows:</p>
 <ul>
 <li>All upcoming K2 data releases will be corrected from the start,
  beginning with Campaign 6. (The release of C6 short cadence data will be delayed by approximately two weeks as a result.)</li>
 <li>Reprocessing of K2 Campaigns 0-5 will occur over the coming months. The expected release dates will be listed here when known.</li>
-<li>Data from the prime Kepler mission will be corrected as part of the scheduled reprocessing with pipeline release 9.3 (DR25). Corrected target pixel files are expected to be available in Summer, 2016.</li>
+<li>Data from the prime Kepler mission will be corrected as part of the scheduled reprocessing with pipeline release 9.3 (DR25). Corrected target pixel files are expected to be available in Summer 2016.</li>
 </ul>
 <h3 id="more-information">More information</h3>
 <p>The project has released an erratum document describing the issue and

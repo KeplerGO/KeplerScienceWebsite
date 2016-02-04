@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kepler &amp; K2</title><link>http://keplerscience.arc.nasa.gov/</link><description></description><atom:link href="http://keplerscience.arc.nasa.gov/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 04 Feb 2016 13:00:00 -0800</lastBuildDate><item><title>Problem with Kepler and K2 short cadence pixel calibration</title><link>http://keplerscience.arc.nasa.gov/problem-with-kepler-and-k2-short-cadence-pixel-calibration.html</link><description>&lt;p&gt;A K2 Guest Observer notified the Kepler Science Center in November 2015 of a puzzling
-difference between the short- and long-cadence calibrated pixel data
-for a specific K2 target.&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kepler &amp; K2</title><link>http://keplerscience.arc.nasa.gov/</link><description></description><atom:link href="http://keplerscience.arc.nasa.gov/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 04 Feb 2016 13:00:00 -0800</lastBuildDate><item><title>Problem with Kepler and K2 short cadence pixel calibration</title><link>http://keplerscience.arc.nasa.gov/problem-with-kepler-and-k2-short-cadence-pixel-calibration.html</link><description>&lt;p&gt;A K2 Guest Observer notified the Kepler Science Center in November 2015
+of a puzzling difference between the short- and long-cadence
+calibrated pixel data for a specific K2 target.&lt;/p&gt;
 &lt;p&gt;After investigation, the problem was traced to an accounting error
 for the short-cadence collateral smear data.
 Under some conditions, these data are passed incorrectly
@@ -10,10 +10,12 @@ assigned to the wrong columns within a target’s aperture.&lt;/p&gt;
 &lt;p&gt;In these cases, the pipeline’s pixel-level calibration routine
 applies an erroneous smear correction.&lt;/p&gt;
 &lt;h3 id="impact"&gt;Impact&lt;/h3&gt;
-&lt;p&gt;The issue has been present since launch and affects approximately
+&lt;p&gt;The issue has been present since launch and affects both the target pixel
+files and the light curves of approximately
 half of all short-cadence targets in all releases to date,
-i.e., Kepler Data Releases 1-24 and K2 Data Releases for Campaigns 0-5.
-A list of all the affected targets is attached below.&lt;/p&gt;
+i.e. Kepler Data Releases 1-24 and K2 Data Releases for Campaigns 0-5.
+A list of all the affected targets is attached below.
+The long cadence data for these or other targets is &lt;em&gt;not&lt;/em&gt; affected.&lt;/p&gt;
 &lt;p&gt;Since the smear signal is often small compared to the target signal,
 the effect is negligible for many targets.
 However, the smear signal is scene-dependent,
@@ -28,13 +30,14 @@ Comparison of the short-cadence pixel image with the long-cadence pixel image
 (which is not affected by this problem)
 can be used to estimate the magnitude of any contaminating signal.&lt;/p&gt;
 &lt;h3 id="solution"&gt;Solution&lt;/h3&gt;
-&lt;p&gt;A solution for the issue has been implemented in the pipeline.
-All the affected data sets will be corrected as follows:&lt;/p&gt;
+&lt;p&gt;The Kepler pipeline has been amended to ensure that the 
+correct smear data is used at all times. 
+All affected data will be corrected as follows:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;All upcoming K2 data releases will be corrected from the start,
  beginning with Campaign 6. (The release of C6 short cadence data will be delayed by approximately two weeks as a result.)&lt;/li&gt;
 &lt;li&gt;Reprocessing of K2 Campaigns 0-5 will occur over the coming months. The expected release dates will be listed here when known.&lt;/li&gt;
-&lt;li&gt;Data from the prime Kepler mission will be corrected as part of the scheduled reprocessing with pipeline release 9.3 (DR25). Corrected target pixel files are expected to be available in Summer, 2016.&lt;/li&gt;
+&lt;li&gt;Data from the prime Kepler mission will be corrected as part of the scheduled reprocessing with pipeline release 9.3 (DR25). Corrected target pixel files are expected to be available in Summer 2016.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="more-information"&gt;More information&lt;/h3&gt;
 &lt;p&gt;The project has released an erratum document describing the issue and
