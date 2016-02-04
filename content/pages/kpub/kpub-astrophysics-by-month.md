@@ -495,14 +495,6 @@ Notsu, Yuta, Honda, Satoshi, Maehara, Hiroyuki, et al.
 Ren, Juan-Juan, Liu, Xiao-Wei, Xiang, Mao-Sheng, et al.    
 2015, pre-print ([2015arXiv151008677R](http://adsabs.harvard.edu/abs/2015arXiv151008677R))  
 
-24. [YOUNG "DIPPER" STARS IN UPPER SCO AND $\RHO$ OPH OBSERVED BY K2](http://adsabs.harvard.edu/abs/2015arXiv151008853A)  
-Ansdell, M., Gaidos, E., Rappaport, S. A., et al.    
-2015, pre-print ([2015arXiv151008853A](http://adsabs.harvard.edu/abs/2015arXiv151008853A))  
-
-25. [A PSF-BASED APPROACH TO KEPLER/K2 DATA. I. VARIABILITY WITHIN THE K2 CAMPAIGN 0 STAR CLUSTERS M 35 AND NGC 2158](http://adsabs.harvard.edu/abs/2015arXiv151009180L)  
-Libralato, M., Bedin, L. R., Nardiello, D., et al.    
-2015, pre-print ([2015arXiv151009180L](http://adsabs.harvard.edu/abs/2015arXiv151009180L))  
-
 
 2015-09
 -------

@@ -919,21 +919,13 @@ Luhn, Jacob K., Penny, Matthew T., Gaudi, B. Scott
 Ren, Juan-Juan, Liu, Xiao-Wei, Xiang, Mao-Sheng, et al.    
 2015, pre-print ([2015arXiv151008677R](http://adsabs.harvard.edu/abs/2015arXiv151008677R))  
 
-43. [YOUNG "DIPPER" STARS IN UPPER SCO AND $\RHO$ OPH OBSERVED BY K2](http://adsabs.harvard.edu/abs/2015arXiv151008853A)  
-Ansdell, M., Gaidos, E., Rappaport, S. A., et al.    
-2015, pre-print ([2015arXiv151008853A](http://adsabs.harvard.edu/abs/2015arXiv151008853A))  
-
-44. [PERIOD RATIO DISTRIBUTION OF NEAR-RESONANT PLANETS INDICATES PLANETESIMAL SCATTERING](http://adsabs.harvard.edu/abs/2015arXiv151008933C)  
+43. [PERIOD RATIO DISTRIBUTION OF NEAR-RESONANT PLANETS INDICATES PLANETESIMAL SCATTERING](http://adsabs.harvard.edu/abs/2015arXiv151008933C)  
 Chatterjee, Sourav, Krantzler, Seth O., Ford, Eric B.    
 2015, pre-print ([2015arXiv151008933C](http://adsabs.harvard.edu/abs/2015arXiv151008933C))  
 
-45. [EPIC 204129699B, A GRAZING TRANSITING HOT JUPITER ON AN 1.26-DAY ORBIT AROUND A BRIGHT SOLAR LIKE STAR](http://adsabs.harvard.edu/abs/2015arXiv151009149G)  
+44. [EPIC 204129699B, A GRAZING TRANSITING HOT JUPITER ON AN 1.26-DAY ORBIT AROUND A BRIGHT SOLAR LIKE STAR](http://adsabs.harvard.edu/abs/2015arXiv151009149G)  
 Grziwa, S., Gandolfi, D., Csizmadia, Sz., et al.    
 2015, pre-print ([2015arXiv151009149G](http://adsabs.harvard.edu/abs/2015arXiv151009149G))  
-
-46. [A PSF-BASED APPROACH TO KEPLER/K2 DATA. I. VARIABILITY WITHIN THE K2 CAMPAIGN 0 STAR CLUSTERS M 35 AND NGC 2158](http://adsabs.harvard.edu/abs/2015arXiv151009180L)  
-Libralato, M., Bedin, L. R., Nardiello, D., et al.    
-2015, pre-print ([2015arXiv151009180L](http://adsabs.harvard.edu/abs/2015arXiv151009180L))  
 
 
 2015-09

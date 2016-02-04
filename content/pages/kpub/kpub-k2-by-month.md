@@ -239,17 +239,9 @@ Scaringi, S., Maccarone, T. J., Koerding, E., et al.
 Croll, Bryce, Dalba, Paul A., Vanderburg, Andrew, et al.    
 2015, pre-print ([2015arXiv151006434C](http://adsabs.harvard.edu/abs/2015arXiv151006434C))  
 
-15. [YOUNG "DIPPER" STARS IN UPPER SCO AND $\RHO$ OPH OBSERVED BY K2](http://adsabs.harvard.edu/abs/2015arXiv151008853A)  
-Ansdell, M., Gaidos, E., Rappaport, S. A., et al.    
-2015, pre-print ([2015arXiv151008853A](http://adsabs.harvard.edu/abs/2015arXiv151008853A))  
-
-16. [EPIC 204129699B, A GRAZING TRANSITING HOT JUPITER ON AN 1.26-DAY ORBIT AROUND A BRIGHT SOLAR LIKE STAR](http://adsabs.harvard.edu/abs/2015arXiv151009149G)  
+15. [EPIC 204129699B, A GRAZING TRANSITING HOT JUPITER ON AN 1.26-DAY ORBIT AROUND A BRIGHT SOLAR LIKE STAR](http://adsabs.harvard.edu/abs/2015arXiv151009149G)  
 Grziwa, S., Gandolfi, D., Csizmadia, Sz., et al.    
 2015, pre-print ([2015arXiv151009149G](http://adsabs.harvard.edu/abs/2015arXiv151009149G))  
-
-17. [A PSF-BASED APPROACH TO KEPLER/K2 DATA. I. VARIABILITY WITHIN THE K2 CAMPAIGN 0 STAR CLUSTERS M 35 AND NGC 2158](http://adsabs.harvard.edu/abs/2015arXiv151009180L)  
-Libralato, M., Bedin, L. R., Nardiello, D., et al.    
-2015, pre-print ([2015arXiv151009180L](http://adsabs.harvard.edu/abs/2015arXiv151009180L))  
 
 
 2015-09
