@@ -23,6 +23,7 @@ files and the light curves of approximately
 half of all short-cadence targets in all releases to date,
 i.e. Kepler Data Releases 1-24 and K2 Data Releases for Campaigns 0-5.
 A list of all the affected targets is attached below.
+The long cadence data for these or other targets is *not* affected.
 
 Since the smear signal is often small compared to the target signal,
 the effect is negligible for many targets.
