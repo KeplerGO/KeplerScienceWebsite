@@ -7,7 +7,7 @@ in August 2015, using pelican-bootstrap and flatly.
 >
 
 <head>
-    <title>K2 Special Session at #AAS227 on 5 Jan 2016 - Kepler &amp; K2</title>
+    <title>Pixel calibration problems affecting Kepler and K2 short cadence data - Kepler &amp; K2</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -31,17 +31,17 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="./images/favicon.png" rel="icon">
 
-<link rel="canonical" href="./k2-special-session-at-aas227-on-5-jan-2016.html">
+<link rel="canonical" href="./pixel-calibration-problems-affecting-kepler-and-k2-short-cadence-data.html">
 
         <meta name="author" content="Geert Barentsen" />
-        <meta name="description" content="The K2 mission will be the subject of a special session at the 227th meeting of the American Astronomical Society (AAS) in Kissimmee, Florida, next month. On Tuesday evening, 5 Jan 2016, between 7:30 and 9:00 pm in room &#34;Sun A&#34;, we will update the audience on the ..." />
+        <meta name="description" content="A K2 user notified the Kepler Science Center in November 2015 of a puzzling difference between the short- and long-cadence calibrated pixel data for a specific K2 target. After investigation, the problem was traced to an accounting error for the short-cadence collateral smear data. Under some conditions, these data are ..." />
 
         <meta property="og:site_name" content="Kepler &amp; K2" />
         <meta property="og:type" content="article"/>
-        <meta property="og:title" content="K2 Special Session at #AAS227 on 5 Jan 2016"/>
-        <meta property="og:url" content="./k2-special-session-at-aas227-on-5-jan-2016.html"/>
-        <meta property="og:description" content="The K2 mission will be the subject of a special session at the 227th meeting of the American Astronomical Society (AAS) in Kissimmee, Florida, next month. On Tuesday evening, 5 Jan 2016, between 7:30 and 9:00 pm in room &#34;Sun A&#34;, we will update the audience on the ..."/>
-        <meta property="article:published_time" content="2015-12-02" />
+        <meta property="og:title" content="Pixel calibration problems affecting Kepler and K2 short cadence data"/>
+        <meta property="og:url" content="./pixel-calibration-problems-affecting-kepler-and-k2-short-cadence-data.html"/>
+        <meta property="og:description" content="A K2 user notified the Kepler Science Center in November 2015 of a puzzling difference between the short- and long-cadence calibrated pixel data for a specific K2 target. After investigation, the problem was traced to an accounting error for the short-cadence collateral smear data. Under some conditions, these data are ..."/>
+        <meta property="article:published_time" content="2016-02-04" />
             <meta property="article:section" content="news" />
             <meta property="article:author" content="Geert Barentsen" />
 
@@ -134,10 +134,10 @@ in August 2015, using pelican-bootstrap and flatly.
         <article>
             <header >
                 <h1>
-                    <a href="./k2-special-session-at-aas227-on-5-jan-2016.html"
+                    <a href="./pixel-calibration-problems-affecting-kepler-and-k2-short-cadence-data.html"
                        rel="bookmark"
-                       title="Permalink to K2 Special Session at #AAS227 on 5 Jan 2016">
-                        K2 Special Session at #AAS227 on 5 Jan 2016
+                       title="Permalink to Pixel calibration problems affecting Kepler and K2 short cadence data">
+                        Pixel calibration problems affecting Kepler and K2 short cadence data
                     </a>
                 </h1>
             </header>
@@ -145,7 +145,7 @@ in August 2015, using pelican-bootstrap and flatly.
 <p style="margin-bottom: 1.5em;">
     <span class="published categories-timestamp">
         News article posted on
-        <time datetime="2015-12-02T16:00:00-08:00"> 02 Dec 2015</time>
+        <time datetime="2016-02-04T13:00:00-08:00"> 04 Feb 2016</time>
     
 
 
@@ -156,32 +156,48 @@ in August 2015, using pelican-bootstrap and flatly.
     
 
     </span>
-</p><!-- /.post-info -->                <p>The K2 mission will be the subject of a special session at the
-<a href="https://aas.org/meetings/aas227">227th meeting</a> 
-of the American Astronomical Society (AAS) in Kissimmee, Florida, next month.</p>
-<p>On Tuesday evening, 5 Jan 2016, between 7:30 and 9:00 pm in room "Sun A",
-we will update the audience on the status of the K2 mission
-and the health of the Kepler spacecraft (which is doing great).</p>
-<p>Alongside members of the K2 teams at NASA and Ball Aerospace,
-five members of the K2 community will present a brief overview
-of past and future highlights of science with K2.
-The session will end with an informal Q&amp;A.</p>
-<p>The schedule is as follows:</p>
+</p><!-- /.post-info -->                <p>A K2 user notified the Kepler Science Center in November 2015 of a puzzling
+difference between the short- and long-cadence calibrated pixel data
+for a specific K2 target.</p>
+<p>After investigation, the problem was traced to an accounting error
+for the short-cadence collateral smear data.
+Under some conditions, these data are passed incorrectly
+between the spacecraft and the ground, causing smear values to be
+assigned to the wrong columns within a target’s aperture.</p>
+<p>In these cases, the pipeline’s pixel-level calibration routine
+applies an erroneous smear correction that impacts all releases to date,
+i.e., Kepler Data Releases 1-24 and K2 Data Releases for Campaigns 0-5.</p>
+<h3 id="impact">Impact</h3>
+<p>Since the smear signal is often small compared to the target signal,
+the effect is negligible for many targets.
+However, the smear signal is scene-dependent,
+so time-varying signals can be introduced into an affected target
+by the other stars falling on the same CCD column.</p>
+<p>To assess the impact on affected targets,
+users should inspect the calibrated target pixels
+(see Section 2.3.2 of the Kepler Archive Manual).
+An improperly corrected smear signal may show up as an anomalously bright,
+or dark, column in the calibrated target pixel image.
+Comparison of the short-cadence pixel image with the long-cadence pixel image
+(which is not affected by this problem)
+can be used to estimate the magnitude of any contaminating signal.</p>
+<h3 id="solution">Solution</h3>
+<p>A solution for the issue has been implemented in the pipeline
+and all the affected data sets will be reprocessed and corrected as follows:</p>
 <ul>
-<li>Welcome, intro (5 min) - <i>Steve Howell, NASA Ames</i></li>
-<li>Spacecraft status (5 min) - <i>John Troeltzsch, Ball Aerospace</i> </li>
-<li>Community, GO office, proposal opportunities (10 min) - <i>Tom Barclay, NASA Ames</i></li>
-<li>K2 Exoplanets (10 min) - <i>Ian Crossfield, Arizona</i></li>
-<li>K2 Clusters &amp; young stars (10 min) - <i>Ann Marie Cody, NASA Ames</i></li>
-<li>K2 Asteroseismology (10 min) - <i>Ruth Angus, Oxford</i></li>
-<li>K2 Observations of AGN and Supernovae (10 min) - <i>Peter Garnavich, Notre Dame</i></li>
-<li>K2 Microlens Experiment (10 min) - <i>Rachel Street, LCOGT</i></li>
-<li>Q&amp;A</li>
+<li>All upcoming K2 data releases will be corrected,
+ starting with Campaign 6. (The release of C6 short cadence data is delayed by approximately two weeks as a result.)</li>
+<li>Reprocessing of K2 Campaigns 0-5 will occur over the coming months. The expected release dates will be noted here when known.</li>
+<li>Data from the prime Kepler mission will be corrected as part of the planned DR25 release. Calibrated target pixel files from DR25 are expected to be available in Summer, 2016.</li>
 </ul>
-<p>(PS: Will there be beverages and snacks? Come to the session to find out!)</p>
-<div>
-<img src="images/news/aas227-special-session.jpg" class="img-responsive">
-</div>
+<h3 id="more-information">More information</h3>
+<p>The project has released an Erratum document describing the issue and
+its impact in more detail, along with a list of all the affected targets:</p>
+<ul>
+<li><a href="data/documentation/KSCI-19080-001.pdf">KSCI-19080-001.pdf</a></li>
+<li><a href="data/documentation/kepler_bad_short_cadence_target_list.csv">kepler_bad_short_cadence_target_list.csv</a></li>
+<li><a href="data/documentation/k2_bad_short_cadence_target_list.csv">k2_bad_short_cadence_target_list.csv</a></li>
+</ul>
             </div>
             <!-- /.entry-content -->
         </article>
@@ -230,7 +246,7 @@ The session will end with an informal Q&amp;A.</p>
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Wed 02 December 2015
+         Last modified: Thu 04 February 2016
             &middot; Editor: Thomas Barclay &middot; NASA Official: Jessie Dotson 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
@@ -249,8 +265,6 @@ The session will end with an informal Q&amp;A.</p>
 
     <script src="./theme/js/bodypadding.js"></script>
 <!-- Analytics scripts -->
-<script language="javascript" id="_fed_an_ua_tag" src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA"></script>
-<script language="javascript" id="_fed_an_ua_tag" src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA&subagency=ARC&dclink=true"></script>
 
 
 </body>

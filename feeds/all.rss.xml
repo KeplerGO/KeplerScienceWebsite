@@ -1,5 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kepler &amp; K2</title><link>http://keplerscience.arc.nasa.gov/</link><description></description><atom:link href="http://keplerscience.arc.nasa.gov/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 28 Jan 2016 16:00:00 -0800</lastBuildDate><item><title>Minor changes in the fields of Campaigns 11, 12, and 13</title><link>http://keplerscience.arc.nasa.gov/minor-changes-in-the-fields-of-campaigns-11-12-and-13.html</link><description>&lt;p&gt;K2 users are alerted to a small but necessary adjustment
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kepler &amp; K2</title><link>http://keplerscience.arc.nasa.gov/</link><description></description><atom:link href="http://keplerscience.arc.nasa.gov/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 04 Feb 2016 13:00:00 -0800</lastBuildDate><item><title>Problem with Kepler and K2 short cadence pixel calibration</title><link>http://keplerscience.arc.nasa.gov/problem-with-kepler-and-k2-short-cadence-pixel-calibration.html</link><description>&lt;p&gt;A K2 Guest Observer notified the Kepler Science Center in November 2015 of a puzzling
+difference between the short- and long-cadence calibrated pixel data
+for a specific K2 target.&lt;/p&gt;
+&lt;p&gt;After investigation, the problem was traced to an accounting error
+for the short-cadence collateral smear data.
+Under some conditions, these data are passed incorrectly
+between the spacecraft and the ground, causing smear values to be
+assigned to the wrong columns within a target’s aperture.&lt;/p&gt;
+&lt;p&gt;In these cases, the pipeline’s pixel-level calibration routine
+applies an erroneous smear correction.&lt;/p&gt;
+&lt;h3 id="impact"&gt;Impact&lt;/h3&gt;
+&lt;p&gt;The issue has been present since launch and affects approximately
+half of all short-cadence targets in all releases to date,
+i.e., Kepler Data Releases 1-24 and K2 Data Releases for Campaigns 0-5.
+A list of all the affected targets is attached below.&lt;/p&gt;
+&lt;p&gt;Since the smear signal is often small compared to the target signal,
+the effect is negligible for many targets.
+However, the smear signal is scene-dependent,
+so time-varying signals can be introduced into an affected target
+by the other stars falling on the same CCD column.&lt;/p&gt;
+&lt;p&gt;To assess the impact on affected targets,
+users should inspect the calibrated target pixels
+(see Section 2.3.2 of the &lt;a href="https://archive.stsci.edu/kepler/manuals/archive_manual.pdf"&gt;Kepler Archive Manual&lt;/a&gt;).
+An improperly corrected smear signal may show up as an anomalously bright,
+or dark, column in the calibrated target pixel image.
+Comparison of the short-cadence pixel image with the long-cadence pixel image
+(which is not affected by this problem)
+can be used to estimate the magnitude of any contaminating signal.&lt;/p&gt;
+&lt;h3 id="solution"&gt;Solution&lt;/h3&gt;
+&lt;p&gt;A solution for the issue has been implemented in the pipeline.
+All the affected data sets will be corrected as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;All upcoming K2 data releases will be corrected from the start,
+ beginning with Campaign 6. (The release of C6 short cadence data will be delayed by approximately two weeks as a result.)&lt;/li&gt;
+&lt;li&gt;Reprocessing of K2 Campaigns 0-5 will occur over the coming months. The expected release dates will be listed here when known.&lt;/li&gt;
+&lt;li&gt;Data from the prime Kepler mission will be corrected as part of the scheduled reprocessing with pipeline release 9.3 (DR25). Corrected target pixel files are expected to be available in Summer, 2016.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="more-information"&gt;More information&lt;/h3&gt;
+&lt;p&gt;The project has released an erratum document describing the issue and
+its impact in more detail.
+The document is accompanied by a list of all the affected targets:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="data/documentation/KSCI-19080-001.pdf"&gt;KSCI-19080-001.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="data/documentation/kepler_bad_short_cadence_target_list.csv"&gt;kepler_bad_short_cadence_target_list.csv&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="data/documentation/k2_bad_short_cadence_target_list.csv"&gt;k2_bad_short_cadence_target_list.csv&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Thu, 04 Feb 2016 13:00:00 -0800</pubDate><guid>tag:keplerscience.arc.nasa.gov,2016-02-04:problem-with-kepler-and-k2-short-cadence-pixel-calibration.html</guid></item><item><title>Minor changes in the fields of Campaigns 11, 12, and 13</title><link>http://keplerscience.arc.nasa.gov/minor-changes-in-the-fields-of-campaigns-11-12-and-13.html</link><description>&lt;p&gt;K2 users are alerted to a small but necessary adjustment
 in the position of Campaigns 11, 12, and 13,
 for which target proposals are currently being solicited as part of the 
 &lt;a href="call-for-k2-go-cycle-4-proposals-for-campaigns-11-12-and-13.html"&gt;K2 Guest Observer Cycle 4&lt;/a&gt;.&lt;/p&gt;
