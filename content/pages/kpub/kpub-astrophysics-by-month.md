@@ -263,27 +263,23 @@ Huber, Daniel, Bryson, Stephen T., Haas, Michael R., et al.
 Bastien, Fabienne A., Stassun, Keivan G., Basri, Gibor, et al.    
 2015, pre-print ([2015arXiv151203454B](http://adsabs.harvard.edu/abs/2015arXiv151203454B))  
 
-19. [TESTING THE CORES OF FIRST ASCENT RED-GIANT STARS USING THE PERIOD SPACING OF G MODES](http://adsabs.harvard.edu/abs/2015arXiv151203656L)  
-Lagarde, NadĂ¨ge, Bossini, Diego, Miglio, Andrea, et al.    
-2015, pre-print ([2015arXiv151203656L](http://adsabs.harvard.edu/abs/2015arXiv151203656L))  
-
-20. [CONSTRAINTS ON THE CIRCUMSTELLAR DUST AROUND KIC 8462852](http://adsabs.harvard.edu/abs/2015arXiv151203693T)  
+19. [CONSTRAINTS ON THE CIRCUMSTELLAR DUST AROUND KIC 8462852](http://adsabs.harvard.edu/abs/2015arXiv151203693T)  
 Thompson, M. A., Scicluna, P., Kemper, F., et al.    
 2015, pre-print ([2015arXiv151203693T](http://adsabs.harvard.edu/abs/2015arXiv151203693T))  
 
-21. [THAT'S HOW WE ROLL: THE NASA K2 MISSION SCIENCE PRODUCTS AND THEIR PERFORMANCE METRICS](http://adsabs.harvard.edu/abs/2015arXiv151206162V)  
+20. [THAT'S HOW WE ROLL: THE NASA K2 MISSION SCIENCE PRODUCTS AND THEIR PERFORMANCE METRICS](http://adsabs.harvard.edu/abs/2015arXiv151206162V)  
 Van Cleve, Jeffrey E., Howell, Steve B., Smith, Jeffrey C., et al.    
 2015, pre-print ([2015arXiv151206162V](http://adsabs.harvard.edu/abs/2015arXiv151206162V))  
 
-22. [KEPLER ECLIPSING BINARY STARS. VII. THE CATALOG OF ECLIPSING BINARIES FOUND IN THE ENTIRE KEPLER DATA-SET](http://adsabs.harvard.edu/abs/2015arXiv151208830K)  
+21. [KEPLER ECLIPSING BINARY STARS. VII. THE CATALOG OF ECLIPSING BINARIES FOUND IN THE ENTIRE KEPLER DATA-SET](http://adsabs.harvard.edu/abs/2015arXiv151208830K)  
 Kirk, Brian, Conroy, Kyle, Prša, Andrej, et al.    
 2015, pre-print ([2015arXiv151208830K](http://adsabs.harvard.edu/abs/2015arXiv151208830K))  
 
-23. [A PREVALENCE OF DYNAMO-GENERATED MAGNETIC FIELDS IN THE CORES OF INTERMEDIATE-MASS STARS](http://adsabs.harvard.edu/abs/2016arXiv160100004S)  
+22. [A PREVALENCE OF DYNAMO-GENERATED MAGNETIC FIELDS IN THE CORES OF INTERMEDIATE-MASS STARS](http://adsabs.harvard.edu/abs/2016arXiv160100004S)  
 Stello, D., Cantiello, M., Fuller, J., et al.    
 2015, pre-print ([2016arXiv160100004S](http://adsabs.harvard.edu/abs/2016arXiv160100004S))  
 
-24. [KIC 9246715: THE DOUBLE RED GIANT ECLIPSING BINARY WITH ODD OSCILLATIONS](http://adsabs.harvard.edu/abs/2016arXiv160100038R)  
+23. [KIC 9246715: THE DOUBLE RED GIANT ECLIPSING BINARY WITH ODD OSCILLATIONS](http://adsabs.harvard.edu/abs/2016arXiv160100038R)  
 Rawls, Meredith L., Gaulme, Patrick, McKeever, Jean, et al.    
 2015, pre-print ([2016arXiv160100038R](http://adsabs.harvard.edu/abs/2016arXiv160100038R))  
 
@@ -363,39 +359,27 @@ Newton, Elisabeth R., Irwin, Jonathan, Charbonneau, David, et al.
 Harp, G. R., Richards, Jon, Shostak, Seth, et al.    
 2015, pre-print ([2015arXiv151101606H](http://adsabs.harvard.edu/abs/2015arXiv151101606H))  
 
-19. [KIC 4739791: A NEW R CMA-TYPE ECLIPSING BINARY WITH A PULSATING COMPONENT](http://adsabs.harvard.edu/abs/2015arXiv151103764L)  
-Lee, Jae Woo, Kim, Seung-Lee, Hong, Kyeongsoo, et al.    
-2015, pre-print ([2015arXiv151103764L](http://adsabs.harvard.edu/abs/2015arXiv151103764L))  
-
-20. [PROPERTIES OF STELLAR ACTIVITY CYCLES](http://adsabs.harvard.edu/abs/2015arXiv151106116K)  
+19. [PROPERTIES OF STELLAR ACTIVITY CYCLES](http://adsabs.harvard.edu/abs/2015arXiv151106116K)  
 Korhonen, Heidi    
 2015, pre-print ([2015arXiv151106116K](http://adsabs.harvard.edu/abs/2015arXiv151106116K))  
 
-21. [INTERNAL ROTATION OF THE RED-GIANT STAR KIC 4448777 BY MEANS OF ASTEROSEISMIC INVERSION](http://adsabs.harvard.edu/abs/2015arXiv151106160D)  
+20. [INTERNAL ROTATION OF THE RED-GIANT STAR KIC 4448777 BY MEANS OF ASTEROSEISMIC INVERSION](http://adsabs.harvard.edu/abs/2015arXiv151106160D)  
 Di Mauro, M . P., Ventura, R., Cardini, D., et al.    
 2015, pre-print ([2015arXiv151106160D](http://adsabs.harvard.edu/abs/2015arXiv151106160D))  
 
-22. [THE HERMES SOLAR ATLAS AND THE SPECTROSCOPIC ANALYSIS OF THE SEISMIC SOLAR ANALOGUE KIC3241581](http://adsabs.harvard.edu/abs/2015arXiv151106583B)  
+21. [THE HERMES SOLAR ATLAS AND THE SPECTROSCOPIC ANALYSIS OF THE SEISMIC SOLAR ANALOGUE KIC3241581](http://adsabs.harvard.edu/abs/2015arXiv151106583B)  
 Beck, P. G., Allende Prieto, C., Van Reeth, T., et al.    
 2015, pre-print ([2015arXiv151106583B](http://adsabs.harvard.edu/abs/2015arXiv151106583B))  
 
-23. [ASTEROSEISMOLOGY OF EXOPLANET HOST STARS](http://adsabs.harvard.edu/abs/2015arXiv151107441H)  
+22. [ASTEROSEISMOLOGY OF EXOPLANET HOST STARS](http://adsabs.harvard.edu/abs/2015arXiv151107441H)  
 Huber, Daniel    
 2015, pre-print ([2015arXiv151107441H](http://adsabs.harvard.edu/abs/2015arXiv151107441H))  
 
-24. [RED GIANT MASSES AND AGES DERIVED FROM CARBON AND NITROGEN ABUNDANCES](http://adsabs.harvard.edu/abs/2015arXiv151108203M)  
-Martig, Marie, Fouesneau, Morgan, Rix, Hans-Walter, et al.    
-2015, pre-print ([2015arXiv151108203M](http://adsabs.harvard.edu/abs/2015arXiv151108203M))  
-
-25. [SPECTROSCOPIC DETERMINATION OF MASSES (AND IMPLIED AGES) FOR RED GIANTS](http://adsabs.harvard.edu/abs/2015arXiv151108204N)  
+23. [SPECTROSCOPIC DETERMINATION OF MASSES (AND IMPLIED AGES) FOR RED GIANTS](http://adsabs.harvard.edu/abs/2015arXiv151108204N)  
 Ness, M., Hogg, David W., Rix, H-W., et al.    
 2015, pre-print ([2015arXiv151108204N](http://adsabs.harvard.edu/abs/2015arXiv151108204N))  
 
-26. [ASTEROSEISMIC INVERSIONS FOR RADIAL DIFFERENTIAL ROTATION OF SUN-LIKE STARS: SENSITIVITY TO UNCERTAINTIES](http://adsabs.harvard.edu/abs/2015arXiv151108365S)  
-Schunker, Hannah, Schou, Jesper, Ball, Warrick H.    
-2015, pre-print ([2015arXiv151108365S](http://adsabs.harvard.edu/abs/2015arXiv151108365S))  
-
-27. [KIC 8462852: TRANSIT OF A LARGE COMET FAMILY](http://adsabs.harvard.edu/abs/2015arXiv151108821B)  
+24. [KIC 8462852: TRANSIT OF A LARGE COMET FAMILY](http://adsabs.harvard.edu/abs/2015arXiv151108821B)  
 Bodman, Eva H. L., Quillen, Alice    
 2015, pre-print ([2015arXiv151108821B](http://adsabs.harvard.edu/abs/2015arXiv151108821B))  
 
