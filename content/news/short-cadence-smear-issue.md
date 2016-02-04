@@ -47,7 +47,7 @@ All the affected data sets will be corrected as follows:
  * All upcoming K2 data releases will be corrected from the start,
  beginning with Campaign 6. (The release of C6 short cadence data will be delayed by approximately two weeks as a result.)
  * Reprocessing of K2 Campaigns 0-5 will occur over the coming months. The expected release dates will be listed here when known.
- * Data from the prime Kepler mission will be corrected as part of the already planned reprocessing as part of the DR25 release. Calibrated target pixel files from DR25 are expected to be available in Summer, 2016.
+ * Data from the prime Kepler mission will be corrected as part of the scheduled reprocessing with pipeline release 9.3 (DR25). Corrected target pixel files are expected to be available in Summer, 2016.
 
 
 ###  More information 
