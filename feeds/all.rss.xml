@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kepler &amp; K2</title><link>http://keplerscience.arc.nasa.gov/</link><description></description><atom:link href="http://keplerscience.arc.nasa.gov/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 04 Feb 2016 13:00:00 -0800</lastBuildDate><item><title>Problem with Kepler and K2 short cadence pixel calibration</title><link>http://keplerscience.arc.nasa.gov/problem-with-kepler-and-k2-short-cadence-pixel-calibration.html</link><description>&lt;p&gt;A K2 Guest Observer notified the Kepler Science Center in November 2015 of a puzzling
-difference between the short- and long-cadence calibrated pixel data
-for a specific K2 target.&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kepler &amp; K2</title><link>http://keplerscience.arc.nasa.gov/</link><description></description><atom:link href="http://keplerscience.arc.nasa.gov/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 04 Feb 2016 13:00:00 -0800</lastBuildDate><item><title>Problem with Kepler and K2 short cadence pixel calibration</title><link>http://keplerscience.arc.nasa.gov/problem-with-kepler-and-k2-short-cadence-pixel-calibration.html</link><description>&lt;p&gt;A K2 Guest Observer notified the Kepler Science Center in November 2015
+of a puzzling difference between the short- and long-cadence
+calibrated pixel data for a specific K2 target.&lt;/p&gt;
 &lt;p&gt;After investigation, the problem was traced to an accounting error
 for the short-cadence collateral smear data.
 Under some conditions, these data are passed incorrectly
@@ -10,9 +10,10 @@ assigned to the wrong columns within a target’s aperture.&lt;/p&gt;
 &lt;p&gt;In these cases, the pipeline’s pixel-level calibration routine
 applies an erroneous smear correction.&lt;/p&gt;
 &lt;h3 id="impact"&gt;Impact&lt;/h3&gt;
-&lt;p&gt;The issue has been present since launch and affects approximately
+&lt;p&gt;The issue has been present since launch and affects both the target pixel
+files and the light curves of approximately
 half of all short-cadence targets in all releases to date,
-i.e., Kepler Data Releases 1-24 and K2 Data Releases for Campaigns 0-5.
+i.e. Kepler Data Releases 1-24 and K2 Data Releases for Campaigns 0-5.
 A list of all the affected targets is attached below.&lt;/p&gt;
 &lt;p&gt;Since the smear signal is often small compared to the target signal,
 the effect is negligible for many targets.

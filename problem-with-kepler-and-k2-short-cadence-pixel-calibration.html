@@ -156,9 +156,9 @@ in August 2015, using pelican-bootstrap and flatly.
     
 
     </span>
-</p><!-- /.post-info -->                <p>A K2 Guest Observer notified the Kepler Science Center in November 2015 of a puzzling
-difference between the short- and long-cadence calibrated pixel data
-for a specific K2 target.</p>
+</p><!-- /.post-info -->                <p>A K2 Guest Observer notified the Kepler Science Center in November 2015
+of a puzzling difference between the short- and long-cadence
+calibrated pixel data for a specific K2 target.</p>
 <p>After investigation, the problem was traced to an accounting error
 for the short-cadence collateral smear data.
 Under some conditions, these data are passed incorrectly
@@ -167,9 +167,10 @@ assigned to the wrong columns within a target’s aperture.</p>
 <p>In these cases, the pipeline’s pixel-level calibration routine
 applies an erroneous smear correction.</p>
 <h3 id="impact">Impact</h3>
-<p>The issue has been present since launch and affects approximately
+<p>The issue has been present since launch and affects both the target pixel
+files and the light curves of approximately
 half of all short-cadence targets in all releases to date,
-i.e., Kepler Data Releases 1-24 and K2 Data Releases for Campaigns 0-5.
+i.e. Kepler Data Releases 1-24 and K2 Data Releases for Campaigns 0-5.
 A list of all the affected targets is attached below.</p>
 <p>Since the smear signal is often small compared to the target signal,
 the effect is negligible for many targets.
