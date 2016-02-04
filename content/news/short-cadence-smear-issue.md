@@ -2,9 +2,9 @@ Title: Problem with Kepler and K2 short cadence pixel calibration
 Date: 2016-02-04 13:00
 Author: Geert Barentsen
 
-A K2 Guest Observer notified the Kepler Science Center in November 2015 of a puzzling
-difference between the short- and long-cadence calibrated pixel data
-for a specific K2 target.
+A K2 Guest Observer notified the Kepler Science Center in November 2015
+of a puzzling difference between the short- and long-cadence
+calibrated pixel data for a specific K2 target.
 
 After investigation, the problem was traced to an accounting error
 for the short-cadence collateral smear data.
@@ -18,9 +18,10 @@ applies an erroneous smear correction.
 
 ### Impact
 
-The issue has been present since launch and affects approximately
+The issue has been present since launch and affects both the target pixel
+files and the light curves of approximately
 half of all short-cadence targets in all releases to date,
-i.e., Kepler Data Releases 1-24 and K2 Data Releases for Campaigns 0-5.
+i.e. Kepler Data Releases 1-24 and K2 Data Releases for Campaigns 0-5.
 A list of all the affected targets is attached below.
 
 Since the smear signal is often small compared to the target signal,
