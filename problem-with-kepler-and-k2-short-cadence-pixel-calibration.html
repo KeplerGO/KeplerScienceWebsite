@@ -7,7 +7,7 @@ in August 2015, using pelican-bootstrap and flatly.
 >
 
 <head>
-    <title>K2 Director's Discretionary Target (DDT) program - Kepler &amp; K2 Science Center</title>
+    <title>Problem with Kepler and K2 short cadence pixel calibration - Kepler &amp; K2</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -31,16 +31,19 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="./images/favicon.png" rel="icon">
 
-<link rel="canonical" href="./pages/k2-directors-discretionary-target-ddt-program.html">
+<link rel="canonical" href="./problem-with-kepler-and-k2-short-cadence-pixel-calibration.html">
 
-        <meta name="author" content="Thomas Barclay" />
-        <meta name="description" content="Call for DDT Proposals for Campaigns 8, 9, and 10 A small percentage of the available K2 pixels in each campaign may be allocated by the K2 Guest Observer (GO) Office Director as Director&#39;s Discretionary Targets (DDTs). The primary utilization of DDT programs is in support of community-proposed requests ..." />
+        <meta name="author" content="Geert Barentsen" />
+        <meta name="description" content="A K2 Guest Observer notified the Kepler Science Center in November 2015 of a puzzling difference between the short- and long-cadence calibrated pixel data for a specific K2 target. After investigation, the problem was traced to an accounting error for the short-cadence collateral smear data. Under some conditions, these data ..." />
 
-    <meta property="og:site_name" content="Kepler &amp; K2" />
-    <meta property="og:type" content="article"/>
-    <meta property="og:title" content="K2 Director&#39;s Discretionary Target (DDT) program"/>
-    <meta property="og:url" content="./pages/k2-directors-discretionary-target-ddt-program.html"/>
-    <meta property="og:description" content="Call for DDT Proposals for Campaigns 8, 9, and 10 A small percentage of the available K2 pixels in each campaign may be allocated by the K2 Guest Observer (GO) Office Director as Director&#39;s Discretionary Targets (DDTs). The primary utilization of DDT programs is in support of community-proposed requests ..." />
+        <meta property="og:site_name" content="Kepler &amp; K2" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="Problem with Kepler and K2 short cadence pixel calibration"/>
+        <meta property="og:url" content="./problem-with-kepler-and-k2-short-cadence-pixel-calibration.html"/>
+        <meta property="og:description" content="A K2 Guest Observer notified the Kepler Science Center in November 2015 of a puzzling difference between the short- and long-cadence calibrated pixel data for a specific K2 target. After investigation, the problem was traced to an accounting error for the short-cadence collateral smear data. Under some conditions, these data ..."/>
+        <meta property="article:published_time" content="2016-02-04" />
+            <meta property="article:section" content="news" />
+            <meta property="article:author" content="Geert Barentsen" />
 
 
     <!-- Bootstrap -->
@@ -134,41 +137,82 @@ in August 2015, using pelican-bootstrap and flatly.
     <div class="row">
         <div class="col-lg-12">
 
-    <div class="col-sm-12">
-        <section id="content" class="body">
-            <h1 class="entry-title">K2 Director's Discretionary Target (DDT) program</h1>
+    <section id="content">
+        <article>
+            <header >
+                <h1>
+                    <a href="./problem-with-kepler-and-k2-short-cadence-pixel-calibration.html"
+                       rel="bookmark"
+                       title="Permalink to Problem with Kepler and K2 short cadence pixel calibration">
+                        Problem with Kepler and K2 short cadence pixel calibration
+                    </a>
+                </h1>
+            </header>
             <div class="entry-content">
-                <h3 id="call-for-ddt-proposals-for-campaigns-8-9-and-10">Call for DDT Proposals for Campaigns 8, 9, and 10</h3>
-<p>A small percentage of the available K2 pixels in each campaign may be allocated by the K2 Guest Observer (GO) Office Director as Director's Discretionary Targets (DDTs).  The primary utilization of DDT programs is in support of community-proposed requests that are based on exceptional, time-critical observing opportunities that cannot be accommodated with the regular cycle of Calls for Proposals for K2. Other DDT usages include innovative observations that extend the scientific capabilities of K2, and extraordinary events and opportunities that necessitate -- in the view of the GO Office Director -- observations to be obtained with K2 for the benefit of the astronomical community.  Note that all DDT observations are publicly available immediately, and no funding is available to the proposer for DDT observations. </p>
-<p>The purpose of the DDT program for K2 is therefore to facilitate observations that address emerging scientific topics or areas missed in the proposal review process and:</p>
+<p style="margin-bottom: 1.5em;">
+    <span class="published categories-timestamp">
+        News article posted on
+        <time datetime="2016-02-04T13:00:00-08:00"> 04 Feb 2016</time>
+    
+
+
+            by <a href="./author/geert-barentsen.html">Geert Barentsen</a>
+
+
+
+    
+
+    </span>
+</p><!-- /.post-info -->                <p>A K2 Guest Observer notified the Kepler Science Center in November 2015 of a puzzling
+difference between the short- and long-cadence calibrated pixel data
+for a specific K2 target.</p>
+<p>After investigation, the problem was traced to an accounting error
+for the short-cadence collateral smear data.
+Under some conditions, these data are passed incorrectly
+between the spacecraft and the ground, causing smear values to be
+assigned to the wrong columns within a target’s aperture.</p>
+<p>In these cases, the pipeline’s pixel-level calibration routine
+applies an erroneous smear correction.</p>
+<h3 id="impact">Impact</h3>
+<p>The issue has been present since launch and affects approximately
+half of all short-cadence targets in all releases to date,
+i.e., Kepler Data Releases 1-24 and K2 Data Releases for Campaigns 0-5.
+A list of all the affected targets is attached below.</p>
+<p>Since the smear signal is often small compared to the target signal,
+the effect is negligible for many targets.
+However, the smear signal is scene-dependent,
+so time-varying signals can be introduced into an affected target
+by the other stars falling on the same CCD column.</p>
+<p>To assess the impact on affected targets,
+users should inspect the calibrated target pixels
+(see Section 2.3.2 of the <a href="https://archive.stsci.edu/kepler/manuals/archive_manual.pdf">Kepler Archive Manual</a>).
+An improperly corrected smear signal may show up as an anomalously bright,
+or dark, column in the calibrated target pixel image.
+Comparison of the short-cadence pixel image with the long-cadence pixel image
+(which is not affected by this problem)
+can be used to estimate the magnitude of any contaminating signal.</p>
+<h3 id="solution">Solution</h3>
+<p>A solution for the issue has been implemented in the pipeline.
+All the affected data sets will be corrected as follows:</p>
 <ul>
-<li>respond to targets of opportunity, e.g. newly discovered exoplanets or supernovae;</li>
-<li>yield high-impact science from K2;</li>
-<li>enhance existing GO programs with additional critical data.</li>
+<li>All upcoming K2 data releases will be corrected from the start,
+ beginning with Campaign 6. (The release of C6 short cadence data will be delayed by approximately two weeks as a result.)</li>
+<li>Reprocessing of K2 Campaigns 0-5 will occur over the coming months. The expected release dates will be listed here when known.</li>
+<li>Data from the prime Kepler mission will be corrected as part of the scheduled reprocessing with pipeline release 9.3 (DR25). Corrected target pixel files are expected to be available in Summer, 2016.</li>
 </ul>
-<p>A DDT request should consist of &lt;2 pages of text including all figures, tables, and references, no smaller than 13-point font, and submitted in .pdf format <a href="#submissionform">using the form below</a>.  All DDT requests must include:</p>
+<h3 id="more-information">More information</h3>
+<p>The project has released an erratum document describing the issue and
+its impact in more detail.
+The document is accompanied by a list of all the affected targets:</p>
 <ul>
-<li>a strong scientific justification;</li>
-<li>a description of the long-term legacy value of the program;</li>
-<li>a justification for why the request was not submitted during the previous Call for Proposals;</li>
-<li>a separate target table (does not count toward the 2-page limit; the required format as well as a <a href="http://keplerscience.arc.nasa.gov/K2/ProposalPreparationTargetTable.shtml">template for the target table can be found here</a>).</li>
+<li><a href="data/documentation/KSCI-19080-001.pdf">KSCI-19080-001.pdf</a></li>
+<li><a href="data/documentation/kepler_bad_short_cadence_target_list.csv">kepler_bad_short_cadence_target_list.csv</a></li>
+<li><a href="data/documentation/k2_bad_short_cadence_target_list.csv">k2_bad_short_cadence_target_list.csv</a></li>
 </ul>
-<p>Target overlap with the current GO target list will not be considered unless short cadence observations are being requested of a current long cadence target. Requests for DDT cannot be used to resubmit all or part of a proposal that was rejected by the normal peer review process. DDT proposals from every institution are encouraged.</p>
-<p>DDT proposals are reviewed for both technical feasibility by someone in the project office and for scientific value by an outside reviewer.  The results of these reviews are sent to the K2 Project Scientist for approval and, if approved, the targets are placed into the observing list for the upcoming campaign.  An email reply to the proposer, stating the fate of the DDT request, will be sent out by the GO Office Director within one month of receipt of the initial request.</p>
-<p>To ensure that approved targets are included in the final target lists for each campaign, proposals must be submitted by the following dates:</p>
-<ul>
-<li>October 5, 2015 for Campaign 8 <font color=red> (deadline has passed)</font></li>
-<li>December 10, 2015 for Campaign 9 <font color=red> (deadline has passed)</font></li>
-<li>March 10, 2016 for Campaign 10</li>
-</ul>
-<p>We expect to observe several hundred targets through the DDT program, which amounts to a few per cent of the total targets allocated. The exact number of DDTs to be observed largely depends on the number of short versus long cadence DDTs approved. </p>
-<p>The fixed locations and observing windows of Campaigns 8, 9, and 10 are provided <a href="k2-fields.html">at the field information page</a>.  We particularly encourage DDT proposals for Campaign 9, which is a non-standard campaign. The Campaign 9 microlensing experiment involves the Kepler spacecraft observing in the positive velocity vector (+VV) direction at fields toward the Galactic bulge. This allows for simultaneous observations from Earth during Campaign 9. </p>
-<h3 id="ddt-proposal-submission-form">DDT Proposal Submission Form</h3>
-<p><a name="submissionform"></a></p>
-<script type="text/javascript" src="http://form.jotform.us/jsform/52528572176158"></script>
             </div>
-        </section>
-    </div>
+            <!-- /.entry-content -->
+        </article>
+    </section>
 
         </div>
     </div>
