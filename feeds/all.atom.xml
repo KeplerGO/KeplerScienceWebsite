@@ -14,7 +14,8 @@ applies an erroneous smear correction.&lt;/p&gt;
 files and the light curves of approximately
 half of all short-cadence targets in all releases to date,
 i.e. Kepler Data Releases 1-24 and K2 Data Releases for Campaigns 0-5.
-A list of all the affected targets is attached below.&lt;/p&gt;
+A list of all the affected targets is attached below.
+The long cadence data for these or other targets is &lt;em&gt;not&lt;/em&gt; affected.&lt;/p&gt;
 &lt;p&gt;Since the smear signal is often small compared to the target signal,
 the effect is negligible for many targets.
 However, the smear signal is scene-dependent,
@@ -43,7 +44,7 @@ All affected data will be corrected as follows:&lt;/p&gt;
 its impact in more detail.
 The document is accompanied by a list of all the affected targets:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="data/documentation/KSCI-19080-001.pdf"&gt;KSCI-19080-001.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="data/documentation/KSCI-19080-001.pdf"&gt;KSCI-19080-001.pdf&lt;/a&gt; (Erratum document containing a detailed description of the problem.)&lt;/li&gt;
 &lt;li&gt;&lt;a href="data/documentation/kepler_bad_short_cadence_target_list.csv"&gt;kepler_bad_short_cadence_target_list.csv&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="data/documentation/k2_bad_short_cadence_target_list.csv"&gt;k2_bad_short_cadence_target_list.csv&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</summary></entry><entry><title>Minor changes in the fields of Campaigns 11, 12, and 13</title><link href="http://keplerscience.arc.nasa.gov/minor-changes-in-the-fields-of-campaigns-11-12-and-13.html" rel="alternate"></link><updated>2016-01-28T16:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2016-01-28:minor-changes-in-the-fields-of-campaigns-11-12-and-13.html</id><summary type="html">&lt;p&gt;K2 users are alerted to a small but necessary adjustment
