@@ -44,7 +44,7 @@ All affected data will be corrected as follows:&lt;/p&gt;
 its impact in more detail.
 The document is accompanied by a list of all the affected targets:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="data/documentation/KSCI-19080-001.pdf"&gt;KSCI-19080-001.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="data/documentation/KSCI-19080-001.pdf"&gt;KSCI-19080-001.pdf&lt;/a&gt; (Erratum document containing a detailed description of the problem.)&lt;/li&gt;
 &lt;li&gt;&lt;a href="data/documentation/kepler_bad_short_cadence_target_list.csv"&gt;kepler_bad_short_cadence_target_list.csv&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="data/documentation/k2_bad_short_cadence_target_list.csv"&gt;k2_bad_short_cadence_target_list.csv&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Thu, 04 Feb 2016 13:00:00 -0800</pubDate><guid>tag:keplerscience.arc.nasa.gov,2016-02-04:problem-with-kepler-and-k2-short-cadence-pixel-calibration.html</guid></item><item><title>Minor changes in the fields of Campaigns 11, 12, and 13</title><link>http://keplerscience.arc.nasa.gov/minor-changes-in-the-fields-of-campaigns-11-12-and-13.html</link><description>&lt;p&gt;K2 users are alerted to a small but necessary adjustment
