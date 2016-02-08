@@ -8,8 +8,8 @@ to allow the &lt;a href="problem-with-kepler-and-k2-short-cadence-pixel-calibrat
 contained 28,289 long cadence and 84 short cadence targets.
 We also included large pixel masks to cover the trajectories
 of 65 Trojan Asteroids.&lt;/p&gt;
-&lt;p&gt;Detailed data release notes are expected to be available shortly
-and will be linked from this post.&lt;/p&gt;</summary></entry><entry><title>Problem with Kepler and K2 short cadence pixel calibration</title><link href="http://keplerscience.arc.nasa.gov/problem-with-kepler-and-k2-short-cadence-pixel-calibration.html" rel="alternate"></link><updated>2016-02-04T13:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2016-02-04:problem-with-kepler-and-k2-short-cadence-pixel-calibration.html</id><summary type="html">&lt;p&gt;A K2 Guest Observer notified the Kepler Science Center in November 2015
+&lt;p&gt;We strongly encourage users to read the
+&lt;a href="k2-data-release-notes.html#k2-campaign-6"&gt;Campaign 6 data release notes&lt;/a&gt;.&lt;/p&gt;</summary></entry><entry><title>Problem with Kepler and K2 short cadence pixel calibration</title><link href="http://keplerscience.arc.nasa.gov/problem-with-kepler-and-k2-short-cadence-pixel-calibration.html" rel="alternate"></link><updated>2016-02-04T13:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2016-02-04:problem-with-kepler-and-k2-short-cadence-pixel-calibration.html</id><summary type="html">&lt;p&gt;A K2 Guest Observer notified the Kepler Science Center in November 2015
 of a puzzling difference between the short- and long-cadence
 calibrated pixel data for a specific K2 target.&lt;/p&gt;
 &lt;p&gt;After investigation, the problem was traced to an accounting error
