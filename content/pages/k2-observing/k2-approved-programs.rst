@@ -95,7 +95,11 @@ Campaign 6
     </li>
     <li class="list-group-item">
       <i class="fa fa-pencil-square-o fa-margin"></i>
-      Data release notes (coming soon)
+      <a href="k2-data-release-notes.html#k2-campaign-6">Data release notes</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-cog fa-margin"></i>
+      <a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr7">Pipeline: 9.3</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
