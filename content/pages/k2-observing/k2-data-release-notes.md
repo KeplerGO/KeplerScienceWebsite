@@ -39,14 +39,14 @@ the scientific exploitation of the data.
     <ul>
         <li>Time: 2015-07-13 22:45:04 UTC</li>
         <li>Long Cadence Number: 111362</li>
-        <li>Short Cadence Number: 3445209</li>
+        <li>Short Cadence Number: 3329320</li>
     </ul>
 
     <b><i>Last cadence</i></b>
     <ul>
         <li>Time: 2015-09-30 21:11:29 UTC</li>
         <li>Long Cadence Number: 115224</li>
-        <li>Short Cadence Number: 3329320</li>
+        <li>Short Cadence Number: 3445209 </li>
     </ul>
 
 </div>
@@ -67,7 +67,7 @@ the scientific exploitation of the data.
             <i>Figure: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The bimodality is due to how the largest <a href="k2-approved-programs.html#campaign-6">GO  programs</a> were selected.</i>
         </div>
         <a href="images/release-notes/c6/c6LcMagDistribution.png">
-            <img src="images/release-notes/c6/C6LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed targets.">
+            <img src="images/release-notes/c6/c6LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed targets.">
         </a>
     </div>
 
@@ -78,11 +78,9 @@ the scientific exploitation of the data.
 <br>
 ***Spica***
 
-The star Spica, α Virginis, the 15th brightest star in the sky, is on silcon during Campaign 6. As can be seen on the FFI below, Spica is on mod.out 18.3 (channel 63) and its Schmidt-corrector reflection lies on mod.out 8.3. The star bleeds into both smear regions, preventing proper smear correction on columns 805-816 on channel 63.  Also, because of cross-talk, the Spica signal appears on all channels of module 18 at the same row and column position, but to a lesser degree.  For more information on cross-talk, see the [Instrument handbook](http://archive.stsci.edu/kepler/manuals/KSCI-19033-001.pdfs). 
+The star Spica (α Virginis, [EPIC 212573842](http://archive.stsci.edu/k2/epic/search.php?id=212573842&action=Search)) the 15th brightest star in the sky, is on silcon during Campaign 6. As can be seen on the FFI below, Spica is on mod.out 18.3 (channel 63) and its Schmidt-corrector reflection lies on mod.out 8.3. The star bleeds into both smear regions, preventing proper smear correction on columns 805-816 on channel 63.  Also, because of cross-talk, the Spica signal appears on all channels of module 18 at the same row and column position, but to a lesser degree.  For more information on cross-talk, see the [Instrument Handbook](http://archive.stsci.edu/kepler/manuals/KSCI-19033-001.pdf). 
 
-The [EPIC catalog](http://archive.stsci.edu/k2/epic/search.php) has a magnitude of Kp=7.9 for Spica (see EPIC number 212573842). This incorrect magnitude likely occurred because Spica is very blue.  As a result the aperture given to this target is much smaller than required to collect all the light.  
-
-<div class="thumbnail" style="width: 68%;">
+<div class="thumbnail" style="width: 52%;">
     <div class="caption">
         <i>Figure: The FFI taken during Campaign 6 showing the bright star Spica and its reflection.</i>
     </div>
@@ -94,11 +92,11 @@ The [EPIC catalog](http://archive.stsci.edu/k2/epic/search.php) has a magnitude 
 <br>
 ***Observed Trojans***
 
-During Campaign 6, K2 observed 65 Trojan asteroids were observed as part of program [GO6025]("data/c6/GO6025_Ryan.pdf"). Each were tiled with 1 x n pixel target definitions, where n ranges from 1 to 217. The tiled region of three examples are shown in the figure below.  The range of custom aperture number given to these objects is 200041889 -- 200061149. A mapping of the trojan's designation number to the custom aperture numbers can be <a file="data/c6/trojanCustomApertureC6.csv">downloaded here.</a>
+During Campaign 6, K2 observed 65 Trojan asteroids. Each was tiled with 1 x n pixel target definitions, where n ranges from 1 to 217. The tiled regions for three examples are shown in the figure below.  The range of custom aperture numbers given to the Trojans is 200041889 -- 200061149. A mapping of the minor planet designation numbers to the custom aperture numbers can be <a href="images/release-notes/c6/trojanCustomApertureC6.csv">downloaded here.</a>
 
-<div class="thumbnail" style="width: 70%;">
+<div class="thumbnail" style="width: 52%;">
     <div class="caption">
-        <i>Figure: The selected pixels, highlighted in green, from one channel. The path of three trojans are shown creating long green lines in the image.</i>
+        <i>Figure: The selected pixels are highlighted in green to show the paths of three Trojans captured during C6.</i>
     </div>
     <a href="images/release-notes/c6/exTrojanPath.png">
         <img src="images/release-notes/c6/exTrojanPath.png" class="img-responsive" alt="The path of three trojans are shown on one channel.">
@@ -108,7 +106,7 @@ During Campaign 6, K2 observed 65 Trojan asteroids were observed as part of prog
 <br>
 ***Variable Guide Star***
 
-The guide star on Module 25 for Campaign 6 was a variable star. The periodicity was 7 hours and the signal varied from 10,000 DN to 16,000 DN. No adverse effects due to this variability were found.  
+The star on Module 25 used for guiding during C6 was highly variable.  It had a periodicity of 7 hours and the signal varied from 10,000 DN to 16,000 DN. No adverse effects of this variability were detected.  
 
 
 
@@ -121,7 +119,7 @@ The dominant systematic present in K2 simple aperture photometry light curves is
 
 <div class="thumbnail" style="width: 70%;">
     <div class="caption">
-    <i>Figure: CDPP measured for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. Also, the photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. <a href="images/release-notes/c6/K2-C6_dwarf__CDPP_by_mod_out.eps">See here for CDPP as a function of position on the focal plane.</a>. All cadences coincident with a definite thruster firing are gapped.</i>
+    <i>Figure: CDPP measured for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. Also, the photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. <a href="images/release-notes/c6/K2-C6_dwarf__CDPP_by_mod_out.eps">See here for CDPP as a function of position on the focal plane.</a> All cadences coincident with a definite thruster firing are gapped.</i>
     </div>
     <a href="images/release-notes/c5/K2-C06_logg_CDPP_vs_model.png">
         <img src="images/release-notes/c6/K2-C6_logg_CDPP_vs_model.png " class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
@@ -134,7 +132,7 @@ The following is the data release history for this campaign. Follow the link for
 
 * <a href="k2-pipeline-release-notes.html">Data Release 8</a>
 
-    * Note: The short cadence data will be released a few weeks after the long cadence data so that a bug fix can be implemented to correct how the smear correction is done. The [Erratum]() regarding the smear data will not apply to the SC data. 
+    * Note: The short cadence data will be released a few weeks after the long cadence data so that a bug fix can be implemented to ensure that the smear correction is properly applied.  Hence, the [Erratum](http://archive.stsci.edu/kepler/KSCI-19080-001.pdf) regarding the long-standing problem with the short cadence smear correction does not apply to the C6 SC data. 
 
 <hr>
 

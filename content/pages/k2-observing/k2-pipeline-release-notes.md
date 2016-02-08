@@ -7,7 +7,7 @@ Below are notes on the features of the software used to process the K2 data. Any
 
 For more information about the Kepler pipeline see the Kepler manuals: <a href="http://archive.stsci.edu/kepler/manuals/KSCI-19081-001_Data_Processing_Handbook.pdf">Data Processing Handbook</a> and <a href="http://archive.stsci.edu/kepler/manuals/archive_manual.pdf">Archive Manual.</a>
 
-Information about each specific campaign can be found in the campaign links associated with each data release. 
+Information about each specific campaign can be found in the links associated with each data release. 
 
 ### Data Release 8 
 * February 2016
@@ -16,23 +16,26 @@ Information about each specific campaign can be found in the campaign links asso
 
 This is the first delivery of C6. All changes to the pipeline for this data release are reported below.
 
-***CAL***
+***CAL inputs***
 
-One change was made to the Calibration module, CAL, to correct how the short cadence smear information was applied to the data.  This fixed the problem reported [here]() where the incorrect smear values were being applied to the wrong columns.  
+One change was made to the smear pixel mapping information used by CAL. This fixed the long-standing problem reported [in the Erratum below](#sc-smear-erratum) where the smear values were being applied to the wrong columns in short cadence data.  
+
+For further information about the processing and content of this delivery, see the previous release notes.
+
 
 <hr>
-### Erratum: SC Smear
+### SC Smear Erratum
 
 <div class="well">
 
 <h2> Incorrect SC Smear </h2>
-<p> Reported in February 2016, the Erratum applies to short-cadence data in K2 data releases 1-7.</p>
+<p> Reported in February 2016, the Erratum applies to short cadence data in K2 data releases 1-7.</p>
 
-<p>An accounting error has scrambled much of the short-cadence collateral smear data used to correct for the effects of Kepler’s shutterless readout.  This error has been present since launch and affects approximately half of all short-cadence targets observed by Kepler and K2 to date.  The resulting calibration errors are present in both the short-cadence target pixel files and the short-cadence light curves for Kepler Data Releases 1-24 and K2 Data Releases 1-7. This error does not affect long-cadence data. </p>
+<p>An accounting error has scrambled much of the short cadence collateral smear data used to correct for the effects of Kepler’s shutterless readout.  This error has been present since launch and affects approximately half of all short cadence targets observed by Kepler and K2 to date.  The resulting calibration errors are present in both the short cadence target pixels and the short cadence light curves for Kepler Data Releases 1-24 and K2 Data Releases 1-7. This error does not affect long cadence data. </p>
 
-<p>Since it will take some time to correct this error and reprocess all Kepler and K2 data, a <a href="images/release-notes/err/bad_short_cadence_target_list_k2.csv">list of affected targets is provided</a>.  Even though the affected targets are readily identified, the science impact for any particular target may be difficult to assess.  Since the smear signal is often small compared to the target signal, the effect is negligible for many targets. However, the smear signal is scene-dependent, so time-varying signals can be introduced into any target by the other stars falling on the same CCD column.  </p>
+<p>Since it will take some time to correct this error and reprocess all Kepler and K2 data, a <a href="http://archive.stsci.edu/missions/k2/catalogs/k2_bad_short_cadence_target_list.csv">list of affected targets is provided</a>.  Even though the affected targets are readily identified, the science impact for any particular target may be difficult to assess.  Since the smear signal is often small compared to the target signal, the effect is negligible for many targets. However, the smear signal is scene-dependent, so time-varying signals can be introduced into any target by the other stars falling on the same CCD column.  </p>
 
-<p>Some tips on how to assess the severity of the calibration error and more details on how this problem occurred are provided at the <a href="">MAST archive.</a> </p>
+<p>Some tips on how to assess the severity of the calibration error and more details on how this problem occurred are provided at the <a href="http://archive.stsci.edu/kepler/KSCI-19080-001.pdf">MAST archive.</a> </p>
 
 </div>
 
