@@ -102,12 +102,6 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b>5 Feb 2016</b>',
-             'K2 Campaigns 11-13 proposals due (step 1)',
-             'k2-proposing-targets.html#campaigns-11-12-13'),
-            ('<b>11 Feb 2016</b>',
-             'K2 Campaign 6 data release (expected)',
-             'data-products.html#k2-product-overview'),
             ('<b>4 Mar 2016</b>',
              'K2 Campaigns 11-13 proposals due (step 2)',
              'k2-proposing-targets.html#campaigns-11-12-13'),
@@ -119,6 +113,9 @@ IMPORTANT_DATES = (
              'data-products.html#k2-product-overview'),
             ('<b>19 Jun 2016</b>',
              'K2 Campaign 8 data release (expected)',
+             'data-products.html#k2-product-overview'),
+            ('<b>26 Sep 2016</b>',
+             'K2 Campaign 9 data release (expected)',
              'data-products.html#k2-product-overview'),
          )
 
