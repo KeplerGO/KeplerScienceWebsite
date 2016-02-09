@@ -259,8 +259,8 @@ the 2016 Senior Review.
 ### FAQs  
 
 * **What are the proposal deadlines?**<br/>
-  Step 1: 2016 Feb 05 <br/>
-  Step 2: 2016 Mar 04 <br/>
+  Step 1: 23:59 EST 2016 Feb 05 <font color=red> (deadline has passed)</font> <br/>
+  Step 2: 23:59 EST 2016 Mar 04 <br/>
   
 * **What are the anticipated dates of the campaigns included in the
 current solicitation?**<br/>
@@ -334,10 +334,11 @@ submitting a K2 proposal to the GO call are provided below:
 * [Submit Step 1 of
       the proposal to NSPIRES](http://nspires.nasaprs.com/external/)
       by <font color=red> 23:59 EST February 5, 2016.</font>  [Instructions for
-      Step 1 submission can be found here](http://science.nasa.gov/media/medialibrary/2015/02/13/Step-1_instructions_.pdf).
+      Step 1 submission can be found here](http://science.nasa.gov/media/medialibrary/2015/02/13/Step-1_instructions_.pdf). <font
+      color=red> The deadline for Cycle 4 Step 1 proposals has passed.</font>
 
 * [Submit Step 2 of
-      the proposal to NSPIRES]((http://nspires.nasaprs.com/external/))
+      the proposal to NSPIRES](http://nspires.nasaprs.com/external/)
       by <font color=red> 23:59 EST March 4, 2016.</font> [Instructions for Step
       2 submission can be found here](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=431288/solicitationId=%7B1639473A-DDFB-D01F-6DF7-37C676E7BAAF%7D/viewSolicitationDocument=1/Submitting%20Step%202%20Instructions_req_step1.pdf).
 
