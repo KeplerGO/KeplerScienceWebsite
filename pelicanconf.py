@@ -102,9 +102,12 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
+            ('<b>3 Mar 2016</b>',
+             'K2 special session @AAS228 abstracts due',
+             'http://aas.org/meetings/aas228/abstracts'),
             ('<b>4 Mar 2016</b>',
              'K2 Campaigns 11-13 proposals due (step 2)',
-             'k2-proposing-targets.html#campaigns-11-12-13'),
+             'k2-proposing-targets.html#campaigns-11-12-13'), 
             ('<b>10 Mar 2016</b>',
              'K2 Campaign 10 DDT proposals due',
              'k2-ddt.html'),

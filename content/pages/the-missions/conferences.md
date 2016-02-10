@@ -62,7 +62,8 @@ Save_as: conferences.html
   <tr>
     <td style="width: 7em;">Jun 2016</td>
     <td style="width: 20em;">K2 Special Session at  AAS 228th Meeting</td>
-    <td>schedule TBA</a></td>
+    <td>schedule TBA; </a><a href="http://aas.org/meetings/aas228/abstracts">contributed abstracts can be submitted until 3
+    March 2016</a></td>
   </tr>
 
 </table>
