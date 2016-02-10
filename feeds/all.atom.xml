@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="http://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="http://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>http://keplerscience.arc.nasa.gov/</id><updated>2016-02-08T11:00:00-08:00</updated><entry><title>K2 Campaign 6 long cadence data available</title><link href="http://keplerscience.arc.nasa.gov/k2-campaign-6-long-cadence-data-available.html" rel="alternate"></link><updated>2016-02-08T11:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2016-02-08:k2-campaign-6-long-cadence-data-available.html</id><summary type="html">&lt;p&gt;Long cadence target pixel files and light curves for K2 Campaign 6
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="http://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="http://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>http://keplerscience.arc.nasa.gov/</id><updated>2016-02-10T12:00:00-08:00</updated><entry><title>Submit Your Abstract to the K2 Special Session at #AAS228</title><link href="http://keplerscience.arc.nasa.gov/submit-your-abstract-to-the-k2-special-session-at-aas228.html" rel="alternate"></link><updated>2016-02-10T12:00:00-08:00</updated><author><name>Knicole Colon</name></author><id>tag:keplerscience.arc.nasa.gov,2016-02-10:submit-your-abstract-to-the-k2-special-session-at-aas228.html</id><summary type="html">&lt;p&gt;The NASA K2 Mission will have a
+special session at the
+&lt;a href="https://aas.org/meetings/aas228"&gt;228th meeting of the American Astronomical Society (AAS)&lt;/a&gt;,
+which is being held in San Diego,
+California this June.&lt;/p&gt;
+&lt;p&gt;The K2 special session will be held Monday, 13 June 2016 at 10:00am and
+will consist of both invited and contributed talks.  There will be an
+associated K2 poster session held that day as well.&lt;/p&gt;
+&lt;p&gt;Abstract submission will be open shortly for contributed talks and
+posters to the K2 special session, and we encourage everyone to submit an abstract to present
+their latest results from K2. &lt;a href="http://aas.org/meetings/aas228/abstracts"&gt;The "Research Contributed" abstracts are due 3 March 2016 by 9:00pm
+ET.&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>K2 Campaign 6 long cadence data available</title><link href="http://keplerscience.arc.nasa.gov/k2-campaign-6-long-cadence-data-available.html" rel="alternate"></link><updated>2016-02-08T11:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2016-02-08:k2-campaign-6-long-cadence-data-available.html</id><summary type="html">&lt;p&gt;Long cadence target pixel files and light curves for K2 Campaign 6
 are now available for download 
 from the &lt;a href="https://archive.stsci.edu/k2/"&gt;K2 data archive at MAST&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The short cadence data will follow in approximately two weeks,
