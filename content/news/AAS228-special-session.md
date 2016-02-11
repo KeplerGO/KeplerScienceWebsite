@@ -12,7 +12,7 @@ The K2 special session will be held Monday, 13 June 2016 at 10:00am and
 will consist of both invited and contributed talks.  There will be an
 associated K2 poster session held that day as well.
 
-Abstract submission will be open shortly for contributed talks and
+Abstract submission is now open for contributed talks and
 posters to the K2 special session, and we encourage everyone to submit an abstract to present
 their latest results from K2. [The "Research Contributed" abstracts are due 3 March 2016 by 9:00pm
 ET.](http://aas.org/meetings/aas228/abstracts)
