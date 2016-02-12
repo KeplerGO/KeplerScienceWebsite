@@ -33,7 +33,7 @@ Campaign 8
     </li>
     <li class="list-group-item">
       <i class="fa fa-pencil-square-o fa-margin"></i>
-      Data release notes (coming soon)
+      Data release notes (awaiting data release)
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -41,7 +41,7 @@ Campaign 8
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
-      Target pixel files (coming soon)
+      Target pixel files (awaiting data release)
     </li>
   </ul>
 
@@ -61,7 +61,7 @@ Campaign 7
     </li>
     <li class="list-group-item">
       <i class="fa fa-pencil-square-o fa-margin"></i>
-      Data release notes (coming soon)
+      Data release notes (awaiting data release)
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -69,7 +69,7 @@ Campaign 7
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
-      Target pixel files (coming soon)
+      Target pixel files (awaiting data release)
     </li>
   </ul>
 
