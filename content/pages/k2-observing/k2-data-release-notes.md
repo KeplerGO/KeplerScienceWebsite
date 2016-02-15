@@ -969,7 +969,7 @@ Prior to the start of C0, on January 21, 2014, the photometer was autonomously p
 <br>
 ***Cropped Calibrated Pixels in Data Release 1***
 
-**The problem described below was corrected in Data Release 2 of the Campaign 0 data. See the DATAREL keyword in the primary header of the target pixel file to determine which data release you have. We recommend that everyone use the latest release of the data.**
+**The problem described below was corrected in Data Release 2 of the Campaign 0 data. See the DATA_REL keyword in the primary header of the target pixel file to determine which data release you have. We recommend that everyone use the latest release of the data.**
 
 In Data Release 1, for cadences after the Safe Mode (cadence no. 89346), the calibrated data (see the FLUX column in the exported target pixel files) is incorrectly reporting a value of zero for pixels collected near the edge of the aperture. The raw pixels (see the RAW_CNTS column) do not have this issue, so the collected data is properly reported in the target pixel files. An example of the issue is shown in the figure below. The left image is the mask (white indicates a collected pixel), the central image shows the calibrated pixels and the right image contains the raw pixels for one cadence. Those columns and rows that are black in the central image incorrectly have a value of zero, but there is clearly data in the original raw data on the right.
 
