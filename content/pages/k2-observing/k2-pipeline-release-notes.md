@@ -169,7 +169,7 @@ To date, only calibrated target pixel files and FFIs are being archived. This in
     
     <li><p>The following columns are not populated in the target pixel files: COSMIC_RAYS, FLUX_BKG, FLUX_BKG_ERR, POS_CORR1, and POS_CORR2. The information that is normally contained in these fields is currently not being calculated by the pipeline. </p></li>
 
-    <li><p>The keywords CAMPAIGN, DATAREL and MISSION are present in the primary headers of the exported files to help users identify the data set. CAMPAIGN contains the campaign number, DATAREL contains the data release number, and MISSION indicates that it is data collected as part of 'K2'.</p></li>
+    <li><p>The keywords CAMPAIGN, DATA_REL and MISSION are present in the primary headers of the exported files to help users identify the data set. CAMPAIGN contains the campaign number, DATA_REL contains the data release number, and MISSION indicates that it is data collected as part of 'K2'.</p></li>
 
     <li><p>With the limited pipeline and the different mission, not all quality flags are being populated. Inactive quality flags will remain zero for all cadences.  The following quality flags are valid in the exported files and can be used for information about the data:    </p></li>
     <ul>
