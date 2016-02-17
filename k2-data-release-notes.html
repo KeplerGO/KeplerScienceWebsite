@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2016-02-11" />
+    <meta name="dc.date.modified" content="2016-02-16" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -848,7 +848,7 @@ Note, in Data Release 4, because of an operator error, the tweak is marked on th
 <p>Prior to the start of C0, on January 21, 2014, the photometer was autonomously powered off by an under voltage fault in the Local Detector Electronics Power Supply. Since that time, module 7 (i.e., channels 17 to 20) has yielded no star data or charge injection signal. The subsequent behavior of this module is very similar to that of module 3 after it failed on January 19, 2010. K2 continues to operate and collect simultaneous data from sources falling upon the remaining 19 detector modules over 105 square degrees. There is no indication of any accelerated degradation on these other modules.</p>
 <p><br>
 <strong><em>Cropped Calibrated Pixels in Data Release 1</em></strong></br></p>
-<p><strong>The problem described below was corrected in Data Release 2 of the Campaign 0 data. See the DATAREL keyword in the primary header of the target pixel file to determine which data release you have. We recommend that everyone use the latest release of the data.</strong></p>
+<p><strong>The problem described below was corrected in Data Release 2 of the Campaign 0 data. See the DATA_REL keyword in the primary header of the target pixel file to determine which data release you have. We recommend that everyone use the latest release of the data.</strong></p>
 <p>In Data Release 1, for cadences after the Safe Mode (cadence no. 89346), the calibrated data (see the FLUX column in the exported target pixel files) is incorrectly reporting a value of zero for pixels collected near the edge of the aperture. The raw pixels (see the RAW_CNTS column) do not have this issue, so the collected data is properly reported in the target pixel files. An example of the issue is shown in the figure below. The left image is the mask (white indicates a collected pixel), the central image shows the calibrated pixels and the right image contains the raw pixels for one cadence. Those columns and rows that are black in the central image incorrectly have a value of zero, but there is clearly data in the original raw data on the right.</p>
 <p>This issue occurs for both the long and short cadence data. It does not appear in the custom apertures, so the calibrated pixels are being exported as expected for these files.</p>
 <div class="thumbnail" style="width: 100%;">
