@@ -247,6 +247,14 @@ href="data/K2/K2-Cnn-propnum-PINAME.xls">K2-Cnn-propnum-PINAME.xls</a>
 5.  Attach the renamed spreadsheet to an email and send it to the GO
     Office at **keplergo@mail.arc.nasa.gov** before the proposal deadline.
 
+**Special instructions for moving targets**<br/>
+
+If you plan to submit a proposal for a Solar System (moving) target, we recommend that you adhere to the following guidelines:<br/>
+
+1. Only include a single row in your target table for each moving target.  You are not required to include coordinates as long as you provide the name or number of the object exactly as it is known in JPL Horizons. 
+2. State (a) the minimum and (b) the ideal number of days during which each target needs to be observed to meet the goals of your scientific investigation. 
+3. Provide a rough estimate of the pixel cost corresponding to both the minimum and ideal observing durations for each target.  Please get in touch with us at **keplergo@mail.arc.nasa.gov** if you require assistance with this.
+
 ## Solicitations
 
 The call for K2 GO Cycle 4 proposals, which includes <a href="k2-fields.html">Campaigns 11, 12,
@@ -307,7 +315,13 @@ Start and stop dates are approximate, flexible and could be overtaken by unantic
   terms of pixel usage. Targets brighter than 3rd magnitude in the
   Kepler bandpass cannot be observed because charge bleeding along CCD
   pixel columns will fall into collateral pixels of the
-  detector. Bright targets (Kp < 9) and short cadence targets require strong, compelling science cases.<br/>
+  detector. Bright targets (Kp < 9) and short cadence targets require
+  strong, compelling science cases.<br/>
+
+* **How do I propose a moving target?**<br/>
+ The proposal process is the same for a Solar System or moving target
+ as it is for other targets. However, proposers should take note of
+ recommendations when creating the [target table for moving targets](k2-proposing-targets.html#target-table).
 
 
 ### Submission process
