@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="http://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="http://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>http://keplerscience.arc.nasa.gov/</id><updated>2016-02-10T12:00:00-08:00</updated><entry><title>Submit Your Abstract to the K2 Special Session at #AAS228</title><link href="http://keplerscience.arc.nasa.gov/submit-your-abstract-to-the-k2-special-session-at-aas228.html" rel="alternate"></link><updated>2016-02-10T12:00:00-08:00</updated><author><name>Knicole Colon</name></author><id>tag:keplerscience.arc.nasa.gov,2016-02-10:submit-your-abstract-to-the-k2-special-session-at-aas228.html</id><summary type="html">&lt;p&gt;The NASA K2 Mission will have a
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="http://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="http://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>http://keplerscience.arc.nasa.gov/</id><updated>2016-02-18T12:00:00-08:00</updated><entry><title>K2 Campaign 6 short cadence data available</title><link href="http://keplerscience.arc.nasa.gov/k2-campaign-6-short-cadence-data-available.html" rel="alternate"></link><updated>2016-02-18T12:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2016-02-18:k2-campaign-6-short-cadence-data-available.html</id><summary type="html">&lt;p&gt;Short cadence target pixel files and light curves for K2 Campaign 6
+are now available for download 
+from the &lt;a href="https://archive.stsci.edu/k2/"&gt;K2 data archive at MAST&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Whilst data for 28,289 long cadence targets in C6
+were already released two weeks ago,
+the data for the 84 short cadence targets were delayed slightly to allow the
+&lt;a href="problem-with-kepler-and-k2-short-cadence-pixel-calibration.html"&gt;short cadence pixel calibration issue&lt;/a&gt; to be resolved.&lt;/p&gt;
+&lt;p&gt;We strongly encourage users to read the
+&lt;a href="k2-data-release-notes.html#k2-campaign-6"&gt;Campaign 6 data release notes&lt;/a&gt;.&lt;/p&gt;</summary></entry><entry><title>Submit Your Abstract to the K2 Special Session at #AAS228</title><link href="http://keplerscience.arc.nasa.gov/submit-your-abstract-to-the-k2-special-session-at-aas228.html" rel="alternate"></link><updated>2016-02-10T12:00:00-08:00</updated><author><name>Knicole Colon</name></author><id>tag:keplerscience.arc.nasa.gov,2016-02-10:submit-your-abstract-to-the-k2-special-session-at-aas228.html</id><summary type="html">&lt;p&gt;The NASA K2 Mission will have a
 special session at the
 &lt;a href="https://aas.org/meetings/aas228"&gt;228th meeting of the American Astronomical Society (AAS)&lt;/a&gt;,
 which is being held in San Diego,
