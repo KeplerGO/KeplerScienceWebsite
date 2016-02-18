@@ -106,11 +106,35 @@ During Campaign 6, K2 observed 65 Trojan asteroids. Each was tiled with 1 x n pi
 <br>
 ***Variable Guide Star***
 
-The star on Module 25 used for guiding during C6 was highly variable.  It had a periodicity of 7 hours and the signal varied from 10,000 DN to 16,000 DN. No adverse effects of this variability were detected.  
+The star on Module 25 used for guiding during C6 was highly variable.  It had a periodicity of 7 hours and the signal varied from 10,000 DN to 16,000 DN. No adverse effects of this variability were detected in the data collection or spacecraft operations.  
+
+****Update -- February 18, 2016****
+<p> The signal seen in the guide star on module 25 appears to be that of a contact binary with a period of 14.5 hours and a depth of approximately 40 percent. A signal with the same period and phase is seen in a large number of long cadence, PDC, light curves with an amplitude as large as 0.1 per cent.  See the folded light curve, and normalized BLS spectra below.  The mechanism by which this signal is propagating into the K2 data is still under investigation.
+
+<p>To help users understand and mitigate the effects of this guide star, we make available the <a href="images/release-notes/c6/C6fgsFlux-mod25.csv"> module 25 guide star fluxes </a> in a csv file.  The guide star was selected from the USNO catalog and has an RA of 200.6867 degrees, Dec of -6.0353 degrees, and R magnitude of 9.51. </p>
+
+<div class="thumbnail" style="width: 56%;">
+    <div class="caption">
+<i>Figure: The folded light curve of one long cadence target (top) and the module 25 guide star (bottom). Both are folded at a period of 0.6046 days, the approximate period of the guide star.  
+</i></div>
+    <a href="images/release-notes/c6/fgsCompareC6to212668671.png">
+        <img src="images/release-notes/c6/fgsCompareC6to212668671.png" class="img-responsive" alt="The folded light curve of the guide star and an example C6 LC target.">
+        </a>
+</div>
+
+<div class="thumbnail" style="width: 56%;">
+    <div class="caption">
+<i>Figure: The normalized BLS (box-least squares) spectra for 400 long cadence targets on channel 42, sorted by magnitude (with the brightest at the top).  The 14-hour period and its harmonics show-up as yellow vertical lines on this figure. The majority of targets on this channel have a significant signal at this period.   
+</i></div>
+    <a href="images/release-notes/c6/ch42blsSpectrumC6.png">
+        <img src="images/release-notes/c6/ch42blsSpectrumC6.png" class="img-responsive" alt="The Bls spectrum for 400 targets on channel 42.">
+        </a>
+</div>
 
 
 
 <br>
+
 ***Light Curve Quality***
 
 The dominant systematic present in K2 simple aperture photometry light curves is a sawtooth shape that is due to the roll of the spacecraft approximately every 6 hours. The PDC module of the Kepler Pipeline uses Principle Component Analysis to remove this signal in addition to other systematics. Below, we examine observed noise levels in the PDC light curves for C6, Data Release 8.
