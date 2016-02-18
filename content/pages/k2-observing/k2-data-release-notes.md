@@ -106,7 +106,7 @@ During Campaign 6, K2 observed 65 Trojan asteroids. Each was tiled with 1 x n pi
 <br>
 ***Variable Guide Star***
 
-The star on Module 25 used for guiding during C6 was highly variable.  It had a periodicity of 7 hours and the signal varied from 10,000 DN to 16,000 DN. No adverse effects of this variability were detected in the data collection or spacecraft operations.  
+The star on Module 25 used for guiding during C6 was highly variable. No adverse effects of this variability were detected in the data collection or spacecraft operations.  
 
 ****Update -- February 18, 2016****
 <p> The signal seen in the guide star on module 25 appears to be that of a contact binary with a period of 14.5 hours and a depth of approximately 40 percent. A signal with the same period and phase is seen in a large number of long cadence, PDC, light curves with an amplitude as large as 0.1 per cent.  See the folded light curve, and normalized BLS spectra below.  The mechanism by which this signal is propagating into the K2 data is still under investigation.
