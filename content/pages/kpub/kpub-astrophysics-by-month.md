@@ -87,6 +87,38 @@ Bastien, Fabienne A., Stassun, Keivan G., Basri, Gibor, et al.
 Gänsicke, B. T., Aungwerojwit, A., Marsh, T. R., et al.    
 2016, refereed ([2016ApJ...818L...7G](http://adsabs.harvard.edu/abs/2016ApJ...818L...7G))  
 
+16. [NEW PLEIADES ECLIPSING BINARIES AND A HYADES TRANSITING SYSTEM IDENTIFIED BY K2](http://adsabs.harvard.edu/abs/2016arXiv160201901D)  
+David, Trevor J., Conroy, Kyle E., Hillenbrand, Lynne A., et al.    
+2016, pre-print ([2016arXiv160201901D](http://adsabs.harvard.edu/abs/2016arXiv160201901D))  
+
+17. [TESTING THE ASYMPTOTIC RELATION FOR PERIOD SPACINGS FROM MIXED MODES OF RED GIANTS OBSERVED WITH THE KEPLER MISSION](http://adsabs.harvard.edu/abs/2016arXiv160202716B)  
+Buysschaert, B., Beck, P. G., Corsaro, E., et al.    
+2016, pre-print ([2016arXiv160202716B](http://adsabs.harvard.edu/abs/2016arXiv160202716B))  
+
+18. [THE VARYING LIGHT CURVE AND TIMINGS OF THE ULTRA-SHORT PERIOD CONTACT BINARY KIC 9532219](http://adsabs.harvard.edu/abs/2016arXiv160202217L)  
+Lee, Jae Woo, Hong, Kyeongsoo, Koo, Jae-Rim, et al.    
+2016, pre-print ([2016arXiv160202217L](http://adsabs.harvard.edu/abs/2016arXiv160202217L))  
+
+19. [KEPLER ECLIPSING BINARY STARS. VIII. IDENTIFICATION OF FALSE POSITIVE ECLIPSING BINARIES AND RE-EXTRACTION OF NEW LIGHT CURVES](http://adsabs.harvard.edu/abs/2016arXiv160205932A)  
+Abdul-Masih, Michael, Prsa, Andrej, Conroy, Kyle, et al.    
+2016, pre-print ([2016arXiv160205932A](http://adsabs.harvard.edu/abs/2016arXiv160205932A))  
+
+20. [SUPPRESSION OF QUADRUPOLE AND OCTUPOLE MODES IN RED GIANTS OBSERVED BY KEPLER](http://adsabs.harvard.edu/abs/2016arXiv160205193S)  
+Stello, D., Cantiello, M., Fuller, J., et al.    
+2016, pre-print ([2016arXiv160205193S](http://adsabs.harvard.edu/abs/2016arXiv160205193S))  
+
+21. [TRANSITING PLANETS AS A PRECISION CLOCK TO CONSTRAIN THE TIME VARIATION OF THE GRAVITATIONAL CONSTANT](http://adsabs.harvard.edu/abs/2016arXiv160202513M)  
+Masuda, Kento, Suto, Yasushi    
+2016, pre-print ([2016arXiv160202513M](http://adsabs.harvard.edu/abs/2016arXiv160202513M))  
+
+22. [PERIOD SPACINGS IN RED GIANTS II. AUTOMATED MEASUREMENT](http://adsabs.harvard.edu/abs/2016arXiv160204940V)  
+Vrard, M., Mosser, B., Samadi, R.    
+2016, pre-print ([2016arXiv160204940V](http://adsabs.harvard.edu/abs/2016arXiv160204940V))  
+
+23. [ARE SOLAR BRIGHTNESS VARIATIONS FACULAE- OR SPOT-DOMINATED?](http://adsabs.harvard.edu/abs/2016arXiv160204447S)  
+Shapiro, A. I., Solanki, S. K., Krivova, N. A., et al.    
+2016, pre-print ([2016arXiv160204447S](http://adsabs.harvard.edu/abs/2016arXiv160204447S))  
+
 
 2016-01
 -------
@@ -494,6 +526,10 @@ Notsu, Yuta, Honda, Satoshi, Maehara, Hiroyuki, et al.
 23. [ON THE LSP3 ESTIMATES OF SURFACE GRAVITY FOR LAMOST-KEPLER STARS WITH ASTEROSEISMIC MEASUREMENTS](http://adsabs.harvard.edu/abs/2015arXiv151008677R)  
 Ren, Juan-Juan, Liu, Xiao-Wei, Xiang, Mao-Sheng, et al.    
 2015, pre-print ([2015arXiv151008677R](http://adsabs.harvard.edu/abs/2015arXiv151008677R))  
+
+24. [ACCRETION-INDUCED VARIABILITY LINKS YOUNG STELLAR OBJECTS, WHITE DWARFS, AND BLACK HOLES](http://adsabs.harvard.edu/abs/2015SciA....1E0686S)  
+Scaringi, S., Maccarone, T. J., Kording, E., et al.    
+2015, refereed ([2015SciA....1E0686S](http://adsabs.harvard.edu/abs/2015SciA....1E0686S))  
 
 
 2015-09
