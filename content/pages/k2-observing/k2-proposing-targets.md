@@ -258,14 +258,16 @@ The call for K2 GO Cycle 4 proposals, which includes <a href="k2-fields.html">Ca
 and 13</a>, has been released and
 [is available at NSPIRES](http://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={7A635D8E-1B2B-2488-5E0D-5C81471D150B}&path=open). We
 are requesting the community propose targets to observe
-during only these three Campaigns. The execution of the K2 GO Cycle 4 is contingent upon the outcome of
-the 2016 Senior Review.
+during only these three campaigns. The execution of the K2 GO Cycle 4 is contingent upon the outcome of
+the 2016 Senior Review. <font color=red> The K2 GO Cycle 4 proposal
+deadlines have now passed. Stay tuned for information about K2 GO
+Cycle 5.  </font> <br/>
 
 ### FAQs  
 
 * **What are the proposal deadlines?**<br/>
   Step 1: 23:59 EST 2016 Feb 05 <font color=red> (deadline has passed)</font> <br/>
-  Step 2: 23:59 EST 2016 Mar 04 <br/>
+  Step 2: 23:59 EST 2016 Mar 04 <font color=red> (deadline has passed)</font> <br/>
   
 * **What are the anticipated dates of the campaigns included in the
 current solicitation?**<br/>
@@ -344,14 +346,13 @@ submitting a K2 proposal to the GO call are provided below:
 
 * [Submit Step 1 of
       the proposal to NSPIRES](http://nspires.nasaprs.com/external/)
-      by <font color=red> 23:59 EST February 5, 2016.</font>  [Instructions for
-      Step 1 submission can be found here](http://science.nasa.gov/media/medialibrary/2015/02/13/Step-1_instructions_.pdf). <font
-      color=red> The deadline for Cycle 4 Step 1 proposals has passed.</font>
+      by 23:59 EST February 5, 2016.  [Instructions for
+      Step 1 submission can be found here](http://science.nasa.gov/media/medialibrary/2015/02/13/Step-1_instructions_.pdf). The deadline for Cycle 4 Step 1 proposals has passed.
 
 * [Submit Step 2 of
       the proposal to NSPIRES](http://nspires.nasaprs.com/external/)
-      by <font color=red> 23:59 EST March 4, 2016.</font> [Instructions for Step
-      2 submission can be found here](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=431288/solicitationId=%7B1639473A-DDFB-D01F-6DF7-37C676E7BAAF%7D/viewSolicitationDocument=1/Submitting%20Step%202%20Instructions_req_step1.pdf).
+      by 23:59 EST March 4, 2016. [Instructions for Step
+      2 submission can be found here](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=431288/solicitationId=%7B1639473A-DDFB-D01F-6DF7-37C676E7BAAF%7D/viewSolicitationDocument=1/Submitting%20Step%202%20Instructions_req_step1.pdf). The deadline for Cycle 4 Step 2 proposals has passed.
 
 *  The generic content of the proposal is described in Sec 2.3 of the
     <a
