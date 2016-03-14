@@ -14,5 +14,5 @@ contained 28,289 long cadence and 84 short cadence targets.
 We also included large pixel masks to cover the trajectories
 of 65 Trojan Asteroids.
 
-Detailed data release notes are expected to be available shortly
-and will be linked from this post.
+We strongly encourage users to read the
+[Campaign 6 data release notes](k2-data-release-notes.html#k2-campaign-6).

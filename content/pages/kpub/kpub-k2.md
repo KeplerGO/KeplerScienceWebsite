@@ -7,34 +7,39 @@ Save_as: kpub-k2.html
 2016
 ----
 
-1. [NEPTUNE'S DYNAMIC ATMOSPHERE FROM KEPLER K2 OBSERVATIONS: IMPLICATIONS FOR BROWN DWARF LIGHT CURVE ANALYSES](http://adsabs.harvard.edu/abs/2016ApJ...817..162S)  
+1. [K2 ROTATION PERIODS FOR LOW-MASS HYADS AND THE IMPLICATIONS FOR GYROCHRONOLOGY](http://adsabs.harvard.edu/abs/2016arXiv160300419D)  
+Douglas, S. T., Agüeros, M. A., Covey, K. R., et al.    
+2016, pre-print ([2016arXiv160300419D](http://adsabs.harvard.edu/abs/2016arXiv160300419D))  
+
+2. [NEPTUNE'S DYNAMIC ATMOSPHERE FROM KEPLER K2 OBSERVATIONS: IMPLICATIONS FOR BROWN DWARF LIGHT CURVE ANALYSES](http://adsabs.harvard.edu/abs/2016ApJ...817..162S)  
 Simon, Amy A., Rowe, Jason F., Gaulme, Patrick, et al.    
 2016, refereed ([2016ApJ...817..162S](http://adsabs.harvard.edu/abs/2016ApJ...817..162S))  
 
-2. [EMPIRICAL MICROLENSING EVENT RATES PREDICTED BY A PHENOMENOLOGICAL MODEL](http://adsabs.harvard.edu/abs/2016MNRAS.455.3656P)  
+3. [EMPIRICAL MICROLENSING EVENT RATES PREDICTED BY A PHENOMENOLOGICAL MODEL](http://adsabs.harvard.edu/abs/2016MNRAS.455.3656P)  
 Poleski, RadosĹaw    
 2016, refereed ([2016MNRAS.455.3656P](http://adsabs.harvard.edu/abs/2016MNRAS.455.3656P))  
 
-3. [A PSF-BASED APPROACH TO KEPLER/K2 DATA - I. VARIABILITY WITHIN THE K2 CAMPAIGN 0 STAR CLUSTERS M 35 AND NGC 2158](http://adsabs.harvard.edu/abs/2016MNRAS.456.1137L)  
+4. [A PSF-BASED APPROACH TO KEPLER/K2 DATA - I. VARIABILITY WITHIN THE K2 CAMPAIGN 0 STAR CLUSTERS M 35 AND NGC 2158](http://adsabs.harvard.edu/abs/2016MNRAS.456.1137L)  
 Libralato, M., Bedin, L. R., Nardiello, D., et al.    
 2016, refereed ([2016MNRAS.456.1137L](http://adsabs.harvard.edu/abs/2016MNRAS.456.1137L))  
 
-4. [K2 VARIABLE CATALOGUE - II. MACHINE LEARNING CLASSIFICATION OF VARIABLE STARS AND ECLIPSING BINARIES IN K2 FIELDS 0-4](http://adsabs.harvard.edu/abs/2016MNRAS.456.2260A)  
+5. [K2 VARIABLE CATALOGUE - II. MACHINE LEARNING CLASSIFICATION OF VARIABLE STARS AND ECLIPSING BINARIES IN K2 FIELDS 0-4](http://adsabs.harvard.edu/abs/2016MNRAS.456.2260A)  
 Armstrong, D. J., Kirk, J., Lam, K. W. F., et al.    
 2016, refereed ([2016MNRAS.456.2260A](http://adsabs.harvard.edu/abs/2016MNRAS.456.2260A))  
 
-5. [THE K2-ESPRINT PROJECT IV: A HOT JUPITER IN A PROGRADE ORBIT WITH A POSSIBLE STELLAR COMPANION](http://adsabs.harvard.edu/abs/2016arXiv160200638H)  
+6. [THE K2-ESPRINT PROJECT IV: A HOT JUPITER IN A PROGRADE ORBIT WITH A POSSIBLE STELLAR COMPANION](http://adsabs.harvard.edu/abs/2016arXiv160200638H)  
 Hirano, Teruyuki, Nowak, Grzegorz, Kuzuhara, Masayuki, et al.    
 2016, pre-print ([2016arXiv160200638H](http://adsabs.harvard.edu/abs/2016arXiv160200638H))  
 
-6. [DRIFTING ASTEROID FRAGMENTS AROUND WD 1145+017](http://adsabs.harvard.edu/abs/2016arXiv160200740R)  
+7. [DRIFTING ASTEROID FRAGMENTS AROUND WD 1145+017](http://adsabs.harvard.edu/abs/2016arXiv160200740R)  
 Rappaport, S., Gary, B. L., Kaye, T., et al.    
 2016, pre-print ([2016arXiv160200740R](http://adsabs.harvard.edu/abs/2016arXiv160200740R))  
 
-7. [A SEARCH FOR BRIEF OPTICAL FLASHES ASSOCIATED WITH THE SETI TARGET KIC 8462852](http://adsabs.harvard.edu/abs/2016arXiv160200987A)  
+8. [A SEARCH FOR BRIEF OPTICAL FLASHES ASSOCIATED WITH THE SETI TARGET KIC 8462852](http://adsabs.harvard.edu/abs/2016arXiv160200987A)  
 Abeysekara, A. U., Archambault, S., Archer, A., et al.    
 2016, pre-print ([2016arXiv160200987A](http://adsabs.harvard.edu/abs/2016arXiv160200987A))  
 
+<<<<<<< HEAD
 8. [TWO TRANSITING LOW DENSITY SUB-SATURNS FROM K2](http://adsabs.harvard.edu/abs/2016ApJ...818...36P)  
 Petigura, Erik A., Howard, Andrew W., Lopez, Eric D., et al.    
 2016, refereed ([2016ApJ...818...36P](http://adsabs.harvard.edu/abs/2016ApJ...818...36P))  
@@ -92,6 +97,85 @@ Santerne, A., Hébrard, G., Lillo-Box, J., et al.
 2016, pre-print ([2016arXiv160107680S](http://adsabs.harvard.edu/abs/2016arXiv160107680S))  
 
 22. [CONFIRMATION OF TWO HOT JUPITERS FROM K2 CAMPAIGN 4](http://adsabs.harvard.edu/abs/2016arXiv160107844J)  
+=======
+9. [TWO TRANSITING LOW DENSITY SUB-SATURNS FROM K2](http://adsabs.harvard.edu/abs/2016ApJ...818...36P)  
+Petigura, Erik A., Howard, Andrew W., Lopez, Eric D., et al.    
+2016, refereed ([2016ApJ...818...36P](http://adsabs.harvard.edu/abs/2016ApJ...818...36P))  
+
+10. [THE K2-ESPRINT PROJECT II: SPECTROSCOPIC FOLLOW-UP OF THREE EXOPLANET SYSTEMS FROM CAMPAIGN 1 OF K2](http://adsabs.harvard.edu/abs/2016arXiv160201851V)  
+Van Eylen, Vincent, Nowak, Grzegorz, Albrecht, Simon, et al.    
+2016, pre-print ([2016arXiv160201851V](http://adsabs.harvard.edu/abs/2016arXiv160201851V))  
+
+11. [NEW PLEIADES ECLIPSING BINARIES AND A HYADES TRANSITING SYSTEM IDENTIFIED BY K2](http://adsabs.harvard.edu/abs/2016arXiv160201901D)  
+David, Trevor J., Conroy, Kyle E., Hillenbrand, Lynne A., et al.    
+2016, pre-print ([2016arXiv160201901D](http://adsabs.harvard.edu/abs/2016arXiv160201901D))  
+
+12. [SDSS J1152+0248: AN ECLIPSING DOUBLE WHITE DWARF FROM THE KEPLER K2 CAMPAIGN](http://adsabs.harvard.edu/abs/2016MNRAS.tmp..149H)  
+Hallakoun, N., Maoz, D., Kilic, M., et al.    
+2016, refereed ([2016MNRAS.tmp..149H](http://adsabs.harvard.edu/abs/2016MNRAS.tmp..149H))  
+
+13. [PREDICTION OF TRANSITS OF SOLAR SYSTEM OBJECTS IN KEPLER/K2 IMAGES: AN EXTENSION OF THE VIRTUAL OBSERVATORY SERVICE SKYBOT](http://adsabs.harvard.edu/abs/2016arXiv160207153B)  
+Berthier, J., Carry, B., Vachier, F., et al.    
+2016, pre-print ([2016arXiv160207153B](http://adsabs.harvard.edu/abs/2016arXiv160207153B))  
+
+14. [A PULSATION ANALYSIS OF K2 OBSERVATIONS OF THE SUBDWARF B STAR PG1142-037 DURING CAMPAIGN 1: A SUBSYNCHRONOUSLY ROTATING ELLIPSOIDAL VARIABLE](http://adsabs.harvard.edu/abs/2016arXiv160206412R)  
+Reed, M. D., Baran, A. S., Ostensen, R. H., et al.    
+2016, pre-print ([2016arXiv160206412R](http://adsabs.harvard.edu/abs/2016arXiv160206412R))  
+
+15. [PERIODIC TRANSIT AND VARIABILITY SEARCH WITH SIMULTANEOUS SYSTEMATICS FILTERING: IS IT WORTH IT?](http://adsabs.harvard.edu/abs/2016A&A...585A..57K)  
+Kovács, Géza, Hartman, Joel D., Bakos, Gáspár Á.    
+2016, refereed ([2016A&A...585A..57K](http://adsabs.harvard.edu/abs/2016A&A...585A..57K))  
+
+16. [K2 DISCOVERY OF YOUNG ECLIPSING BINARIES IN UPPER SCORPIUS: DIRECT MASS AND RADIUS DETERMINATIONS FOR THE LOWEST MASS STARS AND INITIAL CHARACTERIZATION OF AN ECLIPSING BROWN DWARF BINARY](http://adsabs.harvard.edu/abs/2016ApJ...816...21D)  
+David, Trevor J., Hillenbrand, Lynne A., Cody, Ann Marie, et al.    
+2016, refereed ([2016ApJ...816...21D](http://adsabs.harvard.edu/abs/2016ApJ...816...21D))  
+
+17. [YOUNG ``DIPPER" STARS IN UPPER SCO AND OPH OBSERVED BY K2](http://adsabs.harvard.edu/abs/2016ApJ...816...69A)  
+Ansdell, M., Gaidos, E., Rappaport, S. A., et al.    
+2016, refereed ([2016ApJ...816...69A](http://adsabs.harvard.edu/abs/2016ApJ...816...69A))  
+
+18. [PLANETARY CANDIDATES FROM THE FIRST YEAR OF THE K2 MISSION](http://adsabs.harvard.edu/abs/2016ApJS..222...14V)  
+Vanderburg, Andrew, Latham, David W., Buchhave, Lars A., et al.    
+2016, refereed ([2016ApJS..222...14V](http://adsabs.harvard.edu/abs/2016ApJS..222...14V))  
+
+19. [EPIC 201585823, A RARE TRIPLE-MODE RR LYRAE STAR DISCOVERED IN K2 MISSION DATA](http://adsabs.harvard.edu/abs/2016MNRAS.455.1237K)  
+Kurtz, Donald W., Bowman, Dominic M., Ebo, Simon J., et al.    
+2016, refereed ([2016MNRAS.455.1237K](http://adsabs.harvard.edu/abs/2016MNRAS.455.1237K))  
+
+20. [VARIABLE STARS IN ONE OPEN CLUSTER WITHIN THE KEPLER/K2-CAMPAIGN-5 FIELD: M 67 (NGC 2682)](http://adsabs.harvard.edu/abs/2016MNRAS.455.2337N)  
+Nardiello, D., Libralato, M., Bedin, L. R., et al.    
+2016, refereed ([2016MNRAS.455.2337N](http://adsabs.harvard.edu/abs/2016MNRAS.455.2337N))  
+
+21. [PHOTOMETRY OF VERY BRIGHT STARS WITH KEPLER AND K2 SMEAR DATA](http://adsabs.harvard.edu/abs/2016MNRAS.455L..36P)  
+Pope, B. J. S., White, T. R., Huber, D., et al.    
+2016, refereed ([2016MNRAS.455L..36P](http://adsabs.harvard.edu/abs/2016MNRAS.455L..36P))  
+
+22. [ROTATIONAL MODULATION IN B STARS OBSERVED BY THE KEPLER K2 MISSION](http://adsabs.harvard.edu/abs/2016MNRAS.tmp...35B)  
+Balona, L. A.    
+2016, refereed ([2016MNRAS.tmp...35B](http://adsabs.harvard.edu/abs/2016MNRAS.tmp...35B))  
+
+23. [NEREID FROM SPACE: ROTATION, SIZE AND SHAPE ANALYSIS FROM KEPLER/K2, HERSCHEL AND SPITZER OBSERVATIONS](http://adsabs.harvard.edu/abs/2016arXiv160102395K)  
+Kiss, Cs., Pál, A., Farkas-Takács, A. I., et al.    
+2016, pre-print ([2016arXiv160102395K](http://adsabs.harvard.edu/abs/2016arXiv160102395K))  
+
+24. [TWO SMALL TEMPERATE PLANETS TRANSITING NEARBY M DWARFS IN K2 CAMPAIGNS 0 AND 1](http://adsabs.harvard.edu/abs/2016arXiv160102706S)  
+Schlieder, Joshua E., Crossfield, Ian J. M., Petigura, Erik A., et al.    
+2016, pre-print ([2016arXiv160102706S](http://adsabs.harvard.edu/abs/2016arXiv160102706S))  
+
+25. [A NEPTUNE-SIZED EXOPLANET CONSISTENT WITH A PURE ROCK COMPOSITION](http://adsabs.harvard.edu/abs/2016arXiv160107608E)  
+Espinoza, Néstor, Brahm, Rafael, Jordán, Andrés, et al.    
+2016, pre-print ([2016arXiv160107608E](http://adsabs.harvard.edu/abs/2016arXiv160107608E))  
+
+26. [EPIC210957318B AND EPIC212110888B: TWO INFLATED HOT-JUPITERS AROUND SOLAR-TYPE STARS](http://adsabs.harvard.edu/abs/2016arXiv160107635L)  
+Lillo-Box, J., Demangeon, O., Santerne, A., et al.    
+2016, pre-print ([2016arXiv160107635L](http://adsabs.harvard.edu/abs/2016arXiv160107635L))  
+
+27. [EPIC211089792 B: AN ALIGNED AND INFLATED HOT JUPITER IN A YOUNG VISUAL BINARY](http://adsabs.harvard.edu/abs/2016arXiv160107680S)  
+Santerne, A., Hébrard, G., Lillo-Box, J., et al.    
+2016, pre-print ([2016arXiv160107680S](http://adsabs.harvard.edu/abs/2016arXiv160107680S))  
+
+28. [CONFIRMATION OF TWO HOT JUPITERS FROM K2 CAMPAIGN 4](http://adsabs.harvard.edu/abs/2016arXiv160107844J)  
+>>>>>>> 1601e3ce2f0baabeae1e35e2852a23ee9976c17a
 Johnson, Marshall C., Gandolfi, Davide, Fridlund, Malcolm, et al.    
 2016, pre-print ([2016arXiv160107844J](http://adsabs.harvard.edu/abs/2016arXiv160107844J))  
 
@@ -235,123 +319,127 @@ Croll, Bryce, Dalba, Paul A., Vanderburg, Andrew, et al.
 Grziwa, S., Gandolfi, D., Csizmadia, Sz., et al.    
 2015, pre-print ([2015arXiv151009149G](http://adsabs.harvard.edu/abs/2015arXiv151009149G))  
 
-35. [A HARPS VIEW ON K2-3](http://adsabs.harvard.edu/abs/2015A&A...581L...7A)  
+35. [ACCRETION-INDUCED VARIABILITY LINKS YOUNG STELLAR OBJECTS, WHITE DWARFS, AND BLACK HOLES](http://adsabs.harvard.edu/abs/2015SciA....1E0686S)  
+Scaringi, S., Maccarone, T. J., Kording, E., et al.    
+2015, refereed ([2015SciA....1E0686S](http://adsabs.harvard.edu/abs/2015SciA....1E0686S))  
+
+36. [A HARPS VIEW ON K2-3](http://adsabs.harvard.edu/abs/2015A&A...581L...7A)  
 Almenara, J. M., Astudillo-Defru, N., Bonfils, X., et al.    
 2015, refereed ([2015A&A...581L...7A](http://adsabs.harvard.edu/abs/2015A&A...581L...7A))  
 
-36. [HAT-P-56B: AN INFLATED MASSIVE HOT JUPITER TRANSITING A BRIGHT F STAR FOLLOWED UP WITH K2 CAMPAIGN 0 OBSERVATIONS](http://adsabs.harvard.edu/abs/2015AJ....150...85H)  
+37. [HAT-P-56B: AN INFLATED MASSIVE HOT JUPITER TRANSITING A BRIGHT F STAR FOLLOWED UP WITH K2 CAMPAIGN 0 OBSERVATIONS](http://adsabs.harvard.edu/abs/2015AJ....150...85H)  
 Huang, C. X., Hartman, J. D., Bakos, G. Á., et al.    
 2015, refereed ([2015AJ....150...85H](http://adsabs.harvard.edu/abs/2015AJ....150...85H))  
 
-37. [A SECOND CASE OF OUTBURSTS IN A PULSATING WHITE DWARF OBSERVED BY KEPLER](http://adsabs.harvard.edu/abs/2015ApJ...810L...5H)  
+38. [A SECOND CASE OF OUTBURSTS IN A PULSATING WHITE DWARF OBSERVED BY KEPLER](http://adsabs.harvard.edu/abs/2015ApJ...810L...5H)  
 Hermes, J. J., Montgomery, M. H., Bell, Keaton J., et al.    
 2015, refereed ([2015ApJ...810L...5H](http://adsabs.harvard.edu/abs/2015ApJ...810L...5H))  
 
-38. [STELLAR AND PLANETARY PROPERTIES OF K2 CAMPAIGN 1 CANDIDATES AND VALIDATION OF 17 PLANETS, INCLUDING A PLANET RECEIVING EARTH-LIKE INSOLATION](http://adsabs.harvard.edu/abs/2015ApJ...809...25M)  
+39. [STELLAR AND PLANETARY PROPERTIES OF K2 CAMPAIGN 1 CANDIDATES AND VALIDATION OF 17 PLANETS, INCLUDING A PLANET RECEIVING EARTH-LIKE INSOLATION](http://adsabs.harvard.edu/abs/2015ApJ...809...25M)  
 Montet, Benjamin T., Morton, Timothy D., Foreman-Mackey, Daniel, et al.    
 2015, refereed ([2015ApJ...809...25M](http://adsabs.harvard.edu/abs/2015ApJ...809...25M))  
 
-39. [OSCILLATING RED GIANTS OBSERVED DURING CAMPAIGN 1 OF THE KEPLER K2 MISSION: NEW PROSPECTS FOR GALACTIC ARCHAEOLOGY](http://adsabs.harvard.edu/abs/2015ApJ...809L...3S)  
+40. [OSCILLATING RED GIANTS OBSERVED DURING CAMPAIGN 1 OF THE KEPLER K2 MISSION: NEW PROSPECTS FOR GALACTIC ARCHAEOLOGY](http://adsabs.harvard.edu/abs/2015ApJ...809L...3S)  
 Stello, Dennis, Huber, Daniel, Sharma, Sanjib, et al.    
 2015, refereed ([2015ApJ...809L...3S](http://adsabs.harvard.edu/abs/2015ApJ...809L...3S))  
 
-40. [ROTATION PERIODS OF YOUNG BROWN DWARFS: K2 SURVEY IN UPPER SCORPIUS](http://adsabs.harvard.edu/abs/2015ApJ...809L..29S)  
+41. [ROTATION PERIODS OF YOUNG BROWN DWARFS: K2 SURVEY IN UPPER SCORPIUS](http://adsabs.harvard.edu/abs/2015ApJ...809L..29S)  
 Scholz, Alexander, Kostov, Veselin, Jayawardhana, Ray, et al.    
 2015, refereed ([2015ApJ...809L..29S](http://adsabs.harvard.edu/abs/2015ApJ...809L..29S))  
 
-41. [INSIGHTS INTO INTERNAL EFFECTS OF COMMON-ENVELOPE EVOLUTION USING THE EXTENDED KEPLER MISSION](http://adsabs.harvard.edu/abs/2015MNRAS.451.1701H)  
+42. [INSIGHTS INTO INTERNAL EFFECTS OF COMMON-ENVELOPE EVOLUTION USING THE EXTENDED KEPLER MISSION](http://adsabs.harvard.edu/abs/2015MNRAS.451.1701H)  
 Hermes, J. J., Gänsicke, B. T., Bischoff-Kim, A., et al.    
 2015, refereed ([2015MNRAS.451.1701H](http://adsabs.harvard.edu/abs/2015MNRAS.451.1701H))  
 
-42. [STARSPOTS ON WASP-85](http://adsabs.harvard.edu/abs/2015arXiv150807281M)  
+43. [STARSPOTS ON WASP-85](http://adsabs.harvard.edu/abs/2015arXiv150807281M)  
 Močnik, T., Clark, B., Anderson, D. R., et al.    
 2015, pre-print ([2015arXiv150807281M](http://adsabs.harvard.edu/abs/2015arXiv150807281M))  
 
-43. [K2 VARIABLE CATALOGUE: VARIABLE STARS AND ECLIPSING BINARIES IN K2 CAMPAIGNS 1 AND 0](http://adsabs.harvard.edu/abs/2015A&A...579A..19A)  
+44. [K2 VARIABLE CATALOGUE: VARIABLE STARS AND ECLIPSING BINARIES IN K2 CAMPAIGNS 1 AND 0](http://adsabs.harvard.edu/abs/2015A&A...579A..19A)  
 Armstrong, D. J., Kirk, J., Lam, K. W. F., et al.    
 2015, refereed ([2015A&A...579A..19A](http://adsabs.harvard.edu/abs/2015A&A...579A..19A))  
 
-44. [HATS9-B AND HATS10-B: TWO COMPACT HOT JUPITERS IN FIELD 7 OF THE K2 MISSION](http://adsabs.harvard.edu/abs/2015AJ....150...33B)  
+45. [HATS9-B AND HATS10-B: TWO COMPACT HOT JUPITERS IN FIELD 7 OF THE K2 MISSION](http://adsabs.harvard.edu/abs/2015AJ....150...33B)  
 Brahm, R., Jordán, A., Hartman, J. D., et al.    
 2015, refereed ([2015AJ....150...33B](http://adsabs.harvard.edu/abs/2015AJ....150...33B))  
 
-45. [THE MASS-RADIUS RELATION OF YOUNG STARS. I. USCO 5, AN M4.5 ECLIPSING BINARY IN UPPER SCORPIUS OBSERVED BY K2](http://adsabs.harvard.edu/abs/2015ApJ...807....3K)  
+46. [THE MASS-RADIUS RELATION OF YOUNG STARS. I. USCO 5, AN M4.5 ECLIPSING BINARY IN UPPER SCORPIUS OBSERVED BY K2](http://adsabs.harvard.edu/abs/2015ApJ...807....3K)  
 Kraus, Adam L., Cody, Ann Marie, Covey, Kevin R., et al.    
 2015, refereed ([2015ApJ...807....3K](http://adsabs.harvard.edu/abs/2015ApJ...807....3K))  
 
-46. [CAOS SPECTROSCOPY OF AM STARS KEPLER TARGETS](http://adsabs.harvard.edu/abs/2015MNRAS.451..184C)  
+47. [CAOS SPECTROSCOPY OF AM STARS KEPLER TARGETS](http://adsabs.harvard.edu/abs/2015MNRAS.451..184C)  
 Catanzaro, G., Ripepi, V., Biazzo, K., et al.    
 2015, refereed ([2015MNRAS.451..184C](http://adsabs.harvard.edu/abs/2015MNRAS.451..184C))  
 
-47. [SDSS J1152+0248: AN ECLIPSING DOUBLE WHITE DWARF FROM THE KEPLER K2 CAMPAIGN](http://adsabs.harvard.edu/abs/2015arXiv150706311H)  
+48. [SDSS J1152+0248: AN ECLIPSING DOUBLE WHITE DWARF FROM THE KEPLER K2 CAMPAIGN](http://adsabs.harvard.edu/abs/2015arXiv150706311H)  
 Hallakoun, N., Maoz, D., Kilic, M., et al.    
 2015, pre-print ([2015arXiv150706311H](http://adsabs.harvard.edu/abs/2015arXiv150706311H))  
 
-48. [K2P<SUP>2</SUP>— A PHOTOMETRY PIPELINE FOR THE K2 MISSION](http://adsabs.harvard.edu/abs/2015ApJ...806...30L)  
+49. [K2P<SUP>2</SUP>— A PHOTOMETRY PIPELINE FOR THE K2 MISSION](http://adsabs.harvard.edu/abs/2015ApJ...806...30L)  
 Lund, Mikkel N., Handberg, Rasmus, Davies, Guy R., et al.    
 2015, refereed ([2015ApJ...806...30L](http://adsabs.harvard.edu/abs/2015ApJ...806...30L))  
 
-49. [A SYSTEMATIC SEARCH FOR TRANSITING PLANETS IN THE K2 DATA](http://adsabs.harvard.edu/abs/2015ApJ...806..215F)  
+50. [A SYSTEMATIC SEARCH FOR TRANSITING PLANETS IN THE K2 DATA](http://adsabs.harvard.edu/abs/2015ApJ...806..215F)  
 Foreman-Mackey, Daniel, Montet, Benjamin T., Hogg, David W., et al.    
 2015, refereed ([2015ApJ...806..215F](http://adsabs.harvard.edu/abs/2015ApJ...806..215F))  
 
-50. [OBSERVATIONAL SIGNATURES OF CONVECTIVELY DRIVEN WAVES IN MASSIVE STARS](http://adsabs.harvard.edu/abs/2015ApJ...806L..33A)  
+51. [OBSERVATIONAL SIGNATURES OF CONVECTIVELY DRIVEN WAVES IN MASSIVE STARS](http://adsabs.harvard.edu/abs/2015ApJ...806L..33A)  
 Aerts, C., Rogers, T. M.    
 2015, refereed ([2015ApJ...806L..33A](http://adsabs.harvard.edu/abs/2015ApJ...806L..33A))  
 
-51. [A NEARBY M STAR WITH THREE TRANSITING SUPER-EARTHS DISCOVERED BY K2](http://adsabs.harvard.edu/abs/2015ApJ...804...10C)  
+52. [A NEARBY M STAR WITH THREE TRANSITING SUPER-EARTHS DISCOVERED BY K2](http://adsabs.harvard.edu/abs/2015ApJ...804...10C)  
 Crossfield, Ian J. M., Petigura, Erik, Schlieder, Joshua E., et al.    
 2015, refereed ([2015ApJ...804...10C](http://adsabs.harvard.edu/abs/2015ApJ...804...10C))  
 
-52. [PUSHING THE LIMITS: K2 OBSERVATIONS OF THE TRANS-NEPTUNIAN OBJECTS 2002 GV<SUB>31</SUB> AND (278361) 2007 JJ<SUB>43</SUB>](http://adsabs.harvard.edu/abs/2015ApJ...804L..45P)  
+53. [PUSHING THE LIMITS: K2 OBSERVATIONS OF THE TRANS-NEPTUNIAN OBJECTS 2002 GV<SUB>31</SUB> AND (278361) 2007 JJ<SUB>43</SUB>](http://adsabs.harvard.edu/abs/2015ApJ...804L..45P)  
 Pál, A., Szabó, R., Szabó, Gy. M., et al.    
 2015, refereed ([2015ApJ...804L..45P](http://adsabs.harvard.edu/abs/2015ApJ...804L..45P))  
 
-53. [THE VIEW FROM K2: QUESTIONING THE TRADITIONAL VIEW OF FLARING ON EARLY DM STARS](http://adsabs.harvard.edu/abs/2015MNRAS.449.3015R)  
+54. [THE VIEW FROM K2: QUESTIONING THE TRADITIONAL VIEW OF FLARING ON EARLY DM STARS](http://adsabs.harvard.edu/abs/2015MNRAS.449.3015R)  
 Ramsay, Gavin, Doyle, J. Gerry    
 2015, refereed ([2015MNRAS.449.3015R](http://adsabs.harvard.edu/abs/2015MNRAS.449.3015R))  
 
-54. [SYSTEMATICS-INSENSITIVE PERIODIC SIGNAL SEARCH WITH K2](http://adsabs.harvard.edu/abs/2015arXiv150507105A)  
+55. [SYSTEMATICS-INSENSITIVE PERIODIC SIGNAL SEARCH WITH K2](http://adsabs.harvard.edu/abs/2015arXiv150507105A)  
 Angus, Ruth, Foreman-Mackey, Daniel, Johnson, John A.    
 2015, pre-print ([2015arXiv150507105A](http://adsabs.harvard.edu/abs/2015arXiv150507105A))  
 
-55. [HAT-P-54B: A HOT JUPITER TRANSITING A 0.6 M<SUB>☉</SUB> STAR IN FIELD 0 OF THE K2 MISSION](http://adsabs.harvard.edu/abs/2015AJ....149..149B)  
+56. [HAT-P-54B: A HOT JUPITER TRANSITING A 0.6 M<SUB>☉</SUB> STAR IN FIELD 0 OF THE K2 MISSION](http://adsabs.harvard.edu/abs/2015AJ....149..149B)  
 Bakos, G. Á., Hartman, J. D., Bhatti, W., et al.    
 2015, refereed ([2015AJ....149..149B](http://adsabs.harvard.edu/abs/2015AJ....149..149B))  
 
-56. [STELLAR STATISTICS ALONG THE ECLIPTIC AND THE IMPACT ON THE K2 MISSION CONCEPT](http://adsabs.harvard.edu/abs/2015IJAsB..14..165P)  
+57. [STELLAR STATISTICS ALONG THE ECLIPTIC AND THE IMPACT ON THE K2 MISSION CONCEPT](http://adsabs.harvard.edu/abs/2015IJAsB..14..165P)  
 Prša, Andrej, Robin, Annie, Barclay, Thomas    
 2015, refereed ([2015IJAsB..14..165P](http://adsabs.harvard.edu/abs/2015IJAsB..14..165P))  
 
-57. [SPOTS ON AM STARS](http://adsabs.harvard.edu/abs/2015MNRAS.448.1378B)  
+58. [SPOTS ON AM STARS](http://adsabs.harvard.edu/abs/2015MNRAS.448.1378B)  
 Balona, L. A., Catanzaro, G., Abedigamba, O. P., et al.    
 2015, refereed ([2015MNRAS.448.1378B](http://adsabs.harvard.edu/abs/2015MNRAS.448.1378B))  
 
-58. [MESSIER 35 (NGC 2168) DANCE. I. MEMBERSHIP, PROPER MOTIONS, AND MULTIWAVELENGTH PHOTOMETRY](http://adsabs.harvard.edu/abs/2015A&A...575A.120B)  
+59. [MESSIER 35 (NGC 2168) DANCE. I. MEMBERSHIP, PROPER MOTIONS, AND MULTIWAVELENGTH PHOTOMETRY](http://adsabs.harvard.edu/abs/2015A&A...575A.120B)  
 Bouy, H., Bertin, E., Barrado, D., et al.    
 2015, refereed ([2015A&A...575A.120B](http://adsabs.harvard.edu/abs/2015A&A...575A.120B))  
 
-59. [MAIN-BELT ASTEROIDS IN THE K2 ENGINEERING FIELD OF VIEW](http://adsabs.harvard.edu/abs/2015AJ....149..112S)  
+60. [MAIN-BELT ASTEROIDS IN THE K2 ENGINEERING FIELD OF VIEW](http://adsabs.harvard.edu/abs/2015AJ....149..112S)  
 Szabó, R., Sárneczky, K., Szabó, Gy. M., et al.    
 2015, refereed ([2015AJ....149..112S](http://adsabs.harvard.edu/abs/2015AJ....149..112S))  
 
-60. [PRECISE TIME SERIES PHOTOMETRY FOR THE KEPLER-2.0 MISSION](http://adsabs.harvard.edu/abs/2015MNRAS.447.2880A)  
+61. [PRECISE TIME SERIES PHOTOMETRY FOR THE KEPLER-2.0 MISSION](http://adsabs.harvard.edu/abs/2015MNRAS.447.2880A)  
 Aigrain, S., Hodgkin, S. T., Irwin, M. J., et al.    
 2015, refereed ([2015MNRAS.447.2880A](http://adsabs.harvard.edu/abs/2015MNRAS.447.2880A))  
 
-61. [VARIABLE STARS IN TWO OPEN CLUSTERS WITHIN THE KEPLER/K2-CAMPAIGN-0 FIELD: M35 AND NGC 2158](http://adsabs.harvard.edu/abs/2015MNRAS.447.3536N)  
+62. [VARIABLE STARS IN TWO OPEN CLUSTERS WITHIN THE KEPLER/K2-CAMPAIGN-0 FIELD: M35 AND NGC 2158](http://adsabs.harvard.edu/abs/2015MNRAS.447.3536N)  
 Nardiello, D., Bedin, L. R., Nascimbeni, V., et al.    
 2015, refereed ([2015MNRAS.447.3536N](http://adsabs.harvard.edu/abs/2015MNRAS.447.3536N))  
 
-62. [A DETECTION THRESHOLD IN THE AMPLITUDE SPECTRA CALCULATED FROM KEPLER DATA OBTAINED DURING K2 MISSION](http://adsabs.harvard.edu/abs/2015MNRAS.448L..16B)  
+63. [A DETECTION THRESHOLD IN THE AMPLITUDE SPECTRA CALCULATED FROM KEPLER DATA OBTAINED DURING K2 MISSION](http://adsabs.harvard.edu/abs/2015MNRAS.448L..16B)  
 Baran, A. S., Koen, C., Pokrzywka, B.    
 2015, refereed ([2015MNRAS.448L..16B](http://adsabs.harvard.edu/abs/2015MNRAS.448L..16B))  
 
-63. [CHARACTERIZING K2 PLANET DISCOVERIES: A SUPER-EARTH TRANSITING THE BRIGHT K DWARF HIP 116454](http://adsabs.harvard.edu/abs/2015ApJ...800...59V)  
+64. [CHARACTERIZING K2 PLANET DISCOVERIES: A SUPER-EARTH TRANSITING THE BRIGHT K DWARF HIP 116454](http://adsabs.harvard.edu/abs/2015ApJ...800...59V)  
 Vanderburg, Andrew, Montet, Benjamin T., Johnson, John Asher, et al.    
 2015, refereed ([2015ApJ...800...59V](http://adsabs.harvard.edu/abs/2015ApJ...800...59V))  
 
-64. [THE ASTEROSEISMOLOGY OF ZZ CETI STAR GD1212](http://adsabs.harvard.edu/abs/2015arXiv150105360G)  
+65. [THE ASTEROSEISMOLOGY OF ZZ CETI STAR GD1212](http://adsabs.harvard.edu/abs/2015arXiv150105360G)  
 Guifang, Lin, Yan, Li, Jie, Su    
 2015, pre-print ([2015arXiv150105360G](http://adsabs.harvard.edu/abs/2015arXiv150105360G))  
 

@@ -138,13 +138,15 @@ This page details the previous, current, and future K2 Campaign fields.
       <td><a href="#c6">6</a></td>
       <td>2015 Jul 14</td>
       <td>2015 Sep 30</td>
-      <td>2016 Feb 88</td>
+      <td>2016 Feb 08</td>
       <td>13:39:28</td>
       <td>-11:17:43</td>
       <td class="text-center">
         <a href="k2-approved-programs.html#campaign-6"><i class="fa fa-check"></i></a>
       </td>
-      <td class="text-center"></td>
+      <td class="text-center">
+        <a href="k2-data-release-notes.html#k2-campaign-6"><i class="fa fa-check"></i></a>
+      </td>
       <td>North Galactic Cap</td>
     </tr>
 

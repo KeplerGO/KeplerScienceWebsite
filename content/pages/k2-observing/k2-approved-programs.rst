@@ -33,7 +33,7 @@ Campaign 8
     </li>
     <li class="list-group-item">
       <i class="fa fa-pencil-square-o fa-margin"></i>
-      Data release notes (coming soon)
+      Data release notes (awaiting data release)
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -41,7 +41,7 @@ Campaign 8
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
-      Target pixel files (coming soon)
+      Target pixel files (awaiting data release)
     </li>
   </ul>
 
@@ -61,7 +61,7 @@ Campaign 7
     </li>
     <li class="list-group-item">
       <i class="fa fa-pencil-square-o fa-margin"></i>
-      Data release notes (coming soon)
+      Data release notes (awaiting data release)
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -69,7 +69,7 @@ Campaign 7
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
-      Target pixel files (coming soon)
+      Target pixel files (awaiting data release)
     </li>
   </ul>
 
@@ -95,7 +95,11 @@ Campaign 6
     </li>
     <li class="list-group-item">
       <i class="fa fa-pencil-square-o fa-margin"></i>
-      Data release notes (coming soon)
+      <a href="k2-data-release-notes.html#k2-campaign-6">Data release notes</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-cog fa-margin"></i>
+      <a href="http://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-8">Pipeline: 9.3</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -129,7 +133,7 @@ Campaign 5
     </li>
     <li class="list-group-item">
       <i class="fa fa-cog fa-margin"></i>
-      <a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr7">Pipeline: 9.3</a>
+      <a href="http://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-7">Pipeline: 9.3</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -166,7 +170,7 @@ Campaign 4
     </li>
     <li class="list-group-item">
       <i class="fa fa-cog fa-margin"></i>
-      <a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr6">Pipeline: 9.3</a>
+      <a href="http://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-6">Pipeline: 9.3</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -201,7 +205,7 @@ Campaign 3
     </li>
     <li class="list-group-item">
       <i class="fa fa-cog fa-margin"></i>
-      <a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr5">Pipeline: 9.3</a>
+      <a href="http://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-5">Pipeline: 9.3</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -236,7 +240,7 @@ Campaign 2
     </li>
     <li class="list-group-item">
       <i class="fa fa-cog fa-margin"></i>
-      <a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr4">Pipeline: 9.2</a>
+      <a href="http://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-4">Pipeline: 9.2</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -270,7 +274,7 @@ Campaign 1
     </li>
     <li class="list-group-item">
       <i class="fa fa-cog fa-margin"></i>
-      <a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr3">Pipeline: 9.2</a>
+      <a href="http://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-3">Pipeline: 9.2</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -306,7 +310,7 @@ Campaign 0
     </li>
     <li class="list-group-item">
       <i class="fa fa-cog fa-margin"></i>
-      <a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr2">Pipeline: 9.2</a>
+      <a href="http://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-2">Pipeline: 9.2</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>

@@ -4,6 +4,14 @@ Save_as: kpub-kepler-by-month.html
 [TOC]
 
 
+2016-04
+-------
+
+1. [SEARCH FOR PULSATIONS IN M DWARFS IN THE KEPLER SHORT-CADENCE DATA BASE](http://adsabs.harvard.edu/abs/2016MNRAS.457.1851R)  
+Rodríguez, E., Rodríguez-López, C., López-González, M. J., et al.    
+2016, refereed ([2016MNRAS.457.1851R](http://adsabs.harvard.edu/abs/2016MNRAS.457.1851R))  
+
+
 2016-03
 -------
 
@@ -26,6 +34,18 @@ Mia, Rajib, Kushvah, Badam Singh
 5. [TESTING THE CORES OF FIRST ASCENT RED GIANT STARS USING THE PERIOD SPACING OF G MODES](http://adsabs.harvard.edu/abs/2016MNRAS.457L..59L)  
 Lagarde, N., Bossini, D., Miglio, A., et al.    
 2016, refereed ([2016MNRAS.457L..59L](http://adsabs.harvard.edu/abs/2016MNRAS.457L..59L))  
+
+6. [SOPHIE VELOCIMETRY OF KEPLER TRANSIT CANDIDATES. XVII. THE PHYSICAL PROPERTIES OF GIANT EXOPLANETS WITHIN 400 DAYS OF PERIOD](http://adsabs.harvard.edu/abs/2016A&A...587A..64S)  
+Santerne, A., Moutou, C., Tsantaki, M., et al.    
+2016, refereed ([2016A&A...587A..64S](http://adsabs.harvard.edu/abs/2016A&A...587A..64S))  
+
+7. [DETERMINING THE AGE OF THE KEPLER OPEN CLUSTER NGC 6819 WITH A NEW TRIPLE SYSTEM AND OTHER ECLIPSING BINARY STARS](http://adsabs.harvard.edu/abs/2016AJ....151...66B)  
+Brewer, Lauren N., Sandquist, Eric L., Mathieu, Robert D., et al.    
+2016, refereed ([2016AJ....151...66B](http://adsabs.harvard.edu/abs/2016AJ....151...66B))  
+
+8. [KEPLER MISSION: DEVELOPMENT AND OVERVIEW](http://adsabs.harvard.edu/abs/2016RPPh...79c6901B)  
+Borucki, William J.    
+2016, refereed ([2016RPPh...79c6901B](http://adsabs.harvard.edu/abs/2016RPPh...79c6901B))  
 
 
 2016-02
@@ -87,6 +107,85 @@ Bastien, Fabienne A., Stassun, Keivan G., Basri, Gibor, et al.
 Gänsicke, B. T., Aungwerojwit, A., Marsh, T. R., et al.    
 2016, refereed ([2016ApJ...818L...7G](http://adsabs.harvard.edu/abs/2016ApJ...818L...7G))  
 
+<<<<<<< HEAD
+=======
+15. [A TRANSITION IN THE COMPOSITION OF CLOUDS IN HOT JUPITERS](http://adsabs.harvard.edu/abs/2016arXiv160203088P)  
+Parmentier, Vivien, Fortney, Jonathan J., Showman, Adam P., et al.    
+2016, pre-print ([2016arXiv160203088P](http://adsabs.harvard.edu/abs/2016arXiv160203088P))  
+
+16. [IDENTIFYING FALSE ALARMS IN THE KEPLER PLANET CANDIDATE CATALOG](http://adsabs.harvard.edu/abs/2016arXiv160203204M)  
+Mullally, F., Coughlin, Jeffery L., Thompson, Susan E., et al.    
+2016, pre-print ([2016arXiv160203204M](http://adsabs.harvard.edu/abs/2016arXiv160203204M))  
+
+17. [TESTING THE ASYMPTOTIC RELATION FOR PERIOD SPACINGS FROM MIXED MODES OF RED GIANTS OBSERVED WITH THE KEPLER MISSION](http://adsabs.harvard.edu/abs/2016arXiv160202716B)  
+Buysschaert, B., Beck, P. G., Corsaro, E., et al.    
+2016, pre-print ([2016arXiv160202716B](http://adsabs.harvard.edu/abs/2016arXiv160202716B))  
+
+18. [THE VARYING LIGHT CURVE AND TIMINGS OF THE ULTRA-SHORT PERIOD CONTACT BINARY KIC 9532219](http://adsabs.harvard.edu/abs/2016arXiv160202217L)  
+Lee, Jae Woo, Hong, Kyeongsoo, Koo, Jae-Rim, et al.    
+2016, pre-print ([2016arXiv160202217L](http://adsabs.harvard.edu/abs/2016arXiv160202217L))  
+
+19. [KEPLER ECLIPSING BINARY STARS. VIII. IDENTIFICATION OF FALSE POSITIVE ECLIPSING BINARIES AND RE-EXTRACTION OF NEW LIGHT CURVES](http://adsabs.harvard.edu/abs/2016arXiv160205932A)  
+Abdul-Masih, Michael, Prsa, Andrej, Conroy, Kyle, et al.    
+2016, pre-print ([2016arXiv160205932A](http://adsabs.harvard.edu/abs/2016arXiv160205932A))  
+
+20. [SUPPRESSION OF QUADRUPOLE AND OCTUPOLE MODES IN RED GIANTS OBSERVED BY KEPLER](http://adsabs.harvard.edu/abs/2016arXiv160205193S)  
+Stello, D., Cantiello, M., Fuller, J., et al.    
+2016, pre-print ([2016arXiv160205193S](http://adsabs.harvard.edu/abs/2016arXiv160205193S))  
+
+21. [INFERRING ASYMMETRIC LIMB CLOUDINESS ON EXOPLANETS FROM TRANSIT LIGHT CURVES](http://adsabs.harvard.edu/abs/2016arXiv160204362V)  
+von Paris, P., Gratier, P., Bordé, P., et al.    
+2016, pre-print ([2016arXiv160204362V](http://adsabs.harvard.edu/abs/2016arXiv160204362V))  
+
+22. [ON THE DETECTION OF NON-TRANSITING HOT JUPITERS IN MULTIPLE-PLANET SYSTEMS](http://adsabs.harvard.edu/abs/2016arXiv160205674M)  
+Millholland, Sarah, Wang, Songhu, Laughlin, Gregory    
+2016, pre-print ([2016arXiv160205674M](http://adsabs.harvard.edu/abs/2016arXiv160205674M))  
+
+23. [TRANSITING PLANETS AS A PRECISION CLOCK TO CONSTRAIN THE TIME VARIATION OF THE GRAVITATIONAL CONSTANT](http://adsabs.harvard.edu/abs/2016arXiv160202513M)  
+Masuda, Kento, Suto, Yasushi    
+2016, pre-print ([2016arXiv160202513M](http://adsabs.harvard.edu/abs/2016arXiv160202513M))  
+
+24. [PERIOD SPACINGS IN RED GIANTS II. AUTOMATED MEASUREMENT](http://adsabs.harvard.edu/abs/2016arXiv160204940V)  
+Vrard, M., Mosser, B., Samadi, R.    
+2016, pre-print ([2016arXiv160204940V](http://adsabs.harvard.edu/abs/2016arXiv160204940V))  
+
+25. [ARE SOLAR BRIGHTNESS VARIATIONS FACULAE- OR SPOT-DOMINATED?](http://adsabs.harvard.edu/abs/2016arXiv160204447S)  
+Shapiro, A. I., Solanki, S. K., Krivova, N. A., et al.    
+2016, pre-print ([2016arXiv160204447S](http://adsabs.harvard.edu/abs/2016arXiv160204447S))  
+
+26. [A SEARCH FOR BRIEF OPTICAL FLASHES ASSOCIATED WITH THE SETI TARGET KIC 8462852](http://adsabs.harvard.edu/abs/2016ApJ...818L..33A)  
+Abeysekara, A. U., Archambault, S., Archer, A., et al.    
+2016, refereed ([2016ApJ...818L..33A](http://adsabs.harvard.edu/abs/2016ApJ...818L..33A))  
+
+27. [WHITE-LIGHT FLARES ON CLOSE BINARIES OBSERVED WITH KEPLER](http://adsabs.harvard.edu/abs/2016arXiv160207972G)  
+Gao, Qing, Xin, Yu, Liu, Ji-Feng, et al.    
+2016, pre-print ([2016arXiv160207972G](http://adsabs.harvard.edu/abs/2016arXiv160207972G))  
+
+28. [CONSTRAINING THE RADIATION AND PLASMA ENVIRONMENT OF THE KEPLER CIRCUMBINARY HABITABLE-ZONE PLANETS](http://adsabs.harvard.edu/abs/2016ApJ...818..160Z)  
+Zuluaga, Jorge I., Mason, Paul A., Cuartas-Restrepo, Pablo A.    
+2016, refereed ([2016ApJ...818..160Z](http://adsabs.harvard.edu/abs/2016ApJ...818..160Z))  
+
+29. [TRANSITING PLANET CANDIDATES BEYOND THE SNOW LINE DETECTED BY VISUAL INSPECTION OF 7557 KEPLER OBJECTS OF INTEREST](http://adsabs.harvard.edu/abs/2016arXiv160207848U)  
+Uehara, Sho, Kawahara, Hajime, Masuda, Kento, et al.    
+2016, pre-print ([2016arXiv160207848U](http://adsabs.harvard.edu/abs/2016arXiv160207848U))  
+
+30. [A TRANSITING JUPITER ANALOG](http://adsabs.harvard.edu/abs/2016arXiv160300042K)  
+Kipping, David M., Torres, Guillermo, Henze, Chris, et al.    
+2016, pre-print ([2016arXiv160300042K](http://adsabs.harvard.edu/abs/2016arXiv160300042K))  
+
+31. [A SEARCH FOR CHAOS IN THE BLAZAR: W2R 1926+42 AND ITS POSSIBLE CONSEQUENCE](http://adsabs.harvard.edu/abs/2016arXiv160300140M)  
+Mukhopadhyay, Banibrata, Bachev, Rumen, Strigachev, Anton    
+2016, pre-print ([2016arXiv160300140M](http://adsabs.harvard.edu/abs/2016arXiv160300140M))  
+
+32. [TRANSIT TIMING TO FIRST ORDER IN ECCENTRICITY](http://adsabs.harvard.edu/abs/2016ApJ...818..177A)  
+Agol, Eric, Deck, Katherine    
+2016, refereed ([2016ApJ...818..177A](http://adsabs.harvard.edu/abs/2016ApJ...818..177A))  
+
+33. [EFFICIENT GEOMETRIC PROBABILITIES OF MULTI-TRANSITING EXOPLANETARY SYSTEMS FROM CORBITS](http://adsabs.harvard.edu/abs/2016arXiv160207014B)  
+Brakensiek, Joshua, Ragozzine, Darin    
+2016, pre-print ([2016arXiv160207014B](http://adsabs.harvard.edu/abs/2016arXiv160207014B))  
+
+>>>>>>> 1601e3ce2f0baabeae1e35e2852a23ee9976c17a
 
 2016-01
 -------
@@ -262,6 +361,10 @@ Weiss, Lauren M., Rogers, Leslie A., Isaacson, Howard T., et al.
 43. [KIC 8462852 DID LIKELY NOT FADE DURING THE LAST 100 YEARS](http://adsabs.harvard.edu/abs/2016arXiv160107314H)  
 Hippke, Michael, Angerhausen, Daniel    
 2016, pre-print ([2016arXiv160107314H](http://adsabs.harvard.edu/abs/2016arXiv160107314H))  
+
+44. [HABITABILITY OF TERRESTRIAL-MASS PLANETS IN THE HZ OF M DWARFS. I. H/HE-DOMINATED ATMOSPHERES](http://adsabs.harvard.edu/abs/2016arXiv160105143O)  
+Owen, James E., Mohanty, Subhanjoy    
+2016, pre-print ([2016arXiv160105143O](http://adsabs.harvard.edu/abs/2016arXiv160105143O))  
 
 
 2015-12
@@ -562,6 +665,10 @@ Ness, M., Hogg, David W., Rix, H-W., et al.
 37. [KIC 8462852: TRANSIT OF A LARGE COMET FAMILY](http://adsabs.harvard.edu/abs/2015arXiv151108821B)  
 Bodman, Eva H. L., Quillen, Alice    
 2015, pre-print ([2015arXiv151108821B](http://adsabs.harvard.edu/abs/2015arXiv151108821B))  
+
+38. [PROBING EXOPLANET CLOUDS WITH OPTICAL PHASE CURVES](http://adsabs.harvard.edu/abs/2015PNAS..11213461G)  
+Garcia Munoz, A., Isaak, K. G.    
+2015, refereed ([2015PNAS..11213461G](http://adsabs.harvard.edu/abs/2015PNAS..11213461G))  
 
 
 2015-10

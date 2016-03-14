@@ -225,9 +225,6 @@ href="http://keplerscience.arc.nasa.gov/the-kepler-space-telescope.html#flux-cal
 A blank template target table for insertion into the proposal 
 can be [downloaded here](data/K2/K2-Cnn-propnum-PINAME.xls). 
 
-In addition to appearing as text within the proposal, 
-this table must also be submitted electronically to the Kepler Science Center. 
-
 Each campaign target table must appear in two places:
 
 1.  Embedded within the body of your uploaded proposal package to NSPIRES.
@@ -247,20 +244,30 @@ href="data/K2/K2-Cnn-propnum-PINAME.xls">K2-Cnn-propnum-PINAME.xls</a>
 5.  Attach the renamed spreadsheet to an email and send it to the GO
     Office at **keplergo@mail.arc.nasa.gov** before the proposal deadline.
 
+**Special instructions for moving targets**<br/>
+
+If you plan to submit a proposal for a Solar System (moving) target, we recommend that you adhere to the following guidelines:<br/>
+
+1. Only include a single row in your target table for each moving target.  You are not required to include coordinates as long as you provide the name or number of the object exactly as it is known in JPL Horizons. 
+2. State (a) the minimum and (b) the ideal number of days during which each target needs to be observed to meet the goals of your scientific investigation. 
+3. Provide a rough estimate of the pixel cost corresponding to both the minimum and ideal observing durations for each target.  Please get in touch with us at **keplergo@mail.arc.nasa.gov** if you require assistance with this.
+
 ## Solicitations
 
 The call for K2 GO Cycle 4 proposals, which includes <a href="k2-fields.html">Campaigns 11, 12,
 and 13</a>, has been released and
 [is available at NSPIRES](http://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={7A635D8E-1B2B-2488-5E0D-5C81471D150B}&path=open). We
 are requesting the community propose targets to observe
-during only these three Campaigns. The execution of the K2 GO Cycle 4 is contingent upon the outcome of
-the 2016 Senior Review.
+during only these three campaigns. The execution of the K2 GO Cycle 4 is contingent upon the outcome of
+the 2016 Senior Review. <font color=red> The K2 GO Cycle 4 proposal
+deadlines have now passed. Stay tuned for information about K2 GO
+Cycle 5.  </font> <br/>
 
 ### FAQs  
 
 * **What are the proposal deadlines?**<br/>
-  Step 1: 2016 Feb 05 <br/>
-  Step 2: 2016 Mar 04 <br/>
+  Step 1: 23:59 EST 2016 Feb 05 <font color=red> (deadline has passed)</font> <br/>
+  Step 2: 23:59 EST 2016 Mar 04 <font color=red> (deadline has passed)</font> <br/>
   
 * **What are the anticipated dates of the campaigns included in the
 current solicitation?**<br/>
@@ -307,7 +314,13 @@ Start and stop dates are approximate, flexible and could be overtaken by unantic
   terms of pixel usage. Targets brighter than 3rd magnitude in the
   Kepler bandpass cannot be observed because charge bleeding along CCD
   pixel columns will fall into collateral pixels of the
-  detector. Bright targets (Kp < 9) and short cadence targets require strong, compelling science cases.<br/>
+  detector. Bright targets (Kp < 9) and short cadence targets require
+  strong, compelling science cases.<br/>
+
+* **How do I propose a moving target?**<br/>
+ The proposal process is the same for a Solar System or moving target
+ as it is for other targets. However, proposers should take note of
+ recommendations when creating the [target table for moving targets](k2-proposing-targets.html#target-table).
 
 
 ### Submission process
@@ -333,74 +346,42 @@ submitting a K2 proposal to the GO call are provided below:
 
 * [Submit Step 1 of
       the proposal to NSPIRES](http://nspires.nasaprs.com/external/)
-      by <font color=red> 23:59 EST February 5, 2016.</font>  [Instructions for
-      Step 1 submission can be found here](http://science.nasa.gov/media/medialibrary/2015/02/13/Step-1_instructions_.pdf).
+      by 23:59 EST February 5, 2016.  [Instructions for
+      Step 1 submission can be found here](http://science.nasa.gov/media/medialibrary/2015/02/13/Step-1_instructions_.pdf). The deadline for Cycle 4 Step 1 proposals has passed.
 
 * [Submit Step 2 of
-      the proposal to NSPIRES]((http://nspires.nasaprs.com/external/))
-      by <font color=red> 23:59 EST March 4, 2016.</font> [Instructions for Step
-      2 submission can be found here](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=431288/solicitationId=%7B1639473A-DDFB-D01F-6DF7-37C676E7BAAF%7D/viewSolicitationDocument=1/Submitting%20Step%202%20Instructions_req_step1.pdf).
+      the proposal to NSPIRES](http://nspires.nasaprs.com/external/)
+      by 23:59 EST March 4, 2016. [Instructions for Step
+      2 submission can be found here](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=431288/solicitationId=%7B1639473A-DDFB-D01F-6DF7-37C676E7BAAF%7D/viewSolicitationDocument=1/Submitting%20Step%202%20Instructions_req_step1.pdf). The deadline for Cycle 4 Step 2 proposals has passed.
 
-* Material required for your proposal is described here. The generic content of the proposal is described in Sec 2.3 of the
-    <a href="http://www.hq.nasa.gov/office/procurement/nraguidebook/">NRA Proposers Guide</a>. Page
+*  The generic content of the proposal is described in Sec 2.3 of the
+    <a
+    href="http://www.hq.nasa.gov/office/procurement/nraguidebook/proposer2015.pdf">2015
+    NRA Proposers Guide</a>. Page
     limits and proposal content within the NRA Guide are amended
     within the
     [K2 GO Cycle 4 NRA](http://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={7A635D8E-1B2B-2488-5E0D-5C81471D150B}&path=open)
-    and are summarized in the table below.
+    and are summarized in the table below.   The
+    right-hand column provides page limits for the package elements. Caveats to the page limits are provided as footnotes. *The page limits on this website override the NRA-generic limits within the handbook.*
     Note that the Scientific/Technical/Management section of the
     Step-2 proposal, which consists of text, tables (excluding the
-    Target Table), and figures must not exceed four pages for
+    target table), and figures must not exceed four pages for
     proposals in the Small category, or six pages for proposals in the
     Large category. An additional 0.5 pages is allowed in Large proposals to describe
     progress the proposers have made to delivering value-added
-    community resources.  References do not count against the page
-    limit. In summary:
-    
-       * Understand the scope of the
-        Guest Observer program. Science papers exploiting data from the Kepler and K2 mission can be found [here](publications.html).
-       * Familiarize yourself with the [technical documentation](data-products.html#documentation) for the mission.
-       * Develop and justify a science concept for observations
-          within Campaigns specific to the current GO Cycle <a href="fields.html"></a>.
-       * Identify appropriate targets for the proposed observations using the
-        <a href="http://archive.stsci.edu/k2/epic/search.php">K2 Target Search</a> page as the primary (but not exclusive) source list. This search page provides for the construction of short or long target lists based upon e.g. celestial cone searches, magnitude and color.
-       * Complete the [Target Table](k2-proposing-targets.html#target-table) as an integral component of the proposal and as a separate submission to the Guest Observer Office.
-       * Provide the administrative elements of the proposal
-          including a proposer biographical information, and a
-          statement of current and pending financial support.
-	   * Large proposals that anticipate delivery of a data product/products
-  to one of the NASA archives (e.g., MAST or the NASA Exoplanet
-  Database) for curation must also include a letter of acknowledgement from
-  the relevant archive.
-	   * Although a detailed budget is not requested in either Step-1 or
-  Step-2 proposals, the statement of work in the Step-2 proposal
-  should clearly identify any and all members of the proposing team
-  who would receive funding under the proposed investigation. The
-  funding amounts will be determined formulaically based on target
-  allocation.
-       * **Special instructions for non-US PIs**<br/>
-During the submission process, non-US PI-led proposals will need to be
-affiliated to a submitting organization. Do this by clicking on the
-"Account Mgmt" tab at the top of the NSPIRES page and follow the
-instructions. All non-US proposals should use the "Kepler Guest
-Observer Office" as your affiliation within NSPIRES. This is simply a
-fudge, albeit a required fudge, so that non-US PIs spend no more
-effort than this over the institutional endorsements that are
-mandatory for US investigators. When completing the proposal, there are a few obscure boxes on the standard form that need your attention. The organization name is "Kepler Guest Observer Office", doing business as the "Kepler Guest Observer Office". The DUNS number is "999999954" and the cage code is "ZZZ54". These details will make sense to you when you see the Step 2 proposal form. 
-
-The following table summarizes the content of material to be supplied
-by the Principal Investigator in support of a K2 GO proposal. This
-package is to be uploaded to NSPIRES during the process of submitting
-electronic proposals. Descriptions for the content of each element are
-provided in sec 2.3 of the [2015 NRA Proposers Guidebook](http://www.hq.nasa.gov/office/procurement/nraguidebook/proposer2015.pdf). The
-right-hand column provides page limits for the package elements. Page
-limits on this web site override the NRA-generic limits within the
-handbook. Caveats to the page limits are provided as footnotes. The
-completed package upload must not exceed 15 pages. If a large target
+    community resources.  References and the target table do not count against the four or
+    six page
+    limit, however, the
+completed package uploaded to NSPIRES for the Scientific/Technical/Management
+    section must not exceed 15 pages. If a large target
 table extends beyond the 15 page limit then truncate the table so that
 the page limit is not exceeded and make a note within the proposal
-that the table has been truncated. PIs should not feel compelled to
+that the table has been truncated. The page limits for the PI and Co-I biographies and
+    current and pending support are also defined below, and are 
+    separate from the 15 page limit for the
+    Scientific/Technical/Management section.  PIs should not feel compelled to
 meet the page limits, but must submit all items appropriate to their
-proposal.
+proposal and should not exceed the page limits as defined below.
 
 
 <table class="table table-striped table-hover" style="max-width:70em;">
@@ -419,44 +400,81 @@ proposal.
 	</tr>
 
 <tr>
-    <td>Science justification and technical management, "Small" proposals<sup>†</sup> </td>
+    <td>Scientific Justification/Technical/Management Section, "Small" proposals<sup>†</sup> </td>
     <td>4</td>
 	</tr>
 
 <tr>
-    <td>Science justification and technical management, "Large" proposals<sup>†</sup><sup>&Dagger;</sup> </td>
+    <td>Scientific Justification/Technical/Management Section, "Large" proposals<sup>†</sup><sup>&Dagger;</sup> </td>
     <td>6</td>
 	</tr>
 
 <tr>
-    <td>Target table </td>
+    <td>References and Target Table </td>
     <td>as needed</td>
 	</tr>
 
 <tr>
-    <td>PI biography </td>
+    <td>PI Biography </td>
     <td>2</td>
 	</tr>
 
 <tr>
-    <td>Co-I biography (per Co-I) </td>
+    <td>Co-I Biography (per Co-I) </td>
     <td>1 per Co-I</td>
 	</tr>
 
 <tr>
-    <td>Current and pending support </td>
+    <td>Current and Pending Support </td>
     <td>as needed</td>
 	</tr>
 	
 </tdata>
 </table>
 <sup>†</sup>Includes text, tables, and figures. References and the
-required target table do not count against these page limits, but the
-target table should be truncated in cases where it would cause this
+required target table do not count against these four or six page limits, but the
+target table should be truncated in cases where it would cause this specific
 section to exceed 15 pages.<br/>
 <sup>&Dagger;</sup>An additional 0.5 pages is allowed in "Large" proposals to describe
     progress the proposers have made to delivering value-added
-	community resources, but the total proposal package still must not exceed 15 pages.
+	community resources, but the Scientific/Technical/Management
+	section still must not exceed 15 pages.
+
+In summary, proposers should:
+
+  * Understand the scope of the
+        Guest Observer program. Science papers exploiting data from the Kepler and K2 mission can be found [here](publications.html).
+  * Familiarize yourself with the [technical documentation](data-products.html#documentation) for the mission.
+  * Develop and justify a science concept for observations
+          within Campaigns specific to the current GO Cycle <a href="fields.html"></a>.
+   * Identify appropriate targets for the proposed observations using the
+        <a href="http://archive.stsci.edu/k2/epic/search.php">K2 Target Search</a> page as the primary (but not exclusive) source list. This search page provides for the construction of short or long target lists based upon e.g. celestial cone searches, magnitude and color.
+   * Include a [Target Table](k2-proposing-targets.html#target-table)
+     as an integral component of the proposal and as a separate
+     submission to the Guest Observer Office at **keplergo@mail.arc.nasa.gov**. 
+   * Provide the administrative elements of the proposal
+          including a proposer biographical information, and a
+          statement of current and pending financial support.
+   * **Large proposals that anticipate delivery of a data product/products
+  to one of the NASA archives (e.g., MAST or the NASA Exoplanet
+  Database) for curation must also include a letter of acknowledgement from
+  the relevant archive.**
+   * Although a detailed budget is not requested in either Step-1 or
+  Step-2 proposals, the statement of work in the Step-2 proposal
+  should clearly identify any and all members of the proposing team
+  who would receive funding under the proposed investigation. The
+  funding amounts will be determined formulaically based on target
+  allocation.
+  * **Special instructions for non-US PIs**<br/>
+During the submission process, non-US PI-led proposals will need to be
+affiliated to a submitting organization. Do this by clicking on the
+"Account Mgmt" tab at the top of the NSPIRES page and follow the
+instructions. All non-US proposals should use the "Kepler Guest
+Observer Office" as your affiliation within NSPIRES. This is simply a
+fudge, albeit a required fudge, so that non-US PIs spend no more
+effort than this over the institutional endorsements that are
+mandatory for US investigators. When completing the proposal, there are a few obscure boxes on the standard form that need your attention. The organization name is "Kepler Guest Observer Office", doing business as the "Kepler Guest Observer Office". The DUNS number is "999999954" and the cage code is "ZZZ54". These details will make sense to you when you see the Step 2 proposal form. 
+
 
 ### Director's Discretionary Time
 

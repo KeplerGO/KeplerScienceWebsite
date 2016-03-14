@@ -4,6 +4,14 @@ Save_as: kpub-astrophysics-by-month.html
 [TOC]
 
 
+2016-04
+-------
+
+1. [SEARCH FOR PULSATIONS IN M DWARFS IN THE KEPLER SHORT-CADENCE DATA BASE](http://adsabs.harvard.edu/abs/2016MNRAS.457.1851R)  
+Rodríguez, E., Rodríguez-López, C., López-González, M. J., et al.    
+2016, refereed ([2016MNRAS.457.1851R](http://adsabs.harvard.edu/abs/2016MNRAS.457.1851R))  
+
+
 2016-03
 -------
 
@@ -14,6 +22,14 @@ Martig, Marie, Fouesneau, Morgan, Rix, Hans-Walter, et al.
 2. [TESTING THE CORES OF FIRST ASCENT RED GIANT STARS USING THE PERIOD SPACING OF G MODES](http://adsabs.harvard.edu/abs/2016MNRAS.457L..59L)  
 Lagarde, N., Bossini, D., Miglio, A., et al.    
 2016, refereed ([2016MNRAS.457L..59L](http://adsabs.harvard.edu/abs/2016MNRAS.457L..59L))  
+
+3. [DETERMINING THE AGE OF THE KEPLER OPEN CLUSTER NGC 6819 WITH A NEW TRIPLE SYSTEM AND OTHER ECLIPSING BINARY STARS](http://adsabs.harvard.edu/abs/2016AJ....151...66B)  
+Brewer, Lauren N., Sandquist, Eric L., Mathieu, Robert D., et al.    
+2016, refereed ([2016AJ....151...66B](http://adsabs.harvard.edu/abs/2016AJ....151...66B))  
+
+4. [K2 ROTATION PERIODS FOR LOW-MASS HYADS AND THE IMPLICATIONS FOR GYROCHRONOLOGY](http://adsabs.harvard.edu/abs/2016arXiv160300419D)  
+Douglas, S. T., Agüeros, M. A., Covey, K. R., et al.    
+2016, pre-print ([2016arXiv160300419D](http://adsabs.harvard.edu/abs/2016arXiv160300419D))  
 
 
 2016-02
@@ -79,6 +95,61 @@ Bastien, Fabienne A., Stassun, Keivan G., Basri, Gibor, et al.
 Gänsicke, B. T., Aungwerojwit, A., Marsh, T. R., et al.    
 2016, refereed ([2016ApJ...818L...7G](http://adsabs.harvard.edu/abs/2016ApJ...818L...7G))  
 
+<<<<<<< HEAD
+=======
+16. [NEW PLEIADES ECLIPSING BINARIES AND A HYADES TRANSITING SYSTEM IDENTIFIED BY K2](http://adsabs.harvard.edu/abs/2016arXiv160201901D)  
+David, Trevor J., Conroy, Kyle E., Hillenbrand, Lynne A., et al.    
+2016, pre-print ([2016arXiv160201901D](http://adsabs.harvard.edu/abs/2016arXiv160201901D))  
+
+17. [TESTING THE ASYMPTOTIC RELATION FOR PERIOD SPACINGS FROM MIXED MODES OF RED GIANTS OBSERVED WITH THE KEPLER MISSION](http://adsabs.harvard.edu/abs/2016arXiv160202716B)  
+Buysschaert, B., Beck, P. G., Corsaro, E., et al.    
+2016, pre-print ([2016arXiv160202716B](http://adsabs.harvard.edu/abs/2016arXiv160202716B))  
+
+18. [THE VARYING LIGHT CURVE AND TIMINGS OF THE ULTRA-SHORT PERIOD CONTACT BINARY KIC 9532219](http://adsabs.harvard.edu/abs/2016arXiv160202217L)  
+Lee, Jae Woo, Hong, Kyeongsoo, Koo, Jae-Rim, et al.    
+2016, pre-print ([2016arXiv160202217L](http://adsabs.harvard.edu/abs/2016arXiv160202217L))  
+
+19. [KEPLER ECLIPSING BINARY STARS. VIII. IDENTIFICATION OF FALSE POSITIVE ECLIPSING BINARIES AND RE-EXTRACTION OF NEW LIGHT CURVES](http://adsabs.harvard.edu/abs/2016arXiv160205932A)  
+Abdul-Masih, Michael, Prsa, Andrej, Conroy, Kyle, et al.    
+2016, pre-print ([2016arXiv160205932A](http://adsabs.harvard.edu/abs/2016arXiv160205932A))  
+
+20. [SUPPRESSION OF QUADRUPOLE AND OCTUPOLE MODES IN RED GIANTS OBSERVED BY KEPLER](http://adsabs.harvard.edu/abs/2016arXiv160205193S)  
+Stello, D., Cantiello, M., Fuller, J., et al.    
+2016, pre-print ([2016arXiv160205193S](http://adsabs.harvard.edu/abs/2016arXiv160205193S))  
+
+21. [TRANSITING PLANETS AS A PRECISION CLOCK TO CONSTRAIN THE TIME VARIATION OF THE GRAVITATIONAL CONSTANT](http://adsabs.harvard.edu/abs/2016arXiv160202513M)  
+Masuda, Kento, Suto, Yasushi    
+2016, pre-print ([2016arXiv160202513M](http://adsabs.harvard.edu/abs/2016arXiv160202513M))  
+
+22. [PERIOD SPACINGS IN RED GIANTS II. AUTOMATED MEASUREMENT](http://adsabs.harvard.edu/abs/2016arXiv160204940V)  
+Vrard, M., Mosser, B., Samadi, R.    
+2016, pre-print ([2016arXiv160204940V](http://adsabs.harvard.edu/abs/2016arXiv160204940V))  
+
+23. [ARE SOLAR BRIGHTNESS VARIATIONS FACULAE- OR SPOT-DOMINATED?](http://adsabs.harvard.edu/abs/2016arXiv160204447S)  
+Shapiro, A. I., Solanki, S. K., Krivova, N. A., et al.    
+2016, pre-print ([2016arXiv160204447S](http://adsabs.harvard.edu/abs/2016arXiv160204447S))  
+
+24. [SDSS J1152+0248: AN ECLIPSING DOUBLE WHITE DWARF FROM THE KEPLER K2 CAMPAIGN](http://adsabs.harvard.edu/abs/2016MNRAS.tmp..149H)  
+Hallakoun, N., Maoz, D., Kilic, M., et al.    
+2016, refereed ([2016MNRAS.tmp..149H](http://adsabs.harvard.edu/abs/2016MNRAS.tmp..149H))  
+
+25. [PREDICTION OF TRANSITS OF SOLAR SYSTEM OBJECTS IN KEPLER/K2 IMAGES: AN EXTENSION OF THE VIRTUAL OBSERVATORY SERVICE SKYBOT](http://adsabs.harvard.edu/abs/2016arXiv160207153B)  
+Berthier, J., Carry, B., Vachier, F., et al.    
+2016, pre-print ([2016arXiv160207153B](http://adsabs.harvard.edu/abs/2016arXiv160207153B))  
+
+26. [A PULSATION ANALYSIS OF K2 OBSERVATIONS OF THE SUBDWARF B STAR PG1142-037 DURING CAMPAIGN 1: A SUBSYNCHRONOUSLY ROTATING ELLIPSOIDAL VARIABLE](http://adsabs.harvard.edu/abs/2016arXiv160206412R)  
+Reed, M. D., Baran, A. S., Ostensen, R. H., et al.    
+2016, pre-print ([2016arXiv160206412R](http://adsabs.harvard.edu/abs/2016arXiv160206412R))  
+
+27. [WHITE-LIGHT FLARES ON CLOSE BINARIES OBSERVED WITH KEPLER](http://adsabs.harvard.edu/abs/2016arXiv160207972G)  
+Gao, Qing, Xin, Yu, Liu, Ji-Feng, et al.    
+2016, pre-print ([2016arXiv160207972G](http://adsabs.harvard.edu/abs/2016arXiv160207972G))  
+
+28. [A SEARCH FOR CHAOS IN THE BLAZAR: W2R 1926+42 AND ITS POSSIBLE CONSEQUENCE](http://adsabs.harvard.edu/abs/2016arXiv160300140M)  
+Mukhopadhyay, Banibrata, Bachev, Rumen, Strigachev, Anton    
+2016, pre-print ([2016arXiv160300140M](http://adsabs.harvard.edu/abs/2016arXiv160300140M))  
+
+>>>>>>> 1601e3ce2f0baabeae1e35e2852a23ee9976c17a
 
 2016-01
 -------
@@ -486,6 +557,10 @@ Notsu, Yuta, Honda, Satoshi, Maehara, Hiroyuki, et al.
 23. [ON THE LSP3 ESTIMATES OF SURFACE GRAVITY FOR LAMOST-KEPLER STARS WITH ASTEROSEISMIC MEASUREMENTS](http://adsabs.harvard.edu/abs/2015arXiv151008677R)  
 Ren, Juan-Juan, Liu, Xiao-Wei, Xiang, Mao-Sheng, et al.    
 2015, pre-print ([2015arXiv151008677R](http://adsabs.harvard.edu/abs/2015arXiv151008677R))  
+
+24. [ACCRETION-INDUCED VARIABILITY LINKS YOUNG STELLAR OBJECTS, WHITE DWARFS, AND BLACK HOLES](http://adsabs.harvard.edu/abs/2015SciA....1E0686S)  
+Scaringi, S., Maccarone, T. J., Kording, E., et al.    
+2015, refereed ([2015SciA....1E0686S](http://adsabs.harvard.edu/abs/2015SciA....1E0686S))  
 
 
 2015-09

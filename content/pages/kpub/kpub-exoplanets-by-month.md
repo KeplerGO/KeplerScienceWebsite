@@ -19,6 +19,14 @@ Hands, T. O., Alexander, R. D.
 Mia, Rajib, Kushvah, Badam Singh    
 2016, refereed ([2016MNRAS.457.1089M](http://adsabs.harvard.edu/abs/2016MNRAS.457.1089M))  
 
+4. [SOPHIE VELOCIMETRY OF KEPLER TRANSIT CANDIDATES. XVII. THE PHYSICAL PROPERTIES OF GIANT EXOPLANETS WITHIN 400 DAYS OF PERIOD](http://adsabs.harvard.edu/abs/2016A&A...587A..64S)  
+Santerne, A., Moutou, C., Tsantaki, M., et al.    
+2016, refereed ([2016A&A...587A..64S](http://adsabs.harvard.edu/abs/2016A&A...587A..64S))  
+
+5. [KEPLER MISSION: DEVELOPMENT AND OVERVIEW](http://adsabs.harvard.edu/abs/2016RPPh...79c6901B)  
+Borucki, William J.    
+2016, refereed ([2016RPPh...79c6901B](http://adsabs.harvard.edu/abs/2016RPPh...79c6901B))  
+
 
 2016-02
 -------
@@ -51,6 +59,53 @@ Howell, Steve B., Ciardi, David R., Giampapa, Mark S., et al.
 Petigura, Erik A., Howard, Andrew W., Lopez, Eric D., et al.    
 2016, refereed ([2016ApJ...818...36P](http://adsabs.harvard.edu/abs/2016ApJ...818...36P))  
 
+<<<<<<< HEAD
+=======
+8. [THE K2-ESPRINT PROJECT II: SPECTROSCOPIC FOLLOW-UP OF THREE EXOPLANET SYSTEMS FROM CAMPAIGN 1 OF K2](http://adsabs.harvard.edu/abs/2016arXiv160201851V)  
+Van Eylen, Vincent, Nowak, Grzegorz, Albrecht, Simon, et al.    
+2016, pre-print ([2016arXiv160201851V](http://adsabs.harvard.edu/abs/2016arXiv160201851V))  
+
+9. [A TRANSITION IN THE COMPOSITION OF CLOUDS IN HOT JUPITERS](http://adsabs.harvard.edu/abs/2016arXiv160203088P)  
+Parmentier, Vivien, Fortney, Jonathan J., Showman, Adam P., et al.    
+2016, pre-print ([2016arXiv160203088P](http://adsabs.harvard.edu/abs/2016arXiv160203088P))  
+
+10. [IDENTIFYING FALSE ALARMS IN THE KEPLER PLANET CANDIDATE CATALOG](http://adsabs.harvard.edu/abs/2016arXiv160203204M)  
+Mullally, F., Coughlin, Jeffery L., Thompson, Susan E., et al.    
+2016, pre-print ([2016arXiv160203204M](http://adsabs.harvard.edu/abs/2016arXiv160203204M))  
+
+11. [INFERRING ASYMMETRIC LIMB CLOUDINESS ON EXOPLANETS FROM TRANSIT LIGHT CURVES](http://adsabs.harvard.edu/abs/2016arXiv160204362V)  
+von Paris, P., Gratier, P., Bordé, P., et al.    
+2016, pre-print ([2016arXiv160204362V](http://adsabs.harvard.edu/abs/2016arXiv160204362V))  
+
+12. [ON THE DETECTION OF NON-TRANSITING HOT JUPITERS IN MULTIPLE-PLANET SYSTEMS](http://adsabs.harvard.edu/abs/2016arXiv160205674M)  
+Millholland, Sarah, Wang, Songhu, Laughlin, Gregory    
+2016, pre-print ([2016arXiv160205674M](http://adsabs.harvard.edu/abs/2016arXiv160205674M))  
+
+13. [A SEARCH FOR BRIEF OPTICAL FLASHES ASSOCIATED WITH THE SETI TARGET KIC 8462852](http://adsabs.harvard.edu/abs/2016ApJ...818L..33A)  
+Abeysekara, A. U., Archambault, S., Archer, A., et al.    
+2016, refereed ([2016ApJ...818L..33A](http://adsabs.harvard.edu/abs/2016ApJ...818L..33A))  
+
+14. [CONSTRAINING THE RADIATION AND PLASMA ENVIRONMENT OF THE KEPLER CIRCUMBINARY HABITABLE-ZONE PLANETS](http://adsabs.harvard.edu/abs/2016ApJ...818..160Z)  
+Zuluaga, Jorge I., Mason, Paul A., Cuartas-Restrepo, Pablo A.    
+2016, refereed ([2016ApJ...818..160Z](http://adsabs.harvard.edu/abs/2016ApJ...818..160Z))  
+
+15. [TRANSITING PLANET CANDIDATES BEYOND THE SNOW LINE DETECTED BY VISUAL INSPECTION OF 7557 KEPLER OBJECTS OF INTEREST](http://adsabs.harvard.edu/abs/2016arXiv160207848U)  
+Uehara, Sho, Kawahara, Hajime, Masuda, Kento, et al.    
+2016, pre-print ([2016arXiv160207848U](http://adsabs.harvard.edu/abs/2016arXiv160207848U))  
+
+16. [A TRANSITING JUPITER ANALOG](http://adsabs.harvard.edu/abs/2016arXiv160300042K)  
+Kipping, David M., Torres, Guillermo, Henze, Chris, et al.    
+2016, pre-print ([2016arXiv160300042K](http://adsabs.harvard.edu/abs/2016arXiv160300042K))  
+
+17. [TRANSIT TIMING TO FIRST ORDER IN ECCENTRICITY](http://adsabs.harvard.edu/abs/2016ApJ...818..177A)  
+Agol, Eric, Deck, Katherine    
+2016, refereed ([2016ApJ...818..177A](http://adsabs.harvard.edu/abs/2016ApJ...818..177A))  
+
+18. [EFFICIENT GEOMETRIC PROBABILITIES OF MULTI-TRANSITING EXOPLANETARY SYSTEMS FROM CORBITS](http://adsabs.harvard.edu/abs/2016arXiv160207014B)  
+Brakensiek, Joshua, Ragozzine, Darin    
+2016, pre-print ([2016arXiv160207014B](http://adsabs.harvard.edu/abs/2016arXiv160207014B))  
+
+>>>>>>> 1601e3ce2f0baabeae1e35e2852a23ee9976c17a
 
 2016-01
 -------
@@ -166,6 +221,10 @@ Santerne, A., Hébrard, G., Lillo-Box, J., et al.
 28. [CONFIRMATION OF TWO HOT JUPITERS FROM K2 CAMPAIGN 4](http://adsabs.harvard.edu/abs/2016arXiv160107844J)  
 Johnson, Marshall C., Gandolfi, Davide, Fridlund, Malcolm, et al.    
 2016, pre-print ([2016arXiv160107844J](http://adsabs.harvard.edu/abs/2016arXiv160107844J))  
+
+29. [HABITABILITY OF TERRESTRIAL-MASS PLANETS IN THE HZ OF M DWARFS. I. H/HE-DOMINATED ATMOSPHERES](http://adsabs.harvard.edu/abs/2016arXiv160105143O)  
+Owen, James E., Mohanty, Subhanjoy    
+2016, pre-print ([2016arXiv160105143O](http://adsabs.harvard.edu/abs/2016arXiv160105143O))  
 
 
 2015-12
@@ -358,6 +417,10 @@ Buzasi, Derek L., Carboneau, Lindsey, Hessler, Carly, et al.
 21. [TEN MULTI-PLANET SYSTEMS FROM K2 CAMPAIGNS 1 & 2 AND THE MASSES OF TWO HOT SUPER-EARTHS](http://adsabs.harvard.edu/abs/2015arXiv151109213S)  
 Sinukoff, Evan, Howard, Andrew W., Petigura, Erik A., et al.    
 2015, pre-print ([2015arXiv151109213S](http://adsabs.harvard.edu/abs/2015arXiv151109213S))  
+
+22. [PROBING EXOPLANET CLOUDS WITH OPTICAL PHASE CURVES](http://adsabs.harvard.edu/abs/2015PNAS..11213461G)  
+Garcia Munoz, A., Isaak, K. G.    
+2015, refereed ([2015PNAS..11213461G](http://adsabs.harvard.edu/abs/2015PNAS..11213461G))  
 
 
 2015-10

@@ -4,6 +4,14 @@ Save_as: kpub-k2-by-month.html
 [TOC]
 
 
+2016-03
+-------
+
+1. [K2 ROTATION PERIODS FOR LOW-MASS HYADS AND THE IMPLICATIONS FOR GYROCHRONOLOGY](http://adsabs.harvard.edu/abs/2016arXiv160300419D)  
+Douglas, S. T., Agüeros, M. A., Covey, K. R., et al.    
+2016, pre-print ([2016arXiv160300419D](http://adsabs.harvard.edu/abs/2016arXiv160300419D))  
+
+
 2016-02
 -------
 
@@ -39,6 +47,29 @@ Abeysekara, A. U., Archambault, S., Archer, A., et al.
 Petigura, Erik A., Howard, Andrew W., Lopez, Eric D., et al.    
 2016, refereed ([2016ApJ...818...36P](http://adsabs.harvard.edu/abs/2016ApJ...818...36P))  
 
+<<<<<<< HEAD
+=======
+9. [THE K2-ESPRINT PROJECT II: SPECTROSCOPIC FOLLOW-UP OF THREE EXOPLANET SYSTEMS FROM CAMPAIGN 1 OF K2](http://adsabs.harvard.edu/abs/2016arXiv160201851V)  
+Van Eylen, Vincent, Nowak, Grzegorz, Albrecht, Simon, et al.    
+2016, pre-print ([2016arXiv160201851V](http://adsabs.harvard.edu/abs/2016arXiv160201851V))  
+
+10. [NEW PLEIADES ECLIPSING BINARIES AND A HYADES TRANSITING SYSTEM IDENTIFIED BY K2](http://adsabs.harvard.edu/abs/2016arXiv160201901D)  
+David, Trevor J., Conroy, Kyle E., Hillenbrand, Lynne A., et al.    
+2016, pre-print ([2016arXiv160201901D](http://adsabs.harvard.edu/abs/2016arXiv160201901D))  
+
+11. [SDSS J1152+0248: AN ECLIPSING DOUBLE WHITE DWARF FROM THE KEPLER K2 CAMPAIGN](http://adsabs.harvard.edu/abs/2016MNRAS.tmp..149H)  
+Hallakoun, N., Maoz, D., Kilic, M., et al.    
+2016, refereed ([2016MNRAS.tmp..149H](http://adsabs.harvard.edu/abs/2016MNRAS.tmp..149H))  
+
+12. [PREDICTION OF TRANSITS OF SOLAR SYSTEM OBJECTS IN KEPLER/K2 IMAGES: AN EXTENSION OF THE VIRTUAL OBSERVATORY SERVICE SKYBOT](http://adsabs.harvard.edu/abs/2016arXiv160207153B)  
+Berthier, J., Carry, B., Vachier, F., et al.    
+2016, pre-print ([2016arXiv160207153B](http://adsabs.harvard.edu/abs/2016arXiv160207153B))  
+
+13. [A PULSATION ANALYSIS OF K2 OBSERVATIONS OF THE SUBDWARF B STAR PG1142-037 DURING CAMPAIGN 1: A SUBSYNCHRONOUSLY ROTATING ELLIPSOIDAL VARIABLE](http://adsabs.harvard.edu/abs/2016arXiv160206412R)  
+Reed, M. D., Baran, A. S., Ostensen, R. H., et al.    
+2016, pre-print ([2016arXiv160206412R](http://adsabs.harvard.edu/abs/2016arXiv160206412R))  
+
+>>>>>>> 1601e3ce2f0baabeae1e35e2852a23ee9976c17a
 
 2016-01
 -------
@@ -246,6 +277,10 @@ Croll, Bryce, Dalba, Paul A., Vanderburg, Andrew, et al.
 15. [EPIC 204129699B, A GRAZING TRANSITING HOT JUPITER ON AN 1.26-DAY ORBIT AROUND A BRIGHT SOLAR LIKE STAR](http://adsabs.harvard.edu/abs/2015arXiv151009149G)  
 Grziwa, S., Gandolfi, D., Csizmadia, Sz., et al.    
 2015, pre-print ([2015arXiv151009149G](http://adsabs.harvard.edu/abs/2015arXiv151009149G))  
+
+16. [ACCRETION-INDUCED VARIABILITY LINKS YOUNG STELLAR OBJECTS, WHITE DWARFS, AND BLACK HOLES](http://adsabs.harvard.edu/abs/2015SciA....1E0686S)  
+Scaringi, S., Maccarone, T. J., Kording, E., et al.    
+2015, refereed ([2015SciA....1E0686S](http://adsabs.harvard.edu/abs/2015SciA....1E0686S))  
 
 
 2015-09
