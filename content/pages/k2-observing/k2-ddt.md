@@ -4,6 +4,8 @@ Save_as: k2-ddt.html
 
 ### Call for DDT Proposals for Campaigns 8, 9, and 10
 
+<font color=red> Stay tuned for a call for DDT proposals for future campaigns!  </font>
+
 A small percentage of the available K2 pixels in each campaign may be allocated by the K2 Guest Observer (GO) Office Director as Director's Discretionary Targets (DDTs).  The primary utilization of DDT programs is in support of community-proposed requests that are based on exceptional, time-critical observing opportunities that cannot be accommodated with the regular cycle of Calls for Proposals for K2. Other DDT usages include innovative observations that extend the scientific capabilities of K2, and extraordinary events and opportunities that necessitate -- in the view of the GO Office Director -- observations to be obtained with K2 for the benefit of the astronomical community.  Note that all DDT observations are publicly available immediately, and no funding is available to the proposer for DDT observations. 
 
 The purpose of the DDT program for K2 is therefore to facilitate observations that address emerging scientific topics or areas missed in the proposal review process and:
@@ -27,7 +29,7 @@ To ensure that approved targets are included in the final target lists for each 
 
 * October 5, 2015 for Campaign 8 <font color=red> (deadline has passed)</font>
 * December 10, 2015 for Campaign 9 <font color=red> (deadline has passed)</font>
-* March 10, 2016 for Campaign 10
+* March 10, 2016 for Campaign 10 <font color=red> (deadline has passed)</font>
  
 We expect to observe several hundred targets through the DDT program, which amounts to a few per cent of the total targets allocated. The exact number of DDTs to be observed largely depends on the number of short versus long cadence DDTs approved. 
 
