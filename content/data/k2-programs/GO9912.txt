@@ -1,0 +1,12 @@
+# Summary of K2 Program GO9912
+
+Title: Discovering the Orbital Period of the Recurrent Nova V2487 Oph
+
+PI: Pagnotta, Ashley (American Museum of Natural History)
+CoIs: 
+
+
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+248368750, , , , GO9912_LC|GO9912_SC

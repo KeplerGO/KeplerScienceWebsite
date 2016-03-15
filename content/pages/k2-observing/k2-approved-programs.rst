@@ -19,6 +19,36 @@ After data has been released, the
 `data release notes <data-products.html#k2-data-release-notes>`_ 
 should be consulted for more comprehensive notes for each Campaign.
 
+
+Campaign 9
+---------------------
+.. raw:: html
+
+  <p>
+  The Campaign 9 target list.
+  </p>
+  <ul class="list-group">
+    <li class="list-group-item">
+      <i class="fa fa-calendar fa-margin"></i>
+      Apr 7 - Jul 1, 2016
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-pencil-square-o fa-margin"></i>
+      Data release notes (awaiting data release)
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-download fa-margin"></i>
+      <a href="data/campaigns/c9/C9_targetlistforweb_final.txt">Target list (csv)</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-external-link fa-margin"></i>
+      Target pixel files (awaiting data release)
+    </li>
+  </ul>
+
+.. include:: approved-programs/c9.html
+
+
 Campaign 8
 ---------------------
 .. raw:: html

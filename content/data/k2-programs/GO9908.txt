@@ -1,0 +1,14 @@
+# Summary of K2 Program GO9908
+
+Title: K2 Observations of 3 Candidate Pulsating WDs in Field 9
+
+PI: Hermes, J.J. (University of North Carolina at Chapel Hill)
+CoIs: 
+
+
+
+# Targets requested by this program that have been observed (3)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+224048262, 268.976278, -24.946954, 14.793, GO9908_LC|GO9908_SC
+248368658, , , , GO9908_LC|GO9908_SC
+248368659, , , , GO9908_LC|GO9908_SC
