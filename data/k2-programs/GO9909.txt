@@ -1,0 +1,12 @@
+# Summary of K2 Program GO9909
+
+Title: Recurrent Nova V3890 Sgr
+
+PI: Schaefer, Bradley E. (Louisiana State University)
+CoIs: 
+
+
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+224566226, 277.680352, -24.019143, 11.526, GO9909_LC
