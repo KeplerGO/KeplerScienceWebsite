@@ -2,7 +2,7 @@
 
 Title: Isolated stars for PRF inference
 
-PI: Microlensing Science Team, K2 C9 (NASA)
+PI: Microlensing Science Team, K2 (NASA)
 CoIs: 
 
 

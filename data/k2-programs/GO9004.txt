@@ -2,7 +2,7 @@
 
 Title: Ongoing microlensing events selected for the first half of Campaign 9 (C9a)
 
-PI: Microlensing Science Team, K2 C9 (NASA)
+PI: Microlensing Science Team, K2 (NASA)
 CoIs: 
 
 

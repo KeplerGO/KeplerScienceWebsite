@@ -2,7 +2,7 @@
 
 Title: Dark clouds for noise model inference
 
-PI: Microlensing Science Team, K2 C9 (NASA)
+PI: Microlensing Science Team, K2 (NASA)
 CoIs: 
 
 
