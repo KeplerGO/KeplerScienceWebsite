@@ -1,0 +1,13 @@
+# Summary of K2 Program GO9925
+
+Title: Two targets for engineering use during checkout
+
+PI: GO Office, K2 (NASA Ames)
+CoIs: 
+
+The project needs needs to downlink three bright but unsaturated and isolated targets for downlink during the checkout phase at the start of the campaign. These targets are used to check the pointing is nominal. Only one proposed target was suitable in C9 so the project selected two additional targets: 226557170 and 225576868. These targets are assigned masks of 25x25 pixels.
+
+# Targets requested by this program that have been observed (2)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+225576868, 275.752502, -22.268249, 12.652, GO9925_LC
+226557170, 264.036863, -20.303066, 12.375, GO9925_LC

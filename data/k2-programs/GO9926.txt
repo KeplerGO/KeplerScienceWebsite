@@ -1,0 +1,31 @@
+# Summary of K2 Program GO9926
+
+Title: Large superstamp masks were tiled over the center of the Lagoon nebula
+
+PI: GO Office, K2 (NASA Ames)
+CoIs: 
+
+A superstamp was placed over the Lagoon Nebula to capture a large number of targets from proposal GO9921.  This avoids the need for a large number of overlapping individual target masks in the core of the cluster.
+
+# Targets requested by this program that have been observed (20)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+200071160, , , , GO9926_LC|LC_LAGOON_TILE
+200071161, , , , GO9926_LC|LC_LAGOON_TILE
+200071162, , , , GO9926_LC|LC_LAGOON_TILE
+200071163, , , , GO9926_LC|LC_LAGOON_TILE
+200071164, , , , GO9926_LC|LC_LAGOON_TILE
+200071165, , , , GO9926_LC|LC_LAGOON_TILE
+200071166, , , , GO9926_LC|LC_LAGOON_TILE
+200071167, , , , GO9926_LC|LC_LAGOON_TILE
+200071168, , , , GO9926_LC|LC_LAGOON_TILE
+200071169, , , , GO9926_LC|LC_LAGOON_TILE
+200071170, , , , GO9926_LC|LC_LAGOON_TILE
+200071171, , , , GO9926_LC|LC_LAGOON_TILE
+200071172, , , , GO9926_LC|LC_LAGOON_TILE
+200071173, , , , GO9926_LC|LC_LAGOON_TILE
+200071174, , , , GO9926_LC|LC_LAGOON_TILE
+200071175, , , , GO9926_LC|LC_LAGOON_TILE
+200071176, , , , GO9926_LC|LC_LAGOON_TILE
+200071177, , , , GO9926_LC|LC_LAGOON_TILE
+200071178, , , , GO9926_LC|LC_LAGOON_TILE
+200071179, , , , GO9926_LC|LC_LAGOON_TILE

@@ -1,0 +1,12 @@
+# Summary of K2 Program GO9917
+
+Title: K2 short-cadence characterization of the unusually slow nova V5558 Sgr
+
+PI: Gänsicke, Boris (University of Warwick)
+CoIs: 
+
+We propose to obtain the first short-cadence K2 observations a classical nova: V5558 Sgr erupted in 2007 and is a very rare example of a thermonuclear runaway on a low-mass white dwarf. The K2 observations will be used to determine its orbital period, to constrain the binary parameter, and to probe the re-start of mass transfer following the nova eruption.
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+248368902, , , , GO9917_LC|GO9917_SC

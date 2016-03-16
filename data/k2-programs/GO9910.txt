@@ -1,0 +1,13 @@
+# Summary of K2 Program GO9910
+
+Title: Kepler's Only Novae in Eruption: V5666 Sgr & V5667 Sgr
+
+PI: Schaefer, Bradley E. (Louisiana State University)
+CoIs: 
+
+
+
+# Targets requested by this program that have been observed (2)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+248368660, , , , GO9910_LC|GO9910_SC
+248368661, , , , GO9910_LC|GO9910_SC

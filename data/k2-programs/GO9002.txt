@@ -1,0 +1,20 @@
+# Summary of K2 Program GO9002
+
+Title: Isolated stars for PRF inference
+
+PI: Microlensing Science Team, K2 (NASA)
+CoIs: 
+
+
+
+# Targets requested by this program that have been observed (9)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+200069387, , , , GO9002_LC
+200069388, , , , GO9002_LC
+200069389, , , , GO9002_LC
+200069390, , , , GO9002_LC
+222477580, 268.479434, -27.438676, 8.474, GO9002_LC
+222558157, 267.572184, -27.320687, 14.451, GO9002_LC
+222574234, 268.291341, -27.296765, 11.43, GO9002_LC
+222642837, 268.233699, -27.19642, 10.252, GO9002_LC
+223700424, 270.495757, -25.536742, 15.14, GO9002_LC
