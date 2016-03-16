@@ -9,6 +9,7 @@ class TargetList(object):
     """Class for interacting with a target list in Tom's CSV format."""
 
     def __init__(self, csv_filename):
+        self.csv_filename = csv_filename
         self._df = pd.read_csv(csv_filename)
         # The column names in the target lists aren't consistent
         if " Investigation IDs" in self._df:
@@ -28,6 +29,9 @@ class TargetList(object):
                                    if program_id.strip().startswith("GO")]
                              )
                      )
+        if "c9" in self.csv_filename:
+            unique_ids.append("GO9901")  # Only C9 program with all targets in C9 superstamp
+            unique_ids.sort()
         return unique_ids
 
     def get_targets(self, program_id):

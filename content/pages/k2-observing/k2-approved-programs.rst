@@ -25,7 +25,7 @@ Campaign 9
 .. raw:: html
 
   <p>
-  The Campaign 9 target list.
+  <!-- TODO: add C9 paragraph here. -->
   </p>
   <ul class="list-group">
     <li class="list-group-item">

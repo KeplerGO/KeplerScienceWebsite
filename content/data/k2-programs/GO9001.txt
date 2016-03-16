@@ -2,7 +2,7 @@
 
 Title: Superaperture masks for microlensing
 
-PI: Microlensing Science Team, K2 C9 (NASA)
+PI: Microlensing Science Team, K2 (NASA)
 CoIs: 
 
 

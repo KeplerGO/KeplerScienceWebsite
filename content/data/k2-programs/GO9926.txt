@@ -1,11 +1,11 @@
 # Summary of K2 Program GO9926
 
-Title: Superaperture mask over the Lagoon nebula
+Title: Large superstamp masks were tiled over the center of the Lagoon nebula
 
-PI: Barclay, Thomas (NASA Ames)
+PI: GO Office, K2 (NASA Ames)
 CoIs: 
 
-
+A superstamp was placed over the Lagoon Nebula to capture a large number of targets from proposal GO9921.  This avoids the need for a large number of overlapping individual target masks in the core of the cluster.
 
 # Targets requested by this program that have been observed (20)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
