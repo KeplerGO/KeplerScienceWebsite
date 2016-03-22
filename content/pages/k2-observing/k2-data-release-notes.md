@@ -124,7 +124,7 @@ The star on Module 25 used for guiding during C6 was highly variable. No adverse
 
 <div class="thumbnail" style="width: 56%;">
     <div class="caption">
-<i>Figure: The normalized BLS (box-least squares) spectra for 400 long cadence targets on channel 42, sorted by magnitude (with the brightest at the top).  The 14-hour period and its harmonics show-up as yellow vertical lines on this figure. The majority of targets on this channel have a significant signal at this period.   
+<i>Figure: The normalized BLS (box-least squares) spectra for 400 long cadence targets on channel 42, sorted by magnitude (with the brightest at the top).  The 14.5-hour period and a series of peaks every ~7 hours show-up as yellow vertical lines on this figure. The majority of targets on this channel have a significant signal at this period.   
 </i></div>
     <a href="images/release-notes/c6/ch42blsSpectrumC6.png">
         <img src="images/release-notes/c6/ch42blsSpectrumC6.png" class="img-responsive" alt="The Bls spectrum for 400 targets on channel 42.">
@@ -139,7 +139,7 @@ The star on Module 25 used for guiding during C6 was highly variable. No adverse
 
 The dominant systematic present in K2 simple aperture photometry light curves is a sawtooth shape that is due to the roll of the spacecraft approximately every 6 hours. The PDC module of the Kepler Pipeline uses Principle Component Analysis to remove this signal in addition to other systematics. Below, we examine observed noise levels in the PDC light curves for C6, Data Release 8.
 
-<a href="images/release-notes/c6/K2-C06_bin1.00_sc1.00_CDPP_Summary.txt">Table giving 6.5-hr CDPP as a function of magnitude.</a>
+<a href="images/release-notes/c6/K2-C6_bin1.00_sc1.00_CDPP_Summary.txt">Table giving 6.5-hr CDPP as a function of magnitude.</a>
 
 <div class="thumbnail" style="width: 70%;">
     <div class="caption">
