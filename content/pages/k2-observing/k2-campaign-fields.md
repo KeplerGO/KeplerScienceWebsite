@@ -190,7 +190,7 @@ This page details the previous, current, and future K2 Campaign fields.
       <td>18:01:25</td>
       <td>-21:46:47</td>
       <td class="text-center">
-        
+        <a href="k2-approved-programs.html#campaign-9"><i class="fa fa-check"></i></a>        
       </td>
       <td class="text-center">
         
