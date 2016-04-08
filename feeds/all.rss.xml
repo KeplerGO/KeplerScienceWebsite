@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kepler &amp; K2</title><link>http://keplerscience.arc.nasa.gov/</link><description></description><atom:link href="http://keplerscience.arc.nasa.gov/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 18 Feb 2016 12:00:00 -0800</lastBuildDate><item><title>K2 Campaign 6 short cadence data available</title><link>http://keplerscience.arc.nasa.gov/k2-campaign-6-short-cadence-data-available.html</link><description>&lt;p&gt;Short cadence target pixel files and light curves for K2 Campaign 6
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kepler &amp; K2</title><link>http://keplerscience.arc.nasa.gov/</link><description></description><atom:link href="http://keplerscience.arc.nasa.gov/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 08 Apr 2016 16:00:00 -0700</lastBuildDate><item><title>Start of K2 Campaign 9 delayed</title><link>http://keplerscience.arc.nasa.gov/start-of-k2-campaign-9-delayed.html</link><description>&lt;p&gt;During a scheduled contact on Thursday, April 7,
+mission operations engineers discovered that the Kepler spacecraft
+was in Emergency Mode (EM).  As a result, the start of K2 Campaign 9
+is delayed until further notice.&lt;/p&gt;
+&lt;p&gt;Updates will be provided via the
+&lt;a href="http://www.nasa.gov/feature/mission-manager-update-kepler-spacecraft-in-emergency-mode"&gt;Mission Manager Updates&lt;/a&gt;.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Fri, 08 Apr 2016 16:00:00 -0700</pubDate><guid>tag:keplerscience.arc.nasa.gov,2016-04-08:start-of-k2-campaign-9-delayed.html</guid></item><item><title>K2 Campaign 6 short cadence data available</title><link>http://keplerscience.arc.nasa.gov/k2-campaign-6-short-cadence-data-available.html</link><description>&lt;p&gt;Short cadence target pixel files and light curves for K2 Campaign 6
 are now available for download 
 from the &lt;a href="https://archive.stsci.edu/k2/"&gt;K2 data archive at MAST&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Whilst data for 28,289 long cadence targets in C6
