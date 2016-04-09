@@ -5,7 +5,7 @@ Author: Geert Barentsen
 During a scheduled contact on Thursday, April 7,
 mission operations engineers discovered that the Kepler spacecraft
 was in Emergency Mode (EM).  As a result, the start of K2 Campaign 9
-is delayed until further notice.
+is delayed.
 
 Updates will be provided via the
 <a href="http://www.nasa.gov/feature/mission-manager-update-kepler-spacecraft-in-emergency-mode">Mission Manager Updates</a>.
