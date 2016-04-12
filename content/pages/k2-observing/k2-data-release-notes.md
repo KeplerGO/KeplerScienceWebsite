@@ -154,7 +154,7 @@ The dominant systematic present in K2 simple aperture photometry light curves is
 
 The following is the data release history for this campaign. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
 
-* <a href="k2-pipeline-release-notes.html">Data Release 8</a>
+* <a href="k2-pipeline-release-notes.html#data-release-8">Data Release 8</a>
 
     * Note: The short cadence data will be released a few weeks after the long cadence data so that a bug fix can be implemented to ensure that the smear correction is properly applied.  Hence, the [Erratum](http://archive.stsci.edu/kepler/KSCI-19080-001.pdf) regarding the long-standing problem with the short cadence smear correction does not apply to the C6 SC data. 
 
@@ -275,7 +275,7 @@ The dominant systematic present in K2 simple aperture photometry light curves is
 
 The following is the data release history for this campaign. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
 
-* <a href="k2-pipeline-release-notes.html">Data Release 7</a>
+* <a href="k2-pipeline-release-notes.html#data-release-7">Data Release 7</a>
 
 <hr>
 
@@ -445,7 +445,7 @@ The photometric precision is generally better near the center of the focal plane
 
 The following is the data release history for this campaign. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
 
-* <a href="k2-pipeline-release-notes.html">Data Release 6</a>
+* <a href="k2-pipeline-release-notes.html#data-release-6">Data Release 6</a>
 
 <br>
 ***Notes Specific to Data Release 6***
@@ -601,7 +601,7 @@ Campaign 3 had a nominal duration of 80 days, but an actual duration of only 69.
 
 The following is the data release history for this campaign. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
 
-* <a href="k2-pipeline-release-notes.html">Data Release 5</a>
+* <a href="k2-pipeline-release-notes.html#data-release-5">Data Release 5</a>
 
 <hr>
 
@@ -771,7 +771,7 @@ For C2, a number of targets were proposed without <a href="https://archive.stsci
 
 The following is the data release history for this campaign. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
 
-* <a href="k2-pipeline-release-notes.html">Data Release 4</a>
+* <a href="k2-pipeline-release-notes.html#data-release-4">Data Release 4</a>
 
 <hr>
 
@@ -853,7 +853,7 @@ For this Campaign, a number of targets were proposed without EPIC ID numbers. If
 
 The following is the data release history for this campaign. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
 
-* <a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr3">Data Release 3</a>
+* <a href="k2-pipeline-release-notes.html#data-release-3">Data Release 3</a>
 
 <hr>
 
@@ -1012,5 +1012,12 @@ This issue occurs for both the long and short cadence data. It does not appear i
 
 The following is the data release history for this campaign. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
 
-* <a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr2">Data Release 2</a>
-* <a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr1">Data Release 1</a>
+* <a href="k2-pipeline-release-notes.html#data-release-2">Data Release 2</a>
+* <a href="k2-pipeline-release-notes.html#data-release-1">Data Release 1</a>
+
+<hr>
+<br>
+Page last updated on: 
+<script>
+document.write(document.lastModified);
+</script>
