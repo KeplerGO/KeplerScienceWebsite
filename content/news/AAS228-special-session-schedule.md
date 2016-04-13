@@ -40,7 +40,7 @@ The talk schedule is as follows:
 
 In addition to the oral session, there is an associated K2 poster session
 the evening of Monday, 13 Jun 2016, from 5:30 pm - 6:30 pm in room
-"Saphhire C".
+"Sapphire C".
 
 Be sure to also check out other Kepler- and K2-related
 talks and posters being presented during the rest of the meeting!
