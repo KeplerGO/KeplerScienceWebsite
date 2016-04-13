@@ -1,5 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="http://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="http://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>http://keplerscience.arc.nasa.gov/</id><updated>2016-04-12T19:00:00-07:00</updated><entry><title>K2 Campaign 7 data processing complete</title><link href="http://keplerscience.arc.nasa.gov/k2-campaign-7-data-processing-complete.html" rel="alternate"></link><updated>2016-04-12T19:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2016-04-12:k2-campaign-7-data-processing-complete.html</id><summary type="html">&lt;p&gt;Data processing for K2 Campaign 7 is now complete
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="http://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="http://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>http://keplerscience.arc.nasa.gov/</id><updated>2016-04-13T14:30:00-07:00</updated><entry><title>K2 Campaigns 11, 12 and 13 Director's Discretionary Targets Program</title><link href="http://keplerscience.arc.nasa.gov/k2-campaigns-11-12-and-13-directors-discretionary-targets-program.html" rel="alternate"></link><updated>2016-04-13T14:30:00-07:00</updated><author><name>Knicole Colon</name></author><id>tag:keplerscience.arc.nasa.gov,2016-04-13:k2-campaigns-11-12-and-13-directors-discretionary-targets-program.html</id><summary type="html">&lt;p&gt;As in Cycle 3, the Guest Observer (GO) Office is providing a faster mechanism for headline astrophysics in K2 GO Cycle 4, via the Director's Discretionary Target (DDT) program.  The purpose of the DDT program for K2 is to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;respond to targets of opportunity, e.g. newly discovered exoplanets or supernovae;&lt;/li&gt;
+&lt;li&gt;yield high-impact science from K2;&lt;/li&gt;
+&lt;li&gt;enhance existing GO programs with additional critical data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The DDT program for K2 occurs on a rolling basis; observations can be proposed for at any time starting with targets in Campaign 11. However, to ensure that approved targets are included in the final target lists for each campaign, proposals must be submitted by the following dates:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;May 26, 2016 for Campaign 11&lt;/li&gt;
+&lt;li&gt;August 18, 2016 for Campaign 12&lt;/li&gt;
+&lt;li&gt;November 10, 2016 for Campaign 13&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The complete list of requirements for DDT proposals and details on the submission process are provided on the &lt;a href="http://keplerscience.arc.nasa.gov/k2-ddt.html"&gt;DDT webpage&lt;/a&gt;.&lt;/p&gt;</summary></entry><entry><title>K2 Special Session at #AAS228 on 13 Jun 2016</title><link href="http://keplerscience.arc.nasa.gov/k2-special-session-at-aas228-on-13-jun-2016.html" rel="alternate"></link><updated>2016-04-13T13:30:00-07:00</updated><author><name>Knicole Colon</name></author><id>tag:keplerscience.arc.nasa.gov,2016-04-13:k2-special-session-at-aas228-on-13-jun-2016.html</id><summary type="html">&lt;p&gt;The K2 mission will have a special session at the
+&lt;a href="http://aas.org/meetings/aas228"&gt;228th meeting&lt;/a&gt; 
+of the American Astronomical Society (AAS) being held in San Diego,
+California this summer.&lt;/p&gt;
+&lt;p&gt;On Monday, 13 Jun 2016, from 10:00 am - 11:30 am in room
+"Indigo A" at the Hilton San Diego Bayfront,
+we will have a series of invited and contributed talks to update the
+audience on the status of the K2 mission as well as present some of the exciting scientific
+results coming out of the mission.&lt;/p&gt;
+&lt;p&gt;The talk schedule is as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;10:00 am - The NASA K2 Mission: Exploring
+   Planets, Stars, and Beyond - &lt;i&gt;Knicole Colón, NASA Ames&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;10:10 am - K2 Extra-Galactic and Supernova
+   Studies and C17 - &lt;i&gt;Bradley Tucker, Australian National University&lt;/i&gt; &lt;/li&gt;
+&lt;li&gt;10:20 am - K2 Microlensing and Campaign 9 -
+   &lt;i&gt;Matthew Penny, Ohio State University &lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;10:30 am - DAVE: Discovery and Vetting of K2
+   Exoplanets - &lt;i&gt;Jeffrey Coughlin, SETI/NASA Ames&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;10:40 am - Spitzer to the Rescue! Improved
+   Ephemerides Preserve K2 Planets for Future Studies With JWST -
+   &lt;i&gt;Courtney Dressing, Caltech&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;10:50 am - Stellar Astrophysics with the K2
+   Mission - &lt;i&gt;Derek Buzasi, Florida Gulf Coast University&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;11:00 am - K2 Survey of Ultracool Dwarfs -
+ &lt;i&gt;John Gizis, University of Delaware&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;11:10 am - Discovery and Characterization of
+   Eclipsing Binary Stars and Transiting Planets in Young Benchmark
+   Clusters: The Pleiades and Hyades -
+   &lt;i&gt;Keivan Stassun, Vanderbilt, Fisk University&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;11:20 am - That's How We Roll - The NASA K2
+   Mission Science Planning, Products, and Performance Metrics -
+   &lt;i&gt;Jeffrey Van Cleve, SETI/NASA Ames&lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In addition to the oral session, there is an associated K2 poster session
+the evening of Monday, 13 Jun 2016, from 5:30 pm - 6:30 pm in room
+"Saphhire C".&lt;/p&gt;
+&lt;p&gt;Be sure to also check out other Kepler- and K2-related
+talks and posters being presented during the rest of the meeting!&lt;/p&gt;</summary></entry><entry><title>K2 Campaign 7 data processing complete</title><link href="http://keplerscience.arc.nasa.gov/k2-campaign-7-data-processing-complete.html" rel="alternate"></link><updated>2016-04-12T19:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2016-04-12:k2-campaign-7-data-processing-complete.html</id><summary type="html">&lt;p&gt;Data processing for K2 Campaign 7 is now complete
 and the pixel files are in the process of being shipped
 to the &lt;a href="http://archive.stsci.edu/k2"&gt;MAST archive&lt;/a&gt;.
 We anticipate that the data will become available to the public shortly.&lt;/p&gt;
