@@ -7,7 +7,7 @@ in August 2015, using pelican-bootstrap and flatly.
 >
 
 <head>
-    <title>Problem with Kepler and K2 short cadence pixel calibration - Kepler &amp; K2</title>
+    <title>Start of K2 Campaign 9 delayed - Kepler &amp; K2</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -31,17 +31,17 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="./images/favicon.png" rel="icon">
 
-<link rel="canonical" href="./problem-with-kepler-and-k2-short-cadence-pixel-calibration.html">
+<link rel="canonical" href="./start-of-k2-campaign-9-delayed.html">
 
         <meta name="author" content="Geert Barentsen" />
-        <meta name="description" content="A K2 Guest Observer notified the Kepler Science Center in November 2015 of a puzzling difference between the short- and long-cadence calibrated pixel data for a specific K2 target. After investigation, the problem was traced to an accounting error for the short-cadence collateral smear data. Under some conditions, these data ..." />
+        <meta name="description" content="During a scheduled contact on Thursday, April 7, mission operations engineers discovered that the Kepler spacecraft was in Emergency Mode (EM). As a result, the start of K2 Campaign 9 is delayed. Updates will be provided via the Mission Manager Updates." />
 
         <meta property="og:site_name" content="Kepler &amp; K2" />
         <meta property="og:type" content="article"/>
-        <meta property="og:title" content="Problem with Kepler and K2 short cadence pixel calibration"/>
-        <meta property="og:url" content="./problem-with-kepler-and-k2-short-cadence-pixel-calibration.html"/>
-        <meta property="og:description" content="A K2 Guest Observer notified the Kepler Science Center in November 2015 of a puzzling difference between the short- and long-cadence calibrated pixel data for a specific K2 target. After investigation, the problem was traced to an accounting error for the short-cadence collateral smear data. Under some conditions, these data ..."/>
-        <meta property="article:published_time" content="2016-02-04" />
+        <meta property="og:title" content="Start of K2 Campaign 9 delayed"/>
+        <meta property="og:url" content="./start-of-k2-campaign-9-delayed.html"/>
+        <meta property="og:description" content="During a scheduled contact on Thursday, April 7, mission operations engineers discovered that the Kepler spacecraft was in Emergency Mode (EM). As a result, the start of K2 Campaign 9 is delayed. Updates will be provided via the Mission Manager Updates."/>
+        <meta property="article:published_time" content="2016-04-08" />
             <meta property="article:section" content="news" />
             <meta property="article:author" content="Geert Barentsen" />
 
@@ -141,10 +141,10 @@ in August 2015, using pelican-bootstrap and flatly.
         <article>
             <header >
                 <h1>
-                    <a href="./problem-with-kepler-and-k2-short-cadence-pixel-calibration.html"
+                    <a href="./start-of-k2-campaign-9-delayed.html"
                        rel="bookmark"
-                       title="Permalink to Problem with Kepler and K2 short cadence pixel calibration">
-                        Problem with Kepler and K2 short cadence pixel calibration
+                       title="Permalink to Start of K2 Campaign 9 delayed">
+                        Start of K2 Campaign 9 delayed
                     </a>
                 </h1>
             </header>
@@ -152,7 +152,7 @@ in August 2015, using pelican-bootstrap and flatly.
 <p style="margin-bottom: 1.5em;">
     <span class="published categories-timestamp">
         News article posted on
-        <time datetime="2016-02-04T13:00:00-08:00"> 04 Feb 2016</time>
+        <time datetime="2016-04-08T16:00:00-07:00"> 08 Apr 2016</time>
     
 
 
@@ -163,55 +163,12 @@ in August 2015, using pelican-bootstrap and flatly.
     
 
     </span>
-</p><!-- /.post-info -->                <p>A K2 Guest Observer notified the Kepler Science Center in November 2015
-of a puzzling difference between the short- and long-cadence
-calibrated pixel data for a specific K2 target.</p>
-<p>After investigation, the problem was traced to an accounting error
-for the short-cadence collateral smear data.
-Under some conditions, these data are passed incorrectly
-between the spacecraft and the ground, causing smear values to be
-assigned to the wrong columns within a target’s aperture.</p>
-<p>In these cases, the pipeline’s pixel-level calibration routine
-applies an erroneous smear correction.</p>
-<h3 id="impact">Impact</h3>
-<p>The issue has been present since launch and affects both the target pixel
-files and the light curves of approximately
-half of all short-cadence targets in all releases to date,
-i.e. Kepler Data Releases 1-24 and K2 Data Releases for Campaigns 0-5.
-A list of all the affected targets is attached below.
-The long cadence data for these or other targets is <em>not</em> affected.</p>
-<p>Since the smear signal is often small compared to the target signal,
-the effect is negligible for many targets.
-However, the smear signal is scene-dependent,
-so time-varying signals can be introduced into an affected target
-by the other stars falling on the same CCD column.</p>
-<p>To assess the impact on affected targets,
-users should inspect the calibrated target pixels
-(see Section 2.3.2 of the <a href="https://archive.stsci.edu/kepler/manuals/archive_manual.pdf">Kepler Archive Manual</a>).
-An improperly corrected smear signal may show up as an anomalously bright,
-or dark, column in the calibrated target pixel image.
-Comparison of the short-cadence pixel image with the long-cadence pixel image
-(which is not affected by this problem)
-can be used to estimate the magnitude of any contaminating signal.</p>
-<h3 id="solution">Solution</h3>
-<p>The Kepler pipeline has been amended to ensure that the 
-correct smear data is used at all times. 
-All affected data will be corrected as follows:</p>
-<ul>
-<li>All upcoming K2 data releases will be corrected from the start,
- beginning with Campaign 6. (The release of C6 short cadence data will be delayed by approximately two weeks as a result.)</li>
-<li>Reprocessing of K2 Campaigns 0-5 will occur over the coming months. The expected release dates will be listed here when known.</li>
-<li>Data from the prime Kepler mission will be corrected as part of the scheduled reprocessing with pipeline release 9.3 (DR25). Corrected target pixel files are expected to be available in Summer 2016.</li>
-</ul>
-<h3 id="more-information">More information</h3>
-<p>The project has released an erratum document describing the issue and
-its impact in more detail.
-The document is accompanied by a list of all the affected targets:</p>
-<ul>
-<li><a href="data/documentation/KSCI-19080-002.pdf">KSCI-19080-002.pdf</a> (Erratum document containing a detailed description of the problem; updated 23 March 2016.)</li>
-<li><a href="data/documentation/kepler_bad_short_cadence_target_list.csv">kepler_bad_short_cadence_target_list.csv</a></li>
-<li><a href="data/documentation/k2_bad_short_cadence_target_list.csv">k2_bad_short_cadence_target_list.csv</a></li>
-</ul>
+</p><!-- /.post-info -->                <p>During a scheduled contact on Thursday, April 7,
+mission operations engineers discovered that the Kepler spacecraft
+was in Emergency Mode (EM).  As a result, the start of K2 Campaign 9
+is delayed.</p>
+<p>Updates will be provided via the
+<a href="http://www.nasa.gov/feature/mission-manager-update-kepler-spacecraft-in-emergency-mode">Mission Manager Updates</a>.</p>
             </div>
             <!-- /.entry-content -->
         </article>
@@ -260,7 +217,7 @@ The document is accompanied by a list of all the affected targets:</p>
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Thu 04 February 2016
+         Last modified: Fri 08 April 2016
             &middot; Editor: Thomas Barclay &middot; NASA Official: Jessie Dotson 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
