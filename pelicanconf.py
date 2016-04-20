@@ -105,12 +105,21 @@ IMPORTANT_DATES = (
             ('<b>30 Apr 2016</b>',
              'K2 Campaign 7 data release (expected)',
              'data-products.html#k2-product-overview'),
+            ('<b>26 May 2016</b>',
+             'K2 Campaign 11 DDT proposal deadline',
+             'k2-ddt.html'), 
             ('<b>24 Jun 2016</b>',
              'K2 Campaign 8 data release (expected)',
              'data-products.html#k2-product-overview'),
+            ('<b>18 Aug 2016</b>',
+             'K2 Campaign 12 DDT proposal deadline',
+             'k2-ddt.html'),  
             ('<b>26 Sep 2016</b>',
              'K2 Campaign 9 data release (expected)',
              'data-products.html#k2-product-overview'),
+            ('<b>10 Nov 2016</b>',
+             'K2 Campaign 13 DDT proposal deadline',
+             'k2-ddt.html'), 
          )
 
 # Defines the "meetings" box on the front page

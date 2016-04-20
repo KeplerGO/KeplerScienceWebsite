@@ -59,6 +59,6 @@ The project has released an erratum document describing the issue and
 its impact in more detail.
 The document is accompanied by a list of all the affected targets:
 
-* [KSCI-19080-001.pdf](data/documentation/KSCI-19080-001.pdf) (Erratum document containing a detailed description of the problem.)
+* [KSCI-19080-002.pdf](data/documentation/KSCI-19080-002.pdf) (Erratum document containing a detailed description of the problem; updated 23 March 2016.)
 * [kepler_bad_short_cadence_target_list.csv](data/documentation/kepler_bad_short_cadence_target_list.csv)
 * [k2_bad_short_cadence_target_list.csv](data/documentation/k2_bad_short_cadence_target_list.csv)
