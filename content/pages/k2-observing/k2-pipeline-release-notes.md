@@ -9,6 +9,14 @@ For more information about the Kepler pipeline see the Kepler manuals: <a href="
 
 Information about each specific campaign can be found in the links associated with each data release. 
 
+### Data Release 9
+* April 2016
+* SOC 9.3
+* Campaigns: [C7](k2-data-release-notes.html#k2-campaign-7)
+
+This is the first delivery of C7. No features of the files or the data processing have changed.  See below for previous updates to the K2 pipeline.
+
+
 ### Data Release 8 
 * February 2016
 * SOC 9.3
