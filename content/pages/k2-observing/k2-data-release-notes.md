@@ -183,7 +183,7 @@ There are 4 channels in C7 for which the saturation spill due to very bright sta
 
 The following is the data release history for C7. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
 
-* <a href="k2-pipeline-release-notes.html">Data Release 9</a>
+* <a href="k2-pipeline-release-notes.html#data-release-9">Data Release 9</a>
 
 
 <hr>
