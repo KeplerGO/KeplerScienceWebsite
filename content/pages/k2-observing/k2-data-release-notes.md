@@ -24,7 +24,7 @@ the scientific exploitation of the data.
 
     <b><i>Targets</i></b>
     <ul>
-        <li> 13,483 in long cadence (LC)</li>
+        <li> 13,469 in long cadence (LC)</li>
         <li> 72 in short cadence (SC)</li>
         <li>Several custom targets were selected. See the <a href="images/release-notes/c7/ktwoc07_caf.csv">csv file that maps</a> the custom aperture number to the target name.</li>
     </ul>
@@ -357,7 +357,7 @@ The following is the data release history for C6. Follow the link for informatio
 
     <b><i>Targets</i></b>
     <ul>
-        <li>25,099 in long cadence (LC)</li>
+        <li>25,850 in long cadence (LC)</li>
         <li>204 in short cadence (SC)</li>
         <li>Several custom targets (see below)</li>
     </ul>
@@ -474,7 +474,7 @@ The following is the data release history for this campaign. Follow the link for
 
     <b><i>Targets</i></b>
     <ul>
-        <li>15,853 in long cadence (LC)</li>
+        <li>15,847 in long cadence (LC)</li>
         <li>122 in short cadence (SC)</li>
         <li>Several custom targets (see below)</li>
     </ul>
@@ -804,8 +804,8 @@ The following is the data release history for this campaign. Follow the link for
 
     <b><i>Targets</i></b>
     <ul>
-        <li>13401 in long cadence (LC)</li>
-        <li>55 in short cadence (SC)</li>
+        <li>13,399 in long cadence (LC)</li>
+        <li>54 in short cadence (SC)</li>
         <li>Several custom targets (see below)</li>
     </ul>
 

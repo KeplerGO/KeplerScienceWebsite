@@ -103,7 +103,7 @@ Campaign 7
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
-      Target pixel files (awaiting data release)
+      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c7/">Target pixel files (MAST)</a>   
     </li>
   </ul>
 
