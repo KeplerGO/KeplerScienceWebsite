@@ -31,8 +31,8 @@ the scientific exploitation of the data.
 
     <b><i>Full Frame Images (FFI)</i></b>
     <ul>
-        <li><a href="https://archive.stsci.edu/pub/k2/ffi/kplr2015290001304_ffi-cal.fits">kplr2015290001304_ffi-cal.fits</a></li>
-        <li><a href="https://archive.stsci.edu/pub/k2/ffi/kplr20155331045232_ffi-cal.fits">kplr20155331045232_ffi-cal.fits</a></li>
+        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2015290001304-c07_ffi-cal.fits">ktwo2015290001304-c07_ffi-cal.fits</a></li>
+        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2015331045232-c07_ffi-cal.fits">ktwo2015331045232-c07_ffi-cal.fits</a></li>
     </ul>
 
     <b><i>First cadence</i></b>
