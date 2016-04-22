@@ -4,7 +4,7 @@ Author: Knicole Colon
 
 The Kepler spacecraft has officially been recovered since it was
 first discovered to be in Emergency Mode on April 7.  Science operations
-are now resuming as planned, with K2 Campaign 9 officially beginning
+are now resuming as planned, with K2 Campaign 9 beginning
 today, April 22.  Campaign 9 involves the spacecraft looking toward
 the Galactic Center to primarily search for gravitational microlensing
 events.  In addition to microlensing targets, a number of Director's
