@@ -1,4 +1,4 @@
-Title: Kepler recovered and K2 mission is underway again
+Title: Kepler recovered and K2 mission underway again
 Date: 2016-04-22 11:00
 Author: Knicole Colon
 
