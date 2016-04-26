@@ -1,6 +1,6 @@
 # Summary of K2 Program GO9926
 
-Title: Large superstamp masks were tiled over the center of the Lagoon nebula
+Title: Lagoon Nebula superstamp
 
 PI: GO Office, K2 (NASA Ames)
 CoIs: 
