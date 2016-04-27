@@ -408,6 +408,17 @@ which detail deviations from the pipeline used for Kepler.
       href="k2-data-release-notes.html#k2-campaign-6">DRN</a></td>
      <td><a href="http://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-8">PRN</a></td>
       </tr>
+
+      <tr>
+      <td>C7</td>
+      <td>2</td>
+      <td>2015 Oct 04</td>
+      <td>2015 Dec 26</td>
+      <td>2016 Apr 22</td>
+      <td><a
+      href="k2-data-release-notes.html#k2-campaign-7">DRN</a></td>
+     <td><a href="http://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-9">PRN</a></td>
+      </tr>
 </tdata>
 </table>
 

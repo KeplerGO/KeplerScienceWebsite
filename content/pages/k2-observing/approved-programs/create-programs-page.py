@@ -31,6 +31,7 @@ class TargetList(object):
                      )
         if "c9" in self.csv_filename:
             unique_ids.append("GO9901")  # Only C9 program with all targets in C9 superstamp
+            unique_ids.append("GO9005")  # C9b late targets had not been selected at time of page creation
             unique_ids.sort()
         return unique_ids
 

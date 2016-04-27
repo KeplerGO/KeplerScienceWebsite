@@ -154,14 +154,14 @@ This page details the previous, current, and future K2 Campaign fields.
       <td><a href="#c7">7</a></td>
       <td>2015 Oct 04</td>
       <td>2015 Dec 26</td>
-      <td>2016 Apr 30</td>
+      <td>2016 Apr 22</td>
       <td>19:11:19</td>
       <td>-23:21:36</td>
       <td class="text-center">
         <a href="k2-approved-programs.html#campaign-7"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
-
+        <a href="k2-data-release-notes.html#k2-campaign-7"><i class="fa fa-check"></i></a>
       </td>
       <td>Near Galactic Center, NGC 6717, Pluto</td>
     </tr>

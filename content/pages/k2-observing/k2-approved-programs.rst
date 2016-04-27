@@ -82,7 +82,7 @@ Campaign 7
 .. raw:: html
   
   <p>
-  Campaign 7 there was a significant drop in the number of targets observed relative to previous campaigns. This drop was because the number of targets we can observe is a function of our on-board compression efficiency. The extremely dense nature of the Campaign 7 field forced us to assume a poorer compression estimate than we used for earlier campaigns. This target list consists of 13,469 standard long cadence and 72 standard short cadence targets. We tiled a region around the open cluster Ruprecht 147 using 60 individual pixel masks. In addition, we included large pixel masks over 3 Trojan/Hilda Asteroids and the (dwarf) planet Pluto. Bodies within our own Solar System move relative to the celestial sphere and are covered by long streaks of pixels. We tiled just a subset of the pixels that make up the path the Trojans/Hildas move along. These observations are in long cadence. Finally, we also observed 10 very bright stars by targeting just the central region of pixels around these targets but excluding the bleed columns.
+  In Campaign 7 there was a significant drop in the number of targets observed relative to previous campaigns. This drop was because the number of targets we can observe is a function of our on-board compression efficiency. The extremely dense nature of the Campaign 7 field forced us to assume a poorer compression estimate than we used for earlier campaigns. This target list consists of 13,469 standard long cadence and 72 standard short cadence targets. We tiled a region around the open cluster Ruprecht 147 using 60 individual pixel masks. In addition, we included large pixel masks over 3 Trojan/Hilda Asteroids and the (dwarf) planet Pluto. Bodies within our own Solar System move relative to the celestial sphere and are covered by long streaks of pixels. We tiled just a subset of the pixels that make up the path the Trojans/Hildas move along. These observations are in long cadence. Finally, we also observed 10 very bright stars by targeting just the central region of pixels around these targets but excluding the bleed columns.
   </p>
   <ul class="list-group">
     <li class="list-group-item">
@@ -91,7 +91,11 @@ Campaign 7
     </li>
     <li class="list-group-item">
       <i class="fa fa-pencil-square-o fa-margin"></i>
-      Data release notes (awaiting data release)
+      <a href="k2-data-release-notes.html#k2-campaign-7">Data release notes</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-cog fa-margin"></i>
+      <a href="http://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-9">Pipeline: 9.3</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -99,7 +103,7 @@ Campaign 7
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
-      Target pixel files (awaiting data release)
+      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c7/">Target pixel files (MAST)</a>   
     </li>
   </ul>
 
