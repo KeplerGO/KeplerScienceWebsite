@@ -38,7 +38,7 @@ Campaign 9
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
-      <a href="data/campaigns/c9/C9_targetlistforweb_final.txt">Target list (csv)</a>
+      <a href="data/campaigns/c9/K2Campaign9targets.csv">Target list (csv)</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>

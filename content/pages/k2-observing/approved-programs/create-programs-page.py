@@ -229,7 +229,7 @@ CFG = {
                 "programlist": "/home/gb/Dropbox/k2/Campaign8_9_10/K2GO3_2 Investigation Report.xls"
             },
        "9": {
-                "targetlist": "../../../data/campaigns/c9/C9_targetlistforweb_final.txt",
+                "targetlist": "../../../data/campaigns/c9/K2Campaign9targets.csv",
                 "programlist": "../../../data/campaigns/c9/c9-programs.csv"
             },
        }
