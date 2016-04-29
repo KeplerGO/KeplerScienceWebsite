@@ -1,0 +1,11 @@
+# Summary of K2 Program GO9005
+
+Title: Ongoing microlensing events selected for the second half of Campaign 9 (C9b)
+
+PI: Microlensing Science Team, K2 (NASA)
+CoIs: 
+
+
+
+# Targets requested by this program that have been observed (0)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
