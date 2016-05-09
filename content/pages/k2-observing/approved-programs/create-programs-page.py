@@ -29,10 +29,10 @@ class TargetList(object):
                                    if program_id.strip().startswith("GO")]
                              )
                      )
-        if "c9" in self.csv_filename:
-            unique_ids.append("GO9901")  # Only C9 program with all targets in C9 superstamp
-            unique_ids.append("GO9005")  # C9b late targets had not been selected at time of page creation
-            unique_ids.sort()
+        #if "c9" in self.csv_filename:
+        #    unique_ids.append("GO9901")  # Only C9 program with all targets in C9 superstamp
+        #    unique_ids.append("GO9005")  # C9b late targets had not been selected at time of page creation
+        #    unique_ids.sort()
         return unique_ids
 
     def get_targets(self, program_id):
@@ -92,7 +92,7 @@ class WebSummaryCreator(object):
             if program is None:
                 continue
             targets = self.targetlist.get_targets(program_id)
-            if int(self.campaign) > 3:
+            if self.campaign not in ['0', '1', '2', '3']:
                 url_summary = "data/k2-programs/{}.txt".format(program_id)
             else:
                 edit_program_id = program_id.replace("GO3", "GO2")
@@ -228,20 +228,24 @@ CFG = {
                 "targetlist": "/home/gb/dev/KeplerScienceWebsite/content/data/campaigns/c8/K2Campaign8targets.csv",
                 "programlist": "/home/gb/Dropbox/k2/Campaign8_9_10/K2GO3_2 Investigation Report.xls"
             },
-       "9": {
-                "targetlist": "../../../data/campaigns/c9/K2Campaign9targets.csv",
+       "9a": {
+                "targetlist": "../../../data/campaigns/c9/K2Campaign9atargets.csv",
+                "programlist": "../../../data/campaigns/c9/c9-programs.csv"
+            },
+       "9b": {
+                "targetlist": "../../../data/campaigns/c9/K2Campaign9btargets.csv",
                 "programlist": "../../../data/campaigns/c9/c9-programs.csv"
             },
        }
 
 
 def create_website_pages():
-    for campaign in ["9"]: #["0", "1", "2", "3", "4", "5", "6", "7", "8"]:
+    for campaign in ['9a', '9b']: #["0", "1", "2", "3", "4", "5", "6", "7", "8"]:
         tl = TargetList(CFG[campaign]["targetlist"])
         pl = ProgramList(CFG[campaign]["programlist"])
         wsc = WebSummaryCreator(tl, pl, campaign=campaign)
         wsc.write_html("c{}.html".format(campaign))
-        if int(campaign) > 3:
+        if campaign not in ['0', '1', '2', '3']:
           wsc.write_summaries(CFG["summaries_dir"])
         wsc.write_targetlists(CFG["summaries_dir"])
 
