@@ -11,7 +11,7 @@ of Discovery Program missions by broadening the scientific participation
 in the analysis of data, both recent and archived.
 
 The program intends to fund solar system science.
-Proposals using Kepler/K2 observations of objects outside the solar system are not eligible and should be submitted to the Astrophysics Data Analysis Program (ADAP) instead.
+Proposals using Kepler/K2 observations of objects outside the solar system are not eligible and should be submitted to the Astrophysics Data Analysis Program (ADAP) instead. A non-exhaustive list of K2's solar system targets is given below.
 
 ## Background
 
