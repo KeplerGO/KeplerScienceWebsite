@@ -19,12 +19,15 @@ Because Solar System objects move relative to the celestial sphere,
 long streaks of pixels are downloaded from the Kepler spacecraft to cover
 their trajectory (or part thereof).&lt;/p&gt;
 &lt;h2 id="solar-system-targets-in-campaigns-0-9"&gt;Solar system targets in Campaigns 0-9&lt;/h2&gt;
-&lt;p&gt;The K2 mission has targeted 92 solar system objects during
-Campaigns 0 through 9, listed below, as part of the
-&lt;a href="k2-approved-programs.html"&gt;approved observing programs&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Note that in addition to these targets, thousands of objects have
-serendipitously been observed for short periods of time as they passed through
-the pixel masks of other targets. The visibility of solar system targets in past or future K2 Campaigns
+&lt;p&gt;The K2 mission has so far targeted 92 solar system objects during
+Campaigns 0 through 9, as part of the
+&lt;a href="k2-approved-programs.html"&gt;approved observing programs&lt;/a&gt;.
+These objects are listed below.&lt;/p&gt;
+&lt;p&gt;This list is not exhaustive because thousands of objects are known
+to have serendipitously been observed for short periods of time
+as they passed through the pixel masks of other targets.
+A list of these serendipitously-observed targets is not available at this time,
+but note that the visibility of solar system targets in past or future K2 Campaigns
 can be checked using the &lt;a href="https://github.com/KeplerGO/K2ephem"&gt;K2ephem command-line tool&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id="planets-and-moons"&gt;Planets and moons&lt;/h3&gt;
 &lt;ul&gt;
