@@ -9,8 +9,9 @@ of solar system targets.
 The objective of the DDAP program is to enhance the scientific return
 of Discovery Program missions by broadening the scientific participation
 in the analysis of data, both recent and archived.
-The program intends to fund solar system science;
-proposals using Kepler/K2 observations of objects outside the solar system are not eligible and should be submitted to the Astrophysics Data Analysis Program (ADAP) instead.
+
+The program intends to fund solar system science.
+Proposals using Kepler/K2 observations of objects outside the solar system are not eligible and should be submitted to the Astrophysics Data Analysis Program (ADAP) instead.
 
 ## Background
 
@@ -27,13 +28,16 @@ their trajectory (or part thereof).
 
 ## Solar system targets in Campaigns 0-9
 
-The K2 mission has targeted 92 solar system objects during
-Campaigns 0 through 9, listed below, as part of the
+The K2 mission has so far targeted 92 solar system objects during
+Campaigns 0 through 9 as part of the
 [approved observing programs](k2-approved-programs.html).
+These objects are listed below.
 
-Note that in addition to these targets, thousands of objects have
-serendipitously been observed for short periods of time as they passed through
-the pixel masks of other targets. The visibility of solar system targets in past or future K2 Campaigns
+This list is not exhaustive because thousands of objects are known
+to have serendipitously been observed for short periods of time
+as they passed through the pixel masks of other targets.
+A list of these serendipitously-observed targets is not available at this time,
+but note that the visibility of solar system targets in past or future K2 Campaigns
 can be checked using the [K2ephem command-line tool](https://github.com/KeplerGO/K2ephem).
 
 ### Planets and moons
