@@ -35,8 +35,8 @@ Your contact information will be used to answer your query and will not be used 
 ### Twitter
 
 You can also tweet your questions to <a href="https://twitter.com/KeplerGO">@KeplerGO</a>, 
-or search for hashtag <a href="https://twitter.com/search?q=k2help">#k2help</a>
-on Twitter to look at questions asked by others.
+or search for hashtag <a href="https://twitter.com/search?q=k2mission">#K2Mission</a>
+on Twitter.
 
 ### FAQ
 
