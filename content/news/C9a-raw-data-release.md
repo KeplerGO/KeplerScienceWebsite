@@ -1,4 +1,4 @@
-Title: Raw level 1 data for K2 Campaign 9a now available at MAST
+Title: Raw data for K2 Campaign 9a now available at MAST
 Date: 2016-05-23 10:00
 Author: Geert Barentsen
 
