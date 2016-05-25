@@ -43,6 +43,10 @@ Balona, L. A.
 Smolec, R., Śniegowska, M.    
 2016, refereed ([2016MNRAS.458.3561S](http://adsabs.harvard.edu/abs/2016MNRAS.458.3561S))  
 
+5. [FUNDAMENTAL PARAMETERS OF KEPLER ECLIPSING BINARIES. I. KIC 5738698](http://adsabs.harvard.edu/abs/2016AJ....151..139M)  
+Matson, Rachel A., Gies, Douglas R., Guo, Zhao, et al.    
+2016, refereed ([2016AJ....151..139M](http://adsabs.harvard.edu/abs/2016AJ....151..139M))  
+
 
 2016-05
 -------
@@ -118,6 +122,14 @@ Bodman, Eva H. L., Quillen, Alice C., Ansdell, Megan, et al.
 18. [STATISTICAL ANALYSIS OF PROPERTIES OF DWARF NOVAE OUTBURSTS](http://adsabs.harvard.edu/abs/2016arXiv160502937O)  
 Otulakowska-Hypka, Magdalena, Olech, Arkadiusz, Patterson, Joseph    
 2016, pre-print ([2016arXiv160502937O](http://adsabs.harvard.edu/abs/2016arXiv160502937O))  
+
+19. [ROTATION PERIODS FOR COOL STARS IN THE 4 GYR OLD OPEN CLUSTER M67, THE SOLAR─STELLAR CONNECTION, AND THE APPLICABILITY OF GYROCHRONOLOGY TO AT LEAST SOLAR AGE](http://adsabs.harvard.edu/abs/2016ApJ...823...16B)  
+Barnes, Sydney A., Weingrill, Joerg, Fritzewski, Dario, et al.    
+2016, refereed ([2016ApJ...823...16B](http://adsabs.harvard.edu/abs/2016ApJ...823...16B))  
+
+20. [PROBABILISTIC INFERENCE OF BASIC STELLAR PARAMETERS: APPLICATION TO FLICKERING STARS](http://adsabs.harvard.edu/abs/2016ApJ...823L...9A)  
+Angus, Ruth, Kipping, David. M.    
+2016, refereed ([2016ApJ...823L...9A](http://adsabs.harvard.edu/abs/2016ApJ...823L...9A))  
 
 
 2016-04

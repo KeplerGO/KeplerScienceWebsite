@@ -63,6 +63,10 @@ Osborn, H. P., Santerne, A., Barros, S. C. C., et al.
 Millholland, Sarah, Wang, Songhu, Laughlin, Gregory    
 2016, refereed ([2016ApJ...823L...7M](http://adsabs.harvard.edu/abs/2016ApJ...823L...7M))  
 
+13. [MEASURING TRANSIT SIGNAL RECOVERY IN THE KEPLER PIPELINE. III. COMPLETENESS OF THE Q1-Q17 DR24 PLANET CANDIDATE CATALOGUE, WITH IMPORTANT CAVEATS FOR OCCURRENCE RATE CALCULATIONS](http://adsabs.harvard.edu/abs/2016arXiv160505729C)  
+Christiansen, Jessie L., Clarke, Bruce D., Burke, Christopher J., et al.    
+2016, pre-print ([2016arXiv160505729C](http://adsabs.harvard.edu/abs/2016arXiv160505729C))  
+
 
 2016-04
 -------

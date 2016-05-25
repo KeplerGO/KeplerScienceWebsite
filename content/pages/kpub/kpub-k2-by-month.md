@@ -59,6 +59,10 @@ Osborn, H. P., Santerne, A., Barros, S. C. C., et al.
 Bodman, Eva H. L., Quillen, Alice C., Ansdell, Megan, et al.    
 2016, pre-print ([2016arXiv160503985B](http://adsabs.harvard.edu/abs/2016arXiv160503985B))  
 
+11. [ROTATION PERIODS FOR COOL STARS IN THE 4 GYR OLD OPEN CLUSTER M67, THE SOLAR─STELLAR CONNECTION, AND THE APPLICABILITY OF GYROCHRONOLOGY TO AT LEAST SOLAR AGE](http://adsabs.harvard.edu/abs/2016ApJ...823...16B)  
+Barnes, Sydney A., Weingrill, Joerg, Fritzewski, Dario, et al.    
+2016, refereed ([2016ApJ...823...16B](http://adsabs.harvard.edu/abs/2016ApJ...823...16B))  
+
 
 2016-04
 -------
