@@ -18,8 +18,8 @@ directorate.*
 
 The Guest Observer office curates a list of scientific publications
 pertaining to Kepler and K2.
-The database contains 155 publications,
-of which 104 are peer-reviewed.
+The database contains 1785 publications,
+of which 1571 are peer-reviewed.
 It demonstrates the important impact of Kepler/K2 data
 on astronomical research.
 
@@ -44,8 +44,8 @@ Last update: 25 May 2016.
 
 The graph below shows the number of publications as a function
 of year and mission.
-The publication count for Kepler is 118,
-while that of K2 is 37.
+The publication count for Kepler is 1653,
+while that of K2 is 132.
 
 ![Publication rate by mission and year]({filename}/images/kpub/kpub-publication-rate.png)
 
@@ -55,11 +55,11 @@ while that of K2 is 37.
 
 Both Kepler and K2 data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 67 works relate to exoplanets
-(43%),
-a total of 88
+While 850 works relate to exoplanets
+(48%),
+a total of 935
 pertain to other areas of astrophysics
-(57%).
+(52%).
 
 
 ![Publications by subject]({filename}/images/kpub/kpub-piechart.png)
@@ -69,110 +69,110 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 Kepler/K2 publications have cumulatively been cited
-147 times.
+41841 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
 
-1. PLANET HUNTERS IX. KIC 8462852 - WHERE'S THE FLUX?  
-Boyajian, T. S., LaCourse, D. M., Rappaport, S. A., et al.    
-[2016MNRAS.457.3988B](http://adsabs.harvard.edu/abs/2016MNRAS.457.3988B)
-<span class="badge">15 citations</span>
+1. KEPLER PLANET-DETECTION MISSION: INTRODUCTION AND FIRST RESULTS  
+Borucki, William J., Koch, David, Basri, Gibor, et al.    
+[2010Sci...327..977B](http://adsabs.harvard.edu/abs/2010Sci...327..977B)
+<span class="badge">868 citations</span>
 
-2. SOPHIE VELOCIMETRY OF KEPLER TRANSIT CANDIDATES. XVII. THE PHYSICAL PROPERTIES OF GIANT EXOPLANETS WITHIN 400 DAYS OF PERIOD  
-Santerne, A., Moutou, C., Tsantaki, M., et al.    
-[2016A&A...587A..64S](http://adsabs.harvard.edu/abs/2016A&A...587A..64S)
-<span class="badge">12 citations</span>
+2. CHARACTERISTICS OF PLANETARY CANDIDATES OBSERVED BY KEPLER. II. ANALYSIS OF THE FIRST FOUR MONTHS OF DATA  
+Borucki, William J., Koch, David G., Basri, Gibor, et al.    
+[2011ApJ...736...19B](http://adsabs.harvard.edu/abs/2011ApJ...736...19B)
+<span class="badge">556 citations</span>
 
-3. THE SEARCH FOR EXTRATERRESTRIAL CIVILIZATIONS WITH LARGE ENERGY SUPPLIES. IV. THE SIGNATURES AND INFORMATION CONTENT OF TRANSITING MEGASTRUCTURES  
-Wright, Jason T., Cartier, Kimberly M. S., Zhao, Ming, et al.    
-[2016ApJ...816...17W](http://adsabs.harvard.edu/abs/2016ApJ...816...17W)
-<span class="badge">11 citations</span>
+3. PLANETARY CANDIDATES OBSERVED BY KEPLER. III. ANALYSIS OF THE FIRST 16 MONTHS OF DATA  
+Batalha, Natalie M., Rowe, Jason F., Bryson, Stephen T., et al.    
+[2013ApJS..204...24B](http://adsabs.harvard.edu/abs/2013ApJS..204...24B)
+<span class="badge">537 citations</span>
 
-4. KEPLER ECLIPSING BINARY STARS. VII. THE CATALOG OF ECLIPSING BINARIES FOUND IN THE ENTIRE KEPLER DATA SET  
-Kirk, Brian, Conroy, Kyle, Prša, Andrej, et al.    
-[2016AJ....151...68K](http://adsabs.harvard.edu/abs/2016AJ....151...68K)
-<span class="badge">8 citations</span>
+4. KEPLER MISSION DESIGN, REALIZED PHOTOMETRIC PERFORMANCE, AND EARLY SCIENCE  
+Koch, David G., Borucki, William J., Basri, Gibor, et al.    
+[2010ApJ...713L..79K](http://adsabs.harvard.edu/abs/2010ApJ...713L..79K)
+<span class="badge">468 citations</span>
 
-5. PLANETARY CANDIDATES FROM THE FIRST YEAR OF THE K2 MISSION  
-Vanderburg, Andrew, Latham, David W., Buchhave, Lars A., et al.    
-[2016ApJS..222...14V](http://adsabs.harvard.edu/abs/2016ApJS..222...14V)
-<span class="badge">7 citations</span>
+5. PLANET OCCURRENCE WITHIN 0.25 AU OF SOLAR-TYPE STARS FROM KEPLER  
+Howard, Andrew W., Marcy, Geoffrey W., Bryson, Stephen T., et al.    
+[2012ApJS..201...15H](http://adsabs.harvard.edu/abs/2012ApJS..201...15H)
+<span class="badge">388 citations</span>
 
-6. RED GIANT MASSES AND AGES DERIVED FROM CARBON AND NITROGEN ABUNDANCES  
-Martig, Marie, Fouesneau, Morgan, Rix, Hans-Walter, et al.    
-[2016MNRAS.456.3655M](http://adsabs.harvard.edu/abs/2016MNRAS.456.3655M)
-<span class="badge">6 citations</span>
+6. KEPLER INPUT CATALOG: PHOTOMETRIC CALIBRATION AND STELLAR CLASSIFICATION  
+Brown, Timothy M., Latham, David W., Everett, Mark E., et al.    
+[2011AJ....142..112B](http://adsabs.harvard.edu/abs/2011AJ....142..112B)
+<span class="badge">384 citations</span>
 
-7. THE ENIGMATIC AND EPHEMERAL M DWARF SYSTEM KOI 6705: CHESHIRE CAT OR WILD GOOSE?  
-Gaidos, Eric, Mann, Andrew W., Ansdell, Megan    
-[2016ApJ...817...50G](http://adsabs.harvard.edu/abs/2016ApJ...817...50G)
-<span class="badge">6 citations</span>
+7. A CLOSELY PACKED SYSTEM OF LOW-MASS, LOW-DENSITY PLANETS TRANSITING KEPLER-11  
+Lissauer, Jack J., Fabrycky, Daniel C., Ford, Eric B., et al.    
+[2011Natur.470...53L](http://adsabs.harvard.edu/abs/2011Natur.470...53L)
+<span class="badge">349 citations</span>
 
-8. SECURE MASS MEASUREMENTS FROM TRANSIT TIMING: 10 KEPLER EXOPLANETS BETWEEN 3 AND 8 M<SUB>⊕</SUB> WITH DIVERSE DENSITIES AND INCIDENT FLUXES  
-Jontof-Hutter, Daniel, Ford, Eric B., Rowe, Jason F., et al.    
-[2016ApJ...820...39J](http://adsabs.harvard.edu/abs/2016ApJ...820...39J)
-<span class="badge">5 citations</span>
+8. GRAVITY AND LIMB-DARKENING COEFFICIENTS FOR THE KEPLER, COROT, SPITZER, UVBY, UBVRIJHK, AND SLOAN PHOTOMETRIC SYSTEMS  
+Claret, A., Bloemen, S.    
+[2011A&A...529A..75C](http://adsabs.harvard.edu/abs/2011A&A...529A..75C)
+<span class="badge">297 citations</span>
 
-9. SENSITIVITY BIAS IN THE MASS-RADIUS DISTRIBUTION FROM TRANSIT TIMING VARIATIONS AND RADIAL VELOCITY MEASUREMENTS  
-Steffen, Jason H.    
-[2016MNRAS.457.4384S](http://adsabs.harvard.edu/abs/2016MNRAS.457.4384S)
-<span class="badge">4 citations</span>
+9. THE FALSE POSITIVE RATE OF KEPLER AND THE OCCURRENCE OF PLANETS  
+Fressin, François, Torres, Guillermo, Charbonneau, David, et al.    
+[2013ApJ...766...81F](http://adsabs.harvard.edu/abs/2013ApJ...766...81F)
+<span class="badge">296 citations</span>
 
-10. KIC 8462852: TRANSIT OF A LARGE COMET FAMILY  
-Bodman, Eva H. L., Quillen, Alice    
-[2016ApJ...819L..34B](http://adsabs.harvard.edu/abs/2016ApJ...819L..34B)
-<span class="badge">4 citations</span>
+10. KEPLER'S FIRST ROCKY PLANET: KEPLER-10B  
+Batalha, Natalie M., Borucki, William J., Bryson, Stephen T., et al.    
+[2011ApJ...729...27B](http://adsabs.harvard.edu/abs/2011ApJ...729...27B)
+<span class="badge">283 citations</span>
 
-11. THE HERMES SOLAR ATLAS AND THE SPECTROSCOPIC ANALYSIS OF THE SEISMIC SOLAR ANALOGUE KIC 3241581⋆  
-Beck, P. G., Allende Prieto, C., Van Reeth, T., et al.    
-[2016A&A...589A..27B](http://adsabs.harvard.edu/abs/2016A&A...589A..27B)
-<span class="badge">3 citations</span>
+11. KEPLER-16: A TRANSITING CIRCUMBINARY PLANET  
+Doyle, Laurance R., Carter, Joshua A., Fabrycky, Daniel C., et al.    
+[2011Sci...333.1602D](http://adsabs.harvard.edu/abs/2011Sci...333.1602D)
+<span class="badge">282 citations</span>
 
-12. SHOCK BREAKOUT AND EARLY LIGHT CURVES OF TYPE II-P SUPERNOVAE OBSERVED WITH KEPLER  
-Garnavich, P. M., Tucker, B. E., Rest, A., et al.    
-[2016ApJ...820...23G](http://adsabs.harvard.edu/abs/2016ApJ...820...23G)
-<span class="badge">3 citations</span>
+12. MODULES FOR EXPERIMENTS IN STELLAR ASTROPHYSICS (MESA): PLANETS, OSCILLATIONS, ROTATION, AND MASSIVE STARS  
+Paxton, Bill, Cantiello, Matteo, Arras, Phil, et al.    
+[2013ApJS..208....4P](http://adsabs.harvard.edu/abs/2013ApJS..208....4P)
+<span class="badge">270 citations</span>
 
-13. DRIFTING ASTEROID FRAGMENTS AROUND WD 1145+017  
-Rappaport, S., Gary, B. L., Kaye, T., et al.    
-[2016MNRAS.458.3904R](http://adsabs.harvard.edu/abs/2016MNRAS.458.3904R)
-<span class="badge">3 citations</span>
+13. ARCHITECTURE AND DYNAMICS OF KEPLER'S CANDIDATE MULTIPLE TRANSITING PLANET SYSTEMS  
+Lissauer, Jack J., Ragozzine, Darin, Fabrycky, Daniel C., et al.    
+[2011ApJS..197....8L](http://adsabs.harvard.edu/abs/2011ApJS..197....8L)
+<span class="badge">269 citations</span>
 
-14. CONSTRAINTS ON THE CIRCUMSTELLAR DUST AROUND KIC 8462852  
-Thompson, M. A., Scicluna, P., Kemper, F., et al.    
-[2016MNRAS.458L..39T](http://adsabs.harvard.edu/abs/2016MNRAS.458L..39T)
-<span class="badge">3 citations</span>
+14. OVERVIEW OF THE KEPLER SCIENCE PROCESSING PIPELINE  
+Jenkins, Jon M., Caldwell, Douglas A., Chandrasekaran, Hema, et al.    
+[2010ApJ...713L..87J](http://adsabs.harvard.edu/abs/2010ApJ...713L..87J)
+<span class="badge">267 citations</span>
 
-15. THE ROTATION AND GALACTIC KINEMATICS OF MID M DWARFS IN THE SOLAR NEIGHBORHOOD  
-Newton, Elisabeth R., Irwin, Jonathan, Charbonneau, David, et al.    
-[2016ApJ...821...93N](http://adsabs.harvard.edu/abs/2016ApJ...821...93N)
-<span class="badge">3 citations</span>
+15. KEPLER ASTEROSEISMOLOGY PROGRAM: INTRODUCTION AND FIRST RESULTS  
+Gilliland, Ronald L., Brown, Timothy M., Christensen-Dalsgaard, Jørgen, et al.    
+[2010PASP..122..131G](http://adsabs.harvard.edu/abs/2010PASP..122..131G)
+<span class="badge">249 citations</span>
 
-16. EPIC 201585823, A RARE TRIPLE-MODE RR LYRAE STAR DISCOVERED IN K2 MISSION DATA  
-Kurtz, Donald W., Bowman, Dominic M., Ebo, Simon J., et al.    
-[2016MNRAS.455.1237K](http://adsabs.harvard.edu/abs/2016MNRAS.455.1237K)
-<span class="badge">3 citations</span>
+16. GRAVITY MODES AS A WAY TO DISTINGUISH BETWEEN HYDROGEN- AND HELIUM-BURNING RED GIANT STARS  
+Bedding, Timothy R., Mosser, Benoit, Huber, Daniel, et al.    
+[2011Natur.471..608B](http://adsabs.harvard.edu/abs/2011Natur.471..608B)
+<span class="badge">239 citations</span>
 
-17. NEW PLEIADES ECLIPSING BINARIES AND A HYADES TRANSITING SYSTEM IDENTIFIED BY K2  
-David, Trevor J., Conroy, Kyle E., Hillenbrand, Lynne A., et al.    
-[2016AJ....151..112D](http://adsabs.harvard.edu/abs/2016AJ....151..112D)
-<span class="badge">3 citations</span>
+17. HABITABLE ZONES AROUND MAIN-SEQUENCE STARS: NEW ESTIMATES  
+Kopparapu, Ravi Kumar, Ramirez, Ramses, Kasting, James F., et al.    
+[2013ApJ...765..131K](http://adsabs.harvard.edu/abs/2013ApJ...765..131K)
+<span class="badge">220 citations</span>
 
-18. INTERNAL ROTATION OF THE RED-GIANT STAR KIC 4448777 BY MEANS OF ASTEROSEISMIC INVERSION  
-Di Mauro, M. P., Ventura, R., Cardini, D., et al.    
-[2016ApJ...817...65D](http://adsabs.harvard.edu/abs/2016ApJ...817...65D)
-<span class="badge">3 citations</span>
+18. KEPLER-9: A SYSTEM OF MULTIPLE PLANETS TRANSITING A SUN-LIKE STAR, CONFIRMED BY TIMING VARIATIONS  
+Holman, Matthew J., Fabrycky, Daniel C., Ragozzine, Darin, et al.    
+[2010Sci...330...51H](http://adsabs.harvard.edu/abs/2010Sci...330...51H)
+<span class="badge">218 citations</span>
 
-19. THEY ARE SMALL WORLDS AFTER ALL: REVISED PROPERTIES OF KEPLER M DWARF STARS AND THEIR PLANETS  
-Gaidos, E., Mann, A. W., Kraus, A. L., et al.    
-[2016MNRAS.457.2877G](http://adsabs.harvard.edu/abs/2016MNRAS.457.2877G)
-<span class="badge">3 citations</span>
+19. THE OCCURRENCE RATE OF SMALL PLANETS AROUND SMALL STARS  
+Dressing, Courtney D., Charbonneau, David    
+[2013ApJ...767...95D](http://adsabs.harvard.edu/abs/2013ApJ...767...95D)
+<span class="badge">214 citations</span>
 
-20. SCALING THE EARTH: A SENSITIVITY ANALYSIS OF TERRESTRIAL EXOPLANETARY INTERIOR MODELS  
-Unterborn, C. T., Dismukes, E. E., Panero, W. R.    
-[2016ApJ...819...32U](http://adsabs.harvard.edu/abs/2016ApJ...819...32U)
-<span class="badge">3 citations</span>
+20. OBLIQUITIES OF HOT JUPITER HOST STARS: EVIDENCE FOR TIDAL INTERACTIONS AND PRIMORDIAL MISALIGNMENTS  
+Albrecht, Simon, Winn, Joshua N., Johnson, John A., et al.    
+[2012ApJ...757...18A](http://adsabs.harvard.edu/abs/2012ApJ...757...18A)
+<span class="badge">210 citations</span>
 <hr/>
 
 <!-- 
@@ -189,6 +189,98 @@ within the last 90 days.
 ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 809 unique author names.
+by a total of 3314 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
+
+ * Balona, L (29 publications)
+
+ * Kipping, D (21 publications)
+
+ * Huber, D (12 publications)
+
+ * Steffen, J (11 publications)
+
+ * Murphy, S (10 publications)
+
+ * Stello, D (10 publications)
+
+ * Savanov, I (10 publications)
+
+ * Baran, A (10 publications)
+
+ * Kane, S (10 publications)
+
+ * Hekker, S (9 publications)
+
+ * Armstrong, D (9 publications)
+
+ * Chaplin, W (9 publications)
+
+ * Wang, J (9 publications)
+
+ * Molenda-Zakowicz, J (9 publications)
+
+ * Gaidos, E (8 publications)
+
+ * Mosser, B (8 publications)
+
+ * Ostensen, R (8 publications)
+
+ * Dawson, R (8 publications)
+
+ * Kato, T (8 publications)
+
+ * Santerne, A (8 publications)
+
+ * Ramsay, G (8 publications)
+
+ * Scaringi, S (8 publications)
+
+ * Sanchis-Ojeda, R (8 publications)
+
+ * Van Eylen, V (7 publications)
+
+ * Tkachenko, A (7 publications)
+
+ * Beck, P (7 publications)
+
+ * Gilliland, R (7 publications)
+
+ * Borucki, W (7 publications)
+
+ * Lillo-Box, J (7 publications)
+
+ * Mathur, S (7 publications)
+
+ * Heller, R (7 publications)
+
+ * Silva Aguirre, V (7 publications)
+
+ * Rappaport, S (7 publications)
+
+ * Campante, T (7 publications)
+
+ * Kjurkchieva, D (7 publications)
+
+ * Lissauer, J (6 publications)
+
+ * Howell, S (6 publications)
+
+ * Ballard, S (6 publications)
+
+ * Guzik, J (6 publications)
+
+ * Metcalfe, T (6 publications)
+
+ * Morton, T (6 publications)
+
+ * Corsaro, E (6 publications)
+
+ * Mann, A (6 publications)
+
+ * Hirano, T (6 publications)
+
+ * Bonomo, A (6 publications)
+
+ * Barclay, T (6 publications)
