@@ -20,7 +20,7 @@ After data has been released, the
 should be consulted for more comprehensive notes for each Campaign.
 
 
-Campaign 9
+Campaign 9b
 ---------------------
 .. raw:: html
 
@@ -30,7 +30,7 @@ Campaign 9
   <ul class="list-group">
     <li class="list-group-item">
       <i class="fa fa-calendar fa-margin"></i>
-      Apr 7 - Jul 1, 2016
+      May 22 - Jul 1, 2016
     </li>
     <li class="list-group-item">
       <i class="fa fa-pencil-square-o fa-margin"></i>
@@ -38,7 +38,7 @@ Campaign 9
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
-      <a href="data/campaigns/c9/K2Campaign9targets.csv">Target list (csv)</a>
+      <a href="data/campaigns/c9/K2Campaign9btargets.csv">Target list (csv)</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
@@ -46,7 +46,36 @@ Campaign 9
     </li>
   </ul>
 
-.. include:: approved-programs/c9.html
+.. include:: approved-programs/c9b.html
+
+
+Campaign 9a
+---------------------
+.. raw:: html
+
+  <p>
+  <!-- TODO: add C9 paragraph here. -->
+  </p>
+  <ul class="list-group">
+    <li class="list-group-item">
+      <i class="fa fa-calendar fa-margin"></i>
+      Apr 22 - May 19, 2016
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-pencil-square-o fa-margin"></i>
+      Data release notes (awaiting data release)
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-download fa-margin"></i>
+      <a href="data/campaigns/c9/K2Campaign9atargets.csv">Target list (csv)</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-external-link fa-margin"></i>
+      Target pixel files (awaiting data release)
+    </li>
+  </ul>
+
+.. include:: approved-programs/c9a.html
 
 
 Campaign 8
