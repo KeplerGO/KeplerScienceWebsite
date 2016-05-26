@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="http://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="http://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>http://keplerscience.arc.nasa.gov/</id><updated>2016-05-16T12:00:00-07:00</updated><entry><title>New funding opportunity for work on K2 solar system data</title><link href="http://keplerscience.arc.nasa.gov/new-funding-opportunity-for-work-on-k2-solar-system-data.html" rel="alternate"></link><updated>2016-05-16T12:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2016-05-16:new-funding-opportunity-for-work-on-k2-solar-system-data.html</id><summary type="html">&lt;p&gt;A &lt;a href="http://science.nasa.gov/researchers/sara/grant-solicitations/roses-2016/2016/3/11/amendment-1ddap-now-includes-keplerk2-solar-system-observations/"&gt;recent amendment&lt;/a&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="http://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="http://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>http://keplerscience.arc.nasa.gov/</id><updated>2016-05-23T10:00:00-07:00</updated><entry><title>Raw data for K2 Campaign 9a now available at MAST</title><link href="http://keplerscience.arc.nasa.gov/raw-data-for-k2-campaign-9a-now-available-at-mast.html" rel="alternate"></link><updated>2016-05-23T10:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2016-05-23:raw-data-for-k2-campaign-9a-now-available-at-mast.html</id><summary type="html">&lt;p&gt;The currently on-going &lt;a href="k2-c9.html"&gt;K2 Campaign 9&lt;/a&gt; is dedicated to
+a microlensing experiment,
+aimed at simultaneously observing gravitional microlensing events with K2 and from Earth
+in order to see a parallax effect in the shape and time of the lensing events.
+To allow such events to be identified and characterized rapidly,
+the raw data of this campaign are being released instantly
+through the data archive at MAST.&lt;/p&gt;
+&lt;p&gt;The data obtained during the first half
+of C9 (Apr 22 - May 18) are now available at
+&lt;a href="https://archive.stsci.edu/pub/k2/c9_raw_cadence_data"&gt;https://archive.stsci.edu/pub/k2/c9_raw_cadence_data&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;The use of the level 1 data files requires an intimate understanding
+of their structure, as documented in &lt;a href="https://archive.stsci.edu/k2/manuals/KADN-26315.pdf"&gt;KADN-26135&lt;/a&gt;.
+The Kepler/K2 Guest Observer Office has released a tool to convert
+these data into more traditional multi-extension image FITS files.
+The tool, called "kadenza", is available and documented at
+&lt;a href="https://github.com/KeplerGO/kadenza"&gt;https://github.com/KeplerGO/kadenza&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The traditional calibrated data products are scheduled to be processed
+and released by September 26.&lt;/p&gt;</summary></entry><entry><title>New funding opportunity for work on K2 solar system data</title><link href="http://keplerscience.arc.nasa.gov/new-funding-opportunity-for-work-on-k2-solar-system-data.html" rel="alternate"></link><updated>2016-05-16T12:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2016-05-16:new-funding-opportunity-for-work-on-k2-solar-system-data.html</id><summary type="html">&lt;p&gt;A &lt;a href="http://science.nasa.gov/researchers/sara/grant-solicitations/roses-2016/2016/3/11/amendment-1ddap-now-includes-keplerk2-solar-system-observations/"&gt;recent amendment&lt;/a&gt;
 to NASA's &lt;a href="https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&amp;amp;solId=%7BE2458B76-679E-DD13-4075-005651FF0CEE%7D&amp;amp;path=open"&gt;Discovery Data Analysis Program (DDAP)&lt;/a&gt;
 permits the submission of proposals for work on Kepler/K2 observations
 of solar system targets.
