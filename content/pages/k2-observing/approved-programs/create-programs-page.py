@@ -236,11 +236,15 @@ CFG = {
                 "targetlist": "../../../data/campaigns/c9/K2Campaign9btargets.csv",
                 "programlist": "../../../data/campaigns/c9/c9-programs.csv"
             },
+       "10": {
+                "targetlist": "/home/gb/dev/KeplerScienceWebsite/content/data/campaigns/c10/K2Campaign10targets.csv",
+                "programlist": "/home/gb/Dropbox/k2/Campaign8_9_10/K2GO3_2 Investigation Report.xls"
+            },
        }
 
 
 def create_website_pages():
-    for campaign in ['9a', '9b']: #["0", "1", "2", "3", "4", "5", "6", "7", "8"]:
+    for campaign in ['10']: #["0", "1", "2", "3", "4", "5", "6", "7", "8", "9a", "9b", "10"]:
         tl = TargetList(CFG[campaign]["targetlist"])
         pl = ProgramList(CFG[campaign]["programlist"])
         wsc = WebSummaryCreator(tl, pl, campaign=campaign)

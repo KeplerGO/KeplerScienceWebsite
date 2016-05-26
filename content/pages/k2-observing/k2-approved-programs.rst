@@ -20,6 +20,36 @@ After data has been released, the
 should be consulted for more comprehensive notes for each Campaign.
 
 
+
+Campaign 10
+---------------------
+.. raw:: html
+
+  <p>
+  <!-- TODO: add 10 paragraph here. -->
+  </p>
+  <ul class="list-group">
+    <li class="list-group-item">
+      <i class="fa fa-calendar fa-margin"></i>
+      Jul 6 - Sep 20, 2016
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-pencil-square-o fa-margin"></i>
+      Data release notes (awaiting data release)
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-download fa-margin"></i>
+      <a href="data/campaigns/c10/K2Campaign10targets.csv">Target list (csv)</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-external-link fa-margin"></i>
+      Target pixel files (awaiting data release)
+    </li>
+  </ul>
+
+.. include:: approved-programs/c10.html
+
+
 Campaign 9b
 ---------------------
 .. raw:: html

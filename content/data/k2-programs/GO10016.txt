@@ -1,0 +1,32 @@
+# Summary of K2 Program GO10016
+
+Title: Superflares on RS CVn and BY Dra Stars
+
+PI: Schaefer, Bradley E. (Louisiana State University)
+CoIs: Hudson, Hugh S
+
+It came as a startling surprise when otherwise-ordinary G-type main sequence stars (including some of the closest known solar twins) were discovered to have flares with energies 10^34 to 10^39 ergs (Schaefer et al. 2000).  These 'superflares' have durations from minutes to days, amplitudes up to 3 mags, and emission from X-ray to radio.  Kepler has made for a revolution in superflares by providing large event numbers on many Sun-like stars (Maehara et al. 2012; Schaefer 2012).  The most popular current model has reconnection of the magnetic fields stretching between the Sun-like star and a nearby planet (Rubenstein & Schaefer 2000; Lanza 2008).  This scenario was explicitly stealing the model for RS CVn superflares.
+
+RS CVn stars are G-type main sequence stars in close orbit (1-14 day orbital periods) around cooler stars, with synchronization speeding up the stellar rotations and hence increasing greatly the magnetic activity of the stars.  BY Dra stars are similar to RS CVns, with a somewhat cooler surface and sometimes apparently single.  RS CVn and BY Dra stars have occasional superflares, with energies up to 10^38 erg, durations from hours to a day, amplitudes up to 1.6 mag, and emission from X-ray to radio.  Models for RS CVn superflares all involve magnetic reconnection with loops stretching between the G-star and the cool star (Simon et al. 1980; Ferreira 1998).  The difference in energy between solar flares and RS CVn superflares is that the loop length could be much longer and the surface field much stronger.  The field configuration, trigger, and detailed microphysics of RS CVn superflares are poorly known (Ferreira 1998).
+
+A small number of RS CVn superflares have been reasonably observed from X-ray to optical to radio.  Nevertheless, there are two glaring problems in the RS CVn data:  First, the coverage has been much too haphazard and gap-filled, so demographic properties are badly known.  Second, only the largest RS CVn superflares have been detected and reported, leaving it completely unknown as to the existence, frequency, and properties of any low-amplitude events.
+
+We propose to use the K2 mission to monitor RS CVn and BY Dra stars for superflares.  K2 can uniquely solve the two big problems because the relentless gapless coverage for ~80 days will provide uniform and biasfree flare searches, and because the millimag accuracy allows for the confident detection of superflares with amplitudes over two orders-of-magnitude smaller.  No RS CVn star was targeted in the original Kepler  field or in any K2 field, other than the 25 RS CVns and 2 BY Dra stars that we proposed for Fields 4-7.
+
+We have identified 8 RS CVn stars and 2 BY Dra stars (in Fields 8 and 10) brighter than 16th mag that K2fov gives as being on-chip.  For flares found, amplitudes, durations, orbital phases, energy estimates, and light curves would be published, along with demographic results like size-frequency distributions.  The great statistics from K2 will be able to perform tests like measuring the orbital phase dependence of flare frequency so as to distinguish between the magnetic loop and the magnetospheric tail reconnection models.
+
+RELEVANCE:  RS CVn and BY Dra superflares fit into a larger picture of superflares on Sun-like stars, with these other superflares having similar observational properties.  A goal of this K2 proposal is to test how similar are the types of superflares, with this having good relevance for NASA's goal of understanding the biggest solar flares.  Only the K2 mission has the gapless long-term coverage with millimag accuracy as required to spot large and small superflares.
+	
+Ferreira, J. 1998, A&A, 335, 248.
+Lanza, A. 2008, A&A, 487, 1163
+Maehara, H. et al. 2012, Nature, 485, 478
+Rubenstein, E. & Schaefer, B. 2000, ApJ, 529, 1031
+Schaefer, B. E. 2012, Nature, 485, 456
+Schaefer, B. E. et al. 2000, ApJ, 529, 1026
+Simon, T. et al. 1980, ApJ, 239, 911
+
+# Targets requested by this program that have been observed (3)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+201232625, 183.18416, -3.471899, 15.01, GO10016_LC|GO10042_LC
+228746527, 183.336226, -9.079689, 8.815, GO10016_LC|GO10036_LC
+229121034, 187.336146, 1.315105, 10.52, GO10068_LC|GO10051_LC|GO10032_LC|GO10077_LC|GO10016_LC|GO10042_LC

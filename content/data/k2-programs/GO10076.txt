@@ -1,0 +1,14 @@
+# Summary of K2 Program GO10076
+
+Title: Measuring the Evolution of the White Dwarf PG1159-035
+
+PI: Mullally, Fergal (SETI Institute/NASA Ames)
+CoIs: Provencal, Judith L; Thompson, Susan E; Winget, D. E.; Montgomery, Mike
+
+We propose measure the evolution of the young white dwarf PG1159-035 with short cadence observations in K2 Campaign 10. PG1159 is a hot, young white dwarf that exhibits multi-mode pulsations with periods of hundreds to thousands of seconds and amplitudes of order 1%. The precise period of pulsation of each mode depends in part of the radius and temperature profile of the star. The star is cooling and contracting rapidly, and we can detect its evolution from the change in pulsation period on timescales of a few decades. Costa et al. (2008, A&A 489, 1225) succeeded in measuring the rate of cooling and contraction of this star based on observations spanning 20 years. K2's continuous observations will add to this baseline and measure the rate of evolution with unprecedented precision. These improved measurements can be compared to asteroseismic models to better understand the internal properties of the star, including the rate of chemical stratification, and the emission rates of neutrinos in hot plasmas.
+
+This proposal is consistent with the K2 proposal requirement of addressing a compelling scientific question in the field of stellar astrophysics.
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+201214472, 180.441568, -3.761279, 14.907, GO10018_LC|GO10076_LC|GO10019_LC|GO10006_LC|GO10048_LC|GO10011_LC|GO10018_SC|GO10076_SC|GO10048_SC|GO10011_SC
