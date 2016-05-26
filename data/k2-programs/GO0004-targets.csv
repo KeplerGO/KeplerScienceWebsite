@@ -1,2 +1,2 @@
-EPIC ID,RA (J2000) [deg],Dec (J2000) [deg],magnitude,cadence [min],Investigation IDs
-202059501,99.43364,19.94866,9.2,30,GO0004_LC|GO0048_LC|GO0050_LC
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+202059501, 99.43363, 19.94867, 9.1, GO0004_LC|GO0048_LC|GO0050_LC

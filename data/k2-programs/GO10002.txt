@@ -1,0 +1,56 @@
+# Summary of K2 Program GO10002
+
+Title: Asteroseismology of solar-type stars with K2
+
+PI: Campante, Tiago (University of Birmingham)
+CoIs: Basu, Sarbani; Latham, David W.; Huber, Daniel; Chaplin, William J
+
+Asteroseismology is proving to be particularly significant for the study of solar-type stars (i.e., low-mass main-sequence stars and cool subgiants). This is in great part due to the exquisite data that have been made available by NASAs Kepler space telescope, with detections of solar-like oscillations made in several hundred field stars, including a statistical sample of exoplanet hosts. Extension of Keplers capabilities to the ecliptic through the repurposed K2 mission thus offers a unique opportunity to continue asteroseismic studies of solar-type stars.
+
+The aim of the present proposal is to perform an asteroseismic study of bright solar-type stars that reside in the solar neighborhood, making use of short-cadence (SC) data collected by K2 during Campaigns 8 (C8) and 10 (C10). The information contained in solar-like oscillations allows the internal stellar structure to be constrained to unprecedented levels, while also allowing fundamental stellar properties (e.g., mass, radius, and age) to be precisely determined. These results will be used in a variety of ongoing investigations that are relevant to this solicitation:
+"	We seek to take advantage of the opportunity to observe targets for asteroseismology that are typically brighter than those observed during the nominal mission, thus benefiting from better independent constraints (e.g., from parallaxes, spectroscopy, interferometry etc.). This will make it possible to apply the full potential of asteroseismology to tests of stellar interiors physics (e.g., placing constraints on convective overshooting).
+"	By combining the targets observed during C8 and C10 with targets from previous K2 campaigns as well as from the nominal mission, we may study the chemical evolution of the solar neighborhood and place constraints on the age-metallicity relation of nearby field stars.
+"	These targets will further expand the sample of benchmark stars having precise fundamental properties from asteroseismology to different fields in the Galaxy, which will be crucial to calibrate upcoming large surveys such as Gaia and GALAH.
+"	The availability of precise asteroseismic ages of stars with detectable surface rotation periods will provide additional calibrators for gyrochronology.
+"	Asteroseismology will allow us to better characterize targets with detected exoplanets, including any new detections made by K2 as well as known exoplanet-host stars. Bright solar-type hosts, for which asteroseismology and radial-velocity follow-up are available, provide the possibility to fill up the planet mass-radius diagram.
+"	The possibility of detecting solar-like oscillations in members of stellar binaries provides an independent test to the accuracy of asteroseismic estimates of fundamental stellar properties.
+
+Based on previous proposals, we estimate requesting for 30 to 40 targets per campaign. These targets should show detectable solar-like oscillations with periods of the order of minutes, meaning that SC data are a pre-requisite for detecting the oscillations. We will be preparing analysis-ready light curves from the target pixel data using in-house software. Next, we shall apply well-tested analysis procedures to the frequency-power spectra of the light curves. These procedures will be used to estimate both the global seismic parameters and the parameters describing individual modes of oscillation (in particular their frequencies). Finally, detailed frequency modeling using state-of-the-art stellar evolution codes will provide the properties of the stars. An important aspect will be to understand the systematics on the derived properties that arise from changes in the input physics and the effects introduced by different evolutionary codes. The methodology delineated above has already been successfully applied to the analysis of K2 Campaign 1 data, for which we reached a very good understanding of the asteroseismic detection yield.
+
+# Targets requested by this program that have been observed (35)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+201152951, 182.448964, -5.225743, 8.404, GO10077_LC|GO10002_LC|GO10028_LC|GO10002_SC
+201206591, 184.539885, -3.948784, 6.499, GO10077_LC|GO10003_LC|GO10031_LC|GO10002_LC|GO10002_SC
+201213714, 182.840829, -3.778871, 6.906, GO10051_LC|GO10077_LC|GO10031_LC|GO10002_LC|GO10002_SC
+201242698, 184.806215, -3.319789, 8.427, GO10013_LC|GO10051_LC|GO10032_LC|GO10077_LC|GO10040_LC|GO10002_LC|GO10002_SC
+201255087, 181.954585, -3.130515, 8.82, GO10051_LC|GO10032_LC|GO10077_LC|GO10002_LC|GO10028_LC|GO10002_SC
+201381699, 183.400818, -1.237061, 8.569, GO10051_LC|GO10077_LC|GO10002_LC|GO10028_LC|GO10002_SC
+201506483, 182.002453, 0.621303, 6.953, GO10077_LC|GO10031_LC|GO10002_LC|GO10002_SC
+201644284, 185.351986, 2.72817, 8.203, GO10051_LC|GO10032_LC|GO10077_LC|GO10031_LC|GO10002_LC|GO10002_SC
+228704734, 188.295034, -11.134249, 8.588, GO10051_LC|GO10032_LC|GO10077_LC|GO10002_LC|GO10028_LC|GO10002_SC
+228720824, 183.793989, -10.312399, 6.055, GO10903_LC|GO10031_LC|GO10002_LC|GO10049_LC|GO10903_SC|GO10002_SC
+228737206, 183.405355, -9.51338, 7.416, GO10051_LC|GO10077_LC|GO10040_LC|GO10031_LC|GO10002_LC|GO10002_SC
+228739655, 185.392746, -9.399945, 8.122, GO10051_LC|GO10032_LC|GO10077_LC|GO10031_LC|GO10002_LC|GO10002_SC
+228752115, 186.745285, -8.82961, 8.469, GO10077_LC|GO10002_LC|GO10028_LC|GO10002_SC
+228759924, 181.946291, -8.486028, 7.535, GO10051_LC|GO10077_LC|GO10031_LC|GO10002_LC|GO10028_LC|GO10002_SC
+228775782, 191.746001, -7.799807, 8.373, GO10051_LC|GO10032_LC|GO10077_LC|GO10002_LC|GO10002_SC
+228779722, 192.521453, -7.632201, 8.236, GO10051_LC|GO10077_LC|GO10002_LC|GO10002_SC
+228781119, 186.999038, -7.568098, 8.764, GO10051_LC|GO10032_LC|GO10077_LC|GO10066_LC|GO10002_LC|GO10028_LC|GO10002_SC
+228786735, 186.579645, -7.330082, 8.811, GO10051_LC|GO10077_LC|GO10002_LC|GO10028_LC|GO10002_SC
+228788452, 183.777362, -7.257319, 7.78, GO10013_LC|GO10051_LC|GO10077_LC|GO10031_LC|GO10002_LC|GO10002_SC
+228789925, 192.50724, -7.197474, 8.109, GO10051_LC|GO10032_LC|GO10077_LC|GO10040_LC|GO10031_LC|GO10002_LC|GO10002_SC
+228808323, 184.472463, -6.43108, 7.748, GO10051_LC|GO10077_LC|GO10031_LC|GO10002_LC|GO10028_LC|GO10002_SC
+228815846, 185.864825, -6.118793, 8.314, GO10051_LC|GO10032_LC|GO10077_LC|GO10002_LC|GO10028_LC|GO10002_SC
+228818122, 187.508019, -6.023408, 8.233, GO10051_LC|GO10077_LC|GO10002_LC|GO10028_LC|GO10002_SC
+228837389, 190.49828, -5.220857, 8.578, GO10051_LC|GO10032_LC|GO10002_LC|GO10033_LC|GO10002_SC
+228854980, 186.534643, -4.480717, 8.932, GO10051_LC|GO10032_LC|GO10077_LC|GO10002_LC|GO10028_LC|GO10002_SC
+228855799, 188.544581, -4.446477, 8.33, GO10051_LC|GO10077_LC|GO10031_LC|GO10002_LC|GO10028_LC|GO10002_SC
+228859478, 187.185555, -4.29068, 8.126, GO10051_LC|GO10077_LC|GO10031_LC|GO10002_LC|GO10028_LC|GO10002_SC
+228884975, 186.753236, -3.534916, 8.563, GO10901_LC|GO10013_LC|GO10051_LC|GO10032_LC|GO10077_LC|GO10002_LC|GO10033_LC|GO10002_SC
+228953911, 189.278455, -2.322105, 8.319, GO10051_LC|GO10077_LC|GO10002_LC|GO10002_SC
+228984381, 188.018539, -1.772357, 7.192, GO10051_LC|GO10077_LC|GO10031_LC|GO10002_LC|GO10002_SC
+229057353, 188.245336, -0.273464, 8.659, GO10051_LC|GO10077_LC|GO10002_LC|GO10028_LC|GO10002_SC
+229078032, 189.634366, 0.217338, 8.839, GO10051_LC|GO10077_LC|GO10002_LC|GO10028_LC|GO10002_SC
+229088988, 190.512401, 0.495247, 8.515, GO10051_LC|GO10077_LC|GO10002_LC|GO10028_LC|GO10002_SC
+229110376, 188.285029, 1.043995, 8.198, GO10051_LC|GO10032_LC|GO10077_LC|GO10040_LC|GO10002_LC|GO10002_SC
+229159911, 188.816451, 2.260993, 6.984, GO10051_LC|GO10077_LC|GO10031_LC|GO10002_LC|GO10028_LC|GO10002_SC

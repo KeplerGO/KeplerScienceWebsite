@@ -1,0 +1,35 @@
+# Summary of K2 Program GO10063
+
+Title: Testing asteroseismology with bright red giants using C8 and C10 K2 timeseries and interferometry
+
+PI: Boyajian, Tabetha Suzanne (Yale University)
+CoIs: Silva Aguirre, Victor; Creevey, Orlagh; Huber, Daniel; White, Timothy R
+
+We propose to observe bright red giants stars in long cadence mode in the K2 campaign fields 8 and 10, where interferometric and high-resolution spectroscopic supporting observations will allow us to address several exciting science questions pertaining to 1) asteroseismic scaling relations, 2) chemical mixing processes in stellar interiors, and 3) the abundance of helium. 
+	Widely used in the asteroseismology of red giants, asteroseismic scaling relations connect stellar properties such as masses and radii to easy-to-derive seismic parameters such as the frequency of maximum power and the large frequency separation. Although scaling relations do have some theoretical justification, they are still mostly based on the only star whose parameters we truly know: the Sun. The precise seismic K2 observations coupled with high-quality ground-based interferometric and spectroscopic data of bright nearby giants will allow us to subject the scaling relations to the most demanding tests. 
+	The second application is to constrain the poorly understood mixing processes working inside red giants, such as thermohaline mixing, rotation, and deep circulation. These processes are predicted to have different impact at different stages of red giant evolution, and to leave imprints in the surface chemical composition of a star. Precise seismic log (g) from K2 time series, coupled with high resolution spectroscopy, will allow for a detailed abundance determination of a large number of chemical species. The correlations between elements (e.g. [C/ Fe] vs [N/ Fe]) and departure from their theoretically predicted values (as in the case of Li or 12 C/13 C) are tracers of internal mixing processes, and will be studied as a function of the seismically determined mass. 
+	The third goal of this proposal is to address one of the biggest uncertainties in stellar astrophysics: the abundance of helium in stars. The helium second ionization zone inside a star produces an abrupt change in the local sound speed, which is detectable in the Fourier spectrum of time series as a periodic variation. We will construct detailed models of red giants where this variation is detected, and coupled with independent constraints on angular diameter and detailed surface composition, we will put stringent constraints on the helium abundance of red giants and test our assumptions on enrichment laws of the Galaxy. 
+	We have selected ~40 bright (Kp~5-8) red giants which are ideally suited for this project due to their precisely determined distances, large angular sizes for interferometry, and detectable oscillations in the 80 day K2 baseline. Red giants observed by Kepler were generally too faint to meet these criteria, making K2 uniquely suited to perform these observations. Our proposal addresses compelling questions in stellar structure and evolution, and is hence directly related to the K2 GO solicitation.
+
+# Targets requested by this program that have been observed (20)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+201115532, 183.969867, -6.160412, 7.344, GO10901_LC|GO10063_LC|GO10031_LC|GO10036_LC
+201192131, 182.051917, -4.287023, 7.862, GO10063_LC
+201237723, 180.805022, -3.395424, 8.141, GO10063_LC
+201255019, 181.499226, -3.13159, 6.192, GO10063_LC|GO10031_LC|GO10025_LC
+201262300, 184.643463, -3.022272, 8.368, GO10063_LC
+201298562, 183.175386, -2.472732, 6.983, GO10063_LC
+201375835, 183.750079, -1.326593, 7.303, GO10901_LC|GO10063_LC|GO10031_LC
+201421083, 183.470038, -0.639088, 8.291, GO10063_LC
+201421666, 181.797635, -0.629952, 8.364, GO10063_LC
+201488638, 184.243154, 0.352119, 8.407, GO10063_LC
+201502783, 180.588633, 0.563681, 8.14, GO10068_LC|GO10063_LC
+228717527, 186.090125, -10.475109, 8.406, GO10063_LC|GO10036_LC
+228730861, 187.660602, -9.824456, 8.043, GO10063_LC
+228739714, 182.701113, -9.397219, 7.311, GO10063_LC|GO10040_LC|GO10042_LC|GO10031_LC|GO10036_LC
+228744286, 187.85561, -9.181614, 7.023, GO10063_LC|GO10031_LC
+228750193, 184.834134, -8.914654, 8.779, GO10063_LC
+228758857, 191.248612, -8.532006, 7.327, GO10063_LC
+228781957, 184.090186, -7.531885, 8.341, GO10063_LC
+228787476, 185.789748, -7.299126, 6.783, GO10063_LC|GO10031_LC
+229056929, 186.419094, -0.282177, 8.41, GO10032_LC|GO10063_LC|GO10036_LC
