@@ -1,0 +1,13 @@
+# Summary of K2 Program GO0069
+
+Title: A SURVEY TO DETECT FIRST SDB PLANETARY TRANSITS
+
+PI: Silvotti,  ()
+CoIs: 
+
+
+
+# Targets requested by this program that have been observed (2)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+202060098, 96.24946, 26.82206, 15.1, GO0015_LC|GO0047_LC|GO0069_LC|GO0078_LC
+202065500, 105.31696, 18.89193, 15.5, GO0069_LC

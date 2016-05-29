@@ -1,0 +1,12 @@
+# Summary of K2 Program GO0004
+
+Title: ROAP CANDIDATES IN FIELD 0 OF K2
+
+PI: Kurtz,  ()
+CoIs: 
+
+
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+202059501, 99.43363, 19.94867, 9.1, GO0004_LC|GO0048_LC|GO0050_LC

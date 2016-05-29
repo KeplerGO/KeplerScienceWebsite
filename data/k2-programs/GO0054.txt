@@ -1,0 +1,12 @@
+# Summary of K2 Program GO0054
+
+Title: K2 OBSERVATIONS OF SOLAR-LIKE PLANET-HOSTING STARS IN FIELD 0
+
+PI: Van Grootel,  ()
+CoIs: 
+
+
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+202061312, 103.67833, 24.24556, 6.8, GO0054_SC|GO0052_SC|GO0022_SC|GO0042_SC

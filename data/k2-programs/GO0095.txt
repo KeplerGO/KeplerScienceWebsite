@@ -1,0 +1,12 @@
+# Summary of K2 Program GO0095
+
+Title: ACCRETION DISC VARIABILITY IN CATACLYSMIC VARIABLES
+
+PI: Breedt,  ()
+CoIs: 
+
+
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+202061317, 98.05417, 25.60625, 12.4, GO0025_LC|GO0032_LC|GO0040_LC|GO0095_LC|GO0114_LC

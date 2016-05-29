@@ -1,0 +1,12 @@
+# Summary of K2 Program GO0108
+
+Title: GAMMA-RAY PULSARS; GEMINGA AND PSR B0656+14
+
+PI: Schaefer,  ()
+CoIs: 
+
+
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+202083014, 98.47591, 17.77043, 25.0, GO0108_LC

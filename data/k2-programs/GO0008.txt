@@ -1,0 +1,12 @@
+# Summary of K2 Program GO0008
+
+Title: THE NEARBY BROWN DWARF WISEP J060738.65+242953.4
+
+PI: Gizis,  ()
+CoIs: 
+
+
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+202059521, 91.91048, 24.49783, 20.0, GO0008_LC

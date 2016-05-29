@@ -1,0 +1,14 @@
+# Summary of K2 Program GO0067
+
+Title: SHORT-DURATION FLARES ON MIRA STARS
+
+PI: Schaefer,  ()
+CoIs: 
+
+
+
+# Targets requested by this program that have been observed (3)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+202065471, 104.37875, 20.03511, 14.0, GO0067_LC
+202065472, 97.4204, 20.51992, 11.7, GO0067_LC|GO0083_LC
+202065475, 100.76792, 15.06208, 11.0, GO0067_LC
