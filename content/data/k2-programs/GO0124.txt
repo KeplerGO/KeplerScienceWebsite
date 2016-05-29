@@ -1,0 +1,12 @@
+# Summary of K2 Program GO0124
+
+Title: SHORT CADENCE RR LYRAE TARGETS - K2/C0 PROPOSAL
+
+PI: Kolenberg,  ()
+CoIs: 
+
+
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+202064516, 101.20785, 24.30269, 13.2, GO0055_LC|GO0124_LC|GO0124_SC

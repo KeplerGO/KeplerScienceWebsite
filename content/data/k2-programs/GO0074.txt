@@ -1,0 +1,13 @@
+# Summary of K2 Program GO0074
+
+Title: OPTICAL TIME VARIABILITY OF FERMI BLAZARS IN KEPLER FIELD 0
+
+PI: Wehrle,  ()
+CoIs: 
+
+
+
+# Targets requested by this program that have been observed (2)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+202059522, 102.69333, 25.04986, 15.82, GO0009_LC|GO0035_LC|GO0061_LC|GO0074_LC|GO0103_LC|GO0106_LC
+202059547, 102.19833, 15.27358, 16.53, GO0009_LC|GO0074_LC

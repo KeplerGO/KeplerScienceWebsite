@@ -1,0 +1,12 @@
+# Summary of K2 Program GO0010
+
+Title: A SEARCH FOR TRANSITING EXOPLANETS AROUND COOL WHITE DWARFS
+
+PI: Alonso,  ()
+CoIs: 
+
+
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+202059078, 101.12541, 27.51976, 17.0, GO0001_LC|GO0010_LC|GO0110_LC|GO0122_LC
