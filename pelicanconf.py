@@ -138,7 +138,10 @@ MEETINGS = (
              'http://www.iastro.pt/research/conferences/spacetk16/'),
             ('<b>17-27 Jul 2016</b><br>'
              'Asteroseismology and Exoplanets: Listening to the Stars and Searching for New Worlds',
-             'http://www.iastro.pt/research/conferences/faial2016/')
+             'http://www.iastro.pt/research/conferences/faial2016/'),
+            ('<b>19-23 Jun 2017</b><br>'
+             'Kepler & K2 SciCon III: Legacy & Scion',
+             '') 
             )
 
 # Defines the "related websites" listing in the footer of all pages
