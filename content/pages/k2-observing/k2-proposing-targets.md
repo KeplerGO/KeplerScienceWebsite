@@ -35,7 +35,7 @@ that can be achieved exclusively using archived K2 and Kepler data
 and science that requires new observations by K2. 
 The K2 GO program is specific to the case of science 
 requiring new observations. 
-Funding for archival science is instead provided through the Astrophysics Data Analysis Program ([ADAP; Appendix D.2 of ROSES-2015](http://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={7EC3A68D-0FF5-627D-C6EF-03D6FDE528FB}&path=closedPast)). 
+Funding for archival science is instead provided through the Astrophysics Data Analysis Program ([ADAP; ROSES-2016](https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={C8318766-786D-1262-D3C9-9C888D2873CE}&path=closedPast)). 
 This includes all Kepler data and archived data from K2 Campaigns. All
 proposals to the K2 GO calls therefore must justify 
 the need for new observational data within their program. 
@@ -99,7 +99,7 @@ are eligible to receive funding under a proposal led by a foreign PI.
 In this scenario, only a single Co-Investigator per proposal will be considered as a lead PI for funding purposes, 
 and proposals should identify a lead Co-Investigator within the U.S.
 
-In accordance with Public Law 113--76, Division B, Title V, Section 532, NASA cannot support bilateral participation, collaboration, or coordination with China or any Chinese-owned company or entity, whether funded or performed under a no-exchange-of-funds arrangement. See Section III(c) of the ROSES-2014 NRA for more information on these restrictions. 
+In accordance with Public Law 113--76, Division B, Title V, Section 532, NASA cannot support bilateral participation, collaboration, or coordination with China or any Chinese-owned company or entity, whether funded or performed under a no-exchange-of-funds arrangement. See Section III(c) of the ROSES-2016 NRA for more information on these restrictions. 
 
 ## Target selection
 
@@ -254,26 +254,23 @@ If you plan to submit a proposal for a Solar System (moving) target, we recommen
 
 ## Solicitations
 
-The call for K2 GO Cycle 4 proposals, which includes <a href="k2-fields.html">Campaigns 11, 12,
-and 13</a>, has been released and
-[is available at NSPIRES](http://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={7A635D8E-1B2B-2488-5E0D-5C81471D150B}&path=open). We
+The call for K2 GO Cycle 5 proposals, which includes <a href="k2-fields.html">Campaigns 14, 15,
+and 16</a>, [has been released and is available at NSPIRES](https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={D68A4380-B327-7C96-04CF-02B0FC940DBF}&path=open). We
 are requesting the community propose targets to observe
-during only these three campaigns. The execution of the K2 GO Cycle 4 is contingent upon the outcome of
-the 2016 Senior Review. <font color=red> The K2 GO Cycle 4 proposal
-deadlines have now passed. Stay tuned for information about K2 GO
-Cycle 5.  </font> <br/>
+during only these three campaigns. Note that the execution of K2 GO Cycle 5 is contingent upon the outcome of
+the 2016 Senior Review.
 
 ### FAQs  
 
 * **What are the proposal deadlines?**<br/>
-  Step 1: 23:59 EST 2016 Feb 05 <font color=red> (deadline has passed)</font> <br/>
-  Step 2: 23:59 EST 2016 Mar 04 <font color=red> (deadline has passed)</font> <br/>
+Step 1: 23:59 EST 2016 Sep 23 <br/>
+Step 2: 23:59 EST 2016 Nov 04 <br/>
   
 * **What are the anticipated dates of the campaigns included in the
 current solicitation?**<br/>
-Campaign 11: 2016 Sep 24 - Dec 08 <br/>
-Campaign 12: 2016 Dec 15 - 2017 Mar 04 <br/>
-Campaign 13: 2017 Mar 08 - May 27 <br/>
+Campaign 14: 2017 May 31 - Aug 19 <br/>
+Campaign 15: 2017 Aug 23 - Nov 08 <br/>
+Campaign 16: 2017 Nov 20 - 2018 Feb 09 <br/>
 Start and stop dates are approximate, flexible and could be overtaken by unanticipated operational events.<br/>
   
 * **Should I submit one proposal or two?**<br/>
@@ -284,11 +281,13 @@ Start and stop dates are approximate, flexible and could be overtaken by unantic
   use the online tool <a href="software.html#k2fov">K2fov</a> to
   determine whether your targets fall upon silicon and propose only
   those that do. The precision of this tool is a few 4x4 arcsec
-  detector pixels. The tool has been updated for the boresight
-  pointings of Campaigns 11, 12, and 13.<br/>
+  detector pixels. The tool currently has approximate positions for
+  Campaigns 14, 15, and 16 and will be updated with the final
+  positions soon.<br/>
 
 * **Should I apply for targets that do not fall on silicon?**<br/>
-  Please, no. The boresight locations for Campaigns 11, 12, and 13 are set. Proposing off-silicon targets is a waste of energy for proposers, reviewers and project staff. Use <a href="software.html#k2fov">K2fov</a> and apply only for targets that fall upon silicon (output flag "2").<br/>
+  Please, no. The boresight locations for Campaigns 14, 15, and 16
+  will be finalized soon. Proposing off-silicon targets is a waste of energy for proposers, reviewers and project staff. Use <a href="software.html#k2fov">K2fov</a> and apply only for targets that fall upon silicon (output flag "2").<br/>
 
 * **What is the K2 Ecliptic Plane Input Catalog (EPIC)?**<br/>
   Proposers are asked to submit targets that have been selected from the <a href="http://archive.stsci.edu/k2/epic/search.php">EPIC</a>. The EPIC plays the same role for K2 that the <a href="http://adsabs.harvard.edu/abs/2011AJ....142..112B">Kepler Input Catalog (KIC)</a> played for Kepler target selection. The primary purpose of the catalog is to define photometric apertures for each potential target by providing celestial positions and Kepler bandpass magnitudes. EPIC parameters are produced by source matching existing multi-band catalogs and calculating color corrections for the Kepler bandpass. Documentation describing the compilation of the EPIC is provided <a href="http://archive.stsci.edu/k2/epic.pdf">here</a>.<br/>
@@ -326,41 +325,40 @@ Start and stop dates are approximate, flexible and could be overtaken by unantic
 ### Submission process
 
 K2 proposal submission is a 2-step process. Both steps are
-mandatory. To propose for Campaigns 11, 12 and 13, investigators are
+mandatory. To propose for Campaigns 14, 15 and 16, investigators are
 required to submit Step 1 through the NSPIRES website by 23:59 EST
-February 5, 2016 and are required to submit Step 2 to the NSPIRES
-website by 23:59 EST March 4, 2016. All proposers need to register
+September 23, 2016 and are required to submit Step 2 to the NSPIRES
+website by 23:59 EST November 4, 2016. All proposers need to register
 with NSPIRES in order to submit both parts of the proposal. The
 separation of the proposal into two steps is required in order to
 expedite the completion of review administration and target
-engineering before the start of Campaign 11. Detailed instructions for
+engineering before the start of Campaign 14. Detailed instructions for
 submitting a K2 proposal to the GO call are provided below:
 
 * If new to the NASA Solicitation and Proposal Integrated Review and
   Evaluation System, NSPIRES,
   [register on the NSPIRES website](https://nspires.nasaprs.com/external/aboutRegistration.do).
 
-* Familiarize yourself with the NASA Research Announcement (NRA) Research Opportunities in Space and Earth Sciences Announcement 2015 [(ROSES-2015)](http://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={9F1341A9-6D0F-F075-C993-276263B186ED}&path=open). This document provides an overview of the NRA process and is a compilation of most solicitations within NASA's Science Mission Directorate.
+* Familiarize yourself with the NASA Research Announcement (NRA) Research Opportunities in Space and Earth Sciences Announcement 2016 [(ROSES-2016)](https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={68C12087-132D-3814-9A87-5323BCE6CAB6}&path=open&redirectURL=%2Fexternal%2Fsolicitations%2Fsolicitations.do%3Fmethod%3Dopen%26stack%3Dpush). This document provides an overview of the NRA process and is a compilation of most solicitations within NASA's Science Mission Directorate.
 
-* Read the [Cycle 4 K2 Research Announcement](http://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={7A635D8E-1B2B-2488-5E0D-5C81471D150B}&path=open). New amendments to the Kepler NRA are publicized at NSPIRES. Check this page regularly.
+* Read the [Cycle 5 K2 Research Announcement](https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={D68A4380-B327-7C96-04CF-02B0FC940DBF}&path=open). New amendments to the NRA are publicized at NSPIRES. Check this page regularly.
 
 * [Submit Step 1 of
       the proposal to NSPIRES](http://nspires.nasaprs.com/external/)
-      by 23:59 EST February 5, 2016.  [Instructions for
-      Step 1 submission can be found here](http://science.nasa.gov/media/medialibrary/2015/02/13/Step-1_instructions_.pdf). The deadline for Cycle 4 Step 1 proposals has passed.
+      by 23:59 EST September 23, 2016.  [Instructions for
+      Step 1 submission can be found here](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=498339/solicitationId=%7BD68A4380-B327-7C96-04CF-02B0FC940DBF%7D/viewSolicitationDocument=1/Step-1%20instructions%2002182016.pdf). 
 
 * [Submit Step 2 of
       the proposal to NSPIRES](http://nspires.nasaprs.com/external/)
-      by 23:59 EST March 4, 2016. [Instructions for Step
-      2 submission can be found here](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=431288/solicitationId=%7B1639473A-DDFB-D01F-6DF7-37C676E7BAAF%7D/viewSolicitationDocument=1/Submitting%20Step%202%20Instructions_req_step1.pdf). The deadline for Cycle 4 Step 2 proposals has passed.
+      by 23:59 EST November 4, 2016. 
 
 *  The generic content of the proposal is described in Sec 2.3 of the
     <a
-    href="http://www.hq.nasa.gov/office/procurement/nraguidebook/proposer2015.pdf">2015
+    href="http://www.hq.nasa.gov/office/procurement/nraguidebook/proposer2016.pdf">2016
     NRA Proposers Guide</a>. Page
     limits and proposal content within the NRA Guide are amended
     within the
-    [K2 GO Cycle 4 NRA](http://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={7A635D8E-1B2B-2488-5E0D-5C81471D150B}&path=open)
+    [K2 GO Cycle 5 NRA](https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={D68A4380-B327-7C96-04CF-02B0FC940DBF}&path=open)
     and are summarized in the table below.   The
     right-hand column provides page limits for the package elements. Caveats to the page limits are provided as footnotes. *The page limits on this website override the NRA-generic limits within the handbook.*
     Note that the Scientific/Technical/Management section of the
