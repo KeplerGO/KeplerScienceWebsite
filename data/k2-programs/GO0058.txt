@@ -1,0 +1,13 @@
+# Summary of K2 Program GO0058
+
+Title: DETACHED SOLAR-TYPE ECLIPSING BINARIES FROM THE WASP SURVEY
+
+PI: Maxted,  ()
+CoIs: 
+
+
+
+# Targets requested by this program that have been observed (2)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+202064549, 97.62533, 28.38753, 13.1, GO0058_LC
+202064550, 105.15858, 19.61459, 11.0, GO0058_LC|GO0118_LC

@@ -1,0 +1,14 @@
+# Summary of K2 Program GO0042
+
+Title: SOLAR-TYPE STARS FOR ASTEROSEISMOLOGY IN SHORT CADENCE
+
+PI: Chaplin,  ()
+CoIs: 
+
+
+
+# Targets requested by this program that have been observed (3)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+202061312, 103.67833, 24.24556, 6.8, GO0054_SC|GO0052_SC|GO0022_SC|GO0042_SC
+202062417, 97.6208, 19.28533, 8.8, GO0042_SC
+202062419, 95.36542, 17.29463, 9.1, GO0042_LC|GO0111_LC|GO0117_LC|GO0042_SC

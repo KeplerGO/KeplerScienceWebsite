@@ -1,0 +1,12 @@
+# Summary of K2 Program GO10903
+
+Title: K2 Rotation and Asteroseismology for an F-type star with 37 years of Activity Records
+
+PI: Egeland, Ricky (High Altitude Observatory/NCAR)
+CoIs: 
+
+
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+228720824, 183.793989, -10.312399, 6.055, GO10903_LC|GO10031_LC|GO10002_LC|GO10049_LC|GO10903_SC|GO10002_SC
