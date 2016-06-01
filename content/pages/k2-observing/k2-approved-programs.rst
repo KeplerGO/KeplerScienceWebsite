@@ -26,7 +26,7 @@ Campaign 10
 .. raw:: html
 
   <p>
-  <!-- TODO: add 10 paragraph here. -->
+  The Campaign 10 target list includes 28,345 standard long cadence and 138 short cadence targets. The standard long cadence targets include 4,950 small galaxies, while the short cadence list includes the famous quasar 3C-273. In addition, we have included large pixel masks over 27 large galaxies, 11 Trojan/Hilda asteroids, 4 TNOs, and comet 67P/Churyumov–Gerasimenko which is currently being investigated by the Rosetta mission. Finally, we also observed 8 very bright stars by targeting just the central region of pixels around these targets but excluding the bleed columns.
   </p>
   <ul class="list-group">
     <li class="list-group-item">
