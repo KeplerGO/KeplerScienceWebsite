@@ -25,7 +25,7 @@ DDT proposals are reviewed for both technical feasibility by someone in the proj
 
 To ensure that approved targets are able to be included in the final target lists for each campaign, proposals must be submitted by 23:59 PT (Pacific Time) on the following dates:
 
-* May 26, 2016 for Campaign 11
+* May 26, 2016 for Campaign 11 (deadline has passed)
 * August 18, 2016 for Campaign 12
 * November 10, 2016 for Campaign 13
  
