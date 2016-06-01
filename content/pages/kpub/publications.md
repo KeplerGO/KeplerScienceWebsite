@@ -36,7 +36,7 @@ Or by topic:
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/KeplerGO/kpub">GitHub repository</a> of the database.
 
-Last update: 26 May 2016.
+Last update: 01 Jun 2016.
 
 <hr/>
 
@@ -197,90 +197,90 @@ Here we list the most-active authors, defined as those with six or more first-au
 
  * Kipping, D (19 publications)
 
- * Huber, D (11 publications)
-
  * Steffen, J (11 publications)
 
- * Kane, S (10 publications)
+ * Huber, D (11 publications)
 
  * Murphy, S (10 publications)
 
  * Savanov, I (10 publications)
 
- * Stello, D (10 publications)
-
  * Baran, A (10 publications)
 
- * Hekker, S (9 publications)
+ * Kane, S (10 publications)
 
- * Molenda-Zakowicz, J (9 publications)
-
- * Armstrong, D (9 publications)
-
- * Wang, J (9 publications)
+ * Stello, D (10 publications)
 
  * Chaplin, W (9 publications)
 
- * Gaidos, E (8 publications)
+ * Molenda-Zakowicz, J (9 publications)
+
+ * Hekker, S (9 publications)
+
+ * Wang, J (9 publications)
+
+ * Armstrong, D (9 publications)
 
  * Santerne, A (8 publications)
 
  * Sanchis-Ojeda, R (8 publications)
 
- * Mosser, B (8 publications)
-
- * Scaringi, S (8 publications)
-
- * Kato, T (8 publications)
+ * Ostensen, R (8 publications)
 
  * Ramsay, G (8 publications)
 
- * Ostensen, R (8 publications)
+ * Gaidos, E (8 publications)
 
- * Campante, T (7 publications)
+ * Kato, T (8 publications)
+
+ * Scaringi, S (8 publications)
+
+ * Mosser, B (8 publications)
 
  * Borucki, W (7 publications)
+
+ * Lillo-Box, J (7 publications)
+
+ * Tkachenko, A (7 publications)
+
+ * Dawson, R (7 publications)
+
+ * Mathur, S (7 publications)
+
+ * Gilliland, R (7 publications)
+
+ * Van Eylen, V (7 publications)
+
+ * Campante, T (7 publications)
 
  * Silva Aguirre, V (7 publications)
 
  * Rappaport, S (7 publications)
 
- * Mathur, S (7 publications)
+ * Lissauer, J (6 publications)
 
- * Tkachenko, A (7 publications)
+ * Hirano, T (6 publications)
 
- * Gilliland, R (7 publications)
+ * Heller, R (6 publications)
 
- * Lillo-Box, J (7 publications)
+ * Guzik, J (6 publications)
 
- * Van Eylen, V (7 publications)
+ * Kjurkchieva, D (6 publications)
 
- * Dawson, R (7 publications)
+ * Ballard, S (6 publications)
+
+ * Mann, A (6 publications)
 
  * Morton, T (6 publications)
 
  * Corsaro, E (6 publications)
 
- * Lissauer, J (6 publications)
-
- * Barclay, T (6 publications)
-
- * Metcalfe, T (6 publications)
-
- * Ballard, S (6 publications)
-
  * Howell, S (6 publications)
 
  * Beck, P (6 publications)
 
- * Hirano, T (6 publications)
-
- * Kjurkchieva, D (6 publications)
+ * Barclay, T (6 publications)
 
  * Bonomo, A (6 publications)
 
- * Heller, R (6 publications)
-
- * Mann, A (6 publications)
-
- * Guzik, J (6 publications)
+ * Metcalfe, T (6 publications)
