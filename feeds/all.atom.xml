@@ -27,7 +27,8 @@ these data into more traditional multi-extension image FITS files.
 The tool, called "kadenza", is available and documented at
 &lt;a href="https://github.com/KeplerGO/kadenza"&gt;https://github.com/KeplerGO/kadenza&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The traditional calibrated data products are scheduled to be processed
-and released by September 26.&lt;/p&gt;</summary></entry><entry><title>New funding opportunity for work on K2 solar system data</title><link href="http://keplerscience.arc.nasa.gov/new-funding-opportunity-for-work-on-k2-solar-system-data.html" rel="alternate"></link><published>2016-05-16T12:00:00-07:00</published><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2016-05-16:new-funding-opportunity-for-work-on-k2-solar-system-data.html</id><summary type="html">&lt;p&gt;A &lt;a href="http://science.nasa.gov/researchers/sara/grant-solicitations/roses-2016/2016/3/11/amendment-1ddap-now-includes-keplerk2-solar-system-observations/"&gt;recent amendment&lt;/a&gt;
+and released by September 26.&lt;/p&gt;</summary></entry><entry><title>New funding opportunity for work on K2 solar system data</title><link href="http://keplerscience.arc.nasa.gov/new-funding-opportunity-for-work-on-k2-solar-system-data.html" rel="alternate"></link><published>2016-05-16T12:00:00-07:00</published><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2016-05-16:new-funding-opportunity-for-work-on-k2-solar-system-data.html</id><summary type="html">&lt;p&gt;&lt;em&gt;(Last updated on 2016-06-01 to include Campaign 10 targets.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;A &lt;a href="http://science.nasa.gov/researchers/sara/grant-solicitations/roses-2016/2016/3/11/amendment-1ddap-now-includes-keplerk2-solar-system-observations/"&gt;recent amendment&lt;/a&gt;
 to NASA's &lt;a href="https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&amp;amp;solId=%7BE2458B76-679E-DD13-4075-005651FF0CEE%7D&amp;amp;path=open"&gt;Discovery Data Analysis Program (DDAP)&lt;/a&gt;
 permits the submission of proposals for work on Kepler/K2 observations
 of solar system targets.
@@ -46,9 +47,9 @@ and search for activity in comets or oscillations in giant planets.
 Because Solar System objects move relative to the celestial sphere,
 long streaks of pixels are downloaded from the Kepler spacecraft to cover
 their trajectory (or part thereof).&lt;/p&gt;
-&lt;h2 id="solar-system-targets-in-campaigns-0-9"&gt;Solar system targets in Campaigns 0-9&lt;/h2&gt;
-&lt;p&gt;The K2 mission has so far targeted 92 solar system objects during
-Campaigns 0 through 9 as part of the
+&lt;h2 id="solar-system-targets-in-campaigns-0-10"&gt;Solar system targets in Campaigns 0-10&lt;/h2&gt;
+&lt;p&gt;The K2 mission has so far targeted 108 solar system objects during
+Campaigns 0 through 10 as part of the
 &lt;a href="k2-approved-programs.html"&gt;approved observing programs&lt;/a&gt;.
 These objects are listed below.&lt;/p&gt;
 &lt;p&gt;This list is not exhaustive because thousands of objects are known
@@ -66,19 +67,24 @@ can be checked using the &lt;a href="https://github.com/KeplerGO/K2ephem"&gt;K2e
 &lt;h3 id="comets"&gt;Comets&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;C/2013 A1 Siding Spring (C2)&lt;/li&gt;
+&lt;li&gt;67P/Churyumov–Gerasimenko (C10)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="trans-neptunian-objects"&gt;Trans-Neptunian Objects&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Quaoar     (C9)&lt;/li&gt;
 &lt;li&gt;1998 SN165 (C8)&lt;/li&gt;
+&lt;li&gt;1999 DE9   (C10)&lt;/li&gt;
 &lt;li&gt;2001 QT322 (C8)&lt;/li&gt;
 &lt;li&gt;2001 YH40  (C5)&lt;/li&gt;
 &lt;li&gt;2002 GV31  (C1)&lt;/li&gt;
 &lt;li&gt;2002 KY14  (C4)&lt;/li&gt;
+&lt;li&gt;2003 FC128 (C10)&lt;/li&gt;
 &lt;li&gt;2003 QW90  (C8)&lt;/li&gt;
 &lt;li&gt;2005 RS43  (C8)&lt;/li&gt;
 &lt;li&gt;2007 JJ43  (C2)&lt;/li&gt;
 &lt;li&gt;2007 OR10  (C3)&lt;/li&gt;
+&lt;li&gt;2010 ET65  (C10)&lt;/li&gt;
+&lt;li&gt;2010 FC49  (C10)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="trojan-and-hilda-asteroids"&gt;Trojan and Hilda asteroids&lt;/h2&gt;
 &lt;ul&gt;
@@ -88,6 +94,7 @@ can be checked using the &lt;a href="https://github.com/KeplerGO/K2ephem"&gt;K2e
 &lt;li&gt;Amphilochos  (C6)&lt;/li&gt;
 &lt;li&gt;Amphimachus  (C6)&lt;/li&gt;
 &lt;li&gt;Atreus       (C6)&lt;/li&gt;
+&lt;li&gt;Chijagerbs   (C10)&lt;/li&gt;
 &lt;li&gt;Demophon     (C6)&lt;/li&gt;
 &lt;li&gt;Dolios       (C6)&lt;/li&gt;
 &lt;li&gt;Eumelos      (C6)&lt;/li&gt;
@@ -102,7 +109,10 @@ can be checked using the &lt;a href="https://github.com/KeplerGO/K2ephem"&gt;K2e
 &lt;li&gt;Telamon      (C6)&lt;/li&gt;
 &lt;li&gt;Thrasymedes  (C6)&lt;/li&gt;
 &lt;li&gt;1986 WD      (C6)&lt;/li&gt;
+&lt;li&gt;1988 RO12    (C10)&lt;/li&gt;
 &lt;li&gt;1989 BL      (C6)&lt;/li&gt;
+&lt;li&gt;1989 VW      (C10)&lt;/li&gt;
+&lt;li&gt;1992 ET32    (C10)&lt;/li&gt;
 &lt;li&gt;1996 RJ33    (C6)&lt;/li&gt;
 &lt;li&gt;1997 SJ4     (C6)&lt;/li&gt;
 &lt;li&gt;1997 TV28    (C6)&lt;/li&gt;
@@ -126,6 +136,9 @@ can be checked using the &lt;a href="https://github.com/KeplerGO/K2ephem"&gt;K2e
 &lt;li&gt;2000 AC115   (C6)&lt;/li&gt;
 &lt;li&gt;2000 AR25    (C6)&lt;/li&gt;
 &lt;li&gt;2000 AU31    (C6)&lt;/li&gt;
+&lt;li&gt;2000 DP99    (C10)&lt;/li&gt;
+&lt;li&gt;2000 DS8     (C10)&lt;/li&gt;
+&lt;li&gt;2000 DV76    (C10)&lt;/li&gt;
 &lt;li&gt;2000 HR50    (C6)&lt;/li&gt;
 &lt;li&gt;2000 QG199   (C7)&lt;/li&gt;
 &lt;li&gt;2000 WC140   (C8)&lt;/li&gt;
@@ -150,9 +163,13 @@ can be checked using the &lt;a href="https://github.com/KeplerGO/K2ephem"&gt;K2e
 &lt;li&gt;2002 GL77    (C6)&lt;/li&gt;
 &lt;li&gt;2002 NA28    (C6)&lt;/li&gt;
 &lt;li&gt;2002 RN121   (C6)&lt;/li&gt;
+&lt;li&gt;2004 TN126   (C10)&lt;/li&gt;
 &lt;li&gt;2005 CB68    (C7)&lt;/li&gt;
+&lt;li&gt;2005 UR38    (C10)&lt;/li&gt;
+&lt;li&gt;2005 VZ17    (C10)&lt;/li&gt;
 &lt;li&gt;2006 UB219   (C8)&lt;/li&gt;
 &lt;li&gt;2007 RY194   (C8)&lt;/li&gt;
+&lt;li&gt;2008 DN52    (C10)&lt;/li&gt;
 &lt;li&gt;2008 SY172   (C6)&lt;/li&gt;
 &lt;li&gt;2010 XP50    (C6)&lt;/li&gt;
 &lt;/ul&gt;</summary></entry><entry><title>More community generated light curves available at MAST</title><link href="http://keplerscience.arc.nasa.gov/more-community-generated-light-curves-available-at-mast.html" rel="alternate"></link><published>2016-04-29T10:30:00-07:00</published><author><name>Tom Barclay</name></author><id>tag:keplerscience.arc.nasa.gov,2016-04-29:more-community-generated-light-curves-available-at-mast.html</id><summary type="html">&lt;p&gt;The Oxford Exoplanets group announces the &lt;a href="https://archive.stsci.edu/prepds/k2sc/"&gt;release at MAST&lt;/a&gt; of a new set of K2 light curve &lt;a href="http://archive.stsci.edu/k2/hlsps.html"&gt;High Level Science Products&lt;/a&gt;. The Oxford group has applied the &lt;a href="http://adsabs.harvard.edu/doi/10.1093/mnras/stw706"&gt;K2 Systematics Correction (K2SC)&lt;/a&gt; Gaussian Process-based detrending algorithm to project generated long-cadence light curves from Campaigns 3 to 6. This algorithm simultaneously models astrophysical variability and pointing systematics, enabling the user to disentangle the two and remove either or both. These light curves are therefore well-suited to searches for transits and other short-lived events in the light curves of variable active stars, or to studying stellar variability. Additional campaigns will be added as the data becomes available and the source code is &lt;a href="https://github.com/OxES/k2sc"&gt;available from Github&lt;/a&gt;.&lt;/p&gt;
