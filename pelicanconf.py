@@ -138,7 +138,7 @@ MEETINGS = (
              'http://www.iastro.pt/research/conferences/faial2016/'),
             ('<b>19-23 Jun 2017</b><br>'
              'Kepler & K2 SciCon III: Legacy & Scion',
-             '') 
+             '/save-the-date-for-kepler-k2-scicon-iii-june-19-23-2017.html') 
             )
 
 # Defines the "related websites" listing in the footer of all pages
