@@ -1,0 +1,20 @@
+# Summary of K2 Program GO4901
+
+Title: K2 photometry of bright Pleiades and Hyades Stars
+
+PI: White, Tim ()
+CoIs: 
+
+
+
+# Targets requested by this program that have been observed (9)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+200007765, , , , GO4901_LC
+200007766, , , , GO4901_LC
+200007767, , , , GO4901_LC
+200007768, , , , GO4901_LC
+200007769, , , , GO4901_LC
+200007770, , , , GO4901_LC
+200007771, , , , GO4901_LC
+200007772, , , , GO4901_LC
+200007773, , , , GO4901_LC

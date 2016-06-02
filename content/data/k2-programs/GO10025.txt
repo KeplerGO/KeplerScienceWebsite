@@ -1,0 +1,26 @@
+# Summary of K2 Program GO10025
+
+Title: Asteroseismology of the Brightest K2 Stars
+
+PI: Huber, Daniel (SETI Institute)
+CoIs: Bedding, Tim; Aerts, Conny Clara; Silva Aguirre, Victor; White, Timothy R
+
+The most powerful tests of stellar structure and evolution come from the brightest stars in the night sky, for which complementary observational techniques (such as astrometry, asteroseismology, and interferometry) can be combined. So far, stars brighter than Kp < 6 mag were rarely observed with Kepler/K2 due to the large number of pixels required to capture the saturated pixel columns. We propose K2 long-cadence observations of the brightest (Kp < 6.3 mag) K2 stars in campaign 8 & 10 using a novel technique which uses a small number of unsaturated pixels. Asteroseismic studies of these targets will allow unprecedented tests of asteroseismic scaling relations for giants and insights into poorly understood internal processes of intermediate-mass stars such as convective core overshooting.
+
+We selected 18 targets including A stars and red giants with Kp < 6.3 mag from the Hipparcos catalog. We will use small (~20x20 pixel) circular apertures around the saturated core for each target, and perform photometry using weighted sums of unsaturated pixels in the wings of the circular aperture. The method has been demonstrated to successfully recover pulsations of saturated giant stars observed in K2 Campaign 1. We will also organize spectroscopic and interferometric follow-up observations that will be combined with the K2 photometry.
+
+Our proposal addresses fundamental stellar astrophysics, a key science goal of the K2 mission. Our project furthermore supports galactic astrophysics, another key science area identified in the NRA, through the calibration of scaling relations for galactic archeology studies. A better understanding of stellar models through the study of bright stars is relevant for science goals pursued by both present and future NASA missions such as the characterization of exoplanets (TESS, JWST) as well as stellar populations and galaxy formation/evolution (HST, JWST).
+
+# Targets requested by this program that have been observed (11)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+200084004, , , , GO10025_LC
+200084005, , , , GO10025_LC
+200084006, , , , GO10025_LC
+200084007, , , , GO10025_LC
+200084008, , , , GO10025_LC
+200084009, , , , GO10025_LC
+200084010, , , , GO10025_LC
+200084011, , , , GO10025_LC
+201255019, 181.499226, -3.13159, 6.192, GO10063_LC|GO10031_LC|GO10025_LC
+228738487, 188.444783, -9.452077, 5.608, GO10077_LC|GO10025_LC
+229144017, 189.593355, 1.854664, 5.386, GO10025_LC

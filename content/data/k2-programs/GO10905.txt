@@ -1,0 +1,12 @@
+# Summary of K2 Program GO10905
+
+Title: HW Vir: are the circumbinary planets really there?
+
+PI: Bours, Madelon (Universidad de Valparaiso (Chile))
+CoIs: 
+
+
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+228755638, 191.084322, -8.671343, 10.763, GO10905_LC|GO10004_LC|GO10007_LC|GO10074_LC|GO10024_LC|GO10905_SC|GO10004_SC|GO10007_SC

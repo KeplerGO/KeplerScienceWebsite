@@ -67,7 +67,12 @@ Save_as: conferences.html
     <a href="https://twitter.com/search?q=%23AAS228">#AAS228 tweets</a></td>
 	</tr>
 
+  <tr>
+    <td style="width: 7em;">Jun 2017</td>
+    <td style="width: 20em;">Kepler & K2 SciCon III: Legacy & Scion</td>
+    <td><a href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon tweets</a></td>
+	</tr>
+	
 </table>
 
-A future Kepler/K2 Science Conference is being planned. Stay tuned!
 

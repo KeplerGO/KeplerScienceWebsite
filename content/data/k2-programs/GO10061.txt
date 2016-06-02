@@ -1,0 +1,24 @@
+# Summary of K2 Program GO10061
+
+Title: Seismology of hot magnetic stars with K2 in Field 8 and Field 10
+
+PI: Buysschaert, Bram D (Institute for Astronomy, KU Leuven)
+CoIs: Aerts, Conny Clara; Briquet, Maryline; Neiner, Coralie
+
+Only a few dozen magnetic hot stars have been previously observed from space. The majority of these observations were done with the CoRoT mission, a few have been monitored in Campaigns 0 and 2 of the K2 mission, and some will be observed during the upcoming Campaign 7. We aim to obtain a thorough understanding of their variability by increasing the sample with K2 data of higher quality than the Campaign 0 data. 
+
+Hot stars show different types of stellar pulsations, which are classified according to the seismic properties, as well as the stellar properties of the star itself. The hottest of them (O stars) host  ² Cep pulsations, i.e. low order pressure and high order gravity  modes (see Aerts et al. 2010 for a monograph on asteroseismology). Slightly cooler (B type) stars show either g modes or, in case of fast stellar rotation, have rotationally enhanced stochastic oscillations (Neiner et al. 2012,A&A,546, A47). The cooler A stars are either roAp or ´ Scu types and show both p and g modes.
+
+Seven percent of these OBA stars host magnetic fields detectable with current ground-based spectropolarimeters (Wade et al. 2014,IAUS,302,265). These fields are of fossil origin, i.e. remnants from the magnetic field of the molecular cloud from which the star formed, possibly enhanced by a dynamo during very early stages of stellar evolution. Fossil fields have simple configuration, often a dipole inclined compared to the rotation axis.
+
+Combined magnetic and seismic information of hot stars is particularly interesting as it provides a unique way of probing the impact of magnetism on the physics of non-standard mixing processes inside these stars. Comparing the amount of mixing obtained by asteroseismic investigation for a sample of magnetic hot stars with that of a sample of non-magnetic objects would allow us to corroborate that magnetic fields inhibit mixing in stellar interiors, as predicted by several theoretical criteria (e.g. Spruit 1999,A&A,349,189) and observed for V2052 Oph (Briquet et al. 2012,MNRAS,427,483). Additionally, the magnetic field can influence the stellar oscillations by, e.g., magnetic mode splitting (Aerts et al. 2010).
+
+Up to now, asteroseismic modelling has been performed for only two magnetic pulsating B stars (Shibahashi & Aerts 2000,ApJ,531,143; Briquet et al. 2012) and a few A stars (e.g. Kurtz et al. 2014,MNRAS,44,102). Although magnetic fields have been detected in a number of other pulsating hot stars, there is no seismic modelling available for them due to the lack of asteroseismic data. 
+
+While combining asteroseismology with spectropolarimetry opened the way to a reliable exploration of the effects of magnetism on the physics of mixing inside stellar interiors of hot stars, we now need to investigate a larger sample of magnetic targets. We intend to progress by observing known magnetic hot stars with K2. Given the rarity of such objects, the upcoming K2 campaigns complemented by spectropolarimetric follow-up will be instrumental to increase the number of asteroseismic studies of magnetic hot stars.
+
+The photometric accuracy and the high duty-cycle of K2 makes the mission best suited to reach our science goals. State-of-the-art modelling tools will translate the seismic information to detailed stellar models. Spectropolarimetric observations will be obtained with ESPaDOnS or Narval.  Our team members already worked together under the MASSIVE consortium and the gathered expertise will be optimal to study the targets in d Fields 8 and 10.  Only two hot magnetic Ap stars are observable in Fields 8 and 10, one in each field. This includes one in a close binary system which could host interacting magnetospheres, testing the effects of magnetism on binarity, and vice versa. Although the proposed targets might show variability on short timescales, we can work with long cadence data to study the low order p modes and all possible g modes, as demonstrated by Saio et al. 2015 (MNRAS,444,3264).
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+201667495, 184.579639, 3.101119, 8.655, GO10061_LC|GO10077_LC|GO10028_LC|GO10061_SC

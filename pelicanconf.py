@@ -102,18 +102,21 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b>26 May 2016</b>',
-             'K2 Campaign 11 DDT proposal deadline',
-             'k2-ddt.html'), 
             ('<b>24 Jun 2016</b>',
              'K2 Campaign 8 data release (expected)',
              'data-products.html#k2-product-overview'),
             ('<b>18 Aug 2016</b>',
              'K2 Campaign 12 DDT proposal deadline',
              'k2-ddt.html'),  
+            ('<b>23 Sep 2016</b>',
+             'K2 GO Cycle 5 Step-1 Deadline',
+             'k2-proposing-targets.html#solicitations'),
             ('<b>26 Sep 2016</b>',
              'K2 Campaign 9 data release (expected)',
              'data-products.html#k2-product-overview'),
+            ('<b>04 Nov 2016</b>',
+             'K2 GO Cycle 5 Step-2 Deadline',
+             'k2-proposing-targets.html#solicitations'), 
             ('<b>10 Nov 2016</b>',
              'K2 Campaign 13 DDT proposal deadline',
              'k2-ddt.html'), 
@@ -132,7 +135,10 @@ MEETINGS = (
              'http://www.iastro.pt/research/conferences/spacetk16/'),
             ('<b>17-27 Jul 2016</b><br>'
              'Asteroseismology and Exoplanets: Listening to the Stars and Searching for New Worlds',
-             'http://www.iastro.pt/research/conferences/faial2016/')
+             'http://www.iastro.pt/research/conferences/faial2016/'),
+            ('<b>19-23 Jun 2017</b><br>'
+             'Kepler & K2 SciCon III: Legacy & Scion',
+             '/save-the-date-for-kepler-k2-scicon-iii-june-19-23-2017.html') 
             )
 
 # Defines the "related websites" listing in the footer of all pages

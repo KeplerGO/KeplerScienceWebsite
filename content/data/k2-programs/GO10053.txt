@@ -1,0 +1,71 @@
+# Summary of K2 Program GO10053
+
+Title: The K2 Extragalactic Survey (KEGS) in Nearby Galaxies: Cycle 3
+
+PI: Tucker, Brad E (Mt. Stromlo Observatory)
+CoIs: Hounsell, Rebekah; Rest, Armin; Shaya, Ed; Garnavich, Peter M.; Olling, Robert P; Mushotzky, Richard; Kasen, Daniel Nathan
+
+We propose a K2 Program to monitor about 50 large, nearby galaxies in Campaigns 8 and 10 to look  for fast (t < 10 day) and faint (Mv > -15) stellar transients. The K2 science mission, with its long baseline, high cadence, high precision and multi-targeting capabilities provides a unique opportunity to examine a broad range of such variables and transients.
+
+Perets et al. 2010 found a new class of faint events (Mv > -16) that were spectroscopically similar to SN Ib/c but have strong calcium lines in their nebular spectra. These objects, characterized by a relatively fast light curve (12 - 15 days to peak brightness),  are difficult to find by traditional surveys, and thus the progenitors of these interesting events are unknown.  In addition, Drout et al. 2014, using the Pan-STARRS1 survey, found a few transients that were relatively bright (-20 < Mv < -16) but with a time to maximum of only a few days. Even though they are bright, their short time scale, some brightening in only a day, causes these events to usually be missed. The stellar origin of these events is also unknown.
+
+This program will be very sensitive to LBV- and nova-like eruptions, large amplitude flare stars, cataclysmic variable stars, and other still unknown types of faint, fast transients.
+
+We will undertake a major, concurrent ground-based effort (along with the main KEGS survey) to observe these galaxies every other day using SkyMapper and ATLAS Pathfinder. We will also coordinate multi- color photometry and spectra to classify the transients using PESSTO, and existing programs at Siding Spring, Lick, Gemini, and Keck.
+
+# Targets requested by this program that have been observed (54)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+200084871, , , , GO10070_LC|GO10053_LC|LC_CUSTOM_LARGE_GALAXIES
+200084872, , , , GO10070_LC|GO10053_LC|LC_CUSTOM_LARGE_GALAXIES
+200084873, , , , GO10070_LC|GO10053_LC|LC_CUSTOM_LARGE_GALAXIES
+200084874, , , , GO10070_LC|GO10053_LC|LC_CUSTOM_LARGE_GALAXIES
+200084875, , , , GO10070_LC|GO10053_LC|LC_CUSTOM_LARGE_GALAXIES
+200084876, , , , GO10068_LC|GO10053_LC|LC_CUSTOM_LARGE_GALAXIES
+200084877, , , , GO10053_LC|LC_CUSTOM_LARGE_GALAXIES
+200084878, , , , GO10053_LC|LC_CUSTOM_LARGE_GALAXIES
+200084879, , , , GO10053_LC|LC_CUSTOM_LARGE_GALAXIES
+200084880, , , , GO10053_LC|LC_CUSTOM_LARGE_GALAXIES
+200084881, , , , GO10053_LC|LC_CUSTOM_LARGE_GALAXIES
+200084882, , , , GO10053_LC|LC_CUSTOM_LARGE_GALAXIES
+200084883, , , , GO10053_LC|LC_CUSTOM_LARGE_GALAXIES
+200084884, , , , GO10053_LC|LC_CUSTOM_LARGE_GALAXIES
+200084885, , , , GO10053_LC|LC_CUSTOM_LARGE_GALAXIES
+200084886, , , , GO10053_LC|LC_CUSTOM_LARGE_GALAXIES
+200084887, , , , GO10053_LC|LC_CUSTOM_LARGE_GALAXIES
+200084888, , , , GO10053_LC|LC_CUSTOM_LARGE_GALAXIES
+200084889, , , , GO10053_LC|LC_CUSTOM_LARGE_GALAXIES
+200084890, , , , GO10053_LC|LC_CUSTOM_LARGE_GALAXIES
+200084891, , , , GO10053_LC|LC_CUSTOM_LARGE_GALAXIES
+200084892, , , , GO10053_LC|LC_CUSTOM_LARGE_GALAXIES
+200084893, , , , GO10053_LC|LC_CUSTOM_LARGE_GALAXIES
+200084894, , , , GO10053_LC|LC_CUSTOM_LARGE_GALAXIES
+200084895, , , , GO10053_LC|LC_CUSTOM_LARGE_GALAXIES
+200084896, , , , GO10053_LC|LC_CUSTOM_LARGE_GALAXIES
+200084897, , , , GO10053_LC|LC_CUSTOM_LARGE_GALAXIES
+201180949, 183.25964, -4.553365, 17.061, GO10070_LC|GO10053_LC
+201236148, 180.196508, -3.420171, 18.201, GO10070_LC|GO10053_LC
+201377996, 183.411685, -1.293556, 17.921, GO10053_LC
+201562141, 185.116312, 1.468389, 17.999, GO10053_LC
+201562326, 185.114684, 1.471, 17.737, GO10053_LC
+201582525, 184.971646, 1.773442, 17.583, GO10070_LC|GO10053_LC
+228834149, 189.976559, -5.357134, 17.518, GO10053_LC
+228835410, 190.187215, -5.302555, 17.777, GO10053_LC
+228835423, 190.186032, -5.302036, 17.03, GO10053_LC
+228839467, 190.153861, -5.132611, 13.844, GO10053_LC
+228871040, 188.872906, -3.793153, 11.634, GO10068_LC|GO10053_LC
+228890542, 185.975035, -3.442935, 13.698, GO10053_LC
+228890608, 185.975994, -3.441857, 18.909, GO10053_LC
+228957217, 189.513789, -2.263877, 16.877, GO10053_LC
+228957249, 189.514459, -2.263332, 17.278, GO10053_LC
+228957288, 189.512861, -2.262643, 17.855, GO10053_LC
+228968511, 187.211459, -2.060775, 16.209, GO10053_LC
+228975107, 187.211459, -1.939192, 13.848, GO10053_LC
+228986144, 188.098345, -1.740016, 15.608, GO10070_LC|GO10053_LC
+228993931, 187.241227, -1.602612, 18.218, GO10053_LC
+228994107, 186.331419, -1.598976, 18.335, GO10053_LC
+229008183, 189.451094, -1.34516, 15.318, GO10070_LC|GO10053_LC
+229084469, 188.493438, 0.38688, 19.708, GO10053_LC
+229084471, 188.494211, 0.386955, 17.965, GO10053_LC
+229127653, 185.115258, 1.469759, 14.619, GO10053_LC
+229142373, 185.846256, 1.816797, 19.433, GO10053_LC
+229148229, 185.047669, 1.958547, 17.343, GO10053_LC
