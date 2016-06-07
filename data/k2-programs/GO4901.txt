@@ -2,7 +2,7 @@
 
 Title: K2 photometry of bright Pleiades and Hyades Stars
 
-PI: White,  ()
+PI: White, Tim ()
 CoIs: 
 
 
