@@ -261,7 +261,51 @@ This page details the previous, current, and future K2 Campaign fields.
       </td>
       <td>Hyades, Taurus</td>
     </tr>
-
+    <tr>
+      <td><a href="#c14">14</a></td> 
+      <td>2017 May 31</td>
+      <td>2017 Aug 19</td>
+      <td>2017 Nov 26</td>
+      <td>10:42:44</td>
+      <td>+06:51:06</td>
+      <td class="text-center">
+        
+      </td>
+      <td class="text-center">
+        
+      </td>
+      <td>North Galactic Cap, Wolf 359, WASP-104</td>
+    </tr>
+    <tr>
+      <td><a href="#c15">15</a></td>s 
+      <td>2017 Aug 23</td>
+      <td>2017 Nov 15</td>
+      <td>2017 Feb 26</td>
+      <td>15:34:28</td>
+      <td>-20:04:44</td>
+      <td class="text-center">
+        
+      </td>
+      <td class="text-center">
+        
+      </td>
+      <td>Upper Sco, GW Lib, HP Lib</td>
+    </tr>
+    <tr>
+      <td><a href="#c16">16</a></td>
+      <td>2017 Nov 19</td>
+      <td>2018 Jan 28</td>
+      <td>2018 Mar 26</td>
+      <td>21:21:58</td>
+      <td>-16:36:30</td>
+      <td class="text-center"> 
+        
+      </td>
+      <td class="text-center">
+        
+      </td>
+      <td>Comet 29P, WASP-70, WASP-89</td>
+    </tr>
   </tdata>
 </table>
 
@@ -306,30 +350,6 @@ fields by emailing us at [keplergo@mail.arc.nasa.gov](keplergo@mail.arc.nasa.gov
     </tr>
   </thead>
   <tdata>
-    <tr>
-      <td>14</td>
-      <td>2017 May 31</td>
-      <td>2017 Aug 19</td>
-      <td>10:39:52</td>
-      <td>+07:07:57</td>
-      <td>Approximate position</td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>2017 Aug 23</td>
-      <td>2017 Nov 08</td>
-      <td>15:26:24</td>
-      <td>-19:36:30</td>
-      <td>Approximate position</td>
-    </tr>
-    <tr>
-      <td>16</td>
-      <td>2017 Nov 20</td>
-      <td>2018 Feb 9</td>
-      <td>21:23:59</td>
-      <td>-16:27:21</td>
-      <td>Approximate position</td>
-    </tr>
     <tr>
       <td>17<sup>††</sup></td>
       <td>2018 Feb 1</td>
