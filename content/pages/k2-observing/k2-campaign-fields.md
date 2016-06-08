@@ -322,7 +322,7 @@ This page details the previous, current, and future K2 Campaign fields.
 ### Future (preliminary)
 
 <p>
-The fields below indicate fields being considered for Campaign 14 and beyond. 
+The fields below indicate fields being considered for Campaign 17 and beyond. 
 The coordinates are not final and <i>will</i> change to optimize science
 and accommodate engineering constraints (e.g. the availability of guide stars).
 </p>
@@ -489,7 +489,7 @@ You can learn more about the installation and usage of these tools [on the softw
     <a href="images/campaign_selected/field16-final.png"><img class="img-responsive" src="images/campaign_selected/field16-final.png"></a>
   </div>
   <div class="col-lg-6">
-    <b id="c17">Campaign 17</b>
+
 
   </div>
 </div>
