@@ -472,6 +472,29 @@ You can learn more about the installation and usage of these tools [on the softw
   </div>
 </div>
 
+<div class="row">
+  <div class="col-lg-6">
+    <b id="c14">Campaign 14</b>
+    <a href="images/campaign_selected/field14-final.png"><img class="img-responsive" src="images/campaign_selected/field14-final.png"></a>
+  </div>
+  <div class="col-lg-6">
+    <b id="c15">Campaign 15</b>
+    <a href="images/campaign_selected/field15-final.png"><img class="img-responsive" src="images/campaign_selected/field15-final.png"></a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-lg-6">
+    <b id="c16">Campaign 16</b>
+    <a href="images/campaign_selected/field16-final.png"><img class="img-responsive" src="images/campaign_selected/field16-final.png"></a>
+  </div>
+  <div class="col-lg-6">
+    <b id="c17">Campaign 17</b>
+
+  </div>
+</div>
+
+
 <hr/>
 
 
