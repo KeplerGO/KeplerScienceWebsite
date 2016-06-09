@@ -509,12 +509,12 @@ These files specify the coordinates of the corners of each CCD channel
 in each campaign, along with the observing dates and module numbers.
 The JSON files also provide galactic coordinates.
 
-Campaigns 0 through 13:
+Campaigns 0 through 16:
 
 * [k2-footprint.json](https://github.com/KeplerGO/K2FootprintFiles/raw/master/json/k2-footprint.json)
 * [k2-footprint.csv](https://github.com/KeplerGO/K2FootprintFiles/raw/master/csv/k2-footprint.csv)
 
-Campaigns 14 through 17:
+Campaigns 17 and 18:
 
 * [k2-footprint-proposed.json](https://github.com/KeplerGO/K2FootprintFiles/raw/master/json/k2-footprint-proposed.json) **(preliminary!)**
 * [k2-footprint-proposed.csv](https://github.com/KeplerGO/K2FootprintFiles/raw/master/csv/k2-footprint-proposed.csv) **(preliminary!)**
