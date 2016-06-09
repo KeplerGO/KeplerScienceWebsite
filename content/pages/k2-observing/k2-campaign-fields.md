@@ -277,7 +277,7 @@ This page details the previous, current, and future K2 Campaign fields.
       <td>North Galactic Cap, Wolf 359, WASP-104</td>
     </tr>
     <tr>
-      <td><a href="#c15">15</a></td>s 
+      <td><a href="#c15">15</a></td>
       <td>2017 Aug 23</td>
       <td>2017 Nov 15</td>
       <td>2017 Feb 26</td>
