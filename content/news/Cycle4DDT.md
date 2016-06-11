@@ -14,4 +14,4 @@ The DDT program for K2 occurs on a rolling basis; observations can be proposed f
 * August 18, 2016 for Campaign 12
 * November 10, 2016 for Campaign 13
 
-The complete list of requirements for DDT proposals and details on the submission process are provided on the [DDT webpage](http://keplerscience.arc.nasa.gov/k2-ddt.html).
+The complete list of requirements for DDT proposals and details on the submission process are provided on the [DDT webpage](/k2-ddt.html).

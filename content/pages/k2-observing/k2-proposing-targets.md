@@ -189,7 +189,7 @@ href="http://archive.stsci.edu/k2/epic/search.php">K2 EPIC Target
     <td>The apparent magnitude of the target in the Kepler bandpass. The combination of celestial coordinates and magnitude are the primary data required by the Kepler Science Center to calculate target pixel masks. The Kepler magnitude for most sources can be obtained from the <a
 href="http://archive.stsci.edu/k2/epic/search.php">K2 EPIC Target
     Search</a> page. If no Kepler bandpass magnitude is provided in the EPIC, <a
-href="http://keplerscience.arc.nasa.gov/the-kepler-space-telescope.html#flux-calibration">it
+href="/the-kepler-space-telescope.html#flux-calibration">it
     can be estimated</a>. If the magnitude entered here is brighter than the EPIC magnitude, then the user-supplied magnitude will be adopted. For highly-variable stars, list the brightest predicted magnitude.
  </td>
 </tr>

@@ -12,7 +12,7 @@ Handbook, links to which can all be found on the
 [data releases page](data-products.html).   While operations for K2 are slightly different,
 these papers still provide a useful overview that is largely relevant
 for the K2 pipeline.  **We note that the latest information specific
-to the K2 pipeline can be found in the [pipeline release notes](http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml).
+to the K2 pipeline can be found in the [pipeline release notes](/K2/pipelineReleaseNotes.shtml).
 Users of K2 data are strongly encouraged to read both the pipeline and
 data release notes for K2.**
 

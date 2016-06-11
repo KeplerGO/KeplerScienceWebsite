@@ -15,4 +15,4 @@ New features of the website include:
 * a comprehensive overview of the <a href="data-products.html">Kepler and K2 data products</a>;
 * a new <a href="publications.html">publication database</a> including <a href="publications.html#most-cited-publications">citation statistics</a>.
 
-The previous Science Center website <a href="http://keplerscience.arc.nasa.gov/index_old.shtml">has been preserved</a> with a warning message at the top of the old pages.
+The previous Science Center website <a href="/index_old.shtml">has been preserved</a> with a warning message at the top of the old pages.

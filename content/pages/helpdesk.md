@@ -45,5 +45,5 @@ The FAQ archives at MAST for
 [K2](http://archive.stsci.edu/mast_faq.php?mission=K2) answer many
 questions about the missions as well as how to retrieve and analyze
 the data.  The FAQ archives on the original Kepler/K2 website can be accessed
-[here for Kepler](http://keplerscience.arc.nasa.gov/FAQ.shtml) and
-[here for K2](http://keplerscience.arc.nasa.gov/K2/FAQ.shtml). 
+[here for Kepler](/FAQ.shtml) and
+[here for K2](/K2/FAQ.shtml). 
