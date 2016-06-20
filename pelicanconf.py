@@ -14,7 +14,7 @@ ANALYTICS = ()   # pelicanconf-live.py will override this
 AUTHOR = u'Thomas Barclay'
 SITENAME = "Kepler &amp; K2"
 BANNER_SUBTITLE = "Science Center"
-SITEURL = "http://keplerscience.arc.nasa.gov"
+SITEURL = "https://keplerscience.arc.nasa.gov"
 SITELOGO = 'images/NASA_logo_vector_lg.png'
 SITELOGO_SIZE = 32
 FAVICON = 'images/favicon.png'
@@ -34,7 +34,7 @@ IGNORE_FILES = [
 ]
 
 # Enable RSS feeds
-FEED_DOMAIN = "http://keplerscience.arc.nasa.gov"
+FEED_DOMAIN = "https://keplerscience.arc.nasa.gov"
 FEED_ALL_ATOM = "feeds/all.atom.xml"
 FEED_ALL_RSS = "feeds/all.rss.xml"
 # We don't need per-author or per-category or per-translation feeds
@@ -116,10 +116,10 @@ IMPORTANT_DATES = (
              'data-products.html#k2-product-overview'),
             ('<b>04 Nov 2016</b>',
              'K2 GO Cycle 5 Step-2 Deadline',
-             'k2-proposing-targets.html#solicitations'), 
+             'k2-proposing-targets.html#solicitations'),
             ('<b>10 Nov 2016</b>',
              'K2 Campaign 13 DDT proposal deadline',
-             'k2-ddt.html'), 
+             'k2-ddt.html'),
          )
 
 # Defines the "meetings" box on the front page
@@ -129,7 +129,7 @@ MEETINGS = (
              'http://aas.org/meetings/aas228'),
             ('<b>3-8 Jul 2016</b><br>'
              'Exoplanets I',
-             'http://www.exoplanetscience.org'),    
+             'http://www.exoplanetscience.org'),
             ('<b>11-15 Jul 2016</b><br>'
              'TASC2-KASC9 Asteroseismology Workshop',
              'http://www.iastro.pt/research/conferences/spacetk16/'),

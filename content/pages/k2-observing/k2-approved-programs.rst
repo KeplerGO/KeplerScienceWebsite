@@ -154,7 +154,7 @@ Campaign 7
     </li>
     <li class="list-group-item">
       <i class="fa fa-cog fa-margin"></i>
-      <a href="http://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-9">Pipeline: 9.3</a>
+      <a href="/k2-pipeline-release-notes.html#data-release-9">Pipeline: 9.3</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -192,7 +192,7 @@ Campaign 6
     </li>
     <li class="list-group-item">
       <i class="fa fa-cog fa-margin"></i>
-      <a href="http://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-8">Pipeline: 9.3</a>
+      <a href="/k2-pipeline-release-notes.html#data-release-8">Pipeline: 9.3</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -226,7 +226,7 @@ Campaign 5
     </li>
     <li class="list-group-item">
       <i class="fa fa-cog fa-margin"></i>
-      <a href="http://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-7">Pipeline: 9.3</a>
+      <a href="/k2-pipeline-release-notes.html#data-release-7">Pipeline: 9.3</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -263,7 +263,7 @@ Campaign 4
     </li>
     <li class="list-group-item">
       <i class="fa fa-cog fa-margin"></i>
-      <a href="http://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-6">Pipeline: 9.3</a>
+      <a href="/k2-pipeline-release-notes.html#data-release-6">Pipeline: 9.3</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -298,7 +298,7 @@ Campaign 3
     </li>
     <li class="list-group-item">
       <i class="fa fa-cog fa-margin"></i>
-      <a href="http://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-5">Pipeline: 9.3</a>
+      <a href="/k2-pipeline-release-notes.html#data-release-5">Pipeline: 9.3</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -333,7 +333,7 @@ Campaign 2
     </li>
     <li class="list-group-item">
       <i class="fa fa-cog fa-margin"></i>
-      <a href="http://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-4">Pipeline: 9.2</a>
+      <a href="/k2-pipeline-release-notes.html#data-release-4">Pipeline: 9.2</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -367,7 +367,7 @@ Campaign 1
     </li>
     <li class="list-group-item">
       <i class="fa fa-cog fa-margin"></i>
-      <a href="http://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-3">Pipeline: 9.2</a>
+      <a href="/k2-pipeline-release-notes.html#data-release-3">Pipeline: 9.2</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -403,7 +403,7 @@ Campaign 0
     </li>
     <li class="list-group-item">
       <i class="fa fa-cog fa-margin"></i>
-      <a href="http://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-2">Pipeline: 9.2</a>
+      <a href="/k2-pipeline-release-notes.html#data-release-2">Pipeline: 9.2</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>

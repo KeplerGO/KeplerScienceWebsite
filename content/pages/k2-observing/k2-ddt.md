@@ -17,7 +17,7 @@ A DDT request should consist of <2 pages of text including all figures, tables, 
 * a strong scientific justification;
 * a description of the long-term legacy value of the program;
 * a justification for why the request was not submitted during the previous Call for Proposals;
-* a separate target table (does not count toward the 2-page limit; the required format as well as a [template for the target table can be found here](http://keplerscience.arc.nasa.gov/k2-proposing-targets.html#target-table)).
+* a separate target table (does not count toward the 2-page limit; the required format as well as a [template for the target table can be found here](/k2-proposing-targets.html#target-table)).
 
 Target overlap with the current GO target list will not be considered unless short cadence observations are being requested of a current long cadence target. Requests for DDT cannot be used to resubmit all or part of a proposal that was rejected by the normal peer review process. DDT proposals from every institution are encouraged.
 

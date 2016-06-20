@@ -6,13 +6,12 @@ Campaign 3 target pixel files, light curves, and full frame images are now
 available for download from the
 [K2 data archive](https://archive.stsci.edu/k2/).
 
-The [C3 target list](http://keplerscience.arc.nasa.gov/K2/GuestInvestigationsC03.shtml)
+The [C3 target list](/k2-approved-programs.html#campaign-3)
 included 16,375 standard long cadence and 55 standard short cadence targets.
 In addition, custom pixel apertures were collected along the trajectories of
 dwarf planet (225088) 2007 OR10, the planet Neptune, and its moon Nereid.
 
-Data release notes are available at
-[http://keplerscience.arc.nasa.gov/K2/C3drn.shtml](http://keplerscience.arc.nasa.gov/K2/C3drn.shtml).
+Data release notes [are available](/k2-data-release-notes.html#k2-campaign-3).
 We strongly encourage users to read the release notes.
 In particular, we draw attention to the following changes
 in the data processing:

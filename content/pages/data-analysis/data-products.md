@@ -314,7 +314,7 @@ Campaign, but no light curves are provided.
 The relevant data release and pipeline notes
 for each Campaign are also linked in the table below.  The pipeline release
 notes for K2 are
-[available here](http://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html),
+[available here](/k2-pipeline-release-notes.html),
 which detail deviations from the pipeline used for Kepler.
 
 <table class="table table-striped table-hover" style="max-width:50em;">
@@ -340,7 +340,7 @@ which detail deviations from the pipeline used for Kepler.
       <td>2014 Sep 08</td>
       <td><a
       href="k2-data-release-notes.html#k2-campaign-0">DRN</a></td>
-	  <td><a href="http://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-2">PRN</a></td>
+	  <td><a href="/k2-pipeline-release-notes.html#data-release-2">PRN</a></td>
       </tr>
 
       <tr> 
@@ -351,7 +351,7 @@ which detail deviations from the pipeline used for Kepler.
       <td>2014 Dec 23</td>
       <td><a
       href="k2-data-release-notes.html#k2-campaign-1">DRN</a></td>
-	  	  <td><a href="http://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-3">PRN</a></td>
+	  	  <td><a href="/k2-pipeline-release-notes.html#data-release-3">PRN</a></td>
       </tr>
 
       <tr>
@@ -362,7 +362,7 @@ which detail deviations from the pipeline used for Kepler.
       <td>2015 Mar 16</td>
       <td><a
       href="k2-data-release-notes.html#k2-campaign-2">DRN</a></td>
-	  	  <td><a href="http://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-4">PRN</a></td>
+	  	  <td><a href="/k2-pipeline-release-notes.html#data-release-4">PRN</a></td>
       </tr>
 
       <tr>
@@ -373,7 +373,7 @@ which detail deviations from the pipeline used for Kepler.
       <td>2015 Jul 17</td>
 	  <td><a
       href="k2-data-release-notes.html#k2-campaign-3">DRN</a></td>
-	  	  <td><a href="http://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-5">PRN</a></td>
+	  	  <td><a href="/k2-pipeline-release-notes.html#data-release-5">PRN</a></td>
       </tr>
 
       <tr>
@@ -384,7 +384,7 @@ which detail deviations from the pipeline used for Kepler.
       <td>2015 Sep 04</td>
       <td><a
       href="k2-data-release-notes.html#k2-campaign-4">DRN</a></td>
-	  <td><a href="http://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-6">PRN</a></td>
+	  <td><a href="/k2-pipeline-release-notes.html#data-release-6">PRN</a></td>
       </tr>
 
       <tr>
@@ -395,7 +395,7 @@ which detail deviations from the pipeline used for Kepler.
       <td>2015 Oct 29</td>
       <td><a
       href="k2-data-release-notes.html#k2-campaign-5">DRN</a></td>
-     <td><a href="http://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-7">PRN</a></td>
+     <td><a href="/k2-pipeline-release-notes.html#data-release-7">PRN</a></td>
      </tr>
 
       <tr>
@@ -406,7 +406,7 @@ which detail deviations from the pipeline used for Kepler.
       <td>2016 Feb 08</td>
       <td><a
       href="k2-data-release-notes.html#k2-campaign-6">DRN</a></td>
-     <td><a href="http://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-8">PRN</a></td>
+     <td><a href="/k2-pipeline-release-notes.html#data-release-8">PRN</a></td>
       </tr>
 
       <tr>
@@ -417,7 +417,7 @@ which detail deviations from the pipeline used for Kepler.
       <td>2016 Apr 22</td>
       <td><a
       href="k2-data-release-notes.html#k2-campaign-7">DRN</a></td>
-     <td><a href="http://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-9">PRN</a></td>
+     <td><a href="/k2-pipeline-release-notes.html#data-release-9">PRN</a></td>
       </tr>
 </tdata>
 </table>
@@ -560,7 +560,7 @@ a manual photometric correction, more tailored towards the users
 science. Format and content of the CBV files is provided in
 section 2.3.4 of the [Kepler Archive
 Manual](http://archive.stsci.edu/kepler/manuals/archive_manual.pdf). [Software for applying the CBVs
-to data can be found here](http://keplerscience.arc.nasa.gov/ContributedSoftwareKepcotrend.shtml).
+to data can be found here](/ContributedSoftwareKepcotrend.shtml).
 
 ### Pixel response functions (PRFs)
 

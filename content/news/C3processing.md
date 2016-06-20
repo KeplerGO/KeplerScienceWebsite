@@ -7,7 +7,7 @@ and the pixel files are in the process of being transferred to the [MAST archive
 We anticipate that the data will become available to the public by July 15, 2015. This data release will include both pixel level data and project created light curves.
 As for previous campaigns, there will be no proprietary period for using or publishing K2 data.
 
-The [Campaign 3 target list](http://keplerscience.arc.nasa.gov/K2/GuestInvestigationsC03.shtml) included 16,375 standard long cadence and 55 standard short cadence targets.
+The [Campaign 3 target list](/k2-approved-programs.html#campaign-3) included 16,375 standard long cadence and 55 standard short cadence targets.
 In addition we have included large pixel masks over dwarf planet (225088) 2007 OR10, the planet Neptune and its moon Nereid.
 
 Keep an eye on this blog for a release announcement and associated data release notes.

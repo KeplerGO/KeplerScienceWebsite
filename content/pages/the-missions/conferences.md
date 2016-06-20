@@ -9,7 +9,7 @@ Save_as: conferences.html
     <td style="width: 7em;"> Jan 2016</td>
     <td style="width: 20em;">K2 Special Session at AAS 227th Meeting </td>
     <td><a
-    href="http://keplerscience.arc.nasa.gov/k2-special-session-at-aas227-on-5-jan-2016.html">schedule</a>,
+    href="/k2-special-session-at-aas227-on-5-jan-2016.html">schedule</a>,
     <a href="https://twitter.com/search?q=%23AAS227">#AAS227 tweets</a></td>
 	</tr>
 	
@@ -22,7 +22,7 @@ Save_as: conferences.html
   <tr>
     <td style="width: 7em;">Oct 2015</td>
     <td style="width: 20em;">Kepler Exoplanet Populations Hack Week</td>
-    <td><a href="http://keplerscience.arc.nasa.gov/KeplerHackWeek/">website</a>, <a href="https://twitter.com/search?q=%23KeplerHack">#KeplerHack tweets</a>
+    <td><a href="/KeplerHackWeek/">website</a>, <a href="https://twitter.com/search?q=%23KeplerHack">#KeplerHack tweets</a>
     </td>
 	</tr>
 	
@@ -30,7 +30,7 @@ Save_as: conferences.html
     <td style="width: 7em;">May 2015</td>
     <td style="width: 20em;">K2 Microlensing Workshop</td>
     <td>
-      <a href="http://keplerscience.arc.nasa.gov/K2MicrolensingWorkshop/Agenda/">agenda</a>,
+      <a href="/K2MicrolensingWorkshop/Agenda/">agenda</a>,
       <a href="https://www.dropbox.com/sh/by07zmun9e9m7l7/AABvWyEtYOpRbxLVDqvLsgKRa?dl=0">slides</a>
     </td>
   </tr>

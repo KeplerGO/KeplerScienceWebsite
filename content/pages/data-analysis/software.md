@@ -11,7 +11,7 @@ source code on [Github](https://github.com/KeplerGO).
 <table class="table table-striped table-hover" style="max-width:50em;">
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/software.html#k2fov">K2fov</a></td>
+    <td><a href="/software.html#k2fov">K2fov</a></td>
     <td>
         Checks whether a celestial coordinate falls within the field of view
         of a K2 campaign.
@@ -22,7 +22,7 @@ source code on [Github](https://github.com/KeplerGO).
 </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/software.html#k2ephem">K2ephem</a></td>
+    <td><a href="/software.html#k2ephem">K2ephem</a></td>
     <td>
         Checks whether a moving Solar System body, e.g. an asteroid or comet,
         falls within the field of view of any K2 campaign.
@@ -33,7 +33,7 @@ source code on [Github](https://github.com/KeplerGO).
 </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/software.html#pyke">PyKE</a></td>
+    <td><a href="/software.html#pyke">PyKE</a></td>
     <td>
         A tool to create light curves with user-chosen pixel apertures and
         cotrend and/or detrend data.
@@ -44,7 +44,7 @@ source code on [Github](https://github.com/KeplerGO).
 </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/software.html#kadenza">Kadenza</a></td>
+    <td><a href="/software.html#kadenza">Kadenza</a></td>
     <td>
         Converts raw cadence data from the Kepler spacecraft into astronomer-friendly FITS files.</td>
     <td>
@@ -168,7 +168,7 @@ PyKE is a suite of python software tools developed to reduce and
 analyze Kepler and K2 light curves, TPFs, and FFIs. PyKE tools provide the
 user with flexibility to tune pixel extraction and artifact mitigation
 for the scientific potential of individual target data. A variety of
-other tasks are also included. A [PyKE primer](http://keplerscience.arc.nasa.gov/PyKEprimer.shtml) provides a thorough
+other tasks are also included. A [PyKE primer](/PyKEprimer.shtml) provides a thorough
 description of the Kepler data products and analysis techniques to
 consider. We also provide links to a sample of PyKE tutorials below.
 
@@ -234,7 +234,7 @@ occasionally be challenging. Users unwilling to attempt PyRAF
 installation can still use PyKE from within a Unix/Linux shell on the
 command line. GUI and parameter retention features are however lost in
 this operating mode and command line calls to PyKE can often be long
-character strings. However, a positive is that calls to PyKE can be easily included within shell scripts. [Find installation and execution instructions for shell-based PyKE here](http://keplerscience.arc.nasa.gov/StandAlonePyKE.shtml).
+character strings. However, a positive is that calls to PyKE can be easily included within shell scripts. [Find installation and execution instructions for shell-based PyKE here](/StandAlonePyKE.shtml).
 
 #### PyKE tasks
 
@@ -243,172 +243,172 @@ A comprehensive list of PyKE tasks is provided here.
 <table class="table table-striped table-hover" style="max-width:70em;">
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKeparith.shtml">keparith</a></td>
+    <td><a href="/ContributedSoftwareKeparith.shtml">keparith</a></td>
     <td>Time-invariant algebra on light curve data </td>
 </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepbls.shtml">kepbls</a></td>
+    <td><a href="/ContributedSoftwareKepbls.shtml">kepbls</a></td>
     <td>Box Least-Square planet transit detection </td>
 </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepclip.shtml"> kepclip</a></td>
+    <td><a href="/ContributedSoftwareKepclip.shtml"> kepclip</a></td>
     <td> Remove unwanted time ranges from Kepler time series data </td>
     </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepconvert.shtml"> kepconvert</a></td>
+    <td><a href="/ContributedSoftwareKepconvert.shtml"> kepconvert</a></td>
     <td>Convert Kepler FITS time series to or from a different file format </td>
     </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepcotrend.shtml"> kepcotrend</a></td>
+    <td><a href="/ContributedSoftwareKepcotrend.shtml"> kepcotrend</a></td>
     <td>Remove systematic trends in photometry using cotrending basis vectors </td>
     </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepdetrend.shtml"> kepdetrend</a></td>
+    <td><a href="/ContributedSoftwareKepdetrend.shtml"> kepdetrend</a></td>
     <td>Detrend systematic features from Simple Aperture Photometry (SAP) data </td>
     </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepdiffim.shtml"> kepdiffim</a></td>
+    <td><a href="/ContributedSoftwareKepdiffim.shtml"> kepdiffim</a></td>
     <td>Difference imaging of pixels within a target mask </td>
     </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepdraw.shtml"> kepdraw</a></td>
+    <td><a href="/ContributedSoftwareKepdraw.shtml"> kepdraw</a></td>
     <td>Interactive plotting of Kepler time series data </td>
     </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepdynamic.shtml"> kepdynamic</a></td>
+    <td><a href="/ContributedSoftwareKepdynamic.shtml"> kepdynamic</a></td>
     <td>Construct a dynamic (time-dependent) power spectrum from Kepler time series data </td>
     </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepextract.shtml"> kepextract</a></td>
+    <td><a href="/ContributedSoftwareKepextract.shtml"> kepextract</a></td>
     <td>Derive a light curve from a target pixel file, with user-defined apertures </td>
     </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepffi.shtml"> kepffi</a></td>
+    <td><a href="/ContributedSoftwareKepffi.shtml"> kepffi</a></td>
     <td>Plot sub-areas of Kepler Full Frame Images and define custom target apertures </td>
     </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepfield.shtml"> kepfield</a></td>
+    <td><a href="/ContributedSoftwareKepfield.shtml"> kepfield</a></td>
     <td>Superimpose photometric mask and source positions over a target pixel image </td>
     </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepfilter.shtml"> kepfilter</a></td>
+    <td><a href="/ContributedSoftwareKepfilter.shtml"> kepfilter</a></td>
     <td>Remove low frequency variability from time-series, preserve transits and flares </td>
     </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepflatten.shtml"> kepflatten</a></td>
+    <td><a href="/ContributedSoftwareKepflatten.shtml"> kepflatten</a></td>
     <td>Low bandpass or high bandpass signal filtering </td>
     </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepfold.shtml"> kepfold</a></td>
+    <td><a href="/ContributedSoftwareKepfold.shtml"> kepfold</a></td>
     <td>Fold data on a linear ephemeris </td>
     </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepft.shtml"> kepft</a></td>
+    <td><a href="/ContributedSoftwareKepft.shtml"> kepft</a></td>
     <td>Calculate and store a Fourier Transform from a Kepler time series </td>
     </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKephead.shtml"> kephead</a></td>
+    <td><a href="/ContributedSoftwareKephead.shtml"> kephead</a></td>
     <td>Search for and list FITS keywords in Kepler data files </td>
     </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepimages.shtml"> kepimages</a></td>
+    <td><a href="/ContributedSoftwareKepimages.shtml"> kepimages</a></td>
     <td>Create a series of separate FITS image files from a Target Pixel File </td>
     </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepmask.shtml"> kepmask</a></td>
+    <td><a href="/ContributedSoftwareKepmask.shtml"> kepmask</a></td>
     <td>Plots, creates or edits custom light curve extraction masks for target pixel files </td>
     </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepoutlier.shtml"> kepoutlier</a></td>
+    <td><a href="/ContributedSoftwareKepoutlier.shtml"> kepoutlier</a></td>
     <td>Remove or replace data outliers from a time series</td>
     </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKeppca.shtml"> keppca</a></td>
+    <td><a href="/ContributedSoftwareKeppca.shtml"> keppca</a></td>
     <td>Pixel-level principal component analysis of time series </td>
     </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKeppixseries.shtml"> keppixseries</a></td>
+    <td><a href="/ContributedSoftwareKeppixseries.shtml"> keppixseries</a></td>
     <td>Individual time series photometry for all pixels within a target mask </td>
     </tr>
     
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepprf.shtml"> kepprf</a></td>
+    <td><a href="/ContributedSoftwareKepprf.shtml"> kepprf</a></td>
     <td>Fit a PSF model to a specific image within a Target Pixel File </td>
     </tr>
     
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepprfphot.shtml"> kepprfphot</a></td>
+    <td><a href="/ContributedSoftwareKepprfphot.shtml"> kepprfphot</a></td>
     <td>Fit a PSF model to time series observations within a Target Pixel File </td>
     </tr>
     
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKeprange.shtml"> keprange</a></td>
+    <td><a href="/ContributedSoftwareKeprange.shtml"> keprange</a></td>
     <td>Interactively define and store time ranges via a GUI </td>
     </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepsff.shtml"> kepsff</a></td>
+    <td><a href="/ContributedSoftwareKepsff.shtml"> kepsff</a></td>
     <td>Correct aperture photmetry using target motion </td>
     </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepsmooth.shtml"> kepsmooth</a></td>
+    <td><a href="/ContributedSoftwareKepsmooth.shtml"> kepsmooth</a></td>
     <td>Smooth Kepler light curve data by convolution</td>
     </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepstddev.shtml"> kepstddev</a></td>
+    <td><a href="/ContributedSoftwareKepstddev.shtml"> kepstddev</a></td>
     <td>Calculate Combined Differental Photometric Precision for time series light curve </td>
     </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepstitch.shtml"> kepstitch</a></td>
+    <td><a href="/ContributedSoftwareKepstitch.shtml"> kepstitch</a></td>
     <td>Append multiple month short cadence and/or multiple quarter long cadence data</td>
     </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKeptimefix.shtml"> keptimefix</a></td>
+    <td><a href="/ContributedSoftwareKeptimefix.shtml"> keptimefix</a></td>
     <td>Correct time stamps in Target Pixel Files to TDB system </td>
     </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKeptransit.shtml"> keptransit</a></td>
+    <td><a href="/ContributedSoftwareKeptransit.shtml"> keptransit</a></td>
     <td>Fit planet trasit models to Kepler time-series </td>
     </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKeptrial.shtml"> keptrial</a></td>
+    <td><a href="/ContributedSoftwareKeptrial.shtml"> keptrial</a></td>
     <td>Calculate best period and error estimate from Fourier transform </td>
     </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKeptrim.shtml"> keptrim</a></td>
+    <td><a href="/ContributedSoftwareKeptrim.shtml"> keptrim</a></td>
     <td>Trim pixels from Target Pixel Files </td>
     </tr>
 
 <tr>
-    <td><a href="http://keplerscience.arc.nasa.gov/ContributedSoftwareKepwindow.shtml"> kepwindow</a></td>
+    <td><a href="/ContributedSoftwareKepwindow.shtml"> kepwindow</a></td>
     <td>Calculate and store the window function for a Kepler time series </td>
     </tr>
     
@@ -440,11 +440,11 @@ To execute any task in GUI mode, type *epar <taskname>*, e.g. <br/>
 
   --> epar kepdraw <br/>
 
-* [Extract and cotrend new light curves from Target Pixel Files](http://keplerscience.arc.nasa.gov/PyKEprimerWalkthroughA.shtml)
-* [Mitigate motion and focus artifacts by redefining the optimal aperture](http://keplerscience.arc.nasa.gov/PyKEprimerWalkthroughB.shtml)
-* [Subjective light curve cotrending using basis vectors](http://keplerscience.arc.nasa.gov/PyKEprimerWalkthroughC.shtml)
-* [Removing stellar astrophysics and quarter stitching](http://keplerscience.arc.nasa.gov/PyKEprimerWalkthroughD.shtml)
-* [Mitigate K2 motion artifacts by correlating detrended flux with target centroids](http://keplerscience.arc.nasa.gov/PyKEprimerWalkthroughE.shtml)
+* [Extract and cotrend new light curves from Target Pixel Files](/PyKEprimerWalkthroughA.shtml)
+* [Mitigate motion and focus artifacts by redefining the optimal aperture](/PyKEprimerWalkthroughB.shtml)
+* [Subjective light curve cotrending using basis vectors](/PyKEprimerWalkthroughC.shtml)
+* [Removing stellar astrophysics and quarter stitching](/PyKEprimerWalkthroughD.shtml)
+* [Mitigate K2 motion artifacts by correlating detrended flux with target centroids](/PyKEprimerWalkthroughE.shtml)
 
 #### PyKE history
 
@@ -606,7 +606,7 @@ TERMINATION OF THIS AGREEMENT.
 **Notices**<br/>
 Copyright © 2010-2011 United States Government as represented by the Administrator of the National Aeronautics and Space Administration. All Rights Reserved.
 
-[NASA OPEN SOURCE AGREEMENT](http://keplerscience.arc.nasa.gov/docs/KeplerScienceCommunityToolsNOSA.pdf)
+[NASA OPEN SOURCE AGREEMENT](/docs/KeplerScienceCommunityToolsNOSA.pdf)
 
 ### Other tools
 
@@ -752,7 +752,7 @@ effects of the photometric aperture on the light curves. KeplerFFI
 also creates a custom pixel mask by allowing users to select pixels
 for inclusion within a target aperture. Individual pixels are chosen
 interactively by tapping upon them. [This standalone python tool is
-available for download here](http://keplerscience.arc.nasa.gov/ContributedSoftwareKeplerFFI.shtml).
+available for download here](/ContributedSoftwareKeplerFFI.shtml).
 
 #### MAST FFI Viewer
 

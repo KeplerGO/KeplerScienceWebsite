@@ -47,6 +47,30 @@ Balona, L. A.
 Murphy, Simon J., Fossati, Luca, Bedding, Timothy R., et al.    
 2016, refereed ([2016MNRAS.459.1201M](http://adsabs.harvard.edu/abs/2016MNRAS.459.1201M))  
 
+6. [KEPLER ECLIPSING BINARIES WITH $\DELTA$ SCUTI/$\GAMMA$ DORADUS PULSATING COMPONENTS 1: KIC 9851944](http://adsabs.harvard.edu/abs/2016arXiv160600831G)  
+Guo, Zhao, Gies, Douglas R., Matson, Rachel A., et al.    
+2016, pre-print ([2016arXiv160600831G](http://adsabs.harvard.edu/abs/2016arXiv160600831G))  
+
+7. [VARIABILITY-INDUCED MOTION IN KEPLER DATA](http://adsabs.harvard.edu/abs/2016ApJS..224...19M)  
+Makarov, Valeri V., Goldin, Alexey    
+2016, refereed ([2016ApJS..224...19M](http://adsabs.harvard.edu/abs/2016ApJS..224...19M))  
+
+8. [A MULTI-RESOLUTION, MULTI-EPOCH LOW RADIO FREQUENCY SURVEY OF THE KEPLER K2 MISSION CAMPAIGN 1 FIELD](http://adsabs.harvard.edu/abs/2016arXiv160601761T)  
+Tingay, S. J., Hancock, P. J., Wayth, R. B., et al.    
+2016, pre-print ([2016arXiv160601761T](http://adsabs.harvard.edu/abs/2016arXiv160601761T))  
+
+9. [SUB-INERTIAL GRAVITY MODES IN THE B8V STAR KIC 7760680 REVEAL MODERATE CORE OVERSHOOTING AND LOW VERTICAL DIFFUSIVE MIXING](http://adsabs.harvard.edu/abs/2016ApJ...823..130M)  
+Moravveji, Ehsan, Townsend, Richard H. D., Aerts, Conny, et al.    
+2016, refereed ([2016ApJ...823..130M](http://adsabs.harvard.edu/abs/2016ApJ...823..130M))  
+
+10. [DETECTION OF SOLAR-LIKE OSCILLATIONS IN RELICS OF THE MILKY WAY: ASTEROSEISMOLOGY OF K GIANTS IN M4 USING DATA FROM THE NASA K2 MISSION](http://adsabs.harvard.edu/abs/2016arXiv160602115M)  
+Miglio, A., Chaplin, W. J., Brogaard, K., et al.    
+2016, pre-print ([2016arXiv160602115M](http://adsabs.harvard.edu/abs/2016arXiv160602115M))  
+
+11. [STELLAR EVIDENCE OF A SOLAR DYNAMO IN TRANSITION](http://adsabs.harvard.edu/abs/2016arXiv160601926M)  
+Metcalfe, Travis S., Egeland, Ricky, van Saders, Jennifer    
+2016, pre-print ([2016arXiv160601926M](http://adsabs.harvard.edu/abs/2016arXiv160601926M))  
+
 
 2016-05
 -------
@@ -150,6 +174,30 @@ Bodman, Eva H. L., Quillen, Alice C., Ansdell, Megan, et al.
 25. [AMPLITUDE VARIABILITY IN GAMMA DOR AND DELTA SCUTI STARS OBSERVED BY THE KEPLER SPACECRAFT](http://adsabs.harvard.edu/abs/2016arXiv160504443G)  
 Guzik, Joyce A., Kosak, Katie, Bradley, Paul A., et al.    
 2016, pre-print ([2016arXiv160504443G](http://adsabs.harvard.edu/abs/2016arXiv160504443G))  
+
+26. [ROTATION IN THE PLEIADES WITH K2: III. SPECULATIONS ON ORIGINS AND EVOLUTION](http://adsabs.harvard.edu/abs/2016arXiv160600057S)  
+Stauffer, J. R., Rebull, L. M., Bouvier, J., et al.    
+2016, pre-print ([2016arXiv160600057S](http://adsabs.harvard.edu/abs/2016arXiv160600057S))  
+
+27. [ROTATION IN THE PLEIADES WITH K2: II. MULTI-PERIOD STARS](http://adsabs.harvard.edu/abs/2016arXiv160600055R)  
+Rebull, L. M., Stauffer, J. R., Bouvier, J., et al.    
+2016, pre-print ([2016arXiv160600055R](http://adsabs.harvard.edu/abs/2016arXiv160600055R))  
+
+28. [DOPPLER SHIFTS ON THE SPIN PERIOD OF THE INTERMEDIATE POLAR FO AQR WITH K2](http://adsabs.harvard.edu/abs/2016arXiv160508030S)  
+Scaringi, S., Knigge, C., Maccarone, T. J.    
+2016, pre-print ([2016arXiv160508030S](http://adsabs.harvard.edu/abs/2016arXiv160508030S))  
+
+29. [KIC 6220497: A NEW ALGOL-TYPE ECLIPSING BINARY WITH MULTIPERIODIC PULSATIONS](http://adsabs.harvard.edu/abs/2016arXiv160509076L)  
+Lee, Jae Woo, Hong, Kyeongsoo, Kim, Seung-Lee, et al.    
+2016, pre-print ([2016arXiv160509076L](http://adsabs.harvard.edu/abs/2016arXiv160509076L))  
+
+30. [ROTATION IN THE PLEIADES WITH K2: I. DATA AND FIRST RESULTS](http://adsabs.harvard.edu/abs/2016arXiv160600052R)  
+Rebull, L. M., Stauffer, J. R., Bouvier, J., et al.    
+2016, pre-print ([2016arXiv160600052R](http://adsabs.harvard.edu/abs/2016arXiv160600052R))  
+
+31. [ASTEROSEISMIC MODELLING OF THE TWO F-TYPE HYBRID PULSATORS KIC10080943A AND KIC10080943B](http://adsabs.harvard.edu/abs/2016arXiv160507958S)  
+Schmid, V. S., Aerts, C.    
+2016, pre-print ([2016arXiv160507958S](http://adsabs.harvard.edu/abs/2016arXiv160507958S))  
 
 
 2016-04
@@ -298,6 +346,14 @@ Endl, Michael, Cochran, William D.
 36. [AN ACCURATE AND SELF-CONSISTENT CHEMICAL ABUNDANCE CATALOGUE FOR THE APOGEE/KEPLER SAMPLE](http://adsabs.harvard.edu/abs/2016arXiv160408800H)  
 Hawkins, Keith, Masseron, Thomas, Jofre, Paula, et al.    
 2016, pre-print ([2016arXiv160408800H](http://adsabs.harvard.edu/abs/2016arXiv160408800H))  
+
+37. [MAGNETIC VARIABILITY IN THE YOUNG SOLAR ANALOG KIC 10644253. OBSERVATIONS FROM THE KEPLER SATELLITE AND THE HERMES SPECTROGRAPH](http://adsabs.harvard.edu/abs/2016A&A...589A.118S)  
+Salabert, D., RĂŠgulo, C., GarcĂ­a, R. A., et al.    
+2016, refereed ([2016A&A...589A.118S](http://adsabs.harvard.edu/abs/2016A&A...589A.118S))  
+
+38. [RED GIANTS IN ECLIPSING BINARIES AS A BENCHMARK FOR ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2016PhDT........13R)  
+Rawls, Meredith L.    
+2016, refereed ([2016PhDT........13R](http://adsabs.harvard.edu/abs/2016PhDT........13R))  
 
 
 2016-03

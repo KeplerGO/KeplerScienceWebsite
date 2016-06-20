@@ -117,7 +117,7 @@ For C7, an alternate low-gain antenna was active during science data collection.
 </div>
 
 
-Given this unanticipated result, LGA1 will be used for C8, C9, and C10, while the fields of view for C11, C12, and C13 were tweaked by 0.12° – 0.16° (<a href="http://keplerscience.arc.nasa.gov/minor-changes-in-the-fields-of-campaigns-11-12-and-13.html">see GO blog</a>) so that a subsequent return to LGA2 should have no adverse effects on data quality.
+Given this unanticipated result, LGA1 will be used for C8, C9, and C10, while the fields of view for C11, C12, and C13 were tweaked by 0.12° – 0.16° (<a href="/minor-changes-in-the-fields-of-campaigns-11-12-and-13.html">see GO blog</a>) so that a subsequent return to LGA2 should have no adverse effects on data quality.
 
 
 <br>
@@ -551,14 +551,14 @@ The Trans-Neptunian Object 2002 KY14 was observed in Campaign 4 by creating 1340
 
 Background removal for channels near the Pleiades has larger than normal residuals. These large residuals occur on mod.outs 10.3 and 15.1 through 15.4 due to the background on these channels being dominated by dust clouds near the Pleiades. The rich spatial structure of the Pleiades' dust clouds is poorly captured by the low order (≤ 4) polynomial model used to fit the background flux, with the best fit for these channels being given by a constant. This fit is done for every cadence, and the result is higher than normal background residuals, with residuals as large as 7 times the standard deviation of the background pixel values. (Normal residuals are typically less than the background standard deviation.)
 
-We recommend caution when using light curves or the background model on these channels. Note that the FLUX column of the target pixel files contains calibrated pixels with the background subtracted. The amount of background that was subtracted per pixel can be found in the <a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr5">FLUX_BKG column</a> and restored, if desired.
+We recommend caution when using light curves or the background model on these channels. Note that the FLUX column of the target pixel files contains calibrated pixels with the background subtracted. The amount of background that was subtracted per pixel can be found in the <a href="/K2/pipelineReleaseNotes.shtml#dr5">FLUX_BKG column</a> and restored, if desired.
 
 Local background estimates per star may produce higher-quality results. The change in the constant background level on these channels over time is in family with the median background change on other channels
 
 <br>
 ***Lightcurves Created with Non-Optimal Apertures***
 
-Due to an incompatibility between K2 roll motion and the determination of photometric optimal apertures, some light curves may be based on apertures that are too small and therefore have more noise than necessary. In particular, there are 887 stellar targets that are particularly suspect; they are listed <a href="http://keplerscience.arc.nasa.gov/K2/K2drn/C4/C4_reduced_ap_targets.txt">here</a>. The brighter targets in this set may have correct optimal apertures, but stars with Kp > 13 have been shown to have lower photometric precision than non-suspect stars of similar brightness.
+Due to an incompatibility between K2 roll motion and the determination of photometric optimal apertures, some light curves may be based on apertures that are too small and therefore have more noise than necessary. In particular, there are 887 stellar targets that are particularly suspect; they are listed <a href="/K2/K2drn/C4/C4_reduced_ap_targets.txt">here</a>. The brighter targets in this set may have correct optimal apertures, but stars with Kp > 13 have been shown to have lower photometric precision than non-suspect stars of similar brightness.
 
 <br>
 ***Stars Show Lower Than Expected Flux***
@@ -723,7 +723,7 @@ The Trans-Neptunian Object (225088) 2007 OR10 was observed with 2 masks and give
 <br>
 ***Highlights of Pipeline Improvements***
 
-Campaign 3 (Data Release 5) data were the first K2 data processed with the SOC 9.3 pipeline. With this data release comes the higher-level data products. A detailed list of the pipeline developments that accompany this data release is listed on the <a href="http://keplerscience.arc.nasa.gov/K2/pipelineReleaseNotes.shtml#dr5">pipeline release page</a>. A few highlights are listed here:
+Campaign 3 (Data Release 5) data were the first K2 data processed with the SOC 9.3 pipeline. With this data release comes the higher-level data products. A detailed list of the pipeline developments that accompany this data release is listed on the <a href="/K2/pipelineReleaseNotes.shtml#dr5">pipeline release page</a>. A few highlights are listed here:
 
 * Quality flags now indicate which cadences were obtained during thruster firings.
 * Background pixels were observerd and used to model the background level across the field of view. The calibrated pixels available in the target pixel files now have this background level removed.
