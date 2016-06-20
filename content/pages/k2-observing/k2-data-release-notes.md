@@ -325,7 +325,7 @@ The dominant systematic present in K2 simple aperture photometry light curves is
     <div class="caption">
     <i>Figure C6-CDPP: CDPP measured for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. Also, the photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. <a href="images/release-notes/c6/K2-C6_dwarf__CDPP_by_mod_out.eps">See here for CDPP as a function of position on the focal plane.</a> All cadences coincident with a definite thruster firing are gapped.</i>
     </div>
-    <a href="images/release-notes/c5/K2-C06_logg_CDPP_vs_model.png">
+    <a href="images/release-notes/c6/K2-C06_logg_CDPP_vs_model.png">
         <img src="images/release-notes/c6/K2-C6_logg_CDPP_vs_model.png " class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
     </a>
 </div>
