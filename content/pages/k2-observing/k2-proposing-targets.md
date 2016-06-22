@@ -257,8 +257,7 @@ If you plan to submit a proposal for a Solar System (moving) target, we recommen
 The call for K2 GO Cycle 5 proposals, which includes <a href="k2-fields.html">Campaigns 14, 15,
 and 16</a>, [has been released and is available at NSPIRES](https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={D68A4380-B327-7C96-04CF-02B0FC940DBF}&path=open). We
 are requesting the community propose targets to observe
-during only these three campaigns. Note that the execution of K2 GO Cycle 5 is contingent upon the outcome of
-the 2016 Senior Review.
+during only these three campaigns.
 
 ### FAQs  
 
@@ -270,7 +269,7 @@ Step 2: 23:59 EST 2016 Nov 04 <br/>
 current solicitation?**<br/>
 Campaign 14: 2017 May 31 - Aug 19 <br/>
 Campaign 15: 2017 Aug 23 - Nov 08 <br/>
-Campaign 16: 2017 Nov 20 - 2018 Feb 09 <br/>
+Campaign 16: 2017 Nov 19 - 2018 Jan 28 <br/>
 Start and stop dates are approximate, flexible and could be overtaken by unanticipated operational events.<br/>
   
 * **Should I submit one proposal or two?**<br/>
@@ -281,13 +280,10 @@ Start and stop dates are approximate, flexible and could be overtaken by unantic
   use the online tool <a href="software.html#k2fov">K2fov</a> to
   determine whether your targets fall upon silicon and propose only
   those that do. The precision of this tool is a few 4x4 arcsec
-  detector pixels. The tool currently has approximate positions for
-  Campaigns 14, 15, and 16 and will be updated with the final
-  positions soon.<br/>
+  detector pixels. <br/>
 
 * **Should I apply for targets that do not fall on silicon?**<br/>
-  Please, no. The boresight locations for Campaigns 14, 15, and 16
-  will be finalized soon. Proposing off-silicon targets is a waste of energy for proposers, reviewers and project staff. Use <a href="software.html#k2fov">K2fov</a> and apply only for targets that fall upon silicon (output flag "2").<br/>
+  Please, no. Proposing off-silicon targets is a waste of energy for proposers, reviewers and project staff. Use <a href="software.html#k2fov">K2fov</a> and apply only for targets that fall upon silicon (output flag "2").<br/>
 
 * **What is the K2 Ecliptic Plane Input Catalog (EPIC)?**<br/>
   Proposers are asked to submit targets that have been selected from the <a href="http://archive.stsci.edu/k2/epic/search.php">EPIC</a>. The EPIC plays the same role for K2 that the <a href="http://adsabs.harvard.edu/abs/2011AJ....142..112B">Kepler Input Catalog (KIC)</a> played for Kepler target selection. The primary purpose of the catalog is to define photometric apertures for each potential target by providing celestial positions and Kepler bandpass magnitudes. EPIC parameters are produced by source matching existing multi-band catalogs and calculating color corrections for the Kepler bandpass. Documentation describing the compilation of the EPIC is provided <a href="http://archive.stsci.edu/k2/epic.pdf">here</a>.<br/>

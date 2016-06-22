@@ -21,7 +21,7 @@ A DDT request should consist of <2 pages of text including all figures, tables, 
 
 Target overlap with the current GO target list will not be considered unless short cadence observations are being requested of a current long cadence target. Requests for DDT cannot be used to resubmit all or part of a proposal that was rejected by the normal peer review process. DDT proposals from every institution are encouraged.
 
-DDT proposals are reviewed for both technical feasibility by someone in the project office and for scientific value by an outside reviewer.  The results of these reviews are sent to the K2 Project Scientist for approval and, if approved, the targets are placed into the observing list for the upcoming campaign.  An email reply to the proposer, stating the fate of the DDT request, will be sent out by the GO Office Director within two months of receipt of the initial request.
+DDT proposals are reviewed for both technical feasibility by someone in the project office and for scientific value by an outside reviewer.  The results of these reviews are sent to the K2 Project Scientist for approval and, if approved, the targets are placed into the observing list for the upcoming campaign.  An email reply to the proposer, stating the fate of the DDT request, will be sent out by the GO Office approximately one month before the start of the campaign for which targets were proposed.
 
 To ensure that approved targets are able to be included in the final target lists for each campaign, proposals must be submitted by 23:59 PT (Pacific Time) on the following dates:
 

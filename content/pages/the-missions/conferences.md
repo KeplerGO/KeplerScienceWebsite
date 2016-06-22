@@ -1,9 +1,30 @@
 Title: Kepler & K2 meetings and conferences
 Save_as: conferences.html
 
+## Upcoming meetings
+
+
+<table class="table table-striped table-hover" style="max-width:50em;">
+
+  <tr>
+    <td style="width: 7em;">Jun 2017</td>
+    <td style="width: 20em;">Kepler & K2 SciCon IV: Legacy & Scion</td>
+    <td><a href="https://twitter.com/search?q=%23Kepler4">#Kepler4 tweets</a></td>
+	</tr>
+	
+</table>
+
 ## Past meetings
 
 <table class="table table-striped table-hover" style="max-width:50em;">
+
+  <tr>
+    <td style="width: 7em;">Jun 2016</td>
+    <td style="width: 20em;">K2 Special Session at  AAS 228th Meeting</td>
+    <td><a
+    href="k2-special-session-at-aas228-on-13-jun-2016.html">schedule</a>,
+    <a href="https://twitter.com/search?q=%23AAS228">#AAS228 tweets</a></td>
+	</tr>
 
  <tr>
     <td style="width: 7em;"> Jan 2016</td>
@@ -39,7 +60,9 @@ Save_as: conferences.html
     <td>Nov 2013</td>
     <td>Kepler Science Conference II</td>
     <td>
-      <a href="http://nexsci.caltech.edu/conferences/KeplerII/agenda.shtml">agenda, slides &amp; video</a>
+      <a
+    href="http://nexsci.caltech.edu/conferences/KeplerII/agenda.shtml">agenda,
+    slides &amp; video</a>, <a href="https://twitter.com/search?q=%23Kepler2">#Kepler2 tweets</a>
     </td>
   </tr>
 
@@ -47,32 +70,13 @@ Save_as: conferences.html
     <td>Dec 2011</td>
     <td>Kepler Science Conference I</td>
     <td>
-      <a href="http://kepler.nasa.gov/Science/ForScientists/keplerconference/2011sessions/">agenda, slides &amp; video</a>
+      <a
+    href="http://kepler.nasa.gov/Science/ForScientists/keplerconference/2011sessions/">agenda,
+    slides &amp; video</a>, <a href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon tweets</a>
     </td>
   </tr>
 
 </table>
 
-
-## Upcoming meetings
-
-
-<table class="table table-striped table-hover" style="max-width:50em;">
-
-  <tr>
-    <td style="width: 7em;">Jun 2016</td>
-    <td style="width: 20em;">K2 Special Session at  AAS 228th Meeting</td>
-    <td><a
-    href="k2-special-session-at-aas228-on-13-jun-2016.html">schedule</a>,
-    <a href="https://twitter.com/search?q=%23AAS228">#AAS228 tweets</a></td>
-	</tr>
-
-  <tr>
-    <td style="width: 7em;">Jun 2017</td>
-    <td style="width: 20em;">Kepler & K2 SciCon IV: Legacy & Scion</td>
-    <td><a href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon tweets</a></td>
-	</tr>
-	
-</table>
 
 

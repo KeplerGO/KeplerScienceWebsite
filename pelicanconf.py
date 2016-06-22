@@ -85,7 +85,7 @@ MENUITEMS = (
             ('Data products', 'data-products.html'),
             ('Pipeline', 'pipeline.html'),
             ('Software', 'software.html'),
-            ('Related surveys', 'related-surveys.html'),
+            ('Community products', 'community-products.html'),
             )
          ),
         )
@@ -102,7 +102,7 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b>24 Jun 2016</b>',
+            ('<b>04 Jul 2016</b>',
              'K2 Campaign 8 data release (expected)',
              'data-products.html#k2-product-overview'),
             ('<b>18 Aug 2016</b>',
@@ -111,7 +111,7 @@ IMPORTANT_DATES = (
             ('<b>23 Sep 2016</b>',
              'K2 GO Cycle 5 Step-1 Deadline',
              'k2-proposing-targets.html#solicitations'),
-            ('<b>26 Sep 2016</b>',
+            ('<b>01 Sep 2016</b>',
              'K2 Campaign 9 data release (expected)',
              'data-products.html#k2-product-overview'),
             ('<b>04 Nov 2016</b>',
@@ -124,9 +124,6 @@ IMPORTANT_DATES = (
 
 # Defines the "meetings" box on the front page
 MEETINGS = (
-            ('<b>12-16 Jun 2016</b><br>'
-             '228th AAS Meeting',
-             'http://aas.org/meetings/aas228'),
             ('<b>3-8 Jul 2016</b><br>'
              'Exoplanets I',
              'http://www.exoplanetscience.org'),
@@ -136,6 +133,9 @@ MEETINGS = (
             ('<b>17-27 Jul 2016</b><br>'
              'Asteroseismology and Exoplanets: Listening to the Stars and Searching for New Worlds',
              'http://www.iastro.pt/research/conferences/faial2016/'),
+            ('<b>16-21 Oct 2016</b><br>'
+             'DPS 48 / EPSC 11',
+             'https://dps.aas.org/'),             
             ('<b>19-23 Jun 2017</b><br>'
              'Kepler & K2 SciCon IV: Legacy & Scion',
              '/save-the-date-for-kepler-k2-scicon-iv-june-19-23-2017.html') 
