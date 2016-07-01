@@ -9,10 +9,17 @@ For more information about the Kepler pipeline see the Kepler manuals: <a href="
 
 Information about each specific campaign can be found in the links associated with each data release. 
 
+### Data Release 11
+* July 2016
+* SOC 9.3
+* Campaigns: [C8](k2-data-release-notes.html#k2-campaign-8)
+
+This is the first delivery of C8. No features of the files or the data processing have changed.  See below for previous updates to the K2 pipeline.
+
 ### Data Release 9
 * April 2016
 * SOC 9.3
-* Campaigns: [C7](k2-data-release-notes.html#k2-campaign-7)
+* Campaigns: [C7](k2-data-release-notes.html#k2-campaign-9)
 
 This is the first delivery of C7. No features of the files or the data processing have changed.  See below for previous updates to the K2 pipeline.
 
@@ -20,7 +27,7 @@ This is the first delivery of C7. No features of the files or the data processin
 ### Data Release 8 
 * February 2016
 * SOC 9.3
-* Campaigns: [C6](k2-data-release-notes.html#k2-campaign-6)
+* Campaigns: [C6](k2-data-release-notes.html#k2-campaign-8)
 
 This is the first delivery of C6. All changes to the pipeline for this data release are reported below.
 
@@ -41,7 +48,7 @@ For further information about the processing and content of this delivery, see t
 
 <p>An accounting error has scrambled much of the short cadence collateral smear data used to correct for the effects of Kepler’s shutterless readout.  This error has been present since launch and affects approximately half of all short cadence targets observed by Kepler and K2 to date.  The resulting calibration errors are present in both the short cadence target pixels and the short cadence light curves for Kepler Data Releases 1-24 and K2 Data Releases 1-7. This error does not affect long cadence data. </p>
 
-<p>Since it will take some time to correct this error and reprocess all Kepler and K2 data, a <a href="http://archive.stsci.edu/missions/k2/catalogs/k2_bad_short_cadence_target_list.csv">list of affected targets is provided</a>.  Even though the affected targets are readily identified, the science impact for any particular target may be difficult to assess.  Since the smear signal is often small compared to the target signal, the effect is negligible for many targets. However, the smear signal is scene-dependent, so time-varying signals can be introduced into any target by the other stars falling on the same CCD column.  </p>
+<p>Since it will take some time to correct this error and reprocess all Kepler and K2 data, a <a href="http://archive.stsci.edu/missions/k2/catalogs/K2_scrambled_short_cadence_collateral_target_list.csv">list of affected targets is provided</a>.  Even though the affected targets are readily identified, the science impact for any particular target may be difficult to assess.  Since the smear signal is often small compared to the target signal, the effect is negligible for many targets. However, the smear signal is scene-dependent, so time-varying signals can be introduced into any target by the other stars falling on the same CCD column.  </p>
 
 <p>Some tips on how to assess the severity of the calibration error and more details on how this problem occurred are provided at the <a href="http://archive.stsci.edu/kepler/KSCI-19080-001.pdf">MAST archive.</a> </p>
 

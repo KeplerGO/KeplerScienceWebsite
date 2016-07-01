@@ -9,6 +9,210 @@ the scientific exploitation of the data.
 
 <hr>
 
+# K2 Campaign 8
+
+## At a glance
+
+<div class="col-lg-5">
+
+<b><i>Pointing</i></b>
+<ul>
+<li>RA: 16.3379975 degrees</li>
+<li>Dec: 5.2623459 degrees</li>
+<li>Roll: -157.3538761 degrees</li>
+</ul>
+
+<b><i>Targets</i></b>
+<ul>
+<li> 24,187 in long cadence (LC)</li>
+<li> 55 in short cadence (SC) including Uranus</li>
+<li>26 unique LC custom targets were selected. See the <a href="images/release-notes/c8/ktwoc08_caf.csv">csv file that maps</a> the custom aperture number to the target name.</li>
+</ul>
+
+<b><i>Full Frame Images (FFI)</i></b>
+<ul>
+<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2016014203204-c08_ffi-cal.fits">ktwo2016014203204-c08_ffi-cal.fits</a></li>
+<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2016056011138-c08_ffi-cal.fits">ktwo2016056011138-c08_ffi-cal.fits</a></li>
+</ul>
+
+<b><i>First cadence</i></b>
+<ul>
+<li>Time: 2016-01-04 13:16:25 UTC</li>
+<li>Long Cadence Number:119907</li>
+<li>Short Cadence Number: 3585670</li>
+</ul>
+
+<b><i>Last cadence</i></b>
+<ul>
+<li>Time: 2016-03-23 06:48:35 UTC</li>
+<li>Long Cadence Number: 123759</li>
+<li>Short Cadence Number: 3701259</li>
+</ul>
+
+</div>
+
+<div class="col-lg-7">
+
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C8-FOV: Schematic of Kepler's C8 field-of-view with observed targets shown with purple dots.</i>
+</div>
+<a href="images/release-notes/c8/C8_selected.png">
+<img src="images/release-notes/c8/C8_selected.png" class="img-responsive" alt="C8 field-of-view with selected targets plotted in purple.">
+</a>
+</div>
+
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C8-Mag: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-8">GO  programs</a> were selected.</i>
+</div>
+<a href="images/release-notes/c8/c8LcMagDistribution.png">
+<img src="images/release-notes/c8/c8LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed targets.">
+</a>
+</div>
+
+</div>
+
+## Features and events
+
+<br>
+***Uranus***
+
+Uranus and four of its moons were observed with custom masks during Campaign 8. The path of Uranus was tiled with 245 single column target definitions at long cadence and with nine 9 x 307 trapezoidal masks at short cadence. The moons Caliban, Prospero, Setebos, and Sycorax were observed with separate custom masks. Uranus is the brightest moving object yet observed by K2. 
+
+
+<!-- The animated gif below shows Pluto as observed by K2.
+<div class"thumbnail" style="width:65%;">
+<div class="caption"><i>Figure C7-Pluto: An animated gif of a portion of the custom apertures that contain Pluto during C7. </i>
+</div>
+<a href="images/release-notes/c7/k2c7-pluto.gif"><img src="images/release-notes/c7/k2c7-pluto.gif" class="img-responsive" alt="Movie of Pluto moving through the K2 field of view."></a>
+</div> -->
+
+
+<br>
+***Galaxies***
+
+With its high Galactic latitude, Campaign 8 was ideal for observing galaxies. There were 2750 galaxies targeted, including IC 1613 (Caldwell 51), an irregular dwarf galaxy in the Local Group. IC 1613 was tiled with 48 20 x 20 pixel masks for a total of 19,200 pixels. 
+
+
+<br>
+***Roll Drift Returns to _Normal_***
+
+Based on the C7 degraded roll performance, the Mission Operations Center switched back to low-gain antenna LGA1 for spacecraft communication during most of C8. The switch resulted in a return to nominal K2 roll performance and drift rates. The campaign was started using LGA2, as was used in C7, and then starting around 23 Jan 2016 23:50 UTC operations were switched to LGA1. The antenna swap can be seen in the roll drift attitude error. 
+
+<div class="thumbnail" style="width: 90%">
+ <div class="caption">
+ <i>Figure C8-Pointing History: With the change back to using low-gain antenna LGA1 for communications, the roll drift (or x-axis attitude error) returned to nominal K2 behavior after the anomalous C7 roll drifts. Several larger than normal thruster firing tweaks affected C8 pointing. One of these, on 2016-02-01, resulted in a loss of fine pointing control for 30 hours (ADFFINEPTLK Fault).</i>   
+ </div>
+<a href="images/release-notes/c8/c8_pointing_history.png">
+<img src="images/release-notes/c8/c8_pointing_history.png" class="img-responsive" alt="Roll Drift for C8 returns to nominal K2 behavior"></a>
+</div>
+
+
+<!-- <div class="thumbnail" style="width: 45%;display: inline-block;">
+<div class="caption">
+<i>Figure C7-RollDrift: The roll of the Kepler spacecraft around the boresight during campaigns 4, 6 and 7. The C7 drift rate is significantly out of family, being negative throughout the entire campaign.</i>   
+</div>
+<a href="images/release-notes/c7/c7-rolldrift.png">
+<img src="images/release-notes/c7/c7-rolldrift.png" class="img-responsive" alt="Roll Drift for C7 is larger than it was for C4 and C6.">
+</a>
+</div>
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C7-MAR: The maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C7.  </i>
+<a href="images/release-notes/c7/c7-mar.png">
+<img src="images/release-notes/c7/c7-mar.png" class="img-responsive" alt="Maximum residual of the attitude measured with PAD and PDQ.">
+</a>
+
+</div>
+</div> -->
+
+
+<br>
+***Loss of Fine Point***
+On 2016-02-01 16:40 UTC the spacecraft dropped out of fine point control. Observations continued in coarse point, with much degraded pointing performance, until 2016-02-02 22:27:26 UTC when the spacecraft reacquired fine point during a resat period. This resulted in 29:47:53 of coarse point data collection. These cadences are flagged as "spacecraft is not in fine point" using bit 16 in the data quality flags. The loss of fine point occured following a thruster firing fine tweak that resulted in the spacecraft rolling in the wrong direction. The next tweak was unable to correct the attitude before the loss of fine point fault was triggered, but fine pointing control was restored automatically at the next momentum wheel resaturation. There were several other instances of anomalous thruster firing tweaks in C8, none of which resulted in loss of fine point. Their cause is under investigation. 
+
+<br>
+***Light Curve Quality***
+
+The dominant systematic present in K2 simple aperture photometry light curves is a sawtooth shape that is due to the roll of the spacecraft, which is corrected approximately every 6 hours. With the return to more nominal K2 roll performance in C8, we find CDPP values have improved noticeably over those from C7. Below, we examine observed noise levels in the PDC light curves for C8, Data Release 11.
+
+Analysis of the light curve quality reveals that CDPP values are decreased by roughly 20% from C7, from 59.2 ppm in C7 to 47.0 ppm in C8, as measured by the tenth percentile of 12th magnitude dwarfs. The values are comparable to those from C4-C6. 
+
+The magnitude dependence of CDPP and its distribution over the focal plane are shown below. Other CDPP benchmarks can be found in the <a href="images/release-notes/c8/C8_bin1.00_sc1.00_CDPP_Summary_16052411.txt">table giving 6.5-hr CDPP as a function of magnitude.</a>
+<br>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C8-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>   
+</div>
+<a href="images/release-notes/c8/C8_logg_CDPP_vs_model.png">
+<img src="images/release-notes/c8/C8_logg_CDPP_vs_model.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
+</a>
+</div>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C8-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
+<a href="images/release-notes/c8/C8_dwarf__CDPP_by_mod_out.png">
+<img src="images/release-notes/c8/C8_dwarf__CDPP_by_mod_out.png" class="img-responsive" alt="CDPP per channel for 12th magnitude dwarfs">
+</a>    
+</div>
+</div>
+
+***Poor Smear Correction***
+
+*Bright Stars*
+
+There are 2 channels in C8 for which the saturation spill due to very bright stars corrupts both the masked and virtual smear measurements for one or more columns. The affected channels are 23 (columns 500-507 and 1055-1059) and channel 45 (columns 162-166). In these cases, in order to allow the pipeline calibration to complete, we flag the masked smear as bad and process the data with only the virtual smear. As a result, the smear correction will be poor for the channel/column combinations listed below and will be suspect for the same columns on other outputs of the same module due to video crosstalk. 
+
+We identified 5 individual targets whose light curves are clearly affected by the poor smear correction: EPIC-220519545 and 220549392 (ch 23); EPIC-220530070 and 220539101 (ch 45), and EPIC-220566642 (ch 48). During this smear investigation, we identified one additional target, EPIC-220498268 on channel 65, that is within the saturation spill of a very bright star and has a similarly corrupted light curve.
+
+*Intermittent Streaks*
+
+There are episodic smear correction errors on channel 42 (mod.out 13.2), the channel containing the Uranus supermask. Nearly every long cadence in the supermask appears to contain between 2 and 20 columns which are brightened by 10 to 80 counts. The brightening of a column lasts only for a single cadence, with no obvious patterns as to which columns are affected in a given cadence. Two example cadences which are particularly affected are 119980 and 119982. 
+
+Preliminary investigation indicates that this streaking is caused by false cosmic ray detections in the smear collateral data. Because we do not see similar streaking in the supermask for IC 1613, located on channel 58, we believe that the poor cosmic ray detector performance is due to the bright signal from Uranus moving across columns and altering the cosmic ray detector's dynamic threshold. When false cosmic rays are removed from the smear signal, the pixel data in that column is under-corrected, resulting in a brightening of that column for a given cadence. The streaks are not in the raw data, so users may wish to do their own smear correction on this channel.
+
+The extent of the problem in time and CCD columns can be seen in the figure *C8-Channel 42 Calibrated Smear*. The long cadence data were calibrated in three segments of ~1284 cadences each. The false cosmic ray detections are present in columns in which Uranus appeared at any time during the set of cadences being processed. In the figure, the false detections are seen to be confined primarily to the first segment (relative cadence 1-1285, LC number 119907-121191) and third segment (relative cadence 2570-3853, LC number 122476-123759) and to columns above 500. Targets on channel 42 below column 500 should be relatively unaffected by this anomaly. 
+
+<div class="thumbnail" style="width: 45%;display: inline-block;">
+<div class="caption">
+<i>Figure C8-Channel-42a: Uranus supermask smear anomaly, Cadence 119980. </i>   
+</div>
+<a href="images/release-notes/c8/c8-channel42-cadence119980.png">
+<img src="images/release-notes/c8/c8-channel42-cadence119980.png" class="img-responsive" alt="Uranus supermask cadence 119980 smear streaks.">
+</a>
+</div>
+
+<div class="thumbnail" style="width: 45%;display: inline-block;">
+<div class="caption">
+<i>Figure C8-Channel-42b: Uranus supermask smear anomaly, Cadence 119982.  </i>
+</div>
+<a href="images/release-notes/c8/c8-channel42-cadence119982.png">
+<img src="images/release-notes/c8/c8-channel42-cadence119982.png" class="img-responsive" alt="Uranus supermask cadence 119982 smear streaks.">
+</a>
+</div>
+
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C8-Channel 42 Calibrated Smear: The smear measurement for channel 42 consisists of a row vector with 1100 columns for each of the 3853 long cadences. All of the smear measurments are shown with column number on the x-axis and relative cadence number on the y-axis. Time is increasing downward. The gray scale indicates the smear level in e-/sec, with black indicating the highest levels of ~70e-/sec. The retrograde path of Uranus across the columns is clearly visible as a strong signal in the smear. The false cosmic ray detections are visible as white spots (a single column for a single cadence) scattered throughout the left half of the figure. The white vertical streak corresponds to a bad column; the white horizontal streaks are excluded cadences. Dark vertical streaks indicate a bright star somewhere in that column.</i>   
+</div>
+<a href="images/release-notes/c8/c8_calibrated_smear_m13o2.png">
+<img src="images/release-notes/c8/c8_calibrated_smear_m13o2.png" class="img-responsive" alt="Calibrated smear values for channel 42 showing excessive false cosmic ray detections.">
+</a>
+</div>
+
+
+
+## Release History
+
+The following is the data release history for C8. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
+
+* <a href="k2-pipeline-release-notes.html#data-release-11">Data Release 11</a>
+
+
+<hr>
+
 # K2 Campaign 7
 
 ## At a glance
@@ -99,7 +303,7 @@ For C7, an alternate low-gain antenna was active during science data collection.
 
 <div class="thumbnail" style="width: 45%;display: inline-block;">
     <div class="caption">
-    <i>Figure C7-RollDrift: The roll of the Kepler spacecraft around the boresight during campaigns 4, 6 and 7. The C7 drift rate is significantly out of family, being negative throughout the entire campaign.</i>   
+    <i>Figure C7-Roll Drift: The roll of the Kepler spacecraft around the boresight during campaigns 4, 6 and 7. The C7 drift rate is significantly out of family, being negative throughout the entire campaign.</i>   
     </div>
     <a href="images/release-notes/c7/c7-rolldrift.png">
         <img src="images/release-notes/c7/c7-rolldrift.png" class="img-responsive" alt="Roll Drift for C7 is larger than it was for C4 and C6.">
