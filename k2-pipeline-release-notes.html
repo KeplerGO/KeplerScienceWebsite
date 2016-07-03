@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2016-07-01" />
+    <meta name="dc.date.modified" content="2016-07-03" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -142,25 +142,18 @@ in August 2015, using pelican-bootstrap and flatly.
 <p>Below are notes on the features of the software used to process the K2 data. Any changes to the pipeline that directly impact the data quality or format are listed for each data release. Any change impacts all subsequent data releases unless stated otherwise.</p>
 <p>For more information about the Kepler pipeline see the Kepler manuals: <a href="http://archive.stsci.edu/kepler/manuals/KSCI-19081-001_Data_Processing_Handbook.pdf">Data Processing Handbook</a> and <a href="http://archive.stsci.edu/kepler/manuals/archive_manual.pdf">Archive Manual.</a></p>
 <p>Information about each specific campaign can be found in the links associated with each data release. </p>
-<h3 id="data-release-11">Data Release 11</h3>
-<ul>
-<li>July 2016</li>
-<li>SOC 9.3</li>
-<li>Campaigns: <a href="k2-data-release-notes.html#k2-campaign-8">C8</a></li>
-</ul>
-<p>This is the first delivery of C8. No features of the files or the data processing have changed.  See below for previous updates to the K2 pipeline.</p>
 <h3 id="data-release-9">Data Release 9</h3>
 <ul>
 <li>April 2016</li>
 <li>SOC 9.3</li>
-<li>Campaigns: <a href="k2-data-release-notes.html#k2-campaign-9">C7</a></li>
+<li>Campaigns: <a href="k2-data-release-notes.html#k2-campaign-7">C7</a></li>
 </ul>
 <p>This is the first delivery of C7. No features of the files or the data processing have changed.  See below for previous updates to the K2 pipeline.</p>
 <h3 id="data-release-8">Data Release 8</h3>
 <ul>
 <li>February 2016</li>
 <li>SOC 9.3</li>
-<li>Campaigns: <a href="k2-data-release-notes.html#k2-campaign-8">C6</a></li>
+<li>Campaigns: <a href="k2-data-release-notes.html#k2-campaign-6">C6</a></li>
 </ul>
 <p>This is the first delivery of C6. All changes to the pipeline for this data release are reported below.</p>
 <p><strong><em>CAL inputs</em></strong></p>
@@ -172,7 +165,7 @@ in August 2015, using pelican-bootstrap and flatly.
 <h2> Incorrect SC Smear </h2>
 <p> Reported in February 2016, the Erratum applies to short cadence data in K2 data releases 1-7.</p>
 <p>An accounting error has scrambled much of the short cadence collateral smear data used to correct for the effects of Kepler’s shutterless readout.  This error has been present since launch and affects approximately half of all short cadence targets observed by Kepler and K2 to date.  The resulting calibration errors are present in both the short cadence target pixels and the short cadence light curves for Kepler Data Releases 1-24 and K2 Data Releases 1-7. This error does not affect long cadence data. </p>
-<p>Since it will take some time to correct this error and reprocess all Kepler and K2 data, a <a href="http://archive.stsci.edu/missions/k2/catalogs/K2_scrambled_short_cadence_collateral_target_list.csv">list of affected targets is provided</a>.  Even though the affected targets are readily identified, the science impact for any particular target may be difficult to assess.  Since the smear signal is often small compared to the target signal, the effect is negligible for many targets. However, the smear signal is scene-dependent, so time-varying signals can be introduced into any target by the other stars falling on the same CCD column.  </p>
+<p>Since it will take some time to correct this error and reprocess all Kepler and K2 data, a <a href="http://archive.stsci.edu/missions/k2/catalogs/k2_bad_short_cadence_target_list.csv">list of affected targets is provided</a>.  Even though the affected targets are readily identified, the science impact for any particular target may be difficult to assess.  Since the smear signal is often small compared to the target signal, the effect is negligible for many targets. However, the smear signal is scene-dependent, so time-varying signals can be introduced into any target by the other stars falling on the same CCD column.  </p>
 <p>Some tips on how to assess the severity of the calibration error and more details on how this problem occurred are provided at the <a href="http://archive.stsci.edu/kepler/KSCI-19080-001.pdf">MAST archive.</a> </p>
 </div>
 <hr>
@@ -297,7 +290,6 @@ document.write(document.lastModified);
             <div class="nav nav-stacked fixed" id="mytoc">
             <div class="toc">
 <ul>
-<li><a href="#data-release-11">Data Release 11</a></li>
 <li><a href="#data-release-9">Data Release 9</a></li>
 <li><a href="#data-release-8">Data Release 8</a></li>
 <li><a href="#sc-smear-erratum">SC Smear Erratum</a></li>
