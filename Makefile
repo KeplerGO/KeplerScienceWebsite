@@ -88,6 +88,7 @@ github: html-dev
 	git push origin $(GITHUB_PAGES_BRANCH)
 
 live: html-live
+	wget https://raw.githubusercontent.com/KeplerGO/KeplerScienceWebsite/835e40d0ef290272d053846e543051a2edcf5b0b/k2-data-release-notes.html -O output/k2-data-release-notes.html
 	ghp-import -m "Generate live site" -b $(GITHUB_LIVE_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_LIVE_BRANCH)
 
