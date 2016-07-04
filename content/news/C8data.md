@@ -5,6 +5,8 @@ Author: Geert Barentsen
 Long cadence light curves, target pixel files, and full frame images 
 for K2 Campaign 8 are now available for download 
 from the [K2 data archive at MAST](https://archive.stsci.edu/k2/).
+The data are not yet searchable using the [K2 data search interface](https://archive.stsci.edu/k2/data_search/search.php),
+which will be available later this week.
 
 The Campaign 8 target list included 24187 standard long cadence
 and 54 short cadence targets.
