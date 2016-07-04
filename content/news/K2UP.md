@@ -1,5 +1,5 @@
 Title: K2 Mission Recruiting Members for the K2 Users' Panel
-Date: 2016-01-04 16:00
+Date: 2016-07-04 16:00
 Author: Knicole Colon, Tom Barclay
 
 The K2 mission is developing a K2 Users' Panel (K2UP), whose role will be to represent the voice of the community in regards to mission policies, progress, and products.  Specifically, the panel will be expected to:
