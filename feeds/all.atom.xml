@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2016-07-04T12:00:00-07:00</updated><entry><title>K2 Campaign 8 data available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-8-data-available.html" rel="alternate"></link><published>2016-07-04T12:00:00-07:00</published><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2016-07-04:k2-campaign-8-data-available.html</id><summary type="html">&lt;p&gt;Long cadence light curves, target pixel files, and full frame images 
 for K2 Campaign 8 are now available for download 
-from the &lt;a href="https://archive.stsci.edu/k2/"&gt;K2 data archive at MAST&lt;/a&gt;.&lt;/p&gt;
+from the &lt;a href="https://archive.stsci.edu/k2/"&gt;K2 data archive at MAST&lt;/a&gt;.
+The data are not yet searchable using the &lt;a href="https://archive.stsci.edu/k2/data_search/search.php"&gt;K2 data search interface&lt;/a&gt;,
+which will be available later this week.&lt;/p&gt;
 &lt;p&gt;The Campaign 8 target list included 24187 standard long cadence
 and 54 short cadence targets.&lt;/p&gt;
 &lt;p&gt;In addition, the campaign included several custom masks:&lt;/p&gt;
