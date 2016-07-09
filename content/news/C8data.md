@@ -8,8 +8,8 @@ from the [K2 data archive at MAST](https://archive.stsci.edu/k2/).
 The data are not yet searchable using the [K2 data search interface](https://archive.stsci.edu/k2/data_search/search.php),
 which will be available later this week.
 
-The Campaign 8 target list included 24187 standard long cadence
-and 54 short cadence targets.
+The Campaign 8 target list included 24,187 standard long cadence
+and 54 short cadence targets, including 2,800 galaxies.
 
 In addition, the campaign included several custom masks:
 
