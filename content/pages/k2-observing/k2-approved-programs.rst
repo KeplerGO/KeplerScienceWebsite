@@ -113,7 +113,7 @@ Campaign 8
 .. raw:: html
 
   <p>
-  The Campaign 8 target list includes 24187 standard long cadence and 54 short cadence targets. The planet Uranus will be observed for roughly a month in short cadence and the remaining time in long cadence, in addition four of its moons make the long cadence target list. Six Trojan asteroids and four TNOs round out the solar system targets. The irregular dwarf galaxy IC 1613 will be observed with a large pixel mask and several very bright stars will be targeted using custom pixel masks that only collect the wings of the PSF.
+  The Campaign 8 target list includes 24187 standard long cadence and 54 short cadence targets. The planet Uranus will be observed for roughly a month in short cadence and the remaining time in long cadence, in addition four of its moons make the long cadence target list. Six Hilda asteroids and four TNOs round out the solar system targets. The irregular dwarf galaxy IC 1613 will be observed with a large pixel mask and several very bright stars will be targeted using custom pixel masks that only collect the wings of the PSF.
   </p>
   <ul class="list-group">
     <li class="list-group-item">

@@ -88,6 +88,9 @@ github: html-dev
 	git push origin $(GITHUB_PAGES_BRANCH)
 
 live: html-live
+	echo "WARNING: USING TEMPORARY HACK TO FORCE C8 RELEASE NOTES TO SHOW"
+	wget https://raw.githubusercontent.com/KeplerGO/KeplerScienceWebsite/835e40d0ef290272d053846e543051a2edcf5b0b/k2-data-release-notes.html -O output/k2-data-release-notes.html
+	wget https://gist.githubusercontent.com/barentsen/875b8f81cbd1d31c8150e91784d5d994/raw/de28ef8e190747e97cb1f06bad988b15914c60e7/k2-pipeline-release-notes.html -O output/k2-pipeline-release-notes.html
 	ghp-import -m "Generate live site" -b $(GITHUB_LIVE_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_LIVE_BRANCH)
 
