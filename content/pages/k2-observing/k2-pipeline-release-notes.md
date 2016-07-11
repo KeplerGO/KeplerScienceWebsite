@@ -50,7 +50,7 @@ For further information about the processing and content of this delivery, see t
 
 <p>Since it will take some time to correct this error and reprocess all Kepler and K2 data, a <a href="http://archive.stsci.edu/missions/k2/catalogs/K2_scrambled_short_cadence_collateral_target_list.csv">list of affected targets is provided</a>.  Even though the affected targets are readily identified, the science impact for any particular target may be difficult to assess.  Since the smear signal is often small compared to the target signal, the effect is negligible for many targets. However, the smear signal is scene-dependent, so time-varying signals can be introduced into any target by the other stars falling on the same CCD column.  </p>
 
-<p>Some tips on how to assess the severity of the calibration error and more details on how this problem occurred are provided at the <a href="http://archive.stsci.edu/kepler/KSCI-19080-001.pdf">MAST archive.</a> </p>
+<p>Some tips on how to assess the severity of the calibration error and more details on how this problem occurred are provided in the <a href="http://archive.stsci.edu/kepler/KSCI-19080-002.pdf">Erratum Document KSCI-19080</a>. </p>
 
 </div>
 
