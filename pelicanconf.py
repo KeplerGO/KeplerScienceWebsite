@@ -121,9 +121,6 @@ IMPORTANT_DATES = (
 
 # Defines the "meetings" box on the front page
 MEETINGS = (
-            ('<b>3-8 Jul 2016</b><br>'
-             'Exoplanets I',
-             'http://www.exoplanetscience.org'),
             ('<b>11-15 Jul 2016</b><br>'
              'TASC2-KASC9 Asteroseismology Workshop',
              'http://www.iastro.pt/research/conferences/spacetk16/'),
