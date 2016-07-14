@@ -11,7 +11,7 @@ the scientific exploitation of the data.
 
 # K2 Campaign 8
 
-## At a glance
+<h2>At a glance</h2>
 
 <div class="col-lg-5">
 
@@ -73,7 +73,7 @@ the scientific exploitation of the data.
 
 </div>
 
-## Features and events
+<h2>Features and events</h2>
 
 <br>
 ***Uranus***
@@ -204,7 +204,7 @@ The extent of the problem in time and CCD columns can be seen in the figure *C8-
 
 
 
-## Release History
+<h2>Release History</h2>
 
 The following is the data release history for C8. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
 
@@ -215,7 +215,7 @@ The following is the data release history for C8. Follow the link for informatio
 
 # K2 Campaign 7
 
-## At a glance
+<h2>At a glance</h2>
 
 <div class="col-lg-5">
 
@@ -277,7 +277,7 @@ The following is the data release history for C8. Follow the link for informatio
 
 </div>
 
-## Features and events
+<h2>Features and events</h2>
 
 <br>
 ***Pluto***
@@ -383,7 +383,7 @@ There are 4 channels in C7 for which the saturation spill due to very bright sta
 <li style="list-style-type:none">&emsp;&emsp;67 | 234:242</li> 
 </ul>
 
-## Release History
+<h2>Release History</h2>
 
 The following is the data release history for C7. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
 
@@ -395,7 +395,7 @@ The following is the data release history for C7. Follow the link for informatio
 
 # K2 Campaign 6
 
-## At a glance
+<h2>At a glance</h2>
 
 <div class="col-lg-5">
 
@@ -456,7 +456,7 @@ The following is the data release history for C7. Follow the link for informatio
     </div>
 </div>
 
-## Features and events
+<h2>Features and events</h2>
 
 <br>
 ***Spica***
@@ -534,7 +534,7 @@ The dominant systematic present in K2 simple aperture photometry light curves is
     </a>
 </div>
 
-## Release History
+<h2>Release History</h2>
 
 The following is the data release history for C6. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
 
@@ -548,7 +548,7 @@ The following is the data release history for C6. Follow the link for informatio
 
 # K2 Campaign 5
 
-## At a glance
+<h2>At a glance</h2>
 
 <div class="col-lg-5">
 
@@ -610,7 +610,7 @@ The following is the data release history for C6. Follow the link for informatio
 
 </div>
 
-## Features and events
+<h2>Features and events</h2>
 
 <br>
 ***M67***
@@ -655,7 +655,7 @@ The dominant systematic present in K2 simple aperture photometry light curves is
 </div>
 
 
-## Release History
+<h2>Release History</h2>
 
 The following is the data release history for this campaign. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
 
@@ -665,7 +665,7 @@ The following is the data release history for this campaign. Follow the link for
 
 # K2 Campaign 4
 
-## At a glance
+<h2>At a glance</h2>
 
 <div class="col-lg-5">
 
@@ -727,7 +727,7 @@ The following is the data release history for this campaign. Follow the link for
 
 </div>
 
-## Features and events
+<h2>Features and events</h2>
 
 <br>
 ***Pleiades and Hyades***
@@ -825,7 +825,7 @@ The photometric precision is generally better near the center of the focal plane
 </div>
 
 
-## Release History
+<h2>Release History</h2>
 
 The following is the data release history for this campaign. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
 
@@ -850,7 +850,7 @@ The PDC quality flags were populated for some of the SC targets even though ther
 
 # K2 Campaign 3
 
-## At a glance
+<h2>At a glance</h2>
 
 <div class="col-lg-5">
 
@@ -912,7 +912,7 @@ The PDC quality flags were populated for some of the SC targets even though ther
 
 </div>
 
-## Features and events
+<h2>Features and events</h2>
 
 <br>
 ***Neptune***
@@ -981,7 +981,7 @@ The change in bandwidth for pointing control (from 50 to 20 seconds) for C3 resu
 Campaign 3 had a nominal duration of 80 days, but an actual duration of only 69.2 days. The campaign ended earlier than expected because the on-board storage filled up faster than anticipated due to unusually poor data compression.
 
 
-## Release History
+<h2>Release History</h2>
 
 The following is the data release history for this campaign. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
 
@@ -994,7 +994,7 @@ The following is the data release history for this campaign. Follow the link for
 
 # K2 Campaign 2
 
-## At a glance
+<h2>At a glance</h2>
 
 <div class="row">
 <div class="col-lg-5">
@@ -1069,7 +1069,7 @@ The following is the data release history for this campaign. Follow the link for
 </div>
 
 
-## Features and events
+<h2>Features and events</h2>
 
 <br>
 ***Solar Activity***
@@ -1151,7 +1151,7 @@ These data sets can be found at the <a href="http://archive.stsci.edu/k2/data_se
 
 For C2, a number of targets were proposed without <a href="https://archive.stsci.edu/k2/epic.pdf">EPIC</a> ID numbers. If a target was observed, it was either 1) given an EPIC ID number from the regular catalog if that target matched a target in the catalog, or 2) assigned a new EPIC ID. We created EPIC ID numbers for 69 targets, ranging from 210282492 -- 210282560.
 
-## Release History
+<h2>Release History</h2>
 
 The following is the data release history for this campaign. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
 
@@ -1166,7 +1166,7 @@ The following is the data release history for this campaign. Follow the link for
 
 Campaign 1 (C1) is the first full length observing campaign for K2 where the targets were selected by peer review.
 
-## At a glance
+<h2>At a glance</h2>
 
 <div class="row">
 <div class="col-lg-5">
@@ -1216,7 +1216,7 @@ Campaign 1 (C1) is the first full length observing campaign for K2 where the tar
 </div>
 
 
-## Features and events
+<h2>Features and events</h2>
 
 <br>
 ***Attitude Tweak***
@@ -1233,7 +1233,7 @@ A long-cadence custom aperture was constructed in order to collect data on trans
 
 For this Campaign, a number of targets were proposed without EPIC ID numbers. If a target was observed, it was either 1) given an EPIC ID number from the regular catalog if that target matched a target in the catalog, or 2) assigned a new EPIC ID. We created EPIC ID numbers for 28 targets, ranging from 210282464 to 210282491. Regular EPIC targets in C1 have catalog ID numbers ranging from 201000001 to 202059065.
 
-## Release History
+<h2>Release History</h2>
 
 The following is the data release history for this campaign. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
 
@@ -1248,7 +1248,7 @@ The following is the data release history for this campaign. Follow the link for
 
 Campaign 0 (C0) was implemented as a full-length engineering test to prove that K2 was a viable mission. It observed sources "at risk" from a community-provided target list.
 
-## At a glance
+<h2>At a glance</h2>
 
 <div class="row">
 <div class="col-lg-5">
@@ -1298,7 +1298,7 @@ Campaign 0 (C0) was implemented as a full-length engineering test to prove that 
 
 </div>
 
-## Features and events
+<h2>Features and events</h2>
 
 <br>
 ***Not In Fine Point Data***
@@ -1392,7 +1392,7 @@ This issue occurs for both the long and short cadence data. It does not appear i
     </a>
 </div>
 
-## Release History
+<h2>Release History</h2>
 
 The following is the data release history for this campaign. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
 
