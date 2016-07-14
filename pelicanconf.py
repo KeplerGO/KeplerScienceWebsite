@@ -106,7 +106,7 @@ IMPORTANT_DATES = (
              'K2 Campaign 12 DDT proposal deadline',
              'k2-ddt.html'),  
             ('<b>23 Sep 2016</b>',
-             'K2 GO Cycle 5 Step-1 Deadline',
+             'K2 GO Cycle 5 Step-1 Deadline for Campaign 14-15-16 Targets',
              'k2-proposing-targets.html#solicitations'),
             ('<b>01 Sep 2016</b>',
              'K2 Campaign 9 data release (expected)',
@@ -121,15 +121,12 @@ IMPORTANT_DATES = (
 
 # Defines the "meetings" box on the front page
 MEETINGS = (
-            ('<b>11-15 Jul 2016</b><br>'
-             'TASC2-KASC9 Asteroseismology Workshop',
-             'http://www.iastro.pt/research/conferences/spacetk16/'),
-            ('<b>17-27 Jul 2016</b><br>'
-             'Asteroseismology and Exoplanets: Listening to the Stars and Searching for New Worlds',
-             'http://www.iastro.pt/research/conferences/faial2016/'),
             ('<b>16-21 Oct 2016</b><br>'
-             'DPS 48 / EPSC 11',
-             'https://dps.aas.org/'),             
+             'Kepler/K2 Booth @ DPS 48 / EPSC 11',
+             'https://dps.aas.org/'),
+            ('<b>3-7 Jan 2017</b><br>'
+             'Kepler/K2 Booth & Sessions @ AAS 229',
+             'https://aas.org/meetings/aas229'),
             ('<b>19-23 Jun 2017</b><br>'
              'Kepler & K2 SciCon IV: Legacy & Scion',
              '/save-the-date-for-kepler-k2-scicon-iv-june-19-23-2017.html') 
