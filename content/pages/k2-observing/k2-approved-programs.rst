@@ -55,8 +55,26 @@ Campaign 9b
 .. raw:: html
 
   <p>
-  <!-- TODO: add C9 paragraph here. -->
+  The majority of the Campaign 9 pixel budget was dedicated to
+  <a href="k2-c9.html">a study of gravitational microlensing events</a>
+  toward the Galactic bulge. The aim of this program was to simultaneously observe gravitational microlensing events with K2 and from Earth in order to see a parallax effect in the shape and time of lensing events. 
+  A near-contiguous superstamp of 3.7 deg<sup>2</sup> was observed in long cadence for this purpose, covering large swaths of CCD channels 30, 31, 32, 49, and 52 (program ID GO9001).
+  Additional custom masks were allocated to capture isolated PRF reference
+  stars (GO9002), dark clouds for noise model inference (GO9003),
+  and small masks to cover ongoing microlensing events outside the main superstamp (GO9004). 
   </p>
+
+  <p>
+  The experiment included a three-day, mid-campaign break for data downlinking, splitting the campaign into two halves: C9a and C9b.
+  </p>
+  
+  <p>
+  The remaining part of the pixel budget was made available to the community via the DDT program.  The DDT target list included 1,480 long cadence
+  and 12 short cadence masks. Custom targets included 
+  Kuiper Belt Object Quaoar and a superstamp to cover
+  the core of the Lagoon star-forming region (M8).
+  </p>
+
   <ul class="list-group">
     <li class="list-group-item">
       <i class="fa fa-calendar fa-margin"></i>
@@ -84,8 +102,26 @@ Campaign 9a
 .. raw:: html
 
   <p>
-  <!-- TODO: add C9 paragraph here. -->
+  The majority of the Campaign 9 pixel budget was dedicated to
+  <a href="k2-c9.html">a study of gravitational microlensing events</a>
+  toward the Galactic bulge. The aim of this program was to simultaneously observe gravitational microlensing events with K2 and from Earth in order to see a parallax effect in the shape and time of lensing events. 
+  A near-contiguous superstamp of 3.7 deg<sup>2</sup> was observed in long cadence for this purpose, covering large swaths of CCD channels 30, 31, 32, 49, and 52 (program ID GO9001).
+  Additional custom masks were allocated to capture isolated PRF reference
+  stars (GO9002), dark clouds for noise model inference (GO9003),
+  and small masks to cover ongoing microlensing events outside the main superstamp (GO9004). 
   </p>
+
+  <p>
+  The experiment included a three-day, mid-campaign break for data downlinking, splitting the campaign into two halves: C9a and C9b.
+  </p>
+
+  <p>
+  The remaining part of the pixel budget was made available to the community via the DDT program.  The DDT target list included 1,480 long cadence
+  and 12 short cadence masks. Custom targets included 
+  Kuiper Belt Object Quaoar and a superstamp to cover
+  the core of the Lagoon star-forming region (M8).
+  </p>
+
   <ul class="list-group">
     <li class="list-group-item">
       <i class="fa fa-calendar fa-margin"></i>
