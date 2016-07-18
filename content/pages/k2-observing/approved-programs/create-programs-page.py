@@ -64,7 +64,7 @@ class WebSummaryCreator(object):
                 "      <h3 class='panel-title'>Programs that contributed to the Campaign " + str(self.campaign) + " target list</h3>\n"
                 "    </div>\n\n"
                 "    <div class='panel-body'>\n"
-                "      <i>Click on a title to view the abstract. Click on the number of targets to download the target list.</i>\n"
+                "      <i>Click on the title to view the abstract. Click on the number of targets to view the target list. Click on the icon to go to the data.</i>\n"
                 "      <table class='table table-striped table-hover'>\n"
                 "        <thead>\n"
                 "        <tr>\n"
@@ -72,6 +72,7 @@ class WebSummaryCreator(object):
                 "          <th style='min-width:7em;'>PI</th>\n"
                 "          <th>Title</th>\n"
                 "          <th>Targets</th>\n"
+                "          <th>Data</th>\n"
                 "        </tr>\n"
                 "        </thead>\n\n")
         for program_id in self.programs:
@@ -93,18 +94,21 @@ class WebSummaryCreator(object):
                 edit_program_id = program_id.replace("GO3", "GO2")
                 url_summary = "data/k2-programs/{}_{}.pdf".format(edit_program_id, program["pi_last_name"])
             url_targets = "data/k2-programs/{}-targets.csv".format(program_id)
+            url_archive = 'https://archive.stsci.edu/k2/data_search/search.php?action=Search&ktc_investigation_id={}'.format(program_id)
             html += (
                         "        <tr>\n"
                         "          <td>{}</td>\n"
                         "          <td>{}</td>\n"
                         "          <td><a href='{}'>{}</a></td>\n"
                         "          <td class='text-right'><a href='{}'>{}</a></td>\n"
+                        "          <td class='text-center'><a href='{}'><i class='fa fa-external-link'></i></a></td>\n"
                         "        </tr>\n\n".format(program_id,
                                                    program["pi_last_name"],
                                                    url_summary,
                                                    program["title"].translate(dict.fromkeys(range(1, 32))),
                                                    url_targets,
-                                                   len(targets))
+                                                   len(targets),
+                                                   url_archive)
                      )
         html += "      </table>\n    </div>\n  </div>\n"
         return html
@@ -162,7 +166,7 @@ class WebSummaryCreator(object):
 def create_website_pages():
     PATH = '/home/gb/dev/KeplerScienceWebsite'
     summaries_dir = PATH + "/content/data/k2-programs/"
-    programlist = ProgramList('~/dev/k2-observing-programs/k2-programs.csv')
+    programlist = ProgramList('/home/gb/dev/YouHadOneJob/k2-programs-table/k2-programs.csv')
     for campaign in ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9a", "9b", "10"]:
         if campaign in ['9a', '9b']:
             targetlist = PATH + '/content/data/campaigns/c9/K2Campaign{}targets.csv'.format(campaign)
@@ -174,6 +178,13 @@ def create_website_pages():
         if campaign not in ['0', '1', '2', '3']:  # We only have PDFs for these
             wsc.write_summaries(summaries_dir)
         wsc.write_targetlists(summaries_dir)
+
+        # Write program_ids and target numbers to a text file we can use
+        # to inform the PIs of the target management outcome
+        with open('programlist-c{}.txt'.format(campaign), 'w') as out:
+            out.write('program_id,targets\n')
+            for programid in tl.get_unique_programs():
+                out.write('{},{}\n'.format(programid, len(tl.get_targets(programid))))
 
 
 if __name__ == "__main__":
