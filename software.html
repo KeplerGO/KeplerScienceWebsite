@@ -7,7 +7,7 @@ in August 2015, using pelican-bootstrap and flatly.
 >
 
 <head>
-    <title>Kepler/K2 Guest Observer Office software - Kepler &amp; K2 Science Center</title>
+    <title>Kepler/K2 Software Tools - Kepler &amp; K2 Science Center</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2016-07-13" />
+    <meta name="dc.date.modified" content="2016-07-18" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -31,16 +31,16 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="./images/favicon.png" rel="icon">
 
-<link rel="canonical" href="./pages/keplerk2-guest-observer-office-software.html">
+<link rel="canonical" href="./pages/keplerk2-software-tools.html">
 
         <meta name="author" content="Thomas Barclay" />
-        <meta name="description" content="Here is a list of software products created by the Kepler/K2 Guest Observer Office for use in preparing for Kepler and K2 observations and for analyzing the collected data. The Guest Observer Office hosts source code on Github. K2fov Checks whether a celestial coordinate falls within the field of ..." />
+        <meta name="description" content="Overview Here is a list of software products created by the Kepler/K2 Guest Observer Office for use in preparing for Kepler and K2 observations and for analyzing the collected data. The Guest Observer Office hosts source code on Github. k2fov Checks whether a celestial coordinate falls within the field ..." />
 
     <meta property="og:site_name" content="Kepler &amp; K2" />
     <meta property="og:type" content="article"/>
-    <meta property="og:title" content="Kepler/K2 Guest Observer Office software"/>
-    <meta property="og:url" content="./pages/keplerk2-guest-observer-office-software.html"/>
-    <meta property="og:description" content="Here is a list of software products created by the Kepler/K2 Guest Observer Office for use in preparing for Kepler and K2 observations and for analyzing the collected data. The Guest Observer Office hosts source code on Github. K2fov Checks whether a celestial coordinate falls within the field of ..." />
+    <meta property="og:title" content="Kepler/K2 Software Tools"/>
+    <meta property="og:url" content="./pages/keplerk2-software-tools.html"/>
+    <meta property="og:description" content="Overview Here is a list of software products created by the Kepler/K2 Guest Observer Office for use in preparing for Kepler and K2 observations and for analyzing the collected data. The Guest Observer Office hosts source code on Github. k2fov Checks whether a celestial coordinate falls within the field ..." />
 
 
     <!-- Bootstrap -->
@@ -129,16 +129,17 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <div class="col-sm-9" data-spy="scroll" data-target="#sidebarCol">
         <section id="content" class="body">
-            <h1 class="entry-title">Kepler/K2 Guest Observer Office software</h1>
+            <h1 class="entry-title">Kepler/K2 Software Tools</h1>
             <div class="entry-content">
                 
+<h2 id="overview">Overview</h2>
 <p>Here is a list of software products created by the Kepler/K2 Guest
 Observer Office for use in preparing for Kepler and K2 observations
 and for analyzing the collected data. The Guest Observer Office hosts
 source code on <a href="https://github.com/KeplerGO">Github</a>. </p>
 <table class="table table-striped table-hover" style="max-width:50em;">
 <tr>
-<td><a href="/software.html#k2fov">K2fov</a></td>
+<td><a href="/software.html#k2fov">k2fov</a></td>
 <td>
         Checks whether a celestial coordinate falls within the field of view
         of a K2 campaign.
@@ -148,7 +149,7 @@ source code on <a href="https://github.com/KeplerGO">Github</a>. </p>
 </td>
 </tr>
 <tr>
-<td><a href="/software.html#k2ephem">K2ephem</a></td>
+<td><a href="/software.html#k2ephem">k2ephem</a></td>
 <td>
         Checks whether a moving Solar System body, e.g. an asteroid or comet,
         falls within the field of view of any K2 campaign.
@@ -158,7 +159,7 @@ source code on <a href="https://github.com/KeplerGO">Github</a>. </p>
 </td>
 </tr>
 <tr>
-<td><a href="/software.html#pyke">PyKE</a></td>
+<td><a href="/software.html#pyke">pyke</a></td>
 <td>
         A tool to create light curves with user-chosen pixel apertures and
         cotrend and/or detrend data.
@@ -168,7 +169,7 @@ source code on <a href="https://github.com/KeplerGO">Github</a>. </p>
 </td>
 </tr>
 <tr>
-<td><a href="/software.html#kadenza">Kadenza</a></td>
+<td><a href="https://github.com/KeplerGO/kadenza">kadenza</a></td>
 <td>
         Converts raw cadence data from the Kepler spacecraft into astronomer-friendly FITS files.</td>
 <td>
@@ -176,11 +177,101 @@ source code on <a href="https://github.com/KeplerGO">Github</a>. </p>
 </td>
 </tr>
 </table>
+<p>In addition, members of the community have made a range of tools available.
+Below is a non-exhaustive list of community tools, presented in alphabetical order. Please <a href="helpdesk.html">contact us</a> if your software is missing!</p>
+<table class="table table-striped table-hover" style="max-width:50em;">
+<tr>
+<td><a href="http://staff.washington.edu/rodluger/everest_docs/">everest</a></td>
+<td>
+        Removes instrumental noise from light curves generated by K2. Associated with a publication by <a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1607.00524">Luger et al. (2016)</a>.
+    </td>
+<td>
+<a href="https://github.com/rodluger/everest">github.com/rodluger/everest</a>
+</td>
+</tr>
+<tr>
+<td><a href="https://github.com/barentsen/k2mosaic">k2mosaic</a></td>
+<td>
+        Combines target pixel files into wide-field images.
+    </td>
+<td>
+<a href="https://github.com/barentsen/k2mosaic">github.com/barentsen/k2mosaic</a>
+</td>
+</tr>
+<tr>
+<td><a href="http://barentsen.github.io/k2flix/">k2flix</a></td>
+<td>
+        Converts target pixel files into movies or animated gifs for quick and easy pixel data inspection.
+    </td>
+<td>
+<a href="https://github.com/barentsen/k2flix">github.com/barentsen/k2flix</a>
+</td>
+</tr>
+<tr>
+<td><a href="https://github.com/hpparvi/k2ps">k2ps</a></td>
+<td>
+        Oxford K2 planet search pipeline that uses k2sc light curves.
+        Associated with a publication by <a href="http://adsabs.harvard.edu/doi/10.1093/mnras/stw1373">Pope, Parviainen, &amp; Aigrain (2016)</a>.
+    </td>
+<td>
+<a href="https://github.com/hpparvi/k2ps">github.com/hpparvi/k2ps</a>
+</td>
+</tr>
+<tr>
+<td><a href="https://github.com/OxES/k2sc">k2sc</a></td>
+<td>
+        Removes systematics from K2 data using Gaussian processes.
+        Associated with a publication by <a href="http://adsabs.harvard.edu/abs/2016MNRAS.459.2408A">Aigrain, Parviainen, &amp; Pope (2016)</a>.
+    </td>
+<td>
+<a href="https://github.com/OxES/k2sc">github.com/OxES/k2sc</a>
+</td>
+</tr>
+<tr>
+<td><a href="https://github.com/dfm/ketu">ketu</a></td>
+<td>
+        Searches K2 light curves for exoplanets by simultaneously fitting the systematics and transit signals.
+        The results were published in <a href="http://adsabs.harvard.edu/abs/2015ApJ...806..215F">Foreman-Mackey et al. 2015</a>.
+    </td>
+<td>
+<a href="https://github.com/dfm/ketu">github.com/dfm/ketu</a>
+</td>
+</tr>
+<tr>
+<td><a href="http://dan.iel.fm/kplr/">kplr</a></td>
+<td>
+        A Python interface to the Kepler data.
+    </td>
+<td>
+<a href="https://github.com/dfm/kplr">github.com/dfm/kplr</a>
+</td>
+</tr>
+<tr>
+<td><a href="https://github.com/mrtommyb/ktransit">ktransit</a></td>
+<td>
+        A simple exoplanet transit modeling tool in Python. The underlying model is a Fortran implementation of the Mandel &amp; Agol (2002) limb darkened transit model.
+    </td>
+<td>
+<a href="https://github.com/mrtommyb/ktransit">github.com/mrtommyb/ktransit</a>
+</td>
+</tr>
+<tr>
+<td><a href="https://github.com/hpparvi/PyTransit">pytransit</a></td>
+<td>
+        Exoplanet transit light curve modelling with Python.
+        Associated with a publication by <a href="http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1504.07433">Parviainen (2015)</a>.
+    </td>
+<td>
+<a href="https://github.com/hpparvi/PyTransit">github.com/hpparvi/PyTransit</a>
+</td>
+</tr>
+</table>
+<h2 id="observation-planning">Observation planning</h2>
 <h3 id="k2fov">K2fov</h3>
 <p>K2fov is a Python package that allows users to check whether a target falls within the field of view of K2.</p>
 <p>In particular, the package adds the <em>K2onSilicon</em> and <em>K2findCampaigns</em> tools to the command line, which allow the visibility of targets to be checked during one or all campaigns, respectively.</p>
 <p>The code and documentation is <a href="https://github.com/KeplerGO/K2fov">hosted on Github</a> and only briefly summarized here.</p>
-<h4 id="installation">Installation</h4>
+<h4>Installation</h4>
 <p>Users will need to have a working version of Python 2 or 3 installed.
 If this requirement is met, K2fov can be installed using pip:</p>
 <pre><code>pip install K2fov
@@ -189,7 +280,7 @@ If this requirement is met, K2fov can be installed using pip:</p>
 <pre><code>pip install K2fov --upgrade
 </code></pre>
 <p>It is important to upgrade frequently to ensure that you are using the most up to date K2 field parameters.</p>
-<h4 id="usage">Usage</h4>
+<h4>Usage</h4>
 <p>Installing K2fov will automatically add a command line tool to your path called <em>K2onSilicon</em>, which takes a list of targets as input and writes a new list that indicates the "silicon status" of each target, i.e. whether or not it falls on one of the detectors of the spacecraft's focal plane.</p>
 <p>The simplest thing to do is to have a CSV file with columns "RA_degrees, Dec_degrees, Kepmag". Do not use a header. 
 For example, create a file called mytargetlist.csv containing the following rows:</p>
@@ -225,14 +316,14 @@ falls within the field of view of a K2 campaign.</p>
 <p>It provides a command-line tool that will automatically grab the ephemeris
 of an object from NASA's JPL/Horizons service and then check its K2 visibility
 using <em>K2fov</em>.</p>
-<h4 id="installation_1">Installation</h4>
+<h4>Installation</h4>
 <p>You need to have a working version of Python 2 or 3 installed.
 If this requirement is met, you can install K2ephem using pip</p>
 <pre><code>pip install K2ephem --upgrade
 </code></pre>
 <p>If required, this command will take care of installing
 the two required dependencies (<em>K2fov</em> and <em>pandas</em>).</p>
-<h4 id="usage_1">Usage</h4>
+<h4>Usage</h4>
 <p>After installation, you can call <em>K2ephem</em> from the command line.
 For example, to verify whether comet Chiron can be observed by K2, simply type:</p>
 <pre><code>K2ephem Chiron
@@ -252,6 +343,7 @@ optional arguments:
   --first campaign  First campaign to check (default: 0)
   --last campaign   Final campaign to check (default: 18)
 </code></pre>
+<h2 id="data-analysis">Data analysis</h2>
 <h3 id="pyke">PyKE</h3>
 <p>PyKE is a suite of python software tools developed to reduce and
 analyze Kepler and K2 light curves, TPFs, and FFIs. PyKE tools provide the
@@ -264,7 +356,7 @@ consider. We also provide links to a sample of PyKE tutorials below.</p>
 Still and Tom Barclay. PyKE is an open source
 project. Contributions of new tasks or enhanced functionality of
 existing tasks by the community are welcome.</p>
-<h4 id="pyraf-installation">PyRAF installation</h4>
+<h4>PyRAF installation</h4>
 <p>PyKE is a python-based <a href="http://www.stsci.edu/institute/software_hardware/pyraf">PyRAF</a> package which can also be executed without PyRAF on the command line of a shell. In order to install and run PyKE as a PyRAF package on your Mac or Linux platform you will need PyRAF to be pre-installed <a href="http://www.stsci.edu/institute/software_hardware/pyraf/stsci_python/installation">following these instructions</a>. We recommend the Ureka binary install option.</p>
 <p><a href="http://stsdas.stsci.edu/pyraf/doc.old/pyraf_tutorial/">A PyRAF tutorial is provided here</a>, explaining functionality and the evolution of IRAF into a python-based scripting language. The Kepler tools have been tested against PyRAF version 2.1.6. Please report any deviant behavior using later versions of these packages.</p>
 <ul>
@@ -297,7 +389,7 @@ where <em>path</em> is the location of the downloaded file. The tar operation ma
 % csh</p>
 </li>
 </ul>
-<h4 id="pyraf-execution">PyRAF execution</h4>
+<h4>PyRAF execution</h4>
 <p>For a full description on getting started see the <a href="http://stsdas.stsci.edu/pyraf/doc.old/pyraf_tutorial/">PyRAF tutorial</a>. In summary:</p>
 <ul>
 <li>
@@ -321,7 +413,7 @@ where <em>path</em> is the location of the downloaded file. The tar operation ma
 message and a list of available tasks.</p>
 </li>
 </ul>
-<h4 id="standalone-installation">Standalone installation</h4>
+<h4>Standalone installation</h4>
 <p>There are pros and cons to using PyKE as a PyRAF package. Users can
 rely on GUI operation and retention of input parameters previously
 used. On the other hand, installation of PyRAF on Linux machines can
@@ -330,7 +422,7 @@ installation can still use PyKE from within a Unix/Linux shell on the
 command line. GUI and parameter retention features are however lost in
 this operating mode and command line calls to PyKE can often be long
 character strings. However, a positive is that calls to PyKE can be easily included within shell scripts. <a href="/StandAlonePyKE.shtml">Find installation and execution instructions for shell-based PyKE here</a>.</p>
-<h4 id="pyke-tasks">PyKE tasks</h4>
+<h4>PyKE tasks</h4>
 <p>A comprehensive list of PyKE tasks is provided here.</p>
 <table class="table table-striped table-hover" style="max-width:70em;">
 <tr>
@@ -470,7 +562,7 @@ character strings. However, a positive is that calls to PyKE can be easily inclu
 <td>Calculate and store the window function for a Kepler time series </td>
 </tr>
 </table>
-<h4 id="pyke-tutorials">PyKE tutorials</h4>
+<h4>PyKE tutorials</h4>
 <p>These examples provide use cases and reduction examples for the user to follow. The procedures outlined in this section will not be optimal for all science, and it will ultimately be up to the user to determine what parameter values optimize scientific return.</p>
 <p>PyKE tasks can be called and controlled (i) directly from the command
 line within the PyRAF environment, (ii) entirely through GUI-driven
@@ -494,7 +586,7 @@ downloaded your Kepler or K2 data:<br/></p>
 <li><a href="/PyKEprimerWalkthroughD.shtml">Removing stellar astrophysics and quarter stitching</a></li>
 <li><a href="/PyKEprimerWalkthroughE.shtml">Mitigate K2 motion artifacts by correlating detrended flux with target centroids</a></li>
 </ul>
-<h4 id="pyke-history">PyKE history</h4>
+<h4>PyKE history</h4>
 <table class="table table-striped table-hover" style="max-width:70em;">
 <thead>
 <tr>
@@ -603,7 +695,7 @@ downloaded your Kepler or K2 data:<br/></p>
 </tr>
 </tdata>
 </table>
-<h4 id="citing-pyke">Citing PyKE</h4>
+<h4>Citing PyKE</h4>
 <p>Those wishing to cite PyKE in a publication can reference
 <a href="http://adsabs.harvard.edu/abs/2012ascl.soft08004S">Still &amp; Barclay (2012)</a>. An
 appropriate statement to include in the acknowledgements is: <em>"This
@@ -627,12 +719,33 @@ TERMINATION OF THIS AGREEMENT.</p>
 <p><strong>Notices</strong><br/>
 Copyright © 2010-2011 United States Government as represented by the Administrator of the National Aeronautics and Space Administration. All Rights Reserved.</p>
 <p><a href="/docs/KeplerScienceCommunityToolsNOSA.pdf">NASA OPEN SOURCE AGREEMENT</a></p>
-<h3 id="other-tools">Other tools</h3>
+<h2 id="data-inspection">Data inspection</h2>
 <p>A variety of other public software exists for inspection of Kepler and K2 FITS
 data.  An incomplete list is provided here. FV can be used to inspect
 Target Pixel Files (TPFs) and TOPCAT can be used to inspect light
 curves.  DS9, KeplerFFI, and MAST can be used to inspect full-frame images (FFIs).</p>
-<h4 id="fv">FV</h4>
+<h3 id="k2flix">K2flix</h3>
+<p>K2flix enables the pixel data to be visualized
+by turning Kepler/K2's Target Pixel Files (TPF) into 
+contrast-stretched animated gifs or MPEG-4 movies.
+K2flix can be used both as a command-line tool or using its Python API.
+The tool is hosted and documented on <a href="https://github.com/barentsen/k2flix">GitHub</a>.</p>
+<h3 id="keplerffi">KeplerFFI</h3>
+<p>This FFI inspection tool is used to examine the sources surrounding a
+target, assess crowding, identify artifacts, and understand the
+effects of the photometric aperture on the light curves. KeplerFFI
+also creates a custom pixel mask by allowing users to select pixels
+for inclusion within a target aperture. Individual pixels are chosen
+interactively by tapping upon them. <a href="/ContributedSoftwareKeplerFFI.shtml">This standalone python tool is
+available for download here</a>.</p>
+<h3 id="mast-ffi-viewer">MAST FFI Viewer</h3>
+<p>MAST maintains an online FFI display tool, which allows the user to
+examine individual channels within an FFI image. Kepler and K2 targets, as
+well as 2MASS and GALEX sources located within the frame, are marked
+with symbols and are user-selectable. Sources for which the data have been
+published or made public are also
+indicated. <a href="http://archive.stsci.edu/kepler/ffi_display.php">The Kepler FFI tool can be accessed here</a>. <a href="http://archive.stsci.edu/k2/ffi_display.php">The K2 FFI tool can be accessed here</a>.</p>
+<h3 id="fv">FV</h3>
 <p>Kepler and K2 Target Pixel Files (TPFs) are provided to the user in the form
 of binary FITS tables, one file per target. Each row in the table
 contains timestamps, photometric measurements, astrometric
@@ -663,7 +776,7 @@ click on one of the "Header" buttons. The "Hist" and "Plot" buttons provide hist
 <p><img class="img-responsive" src="images/TPF-FV3.jpg" style="min-width:97%;"/></p>
 <p><br/></p>
 <p>The above figure shows typical images stored within a TPF. The left-hand image is stored in the time-tagged data table and contains calibrated, background-subtracted and cosmic ray removed pixel fluxes. The right-hand image contains a bitmap that describes the employment of each pixel. Black pixels are not collected, yellow are collected but do not contribute to the photometry stored in the light curve products. White pixels are included in the photometric aperture that maximizes target signal-to-noise over nominal short timescales of observation.</p>
-<h4 id="topcat">TOPCAT</h4>
+<h3 id="topcat">TOPCAT</h3>
 <p>Kepler and K2 times-series light curves are provided to the user in the form
 of a binary FITS table, one file per target. Each row in the table
 contains timestamps, photometric measurements, astrometric
@@ -698,7 +811,7 @@ icons located above the plot. For example, at the bottom right of the plot under
 <li>Data can be convered to, e.g., ASCII files using the "Save Table" option (the
 second icon from the left at the top of the control window).</li>
 </ul>
-<h4 id="ds9">DS9</h4>
+<h3 id="ds9">DS9</h3>
 <p>Kepler and K2 Full Frame Images (FFIs) are provided to the user in the form
 of a binary FITS file. There are ~94 million pixels in each FFI. In
 order to manage this large number of pixel, the data is divided into
@@ -746,27 +859,6 @@ obvious with DS9 how to navigate to a specific celestial location. The
 simplest method to inspect the region around a specific provided
 celestial coordinate or Kepler or K2 target is to use the tool KeplerFFI
 (see below).</p>
-<h4 id="keplerffi">KeplerFFI</h4>
-<p>This FFI inspection tool is used to examine the sources surrounding a
-target, assess crowding, identify artifacts, and understand the
-effects of the photometric aperture on the light curves. KeplerFFI
-also creates a custom pixel mask by allowing users to select pixels
-for inclusion within a target aperture. Individual pixels are chosen
-interactively by tapping upon them. <a href="/ContributedSoftwareKeplerFFI.shtml">This standalone python tool is
-available for download here</a>.</p>
-<h4 id="mast-ffi-viewer">MAST FFI Viewer</h4>
-<p>MAST maintains an online FFI display tool, which allows the user to
-examine individual channels within an FFI image. Kepler and K2 targets, as
-well as 2MASS and GALEX sources located within the frame, are marked
-with symbols and are user-selectable. Sources for which the data have been
-published or made public are also
-indicated. <a href="http://archive.stsci.edu/kepler/ffi_display.php">The Kepler FFI tool can be accessed here</a>. <a href="http://archive.stsci.edu/k2/ffi_display.php">The K2 FFI tool can be accessed here</a>.</p>
-<h4 id="k2flix">K2flix</h4>
-<p>K2flix enables the pixel data to be visualized
-by turning Kepler/K2's Target Pixel Files (TPF) into 
-contrast-stretched animated gifs or MPEG-4 movies.
-K2flix can be used both as a command-line tool or using its Python API.
-The tool is hosted and documented on <a href="https://github.com/barentsen/k2flix">GitHub</a>.</p>
             </div>
         </section>
     </div>
@@ -775,33 +867,23 @@ The tool is hosted and documented on <a href="https://github.com/barentsen/k2fli
             <div class="nav nav-stacked fixed" id="mytoc">
             <div class="toc">
 <ul>
-<li><a href="#k2fov">K2fov</a><ul>
-<li><a href="#installation">Installation</a></li>
-<li><a href="#usage">Usage</a></li>
+<li><a href="#overview">Overview</a></li>
+<li><a href="#observation-planning">Observation planning</a><ul>
+<li><a href="#k2fov">K2fov</a></li>
+<li><a href="#k2ephem">K2ephem</a></li>
 </ul>
 </li>
-<li><a href="#k2ephem">K2ephem</a><ul>
-<li><a href="#installation_1">Installation</a></li>
-<li><a href="#usage_1">Usage</a></li>
+<li><a href="#data-analysis">Data analysis</a><ul>
+<li><a href="#pyke">PyKE</a></li>
 </ul>
 </li>
-<li><a href="#pyke">PyKE</a><ul>
-<li><a href="#pyraf-installation">PyRAF installation</a></li>
-<li><a href="#pyraf-execution">PyRAF execution</a></li>
-<li><a href="#standalone-installation">Standalone installation</a></li>
-<li><a href="#pyke-tasks">PyKE tasks</a></li>
-<li><a href="#pyke-tutorials">PyKE tutorials</a></li>
-<li><a href="#pyke-history">PyKE history</a></li>
-<li><a href="#citing-pyke">Citing PyKE</a></li>
-</ul>
-</li>
-<li><a href="#other-tools">Other tools</a><ul>
+<li><a href="#data-inspection">Data inspection</a><ul>
+<li><a href="#k2flix">K2flix</a></li>
+<li><a href="#keplerffi">KeplerFFI</a></li>
+<li><a href="#mast-ffi-viewer">MAST FFI Viewer</a></li>
 <li><a href="#fv">FV</a></li>
 <li><a href="#topcat">TOPCAT</a></li>
 <li><a href="#ds9">DS9</a></li>
-<li><a href="#keplerffi">KeplerFFI</a></li>
-<li><a href="#mast-ffi-viewer">MAST FFI Viewer</a></li>
-<li><a href="#k2flix">K2flix</a></li>
 </ul>
 </li>
 </ul>
