@@ -44,7 +44,7 @@ can be checked using the [K2ephem command-line tool](https://github.com/KeplerGO
 
 ### Planets and moons
 
-* Uranus and its moons Caliban, Prospero, Setebos, Sycorax (C8)
+* Uranus and its irregular satellites Caliban, Prospero, Setebos, Sycorax (C8)
 * Neptune and its moon Nereid (C3)
 * Pluto (C7)
 
