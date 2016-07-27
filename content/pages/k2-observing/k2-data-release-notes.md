@@ -659,7 +659,13 @@ The dominant systematic present in K2 simple aperture photometry light curves is
 
 The following is the data release history for this campaign. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
 
+* <a href="k2-pipeline-release-notes.html#data-release-10">Data Release 10</a>
 * <a href="k2-pipeline-release-notes.html#data-release-7">Data Release 7</a>
+
+<br>
+***Notes Specific to Data Release 10***
+
+Data release 10 updates the short cadence data only. This release corrects the short cadence collateral bug described in the <a href="http://archive.stsci.edu/kepler/KSCI-19080-002.pdf">Global Erratum for Kepler Q0-Q17 & K2 C0-C5 Short-Cadence Data, KSCI-19080</a>. This release replaces short cadence data previously delivered to the archive with Data Releases 7. Specific targets known to have their calibration improved by this release are identifed in the <a href="http://archive.stsci.edu/missions/k2/catalogs/K2_scrambled_short_cadence_collateral_target_list.csv">list of affected targets at the MAST</a>. 
 
 <hr>
 
@@ -829,9 +835,14 @@ The photometric precision is generally better near the center of the focal plane
 
 The following is the data release history for this campaign. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
 
+* <a href="k2-pipeline-release-notes.html#data-release-10">Data Release 10</a>
 * <a href="k2-pipeline-release-notes.html#data-release-6">Data Release 6</a>
 
 <br>
+***Notes Specific to Data Release 10***
+
+Data release 10 updates the short cadence data only. This release corrects the short cadence collateral bug described in the <a href="http://archive.stsci.edu/kepler/KSCI-19080-002.pdf">Global Erratum for Kepler Q0-Q17 & K2 C0-C5 Short-Cadence Data, KSCI-19080</a>. This release replaces short cadence data previously delivered to the archive with Data Releases 6. Specific targets known to have their calibration improved by this release are identifed in the <a href="http://archive.stsci.edu/missions/k2/catalogs/K2_scrambled_short_cadence_collateral_target_list.csv">list of affected targets at the MAST</a>. 
+
 ***Notes Specific to Data Release 6***
 
 These notes are issues specific to how the data was processed and are likely to change when the data are reprocessed.
@@ -985,7 +996,13 @@ Campaign 3 had a nominal duration of 80 days, but an actual duration of only 69.
 
 The following is the data release history for this campaign. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
 
+* <a href="k2-pipeline-release-notes.html#data-release-10">Data Release 10</a>
 * <a href="k2-pipeline-release-notes.html#data-release-5">Data Release 5</a>
+
+<br>
+***Notes Specific to Data Release 10***
+
+Data release 10 updates the short cadence data only. This release corrects the short cadence collateral bug described in the <a href="http://archive.stsci.edu/kepler/KSCI-19080-002.pdf">Global Erratum for Kepler Q0-Q17 & K2 C0-C5 Short-Cadence Data, KSCI-19080</a>. This release replaces short cadence data previously delivered to the archive with Data Releases 5. Specific targets known to have their calibration improved by this release are identifed in the <a href="http://archive.stsci.edu/missions/k2/catalogs/K2_scrambled_short_cadence_collateral_target_list.csv">list of affected targets at the MAST</a>. 
 
 <hr>
 
