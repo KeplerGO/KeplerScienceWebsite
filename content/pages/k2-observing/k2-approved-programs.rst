@@ -22,7 +22,7 @@ should be consulted for more comprehensive notes for each Campaign.
 
 
 Campaign 10
----------------------
+-----------
 .. raw:: html
 
   <p>
@@ -51,7 +51,7 @@ Campaign 10
 
 
 Campaign 9b
----------------------
+-----------
 .. raw:: html
 
   <p>
@@ -98,7 +98,7 @@ Campaign 9b
 
 
 Campaign 9a
----------------------
+-----------
 .. raw:: html
 
   <p>
@@ -456,3 +456,51 @@ Campaign 0
   </ul>
 
 .. include:: approved-programs/c0.html
+
+
+Concept Engineering Test
+------------------------
+.. raw:: html
+
+  <p>
+  Between Feb 4-13, 2014, before Campaign 0, the Kepler spacecraft
+  executed a very short engineering test to demonstrate the K2 mission concept
+  and its photometric precision.
+  The formal name of this data set is the <i>"Two-wheel Concept Engineering Test"</i>.
+  </p>
+
+  <p>
+  During this nine-day test, the spacecraft observed 2,000 long cadence and 17 short cadence target masks towards a test field located near (ra, dec) = (359&deg;, -2&deg;).
+  The masks were centered on a variety of targets selected by the Kepler Science Center, including known planet hosts, eclipsing binaries, variables, hot stars, and cool dwarfs.
+  All masks were deliberately designed to be very large,
+  measuring 50-by-50 pixels each,
+  to enable the K2 pointing performance to be assessed.
+  Each mask contains multiple stars in addition to the main target as a result.
+  </p>
+
+  <p>
+  The Kepler/K2 Science Center does not support this engineering data set
+  at the same level as official K2 campaigns,
+  e.g. light curve products have not been generated.
+  However Target Pixel Files have been made available.
+  </p>
+
+  </p>
+  <ul class="list-group">
+    <li class="list-group-item">
+      <i class="fa fa-calendar fa-margin"></i>
+      Feb 4 - Feb 13, 2014
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-download fa-margin"></i>
+      <a href="https://archive.stsci.edu/pub/k2/tpf_eng/K2_E2_targets_lc.csv">Long Cadence Target list (csv)</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-download fa-margin"></i>
+      <a href="https://archive.stsci.edu/pub/k2/tpf_eng/K2_E2_targets_sc.csv">Short Cadence Target list (csv)</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-external-link fa-margin"></i>
+      <a href="https://archive.stsci.edu/pub/k2/tpf_eng/">Target pixel files (MAST)</a>   
+    </li>
+  </ul>
