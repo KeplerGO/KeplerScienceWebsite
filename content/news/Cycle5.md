@@ -2,8 +2,8 @@ Title: Call for K2 GO Cycle 5 Proposals for Campaigns 14, 15, and 16
 Date: 2016-08-01 12:00
 Author: Geert Barentsen
 
-Proposals are now being solicited for the K2 Guest Observer Cycle 5.
-Cycle 5 includes [Campaigns 14, 15, and 16](/k2-fields.html).
+Proposals are now being solicited for the K2 Guest Observer Cycle 5,
+which includes [Campaigns 14, 15, and 16](/k2-fields.html).
 The due date for Step-1 proposals is 23:59 EST September 23, 2016.
 Step-2 proposals are due by 23:59 EST November 4, 2016.
 Investigators may not submit a Step-2 proposal without first submitting a Step-1 proposal by the due date.
