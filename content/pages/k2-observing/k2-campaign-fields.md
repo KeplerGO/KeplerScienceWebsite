@@ -330,8 +330,6 @@ and accommodate engineering constraints (e.g. the availability of guide stars).
 We encourage the community to provide input on the placement of these
 fields by emailing us at [keplergo@mail.arc.nasa.gov](keplergo@mail.arc.nasa.gov). 
 
-<a href="images/k2/proposed-future-fields-2018.png"><img src="images/k2/proposed-future-fields-2018.png" class="img-responsive"></a>
-
 <div class="panel panel-primary">
   <div class="panel-heading">
     <h3 class="panel-title">Proposed future fields</h3>
