@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2016-08-01" />
+    <meta name="dc.date.modified" content="2016-08-02" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -235,8 +235,22 @@ targets with high proper motion should also be noted by the proposer.</p>
 <p>Determining whether or not desired targets fall on active regions 
 of the focal plane is also the responsibility of the proposer. 
 The Kepler Science Center provides a tool called
-<a href="software.html#k2fov">K2fov to identify which targets fall upon active silicon</a>. 
+<a href="software.html#k2fov">K2fov</a>
+to identify which targets fall upon active silicon. 
 Only those targets within the active fields of view should be proposed.</p>
+<p>Note that all investigators <em>must</em> update their version of 
+K2fov to version 5.0, released on 1 Aug 2016,
+to take the final field positions of Campaigns 14-15-16 into account. 
+K2fov can be updated from the command line using pip:</p>
+<pre><code>pip install K2fov --upgrade
+</code></pre>
+<p>The version number of your K2fov installation may be verified
+using the following command:</p>
+<pre><code>python -c "import K2fov; print(K2fov.__version__)"
+</code></pre>
+<p>This should return "5.0.0" or higher. If the number is lower,
+or if you see an error message, then your installation of K2fov is outdated
+and must be upgraded.</p>
 <h3 id="target-table">Target table</h3>
 <p>All proposals for targets are required to include a target table 
 in a pre-defined format to specify desired observing modes 
