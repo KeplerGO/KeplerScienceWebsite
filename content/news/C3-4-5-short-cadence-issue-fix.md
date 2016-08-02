@@ -1,4 +1,4 @@
-Title: Release of reprocessed short cadence data for K2 Campaigns 3-4-5
+Title: Release of reprocessed short cadence data for K2 Campaigns 3, 4, 5
 Date: 2016-08-02 14:00
 Author: Geert Barentsen
 
