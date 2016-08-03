@@ -1,4 +1,4 @@
-Title: K2 Science Conference Deadline Fast Approaching
+Title: K2 Science Conference deadline fast approaching
 Date: 2015-09-15 11:00
 Author: Thomas Barclay
 

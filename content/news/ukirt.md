@@ -1,4 +1,4 @@
-Title: Call for Spectroscopy Targets for UKIRT Program
+Title: Call for spectroscopy targets for UKIRT program
 Date: 2015-08-17 14:00
 Author: Knicole Colon
 

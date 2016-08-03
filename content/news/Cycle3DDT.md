@@ -1,4 +1,4 @@
-Title: K2 Campaigns 8, 9 and 10 Director's Discretionary Targets Program
+Title: K2 Campaigns 8, 9 and 10 Director's Discretionary Targets program
 Date: 2015-09-11 14:00
 Author: Thomas Barclay
 

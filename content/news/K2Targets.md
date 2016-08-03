@@ -1,4 +1,4 @@
-Title: Additional Targets Available in Future K2 Campaigns
+Title: Additional targets available in future K2 campaigns
 Date: 2015-6-02 05:00
 Author: Thomas Barclay
 

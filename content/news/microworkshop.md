@@ -1,4 +1,4 @@
-Title: K2 Microlensing Campaign Workshop, May 7-8, 2015, SETI Inst., CA 
+Title: K2 Microlensing Campaign workshop, May 7-8, 2015, SETI Inst., CA 
 Date: 2015-4-24 05:00
 Author: Thomas Barclay
 

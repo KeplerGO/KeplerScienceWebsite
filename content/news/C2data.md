@@ -1,4 +1,4 @@
-Title: K2 Campaign 2 Data Release
+Title: K2 Campaign 2 data release
 Date: 2015-04-02 02:00
 Author: Thomas Barclay
 

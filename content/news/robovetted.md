@@ -1,4 +1,4 @@
-Title: Kepler Robovetted KOI table released
+Title: Kepler robovetted KOI table released
 Date: 2015-04-02 01:00
 Author: Thomas Barclay
 

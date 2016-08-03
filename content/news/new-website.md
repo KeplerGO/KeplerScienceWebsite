@@ -1,4 +1,4 @@
-Title: New Kepler/K2 Science Center Website Launched
+Title: New Kepler/K2 Science Center website launched
 Date: 2015-11-01 12:00
 Author: Geert Barentsen
 

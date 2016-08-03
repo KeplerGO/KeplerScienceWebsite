@@ -1,4 +1,4 @@
-Title: Call for K2 GO Cycle 4 Proposals for Campaigns 11, 12, and 13
+Title: Call for K2 GO Cycle 4 proposals for Campaigns 11, 12, and 13
 Date: 2015-12-08 12:00
 Author: Knicole Colon
 

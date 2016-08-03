@@ -1,4 +1,4 @@
-Title: Updated K2 Data Release Schedule
+Title: Updated K2 data release schedule
 Date: 2015-09-10 14:00
 Author: Thomas Barclay
 

@@ -1,4 +1,4 @@
-Title: Extracted K2 Lightcurves From Vanderburg and Johnson Now Available at MAST
+Title: Extracted K2 lightcurves from Vanderburg and Johnson now available at MAST
 Date: 2015-04-02 00:00
 Author: Thomas Barclay
 

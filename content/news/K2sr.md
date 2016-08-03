@@ -1,4 +1,4 @@
-Title: K2 Mission Officially Extended Through End of Mission
+Title: K2 mission officially extended through end of mission
 Date: 2016-06-09 09:30
 Author: Knicole Colon
 

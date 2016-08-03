@@ -1,4 +1,4 @@
-Title: Due date for K2 Guest Observer Cycle 3 Step-1 Proposal Fast Approaching
+Title: Due date for K2 Guest Observer Cycle 3 Step-1 proposal fast approaching
 Date: 2015-5-29 05:00
 Author: Thomas Barclay
 

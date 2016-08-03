@@ -1,4 +1,4 @@
-Title: K2 Campaigns 11, 12 and 13 Director's Discretionary Targets Program
+Title: K2 Campaigns 11, 12 and 13 Director's Discretionary Targets program
 Date: 2016-04-13 14:30
 Author: Knicole Colon
 

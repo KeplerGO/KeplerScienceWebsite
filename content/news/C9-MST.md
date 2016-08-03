@@ -1,4 +1,4 @@
-Title: K2 Campaign 9 Microlensing Science Team Selected
+Title: K2 Campaign 9 Microlensing Science Team selected
 Date: 2015-11-06 15:00
 Author: Knicole Colon
 

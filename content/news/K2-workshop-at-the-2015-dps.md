@@ -1,4 +1,4 @@
-Title: Special K2 Workshop at the DPS on 10 November 2015
+Title: Special K2 workshop at the DPS on 10 November 2015
 Date: 2015-10-28 07:00
 Author: Geert Barentsen
 
