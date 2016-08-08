@@ -1,12 +1,15 @@
-Title: Break in Science Collection During K2 Campaign 10
+Title: Break in science collection during K2 Campaign 10
 Date: 2016-08-04 16:00
 Author: Tom Barclay
 
-The K2 Campaign 10, ongoing since July 6, has suffered a couple unexpected reductions to the intended science.
+The K2 Campaign 10, ongoing since July 6, has [suffered a couple of unexpected reductions to the intended science](http://www.nasa.gov/feature/ames/kepler/kepler-mission-manager-update-k2-campaign-10).
 
-The initial line of sight pointing of the spacecraft at the start of the campaign was offset from its intended target by 12 arcsec, sufficient to lose much of the expected target light from the assigned apertures.  This error was compounded by a downlink issue that failed to provide the requisite focal plane data that is intended to catch such errors.  These data were subsequently acquired and pointing corrected on July 13.  Although the spacecraft was in fine point throughout, the pointing offset will compromise much of the data for the first week of observations, and is likely to more seriously affect those targets near the edge of the focal plane where roll is largest.  
+The initial line of sight pointing of the spacecraft at the start of the campaign was offset from its intended target by 12 arcsec, sufficient to lose much of the expected target light from the assigned apertures.  
+This error was compounded by a downlink issue that failed to provide the requisite focal plane data that is intended to catch such errors.  
+These data were subsequently acquired and pointing corrected on July 13.  Although the spacecraft was in fine point throughout, the pointing offset will compromise much of the data for the first week of observations, and is likely to more seriously affect those targets near the edge of the focal plane where roll is largest.  
 
-Then, on July 20, the photometers was turned off as an apparent response to a failure of a module on the focal plane.  The spacecraft otherwise continued to operate normally, and the anomaly was not discovered until a scheduled data downlink on July 28.
+Then, on July 20, the photometers was turned off as an apparent response to a failure of a module on the focal plane.  
+The spacecraft otherwise continued to operate normally, and the anomaly was not discovered until a scheduled data downlink on July 28.
 
 With extremely poor communication geometry at science attitude, spacecraft health checks consume significant DSN resources, requiring a 70-meter antenna.  Such health checks are therefore performed infrequently during the K2 mission, roughly every two weeks.
 
