@@ -1,4 +1,4 @@
-Title: K2 Microlensing Campaign Draft Agenda Now Available
+Title: K2 Microlensing Campaign draft agenda now available
 Date: 2015-4-24 06:00
 Author: Thomas Barclay
 

@@ -1,4 +1,4 @@
-Title: Kepler 3D Puzzle Available for Outreach
+Title: Kepler 3D puzzle available for outreach
 Date: 2016-08-01 11:00
 Author: Geert Barentsen
 

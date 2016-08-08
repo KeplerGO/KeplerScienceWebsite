@@ -1,4 +1,4 @@
-Title: K2 Campaign 5 Data Release
+Title: K2 Campaign 5 data release
 Date: 2015-11-02 12:00
 Author: Geert Barentsen
 

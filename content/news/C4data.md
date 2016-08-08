@@ -1,4 +1,4 @@
-Title: K2 Campaign 4 Data Release
+Title: K2 Campaign 4 data release
 Date: 2015-09-08 11:00
 Author: Knicole Colon
 

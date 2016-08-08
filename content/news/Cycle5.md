@@ -1,4 +1,4 @@
-Title: Call for K2 GO Cycle 5 Proposals for Campaigns 14, 15, and 16
+Title: Call for K2 GO Cycle 5 proposals for Campaigns 14, 15, and 16
 Date: 2016-08-01 12:00
 Author: Geert Barentsen
 

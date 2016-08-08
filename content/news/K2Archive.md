@@ -1,4 +1,4 @@
-Title: Anticipated Observing and Archiving Dates Now Listed Online
+Title: Anticipated observing and archiving dates now listed online
 Date: 2015-07-13 00:00
 Author: Tom Barclay
 

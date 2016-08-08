@@ -1,4 +1,4 @@
-Title: K2 Mission Recruiting Members for the K2 Users' Panel
+Title: K2 mission recruiting members for the K2 Users' Panel
 Date: 2016-07-04 16:00
 Author: Knicole Colon, Tom Barclay
 

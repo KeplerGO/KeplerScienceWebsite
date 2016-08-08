@@ -1,4 +1,4 @@
-Title: Submit Your Abstract to the K2 Special Session at #AAS228
+Title: Submit your abstract to the K2 Special Session at #AAS228
 Date: 2016-02-10 12:00
 Author: Knicole Colon
 
