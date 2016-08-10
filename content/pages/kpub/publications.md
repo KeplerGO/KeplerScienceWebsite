@@ -36,7 +36,7 @@ Or by topic:
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/KeplerGO/kpub">GitHub repository</a> of the database.
 
-Last update: 06 Aug 2016.
+Last update: 10 Aug 2016.
 
 <hr/>
 
@@ -201,98 +201,98 @@ Here we list the most-active authors, defined as those with six or more first-au
 
  * Jenkins, J (12 publications)
 
+ * Kane, S (11 publications)
+
  * Huber, D (11 publications)
 
  * Steffen, J (11 publications)
 
  * Murphy, S (11 publications)
 
- * Kane, S (11 publications)
-
  * Stello, D (10 publications)
-
- * Baran, A (10 publications)
 
  * Savanov, I (10 publications)
 
- * Gaidos, E (9 publications)
+ * Baran, A (10 publications)
 
- * Chaplin, W (9 publications)
+ * Molenda-Zakowicz, J (9 publications)
+
+ * Gaidos, E (9 publications)
 
  * Scaringi, S (9 publications)
 
  * Armstrong, D (9 publications)
 
- * Hekker, S (9 publications)
+ * Chaplin, W (9 publications)
 
  * Wang, J (9 publications)
 
- * Molenda-Zakowicz, J (9 publications)
+ * Hekker, S (9 publications)
+
+ * Lillo-Box, J (8 publications)
+
+ * Santerne, A (8 publications)
+
+ * Ramsay, G (8 publications)
+
+ * Sanchis-Ojeda, R (8 publications)
 
  * Van Eylen, V (8 publications)
+
+ * Kato, T (8 publications)
+
+ * Rappaport, S (8 publications)
+
+ * Ostensen, R (8 publications)
 
  * Kjurkchieva, D (8 publications)
 
  * Mosser, B (8 publications)
 
- * Lillo-Box, J (8 publications)
-
- * Rappaport, S (8 publications)
-
- * Ramsay, G (8 publications)
-
- * Ostensen, R (8 publications)
-
- * Sanchis-Ojeda, R (8 publications)
-
- * Santerne, A (8 publications)
-
- * Kato, T (8 publications)
-
- * Guzik, J (7 publications)
-
- * Gilliland, R (7 publications)
-
- * Metcalfe, T (7 publications)
+ * Campante, T (7 publications)
 
  * Mathur, S (7 publications)
 
- * Silva Aguirre, V (7 publications)
+ * Metcalfe, T (7 publications)
+
+ * Gilliland, R (7 publications)
+
+ * Guzik, J (7 publications)
 
  * Tkachenko, A (7 publications)
-
- * Campante, T (7 publications)
 
  * Vanderburg, A (7 publications)
 
  * Dawson, R (7 publications)
 
- * Hirano, T (6 publications)
+ * Silva Aguirre, V (7 publications)
 
- * Morton, T (6 publications)
-
- * Corsaro, E (6 publications)
-
- * Heller, R (6 publications)
-
- * Lissauer, J (6 publications)
-
- * Howell, S (6 publications)
-
- * Ballard, S (6 publications)
-
- * Beck, P (6 publications)
-
- * Barclay, T (6 publications)
-
- * Koch, D (6 publications)
-
- * Mann, A (6 publications)
-
- * Lee, J (6 publications)
+ * Bonomo, A (6 publications)
 
  * Batalha, N (6 publications)
 
  * Demory, B (6 publications)
 
- * Bonomo, A (6 publications)
+ * Howell, S (6 publications)
+
+ * Beck, P (6 publications)
+
+ * Hirano, T (6 publications)
+
+ * Koch, D (6 publications)
+
+ * Corsaro, E (6 publications)
+
+ * Heller, R (6 publications)
+
+ * Morton, T (6 publications)
+
+ * Barclay, T (6 publications)
+
+ * Ballard, S (6 publications)
+
+ * Lee, J (6 publications)
+
+ * Mann, A (6 publications)
+
+ * Lissauer, J (6 publications)
