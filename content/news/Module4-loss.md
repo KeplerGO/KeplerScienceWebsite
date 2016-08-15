@@ -19,21 +19,20 @@ and no further interruptions are expected.
 ### Impact on GO programs
 
 For the K2 mission’s current Campaign 10, the targets that fell on Module 4 [will yield no data beyond July 20](/break-in-science-collection-during-k2-campaign-10.html).
-For all campaigns going forward, we will only allocate pixels to targets which fall on the remaining 18 operational modules.
+For all campaigns going forward, we will only allocate pixels to targets which fall on one of the remaining 18 operational modules.
 
 On average 4% of the targets requested by selected GO programs fell on the retired Module, with no single program affected by more than 20%.
 
-The pixel storage budget that would have been used by Module 4 during future campaigns will be re-allocated to other Modules, allowing the total number of
+The pixel storage budget that would have been used by Module 4 during future Campaigns will be re-allocated to other Modules, allowing the total number of
 K2 targets to remain unchanged.
-The impact on science is believed to be small as a result.
-No high-profile science targets, such as Trappist-1 or Comet Chiron, are known to be affected.
+The impact on science is expected to be small as a result.
+
+None of the high-profile targets in future Campaigns, such as Trappist-1 or Comet Chiron, are known to be affected.
 Investigators who are concerned about a particular target are encouraged to contact us at <a href="keplergo@mail.arc.nasa.gov">keplergo@mail.arc.nasa.gov</a>.
 
 
 
 ### Where is Module 4?
-
-Module 4 contains channel numbers #9, #10, #11, and #12.
 
 The ill-fated Module is located on the outside of the focal plane,
 where both the pointing stability and the point spread function are less ideal.
@@ -42,6 +41,7 @@ Its position is marked using a pen in the photograph below:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/johngizis">@johngizis</a> <a href="https://twitter.com/KeplerGO">@KeplerGO</a> the one my pen is pointing to. <a href="https://t.co/KjQ8oDoiE1">pic.twitter.com/KjQ8oDoiE1</a></p>&mdash; Erin Ryan (@erinleeryan) <a href="https://twitter.com/erinleeryan/status/762722003426091008">August 8, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+Module 4 contains channel numbers #9, #10, #11, and #12.
 
 ### K2fov update required
 
