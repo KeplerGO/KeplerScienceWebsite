@@ -27,6 +27,8 @@ The pixel storage budget that would have been used for Module 4 targets will be 
 K2 targets will remain unchanged.
 As a result, the impact to science is believed to be small.
 No high-profile science targets, such as Trappist-1 or Comet Chiron, are known to be affected.
+Investigators who are concerned about a particular target are encouraged to contact us at <a href="keplergo@mail.arc.nasa.gov">keplergo@mail.arc.nasa.gov</a>.
+
 
 
 ### Where is Module 4?
