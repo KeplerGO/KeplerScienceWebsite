@@ -23,7 +23,7 @@ For all campaigns going forward, we will only allocate pixels to targets which f
 
 On average 4% of the targets requested by selected GO programs fell on the retired Module, with no single program affected by more than 20%.
 
-The pixel storage budget that would have been used for Module 4 targets will be re-allocated to other Modules, allowing the total number of
+The pixel storage budget that would have been used by Module 4 during future campaigns will be re-allocated to other Modules, allowing the total number of
 K2 targets to remain unchanged.
 The impact on science is believed to be small as a result.
 No high-profile science targets, such as Trappist-1 or Comet Chiron, are known to be affected.
