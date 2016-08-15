@@ -19,7 +19,7 @@ The final field positions for Campaigns 14, 15, and 16 have recently
 been set based on community input.
 All investigators *must* update their version of the
 <a href="software.html#k2fov">K2fov target selection tool</a>
-to version 5.0, released on 1 Aug 2016,
+to version 5.1, released on 14 Aug 2016,
 to take the final field positions into account. 
 
 K2fov can be updated from the command line using pip:
@@ -31,7 +31,7 @@ using the following command:
 
     python -c "import K2fov; print(K2fov.__version__)"
 
-This should return "5.0.0" or higher. If the number is lower,
+This should return "5.1.0" or higher. If the number is lower,
 or if you see an error message, then your installation of K2fov is outdated.
 
 
