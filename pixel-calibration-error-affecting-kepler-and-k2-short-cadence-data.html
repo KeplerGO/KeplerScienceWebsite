@@ -7,7 +7,7 @@ in August 2015, using pelican-bootstrap and flatly.
 >
 
 <head>
-    <title>Save the date for Kepler & K2 SciCon III, June 19-23, 2017 - Kepler &amp; K2</title>
+    <title>Pixel calibration error affecting Kepler and K2 short cadence data - Kepler &amp; K2</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2016-06-01" />
+    <meta name="dc.date.modified" content="2016-02-04" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -31,19 +31,19 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="./images/favicon.png" rel="icon">
 
-<link rel="canonical" href="./save-the-date-for-kepler-k2-scicon-iii-june-19-23-2017.html">
+<link rel="canonical" href="./pixel-calibration-error-affecting-kepler-and-k2-short-cadence-data.html">
 
-        <meta name="author" content="Knicole Colon" />
-        <meta name="description" content="The Kepler &amp; K2 SciCon III: Legacy &amp; Scion will take place June 19-23, 2017, at NASA Ames Research Center in California. This conference will celebrate the legacy of the Kepler mission and will explore how the K2 mission is extending that legacy. Stay tuned for additional details!" />
+        <meta name="author" content="Geert Barentsen" />
+        <meta name="description" content="A K2 user notified the Kepler Science Center in November 2015 of a puzzling difference between the short- and long-cadence calibrated pixel data for a specific K2 target. After investigation, the problem was traced to an accounting error for the short-cadence collateral smear data. Under some conditions, these data are ..." />
 
         <meta property="og:site_name" content="Kepler &amp; K2" />
         <meta property="og:type" content="article"/>
-        <meta property="og:title" content="Save the date for Kepler &amp; K2 SciCon III, June 19-23, 2017"/>
-        <meta property="og:url" content="./save-the-date-for-kepler-k2-scicon-iii-june-19-23-2017.html"/>
-        <meta property="og:description" content="The Kepler &amp; K2 SciCon III: Legacy &amp; Scion will take place June 19-23, 2017, at NASA Ames Research Center in California. This conference will celebrate the legacy of the Kepler mission and will explore how the K2 mission is extending that legacy. Stay tuned for additional details!"/>
-        <meta property="article:published_time" content="2016-05-31" />
+        <meta property="og:title" content="Pixel calibration error affecting Kepler and K2 short cadence data"/>
+        <meta property="og:url" content="./pixel-calibration-error-affecting-kepler-and-k2-short-cadence-data.html"/>
+        <meta property="og:description" content="A K2 user notified the Kepler Science Center in November 2015 of a puzzling difference between the short- and long-cadence calibrated pixel data for a specific K2 target. After investigation, the problem was traced to an accounting error for the short-cadence collateral smear data. Under some conditions, these data are ..."/>
+        <meta property="article:published_time" content="2016-02-04" />
             <meta property="article:section" content="news" />
-            <meta property="article:author" content="Knicole Colon" />
+            <meta property="article:author" content="Geert Barentsen" />
 
 
     <!-- Bootstrap -->
@@ -134,10 +134,10 @@ in August 2015, using pelican-bootstrap and flatly.
         <article>
             <header >
                 <h1>
-                    <a href="./save-the-date-for-kepler-k2-scicon-iii-june-19-23-2017.html"
+                    <a href="./pixel-calibration-error-affecting-kepler-and-k2-short-cadence-data.html"
                        rel="bookmark"
-                       title="Permalink to Save the date for Kepler & K2 SciCon III, June 19-23, 2017">
-                        Save the date for Kepler & K2 SciCon III, June 19-23, 2017
+                       title="Permalink to Pixel calibration error affecting Kepler and K2 short cadence data">
+                        Pixel calibration error affecting Kepler and K2 short cadence data
                     </a>
                 </h1>
             </header>
@@ -145,19 +145,60 @@ in August 2015, using pelican-bootstrap and flatly.
 <p style="margin-bottom: 1.5em;">
     <span class="published categories-timestamp">
         News article posted on
-        <time datetime="2016-05-31T11:30:00-07:00"> 31 May 2016</time>
+        <time datetime="2016-02-04T13:00:00-08:00"> 04 Feb 2016</time>
     
 
 
-            by <a href="./author/knicole-colon.html">Knicole Colon</a>
+            by <a href="./author/geert-barentsen.html">Geert Barentsen</a>
 
 
 
     
 
     </span>
-</p><!-- /.post-info -->                <p>The Kepler &amp; K2 SciCon III: Legacy &amp; Scion will take place June 19-23, 2017, at NASA Ames Research Center in California.  This conference will celebrate the legacy of the Kepler mission and will explore how the K2 mission is extending that legacy.</p>
-<p>Stay tuned for additional details!</p>
+</p><!-- /.post-info -->                <p>A K2 user notified the Kepler Science Center in November 2015 of a puzzling
+difference between the short- and long-cadence calibrated pixel data
+for a specific K2 target.</p>
+<p>After investigation, the problem was traced to an accounting error
+for the short-cadence collateral smear data.
+Under some conditions, these data are passed incorrectly
+between the spacecraft and the ground, causing smear values to be
+assigned to the wrong columns within a target’s aperture.</p>
+<p>In these cases, the pipeline’s pixel-level calibration routine
+applies an erroneous smear correction that impacts all releases to date
+(i.e., Kepler Data Releases 1-24 and K2 Data Releases for Campaigns 0-5).</p>
+<h2 id="impact">Impact</h2>
+<p>Since the smear signal is often small compared to the target signal,
+the effect is negligible for many targets.
+However, the smear signal is scene-dependent,
+so time-varying signals can be introduced into an affected target
+by the other stars falling on the same CCD column.</p>
+<p>To assess the impact on affected targets,
+users should inspect the calibrated target pixels
+(see Section 2.3.2 of the Kepler Archive Manual).
+An improperly corrected smear signal may show up as an anomalously bright,
+or dark, column in the calibrated target pixel image (cf Figure 1).</p>
+<p>Comparison of the short-cadence pixel image with the long-cadence pixel image
+(which is not affected by this problem)
+can be used to estimate the magnitude of any contaminating signal.</p>
+<h2 id="solution">Solution</h2>
+<p>A solution for the issue has been implemented in the pipeline
+and all the affected data sets will be reprocessed and corrected as follows:</p>
+<ul>
+<li>K2 processing will be corrected starting with Campaign 6. (The release of Campaign 6 short cadence data is delayed by approximately two weeks as a result.)</li>
+<li>Reprocessing of K2 Campaigns 0-5 will occur over the coming months, dates to be confirmed.</li>
+<li>Data from the prime Kepler mission will be corrected as part of the already planned reprocessing with pipeline release 9.3 (DR25). Calibrated target pixel files are expected to be available in Summer, 2016.</li>
+</ul>
+<p>Some tips on how to assess the severity of the calibration error are
+provided below.</p>
+<p>Since the data cannot be reprocessed immediately,
+the project has identified all
+affected targets (see Section 4). To assess the impact on affected targets, users should
+inspect the calibrated target pixels (see Section 2.3.2 of the Kepler Archive Manual).
+An improperly corrected smear signal may show up as an anomalously bright, or
+dark, column in the calibrated target pixel image (cf Figure 1). Comparison of the
+short-cadence pixel image with the long-cadence pixel image (which is not affected
+by this problem) can be used to estimate the magnitude of any contaminating signal.</p>
             </div>
             <!-- /.entry-content -->
         </article>
@@ -206,7 +247,7 @@ in August 2015, using pelican-bootstrap and flatly.
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Tue 31 May 2016
+         Last modified: Thu 04 February 2016
             &middot; Editor: Thomas Barclay &middot; NASA Official: Jessie Dotson 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
