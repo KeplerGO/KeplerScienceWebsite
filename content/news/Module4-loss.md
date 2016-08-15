@@ -33,7 +33,9 @@ Investigators who are concerned about a particular target are encouraged to cont
 
 ### Where is Module 4?
 
-Module 4 is located on the outside of the focal plane,
+Module 4 contains channel numbers #9, #10, #11, and #12.
+
+The ill-fated Module is located on the outside of the focal plane,
 where both the pointing stability and the point spread function are less ideal.
 Its position is marked using a pen in the photograph below:
 
