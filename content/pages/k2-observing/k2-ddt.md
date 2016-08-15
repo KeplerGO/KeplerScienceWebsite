@@ -39,8 +39,7 @@ The fixed locations and observing windows of Campaigns 11, 12, and 13 are provid
 ### DDT Proposal Submission Form 
 <a name="submissionform"></a>
 
-<script type="text/javascript" src="http://form.jotform.us/jsform/52528572176158"></script>
-
+<script type="text/javascript" src="https://form.jotform.com/jsform/52528572176158"></script>
 
 
 
