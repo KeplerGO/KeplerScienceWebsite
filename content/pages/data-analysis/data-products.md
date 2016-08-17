@@ -100,8 +100,7 @@ Kepler long cadence (30-min) images and light curves are stored in files that
 span a quarter. Short cadence (1-min) images and light curves are
 stored in files that span a month.
 
-The latest data release notes describe [Data Release 24 for Quarters
-0-17](https://archive.stsci.edu/kepler/release_notes/release_notes24/KSCI-19064-002DRN24.pdf).  [Earlier release notes for individual quarters can be found at MAST](https://archive.stsci.edu/kepler/data_release.html).
+[All Kepler data release notes can be found at MAST](https://archive.stsci.edu/kepler/data_release.html). 
 
 <table class="table table-striped table-hover" style="max-width:40em;">
   <thead>
