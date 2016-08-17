@@ -39,9 +39,8 @@ The fixed locations and observing windows of Campaigns 11, 12, and 13 are provid
 ### DDT Proposal Submission Form 
 <a name="submissionform"></a>
 
-
 <script src="https://cdn.jotfor.ms/static/prototype.forms.js" type="text/javascript"></script>
-<script src="https://cdn.jotfor.ms/static/jotform.forms.js?3.3.14507" type="text/javascript"></script>
+<script src="https://cdn.jotfor.ms/static/jotform.forms.js?3.3.14545" type="text/javascript"></script>
 <script type="text/javascript">
    JotForm.init(function(){
       setTimeout(function() {
@@ -51,9 +50,9 @@ The fixed locations and observing windows of Campaigns 11, 12, and 13 are provid
 	JotForm.onSubmissionError="jumpToSubmit";
    });
 </script>
-<link href="https://cdn.jotfor.ms/static/formCss.css?3.3.14507" rel="stylesheet" type="text/css" />
-<link type="text/css" rel="stylesheet" href="https://cdn.jotfor.ms/css/styles/nova.css?3.3.14507" />
-<link type="text/css" media="print" rel="stylesheet" href="https://cdn.jotfor.ms/css/printForm.css?3.3.14507" />
+<link href="https://cdn.jotfor.ms/static/formCss.css?3.3.14545" rel="stylesheet" type="text/css" />
+<link type="text/css" rel="stylesheet" href="https://cdn.jotfor.ms/css/styles/nova.css?3.3.14545" />
+<link type="text/css" media="print" rel="stylesheet" href="https://cdn.jotfor.ms/css/printForm.css?3.3.14545" />
 <style type="text/css">
     .form-label-left{
         width:150px !important;
@@ -538,13 +537,31 @@ li[data-type="control_image"] img {
       <li class="form-line" data-type="control_fileupload" id="id_1">
         <label class="form-label form-label-left form-label-auto" id="label_1" for="input_1"> Proposal </label>
         <div id="cid_1" class="form-input jf-required">
-          <input class="form-upload" type="file" id="input_1" name="q1_proposal1" file-accept="pdf, doc, docx, xls, xlsx, csv, txt, rtf, html, zip, mp3, wma, mpg, flv, avi, jpg, jpeg, png, gif" file-maxsize="1024" file-minsize="0" file-limit="0" />
+          <input class="form-upload" type="file" id="input_1" name="q1_proposal1" file-accept="pdf, doc, docx, xls, xlsx, csv, txt, rtf, html, zip, mp3, wma, mpg, flv, avi, jpg, jpeg, png, gif" file-maxsize="2048" file-minsize="0" file-limit="0" />
         </div>
       </li>
-      <li class="form-line" data-type="control_fileupload" id="id_3">
-        <label class="form-label form-label-left form-label-auto" id="label_3" for="input_3"> Target Table </label>
-        <div id="cid_3" class="form-input jf-required">
-          <input class="form-upload" type="file" id="input_3" name="q3_targetTable3" file-accept="pdf, doc, docx, xls, xlsx, csv, txt, rtf, html, zip, mp3, wma, mpg, flv, avi, jpg, jpeg, png, gif" file-maxsize="1024" file-minsize="0" file-limit="0" />
+      <li class="form-line" data-type="control_fileupload" id="id_12">
+        <label class="form-label form-label-left form-label-auto" id="label_12" for="input_12"> C11 Target Table </label>
+        <div id="cid_12" class="form-input jf-required">
+          <input class="form-upload" type="file" id="input_12" name="q12_c11Target" file-accept="pdf, doc, docx, xls, xlsx, csv, txt, rtf, html, zip, mp3, wma, mpg, flv, avi, jpg, jpeg, png, gif" file-maxsize="2048" file-minsize="0" file-limit="0" />
+        </div>
+      </li>
+      <li class="form-line" data-type="control_fileupload" id="id_13">
+        <label class="form-label form-label-left form-label-auto" id="label_13" for="input_13"> C12 Target Table </label>
+        <div id="cid_13" class="form-input jf-required">
+          <input class="form-upload" type="file" id="input_13" name="q13_c12Target" file-accept="pdf, doc, docx, xls, xlsx, csv, txt, rtf, html, zip, mp3, wma, mpg, flv, avi, jpg, jpeg, png, gif" file-maxsize="2048" file-minsize="0" file-limit="0" />
+        </div>
+      </li>
+      <li class="form-line" data-type="control_fileupload" id="id_14">
+        <label class="form-label form-label-left form-label-auto" id="label_14" for="input_14"> C13 Target Table </label>
+        <div id="cid_14" class="form-input jf-required">
+          <input class="form-upload" type="file" id="input_14" name="q14_c13Target" file-accept="pdf, doc, docx, xls, xlsx, csv, txt, rtf, html, zip, mp3, wma, mpg, flv, avi, jpg, jpeg, png, gif" file-maxsize="2048" file-minsize="0" file-limit="0" />
+        </div>
+      </li>
+      <li class="form-line" data-type="control_textbox" id="id_16">
+        <label class="form-label form-label-left form-label-auto" id="label_16" for="input_16"> Cycle </label>
+        <div id="cid_16" class="form-input jf-required">
+          <input type="text" readonly="readonly" tabindex=-1 class="form-readonly  form-textbox" data-type="input-textbox" id="input_16" name="q16_cycle" size="20" value="4" />
         </div>
       </li>
       <li class="form-line" data-type="control_button" id="id_2">
@@ -568,5 +585,3 @@ li[data-type="control_image"] img {
   </script>
 </form>
 <script type="text/javascript">JotForm.ownerView=true;</script>
-
-
