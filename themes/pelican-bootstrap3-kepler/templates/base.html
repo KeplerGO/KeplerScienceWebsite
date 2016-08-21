@@ -76,6 +76,9 @@ in August 2015, using pelican-bootstrap and flatly.
     {# Twitter Cards tags #}
     {% include 'includes/twitter_cards.html' %}
 
+    <!-- Why use Helvetica Neue when you can have Lato? -->
+    <link href="{{ SITEURL }}/theme/css/lato.css" rel="stylesheet">
+
     <!-- Bootstrap -->
     {% if BOOTSTRAP_THEME %}
         <link rel="stylesheet" href="{{ SITEURL }}/theme/css/bootstrap.{{ BOOTSTRAP_THEME }}.min.css" type="text/css"/>
