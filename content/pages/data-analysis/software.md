@@ -146,6 +146,16 @@ Below is a non-exhaustive list of community tools, presented in alphabetical ord
 </tr>
 
 <tr>
+    <td><a href="http://lcps.readthedocs.io">lcps</a></td>
+    <td>
+        Search for transit-like features in Kepler/K2 data.
+    </td>
+    <td>
+        <a href="http://lcps.readthedocs.io">lcps.readthedocs.io</a>
+    </td>
+</tr>
+
+<tr>
     <td><a href="https://github.com/hpparvi/PyTransit">pytransit</a></td>
     <td>
         Exoplanet transit light curve modelling with Python.
