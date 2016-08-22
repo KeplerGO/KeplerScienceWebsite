@@ -189,7 +189,7 @@ in August 2015, using pelican-bootstrap and flatly.
                 </div>
                 <span class="categories-timestamp"><time datetime="2016-08-21T11:00:00-07:00">21 Aug 2016</time></span>  
                 <div class="summary entry-content" style="padding-top: 0.5em; "><p>The 21st International Microlensing Conference—entitled "Ushering in the New Age of Microlensing from Space"—will take place on February 1–3, 2017, in Pasadena, California.</p>
-<p>The conference intends to highlight breaking results from <a href="/k2-c9.html">K2's Campaign 9</a>, a combined ground- and space-based microlensing survey that was carried out using ...</p>
+<p>The conference intends to highlight results from <a href="/k2-c9.html">K2's Campaign 9</a>, a combined ground- and space-based microlensing survey that was carried out using the ...</p>
                     <a class="btn btn-default btn-xs" href="./21st-microlensing-conference-february-1-3-2017.html">More &raquo;</a>
                 </div>
             </article>
@@ -335,7 +335,7 @@ which will be available later this week.</p>
 <!-- Key information panel -->
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h4 class="panel-title"><i class="fa fa-paperclip fa-lg"></i><span class="icon-label">Key information</span></h3>
+    <h4 class="panel-title"><i class="fa fa-paperclip fa-lg"></i><span class="icon-label">Key information</span></h4>
   </div>
   <div class="panel-body entry-content">
     <ul class="list-group">
@@ -433,6 +433,34 @@ which will be available later this week.</p>
   </div>
 </div>
 
+<!-- Dashboard -->
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h4 class="panel-title"><i class="fa fa-dashboard fa-lg"></i><span class="icon-label">Science dashboard</span></h4>
+  </div>
+  <div class="panel-body entry-content">
+    <ul class="list-group">
+      <li class="list-group-item">
+          <b>Kepler</b><br>
+          Candidate planets: <span id="kepler_candidates_count"></span><br>
+          Confirmed planets: <span id="kepler_confirmed_count"></span><br>
+          Papers: <span id="kepler_count"></span>
+      </li>
+      <li class="list-group-item">
+          <b>K2</b><br>
+          Candidate planets: <span id="k2_candidates_count"></span><br>
+          Confirmed planets: <span id="k2_confirmed_count"></span><br>
+          Papers: <span id="k2_count"></span>
+      </li>
+      <!--
+      <li class="list-group-item">
+        <a href="/dashboard">View more stats &raquo;</a>
+      </li>
+      -->
+    </ul>
+  </div>
+</div>
+
 <!-- Twitter panel -->
 <div>
   <!-- Code provided by Twitter: -->  
@@ -520,5 +548,22 @@ which will be available later this week.</p>
 <script language="javascript" id="_fed_an_ua_tag" src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA&subagency=ARC&dclink=true"></script>
 
 
+    <script>
+    var url = "https://cdn.rawgit.com/barentsen/kepler-dashboard/master/kepler-dashboard.json";
+    $.ajax({
+        type: 'GET',
+        dataType: 'json',
+        crossDomain: true,
+        url: url,
+        success: function (resp, textStatus, jqXHR) {
+           $('#kepler_candidates_count').text(resp.planets.kepler_candidates_count.toLocaleString('en-US'));
+           $('#kepler_confirmed_count').text(resp.planets.kepler_confirmed_count.toLocaleString('en-US'));
+           $('#k2_candidates_count').text(resp.planets.k2_candidates_count.toLocaleString('en-US'));
+           $('#k2_confirmed_count').text(resp.planets.k2_confirmed_count.toLocaleString('en-US'));
+           $('#kepler_count').text(resp.publications.kepler_count.toLocaleString('en-US'));
+           $('#k2_count').text(resp.publications.k2_count.toLocaleString('en-US'));
+        }
+    });
+    </script>
 </body>
 </html>
