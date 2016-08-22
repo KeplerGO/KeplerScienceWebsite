@@ -116,15 +116,18 @@ IMPORTANT_DATES = (
 
 # Defines the "meetings" box on the front page
 MEETINGS = (
-            ('<b>16-21 Oct 2016</b><br>'
-             'Kepler/K2 Booth @ DPS 48 / EPSC 11',
+            ('<b>16–21 Oct 2016</b><br>'
+             'Kepler/K2 Booth at DPS 48',
              'https://dps.aas.org/'),
-            ('<b>3-7 Jan 2017</b><br>'
-             'Kepler/K2 Booth & Sessions @ AAS 229',
+            ('<b>3–7 Jan 2017</b><br>'
+             'Kepler/K2 Booth & Sessions at AAS 229',
              'https://aas.org/meetings/aas229'),
-            ('<b>19-23 Jun 2017</b><br>'
-             'Kepler & K2 SciCon IV: Legacy & Scion',
-             '/save-the-date-for-kepler-k2-scicon-iv-june-19-23-2017.html') 
+            ('<b>1–3 Feb 2017</b><br>'
+             '21st Microlensing Conference',
+             'http://nexsci.caltech.edu/conferences/2017/microlensing/'),
+            ('<b>19–23 Jun 2017</b><br>'
+             'Kepler & K2 SciCon IV',
+             '/save-the-date-for-kepler-k2-scicon-iv-june-19-23-2017.html'),
             )
 
 # Defines the "related websites" listing in the footer of all pages
