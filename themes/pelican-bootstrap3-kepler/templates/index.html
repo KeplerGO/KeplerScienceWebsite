@@ -80,7 +80,7 @@
 <!-- Key information panel -->
 <div class="panel panel-default">
   <div class="panel-heading">
-    <h4 class="panel-title"><i class="fa fa-paperclip fa-lg"></i><span class="icon-label">Key information</span></h3>
+    <h4 class="panel-title"><i class="fa fa-paperclip fa-lg"></i><span class="icon-label">Key information</span></h4>
   </div>
   <div class="panel-body entry-content">
     <ul class="list-group">
@@ -136,6 +136,34 @@
   </div>
 </div>
 
+<!-- Dashboard -->
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h4 class="panel-title"><i class="fa fa-dashboard fa-lg"></i><span class="icon-label">Science dashboard</span></h4>
+  </div>
+  <div class="panel-body entry-content">
+    <ul class="list-group">
+      <li class="list-group-item">
+          <b>Kepler</b><br>
+          Candidate planets: <span id="kepler_candidates_count"></span><br>
+          Confirmed planets: <span id="kepler_confirmed_count"></span><br>
+          Papers: <span id="kepler_count"></span>
+      </li>
+      <li class="list-group-item">
+          <b>K2</b><br>
+          Candidate planets: <span id="k2_candidates_count"></span><br>
+          Confirmed planets: <span id="k2_confirmed_count"></span><br>
+          Papers: <span id="k2_count"></span>
+      </li>
+      <!--
+      <li class="list-group-item">
+        <a href="/dashboard">View more stats &raquo;</a>
+      </li>
+      -->
+    </ul>
+  </div>
+</div>
+
 <!-- Twitter panel -->
 <div>
   <!-- Code provided by Twitter: -->  
@@ -161,3 +189,24 @@
 
 </div>
 {% endblock core %}
+
+
+{% block scripts %}
+    <script>
+    var url = "https://cdn.rawgit.com/barentsen/kepler-dashboard/master/kepler-dashboard.json";
+    $.ajax({
+        type: 'GET',
+        dataType: 'json',
+        crossDomain: true,
+        url: url,
+        success: function (resp, textStatus, jqXHR) {
+           $('#kepler_candidates_count').text(resp.planets.kepler_candidates_count.toLocaleString('en-US'));
+           $('#kepler_confirmed_count').text(resp.planets.kepler_confirmed_count.toLocaleString('en-US'));
+           $('#k2_candidates_count').text(resp.planets.k2_candidates_count.toLocaleString('en-US'));
+           $('#k2_confirmed_count').text(resp.planets.k2_confirmed_count.toLocaleString('en-US'));
+           $('#kepler_count').text(resp.publications.kepler_count.toLocaleString('en-US'));
+           $('#k2_count').text(resp.publications.k2_count.toLocaleString('en-US'));
+        }
+    });
+    </script>
+{% endblock %}
