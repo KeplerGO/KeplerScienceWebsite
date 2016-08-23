@@ -189,22 +189,22 @@ in August 2015, using pelican-bootstrap and flatly.
 
   <div class='metric-inner'>
     <div class="icon"><i class="fa fa-globe" aria-hidden="true"></i></div>            
-    <h3>4,696</h3>
+    <h3 id='kepler_candidates_count'></h3>
     <p>Kepler planet candidates</p>
   </div>
   <div class='metric-bottom'>
-    2,330 Confirmed
+    <span id='kepler_confirmed_count'></span> Confirmed
   </div>
 </div>
 
 <div class="col-xs-3 metric">
   <div class='metric-inner'>   
-    <div class="icon"><i class="fa fa-globe" aria-hidden="true"></i></div>
-    <h3>458</h3>
+    <div class="icon"><i class="fa fa-globe" aria-hidden="true"></i></div>     
+    <h3 id='k2_candidates_count'></h3>
     <p>K2 planet candidates</p>
   </div>
   <div class='metric-bottom'>
-    129 Confirmed
+    <span id='k2_confirmed_count'></span> Confirmed
   </div>
 </div>
 
@@ -214,7 +214,7 @@ in August 2015, using pelican-bootstrap and flatly.
 <div class="col-md-3 metric">
   <div class='metric-inner'>
     <div class="icon"><i class="fa fa-file-text-o" aria-hidden="true"></i></div>            
-    <h3>1,889</h3>
+    <h3 id='publication_count'></h3>
     <p>Total publications</p>
   </div>
   <div class='metric-bottom'>
@@ -225,7 +225,7 @@ in August 2015, using pelican-bootstrap and flatly.
 <div class="col-md-3 metric">
   <div class='metric-inner'>
     <div class="icon"><i class="fa fa-comment-o" aria-hidden="true"></i></div>            
-    <h3>47,119</h3>
+    <h3 id='citation_count'></h3>
     <p>Total citations</p>
   </div>
   <div class='metric-bottom'>
@@ -238,23 +238,48 @@ in August 2015, using pelican-bootstrap and flatly.
 <div class="col-md-3 metric">
   <div class='metric-inner'>
     <div class="icon"><i class="fa fa-user" aria-hidden="true"></i></div>            
-    <h3>3,496</h3>
+    <h3 id='author_count'></h3>
     <p>Unique paper authors</p>
   </div>
   <div class='metric-bottom'>
-    927 unique first authors
+    <span id='first_author_count'></span> unique first authors
   </div>
 </div>
 <div class="col-md-3 metric">
   <div class='metric-inner'>   
     <div class="icon"><i class="fa fa-twitter" aria-hidden="true"></i></div>     
-    <h3>575,043</h3>
+    <h3 id='twitter_followers'></h3>
     <p>Twitter followers</p>
   </div>
   <div class='metric-bottom'>
     For @NASAKepler and @KeplerGO
   </div>
 </div>
+</div>
+
+<script>
+// We need to wait for jquery to load
+window.addEventListener('load', function() {
+    var url = "kepler-dashboard.json";
+    $.ajax({
+        type: 'GET',
+        dataType: 'json',  //use jsonp data type in order to perform cross domain ajax
+        crossDomain: true,
+        url: url,
+        success: function (resp, textStatus, jqXHR) {
+           $('#kepler_candidates_count').text(resp.planets.kepler_candidates_count.toLocaleString('en-US'));
+           $('#kepler_confirmed_count').text(resp.planets.kepler_confirmed_count.toLocaleString('en-US'));
+           $('#k2_candidates_count').text(resp.planets.k2_candidates_count.toLocaleString('en-US'));
+           $('#k2_confirmed_count').text(resp.planets.k2_confirmed_count.toLocaleString('en-US'));
+           $('#publication_count').text(resp.publications.publication_count.toLocaleString('en-US'));
+           $('#author_count').text(resp.publications.author_count.toLocaleString('en-US'));
+           $('#first_author_count').text(resp.publications.first_author_count.toLocaleString('en-US'));
+           $('#citation_count').text(resp.publications.citation_count.toLocaleString('en-US'));
+           $('#twitter_followers').text(resp.twitter.followers_count.toLocaleString('en-US'));
+        }
+    });
+}, false);
+</script>
             </div>
         </section>
     </div>

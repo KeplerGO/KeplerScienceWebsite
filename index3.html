@@ -568,8 +568,9 @@ will cover roughly 100 square degrees at ...</p>
 <script language="javascript" id="_fed_an_ua_tag" src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA&subagency=ARC&dclink=true"></script>
 
 
+    <!-- Fetch the latest Kepler/K2 Science Dashboard numbers. -->
     <script>
-    var url = "https://cdn.rawgit.com/barentsen/kepler-dashboard/master/kepler-dashboard.json";
+    var url = "dashboard/kepler-dashboard.json";
     $.ajax({
         type: 'GET',
         dataType: 'json',
