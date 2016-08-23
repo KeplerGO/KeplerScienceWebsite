@@ -9,10 +9,11 @@ Test URL: http://keplergo.github.io/KeplerScienceWebsite/
 
 ## Usage
 
-When working on your local copy of the website, use:
+The website's content is stored as a set of MarkDown-formatted text files in the `content/` directory.
+After editing those content files, you can compile a local preview copy of the website using one of the following commands:
 * `make html` to create a full local build of the website under `output/`.
-* `make quick` for a quick local build of pages that have changed (this is way faster than `make html` but causes the frontpage to be empty).
-* `make devserver` to start a development webserver on your local machine at `http://localhost:8000`, which will auto-compile a page when you make a change (this too causes the frontpage to be empty).
+* `make quick` for a quick build of pages that have changed.  This is faster than `make html` but it causes the frontpage to be empty.
+* `make devserver` to start a development webserver on your local machine at `http://localhost:8000` which will auto-compile a page when you make a change. This too causes the frontpage to be empty unless you call `make html`.
 
 When you are ready to upload the website, use:
 * `make github` to deploy the website to the [Test URL](http://keplergo.github.io/KeplerScienceWebsite/).
