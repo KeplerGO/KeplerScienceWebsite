@@ -10,16 +10,18 @@ Test URL: http://keplergo.github.io/KeplerScienceWebsite/
 ## Usage
 
 The website's content is stored as a set of MarkDown-formatted text files in the `content/` directory.
-After editing those content files, you can compile a local preview copy of the website using one of the following commands:
+Changes are to be made directly in those files.
+After editing a content file, you can compile a local preview copy of the website in HTML format
+using one of the following commands:
 * `make html` to create a full local build of the website under `output/`.
 * `make quick` for a quick build of pages that have changed.  This is faster than `make html` but it causes the frontpage to be empty.
-* `make devserver` to start a development webserver on your local machine at `http://localhost:8000` which will auto-compile a page when you make a change. This too causes the frontpage to be empty unless you call `make html`.
+* `make devserver` to start a development webserver on your local machine at `http://localhost:8000`, which will auto-compile a page when you make a change. This too causes the frontpage to be empty unless you call `make html`.
 
 When you are ready to upload the website, use:
 * `make github` to deploy the website to the [Test URL](http://keplergo.github.io/KeplerScienceWebsite/).
 * `make live` to deploy the website to the [Live URL](http://keplerscience.arc.nasa.gov).
 
-Note: `make quick` and `make devserver` both use agressive caching which allows the website to be built quickly, but causes the listing of news items on the front page to be empty.  Use `make html` for a full preview. Calling `make github` or `make live` automatically trigger such a full build.
+Note: `make quick` and `make devserver` both use agressive caching which allows the website to be built quickly, but causes the listing of news items to be missing from the front page (`output/index.html`).  You need to call `make html` if you care about a preview of the front page. Calling `make github` or `make live` automatically triggers `make html`.
 
 ## Installation instructions
 
