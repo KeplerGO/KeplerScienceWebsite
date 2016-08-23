@@ -7,7 +7,13 @@ import datetime
 # If `DEVMODE = True`, show a red warning banner at the top
 DEVMODE = False   # pelicanconf-dev.py will override this
 
+# By default, use agressive caching.
+# The Makefile ensures we use `--ignore-cache` for production builds.
 CACHE_CONTENT = True
+LOAD_CONTENT_CACHE = True
+CHECK_MODIFIED_METHOD = 'mtime'
+CONTENT_CACHING_LAYER = 'generator'  # This causes an empty news page
+WITH_FUTURE_DATES = False
 
 ANALYTICS = ()   # pelicanconf-live.py will override this
 

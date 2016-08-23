@@ -9,12 +9,14 @@ Test URL: http://keplergo.github.io/KeplerScienceWebsite/
 
 ## Usage
 
+* `make quick` to build any changes.
 * `make html` to build a static HTML version of the website.
 * `make devserver` to start a development webserver on your local machine,
 and the point your browser to `localhost:8000`.
 * `make github` to deploy the website to the [Test URL](http://keplergo.github.io/KeplerScienceWebsite/).
 * `make live` to deploy the website to the [Live URL](http://keplerscience.arc.nasa.gov).
 
+***Note**: `make quick` and `make devserver` both use agressive caching which allows the website to be built quickly, but causes the listing of news items to be empty.  If you want to preview the full version without agressive caching, call `make html`.
 
 ## Installation instructions
 

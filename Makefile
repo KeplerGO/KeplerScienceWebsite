@@ -27,7 +27,8 @@ help:
 	@echo 'Makefile for a pelican Web site                                        '
 	@echo '                                                                       '
 	@echo 'Usage:                                                                 '
-	@echo '   make html                        generate for local use             '
+	@echo '   make quick                       generate locally with caching (news listing will be empty)'
+	@echo '   make html                        generate locally                   '
 	@echo '   make html-dev                    generate for github.io dev server  '
 	@echo '   make html-live                   generate for production web server '
 	@echo '   make clean                       remove the generated files         '
@@ -43,14 +44,17 @@ help:
 	@echo 'Set DEBUG to 1 to enable Pelican debugging, e.g. make DEBUG=1 html     '
 	@echo '                                                                       '
 
-html:
+quick:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
+html:
+	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS) --ignore-cache
+
 html-dev:
-	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(DEVCONF) $(PELICANOPTS)
+	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(DEVCONF) $(PELICANOPTS) --ignore-cache
 
 html-live:
-	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(LIVECONF) $(PELICANOPTS)
+	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(LIVECONF) $(PELICANOPTS) --ignore-cache
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
