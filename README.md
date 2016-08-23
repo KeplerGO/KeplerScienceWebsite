@@ -7,11 +7,24 @@ Live URL: http://keplerscience.arc.nasa.gov
 Test URL: http://keplergo.github.io/KeplerScienceWebsite/
 
 
-## Usage
+## Instructions for website editors
 
-The website's content is stored as a set of MarkDown-formatted text files in the `content/` directory.
+### Installation
+
+Before editing and compiling the website, you will need to ensure that the `pelican`, `markdown`, `beautifulsoup4`, and `ghp-import` Python packages are installed, e.g. using:
+```
+pip install pelican markdown beautifulsoup4 ghp-import
+```
+
+If `markdown` is not installed you may get a very cryptic warning message (`"No valid files found in content."`) when running `make html` below.
+
+
+### Editing and compiling the website
+
+The website's contents are stored as a collection of MarkDown-formatted text files in the `content/` directory.
 Changes are to be made directly in those files.
-After editing a content file, you can compile a local preview copy of the website in HTML format
+
+After editing the content, you can compile a local preview of the website in HTML format
 using one of the following commands:
 * `make html` to create a full local build of the website under `output/`.
 * `make quick` for a quick build of pages that have changed.  This is faster than `make html` but it causes the frontpage to be empty.
@@ -23,17 +36,8 @@ When you are ready to upload the website, use:
 
 Note: `make quick` and `make devserver` both use agressive caching which allows the website to be built quickly, but causes the listing of news items to be missing from the front page (`output/index.html`).  You need to call `make html` if you care about a preview of the front page. Calling `make github` or `make live` automatically triggers `make html`.
 
-## Installation instructions
 
-You will need to ensure that `pelican`, `markdown`, `beautifulsoup4`, and `ghp-import` are installed, e.g. using:
-```
-pip install pelican markdown beautifulsoup4 ghp-import
-```
-
-If `markdown` is not installed, you may get a very cryptic warning message (`"No valid files found in content."`) when running `make html`.
-
-
-# Layout and html elements
+### Layout and html elements
 
 The website's theme is based on the `flatly` bootstrap theme.
 This means that you can use all the html elements and classes
