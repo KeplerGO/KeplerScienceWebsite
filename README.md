@@ -9,13 +9,16 @@ Test URL: http://keplergo.github.io/KeplerScienceWebsite/
 
 ## Usage
 
-* `make quick` for a quick build of pages that have changed (fast but causes the frontpage to be empty).
-* `make html` for full local build of the website (slow but builds the frontpage properly).
-* `make devserver` to start a development webserver on your local machine at `http://localhost:8000`, which will auto-compile a page when you make a change (causing the frontpage to be empty).
+When working on your local copy of the website, use:
+* `make html` to create a full local build of the website under `output/`.
+* `make quick` for a quick local build of pages that have changed (this is way faster than `make html` but causes the frontpage to be empty).
+* `make devserver` to start a development webserver on your local machine at `http://localhost:8000`, which will auto-compile a page when you make a change (this too causes the frontpage to be empty).
+
+When you are ready to upload the website, use:
 * `make github` to deploy the website to the [Test URL](http://keplergo.github.io/KeplerScienceWebsite/).
 * `make live` to deploy the website to the [Live URL](http://keplerscience.arc.nasa.gov).
 
-***Note***: `make quick` and `make devserver` both use agressive caching which allows the website to be built quickly, but causes the listing of news items on the front page to be empty.  Use `make html` for a full preview. Calling `make github` or `make live` will automatically trigger such a full build.
+Note: `make quick` and `make devserver` both use agressive caching which allows the website to be built quickly, but causes the listing of news items on the front page to be empty.  Use `make html` for a full preview. Calling `make github` or `make live` automatically trigger such a full build.
 
 ## Installation instructions
 
