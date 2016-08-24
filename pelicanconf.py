@@ -113,7 +113,7 @@ IMPORTANT_DATES = (
              'K2 GO Cycle 5 Step-1 Deadline for Campaign 14-15-16 Targets',
              'k2-proposing-targets.html#solicitations'),
             ('<b>04 Nov 2016</b>',
-             'K2 GO Cycle 5 Step-2 Deadline',
+             'K2 GO Cycle 5 Step-2 Deadline for Campaign 14-15-16 Targets',
              'k2-proposing-targets.html#solicitations'),
             ('<b>10 Nov 2016</b>',
              'K2 Campaign 13 DDT proposal deadline',
