@@ -291,21 +291,6 @@ This page details the previous, current, and future K2 Campaign fields.
       </td>
       <td>Upper Sco, GW Lib, HP Lib</td>
     </tr>
-    <tr>
-      <td><a href="#c16">16</a></td>
-      <td>2017 Nov 19</td>
-      <td>2018 Jan 28</td>
-      <td>2018 Apr 01</td>
-      <td>21:21:58</td>
-      <td>-16:36:30</td>
-      <td class="text-center"> 
-        
-      </td>
-      <td class="text-center">
-        
-      </td>
-      <td>Comet 29P, WASP-70, WASP-89</td>
-    </tr>
   </tdata>
 </table>
 
@@ -349,6 +334,14 @@ fields by emailing us at [keplergo@mail.arc.nasa.gov](keplergo@mail.arc.nasa.gov
   </thead>
   <tdata>
     <tr>
+      <td>16<sup>††</sup></td>
+      <td>2017 Nov</td>
+      <td>2018 Jan</td>
+      <td>8:50</td>
+      <td>+17:00</td>
+      <td>Forward-facing</td>
+    </tr>
+    <tr>
       <td>17<sup>††</sup></td>
       <td>2018 Feb 1</td>
       <td>2018 Apr 22</td>
@@ -370,7 +363,7 @@ fields by emailing us at [keplergo@mail.arc.nasa.gov](keplergo@mail.arc.nasa.gov
 <b><sup>†</sup>Note:</b> the dates shown are the <i>earliest possible</i> start dates, and the <i>latest possible</i> end dates.  The feasible date ranges of these campaigns overlap slightly to allow for some flexibility
 in the final choice of dates and positions.</p>
 <p>
-<b><sup>††</sup>Note:</b> field 17 is proposed to be a forward-facing campaign (+VV), enabling simultaneous observations to be made from the ground
+<b><sup>††</sup>Note:</b> fields 16 and 17 are proposed to be forward-facing campaigns (+VV), enabling simultaneous observations to be made from the ground
 during the campaign.
 </p>
 
@@ -480,18 +473,6 @@ You can learn more about the installation and usage of these tools [on the softw
     <a href="images/campaign_selected/field15-final.png"><img class="img-responsive" src="images/campaign_selected/field15-final.png"></a>
   </div>
 </div>
-
-<div class="row">
-  <div class="col-lg-6">
-    <b id="c16">Campaign 16</b>
-    <a href="images/campaign_selected/field16-final.png"><img class="img-responsive" src="images/campaign_selected/field16-final.png"></a>
-  </div>
-  <div class="col-lg-6">
-
-
-  </div>
-</div>
-
 
 <hr/>
 
