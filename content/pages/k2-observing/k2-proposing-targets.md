@@ -109,8 +109,8 @@ Pointed observations away from the single stare position of any given field
 cannot be accommodated by K2; Campaign targets are limited to the objects 
 available in <a href="k2-fields.html">the fixed field of view</a>. 
 
-Small gaps between the 42 detector CCDs result in additional loss 
-of available objects that would otherwise be within the Kepler field of view. 
+Small gaps between the 42 detector CCDs as well as the three dead modules result in additional loss 
+of available objects that would otherwise be within the field of view. 
 A <a href="http://archive.stsci.edu/k2/epic/search.php">documented target search tool at MAST</a> determines if an object of a particular coordinate 
 lies close to the observable field of view. 
 
@@ -130,7 +130,7 @@ targets with high proper motion should also be noted by the proposer.
 
 Determining whether or not desired targets fall on active regions 
 of the focal plane is also the responsibility of the proposer. 
-The Kepler Science Center provides a tool called
+The Kepler & K2 Science Center provides a tool called
 [K2fov](software.html#k2fov)
 to identify which targets fall upon active silicon. 
 Only those targets within the active fields of view should be proposed.
@@ -158,7 +158,8 @@ All proposals for targets are required to include a target table
 in a pre-defined format to specify desired observing modes 
 and other needed parameters. 
 
-The target tables generally provide all the information required by the Kepler Science Center to incorporate GO sources within the observing list. Table fields are described below with an example. If a proposal includes targets within multiple campaign fields, then a separate target table should be prepared for each field.
+The target tables generally provide all the information required by
+the Kepler & K2 Science Center to incorporate GO sources within the observing list. Table fields are described below with an example. If a proposal includes targets within multiple campaign fields, then a separate target table should be prepared for each field.
 
 An example of a valid target table is shown in the image below. <a
 href="data/K2/K2-2-propnum-PI.xls">The corresponding .xls file can be downloaded here.</a>
@@ -203,7 +204,9 @@ href="http://archive.stsci.edu/k2/epic/search.php">K2 EPIC Target
 
 <tr>
     <td>Kp </td>
-    <td>The apparent magnitude of the target in the Kepler bandpass. The combination of celestial coordinates and magnitude are the primary data required by the Kepler Science Center to calculate target pixel masks. The Kepler magnitude for most sources can be obtained from the <a
+    <td>The apparent magnitude of the target in the Kepler
+    bandpass. The combination of celestial coordinates and magnitude
+    are the primary data required by the Kepler & K2 Science Center to calculate target pixel masks. The Kepler magnitude for most sources can be obtained from the <a
 href="http://archive.stsci.edu/k2/epic/search.php">K2 EPIC Target
     Search</a> page. If no Kepler bandpass magnitude is provided in the EPIC, <a
 href="/the-kepler-space-telescope.html#flux-calibration">it
@@ -245,7 +248,7 @@ can be [downloaded here](data/K2/K2-Cnn-propnum-PINAME.xls).
 Each campaign target table must appear in two places:
 
 1.  Embedded within the body of your uploaded proposal package to NSPIRES.
-2.  As a separate electronic file submitted directly to the Kepler Guest Observer Office.
+2.  As a separate electronic file submitted directly to the Kepler & K2 Guest Observer Office.
 
 Instructions on how to provide both versions of the table are detailed below: 
 
@@ -274,21 +277,42 @@ If you plan to submit a proposal for a Solar System (moving) target, we recommen
 The call for K2 GO Cycle 5 proposals, which includes <a href="k2-fields.html">Campaigns 14, 15,
 and 16</a>, [has been released and is available at NSPIRES](https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={D68A4380-B327-7C96-04CF-02B0FC940DBF}&path=open). We
 are requesting the community propose targets to observe
-during only these three campaigns.
+during only these three campaigns. 
 
 ### FAQs  
 
 * **What are the proposal deadlines?**<br/>
-Step 1: 23:59 EST 2016 Sep 23 <br/>
-Step 2: 23:59 EST 2016 Nov 04 <br/>
+Step 1: <font color='red'>23:59 EST 2016 Sep 23</font> <br/>
+Step 2: <font color='red'>23:59 EST 2016 Nov 04</font> <br/>
   
 * **What are the anticipated dates of the campaigns included in the
 current solicitation?**<br/>
 Campaign 14: 2017 May 31 - Aug 19 <br/>
 Campaign 15: 2017 Aug 23 - Nov 08 <br/>
 Campaign 16: 2017 Nov 19 - 2018 Jan 28 <br/>
-Start and stop dates are approximate, flexible and could be overtaken by unanticipated operational events.<br/>
-  
+Start and stop dates for all campaigns are approximate, flexible and
+could be overtaken by unanticipated operational events.<br/>
+
+* **Where are the fields located on the sky for the campaigns included in the
+current solicitation?**<br/>
+The pointings for all K2 campaigns can be found on the <a
+href="k2-fields.html">fields page.</a> The current solicitation
+includes Campaigns 14, 15, and 16.  Beyond those, Campaign 17 is
+ being planned as a forward-facing campaign, which involves the Kepler
+ spacecraft observing in the +VV direction.  Observing in this mode
+ allows for simultaneous observations from K2 and from Earth.  Just as
+ Campaign 9 was a microlensing campaign, Campaign 17 is intended to have a unique focus.  Campaign
+ 17 will predominantly involve a search for supernovae, and the simultaneous observations from Earth
+ enable the detailed characterization of the supernovae.  From recent estimates of the remaining fuel on the Kepler spacecraft,
+ we anticipate that Campaign 17 is at risk. <font color='red'> In order to maximize the
+ science return from the K2 mission, we are revising the position of the field for Campaign 16.
+ Campaign 16 will now involve the Kepler spacecraft observing in the
+ forward-facing direction, and a significant fraction of pixels will
+ be dedicated to a supernovae survey. Proposers should be aware of
+ these changes to Campaign 16 and should only propose for
+ targets that are on active silicon in the updated Campaign 16
+ field. The pointing for Campaign 16 will be finalized soon. </font> <br/>
+
 * **Should I submit one proposal or two?**<br/>
   In the interest of efficiency, proposers are requested *NOT* to provide separate proposals with identical science cases for each of the campaigns. If the same science goals are spread across both campaigns, please provide one science justification and two target tables, one for each field.<br/>
   
@@ -339,9 +363,9 @@ Start and stop dates are approximate, flexible and could be overtaken by unantic
 
 K2 proposal submission is a 2-step process. Both steps are
 mandatory. To propose for Campaigns 14, 15 and 16, investigators are
-required to submit Step 1 through the NSPIRES website by 23:59 EST
-September 23, 2016 and are required to submit Step 2 to the NSPIRES
-website by 23:59 EST November 4, 2016. All proposers need to register
+required to submit Step 1 through the NSPIRES website by <font color='red'>23:59 EST
+September 23, 2016</font> and are required to submit Step 2 to the NSPIRES
+website by <font color='red'>23:59 EST November 4, 2016</font>. All proposers need to register
 with NSPIRES in order to submit both parts of the proposal. The
 separation of the proposal into two steps is required in order to
 expedite the completion of review administration and target
@@ -354,16 +378,19 @@ submitting a K2 proposal to the GO call are provided below:
 
 * Familiarize yourself with the NASA Research Announcement (NRA) Research Opportunities in Space and Earth Sciences Announcement 2016 [(ROSES-2016)](https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={68C12087-132D-3814-9A87-5323BCE6CAB6}&path=open&redirectURL=%2Fexternal%2Fsolicitations%2Fsolicitations.do%3Fmethod%3Dopen%26stack%3Dpush). This document provides an overview of the NRA process and is a compilation of most solicitations within NASA's Science Mission Directorate.
 
-* Read the [Cycle 5 K2 Research Announcement](https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={D68A4380-B327-7C96-04CF-02B0FC940DBF}&path=open). New amendments to the NRA are publicized at NSPIRES. Check this page regularly.
+* Read the
+  [Cycle 5 K2 Research Announcement](https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={D68A4380-B327-7C96-04CF-02B0FC940DBF}&path=open). New
+  amendments to the NRA are publicized at NSPIRES. Check this page
+  regularly. 
 
 * [Submit Step 1 of
       the proposal to NSPIRES](http://nspires.nasaprs.com/external/)
-      by 23:59 EST September 23, 2016.  [Instructions for
+      by <font color='red'>23:59 EST September 23, 2016</font>.  [Instructions for
       Step 1 submission can be found here](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=498339/solicitationId=%7BD68A4380-B327-7C96-04CF-02B0FC940DBF%7D/viewSolicitationDocument=1/Step-1%20instructions%2002182016.pdf). 
 
 * [Submit Step 2 of
       the proposal to NSPIRES](http://nspires.nasaprs.com/external/)
-      by 23:59 EST November 4, 2016. 
+      by <font color='red'>23:59 EST November 4, 2016</font>. 
 
 *  The generic content of the proposal is described in Sec 2.3 of the
     <a
