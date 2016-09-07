@@ -282,8 +282,8 @@ during only these three campaigns.
 ### FAQs  
 
 * **What are the proposal deadlines?**<br/>
-Step 1: <font color='red'>23:59 EST 2016 Sep 23</font> <br/>
-Step 2: <font color='red'>23:59 EST 2016 Nov 04</font> <br/>
+Step 1: <font color='red'>23:59 EST 2016 Nov 03</font> <br/>
+Step 2: <font color='red'>23:59 EST 2016 Dec 15</font> <br/>
   
 * **What are the anticipated dates of the campaigns included in the
 current solicitation?**<br/>
@@ -364,8 +364,8 @@ includes Campaigns 14, 15, and 16.  Beyond those, Campaign 17 is
 K2 proposal submission is a 2-step process. Both steps are
 mandatory. To propose for Campaigns 14, 15 and 16, investigators are
 required to submit Step 1 through the NSPIRES website by <font color='red'>23:59 EST
-September 23, 2016</font> and are required to submit Step 2 to the NSPIRES
-website by <font color='red'>23:59 EST November 4, 2016</font>. All proposers need to register
+November 3, 2016</font> and are required to submit Step 2 to the NSPIRES
+website by <font color='red'>23:59 EST December 15, 2016</font>. All proposers need to register
 with NSPIRES in order to submit both parts of the proposal. The
 separation of the proposal into two steps is required in order to
 expedite the completion of review administration and target
@@ -385,12 +385,12 @@ submitting a K2 proposal to the GO call are provided below:
 
 * [Submit Step 1 of
       the proposal to NSPIRES](http://nspires.nasaprs.com/external/)
-      by <font color='red'>23:59 EST September 23, 2016</font>.  [Instructions for
+      by <font color='red'>23:59 EST November 3, 2016</font>.  [Instructions for
       Step 1 submission can be found here](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=498339/solicitationId=%7BD68A4380-B327-7C96-04CF-02B0FC940DBF%7D/viewSolicitationDocument=1/Step-1%20instructions%2002182016.pdf). 
 
 * [Submit Step 2 of
       the proposal to NSPIRES](http://nspires.nasaprs.com/external/)
-      by <font color='red'>23:59 EST November 4, 2016</font>. 
+      by <font color='red'>23:59 EST December 15, 2016</font>. 
 
 *  The generic content of the proposal is described in Sec 2.3 of the
     <a
