@@ -186,7 +186,7 @@ This page details the previous, current, and future K2 Campaign fields.
       <td><a href="#c9">9</a><sup>†</sup></td>
       <td>2016 Apr 21</td>
       <td>2016 Jul 01</td>
-      <td>2016 Sep 01</td>
+      <td>2016 Sep 30</td>
       <td>18:01:25</td>
       <td>-21:46:47</td>
       <td class="text-center">
@@ -307,7 +307,7 @@ This page details the previous, current, and future K2 Campaign fields.
 ### Future (preliminary)
 
 <p>
-The fields below indicate fields being considered for Campaign 17 and beyond. 
+The fields below indicate fields being considered for Campaign 16 and beyond. 
 The coordinates are not final and <i>will</i> change to optimize science
 and accommodate engineering constraints (e.g. the availability of guide stars).
 </p>
