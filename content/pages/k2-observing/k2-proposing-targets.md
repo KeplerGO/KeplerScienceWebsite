@@ -277,20 +277,20 @@ If you plan to submit a proposal for a Solar System (moving) target, we recommen
 The call for K2 GO Cycle 5 proposals, which includes <a href="k2-fields.html">Campaigns 14, 15,
 and 16</a>, [has been released and is available at NSPIRES](https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={D68A4380-B327-7C96-04CF-02B0FC940DBF}&path=open). We
 are requesting the community propose targets to observe
-during only these three campaigns. Beyond these, Campaign 17 is
- being planned as a forward-facing campaign, which involves the Kepler
- spacecraft observing in the +VV direction.  Observing in this mode
- allows for simultaneous observations from K2 and from Earth.  Just as
- Campaign 9 was a microlensing campaign, Campaign 17 is intended to have a unique focus.  Campaign
- 17 will predominantly involve a search for supernovae, and the simultaneous observations from Earth
- enable the detailed characterization of the supernovae.  From recent estimates of the remaining fuel on the Kepler spacecraft,
- we anticipate that Campaign 17 is at risk. <font color='red'> In order to maximize the
- science return from the K2 mission, we are revising the position of the field for Campaign 16.
- Campaign 16 will now involve the Kepler spacecraft observing in the
- forward-facing direction, and a significant fraction of pixels will
- be dedicated to a supernovae survey.  Proposals covering all other
+during only these three campaigns. Beyond these, Campaign 17 was
+intended to have a primary science focus of supernova science. In
+order to enable detailed characterization of supernovae, C17 would be a forward-facing campaign (much like the C9 microlensing
+campaign). Observing in this mode allows for simultaneous observations
+from K2 and from Earth.  From recent estimates of the remaining fuel on the Kepler spacecraft,
+ we anticipate that C17 is at risk. **In order to maximize the
+ science return from the K2 mission, we are changing the position of the field for C16.
+ C16 will now involve the Kepler spacecraft observing in the forward-facing direction, and a significant fraction of pixels will
+ be dedicated to supernova science.  Proposals covering all other
  areas of astrophysics and planetary science are still encouraged for
- Campaign 16. </font> 
+ C16. In particular, we encourage K2 observations that can
+ benefit from simultaneous observations from Earth.  Note that the new pointing for C16
+ will have significant overlap with the field observed during
+ C5. The final field position will be posted shortly.** 
 
 ### FAQs  
 
@@ -309,14 +309,13 @@ could be overtaken by unanticipated operational events.<br/>
 * **Where are the fields located on the sky for the campaigns included in the
 current solicitation?**<br/>
 The pointings for all K2 campaigns can be found on the <a
-href="k2-fields.html">fields page.</a> <font color='red'> Proposers
+href="k2-fields.html">fields page.</a> **Proposers
 should be aware that changes are being made to the pointing for Campaign 16 and should only propose for
  targets that are on active silicon in the updated Campaign 16
  field.  All investigators *must* update their version of the
 <a href="software.html#k2fov">K2fov target selection tool</a>
 to account for the recent changes to Campaign 16.  Note that the field
-position is currently preliminary and will be finalized before the Step 1 deadline.
- </font> <br/>
+position is currently preliminary and will be finalized before the Step 1 deadline.** <br/>
 
 * **Should I submit one proposal or two?**<br/>
   In the interest of efficiency, proposers are requested *NOT* to provide separate proposals with identical science cases for each of the campaigns. If the same science goals are spread across both campaigns, please provide one science justification and two target tables, one for each field.<br/>
