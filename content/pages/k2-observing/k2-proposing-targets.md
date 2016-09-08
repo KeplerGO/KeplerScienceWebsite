@@ -277,7 +277,20 @@ If you plan to submit a proposal for a Solar System (moving) target, we recommen
 The call for K2 GO Cycle 5 proposals, which includes <a href="k2-fields.html">Campaigns 14, 15,
 and 16</a>, [has been released and is available at NSPIRES](https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={D68A4380-B327-7C96-04CF-02B0FC940DBF}&path=open). We
 are requesting the community propose targets to observe
-during only these three campaigns. 
+during only these three campaigns. Beyond these, Campaign 17 is
+ being planned as a forward-facing campaign, which involves the Kepler
+ spacecraft observing in the +VV direction.  Observing in this mode
+ allows for simultaneous observations from K2 and from Earth.  Just as
+ Campaign 9 was a microlensing campaign, Campaign 17 is intended to have a unique focus.  Campaign
+ 17 will predominantly involve a search for supernovae, and the simultaneous observations from Earth
+ enable the detailed characterization of the supernovae.  From recent estimates of the remaining fuel on the Kepler spacecraft,
+ we anticipate that Campaign 17 is at risk. <font color='red'> In order to maximize the
+ science return from the K2 mission, we are revising the position of the field for Campaign 16.
+ Campaign 16 will now involve the Kepler spacecraft observing in the
+ forward-facing direction, and a significant fraction of pixels will
+ be dedicated to a supernovae survey.  Proposals covering all other
+ areas of astrophysics and planetary science are still encouraged for
+ Campaign 16. </font> 
 
 ### FAQs  
 
@@ -296,22 +309,14 @@ could be overtaken by unanticipated operational events.<br/>
 * **Where are the fields located on the sky for the campaigns included in the
 current solicitation?**<br/>
 The pointings for all K2 campaigns can be found on the <a
-href="k2-fields.html">fields page.</a> The current solicitation
-includes Campaigns 14, 15, and 16.  Beyond those, Campaign 17 is
- being planned as a forward-facing campaign, which involves the Kepler
- spacecraft observing in the +VV direction.  Observing in this mode
- allows for simultaneous observations from K2 and from Earth.  Just as
- Campaign 9 was a microlensing campaign, Campaign 17 is intended to have a unique focus.  Campaign
- 17 will predominantly involve a search for supernovae, and the simultaneous observations from Earth
- enable the detailed characterization of the supernovae.  From recent estimates of the remaining fuel on the Kepler spacecraft,
- we anticipate that Campaign 17 is at risk. <font color='red'> In order to maximize the
- science return from the K2 mission, we are revising the position of the field for Campaign 16.
- Campaign 16 will now involve the Kepler spacecraft observing in the
- forward-facing direction, and a significant fraction of pixels will
- be dedicated to a supernovae survey. Proposers should be aware of
- these changes to Campaign 16 and should only propose for
+href="k2-fields.html">fields page.</a> <font color='red'> Proposers
+should be aware that changes are being made to the pointing for Campaign 16 and should only propose for
  targets that are on active silicon in the updated Campaign 16
- field. The pointing for Campaign 16 will be finalized soon. </font> <br/>
+ field.  All investigators *must* update their version of the
+<a href="software.html#k2fov">K2fov target selection tool</a>
+to account for the recent changes to Campaign 16.  Note that the field
+position is currently preliminary and will be finalized before the Step 1 deadline.
+ </font> <br/>
 
 * **Should I submit one proposal or two?**<br/>
   In the interest of efficiency, proposers are requested *NOT* to provide separate proposals with identical science cases for each of the campaigns. If the same science goals are spread across both campaigns, please provide one science justification and two target tables, one for each field.<br/>
@@ -402,7 +407,7 @@ submitting a K2 proposal to the GO call are provided below:
     and are summarized in the table below.   The
     right-hand column provides page limits for the package elements. Caveats to the page limits are provided as footnotes. *The page limits on this website override the NRA-generic limits within the handbook.*
     Note that the Scientific/Technical/Management section of the
-    Step-2 proposal, which consists of text, tables (excluding the
+    Step 2 proposal, which consists of text, tables (excluding the
     target table), and figures must not exceed four pages for
     proposals in the Small category, or six pages for proposals in the
     Large category. An additional 0.5 pages is allowed in Large proposals to describe
@@ -497,8 +502,8 @@ In summary, proposers should:
   to one of the NASA archives (e.g., MAST or the NASA Exoplanet
   Database) for curation must also include a letter of acknowledgement from
   the relevant archive.**
-   * Although a detailed budget is not requested in either Step-1 or
-  Step-2 proposals, the statement of work in the Step-2 proposal
+   * Although a detailed budget is not requested in either Step 1 or
+  Step 2 proposals, the statement of work in the Step 2 proposal
   should clearly identify any and all members of the proposing team
   who would receive funding under the proposed investigation. The
   funding amounts will be determined formulaically based on target
