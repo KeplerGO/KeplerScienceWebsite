@@ -1,12 +1,13 @@
 Title: Call for K2 GO Cycle 5 proposals for Campaigns 14, 15, and 16
 Date: 2016-08-01 12:00
-Author: Geert Barentsen
+Author: Geert Barentsen, Knicole Colon
 
 Proposals are now being solicited for the K2 Guest Observer Cycle 5,
 which includes [Campaigns 14, 15, and 16](/k2-fields.html).
-The due date for Step-1 proposals is 23:59 EST 23 Sep 2016.
-Step-2 proposals are due by 23:59 EST 4 Nov 2016.
-Investigators may not submit a Step-2 proposal without first submitting a Step-1 proposal by the due date.
+The due date for Step 1 proposals is 23:59 EST 3 Nov 2016.
+Step 2 proposals are due by 23:59 EST 15 Dec 2016.
+Investigators may not submit a Step 2 proposal without first
+submitting a Step 1 proposal by the due date.
 
 Information about the proposal process, including the scope,
 evaluation criteria, availability of funds, eligibility,
@@ -15,8 +16,9 @@ target selection tools, submission process, and frequently asked questions, is d
 
 ### K2fov update required
 
-The final field positions for Campaigns 14, 15, and 16 have recently
-been set based on community input.
+The final field positions for Campaigns 14 and 15 have recently
+been set based on community input.  The field
+position for Campaign 16 is currently preliminary and will be finalized before the Step 1 deadline.
 All investigators *must* update their version of the
 <a href="software.html#k2fov">K2fov target selection tool</a>
 to version 5.1, released on 14 Aug 2016,
