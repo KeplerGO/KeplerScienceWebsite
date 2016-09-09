@@ -1,4 +1,4 @@
-Title: Changes to Kepler and K2 Project Scientist Personnel
+Title: Changes to Kepler and K2 Project Scientist personnel
 Date: 2016-09-08 11:00
 Author: Tom Barclay
 
