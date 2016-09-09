@@ -334,7 +334,7 @@ fields by emailing us at [keplergo@mail.arc.nasa.gov](keplergo@mail.arc.nasa.gov
   </thead>
   <tdata>
     <tr>
-      <td><a href="#c16" id='#16'>16</a><sup>††</sup></td>
+      <td><a id='c16'>16</a><sup>††</sup></td>
       <td>2017 Nov</td>
       <td>2018 Jan</td>
       <td>8:50</td>
