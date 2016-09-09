@@ -1,0 +1,42 @@
+# Summary of K2 Program GO11095
+
+Title: Gas Stream and Spot Dynamics in Early-Type Interacting Binary Systems
+
+PI: Peters, Geraldine J (University of Southern California)
+CoIs: Wilson, R. E.
+
+We propose Long Cadence K2 photometry of 42 binaries with Algol-type light curves in Campaign Fields 11 and 13 to study gas stream impact and spot dynamics that influence the evolution of these systems. Most early-type stars begin as binary or multiple star systems, so an understanding the evolution of the Algol systems is critical for a more general knowledge of massive star and galactic evolution. The K2 mission and the modeling capabilities of the Wilson-Devinney (WD) binary system analysis program present a unique opportunity to probe gas stream dynamics and/or magnetic activity from the recently discovered quadrature brightness variations in Algol binaries that we call L/T variables. L/T is the flux ratio between the Leading and Trailing hemispheres on the primary star. The L/T phenomenon was discovered in Kepler data and has never been reported in ground-based photometry. L/T behavior is likely due to changes in either hot accretion or cool magnetic spots. In the hot spot interpretation the impact site's location and movement can be diagnostic of stream dynamics that may be modulated by magnetic fields. In the cool spot scenario the variability is a consequence of magnetic activity on the mass loser. In K2 Cycle 4 we are extending our study to close eclipsing systems with periods less than 1.0 day to investigate whether enhanced tidal interaction has influence on the L/T ratio and behavior. The Kepler and K2 databases are deficient in observations of very short-period Algols.  New data from Cycle 4 will improve our statistical study of the percentage of Algols that show L/T inequality and indicate whether there is a preference for L > T or the reverse.   Modeling the K2 light curves with the WD program, stellar and spot parameters, including spot motions, will be determined so as to generate a virtual image of the binary versus time. The updated WD program will be made available for future applications by others working with the Kepler/K2 databases.
+
+# Targets requested by this program that have been observed (31)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+204462735, 253.400763, -22.238579, 14.896, GO11002_LC|GO11095_LC
+221561231, 264.920287, -28.853356, 9.94, GO11049_LC|GO11122_LC|GO11002_LC|GO11095_LC|GO11086_LC|GO11052_LC|GO11019_LC
+221829306, 264.648741, -28.403868, 14.059, GO11002_LC|GO11095_LC
+221895631, 265.48587, -28.302629, 13.14, GO11095_LC
+221932959, 265.013239, -28.245967, 12.831, GO11095_LC
+222043632, 265.203216, -28.079666, 13.12, GO11095_LC
+223156457, 266.991897, -26.427455, 12.164, GO11122_LC|GO11002_LC|GO11095_LC|GO11052_LC
+223299417, 266.605799, -26.200311, 8.26, GO11097_LC|GO11002_LC|GO11101_LC|GO11095_LC
+223314717, 267.414853, -26.17581, 13.233, GO11002_LC|GO11095_LC
+224431440, 264.268912, -24.257735, 11.45, GO11095_LC
+224455239, 264.393063, -24.216088, 13.176, GO11095_LC
+224999368, 263.171446, -23.289333, 13.659, GO11123_LC|GO11002_LC|GO11095_LC
+230618603, 256.970247, -20.754202, 14.633, GO11002_LC|GO11095_LC
+230646941, 257.84403, -20.484701, 15.191, GO11002_LC|GO11095_LC
+230695314, 255.471755, -20.020721, 15.121, GO11002_LC|GO11095_LC
+231218015, 256.389589, -24.007833, 13.401, GO11095_LC
+231232440, 257.966794, -23.909636, 13.019, GO11002_LC|GO11095_LC
+232254012, 255.286057, -26.595097, 11.356, GO11002_LC|GO11095_LC|GO11070_LC
+233501440, 260.219634, -17.334822, 11.228, GO11071_LC|GO11122_LC|GO11002_LC|GO11101_LC|GO11095_LC|GO11052_LC
+233525939, 260.390555, -17.156263, 14.049, GO11002_LC|GO11095_LC
+234497065, 259.685852, -18.937565, 12.906, GO11002_LC|GO11095_LC
+234559036, 259.762988, -18.592051, 16.55, GO11002_LC|GO11095_LC|GO11111_LC
+234634662, 259.97188, -18.177828, 16.609, GO11002_LC|GO11095_LC
+234645813, 258.8366, -18.115927, 12.319, GO11122_LC|GO11095_LC
+240299518, 264.29785, -29.839299, 12.458, GO11122_LC|GO11002_LC|GO11095_LC|GO11019_LC
+240302355, 263.49801, -29.829755, 14.397, GO11002_LC|GO11095_LC
+240690197, 262.457284, -28.404104, 12.998, GO11002_LC|GO11095_LC
+240705770, 263.404053, -28.335751, 11.915, GO11071_LC|GO11122_LC|GO11002_LC|GO11095_LC
+251248325, , , , GO11002_LC|GO11095_LC
+251248660, , , , GO11095_LC
+251248661, , , , GO11095_LC

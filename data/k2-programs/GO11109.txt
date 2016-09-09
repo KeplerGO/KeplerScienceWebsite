@@ -1,0 +1,28 @@
+# Summary of K2 Program GO11109
+
+Title: K2 Asteroseismology of hot magnetic stars
+
+PI: Buysschaert, Bram D (Institute for Astronomy, KU Leuven)
+CoIs: Aerts, Conny Clara; Neiner, Coralie; Oksala, Mary Elizabeth; Briquet, Maryline
+
+About 10% of hot stars host a magnetic field at their stellar surface, detectable with current ground-based spectropolarimeters (Grunhut & Neiner 2015,IAUS,305,53). The interaction of these fields with certain layers deep inside the star and influence internal physical processes is poorly understood, and can alter the efficiency of the internal mixing of chemical species or have a crucial role in angular momentum transport. Therefore, magnetic fields are important for the stellar structure and evolution of a significant number of hot stars.
+
+We thus use asteroseismology to probe the stellar interior by studying their stellar pulsations. Tremendous progress in asteroseismology has been made over the last decade, with space-based missions providing a vast amount of data, and significantly improved seismic techniques. However, the number of hot magnetic pulsators studied with high precision space-based photometry is limited.
+
+Theoretically, magnetic Ap/Bp stars should exhibit various pulsational behaviours (see Aerts et al. 2010, Springer, for a detailed overview). Bp and late A stars host heat-driven gravity modes, SPB and gamma Dor pulsators, respectively, probing the core region of the star. Pulsating early A stars are either classified as roAp stars or as delta Sct pulsators, which probe the outer regions of the star. The former exhibit high-order stochastic magneto-acoustic modes, while the latter have low-order pressure modes. Those heat-driven modes, observed with a high precision thanks to the long timebase, are necessary to perform successful seismic and stellar modelling, inferring the connection between stellar magnetic fields and their internal properties.
+
+The magnetic fields observed in 10% of hot stars, and in particular in all Ap/Bp stars, are of fossil origin, i.e. remnants from the magnetic field of the original molecular cloud from which the star formed, possibly enhanced by a dynamo during the very early stages of stellar evolution. These fields have a simple configuration, most often a dipole inclined to the rotation axis. Magnetic fields are also responsible for peculiar chemical surface abundances. Combining magnetic information with a seismic study enables us to put strong constraints on stellar models, providing information about the stellar surface, through the magnetic study and the deep interior through asteroseismology. Moreover, comparing the amount of mixing obtained by asteroseismology for magnetic hot stars with that of non-magnetic objects would allow us to corroborate or disprove the theoretical prediction that magnetic fields inhibit mixing in stellar interiors.
+
+At present, only two magnetic pulsating stars have been studied in such a detailed manner, beta Cep (Shibahasi & Aerts 2000,ApJ,531,L143) and V2052 Oph (Briquet et al. 2012,MNRAS,27,483). Although magnetic fields have been detected in a number of other pulsating stars, there has been no detailed seismic modelling, due to the current lack of either asteroseismic data for those stars or modelling of their magnetic field with this proposal, we aim to increase better understand how the stellar magnetic field influences non-standard mixing processes governing the interior of hot stars. Moreover, by combining this study with other K2 campaigns, we will reach a statistically significant number of hot magnetic stars.
+
+The photometric accuracy and the high duty-cycle of K2 is best suited to reach our science goals. State-of-the-art modelling tools will translate seismic information to detailed stellar models. Spectropolarimetric observations will be obtained with ESPaDOnS or Narval. In total, 14 hot magnetic stars are observable in Fields 11 to 13. Although the proposed targets might show variability on short timescales, we can work with long cadence data to study the low order p modes and all possible g modes, as demonstrated by Saio et al.2015 (MNRAS,444,3264).
+
+# Targets requested by this program that have been observed (7)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+203749199, 253.490436, -25.069244, 8.188, GO11109_LC|GO11122_LC|GO11052_LC|GO11019_LC|GO11902_LC
+225990054, 262.764426, -21.485288, 9.612, GO11109_LC|GO11122_LC|GO11002_LC|GO11101_LC|GO11024_LC|GO11052_LC|GO11902_LC
+227231984, 262.361265, -18.66422, 9.464, GO11109_LC|GO11122_LC|GO11052_LC
+230753303, 255.901091, -19.462166, 9.758, GO11109_LC|GO11002_LC|GO11052_LC
+232147357, 254.772986, -27.081997, 10.035, GO11109_LC|GO11052_LC
+232176043, 254.24177, -26.951556, 9.123, GO11109_LC|GO11122_LC|GO11052_LC
+232284277, 257.717245, -26.451689, 8.679, GO11109_LC|GO11122_LC|GO11101_LC|GO11052_LC

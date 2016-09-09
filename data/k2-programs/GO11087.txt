@@ -1,0 +1,22 @@
+# Summary of K2 Program GO11087
+
+Title: Understanding the Mysterious RV Tau Phenomenon with K2
+
+PI: Stassun, Keivan Guadalupe (Vanderbilt University)
+CoIs: Boyd, Patricia T.; Vega, Laura Daniela; Montez, Rodolfo
+
+Long after low- to intermediate-mass stars (1-8 Msun) leave the main sequence and reside in the asymptotic giant branch (AGB) phase, they experience huge amounts of mass loss reaching rates up to 10^{-4} Msun/yr that eventually shape to spherically symmetric shells of gas and dust around the hot core further create planetary nebulae (PN). However observations show PN morphologies to be diverse and asymmetric challenging the interpretation that PN come from single star systems. Consequently requiring that the majority of PN originate from binary star systems. We propose to confirm this condition by seeking to study the evolutionary status and properties of the poorly studied RV Tauri (RV Tau) variable stars that are thought to be the missing link between post-AGB and PN. 
+RV Tau variable stars have been studied for more than 75 years yet they still remain a mystery. The physics behind these stars make them exhibit unique photometric variation in their light curves of alternating deep and shallow minima. These variations are thought to be associated to the instability of the star that leads to radial pulsations. These strange stars are very luminous (~1000 Lsun) with temperatures of 4000-6000 K or spectral classes from G to K. Jura (1986) identified RV Tau stars as post-asymptotic giant branch (post-AGB) objects due to their high luminosity, mass-loss history, and large infrared excess due to circumstellar dust. However, it is not yet understood if RV Tau stars are a peculiar or a common phase in stellar evolution. Infrared excesses in the RV Tau stars' spectral energy distributions indicate the presence of circumstellar discs that might be due to accretion from a companion star. Thus RV Tau stars might provide clues on the evolution of binary systems. De Marco (2009) suggested that the asymmetric morphology found in the majority of planetary nebulae is probably due to binarity. This suggests that the short-lived poorly-studied RV Tau phase may predict a missing intermediate link between stars in the AGB phase and a planetary nebula phase (Willson & Templeton 2009). Hence, the RV Tau phase might represent the intermediate phase of stellar evolution for binary stars and thus, progenitors of planetary nebulae.
+
+Initial Progress with Kepler:
+
+Our goal is to better understand these stars and determine their place in the context of stellar evolution in order to confirm if they are in fact post-AGB successors and PN progenitors. In our preliminary analysis (Vega et al. 2016, in prep.) we use DF Cyg in the the original Kepler data as a test case to investigate the origin of RV Tau stars. Kepler has obtained the highest-precision light curve of any RV Tau star to date with ~4 yr of nearly continuous data. The Kepler light curve of DF Cyg reveals the RVa periodic variations of the light curve in unprecedented detail. We plan to establish what types of physical processes can make such a signature. We measured the arrival times of the deep and shallow minima. They seem to be consistent with a ~50-d period showing a linear trend across time. We are using the minima arrival times as a "clock" to further explain a long-term variation exhibited by DF Cyg. The residuals of this linear trend display that the minima arrival times are progressively coming in a day or two late for ~700-d duration, then they shift back to their stable arrival time. We argue that this is due to a secondary star disrupting these minima arrival times at closest approach to the primary. 
+
+Proposed Observations with K2 Cycle 4:
+
+There are 159 semi-regular and post-AGB objects identified from the cross-matched EPIC-Simbad catalog in Campaigns 11-13 (the majority in Campaign 11), which could be suitable RV Tau candidates. We plan to use similar techniques as Hartig et al. (2014) for correcting the data. We also plan to use the "cotrending" technique to remove instrumental effects while preserving the astrophysical signals at short periods.
+
+# Targets requested by this program that have been observed (2)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+224682157, 264.397494, -23.818123, 12.982, GO11123_LC|GO11087_LC|GO11070_LC
+235851748, 258.300722, -29.160152, 13.585, GO11049_LC|GO11087_LC
