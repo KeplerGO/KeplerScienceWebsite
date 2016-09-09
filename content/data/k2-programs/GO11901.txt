@@ -1,0 +1,12 @@
+# Summary of K2 Program GO11901
+
+Title: The Transitional Millisecond Pulsar PSR J1723-2837
+
+PI: Antoniadis, John (Dunlap Institute for Astronomy and Astrophysics - University of Toronto)
+CoIs: 
+
+
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+236020326, 260.846619, -28.632557, 15.586, GO11901_LC|GO11901_SC

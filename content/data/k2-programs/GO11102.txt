@@ -1,0 +1,55 @@
+# Summary of K2 Program GO11102
+
+Title: Probing the Circumstellar Environment of the Supergiant Fast X-ray Transient IGR J17544-2619 using K2
+
+PI: Boyd, Patricia T. (UMBC and NASA's Goddard Space Flight Center)
+CoIs: Corbet, Robin; Torpin, Trevor J; Coley, Joel Barry; Krimm, Hans A; Pottschmidt, Katja
+
+Scientific Goals and Objectives
+We request Campaign 11 K2 monitoring to investigate accretion in the short period Supergiant
+Fast X-ray Transient (SFXT) IGR J17544-2619, the prototypical SFXT consisting of a neutron star (NS) in a ~4.9 d orbit around an O9 Ib donor star (Drave et al. 2014). The source shows large scale variability ~6 orders of magnitude 10^3110^38 erg s1 on timescales of hours
+(Romano et al. 2015). This large dynamic range is suggestive of an accretion inhibition mechanism.
+The maximum luminosity found by Romano et al. (2015) using Swift is near Eddington 
+for a 1.4Msun NS, in variance with direct Bondi-Hoyle accretion where the
+typical luminosity is ~10^3510^36 erg s1 (Chaty 2011). Different mechanisms have
+been proposed to explain the mysterious accretion inhibition: the presence of large clumps in the
+stellar wind (int Zand 2005; Walter & Zurita Heras 2007), magnetic gating mechanisms involving
+NSs with rotation periods on the order of ~1000 s and magnetic fields on the order of
+10^14 G (Bozzo et al. 2008), and the presence of a short-lived transient accretion disc (Romano et al.
+2015). Of the mechanisms considered, the formation and dissipation of a transient accretion disc
+resulting from a low-velocity high-density stellar wind might explain the giant outburst Romano
+et al. (2015). While the presence of a cyclotron resonance scattering feature at ~17 keV suggesting
+a magnetic field of ~10^12 G rules out a magnetar, the ingestion of a massive clump could also be
+consistent with the variability seen in IGR J17544-2619 (Bhalerao et al. 2015).
+For a complete understanding of accretion in Supergiant Fast X-ray Transients, comparing
+data in different energy regimes is essential. A high precision optical campaign using K2 is
+complimentary to long-term X-ray campaigns using INTEGRAL and Swift BAT and pointed X-ray
+observations using XMM-Newton and NuSTAR (Drave et al. 2014; Romano et al. 2015; Bhalerao et
+al. 2015). While the X-ray data offers useful insights to probe the environment close to the NS, K2 optical data will reveal the mechanisms at work around the donor.
+
+Methodology & Relevance
+We request short cadence mode to investigate variability on orbital and sub-orbital timescales using
+traditional Fourier analysis techniques and Dynamic Power Spectra. To search for the presence of a
+transient accretion disc, we will cross-correlate the K2 optical data with X-ray data from Swift BAT.
+We expect the optical data to lag the X-ray data, which could be attributed to reprocessing from the
+donor or a possible transient accretion disc (Scaringi et al. 2015). We will monitor the behavior
+of outbursts in the optical and X-ray using the discrete cross correlation function. Together,
+these techniques could reveal insights on the physical processes that inhibits matter accretion in
+prototypical SFXTs. The mechanism leading to the extreme dynamic range in luminosity found in
+SFXTs remains mysterious. While different inhibition mechanisms were proposed to explain the
+~10^3110^32 erg s1 low luminosity state, the ~10^38 erg s1 outburst found in IGR J17544-2619 is
+puzzling.  Our use of Kepler's short cadence mode will investigate the behavior of matter accretion in extreme envirnoments, a key problem addressed in the Physics of the Cosmos.
+
+References
+Bhalerao, V., Romano, P., Tomsick, J., et al. 2015, MNRAS, 447, 2274
+Bozzo, E., Falanga, M., & Stella, L. 2008, ApJ, 683, 1031
+Chaty, S. 2011, Evolution of Compact Binaries, eds. L. Schmidtobreick, M. R. Schreiber, & C. Tappert, ASP Conf. Ser., 447, 29
+Drave, S. P., Bird, A. J., Sidoli, L., et al. 2014, MNRAS, 439, 2175
+int Zand, J. J. M. 2005, A&A, 441, L1
+Romano, P., Bozzo, E., Mangano, V., et al. 2015, A&A, 576, L4
+Scaringi, S., Maccarone, T. J., Hynes, R. I., et al. 2015, MNRAS, 451, 3857
+Walter, R., & Zurita Heras, J. 2007, A&A, 476, 335
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+223217668, 268.605289, -26.33127, 11.939, GO11093_LC|GO11113_LC|GO11101_LC|GO11102_LC|GO11127_LC|GO11102_SC

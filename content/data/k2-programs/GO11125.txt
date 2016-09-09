@@ -1,0 +1,108 @@
+# Summary of K2 Program GO11125
+
+Title: The age of Galactic Bulge/Thick disk field stars in the metal-poor metallicity distribution tail
+
+PI: Valentini, Marica (Kepler Guest Observer Office)
+CoIs: Miglio, Andrea; Chiappini, Cristina; Anders, Friedrich; Montalban, Josefina; Barbuy, Beatriz
+
+MOTIVATION: The detection of chemical imprints left by the first stars has a key role in the understanding the chemical and physical conditions of the early Universe. Most of the current observational efforts in finding the chemical imprints left by the first stars have focused on the most metal-poor stars found in the MW halo. However, studies based on the chemical and kinematic properties of stars in the different MW components have shown that not only the halo, but also the bulge and thick disk are potential hosts of the oldest stars in our Galaxy.
+By studying the heavy element content of few stars in the oldest MW GC NGC6522, located in the Galactic Bulge, Chiappini et al. (2001) and Barbuy et al. (2014) suggested that Bulge stars at moderately low metallicites are as old as the oldest halo stars, which are 100 times more metal poor ([Fe/H] = -3).
+ Obviously, no age measurements are available for any of the red giants studied in these works.
+ As the correspondence between age and metallicity is strongly dependent on the star formation history of the particular studied component, it is crucial to confirm that moderately metal poor Bulge stars are very old and hence born from an interstellar medium essentially enriched by the first stellar generations of massive stars. This confirmation can be performed by measuring with high precision the ages and abundances of field red giants in the Bulge. As only asteroseismic measurements will be able to provide precise ages for these distant red giants, this is an opportunity not to be missed by K2. The feasibility and the impact of the use of asteroseismology coupled with spectroscopy have been confirmed by recent works in the field of Galactic Archeology (i.e. Chiappini et al. 2015).
+
+RELEVANCE: The derivation of precise and accurate abundances and ages for Bulge field stars is hampered by the difficulties of observing in such obscured region (Eb-V reaching 1) and of determining ages for red giants (difficulties in determining atmospheric parameters plus degeneracies in the HR diagram in the RG locus). A dedicated program combining asteroseismology with K2 and spectroscopy will avoid such limitations, providing an ambitious and new dataset where to look for the imprints of first stars. This will be the only opportunity to confirm/discard the old ages of distant field Red Giant Bulge stars. So far, ages of bulge field stars were obtained only for lensed dwarf stars (Bensby et al. 2013). If confirmed that bulge stars of moderate low metallicity (1/10th solar) are indeed very old, this will open a new window into the study of the fossil records containing the chemical imprints of the first stellar generations.
+
+AIM: We selected our targets from the APOGEE DR13 catalog. By applying a selection in gravity (following K-2 performances, Stello et al. 2015) and in metallicity ([M/H]<-0.5), we identified 30 field Red Giants useful for our project. The light curves obtained from this campaign, will led us to obtain fundamental seismic information. With this data we aim to a) confirm that Bulge stars of moderately low metallicities are very old objects, as old as the oldest halo stars observed; and b) analyse the chemical pattern of the oldest objects in order to establish if there are imprints left by the first stellar generations . 
+
+METHOLOGY: The K2 data will be used to determine the radius and the mass of each stars using asteroseismology. This information will be complemented by already secured ground-based spectroscopy with APOGEE. With this it will be possible to determine accurate distances, reddening and model-dependent ages.  Finally, the inferred ages together with key abundance indicators will be combined in order to identify possible imprints of the first stellar generations left in the oldest stars in the Galactic Bulge.
+
+# Targets requested by this program that have been observed (88)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+204338067, 254.65113, -22.728104, 13.362, GO11123_LC|GO11125_LC
+204339408, 254.537637, -22.72273, 13.423, GO11123_LC|GO11125_LC
+204386383, 255.056902, -22.538536, 12.577, GO11123_LC|GO11125_LC
+204433876, 254.933827, -22.352498, 13.73, GO11123_LC|GO11125_LC
+204543889, 254.753993, -21.905931, 12.598, GO11123_LC|GO11125_LC
+204550905, 253.385731, -21.87671, 13.897, GO11123_LC|GO11125_LC
+204562835, 253.340918, -21.825976, 13.755, GO11123_LC|GO11125_LC
+204564308, 254.823769, -21.819701, 14.042, GO11123_LC|GO11125_LC
+204577683, 253.637108, -21.763564, 12.524, GO11123_LC|GO11125_LC
+204588368, 253.016087, -21.71891, 13.405, GO11123_LC|GO11125_LC
+204594915, 254.965169, -21.691487, 13.651, GO11123_LC|GO11125_LC
+204596317, 253.05349, -21.685452, 13.827, GO11123_LC|GO11125_LC
+204597246, 254.236562, -21.68165, 13.193, GO11123_LC|GO11125_LC
+204597517, 253.403435, -21.680466, 13.445, GO11123_LC|GO11125_LC
+204630018, 253.194432, -21.543679, 13.044, GO11123_LC|GO11048_LC|GO11125_LC
+204645301, 252.835542, -21.4793, 12.015, GO11123_LC|GO11125_LC
+204651697, 252.943625, -21.451988, 13.865, GO11123_LC|GO11125_LC
+204652777, 254.3583, -21.447306, 13.706, GO11123_LC|GO11125_LC
+204664797, 253.57588, -21.39598, 12.988, GO11123_LC|GO11125_LC
+204674255, 252.833525, -21.355682, 13.27, GO11123_LC|GO11125_LC
+204674302, 252.905231, -21.355507, 13.304, GO11123_LC|GO11125_LC
+204683960, 254.199045, -21.313748, 13.326, GO11123_LC|GO11125_LC
+204686477, 254.386756, -21.303267, 12.533, GO11123_LC|GO11125_LC
+204711515, 254.547517, -21.194168, 13.435, GO11123_LC|GO11125_LC
+204720374, 254.510407, -21.155073, 12.725, GO11123_LC|GO11048_LC|GO11125_LC
+204722708, 254.17599, -21.145012, 11.364, GO11123_LC|GO11125_LC
+204726572, 254.339632, -21.127999, 13.501, GO11123_LC|GO11125_LC
+204770467, 253.766406, -20.938421, 11.363, GO11071_LC|GO11122_LC|GO11125_LC
+204777654, 252.757065, -20.906656, 13.748, GO11123_LC|GO11125_LC
+204785972, 254.180909, -20.86962, 12.405, GO11123_LC|GO11125_LC
+204787769, 254.085847, -20.86149, 12.325, GO11049_LC|GO11122_LC|GO11125_LC
+204788857, 254.494557, -20.856326, 13.733, GO11123_LC|GO11125_LC
+222924691, 266.725955, -26.781009, 10.783, GO11123_LC|GO11125_LC
+223009644, 266.446055, -26.653049, 13.635, GO11123_LC|GO11125_LC
+224053677, 267.24501, -24.937603, 13.184, GO11123_LC|GO11125_LC
+224498808, 262.775807, -24.137516, 13.187, GO11123_LC|GO11125_LC
+224569547, 262.715649, -24.01356, 12.895, GO11123_LC|GO11125_LC
+224693227, 263.029487, -23.799403, 14.924, GO11123_LC|GO11125_LC
+224738405, 263.257086, -23.723343, 13.114, GO11123_LC|GO11125_LC
+224738459, 262.730063, -23.723266, 13.335, GO11123_LC|GO11125_LC
+224866988, 262.465, -23.507461, 13.263, GO11123_LC|GO11125_LC
+226203879, 264.070625, -21.065002, 14.023, GO11123_LC|GO11125_LC
+226852010, 263.367869, -19.588331, 14.624, GO11123_LC|GO11125_LC
+227280660, 263.474384, -18.542379, 14.082, GO11123_LC|GO11125_LC
+227449454, 263.472211, -18.124708, 13.993, GO11123_LC|GO11125_LC
+227579751, 263.38789, -17.791637, 13.238, GO11123_LC|GO11125_LC
+227653459, 262.638964, -17.595451, 13.442, GO11123_LC|GO11125_LC
+227729334, 263.401635, -17.379856, 13.176, GO11123_LC|GO11125_LC
+227732408, 263.264105, -17.371086, 13.02, GO11123_LC|GO11125_LC
+227738032, 263.152498, -17.354137, 12.629, GO11123_LC|GO11125_LC
+227799134, 263.114868, -17.169012, 10.531, GO11123_LC|GO11125_LC
+227945945, 262.955103, -16.698863, 13.403, GO11123_LC|GO11125_LC
+230490368, 255.815996, -21.975184, 13.531, GO11123_LC|GO11125_LC
+230492642, 255.675489, -21.953373, 13.165, GO11123_LC|GO11125_LC
+230536555, 255.683954, -21.536991, 11.923, GO11123_LC|GO11125_LC
+230538371, 255.646475, -21.520193, 12.929, GO11123_LC|GO11125_LC
+230542745, 255.601004, -21.479928, 12.942, GO11123_LC|GO11125_LC
+230545915, 255.650522, -21.449913, 12.967, GO11123_LC|GO11125_LC
+231357535, 255.933651, -22.92814, 13.595, GO11123_LC|GO11125_LC
+231387632, 255.817665, -22.643575, 13.897, GO11123_LC|GO11125_LC
+231418011, 255.856989, -22.34115, 11.668, GO11123_LC|GO11125_LC
+231424251, 255.848919, -22.280704, 14.292, GO11123_LC|GO11125_LC
+231436327, 256.03273, -22.159806, 15.073, GO11123_LC|GO11125_LC
+234936593, 258.25649, -24.919823, 13.885, GO11123_LC|GO11125_LC
+234957435, 258.445514, -24.831556, 14.407, GO11123_LC|GO11125_LC
+234996860, 258.507421, -24.661525, 14.474, GO11123_LC|GO11125_LC
+235020353, 258.042641, -24.557653, 14.517, GO11123_LC|GO11125_LC
+235023473, 258.148357, -24.54394, 14.152, GO11123_LC|GO11125_LC
+235032202, 258.468172, -24.504366, 12.996, GO11123_LC|GO11125_LC
+235052965, 261.742497, -24.4062, 13.394, GO11123_LC|GO11125_LC
+235132769, 259.426647, -24.009121, 14.993, GO11123_LC|GO11125_LC
+235153847, 258.381464, -23.91342, 14.603, GO11123_LC|GO11125_LC
+235870896, 258.752419, -29.101667, 13.485, GO11123_LC|GO11125_LC
+235977292, 259.979972, -28.768204, 13.64, GO11123_LC|GO11125_LC
+236238729, 258.971914, -27.921299, 14.139, GO11123_LC|GO11125_LC
+236275431, 260.374907, -27.800308, 13.077, GO11123_LC|GO11125_LC
+236322794, 260.715766, -27.639852, 14.399, GO11123_LC|GO11125_LC
+236405713, 259.851772, -27.348786, 13.214, GO11123_LC|GO11125_LC
+236419080, 261.829481, -27.301126, 13.364, GO11125_LC
+236439141, 260.021397, -27.229917, 13.129, GO11123_LC|GO11048_LC|GO11125_LC
+240252225, 263.793562, -29.997039, 12.865, GO11123_LC|GO11125_LC
+240512147, 262.627501, -29.098002, 13.676, GO11123_LC|GO11125_LC
+240522766, 264.184626, -29.060964, 13.016, GO11123_LC|GO11125_LC
+240547251, 264.507132, -28.974476, 13.565, GO11123_LC|GO11125_LC
+240554986, 263.769185, -28.946587, 13.433, GO11123_LC|GO11125_LC
+240592204, 264.503805, -28.806894, 13.261, GO11123_LC|GO11048_LC|GO11125_LC
+240748341, 263.753604, -28.134756, 13.524, GO11125_LC
+240978776, 262.227023, -26.903269, 13.415, GO11123_LC|GO11125_LC

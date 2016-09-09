@@ -1,0 +1,46 @@
+# Summary of K2 Program GO11060
+
+Title: Second K2 microlensing experiment
+
+PI: Poleski, Radek (Ohio State University)
+CoIs: Hogg, David W; Udalski, Andrzej; Gould, Andrew; Henderson, Calen B; Gaudi, Bernard Scott; Bennett, David P; Penny, Matthew T; Street, Rachel A
+
+We propose to extend the microlensing efforts of the K2 Campaign 9 and observe additional ~50 microlensing events that will be ongoing during the Campaign 11, with the goal of measuring the microlensing parallax of these events using the displacement between the Kepler spacecraft and Earth. Our proposed observations are highly complementary to those of the Campaign 9, thanks to the different locations of Earth and Kepler that probe distinct parts of the event parameter space. Additionally, some of the selected events can be also observed by the Spitzer satellite, which will greatly alleviate the difficulties in the light curve interpretation thanks to the parallax measurements from the three locations. There will not be another chance to observe the same events from the ground and two satellites on different orbits for the foreseeable future. Hence, every event with three datasets will have very high scientific value. Each observatory (Kepler, Earth, Spitzer) will see a different lens-source configuration resulting in both greater planet sensitivity and allowing cross-checks of the results. Data from multiple observing locations in Solar System will also enable for the removal of degeneracies seen in interpretation of binary-lens events that compromise about 10% of the observed events. The events that ultimately yield parallax measurements will enlarge the sample of microlensing events with known lens distances, thus enabling an estimate of the Galactic distribution of planets, i.e., the planet occurrence rate in the disk relative to that in the bulge.
+
+To select our targets, we will inspect all the ongoing events that are alerted by the ground-based microlensing surveys and select the ones that give the highest chance of allowing parallax measurements. Due to unpredictability of the event location as well as the uncertain nature of other event properties, Kepler GO Office has allowed us to only provide the expected number of events in Step 2 proposal and extend the submission of the targets for this proposal on a later date (July 15). The time lag between the event selection date and the start of the Campaign 11 will undoubtedly cause some of the targeted events to peak before the K2 observations begin. For these events we will constrain the parallaxes using only the falling part of the light curve as seen by K2, similarly to the events previously observed by Spitzer. The ground-based surveys will be observing the bulge till the end of 2016 season and will return to the targeted events in January 2017 to collect the photometry of the longest events, which will still be significantly magnified.
+
+# Targets requested by this program that have been observed (33)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+200128916, , , , GO11060_LC
+200128917, , , , GO11060_LC
+200128918, , , , GO11060_LC
+200128919, , , , GO11060_LC
+200128920, , , , GO11060_LC
+200128921, , , , GO11060_LC
+200128922, , , , GO11060_LC
+200128923, , , , GO11060_LC
+200128924, , , , GO11060_LC
+200128925, , , , GO11060_LC
+200128926, , , , GO11060_LC
+200128927, , , , GO11060_LC
+200128928, , , , GO11060_LC
+200128929, , , , GO11060_LC
+200128930, , , , GO11060_LC
+200128931, , , , GO11060_LC
+200128932, , , , GO11060_LC
+200128933, , , , GO11060_LC
+200128934, , , , GO11060_LC
+200128935, , , , GO11060_LC
+200128936, , , , GO11060_LC
+200128937, , , , GO11060_LC
+223848434, 266.270911, -25.285978, 13.089, GO11060_LC
+225519750, 264.378507, -22.373937, 13.048, GO11060_LC
+235987147, 260.368783, -28.736437, 16.197, GO11060_LC
+240143464, 263.211368, -22.57559, 16.947, GO11060_LC
+240297127, 262.60732, -29.847181, 15.204, GO11060_LC
+251248441, , , , GO11060_LC
+251248442, , , , GO11060_LC
+251248443, , , , GO11060_LC
+251248444, , , , GO11060_LC
+251248447, , , , GO11060_LC
+251248448, , , , GO11060_LC

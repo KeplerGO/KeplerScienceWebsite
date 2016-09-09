@@ -1,0 +1,25 @@
+# Summary of K2 Program GO11083
+
+Title: Searching for Extended Exoplanetary Atmospheres Around Active Stars
+
+PI: Jensen, Adam Gabriel (University of Nebraska-Kearney)
+CoIs: Cauley, Paul Wilson; Endl, Michael; Redfield, Seth
+
+A key question in studying any planetary atmosphere is what happens at the boundary between the atmosphere and interplanetary space. This unbound, outermost layer of an atmosphere is called its exosphere.  Several observations of extended atmospheres have been made (e.g., Vidal-Madjar et al. 2003, 2004; Linsky et al. 2010; Schlawin et al. 2010; Lecavelier Des Etangs et al. 2010, 2012; Fossati et al. 2010; Jensen et al. 2012; Cauley et al. 2015; Cauley et al. 2016, in preparation) in hydrogen (both ground-state and excited) and various metals.
+
+Our team detected excited, n=2 hydrogen (through hydrogen alpha absorption) in the exosphere of HD 189733b (Jensen et al. 2012), the first such detection in an exoplanet atmosphere. Follow-up observations (Cauley et al. 2015; Cauley et al. 2016, in prep.) confirmed this result by detecting exospheric absorption in hydrogen alpha, hydrogen beta, and hydrogen gamma, and also observed a significant pre-transit signal in these lines.  The pre-transit signal is variable between the two observation sets and the physical interpretation is not clear.  Jensen et al. (2012) hypothesized that the excited hydrogen in the exosphere (the transit signal) may be correlated with chromospheric activity, as HD 189733b, the only planet in that paper's sample of four planets to show H-alpha absorption, was also the most chromospherically active in the sample (as measured by S_HK and log [R'_HK] indices).
+
+In Kepler Guest Observer Cycle 3, we proposed to search for planets around stars which are candidates for chromospheric activity in the Kepler 8 and 10 fields.  We found dozens of suitable targets based on the Radial Velocity Experiment (RAVE) Survey's catalogue of chromospherically active stars (Zerjal et al. 2013).  We now propose to do the same for Kepler Guest Observer Cycle 4 for the Kepler Campaign 11, 12, and 13 fields.  Because the 11 and 12 fields are in the southern celestial hemisphere, these are largely covered by the RAVE survey in particular, whereas the RAVE survey mostly covered field 10.  Therefore, we expect to have roughly double the number of targets for this cycle as we did in the previous cycle, roughly tripling the overall sample.  This will greatly improve the chance of success of the accepted Cycle 3 proposal at minimal cost of targets to the K2 mission.
+
+Looking for planets around active stars with radial velocity methods is often disfavored because the stellar noise limits RV precision.  However, this makes the transit method the more important way to detect planets in these cases. Furthermore, if any of these stars do have a transiting planet, they will be excellent potential candidates for follow-up spectroscopy with the large ground-based telescopes (Keck I, HobbyEberly Telescope) that our team has used in the past to detect exospheric absorption. The goal of follow-up spectroscopic observations would be to search for excited hydrogen absorption from an exosphere, including possible pre-transit signals. As a secondary science product, many of these active stars will have light curves worth studying on their own for stellar astrophysics purposes.
+
+# Targets requested by this program that have been observed (8)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+221620277, 265.626479, -28.748777, 8.868, GO11097_LC|GO11071_LC|GO11122_LC|GO11002_LC|GO11024_LC|GO11025_LC|GO11039_LC|GO11103_LC|GO11083_LC|GO11019_LC|GO11097_SC|GO11103_SC
+231459974, 257.534332, -29.97342, 9.39, GO11049_LC|GO11071_LC|GO11122_LC|GO11062_LC|GO11024_LC|GO11039_LC|GO11083_LC
+233933903, 259.099557, -21.85795, 7.401, GO11012_LC|GO11071_LC|GO11122_LC|GO11062_LC|GO11024_LC|GO11039_LC|GO11083_LC|GO11019_LC|GO11012_SC
+234426962, 260.142964, -19.33375, 6.396, GO11012_LC|GO11071_LC|GO11122_LC|GO11002_LC|GO11062_LC|GO11024_LC|GO11039_LC|GO11083_LC|GO11019_LC|GO11085_LC|GO11012_SC
+234863731, 258.130271, -25.227159, 8.189, GO11012_LC|GO11071_LC|GO11122_LC|GO11062_LC|GO11024_LC|GO11039_LC|GO11083_LC|GO11019_LC|GO11012_SC
+236048293, 261.528288, -28.543596, 7.574, GO11071_LC|GO11122_LC|GO11048_LC|GO11002_LC|GO11062_LC|GO11083_LC|GO11019_LC
+240492619, 264.880091, -29.164813, 9.357, GO11123_LC|GO11083_LC
+241011563, 262.208133, -26.72971, 8.447, GO11012_LC|GO11071_LC|GO11122_LC|GO11024_LC|GO11039_LC|GO11083_LC|GO11012_SC

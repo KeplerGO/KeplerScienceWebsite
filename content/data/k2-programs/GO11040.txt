@@ -1,0 +1,80 @@
+# Summary of K2 Program GO11040
+
+Title: K2 Observations of Variable White Dwarfs in Fields 11, 12 and 13
+
+PI: Hermes, James J (University Of North Carolina, Chapel Hill)
+CoIs: Clemens, Chris; Gaensicke, Boris Teddy; Dennihy, Erik; Montgomery, Mike; Gentile Fusillo, Nicola; Fuchs, Josh; Kawaler, Steven; Barlow, Brad Newton; Winget, D. E.; Raddi, Roberto; Bell, Keaton
+
+We propose observations of variable white dwarfs (WDs) in Fields 11-13 of the K2 mission. We propose short-cadence observations of known and high-probability pulsating WDs. We additionally propose short-cadence observations of known magnetic and metal-polluted white dwarfs to constrain magnetic activity in these stars, and to search for possible transits in around stars with known evolved planetary systems.
+
+As they cool, WDs with hydrogen-dominated atmospheres pulsate as DAVs (a.k.a. ZZ Ceti stars) when they reach the appropriate effective temperature to foster a hydrogen partial-ionization zone, which efficiently drives global oscillations. This range of temperatures empirically spans roughly 12,600-11,100 K for typical-mass (0.6 Msun) WDs. Pulsating WDs provide an important glimpse into the interior of the future of the vast majority (> 97%) of all stars in our Galaxy, including our Sun, allowing us to probe the masses and compositions of their electron-degenerate cores, as well as of their non-degenerate envelopes; to determine their internal rotation profiles; and to detect weak magnetic fields.
+
+Since the DAV instability strip is defined by temperature, color selection is an excellent predictor of variability. Our team discovered all DAVs in the original Kepler mission, which is leading to exquisite insight into white dwarf interiors. We have applied the same photometric selection methods to K2 Fields 11-13 using the SDSS, VST/ATLAS, and VPHAS+ multiwavelength surveys, and have identified 75 excellent candidate white dwarfs on silicon in the three fields with colors consistent with the empirical DAV and DBV instability strips. Additionally, there are three previously published pulsating white dwarfs in Field 12. We have used ground-based resources to refine the atmospheric parameters of many of these candidates, confirming than a large number fall within the empirical ZZ Ceti instability strip. Additionally, we have confirmed pulsations in two new white dwarfs using ground-based high-speed photometry. With typical pulsations ranging from 100-1400 s, we require short-cadence observations of these white dwarfs.
+
+Every new DAV we can observe with K2 adds significant legacy value, since it brings us that much closer to statistically significant studies of white dwarfs with ensemble asteroseismology. There were only six pulsating white dwarfs in the original Kepler mission, but that number has grown to at least 20 with K2, and will continue to grow as the extended mission progresses.
+
+Additionally, we propose long-cadence observations of all other WD candidates in these fields, to continue our in-depth study into rotation, magnetic activity, planetary systems, and binarity in the endpoints of stellar evolution. These observations simultaneously allow for serendipitous discoveries, including possible eclipses or transits, as demonstrated by the unique disintegrating planetesimal orbiting a WD in K2 Campaign 1 (Vanderburg et al. 2015, Nature, 526, 546).
+
+# Targets requested by this program that have been observed (61)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+222060741, 264.483498, -28.053602, 15.634, GO11040_LC
+223269637, 267.681942, -26.248243, 14.263, GO11040_LC|GO11040_SC
+223360985, 266.226503, -26.100096, 14.317, GO11040_LC|GO11040_SC
+237872381, 261.758847, -30.554498, 17.928, GO11040_LC|GO11040_SC
+240256177, 264.202808, -29.983788, 15.209, GO11040_LC|GO11015_LC
+251248373, , , , GO11040_LC|GO11040_SC
+251248374, , , , GO11040_LC|GO11040_SC
+251248375, , , , GO11040_LC|GO11040_SC
+251248376, , , , GO11040_LC|GO11040_SC
+251248377, , , , GO11040_LC|GO11040_SC
+251248378, , , , GO11040_LC|GO11040_SC
+251248379, , , , GO11040_LC|GO11040_SC
+251248380, , , , GO11040_LC|GO11040_SC
+251248381, , , , GO11040_LC|GO11040_SC
+251248382, , , , GO11040_LC|GO11040_SC
+251248383, , , , GO11040_LC
+251248384, , , , GO11040_LC
+251248385, , , , GO11040_LC
+251248386, , , , GO11040_LC
+251248387, , , , GO11040_LC
+251248388, , , , GO11040_LC
+251248389, , , , GO11040_LC
+251248390, , , , GO11040_LC
+251248391, , , , GO11040_LC
+251248392, , , , GO11040_LC
+251248393, , , , GO11040_LC
+251248394, , , , GO11040_LC
+251248395, , , , GO11040_LC
+251248396, , , , GO11040_LC
+251248397, , , , GO11040_LC
+251248398, , , , GO11040_LC
+251248399, , , , GO11040_LC
+251248400, , , , GO11040_LC
+251248401, , , , GO11040_LC
+251248402, , , , GO11040_LC
+251248403, , , , GO11040_LC
+251248404, , , , GO11040_LC
+251248405, , , , GO11040_LC
+251248406, , , , GO11040_LC
+251248407, , , , GO11040_LC
+251248408, , , , GO11040_LC
+251248409, , , , GO11040_LC
+251248410, , , , GO11040_LC
+251248411, , , , GO11040_LC
+251248412, , , , GO11040_LC
+251248413, , , , GO11040_LC
+251248414, , , , GO11040_LC
+251248415, , , , GO11040_LC
+251248416, , , , GO11040_LC
+251248417, , , , GO11040_LC
+251248418, , , , GO11040_LC
+251248419, , , , GO11040_LC
+251248420, , , , GO11040_LC
+251248421, , , , GO11040_LC
+251248422, , , , GO11040_LC
+251248423, , , , GO11040_LC
+251248424, , , , GO11040_LC
+251248425, , , , GO11040_LC
+251248426, , , , GO11040_LC
+251248427, , , , GO11040_LC
+251248428, , , , GO11040_LC

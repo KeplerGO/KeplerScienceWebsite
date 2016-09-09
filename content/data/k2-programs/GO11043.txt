@@ -1,0 +1,19 @@
+# Summary of K2 Program GO11043
+
+Title: Novae in the Kepler field
+
+PI: Orio, Marina (University of Wisconsin)
+CoIs: 
+
+17 quiescent classical or recurrent novae will be ``on silicon'' during Kepler campaign 11. These novae have previously been observed at quiescence and are known to be at visual magnitude (and Kepler magnitude) between 15 and 21.5. Only two of these objects, among the brightest in quiescence,  have known orbital periods, so my first goal is to complete the sample or binary periods. 
+   The Kepler data will give a unique opportunity to study these white dwarfs interacting binaries in detail. Because the eruptions have been well observed, and many physical parameters of the outbursts are known, measuring the orbital  periods will allow to improve and fine-tune the theory of hydrogen burning white dwarfs, the same phenomenon that may lead also to type Ia supernovae events. I will be able to correlate the binary periods with the other physical parameters that demonstrate the secular evolution of accretion and hydrogen burning. Moreover, recently I have also already been investigating a very interesting subset of novae that have highly magnetized white dwarfs, the intermediate polars, and found that the beat period of the orbital and rotational period (usually close to the rotational period of the white dwarf) is detectable in the optical light curves, albeit often with low amplitude.
+    I ask to observe the tree most luminous and better known targets  with the 1 minute cadence, and the others with the long cadence (aimed mainly at the orbital period measurements). The short cadence will  allow not only measurements related to white dwarf rotation, but also of stochastic variability. Flickering reveals a direct connection with the mass transfer rate, as it has already been inferred for a few cataclysmic variables in previously obtained Kepler data. My third aim is  thus to obtain multi-component power density spectra for the three short-cadence objects. The amplitude of the broad-band flickering is correlated with the flux, which is in turn dependent on the mass accretion rate onto the white dwarf, a fundamental physical parameter in the evolution of the interacting binary.
+  This investigation has been started with a classical nova and two other white dwarf binaries in campaign 7, two of them observed with short cadence.    The goals of the investigation are fully consistent with the 2014 NASA strategic plan of discovering how the universe works, and exploring how it evolves, by studying the origin and evolution of binary stars, including some of those that end as  supernovae Ia, which are of cosmological importance.
+
+# Targets requested by this program that have been observed (5)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+237741498, 258.21336, -30.943653, 16.892, GO11026_LC|GO11043_LC
+240739740, 263.685211, -28.176585, 14.948, GO11067_LC|GO11043_LC
+251248367, , , , GO11055_LC|GO11026_LC|GO11067_LC|GO11043_LC|GO11055_SC
+251248431, , , , GO11067_LC|GO11043_LC
+251248432, , , , GO11067_LC|GO11043_LC

@@ -20,6 +20,59 @@ After data has been released, the
 should be consulted for more comprehensive notes for each Campaign.
 
 
+Campaign 11
+-----------
+.. raw:: html
+
+    <p>
+    The Campaign 11 target list includes <b>14,209 standard long cadence</b> and <b>65 standard short cadence</b> targets.
+    The number of targets is lower than usual because it is a function of the spacecraft's on-board compression efficiency, which is low in the crowded Galactic Bulge field targeted by this Campaign.
+    </p>
+
+    <p>
+    We gained efficiency by tiling <b>five globular clusters—M9, M19, NGC 6293, NGC 6355, and Terzan 5</b>—which contained a high density of targets requested by multiple programs.
+    The latter three clusters will be observed using a circular aperture with 1.6' radius, whilst M9 was targeted using a 2' radius aperture, and M19 will be targeted using a 3'-by-5' rectangular aperture because it fell only partially on silicon.
+    </p>
+
+    <p>
+    The target list also includes <b>11 very bright stars</b> (Kp magnitudes 3 to 6) for which we target only the central region of pixels using a circular aperture mask, excluding the long saturation bleed.
+    Two of the bright stars are observed in short cadence (26 Oph &amp; 36 Oph) and
+    the others in long cadence.
+    </p>
+
+    <p>
+    Finally, we will also observe <b>55 Trojan asteroids</b>, <b>7 Trans-Neptunian Objects</b>, and Saturn's moons <b>Titan and Enceladus</b>.
+    The trajectories of these moving bodies have been tiled using 1xn or nx1 pixel strips.
+    </p>
+
+    <p>
+    Note that this is the first campaign to be executed after the <a href='/retirement-of-ccd-module-4-confirmed.html'>loss of CCD Module 4</a>.
+    Targets that were approved but would have fallen on this module were excluded from the target list.
+    Only five programs lost more than 10% of their targets as a result,
+    and no program lost more than 20%.
+    </p>
+
+  <ul class="list-group">
+    <li class="list-group-item">
+      <i class="fa fa-calendar fa-margin"></i>
+      Sep 24 - Dec 8, 2016
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-pencil-square-o fa-margin"></i>
+      Data release notes (awaiting data release)
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-download fa-margin"></i>
+      <a href="data/campaigns/c11/K2Campaign11targets.csv">Target list (csv)</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-external-link fa-margin"></i>
+      Target pixel files (awaiting data release)
+    </li>
+  </ul>
+
+.. include:: approved-programs/c11.html
+
 
 Campaign 10
 -----------
