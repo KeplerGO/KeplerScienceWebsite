@@ -1,0 +1,16 @@
+# Summary of K2 Program GO11062
+
+Title: K2 Monitoring of Known Planets and Long-term RV targets
+
+PI: Wright, Jason T (The Pennsylvania State University)
+CoIs: Beatty, Thomas G; Curtis, Jason Lee; Robertson, Paul M; Bastien, Fabienne Anne; Zhao, Ming
+
+We propose two groups of bright targets in Campaigns 11, 12, and 13: known transiting planet host stars, and known radial velocity planet host stars and long-term precise RV targets from the California Planet Search team. Each K2 field has less than a dozen known planet host stars falling on silicon. Continuous monitoring of these rare but important K2 targets will provide invaluable data for detailed high precision characterization of both the planets and their host stars. We therefore urge Campaigns 11, 12, and 13 to observe these systems since it may be the only chance for such long duration, high precision observations of these important targets
+
+# Targets requested by this program that have been observed (5)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+231459974, 257.534332, -29.97342, 9.39, GO11049_LC|GO11071_LC|GO11122_LC|GO11062_LC|GO11024_LC|GO11039_LC|GO11083_LC
+233933903, 259.099557, -21.85795, 7.401, GO11012_LC|GO11071_LC|GO11122_LC|GO11062_LC|GO11024_LC|GO11039_LC|GO11083_LC|GO11019_LC|GO11012_SC
+234426962, 260.142964, -19.33375, 6.396, GO11012_LC|GO11071_LC|GO11122_LC|GO11002_LC|GO11062_LC|GO11024_LC|GO11039_LC|GO11083_LC|GO11019_LC|GO11085_LC|GO11012_SC
+234863731, 258.130271, -25.227159, 8.189, GO11012_LC|GO11071_LC|GO11122_LC|GO11062_LC|GO11024_LC|GO11039_LC|GO11083_LC|GO11019_LC|GO11012_SC
+236048293, 261.528288, -28.543596, 7.574, GO11071_LC|GO11122_LC|GO11048_LC|GO11002_LC|GO11062_LC|GO11083_LC|GO11019_LC

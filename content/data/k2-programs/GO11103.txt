@@ -1,0 +1,24 @@
+# Summary of K2 Program GO11103
+
+Title: K2 Monitoring Direct of Direct Imaging Planet Search Survey Stars
+
+PI: Patience, Jennifer (ASU)
+CoIs: De Rosa, Robert John; Aguilar, Jonathan A; Nielsen, Eric L; Greenbaum, Alexandra; Bastien, Fabienne Anne
+
+We propose to use NASAs K2 to monitor 14 stars selected from ground-based direct imaging surveys that fall in Campaigns 11, 12, 13, in order to measure variations that result from rotation of surface features, stellar flares, and seismic activity. Direct imaging surveys target young stars that are good candidates for hosting gas giant planets at 10s of AU separation and protoplanetary or debris disks. The stars in our sample are chosen from GPIES (Macintosh et al. 2013), SPHERE (Bezuit et al. 2008), NICI (Wahaj et al. 2013, Nielsen et al., 2013, Biller et al., 2013), and SEEDS (Brandt et al. 2014) public target lists. They have been age-dated primarily by lithium, placement on the HR diagram, or by association to moving groups at young ages. 
+
+The inferred properties of planetary-mass or brown dwarf companions discovered through direct imaging are often model dependent (e.g. Burrows et al. 1997, Baraffe et al. 2003), relying heavily on their age estimates. Identifying older systems that appear young from other estimates will improve the analysis of any circumstellar material (including companions), as well as survey statistics regarding the overall population and formation trends of long-period planets. Additionally, the stellar magnetic field environment can affect orbit evolution of companions as well as dust grain properties in disks. The stellar properties of direct imaging targets are an important component of understanding planet forming populations. 
+
+Our program has three major goals, (1) to find potentially misidentified stellar ages in our sample through asteroseismology, (2) to measure stellar rotation periods to combine with radial velocity measurements from other facilities, and (3) to detect stellar flares in order to better understand the circumstellar environments where planets form and disks evolve. As more direct imaging target stars are monitored with K2, comparing their existing age estimates with newly measured rotational properties can help to explain angular momentum loss in young stars that may host planets. 
+
+We propose short cadence observations in order to detect variations due to seismic activity and resolve detailed morphology of stellar flares. These observations will also provide rotational periods for each of our targets. Combining rotation rates with vsini measurements will resolve the inclination of the stellar axis for systems with potential planetary mass companions and/or disks. Measuring flaring properties of the stars in our sample will indicate the magnetic fields present in the circumstellar region, which is an important component to fully understanding the planet formation process. Finally, asteroseismology may be able to identify stars that are older than other age-dating methods have suggested.
+
+# Targets requested by this program that have been observed (7)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+221620277, 265.626479, -28.748777, 8.868, GO11097_LC|GO11071_LC|GO11122_LC|GO11002_LC|GO11024_LC|GO11025_LC|GO11039_LC|GO11103_LC|GO11083_LC|GO11019_LC|GO11097_SC|GO11103_SC
+227161374, 263.099437, -18.840542, 10.142, GO11049_LC|GO11025_LC|GO11103_LC|GO11103_SC
+231018340, 256.504958, -25.341777, 9.523, GO11049_LC|GO11103_LC
+232073109, 255.179011, -27.421541, 9.025, GO11071_LC|GO11122_LC|GO11002_LC|GO11024_LC|GO11103_LC|GO11082_LC
+234511279, 261.217666, -18.859224, 8.76, GO11071_LC|GO11122_LC|GO11024_LC|GO11103_LC|GO11103_SC
+235324956, 259.075333, -23.179812, 10.812, GO11103_LC|GO11019_LC
+236267042, 258.765074, -27.827713, 10.351, GO11002_LC|GO11103_LC|GO11019_LC|GO11103_SC
