@@ -1,0 +1,54 @@
+# Summary of K2 Program GO11070
+
+Title: Cepheids throughout the Galaxy
+
+PI: Plachy, Emese (Konkoly Observatory)
+CoIs: Molnar, Laszlo; Szabo, Robert; Smolec, Radoslaw; Moskalik, Pawel A
+
+Cepheids are a diverse family of pulsating yellow supergiants. They are crucial objects for understanding the structure and evolution of stars, and to explore connections between pulsation, mass loss, convection and rotation. Moreover, they are key tools in galactic and extragalactic studies as distance indicators. Still, only a few members of this group have been observed by space missions before K2. We are currently building up the most comprehensive sample of Cepheid light curves with the K2 mission and the upcoming field of views contain many important targets in various directions of the Galaxy. 
+
+Space-based, continuous photometry revealed many puzzling phenomena in these stars. The lone Kepler Cepheid, V1154 Cyg exhibit small-scale irregularities (period jitter) and low-level modulation. Ground-based surveys indicate that first overtone stars are expected to have various low-amplitude additional modes. Hydrodynamical calculations suggest that various dynamical effects and even chaos can occur in the pulsation of type II Cepheids. These effects hold clues to various physical insights, but their observations require high-precision, continuous photometry that only K2 can provide. 
+
+The three campaigns focus on very different Galactic directions:
+
+The bulge
+In Field 11 we identified ~150 targets, most of which are type II Cepheids. 124 candidates were collected from the still unpublished data of the OGLE IV survey. The high-priority targets include rare double- and triple-mode Cepheids, such as V767 Sgr, among others. 15 targets that we also included in our C9 DDT proposal fall into the overlapping region between Campaigns 9 and 11. Given the long pulsation periods of Cepheids, extended observations are highly desired. In addition, two Cepheids are members of globular clusters M9 and NGC 6316.  
+
+The halo
+The direction of Field 12 is not favorable for these stars, but we found 6 targets, of which 3 appear to be anomalous Cepheids. Many aspects of these stars are not well understood, including their formation. 
+
+The outer Milky Way
+In Field 13, towards the anti-center we found 10 targets. The priority target in this campaign is the well-known Cepheid SZ Tau that was already observed by MOST and it is accessible for the BRITE space telescopes as well. The star pulsates in the first overtone, so additional modes and/or dynamical effects are expected. The short MOST data already suggested the presence of some cycle-to-cycle variations. The observations would provide direct comparison of the capabilities of various space missions and form a multi-year data set for this star. 
+ 
+Technical details
+The KASC Working Group 7 has been involved in the Kepler mission from the start and has all the necessary skills to reduce the target pixel files and analyze the data, including the handling of crowded fields. We propose all stars to be observed in long cadence mode. Two stars, BF Oph and SZ Tau are very bright (6.9 and 6.4 mag, respectively) and can likely be recovered from the smear data. However, we request to assign a dedicated pixel mask to SZ Tau, given the importance and unique possibilities this star offers for us. We also note that BF Oph and SZ Tau are bright enough to be included in the Tycho-Gaia Asterometric Solution, expected to be released in 2016.
+
+# Targets requested by this program that have been observed (27)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+221752975, 264.655325, -28.525023, 13.597, GO11070_LC
+221946095, 264.720588, -28.226089, 13.846, GO11002_LC|GO11070_LC
+222078293, 265.38872, -28.026974, 15.149, GO11086_LC|GO11070_LC
+222976339, 268.118382, -26.703469, 11.948, GO11048_LC|GO11111_LC|GO11070_LC
+223126835, 266.073652, -26.473694, 13.27, GO11070_LC|GO11902_LC
+223482421, 266.24449, -25.899663, 14.837, GO11070_LC|GO11902_LC
+224258716, 266.966476, -24.569506, 13.289, GO11070_LC|GO11902_LC
+224287270, 267.461839, -24.517563, 13.162, GO11070_LC|GO11902_LC
+224682157, 264.397494, -23.818123, 12.982, GO11123_LC|GO11087_LC|GO11070_LC
+232115696, 254.122903, -27.223841, 13.599, GO11111_LC|GO11070_LC
+232254012, 255.286057, -26.595097, 11.356, GO11002_LC|GO11095_LC|GO11070_LC
+232257232, 256.522908, -26.580563, 7.947, GO11122_LC|GO11070_LC
+234565434, 259.719505, -18.555656, 15.188, GO11111_LC|GO11070_LC
+235265305, 260.229448, -23.435513, 13.69, GO11123_LC|GO11048_LC|GO11070_LC
+235595726, 258.528976, -29.942143, 13.992, GO11111_LC|GO11070_LC
+235784069, 259.488484, -29.369816, 14.011, GO11002_LC|GO11070_LC
+238002379, 259.172517, -30.167774, 17.105, GO11070_LC
+240470266, 264.115721, -29.245857, 13.743, GO11070_LC
+240487813, 263.604637, -29.18227, 13.887, GO11070_LC
+240513297, 262.751173, -29.094, 13.699, GO11070_LC
+240545661, 264.08241, -28.980047, 13.444, GO11070_LC
+240580960, 262.681956, -28.849571, 13.26, GO11070_LC
+240628444, 263.866308, -28.665394, 15.712, GO11070_LC
+240844099, 262.229589, -27.642058, 12.533, GO11084_LC|GO11002_LC|GO11070_LC
+251248452, , , , GO11070_LC
+251248453, , , , GO11070_LC
+251248454, , , , GO11070_LC

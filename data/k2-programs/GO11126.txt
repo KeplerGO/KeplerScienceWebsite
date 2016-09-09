@@ -1,0 +1,111 @@
+# Summary of K2 Program GO11126
+
+Title: The age of moderately metal-poor stars in Bulge Globular Clusters  Campaign 11
+
+PI: Valentini, Marica (Kepler Guest Observer Office)
+CoIs: Ortolani, Sergio; Chiappini, Cristina; Miglio, Andrea; Anders, Friedrich; Montalban, Josefina; Bica, Eduardo Luiz Damiani; Barbuy, Beatriz; Cantelli, Elvis
+
+MOTIVATION: Most of the current observational efforts in finding the chemical imprints left by the first stars have focused on the most metal-poor stars found in the MW halo. However, studies based on the chemical and kinematic properties of stars in the different MW components have shown that not only the halo, but also the bulge and thick disk are potential hosts of the oldest stars in our Galaxy. 
+By studying the heavy element content of few stars in the oldest MW GC NGC6522, located in the Galactic Bulge, Chiappini et al. (2001) and Barbuy et al. (2014) suggested that Bulge stars at moderately low metallicites are as old as the oldest halo stars, which are 100 times more metal poor ([Fe/H] = -3). Obviously, no age measurements are available for any of the red giants studied in these works. As the correspondence between age and metallicity is strongly dependent on the star formation history of the particular studied component, it is crucial to confirm that moderately metal poor Bulge stars are very old and hence born from an interstellar medium essentially enriched by the first stellar generations of massive stars. This confirmation can be performed by measuring with high precision the ages and abundances of red giants in moderately metal poor Bulge Globular Clusters. Two metal-poor Bulge Globular Clusters are present in the K2 C11 field: Pal 6 and NGC 6355. As only asteroseismic measurements will be able to provide precise ages for these distant red giants, this is an opportunity not to be missed by K2. The feasibility and the impact of the use of asteroseismology coupled with spectroscopy have been confirmed by recent works in the field of Galactic Archaeology (i.e. Chiappini et al. 2015).
+
+RELEVANCE: The derivation of precise and accurate abundances and ages for red giants in Bulge Globular Clusters is hampered by the lack of the knowledge about extinction and ages for red giants (difficulties in determining atmospheric parameters plus degeneracies in the HR diagram the RG locus). A dedicated program combining asteroseismology with K2 and spectroscopy will avoid such limitations, providing an ambitious and new dataset where to look for the imprints of first stars. This will be the only opportunity to confirm/discard the old ages of Red Giant Bulge stars in Globular Clusters of moderate metallicities ([Fe/H] ~ -1). With this project we open a new window into the study of the fossil records of the first stellar generations.
+
+AIM: Here we aim at observing a rather small sample (5-10 targets per cluster) of Red Giants in NGC 6355 and Pal 6 during  C11. Most of the stars already have secured spectroscopic follow-up by our group. The light curves, obtained from this campaign, will lead us to obtain fundamental seismic information. With this data we aim to a) confirm that Bulge stars of moderately low metallicities are very old objects, as old as the oldest halo stars observed ; and b) analyse the chemical pattern of the oldest objects in order to establish if there are imprints left by the first stellar generations. A parallel pilot project will be carried for field stars, which have already APOGEE spectra.
+
+METHODOLOGY: The K2 data will be used to determine the radius and the mass of each stars using asteroseismology. This information will be complemented by already secured ground-based spectroscopy (individual bulge globular cluster studies of Barbuy and collaborators). It will be therefore possible to determine precise distances (and hence reddening) and precise model-dependent ages for each target.  Finally, the inferred ages together with key abundance indicators, will be combined in order to identify possible imprints of the first stellar generations left in the oldest stars in the Galactic Bulge.
+
+# Targets requested by this program that have been observed (93)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+200127414, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127415, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127416, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127417, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127418, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127419, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127420, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127421, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127422, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127423, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127424, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127425, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127426, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127427, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127428, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127429, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127430, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127431, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127432, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127433, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127434, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127435, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127436, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127437, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127438, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127439, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127440, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127441, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127442, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127443, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127444, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127445, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127446, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127447, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127448, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127449, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127450, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127451, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127452, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127453, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127454, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127455, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127456, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127457, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127458, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127459, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127460, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127461, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127462, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127463, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127464, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127465, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127466, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127467, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127468, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127469, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127470, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127471, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127472, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127473, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127474, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127475, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127476, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127477, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127478, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127479, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127480, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127481, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127482, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127483, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127484, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127485, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127486, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127487, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127488, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127489, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127490, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127491, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127492, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127493, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127494, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127495, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127496, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127497, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127498, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127499, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127500, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+200127501, , , , GO11049_LC|GO11111_LC|GO11126_LC|CLUSTER_TILE
+251249151, , , , GO11126_LC
+251249152, , , , GO11126_LC
+251249172, , , , GO11126_LC
+251249175, , , , GO11126_LC
+251249178, , , , GO11126_LC

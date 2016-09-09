@@ -1,0 +1,13 @@
+# Summary of K2 Program GO11063
+
+Title: Pulsation in a Hot Pre-Planetary Nebula
+
+PI: Hrivnak, Bruce J (Valparaiso University)
+CoIs: 
+
+This research program deals with the structure and evolution of low and intermediate mass stars in the short-lived (~1000 years) but very important transitional stage between the AGB and the PN phases.  Ground-based studies of the cooler F-G spectral type objects have shown pulsation with amplitudes of a few 0.1 mags with dominant periods of 35 to 160 days and additional weaker periods of similar time scale.  Hotter (B type) objects are found to vary but on much shorter time scales (< few days), and we have not been able to observe these from the ground with a cadence that allows the periods to be determined.  Fortunately two pre-PN are available in the field for Campaign 11.  The K2 mission with the 30 min cadence provides an excellent means to accomplish this goal and for the first time determine the pulsation periods for a hot pre-PN.  These can be used to determine the structure and physical properties of the star, a task that has been accomplished in spectacular fashion with Kepler data for stars in many other phases of their evolution.
+
+# Targets requested by this program that have been observed (2)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+230819479, 257.600618, -18.816852, 11.631, GO11113_LC|GO11122_LC|GO11101_LC|GO11024_LC|GO11063_LC|GO11127_LC
+237780335, 258.465853, -30.828001, 11.675, GO11076_LC|GO11063_LC

@@ -1,0 +1,17 @@
+# Summary of K2 Program GO11115
+
+Title: Staring at the Galactic bulge X-ray Binaries with Kepler K2
+
+PI: Mata Sanchez, Daniel (Instituto de Astrofísica de Canarias)
+CoIs: Casares, Jorge; Muñoz-Darias, Teodoro; Linares, Manuel
+
+Low mass X-ray binaries (LMXBs) are formed by a compact stellar remnant (either a neutron star or a stellar black hole) and a low mass companion star, which transfers matter onto the compact object via an accretion disk. Photometric studies of LMXBs have revealed their strong optical variability, due to both the orbital modulation produced by the secondary star and the accretion disk instabilities, which can dramatically increase their optical brightness. Long-term monitoring of LMXBs allows us to study both orbital and super-orbital variability (typical LMXBs orbital periods last from hours to days). Uninterrupted, long-term observations are not possible with ground-based telescopes. Thus, the Kepler K2 mission can provide an unprecedented view of accretion processes onto neutron stars (NS) and black holes (BHs).
+
+The prototypical NS LMXB (Sco X-1) has already been observed in previous campaigns of the K2 mission (Scaringi et al. 2015, Hakala et al. 2015). They measure both optical lags and rapid transitions between optical high and low states, probing both the feasibility and fruitfulness of this kind of studies. We propose to observe LMXBs in Campaign 11 field of view. From an initial sample of 19 systems, five LMXBs in K2 Campaign 11 remain after discarding sources without optical/near-infrared counterparts as well as those where source confusion prevents proper identification. The target selection (five sources) includes: a transient BH (V2107 Oph, target 1), one transient NS (XTE J1710-281, target 2), a transient BH candidate (GRO J1719-24, target 3) and two persistent NSs (4U 1728-16 and 3A 1728-247; targets 4 and 5 respectively). The analysis of these LMXBs will result in very complementary studies of different populations representatives. 
+
+We will i) measure the orbital period on transient systems which still lack a proper determination (target 3, a BH candidate not yet well studied); as well as ii) determine the ellipsoidal modulation for those whose period is already known (target 1 and 2, a BH candidate and a NS system respectively). The ellipsoidal modulation is critical as it is one of the few ways to determine the elusive inclination angle, which usually dominates de error budget on mass determinations. In particular, the only ellipsoidal studies of target 1 were performed 20 years ago (Martin et al. 1995; Remillard et al. 1996) using poor resolution light curves; and they are most likely affected by fast flickering and needs revisiting. In addition, target 2 has already shown X-ray eclipses (Jain & Paul 2008), and therefore a large amplitude ellipsoidal modulation (due to its high inclination) is expected. On the other hand, (iii) persistent systems (targets 4 and 5, both with NS) are known to exhibit different optical states, which can be characterized using K2 light curves (see Scaringi et al. 2015, Hakala et al. 2015).
+
+# Targets requested by this program that have been observed (2)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+224161655, 263.009072, -24.745632, 11.77, GO11067_LC|GO11002_LC|GO11017_LC|GO11115_LC|GO11067_SC|GO11115_SC
+251248439, , , , GO11055_LC|GO11115_LC|GO11055_SC

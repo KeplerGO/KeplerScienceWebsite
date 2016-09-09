@@ -1,0 +1,16 @@
+# Summary of K2 Program GO11004
+
+Title: A survey of M/L flare stars
+
+PI: Ramsay, Gavin (Armagh Observatory)
+CoIs: Doyle, John Gerard
+
+Flares are seen from stars of various spectral types including our Sun.  However, flares from stars with a much lower mass than our Sun are more common than higher mass stars. At the start of K2 we initiated a project to observe a stars with M/L spectral type to determine how the flare activity depends on parameters such as mass, rotation period, age and hence a better understanding of the
+underlying physics which produce flares. A second key goal is to assess how correlated flares are with the stellar rotational phase. Kepler observations indicate that at least some flare stars do not show a correlation but do show a characteristic rotational modulation. This is difficult to explain since the modulation is expected to be due to starspots rotating into and out of view which should produce a correlation between phase and flare rate. Our work will also have implications for determining how flares can effect the atmosphere of any exoplanets in the stellar system. Our target selection will cover the M (and early L) spectral types. We bid for observatios of 4, 3 and 10 known flare stars in Fields 11, 12 and 13 respectively. Since stellar flares can have a duration of only a few minutes, we request that some of our observations will be configured in short cadence mode.
+
+# Targets requested by this program that have been observed (4)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+233927249, 260.955772, -21.891926, 13.861, GO11018_LC|GO11004_LC|GO11004_SC
+234408031, 259.876477, -19.440848, 16.281, GO11004_LC|GO11004_SC
+234447752, 259.501822, -19.214776, 14.862, GO11004_LC|GO11004_SC
+234470509, 260.343705, -19.086308, 16.809, GO11004_LC|GO11004_SC

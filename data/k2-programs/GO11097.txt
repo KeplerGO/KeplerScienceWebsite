@@ -1,0 +1,33 @@
+# Summary of K2 Program GO11097
+
+Title: Solar-like Oscillations in Eclipsing-Binary Systems - Cycle 4
+
+PI: Gaulme, Patrick (New Mexico State University)
+CoIs: Chaplin, William J; Huber, Daniel; Guzik, Joyce Ann; Rawls, Meredith L; Miglio, Andrea; Pavlovski, Kresimir; Appourchaux, Thierry; Mathur, Savita; Bedding, Tim; Jackiewicz, Jason; Silva Aguirre, Victor; Benomar, Othman Michel; Beck, Paul G; Stello, Dennis; Mosser, Benoit; Corsaro, Enrico Maria Nicola; McKeever, Jean M
+
+We propose to use K2 unique capability to detect solar-like oscillations of main-sequence, sub, and red-giant stars that belong to well-known eclipsing binaries. This proposal follows similar ones we submitted for K2 campaigns 0, 1, 3, 4, 5, 6, and 7, for which we got awarded (GO: 0073, 1034, 3064, 4105, 5105, 6033, 7033). Even though many eclipsing binaries were observed by Kepler, almost none were done at short cadence, which prevented from detecting solar-like oscillations of systems composed of main-sequence and sub-giant stars. The main purpose of this series of proposals is to access such kind of systems. 
+
+Binary systems hosting at least one star with detectable solar-like pulsations are becoming important astrophysical targets because they provide a way to calibrate asteroseismology. As illustrated by the CoRoT and Kepler missions, asteroseismology is an efficient method to measure masses, radii, and ages of large numbers of stars, which is of prime importance to test stellar evolution. However, a crucial test of both asteroseismic masses and radii of a large sample of stars with independent measurements of those quantities has not yet been carried out. Eclipsing binary systems (EBs) potentially permit such an exercise by allowing for accurate determination of masses and radii of both stars by combining photometric and radial-velocity measurements, provided that spectral lines are detectable for both components. EBs are also interesting for the physical processes resulting from tidal interactions, which may influence their evolution when the stars are close enough (e.g. Gaulme et al. 2014). 
+
+So far, all published stars known to both display solar-like oscillations and belong to EBs are red-giants (RGs), and all have been detected by the Kepler mission. The first detection was the 408-day period system KIC 8410637 (Hekker et al. 2010, Frandsen et al. 2013). Since then, Gaulme et al. (2013 & 2014) reported a list 18 RG eclipsing-binary (RG/EB) candidates, of which 14 displayed oscillations. Beck et al. (2014 & 2015) reported the discovery of 18 stars with tidally excited pulsations (``heartbeat''), where each system has a RG component with oscillations, and three are also EBs. Two of these systems, KIC 8410637 and 9246715 have been completely characterized by combining photometry and radial velocities (Frandsen et al. 2013, Rawls et al. 2016). Both show a fairly good agreement between asteroseismic and photo-dynamical estimates of surface gravity and mean density, even though (Huber et al. 2014) contested the agreement regarding KIC  8410637. Provided that oscillations are detected, observing known EBs with K2 is a unique opportunity to extend the sample of systems to test asteroseismology. 
+
+The purpose of this GO proposal is to observe a small set (maximum 6 per field) of eclipsing binaries that are already well characterized in terms of physical parameters (orbits, masses, radii). Doing so present two main advantages. Firstly, observing well-known systems helps predicting the likelihood of detecting solar-like oscillations. Secondly, the objective is to optimally focus our available resources for ground-based follow-up observations on the most rewarding targets. High-resolution spectroscopy is very time consuming, when one is aiming for precise radial velocities and high signal-to-noise data that serves as input for spectral-disentangling techniques. 
+
+Funding will be requested to pay a graduate student for a 1-year and two trips to Europe, where most of the asteroseismic conferences/workshops are held.
+
+References
+Beck et al. 2014, A&A, 564, 36
+Beck et al. 2015, EPJWC 101, 6004
+Frandsen et al. 2013, A&A, 556, 138
+Gaulme et al. 2013, ApJ, 767, 82
+Gaulme et al.  2014, ApJ, 785, 5
+Hekker et al. 2010, ApJL, 713, L187
+Huber 2014, ArXiv e-prints
+Rawls et al., 2016, ArXiv e-prints
+
+# Targets requested by this program that have been observed (4)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+203250290, 253.233363, -26.750649, 8.331, GO11097_LC
+221620277, 265.626479, -28.748777, 8.868, GO11097_LC|GO11071_LC|GO11122_LC|GO11002_LC|GO11024_LC|GO11025_LC|GO11039_LC|GO11103_LC|GO11083_LC|GO11019_LC|GO11097_SC|GO11103_SC
+223299417, 266.605799, -26.200311, 8.26, GO11097_LC|GO11002_LC|GO11101_LC|GO11095_LC
+231856972, 254.024585, -28.363482, 10.588, GO11097_LC|GO11122_LC|GO11002_LC|GO11098_LC|GO11024_LC|GO11097_SC

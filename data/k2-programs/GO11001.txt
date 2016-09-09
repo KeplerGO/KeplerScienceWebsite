@@ -1,0 +1,15 @@
+# Summary of K2 Program GO11001
+
+Title: AGN Variability Studies with K2 Campaigns 11-13
+
+PI: Edelson, Rick (University of Maryland, College Park)
+CoIs: Starkey, David A; Vaughan, Simon; Malkan, Matthew A; Vanderburg, Andrew; Stern, Daniel K; Horne, Keith
+
+Abstract: Kepler's unprecedented precision, sampling, and duty cycle is revolutionizing the study of AGN optical variability, providing the first observation of a break in the optical PSD of a Type 1 AGN and clarification of the nature of microvariability in blazars.  We propose LC monitoring of 189 AGN and robust AGN candidates as part of our program to observe hundreds of AGN throughout the K2 mission, improving the statistical leverage for characterizing AGN optical variability.  We will also undertake simultaneous multiwavelength monitoring of the brightest and most promising Type 1 AGN in order to further constrain the physical conditions in the innermost regions responsible for their huge energy output.
+
+# Targets requested by this program that have been observed (4)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+204392026, 253.060713, -22.516369, 18.212, GO11001_LC
+230614967, 255.900074, -20.788913, 15.545, GO11001_LC
+231250337, 257.436232, -23.781417, 14.533, GO11001_LC
+235115462, 259.12408, -24.096962, 15.261, GO11001_LC

@@ -1,0 +1,68 @@
+# Summary of K2 Program GO11014
+
+Title: Rotation rates and ages of stars in wide binary systems, and a search for hierarchical triples in Kepler K2 campaigns 11-12-13
+
+PI: Lepine, Sebastien (Georgia State University)
+CoIs: 
+
+Wide binary systems are of high interest for both stellar astrophysics and exoplanet research. Because they were born and ejected from the same parent star cluster, they also share the same age and presumably have very similar chemical compositions. At the same time, their large separations mean that they essentially behave like single stars, and can also be observed and studied separately. For stellar astrophysics, these systems represent a unique means of testing stellar evolution models at moderate to old ages (2-12 Gy), complementing data available for younger ages from the study of nearby star clusters or young moving groups. In particular, old wide systems are critical to test the predictions of gyrochronology, which posit a relationship between the age of a low-mass star and its rotation rate, a relationship that may prove critical for dating exoplanet systems discovered by Kepler and other surveys. This gyrochronology hypothesis can be tested by measuring the rotation rates of stars in wide pairs, and verifying that the rotation rates are correlated, which should be true regardless of what their actual ages are. Based on a search of the SUPERBLINK proper motion catalog in the fields to be observed in K2 campaigns 11, 12, and 13, we have identified a total of 180 common proper motion (i.e. co-moving) pairs of stars with angular separations between 4 and 60. Our statistical analysis indicates that about 90% of those pairs must be physical binaries in wide orbits (with the rest being chance alignment of unrelated stars). Half the primaries in those wide systems appear to be main-sequence stars of subtypes F-G-K, with the other half consisting of M dwarfs. A majority of the secondaries, on the other hand, appear to be main-sequence M dwarfs. We propose to use Kepler to observe there stars in wide binary pairs, and measure their rotation rates from an auto-correlation analysis of their light curves. All the pairs should be resolved on the Kepler cameras (4 arcsec pixel size), although some pairs will have overlapping point spread functions and may require pixel-by-pixel analysis. Interestingly, many pairs can be observed in a single Kepler aperture, and thus may only need to be counted as a single target (or may use fewer pixels overall). One prediction of stellar multiplicity models is that very wide companions are often produced by dynamical relaxation in a triple systems, which means that a significant fraction of wide binaries may actually be hierarchical triples, with the inner system having a high probability of being a very tight (spectroscopic or eclipsing) binary star; this prediction will be directly tested with K2, by measuring the detection rate of eclipsing binaries in those pairs.
+
+# Targets requested by this program that have been observed (57)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+203580990, 253.69414, -25.654025, 14.871, GO11014_LC|GO11018_LC|GO11902_LC
+203581501, 253.691977, -25.652281, 15.432, GO11014_LC|GO11018_LC
+203584749, 253.647027, -25.641121, 16.131, GO11014_LC|GO11018_LC
+203587865, 253.644198, -25.63042, 13.331, GO11014_LC|GO11123_LC|GO11902_LC
+203898868, 253.390644, -24.49937, 15.522, GO11014_LC|GO11018_LC
+203899603, 253.39117, -24.496452, 14.634, GO11014_LC|GO11018_LC
+204508191, 254.064991, -22.05411, 15.93, GO11014_LC|GO11018_LC
+204511273, 254.059942, -22.041502, 16.508, GO11014_LC|GO11015_LC
+204596157, 254.363891, -21.686167, 15.965, GO11014_LC|GO11018_LC
+222085926, 264.406569, -28.015409, 15.048, GO11014_LC|GO11018_LC
+222086400, 264.408176, -28.01467, 14.188, GO11014_LC
+223804032, 266.328076, -25.361335, 8.608, GO11014_LC|GO11122_LC|GO11065_LC|GO11024_LC|GO11019_LC
+223807816, 266.321062, -25.354741, 14.041, GO11014_LC
+223990316, 266.074157, -25.046589, 15.162, GO11014_LC
+223992733, 266.071501, -25.042426, 13.478, GO11014_LC|GO11015_LC
+224255268, 262.870752, -24.575797, 16.042, GO11014_LC|GO11018_LC
+224255877, 262.866201, -24.574598, 16.371, GO11014_LC
+226434641, 263.023458, -20.582322, 14.778, GO11014_LC
+226724378, 263.392933, -19.905973, 14.995, GO11014_LC|GO11018_LC
+226724694, 263.386874, -19.905186, 14.137, GO11014_LC|GO11018_LC
+227281770, 263.219839, -18.539625, 14.334, GO11014_LC|GO11018_LC
+229456405, 253.37484, -28.113873, 16.284, GO11014_LC|GO11015_LC
+229456548, 253.375336, -28.110128, 18.118, GO11014_LC|GO11015_LC
+230517842, 255.600243, -21.713854, 12.261, GO11014_LC|GO11049_LC|GO11122_LC
+230517965, 255.598625, -21.712642, 14.945, GO11014_LC|GO11018_LC|GO11015_LC
+230822762, 257.065704, -18.78412, 11.254, GO11014_LC|GO11049_LC|GO11123_LC|GO11071_LC
+230822970, 257.062064, -18.781953, 11.095, GO11014_LC|GO11049_LC|GO11123_LC|GO11071_LC|GO11002_LC|GO11024_LC|GO11036_LC
+230846765, 257.12888, -18.547953, 17.014, GO11014_LC
+230846804, 257.130164, -18.547586, 14.758, GO11014_LC|GO11018_LC
+230870915, 257.37328, -18.305397, 15.903, GO11014_LC|GO11018_LC
+230872224, 257.368181, -18.291992, 16.343, GO11014_LC|GO11018_LC|GO11015_LC
+231428265, 256.387975, -22.241602, 15.811, GO11014_LC|GO11018_LC
+231428393, 256.389007, -22.240227, 16.525, GO11014_LC
+231436556, 257.107573, -22.157433, 15.342, GO11014_LC|GO11015_LC
+231436620, 257.106643, -22.156691, 14.693, GO11014_LC|GO11002_LC|GO11015_LC
+231830140, 254.471886, -28.476631, 11.949, GO11014_LC|GO11049_LC|GO11123_LC
+231830647, 254.476061, -28.47448, 16.41, GO11014_LC
+232134612, 254.362304, -27.139008, 17.034, GO11014_LC
+232135414, 254.366937, -27.135446, 13.626, GO11014_LC|GO11123_LC|GO11015_LC
+233432490, 261.145846, -17.815146, 11.856, GO11014_LC|GO11049_LC|GO11071_LC|GO11018_LC|GO11122_LC
+233433419, 261.144839, -17.809475, 14.272, GO11014_LC|GO11018_LC
+233526082, 259.895602, -17.155262, 14.809, GO11014_LC|GO11018_LC
+233526092, 259.894211, -17.155177, 13.161, GO11014_LC|GO11049_LC|GO11018_LC
+233526854, 259.958754, -17.149506, 13.206, GO11014_LC|GO11049_LC|GO11018_LC
+233527005, 259.957045, -17.148401, 15.885, GO11014_LC
+234021404, 260.931729, -21.402119, 15.221, GO11014_LC|GO11018_LC
+234022110, 260.934122, -21.398568, 14.485, GO11014_LC|GO11018_LC
+234658793, 259.277697, -18.042987, 13.991, GO11014_LC
+234659237, 259.277682, -18.040452, 14.364, GO11014_LC|GO11018_LC
+234928624, 259.634109, -24.954111, 15.761, GO11014_LC|GO11018_LC
+234929047, 259.636846, -24.952275, 16.085, GO11014_LC|GO11018_LC
+235752203, 261.454981, -29.466713, 15.046, GO11014_LC|GO11015_LC
+235752710, 261.45814, -29.465168, 16.069, GO11014_LC|GO11015_LC
+239382681, 263.218119, -18.542171, 17.873, GO11014_LC
+251248347, , , , GO11014_LC|GO11015_LC
+251248348, , , , GO11014_LC
+251248349, , , , GO11014_LC
