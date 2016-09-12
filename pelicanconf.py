@@ -75,6 +75,7 @@ MENUITEMS = (
             ('Science', 'science.html'),
             ('Publications', 'publications.html'),
             ('Conferences', 'conferences.html'),
+            ('Users Panel', 'users-panel.html'),
             )
          ),
         ('K2 observing', (
