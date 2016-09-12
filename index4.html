@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2016-09-09" />
+    <meta name="dc.date.modified" content="2016-09-12" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -94,6 +94,7 @@ in August 2015, using pelican-bootstrap and flatly.
                                 <li><a href="./science.html">Science</a></li>
                                 <li><a href="./publications.html">Publications</a></li>
                                 <li><a href="./conferences.html">Conferences</a></li>
+                                <li><a href="./users-panel.html">Users Panel</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
@@ -529,7 +530,7 @@ gravitational ...</p>
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Fri 09 September 2016
+         Last modified: Mon 12 September 2016
             &middot; Editor: Thomas Barclay &middot; NASA Official: Jessie Dotson 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
@@ -550,9 +551,8 @@ gravitational ...</p>
 <!-- Analytics scripts -->
 
 
-    <!-- Fetch the latest Kepler/K2 Science Dashboard numbers. -->
     <script>
-    var url = "dashboard/kepler-dashboard.json";
+    var url = "https://cdn.rawgit.com/barentsen/kepler-dashboard/master/kepler-dashboard.json";
     $.ajax({
         type: 'GET',
         dataType: 'json',
