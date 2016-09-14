@@ -15,7 +15,7 @@ Save_as: conferences.html
   <tr>
     <td style="width: 7em;">Jun 2017</td>
     <td style="width: 20em;">Kepler & K2 SciCon IV: Legacy & Scion</td>
-    <td><a href="https://twitter.com/search?q=%23Kepler4">#Kepler4 tweets</a></td>
+    <td><a href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon tweets</a></td>
 	</tr>
 	
 </table>
