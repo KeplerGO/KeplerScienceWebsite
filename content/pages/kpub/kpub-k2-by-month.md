@@ -11,123 +11,191 @@ Save_as: kpub-k2-by-month.html
 Holdsworth, Daniel L., Kurtz, Donald W., Smalley, Barry, et al.    
 2016, refereed ([2016MNRAS.462..876H](http://adsabs.harvard.edu/abs/2016MNRAS.462..876H))  
 
+2. [TRANSITING EXOPLANET CANDIDATES FROM K2 CAMPAIGNS 5 AND 6](http://adsabs.harvard.edu/abs/2016MNRAS.461.3399P)  
+Pope, Benjamin J. S., Parviainen, Hannu, Aigrain, Suzanne    
+2016, refereed ([2016MNRAS.461.3399P](http://adsabs.harvard.edu/abs/2016MNRAS.461.3399P))  
+
+3. [RETRACTED ARTICLE: DOPPLER SHIFTS ON THE SPIN PERIOD OF THE INTERMEDIATE POLAR FO AQR WITH K2](http://adsabs.harvard.edu/abs/2016MNRAS.461.4531S)  
+Scaringi, S., Knigge, C., Maccarone, T. J.    
+2016, refereed ([2016MNRAS.461.4531S](http://adsabs.harvard.edu/abs/2016MNRAS.461.4531S))  
+
+4. [A QUINTUPLE STAR SYSTEM CONTAINING TWO ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2016MNRAS.462.1812R)  
+Rappaport, S., Lehmann, H., Kalomeni, B., et al.    
+2016, refereed ([2016MNRAS.462.1812R](http://adsabs.harvard.edu/abs/2016MNRAS.462.1812R))  
+
+5. [DIPPER DISCS NOT INCLINED TOWARDS EDGE-ON ORBITS](http://adsabs.harvard.edu/abs/2016MNRAS.462L.101A)  
+Ansdell, M., Gaidos, E., Williams, J. P., et al.    
+2016, refereed ([2016MNRAS.462L.101A](http://adsabs.harvard.edu/abs/2016MNRAS.462L.101A))  
+
 
 2016-09
 -------
 
-1. [DETECTION OF SOLAR-LIKE OSCILLATIONS IN RELICS OF THE MILKY WAY: ASTEROSEISMOLOGY OF K GIANTS IN M4 USING DATA FROM THE NASA K2 MISSION](http://adsabs.harvard.edu/abs/2016MNRAS.461..760M)  
+1. [ZODIACAL EXOPLANETS IN TIME (ZEIT). III. A SHORT-PERIOD PLANET ORBITING A PRE-MAIN-SEQUENCE STAR IN THE UPPER SCORPIUS OB ASSOCIATION](http://adsabs.harvard.edu/abs/2016AJ....152...61M)  
+Mann, Andrew W., Newton, Elisabeth R., Rizzuto, Aaron C., et al.    
+2016, refereed ([2016AJ....152...61M](http://adsabs.harvard.edu/abs/2016AJ....152...61M))  
+
+2. [197 CANDIDATES AND 104 VALIDATED PLANETS IN K2’S FIRST FIVE FIELDS](http://adsabs.harvard.edu/abs/2016ApJS..226....7C)  
+Crossfield, Ian J. M., Ciardi, David R., Petigura, Erik A., et al.    
+2016, refereed ([2016ApJS..226....7C](http://adsabs.harvard.edu/abs/2016ApJS..226....7C))  
+
+3. [DETECTION OF SOLAR-LIKE OSCILLATIONS IN RELICS OF THE MILKY WAY: ASTEROSEISMOLOGY OF K GIANTS IN M4 USING DATA FROM THE NASA K2 MISSION](http://adsabs.harvard.edu/abs/2016MNRAS.461..760M)  
 Miglio, A., Chaplin, W. J., Brogaard, K., et al.    
 2016, refereed ([2016MNRAS.461..760M](http://adsabs.harvard.edu/abs/2016MNRAS.461..760M))  
 
-2. [DYNAMICAL MASS AND MULTIPLICITY CONSTRAINTS ON CO-ORBITAL BODIES AROUND STARS](http://adsabs.harvard.edu/abs/2016MNRAS.461.1413V)  
+4. [DYNAMICAL MASS AND MULTIPLICITY CONSTRAINTS ON CO-ORBITAL BODIES AROUND STARS](http://adsabs.harvard.edu/abs/2016MNRAS.461.1413V)  
 Veras, Dimitri, Marsh, Thomas R., GĂ¤nsicke, Boris T.    
 2016, refereed ([2016MNRAS.461.1413V](http://adsabs.harvard.edu/abs/2016MNRAS.461.1413V))  
+
+5. [A REVISED GYRO-AGE FOR M 67 FROM KEPLER/K2-CAMPAIGN-5 LIGHT CURVES](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1344G)  
+Gonzalez, Guillermo    
+2016, refereed ([2016MNRAS.tmp.1344G](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1344G))  
+
+6. [A COMBINED TRANSMISSION SPECTRUM OF THE EARTH-SIZED EXOPLANETS TRAPPIST-1 B AND C](http://adsabs.harvard.edu/abs/2016Natur.537...69D)  
+de Wit, Julien, Wakeford, Hannah R., Gillon, Michaël, et al.    
+2016, refereed ([2016Natur.537...69D](http://adsabs.harvard.edu/abs/2016Natur.537...69D))  
+
+7. [EPIC 212803289: A SUBGIANT HOSTING A TRANSITING WARM JUPITER IN AN ECCENTRIC ORBIT AND A LONG-PERIOD COMPANION](http://adsabs.harvard.edu/abs/2016arXiv160900239S)  
+Smith, A. M. S., Gandolfi, D., Barragán, O., et al.    
+2016, pre-print ([2016arXiv160900239S](http://adsabs.harvard.edu/abs/2016arXiv160900239S))  
+
+8. [K2P$^2$: REDUCED DATA FROM CAMPAIGNS 0-4 OF THE K2 MISSION](http://adsabs.harvard.edu/abs/2016arXiv160900534H)  
+Handberg, R., Lund, M. N.    
+2016, pre-print ([2016arXiv160900534H](http://adsabs.harvard.edu/abs/2016arXiv160900534H))  
+
+9. [ZODIACAL EXOPLANETS IN TIME (ZEIT) IV: SEVEN TRANSITING PLANETS IN THE PRAESEPE CLUSTER](http://adsabs.harvard.edu/abs/2016arXiv160900726M)  
+Mann, Andrew W., Gaidos, Eric, Vanderburg, Andrew, et al.    
+2016, pre-print ([2016arXiv160900726M](http://adsabs.harvard.edu/abs/2016arXiv160900726M))  
+
+10. [THE STELLAR OBLIQUITY, PLANET MASS, AND VERY LOW ALBEDO OF QATAR-2 FROM K2 PHOTOMETRY](http://adsabs.harvard.edu/abs/2016arXiv160901314D)  
+Dai, Fei, Winn, Joshua N., Yu, Liang, et al.    
+2016, pre-print ([2016arXiv160901314D](http://adsabs.harvard.edu/abs/2016arXiv160901314D))  
+
+11. [UNINTERRUPTED OPTICAL LIGHT CURVES OF MAIN-BELT ASTEROIDS FROM THE K2 MISSION](http://adsabs.harvard.edu/abs/2016arXiv160902759S)  
+Szabó, R., Pál, A., Sárneczky, K., et al.    
+2016, pre-print ([2016arXiv160902759S](http://adsabs.harvard.edu/abs/2016arXiv160902759S))  
+
+12. [THE HEART OF THE SWARM: K2 PHOTOMETRY AND ROTATIONAL CHARACTERISTICS OF 56 JOVIAN TROJAN ASTEROIDS](http://adsabs.harvard.edu/abs/2016arXiv160902760S)  
+Szabó, Gy. M., Pál, A., Kiss, Cs., et al.    
+2016, pre-print ([2016arXiv160902760S](http://adsabs.harvard.edu/abs/2016arXiv160902760S))  
+
+13. [THE RADIAL VELOCITY EXPERIMENT (RAVE): FIFTH DATA RELEASE](http://adsabs.harvard.edu/abs/2016arXiv160903210K)  
+Kunder, Andrea, Kordopatis, Georges, Steinmetz, Matthias, et al.    
+2016, pre-print ([2016arXiv160903210K](http://adsabs.harvard.edu/abs/2016arXiv160903210K))  
 
 
 2016-08
 -------
 
-1. [A PSF-BASED APPROACH TO KEPLER/K2 DATA. II. EXOPLANET CANDIDATES IN PRAESEPE (M 44)](http://adsabs.harvard.edu/abs/2016arXiv160800459L)  
-Libralato, M., Nardiello, D., Bedin, L. R., et al.    
-2016, pre-print ([2016arXiv160800459L](http://adsabs.harvard.edu/abs/2016arXiv160800459L))  
-
-2. [A PATH TOWARDS UNDERSTANDING THE ROTATION-ACTIVITY RELATION OF M DWARFS WITH K2 MISSION, X-RAY AND UV DATA](http://adsabs.harvard.edu/abs/2016arXiv160800772S)  
-Stelzer, B., Damasso, M., Scholz, A., et al.    
-2016, pre-print ([2016arXiv160800772S](http://adsabs.harvard.edu/abs/2016arXiv160800772S))  
-
-3. [EPIC 211391664B: A 32-M$_\OPLUS$ NEPTUNE-SIZED PLANET IN A 10-DAY ORBIT TRANSITING AN F8 STAR](http://adsabs.harvard.edu/abs/2016arXiv160801165B)  
-Barragán, Oscar, Grziwa, Sascha, Gandolfi, Davide, et al.    
-2016, pre-print ([2016arXiv160801165B](http://adsabs.harvard.edu/abs/2016arXiv160801165B))  
-
-4. [A PATH TOWARDS UNDERSTANDING THE ROTATION-ACTIVITY RELATION OF M DWARFS WITH K2 MISSION, X-RAY AND UV DATA](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1060S)  
-Stelzer, B., Damasso, M., Scholz, A., et al.    
-2016, refereed ([2016MNRAS.tmp.1060S](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1060S))  
-
-5. [A PSF-BASED APPROACH TO KEPLER/K2 DATA. II. EXOPLANET CANDIDATES IN PRAESEPE (M 44)](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1056L)  
-Libralato, M., Nardiello, D., Bedin, L. R., et al.    
-2016, refereed ([2016MNRAS.tmp.1056L](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1056L))  
-
-6. [ELEVEN MULTIPLANET SYSTEMS FROM K2 CAMPAIGNS 1 AND 2 AND THE MASSES OF TWO HOT SUPER-EARTHS](http://adsabs.harvard.edu/abs/2016ApJ...827...78S)  
+1. [ELEVEN MULTIPLANET SYSTEMS FROM K2 CAMPAIGNS 1 AND 2 AND THE MASSES OF TWO HOT SUPER-EARTHS](http://adsabs.harvard.edu/abs/2016ApJ...827...78S)  
 Sinukoff, Evan, Howard, Andrew W., Petigura, Erik A., et al.    
 2016, refereed ([2016ApJ...827...78S](http://adsabs.harvard.edu/abs/2016ApJ...827...78S))  
 
-7. [ULTRA-SHORT-PERIOD PLANETS IN K2 SUPERPIG RESULTS FOR CAMPAIGNS 0─5](http://adsabs.harvard.edu/abs/2016AJ....152...47A)  
+2. [ULTRA-SHORT-PERIOD PLANETS IN K2 SUPERPIG RESULTS FOR CAMPAIGNS 0─5](http://adsabs.harvard.edu/abs/2016AJ....152...47A)  
 Adams, Elisabeth R., Jackson, Brian, Endl, Michael    
 2016, refereed ([2016AJ....152...47A](http://adsabs.harvard.edu/abs/2016AJ....152...47A))  
 
-8. [FIVE PLANETS TRANSITING A NINTH MAGNITUDE STAR](http://adsabs.harvard.edu/abs/2016ApJ...827L..10V)  
+3. [FIVE PLANETS TRANSITING A NINTH MAGNITUDE STAR](http://adsabs.harvard.edu/abs/2016ApJ...827L..10V)  
 Vanderburg, Andrew, Becker, Juliette C., Kristiansen, Martti H., et al.    
 2016, refereed ([2016ApJ...827L..10V](http://adsabs.harvard.edu/abs/2016ApJ...827L..10V))  
+
+4. [A PSF-BASED APPROACH TO KEPLER/K2 DATA. II. EXOPLANET CANDIDATES IN PRAESEPE (M 44)](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1056L)  
+Libralato, M., Nardiello, D., Bedin, L. R., et al.    
+2016, refereed ([2016MNRAS.tmp.1056L](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1056L))  
+
+5. [A PATH TOWARDS UNDERSTANDING THE ROTATION-ACTIVITY RELATION OF M DWARFS WITH K2 MISSION, X-RAY AND UV DATA](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1060S)  
+Stelzer, B., Damasso, M., Scholz, A., et al.    
+2016, refereed ([2016MNRAS.tmp.1060S](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1060S))  
+
+6. [THE PECULIAR DIPPING EVENTS IN THE DISK-BEARING YOUNG-STELLAR OBJECT EPIC 204278916](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1267S)  
+Scaringi, S., Manara, C. F., Barenfeld, S. A., et al.    
+2016, refereed ([2016MNRAS.tmp.1267S](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1267S))  
+
+7. [ASTEROSEISMOLOGY OF THE HYADES WITH K2: FIRST DETECTION OF MAIN-SEQUENCE SOLAR-LIKE OSCILLATIONS IN AN OPEN CLUSTER](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1271L)  
+Lund, Mikkel N., Basu, Sarbani, Silva Aguirre, Víctor, et al.    
+2016, refereed ([2016MNRAS.tmp.1271L](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1271L))  
+
+8. [A PSF-BASED APPROACH TO KEPLER/K2 DATA - III. SEARCH FOR EXOPLANETS AND VARIABLE STARS WITHIN THE OPEN CLUSTER M 67 (NGC 2682)](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1279N)  
+Nardiello, D., Libralato, M., Bedin, L. R., et al.    
+2016, refereed ([2016MNRAS.tmp.1279N](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1279N))  
+
+9. [WASP-92B, WASP-93B AND WASP-118B: THREE NEW TRANSITING CLOSE-IN GIANT PLANETS](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1214H)  
+Hay, K. L., Collier-Cameron, A., Doyle, A. P., et al.    
+2016, refereed ([2016MNRAS.tmp.1214H](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1214H))  
+
+10. [EPIC 211391664B: A 32-M$_\OPLUS$ NEPTUNE-SIZED PLANET IN A 10-DAY ORBIT TRANSITING AN F8 STAR](http://adsabs.harvard.edu/abs/2016arXiv160801165B)  
+Barragán, Oscar, Grziwa, Sascha, Gandolfi, Davide, et al.    
+2016, pre-print ([2016arXiv160801165B](http://adsabs.harvard.edu/abs/2016arXiv160801165B))  
+
+11. [K2 DISCOVERS A BUSY BEE: AN UNUSUAL TRANSITING NEPTUNE FOUND IN THE BEEHIVE CLUSTER](http://adsabs.harvard.edu/abs/2016arXiv160804760O)  
+Obermeier, Christian, Henning, Thomas, Schlieder, Joshua E., et al.    
+2016, pre-print ([2016arXiv160804760O](http://adsabs.harvard.edu/abs/2016arXiv160804760O))  
+
+12. [SPITZER SPACE TELESCOPE MID-IR LIGHT CURVES OF NEPTUNE](http://adsabs.harvard.edu/abs/2016arXiv160807198S)  
+Stauffer, J. R., Marley, M. S., Gizis, J. E., et al.    
+2016, pre-print ([2016arXiv160807198S](http://adsabs.harvard.edu/abs/2016arXiv160807198S))  
+
+13. [ASTEROSEISMIC PROPERTIES OF SOLAR-TYPE STARS OBSERVED WITH THE NASA K2 MISSION: RESULTS FROM CAMPAIGNS 1-3 AND PROSPECTS FOR FUTURE OBSERVATIONS](http://adsabs.harvard.edu/abs/2016arXiv160807292L)  
+Lund, Mikkel N., Chaplin, William J., Casagrande, Luca, et al.    
+2016, pre-print ([2016arXiv160807292L](http://adsabs.harvard.edu/abs/2016arXiv160807292L))  
+
+14. [RECURRING SETS OF RECURRING STARSPOTS ON EXOPLANET-HOST QATAR-2](http://adsabs.harvard.edu/abs/2016arXiv160807524M)  
+MoÄnik, T., Southworth, J., Hellier, C.    
+2016, pre-print ([2016arXiv160807524M](http://adsabs.harvard.edu/abs/2016arXiv160807524M))  
 
 
 2016-07
 -------
 
-1. [THAT'S HOW WE ROLL: THE NASA K2 MISSION SCIENCE PRODUCTS AND THEIR PERFORMANCE METRICS](http://adsabs.harvard.edu/abs/2016PASP..128g5002V)  
-Van Cleve, Jeffrey E., Howell, Steve B., Smith, Jeffrey C., et al.    
-2016, refereed ([2016PASP..128g5002V](http://adsabs.harvard.edu/abs/2016PASP..128g5002V))  
-
-2. [CATACLYSMIC VARIABLES OBSERVED DURING K2 CAMPAIGNS 0 AND 1](http://adsabs.harvard.edu/abs/2016AJ....152....5D)  
+1. [CATACLYSMIC VARIABLES OBSERVED DURING K2 CAMPAIGNS 0 AND 1](http://adsabs.harvard.edu/abs/2016AJ....152....5D)  
 Dai, Zhibin, Szkody, Paula, Garnavich, Peter M., et al.    
 2016, refereed ([2016AJ....152....5D](http://adsabs.harvard.edu/abs/2016AJ....152....5D))  
 
-3. [THE K2-ESPRINT PROJECT IV. A HOT JUPITER IN A PROGRADE ORBIT WITH A POSSIBLE STELLAR COMPANION](http://adsabs.harvard.edu/abs/2016ApJ...825...53H)  
+2. [THE K2-ESPRINT PROJECT IV. A HOT JUPITER IN A PROGRADE ORBIT WITH A POSSIBLE STELLAR COMPANION](http://adsabs.harvard.edu/abs/2016ApJ...825...53H)  
 Hirano, Teruyuki, Nowak, Grzegorz, Kuzuhara, Masayuki, et al.    
 2016, refereed ([2016ApJ...825...53H](http://adsabs.harvard.edu/abs/2016ApJ...825...53H))  
 
-4. [PROBING TRAPPIST-1-LIKE SYSTEMS WITH K2](http://adsabs.harvard.edu/abs/2016ApJ...825L..25D)  
+3. [PROBING TRAPPIST-1-LIKE SYSTEMS WITH K2](http://adsabs.harvard.edu/abs/2016ApJ...825L..25D)  
 Demory, Brice-Olivier, Queloz, Didier, Alibert, Yann, et al.    
 2016, refereed ([2016ApJ...825L..25D](http://adsabs.harvard.edu/abs/2016ApJ...825L..25D))  
 
-5. [K2SC: FLEXIBLE SYSTEMATICS CORRECTION AND DETRENDING OF K2 LIGHT CURVES USING GAUSSIAN PROCESS REGRESSION](http://adsabs.harvard.edu/abs/2016MNRAS.459.2408A)  
+4. [K2SC: FLEXIBLE SYSTEMATICS CORRECTION AND DETRENDING OF K2 LIGHT CURVES USING GAUSSIAN PROCESS REGRESSION](http://adsabs.harvard.edu/abs/2016MNRAS.459.2408A)  
 Aigrain, S., Parviainen, H., Pope, B. J. S.    
 2016, refereed ([2016MNRAS.459.2408A](http://adsabs.harvard.edu/abs/2016MNRAS.459.2408A))  
+
+5. [KEPLER K2 OBSERVATIONS OF SCO X-1: ORBITAL MODULATIONS AND CORRELATIONS WITH FERMI GBM AND MAXI](http://adsabs.harvard.edu/abs/2016MNRAS.459.3596H)  
+Hynes, Robert I., Schaefer, Bradley E., Baum, Zachary A., et al.    
+2016, refereed ([2016MNRAS.459.3596H](http://adsabs.harvard.edu/abs/2016MNRAS.459.3596H))  
 
 6. [KEPLER K2 OBSERVATIONS OF THE INTERMEDIATE POLAR FO AQUARII](http://adsabs.harvard.edu/abs/2016MNRAS.459.3622K)  
 Kennedy, M. R., Garnavich, P., Breedt, E., et al.    
 2016, refereed ([2016MNRAS.459.3622K](http://adsabs.harvard.edu/abs/2016MNRAS.459.3622K))  
 
-7. [KEPLER K2 OBSERVATIONS OF SCO X-1: ORBITAL MODULATIONS AND CORRELATIONS WITH FERMI GBM AND MAXI](http://adsabs.harvard.edu/abs/2016MNRAS.459.3596H)  
-Hynes, Robert I., Schaefer, Bradley E., Baum, Zachary A., et al.    
-2016, refereed ([2016MNRAS.459.3596H](http://adsabs.harvard.edu/abs/2016MNRAS.459.3596H))  
+7. [THAT'S HOW WE ROLL: THE NASA K2 MISSION SCIENCE PRODUCTS AND THEIR PERFORMANCE METRICS](http://adsabs.harvard.edu/abs/2016PASP..128g5002V)  
+Van Cleve, Jeffrey E., Howell, Steve B., Smith, Jeffrey C., et al.    
+2016, refereed ([2016PASP..128g5002V](http://adsabs.harvard.edu/abs/2016PASP..128g5002V))  
 
 8. [EVEREST: PIXEL LEVEL DECORRELATION OF K2 LIGHT CURVES](http://adsabs.harvard.edu/abs/2016arXiv160700524L)  
 Luger, Rodrigo, Agol, Eric, Kruse, Ethan, et al.    
 2016, pre-print ([2016arXiv160700524L](http://adsabs.harvard.edu/abs/2016arXiv160700524L))  
 
-9. [WASP-92B, WASP-93B AND WASP-118B: THREE NEW TRANSITING CLOSE-IN GIANT PLANETS](http://adsabs.harvard.edu/abs/2016arXiv160700774H)  
-Hay, K. L., Collier-Cameron, A., Doyle, A. P., et al.    
-2016, pre-print ([2016arXiv160700774H](http://adsabs.harvard.edu/abs/2016arXiv160700774H))  
-
-10. [WISEP J060738.65+242953.4: A NEARBY. POLE-ON L8 BROWN DWARF WITH RADIO EMISSION](http://adsabs.harvard.edu/abs/2016arXiv160700943G)  
+9. [WISEP J060738.65+242953.4: A NEARBY. POLE-ON L8 BROWN DWARF WITH RADIO EMISSION](http://adsabs.harvard.edu/abs/2016arXiv160700943G)  
 Gizis, John E., Williams, Peter K. G., Burgasser, Adam J., et al.    
 2016, pre-print ([2016arXiv160700943G](http://adsabs.harvard.edu/abs/2016arXiv160700943G))  
 
-11. [OUTBURSTS IN TWO NEW COOL PULSATING DA WHITE DWARFS](http://adsabs.harvard.edu/abs/2016arXiv160701392B)  
+10. [OUTBURSTS IN TWO NEW COOL PULSATING DA WHITE DWARFS](http://adsabs.harvard.edu/abs/2016arXiv160701392B)  
 Bell, Keaton J., Hermes, J. J., Montgomery, M. H., et al.    
 2016, pre-print ([2016arXiv160701392B](http://adsabs.harvard.edu/abs/2016arXiv160701392B))  
 
-12. [NEW PLANETARY AND EB CANDIDATES FROM CAMPAIGNS 1-6 OF THE K2 MISSION](http://adsabs.harvard.edu/abs/2016arXiv160702339B)  
+11. [NEW PLANETARY AND EB CANDIDATES FROM CAMPAIGNS 1-6 OF THE K2 MISSION](http://adsabs.harvard.edu/abs/2016arXiv160702339B)  
 Barros, S. C. C., Demangeon, O., Deleuil, M.    
 2016, pre-print ([2016arXiv160702339B](http://adsabs.harvard.edu/abs/2016arXiv160702339B))  
 
-13. [DIPPER DISKS NOT INCLINED TOWARDS EDGE-ON ORBITS](http://adsabs.harvard.edu/abs/2016arXiv160703115A)  
-Ansdell, M., Gaidos, E., Williams, J. P., et al.    
-2016, pre-print ([2016arXiv160703115A](http://adsabs.harvard.edu/abs/2016arXiv160703115A))  
-
-14. [HD 24355 OBSERVED BY THE KEPLER K2 MISSION: A RAPIDLY OSCILLATING AP STAR PULSATING IN A DISTORTED QUADRUPOLE MODE](http://adsabs.harvard.edu/abs/2016arXiv160703853H)  
-Holdsworth, Daniel L., Kurtz, Donald W., Smalley, Barry, et al.    
-2016, pre-print ([2016arXiv160703853H](http://adsabs.harvard.edu/abs/2016arXiv160703853H))  
-
-15. [TWO SMALL PLANETS TRANSITING HD 3167](http://adsabs.harvard.edu/abs/2016arXiv160705248V)  
+12. [TWO SMALL PLANETS TRANSITING HD 3167](http://adsabs.harvard.edu/abs/2016arXiv160705248V)  
 Vanderburg, Andrew, Bieryla, Allyson, Duev, Dmitry A., et al.    
 2016, pre-print ([2016arXiv160705248V](http://adsabs.harvard.edu/abs/2016arXiv160705248V))  
 
-16. [197 CANDIDATES AND 104 VALIDATED PLANETS IN K2'S FIRST FIVE FIELDS](http://adsabs.harvard.edu/abs/2016arXiv160705263C)  
-Crossfield, Ian J. M., Ciardi, David R., Petigura, Erik A., et al.    
-2016, pre-print ([2016arXiv160705263C](http://adsabs.harvard.edu/abs/2016arXiv160705263C))  
-
-17. [WD 1145+017 PHOTOMETRIC OBSERVATIONS DURING 8 MONTHS OF HIGH ACTIVITY](http://adsabs.harvard.edu/abs/2016arXiv160800026G)  
+13. [WD 1145+017 PHOTOMETRIC OBSERVATIONS DURING 8 MONTHS OF HIGH ACTIVITY](http://adsabs.harvard.edu/abs/2016arXiv160800026G)  
 Gary, B. L., Rappaport, S., Kaye, T. G., et al.    
 2016, pre-print ([2016arXiv160800026G](http://adsabs.harvard.edu/abs/2016arXiv160800026G))  
 
@@ -135,33 +203,33 @@ Gary, B. L., Rappaport, S., Kaye, T. G., et al.
 2016-06
 -------
 
-1. [STARSPOTS ON WASP-85](http://adsabs.harvard.edu/abs/2016AJ....151..150M)  
-Močnik, T., Clark, B. J. M., Anderson, D. R., et al.    
-2016, refereed ([2016AJ....151..150M](http://adsabs.harvard.edu/abs/2016AJ....151..150M))  
-
-2. [MICROLENSING PARALLAX FOR OBSERVERS IN HELIOCENTRIC MOTION](http://adsabs.harvard.edu/abs/2016ApJ...824..109C)  
-Calchi Novati, S., Scarpetta, G.    
-2016, refereed ([2016ApJ...824..109C](http://adsabs.harvard.edu/abs/2016ApJ...824..109C))  
-
-3. [ELLC: A FAST, FLEXIBLE LIGHT CURVE MODEL FOR DETACHED ECLIPSING BINARY STARS AND TRANSITING EXOPLANETS](http://adsabs.harvard.edu/abs/2016A&A...591A.111M)  
+1. [ELLC: A FAST, FLEXIBLE LIGHT CURVE MODEL FOR DETACHED ECLIPSING BINARY STARS AND TRANSITING EXOPLANETS](http://adsabs.harvard.edu/abs/2016A&A...591A.111M)  
 Maxted, P. F. L.    
 2016, refereed ([2016A&A...591A.111M](http://adsabs.harvard.edu/abs/2016A&A...591A.111M))  
 
-4. [PLANET HUNTERS. X. SEARCHING FOR NEARBY NEIGHBORS OF 75 PLANET AND ECLIPSING BINARY CANDIDATES FROM THE K2 KEPLER EXTENDED MISSION](http://adsabs.harvard.edu/abs/2016AJ....151..159S)  
+2. [STARSPOTS ON WASP-85](http://adsabs.harvard.edu/abs/2016AJ....151..150M)  
+Močnik, T., Clark, B. J. M., Anderson, D. R., et al.    
+2016, refereed ([2016AJ....151..150M](http://adsabs.harvard.edu/abs/2016AJ....151..150M))  
+
+3. [PLANET HUNTERS. X. SEARCHING FOR NEARBY NEIGHBORS OF 75 PLANET AND ECLIPSING BINARY CANDIDATES FROM THE K2 KEPLER EXTENDED MISSION](http://adsabs.harvard.edu/abs/2016AJ....151..159S)  
 Schmitt, Joseph R., Tokovinin, Andrei, Wang, Ji, et al.    
 2016, refereed ([2016AJ....151..159S](http://adsabs.harvard.edu/abs/2016AJ....151..159S))  
 
-5. [TWO HOT JUPITERS FROM K2 CAMPAIGN 4](http://adsabs.harvard.edu/abs/2016AJ....151..171J)  
+4. [TWO HOT JUPITERS FROM K2 CAMPAIGN 4](http://adsabs.harvard.edu/abs/2016AJ....151..171J)  
 Johnson, Marshall C., Gandolfi, Davide, Fridlund, Malcolm, et al.    
 2016, refereed ([2016AJ....151..171J](http://adsabs.harvard.edu/abs/2016AJ....151..171J))  
 
-6. [DOPPLER MONITORING OF FIVE K2 TRANSITING PLANETARY SYSTEMS](http://adsabs.harvard.edu/abs/2016ApJ...823..115D)  
+5. [DOPPLER MONITORING OF FIVE K2 TRANSITING PLANETARY SYSTEMS](http://adsabs.harvard.edu/abs/2016ApJ...823..115D)  
 Dai, Fei, Winn, Joshua N., Albrecht, Simon, et al.    
 2016, refereed ([2016ApJ...823..115D](http://adsabs.harvard.edu/abs/2016ApJ...823..115D))  
 
-7. [K2-29 B/WASP-152 B: AN ALIGNED AND INFLATED HOT JUPITER IN A YOUNG VISUAL BINARY](http://adsabs.harvard.edu/abs/2016ApJ...824...55S)  
+6. [K2-29 B/WASP-152 B: AN ALIGNED AND INFLATED HOT JUPITER IN A YOUNG VISUAL BINARY](http://adsabs.harvard.edu/abs/2016ApJ...824...55S)  
 Santerne, A., Hébrard, G., Lillo-Box, J., et al.    
 2016, refereed ([2016ApJ...824...55S](http://adsabs.harvard.edu/abs/2016ApJ...824...55S))  
+
+7. [MICROLENSING PARALLAX FOR OBSERVERS IN HELIOCENTRIC MOTION](http://adsabs.harvard.edu/abs/2016ApJ...824..109C)  
+Calchi Novati, S., Scarpetta, G.    
+2016, refereed ([2016ApJ...824..109C](http://adsabs.harvard.edu/abs/2016ApJ...824..109C))  
 
 8. [SPOTTED STARS AS CEPHEID IMPOSTORS OBSERVED WITH K2](http://adsabs.harvard.edu/abs/2016IBVS.6173....1V)  
 Vida, K., Plachy, E., Molnar, L., et al.    
@@ -179,41 +247,25 @@ Rappaport, S., Gary, B. L., Kaye, T., et al.
 Gonzalez, Guillermo    
 2016, refereed ([2016MNRAS.459.1060G](http://adsabs.harvard.edu/abs/2016MNRAS.459.1060G))  
 
-12. [TRANSITING EXOPLANET CANDIDATES FROM K2 CAMPAIGNS 5 AND 6](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1017P)  
-Pope, Benjamin J. S., Parviainen, Hannu, Aigrain, Suzanne    
-2016, refereed ([2016MNRAS.tmp.1017P](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1017P))  
-
-13. [A NEPTUNE-SIZED TRANSITING PLANET CLOSELY ORBITING A 5─10-MILLION-YEAR-OLD STAR](http://adsabs.harvard.edu/abs/2016Natur.534..658D)  
+12. [A NEPTUNE-SIZED TRANSITING PLANET CLOSELY ORBITING A 5─10-MILLION-YEAR-OLD STAR](http://adsabs.harvard.edu/abs/2016Natur.534..658D)  
 David, Trevor J., Hillenbrand, Lynne A., Petigura, Erik A., et al.    
 2016, refereed ([2016Natur.534..658D](http://adsabs.harvard.edu/abs/2016Natur.534..658D))  
 
-14. [A COMBINED TRANSMISSION SPECTRUM OF THE EARTH-SIZED EXOPLANETS TRAPPIST-1 B AND C](http://adsabs.harvard.edu/abs/2016arXiv160601103D)  
-de Wit, Julien, Wakeford, Hannah R., Gillon, Michael, et al.    
-2016, pre-print ([2016arXiv160601103D](http://adsabs.harvard.edu/abs/2016arXiv160601103D))  
-
-15. [A MULTI-RESOLUTION, MULTI-EPOCH LOW RADIO FREQUENCY SURVEY OF THE KEPLER K2 MISSION CAMPAIGN 1 FIELD](http://adsabs.harvard.edu/abs/2016arXiv160601761T)  
+13. [A MULTI-RESOLUTION, MULTI-EPOCH LOW RADIO FREQUENCY SURVEY OF THE KEPLER K2 MISSION CAMPAIGN 1 FIELD](http://adsabs.harvard.edu/abs/2016arXiv160601761T)  
 Tingay, S. J., Hancock, P. J., Wayth, R. B., et al.    
 2016, pre-print ([2016arXiv160601761T](http://adsabs.harvard.edu/abs/2016arXiv160601761T))  
 
-16. [EPIC201702477B: A LONG PERIOD TRANSITING BROWN DWARF FROM K2](http://adsabs.harvard.edu/abs/2016arXiv160604047B)  
+14. [EPIC201702477B: A LONG PERIOD TRANSITING BROWN DWARF FROM K2](http://adsabs.harvard.edu/abs/2016arXiv160604047B)  
 Bayliss, D., Hojjatpanah, S., Santerne, A., et al.    
 2016, pre-print ([2016arXiv160604047B](http://adsabs.harvard.edu/abs/2016arXiv160604047B))  
 
-17. [ZODIACAL EXOPLANETS IN TIME (ZEIT) II. A "SUPER-EARTH" ORBITING A YOUNG K DWARF IN THE PLEIADES NEIGHBORHOOD](http://adsabs.harvard.edu/abs/2016arXiv160605812G)  
+15. [ZODIACAL EXOPLANETS IN TIME (ZEIT) II. A "SUPER-EARTH" ORBITING A YOUNG K DWARF IN THE PLEIADES NEIGHBORHOOD](http://adsabs.harvard.edu/abs/2016arXiv160605812G)  
 Gaidos, E., Mann, A. W., RIzzuto, A., et al.    
 2016, pre-print ([2016arXiv160605812G](http://adsabs.harvard.edu/abs/2016arXiv160605812G))  
 
-18. [EPIC 211351816.01: A (RE-?)INFLATED PLANET ORBITING A RED GIANT STAR](http://adsabs.harvard.edu/abs/2016arXiv160605818G)  
+16. [EPIC 211351816.01: A (RE-?)INFLATED PLANET ORBITING A RED GIANT STAR](http://adsabs.harvard.edu/abs/2016arXiv160605818G)  
 Grunblatt, Samuel K., Huber, Daniel, Gaidos, Eric J., et al.    
 2016, pre-print ([2016arXiv160605818G](http://adsabs.harvard.edu/abs/2016arXiv160605818G))  
-
-19. [A QUINTUPLE STAR SYSTEM CONTAINING TWO ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2016arXiv160606324R)  
-Rappaport, S., Lehmann, H., Kalomeni, B., et al.    
-2016, pre-print ([2016arXiv160606324R](http://adsabs.harvard.edu/abs/2016arXiv160606324R))  
-
-20. [FIVE PLANETS TRANSITING A NINTH MAGNITUDE STAR](http://adsabs.harvard.edu/abs/2016arXiv160608441V)  
-Vanderburg, Andrew, Becker, Juliette C., Kristiansen, Martti H., et al.    
-2016, pre-print ([2016arXiv160608441V](http://adsabs.harvard.edu/abs/2016arXiv160608441V))  
 
 
 2016-05
@@ -279,23 +331,19 @@ Bodman, Eva H. L., Quillen, Alice C., Ansdell, Megan, et al.
 Osborn, H. P., Santerne, A., Barros, S. C. C., et al.    
 2016, pre-print ([2016arXiv160504291O](http://adsabs.harvard.edu/abs/2016arXiv160504291O))  
 
-16. [DOPPLER SHIFTS ON THE SPIN PERIOD OF THE INTERMEDIATE POLAR FO AQR WITH K2](http://adsabs.harvard.edu/abs/2016arXiv160508030S)  
-Scaringi, S., Knigge, C., Maccarone, T. J.    
-2016, pre-print ([2016arXiv160508030S](http://adsabs.harvard.edu/abs/2016arXiv160508030S))  
-
-17. [THE K2-ESPRINT PROJECT V: A SHORT-PERIOD GIANT PLANET ORBITING A SUBGIANT STAR](http://adsabs.harvard.edu/abs/2016arXiv160509180V)  
+16. [THE K2-ESPRINT PROJECT V: A SHORT-PERIOD GIANT PLANET ORBITING A SUBGIANT STAR](http://adsabs.harvard.edu/abs/2016arXiv160509180V)  
 Van Eylen, Vincent, Albrecht, Simon, Gandolfi, Davide, et al.    
 2016, pre-print ([2016arXiv160509180V](http://adsabs.harvard.edu/abs/2016arXiv160509180V))  
 
-18. [ROTATION IN THE PLEIADES WITH K2: I. DATA AND FIRST RESULTS](http://adsabs.harvard.edu/abs/2016arXiv160600052R)  
+17. [ROTATION IN THE PLEIADES WITH K2: I. DATA AND FIRST RESULTS](http://adsabs.harvard.edu/abs/2016arXiv160600052R)  
 Rebull, L. M., Stauffer, J. R., Bouvier, J., et al.    
 2016, pre-print ([2016arXiv160600052R](http://adsabs.harvard.edu/abs/2016arXiv160600052R))  
 
-19. [ROTATION IN THE PLEIADES WITH K2: II. MULTI-PERIOD STARS](http://adsabs.harvard.edu/abs/2016arXiv160600055R)  
+18. [ROTATION IN THE PLEIADES WITH K2: II. MULTI-PERIOD STARS](http://adsabs.harvard.edu/abs/2016arXiv160600055R)  
 Rebull, L. M., Stauffer, J. R., Bouvier, J., et al.    
 2016, pre-print ([2016arXiv160600055R](http://adsabs.harvard.edu/abs/2016arXiv160600055R))  
 
-20. [ROTATION IN THE PLEIADES WITH K2: III. SPECULATIONS ON ORIGINS AND EVOLUTION](http://adsabs.harvard.edu/abs/2016arXiv160600057S)  
+19. [ROTATION IN THE PLEIADES WITH K2: III. SPECULATIONS ON ORIGINS AND EVOLUTION](http://adsabs.harvard.edu/abs/2016arXiv160600057S)  
 Stauffer, J. R., Rebull, L. M., Bouvier, J., et al.    
 2016, pre-print ([2016arXiv160600057S](http://adsabs.harvard.edu/abs/2016arXiv160600057S))  
 
@@ -304,7 +352,7 @@ Stauffer, J. R., Rebull, L. M., Bouvier, J., et al.
 -------
 
 1. [THE SEARCH FOR EXTRATERRESTRIAL INTELLIGENCE IN EARTH'S SOLAR TRANSIT ZONE](http://adsabs.harvard.edu/abs/2016AsBio..16..259H)  
-Heller, RenĂŠ, Pudritz, Ralph E.    
+Heller, René, Pudritz, Ralph E.    
 2016, refereed ([2016AsBio..16..259H](http://adsabs.harvard.edu/abs/2016AsBio..16..259H))  
 
 2. [SINGLE TRANSIT CANDIDATES FROM K2: DETECTION AND PERIOD ESTIMATION](http://adsabs.harvard.edu/abs/2016MNRAS.457.2273O)  
@@ -323,11 +371,7 @@ Balona, L. A.
 Nespral, D., Gandolfi, D., Deeg, H. J., et al.    
 2016, pre-print ([2016arXiv160401265N](http://adsabs.harvard.edu/abs/2016arXiv160401265N))  
 
-6. [ZODIACAL EXOPLANETS IN TIME (ZEIT) III: A SHORT-PERIOD PLANET ORBITING A PRE-MAIN-SEQUENCE STAR IN THE UPPER SCORPIUS OB ASSOCIATION](http://adsabs.harvard.edu/abs/2016arXiv160406165M)  
-Mann, Andrew W., Newton, Elisabeth R., Rizzuto, Aaron C., et al.    
-2016, pre-print ([2016arXiv160406165M](http://adsabs.harvard.edu/abs/2016arXiv160406165M))  
-
-7. [MAGNETIC INHIBITION OF CONVECTION AND THE FUNDAMENTAL PROPERTIES OF LOW-MASS STARS. III. A CONSISTENT 10 MYR AGE FOR THE UPPER SCORPIUS OB ASSOCIATION](http://adsabs.harvard.edu/abs/2016arXiv160408036F)  
+6. [MAGNETIC INHIBITION OF CONVECTION AND THE FUNDAMENTAL PROPERTIES OF LOW-MASS STARS. III. A CONSISTENT 10 MYR AGE FOR THE UPPER SCORPIUS OB ASSOCIATION](http://adsabs.harvard.edu/abs/2016arXiv160408036F)  
 Feiden, Gregory A.    
 2016, pre-print ([2016arXiv160408036F](http://adsabs.harvard.edu/abs/2016arXiv160408036F))  
 
@@ -354,10 +398,6 @@ Henderson, Calen B., Shvartzvald, Yossi
 5. [WASP-157B, A TRANSITING HOT JUPITER OBSERVED WITH K2](http://adsabs.harvard.edu/abs/2016arXiv160305638M)  
 Močnik, T., Anderson, D. R., Brown, D. J. A., et al.    
 2016, pre-print ([2016arXiv160305638M](http://adsabs.harvard.edu/abs/2016arXiv160305638M))  
-
-6. [ULTRA SHORT PERIOD PLANETS IN K2: SUPERPIG RESULTS FOR CAMPAIGNS 0-5](http://adsabs.harvard.edu/abs/2016arXiv160306488A)  
-Adams, Elisabeth R., Jackson, Brian, Endl, Michael    
-2016, pre-print ([2016arXiv160306488A](http://adsabs.harvard.edu/abs/2016arXiv160306488A))  
 
 
 2016-02
@@ -483,10 +523,6 @@ Huber, Daniel
 Buzasi, Derek L., Carboneau, Lindsey, Hessler, Carly, et al.    
 2015, pre-print ([2015arXiv151109069B](http://adsabs.harvard.edu/abs/2015arXiv151109069B))  
 
-4. [ELEVEN MULTI-PLANET SYSTEMS FROM K2 CAMPAIGNS 1 & 2 AND THE MASSES OF TWO HOT SUPER-EARTHS](http://adsabs.harvard.edu/abs/2015arXiv151109213S)  
-Sinukoff, Evan, Howard, Andrew W., Petigura, Erik A., et al.    
-2015, pre-print ([2015arXiv151109213S](http://adsabs.harvard.edu/abs/2015arXiv151109213S))  
-
 
 2015-10
 -------
@@ -551,7 +587,7 @@ Scaringi, S., Maccarone, T. J., Kording, E., et al.
 Croll, Bryce, Dalba, Paul A., Vanderburg, Andrew, et al.    
 2015, pre-print ([2015arXiv151006434C](http://adsabs.harvard.edu/abs/2015arXiv151006434C))  
 
-16. [EPIC 204129699B, A GRAZING TRANSITING HOT JUPITER ON AN 1.26-DAY ORBIT AROUND A BRIGHT SOLAR LIKE STAR](http://adsabs.harvard.edu/abs/2015arXiv151009149G)  
+16. [K2-31B, A GRAZING TRANSITING HOT JUPITER ON AN 1.26-DAY ORBIT AROUND A BRIGHT G7V STAR](http://adsabs.harvard.edu/abs/2015arXiv151009149G)  
 Grziwa, S., Gandolfi, D., Csizmadia, Sz., et al.    
 2015, pre-print ([2015arXiv151009149G](http://adsabs.harvard.edu/abs/2015arXiv151009149G))  
 
@@ -603,7 +639,7 @@ Armstrong, D. J., Kirk, J., Lam, K. W. F., et al.
 Brahm, R., Jordán, A., Hartman, J. D., et al.    
 2015, refereed ([2015AJ....150...33B](http://adsabs.harvard.edu/abs/2015AJ....150...33B))  
 
-3. [THE MASS-RADIUS RELATION OF YOUNG STARS. I. USCO 5, AN M4.5 ECLIPSING BINARY IN UPPER SCORPIUS OBSERVED BY K2](http://adsabs.harvard.edu/abs/2015ApJ...807....3K)  
+3. [THE MASS─RADIUS RELATION OF YOUNG STARS. I. USCO 5, AN M4.5 ECLIPSING BINARY IN UPPER SCORPIUS OBSERVED BY K2](http://adsabs.harvard.edu/abs/2015ApJ...807....3K)  
 Kraus, Adam L., Cody, Ann Marie, Covey, Kevin R., et al.    
 2015, refereed ([2015ApJ...807....3K](http://adsabs.harvard.edu/abs/2015ApJ...807....3K))  
 
