@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2016-09-12" />
+    <meta name="dc.date.modified" content="2016-09-13" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -529,8 +529,9 @@ We anticipate that the data will become available to the public by July 15, 2015
 <script language="javascript" id="_fed_an_ua_tag" src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA&subagency=ARC&dclink=true"></script>
 
 
+    <!-- Fetch the latest Kepler/K2 Science Dashboard numbers. -->
     <script>
-    var url = "https://cdn.rawgit.com/barentsen/kepler-dashboard/master/kepler-dashboard.json";
+    var url = "dashboard/kepler-dashboard.json";
     $.ajax({
         type: 'GET',
         dataType: 'json',
