@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Mon, 12 Sep 2016 08:00:00 -0700</lastBuildDate><item><title>Change to Campaign 16 field position and delay to GO Cycle 5 deadline</title><link>https://keplerscience.arc.nasa.gov/change-to-campaign-16-field-position-and-delay-to-go-cycle-5-deadline.html</link><description>&lt;p&gt;In order to maximize the science return from K2 using the remaining fuel,
+<rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Thu, 15 Sep 2016 14:00:00 -0700</lastBuildDate><item><title>Raw data for K2 Campaign 10 to be released immediately after downlink</title><link>https://keplerscience.arc.nasa.gov/raw-data-for-k2-campaign-10-to-be-released-immediately-after-downlink.html</link><description>&lt;p&gt;The currently on-going &lt;a href="k2-approved-programs.html#campaign-10"&gt;K2 Campaign 10&lt;/a&gt; includes targeted observations of 67P/Churyumov-Gerasimenko,
+the comet currently being studied by the &lt;a href="http://rosetta.esa.int"&gt;ESA Rosetta Mission&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To provide members of the Rosetta science team with fast access to the data,
+the uncalibrated level 1 files for Campaign 10 will be made available immediately after downlink on or near September 26.
+They will be accessible from a public directory at
+&lt;a href="https://archive.stsci.edu/pub/k2/c10_raw_cadence_data"&gt;https://archive.stsci.edu/pub/k2/c10_raw_cadence_data&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The use of the level 1 files requires an intimate understanding
+of their structure, as documented in &lt;a href="https://archive.stsci.edu/k2/manuals/KADN-26315.pdf"&gt;KADN-26135&lt;/a&gt;.
+The Kepler/K2 GO Office has released a tool to convert the level 1 data into uncalibrated FITS images for quicklook purposes.
+The tool, called "kadenza", is available and documented at
+&lt;a href="https://github.com/KeplerGO/kadenza"&gt;https://github.com/KeplerGO/kadenza&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The traditional calibrated data products for Campaign 10 will be released,
+as usual, when they are ready — approximately 2 to 3 months after the end of the Campaign.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Thu, 15 Sep 2016 14:00:00 -0700</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2016-09-15:raw-data-for-k2-campaign-10-to-be-released-immediately-after-downlink.html</guid></item><item><title>Change to Campaign 16 field position and delay to GO Cycle 5 deadline</title><link>https://keplerscience.arc.nasa.gov/change-to-campaign-16-field-position-and-delay-to-go-cycle-5-deadline.html</link><description>&lt;p&gt;In order to maximize the science return from K2 using the remaining fuel,
 the mission has decided to change the position of the field for Campaign 16
 and to delay the upcoming K2 Cycle 5 deadline by about a month. &lt;/p&gt;
 &lt;p&gt;The position of the Campaign 16 field is being changed to facilitate
