@@ -292,7 +292,7 @@ This page details the previous, current, and future K2 Campaign fields.
       <td>Upper Sco, GW Lib, HP Lib</td>
     </tr>
     <tr>
-      <td><a id='c16'>16</a><sup>†</sup></td>
+      <td><a href='#c16'>16</a><sup>†</sup></td>
       <td>2017&nbsp;Dec&nbsp;7</td>
       <td>2018&nbsp;Feb&nbsp;25</td>
       <td>2018&nbsp;Apr&nbsp;25</td>
@@ -480,6 +480,17 @@ You can learn more about the installation and usage of these tools [on the softw
     <a href="images/campaign_selected/field15-final.png"><img class="img-responsive" src="images/campaign_selected/field15-final.png"></a>
   </div>
 </div>
+
+<div class="row">
+  <div class="col-lg-6">
+    <b id="c16">Campaign 16</b>
+    <a href="images/campaign_selected/field16-final.png"><img class="img-responsive" src="images/campaign_selected/field16-final.png"></a>
+  </div>
+  <div class="col-lg-6">
+
+  </div>
+</div>
+
 
 <hr/>
 
