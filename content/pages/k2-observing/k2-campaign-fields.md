@@ -11,7 +11,7 @@ This page details the previous, current, and future K2 Campaign fields.
 
 ### Observed and planned
 
-<a href="images/k2/fieldsFor2017.v4.png"><img src="images/k2/fieldsFor2017.v4.png" class="img-responsive" alt="K2 campaign fields on the sky"></a>
+<a href="images/k2/footprint-all-campaigns.png"><img src="images/k2/footprint-all-campaigns.png" class="img-responsive" alt="K2 campaign fields on the sky"></a>
 
 <div class="panel panel-primary">
   <div class="panel-heading">
