@@ -91,6 +91,50 @@ MacDonald, James, Mullan, D. J.
 Dai, Fei, Winn, Joshua N., Yu, Liang, et al.    
 2016, pre-print ([2016arXiv160901314D](http://adsabs.harvard.edu/abs/2016arXiv160901314D))  
 
+19. [REVISED STELLAR PROPERTIES OF KEPLER TARGETS FOR THE Q1-17 (DR25) TRANSIT DETECTION RUN](http://adsabs.harvard.edu/abs/2016arXiv160904128M)  
+Mathur, Savita, Huber, Daniel, Batalha, Natalie M., et al.    
+2016, pre-print ([2016arXiv160904128M](http://adsabs.harvard.edu/abs/2016arXiv160904128M))  
+
+20. [KEPLER-21B: A ROCKY PLANET AROUND A V = 8.25 MAGNITUDE STAR](http://adsabs.harvard.edu/abs/2016arXiv160907617L)  
+Lopez-Morales, Mercedes, Haywood, Raphaelle D., Coughlin, Jeffrey L., et al.    
+2016, pre-print ([2016arXiv160907617L](http://adsabs.harvard.edu/abs/2016arXiv160907617L))  
+
+21. [BAYESIAN ANALYSIS OF INTERIORS OF HD 219134B, KEPLER-10B, KEPLER-93B, COROT-7B, 55 CNC E, AND HD 97658B USING STELLAR ABUNDANCE PROXIES](http://adsabs.harvard.edu/abs/2016arXiv160903909D)  
+Dorn, C., Hinkel, N. R., Venturini, J.    
+2016, pre-print ([2016arXiv160903909D](http://adsabs.harvard.edu/abs/2016arXiv160903909D))  
+
+22. [ZODIACAL EXOPLANETS IN TIME (ZEIT) II. A "SUPER-EARTH" ORBITING A YOUNG K DWARF IN THE PLEIADES NEIGHBORHOOD](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1448G)  
+Gaidos, E., Mann, A. W., Rizzuto, A., et al.    
+2016, refereed ([2016MNRAS.tmp.1448G](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1448G))  
+
+23. [TRANSITS PROBABILITIES AROUND HYPERVELOCITY AND RUNAWAY STARS](http://adsabs.harvard.edu/abs/2016arXiv160903905F)  
+Fragione, Giacomo, Ginsburg, Idan    
+2016, pre-print ([2016arXiv160903905F](http://adsabs.harvard.edu/abs/2016arXiv160903905F))  
+
+24. [THE EFFECTS OF EXTERNAL PLANETS ON INNER SYSTEMS: MULTIPLICITIES, INCLINATIONS, AND PATHWAYS TO ECCENTRIC WARM JUPITERS](http://adsabs.harvard.edu/abs/2016arXiv160908058M)  
+Mustill, Alexander J, Davies, Melvyn B, Johansen, Anders    
+2016, pre-print ([2016arXiv160908058M](http://adsabs.harvard.edu/abs/2016arXiv160908058M))  
+
+25. [TWO SMALL PLANETS TRANSITING HD 3167](http://adsabs.harvard.edu/abs/2016ApJ...829L...9V)  
+Vanderburg, Andrew, Bieryla, Allyson, Duev, Dmitry A., et al.    
+2016, refereed ([2016ApJ...829L...9V](http://adsabs.harvard.edu/abs/2016ApJ...829L...9V))  
+
+26. [DYNAMICALLY HOT SUPER-EARTHS FROM OUTER GIANT PLANET SCATTERING](http://adsabs.harvard.edu/abs/2016arXiv160908110H)  
+Huang, Chelsea X., Petrovich, Cristobal, Deibert, Emily    
+2016, pre-print ([2016arXiv160908110H](http://adsabs.harvard.edu/abs/2016arXiv160908110H))  
+
+27. [A SUPER-SOLAR METALLICITY FOR STARS WITH HOT ROCKY EXOPLANETS](http://adsabs.harvard.edu/abs/2016arXiv160905898M)  
+Mulders, Gijs D., Pascucci, Ilaria, Apai, Daniel, et al.    
+2016, pre-print ([2016arXiv160905898M](http://adsabs.harvard.edu/abs/2016arXiv160905898M))  
+
+28. [DAWES REVIEW. THE TIDAL DOWNSIZING HYPOTHESIS OF PLANET FORMATION](http://adsabs.harvard.edu/abs/2016arXiv160907503N)  
+Nayakshin, Sergei    
+2016, pre-print ([2016arXiv160907503N](http://adsabs.harvard.edu/abs/2016arXiv160907503N))  
+
+29. [MASS AND ECCENTRICITY CONSTRAINTS ON THE PLANETARY DEBRIS ORBITING THE WHITE DWARF WD 1145+017](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1400G)  
+Gurri, Pol, Veras, Dimitri, Gänsicke, Boris T.    
+2016, refereed ([2016MNRAS.tmp.1400G](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1400G))  
+
 
 2016-08
 -------
@@ -182,6 +226,10 @@ MoÄnik, T., Southworth, J., Hellier, C.
 22. [CHROMOSPHERIC EMISSION OF PLANET CANDIDATE SYSTEMS - A WAY TO IDENTIFY FALSE POSITIVES](http://adsabs.harvard.edu/abs/2016arXiv160807804K)  
 Karoff, Christoffer, Albrecht, Simon, Bonanno, Alfio, et al.    
 2016, pre-print ([2016arXiv160807804K](http://adsabs.harvard.edu/abs/2016arXiv160807804K))  
+
+23. [NEW INDEXING AND SURFACE TEMPERATURE ANALYSIS OF EXOPLANETS](http://adsabs.harvard.edu/abs/2016arXiv160806702K)  
+Kashyap, J. M., Gudennavar, S. B., Safonova, M.    
+2016, pre-print ([2016arXiv160806702K](http://adsabs.harvard.edu/abs/2016arXiv160806702K))  
 
 
 2016-07

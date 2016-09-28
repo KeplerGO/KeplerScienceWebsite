@@ -27,6 +27,10 @@ Rappaport, S., Lehmann, H., Kalomeni, B., et al.
 Ansdell, M., Gaidos, E., Williams, J. P., et al.    
 2016, refereed ([2016MNRAS.462L.101A](http://adsabs.harvard.edu/abs/2016MNRAS.462L.101A))  
 
+6. [A MULTI-RESOLUTION, MULTI-EPOCH LOW RADIO FREQUENCY SURVEY OF THE KEPLER K2 MISSION CAMPAIGN 1 FIELD](http://adsabs.harvard.edu/abs/2016AJ....152...82T)  
+Tingay, S. J., Hancock, P. J., Wayth, R. B., et al.    
+2016, refereed ([2016AJ....152...82T](http://adsabs.harvard.edu/abs/2016AJ....152...82T))  
+
 
 2016-09
 -------
@@ -82,6 +86,22 @@ Szabó, Gy. M., Pál, A., Kiss, Cs., et al.
 13. [THE RADIAL VELOCITY EXPERIMENT (RAVE): FIFTH DATA RELEASE](http://adsabs.harvard.edu/abs/2016arXiv160903210K)  
 Kunder, Andrea, Kordopatis, Georges, Steinmetz, Matthias, et al.    
 2016, pre-print ([2016arXiv160903210K](http://adsabs.harvard.edu/abs/2016arXiv160903210K))  
+
+14. [RAVE STARS IN K2 - I. IMPROVING RAVE RED GIANTS SPECTROSCOPY USING ASTEROSEISMOLOGY FROM K2 CAMPAIGN 1](http://adsabs.harvard.edu/abs/2016arXiv160903826V)  
+Valentini, M., Chiappini, C., Davies, G. R., et al.    
+2016, pre-print ([2016arXiv160903826V](http://adsabs.harvard.edu/abs/2016arXiv160903826V))  
+
+15. [ZODIACAL EXOPLANETS IN TIME (ZEIT) II. A "SUPER-EARTH" ORBITING A YOUNG K DWARF IN THE PLEIADES NEIGHBORHOOD](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1448G)  
+Gaidos, E., Mann, A. W., Rizzuto, A., et al.    
+2016, refereed ([2016MNRAS.tmp.1448G](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1448G))  
+
+16. [TWO SMALL PLANETS TRANSITING HD 3167](http://adsabs.harvard.edu/abs/2016ApJ...829L...9V)  
+Vanderburg, Andrew, Bieryla, Allyson, Duev, Dmitry A., et al.    
+2016, refereed ([2016ApJ...829L...9V](http://adsabs.harvard.edu/abs/2016ApJ...829L...9V))  
+
+17. [MASS AND ECCENTRICITY CONSTRAINTS ON THE PLANETARY DEBRIS ORBITING THE WHITE DWARF WD 1145+017](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1400G)  
+Gurri, Pol, Veras, Dimitri, Gänsicke, Boris T.    
+2016, refereed ([2016MNRAS.tmp.1400G](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1400G))  
 
 
 2016-08

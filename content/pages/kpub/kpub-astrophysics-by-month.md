@@ -39,6 +39,10 @@ Yıldız, M., Çelik Orhan, Z., Kayhan, C.
 Murphy, Simon J., Shibahashi, Hiromoto, Bedding, Timothy R.    
 2016, refereed ([2016MNRAS.461.4215M](http://adsabs.harvard.edu/abs/2016MNRAS.461.4215M))  
 
+7. [A MULTI-RESOLUTION, MULTI-EPOCH LOW RADIO FREQUENCY SURVEY OF THE KEPLER K2 MISSION CAMPAIGN 1 FIELD](http://adsabs.harvard.edu/abs/2016AJ....152...82T)  
+Tingay, S. J., Hancock, P. J., Wayth, R. B., et al.    
+2016, refereed ([2016AJ....152...82T](http://adsabs.harvard.edu/abs/2016AJ....152...82T))  
+
 
 2016-09
 -------
@@ -94,6 +98,66 @@ Sรกnchez Arias, J. P., Cรณrsico, A. H., Althaus, L. G.
 13. [THE RADIAL VELOCITY EXPERIMENT (RAVE): FIFTH DATA RELEASE](http://adsabs.harvard.edu/abs/2016arXiv160903210K)  
 Kunder, Andrea, Kordopatis, Georges, Steinmetz, Matthias, et al.    
 2016, pre-print ([2016arXiv160903210K](http://adsabs.harvard.edu/abs/2016arXiv160903210K))  
+
+14. [STELLAR PARAMETERS OF MAIN SEQUENCE TURN-OFF STAR CANDIDATES OBSERVED WITH THE LAMOST AND KEPLER](http://adsabs.harvard.edu/abs/2016arXiv160905707W)  
+Wu, Yaqian, Xiang, Maosheng, Zhang, Xianfei, et al.    
+2016, pre-print ([2016arXiv160905707W](http://adsabs.harvard.edu/abs/2016arXiv160905707W))  
+
+15. [THE KEPLER CATALOG OF STELLAR FLARES](http://adsabs.harvard.edu/abs/2016ApJ...829...23D)  
+Davenport, James R. A.    
+2016, refereed ([2016ApJ...829...23D](http://adsabs.harvard.edu/abs/2016ApJ...829...23D))  
+
+16. [TIDALLY INDUCED PULSATIONS IN KEPLER ECLIPSING BINARY KIC 3230227](http://adsabs.harvard.edu/abs/2016arXiv160906376G)  
+Guo, Zhao, Gies, Douglas R., Fuller, Jim    
+2016, pre-print ([2016arXiv160906376G](http://adsabs.harvard.edu/abs/2016arXiv160906376G))  
+
+17. [$\GAMMA$ DORADUS PULSATIONS IN THE ECLIPSING BINARY STAR KIC 6048106](http://adsabs.harvard.edu/abs/2016arXiv160906387L)  
+Lee, Jae Woo    
+2016, pre-print ([2016arXiv160906387L](http://adsabs.harvard.edu/abs/2016arXiv160906387L))  
+
+18. [PERIODICITIES OF THE RV TAU-TYPE PULSATING STAR DF CYGNI: A COMBINATION OF KEPLER DATA WITH GROUND-BASED OBSERVATIONS](http://adsabs.harvard.edu/abs/2016arXiv160907944B)  
+Bódi, A., Szatmáry, K., Kiss, L. L.    
+2016, pre-print ([2016arXiv160907944B](http://adsabs.harvard.edu/abs/2016arXiv160907944B))  
+
+19. [THE KEPLER CEPHEID V1154 CYG REVISITED: LIGHT CURVE MODULATION AND DETECTION OF GRANULATION](http://adsabs.harvard.edu/abs/2016arXiv160905398D)  
+Derekas, A., Plachy, E., Molnar, L., et al.    
+2016, pre-print ([2016arXiv160905398D](http://adsabs.harvard.edu/abs/2016arXiv160905398D))  
+
+20. [TESTING THE ASTEROSEISMIC SCALING RELATIONS FOR RED GIANTS WITH ECLIPSING BINARIES OBSERVED BY KEPLER](http://adsabs.harvard.edu/abs/2016arXiv160906645G)  
+Gaulme, Patrick, McKeever, Jean, Jackiewicz, Jason, et al.    
+2016, pre-print ([2016arXiv160906645G](http://adsabs.harvard.edu/abs/2016arXiv160906645G))  
+
+21. [RAVE STARS IN K2 - I. IMPROVING RAVE RED GIANTS SPECTROSCOPY USING ASTEROSEISMOLOGY FROM K2 CAMPAIGN 1](http://adsabs.harvard.edu/abs/2016arXiv160903826V)  
+Valentini, M., Chiappini, C., Davies, G. R., et al.    
+2016, pre-print ([2016arXiv160903826V](http://adsabs.harvard.edu/abs/2016arXiv160903826V))  
+
+22. [PHOTOMETRIC AND ASTROMETRIC VAGARIES OF THE ENIGMA STAR KIC 8462852](http://adsabs.harvard.edu/abs/2016arXiv160904032M)  
+Makarov, Valeri V, Goldin, Alexey    
+2016, pre-print ([2016arXiv160904032M](http://adsabs.harvard.edu/abs/2016arXiv160904032M))  
+
+23. [KIC 2831097 - A 2-YEAR ORBITAL-PERIOD RR LYRAE BINARY CANDIDATE](http://adsabs.harvard.edu/abs/2016arXiv160906474S)  
+Sódor, Á., Skarka, M., Liška, J., et al.    
+2016, pre-print ([2016arXiv160906474S](http://adsabs.harvard.edu/abs/2016arXiv160906474S))  
+
+24. [FAMILIES OF PLAUSIBLE SOLUTIONS TO THE PUZZLE OF BOYAJIAN’S STAR](http://adsabs.harvard.edu/abs/2016ApJ...829L...3W)  
+Wright, Jason T., Sigurdsson, Steinn    
+2016, refereed ([2016ApJ...829L...3W](http://adsabs.harvard.edu/abs/2016ApJ...829L...3W))  
+
+25. [A FIRST VIEW WITH GAIA ON KIC 8462852 - DISTANCE ESTIMATES AND A COMPARISON TO OTHER F STARS](http://adsabs.harvard.edu/abs/2016arXiv160905492H)  
+Hippke, Michael, Angerhausen, Daniel    
+2016, pre-print ([2016arXiv160905492H](http://adsabs.harvard.edu/abs/2016arXiv160905492H))  
+
+26. [CHANGE IN ACTIVITY CHARACTER OF CORONAE OF LOW-MASS STARS OF VARIOUS SPECTRAL TYPES](http://adsabs.harvard.edu/abs/2016arXiv160907989N)  
+Nizamov, B. A., Katsova, M. M., Livshits, M. A.    
+2016, pre-print ([2016arXiv160907989N](http://adsabs.harvard.edu/abs/2016arXiv160907989N))  
+
+27. [GIANT STAR SEISMOLOGY](http://adsabs.harvard.edu/abs/2016arXiv160907487H)  
+Hekker, S., Christensen-Dalsgaard, J.    
+2016, pre-print ([2016arXiv160907487H](http://adsabs.harvard.edu/abs/2016arXiv160907487H))  
+
+28. [SUPERFLARE G AND K STARS AND THE LITHIUM ABUNDANCE](http://adsabs.harvard.edu/abs/2016arXiv160905793K)  
+Katsova, M. M., Livshits, M. A., Mishenina, T. V., et al.    
+2016, pre-print ([2016arXiv160905793K](http://adsabs.harvard.edu/abs/2016arXiv160905793K))  
 
 
 2016-08
