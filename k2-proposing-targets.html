@@ -243,7 +243,7 @@ The Kepler &amp; K2 Science Center provides a tool called
 to identify which targets fall upon active silicon. 
 Only those targets within the active fields of view should be proposed.</p>
 <p>Note that all investigators <em>must</em> update their version of 
-K2fov to the latest version to take the final field positions of Campaigns 14-15-16 into account. 
+K2fov to the latest version (v6.0) to take the final field positions of Campaigns 14-15-16 into account. 
 K2fov can be updated from the command line using pip:</p>
 <pre><code>pip install K2fov --upgrade
 </code></pre>
@@ -251,9 +251,10 @@ K2fov can be updated from the command line using pip:</p>
 using the following command:</p>
 <pre><code>python -c "import K2fov; print(K2fov.__version__)"
 </code></pre>
-<p>This should return "5.1.0" or higher. If the number is lower,
+<p>This must return "6.0.0" or higher. If the number is lower,
 or if you see an error message, then your installation of K2fov is outdated
-and must be upgraded.</p>
+and must be upgraded.
+Not upgrading K2fov will lead to unobservable targets being selected!</p>
 <h3 id="target-table">Target table</h3>
 <p>All proposals for targets are required to include a target table 
 in a pre-defined format to specify desired observing modes 
@@ -397,7 +398,7 @@ position is currently preliminary and will be finalized before the Step 1 deadli
 <li>
 <p><strong>How do I select targets on silicon?</strong><br/>
   In order to avoid inefficiency for proposers, you are encouraged to
-  use the online tool <a href="software.html#k2fov">K2fov</a> to
+  use the <a href="software.html#k2fov">K2fov tool</a> to
   determine whether your targets fall upon silicon and propose only
   those that do. The precision of this tool is a few 4x4 arcsec
   detector pixels. <br/></p>
@@ -671,7 +672,7 @@ More information and deadlines are available from the <a href="k2-ddt.html">DDT 
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Fri 23 September 2016
+         Last modified: Wed 28 September 2016
             &middot; Editor: Thomas Barclay &middot; NASA Official: Jessie Dotson 
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
