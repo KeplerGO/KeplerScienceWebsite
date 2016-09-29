@@ -1,10 +1,122 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Fri, 23 Sep 2016 11:00:00 -0700</lastBuildDate><item><title>New forward-facing position of Campaign 16 finalized</title><link>https://keplerscience.arc.nasa.gov/new-forward-facing-position-of-campaign-16-finalized.html</link><description>&lt;p&gt;We &lt;a href="change-to-campaign-16-field-position-and-delay-to-go-cycle-5-deadline.html"&gt;previously announced&lt;/a&gt; that in order to maximize the science return from the remaining fuel, K2 Campaign 16 will now be a forward-facing campaign. This is to facilitate science that benefits from simultaneous observations from Earth.&lt;/p&gt;
+<rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Wed, 28 Sep 2016 18:00:00 -0700</lastBuildDate><item><title>K2 GO Cycle 5: Notable targets in Campaigns 14-15-16</title><link>https://keplerscience.arc.nasa.gov/k2-go-cycle-5-notable-targets-in-campaigns-14-15-16.html</link><description>&lt;p&gt;Proposals for targets to be observed by K2 in Campaigns 14, 15, and 16
+are currently being solicited as part of &lt;a href="k2-proposing-targets.html"&gt;K2 Guest Observer Cycle 5&lt;/a&gt;,
+with Step 1 submissions due on &lt;strong&gt;November 3, 2016&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="k2-fields.html"&gt;fields of these campaigns&lt;/a&gt; 
+will cover roughly 100 square degrees each towards the
+constellations of Leo (C14), Libra (C15), and Cancer (C16).
+To help inspire observing proposals,
+this post offers a list of notable targets that will be visible
+during these campaigns.&lt;/p&gt;
+&lt;div class="thumbnail" style="width: 80%"&gt;
+&lt;div class="caption"&gt;
+&lt;i&gt;Figure: position of fields 14, 15, and 16 (green) relative to previous fields.&lt;/i&gt;
+&lt;/div&gt;
+&lt;a href="k2-fields.html"&gt;
+&lt;img alt="Figure: position of fields 14, 15, and 16 (green) relative to previous fields." class="img-responsive" src="images/k2/footprint-all-campaigns.png"/&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2 id="campaign-14"&gt;Campaign 14&lt;/h2&gt;
+&lt;p&gt;Field 14 (RA 11h, Dec +7°) is located at a moderately high Galactic Latitude (+50°)
+towards the constellations of Leo and Sextans.&lt;/p&gt;
+&lt;p&gt;Notable targets include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://en.wikipedia.org/wiki/M96_Group"&gt;Leo I Group&lt;/a&gt;&lt;/strong&gt;: a group of nearby, bright galaxies that lie within the Local Supercluster. Its members include M95, M96, and M105.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;WASP-104&lt;/strong&gt;: a bright G-type star known to host a transiting hot Jupiter. (V=11)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://en.wikipedia.org/wiki/Wolf_359"&gt;Wolf 359&lt;/a&gt;&lt;/strong&gt;: a very nearby (2.4pc) late-M dwarf, known to show flares. (V=14)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;BD+01 2447&lt;/strong&gt;: a nearby M dwarf member of the AB Doradus moving group. (V=10)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://en.wikipedia.org/wiki/Rho_Leonis"&gt;ρ Leo&lt;/a&gt;&lt;/strong&gt;: a bright B-type supergiant. (V=4)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://en.wikipedia.org/wiki/4179_Toutatis"&gt;Asteroid Toutatis&lt;/a&gt;&lt;/strong&gt;: a potentially hazardous asteroid that has been visited by the Chinese Chang'e 2 probe. (V=19)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://en.wikipedia.org/wiki/61P/Shajn%E2%80%93Schaldach"&gt;Comet 61P/Shajn-Schaldach&lt;/a&gt;&lt;/strong&gt;: a faint periodic comet. (V=22)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="thumbnail" style="width: 50%"&gt;
+&lt;div class="caption"&gt;
+&lt;i&gt;Figure: position of field 14.&lt;/i&gt;
+&lt;/div&gt;
+&lt;a href="images/campaign_selected/field14-final.png"&gt;
+&lt;img alt="Figure: position of field 14." class="img-responsive" src="images/campaign_selected/field14-final.png"/&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2 id="campaign-15"&gt;Campaign 15&lt;/h2&gt;
+&lt;p&gt;Field 15 (RA 16h, Dec -20°) is located at a moderate Galactic Latitude (+30°)
+towards the constellation of Libra.  There is a small overlap with the previous Campaign 2.&lt;/p&gt;
+&lt;p&gt;Notable targets include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Upper Sco&lt;/strong&gt;: a young, nearby OB association that was previously observed during C2. It is partially visible again in C15. Notable Upper Sco members that are visible in C15 include:&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;HIP 78530&lt;/strong&gt;: a B-type star known from direct imaging to contain a planet or brown dwarf companion. (V=7)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://en.wikipedia.org/wiki/Delta_Scorpii"&gt;δ Sco&lt;/a&gt;&lt;/strong&gt;: a bright, B-type binary. (V=2)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;33 Lib&lt;/strong&gt;: a bright roAp-type star. (V=7)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HD 134439 &amp;amp; HD 134440&lt;/strong&gt;: a metal-poor proper motion pair. (V=9)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;NGC 5897&lt;/strong&gt;: a distant, 12 Gyr-old globular cluster.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://en.wikipedia.org/wiki/162173_Ryugu"&gt;Asteroid Ryugu&lt;/a&gt;&lt;/strong&gt;: a near-Earth asteroid, scheduled to be visited by the Hayabusa 2 sample-return mission in 2018. (V=20)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://en.wikipedia.org/wiki/951_Gaspra"&gt;Asteroid Gaspra&lt;/a&gt;&lt;/strong&gt;: a main belt asteroid visited by the Galileo spacecraft in 1991. (V=16)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Comet C/2014 W2&lt;/strong&gt;: a long-period comet. (V=18)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="thumbnail" style="width: 50%"&gt;
+&lt;div class="caption"&gt;
+&lt;i&gt;Figure: position of field 15 relative to field 2.&lt;/i&gt;
+&lt;/div&gt;
+&lt;a href="images/campaign_selected/field15-final.png"&gt;
+&lt;img alt="Figure: position of field 15 relative to field 2." class="img-responsive" src="images/campaign_selected/field15-final.png"/&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2 id="campaign-16"&gt;Campaign 16&lt;/h2&gt;
+&lt;p&gt;Field 16 (RA 9h, Dec +19°) is located at a moderate Galactic Latitude (+35°)
+towards the constellation of Cancer. About 30% of the field overlaps with the previous Campaign 5.&lt;/p&gt;
+&lt;p&gt;The field shows very low foreground extinction (Av ~0.2 mag) 
+which makes it well-suited for extragalactic and supernova science.
+This field will be observed in the spacecraft's forward-facing direction, enabling simultaneous observations to be made from the ground 
+at the cost of having the bright Earth pass through the field.&lt;/p&gt;
+&lt;p&gt;Notable objects include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;M44&lt;/strong&gt; (aka Praesepe or the Beehive): a 600 Myr-old open cluster revealed by K2 Campaign 5 to contain several planets.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;M67&lt;/strong&gt;: a famous, 4 Gyr-old open cluster.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;K2-34&lt;/strong&gt;: a known exoplanet host revealed by K2 Campaign 5. (V=11)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://en.wikipedia.org/wiki/Delta_Cancri"&gt;Arkushanangarushashutu&lt;/a&gt;&lt;/strong&gt;: a bright K-type giant, famous for being the star with the longest name. (V=4)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="thumbnail" style="width: 50%"&gt;
+&lt;div class="caption"&gt;
+&lt;i&gt;Figure: position of field 16 relative to field 5.&lt;/i&gt;
+&lt;/div&gt;
+&lt;a href="images/new-c16-field.png"&gt;
+&lt;img alt="Figure: position of field 16 relative to field 5." class="img-responsive" src="images/new-c16-field.png"/&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2 id="other-candidate-highlights"&gt;Other candidate highlights&lt;/h2&gt;
+&lt;p&gt;In addition to the highlights listed above, Simbad lists a wealth of known objects that will be visible during these Campaigns. They include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;19208 Galaxies;&lt;/li&gt;
+&lt;li&gt;6993 Quasars;&lt;/li&gt;
+&lt;li&gt;1904 M-type stars;&lt;/li&gt;
+&lt;li&gt;868 High Proper-Motion stars;&lt;/li&gt;
+&lt;li&gt;820 Active Galactic Nuclei;&lt;/li&gt;
+&lt;li&gt;533 Planetary Nebulae;&lt;/li&gt;
+&lt;li&gt;515 White Dwarfs;&lt;/li&gt;
+&lt;li&gt;511 RR Lyr Variables;&lt;/li&gt;
+&lt;li&gt;296 Symbiotic Stars;&lt;/li&gt;
+&lt;li&gt;131 Brown Dwarfs;&lt;/li&gt;
+&lt;li&gt;75 Blue Stragglers;&lt;/li&gt;
+&lt;li&gt;64 Cepheids&lt;/li&gt;
+&lt;li&gt;28 T Tauri Stars;&lt;/li&gt;
+&lt;li&gt;22 Cataclysmic Variables;&lt;/li&gt;
+&lt;li&gt;16 Mira Variables;&lt;/li&gt;
+&lt;li&gt;3 O-type stars.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A full table containing all Simbad sources that are visible in C14-15-16
+can be downloaded from this website in CSV format (&lt;a href="https://raw.githubusercontent.com/KeplerGO/K2FootprintFiles/master/simbad/K2-C14-C16-Simbad.csv"&gt;K2-C14-C16-Simbad.csv&lt;/a&gt;) or as a VOTable (&lt;a href="https://github.com/KeplerGO/K2FootprintFiles/raw/master/simbad/K2-C14-C16-Simbad.xml.gz"&gt;K2-C14-C16-Simbad.xml.gz&lt;/a&gt;). Beware however that Simbad is not a full catalog of all known sources; it merely lists objects that have previously been discussed in the literature.
+For the purpose of e.g. color-based target selections,
+we recommend using a more complete source catalog, preferably the &lt;a href="https://archive.stsci.edu/k2/epic/search.php"&gt;EPIC catalog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As a reminder, the &lt;a href="software.html#k2fov"&gt;K2fov Python package&lt;/a&gt; enables you to test whether targets fall within a campaign field,
+while its sister &lt;a href="software.html#k2ephem"&gt;K2ephem package&lt;/a&gt;
+allows moving Solar System bodies to be checked.
+Note that it is crucial to use K2fov version 6.0 or higher for Campaigns 14-15-16.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Wed, 28 Sep 2016 18:00:00 -0700</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2016-09-28:k2-go-cycle-5-notable-targets-in-campaigns-14-15-16.html</guid></item><item><title>New forward-facing position of Campaign 16 finalized</title><link>https://keplerscience.arc.nasa.gov/new-forward-facing-position-of-campaign-16-finalized.html</link><description>&lt;p&gt;We &lt;a href="change-to-campaign-16-field-position-and-delay-to-go-cycle-5-deadline.html"&gt;previously announced&lt;/a&gt; that in order to maximize the science return from the remaining fuel, K2 Campaign 16 will now be a forward-facing campaign. This is to facilitate science that benefits from simultaneous observations from Earth.&lt;/p&gt;
 &lt;p&gt;The &lt;a href="k2-fields.html"&gt;position of this field&lt;/a&gt; has been finalized. The position was chosen to maximize the number of known low-redshift galaxies, while also enabling the collection of a significant fractions of both M67 and the Beehive cluster (aka Praesepe, M44). The campaign will begin around December 7, 2017 and last approximately 80 days. Campaign 16 has a 30% overlap with the Campaign 5 field.&lt;/p&gt;
 &lt;p&gt;To determine whether targets fall on-silicon, all investigators must update their version of the
 &lt;a href="software.html#k2fov"&gt;K2fov target selection tool&lt;/a&gt;
  and ensure they are using v6.0 or higher. &lt;/p&gt;
-&lt;p&gt;The new C16 EPIC catalog will be available at MAST within the next couple of weeks. The deadline for Step-1 proposals is November 3 at 23:59 EST. Information about the proposal process, including the scope, evaluation criteria, availability of funds, eligibility, target selection tools, submission process, and frequently asked questions, is detailed on the proposal preparation page.&lt;/p&gt;
+&lt;p&gt;The new C16 EPIC catalog will be available at MAST within the next couple of weeks. The deadline for Step-1 proposals is November 3 at 23:59 EST. Information about the proposal process, including the scope, evaluation criteria, availability of funds, eligibility, target selection tools, submission process, and frequently asked questions, is detailed on the &lt;a href="k2-proposing-targets.html"&gt;proposal preparation page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://keplerscience.arc.nasa.gov/k2-fields.html#c16"&gt;&lt;img alt="Campaign 16 position" src="images/new-c16-field.png" /&gt;&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom Barclay</dc:creator><pubDate>Fri, 23 Sep 2016 11:00:00 -0700</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2016-09-23:new-forward-facing-position-of-campaign-16-finalized.html</guid></item><item><title>K2 Campaign 9 data processing complete</title><link>https://keplerscience.arc.nasa.gov/k2-campaign-9-data-processing-complete.html</link><description>&lt;p&gt;Pipeline processing for K2 Campaign 9 is now complete
 and the data are in the process of being shipped
 to the &lt;a href="http://archive.stsci.edu/k2"&gt;MAST archive&lt;/a&gt;.
