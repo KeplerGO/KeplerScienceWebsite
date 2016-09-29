@@ -106,7 +106,7 @@ In addition to the highlights listed above, Simbad lists a wealth of known objec
 * 19208 Galaxies;
 * 6993 Quasars;
 * 1904 M-type stars;
-* 868 High Proper-mMtion stars;
+* 868 High Proper-Motion stars;
 * 820 Active Galactic Nuclei;
 * 533 Planetary Nebulae;
 * 515 White Dwarfs;
