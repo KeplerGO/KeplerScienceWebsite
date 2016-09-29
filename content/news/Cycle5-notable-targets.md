@@ -88,7 +88,7 @@ Notable objects include:
 * **M44** (aka Praesepe or the Beehive): a 600 Myr-old open cluster revealed by K2 Campaign 5 to contain several planets.
 * **M67**: a famous, 4 Gyr-old open cluster.
 * **K2-34**: a known exoplanet host revealed by K2 Campaign 5. (V=11)
-* **[Arkushanangarushashutu](https://en.wikipedia.org/wiki/Delta_Cancri)**: a bright K-type giant; star with the longest name. (V=4)
+* **[Arkushanangarushashutu](https://en.wikipedia.org/wiki/Delta_Cancri)**: a bright K-type giant, famous for being the star with the longest name. (V=4)
 
 <div class="thumbnail" style="width: 50%">
 <div class="caption">
