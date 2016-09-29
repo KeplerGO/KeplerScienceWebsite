@@ -74,7 +74,7 @@ at the cost of having the bright Earth pass through the field.&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;M44&lt;/strong&gt; (aka Praesepe or the Beehive): a 600 Myr-old open cluster revealed by K2 Campaign 5 to contain several planets.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;M67&lt;/strong&gt;: a famous, 4 Gyr-old open cluster.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;K2-34&lt;/strong&gt;: a known exoplanet host revealed by K2 Campaign 5. (V=11)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href="https://en.wikipedia.org/wiki/Delta_Cancri"&gt;Arkushanangarushashutu&lt;/a&gt;&lt;/strong&gt;: a bright K-type giant; star with the longest name. (V=4)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://en.wikipedia.org/wiki/Delta_Cancri"&gt;Arkushanangarushashutu&lt;/a&gt;&lt;/strong&gt;: a bright K-type giant, famous for being the star with the longest name. (V=4)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class="thumbnail" style="width: 50%"&gt;
 &lt;div class="caption"&gt;
@@ -116,7 +116,7 @@ Note that it is crucial to use K2fov version 6.0 or higher for Campaigns 14-15-1
 &lt;p&gt;To determine whether targets fall on-silicon, all investigators must update their version of the
 &lt;a href="software.html#k2fov"&gt;K2fov target selection tool&lt;/a&gt;
  and ensure they are using v6.0 or higher. &lt;/p&gt;
-&lt;p&gt;The new C16 EPIC catalog will be available at MAST within the next couple of weeks. The deadline for Step-1 proposals is November 3 at 23:59 EST. Information about the proposal process, including the scope, evaluation criteria, availability of funds, eligibility, target selection tools, submission process, and frequently asked questions, is detailed on the proposal preparation page.&lt;/p&gt;
+&lt;p&gt;The new C16 EPIC catalog will be available at MAST within the next couple of weeks. The deadline for Step-1 proposals is November 3 at 23:59 EST. Information about the proposal process, including the scope, evaluation criteria, availability of funds, eligibility, target selection tools, submission process, and frequently asked questions, is detailed on the &lt;a href="k2-proposing-targets.html"&gt;proposal preparation page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://keplerscience.arc.nasa.gov/k2-fields.html#c16"&gt;&lt;img alt="Campaign 16 position" src="images/new-c16-field.png" /&gt;&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>K2 Campaign 9 data processing complete</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-9-data-processing-complete.html" rel="alternate"></link><published>2016-09-21T14:00:00-07:00</published><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2016-09-21:k2-campaign-9-data-processing-complete.html</id><summary type="html">&lt;p&gt;Pipeline processing for K2 Campaign 9 is now complete
 and the data are in the process of being shipped
 to the &lt;a href="http://archive.stsci.edu/k2"&gt;MAST archive&lt;/a&gt;.
