@@ -265,7 +265,7 @@ position errors at or below 0.1 pixel.
 
 Since the thruster firing flags are not noted in FITS quality flags in the 
 Type-1 TPFs, they are being delivered in separate 
-long-cadence <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c9_lc.csv">(thruster_firing_flags_c2_lc.csv)</a>
+long-cadence <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c9_lc.csv">(thruster_firing_flags_c9_lc.csv)</a>
 and short-cadence <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c9_sc.csv">(thruster_firing_flags_c9_sc.csv)</a>
 thruster firing tables. 
 
