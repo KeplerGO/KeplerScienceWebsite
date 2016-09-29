@@ -136,7 +136,7 @@ to identify which targets fall upon active silicon.
 Only those targets within the active fields of view should be proposed.
 
 Note that all investigators *must* update their version of 
-K2fov to the latest version to take the final field positions of Campaigns 14-15-16 into account. 
+K2fov to the latest version (v6.0) to take the final field positions of Campaigns 14-15-16 into account. 
 K2fov can be updated from the command line using pip:
 
     pip install K2fov --upgrade
@@ -146,9 +146,10 @@ using the following command:
 
     python -c "import K2fov; print(K2fov.__version__)"
 
-This should return "5.1.0" or higher. If the number is lower,
+This must return "6.0.0" or higher. If the number is lower,
 or if you see an error message, then your installation of K2fov is outdated
 and must be upgraded.
+Not upgrading K2fov will lead to unobservable targets being selected!
 
 
 ### Target table
@@ -321,7 +322,7 @@ position is currently preliminary and will be finalized before the Step 1 deadli
   
 * **How do I select targets on silicon?**<br/>
   In order to avoid inefficiency for proposers, you are encouraged to
-  use the online tool <a href="software.html#k2fov">K2fov</a> to
+  use the <a href="software.html#k2fov">K2fov tool</a> to
   determine whether your targets fall upon silicon and propose only
   those that do. The precision of this tool is a few 4x4 arcsec
   detector pixels. <br/>
