@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2016-09-28" />
+    <meta name="dc.date.modified" content="2016-10-01" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -34,13 +34,13 @@ in August 2015, using pelican-bootstrap and flatly.
 <link rel="canonical" href="./pages/k2-data-release-notes.html">
 
         <meta name="author" content="Thomas Barclay" />
-        <meta name="description" content="This page details the key features of the K2 data releases, including a description of technical issues relevant to the scientific exploitation of the data. K2 Campaign 8 At a glance Pointing RA: 16.3379975 degrees Dec: 5.2623459 degrees Roll: -157.3538761 degrees Targets 24,187 in long cadence ..." />
+        <meta name="description" content="This page details the key features of the K2 data releases, including a description of technical issues relevant to the scientific exploitation of the data. K2 Campaign 9 At a glance Campaign 9 was flown in the forward velocity vector direction to observe the star-rich region around the Galactic bulge ..." />
 
     <meta property="og:site_name" content="Kepler &amp; K2" />
     <meta property="og:type" content="article"/>
     <meta property="og:title" content="K2 Data Release Notes"/>
     <meta property="og:url" content="./pages/k2-data-release-notes.html"/>
-    <meta property="og:description" content="This page details the key features of the K2 data releases, including a description of technical issues relevant to the scientific exploitation of the data. K2 Campaign 8 At a glance Pointing RA: 16.3379975 degrees Dec: 5.2623459 degrees Roll: -157.3538761 degrees Targets 24,187 in long cadence ..." />
+    <meta property="og:description" content="This page details the key features of the K2 data releases, including a description of technical issues relevant to the scientific exploitation of the data. K2 Campaign 9 At a glance Campaign 9 was flown in the forward velocity vector direction to observe the star-rich region around the Galactic bulge ..." />
 
 
     <!-- Why use Helvetica Neue when you can have Lato? -->
@@ -140,6 +140,266 @@ in August 2015, using pelican-bootstrap and flatly.
 including a description of technical issues relevant to
 the scientific exploitation of the data.</p>
 <hr>
+<h1 id="k2-campaign-9">K2 Campaign 9</h1>
+<h2>At a glance</h2>
+<div class="col-lg-5">
+
+Campaign 9 was flown in the forward velocity vector direction to observe the
+star-rich region around the Galactic bulge in search of microlensing events. In
+order to maximize data collection capabilities, the campaign was conducted in
+two parts with a mid-campaign data downlink and a ~0.6 pixel offset between the
+two subfields known as C9a and C9b, identified in the archive products as C91
+and C92, respectively.
+<br>
+<b><i>C9a Pointing</i></b>
+<ul>
+<li>RA: 270.3544823 degrees</li>
+<li>Dec: -21.7798098 degrees</li>
+<li>Roll: 0.4673417 degrees</li>
+</ul>
+<b><i>C9a Targets</i></b>
+<ul>
+<li>  3,481 in long cadence (LC)</li>
+<li>  12 in short cadence (SC)</li>
+<li>  76 unique custom targets were selected in C9. Three million of the total 3.3 million C9 target pixels were used to construct microlensing super apertures on 5 channels around the Galactic bulge. See the <a href="images/release-notes/c9/ktwoc91_caf.csv">csv file that maps</a> the custom aperture number to the target name.</li>
+</ul>
+<b><i>C9a First cadence</i></b>
+<ul>
+<li>Time: 2016-04-22 14:04:59 UTC</li>
+<li>Long Cadence Number: 125243</li>
+<li>Short Cadence Number: 3745750</li>
+</ul>
+<b><i>C9a Last cadence</i></b>
+<ul>
+<li>Time:  2016-05-18 22:42:26 UTC</li>
+<li>Long Cadence Number: 126532</li>
+<li>Short Cadence Number: 3784449</li>
+</ul>
+<br>
+<b><i>C9b Pointing</i></b>
+<ul>
+<li>RA: 270.3543824 degrees</li>
+<li>Dec: -21.7804700 degrees</li>
+<li>Roll: 0.4673417 degrees</li>
+</ul>
+<b><i>C9b Targets</i></b>
+<ul>
+<li>  3,614 in long cadence (LC)</li>
+<li>  13 in short cadence (SC)</li>
+<li>  132 additional long-cadence  microlensing targets and 1 short-cadence target were added to the C9a target list for C9b. See the <a href="images/release-notes/c9/ktwoc92_caf.csv">csv file that maps</a> the custom aperture number to the target name.</li>
+</ul>
+<b><i>C9b First cadence</i></b>
+<ul>
+<li>Time: 2016-05-22 14:58:45 UTC</li>
+<li>Long Cadence Number: 126713</li>
+<li>Short Cadence Number: 3789850 </li>
+</ul>
+<b><i>C9b Last cadence</i></b>
+<ul>
+<li>Time: 2016-07-02 22:34:52 UTC</li>
+<li>Long Cadence Number: 128734 </li>
+<li>Short Cadence Number: 3850509 </li>
+</ul>
+<b><i>Full Frame Images (FFI)</i></b>
+<ul>
+<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2016119231109-c91_ffi-cal.fits">ktwo2016119231109-c91_ffi-cal.fits</a></li>
+<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2016153221424-c92_ffi-cal.fits">ktwo2016153221424-c92_ffi-cal.fits</a></li>
+</ul>
+</br></br></div>
+<div class="col-lg-7">
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C9-FOV: Schematic of Kepler's C9 field-of-view with observed targets shown with purple dots.</i>
+</div>
+<a href="images/release-notes/c9/C9_selected.png">
+<img alt="C9 field-of-view with selected targets plotted in purple." class="img-responsive" src="images/release-notes/c9/C9_selected.png">
+</img></a>
+</div>
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C9-Mag: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The distribution is due to the <a href="k2-approved-programs.html#campaign-9">GO  programs</a> that were selected. Note that the small number of targets is due to the fact that the majority of pixels were in the microlensing super apertures.</i>
+</div>
+<a href="images/release-notes/c9/c9LcMagDistribution.png">
+<img alt="Distribution of the Kepler magnitudes of observed targets." class="img-responsive" src="images/release-notes/c9/c9LcMagDistribution.png">
+</img></a>
+</div>
+</div>
+<h2>Features and events</h2>
+<p><br>
+<strong><em>Microlensing Toward the Galactic Bulge</em></strong></br></p>
+<p>The <a href="k2-c9.html">C9 campaign</a> was dedicated
+to a microlensing study of targets in the direction of the Galactic Bulge. As
+such, there were a number of unique aspects to the campaign:
+<ul>
+<li> The spacecraft observed in the forward velocity vector direction to allow for simultaneous observations of targets from Earth.
+<li> Three million of the 3.3 million pixels were in dedicated super apertures around the Galactic Bulge. Because these pixels do not have traditional star target apertures, light curves were not generated by the pipeline and we are delivering calibrated pixels only. In addition, there were a number of individual targets outside the super apertures that were added late as they showed microlensing signatures detected by ground-based surveys. 
+<li> The campaign was split into two parts in order to double the available on-board data storage, enabling coverage of the entire high-priority bulge region. This also accomodated the addition of late high-value microlensing targets and allowed for a mid-campaign subpixel pointing offset.
+</li></li></li></ul></p>
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C9 Microlensing super apertures: the super apertures (highlighted in green) were comprised of 3 million pixels on five CCD channels.  Together they combined to cover the near-contiguous region in the sky in the C9 footprint where the highest number of microlensing events were expected. The numbers annotate the CCD channel identifiers in both module.output notation (e.g. 10.3) and channel number notation (e.g. #31). The super apertures were unchanged between C9a and C9b.
+</i>
+</div>
+<a href="images/release-notes/c9/c9-microlensing-superstamp.png">
+<img alt="C9 microlensing super apertures on 5 channels around the Galactic bulge." class="img-responsive" src="images/release-notes/c9/c9-microlensing-superstamp.png">
+</img></a>
+</div>
+<p><br>
+<strong><em>Emergency Mode</em></strong></br></p>
+<p>Prior to the start of C9a, the spacecraft entered Safemode on 2016-04-07
+00:05:06 UTC following a glitch on a data bus that left the spacecraft in an
+unstable configuration. As a result of this misconfiguration, large attitude 
+excursions during Safemode`led to a
+Sun-avoidance fault that caused the spacecraft to enter Emergency mode
+approximately two hours later. </p>
+<p>In Emergency mode the spacecraft computer is
+powered off, resetting all configurations and emptying stored science and
+engineering data. The spacecraft is operated by a low-level controller that
+maintains a Sun-safe attitude using thrusters. Since Kepler had never been in
+Emergency mode, the operations team was careful in restoring the spacecraft
+first to Safemode, which uses significantly less fuel, and then to normal
+operations. The recovery was completed and C9a observations began on 
+2016-04-22, 14 days after the planned 2016-04-08 start, shortening the C9a
+portion of the campaign by two weeks. </p>
+<p>During Emergency mode the spacecraft clock was reset, so an updated time was loaded to the clock
+prior to the start of C9a data collection. Subsequent timing observations on the ground determined that there
+was a 4 second error in the uploaded spacecraft time. The Mission Operations Center made a 
+retroactive clock kernel update after C9a data collection was
+completed, changing the time on-board the spacecraft by 4.2 seconds and allowing the
+C9a data to be correctly time stamped once it hit the ground. As a result, both the C9a
+and C9b data have the nominal 50 msec absolute accuracy, but the two
+sets of cadences have an offset of 4.2 sec relative to each other.
+The C9a data were collected 4.2 seconds later than expected based on 
+a uniform cadence interval across C9a and C9b. </p>
+<p><strong><em>Pointing and Roll Performance</em></strong></p>
+<p>The C9a and C9b pointing and roll behavior were typical of K2 campaigns despite
+the forward velocity vector orientation. There were two notable pointing
+excursions during the campaign: a commanded pointing offset for C9b, and an
+uncommanded impulsive roll offset observed during C9b. </p>
+<div class="thumbnail" style="width: 45%;display: inline-block;">
+<div class="caption">
+<i>Figure C9-Pointing History: pointing performance for C9 was consistent with that of previous campaigns. The roll amplitude and roll rate were in family with previous campaigns.</i>
+</div>
+<a href="images/release-notes/c9/c9_pointing_history.png">
+<img alt="Roll amplitude for C9 matched that of previous campaigns despite the forward velocity vector orientation" class="img-responsive" src="images/release-notes/c9/c9_pointing_history.png"/></a>
+</div></hr>
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C9-Roll Rate: the C9 roll rate as a function of solar elevation angle
+is consistent with previous campaigns (C4 is shown here for comparison) despite
+the reversed motion of the Sun as seen by the spacecraft due to the forward facing
+orientation.</i>
+<a href="images/release-notes/c9/c9_roll_rate.png">
+<img alt="Roll Drift rates for C9 matched t
+hat of previous campaigns despite the forward velocity vector orientation." class="img-responsive" src="images/release-notes/c9/c9_roll_rate.png">
+</img></a>
+</div>
+</div>
+<p><strong>Commanded Pointing Offset for C9b</strong></p>
+<p>The Microlensing Science Team (MST) requested that a subpixel pointing offset
+be introduced between C9a and C9b. The intent of the offset was to move the
+star images 0.64 pixels (2.4 arc seconds) perpendicular to the K2 roll-induced
+image motion in the microlensing super apertures. The offset causes the image
+motion in the combined C9a + C9b campaign to better span the subpixel space,
+facilitating image reconstruction photometry. Based on preliminary pointing
+measurements collected from the spacecraft, the C9b offset met the intended goal.</p>
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C9a-C9b Pointing Offset: the position of a model star on CCD channel
+31 in the microlensing super aperture demonstrates that the C9b offset
+amplitude and direction was as expected. The pre-flight planned postion was
+centered on CCD row=50, column=500 in C9a (black circle) with the commanded C9b
+offset expected to put the target at row=50.6, column=499.8 (black asterisk).
+At the start of C9a the position measured by the Photometer Data Quality (PDQ) 
+pipeline (red circle) was ~0.3 pixels from the planned position, well within
+operating limits. A later C9a measure (green circle) put the star
+along the expected line of roll-motion (red x's). The measured C9b position (green
+asterisk) is consistent with the predicted position (red asterisk) based on 
+the initial C9a pointing measure and meets the desired goal of a ~0.6 pixel 
+offset perpendicular to the roll motion.
+</i>
+</div>
+<a href="images/release-notes/c9/c9b_initial_pointing.png">
+<img alt="Offset achieved between C9a and C9b was 0.6 pixels as commanded." class="img-responsive" src="images/release-notes/c9/c9b_initial_pointing.png">
+</img></a>
+</div>
+<p><strong>Impulsive Roll offset in C9b</strong></p>
+<p>A small uncommanded movement of the spacecraft of about -20 arc seconds in roll
+was observed at 2016-06-18 02:17:30, during long-cadence number 128008. The
+movement appears to have been due to a short impulse applied to the spacecraft
+that the reaction wheel momentum nulled out over a period of 2 minutes,
+resulting in the -20 arc second roll offset. The roll offset was corrected 22.5
+hours later by thrusters as part of the normal K2 roll management cycle. </p>
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C9b Roll Impulse: the centroid column of a target (EPIC 223254456) on 
+CCD channel 50 shows the impulsive pointing offset on cadence number 128008. The
+centroid behavior of this target for 4 days around the jump shows that the
+impulsive offset did not introduce target motions that were out-of-family with
+normal roll-induced motion.
+</i>
+</div>
+<a href="images/release-notes/c9/c9b_pointing_jump.png">
+<img alt="Impulsive offset in C9b did not result in excessive target motion." class="img-responsive" src="images/release-notes/c9/c9b_pointing_jump.png">
+</img></a>
+</div>
+<p><br>
+<strong><em>Calibrated Target Pixel Files</em></strong></br></p>
+<p>This data release consists of calibrated target pixel files (TPFs) and supporting
+calibration files. With
+the use of large super apertures to collect the vast majority of the pixels and
+the resulting small number of standard targets, no light curve files were
+generated for the C9 data. These calibrated TPFs are intended to replace the
+raw uncalibrated cadence pixel files currently available at the MAST. These
+raw files 
+<ul>
+<li>long cadence target data - lcs-targ 
+<li>long cadence collateral data - lcs-col 
+<li>long cadence processing history - lcs-history 
+</li></li></li></ul>
+were delivered to facilitate rapid follow-up of possible microlensing events. 
+There are two separate sets of calibrated TPFs for C9a and C9b 
+whose filenames contain "c91" and "c92" respectively. The TPFs are available
+through the normal K2 archive source page at MAST, whereas the cadence
+pixel files are available on the 
+<a href="http://archive.stsci.edu/missions/k2/c9_raw_cadence_data/">MAST FTP site</a>.</p>
+<p>We recommend that the calibrated TPFs delivered in Data Release 12 be used
+in place of these raw files for scientific publications. The raw data will 
+continue to be available at the MAST until Jan 1, 2017, three months after 
+the delivery of Data Release 12, after which point it will no longer be
+available.</p>
+<p><strong>Type-1 vs Type-2 TPFs</strong></p>
+<p>In normal K2 processing, later stages of the pipeline are used to reconstruct
+the pointing history and associate thruster firings with specific long- and 
+short-cadence numbers. These products are then included in the exported target
+pixel and light curve FITS files. Because the C9 processing only used the pipeline
+pixel-level calibration, these products are not available in the usual format. </p>
+<p>The C9 TPFs, known as "Type-1 TPFs" are like those released early in K2
+for C0 (DR2), C1 (DR3), and C2 (DR4). 
+These TPFs have world coordinate system (WCS) coordinates 
+based on the ra_dec_2_pix focal plane model and commanded pointing, 
+rather than using a reconstructed pointing history. We expect that the Type-1 WCS
+coordinates can be wrong by up to ~1 pixel given the unmodeled roll motion
+and discrete pointing offsets. </p>
+<p>The standard Type-2 TPFs (campaigns C3-C8) contain WCS coordinates based on
+the reconstructed pointing determined from the measured PRF centroid motion of a 
+number of bright unsaturated stars across each channel. The "motion polynomial" 
+model tracks the roll drift and any impulsive pointing offsets, resulting in 
+position errors at or below 0.1 pixel. </p>
+<p>Since the thruster firing flags are not populated in FITS quality flags for the 
+Type-1 TPFs, they are being delivered in separate 
+long-cadence <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c91_lc.csv">(thruster_firing_flags_c91_lc.csv</a>, <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c92_lc.csv">thruster_firing_flags_c92_lc.csv)</a> 
+and short-cadence <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c91_sc.csv">(thruster_firing_flags_c91_sc.csv</a>, <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c92_sc.csv">thruster_firing_flags_c92_sc.csv)</a> 
+thruster firing tables. </p>
+<h2>Release History</h2>
+<p>The following is the data release history for C9. Follow the link for
+information about some of the features of the software used to reduce and
+export these data. There will be a new entry each time the data processed 
+for release by the mission.</p>
+<ul>
+<li><a href="k2-pipeline-release-notes.html#data-release-12">Data Release 12</a></li>
+</ul>
 <h1 id="k2-campaign-8">K2 Campaign 8</h1>
 <h2>At a glance</h2>
 <div class="col-lg-5">
@@ -1191,7 +1451,7 @@ Note, in Data Release 4, because of an operator error, the tweak is marked on th
 Page last updated on: 
 <script>
 document.write(document.lastModified);
-</script></br></hr></p></hr></hr></hr></hr></hr></hr></p></hr></hr></hr>
+</script></br></hr></p></hr></hr></hr></hr></hr></hr></p></hr></hr>
             </div>
         </section>
     </div>
@@ -1200,6 +1460,7 @@ document.write(document.lastModified);
             <div class="nav nav-stacked fixed" id="mytoc">
             <div class="toc">
 <ul>
+<li><a href="#k2-campaign-9">K2 Campaign 9</a></li>
 <li><a href="#k2-campaign-8">K2 Campaign 8</a></li>
 <li><a href="#k2-campaign-7">K2 Campaign 7</a></li>
 <li><a href="#k2-campaign-6">K2 Campaign 6</a></li>
