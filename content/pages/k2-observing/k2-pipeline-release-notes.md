@@ -14,7 +14,7 @@ Information about each specific campaign can be found in the links associated wi
 * SOC 9.3
 * Campaigns: [C9](k2-data-release-notes.html#k2-campaign-9)
 
-This is the first delivery of C9. The release consists of Type-1 target pixel files only. No light curve files were generated for C9. See the [C9 data release notes](k2-data-release-notes.html#k2-campaign-9) for a description of the the content of Type-1 versus Type-2 (nominal) TPFs.  No other features of the the data processing have changed.  See below for previous updates to the K2 pipeline.
+This is the first delivery of C9. The release consists of Type-1 target pixel files and supporting calibration files. No light curve files were generated for C9. See the [C9 data release notes](k2-data-release-notes.html#k2-campaign-9) for a description of the the content of Type-1 versus Type-2 (nominal) TPFs.  No other features of the the data processing have changed.  See below for previous updates to the K2 pipeline.
 
 ### Data Release 11
 * July 2016

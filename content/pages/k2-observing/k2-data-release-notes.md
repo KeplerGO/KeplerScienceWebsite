@@ -140,7 +140,7 @@ such, there were a number of unique aspects to the campaign:
 Prior to the start of C9a, the spacecraft entered Safemode on 2016-04-07
 00:05:06 UTC following a glitch on a data bus that left the spacecraft in an
 unstable configuration. As a result of this misconfiguration, large attitude 
-excursions during Safemode`led to a
+excursions during Safemode led to a
 Sun-avoidance fault that caused the spacecraft to enter Emergency mode
 approximately two hours later. 
 
@@ -209,7 +209,7 @@ measurements collected from the spacecraft, the C9b offset met the intended goal
 <div class="caption">
 <i>Figure C9a-C9b Pointing Offset: the position of a model star on CCD channel
 31 in the microlensing super aperture demonstrates that the C9b offset
-amplitude and direction was as expected. The pre-flight planned postion was
+amplitude and direction were as expected. The pre-flight planned postion was
 centered on CCD row=50, column=500 in C9a (black circle) with the commanded C9b
 offset expected to put the target at row=50.6, column=499.8 (black asterisk).
 At the start of C9a the position measured by the Photometer Data Quality (PDQ) 
@@ -310,7 +310,7 @@ thruster firing tables.
 
 The following is the data release history for C9. Follow the link for
 information about some of the features of the software used to reduce and
-export these data. There will be a new entry each time the data processed 
+export these data. There will be a new entry each time the data are processed 
 for release by the mission.
 
 * <a href="k2-pipeline-release-notes.html#data-release-12">Data Release 12</a>
