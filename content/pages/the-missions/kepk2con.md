@@ -35,7 +35,7 @@ Details coming soon.
 The nearest airport is the San Jose International Airport (SJC).
 The nearest alternative to SJC is San Francisco International Airport (SFO).
 We recommend hiring a rental car or using the Uber or Lyft apps
-for transportation from the airport.
+for transportation from the airport. Additional details coming soon.
 
 ### Lodging Options
 
