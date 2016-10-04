@@ -6,6 +6,9 @@ Save_as: kepler-k2-sci-con-iv.html
 <img class="img-responsive" style="max-width:100%;" src="images/KepSciConf-IV-2017-Slide1.jpg">
 *Image Credit: NASA ARC/W. Stenzel*
 
+Welcome to the home page of the Kepler & K2 Science Conference IV!
+Check back here for updates or follow the conversation on Twitter (<a href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon</a>).
+
 ### Important Dates 
 
 The conference will take place from June 19-23, 2017.  Registration deadlines and additional dates of interest will be announced soon.
