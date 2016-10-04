@@ -11,7 +11,7 @@ Save_as: supernova-experiment/index.html
         <ul>
             <li style='margin-top: 0.75em;'>
                 From Dec 2017 through Apr 2018, K2 Campaigns 16 &amp; 17 will be able 
-                to monitor <b>&gt;20,000 low-z galaxies</b> to gather a statistical sample 
+                to monitor <b>&gt;20,000 galaxies</b> to gather a statistical sample 
                 of the best supernovae lightcurves ever obtained.
             </li>
             <li style='margin-top: 0.75em;'>
@@ -29,11 +29,10 @@ Save_as: supernova-experiment/index.html
             <li style='margin-top: 0.75em;'>
                 Proposals to select and analyze K2 targets are eligible for <b>funding up to $150,000</b> 
                 as part of <a href="k2-proposing-targets.html">K2 GO Cycle 5</a>.  The Step 1 deadline is Nov 3, 2016.
-                Proposals in all areas of astrophysics and planetary science are encouraged.
             </li>
             <li style='margin-top: 0.75em;'>
                 A <b><a href='#k2-supernova-workshop'>workshop</a></b> will be held at NASA Ames on Feb 14-16, 2017,
-                to help plan the observing and data analysis efforts.
+                to help plan the K2 Supernova Experiment, including the ground-based observations and data analysis efforts.
             </li>
         </ul>
     </div>
@@ -55,7 +54,7 @@ The 30-min cadence and continuous coverage of K2 observations are providing
 the best rise-time information ever obtained for thermonuclear supernovae 
 and constrain the shock breakout of core collapse events.
 
-The trigger mechanism for a white dwarf to explode as a Type Ia supernova is unknown. 
+The trigger mechanism for a Type Ia supernova is unknown. 
 If a mass-losing companion star is present, then when the expanding material from the supernova hits it, 
 extra shock emission will be evident (e.g. <a href='https://arxiv.org/abs/0909.0275'>Kasen 2010</a>).
 That emission, occurring in the first several days and dependent on viewing angle, 
@@ -86,10 +85,10 @@ The K2 mission will host a Supernova Workshop on Feb 14-16, 2017,
 at NASA Ames in Mountain View, California.
 The motivations for this workshop include:
 
-* provide an opportunity to plan the K2 observations with mission team members;
-* coordinate the simultaneous, ground-based follow-up observations;
-* prepare the data analysis efforts;
-* explore synergies with other science areas that would benefit from the observations.
+* providing an opportunity to plan the K2 observations with Kepler/K2 team members;
+* coordinating the simultaneous, ground-based follow-up observations and proposals;
+* preparing the data analysis and interpretation efforts;
+* exploring synergies with other space missions, wavelength regions, and  science areas.
 
 
 ### Dates
@@ -136,6 +135,9 @@ Bookings need to be made by phone on +1 650 603 7100,
 mentioning you are a participant of the K2 Supernova Workshop
 at the conference center.
 A credit card will be required to make the reservation.
+
+**These on-site rooms are made available on a first-come, first-served basis,
+book early to avoid disappointment.**
 
 Alternatively, the conference center provides a <a href='http://naccenter.arc.nasa.gov/links.php#hotel'>list of local hotels</a>.
 Those nearest to Ames are the <a href='http://www.countyinn.com'>County Inn</a>
