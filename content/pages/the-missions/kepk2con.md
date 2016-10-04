@@ -1,9 +1,9 @@
 Title: Kepler & K2 Science Conference IV
-Save_as: kepler-k2-sci-con-iv.html
+Save_as: scicon4/index.html
 
 [TOC]
 
-<img class="img-responsive" style="max-width:100%;" src="images/KepSciConf-IV-2017-Slide1.jpg">
+<img class="img-responsive" style="max-width:100%;" src="../images/KepSciConf-IV-2017_title-block_slide-web.png">
 *Image Credit: NASA ARC/W. Stenzel*
 
 Welcome to the home page of the Kepler & K2 Science Conference IV!
@@ -55,6 +55,7 @@ Details coming soon.
 
 *** Local Organizing Committee *** </br>
 
-* Mark Messersmith, NASA Ames Research Center 
+* Mark Messersmith, NASA Ames Research Center (Chair)
 * Wendy Stenzel, NASA Ames Research Center
 * Knicole Colón, NASA Ames Research Center
+* Ellen O'Leary, NASA Exoplanet Science Institute
