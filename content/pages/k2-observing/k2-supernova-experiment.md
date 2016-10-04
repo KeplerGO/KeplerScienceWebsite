@@ -46,11 +46,23 @@ Save_as: supernova-experiment/index.html
 
 ## Background
 
-The traditional late start, ground-based observations of typical supernova searches guarantees 
-that most supernovae are found at or past maximum light.
+Following a call for novel science experiments to be accomplished during K2's extended mission,
+feedback was received to enable a supernova survey in which simultaneous ground-based spectroscopic observations
+could complement K2’s single-bandpass photometry.
+A limitation that K2 supernova scientists have faced in previous Campaigns 
+is that simultaneous observations from Earth required challenging observations during twilight.
+In Campaigns 16 and 17 however, K2 will observe suitable fields towards the forward direction of its velocity vector,
+monitoring galaxies that can easily be accessed from the ground at the same time.
+
+The large sample of supernova light curves expected from this experiment
+will improve the calibration of Type Ia supernovae for cosmology by reducing uncertainties in distance measurements. 
+By determining the key parameters needed for distance fitting, i.e. light-curve width and maximum luminosity, 
+K2 observations will improve the precision of distances that are used for H<sub>0</sub> and constraints on dark energy.
+
+Moreover, traditional, ground-based supernova searches tend to find most supernovae at or past maximum light.
 Yet there is clearly a tremendous amount of information about the explosion contained 
 in the early phases of the light curve. 
-The 30-min cadence and continuous coverage of K2 observations are providing 
+The 30-min cadence and continuous coverage of K2 observations will provide 
 the best rise-time information ever obtained for thermonuclear supernovae 
 and constrain the shock breakout of core collapse events.
 
@@ -60,23 +72,7 @@ extra shock emission will be evident (e.g. <a href='https://arxiv.org/abs/0909.0
 That emission, occurring in the first several days and dependent on viewing angle, 
 requires early and continual observing of many Type Ia supernovae to clearly define the circumstances of the shock 
 and discover the progenitors of the events.
-Early rise-time features due to different explosion physics
-and different progenitors of both Type Ia and core-collapse supernovae can be elucidated
-if a large sample of supernovae are observed.
-
-Following a call for novel science experiments that can be accomplished during K2's extended mission,
-feedback was received to carry out a "forward-facing" campaign 
-to enable observations of supernovae and allow simultaneous ground-based spectroscopic observations.
-The large sample of supernova light curves expected from K2 
-will improve the calibration of Type Ia supernovae for cosmology by reducing uncertainties in distance measurements. 
-By determining the key parameters needed for distance fitting (light-curve width and maximum luminosity), 
-K2 observations will improve the precision of distances that are used for H0 and constraints on dark energy.
-
-A limitation that K2 supernova scientists have faced is that simultaneous observations from Earth are challenging. 
-They have relied on twilight observations for photometric and spectroscopic characterization.
-In Campaigns 16 and 17, K2 will execute forward-facing programs.
-This will allow simultaneous ground-based SN observations to complement K2’s single-bandpass photometry.
-
+The K2 Supernova Cosmology Experiment will deliver a statistical sample of such observations.
 
 
 ## K2 Supernova Workshop
@@ -148,7 +144,7 @@ which provides ample restaurant options.
 
 ### Registration
 
-Registration will open soon.
+Registration will open soon. There will be no registration fee.
 
 Non-US participants will be required to register by January 9th, 2017.
 
