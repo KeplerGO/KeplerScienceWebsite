@@ -11,7 +11,7 @@ This page details the previous, current, and future K2 Campaign fields.
 
 ### Observed and planned
 
-<a href="images/k2/fieldsFor2017.v4.png"><img src="images/k2/fieldsFor2017.v4.png" class="img-responsive" alt="K2 campaign fields on the sky"></a>
+<a href="images/k2/footprint-all-campaigns.png"><img src="images/k2/footprint-all-campaigns.png" class="img-responsive" alt="K2 campaign fields on the sky"></a>
 
 <div class="panel panel-primary">
   <div class="panel-heading">
@@ -72,9 +72,9 @@ This page details the previous, current, and future K2 Campaign fields.
 
     <tr>
       <td><a href="#c2">2</a></td>
-      <td>2014 Aug 23</td>
-      <td>2014 Nov 13</td>
-      <td>2015 Mar 16</td>
+      <td>2014&nbsp;Aug&nbsp;23</td>
+      <td>2014&nbsp;Nov&nbsp;13</td>
+      <td>2015&nbsp;Mar&nbsp;16</td>
       <td>16:24:30</td>
       <td>-22:26:50</td>
       <td class="text-center">
@@ -88,9 +88,9 @@ This page details the previous, current, and future K2 Campaign fields.
 
     <tr>
       <td><a href="#c3">3</a></td>
-      <td>2014 Nov 14</td>
-      <td>2015 Feb 03</td>
-      <td>2015 Jul 17</td>
+      <td>2014&nbsp;Nov&nbsp;14</td>
+      <td>2015&nbsp;Feb&nbsp;03</td>
+      <td>2015&nbsp;Jul&nbsp;17</td>
       <td>22:26:40</td>
       <td>-11:05:48</td>
       <td class="text-center">
@@ -104,9 +104,9 @@ This page details the previous, current, and future K2 Campaign fields.
 
     <tr>
       <td><a href="#c4">4</a></td>
-      <td>2015 Feb 07</td>
-      <td>2015 Apr 23</td>
-      <td>2015 Sep 04</td>
+      <td>2015&nbsp;Feb&nbsp;07</td>
+      <td>2015&nbsp;Apr&nbsp;23</td>
+      <td>2015&nbsp;Sep&nbsp;04</td>
       <td>03:56:18</td>
       <td>+18:39:38</td>
       <td class="text-center">
@@ -120,9 +120,9 @@ This page details the previous, current, and future K2 Campaign fields.
 
     <tr>
       <td><a href="#c5">5</a></td>
-      <td>2015 Apr 27</td>
-      <td>2015 Jul 10</td>
-      <td>2015 Oct 31</td>
+      <td>2015&nbsp;Apr&nbsp;27</td>
+      <td>2015&nbsp;Jul&nbsp;10</td>
+      <td>2015&nbsp;Oct&nbsp;31</td>
       <td>08:40:38</td>
       <td>+16:49:47</td>
       <td class="text-center">
@@ -136,9 +136,9 @@ This page details the previous, current, and future K2 Campaign fields.
 
     <tr>
       <td><a href="#c6">6</a></td>
-      <td>2015 Jul 14</td>
-      <td>2015 Sep 30</td>
-      <td>2016 Feb 12</td>
+      <td>2015&nbsp;Jul&nbsp;14</td>
+      <td>2015&nbsp;Sep&nbsp;30</td>
+      <td>2016&nbsp;Feb&nbsp;12</td>
       <td>13:39:28</td>
       <td>-11:17:43</td>
       <td class="text-center">
@@ -152,9 +152,9 @@ This page details the previous, current, and future K2 Campaign fields.
 
     <tr>
       <td><a href="#c7">7</a></td>
-      <td>2015 Oct 04</td>
-      <td>2015 Dec 26</td>
-      <td>2016 Apr 20</td>
+      <td>2015&nbsp;Oct&nbsp;04</td>
+      <td>2015&nbsp;Dec&nbsp;26</td>
+      <td>2016&nbsp;Apr&nbsp;20</td>
       <td>19:11:19</td>
       <td>-23:21:36</td>
       <td class="text-center">
@@ -168,9 +168,9 @@ This page details the previous, current, and future K2 Campaign fields.
 
     <tr>
       <td><a href="#c8">8</a></td>
-      <td>2016 Jan 03</td>
-      <td>2016 Mar 23</td>
-      <td>2016 Jul 04</td>
+      <td>2016&nbsp;Jan&nbsp;03</td>
+      <td>2016&nbsp;Mar&nbsp;23</td>
+      <td>2016&nbsp;Jul&nbsp;04</td>
       <td>01:05:21</td>
       <td>+05:15:44</td>
       <td class="text-center">
@@ -184,25 +184,25 @@ This page details the previous, current, and future K2 Campaign fields.
 
     <tr>
       <td><a href="#c9">9</a><sup>†</sup></td>
-      <td>2016 Apr 21</td>
-      <td>2016 Jul 01</td>
-      <td>2016 Sep 30</td>
+      <td>2016&nbsp;Apr&nbsp;21</td>
+      <td>2016&nbsp;Jul&nbsp;01</td>
+      <td>2016&nbsp;Sep&nbsp;30</td>
       <td>18:01:25</td>
       <td>-21:46:47</td>
       <td class="text-center">
         <a href="k2-approved-programs.html#campaign-9b"><i class="fa fa-check"></i></a>        
       </td>
       <td class="text-center">
-        
+        <a href="k2-data-release-notes.html#k2-campaign-9"><i class="fa fa-check"></i></a>
       </td>
       <td>Gal Center, M21, M18, M25, M8, Earth, Mars</td>
     </tr>
 
     <tr>
       <td><a href="#c10">10</a></td>
-      <td>2016 Jul 06</td>
-      <td>2016 Sep 20</td>
-      <td>2016 Nov 28</td>
+      <td>2016&nbsp;Jul&nbsp;06</td>
+      <td>2016&nbsp;Sep&nbsp;20</td>
+      <td>2016&nbsp;Nov&nbsp;28</td>
       <td>12:27:07</td>
       <td>-04:01:38</td>
       <td class="text-center">
@@ -216,9 +216,9 @@ This page details the previous, current, and future K2 Campaign fields.
 
  <tr>
       <td><a href="#c11">11</a></td>
-      <td>2016 Sep 24</td>
-      <td>2016 Dec 08</td>
-      <td>2017 Feb 06</td>
+      <td>2016&nbsp;Sep&nbsp;24</td>
+      <td>2016&nbsp;Dec&nbsp;08</td>
+      <td>2017&nbsp;Feb&nbsp;06</td>
       <td>17:21:33</td>
       <td>-23:58:33</td>
       <td class="text-center">
@@ -232,11 +232,11 @@ This page details the previous, current, and future K2 Campaign fields.
 
   <tr>
       <td><a href="#c12">12</a></td>
-      <td>2016 Dec 15</td>
-      <td>2017 Mar 04</td>
-      <td>2017 May 30</td>
-      <td>23:26:43</td>
-      <td>-05:05:44</td>
+      <td>2016&nbsp;Dec&nbsp;15</td>
+      <td>2017&nbsp;Mar&nbsp;04</td>
+      <td>2017&nbsp;May&nbsp;30</td>
+      <td>23:26:42</td>
+      <td>-05:05:50</td>
       <td class="text-center">
         
       </td>
@@ -248,9 +248,9 @@ This page details the previous, current, and future K2 Campaign fields.
 
     <tr>
       <td><a href="#c13">13</a></td>
-      <td>2017 Mar 08</td>
-      <td>2017 May 27</td>
-      <td>2017 Jul 27</td>
+      <td>2017&nbsp;Mar&nbsp;08</td>
+      <td>2017&nbsp;May&nbsp;27</td>
+      <td>2017&nbsp;Jul&nbsp;27</td>
       <td>04:51:11</td>
       <td>+20:47:11</td>
       <td class="text-center">
@@ -263,9 +263,9 @@ This page details the previous, current, and future K2 Campaign fields.
     </tr>
     <tr>
       <td><a href="#c14">14</a></td> 
-      <td>2017 May 31</td>
-      <td>2017 Aug 19</td>
-      <td>2017 Oct 23</td>
+      <td>2017&nbsp;May&nbsp;31</td>
+      <td>2017&nbsp;Aug&nbsp;19</td>
+      <td>2017&nbsp;Oct&nbsp;23</td>
       <td>10:42:44</td>
       <td>+06:51:06</td>
       <td class="text-center">
@@ -278,9 +278,9 @@ This page details the previous, current, and future K2 Campaign fields.
     </tr>
     <tr>
       <td><a href="#c15">15</a></td>
-      <td>2017 Aug 23</td>
-      <td>2017 Nov 08</td>
-      <td>2018 Jan 14</td>
+      <td>2017&nbsp;Aug&nbsp;23</td>
+      <td>2017&nbsp;Nov&nbsp;20</td>
+      <td>2018&nbsp;Jan&nbsp;20</td>
       <td>15:34:28</td>
       <td>-20:04:44</td>
       <td class="text-center">
@@ -291,11 +291,27 @@ This page details the previous, current, and future K2 Campaign fields.
       </td>
       <td>Upper Sco, GW Lib, HP Lib</td>
     </tr>
+    <tr>
+      <td><a href='#c16'>16</a><sup>†</sup></td>
+      <td>2017&nbsp;Dec&nbsp;7</td>
+      <td>2018&nbsp;Feb&nbsp;25</td>
+      <td>2018&nbsp;Apr&nbsp;25</td>
+      <td>08:54:50</td>
+      <td>+18:31:31</td>
+      <td class="text-center">
+
+      </td>
+      <td class="text-center">
+
+      </td>
+      <td>Galaxies, M44 (Beehive), M67, Earth.</td>
+    </tr>
   </tdata>
 </table>
 
   <p>
-  <b><sup>†</sup>Note:</b> field 9 is a forward-facing campaign (+VV), enabling simultaneous observations to be made from the ground.
+  <b><sup>†</sup>Note:</b> fields 9 and 16 are forward-facing campaigns (+VV), enabling simultaneous observations to be made from the ground during the campaign. This comes at the expense of having Earth in K2's field of view,
+  which is a very bright object.
   </p>
 
   </div>
@@ -334,14 +350,6 @@ fields by emailing us at [keplergo@mail.arc.nasa.gov](keplergo@mail.arc.nasa.gov
   </thead>
   <tdata>
     <tr>
-      <td><a id='c16'>16</a><sup>††</sup></td>
-      <td>2017 Nov</td>
-      <td>2018 Jan</td>
-      <td>8:50</td>
-      <td>+17:00</td>
-      <td>Forward-facing, <b>to be finalized by Sep 20</b></td>
-    </tr>
-    <tr>
       <td>17<sup>††</sup></td>
       <td>2018 Feb 1</td>
       <td>2018 Apr 22</td>
@@ -363,8 +371,7 @@ fields by emailing us at [keplergo@mail.arc.nasa.gov](keplergo@mail.arc.nasa.gov
 <b><sup>†</sup>Note:</b> the dates shown are the <i>earliest possible</i> start dates, and the <i>latest possible</i> end dates.  The feasible date ranges of these campaigns overlap slightly to allow for some flexibility
 in the final choice of dates and positions.</p>
 <p>
-<b><sup>††</sup>Note:</b> fields 16 and 17 are proposed to be forward-facing campaigns (+VV), enabling simultaneous observations to be made from the ground
-during the campaign.
+<b><sup>††</sup>Note:</b> field 17 is proposed to be forward-facing campaign.
 </p>
 
   </div>
@@ -473,6 +480,17 @@ You can learn more about the installation and usage of these tools [on the softw
     <a href="images/campaign_selected/field15-final.png"><img class="img-responsive" src="images/campaign_selected/field15-final.png"></a>
   </div>
 </div>
+
+<div class="row">
+  <div class="col-lg-6">
+    <b id="c16">Campaign 16</b>
+    <a href="images/campaign_selected/field16-final.png"><img class="img-responsive" src="images/campaign_selected/field16-final.png"></a>
+  </div>
+  <div class="col-lg-6">
+
+  </div>
+</div>
+
 
 <hr/>
 
