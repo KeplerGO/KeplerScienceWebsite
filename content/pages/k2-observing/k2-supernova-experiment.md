@@ -38,8 +38,8 @@ Save_as: supernova-experiment/index.html
         </ul>
     </div>
     <div class='col-md-5'>
-        <a href='/images/k2/k2-supernova-cosmology-experiment.png'>
-        <img src='/images/k2/k2-supernova-cosmology-experiment.png' class='img-responsive'>
+        <a href='../images/k2/k2-supernova-cosmology-experiment.png'>
+        <img src='../images/k2/k2-supernova-cosmology-experiment.png' class='img-responsive'>
         </a>
     </div>
 </div>
