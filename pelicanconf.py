@@ -132,6 +132,9 @@ MEETINGS = (
             ('<b>1–3 Feb 2017</b><br>'
              '21st Microlensing Conference',
              'http://nexsci.caltech.edu/conferences/2017/microlensing/'),
+            ('<b>14–16 Feb 2017</b><br>'
+             'K2 Supernova Cosmology Workshop',
+             'supernova-experiment/#k2-supernova-workshop'),
             ('<b>19–23 Jun 2017</b><br>'
              'Kepler & K2 SciCon IV',
              '/save-the-date-for-kepler-k2-scicon-iv-june-19-23-2017.html'),
