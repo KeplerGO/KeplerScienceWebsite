@@ -136,7 +136,7 @@ for transportation from the airport.
 
 ### Accommodation
 
-On-site accommodation has been block-booked for this meeting
+On-site accommodation is available for this meeting
 at the <a href='http://naccenter.arc.nasa.gov/links.php#lodge'>NASA Lodge</a>,
 which offers affordable rooms with private bath, microwave, and refrigerator
 in one of two buildings:
@@ -147,11 +147,13 @@ in one of two buildings:
  offers double or twin beds without tv or airconditioning at $55/night.
 
 Bookings need to be made by phone on +1 650 603 7100,
-mentioning you are a participant of the K2 Supernova Workshop
+mentioning you are a participant of the "Supernova Workshop"
 at the conference center.
-A credit card will be required to make the reservation.
+You will need to provide a credit card number
+along with your name, cell phone number, and email.
 
-**The on-site rooms are made available on a first-come, first-served basis.**
+The workshop secured a block-booking of 25 rooms in Building 19,
+which will be made available on a first-come, first-served basis.
 Book early to avoid disappointment.
 
 Alternatively, the conference center provides a <a href='http://naccenter.arc.nasa.gov/links.php#hotel'>list of local hotels</a>.
@@ -174,5 +176,6 @@ Non-US participants will be required to register by January 9th, 2017.
 * Geert Barentsen - K2 GO Office
 * Knicole Colón - K2 GO Office
 * Jessie Dotson - K2 Project Scientist
-* Mark Messersmith - K2 Business Office Administration / Project Specialist
+* Steve Howell - NASA Ames
+* Mark Messersmith - K2 Business Office / Project Specialist
 * Brad Tucker - <a href='http://www.mso.anu.edu.au/kegs'>KEGS team</a>
