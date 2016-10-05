@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2016-09-28T18:00:00-07:00</updated><entry><title>K2 GO Cycle 5: Notable targets in Campaigns 14-15-16</title><link href="https://keplerscience.arc.nasa.gov/k2-go-cycle-5-notable-targets-in-campaigns-14-15-16.html" rel="alternate"></link><published>2016-09-28T18:00:00-07:00</published><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2016-09-28:k2-go-cycle-5-notable-targets-in-campaigns-14-15-16.html</id><summary type="html">&lt;p&gt;Proposals for targets to be observed by K2 in Campaigns 14, 15, and 16
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2016-10-05T08:00:00-07:00</updated><entry><title>K2 Campaign 9 data available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-9-data-available.html" rel="alternate"></link><published>2016-10-05T08:00:00-07:00</published><author><name>Knicole Colon</name></author><id>tag:keplerscience.arc.nasa.gov,2016-10-05:k2-campaign-9-data-available.html</id><summary type="html">&lt;p&gt;Target pixel files, full frame images, and thruster firing lists for
+K2 Campaign 9 are now available for download from the
+&lt;a href="http://archive.stsci.edu/k2"&gt;MAST archive&lt;/a&gt;. The C9 data release notes
+are available &lt;a href="k2-data-release-notes.html#k2-campaign-9"&gt;here&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;C9 was largely dedicated to a search for gravitational microlensing
+events in a region around the Galactic bulge. A variety of other
+targets were also observed through the K2 &lt;a href="k2-ddt.html"&gt;Director's Discretionary Target&lt;/a&gt; program.
+These include O-type stars,the Kuiper Belt Object Quaoar, and the Lagoon
+star-forming region (M8). The complete list of observed targets can
+be found &lt;a href="k2-approved-programs.html"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Due to the unique operations for this campaign, the C9
+data release only contains Type-1 target pixel files and does not
+include light curves. Also, the campaign was split into two halves (C9a
+and C9b), with a data downlink taking place in between C9a and C9b to maximize
+data collection capabilities as well as introduce a ~0.6 pixel
+offset.  Archive products are therefore identified as being from
+either C9a or C9b using the identifier c91 or c92, respectively. We strongly encourage users interested in C9 data
+to review the
+&lt;a href="k2-data-release-notes.html#k2-campaign-9"&gt;data release notes&lt;/a&gt; in detail.&lt;/p&gt;</summary></entry><entry><title>K2 GO Cycle 5: Notable targets in Campaigns 14-15-16</title><link href="https://keplerscience.arc.nasa.gov/k2-go-cycle-5-notable-targets-in-campaigns-14-15-16.html" rel="alternate"></link><published>2016-09-28T18:00:00-07:00</published><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2016-09-28:k2-go-cycle-5-notable-targets-in-campaigns-14-15-16.html</id><summary type="html">&lt;p&gt;Proposals for targets to be observed by K2 in Campaigns 14, 15, and 16
 are currently being solicited as part of &lt;a href="k2-proposing-targets.html"&gt;K2 Guest Observer Cycle 5&lt;/a&gt;,
 with Step 1 submissions due on &lt;strong&gt;November 3, 2016&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;The &lt;a href="k2-fields.html"&gt;fields of these campaigns&lt;/a&gt; 
