@@ -146,7 +146,7 @@ in one of two buildings:
 * <a href='https://www.google.com/maps/place/NASA+Exchange+Lodge+-+583A,+583A+Dailey+Rd,+Mountain+View,+CA+94043/@37.4085436,-122.0566298,18.25z'>Building 583</a>
  offers double or twin beds without tv or airconditioning at $55/night.
 
-Bookings need to be made by phone on +1 650 603 7100,
+Bookings need to be made by phone on **+1 650 603 7100**,
 mentioning you are a participant of the "Supernova Workshop"
 at the conference center.
 You will need to provide a credit card number
