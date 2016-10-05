@@ -186,6 +186,15 @@ in August 2015, using pelican-bootstrap and flatly.
 
 <h2 style="padding-bottom:0.3em;">News for scientists</h2>
             <article>
+                <div><b><a href="./extracted-k2-lightcurves-from-vanderburg-and-johnson-now-available-at-mast.html">Extracted K2 lightcurves from Vanderburg and Johnson now available at MAST</a></b>
+                </div>
+                <span class="categories-timestamp"><time datetime="2015-04-02T00:00:00-07:00">02 Apr 2015</time></span>  
+                <div class="summary entry-content" style="padding-top: 0.5em; "><p>A new MAST High Level Science Product from K2 has been delivered that includes extracted lightcurves. Courtesy of <a href="http://arxiv.org/abs/1408.3853">Vanderburg and Johnson (2014)</a>, long-cadence targets from Campaigns 0 and 1 now have detrended, extracted lightcurves available at MAST, including 20 different photometric apertures. There's a MAST Classic Search Interface so ...</p>
+                    <a class="btn btn-default btn-xs" href="./extracted-k2-lightcurves-from-vanderburg-and-johnson-now-available-at-mast.html">More &raquo;</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
                 <div><b><a href="./two-wheel-engineering-test-data-online.html">Two-wheel engineering test data online</a></b>
                 </div>
                 <span class="categories-timestamp"><time datetime="2014-03-25T09:00:00-07:00">25 Mar 2014</time></span>  
@@ -264,9 +273,9 @@ in August 2015, using pelican-bootstrap and flatly.
   <div class="panel-body">
     <ul class="list-group">
       <li class="list-group-item">
-          <b>03 Nov 2016</b><br>
+          <b class="text-danger">03 Nov 2016</b><br>
           <a href="k2-proposing-targets.html#solicitations">
-              K2 GO Cycle 5 Step-1 Deadline for Campaign 14-15-16 Targets
+              <div class="text-danger">K2 GO Cycle 5 Step-1 Deadline for Campaign 14-15-16 Targets</div>
           </a>
       </li>
       <li class="list-group-item">
@@ -448,9 +457,8 @@ in August 2015, using pelican-bootstrap and flatly.
 <script language="javascript" id="_fed_an_ua_tag" src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA&subagency=ARC&dclink=true"></script>
 
 
-    <!-- Fetch the latest Kepler/K2 Science Dashboard numbers. -->
     <script>
-    var url = "dashboard/kepler-dashboard.json";
+    var url = "https://cdn.rawgit.com/barentsen/kepler-dashboard/master/kepler-dashboard.json";
     $.ajax({
         type: 'GET',
         dataType: 'json',

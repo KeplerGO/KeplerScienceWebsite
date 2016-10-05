@@ -186,6 +186,15 @@ in August 2015, using pelican-bootstrap and flatly.
 
 <h2 style="padding-bottom:0.3em;">News for scientists</h2>
             <article>
+                <div><b><a href="./campaign-8-target-list-now-available-online.html">Campaign 8 target list now available online</a></b>
+                </div>
+                <span class="categories-timestamp"><time datetime="2015-12-29T12:00:00-08:00">29 Dec 2015</time></span>  
+                <div class="summary entry-content" style="padding-top: 0.5em; "><p>The K2 <a href="/k2-approved-programs.html#campaign-8">Campaign 8 Target List</a> has now been posted. The Campaign 8 target list includes 24187 standard long cadence and 54 short cadence targets. The planet Uranus will be observed for roughly a month in short cadence and the remaining time in long cadence, in addition four of its ...</p>
+                    <a class="btn btn-default btn-xs" href="./campaign-8-target-list-now-available-online.html">More &raquo;</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
                 <div><b><a href="./presenting-results-at-aas-that-have-public-appeal-let-us-know.html">Presenting results at AAS that have public appeal? Let us know!</a></b>
                 </div>
                 <span class="categories-timestamp"><time datetime="2015-12-17T12:00:00-08:00">17 Dec 2015</time></span>  
@@ -289,15 +298,6 @@ The K2 Science Conference is hosted by the LCOGT and will celebrate the science 
                 </div>
             </article>
             <hr/>
-            <article>
-                <div><b><a href="./k2-campaigns-8-9-and-10-directors-discretionary-targets-program.html">K2 Campaigns 8, 9 and 10 Director's Discretionary Targets program</a></b>
-                </div>
-                <span class="categories-timestamp"><time datetime="2015-09-11T14:00:00-07:00">11 Sep 2015</time></span>  
-                <div class="summary entry-content" style="padding-top: 0.5em; "><p>The Guest Observer Program solicitation for K2 occurs roughly twice per year and includes a call for multiple K2 campaigns. Given the proposal review timeline, and associated data processing and archive activities, there can be a significant delay between proposal submission and final target selection for each K2 campaign. To ...</p>
-                    <a class="btn btn-default btn-xs" href="./k2-campaigns-8-9-and-10-directors-discretionary-targets-program.html">More &raquo;</a>
-                </div>
-            </article>
-            <hr/>
 
  <a class="btn btn-primary" href="archives.html">News archive &raquo;</a>
   <!--         <ul class="pagination">
@@ -369,9 +369,9 @@ The K2 Science Conference is hosted by the LCOGT and will celebrate the science 
   <div class="panel-body">
     <ul class="list-group">
       <li class="list-group-item">
-          <b>03 Nov 2016</b><br>
+          <b class="text-danger">03 Nov 2016</b><br>
           <a href="k2-proposing-targets.html#solicitations">
-              K2 GO Cycle 5 Step-1 Deadline for Campaign 14-15-16 Targets
+              <div class="text-danger">K2 GO Cycle 5 Step-1 Deadline for Campaign 14-15-16 Targets</div>
           </a>
       </li>
       <li class="list-group-item">
@@ -553,9 +553,8 @@ The K2 Science Conference is hosted by the LCOGT and will celebrate the science 
 <script language="javascript" id="_fed_an_ua_tag" src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA&subagency=ARC&dclink=true"></script>
 
 
-    <!-- Fetch the latest Kepler/K2 Science Dashboard numbers. -->
     <script>
-    var url = "dashboard/kepler-dashboard.json";
+    var url = "https://cdn.rawgit.com/barentsen/kepler-dashboard/master/kepler-dashboard.json";
     $.ajax({
         type: 'GET',
         dataType: 'json',

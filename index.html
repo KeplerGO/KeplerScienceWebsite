@@ -186,6 +186,15 @@ in August 2015, using pelican-bootstrap and flatly.
 
 <h2 style="padding-bottom:0.3em;">News for scientists</h2>
             <article>
+                <div><b><a href="./k2-users-panel-selected.html">K2 Users' Panel selected</a></b>
+                </div>
+                <span class="categories-timestamp"><time datetime="2016-10-05T14:00:00-07:00">05 Oct 2016</time></span>  
+                <div class="summary entry-content" style="padding-top: 0.5em; "><p>The K2 mission has developed a K2 Users' Panel (K2UP), whose role will be to represent the voice of the community in regards to mission science, management policies, and products from the project. More information on the panel's responsibilities and any reports generated can be found <a href="users-panel.html">on the K2UP ...</a></p>
+                    <a class="btn btn-default btn-xs" href="./k2-users-panel-selected.html">More &raquo;</a>
+                </div>
+            </article>
+            <hr/>
+            <article>
                 <div><b><a href="./k2-campaign-9-data-available.html">K2 Campaign 9 data available</a></b>
                 </div>
                 <span class="categories-timestamp"><time datetime="2016-10-05T08:00:00-07:00">05 Oct 2016</time></span>  
@@ -293,20 +302,6 @@ The number of targets is lower than usual because it ...</p>
                 </div>
             </article>
             <hr/>
-            <article>
-                <div><b><a href="./retirement-of-ccd-module-4-confirmed.html">Retirement of CCD Module 4 confirmed</a></b>
-                </div>
-                <span class="categories-timestamp"><time datetime="2016-08-15T13:30:00-07:00">15 Aug 2016</time></span>  
-                <div class="summary entry-content" style="padding-top: 0.5em; "><p>As reported in detail in 
-<a href="http://www.nasa.gov/feature/ames/kepler/kepler-mission-manager-update-photometer-update">the latest Kepler Mission Manager Update</a>,
-additional spacecraft telemetry appears to confirm the loss of CCD Module 4
-during K2's current Campaign 10.</p>
-<p>Module 4 is the third of the 21 science modules to have failed in-flight.
-Such hardware failures were foreseen in the ...</p>
-                    <a class="btn btn-default btn-xs" href="./retirement-of-ccd-module-4-confirmed.html">More &raquo;</a>
-                </div>
-            </article>
-            <hr/>
 
  <a class="btn btn-primary" href="archives.html">News archive &raquo;</a>
   <!--         <ul class="pagination">
@@ -377,9 +372,9 @@ Such hardware failures were foreseen in the ...</p>
   <div class="panel-body">
     <ul class="list-group">
       <li class="list-group-item">
-          <b>03 Nov 2016</b><br>
+          <b class="text-danger">03 Nov 2016</b><br>
           <a href="k2-proposing-targets.html#solicitations">
-              K2 GO Cycle 5 Step-1 Deadline for Campaign 14-15-16 Targets
+              <div class="text-danger">K2 GO Cycle 5 Step-1 Deadline for Campaign 14-15-16 Targets</div>
           </a>
       </li>
       <li class="list-group-item">
@@ -561,9 +556,8 @@ Such hardware failures were foreseen in the ...</p>
 <script language="javascript" id="_fed_an_ua_tag" src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA&subagency=ARC&dclink=true"></script>
 
 
-    <!-- Fetch the latest Kepler/K2 Science Dashboard numbers. -->
     <script>
-    var url = "dashboard/kepler-dashboard.json";
+    var url = "https://cdn.rawgit.com/barentsen/kepler-dashboard/master/kepler-dashboard.json";
     $.ajax({
         type: 'GET',
         dataType: 'json',
