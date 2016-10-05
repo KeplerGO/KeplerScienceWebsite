@@ -47,32 +47,51 @@ Save_as: supernova-experiment/index.html
 ## Background
 
 Following a call for novel science experiments to be accomplished during K2's extended mission,
-feedback was received to enable a supernova survey in which simultaneous ground-based spectroscopic observations
+feedback was received to enable a supernova survey
+in which simultaneous ground-based spectroscopic observations
 could complement K2’s single-bandpass photometry.
 A limitation that K2 supernova scientists have faced in previous Campaigns 
 is that simultaneous observations from Earth required challenging observations during twilight.
-In Campaigns 16 and 17 however, K2 will observe suitable fields towards the forward direction of its velocity vector,
-monitoring galaxies that can easily be accessed from the ground at the same time.
+This will change in Campaigns 16 and 17, when K2 will observe fields towards the 
+forward direction of its velocity vector,
+enabling galaxies to be monitored in a field
+that can easily be accessed from the ground at the same time.
 
 The large sample of supernova light curves expected from this experiment
-will improve the calibration of Type Ia supernovae for cosmology by reducing uncertainties in distance measurements. 
-By determining the key parameters needed for distance fitting, i.e. light-curve width and maximum luminosity, 
-K2 observations will improve the precision of distances that are used for H<sub>0</sub> and constraints on dark energy.
+will improve the calibration of Type Ia supernovae for cosmology 
+by reducing uncertainties in distance measurements. 
+By determining the key parameters needed for distance fitting 
+(light-curve width and maximum luminosity), 
+K2 observations will improve the precision of distances 
+that are used for H<sub>0</sub> and constraints on dark energy.
 
-Moreover, traditional, ground-based supernova searches tend to find most supernovae at or past maximum light.
-Yet there is clearly a tremendous amount of information about the explosion contained 
-in the early phases of the light curve. 
-The 30-min cadence and continuous coverage of K2 observations will provide 
-the best rise-time information ever obtained for thermonuclear supernovae 
-and constrain the shock breakout of core collapse events.
-
-The trigger mechanism for a Type Ia supernova is unknown. 
-If a mass-losing companion star is present, then when the expanding material from the supernova hits it, 
+Moreover, traditional ground-based supernova searches
+tend to find most supernovae only at or past maximum light.
+In contrast, K2's continuous high-cadence observations will capture the early phases of events.
+There is clearly a tremendous amount of information about the explosion contained 
+in the early rise of the light curve.
+For example, for Type II supernovae these curves may reveal the shock breakout (see figure below).
+For Type Ia supernovae, the data may help elucidate the unknown trigger mechanism.
+For example, if a mass-losing companion star is present, then when the expanding material from the supernova hits it, 
 extra shock emission will be evident (e.g. <a href='https://arxiv.org/abs/0909.0275'>Kasen 2010</a>).
 That emission, occurring in the first several days and dependent on viewing angle, 
-requires early and continual observing of many Type Ia supernovae to clearly define the circumstances of the shock 
+requires early and continual observing of many supernovae to clearly define the circumstances of the shock 
 and discover the progenitors of the events.
 The K2 Supernova Cosmology Experiment will deliver a statistical sample of such observations.
+
+<div class="thumbnail" style='max-width: 50em;'>
+  <a href="http://www.nasa.gov/feature/ames/Kepler/caught-for-the-first-time-the-early-flash-of-an-exploding-star">
+    <img src="http://www.nasa.gov/sites/default/files/thumbnails/image/breakout_sim-ws_v6.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed targets.">
+  </a>
+  <div class="caption">
+    <i>Figure: Lightcurve of the Type II supernova KSN 2011a that was observed in the original Kepler field.
+    The lightcurve showed an early flash of light known as the shock breakout,
+    thought to occur when energy traveling from the core reaches the surface
+    during the early stages of a supernova.
+    See <a href='https://arxiv.org/abs/1603.05657'>Garnavich et al. 2016</a>
+    for more details on this event.
+  </div>
+</div>
 
 
 ## K2 Supernova Workshop
