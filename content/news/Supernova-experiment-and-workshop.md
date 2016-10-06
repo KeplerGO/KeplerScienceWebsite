@@ -42,4 +42,4 @@ The motivations for this workshop include:
 This will be an unconference-style meeting with a limited number of introductory talks and a strong focus on participant-led breakout sessions. The final day will provide ample time for drafting papers and observing proposals.
 
 Details on the venue, accommodation, and registration are available
-on the **[experiment webpage](supernova-experiment)**.
+on the **[meeting webpage](supernova-experiment)**.
