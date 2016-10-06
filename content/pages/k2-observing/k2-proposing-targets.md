@@ -283,14 +283,13 @@ order to enable detailed characterization of supernovae, C17 would be a forward-
 campaign). Observing in this mode allows for simultaneous observations
 from K2 and from Earth.  From recent estimates of the remaining fuel on the Kepler spacecraft,
  we anticipate that C17 is at risk. **In order to maximize the
- science return from the K2 mission, we are changing the position of the field for C16.
+ science return from the K2 mission, we changed the position of the field for C16.
  C16 will now involve the Kepler spacecraft observing in the forward-facing direction, and a significant fraction of pixels will
  be dedicated to supernova science.  Proposals covering all other
  areas of astrophysics and planetary science are still encouraged for
- C16. In particular, we encourage K2 observations that can
- benefit from simultaneous observations from Earth.  Note that the new pointing for C16
- will have significant overlap with the field observed during
- C5. The final field position will be posted shortly.** 
+ C16.  In particular, we strongly encourage programs that can
+ benefit from simultaneous observations from
+ Earth. [The final field positions are posted here](k2-fields.html).** 
 
 ### FAQs  
 
@@ -301,8 +300,8 @@ Step 2: <font color='red'>23:59 EST 2016 Dec 15</font> <br/>
 * **What are the anticipated dates of the campaigns included in the
 current solicitation?**<br/>
 Campaign 14: 2017 May 31 - Aug 19 <br/>
-Campaign 15: 2017 Aug 23 - Nov 08 <br/>
-Campaign 16: 2017 Nov 19 - 2018 Jan 28 <br/>
+Campaign 15: 2017 Aug 23 - Nov 20 <br/>
+Campaign 16: 2017 Dec 07 - 2018 Feb 25 <br/>
 Start and stop dates for all campaigns are approximate, flexible and
 could be overtaken by unanticipated operational events.<br/>
 
@@ -310,12 +309,11 @@ could be overtaken by unanticipated operational events.<br/>
 current solicitation?**<br/>
 The pointings for all K2 campaigns can be found on the <a
 href="k2-fields.html">fields page.</a> **Proposers
-should be aware that changes are being made to the pointing for Campaign 16 and should only propose for
+should be aware that changes were made to the pointing for Campaign 16 and should only propose for
  targets that are on active silicon in the updated Campaign 16
  field.  All investigators *must* update their version of the
 <a href="software.html#k2fov">K2fov target selection tool</a>
-to account for the recent changes to Campaign 16.  Note that the field
-position is currently preliminary and will be finalized before the Step 1 deadline.** <br/>
+to account for the recent changes to Campaign 16.** <br/>
 
 * **Should I submit one proposal or two?**<br/>
   In the interest of efficiency, proposers are requested *NOT* to provide separate proposals with identical science cases for each of the campaigns. If the same science goals are spread across both campaigns, please provide one science justification and two target tables, one for each field.<br/>
