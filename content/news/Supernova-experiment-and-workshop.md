@@ -2,7 +2,9 @@ Title: K2 Supernova Experiment Workshop on Feb 14-16, 2017
 Date: 2016-10-06 07:00
 Author: Geert Barentsen
 
-We [previously announced]() that in order to maximize the science return from the remaining fuel, the [K2 Campaign 16 field has been changed]()
+We [previously announced](change-to-campaign-16-field-position-and-delay-to-go-cycle-5-deadline.html)
+that in order to maximize the science return from the remaining fuel,
+the [K2 Campaign 16 field has been changed](new-forward-facing-position-of-campaign-16-finalized.html)
 to enable a forward-facing supernova survey.
 In addition to benefiting from low galactic extinction,
 the new field allows simultaneous observations to be made from the ground
