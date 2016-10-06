@@ -52,6 +52,18 @@ Details coming soon.
 
 *** Scientific Organizing Committee *** </br>
 
+* Eric Agol, University of Washington (co-Chair)
+* Dan Huber, University of Sydney (co-Chair)
+* Natalie Batalha, NASA Ames Research Center (Kepler Project Scientist)
+* Jessie Dotson, NASA Ames Research Center (K2 Project Scientist)
+* Thomas Barclay, NASA Ames Research Center (Kepler/K2 Guest Observer Office Director)
+* Jessie Christiansen, NASA Exoplanet Science Institute
+* JJ Hermes, University of North Carolina, Chapel Hill
+* Marc Pinsonneault, The Ohio State University
+* Erin Ryan, SETI Institute
+* Karl Stapelfeldt, NASA Jet Propulsion Laboratory
+* Rachel Street, Las Cumbres Observatory Global Telescope Network
+* Brad Tucker, Australian National University
 
 *** Local Organizing Committee *** </br>
 
