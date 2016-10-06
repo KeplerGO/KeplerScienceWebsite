@@ -302,7 +302,19 @@ existing tasks by the community are welcome.
 
 <h4>PyRAF installation</h4>
 
-PyKE is a python-based [PyRAF](http://www.stsci.edu/institute/software_hardware/pyraf) package which can also be executed without PyRAF on the command line of a shell. In order to install and run PyKE as a PyRAF package on your Mac or Linux platform you will need PyRAF to be pre-installed [following these instructions](http://www.stsci.edu/institute/software_hardware/pyraf/stsci_python/installation). We recommend the Ureka binary install option.
+PyKE is a python-based
+[PyRAF](http://www.stsci.edu/institute/software_hardware/pyraf)
+package which can also be executed without PyRAF on the command line
+of a shell.
+
+In order to install and run PyKE as a PyRAF package on your Mac or
+Linux platform you will need PyRAF to be pre-installed. We recommend following the
+instructions here to install Python and IRAF and PyRAF:
+[https://astroconda.readthedocs.io/en/latest/installation.html](https://astroconda.readthedocs.io/en/latest/installation.html). If
+you instead use the older Ureka binary install option
+[following these instructions](http://www.stsci.edu/institute/software_hardware/pyraf/stsci_python/installation),
+then be sure to follow the Ureka-specific instructions included
+below.
 
 [A PyRAF tutorial is provided here](http://stsdas.stsci.edu/pyraf/doc.old/pyraf_tutorial/), explaining functionality and the evolution of IRAF into a python-based scripting language. The Kepler tools have been tested against PyRAF version 2.1.6. Please report any deviant behavior using later versions of these packages.
 
