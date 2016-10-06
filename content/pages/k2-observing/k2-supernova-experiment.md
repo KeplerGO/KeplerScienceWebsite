@@ -106,16 +106,38 @@ The motivations for this workshop include:
 * exploring synergies with other space missions, wavelength regions, and  science areas.
 
 
-### Dates
+### Dates & schedule
 
 The workshop will begin on Tuesday, February 14, at 10am and end on Thursday, February 16, at 5pm.
 
-### Format
-
-This will be an unconference-style meeting with a limited number of
+This will be an <a href='https://en.wikipedia.org/wiki/Unconference'>unconference-style</a>
+meeting with a limited number of
 introductory talks and a strong focus on participant-led breakout sessions.
 The final day will provide ample time for drafting papers and observing proposals.
 
+<table class="table table-striped table-hover">
+<tr>
+<th></th>
+<th>Tue 14 Feb</th>
+<th>Wed 15 Feb</th>
+<th>Thu 16 Feb</th>
+</tr>
+
+  <tr>
+    <th>Morning</th>
+    <td>Introductory talks</td>
+    <td>Unconference reports &amp; feedback</td>
+    <td>Unconference reports &amp; feedback</td>
+  </tr>
+
+  <tr>
+    <th>Afternoon</th>
+    <td>Unconference</td>
+    <td>Unconference</td>
+    <td>Proposal &amp; report writing</td>
+  </tr>
+
+</table>
 
 ### Venue
 
