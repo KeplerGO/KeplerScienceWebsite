@@ -455,7 +455,8 @@ also be downloaded through MAST](http://archive.stsci.edu/k2/ffi/search.php).
 
 FFI data format is defined in section 2.3.3 of the [Kepler Archive
 Manual](http://archive.stsci.edu/kepler/manuals/archive_manual.pdf). Note
-that as of May 2014, the Kepler detector has two dead modules (3 and
+that as of August 2016, the Kepler detector has three dead modules (3,
+4 and
 7). 
 
 <br/>
