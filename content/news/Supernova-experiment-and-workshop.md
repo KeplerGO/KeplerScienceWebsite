@@ -25,7 +25,8 @@ Proposals to select and analyze K2 targets for this Campaign are eligible for **
 **The Step 1 deadline is Nov 3, 2016.**
 
 To help the supernova community plan the observations and follow-up,
-the mission will be hosting a **K2 Supernova Cosmology Workshop** 
+the mission will be hosting a 
+**[K2 Supernova Cosmology Workshop](supernova-experiment)** 
 on **Feb 14-16, 2017**,
 at NASA Ames in Mountain View, California.
 
@@ -39,4 +40,4 @@ The motivations for this workshop include:
 This will be an unconference-style meeting with a limited number of introductory talks and a strong focus on participant-led breakout sessions. The final day will provide ample time for drafting papers and observing proposals.
 
 Details on the venue, accommodation, and registration are available
-on the [K2 Supernova Experiment webpage](supernova-experiment).
+on the **[experiment webpage](supernova-experiment)**.
