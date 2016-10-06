@@ -12,7 +12,7 @@ Save_as: supernova-experiment/index.html
             <li style='margin-top: 0.75em;'>
                 From Dec 2017 through Apr 2018, <a href='/k2-fields.html'>K2 Campaigns 16 &amp; 17</a> will be able 
                 to monitor <b>&gt;20,000 galaxies</b> to gather a statistical sample 
-                of the **best supernovae lightcurves ever obtained**.
+                of the <b>best supernovae lightcurves ever obtained</b>.
             </li>
             <li style='margin-top: 0.75em;'>
                 K2 will catch the critical <b>first few hours</b> of supernovae, 
