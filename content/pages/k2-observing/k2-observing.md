@@ -75,7 +75,7 @@ below).
 
 <br/>
 
-<img class="img-responsive" style="max-width:65%;" src="images/k2_graphic_sm.jpeg">
+<img class="img-responsive" style="max-width:75%;" src="images/k2_graphic_sm.jpeg">
 *Image Credit: NASA Ames/W. Stenzel*
 
 <br/>
@@ -140,7 +140,7 @@ From top-left to bottom-right: a 30 min observation of a 12th magnitude K2 star,
 
 <br/>
 
-<a href="/K2/images/Dec2013PRF.png"><img src="/K2/images/Dec2013PRF.png" style="max-width: 640px;"></a>
+<a href="images/Dec2013PRF.png"><img src="images/Dec2013PRF.png" style="max-width: 640px;"></a>
 
 <br/>
 
@@ -152,7 +152,7 @@ Low-frequency motion due to solar pressure and subsequent thruster firings cause
 
 <br/>
 
-<a href="/K2/images/Dec2013SAP.png"><img src="/K2/images/Dec2013SAP.png" style="max-width: 640px;"></a>
+<a href="images/Dec2013SAP.png"><img src="images/Dec2013SAP.png" style="max-width: 640px;"></a>
 
 <br/>
 
