@@ -345,8 +345,9 @@ where *path* is the location of the downloaded file. The tar operation may requi
 For a full description on getting started see the [PyRAF tutorial](http://stsdas.stsci.edu/pyraf/doc.old/pyraf_tutorial/). In summary:
 
 * Before running this package for the first time add the Ureka
-  executable files to your path by typing: eval
-  `/Users/still/.ureka/ur_setup !*`. Tip - if you look in your startup
+executable files to your path by typing: <br>
+eval `/Users/username/.ureka/ur_setup !*`.  Be sure to replace *username*
+  with your actual username on your computer.  Tip - if you look in your startup
   file, e.g., .cshrc in your home directory, you will find that the
   Ureka install process has made you a handy alias for this ugly
   command.
