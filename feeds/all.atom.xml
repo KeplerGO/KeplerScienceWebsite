@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2016-10-05T14:00:00-07:00</updated><entry><title>K2 Users' Panel selected</title><link href="https://keplerscience.arc.nasa.gov/k2-users-panel-selected.html" rel="alternate"></link><updated>2016-10-05T14:00:00-07:00</updated><author><name>Knicole Colon</name></author><id>tag:keplerscience.arc.nasa.gov,2016-10-05:k2-users-panel-selected.html</id><summary type="html">&lt;p&gt;The K2 mission has developed a K2 Users' Panel (K2UP), whose role will be to represent the voice of the community in regards to mission science, management policies, and products from the project. More information on the panel's responsibilities and any reports generated can be found &lt;a href="users-panel.html"&gt;on the K2UP page&lt;/a&gt;.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2016-10-06T07:00:00-07:00</updated><entry><title>K2 Supernova Experiment Workshop on Feb 14-16, 2017</title><link href="https://keplerscience.arc.nasa.gov/k2-supernova-experiment-workshop-on-feb-14-16-2017.html" rel="alternate"></link><updated>2016-10-06T07:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2016-10-06:k2-supernova-experiment-workshop-on-feb-14-16-2017.html</id><summary type="html">&lt;p&gt;We &lt;a href="change-to-campaign-16-field-position-and-delay-to-go-cycle-5-deadline.html"&gt;previously announced&lt;/a&gt;
+that in order to maximize the science return from the remaining fuel,
+the &lt;a href="new-forward-facing-position-of-campaign-16-finalized.html"&gt;K2 Campaign 16 field has been changed&lt;/a&gt;
+to enable a forward-facing supernova survey.
+In addition to benefiting from low galactic extinction,
+the new field allows simultaneous observations to be made from the ground
+to complement K2’s single-bandpass photometry,
+i.e. allowing K2's supernovae to be characterized spectroscopically.&lt;/p&gt;
+&lt;p&gt;&lt;a href='supernova-experiment'&gt;&lt;img src='/images/k2/k2-supernova-cosmology-experiment.png' style='max-width:30em; float:right;'&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The survey is called the &lt;strong&gt;K2 Supernova Cosmology Experiment&lt;/strong&gt;.
+Its aims include, but are not limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;monitoring &lt;strong&gt;&amp;gt;20,000 galaxies&lt;/strong&gt; to gather a statistical sample of the &lt;strong&gt;best supernovae lightcurves ever obtained&lt;/strong&gt;;&lt;/li&gt;
+&lt;li&gt;catching the critical &lt;strong&gt;first few hours&lt;/strong&gt; of supernovae, 
+allowing different explosion physics and progenitors to be elucidated;&lt;/li&gt;
+&lt;li&gt;improving the &lt;strong&gt;calibration of Type Ia supernovae&lt;/strong&gt; for cosmology 
+by determining the key parameters needed for distance fitting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Proposals to select and analyze K2 targets for this Campaign are eligible for &lt;strong&gt;funding up to $150,000&lt;/strong&gt;  as part of &lt;a href="/k2-proposing-targets.html"&gt;K2 GO Cycle 5&lt;/a&gt;
+(which also accepts proposals from all other areas of astrophysics and planetary science).
+&lt;strong&gt;The Step 1 deadline is Nov 3, 2016.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To help the supernova community plan the observations and follow-up,
+the mission will be hosting a 
+&lt;strong&gt;&lt;a href="supernova-experiment"&gt;K2 Supernova Cosmology Workshop&lt;/a&gt;&lt;/strong&gt; 
+on &lt;strong&gt;Feb 14-16, 2017&lt;/strong&gt;,
+at NASA Ames in Mountain View, California.&lt;/p&gt;
+&lt;p&gt;The motivations for this workshop include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;planning the K2 observations with Kepler/K2 team members;&lt;/li&gt;
+&lt;li&gt;coordinating the simultaneous, ground-based follow-up observations and proposals;&lt;/li&gt;
+&lt;li&gt;preparing the data analysis and interpretation efforts, e.g. informed by the previous supernovae observed by Kepler;&lt;/li&gt;
+&lt;li&gt;exploring synergies with other space missions, wavelength regions, and  science areas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This will be an unconference-style meeting with a limited number of introductory talks and a strong focus on participant-led breakout sessions. The final day will provide ample time for drafting papers and observing proposals.&lt;/p&gt;
+&lt;p&gt;Details on the venue, accommodation, and registration are available
+on the &lt;strong&gt;&lt;a href="supernova-experiment"&gt;meeting webpage&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;</summary></entry><entry><title>K2 Users' Panel selected</title><link href="https://keplerscience.arc.nasa.gov/k2-users-panel-selected.html" rel="alternate"></link><updated>2016-10-05T14:00:00-07:00</updated><author><name>Knicole Colon</name></author><id>tag:keplerscience.arc.nasa.gov,2016-10-05:k2-users-panel-selected.html</id><summary type="html">&lt;p&gt;The K2 mission has developed a K2 Users' Panel (K2UP), whose role will be to represent the voice of the community in regards to mission science, management policies, and products from the project. More information on the panel's responsibilities and any reports generated can be found &lt;a href="users-panel.html"&gt;on the K2UP page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The panel members are:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Padi Boyd (Chair), NASA Goddard Space Flight Center&lt;/li&gt;
