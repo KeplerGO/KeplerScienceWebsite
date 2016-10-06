@@ -1,4 +1,4 @@
-Title: K2 Supernova Cosmology Experiment
+Title: K2 Supernova Experiment & Workshop
 Save_as: supernova-experiment/index.html
 
 [TOC]
@@ -102,7 +102,7 @@ The motivations for this workshop include:
 
 * providing an opportunity to plan the K2 observations with Kepler/K2 team members;
 * coordinating the simultaneous, ground-based follow-up observations and proposals;
-* preparing the data analysis and interpretation efforts;
+* preparing the data analysis and interpretation efforts, e.g. informed by the previous supernovae observed by Kepler;
 * exploring synergies with other space missions, wavelength regions, and  science areas.
 
 
@@ -163,13 +163,6 @@ These options are more expensive but are located closer to downtown Mountain Vie
 which provides ample restaurant options.
 
 
-### Registration
-
-Registration will open soon. There will be no registration fee.
-
-Non-US participants will be required to register by January 9th, 2017.
-
-
 ### Organizing Committee
 
 * Thomas Barclay - K2 GO Office
@@ -179,3 +172,13 @@ Non-US participants will be required to register by January 9th, 2017.
 * Steve Howell - NASA Ames
 * Mark Messersmith - K2 Business Office / Project Specialist
 * Brad Tucker - <a href='http://www.mso.anu.edu.au/kegs'>KEGS team</a>
+
+
+### Registration
+
+Fill out the [registration form](https://goo.gl/forms/PRczp7E2DDBev6Zp1) below to register.
+There will be no registration fee.
+
+Registration deadline: January 9th, 2017.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScrThzG5AVrhydaXQlLssJb_kVj2NcqldOPuOsJVqDyd19hmw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
