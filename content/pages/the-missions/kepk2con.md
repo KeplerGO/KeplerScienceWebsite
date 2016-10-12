@@ -68,6 +68,6 @@ Details coming soon.
 *** Local Organizing Committee *** </br>
 
 * Mark Messersmith, NASA Ames Research Center (Chair)
-* Wendy Stenzel, NASA Ames Research Center
 * Knicole Colón, NASA Ames Research Center
 * Ellen O'Leary, NASA Exoplanet Science Institute
+* Wendy Stenzel, NASA Ames Research Center
