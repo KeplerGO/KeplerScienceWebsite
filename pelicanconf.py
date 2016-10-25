@@ -85,7 +85,8 @@ MENUITEMS = (
             ('Data release notes', 'k2-data-release-notes.html'),
             ('Proposal preparation', 'k2-proposing-targets.html'),
             ('Discretionary time', 'k2-ddt.html'),
-            ('Microlensing experiment', 'k2-c9.html'),
+            ('C9 Microlensing experiment', 'k2-c9.html'),
+            ('C16 Supernova experiment', 'supernova-experiment'),
             )
          ),
         ('Data analysis', (
@@ -107,15 +108,15 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b>30 Sep 2016</b>',
-             'K2 Campaign 9 data release (expected)',
-             'k2-fields.html'),
-            ('<b>03 Nov 2016</b>',
-             'K2 GO Cycle 5 Step-1 Deadline for Campaign 14-15-16 Targets',
+            ('<b class="text-danger">03 Nov 2016</b>',
+             '<div class="text-danger">K2 GO Cycle 5 Step-1 Deadline for Campaign 14-15-16 Targets</div>',
              'k2-proposing-targets.html#solicitations'),
             ('<b>10 Nov 2016</b>',
              'K2 Campaign 13 DDT proposal deadline',
              'k2-ddt.html'),
+            ('<b>28 Nov 2016</b>',
+             'K2 Campaign 10 data release (expected)',
+             'k2-fields.html'),
             ('<b>15 Dec 2016</b>',
              'K2 GO Cycle 5 Step-2 Deadline for Campaign 14-15-16 Targets',
              'k2-proposing-targets.html#solicitations'),
@@ -132,6 +133,9 @@ MEETINGS = (
             ('<b>1–3 Feb 2017</b><br>'
              '21st Microlensing Conference',
              'http://nexsci.caltech.edu/conferences/2017/microlensing/'),
+            ('<b>14–16 Feb 2017</b><br>'
+             'K2 Supernova Cosmology Workshop',
+             'supernova-experiment'),
             ('<b>19–23 Jun 2017</b><br>'
              'Kepler & K2 SciCon IV',
              '/save-the-date-for-kepler-k2-scicon-iv-june-19-23-2017.html'),

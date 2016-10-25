@@ -4,28 +4,34 @@ Save_as: conferences.html
 ## Upcoming meetings
 
 
-<table class="table table-striped table-hover" style="max-width:50em;">
+<table class="table table-striped table-hover" style="max-width:55em;">
 
   <tr>
-    <td style="width: 7em;">Jan 2017</td>
+    <td style="width: 9em;">4 Jan 2017</td>
     <td style="width: 20em;">K2 Special Session at AAS 229th Meeting</td>
     <td><a href="https://twitter.com/search?q=%23AAS229">#AAS229 tweets</a></td>
-	</tr>
+  </tr>
+
+  <tr>
+    <td style="width: 9em;">14-16 Feb 2017</td>
+    <td style="width: 20em;"><a href='supernova-experiment/#k2-supernova-workshop'>K2 Supernova Cosmology Workshop</a></td>
+    <td><a href='supernova-experiment/#k2-supernova-workshop'>website</a>, <a href="https://twitter.com/search?q=%23K2SN">#K2SN tweets</a></td>
+  </tr>
 	
   <tr>
-    <td style="width: 7em;">Jun 2017</td>
-    <td style="width: 20em;">Kepler & K2 SciCon IV: Legacy & Scion</td>
+    <td style="width: 9em;">19-23 Jun 2017</td>
+    <td style="width: 20em;">Kepler &amp; K2 SciCon IV: Legacy &amp; Scion</td>
     <td><a href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon tweets</a></td>
-	</tr>
+  </tr>
 	
 </table>
 
 ## Past meetings
 
-<table class="table table-striped table-hover" style="max-width:50em;">
+<table class="table table-striped table-hover" style="max-width:55em;">
 
   <tr>
-    <td style="width: 7em;">Jun 2016</td>
+    <td style="width: 9em;">Jun 2016</td>
     <td style="width: 20em;">K2 Special Session at  AAS 228th Meeting</td>
     <td><a
     href="k2-special-session-at-aas228-on-13-jun-2016.html">schedule</a>,
@@ -33,7 +39,7 @@ Save_as: conferences.html
 	</tr>
 
  <tr>
-    <td style="width: 7em;"> Jan 2016</td>
+    <td style="width: 9em;"> Jan 2016</td>
     <td style="width: 20em;">K2 Special Session at AAS 227th Meeting </td>
     <td><a
     href="/k2-special-session-at-aas227-on-5-jan-2016.html">schedule</a>,
@@ -41,20 +47,20 @@ Save_as: conferences.html
 	</tr>
 	
   <tr>
-    <td style="width: 7em;">Nov 2015</td>
+    <td style="width: 9em;">Nov 2015</td>
     <td style="width: 20em;">K2 Science Conference</td>
     <td><a href="http://lcogt.net/k2scicon/">website</a>, <a href="http://lcogt.net/k2scicon-talks/">slides</a>, <a href="https://twitter.com/search?q=%23K2SciCon">#K2SciCon tweets</a></td>
   </tr>
 
   <tr>
-    <td style="width: 7em;">Oct 2015</td>
+    <td style="width: 9em;">Oct 2015</td>
     <td style="width: 20em;">Kepler Exoplanet Populations Hack Week</td>
     <td><a href="/KeplerHackWeek/">website</a>, <a href="https://twitter.com/search?q=%23KeplerHack">#KeplerHack tweets</a>
     </td>
 	</tr>
 	
   <tr>
-    <td style="width: 7em;">May 2015</td>
+    <td style="width: 9em;">May 2015</td>
     <td style="width: 20em;">K2 Microlensing Workshop</td>
     <td>
       <a href="/K2MicrolensingWorkshop/Agenda/">agenda</a>,

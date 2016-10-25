@@ -193,7 +193,7 @@ This page details the previous, current, and future K2 Campaign fields.
         <a href="k2-approved-programs.html#campaign-9b"><i class="fa fa-check"></i></a>        
       </td>
       <td class="text-center">
-        
+        <a href="k2-data-release-notes.html#k2-campaign-9"><i class="fa fa-check"></i></a>
       </td>
       <td>Gal Center, M21, M18, M25, M8, Earth, Mars</td>
     </tr>

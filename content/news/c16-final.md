@@ -10,6 +10,11 @@ To determine whether targets fall on-silicon, all investigators must update thei
 <a href="software.html#k2fov">K2fov target selection tool</a>
  and ensure they are using v6.0 or higher. 
 
-The new C16 EPIC catalog will be available at MAST within the next couple of weeks. The deadline for Step-1 proposals is November 3 at 23:59 EST. Information about the proposal process, including the scope, evaluation criteria, availability of funds, eligibility, target selection tools, submission process, and frequently asked questions, is detailed on the proposal preparation page.
+An updated EPIC catalog which includes the new C16 field is available from MAST.
+It can be accessed via the 
+[EPIC query form](https://archive.stsci.edu/k2/epic/search.php)
+or it can be [downloaded in full](https://archive.stsci.edu/k2/catalogs.html).
+
+The deadline for Step-1 proposals is November 3 at 23:59 EST. Information about the proposal process, including the scope, evaluation criteria, availability of funds, eligibility, target selection tools, submission process, and frequently asked questions, is detailed on the [proposal preparation page](k2-proposing-targets.html).
 
 [![Campaign 16 position](images/new-c16-field.png)](https://keplerscience.arc.nasa.gov/k2-fields.html#c16)

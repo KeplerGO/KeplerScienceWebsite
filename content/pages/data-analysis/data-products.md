@@ -430,6 +430,28 @@ which detail deviations from the pipeline used for Kepler.
      <td><a href="/k2-pipeline-release-notes.html#data-release-11">PRN</a></td>
       </tr>
 
+      <tr>
+      <td>C9a</td>
+      <td>3</td>
+      <td>2016 Apr 22</td>
+      <td>2016 May 18</td>
+      <td>2016 Oct 05</td>
+      <td><a
+      href="k2-data-release-notes.html#k2-campaign-9">DRN</a></td>
+     <td><a href="/k2-pipeline-release-notes.html#data-release-12">PRN</a></td>
+     </tr>
+
+      <tr>
+      <td>C9b</td>
+      <td>3</td>
+      <td>2016 May 22</td>
+      <td>2016 Jul 02</td>
+      <td>2016 Oct 05</td>
+      <td><a
+      href="k2-data-release-notes.html#k2-campaign-9">DRN</a></td>
+     <td><a href="/k2-pipeline-release-notes.html#data-release-12">PRN</a></td>
+     </tr>
+	 
 </tdata>
 </table>
 
@@ -455,7 +477,8 @@ also be downloaded through MAST](http://archive.stsci.edu/k2/ffi/search.php).
 
 FFI data format is defined in section 2.3.3 of the [Kepler Archive
 Manual](http://archive.stsci.edu/kepler/manuals/archive_manual.pdf). Note
-that as of May 2014, the Kepler detector has two dead modules (3 and
+that as of August 2016, the Kepler detector has three dead modules (3,
+4 and
 7). 
 
 <br/>
