@@ -113,7 +113,7 @@ The workshop will begin on Tuesday, February 14, at 10am and end on Thursday, Fe
 This will be an <a href='https://en.wikipedia.org/wiki/Unconference'>unconference-style</a>
 meeting with a limited number of
 introductory talks and a strong focus on participant-led breakout sessions.
-The final day will provide ample time for drafting papers and observing proposals.
+The final day will provide time for drafting observing proposals and papers.
 
 <table class="table table-striped table-hover">
 <tr>
@@ -125,15 +125,15 @@ The final day will provide ample time for drafting papers and observing proposal
 
   <tr>
     <th>Morning</th>
-    <td>Introductory talks</td>
-    <td>Unconference reports &amp; feedback</td>
-    <td>Unconference reports &amp; feedback</td>
+    <td>Review talks<br>K2 data showcase</td>
+    <td>Unconference reports<br>Feedback</td>
+    <td>Unconference reports<br>Feedback</td>
   </tr>
 
   <tr>
     <th>Afternoon</th>
-    <td>Unconference</td>
-    <td>Unconference</td>
+    <td>Unconference:<br>Science goals</td>
+    <td>Unconference:<br>Observation planning</td>
     <td>Proposal &amp; report writing</td>
   </tr>
 
@@ -198,9 +198,11 @@ which provides ample restaurant options.
 
 ### Registration
 
-Fill out the [registration form](https://goo.gl/forms/PRczp7E2DDBev6Zp1) below to register.
+Fill out the [registration form](https://goo.gl/forms/PRczp7E2DDBev6Zp1) below to apply to register.
+Note that this event is geared towards professional astronomers and PhD students.
 There will be no registration fee.
 
-Registration deadline: January 9th, 2017.
+<b class="text-danger">Registration deadline: January 9th, 2017.</b>
+It is essential that non-US citizens apply before the deadline to gain access to the meeting venue.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScrThzG5AVrhydaXQlLssJb_kVj2NcqldOPuOsJVqDyd19hmw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
