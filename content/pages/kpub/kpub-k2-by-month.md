@@ -31,6 +31,50 @@ Rappaport, S., Lehmann, H., Kalomeni, B., et al.
 Ansdell, M., Gaidos, E., Williams, J. P., et al.    
 2016, refereed ([2016MNRAS.462L.101A](http://adsabs.harvard.edu/abs/2016MNRAS.462L.101A))  
 
+7. [NEW PLANETARY AND ECLIPSING BINARY CANDIDATES FROM CAMPAIGNS 1-6 OF THE K2 MISSION](http://adsabs.harvard.edu/abs/2016A&A...594A.100B)  
+Barros, S. C. C., Demangeon, O., Deleuil, M.    
+2016, refereed ([2016A&A...594A.100B](http://adsabs.harvard.edu/abs/2016A&A...594A.100B))  
+
+8. [DISCOVERY AND VALIDATION OF A HIGH-DENSITY SUB-NEPTUNE FROM THE K2 MISSION](http://adsabs.harvard.edu/abs/2016ApJ...830...43E)  
+Espinoza, Néstor, Brahm, Rafael, Jordán, Andrés, et al.    
+2016, refereed ([2016ApJ...830...43E](http://adsabs.harvard.edu/abs/2016ApJ...830...43E))  
+
+9. [OUTBURSTS IN TWO NEW COOL PULSATING DA WHITE DWARFS](http://adsabs.harvard.edu/abs/2016ApJ...829...82B)  
+Bell, Keaton J., Hermes, J. J., Montgomery, M. H., et al.    
+2016, refereed ([2016ApJ...829...82B](http://adsabs.harvard.edu/abs/2016ApJ...829...82B))  
+
+10. [EVEREST: PIXEL LEVEL DECORRELATION OF K2 LIGHT CURVES](http://adsabs.harvard.edu/abs/2016AJ....152..100L)  
+Luger, Rodrigo, Agol, Eric, Kruse, Ethan, et al.    
+2016, refereed ([2016AJ....152..100L](http://adsabs.harvard.edu/abs/2016AJ....152..100L))  
+
+11. [K2-30 B AND K2-34 B: TWO INFLATED HOT JUPITERS AROUND SOLAR-TYPE STARS](http://adsabs.harvard.edu/abs/2016A&A...594A..50L)  
+Lillo-Box, J., Demangeon, O., Santerne, A., et al.    
+2016, refereed ([2016A&A...594A..50L](http://adsabs.harvard.edu/abs/2016A&A...594A..50L))  
+
+12. [THE K2 M67 STUDY: REVISITING OLD FRIENDS WITH K2 REVEALS OSCILLATING RED GIANTS IN THE OPEN CLUSTER M67](http://adsabs.harvard.edu/abs/2016arXiv161003060S)  
+Stello, D., Vanderburg, A., Casagrande, L., et al.    
+2016, pre-print ([2016arXiv161003060S](http://adsabs.harvard.edu/abs/2016arXiv161003060S))  
+
+13. [SPITZER OBSERVATIONS CONFIRM AND RESCUE THE HABITABLE-ZONE SUPER-EARTH K2-18B FOR FUTURE CHARACTERIZATION](http://adsabs.harvard.edu/abs/2016arXiv161007249B)  
+Benneke, Björn, Werner, Michael, Petigura, Erik, et al.    
+2016, pre-print ([2016arXiv161007249B](http://adsabs.harvard.edu/abs/2016arXiv161007249B))  
+
+14. [FIRST OBSERVATIONS OF W VIRGINIS STARS WITH K2: DETECTION OF PERIOD DOUBLING](http://adsabs.harvard.edu/abs/2016arXiv161005488P)  
+Plachy, E., Molnár, L., Jurkovic, M. I., et al.    
+2016, pre-print ([2016arXiv161005488P](http://adsabs.harvard.edu/abs/2016arXiv161005488P))  
+
+15. [GROUND-BASED TRANSIT OBSERVATION OF THE HABITABLE-ZONE SUPER-EARTH K2-3D](http://adsabs.harvard.edu/abs/2016arXiv161001333F)  
+Fukui, Akihiko, Livingston, John, Narita, Norio, et al.    
+2016, pre-print ([2016arXiv161001333F](http://adsabs.harvard.edu/abs/2016arXiv161001333F))  
+
+16. [UKIRT MICROLENSING SURVEYS AS A PATHFINDER FOR $WFIRST$: THE DETECTION OF FIVE HIGHLY EXTINGUISHED LOW-$|B|$ EVENTS](http://adsabs.harvard.edu/abs/2016arXiv161002039S)  
+Shvartzvald, Y., Bryden, G., Gould, A., et al.    
+2016, pre-print ([2016arXiv161002039S](http://adsabs.harvard.edu/abs/2016arXiv161002039S))  
+
+17. [ON THE FEASIBILITY OF CHARACTERIZING FREE-FLOATING PLANETS WITH CURRENT AND FUTURE SPACE-BASED MICROLENSING SURVEYS](http://adsabs.harvard.edu/abs/2016AJ....152...96H)  
+Henderson, Calen B., Shvartzvald, Yossi    
+2016, refereed ([2016AJ....152...96H](http://adsabs.harvard.edu/abs/2016AJ....152...96H))  
+
 
 2016-09
 -------
