@@ -61,8 +61,8 @@ bandpass. Each science module is an array of 2200x2048
 pixels. These 21 modules each have 4 output channels, for a total of
 84 channels and 94.6 million active pixels that view the sky, with
 additional masked real pixels and virtual pixels for collection of
-collateral data.  As of May 2014, two of the modules are no longer in
-working order (illustrated in the above image).
+collateral data.  As of August 2016, three of the modules are no longer in
+working order.
 
 <br/>
 
