@@ -200,7 +200,7 @@ which provides ample restaurant options.
 
 Fill out the [registration form](https://goo.gl/forms/PRczp7E2DDBev6Zp1) below to apply to register.
 Note that this event is geared towards professional astronomers and PhD students.
-There will be no registration fee.
+There will be no registration fee, but participants must cover their own travel and accommodation.
 
 <b class="text-danger">Registration deadline: January 9th, 2017.</b>
 It is essential that non-US citizens apply before the deadline to gain access to the meeting venue.
