@@ -277,12 +277,9 @@ If you plan to submit a proposal for a Solar System (moving) target, we recommen
 The call for K2 GO Cycle 5 proposals, which includes <a href="k2-fields.html">Campaigns 14, 15,
 and 16</a>, [has been released and is available at NSPIRES](https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={D68A4380-B327-7C96-04CF-02B0FC940DBF}&path=open). We
 are requesting the community propose targets to observe
-during only these three campaigns. Beyond these, Campaign 17 was
-intended to have a primary science focus of supernova science. In
-order to enable detailed characterization of supernovae, C17 would be a forward-facing campaign (much like the C9 microlensing
-campaign). Observing in this mode allows for simultaneous observations
-from K2 and from Earth.  From recent estimates of the remaining fuel on the Kepler spacecraft,
- we anticipate that C17 is at risk. **In order to maximize the
+during only these three campaigns. Based on recent estimates of the remaining fuel on the Kepler
+ spacecraft, it is anticipated that Campaign 17 and beyond will be conducted
+ at risk.  **In order to maximize the
  science return from the K2 mission, we changed the position of the field for C16.
  C16 will now involve the Kepler spacecraft observing in the forward-facing direction, and a significant fraction of pixels will
  be dedicated to supernova science.  Proposals covering all other
@@ -294,7 +291,7 @@ from K2 and from Earth.  From recent estimates of the remaining fuel on the Kepl
 ### FAQs  
 
 * **What are the proposal deadlines?**<br/>
-Step 1: <font color='red'>23:59 EST 2016 Nov 03</font> <br/>
+Step 1: <font color='red'>23:59 EST 2016 Nov 03 (deadline has passed)</font> <br/>
 Step 2: <font color='red'>23:59 EST 2016 Dec 15</font> <br/>
   
 * **What are the anticipated dates of the campaigns included in the
@@ -366,7 +363,7 @@ to account for the recent changes to Campaign 16.** <br/>
 K2 proposal submission is a 2-step process. Both steps are
 mandatory. To propose for Campaigns 14, 15 and 16, investigators are
 required to submit Step 1 through the NSPIRES website by <font color='red'>23:59 EST
-November 3, 2016</font> and are required to submit Step 2 to the NSPIRES
+November 3, 2016 (deadline has passed)</font> and are required to submit Step 2 to the NSPIRES
 website by <font color='red'>23:59 EST December 15, 2016</font>. All proposers need to register
 with NSPIRES in order to submit both parts of the proposal. The
 separation of the proposal into two steps is required in order to
@@ -387,7 +384,7 @@ submitting a K2 proposal to the GO call are provided below:
 
 * [Submit Step 1 of
       the proposal to NSPIRES](http://nspires.nasaprs.com/external/)
-      by <font color='red'>23:59 EST November 3, 2016</font>.  [Instructions for
+      by <font color='red'>23:59 EST November 3, 2016 (deadline has passed)</font>.  [Instructions for
       Step 1 submission can be found here](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=498339/solicitationId=%7BD68A4380-B327-7C96-04CF-02B0FC940DBF%7D/viewSolicitationDocument=1/Step-1%20instructions%2002182016.pdf). 
 
 * [Submit Step 2 of
