@@ -59,7 +59,7 @@ through MAST and can be downloaded
 * Long and short cadence collateral files
 * Reverse clock files
 * Ancillary engineering files
-* Latest SPICE kernels (bsp an tsc binary files)
+* Latest SPICE kernels (bsp and tsc binary files)
 
 **Catalogs at MAST**
 
