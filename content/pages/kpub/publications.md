@@ -21,7 +21,7 @@ pertaining to Kepler and K2.
 The database contains 1964 publications,
 of which 1706 are peer-reviewed
 (1577 for Kepler
-and 1577 for K2).
+and 129 for K2).
 It demonstrates the important impact of Kepler/K2 data
 on astronomical research.
 
@@ -203,106 +203,106 @@ Here we list the most-active authors, defined as those with six or more first-au
 
  * Murphy, S (12 publications)
 
- * Kane, S (12 publications)
-
  * Jenkins, J (12 publications)
+
+ * Kane, S (12 publications)
 
  * Steffen, J (11 publications)
 
- * Huber, D (11 publications)
-
  * Stello, D (11 publications)
 
- * Scaringi, S (10 publications)
+ * Huber, D (11 publications)
+
+ * Baran, A (10 publications)
 
  * Savanov, I (10 publications)
 
  * Hekker, S (10 publications)
 
- * Baran, A (10 publications)
+ * Scaringi, S (10 publications)
 
  * Chaplin, W (9 publications)
-
- * Molenda-Zakowicz, J (9 publications)
-
- * Gaidos, E (9 publications)
 
  * Wang, J (9 publications)
 
  * Armstrong, D (9 publications)
 
+ * Gaidos, E (9 publications)
+
+ * Molenda-Zakowicz, J (9 publications)
+
  * Sanchis-Ojeda, R (8 publications)
-
- * Ostensen, R (8 publications)
-
- * Ramsay, G (8 publications)
-
- * Mathur, S (8 publications)
-
- * Kato, T (8 publications)
-
- * Mosser, B (8 publications)
-
- * Santerne, A (8 publications)
-
- * Lillo-Box, J (8 publications)
-
- * Van Eylen, V (8 publications)
-
- * Campante, T (8 publications)
-
- * Kjurkchieva, D (8 publications)
 
  * Rappaport, S (8 publications)
 
- * Howell, S (7 publications)
+ * Ostensen, R (8 publications)
 
- * Tkachenko, A (7 publications)
+ * Mathur, S (8 publications)
 
- * Karoff, C (7 publications)
+ * Ramsay, G (8 publications)
 
- * Guzik, J (7 publications)
+ * Santerne, A (8 publications)
 
- * Lee, J (7 publications)
+ * Mosser, B (8 publications)
 
- * Gilliland, R (7 publications)
+ * Campante, T (8 publications)
 
- * Silva Aguirre, V (7 publications)
+ * Van Eylen, V (8 publications)
 
- * Mann, A (7 publications)
+ * Kato, T (8 publications)
+
+ * Kjurkchieva, D (8 publications)
+
+ * Lillo-Box, J (8 publications)
+
+ * Metcalfe, T (7 publications)
 
  * Vanderburg, A (7 publications)
 
  * Dawson, R (7 publications)
 
- * Metcalfe, T (7 publications)
+ * Lee, J (7 publications)
 
- * Hippke, M (6 publications)
+ * Mann, A (7 publications)
 
- * Batalha, N (6 publications)
+ * Karoff, C (7 publications)
 
- * Heller, R (6 publications)
+ * Tkachenko, A (7 publications)
+
+ * Gilliland, R (7 publications)
+
+ * Howell, S (7 publications)
+
+ * Guzik, J (7 publications)
+
+ * Silva Aguirre, V (7 publications)
 
  * Ballard, S (6 publications)
 
- * Lund, M (6 publications)
-
- * Corsaro, E (6 publications)
-
- * Lissauer, J (6 publications)
-
- * Barclay, T (6 publications)
-
- * Morton, T (6 publications)
-
- * Szabo, R (6 publications)
-
- * Hirano, T (6 publications)
-
- * Koch, D (6 publications)
-
- * Beck, P (6 publications)
+ * Bonomo, A (6 publications)
 
  * Demory, B (6 publications)
 
- * Bonomo, A (6 publications)
+ * Corsaro, E (6 publications)
+
+ * Koch, D (6 publications)
+
+ * Heller, R (6 publications)
+
+ * Lissauer, J (6 publications)
+
+ * Hirano, T (6 publications)
+
+ * Szabo, R (6 publications)
+
+ * Beck, P (6 publications)
+
+ * Barclay, T (6 publications)
+
+ * Batalha, N (6 publications)
+
+ * Hippke, M (6 publications)
+
+ * Lund, M (6 publications)
+
+ * Morton, T (6 publications)
