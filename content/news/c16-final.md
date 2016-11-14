@@ -8,7 +8,7 @@ The [position of this field](k2-fields.html) has been finalized. The position wa
 
 To determine whether targets fall on-silicon, all investigators must update their version of the
 <a href="software.html#k2fov">K2fov target selection tool</a>
- and ensure they are using v6.0 or higher. 
+ and ensure they are using v6.2 or higher. 
 
 An updated EPIC catalog which includes the new C16 field is available from MAST.
 It can be accessed via the 
