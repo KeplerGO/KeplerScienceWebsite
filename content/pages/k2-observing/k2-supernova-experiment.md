@@ -28,7 +28,7 @@ Save_as: supernova-experiment/index.html
             </li>
             <li style='margin-top: 0.75em;'>
                 Proposals to select and analyze K2 targets in C16 are eligible for <b>funding up to $150,000</b> 
-                as part of <a href="/k2-proposing-targets.html">K2 GO Cycle 5</a>.  The Step 1 deadline is Nov 3, 2016.
+                as part of <a href="/k2-proposing-targets.html">K2 GO Cycle 5</a>.  The Step 1 deadline was Nov 3, 2016.
             </li>
             <li style='margin-top: 0.75em;'>
                 A <b><a href='#k2-supernova-workshop'>workshop</a></b> will be held at NASA Ames on <b>Feb 14-16, 2017</b>,

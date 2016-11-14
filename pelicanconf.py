@@ -108,9 +108,6 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b class="text-danger">10 Nov 2016</b>',
-             '<div class="text-danger">K2 Campaign 13 DDT proposal deadline</div>',
-             'k2-ddt.html'),
             ('<b>28 Nov 2016</b>',
              'K2 Campaign 10 data release (expected)',
              'k2-fields.html'),
@@ -132,7 +129,7 @@ MEETINGS = (
              'supernova-experiment'),
             ('<b>19–23 Jun 2017</b><br>'
              'Kepler & K2 SciCon IV',
-             '/save-the-date-for-kepler-k2-scicon-iv-june-19-23-2017.html'),
+             'scicon4/'),
             )
 
 # Defines the "related websites" listing in the footer of all pages
