@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Tue, 25 Oct 2016 11:00:00 -0700</lastBuildDate><item><title>K2 Cycle 5 deadline fast approaching</title><link>https://keplerscience.arc.nasa.gov/k2-cycle-5-deadline-fast-approaching.html</link><description>&lt;p&gt;The deadline for K2 Cycle 5 Step-1 proposals is just over a week away. This call is for targets falling into fields for Campaigns 14, 15 and 16. Proposal submission is a 2-step process and both steps are mandatory. Step-1 proposals are required to be submitted through the &lt;a href="https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&amp;amp;solId={D68A4380-B327-7C96-04CF-02B0FC940DBF}&amp;amp;path=open"&gt;NSPIRES website&lt;/a&gt; by 23:59 EST November 3, 2016. Step-1 proposals are not scientifically reviewed and consist of a title, project summary and list of team members.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom Barclay</dc:creator><pubDate>Tue, 25 Oct 2016 11:00:00 -0700</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2016-10-25:k2-cycle-5-deadline-fast-approaching.html</guid></item><item><title>K2 Supernova Experiment Workshop on Feb 14-16, 2017</title><link>https://keplerscience.arc.nasa.gov/k2-supernova-experiment-workshop-on-feb-14-16-2017.html</link><description>&lt;p&gt;We &lt;a href="change-to-campaign-16-field-position-and-delay-to-go-cycle-5-deadline.html"&gt;previously announced&lt;/a&gt;
+<rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Mon, 14 Nov 2016 21:00:00 -0800</lastBuildDate><item><title>Small changes to Campaigns 13, 14, and 15</title><link>https://keplerscience.arc.nasa.gov/small-changes-to-campaigns-13-14-and-15.html</link><description>&lt;p&gt;K2 users are alerted to a small but necessary adjustment
+to the fields of Campaigns 13, 14, and 15.&lt;/p&gt;
+&lt;p&gt;To better compensate for the radiation pressure exerted by one of the
+spacecraft's low-gain antennae, these fields have been rotated by 0.365°.
+This change minimizes the roll drift rate and
+hence optimizes fuel usage and photometric precision.&lt;/p&gt;
+&lt;p&gt;The change affects less than 1% of the sky area covered and is unlikely
+to affect most Cycle 5 proposals.
+All users are nevertheless encouraged to update the 
+&lt;a href="software.html#k2fov"&gt;K2fov&lt;/a&gt; target selection tool
+to version 6.2, released on 14 Nov 2016, which includes the change.&lt;/p&gt;
+&lt;p&gt;K2fov can be updated from the command line using pip:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;pip install K2fov --upgrade
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The version number of your K2fov installation may be verified
+using the following command:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;python -c "import K2fov; print(K2fov.__version__)"
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This must return "6.2.0" or higher. If the number is lower, or if you see an error message, then your installation of K2fov is outdated and must be upgraded. &lt;/p&gt;
+&lt;p&gt;Campaign 16 does not require a change due to the use of a different,
+forward-facing spacecraft configuration.&lt;/p&gt;
+&lt;p&gt;Please &lt;a href="helpdesk.html"&gt;contact the Guest Observer Office&lt;/a&gt; if you have questions.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Mon, 14 Nov 2016 21:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2016-11-14:small-changes-to-campaigns-13-14-and-15.html</guid></item><item><title>K2 Cycle 5 deadline fast approaching</title><link>https://keplerscience.arc.nasa.gov/k2-cycle-5-deadline-fast-approaching.html</link><description>&lt;p&gt;The deadline for K2 Cycle 5 Step-1 proposals is just over a week away. This call is for targets falling into fields for Campaigns 14, 15 and 16. Proposal submission is a 2-step process and both steps are mandatory. Step-1 proposals are required to be submitted through the &lt;a href="https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&amp;amp;solId={D68A4380-B327-7C96-04CF-02B0FC940DBF}&amp;amp;path=open"&gt;NSPIRES website&lt;/a&gt; by 23:59 EST November 3, 2016. Step-1 proposals are not scientifically reviewed and consist of a title, project summary and list of team members.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom Barclay</dc:creator><pubDate>Tue, 25 Oct 2016 11:00:00 -0700</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2016-10-25:k2-cycle-5-deadline-fast-approaching.html</guid></item><item><title>K2 Supernova Experiment Workshop on Feb 14-16, 2017</title><link>https://keplerscience.arc.nasa.gov/k2-supernova-experiment-workshop-on-feb-14-16-2017.html</link><description>&lt;p&gt;We &lt;a href="change-to-campaign-16-field-position-and-delay-to-go-cycle-5-deadline.html"&gt;previously announced&lt;/a&gt;
 that in order to maximize the science return from the remaining fuel,
 the &lt;a href="new-forward-facing-position-of-campaign-16-finalized.html"&gt;K2 Campaign 16 field has been changed&lt;/a&gt;
 to enable a forward-facing supernova survey.
@@ -180,7 +201,7 @@ Note that it is crucial to use K2fov version 6.0 or higher for Campaigns 14-15-1
 &lt;p&gt;The &lt;a href="k2-fields.html"&gt;position of this field&lt;/a&gt; has been finalized. The position was chosen to maximize the number of known low-redshift galaxies, while also enabling the collection of a significant fractions of both M67 and the Beehive cluster (aka Praesepe, M44). The campaign will begin around December 7, 2017 and last approximately 80 days. Campaign 16 has a 30% overlap with the Campaign 5 field.&lt;/p&gt;
 &lt;p&gt;To determine whether targets fall on-silicon, all investigators must update their version of the
 &lt;a href="software.html#k2fov"&gt;K2fov target selection tool&lt;/a&gt;
- and ensure they are using v6.0 or higher. &lt;/p&gt;
+ and ensure they are using v6.2 or higher. &lt;/p&gt;
 &lt;p&gt;An updated EPIC catalog which includes the new C16 field is available from MAST.
 It can be accessed via the 
 &lt;a href="https://archive.stsci.edu/k2/epic/search.php"&gt;EPIC query form&lt;/a&gt;
