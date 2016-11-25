@@ -108,25 +108,19 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b class="text-danger">03 Nov 2016</b>',
-             '<div class="text-danger">K2 GO Cycle 5 Step-1 Deadline for Campaign 14-15-16 Targets</div>',
-             'k2-proposing-targets.html#solicitations'),
-            ('<b>10 Nov 2016</b>',
-             'K2 Campaign 13 DDT proposal deadline',
-             'k2-ddt.html'),
-            ('<b>28 Nov 2016</b>',
-             'K2 Campaign 10 data release (expected)',
-             'k2-fields.html'),
             ('<b>15 Dec 2016</b>',
              'K2 GO Cycle 5 Step-2 Deadline for Campaign 14-15-16 Targets',
              'k2-proposing-targets.html#solicitations'),
+            ('<b>22 Dec 2016</b>',
+             'K2 Campaign 10 data release (expected)',
+             'k2-fields.html'),
+            ('<b>6 Feb 2017</b>',
+             'K2 Campaign 11 data release (expected)',
+             'k2-fields.html'),
          )
 
 # Defines the "meetings" box on the front page
 MEETINGS = (
-            ('<b>16–21 Oct 2016</b><br>'
-             'Kepler/K2 Booth at DPS 48',
-             'https://dps.aas.org/'),
             ('<b>3–7 Jan 2017</b><br>'
              'Kepler/K2 Booth & Sessions at AAS 229',
              'https://aas.org/meetings/aas229'),
@@ -138,7 +132,7 @@ MEETINGS = (
              'supernova-experiment'),
             ('<b>19–23 Jun 2017</b><br>'
              'Kepler & K2 SciCon IV',
-             '/save-the-date-for-kepler-k2-scicon-iv-june-19-23-2017.html'),
+             'scicon4/'),
             )
 
 # Defines the "related websites" listing in the footer of all pages

@@ -28,7 +28,7 @@ Save_as: supernova-experiment/index.html
             </li>
             <li style='margin-top: 0.75em;'>
                 Proposals to select and analyze K2 targets in C16 are eligible for <b>funding up to $150,000</b> 
-                as part of <a href="/k2-proposing-targets.html">K2 GO Cycle 5</a>.  The Step 1 deadline is Nov 3, 2016.
+                as part of <a href="/k2-proposing-targets.html">K2 GO Cycle 5</a>.  The Step 1 deadline was Nov 3, 2016.
             </li>
             <li style='margin-top: 0.75em;'>
                 A <b><a href='#k2-supernova-workshop'>workshop</a></b> will be held at NASA Ames on <b>Feb 14-16, 2017</b>,
@@ -113,7 +113,7 @@ The workshop will begin on Tuesday, February 14, at 10am and end on Thursday, Fe
 This will be an <a href='https://en.wikipedia.org/wiki/Unconference'>unconference-style</a>
 meeting with a limited number of
 introductory talks and a strong focus on participant-led breakout sessions.
-The final day will provide ample time for drafting papers and observing proposals.
+The final day will provide time for drafting observing proposals and papers.
 
 <table class="table table-striped table-hover">
 <tr>
@@ -125,15 +125,15 @@ The final day will provide ample time for drafting papers and observing proposal
 
   <tr>
     <th>Morning</th>
-    <td>Introductory talks</td>
-    <td>Unconference reports &amp; feedback</td>
-    <td>Unconference reports &amp; feedback</td>
+    <td>Review talks<br>K2 data showcase</td>
+    <td>Unconference reports<br>Feedback</td>
+    <td>Unconference reports<br>Feedback</td>
   </tr>
 
   <tr>
     <th>Afternoon</th>
-    <td>Unconference</td>
-    <td>Unconference</td>
+    <td>Unconference:<br>Science goals</td>
+    <td>Unconference:<br>Observation planning</td>
     <td>Proposal &amp; report writing</td>
   </tr>
 
@@ -198,9 +198,14 @@ which provides ample restaurant options.
 
 ### Registration
 
-Fill out the [registration form](https://goo.gl/forms/PRczp7E2DDBev6Zp1) below to register.
-There will be no registration fee.
+Fill out the [registration form](https://goo.gl/forms/PRczp7E2DDBev6Zp1) below to apply to register.
+There is no registration fee.
 
-Registration deadline: January 9th, 2017.
+Note that the workshop is aimed at active researchers in the field,
+i.e. professional astronomers and PhD students.
+This event is not suitable for undergraduate students or members of the general public.
+
+<b class="text-danger">Registration deadline: January 9th, 2017.</b>
+It is essential that non-US citizens apply before the deadline to gain access to the meeting venue.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScrThzG5AVrhydaXQlLssJb_kVj2NcqldOPuOsJVqDyd19hmw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>

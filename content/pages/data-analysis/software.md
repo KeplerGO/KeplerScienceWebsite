@@ -156,6 +156,17 @@ Below is a non-exhaustive list of community tools, presented in alphabetical ord
 </tr>
 
 <tr>
+    <td><a href="https://sites.google.com/a/lctools.net/lctools/home">lctools</a></td>
+    <td>
+    A Windows-based set of tools for building, viewing, and analyzing Kepler/K2 lightcurves.
+    </td>
+    <td>
+        <a href="https://sites.google.com/a/lctools.net/lctools/home">sites.google.com/a/lctools.net/lctools</a>
+    </td>
+</tr>
+
+
+<tr>
     <td><a href="https://github.com/hpparvi/PyTransit">pytransit</a></td>
     <td>
         Exoplanet transit light curve modelling with Python.
