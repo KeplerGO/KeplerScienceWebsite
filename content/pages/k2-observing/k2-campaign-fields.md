@@ -223,7 +223,7 @@ This page details the previous, current, and future K2 Campaign fields.
       <td>-23:58:33</td>
       <td class="text-center">
         <a href="k2-approved-programs.html#campaign-11"><i class="fa fa-check"></i></a>
-		</td>
+	  </td>
       <td class="text-center">
         
       </td>
@@ -238,7 +238,7 @@ This page details the previous, current, and future K2 Campaign fields.
       <td>23:26:38</td>
       <td>-05:06:08</td>
       <td class="text-center">
-        
+        <a href="k2-approved-programs.html#campaign-12"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
         

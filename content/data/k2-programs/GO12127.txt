@@ -1,0 +1,31 @@
+# Summary of K2 Program GO12127
+
+Title: Characterization of Be stars in the Kepler K2 fields
+
+PI: Emilio, Marcelo (University of Hawaii)
+CoIs: Armstrong, James D.; Andrade, Laerte; Rabello-Soares, Maria Cristina; Kuhn, Jeff R; Janot-Pacheco, Eduardo
+
+1. Introduction
+We propose the characterization of Be stars in K2 fields 11, 12 and 13. Classical Be stars are rapid rotators of spectral type B and luminosity class V-III which have an equatorially concentrated circumstellar disk. The disk often exhibits Balmer emission lines and an infrared excess fed by discrete mass loss events called outbursts. In spite of their high V sin i, rapid rotation alone cannot explain
+the ejection episodes as most Be stars do not rotate at their critical rotation rates. High-resolution, high signal-to-noise spectroscopic observations have been analyzed to demonstrate short-term variations are rather common among early-type Be stars. The observed line profile variability (LPV) is characterized by moving bumps traveling from blue to red across the line profile on timescales ranging from minutes to a few days. Non-radial pulsations (NRP) have been proposed as an explanation of the LPV observed in hot stars. NRP
+produce LPV thanks to the combination of the Doppler displacement of stellar surface elements with their associated temperature variations due to the compression/expansion caused by the passage of waves through the photosphere. NRP could be the additional mechanism required for a rapidly rotating B star to become a Be star, that is to trigger the Be phenomenon by means of mass ejection (Rivinius et al. 1998).
+2. High-precision photometry and pulsation periods.
+Huat et al. (2009) found for the Be HD 49330 from CoRoT and ground-based spectroscopic data an increase in amplitude for g-modes and a decrease for p-modes just before an outburst. Neiner et al. (2012) discovered gravito-inertial modes in the Be star HD 51452. They found that the mode amplitudes were linked to the presence of mini outbursts. In general, hot Be stars display nonradial pressure pulsation modes, whereas cooler ones display gravity modes. Despite those empirical evidences, the physical processes responsible for the outbursts and mass loss in Be stars are still poorly understood. Dziembowski et al. (2007) showed that high-order g-modes driven by the kappa mechanism are unstable in the region of the HR diagram occupied by Be stars. The predicted radial velocity amplitude
+due to an l=3 g-mode is ~ 20 km/s for a star with 4 solar masses, with pulsation periods in the range ~0.51.1 days. For more massive and hotter stars like HD 171219, unstable modes are found with periods of 0.5-2 days.
+3. Methods and proposed targets
+Pulsation analysis of a star requires the measurement of frequencies with both high photometric precision and high time-frequency resolution. Only space missions provide both conditions. Since NRP in Be stars have periods near 1.0 cycles per day, Kepler observations are especially important to avoid the frequency aliases due to the day/night cycle of ground observations. Another advantage of Kepler data is the continuous observations for months with a 30 min cadence that improves the chances to observe outburst events in our targets. Stellar seismology made a great leap forward thanks to the MOST, CoRoT and Kepler satellites.  Our targets have Kp between 4.4 and 15.7 Long cadence (30 min) is desirable for this research. We aim to have both Kepler photometric time-series and simultaneous ground spectroscopic observations in the first month of kepler observations to measure Be periodicities and understand the Be phenomenon. Our proposal fits the Small category, and the number of our targets will be under 300. Our group have experience with asteroseismology and have already worked in the same analysis with CoRoT data, and have targets been observed in K2 cycle 3.
+4. Significance
+Be stars, as easy-to-observe objects giving a privileged peek into the structure of rapidly rotating stars, are therefore among the best suited laboratories to investigate important problems in contemporary astrophysics, like the effects of rapid rotation on stellar evolution.
+
+# Targets requested by this program that have been observed (10)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+245944681, 351.689555, -11.032598, 8.471, GO12127_LC|GO12019_LC|GO12052_LC|GO12113_LC
+245989196, 350.461899, -9.761393, 7.847, GO12127_LC|GO12019_LC|GO12052_LC
+246022249, 350.162013, -8.91959, 7.998, GO12127_LC|GO12019_LC|GO12052_LC|GO12122_LC
+246023959, 349.851811, -8.877214, 13.039, GO12127_LC|GO12044_LC|GO12072_LC|GO12040_LC|GO12044_SC|GO12072_SC|GO12040_SC
+246063873, 346.468878, -7.936713, 6.815, GO12127_LC|GO12019_LC|GO12122_LC
+246130638, 349.444934, -6.475283, 10.297, GO12127_LC|GO12044_LC|GO12123_LC
+246151922, 351.382762, -6.01987, 15.739, GO12127_LC|GO12019_LC|GO12044_LC|GO12072_LC|GO12072_SC
+246230928, 351.786709, -4.410234, 13.928, GO12127_LC|GO12044_LC|GO12072_LC|GO12902_LC|GO12903_LC|GO12072_SC
+246320565, 353.792487, -2.651429, 11.673, GO12127_LC|GO12052_LC|GO12107_LC
+246387816, 353.644285, -1.326924, 12.922, GO12127_LC|GO12044_LC|GO12072_LC|GO12002_LC|GO12902_LC|GO12903_LC|GO12072_SC
