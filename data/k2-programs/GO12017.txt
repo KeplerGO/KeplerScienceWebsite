@@ -1,0 +1,13 @@
+# Summary of K2 Program GO12017
+
+Title: Cataclysmic Variables and Related Objects
+
+PI: Ramsay, Gavin (Armagh Observatory)
+CoIs: Cannizzo, John Kendall; Wood, Matthew A; Smale, Alan P; Howell, Steve B
+
+Cataclysmic variables (CVs) provide the cleanest available natural laboratories to investigate the physics of accretion. The timing capabilities and sensitivity of K2 are well matched to the timescales and amplitude of accretion variability in these sources. The combination provides an superb opportunity to test and refine the
+paradigms of stellar accretion with high-precision, uniform data over the more than two month time interval. We propose a continuation of our multifaceted observational and modelling program that puts our current understanding of accretion to the test and has the potential to measure the spatial structure of model dependent disc parameters. K2 observations of CVs and related objects such as Symbiotic Binaries (which contain a red giant) are profoundly impacting our understanding of accretion dynamics and the nature of viscosity in the wider astrophysical context, and these data will provide an outstanding astrophysical legacy for the K2 mission archive. We also propose to place a window around the globular cluster Terzan 5 which has a large population of X-ray sources. This would provide a unique opportunity to obtain a census of optical transients from a globular over an 80 day time interval.
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+251456337, , , , GO12017_LC

@@ -1,0 +1,23 @@
+# Summary of K2 Program GO12044
+
+Title: Kepler light curves of hot subdwarf binaries
+
+PI: Kupfer, Thomas (Caltech)
+CoIs: Nemeth, Peter; Heber, Ulrich; Geier, Stephan; Schaffenroth, Veronika
+
+Hot subdwarf-B (sdB) stars are core-helium burning stars that have evolved from the red giant stage to the extreme blue end of the horizontal branch in a process where almost the entire envelope has been lost through interactions with a companion. Many sdBs are known to have close companions with periods ranging from 0.05 to 10 days, and must have evolved through the common-envelope-ejection (CEE) process. The closest systems are quite easy to study from the ground, but Kepler observations have opened the door for precise studies of the population of systems with periods between 0.5 and and 10 days.
+
+Several close binary sdB stars were discovered by the original Kepler mission. The excellent Kepler light curves show photometric signals from Doppler beaming, ellipsoidal deformations and mutual irradiation effects. Long-cadence K2 observations presents us with an unique opportunity to accumulate a larger sample of post-common envelope sdB binaries that can shed light on the statistics of the CEE process, and thereby constrain the long sought after efficiency parameters that govern the common envelope stage of evolution. In the process we hope to find new particularly interesting binary systems, such as the eclipsing cases and those with extraordinary masses that could be progenitors of type-Ia supernovae.
+
+# Targets requested by this program that have been observed (10)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+245993109, 349.983607, -9.660463, 17.857, GO12044_LC|GO12040_LC
+246021393, 346.031385, -8.940948, 17.893, GO12044_LC|GO12072_LC|GO12040_LC|GO12072_SC
+246023959, 349.851811, -8.877214, 13.039, GO12127_LC|GO12044_LC|GO12072_LC|GO12040_LC|GO12044_SC|GO12072_SC|GO12040_SC
+246130638, 349.444934, -6.475283, 10.297, GO12127_LC|GO12044_LC|GO12123_LC
+246141920, 351.969977, -6.232069, 13.991, GO12044_LC|GO12072_LC|GO12072_SC
+246151922, 351.382762, -6.01987, 15.739, GO12127_LC|GO12019_LC|GO12044_LC|GO12072_LC|GO12072_SC
+246230928, 351.786709, -4.410234, 13.928, GO12127_LC|GO12044_LC|GO12072_LC|GO12902_LC|GO12903_LC|GO12072_SC
+246283223, 347.600187, -3.400329, 15.655, GO12019_LC|GO12044_LC|GO12072_LC|GO12072_SC
+246387816, 353.644285, -1.326924, 12.922, GO12127_LC|GO12044_LC|GO12072_LC|GO12002_LC|GO12902_LC|GO12903_LC|GO12072_SC
+246485489, 350.994526, 1.67408, 14.122, GO12027_LC|GO12044_LC|GO12007_LC|GO12040_LC

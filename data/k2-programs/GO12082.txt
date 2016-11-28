@@ -1,0 +1,27 @@
+# Summary of K2 Program GO12082
+
+Title: A photometric study of pre-main sequence stars
+
+PI: Siwak, Michal (Cracov Pedagogical University)
+CoIs: 
+
+We propose to continue space-based Kepler photometric monitoring of pre-main sequence stars. In our study we concentrate on Classical T Tauri-type stars (CTTS), well known from rapid and complicated variability due to vigorous accretion of disc plasma. A sample of above 200 stars is proposed for observations, mostly the members of Taurus-Auriga Star Forming Region (Campaign 11 - 50 targets, 12 - 5 targets, 13 - 151 targets). They will provide first large representative sample of stars (both known in Simbad database as YSOs, CTTSs, Herbig Ae/Be, WTTSs, PMSs and carefuly choosen objects classified as emision line stars) of different age and SFR membership to address the following issues: 
+1) regime of accretion in CTTS: stable, moderately stable or unstable,
+2) does the accretion regime in CTTS alternate between (moderately)stable and unstable, what is the typical timescale,
+3) which Herbig Ae/Be stars show magnetically-controlled accretion like CTTS,
+4) study of QPOs in CTTS and Herbig Ae/Be stars with wavelet technique: how fast do they change in time
+5) determination of rotational periods of CTTS and Herbig Ae/Be stars if catched in a stable or moderately stable accretion regime, as well as of WTTS modulated by long lived cold spots (including differential rotation),
+6) do other CTTS and Herbig Ae/Be stars show short lasting, shallow dips like TW Hya,
+7) does HBC 393 show tiny (amplitude of 1-10%) QPOs, like these discovered by us with MOST for FU Ori in 2009/10 and confirmed in 2013/14 (unpublished,) which may allow for determination of an inner disc radius ?,
+8) will we be lucky enough to discover planetary transit around one of the young stars?
+
+Among the proposed targets is HL Tau and LkCa 15, famous from their stunning ALMA and high-contrast images, likely revealing effects of disc-planet interactions and forming protoplanet(s), respectively. To get comparison with photometrically best observed so far from space TW Hya, we will likely ask to observe them in a short-cadence mode. Due to obvious spacecraft limitations, the other targets must be observed in a long-cadence mode only. We propose to observe only these stars which are bright enough for Kepler and well-separated to get accurate photometric precision. The only problem is expected with HBC 393, which may be too faint for Kepler. Yet, we propose to make an attempt to observe the star as it is the only FUor available for it in the closest future.
+     Approved Kepler observations of brightest targets, especially CTTS, will be supported by ground-based high-resolution spectroscopic observations to estimate variety of their physical parameters. For this purpose we plan to use Polish access on SALT, SAAO and ESO telescopes.
+
+# Targets requested by this program that have been observed (5)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+246152029, 351.770317, -6.017877, 11.926, GO12082_LC|GO12122_LC|GO12071_LC|GO12123_LC|GO12049_LC
+246240303, 351.373416, -4.232646, 11.05, GO12082_LC|GO12071_LC
+246249956, 355.025407, -4.048684, 9.917, GO12019_LC|GO12082_LC|GO12024_LC|GO12122_LC|GO12071_LC|GO12049_LC|GO12904_LC
+246342010, 350.602879, -2.228129, 11.52, GO12082_LC|GO12018_LC|GO12071_LC
+246432069, 347.21024, 0.014658, 10.299, GO12083_LC|GO12082_LC|GO12024_LC|GO12049_LC

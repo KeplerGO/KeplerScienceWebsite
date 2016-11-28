@@ -1,0 +1,33 @@
+# Summary of K2 Program GO12070
+
+Title: Cepheids throughout the Galaxy
+
+PI: Plachy, Emese (Konkoly Observatory)
+CoIs: Molnar, Laszlo; Szabo, Robert; Smolec, Radoslaw; Moskalik, Pawel A
+
+Cepheids are a diverse family of pulsating yellow supergiants. They are crucial objects for understanding the structure and evolution of stars, and to explore connections between pulsation, mass loss, convection and rotation. Moreover, they are key tools in galactic and extragalactic studies as distance indicators. Still, only a few members of this group have been observed by space missions before K2. We are currently building up the most comprehensive sample of Cepheid light curves with the K2 mission and the upcoming field of views contain many important targets in various directions of the Galaxy. 
+
+Space-based, continuous photometry revealed many puzzling phenomena in these stars. The lone Kepler Cepheid, V1154 Cyg exhibit small-scale irregularities (period jitter) and low-level modulation. Ground-based surveys indicate that first overtone stars are expected to have various low-amplitude additional modes. Hydrodynamical calculations suggest that various dynamical effects and even chaos can occur in the pulsation of type II Cepheids. These effects hold clues to various physical insights, but their observations require high-precision, continuous photometry that only K2 can provide. 
+
+The three campaigns focus on very different Galactic directions:
+
+The bulge
+In Field 11 we identified ~150 targets, most of which are type II Cepheids. 124 candidates were collected from the still unpublished data of the OGLE IV survey. The high-priority targets include rare double- and triple-mode Cepheids, such as V767 Sgr, among others. 15 targets that we also included in our C9 DDT proposal fall into the overlapping region between Campaigns 9 and 11. Given the long pulsation periods of Cepheids, extended observations are highly desired. In addition, two Cepheids are members of globular clusters M9 and NGC 6316.  
+
+The halo
+The direction of Field 12 is not favorable for these stars, but we found 6 targets, of which 3 appear to be anomalous Cepheids. Many aspects of these stars are not well understood, including their formation. 
+
+The outer Milky Way
+In Field 13, towards the anti-center we found 10 targets. The priority target in this campaign is the well-known Cepheid SZ Tau that was already observed by MOST and it is accessible for the BRITE space telescopes as well. The star pulsates in the first overtone, so additional modes and/or dynamical effects are expected. The short MOST data already suggested the presence of some cycle-to-cycle variations. The observations would provide direct comparison of the capabilities of various space missions and form a multi-year data set for this star. 
+ 
+Technical details
+The KASC Working Group 7 has been involved in the Kepler mission from the start and has all the necessary skills to reduce the target pixel files and analyze the data, including the handling of crowded fields. We propose all stars to be observed in long cadence mode. Two stars, BF Oph and SZ Tau are very bright (6.9 and 6.4 mag, respectively) and can likely be recovered from the smear data. However, we request to assign a dedicated pixel mask to SZ Tau, given the importance and unique possibilities this star offers for us. We also note that BF Oph and SZ Tau are bright enough to be included in the Tycho-Gaia Asterometric Solution, expected to be released in 2016.
+
+# Targets requested by this program that have been observed (6)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+246015642, 354.975594, -9.083837, 15.399, GO12070_LC|GO12070_SC
+246104577, 344.895823, -7.03969, 11.372, GO12019_LC|GO12070_LC|GO12050_LC|GO12083_LC|GO12036_LC|GO12024_LC|GO12006_LC|GO12002_LC|GO12122_LC|GO12071_LC|GO12123_LC|GO12049_LC
+246263296, 354.025044, -3.796616, 11.861, GO12070_LC|GO12002_LC|GO12123_LC
+246333644, 350.63794, -2.394481, 17.792, GO12070_LC|GO12070_SC
+246385425, 348.86058, -1.374647, 17.972, GO12070_LC|GO12070_SC
+246395799, 348.481854, -1.123634, 12.265, GO12070_LC|GO12122_LC

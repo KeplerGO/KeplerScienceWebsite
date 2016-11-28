@@ -1,0 +1,33 @@
+# Summary of K2 Program GO12028
+
+Title: The Am stars: peculiarities, pulsations and planets
+
+PI: Smalley, Barry (Keele University)
+CoIs: Holdsworth, Daniel L; Catanzaro, Gianni; Ripepi, Vincenzo; Murphy, Simon James
+
+The metallic-line (Am) stars are a sub-class of A-type stars which exhibit strong lines of transition elements and weakening of Ca and Sc lines compared to the strength of the Balmer lines. The strength of the metal lines is thought to arise from the interplay between gravitational settling and radiative acceleration in an A-type star where the magnetic field is weak or absent. Stars need to be rotating slower than about 120 km/s in order for radiative diffusion to compete with meridional circulation. Most, but not all, Am stars appear to be members of binary systems with periods between 210 days. 
+
+The diffusion scenario makes predictions about pulsational driving in Am stars which are in contradiction to observations. Thanks to the micro-magnitude precision of Kepler and wide sky coverage of the ground-based SuperWASP survey we now know that many, but by no means all, Am stars have low-level pulsations and that even one of them, WASP-33, hosts a transiting planet. This amplitude difference is still to be understood in terms of atomic diffusion reducing pulsation driving for the slowly rotating Am stars. 
+
+Currently there are only three A-type stars known to host transiting short-period hot jupiters (WASP-33, Kepler-13A and HAT-P-57b). Finding additional A-type stars with short-period transiting planetary systems is imperative to furthering our understanding the formation mechanisms around hotter stars. 
+
+Using Kepler and K2, we have a programme to collect a statistically-significant sample of known Am stars, in order to: 
+1. study the interaction between pulsations and radiative diffusion, 
+2. perform a statistical study of the incidence of pulsations and binarity within the Am stars, 
+3. search for additional transiting planetary systems around A-type stars. 
+
+Only 15 Am stars were observed during the Kepler mission, with a further 83 observed during earlier K2 Campaigns. For this proposal we have 52 targets for Campaigns 11 to 13. This will bring the total number Am stars observed with micro-magnitude precision to 150. 
+
+The proposal team are experienced in the reduction of Kepler data using PyKE tools and in the analysis of time-varying photometry. We will conduct in-depth periodogram analyses to search for stellar pulsations and low-level variability as we have previously applied to Kepler data. We will complement the photometric analyses with ground-based spectroscopy as necessary. 
+
+The K2 mission provides a unique opportunity to investigate the photometric variability of Am stars at micro-magnitude precision. This will provide new insights into the competition between stellar pulsations and element separation processes, as well as the nature of the stellar (and sub-stellar) companions to these chemically peculiar A-type stars.
+
+# Targets requested by this program that have been observed (7)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+245910293, 352.491365, -12.876742, 8.528, GO12019_LC|GO12052_LC|GO12028_LC|GO12122_LC
+245932815, 353.800157, -11.577651, 8.163, GO12019_LC|GO12052_LC|GO12028_LC|GO12024_LC|GO12002_LC|GO12122_LC
+245945743, 352.984564, -10.994583, 8.59, GO12019_LC|GO12028_LC|GO12048_LC
+245984590, 353.064264, -9.883836, 9.849, GO12019_LC|GO12052_LC|GO12028_LC|GO12122_LC
+245988505, 348.276681, -9.778854, 10.163, GO12019_LC|GO12052_LC|GO12028_LC|GO12024_LC|GO12122_LC
+246022726, 348.364734, -8.908094, 7.829, GO12019_LC|GO12052_LC|GO12036_LC|GO12028_LC|GO12002_LC|GO12122_LC
+246321394, 348.526585, -2.634984, 8.309, GO12052_LC|GO12028_LC|GO12002_LC|GO12122_LC|GO12071_LC

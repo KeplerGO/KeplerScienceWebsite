@@ -1,0 +1,19 @@
+# Summary of K2 Program GO12077
+
+Title: PICK2: Planets In Clusters with K2
+
+PI: Endl, Michael (McDonald Observatory)
+CoIs: Hatzes, Artie; Rauer, Heike; Gandolfi, Davide; Cabrera, Juan; Cochran, William D.; Lee, Byeong-Cheol
+
+o) Objectives:
+Stellar clusters provide a homogeneous sample of stars in which the major independent variable is the stellar mass. The different ages of the clusters will help us to understand the early dynamical evolution of planetary systems. We have assembled a large, diverse and highly experienced international team. The PICK2 project has already collected K2 data on the Hyades, Pleiades, Praesepe and Ruprecht 147 clusters. In this cycle we will be able to include three more distant open clusters (NGC 1674, NGC 1750, and NGC 1758) in our search and return to a different - and previously unexplored - part of the Hyades in K2 Campaign 13.  
+
+o) Methods & techniques:
+We will search the K2 light curves for planetary transit signatures. We will conduct extensive followup observations including ground-based photometry, high precision RV measurement, and high resolution optical and near-IR spectroscopy in order to confirm the planetary candidates. We will perform detailed spectral analysis in order to derive stellar parameters and chemical abundances, and will perform Doppler tomographic analysis of rapidly rotating planetary candidates. Our team has just confirmed two new K2 planets from field 4 (Johnson et al. 2016, ApJ, submitted)
+
+o) Perceived significance:
+These results will provide important new constraints on the physics of planetary system formation and early dynamical evolution. We will address the Kepler mission goals of obtaining an inventory of the diversity of planetary systems around sun-like stars. We will also obtain data very complementary to the goals of the TESS program, and help guide planetary system science for JWST studies.
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+245919787, 353.128591, -12.264303, 10.329, GO12103_LC|GO12077_LC|GO12024_LC|GO12018_LC|GO12123_LC|GO12010_LC|GO12904_LC|GO12103_SC

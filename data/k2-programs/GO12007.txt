@@ -1,0 +1,46 @@
+# Summary of K2 Program GO12007
+
+Title: Search for rotational modulation in precise photometry of white dwarf stars
+
+PI: Kawaler, Steven (Iowa State University)
+CoIs: 
+
+This program will use very sensitive photometric observations of known white dwarfs by K2 during Campaigns 12, and 13 to search for rotational modulation of the flux from white dwarf stars.  These photometric variations can be caused by processes such as magnetic phenomena (such as starspots and plages) or large-scale granulation caused by convection. On the expected white dwarf rotation periods (about 1 day, generalizing from nonradially pulsating white dwarfs), the low amplitude of the expected variations renders them extremely difficult to detect using ground-based photometry. Measurement of rotation modulation (or even upper limits to photometric amplitude variations) will further exploit those data to teach us about magnetic fields and other processes in these stars that are otherwise inaccessible observationally.  
+
+These new targets will build on results from observations in earlier K2 campaigns, allowing a statistically meaningful assessment of white dwarf rotation as an indicator of angular momentum transport during earlier phases of evolution.
+
+In the nonradially pulsating white dwarfs, we can independently measure the rotation rate, providing a test of asteroseismic rotation periods.
+
+# Targets requested by this program that have been observed (31)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+206437239, 343.947637, -6.014018, 15.126, GO12037_LC|GO12027_LC|GO12007_LC|GO12040_LC|GO12037_SC|GO12040_SC
+245955120, 354.425848, -10.695595, 17.376, GO12027_LC|GO12007_LC|GO12040_LC
+245970451, 356.300941, -10.267382, 17.813, GO12027_LC|GO12007_LC|GO12040_LC
+245988152, 355.492701, -9.787958, 17.726, GO12027_LC|GO12002_LC|GO12007_LC
+245995295, 351.476502, -9.606235, 17.806, GO12037_LC|GO12027_LC|GO12007_LC|GO12040_LC|GO12037_SC
+246002141, 351.03554, -9.430223, 17.712, GO12037_LC|GO12027_LC|GO12007_LC|GO12040_LC|GO12037_SC
+246032115, 345.729261, -8.668247, 16.763, GO12027_LC|GO12007_LC|GO12040_LC
+246032223, 357.041717, -8.665325, 17.268, GO12002_LC|GO12007_LC|GO12040_LC
+246049962, 346.095891, -8.256515, 18.034, GO12027_LC|GO12007_LC|GO12040_LC
+246057757, 358.36573, -8.07757, 18.101, GO12037_LC|GO12027_LC|GO12007_LC|GO12040_LC|GO12903_LC
+246074853, 354.711392, -7.688892, 13.34, GO12037_LC|GO12027_LC|GO12039_LC|GO12007_LC|GO12040_LC|GO12902_LC|GO12903_LC|GO12037_SC|GO12007_SC|GO12040_SC
+246103334, 345.148469, -7.069209, 9.588, GO12019_LC|GO12052_LC|GO12037_LC|GO12002_LC|GO12007_LC|GO12040_LC|GO12904_LC|GO12037_SC
+246105313, 346.079541, -7.024085, 17.121, GO12037_LC|GO12027_LC|GO12007_LC|GO12014_LC|GO12037_SC
+246127340, 348.604902, -6.546574, 15.316, GO12037_LC|GO12039_LC|GO12007_LC|GO12037_SC
+246142860, 349.789873, -6.213341, 17.826, GO12037_LC|GO12039_LC|GO12007_LC|GO12040_LC|GO12037_SC
+246215654, 353.974574, -4.70393, 15.779, GO12037_LC|GO12027_LC|GO12007_LC|GO12040_LC|GO12903_LC|GO12037_SC|GO12040_SC
+246308959, 358.134604, -2.885903, 17.048, GO12027_LC|GO12007_LC|GO12040_LC|GO12040_SC
+246414917, 347.33734, -0.534031, 18.476, GO12007_LC
+246485489, 350.994526, 1.67408, 14.122, GO12027_LC|GO12044_LC|GO12007_LC|GO12040_LC
+251455484, , , , GO12037_LC|GO12027_LC|GO12007_LC|GO12040_LC|GO12037_SC|GO12007_SC|GO12040_SC
+251455486, , , , GO12037_LC|GO12027_LC|GO12007_LC|GO12040_LC|GO12037_SC
+251455487, , , , GO12037_LC|GO12027_LC|GO12007_LC|GO12040_LC|GO12040_SC
+251455488, , , , GO12037_LC|GO12027_LC|GO12007_LC|GO12040_LC
+251455489, , , , GO12037_LC|GO12027_LC|GO12007_LC|GO12040_LC|GO12037_SC
+251455490, , , , GO12027_LC|GO12007_LC|GO12040_LC
+251455491, , , , GO12037_LC|GO12027_LC|GO12007_LC|GO12040_LC|GO12037_SC
+251455492, , , , GO12037_LC|GO12007_LC|GO12040_LC|GO12037_SC
+251455493, , , , GO12037_LC|GO12027_LC|GO12007_LC|GO12040_LC|GO12037_SC
+251455494, , , , GO12037_LC|GO12027_LC|GO12007_LC|GO12040_LC
+251455495, , , , GO12037_LC|GO12027_LC|GO12007_LC|GO12040_LC
+251455496, , , , GO12037_LC|GO12027_LC|GO12007_LC|GO12040_LC

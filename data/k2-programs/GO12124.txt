@@ -1,0 +1,26 @@
+# Summary of K2 Program GO12124
+
+Title: Short-cadence lightcurves of WASP-28 and WASP-151, a transiting hot Jupiter and a transiting hot Saturn
+
+PI: Anderson, David Robert (Keele University)
+CoIs: Triaud, Amaury; Brown, David J A; Hellier, Coel; Queloz, Didier Patrick; Cameron, Andrew Collier; hebrard, guillaume p; Pollacco, Don L; Gillon, Michael
+
+Title: Short-cadence lightcurves of WASP-28 and WASP-151, a transiting hot Jupiter and a transiting hot Saturn
+
+Proposal summary:
+For planets that transit their host stars, we can use spectroscopy and photometry to measure planetary mass and radius. This leads to constraints on the planets' bulk compositions, internal structures, and formation and evolution histories. We discovered two transiting planet systems, WASP-28 and WASP-151, which will be on silicon during campaign 12. These systems are good targets for further study due to the moderate brightness of the host stars. We propose to observe both systems at short cadence (SC). From simulated lightcurves of each system, we predict the radii of both the star and the planet to be better determined by a factor of ~2 with SC data as compared to long-cadence data. 
+
+We will produce high-precision lightcurves of each target star using our own proven software pipeline (Mocnik et al. 2015), which is effective in removing systematics from K2 data. We will combine the resulting lightcurves with in-hand transit photometry and radial-velocity data in a full analysis of each system to precisely determine their parameters (e.g. Anderson et al. 2015). 
+
+WASP-28b is an inflated, Jupiter-mass planet (0.91 MJup, 1.21 RJup) in a 3.4-day orbit around a V = 12, F8 star (Anderson et al. 2015). By taking spectra through a transit, we measured the angle between the planet's orbital axis and the star's spin axis to be small (a sky projected spin-orbit angle = 8 +/- 18 deg). With such spin-orbit angle measurements for an ensemble of systems, we may discern the pathways through which hot Jupiters migrated inwards to their present orbits. During a K2 engineering test in January of 2014, WASP-28 was observed for 2.6 days in SC mode. Whilst the resulting lightcurve proved a useful early science demonstration of the fledgling K2 mission (Howell et al. 2014), a SC lightcurve with a 75-day baseline would enable us to determine the system parameters to high precision. 
+
+We recently confirmed WASP-151b to be a hot Saturn (0.3 Mjup, 1.2 Rjup) in a 4.5-day orbit around a V = 13, G4 star. We can infer the composition of a planet's atmosphere by measuring the wavelengths of the light preferentially blocked and scattered during transit (transmission spectroscopy). Atmospheric composition is a diagnostic of planetary formation and evolution and it can combine with mass and radius measurements to break degeneracies when inferring bulk composition and internal structure. WASP-151 is a good transmission target as the predicted change in transit depth due to an annulus with a thickness of one atmospheric scale-height is large (~2%).
+
+Data from K2's Field 3 revealed a Neptune and a super-Earth in the WASP-47 system (Becker et al. 2015), which we had already shown to contain a Jupiter. WASP-47b is currently the only hot Jupiter known to have close companions. We must search other systems if we are to measure the occurrence rate of hot Jupiters with close companions, which will be useful in understanding how such systems form. To perform an effective search for companions of WASP-28b and WASP-151b we require SC data. 
+
+The stellar temperature of WASP-151 (5700 K) suggests the possibility of starspots. From an analysis of the times at which the planet transited starspots, which would require SC data to resolve and thus model, we may then be able to measure the spin-orbit angle of the WASP-151 system (Sanchis-Ojeda et al. 2011; Nutzman et al. 2011).
+
+# Targets requested by this program that have been observed (2)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+246375295, 353.616168, -1.580036, 11.933, GO12085_LC|GO12062_LC|GO12099_LC|GO12122_LC|GO12124_LC|GO12071_LC|GO12902_LC|GO12903_LC|GO12062_SC|GO12099_SC|GO12124_SC
+246441449, 349.063445, 0.306743, 12.67, GO12122_LC|GO12124_LC|GO12071_LC|GO12124_SC
