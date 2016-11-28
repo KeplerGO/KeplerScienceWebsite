@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2016-11-18" />
+    <meta name="dc.date.modified" content="2016-11-28" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -377,7 +377,8 @@ in place of these raw files for scientific publications. The raw data will
 continue to be available at the MAST until Jan 1, 2017, three months after 
 the delivery of Data Release 12, after which point it will no longer be
 available.</p>
-<p><strong>Type-1 vs Type-2 TPFs</strong></p>
+<p><a name="type1v2"></a>
+<strong>Type-1 vs Type-2 TPFs</strong></p>
 <p>In normal K2 processing, later stages of the pipeline are used to reconstruct
 the pointing history and associate thruster firings with specific long- and 
 short-cadence numbers. These products are then included in the exported target
@@ -1108,7 +1109,7 @@ The peaks of the roll motion in the background pixels were often incorrectly ide
 <p>The Trans-Neptunian Object (225088) 2007 OR10 was observed with 2 masks and given custom aperture numbers 200004466 and 200004467. This target was observed as part of Guest Observer Program GO3053 (PI:Szabo).</p>
 <p><br>
 <strong><em>Highlights of Pipeline Improvements</em></strong></br></p>
-<p>Campaign 3 (Data Release 5) data were the first K2 data processed with the SOC 9.3 pipeline. With this data release comes the higher-level data products. A detailed list of the pipeline developments that accompany this data release is listed on the <a href="/K2/pipelineReleaseNotes.shtml#dr5">pipeline release page</a>. A few highlights are listed here:</p>
+<p>Campaign 3 (Data Release 5) data were the first K2 data processed with the SOC 9.3 pipeline. With this data release comes the higher-level data products. A detailed list of the pipeline developments that accompany this data release is listed on the <a href="k2-pipeline-release-notes.html#data-release-5">pipeline release page</a>. A few highlights are listed here:</p>
 <ul>
 <li>Quality flags now indicate which cadences were obtained during thruster firings.</li>
 <li>Background pixels were observerd and used to model the background level across the field of view. The calibrated pixels available in the target pixel files now have this background level removed.</li>
@@ -1286,7 +1287,6 @@ Note, in Data Release 4, because of an operator error, the tweak is marked on th
 </ul>
 <hr>
 <h1 id="k2-campaign-1">K2 Campaign 1</h1>
-<p>Campaign 1 (C1) is the first full length observing campaign for K2 where the targets were selected by peer review.</p>
 <h2>At a glance</h2>
 <div class="row">
 <div class="col-lg-5">
@@ -1295,6 +1295,12 @@ Note, in Data Release 4, because of an operator error, the tweak is marked on th
 <li>RA: 173.939610 degrees</li>
 <li>Dec: 1.4172989 degrees</li>
 <li>Roll: 157.641206 degrees</li>
+</ul>
+<b><i>C1 Targets</i></b>
+<ul>
+<li>  21,732 in long cadence (LC)</li>
+<li>  56 in short cadence (SC)</li>
+<li>  1 custom target was selected in C1: TNO 2002 GV31, which was assigned EPIC ID 200001049</li>
 </ul>
 <b><i>Full Frame Images (FFI)</i></b>
 <ul>
@@ -1327,19 +1333,73 @@ Note, in Data Release 4, because of an operator error, the tweak is marked on th
 </div>
 <h2>Features and events</h2>
 <p><br>
+<strong><em>K2-C1 Operations</em></strong></br></p>
+<p>Campaign 1 (C1) is the first full length observing campaign for K2 where the targets were 
+selected by peer review. The project was uncertain of the pointing precision and compression
+efficiency that could be achieved in early K2 operations and took steps to miminimize the risk
+of losing science data. In order to 
+allow for the potential of coarse point operations, all target apertures included six halo rings. 
+The oversized apertures and uncertain compression performance led the project to 
+include a mid-campaign break to downlink data.</p>
+<p><br>
 <strong><em>Attitude Tweak</em></strong></br></p>
 <p>The attitude of the spacecraft was changed by a few pixels at cadence 91433 to better position the targets in the center of their apertures. All cadences in C1 prior to this event have the first bit in the QUALITY column set (integer value = 1) to indicate that they were taken prior to the tweak.</p>
 <p><br>
 <strong><em>Trans-Neptunian Object</em></strong></br></p>
-<p>A long-cadence custom aperture was constructed in order to collect data on trans-Neptunian Object 2002 GV31. Note, this target is very faint (V=22) and falls in its custom aperture pixels for only about 10 days. This custom aperture can be found by searching the MAST for the K2 ID numbered 200001049.</p>
+<p>A long-cadence custom aperture was constructed in order to collect data on trans-Neptunian Object 2002 GV31. Note, this target is very faint (V=22) and falls in its 23x22 pixel custom aperture for only about 10 days. This custom aperture can be found by searching the MAST for the K2 ID numbered 200001049.</p>
 <p><br>
 <strong><em>EPIC Catalog Assignment</em></strong></br></p>
 <p>For this Campaign, a number of targets were proposed without EPIC ID numbers. If a target was observed, it was either 1) given an EPIC ID number from the regular catalog if that target matched a target in the catalog, or 2) assigned a new EPIC ID. We created EPIC ID numbers for 28 targets, ranging from 210282464 to 210282491. Regular EPIC targets in C1 have catalog ID numbers ranging from 201000001 to 202059065.</p>
+<p><br>
+<strong><em>Light Curve Quality</em></strong></br></p>
+<p>C1 long cadence light curves have been delivered with <a href="k2-pipeline-release-notes.html#data-release-14">Data Release 14</a>. 
+The dominant noise contributors in the C1 data are the saw-tooth roll signal inherent in
+K2 data and an increased (over Kepler and later K2 campaigns) cross-boresight pointing motion 
+due to the lower attitude determination and control system (ADCS) bandwidth used in K2 campaigns
+C0 and C1. The low ADCS bandwidth was particularly 
+problematic for short cadence data, as it meant that the spacecraft pointing errors are on the 
+same time scale as the SC exposure, so that the pointing induced noise is not uncorrelated from
+cadence to cadence. See notes under <a href="#k2-campaign-0">C0</a> for details.</p>
+<p>Analysis of the light curve quality reveals that long cadence CDPP values for dwarf stars are 
+in family with the values from subsequent campaigns. 
+The magnitude dependence of CDPP and its distribution over the focal plane are shown below. 
+Other CDPP benchmarks can be found in the 
+<a href="images/release-notes/c1/K2-C1_CDPP_Summary_16102111.txt">table giving 6.5-hr CDPP as a function of magnitude</a>.
+<br>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C1-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i> <br/>
+</div>
+<a href="images/release-notes/c1/K2-C1_logg_CDPP_vs_model.png">
+<img alt="CDPP measured for all targets as a function of Kepler magnitude." class="img-responsive" src="images/release-notes/c1/K2-C1_logg_CDPP_vs_model.png">
+</img></a>
+</div>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C1-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
+<a href="images/release-notes/c1/K2-C1_dwarf__CDPP_by_mod_out.jpg">
+<img alt="CDPP per channel for 12th magnitude dwarfs" class="img-responsive" src="images/release-notes/c1/K2-C1_dwarf__CDPP_by_mod_out.jpg">
+</img></a> <br/>
+</div>
+</div></br></p>
 <h2>Release History</h2>
-<p>The following is the data release history for this campaign. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.</p>
+<p>Following is the data release history for this campaign. Details on the features of the pipeline software used to reduce and export these data can be found under the pipeline release notes.  There will be a new entry each time the data is released by the mission.</p>
 <ul>
+<li><a href="k2-pipeline-release-notes.html#data-release-14">Data Release 14</a></li>
 <li><a href="k2-pipeline-release-notes.html#data-release-3">Data Release 3</a></li>
 </ul>
+<p><br>
+<strong><em>Notes Specific to Data Release 14</em></strong></br></p>
+<p>Data Release 14 includes long cadence light curves for C1 targets and updates the exported data
+to include pipeline derived target coordinates and thruster firing flags. 
+The C1 FITS target pixel files are also updated to 
+Type-2 files. See <a href="#type1v2">Type-1 vs Type-2 TPFs</a> above and notes under 
+<a href="k2-pipeline-release-notes.html#data-release-5">Data Release 5</a> for more details on Type-2 TPFs. 
+This release also corrects the short cadence collateral bug described in the 
+<a href="http://archive.stsci.edu/kepler/KSCI-19080-002.pdf">Global Erratum for Kepler Q0-Q17 &amp; K2 C0-C5 Short-Cadence Data, KSCI-19080</a>. 
+This release replaces short cadence data previously delivered to the archive in Data Release 3.
+Specific targets known to have their calibration improved by Data Release 14 are identifed 
+in the <a href="http://archive.stsci.edu/missions/k2/catalogs/K2_scrambled_short_cadence_collateral_target_list.csv">list of affected targets at the MAST</a>.</p>
 <hr>
 <h1 id="k2-campaign-0">K2 Campaign 0</h1>
 <p>Campaign 0 (C0) was implemented as a full-length engineering test to prove that K2 was a viable mission. It observed sources "at risk" from a community-provided target list.</p>
