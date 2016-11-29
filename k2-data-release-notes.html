@@ -679,7 +679,11 @@ The peaks of the roll motion in the background pixels were often incorrectly ide
 </div>
 <div class="thumbnail" style="width: 80%;">
 <div class="caption">
-<i>Figure C7-CDPPFocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
+<i>Figure C7-CDPPFocalPlane: 6.5-hr CDPP measured as a function of position on 
+the focal plane for 12th and 14th magnitude dwarf stars. The photometric precision 
+is generally better near the center of the focal plane where the variations in roll 
+angle produce less pixel motion. All cadences coincident with a definite thruster 
+firing are gapped.</i>
 <a href="images/release-notes/c7/C7_dwarf__CDPP_by_mod_out.png">
 <img alt="CDPP per channel for 12th magnitude dwarfs" class="img-responsive" src="images/release-notes/c7/C7_dwarf__CDPP_by_mod_out.png">
 </img></a> <br/>
@@ -1333,32 +1337,52 @@ Note, in Data Release 4, because of an operator error, the tweak is marked on th
 </div>
 <h2>Features and events</h2>
 <p><br>
-<strong><em>K2-C1 Operations</em></strong></br></p>
+<strong><em>Operational Considerations</em></strong></br></p>
 <p>Campaign 1 (C1) is the first full length observing campaign for K2 where the targets were 
 selected by peer review. The project was uncertain of the pointing precision and compression
 efficiency that could be achieved in early K2 operations and took steps to miminimize the risk
 of losing science data. In order to 
 allow for the potential of coarse point operations, all target apertures included six halo rings. 
 The oversized apertures and uncertain compression performance led the project to 
-include a mid-campaign break to downlink data.</p>
+include a mid-campaign break lasting 2.9 days in order to downlink data. </p>
 <p><br>
 <strong><em>Attitude Tweak</em></strong></br></p>
-<p>The attitude of the spacecraft was changed by a few pixels at cadence 91433 to better position the targets in the center of their apertures. All cadences in C1 prior to this event have the first bit in the QUALITY column set (integer value = 1) to indicate that they were taken prior to the tweak.</p>
+<p>The attitude of the spacecraft was changed by 3.3 pixels at cadence 91433 to better 
+position the targets in the center of their apertures. All cadences in the first 
+2 days of C1 prior to this event have the first bit in the QUALITY column set 
+(integer value = 1) to indicate that they were taken prior to the tweak. </p>
+<p>The pipeline generated light curves use PA-COA to determine the optimal photometric 
+aperture that maximizes the signal-to-noise ratio for each target over the full
+campaign. The static optimal aperture is determined from a robust average of
+the achieved pointing, so relatively short segments of off-nominal pointing 
+tend to be excluded from the aperture calculation. In the case of C1, the optimal 
+apertures generally do not contain the target star in the pre-attitude tweak 
+cadences, resulting in poor or incorrect photometry for the first two days of 
+data. Because of the large C1 apertures, the TPFs do fully contain the target in
+the full set of pixels collected from the spacecraft for the pre-tweak cadences.</p>
 <p><br>
 <strong><em>Trans-Neptunian Object</em></strong></br></p>
-<p>A long-cadence custom aperture was constructed in order to collect data on trans-Neptunian Object 2002 GV31. Note, this target is very faint (V=22) and falls in its 23x22 pixel custom aperture for only about 10 days. This custom aperture can be found by searching the MAST for the K2 ID numbered 200001049.</p>
+<p>A long-cadence custom aperture was constructed in order to collect data on 
+trans-Neptunian Object 2002 GV31. Note, this target is very faint (V=22) and 
+falls in its 23x22 pixel custom aperture for only about 10 days. This custom 
+aperture can be found by searching the MAST for the EPIC ID 200001049.</p>
 <p><br>
 <strong><em>EPIC Catalog Assignment</em></strong></br></p>
-<p>For this Campaign, a number of targets were proposed without EPIC ID numbers. If a target was observed, it was either 1) given an EPIC ID number from the regular catalog if that target matched a target in the catalog, or 2) assigned a new EPIC ID. We created EPIC ID numbers for 28 targets, ranging from 210282464 to 210282491. Regular EPIC targets in C1 have catalog ID numbers ranging from 201000001 to 202059065.</p>
+<p>For this Campaign, a number of targets were proposed without EPIC IDs. 
+If a target was observed, it was either 1) given an EPIC ID from the regular 
+catalog if that target matched a target in the catalog, or 
+2) assigned a new EPIC ID. We created EPIC IDs for 28 targets, ranging from 
+210282464 to 210282491. Regular EPIC targets in C1 have catalog IDs ranging 
+from 201000001 to 202059065.</p>
 <p><br>
 <strong><em>Light Curve Quality</em></strong></br></p>
 <p>C1 long cadence light curves have been delivered with <a href="k2-pipeline-release-notes.html#data-release-14">Data Release 14</a>. 
 The dominant noise contributors in the C1 data are the saw-tooth roll signal inherent in
 K2 data and an increased (over Kepler and later K2 campaigns) cross-boresight pointing motion 
-due to the lower attitude determination and control system (ADCS) bandwidth used in K2 campaigns
-C0 and C1. The low ADCS bandwidth was particularly 
+due to the lower bandwidth for the attitude determination and control system (ADCS) 
+used in K2 campaigns C0, C1, and C2. The low ADCS bandwidth was particularly 
 problematic for short cadence data, as it meant that the spacecraft pointing errors are on the 
-same time scale as the SC exposure, so that the pointing induced noise is not uncorrelated from
+same time scale as the SC exposure, so that the pointing induced noise is correlated from
 cadence to cadence. See notes under <a href="#k2-campaign-0">C0</a> for details.</p>
 <p>Analysis of the light curve quality reveals that long cadence CDPP values for dwarf stars are 
 in family with the values from subsequent campaigns. 
@@ -1376,7 +1400,7 @@ Other CDPP benchmarks can be found in the
 </div>
 <div class="thumbnail" style="width: 90%;">
 <div class="caption">
-<i>Figure C1-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
+<i>Figure C1-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
 <a href="images/release-notes/c1/K2-C1_dwarf__CDPP_by_mod_out.jpg">
 <img alt="CDPP per channel for 12th magnitude dwarfs" class="img-responsive" src="images/release-notes/c1/K2-C1_dwarf__CDPP_by_mod_out.jpg">
 </img></a> <br/>
@@ -1391,7 +1415,7 @@ Other CDPP benchmarks can be found in the
 <p><br>
 <strong><em>Notes Specific to Data Release 14</em></strong></br></p>
 <p>Data Release 14 includes long cadence light curves for C1 targets and updates the exported data
-to include pipeline derived target coordinates and thruster firing flags. 
+products to include pipeline derived target coordinates and thruster firing flags. 
 The C1 FITS target pixel files are also updated to 
 Type-2 files. See <a href="#type1v2">Type-1 vs Type-2 TPFs</a> above and notes under 
 <a href="k2-pipeline-release-notes.html#data-release-5">Data Release 5</a> for more details on Type-2 TPFs. 
