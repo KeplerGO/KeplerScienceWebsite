@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2016-11-28" />
+    <meta name="dc.date.modified" content="2016-11-29" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -1347,20 +1347,37 @@ The oversized apertures and uncertain compression performance led the project to
 include a mid-campaign break lasting 2.9 days in order to downlink data. </p>
 <p><br>
 <strong><em>Attitude Tweak</em></strong></br></p>
-<p>The attitude of the spacecraft was changed by 3.3 pixels at cadence 91433 to better 
-position the targets in the center of their apertures. All cadences in the first 
+<p>The attitude of the spacecraft was tweaked by 3.3 pixels at cadence 91433 to better 
+position the targets in the centers of their apertures. All cadences in the first 
 2 days of C1 prior to this event have the first bit in the QUALITY column set 
-(integer value = 1) to indicate that they were taken prior to the tweak. </p>
-<p>The pipeline generated light curves use PA-COA to determine the optimal photometric 
+(integer value = 1) to indicate that they were taken prior to the tweak.</p>
+<p>When creating light curves, the pipeline uses PA-COA to determine the optimal photometric 
 aperture that maximizes the signal-to-noise ratio for each target over the full
-campaign. The static optimal aperture is determined from a robust average of
+campaign. This static optimal aperture is determined from a robust average of
 the achieved pointing, so relatively short segments of off-nominal pointing 
 tend to be excluded from the aperture calculation. In the case of C1, the optimal 
 apertures generally do not contain the target star in the pre-attitude tweak 
-cadences, resulting in poor or incorrect photometry for the first two days of 
-data. Because of the large C1 apertures, the TPFs do fully contain the target in
-the full set of pixels collected from the spacecraft, enabling users to recover
-photometry for the pre-tweak cadences.</p>
+cadences. Accordingly, the SAP-Flux and PDC-Flux values found in the light curve
+files are gapped for the pre-tweak cadences (where the QUALITY flag=1). In
+addition, neither background flux (FLUX_BKG, FLUX_BKG_ERR) nor motion 
+polynomial values (POS_CORR1, POS_CORR2) were computed for the 
+pre-tweak cadences.</p>
+<p>Because of the large C1 apertures, the TPFs do fully contain the target in
+the full set of pixels collected from the spacecraft. However, for the
+pre-tweak cadences incorrect
+background flux values were subtracted from the TPF pixel fluxes given 
+in the FLUX column of the TPF. Users wishing to recover photometry from these 
+cadences should add the per-cadence pixel background values (TPF column FLUX_BKG)
+back into the pixel flux values and then compute their own background levels. 
+The position offset columns (POS_CORR1, POS_CORR2) should likewise be ignored
+for these candences. </p>
+<p>Finally, in the pre-tweak cadences a small number of targets may have incorrect 
+smear calibrations due to bright saturating stars spilling charge into the 
+detector smear regions. Such affects are flagged and excluded from smear calibration
+for the post-tweak cadences, but the pre-tweak positions of the bright stars 
+were not used to flag bad smear corrections. Only about 0.2% of the 
+focal plane columns were affected this way, so the number of potentially 
+affected targets is small.</p>
 <p><br>
 <strong><em>Trans-Neptunian Object</em></strong></br></p>
 <p>A long-cadence custom aperture was constructed in order to collect data on 
@@ -1373,7 +1390,7 @@ aperture can be found by searching the MAST for EPIC ID 200001049.</p>
 If a target was observed, it was either 1) given an EPIC ID from the regular 
 catalog if that target matched a target in the catalog, or 
 2) assigned a new EPIC ID. We created EPIC IDs for 28 targets, ranging from 
-210282464 to 210282491. Regular EPIC targets in C1 have catalog IDs ranging 
+210282464 to 210282491. The remaining C1 targets have EPIC IDs ranging 
 from 201000001 to 202059065.</p>
 <p><br>
 <strong><em>Light Curve Quality</em></strong></br></p>
@@ -1408,7 +1425,7 @@ Other CDPP benchmarks can be found in the
 </div>
 </div></br></p>
 <h2>Release History</h2>
-<p>Following is the data release history for this campaign. Details on the features of the pipeline software used to reduce and export these data can be found under the pipeline release notes.  There will be a new entry each time the data is released by the mission.</p>
+<p>Data releases used for this campaign are given below. Details on the features of the pipeline software used to reduce and export these data can be found under the pipeline release notes.  There will be a new entry each time the data is released by the mission.</p>
 <ul>
 <li><a href="k2-pipeline-release-notes.html#data-release-14">Data Release 14</a></li>
 <li><a href="k2-pipeline-release-notes.html#data-release-3">Data Release 3</a></li>
@@ -1422,8 +1439,8 @@ Type-2 files. See <a href="#type1v2">Type-1 vs Type-2 TPFs</a> above and notes u
 <a href="k2-pipeline-release-notes.html#data-release-5">Data Release 5</a> for more details on Type-2 TPFs. 
 This release also corrects the short cadence collateral bug described in the 
 <a href="http://archive.stsci.edu/kepler/KSCI-19080-002.pdf">Global Erratum for Kepler Q0-Q17 &amp; K2 C0-C5 Short-Cadence Data, KSCI-19080</a>. 
-This release replaces short cadence data previously delivered to the archive in Data Release 3.
-Specific targets known to have their calibration improved by Data Release 14 are identifed 
+This release replaces the short cadence data previously delivered to the archive in Data Release 3.
+Specific targets known to have their SC calibration improved by Data Release 14 are identifed 
 in the <a href="http://archive.stsci.edu/missions/k2/catalogs/K2_scrambled_short_cadence_collateral_target_list.csv">list of affected targets at the MAST</a>.</p>
 <hr>
 <h1 id="k2-campaign-0">K2 Campaign 0</h1>
