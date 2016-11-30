@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2016-11-28" />
+    <meta name="dc.date.modified" content="2016-11-29" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -140,6 +140,21 @@ in August 2015, using pelican-bootstrap and flatly.
 <p>Below are notes on the features of the software used to process the K2 data. Any changes to the pipeline that directly impact the data quality or format are listed for each data release. Any change impacts all subsequent data releases unless stated otherwise.</p>
 <p>For more information about the Kepler pipeline see the Kepler manuals: <a href="http://archive.stsci.edu/kepler/manuals/KSCI-19081-001_Data_Processing_Handbook.pdf">Data Processing Handbook</a> and <a href="http://archive.stsci.edu/kepler/manuals/archive_manual.pdf">Archive Manual.</a></p>
 <p>Information about each specific campaign can be found in the links associated with each data release. </p>
+<h3 id="data-release-14">Data Release 14</h3>
+<ul>
+<li>December 2016</li>
+<li>SOC 9.3</li>
+<li>Campaigns: <a href="k2-data-release-notes.html#k2-campaign-1">C1</a></li>
+</ul>
+<p>This is a re-delivery of C1, including the first delivery of C1 long cadence light curve files. 
+No other features of the the data processing have changed. See below for previous updates to the K2 pipeline.</p>
+<h3 id="data-release-13">Data Release 13</h3>
+<ul>
+<li>pending</li>
+<li>SOC 9.3</li>
+<li>Campaigns: C2</li>
+</ul>
+<p>The updated release of C2 is pending. </p>
 <h3 id="data-release-12">Data Release 12</h3>
 <ul>
 <li>September 2016</li>
@@ -202,17 +217,17 @@ in August 2015, using pelican-bootstrap and flatly.
 <ul>
 <li>September 2015</li>
 <li>SOC 9.3</li>
-<li>Campaigns: <a href="k2-data-release-notes.html#k2-campaign-4">C4</a></li></ul></hr>
-
+<li>Campaigns: <a href="k2-data-release-notes.html#k2-campaign-4">C4</a></li>
+</ul>
 <p>This is the first delivery of C4. No features of the files have changed. For further information about the content of this delivery see the previous Release Notes.</p>
 <hr>
 <h3 id="data-release-5">Data Release 5</h3>
 <ul>
 <li>July 2015</li>
 <li>SOC 9.3 </li>
-<li>Campaigns: <a href="C3drn.shtml">C3</a></li></ul></hr>
-
-<p>This is the first delivery of C3. In addition to the FFIs and the target pixel files, the project is delivering long cadence light curves, background pixels and collateral data.</p>
+<li>Campaigns: <a href="k2-data-release-notes.html#k2-campaign-3">C3</a></li>
+</ul>
+<p>This is the first delivery of C3. In addition to the FFIs and the target pixel files, the project is delivering long cadence light curves, background pixels and collateral data.</p></hr></hr>
 <p><strong><em>PA</em></strong></p>
 <p>The method used to generate optimal apertures was improved for the SOC 9.3 pipeline. It now includes a data driven approach that uses the actual mask scene data to calculate the pixel noise in the SNR calculation. It also optimizes apertures based on CDPP. We are finding a significant improvement in CDPP for many targets.  As with Kepler, the pixels used to create the light curve seen in the SAP_FLUX data column are shown in the APERTURE extension of the exported light curve and target pixel files.  </p>
 <p>PA fits motion polynomials (2D polynomial models mapping celestial coordinates to pixel coordinates) to PRF-fitted centroids of bright, well-isolated targets on each channel. We have found the PRF-centroids to be reliable for both Kepler and K2, so the residual errors in the models provide a measure of quality. The median model residual over all targets and cadences across the entire FOV was 0.047 pixels for Kepler Q14 (processed with SOC 9.3) and 0.070 pixels for C3. The relative motion of the star, evaluated for each star and cadence, is available in the POS_CORR columns of the light curve and target pixel files.</p>
@@ -239,7 +254,7 @@ in August 2015, using pelican-bootstrap and flatly.
 <ul>
 <li>March 2015</li>
 <li>SOC 9.2 </li>
-<li>Campaigns: <a href="k2-data-release-notes.html#k2-campaign-1">C2</a></li>
+<li>Campaigns: <a href="k2-data-release-notes.html#k2-campaign-2">C2</a></li>
 </ul>
 <p>This is the first delivery of C2.  </p>
 <p>The algorithm used by the CAL module to propagate the errors on the flux was turned off to expedite processing. Consequently, the reported error for each pixel at each cadence is the minimal error (shot noise plus read noise) as it does not include the associated offset term resulting from the full propagation of errors. See Section 5.1.3 of the <a href="http://archive.stsci.edu/kepler/manuals/Data_Characteristics.pdf">Data Characteristics Handbook (DCH, Christiansen et al. , 2013)</a> for more details.  </p>
@@ -309,6 +324,8 @@ document.write(document.lastModified);
             <div class="nav nav-stacked fixed" id="mytoc">
             <div class="toc">
 <ul>
+<li><a href="#data-release-14">Data Release 14</a></li>
+<li><a href="#data-release-13">Data Release 13</a></li>
 <li><a href="#data-release-12">Data Release 12</a></li>
 <li><a href="#data-release-11">Data Release 11</a></li>
 <li><a href="#data-release-10">Data Release 10</a></li>
