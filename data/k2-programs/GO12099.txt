@@ -1,0 +1,20 @@
+# Summary of K2 Program GO12099
+
+Title: Searching for Transit Timing Variations the Hot Jupiter  WASP-28
+
+PI: Adams, Fred C. (University of Michigan)
+CoIs: Becker, Juliette C; Vanderburg, Andrew
+
+We request a short cadence observation of WASP-28, the only known hot Jupiter in Campaign 12. K2 short cadence data of known hot Jupiters has yielded the first discovery of a system containing not only a hot Jupiter but also nearby, short-period planetary companions (Becker, Vanderburg, Adams et al 2015). For years, it has been predicted that planetary companions to transiting hot Jupiters could be found via the presence of transit-timing variations (TTVs), which have been predicted to be measurable for hot Jupiters (Agol et al. 2005, Holman et al 2005). However, studies looking for these signals of additional planetary companions (e.g.,  Steffen et al. 2012) have not found any such companions, despite the large quantity of transit data for hot Jupiter-hosting stars provided by the original Kepler mission. The observed paucity of these companions could be interpreted as support for particular migratory mechanisms (such as high eccentricity migration; Mustill 2015), so it is extremely important to understand whether hot Jupiters are truly alone or not. In Campaign 3, K2 found a hot Jupiter system (WASP-47) that hosts two additional close-in planets, the first system of its kind to ever be found. 
+Although many hot Jupiters have been discovered by ground-based photometry (such as all of the WASP planets), precision from the ground is not high enough to either directly detect additional planets or to detect TTVs for the hot Jupiter with a precision that could discover small planetary companions. Only K2s short cadence data mode is capable of achieving this level of precision. In Becker et al. (2015), the hot Jupiter WASP-47b exhibited a 0.63 minute TTV amplitude. As shown in Figure 1, this amplitude is large enough to be extracted cleanly from K2 short cadence data, but it would be impossible to measure from long cadence data (as the transit duration for a hot Jupiter is generally only a couple hours). We request that WASP-28 be observed in 1-minute cadence during campaign 12. The resulting data will allow us to check for transit timing variations as well as direct photometric evidence of companions. Since close-in companions to hot Jupiters will be short-period, short-cadence data would detect several orbits of the companions (if they exist), and place strict limits on companion presence if no detection is made. This data will be useful in the long-term as legacy data, as future transit observations can be stacked with those made by K2 and better characterize the long term behavior and TTVs in the system. 
+
+Agol, E., Steffen, J., Sari, R., & Clarkson, W. 2005, MNRAS, 359, 567 
+Becker, J.C., Vanderburg, A., Adams, F.C., Rappaport, S.A. & Schwengeler, H.M. 2015, ApJL, 812, L18 
+Holman, M. J., & Murray, N. W. 2005, Science, 307, 1288 
+Mustill, A. J., Davies, M. B., & Johansen, A. 2015, ApJ, 808, 14 
+Steffen, J. H., & Agol, E. 2005, MNRAS, 364, L96. 
+Steffen et al. 2012, Proceedings of the National Academy of Science, 109, 7982
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+246375295, 353.616168, -1.580036, 11.933, GO12085_LC|GO12062_LC|GO12099_LC|GO12122_LC|GO12124_LC|GO12071_LC|GO12902_LC|GO12903_LC|GO12062_SC|GO12099_SC|GO12124_SC

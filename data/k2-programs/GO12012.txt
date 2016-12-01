@@ -1,0 +1,54 @@
+# Summary of K2 Program GO12012
+
+Title: Asteroseismology of solar-type stars with K2
+
+PI: Lund, Mikkel N (University of Birmingham)
+CoIs: Casagrande, Luca; Latham, David W.; Davies, Guy Rhys; Chaplin, William J; Silva Aguirre, Victor; White, Timothy R; Huber, Daniel; Grundahl, Frank; Basu, Sarbani
+
+The aim of the present proposal is to perform an asteroseismic study of bright solar-type stars, including cool main-sequence dwarfs and sub-giants, residing in the solar neighbourhood. This will be achieved using short-cadence (SC) data collected during K2 Campaigns 11, 12, and 13 (C11-13). The information contained in solar-like oscillations allows the internal stellar structure to be constrained to unprecedented levels, and allows precise determinations of fundamental stellar properties (e.g., mass, radius, and age). We seek to exploit the unique opportunity offered by K2 to observe targets for asteroseismology that are typically brighter than those observed during the nominal mission, thus benefiting from better independent constraints (from, e.g., parallaxes, spectroscopy, interferometry, etc.). This will make it possible to bring the full potential of asteroseismology to bear to test the physics of stellar interiors. To constrain our analysis further we plan for a spectroscopic follow-up of the proposed targets. By combining the targets observed during C11-13 with those from previous K2 campaigns that possess independent constraints we may calibrate seismic scaling relations. This will be essential in seismic galactic archaeology studies, which rely on the application of these relations. Including also targets from the nominal mission, we may study the chemical evolution of the solar neighbourhood and place constraints on the age-metallicity relation of nearby field stars. The results will be used in ongoing investigations that are relevant to this solicitation:
+-In C13 we propose to observe several members of the Hyades open cluster, where we intend to obtain independent constraints from interferometry with CHARA, and for the brightest targets simultaneous RV observation with the SONG telescope network. We have successfully detected solar-like oscillations in two Hyades stars observed during C4; adding to this with targets from C13 with independent constraints will greatly help our ongoing analysis of the Hyades.
+-The targets will further expand the sample of benchmark stars having precise fundamental properties from asteroseismology to different fields in the Galaxy, which will be crucial to calibrate upcoming large surveys such as Gaia and GALAH. The use of results from our asteroseismic analysis of targets from C1-3 have already been requested by the Gaia-ESO team to help calibrate their astrophysical parameters data reduction pipeline.
+-The availability of precise asteroseismic ages of stars with detectable surface rotation periods will provide additional constraints for gyrochronology.
+-Asteroseismology will allow us to better characterize targets with detected exoplanets, including both new detections made by K2 and known exoplanet-host stars on our list.
+
+We estimate requesting for 40-50 targets per campaign. These should show detectable solar-like oscillations with periods of the order of minutes, hence SC data are required for detecting the oscillations. We will prepare analysis-ready light curves from pixel-data using in-house software - these will be made available to the community via the KASOC portal. Next, we will apply well-tested analysis procedures to the frequency-power spectra of the light curves, providing both estimates of global seismic parameters and parameters describing individual modes of oscillation. Detailed frequency modelling using state-of-the-art stellar evolution codes will then provide the stellar properties. The methodology delineated above has already been successfully applied to the analysis of K2 C1-5 data, for which we reached a very good understanding of the asteroseismic detection yield. From C3-5 data we have found that solar-like oscillations can be detected for stars similar to the Sun, with characteristic frequencies around 3100 micro Hertz. We have also successfully extracted individual frequencies for these stars, hence enabling detailed seismic modelling.
+
+# Targets requested by this program that have been observed (37)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+245939167, 349.474905, -11.263799, 8.794, GO12052_LC|GO12039_LC|GO12024_LC|GO12122_LC|GO12071_LC|GO12049_LC|GO12012_LC|GO12012_SC
+245961434, 347.489125, -10.516718, 8.119, GO12019_LC|GO12024_LC|GO12122_LC|GO12071_LC|GO12049_LC|GO12012_LC|GO12012_SC
+245972483, 349.117203, -10.211653, 8.638, GO12052_LC|GO12039_LC|GO12024_LC|GO12122_LC|GO12071_LC|GO12049_LC|GO12012_LC|GO12904_LC|GO12012_SC
+246003951, 350.823042, -9.384975, 7.826, GO12019_LC|GO12052_LC|GO12024_LC|GO12122_LC|GO12012_LC|GO12904_LC|GO12012_SC
+246011640, 347.328851, -9.187237, 9.165, GO12019_LC|GO12024_LC|GO12122_LC|GO12071_LC|GO12049_LC|GO12012_LC|GO12904_LC|GO12012_SC
+246018042, 347.978584, -9.02222, 8.5, GO12019_LC|GO12052_LC|GO12039_LC|GO12024_LC|GO12122_LC|GO12049_LC|GO12012_LC|GO12012_SC
+246025837, 355.592733, -8.828783, 8.343, GO12019_LC|GO12039_LC|GO12024_LC|GO12048_LC|GO12122_LC|GO12071_LC|GO12049_LC|GO12012_LC|GO12904_LC|GO12012_SC
+246033065, 346.641474, -8.645719, 8.844, GO12052_LC|GO12024_LC|GO12122_LC|GO12071_LC|GO12049_LC|GO12012_LC|GO12904_LC|GO12012_SC
+246048943, 348.116417, -8.279969, 8.963, GO12019_LC|GO12002_LC|GO12048_LC|GO12123_LC|GO12012_LC|GO12012_SC
+246054188, 349.113623, -8.158977, 8.993, GO12052_LC|GO12024_LC|GO12122_LC|GO12071_LC|GO12049_LC|GO12012_LC|GO12904_LC|GO12012_SC
+246069493, 347.602978, -7.811996, 7.209, GO12019_LC|GO12083_LC|GO12039_LC|GO12024_LC|GO12002_LC|GO12122_LC|GO12071_LC|GO12012_LC|GO12904_LC|GO12012_SC
+246099088, 349.246427, -7.160776, 6.653, GO12019_LC|GO12039_LC|GO12024_LC|GO12122_LC|GO12012_LC|GO12904_LC|GO12012_SC
+246111518, 348.986453, -6.887238, 8.573, GO12019_LC|GO12012_LC|GO12012_SC
+246134147, 353.30022, -6.400587, 7.988, GO12019_LC|GO12052_LC|GO12083_LC|GO12039_LC|GO12024_LC|GO12122_LC|GO12071_LC|GO12049_LC|GO12012_LC|GO12904_LC|GO12012_SC
+246154489, 345.476225, -5.966289, 7.642, GO12019_LC|GO12083_LC|GO12035_LC|GO12048_LC|GO12012_LC|GO12904_LC|GO12012_SC
+246161591, 352.070825, -5.817791, 8.644, GO12052_LC|GO12024_LC|GO12122_LC|GO12071_LC|GO12049_LC|GO12012_LC|GO12904_LC|GO12012_SC
+246163607, 346.05591, -5.773482, 8.861, GO12052_LC|GO12050_LC|GO12039_LC|GO12024_LC|GO12122_LC|GO12071_LC|GO12012_LC|GO12904_LC|GO12012_SC
+246184564, 347.25641, -5.34183, 8.791, GO12048_LC|GO12012_LC|GO12012_SC
+246189766, 351.665687, -5.232134, 8.735, GO12052_LC|GO12039_LC|GO12024_LC|GO12122_LC|GO12071_LC|GO12049_LC|GO12012_LC|GO12904_LC|GO12012_SC
+246212144, 346.977417, -4.776767, 9.031, GO12052_LC|GO12050_LC|GO12024_LC|GO12122_LC|GO12071_LC|GO12049_LC|GO12012_LC|GO12012_SC
+246231360, 353.369355, -4.401284, 6.873, GO12019_LC|GO12039_LC|GO12024_LC|GO12122_LC|GO12012_LC|GO12904_LC|GO12012_SC
+246254415, 347.403063, -3.962336, 8.573, GO12019_LC|GO12052_LC|GO12039_LC|GO12024_LC|GO12002_LC|GO12049_LC|GO12012_LC|GO12012_SC
+246256752, 350.066038, -3.919139, 6.561, GO12019_LC|GO12039_LC|GO12024_LC|GO12122_LC|GO12071_LC|GO12012_LC|GO12904_LC|GO12012_SC
+246257644, 356.847941, -3.902998, 8.95, GO12019_LC|GO12052_LC|GO12024_LC|GO12122_LC|GO12071_LC|GO12049_LC|GO12012_LC|GO12904_LC|GO12012_SC
+246260292, 353.811128, -3.853769, 7.181, GO12019_LC|GO12052_LC|GO12039_LC|GO12024_LC|GO12122_LC|GO12012_LC|GO12904_LC|GO12012_SC
+246301897, 353.036024, -3.028385, 8.721, GO12019_LC|GO12052_LC|GO12050_LC|GO12039_LC|GO12024_LC|GO12122_LC|GO12049_LC|GO12012_LC|GO12012_SC
+246302032, 349.484975, -3.025991, 8.793, GO12019_LC|GO12052_LC|GO12024_LC|GO12002_LC|GO12122_LC|GO12071_LC|GO12049_LC|GO12012_LC|GO12904_LC|GO12012_SC
+246305274, 354.190504, -2.961148, 8.717, GO12052_LC|GO12050_LC|GO12024_LC|GO12122_LC|GO12071_LC|GO12049_LC|GO12012_LC|GO12904_LC|GO12012_SC
+246305350, 354.706978, -2.959928, 8.805, GO12050_LC|GO12024_LC|GO12122_LC|GO12071_LC|GO12049_LC|GO12012_LC|GO12904_LC|GO12012_SC
+246329409, 350.249291, -2.478793, 9.804, GO12024_LC|GO12002_LC|GO12122_LC|GO12071_LC|GO12123_LC|GO12049_LC|GO12012_LC|GO12012_SC
+246330978, 352.035316, -2.44816, 8.812, GO12052_LC|GO12006_LC|GO12122_LC|GO12071_LC|GO12012_LC|GO12014_LC|GO12904_LC|GO12012_SC
+246358740, 346.077091, -1.899799, 8.977, GO12019_LC|GO12039_LC|GO12024_LC|GO12065_LC|GO12122_LC|GO12071_LC|GO12049_LC|GO12012_LC|GO12904_LC|GO12012_SC
+246358796, 349.615432, -1.898719, 8.809, GO12039_LC|GO12024_LC|GO12122_LC|GO12071_LC|GO12049_LC|GO12012_LC|GO12904_LC|GO12012_SC
+246405127, 352.192439, -0.835599, 8.511, GO12052_LC|GO12039_LC|GO12024_LC|GO12002_LC|GO12071_LC|GO12049_LC|GO12012_LC|GO12904_LC|GO12012_SC
+246416020, 347.108768, -0.499624, 8.351, GO12052_LC|GO12024_LC|GO12122_LC|GO12071_LC|GO12049_LC|GO12012_LC|GO12904_LC|GO12012_SC
+246438837, 347.939319, 0.223451, 8.509, GO12019_LC|GO12052_LC|GO12024_LC|GO12122_LC|GO12071_LC|GO12049_LC|GO12012_LC|GO12012_SC
+246444622, 347.710956, 0.409729, 8.809, GO12019_LC|GO12039_LC|GO12024_LC|GO12122_LC|GO12071_LC|GO12049_LC|GO12012_LC|GO12904_LC|GO12012_SC

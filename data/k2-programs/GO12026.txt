@@ -1,0 +1,14 @@
+# Summary of K2 Program GO12026
+
+Title: Accretion disc variability in Cataclysmic Variables
+
+PI: Breedt, Elme (University of Warwick)
+CoIs: 
+
+Accretion discs are a common occurrence in the universe. They exist on physical scales spanning orders of magnitude, ranging from the parsec scale discs which power active galactic nuclei to protoplanetary discs around young stellar objects (several AU) and the discs around accreting white dwarfs in cataclysmic variables (few thousand km). The flow of material and angular momentum through these discs are governed by the same underlying physical processes, but timescales involved scale as R^2 (where R is the disc radius), so span a vast range. For this reason, the accretion discs around cataclysmic variables (CVs) are the ideal laboratories for investigating model disc structure and the effects of accretion rate variations, as the equivalent variations in larger discs cannot be studied in human lifetimes.
+
+Continuing our programme from campaigns 0 to 10, we propose to monitor the CVs and X-ray binaries in the K2 fields with the aim of building a library of high quality light curves that can be used to investigate disc-based phenomena. CVs and other accreting compact objects display variability on a wide range of timescales, e.g. accretion disc flickering (seconds), white dwarf spin (seconds), eclipses (minutes), the orbital period (hours) and disc precession (days). The unique capability of Kepler/K2 to provide uninterrupted, high precision, high cadence photometry over a long baseline is key to understand accretion and accretion variability over such a wide range of timescales.
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+246047821, 351.329994, -8.305319, 18.976, GO12067_LC|GO12026_LC|GO12055_LC|GO12055_SC

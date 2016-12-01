@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2016-11-14T21:00:00-08:00</updated><entry><title>Small changes to Campaigns 13, 14, and 15</title><link href="https://keplerscience.arc.nasa.gov/small-changes-to-campaigns-13-14-and-15.html" rel="alternate"></link><published>2016-11-14T21:00:00-08:00</published><updated>2016-11-14T21:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2016-11-14:small-changes-to-campaigns-13-14-and-15.html</id><summary type="html">&lt;p&gt;K2 users are alerted to a small but necessary adjustment
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2016-11-28T15:00:00-08:00</updated><entry><title>K2 Campaign 12 science program now available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-12-science-program-now-available.html" rel="alternate"></link><published>2016-11-28T15:00:00-08:00</published><updated>2016-11-28T15:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2016-11-28:k2-campaign-12-science-program-now-available.html</id><summary type="html">&lt;p&gt;The science program and target lists for K2 Campaign 12
+have now been posted on the
+&lt;a href="k2-approved-programs.html#campaign-12"&gt;approved targets &amp;amp; programs page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The Campaign 12 target list includes &lt;b&gt;29,221 standard long cadence&lt;/b&gt;
+and &lt;b&gt;141 standard short cadence&lt;/b&gt; targets,
+all located in a high-Galactic latitude field (-60&amp;deg;)
+on the boundary between the constellations of Aquarius and Pisces.&lt;/p&gt;
+&lt;p&gt;The short cadence list includes &lt;b&gt;TRAPPIST-1&lt;/b&gt;,
+an ultracool dwarf star known to host 
+several Earth-sized transiting planets.
+A generous 11-by-11 pixel short cadence mask 
+will be used to capture the target (mask ID 200164267).&lt;/p&gt;
+&lt;p&gt;The long cadence list includes &lt;b&gt;2,576 galaxies&lt;/b&gt; to enable
+supernovae and AGN studies.
+It also includes &lt;b&gt;8 bright stars&lt;/b&gt; (Kp ~5)
+for which we collected only the central region of pixels 
+using a circular aperture mask, excluding the long saturation bleed.
+Their target IDs are:
+&lt;ul&gt;
+&lt;li&gt;200164167 (κ Psc)&lt;/li&gt;
+&lt;li&gt;200164168 (83 Aqr)&lt;/li&gt;
+&lt;li&gt;200164169 (24 Psc)&lt;/li&gt;
+&lt;li&gt;200164170 (HR 8759)&lt;/li&gt;
+&lt;li&gt;200164171 (14 Psc)&lt;/li&gt;
+&lt;li&gt;200164172 (HR 8921)&lt;/li&gt;
+&lt;li&gt;200164173 (81 Aqr)&lt;/li&gt;
+&lt;li&gt;200164174 (HR 8897)&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;Finally, long cadence custom masks are scheduled to observe
+&lt;b&gt;19 Trojan asteroids&lt;/b&gt;, &lt;b&gt;9 Trans-Neptunian Objects&lt;/b&gt;,
+and &lt;b&gt;4 Comets&lt;/b&gt; (90P/Gehrels, 95P/Chiron, 176P/LINEAR, 228P/LINEAR).
+The trajectories of these moving bodies have been tiled
+using 1xn or nx1 pixel strips.
+Most notably, the well-known &lt;b&gt;Centaur 95P/Chiron&lt;/b&gt;
+will be observed for the entire duration of the campaign in long cadence
+(mask ID range 200164175–200164266)
+and for 20 days in short cadence (IDs 200161173–200162430).&lt;/p&gt;
+&lt;p&gt;Compared to the original plan,
+the Campaign 12 field was rotated and shifted slightly
+in order to &lt;a href='/small-changes-to-campaigns-13-14-and-15.html'&gt;optimize spacecraft stability&lt;/a&gt; and to ensure the visibility of TRAPPIST-1.&lt;/p&gt;</summary></entry><entry><title>Small changes to Campaigns 13, 14, and 15</title><link href="https://keplerscience.arc.nasa.gov/small-changes-to-campaigns-13-14-and-15.html" rel="alternate"></link><published>2016-11-14T21:00:00-08:00</published><updated>2016-11-14T21:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2016-11-14:small-changes-to-campaigns-13-14-and-15.html</id><summary type="html">&lt;p&gt;K2 users are alerted to a small but necessary adjustment
 to the fields of Campaigns 13, 14, and 15.&lt;/p&gt;
 &lt;p&gt;To better compensate for the radiation pressure exerted by one of the
 spacecraft's low-gain antennae, these fields have been rotated by 0.365°.

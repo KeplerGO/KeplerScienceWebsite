@@ -1,0 +1,23 @@
+# Summary of K2 Program GO12047
+
+Title: Asteroseismology of the Brightest K2 Stars
+
+PI: Huber, Daniel (SETI Institute)
+CoIs: White, Timothy R; Pope, Benjamin James Spinks; Aerts, Conny Clara; Bedding, Tim; Silva Aguirre, Victor
+
+The most powerful tests of stellar structure and evolution come from the brightest stars in the night sky, for which complementary observational techniques (such as astrometry, asteroseismology, and interferometry) can be combined. So far, stars brighter than Kp < 6 mag were rarely observed with Kepler/K2 due to the large number of pixels required to capture the saturated pixel columns. We propose K2 long-cadence observations of the brightest K2 stars in campaigns 11-13 (including 36 Oph, the brightest K dwarf observable by K2) using a novel technique which uses a small number of unsaturated pixels. Asteroseismic studies of these targets will allow unprecedented tests of asteroseismic scaling relations for giants and insights into poorly understood internal processes of intermediate-mass stars such as convective core overshooting.
+
+We selected 54 targets with Kp < 6.0 mag from the Hipparcos catalog. We will use small (~20x20 pixel) circular apertures around the saturated core for each target, and perform photometry using weighted sums of unsaturated pixels in the wings of the circular aperture. The method (so-called halo photometry) has been demonstrated to detect pulsations for all bright Pleiades and Hyades stars observed in Campaign 4. We will also organize spectroscopic and interferometric follow-up observations that will be combined with the K2 photometry.
+
+Our proposal addresses fundamental stellar astrophysics, a key science goal of the K2 mission. Our project furthermore supports galactic astrophysics, another key science area identified in the NRA, through the calibration of scaling relations for galactic archeology studies. A better understanding of stellar models through the study of bright stars is relevant for science goals pursued by both present and future NASA missions such as the characterization of exoplanets (TESS, JWST) as well as stellar populations and galaxy formation/evolution (HST, JWST).
+
+# Targets requested by this program that have been observed (8)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+200164167, , , , GO12047_LC|GO12103_LC|GO12039_LC|GO12122_LC
+200164168, , , , GO12047_LC|GO12039_LC|GO12122_LC
+200164169, , , , GO12047_LC
+200164170, , , , GO12047_LC
+200164171, , , , GO12047_LC|GO12039_LC|GO12122_LC
+200164172, , , , GO12047_LC
+200164173, , , , GO12047_LC
+200164174, , , , GO12047_LC
