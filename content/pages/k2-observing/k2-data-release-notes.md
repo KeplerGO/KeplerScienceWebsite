@@ -1590,14 +1590,14 @@ in the FLUX column of the TPF. Users wishing to recover photometry from these
 cadences should add the per-cadence pixel background values (TPF column FLUX_BKG)
 back into the pixel flux values and then compute their own background levels. 
 The position offset columns (POS_CORR1, POS_CORR2) should likewise be ignored
-for these candences. 
+for these cadences. 
 
 Finally, in the pre-tweak cadences a small number of targets may have incorrect 
 smear calibrations due to bright saturating stars spilling charge into the 
 detector smear regions. Such affects are flagged and excluded from smear calibration
 for the post-tweak cadences, but the pre-tweak positions of the bright stars 
 were not used to flag bad smear corrections. Only about 0.2% of the 
-focal plane columns were affected this way, so the number of potentially 
+focal plane columns were affected in this way, so the number of potentially 
 affected targets is small.
 
 <br>
