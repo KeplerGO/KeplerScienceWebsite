@@ -9,6 +9,21 @@ For more information about the Kepler pipeline see the Kepler manuals: <a href="
 
 Information about each specific campaign can be found in the links associated with each data release. 
 
+### Data Release 14
+* December 2016
+* SOC 9.3
+* Campaigns: [C1](k2-data-release-notes.html#k2-campaign-1)
+
+This is a re-delivery of C1, including the first delivery of C1 long cadence light curve files. 
+No other features of the the data processing have changed. See below for previous updates to the K2 pipeline.
+
+### Data Release 13
+* pending
+* SOC 9.3
+* Campaigns: C2
+
+The updated release of C2 is pending. 
+
 ### Data Release 12
 * September 2016
 * SOC 9.3
@@ -73,7 +88,7 @@ For further information about the processing and content of this delivery, see t
 
 * November 2015 
 * SOC 9.3
-* Campaigns: <a href="k2-data-release-notes.html#k2-campaign-5">C5</a>
+* Campaigns: [C5](k2-data-release-notes.html#k2-campaign-5)
 
 This is the first delivery of C5.
 
@@ -87,7 +102,7 @@ For further information about the content of this delivery see the previous Rele
 
 * September 2015
 * SOC 9.3
-* Campaigns: <a href="k2-data-release-notes.html#k2-campaign-4">C4</a></p>
+* Campaigns: [C4](k2-data-release-notes.html#k2-campaign-4)
 
 This is the first delivery of C4. No features of the files have changed. For further information about the content of this delivery see the previous Release Notes.
     
@@ -97,7 +112,7 @@ This is the first delivery of C4. No features of the files have changed. For fur
 
 * July 2015
 * SOC 9.3 
-* Campaigns: <a href="C3drn.shtml">C3</a></p>
+* Campaigns: [C3](k2-data-release-notes.html#k2-campaign-3)
 
 This is the first delivery of C3. In addition to the FFIs and the target pixel files, the project is delivering long cadence light curves, background pixels and collateral data.</p>
 
@@ -137,7 +152,7 @@ The method used to remove systematic trends in the K2 light curves is very simil
 ### Data Release 4 
 * March 2015
 * SOC 9.2 
-* Campaigns: <a href="k2-data-release-notes.html#k2-campaign-1">C2</a>
+* Campaigns: [C2](k2-data-release-notes.html#k2-campaign-2)
 
 This is the first delivery of C2.  
 
@@ -151,7 +166,7 @@ No features of the files have changed. For further information about the content
 
 * December 2014
 * SOC 9.2 
-* Campaigns: <a href="k2-data-release-notes.html#k2-campaign-1">C1</a>
+* Campaigns: [C1](k2-data-release-notes.html#k2-campaign-1)
 
 This is the first delivery of C1.  </p>
 
@@ -163,7 +178,7 @@ No features of the files have changed. For further information about the content
 
 * October 2014
 * SOC 9.2 
-* Campaigns: <a href="k2-data-release-notes.html#k2-campaign-0">C0</a>
+* Campaigns: [C0](k2-data-release-notes.html#k2-campaign-0)
 
 This delivery was made to fix two problems found in the target pixel files delivered for Data Release 1. 
 
@@ -182,7 +197,7 @@ No other features of the files have changed. For further information about the c
 
 * September 2014
 * SOC 9.2
-* Campaigns: <a href="k2-data-release-notes.html#k2-campaign-0">C0</a>
+* Campaigns: [C0](k2-data-release-notes.html#k2-campaign-0)
 
 ***Overview***
 
