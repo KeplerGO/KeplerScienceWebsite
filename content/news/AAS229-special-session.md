@@ -28,4 +28,4 @@ The schedule is as follows:
 
 In addition to the special session, a wealth of Kepler/K2/TESS-related
 talks and posters will be presented throughout the meeting,
-and the missions will also have a booth in the exhibit hall.
+and the missions will also operate a booth in the exhibit hall.
