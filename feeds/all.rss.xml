@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Tue, 06 Dec 2016 14:00:00 -0800</lastBuildDate><item><title>Reprocessed data for K2 Campaign 1 now available</title><link>https://keplerscience.arc.nasa.gov/reprocessed-data-for-k2-campaign-1-now-available.html</link><description>&lt;p&gt;The original data release for K2 Campaign 1 in 2014
-used a preliminary version of the pipeline (v9.2)
+used a prior version of the pipeline (v9.2)
 which only produced "Type-1" FITS Target Pixel Files.
 The Campaign has now been re-processed using the mature 
 version of the pipeline (v9.3)
-which updates the pixel files to "Type-2 TPFs"
+which updates the pixel files to "Type-2" TPFs
 (&lt;a href="/k2-data-release-notes.html#type1v2"&gt;differences detailed here&lt;/a&gt;). 
 The new release also adds long-cadence lightcurves,
 cotrending basis vectors, and collateral products such as smear data.&lt;/p&gt;
-&lt;p&gt;The re-processing also corrects the &lt;a href="/problem-with-kepler-and-k2-short-cadence-pixel-calibration.html"&gt;short cadence calibration
+&lt;p&gt;The re-processing also corrects a &lt;a href="/problem-with-kepler-and-k2-short-cadence-pixel-calibration.html"&gt;short cadence calibration
 bug&lt;/a&gt;. 
-Specific targets known to have their short cadence calibration improved
+Short cadence targets with significantly improved calibration
 are identifed in the
 &lt;a href="http://archive.stsci.edu/missions/k2/catalogs/K2_scrambled_short_cadence_collateral_target_list.csv"&gt;list of affected targets at the MAST&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Finally, the &lt;a href="/k2-data-release-notes.html#k2-campaign-1"&gt;C1 data release notes&lt;/a&gt;
 have been updated to include more details on the data characteristics,
-and to explain issues associated with first few days of data
+and to explain issues associated with the first few days of data
 which were taken before a pointing tweak.&lt;/p&gt;
 &lt;p&gt;The reprocessed Campaign 1 data are now available from the
 &lt;a href="https://archive.stsci.edu/k2"&gt;K2 data archive at MAST&lt;/a&gt;.
 Campaigns 0 and 2 are currently undergoing a similar reprocessing effort
-which is expected to be ready in early 2017,
+which is expected to be completed in early 2017,
 at which point all Campaigns will have been processed using the same version
 of the pipeline.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Tue, 06 Dec 2016 14:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2016-12-06:reprocessed-data-for-k2-campaign-1-now-available.html</guid></item><item><title>K2 &amp; TESS Splinter Session at #AAS229 on 4 Jan 2017</title><link>https://keplerscience.arc.nasa.gov/k2-tess-splinter-session-at-aas229-on-4-jan-2017.html</link><description>&lt;p&gt;The &lt;a href="https://tess.gsfc.nasa.gov"&gt;TESS&lt;/a&gt; and K2 Missions
 are convening a joint special session at the
@@ -46,7 +46,8 @@ about present and future science opportunities with K2 and TESS.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;In addition to the special session, a wealth of Kepler/K2/TESS-related
 talks and posters will be presented throughout the meeting,
-and the missions will also operate a booth in the exhibit hall.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Sun, 04 Dec 2016 20:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2016-12-04:k2-tess-splinter-session-at-aas229-on-4-jan-2017.html</guid></item><item><title>K2 Campaign 12 science program now available</title><link>https://keplerscience.arc.nasa.gov/k2-campaign-12-science-program-now-available.html</link><description>&lt;p&gt;The science program and target lists for K2 Campaign 12
+and the missions will also operate a booth in the exhibit hall.&lt;/p&gt;
+&lt;p&gt;(PS: Come early if you like warm pretzels!)&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Sun, 04 Dec 2016 20:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2016-12-04:k2-tess-splinter-session-at-aas229-on-4-jan-2017.html</guid></item><item><title>K2 Campaign 12 science program now available</title><link>https://keplerscience.arc.nasa.gov/k2-campaign-12-science-program-now-available.html</link><description>&lt;p&gt;The science program and target lists for K2 Campaign 12
 have now been posted on the
 &lt;a href="k2-approved-programs.html#campaign-12"&gt;approved targets &amp;amp; programs page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The Campaign 12 target list includes &lt;b&gt;29,221 standard long cadence&lt;/b&gt;
