@@ -1,4 +1,4 @@
-Title: K2 & TESS Special Session at #AAS229 on 4 Jan 2017
+Title: K2 & TESS Splinter Session at #AAS229 on 4 Jan 2017
 Date: 2016-12-04 20:00
 Author: Geert Barentsen
 
