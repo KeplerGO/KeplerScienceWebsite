@@ -33,7 +33,7 @@ Campaign 12
     <p>
     The short cadence list includes <b>TRAPPIST-1</b>,
     an ultracool dwarf star known to host
-    several Earth-sized transiting planets
+    several Earth-sized transiting planets.
     A generous 11-by-11 pixel short cadence mask 
     will be used to capture this target (mask ID 200164267).
     </p>

@@ -8,8 +8,10 @@ Save_as: conferences.html
 
   <tr>
     <td style="width: 9em;">4 Jan 2017</td>
-    <td style="width: 20em;">K2 Special Session at AAS 229th Meeting</td>
-    <td><a href="https://twitter.com/search?q=%23AAS229">#AAS229 tweets</a></td>
+    <td style="width: 20em;"><a href='k2-tess-splinter-session-at-aas229-on-4-jan-2017'>K2 Special Session at AAS 229th Meeting</a></td>
+    <td><a
+    href='k2-tess-splinter-session-at-aas229-on-4-jan-2017'>schedule</a>,
+    <a href="https://twitter.com/search?q=%23AAS229">#AAS229 tweets</a></td>
   </tr>
 
   <tr>
