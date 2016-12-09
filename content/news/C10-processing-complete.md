@@ -10,7 +10,7 @@ on or before December 22nd.
 
 Alongside 28,345 standard long cadence and 138 short cadence targets,
 the [Campaign 10 science program](https://keplerscience.arc.nasa.gov/k2-approved-programs.html#campaign-10)
-included a large number of galaxies owing to its location
+included a large number of galaxies owing to the field's location
 near the north galactic pole.
 The extragalactic targets include the well-known quasar 3C 273.
 
