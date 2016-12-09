@@ -11,20 +11,42 @@ Check back here for updates or follow the conversation on Twitter (<a href="http
 
 ### Important Dates 
 
-The conference will take place from June 19-23, 2017.  Registration deadlines and additional dates of interest will be announced soon.
+<table class="table table-striped table-hover" style="max-width:55em;">
 
-### Venue 
+  <tr>
+    <td style="width: 9em;">15 Jan 2017</td>
+    <td style="width: 20em;"> registration and abstract submission open </td>
+  </tr>
 
-The conference will be held in the
-<a href='https://www.google.com/maps/place/NASA+Ames+Conference+Center-NACC,+Building+152,+200+Bailey+Rd,+Mountain+View,+CA+94043/@37.4075789,-122.059327,17z'>NASA Ames Conference Center (Building 152)</a>,
-in Mountain View, California.
+  <tr>
+    <td style="width: 9em;">31 Mar 2017</td>
+    <td style="width: 20em;"> abstract submission deadline </td>
+	</tr>
 
-### Registration
+  <tr>
+    <td style="width: 9em;">20 Apr 2017</td>
+    <td style="width: 20em;"> registration deadline for Foreign Nationals </td>
+  </tr>
 
-Registration will open soon.  There will be no registration fee for
+  <tr>
+    <td style="width: 9em;">15 May 2017</td>
+    <td style="width: 20em;"> registration deadline for U.S. Citizens
+    and Permanent Residents </td>
+  </tr>
+
+  <tr>
+    <td style="width: 9em;">19-23 Jun 2017</td>
+    <td style="width: 20em;"> Kepler & K2 Science Conference IV </td>
+	</tr>
+	
+</table>
+
+### Registration & Abstract Submission
+
+Registration and abstract submission will open soon.  There will be no registration fee for
 the conference.
 
-### Agenda
+### Conference Agenda
 
 This conference will showcase results from the Kepler and K2 missions
 that span all topics in astrophysics and planetary science. Confirmed invited speakers will be announced soon.
@@ -33,16 +55,33 @@ that span all topics in astrophysics and planetary science. Confirmed invited sp
 
 Details coming soon.
 
+### Venue Information
+
+The conference will be held in the
+<a href='https://www.google.com/maps/place/NASA+Ames+Conference+Center-NACC,+Building+152,+200+Bailey+Rd,+Mountain+View,+CA+94043/@37.4075789,-122.059327,17z'>NASA Ames Conference Center (Building 152)</a>,
+in Mountain View, California.
+
+Access to NASA Ames requires a valid form of ID to be shown at the
+main gate. Non US-citizens will be required to pick up a badge at the
+<a href='https://www.google.com/maps/@37.4098037,-122.063085,19z'>main
+gate</a>.
+
 ### Travel Information
 
 The nearest airport is the San Jose International Airport (SJC).
-The nearest alternative to SJC is San Francisco International Airport (SFO).
+The nearest alternative to SJC is San Francisco International Airport
+(SFO).  While a bit further, flying into Oakland International Airport (OAK) is
+also another option.
 We recommend hiring a rental car or using the Uber or Lyft apps
-for transportation from the airport. Additional details coming soon.
+for transportation from the airport. 
 
 ### Lodging Options
 
-Information coming soon.
+The conference center provides a <a href='http://naccenter.arc.nasa.gov/links.php#hotel'>list of local hotels</a>.
+Those nearest to Ames are the <a href='http://www.countyinn.com'>County Inn</a>
+and the <a href='http://hamptoninn3.hilton.com'>Hampton Inn &amp; Suites</a>.
+These options are more expensive but are located closer to downtown Mountain View,
+which provides ample restaurant options.  Additional details coming soon.
 
 ### Remote Attendance
 

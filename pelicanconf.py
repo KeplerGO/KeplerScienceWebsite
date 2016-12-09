@@ -123,7 +123,7 @@ IMPORTANT_DATES = (
 MEETINGS = (
             ('<b>3–7 Jan 2017</b><br>'
              'Kepler/K2 Booth & Sessions at AAS 229',
-             'https://aas.org/meetings/aas229'),
+             'k2-tess-splinter-session-at-aas229-on-4-jan-2017'),
             ('<b>1–3 Feb 2017</b><br>'
              '21st Microlensing Conference',
              'http://nexsci.caltech.edu/conferences/2017/microlensing/'),
