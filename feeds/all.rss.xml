@@ -10,7 +10,8 @@ included a large number of galaxies owing to the field's location
 near the north galactic pole.
 The extragalactic targets include the well-known quasar 3C 273.&lt;/p&gt;
 &lt;p&gt;Keep an eye on this website for an announcement of the release
-and the associated &lt;a href="k2-data-release-notes.html"&gt;data release notes&lt;/a&gt;.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Fri, 09 Dec 2016 10:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2016-12-09:k2-campaign-10-data-processing-complete.html</guid></item><item><title>Reprocessed data for K2 Campaign 1 now available</title><link>https://keplerscience.arc.nasa.gov/reprocessed-data-for-k2-campaign-1-now-available.html</link><description>&lt;p&gt;The original data release for K2 Campaign 1 in 2014
+and the associated &lt;a href="k2-data-release-notes.html"&gt;data release notes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="images/k2/k2-c10-field.png"&gt;&lt;img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c10-field.png"&gt;&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Fri, 09 Dec 2016 10:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2016-12-09:k2-campaign-10-data-processing-complete.html</guid></item><item><title>Reprocessed data for K2 Campaign 1 now available</title><link>https://keplerscience.arc.nasa.gov/reprocessed-data-for-k2-campaign-1-now-available.html</link><description>&lt;p&gt;The original data release for K2 Campaign 1 in 2014
 used a prior version of the pipeline (v9.2)
 which only produced "Type-1" FITS Target Pixel Files.
 The Campaign has now been re-processed using the mature 
@@ -97,7 +98,8 @@ will be observed for the entire duration of the campaign in long cadence
 and for 20 days in short cadence (IDs 200161173–200162430).&lt;/p&gt;
 &lt;p&gt;Compared to the original plan,
 the Campaign 12 field was rotated and shifted slightly
-in order to &lt;a href='/small-changes-to-campaigns-13-14-and-15.html'&gt;optimize spacecraft stability&lt;/a&gt; and to ensure the visibility of TRAPPIST-1.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Mon, 28 Nov 2016 15:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2016-11-28:k2-campaign-12-science-program-now-available.html</guid></item><item><title>Small changes to Campaigns 13, 14, and 15</title><link>https://keplerscience.arc.nasa.gov/small-changes-to-campaigns-13-14-and-15.html</link><description>&lt;p&gt;K2 users are alerted to a small but necessary adjustment
+in order to &lt;a href='/small-changes-to-campaigns-13-14-and-15.html'&gt;optimize spacecraft stability&lt;/a&gt; and to ensure the visibility of TRAPPIST-1.&lt;/p&gt;
+&lt;p&gt;&lt;a href="images/k2/k2-c12-field.png"&gt;&lt;img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c12-field.png"&gt;&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Mon, 28 Nov 2016 15:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2016-11-28:k2-campaign-12-science-program-now-available.html</guid></item><item><title>Small changes to Campaigns 13, 14, and 15</title><link>https://keplerscience.arc.nasa.gov/small-changes-to-campaigns-13-14-and-15.html</link><description>&lt;p&gt;K2 users are alerted to a small but necessary adjustment
 to the fields of Campaigns 13, 14, and 15.&lt;/p&gt;
 &lt;p&gt;To better compensate for the radiation pressure exerted by one of the
 spacecraft's low-gain antennae, these fields have been rotated by 0.365°.
