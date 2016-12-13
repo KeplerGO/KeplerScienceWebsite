@@ -417,12 +417,10 @@ You can learn more about the installation and usage of these tools [on the softw
 
 <div class="row">
   <div class="col-lg-6">
-    <b id="c4">Campaign 4</b>
-    <a href="images/k2/field4-final.png"><img class="img-responsive" src="images/k2/field4-final.png"></a>
+    <a href="images/k2/k2-c4-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c4-field.png" id="c4"></a>
   </div>
   <div class="col-lg-6">
-    <b id="c5">Campaign 5</b>
-    <a href="images/k2/field5-final.png"><img class="img-responsive" src="images/k2/field5-final.png"></a>
+    <a href="images/k2/k2-c5-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c5-field.png" id="c5"></a>
   </div>
 </div>
 
