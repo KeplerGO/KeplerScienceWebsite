@@ -47,3 +47,5 @@ and for 20 days in short cadence (IDs 200161173–200162430).
 Compared to the original plan,
 the Campaign 12 field was rotated and shifted slightly
 in order to <a href='/small-changes-to-campaigns-13-14-and-15.html'>optimize spacecraft stability</a> and to ensure the visibility of TRAPPIST-1.
+
+<a href="images/k2/k2-c12-field.png"><img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c12-field.png"></a>
