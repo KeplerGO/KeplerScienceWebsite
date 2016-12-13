@@ -400,7 +400,7 @@ submitting a K2 proposal to the GO call are provided below:
     [K2 GO Cycle 5 NRA](https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={D68A4380-B327-7C96-04CF-02B0FC940DBF}&path=open)
     and are summarized in the table below.   The
     right-hand column provides page limits for the package elements. Caveats to the page limits are provided as footnotes. *The page limits on this website override the NRA-generic limits within the handbook.*
-    Note that the Scientific/Technical/Management section of the
+    The Scientific/Technical/Management section of the
     Step 2 proposal, which consists of text, tables (excluding the
     target table), and figures must not exceed four pages for
     proposals in the Small category, or six pages for proposals in the
@@ -413,8 +413,8 @@ completed package uploaded to NSPIRES for the Scientific/Technical/Management
     section must not exceed 15 pages. If a large target
 table extends beyond the 15 page limit then truncate the table so that
 the page limit is not exceeded and make a note within the proposal
-that the table has been truncated. The page limits for the PI and Co-I biographies and
-    current and pending support are also defined below, and are 
+that the table has been truncated. Page limits for the PI and Co-I biographies and
+    current and pending support are defined below, and are 
     separate from the 15 page limit for the
     Scientific/Technical/Management section.  PIs should not feel compelled to
 meet the page limits, but must submit all items appropriate to their
@@ -424,7 +424,7 @@ proposal and should not exceed the page limits as defined below.
 <table class="table table-striped table-hover" style="max-width:70em;">
   <thead>
     <tr>
-      <th>Content</th>
+      <th>Required Content for Step 2 Proposals</th>
       <th>Page Limit</th>
     </tr>
   </thead>
@@ -447,7 +447,12 @@ proposal and should not exceed the page limits as defined below.
 	</tr>
 
 <tr>
-    <td>References and Target Table </td>
+    <td>Target Table </td>
+    <td>as needed</td>
+	</tr>
+
+<tr>
+    <td>References</td>
     <td>as needed</td>
 	</tr>
 
@@ -457,7 +462,7 @@ proposal and should not exceed the page limits as defined below.
 	</tr>
 
 <tr>
-    <td>Co-I Biography (per Co-I) </td>
+    <td>Co-I Biography </td>
     <td>1 per Co-I</td>
 	</tr>
 
@@ -496,12 +501,17 @@ In summary, proposers should:
   to one of the NASA archives (e.g., MAST or the NASA Exoplanet
   Database) for curation must also include a letter of acknowledgement from
   the relevant archive.**
-   * Although a detailed budget is not requested in either Step 1 or
-  Step 2 proposals, the statement of work in the Step 2 proposal
-  should clearly identify any and all members of the proposing team
+   * **Although a detailed budget is not requested in either Step 1 or
+  Step 2 proposals, the Step 2 proposal should include either a
+  statement of work or a table summarizing the work effort.  If the
+  statement of work is included in the Scientific/Technical/Management
+  section it will count against the page limit for that section, but a
+  table can be included as a separate section that will not count
+  against the Scientific/Technical/Management section page limit .**  The
+  statement of work should clearly identify any and all members of the proposing team
   who would receive funding under the proposed investigation. The
   funding amounts will be determined formulaically based on target
-  allocation.
+  allocation.**
   * **Special instructions for non-US PIs**<br/>
 During the submission process, non-US PI-led proposals will need to be
 affiliated to a submitting organization. Do this by clicking on the
