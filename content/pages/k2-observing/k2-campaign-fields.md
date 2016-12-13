@@ -428,63 +428,52 @@ You can learn more about the installation and usage of these tools [on the softw
 
 <div class="row">
   <div class="col-lg-6">
-    <b id="c6">Campaign 6</b>
-    <a href="images/k2/field6-final.png"><img class="img-responsive" src="images/k2/field6-final.png"></a>
+    <a href="images/k2/k2-c6-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c6-field.png" id="c6"></a>
   </div>
   <div class="col-lg-6">
-    <b id="c7">Campaign 7</b>
-    <a href="images/k2/field7-final.png"><img class="img-responsive" src="images/k2/field7-final.png"></a>
+    <a href="images/k2/k2-c7-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c7-field.png" id="c7"></a>
   </div>
 </div>
 
 <div class="row">
   <div class="col-lg-6">
-    <b id="c8">Campaign 8</b>
-    <a href="images/k2/field8-final.png"><img class="img-responsive" src="images/k2/field8-final.png"></a>
+    <a href="images/k2/k2-c8-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c8-field.png" id="c8"></a>
   </div>
   <div class="col-lg-6">
-    <b id="c9">Campaign 9</b>
-    <a href="images/campaign_selected/field9-final.png"><img class="img-responsive" src="images/campaign_selected/field9-final.png"></a>
+    <a href="images/k2/k2-c9-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c9-field.png" id="c9"></a>
   </div>
 </div>
 
 <div class="row">
   <div class="col-lg-6">
-    <b id="c10">Campaign 10</b>
-    <a href="images/campaign_selected/field10-final.png"><img class="img-responsive" src="images/campaign_selected/field10-final.png"></a>
+    <a href="images/k2/k2-c10-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c10-field.png" id="c10"></a>
   </div>
   <div class="col-lg-6">
-    <b id="c11">Campaign 11</b>
-    <a href="images/campaign_selected/field11-final.png"><img class="img-responsive" src="images/campaign_selected/field11-final.png"></a>
+    <a href="images/k2/k2-c11-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c11-field.png" id="c11"></a>
   </div>
 </div>
 
 <div class="row">
   <div class="col-lg-6">
-    <b id="c12">Campaign 12</b>
-    <a href="images/campaign_selected/field12-final.png"><img class="img-responsive" src="images/campaign_selected/field12-final.png"></a>
+    <a href="images/k2/k2-c12-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c12-field.png" id="c12"></a>
   </div>
   <div class="col-lg-6">
-    <b id="c13">Campaign 13</b>
-    <a href="images/campaign_selected/field13-final.png"><img class="img-responsive" src="images/campaign_selected/field13-final.png"></a>
+    <a href="images/k2/k2-c13-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c13-field.png" id="c13"></a>
   </div>
 </div>
 
 <div class="row">
   <div class="col-lg-6">
-    <b id="c14">Campaign 14</b>
-    <a href="images/campaign_selected/field14-final.png"><img class="img-responsive" src="images/campaign_selected/field14-final.png"></a>
+    <a href="images/k2/k2-c14-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c14-field.png" id="c14"></a>
   </div>
   <div class="col-lg-6">
-    <b id="c15">Campaign 15</b>
-    <a href="images/campaign_selected/field15-final.png"><img class="img-responsive" src="images/campaign_selected/field15-final.png"></a>
+    <a href="images/k2/k2-c15-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c15-field.png" id="c15"></a>
   </div>
 </div>
 
 <div class="row">
   <div class="col-lg-6">
-    <b id="c16">Campaign 16</b>
-    <a href="images/campaign_selected/field16-final.png"><img class="img-responsive" src="images/campaign_selected/field16-final.png"></a>
+    <a href="images/k2/k2-c16-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c16-field.png" id="c16"></a>
   </div>
   <div class="col-lg-6">
 
