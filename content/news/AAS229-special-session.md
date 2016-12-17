@@ -31,3 +31,6 @@ talks and posters will be presented throughout the meeting,
 and the missions will also operate a booth in the exhibit hall.
 
 (PS: Come early if you like warm pretzels!)
+
+<a href='images/news/aas2017-k2-tess-splinter-meeting.jpg'><img src='images/news/aas2017-k2-tess-splinter-meeting.jpg' class='img-responsive'></a>
+
