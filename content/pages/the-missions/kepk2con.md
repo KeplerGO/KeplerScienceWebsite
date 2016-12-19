@@ -87,6 +87,13 @@ which provides ample restaurant options.  Additional details coming soon.
 
 Details coming soon.
 
+### Code of Conduct
+
+We expect all attendees to agree with and abide by our <a
+href='../code.html'>code of conduct</a>.  Upon registration, attendees will be
+asked to click a box to confirm that they agree with this code.  If you have concerns, suggestions, or would like to report a
+violation, please contact Mark D. Messersmith at 650-793-5722 or Jessie Dotson at 650-701-7040.
+
 ### Organizing Committees
 
 *** Scientific Organizing Committee *** </br>
@@ -110,3 +117,4 @@ Details coming soon.
 * Knicole Colón, NASA Ames Research Center
 * Ellen O'Leary, NASA Exoplanet Science Institute
 * Wendy Stenzel, NASA Ames Research Center
+
