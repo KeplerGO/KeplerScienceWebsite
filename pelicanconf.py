@@ -108,9 +108,6 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b>15 Dec 2016</b>',
-             'K2 GO Cycle 5 Step-2 Deadline for Campaign 14-15-16 Targets',
-             'k2-proposing-targets.html#solicitations'),
             ('<b>22 Dec 2016</b>',
              'K2 Campaign 10 data release (expected)',
              'k2-fields.html'),
@@ -123,7 +120,7 @@ IMPORTANT_DATES = (
 MEETINGS = (
             ('<b>3–7 Jan 2017</b><br>'
              'Kepler/K2 Booth & Sessions at AAS 229',
-             'k2-tess-splinter-session-at-aas229-on-4-jan-2017'),
+             'k2-tess-splinter-session-at-aas229-on-4-jan-2017.html'),
             ('<b>1–3 Feb 2017</b><br>'
              '21st Microlensing Conference',
              'http://nexsci.caltech.edu/conferences/2017/microlensing/'),
