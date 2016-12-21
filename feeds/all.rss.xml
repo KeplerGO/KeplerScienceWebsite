@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Wed, 21 Dec 2016 10:30:00 -0800</lastBuildDate><item><title>K2 Campaign 10 data available</title><link>https://keplerscience.arc.nasa.gov/k2-campaign-10-data-available.html</link><description>&lt;p&gt;The pipeline-processed K2 Campaign 10 data are now available for download
+<rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Wed, 21 Dec 2016 10:30:00 -0800</lastBuildDate><item><title>K2 Campaign 10 data available</title><link>https://keplerscience.arc.nasa.gov/k2-campaign-10-data-available.html</link><description>&lt;p&gt;The pipeline-processed data for K2 Campaign 10 are now available for download
 from the &lt;a href="http://archive.stsci.edu/k2"&gt;K2 archive at MAST&lt;/a&gt;. &lt;/p&gt;
-&lt;p&gt;The data were processed in two separate sets. 
-The first six days of data, dubbed C10a, were collected with a pointing error of 3.3 pixels from the nominal field-of-view, so they were only processed through CAL to make Type 1 target pixel files and collateral data files.
-The remainder of the campaign, dubbed C10b, was processed through the entire photometry pipeline, creating Type 2 target pixel files, long-cadence light curves, and collateral data files.&lt;/p&gt;
+&lt;p&gt;The data were processed in two separate sets: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The first six days of data, dubbed C10a, were collected with a pointing error of 3.3 pixels from the nominal field-of-view, so they were only processed through CAL to make Type 1 target pixel files and collateral data files.&lt;/li&gt;
+&lt;li&gt;The remainder of the campaign, dubbed C10b, was processed through the entire photometry pipeline, creating Type 2 target pixel files, long-cadence light curves, and collateral data files.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;The C10a files are known in the archive under Campaign number 101,
 and the C10b files have Campaign number 102.
 A search for Campaign 10 will return both sets of files. &lt;/p&gt;
 &lt;p&gt;Another complexity is that &lt;a href="/break-in-science-collection-during-k2-campaign-10.html"&gt;module 4 was lost part way through C10b&lt;/a&gt;,
 which powered off the photometer and produced a 14-day data gap.&lt;/p&gt;
-&lt;p&gt;The C10 data release notes are being prepared and will be made available soon. 
+&lt;p&gt;The C10 data release notes are still being prepared and will be made available soon. 
 We strongly encourage users to read the release notes carefully. 
 This blog post will be updated with a link to the notes when they become available.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Wed, 21 Dec 2016 10:30:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2016-12-21:k2-campaign-10-data-available.html</guid></item><item><title>K2 Campaign 10 data processing complete</title><link>https://keplerscience.arc.nasa.gov/k2-campaign-10-data-processing-complete.html</link><description>&lt;p&gt;Pipeline processing for K2 Campaign 10 is now complete
 and the data are in the process of being shipped
