@@ -23,7 +23,7 @@ Save_as: helpdesk.html
 
 ### E-mail
 
-You can contact the Guest Observer Office at [keplergo@mail.arc.nasa.gov](keplergo@mail.arc.nasa.gov) for advice and information on:
+You can contact the Guest Observer Office at [keplergo@mail.arc.nasa.gov](mailto:keplergo@mail.arc.nasa.gov) for advice and information on:
 
 * the Kepler or K2 missions;
 * instrument characteristics;
