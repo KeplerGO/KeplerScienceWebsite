@@ -187,13 +187,35 @@ which provides ample restaurant options.
 
 ### Organizing Committee
 
-* Thomas Barclay - K2 GO Office
-* Geert Barentsen - K2 GO Office
-* Knicole Colón - K2 GO Office
-* Jessie Dotson - K2 Project Scientist
-* Steve Howell - NASA Ames
-* Mark Messersmith - K2 Business Office / Project Specialist
-* Brad Tucker - <a href='http://www.mso.anu.edu.au/kegs'>KEGS team</a>
+* Thomas Barclay (K2 GO Office)
+* Geert Barentsen (K2 GO Office)
+* Knicole Colón (K2 GO Office)
+* Jessie Dotson (K2 Project Scientist)
+* Steve Howell (NASA Ames)
+* Mark Messersmith (K2 Business Office / Project Specialist)
+* Susan Mullally (NASA Ames)
+* Brad Tucker (<a href='http://www.mso.anu.edu.au/kegs'>KEGS team</a>)
+
+
+### Participants list
+
+(Last update: Dec 26, 2016.)
+
+* Rick Edelson (Maryland)
+* Andy Howell (LCO)
+* Daniel Kasen (UC Berkeley)
+* Anais Möller (ANU)
+* Jakob Nordin (Humboldt Berlin)
+* Armin Rest (STScI)
+* Ryan Ridden-Harper (ANU)
+* Marton Rozsahegyi (Konkoly)
+* Krisztian Sarneczky (Konkoly)
+* Ed Shaya (Maryland)
+* Georgina Lee Taylor (ANU)
+* Steven Margheim (Gemini)
+* Ashley Villar (CfA)
+* Jozsef Vinko (Konkoly)
+* Alfredo Andres Zenteno Vivanco (NOAO/CTIO)
 
 
 ### Registration
@@ -207,5 +229,7 @@ This event is not suitable for undergraduate students or members of the general 
 
 <b class="text-danger">Registration deadline: January 9th, 2017.</b>
 It is essential that non-US citizens apply before the deadline to gain access to the meeting venue.
+
+Please contact <a href="mailto:keplergo@mail.arc.nasa.gov">keplergo@mail.arc.nasa.gov</a> if you have any questions.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScrThzG5AVrhydaXQlLssJb_kVj2NcqldOPuOsJVqDyd19hmw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
