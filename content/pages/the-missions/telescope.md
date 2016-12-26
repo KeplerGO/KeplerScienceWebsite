@@ -40,13 +40,12 @@ An image of the field of view observed in the Kepler mission is shown below.
 <br/>
 
 The K2 mission observes a different field every ~80 days.  For
-comparison to the prime Kepler mission field, the field of view of K2 Campaign 2 is shown below
-(note the two dead modules; a third module located in the upper right
-of this image has failed as of August 2016).
+comparison to the prime Kepler mission field, the field of view of K2 Campaign 10 is shown below
+(note the three dead modules as of August 2016).
 
 <br/>
 
-<img class="img-responsive" style="max-width:67%;" src="images/fullFFIpink-300dpi.jpg">
+<img class="img-responsive" style="max-width:67%;" src="images/c10ffi.png">
 
 <br/>
 

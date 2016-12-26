@@ -203,7 +203,7 @@ Campaign 9b
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
-      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/">Target pixel files (MAST)</a>
+      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c92/">Target pixel files (MAST)</a>
     </li>
   </ul>
 
@@ -250,7 +250,7 @@ Campaign 9a
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
-      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/">Target pixel files (MAST)</a>
+      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c91/">Target pixel files (MAST)</a>
     </li>
   </ul>
 
