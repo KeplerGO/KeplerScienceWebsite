@@ -7,7 +7,7 @@ Live URL: http://keplerscience.arc.nasa.gov
 Test URL: http://keplergo.github.io/KeplerScienceWebsite/
 
 
-### Quickstart
+## Quickstart
 
 Kepler/K2's Science Center Website can be edited
 by modifying the text files in the `content` sub-directory of this repository,
@@ -118,12 +118,13 @@ Note that it may take up to 5-10 minutes for changes to become visible after
 `make live` completed, and occasionally you may need to ask the GO Office
 to restart the task that keeps the webserver in sync.
 
-If you are no quite ready to make your changes live,
+If you are not quite ready to make your changes live,
 but would to make them available at a test URL,
-you can type `make github` which will deploy the website to the [Test URL](http://keplergo.github.io/KeplerScienceWebsite/).
+you can type `make github` which will deploy the website
+at the [Test URL](http://keplergo.github.io/KeplerScienceWebsite/).
 
 
-## Makefile summary
+## Makefile tasks
 
 The Makefile provides the following useful commands:
 * `make html` to compile *all pages* and store them under `output/`.
