@@ -9,35 +9,52 @@ Test URL: http://keplergo.github.io/KeplerScienceWebsite/
 
 ## Instructions for website editors
 
-### Installation
-
-Before editing and compiling the website, you will need to ensure that the `pelican`, `markdown`, `beautifulsoup4`, and `ghp-import` Python packages are installed, e.g. using:
+To obtain the source files, compile the website,
+and preview it in a local browser, you would run:
 ```
-pip install pelican markdown beautifulsoup4 ghp-import
+$ git clone git@github.com:KeplerGO/KeplerScienceWebsite.git
+$ cd KeplerScienceWebsite
+$ make devserver
+$ firefox http://localhost:8000
+```
+In what follows these steps are explained in more detail.
+
+
+### 1. Cloning the website
+
+The first step to start editing the website is to clone the latest version
+of the source files on your local machine.
+Assuming you have `git` installed, you can do:
+```
+git clone git@github.com:KeplerGO/KeplerScienceWebsite.git
 ```
 
-If `markdown` is not installed you may get a very cryptic warning message (`"No valid files found in content."`) when running `make html` below.
+
+### 2. Installing the dependencies
+
+Compiling the website requires a working environment of either Python 2 or 3
+to be installed.
+You will also need to ensure that the `pelican`, `markdown`, `beautifulsoup4`,
+and `ghp-import` Python packages are installed,
+e.g. using the pip package installer:
+```
+$ pip install pelican markdown beautifulsoup4 ghp-import
+```
+
+If `markdown` is not installed you'll get a very cryptic warning message (`"No valid files found in content."`) when compiling the website.
 
 
-### Editing and compiling the website
+### 3. Editing the website
 
-The website's contents are stored as a collection of MarkDown-formatted text files in the `content/` directory.
-Changes are to be made directly in those files.
+The website pages are stored as a collection of text files
+in the `content/` sub-directory of this repository,
+which is where all changes must be made.
 
-After editing the content, you can compile a local preview of the website in HTML format
-using one of the following commands:
-* `make html` to create a full local build of the website under `output/`.
-* `make quick` for a quick build of pages that have changed.  This is faster than `make html` but it causes the frontpage to be empty.
-* `make devserver` to start a development webserver on your local machine at `http://localhost:8000`, which will auto-compile a page when you make a change. This too causes the frontpage to be empty unless you call `make html`.
-
-When you are ready to upload the website, use:
-* `make github` to deploy the website to the [Test URL](http://keplergo.github.io/KeplerScienceWebsite/).
-* `make live` to deploy the website to the [Live URL](http://keplerscience.arc.nasa.gov).
-
-Note: `make quick` and `make devserver` both use agressive caching which allows the website to be built quickly, but causes the listing of news items to be missing from the front page (`output/index.html`).  You need to call `make html` if you care about a preview of the front page. Calling `make github` or `make live` automatically triggers `make html`.
-
-
-### Layout and html elements
+Most of these content text files are formatted using *MarkDown* ([cheat sheet here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)),
+which will automatically be compiled into HTML code in the steps below.
+You may also use HTML code in the content text files,
+but this will only be necessary in a small number of cases where
+a particularly precise control over the layout is required.
 
 The website's theme is based on the `flatly` bootstrap theme.
 This means that you can use all the html elements and classes
@@ -53,6 +70,60 @@ The content can be defined in MarkDown (md), ReStructuredText (rst),
 or simply html.  There is a useful Markdown cheat sheet here:
 
     https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+
+### 4. Compiling and previewing the website
+
+After editing the content, you will usually want to preview your changes
+by compiling the website into HTML format and viewing them in your browser.
+
+The easiest way to do this is to type `make devserver` in the root of this
+repository, which will start a local server in the background
+that will serve the website at `http://localhost:8000`
+(type this address in the url bar of your browser to preview the website).
+The server is fast and will auto-compile every time you change a file
+in the `contents/` directory, however note that it does not create a full
+version of the front page (you need to call `make html` for that).
+
+When you are done, you can kill the background server process using `make stopserver`.
+
+
+### 5. Uploading the website
+
+When you are happy with the changes made, you can make them live.
+This is a 2-step process:
+
+First, make sure to push the changes you made in the `content` directory
+to the KeplerGO git repository.  For example, if you changed the Helpdesk page,
+you would type:
+```
+$ git add content/pages/helpdesk.md`
+$ git commit -m 'Changed the helpdesk e-mail address'
+$ git push
+```
+
+Second, you will want to send a new HTML-compiled version of the website
+to the [production webserver](http://keplerscience.arc.nasa.gov).
+This is done by typing `make live`.
+Note that it may take up to 5-10 minutes for changes to become visible after
+`make live` completed, and occasionally you may need to ask the GO Office
+to restart the task that updates the webserver automatically.
+
+If you are no quite ready to make your changes live,
+but would to make them available at a test URL to be previewed by others,
+you can type `make github` which will deploy the website to the [Test URL](http://keplergo.github.io/KeplerScienceWebsite/).
+
+
+## Makefile summary
+
+The Makefile provides the following useful commands:
+* `make html` to compile *all pages* and store them under `output/`.
+* `make quick` to compile *only pages that have changed*.  This is faster than `make html` but will cause the front and news pages to be incomplete.
+* `make devserver` to start a development webserver on your local machine at `http://localhost:8000`, which will auto-compile a page when you make a change. This too causes the frontpage to be empty unless you call `make html`.
+* `make live` to send the compiled HTML files to the [production server](http://keplerscience.arc.nasa.gov) (this is done indirectly by updating the `live` branch).
+* `make github` to send the compiled HTML files to the [development server](http://keplergo.github.io/KeplerScienceWebsite/).
+
+Note: `make quick` and `make devserver` both use agressive caching which allows the website to be built quickly, but causes the listing of news items to be missing from the front page (`output/index.html`).  You need to call `make html` if you care about a preview of the front page. Calling `make github` or `make live` automatically triggers `make html`.
 
 
 ## Authors
