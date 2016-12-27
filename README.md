@@ -10,7 +10,9 @@ Test URL: http://keplergo.github.io/KeplerScienceWebsite/
 ### Quickstart
 
 Kepler/K2's Science Center Website can be edited
-by modifying the text files in the `content` sub-directory of this repository.
+by modifying the text files in the `content` sub-directory of this repository,
+compiling them using `make html` (or `make devserver`),
+and sending them to the server using `make live`.
 The essential commands for Kepler/K2 staff are:
 ```
 $ git clone git@github.com:KeplerGO/KeplerScienceWebsite.git
