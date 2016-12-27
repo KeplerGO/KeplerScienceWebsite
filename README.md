@@ -9,11 +9,18 @@ Test URL: http://keplergo.github.io/KeplerScienceWebsite/
 
 ### Quickstart
 
+The essential commands are:
 ```
 $ git clone git@github.com:KeplerGO/KeplerScienceWebsite.git
 $ cd KeplerScienceWebsite
 $ make devserver
 $ firefox http://localhost:8000
+# make changes in the `content` sub-directory ...
+$ git add content/file-you-changed.md
+$ git commit -m 'Explain your change'
+$ git push
+$ make live
+$ make stopserver
 ```
 In what follows these steps are explained in more detail.
 
@@ -83,8 +90,8 @@ When you are done, you can kill the background server process using `make stopse
 When you are happy with the changes made, you can make them live.
 This is a 3-step process.
 
-First, make sure you update the repository to include any changes others may have made
-in meanwhile, and resolve any conflicts if necessary, i.e. make sure to run:
+First, make sure you update the repository to include changes others have made
+(and resolve any conflicts), e.g. using
 ```
 $ git pull
 ```
