@@ -1,16 +1,14 @@
 # Kepler/K2 Science Website [![DOI](https://zenodo.org/badge/10301/KeplerGO/KeplerScienceWebsite.svg)](https://zenodo.org/badge/latestdoi/10301/KeplerGO/KeplerScienceWebsite)
 
-***The website for astronomers using data from NASA's Kepler/K2 mission.***
+***The website for astronomers using data from NASA's Kepler/K2 space telescope.***
 
 Live URL: http://keplerscience.arc.nasa.gov
 
 Test URL: http://keplergo.github.io/KeplerScienceWebsite/
 
 
-## Instructions for website editors
+### Quickstart
 
-To obtain the source files, compile the website,
-and preview it in a local browser, you would run:
 ```
 $ git clone git@github.com:KeplerGO/KeplerScienceWebsite.git
 $ cd KeplerScienceWebsite
@@ -19,21 +17,24 @@ $ firefox http://localhost:8000
 ```
 In what follows these steps are explained in more detail.
 
+## Detailed instructions for website editors
 
 ### 1. Cloning the website
 
-The first step to start editing the website is to clone the latest version
-of the source files on your local machine.
-Assuming you have `git` installed, you can do:
+The first step to start editing the website is to clone the website's main git repository
+onto your local machine, e.g. using:
 ```
 git clone git@github.com:KeplerGO/KeplerScienceWebsite.git
 ```
-
+If you are going to make changes to the website,
+you will need to ask the Kepler GO Office
+to give your GitHub account write permissions to this repository.
 
 ### 2. Installing the dependencies
 
 Compiling the website requires a working environment of either Python 2 or 3
-to be installed.
+to be installed, e.g. using the Anaconda Python Distribution.
+
 You will also need to ensure that the `pelican`, `markdown`, `beautifulsoup4`,
 and `ghp-import` Python packages are installed,
 e.g. using the pip package installer:
@@ -41,36 +42,24 @@ e.g. using the pip package installer:
 $ pip install pelican markdown beautifulsoup4 ghp-import
 ```
 
-If `markdown` is not installed you'll get a very cryptic warning message (`"No valid files found in content."`) when compiling the website.
-
+Note that if `markdown` is not installed, you will only get a very cryptic warning message (`"No valid files found in content."`) when compiling the website below.
 
 ### 3. Editing the website
 
-The website pages are stored as a collection of text files
-in the `content/` sub-directory of this repository,
+The website content is stored as a collection of text files
+in the `content` sub-directory of this repository,
 which is where all changes must be made.
 
-Most of these content text files are formatted using *MarkDown* ([cheat sheet here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)),
-which will automatically be compiled into HTML code in the steps below.
-You may also use HTML code in the content text files,
-but this will only be necessary in a small number of cases where
-a particularly precise control over the layout is required.
+Most of these content files are formatted using the *MarkDown* text format ([see cheat sheet here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)),
+which will automatically be compiled into HTML code using a template (to be explained in step 4).
+You may also use HTML tags directly in the content files,
+but this should only be necessary in a small number of cases where
+very precise control over the layout is required.
 
-The website's theme is based on the `flatly` bootstrap theme.
+Note that the website's template is based on the `flatly` bootstrap theme.
 This means that you can use all the html elements and classes
-which are demonstrated here:
-
-    https://bootswatch.com/flatly/
-
-and of course the `bootstrap` css classes can be used as well:
-
-    http://getbootstrap.com/css
-
-The content can be defined in MarkDown (md), ReStructuredText (rst),
-or simply html.  There is a useful Markdown cheat sheet here:
-
-    https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
+which are demonstrated at [https://bootswatch.com/flatly](https://bootswatch.com/flatly).
+In addition, you can also use all the standard [bootstrap css classes](http://getbootstrap.com/css).    
 
 ### 4. Compiling and previewing the website
 
@@ -81,9 +70,10 @@ The easiest way to do this is to type `make devserver` in the root of this
 repository, which will start a local server in the background
 that will serve the website at `http://localhost:8000`
 (type this address in the url bar of your browser to preview the website).
-The server is fast and will auto-compile every time you change a file
-in the `contents/` directory, however note that it does not create a full
-version of the front page (you need to call `make html` for that).
+The server is fast and will auto-compile every time you change a content file,
+however note that it does not create a full
+version of the front page:
+you need to perform a full build using `make html` to preview the front page.
 
 When you are done, you can kill the background server process using `make stopserver`.
 
@@ -91,26 +81,32 @@ When you are done, you can kill the background server process using `make stopse
 ### 5. Uploading the website
 
 When you are happy with the changes made, you can make them live.
-This is a 2-step process:
+This is a 3-step process.
 
-First, make sure to push the changes you made in the `content` directory
-to the KeplerGO git repository.  For example, if you changed the Helpdesk page,
-you would type:
+First, make sure you update the repository to include any changes others may have made
+in meanwhile, and resolve any conflicts if necessary, i.e. make sure to run:
+```
+$ git pull
+```
+
+Second, commit and push your own changes to the KeplerGO git repository
+so they are available to others.
+For example, if you changed the Helpdesk page, you would type:
 ```
 $ git add content/pages/helpdesk.md`
 $ git commit -m 'Changed the helpdesk e-mail address'
 $ git push
 ```
 
-Second, you will want to send a new HTML-compiled version of the website
+Finally, you can now send the new HTML-compiled version of the website
 to the [production webserver](http://keplerscience.arc.nasa.gov).
 This is done by typing `make live`.
 Note that it may take up to 5-10 minutes for changes to become visible after
 `make live` completed, and occasionally you may need to ask the GO Office
-to restart the task that updates the webserver automatically.
+to restart the task that keeps the webserver in sync.
 
 If you are no quite ready to make your changes live,
-but would to make them available at a test URL to be previewed by others,
+but would to make them available at a test URL,
 you can type `make github` which will deploy the website to the [Test URL](http://keplergo.github.io/KeplerScienceWebsite/).
 
 
