@@ -15,12 +15,14 @@ $ git clone git@github.com:KeplerGO/KeplerScienceWebsite.git
 $ cd KeplerScienceWebsite
 $ make devserver
 $ firefox http://localhost:8000
-# make changes in the `content` sub-directory ...
+
+# make changes in the `content` sub-directory
+# and preview them at http://localhost:8000
+
 $ git add content/file-you-changed.md
 $ git commit -m 'Explain your change'
 $ git push
 $ make live
-$ make stopserver
 ```
 In what follows these steps are explained in more detail.
 
