@@ -1,6 +1,6 @@
 # Kepler/K2 Science Website [![DOI](https://zenodo.org/badge/10301/KeplerGO/KeplerScienceWebsite.svg)](https://zenodo.org/badge/latestdoi/10301/KeplerGO/KeplerScienceWebsite)
 
-***The website for astronomers using data from NASA's Kepler/K2 space telescope.***
+***The website for astronomers using NASA's Kepler/K2 space telescope.***
 
 Live URL: http://keplerscience.arc.nasa.gov
 
@@ -9,7 +9,9 @@ Test URL: http://keplergo.github.io/KeplerScienceWebsite/
 
 ### Quickstart
 
-The essential commands are:
+Kepler/K2's Science Center Website can be edited
+by modifying the text files in the `content` sub-directory of this repository.
+The essential commands for Kepler/K2 staff are:
 ```
 $ git clone git@github.com:KeplerGO/KeplerScienceWebsite.git
 $ cd KeplerScienceWebsite
