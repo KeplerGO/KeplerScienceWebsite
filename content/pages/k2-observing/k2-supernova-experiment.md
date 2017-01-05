@@ -199,14 +199,18 @@ which provides ample restaurant options.
 
 ### Participants list
 
-(Last update: Dec 26, 2016.)
+(Last update: Jan 5, 2017.)
 
+* Greg Aldering (Berkeley Lab)
 * Rick Edelson (Maryland)
+* Ravi Gupta (Berkeley Lab)
 * Andy Howell (LCO)
+* Saurabh Jha (Rutgers University)
 * Daniel Kasen (UC Berkeley)
 * Anais Möller (ANU)
 * Jakob Nordin (Humboldt Berlin)
 * Armin Rest (STScI)
+* Jeonghee Rho (SETI/NASA Ames/SOFIA)
 * Ryan Ridden-Harper (ANU)
 * Marton Rozsahegyi (Konkoly)
 * Krisztian Sarneczky (Konkoly)
