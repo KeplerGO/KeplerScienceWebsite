@@ -18,8 +18,8 @@ directorate.*
 
 The Guest Observer office curates a list of scientific publications
 pertaining to Kepler and K2.
-The database contains 2037 publications,
-of which 1778 are peer-reviewed.
+The database contains 2070 publications,
+of which 1795 are peer-reviewed.
 It demonstrates the important impact of Kepler/K2 data
 on astronomical research.
 
@@ -36,7 +36,7 @@ Or by topic:
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/KeplerGO/kpub">GitHub repository</a> of the database.
 
-Last update: 09 Dec 2016.
+Last update: 04 Jan 2017.
 
 <hr/>
 
@@ -44,9 +44,9 @@ Last update: 09 Dec 2016.
 
 The graph below shows the number of publications as a function
 of year and mission.
-The publication count for Kepler is 1838
-while that of K2 is 199.
-The number of refereed papers is 1621 for Kepler and 157 for K2.
+The publication count for Kepler is 1863
+while that of K2 is 207.
+The number of refereed papers is 1633 for Kepler and 162 for K2.
 
 ![Publication rate by mission and year]({filename}/images/kpub/kpub-publication-rate.png)
 
@@ -56,9 +56,9 @@ The number of refereed papers is 1621 for Kepler and 157 for K2.
 
 Both Kepler and K2 data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 965 works relate to exoplanets
+While 980 works relate to exoplanets
 (47%),
-a total of 1071
+a total of 1089
 pertain to other areas of astrophysics
 (53%).
 
@@ -70,7 +70,7 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 Kepler/K2 publications have cumulatively been cited
-52900 times.
+52918 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -190,7 +190,7 @@ within the last 90 days.
 ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 3690 unique author names.
+by a total of 3714 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
 
@@ -200,112 +200,118 @@ Here we list the most-active authors, defined as those with six or more first-au
 
  * Borucki, W (13 publications)
 
- * Jenkins, J (12 publications)
-
- * Stello, D (12 publications)
-
  * Murphy, S (12 publications)
 
  * Steffen, J (12 publications)
+
+ * Stello, D (12 publications)
+
+ * Jenkins, J (12 publications)
 
  * Kane, S (11 publications)
 
  * Savanov, I (11 publications)
 
+ * Armstrong, D (11 publications)
+
  * Huber, D (11 publications)
+
+ * Hekker, S (10 publications)
 
  * Scaringi, S (10 publications)
 
  * Baran, A (10 publications)
 
- * Armstrong, D (10 publications)
-
- * Hekker, S (10 publications)
+ * Wang, J (9 publications)
 
  * Gaidos, E (9 publications)
+
+ * Chaplin, W (9 publications)
+
+ * Lee, J (9 publications)
+
+ * Kjurkchieva, D (9 publications)
 
  * Mathur, S (9 publications)
 
  * Molenda-Zakowicz, J (9 publications)
 
- * Kjurkchieva, D (9 publications)
+ * Guzik, J (8 publications)
 
- * Chaplin, W (9 publications)
-
- * Wang, J (9 publications)
-
- * Rappaport, S (8 publications)
-
- * Lund, M (8 publications)
+ * Campante, T (8 publications)
 
  * Kato, T (8 publications)
-
- * Silva Aguirre, V (8 publications)
-
- * Lillo-Box, J (8 publications)
-
- * Santerne, A (8 publications)
-
- * Ramsay, G (8 publications)
 
  * Howell, S (8 publications)
 
  * Van Eylen, V (8 publications)
 
- * Ostensen, R (8 publications)
+ * Santerne, A (8 publications)
 
- * Campante, T (8 publications)
+ * Rappaport, S (8 publications)
 
  * Mosser, B (8 publications)
 
+ * Lillo-Box, J (8 publications)
+
+ * Silva Aguirre, V (8 publications)
+
  * Sanchis-Ojeda, R (8 publications)
 
- * Tkachenko, A (7 publications)
+ * Lund, M (8 publications)
+
+ * Ramsay, G (8 publications)
+
+ * Ostensen, R (8 publications)
 
  * Gilliland, R (7 publications)
 
- * Guzik, J (7 publications)
+ * Beck, P (7 publications)
 
- * Vanderburg, A (7 publications)
+ * Tkachenko, A (7 publications)
 
  * Dawson, R (7 publications)
 
  * Metcalfe, T (7 publications)
 
- * Beck, P (7 publications)
-
- * Lee, J (7 publications)
+ * Vanderburg, A (7 publications)
 
  * Mann, A (7 publications)
 
- * Demory, B (6 publications)
+ * Szabo, R (6 publications)
 
- * Hirano, T (6 publications)
-
- * Ballard, S (6 publications)
-
- * Batalha, N (6 publications)
-
- * Morton, T (6 publications)
-
- * Heller, R (6 publications)
-
- * Papics, P (6 publications)
-
- * Lopez, E (6 publications)
-
- * Corsaro, E (6 publications)
+ * Molnar, L (6 publications)
 
  * Barclay, T (6 publications)
 
+ * Hermes, J (6 publications)
+
+ * Morton, T (6 publications)
+
+ * Batalha, N (6 publications)
+
+ * Ballard, S (6 publications)
+
+ * Lopez, E (6 publications)
+
  * Karoff, C (6 publications)
 
+ * Koch, D (6 publications)
+
+ * Hirano, T (6 publications)
+
+ * Demory, B (6 publications)
+
+ * Corsaro, E (6 publications)
+
+ * Faigler, S (6 publications)
+
  * Bonomo, A (6 publications)
+
+ * Heller, R (6 publications)
 
  * Hippke, M (6 publications)
 
  * Lissauer, J (6 publications)
 
- * Koch, D (6 publications)
-
- * Szabo, R (6 publications)
+ * Papics, P (6 publications)
