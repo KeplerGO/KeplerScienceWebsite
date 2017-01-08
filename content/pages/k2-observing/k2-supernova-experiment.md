@@ -199,14 +199,16 @@ which provides ample restaurant options.
 
 ### Participants list
 
-(Last update: Jan 5, 2017.)
+(Last update: Jan 8, 2017.)
 
 * Greg Aldering (Berkeley Lab)
 * Rick Edelson (Maryland)
+* Ryan Foley (UC Santa Cruz)
 * Ravi Gupta (Berkeley Lab)
 * Andy Howell (LCO)
 * Saurabh Jha (Rutgers University)
 * Daniel Kasen (UC Berkeley)
+* Patrick Kelly (UC Berkeley)
 * Anais Möller (ANU)
 * Jakob Nordin (Humboldt Berlin)
 * Armin Rest (STScI)
@@ -217,6 +219,7 @@ which provides ample restaurant options.
 * Ed Shaya (Maryland)
 * Georgina Lee Taylor (ANU)
 * Steven Margheim (Gemini)
+* Adam Rubin (Weizmann)
 * Ashley Villar (CfA)
 * Jozsef Vinko (Konkoly)
 * Alfredo Andres Zenteno Vivanco (NOAO/CTIO)
