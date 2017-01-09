@@ -1,4 +1,4 @@
-# Kepler/K2 Science Website [![DOI](https://zenodo.org/badge/10301/KeplerGO/KeplerScienceWebsite.svg)](https://zenodo.org/badge/latestdoi/10301/KeplerGO/KeplerScienceWebsite)
+# Kepler/K2 Science Website [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.236317.svg)](https://doi.org/10.5281/zenodo.236317)
 
 ***The website for astronomers using NASA's Kepler/K2 space telescope.***
 
