@@ -199,12 +199,16 @@ which provides ample restaurant options.
 
 ### Participants list
 
-(Last update: Jan 8, 2017.)
+(Last update: Jan 10, 2017.)
 
 * Greg Aldering (Berkeley Lab)
+* Kyle Barbary (UC Berkeley)
+* Dave Coulter (UC Santa Cruz)
 * Rick Edelson (Maryland)
 * Ryan Foley (UC Santa Cruz)
+* Peter Garnavich (Notre Dame)
 * Ravi Gupta (Berkeley Lab)
+* Brian Hayden (UC Berkeley)
 * Andy Howell (LCO)
 * Saurabh Jha (Rutgers University)
 * Daniel Kasen (UC Berkeley)
@@ -215,7 +219,9 @@ which provides ample restaurant options.
 * Jeonghee Rho (SETI/NASA Ames/SOFIA)
 * Ryan Ridden-Harper (ANU)
 * Marton Rozsahegyi (Konkoly)
+* Adam Rubin (Weizmann)
 * Krisztian Sarneczky (Konkoly)
+* Benjamin Shappee (Carnegie)
 * Ed Shaya (Maryland)
 * Georgina Lee Taylor (ANU)
 * Steven Margheim (Gemini)
