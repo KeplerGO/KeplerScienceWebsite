@@ -15,53 +15,53 @@ Save_as: kpub-kepler-by-month.html
 2017-03
 -------
 
-1. [TRANSIT SHAPES AND SELF-ORGANIZING MAPS AS A TOOL FOR RANKING PLANETARY CANDIDATES: APPLICATION TO KEPLER AND K2](http://adsabs.harvard.edu/abs/2017MNRAS.465.2634A)  
-Armstrong, D. J., Pollacco, D., Santerne, A.    
-2017, refereed ([2017MNRAS.465.2634A](http://adsabs.harvard.edu/abs/2017MNRAS.465.2634A))  
+1. [THE ROLE OF DISC SELF-GRAVITY IN CIRCUMBINARY PLANET SYSTEMS Â I. DISC STRUCTURE AND EVOLUTION](http://adsabs.harvard.edu/abs/2017MNRAS.465.4735M)  
+Mutter, Matthew M., Pierens, Arnaud, Nelson, Richard P.    
+2017, refereed ([2017MNRAS.465.4735M](http://adsabs.harvard.edu/abs/2017MNRAS.465.4735M))  
 
-2. [PULSATION VERSUS METALLICISM IN AM STARS AS REVEALED BY LAMOST AND WASP](http://adsabs.harvard.edu/abs/2017MNRAS.465.2662S)  
-Smalley, B., Antoci, V., Holdsworth, D. L., et al.    
-2017, refereed ([2017MNRAS.465.2662S](http://adsabs.harvard.edu/abs/2017MNRAS.465.2662S))  
-
-3. [TRANSIT CLAIRVOYANCE: ENHANCING TESS FOLLOW-UP USING ARTIFICIAL NEURAL NETWORKS](http://adsabs.harvard.edu/abs/2017MNRAS.465.3495K)  
-Kipping, David M., Lam, Christopher    
-2017, refereed ([2017MNRAS.465.3495K](http://adsabs.harvard.edu/abs/2017MNRAS.465.3495K))  
-
-4. [CIRCUMBINARY PLANETS - II. WHEN TRANSITS COME AND GO](http://adsabs.harvard.edu/abs/2017MNRAS.465.3235M)  
+2. [CIRCUMBINARY PLANETS - II. WHEN TRANSITS COME AND GO](http://adsabs.harvard.edu/abs/2017MNRAS.465.3235M)  
 Martin, David V.    
 2017, refereed ([2017MNRAS.465.3235M](http://adsabs.harvard.edu/abs/2017MNRAS.465.3235M))  
 
+3. [TRANSIT SHAPES AND SELF-ORGANIZING MAPS AS A TOOL FOR RANKING PLANETARY CANDIDATES: APPLICATION TO KEPLER AND K2](http://adsabs.harvard.edu/abs/2017MNRAS.465.2634A)  
+Armstrong, D. J., Pollacco, D., Santerne, A.    
+2017, refereed ([2017MNRAS.465.2634A](http://adsabs.harvard.edu/abs/2017MNRAS.465.2634A))  
+
+4. [PULSATION VERSUS METALLICISM IN AM STARS AS REVEALED BY LAMOST AND WASP](http://adsabs.harvard.edu/abs/2017MNRAS.465.2662S)  
+Smalley, B., Antoci, V., Holdsworth, D. L., et al.    
+2017, refereed ([2017MNRAS.465.2662S](http://adsabs.harvard.edu/abs/2017MNRAS.465.2662S))  
+
 5. [A NEW YIELD SIMULATOR FOR TRANSITING PLANETS AND FALSE POSITIVES: APPLICATION TO THE NEXT GENERATION TRANSIT SURVEY](http://adsabs.harvard.edu/abs/2017MNRAS.465.3379G)  
-Günther, Maximilian N., Queloz, Didier, Demory, Brice-Olivier, et al.    
+GĂźnther, Maximilian N., Queloz, Didier, Demory, Brice-Olivier, et al.    
 2017, refereed ([2017MNRAS.465.3379G](http://adsabs.harvard.edu/abs/2017MNRAS.465.3379G))  
 
-6. [THE ROLE OF DISC SELF-GRAVITY IN CIRCUMBINARY PLANET SYSTEMS ─ I. DISC STRUCTURE AND EVOLUTION](http://adsabs.harvard.edu/abs/2017MNRAS.465.4735M)  
-Mutter, Matthew M., Pierens, Arnaud, Nelson, Richard P.    
-2017, refereed ([2017MNRAS.465.4735M](http://adsabs.harvard.edu/abs/2017MNRAS.465.4735M))  
+6. [TRANSIT CLAIRVOYANCE: ENHANCING TESS FOLLOW-UP USING ARTIFICIAL NEURAL NETWORKS](http://adsabs.harvard.edu/abs/2017MNRAS.465.3495K)  
+Kipping, David M., Lam, Christopher    
+2017, refereed ([2017MNRAS.465.3495K](http://adsabs.harvard.edu/abs/2017MNRAS.465.3495K))  
 
 
 2017-02
 -------
 
 1. [THE ORIGIN AND 9:7 MMR DYNAMICS OF THE KEPLER-29 SYSTEM](http://adsabs.harvard.edu/abs/2017MNRAS.465.2366M)  
-Migaszewski, Cezary, Goździewski, Krzysztof, Panichi, Federico    
+Migaszewski, Cezary, GoĹşdziewski, Krzysztof, Panichi, Federico    
 2017, refereed ([2017MNRAS.465.2366M](http://adsabs.harvard.edu/abs/2017MNRAS.465.2366M))  
 
-2. [KIC 2831097 - A 2-YR-ORBITAL-PERIOD RR LYRAE BINARY CANDIDATE](http://adsabs.harvard.edu/abs/2017MNRAS.465L...1S)  
-Sódor, Á., Skarka, M., Liška, J., et al.    
-2017, refereed ([2017MNRAS.465L...1S](http://adsabs.harvard.edu/abs/2017MNRAS.465L...1S))  
+2. [A NEW ASTEROSEISMIC DIAGNOSTIC FOR INTERNAL ROTATION IN ÎŁ DORADUS STARS](http://adsabs.harvard.edu/abs/2017MNRAS.465.2294O)  
+Ouazzani, Rhita-Maria, Salmon, S. J. A. J., Antoci, V., et al.    
+2017, refereed ([2017MNRAS.465.2294O](http://adsabs.harvard.edu/abs/2017MNRAS.465.2294O))  
 
-3. [THE EFFECTS OF NEAR-CORE CONVECTIVE SHELLS ON THE GRAVITY MODES OF THE SUBDWARF B PULSATOR KIC 10553698A](http://adsabs.harvard.edu/abs/2017MNRAS.465.1518G)  
-Ghasemi, H., Moravveji, E., Aerts, C., et al.    
-2017, refereed ([2017MNRAS.465.1518G](http://adsabs.harvard.edu/abs/2017MNRAS.465.1518G))  
-
-4. [A SIMPLE MODEL TO DESCRIBE INTRINSIC STELLAR NOISE FOR EXOPLANET DETECTION AROUND RED GIANTS](http://adsabs.harvard.edu/abs/2017MNRAS.465.1308N)  
+3. [A SIMPLE MODEL TO DESCRIBE INTRINSIC STELLAR NOISE FOR EXOPLANET DETECTION AROUND RED GIANTS](http://adsabs.harvard.edu/abs/2017MNRAS.465.1308N)  
 North, Thomas S. H., Chaplin, William J., Gilliland, Ronald L., et al.    
 2017, refereed ([2017MNRAS.465.1308N](http://adsabs.harvard.edu/abs/2017MNRAS.465.1308N))  
 
-5. [A NEW ASTEROSEISMIC DIAGNOSTIC FOR INTERNAL ROTATION IN Γ DORADUS STARS](http://adsabs.harvard.edu/abs/2017MNRAS.465.2294O)  
-Ouazzani, Rhita-Maria, Salmon, S. J. A. J., Antoci, V., et al.    
-2017, refereed ([2017MNRAS.465.2294O](http://adsabs.harvard.edu/abs/2017MNRAS.465.2294O))  
+4. [THE EFFECTS OF NEAR-CORE CONVECTIVE SHELLS ON THE GRAVITY MODES OF THE SUBDWARF B PULSATOR KIC 10553698A](http://adsabs.harvard.edu/abs/2017MNRAS.465.1518G)  
+Ghasemi, H., Moravveji, E., Aerts, C., et al.    
+2017, refereed ([2017MNRAS.465.1518G](http://adsabs.harvard.edu/abs/2017MNRAS.465.1518G))  
+
+5. [KIC 2831097 - A 2-YR-ORBITAL-PERIOD RR LYRAE BINARY CANDIDATE](http://adsabs.harvard.edu/abs/2017MNRAS.465L...1S)  
+Sódor, Á., Skarka, M., Liška, J., et al.    
+2017, refereed ([2017MNRAS.465L...1S](http://adsabs.harvard.edu/abs/2017MNRAS.465L...1S))  
 
 6. [MODELLING STELLAR PROTON EVENT-INDUCED PARTICLE RADIATION DOSE ON CLOSE-IN EXOPLANETS](http://adsabs.harvard.edu/abs/2017MNRAS.465L..34A)  
 Atri, Dimitra    
@@ -71,83 +71,99 @@ Atri, Dimitra
 2017-01
 -------
 
-1. [ESTIMATING STELLAR ATMOSPHERIC PARAMETERS, ABSOLUTE MAGNITUDES AND ELEMENTAL ABUNDANCES FROM THE LAMOST SPECTRA WITH KERNEL-BASED PRINCIPAL COMPONENT ANALYSIS](http://adsabs.harvard.edu/abs/2017MNRAS.464.3657X)  
-Xiang, M. -S., Liu, X. -W., Shi, J. -R., et al.    
-2017, refereed ([2017MNRAS.464.3657X](http://adsabs.harvard.edu/abs/2017MNRAS.464.3657X))  
+1. [ASTEROSEISMOLOGY OF HYBRID Δ SCUTI-Γ DORADUS PULSATING STARS](http://adsabs.harvard.edu/abs/2017A&A...597A..29S)  
+Sánchez Arias, J. P., Córsico, A. H., Althaus, L. G.    
+2017, refereed ([2017A&A...597A..29S](http://adsabs.harvard.edu/abs/2017A&A...597A..29S))  
 
-2. [FIRST LIMITS ON THE OCCURRENCE RATE OF SHORT-PERIOD PLANETS ORBITING BROWN DWARFS](http://adsabs.harvard.edu/abs/2017MNRAS.464.2687H)  
-He, Matthias Y., Triaud, Amaury H. M. J., Gillon, Michaël    
-2017, refereed ([2017MNRAS.464.2687H](http://adsabs.harvard.edu/abs/2017MNRAS.464.2687H))  
+2. [BAYESIAN ANALYSIS OF INTERIORS OF HD 219134B, KEPLER-10B, KEPLER-93B, COROT-7B, 55 CNC E, AND HD 97658B USING STELLAR ABUNDANCE PROXIES](http://adsabs.harvard.edu/abs/2017A&A...597A..38D)  
+Dorn, Caroline, Hinkel, Natalie R., Venturini, Julia    
+2017, refereed ([2017A&A...597A..38D](http://adsabs.harvard.edu/abs/2017A&A...597A..38D))  
 
-3. [COEVOLUTION OF BINARIES AND CIRCUMBINARY GASEOUS DISCS](http://adsabs.harvard.edu/abs/2017MNRAS.464.3343F)  
-Fleming, David P., Quinn, Thomas R.    
-2017, refereed ([2017MNRAS.464.3343F](http://adsabs.harvard.edu/abs/2017MNRAS.464.3343F))  
+3. [GALACTIC ARCHAEOLOGY WITH ASTEROSEISMOLOGY AND SPECTROSCOPY: RED GIANTS OBSERVED BY COROT AND APOGEE](http://adsabs.harvard.edu/abs/2017A&A...597A..30A)  
+Anders, F., Chiappini, C., Rodrigues, T. S., et al.    
+2017, refereed ([2017A&A...597A..30A](http://adsabs.harvard.edu/abs/2017A&A...597A..30A))  
 
-4. [A DIAGNOSTIC FOR LOCALIZING RED GIANT DIFFERENTIAL ROTATION](http://adsabs.harvard.edu/abs/2017MNRAS.464L..16K)  
-Klion, Hannah, Quataert, Eliot    
-2017, refereed ([2017MNRAS.464L..16K](http://adsabs.harvard.edu/abs/2017MNRAS.464L..16K))  
+4. [KEPLER-108: A MUTUALLY INCLINED GIANT PLANET SYSTEM](http://adsabs.harvard.edu/abs/2017AJ....153...45M)  
+Mills, Sean M., Fabrycky, Daniel C.    
+2017, refereed ([2017AJ....153...45M](http://adsabs.harvard.edu/abs/2017AJ....153...45M))  
 
-5. [THE KEPLER CEPHEID V1154 CYG REVISITED: LIGHT CURVE MODULATION AND DETECTION OF GRANULATION](http://adsabs.harvard.edu/abs/2017MNRAS.464.1553D)  
-Derekas, A., Plachy, E., Molnár, L., et al.    
-2017, refereed ([2017MNRAS.464.1553D](http://adsabs.harvard.edu/abs/2017MNRAS.464.1553D))  
+5. [HIDING PLANETS BEHIND A BIG FRIEND: MUTUAL INCLINATIONS OF MULTI-PLANET SYSTEMS WITH EXTERNAL COMPANIONS](http://adsabs.harvard.edu/abs/2017AJ....153...42L)  
+Lai, Dong, Pu, Bonan    
+2017, refereed ([2017AJ....153...42L](http://adsabs.harvard.edu/abs/2017AJ....153...42L))  
 
-6. [DA WHITE DWARFS IN THE KEPLER FIELD](http://adsabs.harvard.edu/abs/2017MNRAS.464.3464D)  
-Doyle, T. F., Howell, S. B., Petit, V., et al.    
-2017, refereed ([2017MNRAS.464.3464D](http://adsabs.harvard.edu/abs/2017MNRAS.464.3464D))  
+6. [THE AGE OF THE KIC 7177553 SYSTEM](http://adsabs.harvard.edu/abs/2017ApJ...834...99M)  
+MacDonald, James, Mullan, D. J.    
+2017, refereed ([2017ApJ...834...99M](http://adsabs.harvard.edu/abs/2017ApJ...834...99M))  
 
 7. [TIDALLY INDUCED PULSATIONS IN KEPLER ECLIPSING BINARY KIC 3230227](http://adsabs.harvard.edu/abs/2017ApJ...834...59G)  
 Guo, Zhao, Gies, Douglas R., Fuller, Jim    
 2017, refereed ([2017ApJ...834...59G](http://adsabs.harvard.edu/abs/2017ApJ...834...59G))  
 
-8. [P-TYPE PLANET─PLANET SCATTERING: KEPLER CLOSE BINARY CONFIGURATIONS](http://adsabs.harvard.edu/abs/2017ApJ...834...55G)  
-Gong, Yan-Xiang    
-2017, refereed ([2017ApJ...834...55G](http://adsabs.harvard.edu/abs/2017ApJ...834...55G))  
-
-9. [DECIPHERING THE PERIOD SPACING PATTERN IN THE OSCILLATION SPECTRUM OF THE SPB STAR KIC 7760680](http://adsabs.harvard.edu/abs/2017arXiv170101256S)  
-Szewczuk, Wojciech, Daszyńska-Daszkiewicz, Jadwiga, Walczak, Przemysław    
-2017, pre-print ([2017arXiv170101256S](http://adsabs.harvard.edu/abs/2017arXiv170101256S))  
-
-10. [KEPLER-108: A MUTUALLY INCLINED GIANT PLANET SYSTEM](http://adsabs.harvard.edu/abs/2017AJ....153...45M)  
-Mills, Sean M., Fabrycky, Daniel C.    
-2017, refereed ([2017AJ....153...45M](http://adsabs.harvard.edu/abs/2017AJ....153...45M))  
-
-11. [PROBABILITY OF THE PHYSICAL ASSOCIATION OF 104 BLENDED COMPANIONS TO KEPLER OBJECTS OF INTEREST USING VISIBLE AND NEAR-INFRARED ADAPTIVE OPTICS PHOTOMETRY](http://adsabs.harvard.edu/abs/2017AJ....153...25A)  
+8. [PROBABILITY OF THE PHYSICAL ASSOCIATION OF 104 BLENDED COMPANIONS TO KEPLER OBJECTS OF INTEREST USING VISIBLE AND NEAR-INFRARED ADAPTIVE OPTICS PHOTOMETRY](http://adsabs.harvard.edu/abs/2017AJ....153...25A)  
 Atkinson, Dani, Baranec, Christoph, Ziegler, Carl, et al.    
 2017, refereed ([2017AJ....153...25A](http://adsabs.harvard.edu/abs/2017AJ....153...25A))  
 
-12. [THE AGE OF THE KIC 7177553 SYSTEM](http://adsabs.harvard.edu/abs/2017ApJ...834...99M)  
-MacDonald, James, Mullan, D. J.    
-2017, refereed ([2017ApJ...834...99M](http://adsabs.harvard.edu/abs/2017ApJ...834...99M))  
-
-13. [LAMOST OBSERVATIONS OF FLARING M DWARFS IN THE KEPLER FIELD](http://adsabs.harvard.edu/abs/2017ApJ...834...92C)  
+9. [LAMOST OBSERVATIONS OF FLARING M DWARFS IN THE KEPLER FIELD](http://adsabs.harvard.edu/abs/2017ApJ...834...92C)  
 Chang, H. -Y., Song, Y. -H., Luo, A. -L., et al.    
 2017, refereed ([2017ApJ...834...92C](http://adsabs.harvard.edu/abs/2017ApJ...834...92C))  
 
-14. [STELLAR POPULATION SYNTHESIS BASED MODELLING OF THE MILKY WAY USING ASTEROSEISMOLOGY OF DWARFS AND SUBGIANTS FROM KEPLER](http://adsabs.harvard.edu/abs/2017arXiv170102464S)  
-Sharma, Sanjib, Stello, Dennis, Huber, Daniel, et al.    
-2017, pre-print ([2017arXiv170102464S](http://adsabs.harvard.edu/abs/2017arXiv170102464S))  
+10. [ON THE RADIAL VELOCITY DETECTION OF ADDITIONAL PLANETS IN TRANSITING, SLOWLY ROTATING M-DWARF SYSTEMS: THE CASE OF GJ 1132](http://adsabs.harvard.edu/abs/2017AJ....153....9C)  
+Cloutier, Ryan, Doyon, René, Menou, Kristen, et al.    
+2017, refereed ([2017AJ....153....9C](http://adsabs.harvard.edu/abs/2017AJ....153....9C))  
 
-15. [ANALYSIS OF THE VARIABILITY IN THE SDB STAR KIC 10670103: DFA APPROACH](http://adsabs.harvard.edu/abs/2017MNRAS.464.2638Z)  
-Zebende, Gilney F., Fernandez, Basilio F., Pereira, Marildo G.    
-2017, refereed ([2017MNRAS.464.2638Z](http://adsabs.harvard.edu/abs/2017MNRAS.464.2638Z))  
+11. [P-TYPE PLANET─PLANET SCATTERING: KEPLER CLOSE BINARY CONFIGURATIONS](http://adsabs.harvard.edu/abs/2017ApJ...834...55G)  
+Gong, Yan-Xiang    
+2017, refereed ([2017ApJ...834...55G](http://adsabs.harvard.edu/abs/2017ApJ...834...55G))  
 
-16. [ON POSSIBLE EXPLANATIONS OF PULSATIONS IN MAIA STARS](http://adsabs.harvard.edu/abs/2017arXiv170100937D)  
-Daszynska-Daszkiewicz, Jadwiga, Walczak, Przemyslaw, Pamyatnykh, Alexey    
-2017, pre-print ([2017arXiv170100937D](http://adsabs.harvard.edu/abs/2017arXiv170100937D))  
+12. [THE KEPLER CEPHEID V1154 CYG REVISITED: LIGHT CURVE MODULATION AND DETECTION OF GRANULATION](http://adsabs.harvard.edu/abs/2017MNRAS.464.1553D)  
+Derekas, A., Plachy, E., Molnár, L., et al.    
+2017, refereed ([2017MNRAS.464.1553D](http://adsabs.harvard.edu/abs/2017MNRAS.464.1553D))  
 
-17. [HIDING PLANETS BEHIND A BIG FRIEND: MUTUAL INCLINATIONS OF MULTI-PLANET SYSTEMS WITH EXTERNAL COMPANIONS](http://adsabs.harvard.edu/abs/2017AJ....153...42L)  
-Lai, Dong, Pu, Bonan    
-2017, refereed ([2017AJ....153...42L](http://adsabs.harvard.edu/abs/2017AJ....153...42L))  
-
-18. [OUTER-PLANET SCATTERING CAN GENTLY TILT AN INNER PLANETARY SYSTEM](http://adsabs.harvard.edu/abs/2017MNRAS.464.1709G)  
+13. [OUTER-PLANET SCATTERING CAN GENTLY TILT AN INNER PLANETARY SYSTEM](http://adsabs.harvard.edu/abs/2017MNRAS.464.1709G)  
 Gratia, Pierre, Fabrycky, Daniel    
 2017, refereed ([2017MNRAS.464.1709G](http://adsabs.harvard.edu/abs/2017MNRAS.464.1709G))  
 
-19. [USING RED CLUMP STARS TO CORRECT THE GAIA DR1 PARALLAXES](http://adsabs.harvard.edu/abs/2017arXiv170102506D)  
+14. [ANALYSIS OF THE VARIABILITY IN THE SDB STAR KIC 10670103: DFA APPROACH](http://adsabs.harvard.edu/abs/2017MNRAS.464.2638Z)  
+Zebende, Gilney F., Fernandez, Basilio F., Pereira, Marildo G.    
+2017, refereed ([2017MNRAS.464.2638Z](http://adsabs.harvard.edu/abs/2017MNRAS.464.2638Z))  
+
+15. [FIRST LIMITS ON THE OCCURRENCE RATE OF SHORT-PERIOD PLANETS ORBITING BROWN DWARFS](http://adsabs.harvard.edu/abs/2017MNRAS.464.2687H)  
+He, Matthias Y., Triaud, Amaury H. M. J., Gillon, Michaël    
+2017, refereed ([2017MNRAS.464.2687H](http://adsabs.harvard.edu/abs/2017MNRAS.464.2687H))  
+
+16. [COEVOLUTION OF BINARIES AND CIRCUMBINARY GASEOUS DISCS](http://adsabs.harvard.edu/abs/2017MNRAS.464.3343F)  
+Fleming, David P., Quinn, Thomas R.    
+2017, refereed ([2017MNRAS.464.3343F](http://adsabs.harvard.edu/abs/2017MNRAS.464.3343F))  
+
+17. [DA WHITE DWARFS IN THE KEPLER FIELD](http://adsabs.harvard.edu/abs/2017MNRAS.464.3464D)  
+Doyle, T. F., Howell, S. B., Petit, V., et al.    
+2017, refereed ([2017MNRAS.464.3464D](http://adsabs.harvard.edu/abs/2017MNRAS.464.3464D))  
+
+18. [ESTIMATING STELLAR ATMOSPHERIC PARAMETERS, ABSOLUTE MAGNITUDES AND ELEMENTAL ABUNDANCES FROM THE LAMOST SPECTRA WITH KERNEL-BASED PRINCIPAL COMPONENT ANALYSIS](http://adsabs.harvard.edu/abs/2017MNRAS.464.3657X)  
+Xiang, M. -S., Liu, X. -W., Shi, J. -R., et al.    
+2017, refereed ([2017MNRAS.464.3657X](http://adsabs.harvard.edu/abs/2017MNRAS.464.3657X))  
+
+19. [A DIAGNOSTIC FOR LOCALIZING RED GIANT DIFFERENTIAL ROTATION](http://adsabs.harvard.edu/abs/2017MNRAS.464L..16K)  
+Klion, Hannah, Quataert, Eliot    
+2017, refereed ([2017MNRAS.464L..16K](http://adsabs.harvard.edu/abs/2017MNRAS.464L..16K))  
+
+20. [ON POSSIBLE EXPLANATIONS OF PULSATIONS IN MAIA STARS](http://adsabs.harvard.edu/abs/2017arXiv170100937D)  
+Daszynska-Daszkiewicz, Jadwiga, Walczak, Przemyslaw, Pamyatnykh, Alexey    
+2017, pre-print ([2017arXiv170100937D](http://adsabs.harvard.edu/abs/2017arXiv170100937D))  
+
+21. [DECIPHERING THE PERIOD SPACING PATTERN IN THE OSCILLATION SPECTRUM OF THE SPB STAR KIC 7760680](http://adsabs.harvard.edu/abs/2017arXiv170101256S)  
+Szewczuk, Wojciech, DaszyĹska-Daszkiewicz, Jadwiga, Walczak, PrzemysĹaw    
+2017, pre-print ([2017arXiv170101256S](http://adsabs.harvard.edu/abs/2017arXiv170101256S))  
+
+22. [STELLAR POPULATION SYNTHESIS BASED MODELLING OF THE MILKY WAY USING ASTEROSEISMOLOGY OF DWARFS AND SUBGIANTS FROM KEPLER](http://adsabs.harvard.edu/abs/2017arXiv170102464S)  
+Sharma, Sanjib, Stello, Dennis, Huber, Daniel, et al.    
+2017, pre-print ([2017arXiv170102464S](http://adsabs.harvard.edu/abs/2017arXiv170102464S))  
+
+23. [USING RED CLUMP STARS TO CORRECT THE GAIA DR1 PARALLAXES](http://adsabs.harvard.edu/abs/2017arXiv170102506D)  
 Davies, Guy R., Lund, Mikkel N., Miglio, Andrea, et al.    
 2017, pre-print ([2017arXiv170102506D](http://adsabs.harvard.edu/abs/2017arXiv170102506D))  
 
-20. [FORMATION OF MASSIVE ROCKY EXOMOONS BY GIANT IMPACT](http://adsabs.harvard.edu/abs/2017arXiv170102705B)  
+24. [FORMATION OF MASSIVE ROCKY EXOMOONS BY GIANT IMPACT](http://adsabs.harvard.edu/abs/2017arXiv170102705B)  
 Barr, Amy C., Bruck Syal, Megan    
 2017, pre-print ([2017arXiv170102705B](http://adsabs.harvard.edu/abs/2017arXiv170102705B))  
 
@@ -183,209 +199,213 @@ Mulders, Gijs D., Pascucci, Ilaria, Apai, Dániel, et al.
 Kjurkchieva, Diana, Vasileva, Doroteya, Dimitrov, Dinko    
 2016, refereed ([2016AJ....152..189K](http://adsabs.harvard.edu/abs/2016AJ....152..189K))  
 
-8. [TESTING THE ASTEROSEISMIC SCALING RELATIONS FOR RED GIANTS WITH ECLIPSING BINARIES OBSERVED BY KEPLER](http://adsabs.harvard.edu/abs/2016ApJ...832..121G)  
-Gaulme, P., McKeever, J., Jackiewicz, J., et al.    
-2016, refereed ([2016ApJ...832..121G](http://adsabs.harvard.edu/abs/2016ApJ...832..121G))  
-
-9. [KIC 3749404: A HEARTBEAT STAR WITH RAPID APSIDAL ADVANCE INDICATIVE OF A TERTIARY COMPONENT](http://adsabs.harvard.edu/abs/2016MNRAS.463.1199H)  
-Hambleton, K., Kurtz, D. W., PrĹĄa, A., et al.    
-2016, refereed ([2016MNRAS.463.1199H](http://adsabs.harvard.edu/abs/2016MNRAS.463.1199H))  
-
-10. [ASTEROSEISMOLOGY OF 1523 MISCLASSIFIED RED GIANTS USING KEPLER DATA](http://adsabs.harvard.edu/abs/2016MNRAS.463.1297Y)  
-Yu, Jie, Huber, Daniel, Bedding, Timothy R., et al.    
-2016, refereed ([2016MNRAS.463.1297Y](http://adsabs.harvard.edu/abs/2016MNRAS.463.1297Y))  
-
-11. [NEW SUNS IN THE COSMOS II: DIFFERENTIAL ROTATION IN KEPLER SUN-LIKE STARS.](http://adsabs.harvard.edu/abs/2016MNRAS.463.1624D)  
-Das Chagas, M. L., Bravo, J. P., Costa, A. D., et al.    
-2016, refereed ([2016MNRAS.463.1624D](http://adsabs.harvard.edu/abs/2016MNRAS.463.1624D))  
-
-12. [DIFFERENTIAL ROTATION, FLARES AND CORONAE IN A TO M STARS](http://adsabs.harvard.edu/abs/2016MNRAS.463.1740B)  
-Balona, L. A., Švanda, M., Karlický, M.    
-2016, refereed ([2016MNRAS.463.1740B](http://adsabs.harvard.edu/abs/2016MNRAS.463.1740B))  
-
-13. [MILANKOVITCH CYCLES OF TERRESTRIAL PLANETS IN BINARY STAR SYSTEMS](http://adsabs.harvard.edu/abs/2016MNRAS.463.2768F)  
-Forgan, Duncan    
-2016, refereed ([2016MNRAS.463.2768F](http://adsabs.harvard.edu/abs/2016MNRAS.463.2768F))  
-
-14. [FINDING OPTIMAL APERTURES IN KEPLER DATA](http://adsabs.harvard.edu/abs/2016PASP..128l4501S)  
-Smith, Jeffrey C., Morris, Robert L., Jenkins, Jon M., et al.    
-2016, refereed ([2016PASP..128l4501S](http://adsabs.harvard.edu/abs/2016PASP..128l4501S))  
-
-15. [STANDING ON THE SHOULDERS OF DWARFS: THE $KEPLER$ ASTEROSEISMIC LEGACY SAMPLE I - OSCILLATION MODE PARAMETERS](http://adsabs.harvard.edu/abs/2016arXiv161200436L)  
-Lund, Mikkel N., Silva Aguirre, Víctor, Davies, Guy R., et al.    
-2016, pre-print ([2016arXiv161200436L](http://adsabs.harvard.edu/abs/2016arXiv161200436L))  
-
-16. [ASTEROSEISMIC ANALYSIS OF TWO ALPHA-ENHANCED STARS KIC 7976303 AND KIC 8694723](http://adsabs.harvard.edu/abs/2016arXiv161201280G)  
-Ge, Z. S., Bi, S. L., Li, T. D., et al.    
-2016, pre-print ([2016arXiv161201280G](http://adsabs.harvard.edu/abs/2016arXiv161201280G))  
-
-17. [CHEMICAL ABUNDANCES OF M-DWARFS FROM THE APOGEE SURVEY. I. THE EXOPLANET HOSTING STARS KEPLER-138 AND KEPLER-186](http://adsabs.harvard.edu/abs/2016arXiv161201598S)  
-Souto, Diogo, Cunha, Katia, Garcia-Hernandez, D. A., et al.    
-2016, pre-print ([2016arXiv161201598S](http://adsabs.harvard.edu/abs/2016arXiv161201598S))  
-
-18. [THE METALLICITY DISTRIBUTION AND HOT JUPITER RATE OF THE KEPLER FIELD: HECTOCHELLE HIGH-RESOLUTION SPECTROSCOPY FOR 776 KEPLER TARGET STARS](http://adsabs.harvard.edu/abs/2016arXiv161201616G)  
-Guo, Xueying, Johnson, John A., Mann, Andrew W., et al.    
-2016, pre-print ([2016arXiv161201616G](http://adsabs.harvard.edu/abs/2016arXiv161201616G))  
-
-19. [KOI-1003: A NEW SPOTTED, ECLIPSING RS CVN BINARY IN THE KEPLER FIELD](http://adsabs.harvard.edu/abs/2016ApJ...832..207R)  
-Roettenbacher, Rachael M., Kane, Stephen R., Monnier, John D., et al.    
-2016, refereed ([2016ApJ...832..207R](http://adsabs.harvard.edu/abs/2016ApJ...832..207R))  
-
-20. [Γ DORADUS PULSATIONS IN THE ECLIPSING BINARY STAR KIC 6048106](http://adsabs.harvard.edu/abs/2016ApJ...833..170L)  
-Lee, Jae Woo    
-2016, refereed ([2016ApJ...833..170L](http://adsabs.harvard.edu/abs/2016ApJ...833..170L))  
-
-21. [VARIABLE STARS WITH THE KEPLER SPACE TELESCOPE](http://adsabs.harvard.edu/abs/2016JAVSO..44..168M)  
-Molnár, L., Szabó, R., Plachy, E.    
-2016, refereed ([2016JAVSO..44..168M](http://adsabs.harvard.edu/abs/2016JAVSO..44..168M))  
-
-22. [PHOTOMETRIC AND ASTROMETRIC VAGARIES OF THE ENIGMA STAR KIC 8462852](http://adsabs.harvard.edu/abs/2016ApJ...833...78M)  
-Makarov, Valeri V., Goldin, Alexey    
-2016, refereed ([2016ApJ...833...78M](http://adsabs.harvard.edu/abs/2016ApJ...833...78M))  
-
-23. [KEPLER TRANSIT DEPTHS CONTAMINATED BY A PHANTOM STAR](http://adsabs.harvard.edu/abs/2016arXiv161202432D)  
-Dalba, Paul A., Muirhead, Philip S., Croll, Bryce, et al.    
-2016, pre-print ([2016arXiv161202432D](http://adsabs.harvard.edu/abs/2016arXiv161202432D))  
-
-24. [BEER ANALYSIS OF KEPLER AND COROT LIGHT CURVES: DISCOVERING BINARIES AND EXOPLANETS](http://adsabs.harvard.edu/abs/2016arXiv161208846F)  
-Faigler, Simchon    
-2016, pre-print ([2016arXiv161208846F](http://adsabs.harvard.edu/abs/2016arXiv161208846F))  
-
-25. [THE KEPLER FOLLOW-UP OBSERVATION PROGRAM. I. A CATALOG OF COMPANIONS TO KEPLER STARS FROM HIGH-RESOLUTION IMAGING](http://adsabs.harvard.edu/abs/2016arXiv161202392F)  
-Furlan, E., Ciardi, D. R., Everett, M. E., et al.    
-2016, pre-print ([2016arXiv161202392F](http://adsabs.harvard.edu/abs/2016arXiv161202392F))  
-
-26. [KEPLER-21B: A ROCKY PLANET AROUND A V = 8.25 MAGNITUDE STAR](http://adsabs.harvard.edu/abs/2016AJ....152..204L)  
+8. [KEPLER-21B: A ROCKY PLANET AROUND A V = 8.25 MAGNITUDE STAR](http://adsabs.harvard.edu/abs/2016AJ....152..204L)  
 López-Morales, Mercedes, Haywood, Raphaëlle D., Coughlin, Jeffrey L., et al.    
 2016, refereed ([2016AJ....152..204L](http://adsabs.harvard.edu/abs/2016AJ....152..204L))  
 
-27. [HOW FAR ARE EXTRATERRESTRIAL LIFE AND INTELLIGENCE AFTER KEPLER ?](http://adsabs.harvard.edu/abs/2016arXiv161203844W)  
-Wandel, Amri    
-2016, pre-print ([2016arXiv161203844W](http://adsabs.harvard.edu/abs/2016arXiv161203844W))  
-
-28. [KIC 11401845: AN ECLIPSING BINARY WITH MULTIPERIODIC PULSATIONS AND LIGHT TRAVEL TIME](http://adsabs.harvard.edu/abs/2016arXiv161209408L)  
-Lee, Jae Woo, Hong, Kyeongsoo, Kim, Seung-Lee, et al.    
-2016, pre-print ([2016arXiv161209408L](http://adsabs.harvard.edu/abs/2016arXiv161209408L))  
-
-29. [BAYESIAN ANALYSIS OF INTERIORS OF HD 219134B, KEPLER-10B, KEPLER-93B, COROT-7B, 55 CNC E, AND HD 97658B USING STELLAR ABUNDANCE PROXIES](http://adsabs.harvard.edu/abs/2016A&A...597A..38D)  
-Dorn, Caroline, Hinkel, Natalie R., Venturini, Julia    
-2016, refereed ([2016A&A...597A..38D](http://adsabs.harvard.edu/abs/2016A&A...597A..38D))  
-
-30. [TATOOINE’S FUTURE: THE ECCENTRIC RESPONSE OF KEPLER’S CIRCUMBINARY PLANETS TO COMMON-ENVELOPE EVOLUTION OF THEIR HOST STARS](http://adsabs.harvard.edu/abs/2016ApJ...832..183K)  
-Kostov, Veselin B., Moore, Keavin, Tamayo, Daniel, et al.    
-2016, refereed ([2016ApJ...832..183K](http://adsabs.harvard.edu/abs/2016ApJ...832..183K))  
-
-31. [EVIDENCE FOR ATMOSPHERIC COLD-TRAP PROCESSES IN THE NON-INVERTED EMISSION SPECTRUM OF KEPLER-13AB USING HST/WFC3](http://adsabs.harvard.edu/abs/2016arXiv161206409B)  
-Beatty, Thomas G., Madhusudhan, Nikku, Tsiaras, Angelos, et al.    
-2016, pre-print ([2016arXiv161206409B](http://adsabs.harvard.edu/abs/2016arXiv161206409B))  
-
-32. [UNSOLVED PROBLEMS FOR MAIN-SEQUENCE VARIABLE STARS REVEALED BY THE NASA KEPLER DATA (ABSTRACT)](http://adsabs.harvard.edu/abs/2016JAVSO..44..197G)  
-Guzik, J. A.    
-2016, refereed ([2016JAVSO..44..197G](http://adsabs.harvard.edu/abs/2016JAVSO..44..197G))  
-
-33. [CHARACTERIZING SOLAR-TYPE STARS FROM FULL-LENGTH KEPLER DATA SETS USING THE ASTEROSEISMIC MODELING PORTAL](http://adsabs.harvard.edu/abs/2016arXiv161208990C)  
-Creevey, Orlagh, Metcalfe, Travis S., Schultheis, Mathias, et al.    
-2016, pre-print ([2016arXiv161208990C](http://adsabs.harvard.edu/abs/2016arXiv161208990C))  
-
-34. [THE PALOMAR TRANSIENT FACTORY AND RR LYRAE: THE METALLICITY-LIGHT CURVE RELATION BASED ON AB-TYPE RR LYRAE IN THE KEPLER FIELD](http://adsabs.harvard.edu/abs/2016ApJS..227...30N)  
-Ngeow, Chow-Choong, Yu, Po-Chieh, Bellm, Eric, et al.    
-2016, refereed ([2016ApJS..227...30N](http://adsabs.harvard.edu/abs/2016ApJS..227...30N))  
-
-35. [DO A-TYPE STARS FLARE?](http://adsabs.harvard.edu/abs/2016arXiv161204575P)  
-Pedersen, M. G., Antoci, V., Korhonen, H., et al.    
-2016, pre-print ([2016arXiv161204575P](http://adsabs.harvard.edu/abs/2016arXiv161204575P))  
-
-36. [SECULAR DIMMING OF KIC 8462852 FOLLOWING ITS CONSUMPTION OF A PLANET](http://adsabs.harvard.edu/abs/2016arXiv161207332M)  
-Metzger, Brian D., Shen, Ken J., Stone, Nicholas C.    
-2016, pre-print ([2016arXiv161207332M](http://adsabs.harvard.edu/abs/2016arXiv161207332M))  
-
-37. [EXPLORING THE EFFICACY AND LIMITATIONS OF SHOCK-COOLING MODELS: NEW RESULTS FOR TYPE II SUPERNOVAE OBSERVED BY THE KEPLER MISSION](http://adsabs.harvard.edu/abs/2016arXiv161202805R)  
-Rubin, Adam, Gal-Yam, Avishay    
-2016, pre-print ([2016arXiv161202805R](http://adsabs.harvard.edu/abs/2016arXiv161202805R))  
-
-38. [INSIGHTS FROM ASTEROSEISMOLOGY OF MASSIVE STARS: THE NEED FOR ADDITIONAL ANGULAR MOMENTUM TRANSPORT MECHANISMS](http://adsabs.harvard.edu/abs/2016arXiv161203092M)  
-Moravveji, Ehsan    
-2016, pre-print ([2016arXiv161203092M](http://adsabs.harvard.edu/abs/2016arXiv161203092M))  
-
-39. [ASTEROSEISMOLOGY OF HYBRID Δ SCUTI-Γ DORADUS PULSATING STARS](http://adsabs.harvard.edu/abs/2016A&A...597A..29S)  
-Sánchez Arias, J. P., Córsico, A. H., Althaus, L. G.    
-2016, refereed ([2016A&A...597A..29S](http://adsabs.harvard.edu/abs/2016A&A...597A..29S))  
-
-40. [THE POPULATION OF LONG-PERIOD TRANSITING EXOPLANETS](http://adsabs.harvard.edu/abs/2016AJ....152..206F)  
+9. [THE POPULATION OF LONG-PERIOD TRANSITING EXOPLANETS](http://adsabs.harvard.edu/abs/2016AJ....152..206F)  
 Foreman-Mackey, Daniel, Morton, Timothy D., Hogg, David W., et al.    
 2016, refereed ([2016AJ....152..206F](http://adsabs.harvard.edu/abs/2016AJ....152..206F))  
 
-41. [CONSTRAINING THE EFFICIENCY OF ANGULAR MOMENTUM TRANSPORT WITH ASTEROSEISMOLOGY OF RED GIANTS: THE EFFECT OF STELLAR MASS](http://adsabs.harvard.edu/abs/2016arXiv161204258E)  
+10. [TESTING THE ASTEROSEISMIC SCALING RELATIONS FOR RED GIANTS WITH ECLIPSING BINARIES OBSERVED BY KEPLER](http://adsabs.harvard.edu/abs/2016ApJ...832..121G)  
+Gaulme, P., McKeever, J., Jackiewicz, J., et al.    
+2016, refereed ([2016ApJ...832..121G](http://adsabs.harvard.edu/abs/2016ApJ...832..121G))  
+
+11. [TATOOINE’S FUTURE: THE ECCENTRIC RESPONSE OF KEPLER’S CIRCUMBINARY PLANETS TO COMMON-ENVELOPE EVOLUTION OF THEIR HOST STARS](http://adsabs.harvard.edu/abs/2016ApJ...832..183K)  
+Kostov, Veselin B., Moore, Keavin, Tamayo, Daniel, et al.    
+2016, refereed ([2016ApJ...832..183K](http://adsabs.harvard.edu/abs/2016ApJ...832..183K))  
+
+12. [DEPENDENCE OF SMALL PLANET FREQUENCY ON STELLAR METALLICITY HIDDEN BY THEIR PREVALENCE](http://adsabs.harvard.edu/abs/2016ApJ...832..196Z)  
+Zhu, Wei, Wang, Ji, Huang, Chelsea    
+2016, refereed ([2016ApJ...832..196Z](http://adsabs.harvard.edu/abs/2016ApJ...832..196Z))  
+
+13. [KOI-1003: A NEW SPOTTED, ECLIPSING RS CVN BINARY IN THE KEPLER FIELD](http://adsabs.harvard.edu/abs/2016ApJ...832..207R)  
+Roettenbacher, Rachael M., Kane, Stephen R., Monnier, John D., et al.    
+2016, refereed ([2016ApJ...832..207R](http://adsabs.harvard.edu/abs/2016ApJ...832..207R))  
+
+14. [PHOTOMETRIC AND ASTROMETRIC VAGARIES OF THE ENIGMA STAR KIC 8462852](http://adsabs.harvard.edu/abs/2016ApJ...833...78M)  
+Makarov, Valeri V., Goldin, Alexey    
+2016, refereed ([2016ApJ...833...78M](http://adsabs.harvard.edu/abs/2016ApJ...833...78M))  
+
+15. [Γ DORADUS PULSATIONS IN THE ECLIPSING BINARY STAR KIC 6048106](http://adsabs.harvard.edu/abs/2016ApJ...833..170L)  
+Lee, Jae Woo    
+2016, refereed ([2016ApJ...833..170L](http://adsabs.harvard.edu/abs/2016ApJ...833..170L))  
+
+16. [THE PALOMAR TRANSIENT FACTORY AND RR LYRAE: THE METALLICITY-LIGHT CURVE RELATION BASED ON AB-TYPE RR LYRAE IN THE KEPLER FIELD](http://adsabs.harvard.edu/abs/2016ApJS..227...30N)  
+Ngeow, Chow-Choong, Yu, Po-Chieh, Bellm, Eric, et al.    
+2016, refereed ([2016ApJS..227...30N](http://adsabs.harvard.edu/abs/2016ApJS..227...30N))  
+
+17. [VARIABLE STARS WITH THE KEPLER SPACE TELESCOPE](http://adsabs.harvard.edu/abs/2016JAVSO..44..168M)  
+Molnár, L., Szabó, R., Plachy, E.    
+2016, refereed ([2016JAVSO..44..168M](http://adsabs.harvard.edu/abs/2016JAVSO..44..168M))  
+
+18. [UNSOLVED PROBLEMS FOR MAIN-SEQUENCE VARIABLE STARS REVEALED BY THE NASA KEPLER DATA (ABSTRACT)](http://adsabs.harvard.edu/abs/2016JAVSO..44..197G)  
+Guzik, J. A.    
+2016, refereed ([2016JAVSO..44..197G](http://adsabs.harvard.edu/abs/2016JAVSO..44..197G))  
+
+19. [THE MYSTERY OF V523 LYRAE (ABSTRACT)](http://adsabs.harvard.edu/abs/2016JAVSO..44Q.200S)  
+Simonsen, M.    
+2016, refereed ([2016JAVSO..44Q.200S](http://adsabs.harvard.edu/abs/2016JAVSO..44Q.200S))  
+
+20. [KIC 3749404: A HEARTBEAT STAR WITH RAPID APSIDAL ADVANCE INDICATIVE OF A TERTIARY COMPONENT](http://adsabs.harvard.edu/abs/2016MNRAS.463.1199H)  
+Hambleton, K., Kurtz, D. W., PrĹĄa, A., et al.    
+2016, refereed ([2016MNRAS.463.1199H](http://adsabs.harvard.edu/abs/2016MNRAS.463.1199H))  
+
+21. [ASTEROSEISMOLOGY OF 1523 MISCLASSIFIED RED GIANTS USING KEPLER DATA](http://adsabs.harvard.edu/abs/2016MNRAS.463.1297Y)  
+Yu, Jie, Huber, Daniel, Bedding, Timothy R., et al.    
+2016, refereed ([2016MNRAS.463.1297Y](http://adsabs.harvard.edu/abs/2016MNRAS.463.1297Y))  
+
+22. [NEW SUNS IN THE COSMOS II: DIFFERENTIAL ROTATION IN KEPLER SUN-LIKE STARS](http://adsabs.harvard.edu/abs/2016MNRAS.463.1624D)  
+Das Chagas, M. L., Bravo, J. P., Costa, A. D., et al.    
+2016, refereed ([2016MNRAS.463.1624D](http://adsabs.harvard.edu/abs/2016MNRAS.463.1624D))  
+
+23. [DIFFERENTIAL ROTATION, FLARES AND CORONAE IN A TO M STARS](http://adsabs.harvard.edu/abs/2016MNRAS.463.1740B)  
+Balona, L. A., Švanda, M., Karlický, M.    
+2016, refereed ([2016MNRAS.463.1740B](http://adsabs.harvard.edu/abs/2016MNRAS.463.1740B))  
+
+24. [MILANKOVITCH CYCLES OF TERRESTRIAL PLANETS IN BINARY STAR SYSTEMS](http://adsabs.harvard.edu/abs/2016MNRAS.463.2768F)  
+Forgan, Duncan    
+2016, refereed ([2016MNRAS.463.2768F](http://adsabs.harvard.edu/abs/2016MNRAS.463.2768F))  
+
+25. [VARIABILITY IN THE ATMOSPHERE OF THE HOT GIANT PLANET HAT-P-7 B](http://adsabs.harvard.edu/abs/2016NatAs...1E...4A)  
+Armstrong, D. J., de Mooij, E., Barstow, J., et al.    
+2016, refereed ([2016NatAs...1E...4A](http://adsabs.harvard.edu/abs/2016NatAs...1E...4A))  
+
+26. [FINDING OPTIMAL APERTURES IN KEPLER DATA](http://adsabs.harvard.edu/abs/2016PASP..128l4501S)  
+Smith, Jeffrey C., Morris, Robert L., Jenkins, Jon M., et al.    
+2016, refereed ([2016PASP..128l4501S](http://adsabs.harvard.edu/abs/2016PASP..128l4501S))  
+
+27. [THE ARCHITECTURE OF EXOPLANETS](http://adsabs.harvard.edu/abs/2016SSRv..205..267H)  
+Hatzes, Artie P.    
+2016, refereed ([2016SSRv..205..267H](http://adsabs.harvard.edu/abs/2016SSRv..205..267H))  
+
+28. [EXOPLANETARY ATMOSPHERES—CHEMISTRY, FORMATION CONDITIONS, AND HABITABILITY](http://adsabs.harvard.edu/abs/2016SSRv..205..285M)  
+Madhusudhan, Nikku, Agúndez, Marcelino, Moses, Julianne I., et al.    
+2016, refereed ([2016SSRv..205..285M](http://adsabs.harvard.edu/abs/2016SSRv..205..285M))  
+
+29. [GLOBAL INSTABILITY OF THE EXO-MOON SYSTEM TRIGGERED BY PHOTO-EVAPORATION](http://adsabs.harvard.edu/abs/2016ApJ...833....7Y)  
+Yang, Ming, Xie, Ji-Wei, Zhou, Ji-Lin, et al.    
+2016, refereed ([2016ApJ...833....7Y](http://adsabs.harvard.edu/abs/2016ApJ...833....7Y))  
+
+30. [STANDING ON THE SHOULDERS OF DWARFS: THE $KEPLER$ ASTEROSEISMIC LEGACY SAMPLE I - OSCILLATION MODE PARAMETERS](http://adsabs.harvard.edu/abs/2016arXiv161200436L)  
+Lund, Mikkel N., Silva Aguirre, Víctor, Davies, Guy R., et al.    
+2016, pre-print ([2016arXiv161200436L](http://adsabs.harvard.edu/abs/2016arXiv161200436L))  
+
+31. [ASTEROSEISMIC ANALYSIS OF TWO ALPHA-ENHANCED STARS KIC 7976303 AND KIC 8694723](http://adsabs.harvard.edu/abs/2016arXiv161201280G)  
+Ge, Z. S., Bi, S. L., Li, T. D., et al.    
+2016, pre-print ([2016arXiv161201280G](http://adsabs.harvard.edu/abs/2016arXiv161201280G))  
+
+32. [CHEMICAL ABUNDANCES OF M-DWARFS FROM THE APOGEE SURVEY. I. THE EXOPLANET HOSTING STARS KEPLER-138 AND KEPLER-186](http://adsabs.harvard.edu/abs/2016arXiv161201598S)  
+Souto, Diogo, Cunha, Katia, Garcia-Hernandez, D. A., et al.    
+2016, pre-print ([2016arXiv161201598S](http://adsabs.harvard.edu/abs/2016arXiv161201598S))  
+
+33. [THE METALLICITY DISTRIBUTION AND HOT JUPITER RATE OF THE KEPLER FIELD: HECTOCHELLE HIGH-RESOLUTION SPECTROSCOPY FOR 776 KEPLER TARGET STARS](http://adsabs.harvard.edu/abs/2016arXiv161201616G)  
+Guo, Xueying, Johnson, John A., Mann, Andrew W., et al.    
+2016, pre-print ([2016arXiv161201616G](http://adsabs.harvard.edu/abs/2016arXiv161201616G))  
+
+34. [THE KEPLER FOLLOW-UP OBSERVATION PROGRAM. I. A CATALOG OF COMPANIONS TO KEPLER STARS FROM HIGH-RESOLUTION IMAGING](http://adsabs.harvard.edu/abs/2016arXiv161202392F)  
+Furlan, E., Ciardi, D. R., Everett, M. E., et al.    
+2016, pre-print ([2016arXiv161202392F](http://adsabs.harvard.edu/abs/2016arXiv161202392F))  
+
+35. [KEPLER TRANSIT DEPTHS CONTAMINATED BY A PHANTOM STAR](http://adsabs.harvard.edu/abs/2016arXiv161202432D)  
+Dalba, Paul A., Muirhead, Philip S., Croll, Bryce, et al.    
+2016, pre-print ([2016arXiv161202432D](http://adsabs.harvard.edu/abs/2016arXiv161202432D))  
+
+36. [EXPLORING THE EFFICACY AND LIMITATIONS OF SHOCK-COOLING MODELS: NEW RESULTS FOR TYPE II SUPERNOVAE OBSERVED BY THE KEPLER MISSION](http://adsabs.harvard.edu/abs/2016arXiv161202805R)  
+Rubin, Adam, Gal-Yam, Avishay    
+2016, pre-print ([2016arXiv161202805R](http://adsabs.harvard.edu/abs/2016arXiv161202805R))  
+
+37. [INSIGHTS FROM ASTEROSEISMOLOGY OF MASSIVE STARS: THE NEED FOR ADDITIONAL ANGULAR MOMENTUM TRANSPORT MECHANISMS](http://adsabs.harvard.edu/abs/2016arXiv161203092M)  
+Moravveji, Ehsan    
+2016, pre-print ([2016arXiv161203092M](http://adsabs.harvard.edu/abs/2016arXiv161203092M))  
+
+38. [POST-COMMON ENVELOPE PN, FUNDAMENTAL OR IRRELEVANT?](http://adsabs.harvard.edu/abs/2016arXiv161203515D)  
+De Marco, Orsola, Reichardt, T., Iaconi, R., et al.    
+2016, pre-print ([2016arXiv161203515D](http://adsabs.harvard.edu/abs/2016arXiv161203515D))  
+
+39. [HOW FAR ARE EXTRATERRESTRIAL LIFE AND INTELLIGENCE AFTER KEPLER ?](http://adsabs.harvard.edu/abs/2016arXiv161203844W)  
+Wandel, Amri    
+2016, pre-print ([2016arXiv161203844W](http://adsabs.harvard.edu/abs/2016arXiv161203844W))  
+
+40. [CONSTRAINING THE EFFICIENCY OF ANGULAR MOMENTUM TRANSPORT WITH ASTEROSEISMOLOGY OF RED GIANTS: THE EFFECT OF STELLAR MASS](http://adsabs.harvard.edu/abs/2016arXiv161204258E)  
 Eggenberger, P., Lagarde, N., Miglio, A., et al.    
 2016, pre-print ([2016arXiv161204258E](http://adsabs.harvard.edu/abs/2016arXiv161204258E))  
+
+41. [DO A-TYPE STARS FLARE?](http://adsabs.harvard.edu/abs/2016arXiv161204575P)  
+Pedersen, M. G., Antoci, V., Korhonen, H., et al.    
+2016, pre-print ([2016arXiv161204575P](http://adsabs.harvard.edu/abs/2016arXiv161204575P))  
 
 42. [MYSTERIOUS ECLIPSES IN THE LIGHT-CURVE OF KIC8462852: A POSSIBLE EXPLANATION](http://adsabs.harvard.edu/abs/2016arXiv161206121N)  
 Neslusan, L., Budaj, J.    
 2016, pre-print ([2016arXiv161206121N](http://adsabs.harvard.edu/abs/2016arXiv161206121N))  
 
-43. [VARIABILITY IN THE ATMOSPHERE OF THE HOT GIANT PLANET HAT-P-7 B](http://adsabs.harvard.edu/abs/2016NatAs...1E...4A)  
-Armstrong, D. J., de Mooij, E., Barstow, J., et al.    
-2016, refereed ([2016NatAs...1E...4A](http://adsabs.harvard.edu/abs/2016NatAs...1E...4A))  
+43. [EVIDENCE FOR ATMOSPHERIC COLD-TRAP PROCESSES IN THE NON-INVERTED EMISSION SPECTRUM OF KEPLER-13AB USING HST/WFC3](http://adsabs.harvard.edu/abs/2016arXiv161206409B)  
+Beatty, Thomas G., Madhusudhan, Nikku, Tsiaras, Angelos, et al.    
+2016, pre-print ([2016arXiv161206409B](http://adsabs.harvard.edu/abs/2016arXiv161206409B))  
 
-44. [DEPENDENCE OF SMALL PLANET FREQUENCY ON STELLAR METALLICITY HIDDEN BY THEIR PREVALENCE](http://adsabs.harvard.edu/abs/2016ApJ...832..196Z)  
-Zhu, Wei, Wang, Ji, Huang, Chelsea    
-2016, refereed ([2016ApJ...832..196Z](http://adsabs.harvard.edu/abs/2016ApJ...832..196Z))  
+44. [SECULAR DIMMING OF KIC 8462852 FOLLOWING ITS CONSUMPTION OF A PLANET](http://adsabs.harvard.edu/abs/2016arXiv161207332M)  
+Metzger, Brian D., Shen, Ken J., Stone, Nicholas C.    
+2016, pre-print ([2016arXiv161207332M](http://adsabs.harvard.edu/abs/2016arXiv161207332M))  
 
-45. [THE MYSTERY OF V523 LYRAE (ABSTRACT)](http://adsabs.harvard.edu/abs/2016JAVSO..44Q.200S)  
-Simonsen, M.    
-2016, refereed ([2016JAVSO..44Q.200S](http://adsabs.harvard.edu/abs/2016JAVSO..44Q.200S))  
+45. [BEER ANALYSIS OF KEPLER AND COROT LIGHT CURVES: DISCOVERING BINARIES AND EXOPLANETS](http://adsabs.harvard.edu/abs/2016arXiv161208846F)  
+Faigler, Simchon    
+2016, pre-print ([2016arXiv161208846F](http://adsabs.harvard.edu/abs/2016arXiv161208846F))  
 
-46. [POST-COMMON ENVELOPE PN, FUNDAMENTAL OR IRRELEVANT?](http://adsabs.harvard.edu/abs/2016arXiv161203515D)  
-De Marco, Orsola, Reichardt, T., Iaconi, R., et al.    
-2016, pre-print ([2016arXiv161203515D](http://adsabs.harvard.edu/abs/2016arXiv161203515D))  
+46. [CHARACTERIZING SOLAR-TYPE STARS FROM FULL-LENGTH KEPLER DATA SETS USING THE ASTEROSEISMIC MODELING PORTAL](http://adsabs.harvard.edu/abs/2016arXiv161208990C)  
+Creevey, Orlagh, Metcalfe, Travis S., Schultheis, Mathias, et al.    
+2016, pre-print ([2016arXiv161208990C](http://adsabs.harvard.edu/abs/2016arXiv161208990C))  
+
+47. [KIC 11401845: AN ECLIPSING BINARY WITH MULTIPERIODIC PULSATIONS AND LIGHT TRAVEL TIME](http://adsabs.harvard.edu/abs/2016arXiv161209408L)  
+Lee, Jae Woo, Hong, Kyeongsoo, Kim, Seung-Lee, et al.    
+2016, pre-print ([2016arXiv161209408L](http://adsabs.harvard.edu/abs/2016arXiv161209408L))  
 
 
 2016-11
 -------
 
-1. [THE KEPLER DICHOTOMY IN PLANETARY DISKS: LINKING KEPLER OBSERVABLES TO SIMULATIONS OF LATE-STAGE PLANET FORMATION](http://adsabs.harvard.edu/abs/2016ApJ...832...34M)  
-Moriarty, John, Ballard, Sarah    
-2016, refereed ([2016ApJ...832...34M](http://adsabs.harvard.edu/abs/2016ApJ...832...34M))  
-
-2. [PERIODICITIES OF THE RV TAURI-TYPE PULSATING STAR DF CYGNI: A COMBINATION OF KEPLER DATA WITH GROUND-BASED OBSERVATIONS](http://adsabs.harvard.edu/abs/2016A&A...596A..24B)  
+1. [PERIODICITIES OF THE RV TAURI-TYPE PULSATING STAR DF CYGNI: A COMBINATION OF KEPLER DATA WITH GROUND-BASED OBSERVATIONS](http://adsabs.harvard.edu/abs/2016A&A...596A..24B)  
 Bódi, A., Szatmáry, K., Kiss, L. L.    
 2016, refereed ([2016A&A...596A..24B](http://adsabs.harvard.edu/abs/2016A&A...596A..24B))  
 
-3. [PHOTOSPHERIC AND CHROMOSPHERIC MAGNETIC ACTIVITY OF SEISMIC SOLAR ANALOGS. OBSERVATIONAL INPUTS ON THE SOLAR-STELLAR CONNECTION FROM KEPLER AND HERMES](http://adsabs.harvard.edu/abs/2016A&A...596A..31S)  
+2. [PHOTOSPHERIC AND CHROMOSPHERIC MAGNETIC ACTIVITY OF SEISMIC SOLAR ANALOGS. OBSERVATIONAL INPUTS ON THE SOLAR-STELLAR CONNECTION FROM KEPLER AND HERMES](http://adsabs.harvard.edu/abs/2016A&A...596A..31S)  
 Salabert, D., García, R. A., Beck, P. G., et al.    
 2016, refereed ([2016A&A...596A..31S](http://adsabs.harvard.edu/abs/2016A&A...596A..31S))  
 
-4. [DUSTY TAILS OF EVAPORATING EXOPLANETS. II. PHYSICAL MODELLING OF THE KIC 12557548B LIGHT CURVE](http://adsabs.harvard.edu/abs/2016A&A...596A..32V)  
+3. [DUSTY TAILS OF EVAPORATING EXOPLANETS. II. PHYSICAL MODELLING OF THE KIC 12557548B LIGHT CURVE](http://adsabs.harvard.edu/abs/2016A&A...596A..32V)  
 van Lieshout, R., Min, M., Dominik, C., et al.    
 2016, refereed ([2016A&A...596A..32V](http://adsabs.harvard.edu/abs/2016A&A...596A..32V))  
 
-5. [THE FIRST CIRCUMBINARY PLANET FOUND BY MICROLENSING: OGLE-2007-BLG-349L(AB)C](http://adsabs.harvard.edu/abs/2016AJ....152..125B)  
+4. [THE FIRST CIRCUMBINARY PLANET FOUND BY MICROLENSING: OGLE-2007-BLG-349L(AB)C](http://adsabs.harvard.edu/abs/2016AJ....152..125B)  
 Bennett, D. P., Rhie, S. H., Udalski, A., et al.    
 2016, refereed ([2016AJ....152..125B](http://adsabs.harvard.edu/abs/2016AJ....152..125B))  
 
-6. [SPOTS AND ACTIVITY OF THE M DWARF KIC 1572802](http://adsabs.harvard.edu/abs/2016ARep...60.1006S)  
+5. [SPOTS AND ACTIVITY OF THE M DWARF KIC 1572802](http://adsabs.harvard.edu/abs/2016ARep...60.1006S)  
 Savanov, I. S., Gladilina, N. G., Dmitrienko, E. S.    
 2016, refereed ([2016ARep...60.1006S](http://adsabs.harvard.edu/abs/2016ARep...60.1006S))  
 
-7. [FLARES ON A-TYPE STARS: EVIDENCE FOR HEATING OF SOLAR CORONA BY NANOFLARES?](http://adsabs.harvard.edu/abs/2016ApJ...831....9S)  
+6. [FLARES ON A-TYPE STARS: EVIDENCE FOR HEATING OF SOLAR CORONA BY NANOFLARES?](http://adsabs.harvard.edu/abs/2016ApJ...831....9S)  
 Švanda, Michal, Karlický, Marian    
 2016, refereed ([2016ApJ...831....9S](http://adsabs.harvard.edu/abs/2016ApJ...831....9S))  
 
-8. [THE AGE AND DISTANCE OF THE KEPLER OPEN CLUSTER NGC 6811 FROM AN ECLIPSING BINARY, TURNOFF STAR PULSATION, AND GIANT ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2016ApJ...831...11S)  
+7. [THE AGE AND DISTANCE OF THE KEPLER OPEN CLUSTER NGC 6811 FROM AN ECLIPSING BINARY, TURNOFF STAR PULSATION, AND GIANT ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2016ApJ...831...11S)  
 Sandquist, Eric L., Jessen-Hansen, J., Shetrone, Matthew D., et al.    
 2016, refereed ([2016ApJ...831...11S](http://adsabs.harvard.edu/abs/2016ApJ...831...11S))  
 
-9. [DETECTION OF SOLAR-LIKE OSCILLATIONS, OBSERVATIONAL CONSTRAINTS, AND STELLAR MODELS FOR Θ CYG, THE BRIGHTEST STAR OBSERVED BY THE KEPLER MISSION](http://adsabs.harvard.edu/abs/2016ApJ...831...17G)  
+8. [DETECTION OF SOLAR-LIKE OSCILLATIONS, OBSERVATIONAL CONSTRAINTS, AND STELLAR MODELS FOR Θ CYG, THE BRIGHTEST STAR OBSERVED BY THE KEPLER MISSION](http://adsabs.harvard.edu/abs/2016ApJ...831...17G)  
 Guzik, J. A., Houdek, G., Chaplin, W. J., et al.    
 2016, refereed ([2016ApJ...831...17G](http://adsabs.harvard.edu/abs/2016ApJ...831...17G))  
 
-10. [RAPIDLY ROTATING, X-RAY BRIGHT STARS IN THE KEPLER FIELD](http://adsabs.harvard.edu/abs/2016ApJ...831...27H)  
+9. [RAPIDLY ROTATING, X-RAY BRIGHT STARS IN THE KEPLER FIELD](http://adsabs.harvard.edu/abs/2016ApJ...831...27H)  
 Howell, Steve B., Mason, Elena, Boyd, Patricia, et al.    
 2016, refereed ([2016ApJ...831...27H](http://adsabs.harvard.edu/abs/2016ApJ...831...27H))  
 
-11. [STELLAR MAGNETIC CYCLES IN THE SOLAR-LIKE STARS KEPLER-17 AND KEPLER-63](http://adsabs.harvard.edu/abs/2016ApJ...831...57E)  
+10. [STELLAR MAGNETIC CYCLES IN THE SOLAR-LIKE STARS KEPLER-17 AND KEPLER-63](http://adsabs.harvard.edu/abs/2016ApJ...831...57E)  
 Estrela, Raissa, Valio, Adriana    
 2016, refereed ([2016ApJ...831...57E](http://adsabs.harvard.edu/abs/2016ApJ...831...57E))  
+
+11. [THE KEPLER DICHOTOMY IN PLANETARY DISKS: LINKING KEPLER OBSERVABLES TO SIMULATIONS OF LATE-STAGE PLANET FORMATION](http://adsabs.harvard.edu/abs/2016ApJ...832...34M)  
+Moriarty, John, Ballard, Sarah    
+2016, refereed ([2016ApJ...832...34M](http://adsabs.harvard.edu/abs/2016ApJ...832...34M))  
 
 12. [CONSEQUENCES OF TIDAL INTERACTION BETWEEN DISKS AND ORBITING PROTOPLANETS FOR THE EVOLUTION OF MULTI-PLANET SYSTEMS WITH ARCHITECTURE RESEMBLING THAT OF KEPLER 444](http://adsabs.harvard.edu/abs/2016CeMDA.126..157P)  
 Papaloizou, J. C. B.    
@@ -403,115 +423,91 @@ Van Doorsselaere, Tom, Kupriyanova, Elena G., Yuan, Ding
 Huber, K. F., Czesla, S., Schmitt, J. H. M. M.    
 2016, pre-print ([2016arXiv161100153H](http://adsabs.harvard.edu/abs/2016arXiv161100153H))  
 
-16. [THE EFFECTS OF NEAR-CORE CONVECTIVE SHELLS ON THE GRAVITY MODES OF THE SUBDWARF B PULSATOR KIC 10553698A](http://adsabs.harvard.edu/abs/2016arXiv161100334G)  
-Ghasemi, Hamed, Moravveji, Ehsan, Aerts, Conny, et al.    
-2016, pre-print ([2016arXiv161100334G](http://adsabs.harvard.edu/abs/2016arXiv161100334G))  
-
-17. [CIRCUMBINARY PLANETS II - WHEN TRANSITS COME AND GO](http://adsabs.harvard.edu/abs/2016arXiv161100526M)  
-Martin, David V.    
-2016, pre-print ([2016arXiv161100526M](http://adsabs.harvard.edu/abs/2016arXiv161100526M))  
-
-18. [RAPIDLY ROTATING RED GIANTS](http://adsabs.harvard.edu/abs/2016arXiv161100540G)  
+16. [RAPIDLY ROTATING RED GIANTS](http://adsabs.harvard.edu/abs/2016arXiv161100540G)  
 Gehan, Charlotte, Mosser, BenoĂŽt, Michel, Eric    
 2016, pre-print ([2016arXiv161100540G](http://adsabs.harvard.edu/abs/2016arXiv161100540G))  
 
-19. [CONSTRAINING STELLAR PHYSICS FROM RED-GIANT STARS IN BINARIES - STELLAR ROTATION, MIXING PROCESSES AND STELLAR ACTIVITY](http://adsabs.harvard.edu/abs/2016arXiv161101402B)  
+17. [CONSTRAINING STELLAR PHYSICS FROM RED-GIANT STARS IN BINARIES - STELLAR ROTATION, MIXING PROCESSES AND STELLAR ACTIVITY](http://adsabs.harvard.edu/abs/2016arXiv161101402B)  
 Beck, P. G., Kallinger, T., Pavlovski, K., et al.    
 2016, pre-print ([2016arXiv161101402B](http://adsabs.harvard.edu/abs/2016arXiv161101402B))  
 
-20. [CHROMOSPHERICALLY ACTIVE LOW-MASS CLOSE BINARY: KIC 9761199](http://adsabs.harvard.edu/abs/2016arXiv161101684Y)  
+18. [CHROMOSPHERICALLY ACTIVE LOW-MASS CLOSE BINARY: KIC 9761199](http://adsabs.harvard.edu/abs/2016arXiv161101684Y)  
 Yoldas, Ezgi, Dal, Hasan Ali    
 2016, pre-print ([2016arXiv161101684Y](http://adsabs.harvard.edu/abs/2016arXiv161101684Y))  
 
-21. [TRANSIT SHAPES AND SELF ORGANISING MAPS AS A TOOL FOR RANKING PLANETARY CANDIDATES: APPLICATION TO KEPLER AND K2](http://adsabs.harvard.edu/abs/2016arXiv161101968A)  
-Armstrong, David J., Pollacco, Don, Santerne, Alexandre    
-2016, pre-print ([2016arXiv161101968A](http://adsabs.harvard.edu/abs/2016arXiv161101968A))  
-
-22. [STELLAR MAGNETIC ACTIVITY AND VARIABILITY OF OSCILLATION PARAMETERS - AN INVESTIGATION OF 24 SOLAR-LIKE STARS OBSERVED BY KEPLER](http://adsabs.harvard.edu/abs/2016arXiv161102029K)  
+19. [STELLAR MAGNETIC ACTIVITY AND VARIABILITY OF OSCILLATION PARAMETERS - AN INVESTIGATION OF 24 SOLAR-LIKE STARS OBSERVED BY KEPLER](http://adsabs.harvard.edu/abs/2016arXiv161102029K)  
 Kiefer, RenĂŠ, Schad, Ariane, Davies, Guy, et al.    
 2016, pre-print ([2016arXiv161102029K](http://adsabs.harvard.edu/abs/2016arXiv161102029K))  
 
-23. [PULSATION VERSUS METALLICISM IN AM STARS AS REVEALED BY LAMOST AND WASP](http://adsabs.harvard.edu/abs/2016arXiv161102254S)  
-Smalley, B., Antoci, V., Holdsworth, D. L., et al.    
-2016, pre-print ([2016arXiv161102254S](http://adsabs.harvard.edu/abs/2016arXiv161102254S))  
-
-24. [A NEW YIELD SIMULATOR FOR TRANSITING PLANETS AND FALSE POSITIVES: APPLICATION TO THE NEXT GENERATION TRANSIT SURVEY](http://adsabs.harvard.edu/abs/2016arXiv161102526G)  
-GĂźnther, Maximilian N., Queloz, Didier, Demory, Brice-Olivier, et al.    
-2016, pre-print ([2016arXiv161102526G](http://adsabs.harvard.edu/abs/2016arXiv161102526G))  
-
-25. [KEPLER PLANET MASSES AND ECCENTRICITIES FROM TTV ANALYSIS](http://adsabs.harvard.edu/abs/2016arXiv161103516H)  
+20. [KEPLER PLANET MASSES AND ECCENTRICITIES FROM TTV ANALYSIS](http://adsabs.harvard.edu/abs/2016arXiv161103516H)  
 Hadden, Sam, Lithwick, Yoram    
 2016, pre-print ([2016arXiv161103516H](http://adsabs.harvard.edu/abs/2016arXiv161103516H))  
 
-26. [PROBING THE DEEP END OF THE MILKY WAY WITH NEW OSCILLATING KEPLER GIANTS](http://adsabs.harvard.edu/abs/2016arXiv161104237M)  
+21. [PROBING THE DEEP END OF THE MILKY WAY WITH NEW OSCILLATING KEPLER GIANTS](http://adsabs.harvard.edu/abs/2016arXiv161104237M)  
 Mathur, Savita, Garcia, Rafael A., Huber, Daniel, et al.    
 2016, pre-print ([2016arXiv161104237M](http://adsabs.harvard.edu/abs/2016arXiv161104237M))  
 
-27. [TRANSIT CLAIRVOYANCE: ENHANCING TESS FOLLOW-UP USING ARTIFICIAL NEURAL NETWORKS](http://adsabs.harvard.edu/abs/2016arXiv161104904K)  
-Kipping, David M., Lam, Christopher    
-2016, pre-print ([2016arXiv161104904K](http://adsabs.harvard.edu/abs/2016arXiv161104904K))  
-
-28. [THE POTENTIAL OF SPACE OBSERVATIONS FOR PULSATING PRE-MAIN SEQUENCE STARS](http://adsabs.harvard.edu/abs/2016arXiv161104919Z)  
+22. [THE POTENTIAL OF SPACE OBSERVATIONS FOR PULSATING PRE-MAIN SEQUENCE STARS](http://adsabs.harvard.edu/abs/2016arXiv161104919Z)  
 Zwintz, Konstanze    
 2016, pre-print ([2016arXiv161104919Z](http://adsabs.harvard.edu/abs/2016arXiv161104919Z))  
 
-29. [EFFECT OF KEPLER CALIBRATION ON GLOBAL SEISMIC AND BACKGROUND PARAMETERS](http://adsabs.harvard.edu/abs/2016arXiv161105184S)  
+23. [EFFECT OF KEPLER CALIBRATION ON GLOBAL SEISMIC AND BACKGROUND PARAMETERS](http://adsabs.harvard.edu/abs/2016arXiv161105184S)  
 Salabert, D., Garcia, R. A., Mathur, S., et al.    
 2016, pre-print ([2016arXiv161105184S](http://adsabs.harvard.edu/abs/2016arXiv161105184S))  
 
-30. [ABUNDANCES OF DISK AND BULGE GIANTS FROM HI-RES OPTICAL SPECTRA: I. O, MG, CA, AND TI IN THE SOLAR NEIGHBORHOOD AND KEPLER FIELD SAMPLES](http://adsabs.harvard.edu/abs/2016arXiv161105462J)  
+24. [ABUNDANCES OF DISK AND BULGE GIANTS FROM HI-RES OPTICAL SPECTRA: I. O, MG, CA, AND TI IN THE SOLAR NEIGHBORHOOD AND KEPLER FIELD SAMPLES](http://adsabs.harvard.edu/abs/2016arXiv161105462J)  
 Jรถnsson, H., Ryde, N., Nordlander, T., et al.    
 2016, pre-print ([2016arXiv161105462J](http://adsabs.harvard.edu/abs/2016arXiv161105462J))  
 
-31. [ASTEROSEISMIC MODELLING OF THE BINARY HD 176465](http://adsabs.harvard.edu/abs/2016arXiv161105698N)  
+25. [ASTEROSEISMIC MODELLING OF THE BINARY HD 176465](http://adsabs.harvard.edu/abs/2016arXiv161105698N)  
 Nsamba, B., Monteiro, M. J. P. F. G., Campante, T. L., et al.    
 2016, pre-print ([2016arXiv161105698N](http://adsabs.harvard.edu/abs/2016arXiv161105698N))  
 
-32. [ODD HARMONICS IN EXOPLANET PHOTOMETRY: WEATHER OR ARTIFACT?](http://adsabs.harvard.edu/abs/2016arXiv161105925C)  
+26. [ODD HARMONICS IN EXOPLANET PHOTOMETRY: WEATHER OR ARTIFACT?](http://adsabs.harvard.edu/abs/2016arXiv161105925C)  
 Cowan, Nicolas B., Chayes, Victoria, Bouffard, Elie, et al.    
 2016, pre-print ([2016arXiv161105925C](http://adsabs.harvard.edu/abs/2016arXiv161105925C))  
 
-33. [EFFECTS OF VARIABLE ECCENTRICITY ON THE CLIMATE OF AN EARTH-LIKE WORLD](http://adsabs.harvard.edu/abs/2016arXiv161106133W)  
+27. [EFFECTS OF VARIABLE ECCENTRICITY ON THE CLIMATE OF AN EARTH-LIKE WORLD](http://adsabs.harvard.edu/abs/2016arXiv161106133W)  
 Way, Michael. J., Georgakarakos, Nikolaos    
 2016, pre-print ([2016arXiv161106133W](http://adsabs.harvard.edu/abs/2016arXiv161106133W))  
 
-34. [KEPLER-11 IS A SOLAR TWIN: REVISING THE MASSES AND RADII OF BENCHMARK PLANETS VIA PRECISE STELLAR CHARACTERIZATION](http://adsabs.harvard.edu/abs/2016arXiv161106239B)  
+28. [KEPLER-11 IS A SOLAR TWIN: REVISING THE MASSES AND RADII OF BENCHMARK PLANETS VIA PRECISE STELLAR CHARACTERIZATION](http://adsabs.harvard.edu/abs/2016arXiv161106239B)  
 Bedell, Megan, Bean, Jacob L., Melendez, Jorge, et al.    
 2016, pre-print ([2016arXiv161106239B](http://adsabs.harvard.edu/abs/2016arXiv161106239B))  
 
-35. [UNDERSTANDING THE GENERAL FEATURE OF MICROVARIABILITY IN ${\IT KEPLER}$ BLAZAR W2R 1926$+$42](http://adsabs.harvard.edu/abs/2016arXiv161106311S)  
+29. [UNDERSTANDING THE GENERAL FEATURE OF MICROVARIABILITY IN ${\IT KEPLER}$ BLAZAR W2R 1926$+$42](http://adsabs.harvard.edu/abs/2016arXiv161106311S)  
 Sasada, Mahito, Mineshige, Shin, Yamada, Shinya, et al.    
 2016, pre-print ([2016arXiv161106311S](http://adsabs.harvard.edu/abs/2016arXiv161106311S))  
 
-36. [MIGRATION OF PLANETS INTO AND OUT OF MEAN MOTION RESONANCES IN PROTOPLANETARY DISKS: ANALYTICAL THEORY OF SECOND-ORDER RESONANCES](http://adsabs.harvard.edu/abs/2016arXiv161106463X)  
+30. [MIGRATION OF PLANETS INTO AND OUT OF MEAN MOTION RESONANCES IN PROTOPLANETARY DISKS: ANALYTICAL THEORY OF SECOND-ORDER RESONANCES](http://adsabs.harvard.edu/abs/2016arXiv161106463X)  
 Xu, Wenrui, Lai, Dong    
 2016, pre-print ([2016arXiv161106463X](http://adsabs.harvard.edu/abs/2016arXiv161106463X))  
 
-37. [SIGNATURES OF INTERNAL ROTATION DISCOVERED IN THE KEPLER DATA OF FIVE SLOWLY PULSATING B STARS](http://adsabs.harvard.edu/abs/2016arXiv161106955P)  
+31. [SIGNATURES OF INTERNAL ROTATION DISCOVERED IN THE KEPLER DATA OF FIVE SLOWLY PULSATING B STARS](http://adsabs.harvard.edu/abs/2016arXiv161106955P)  
 Pรกpics, P. I., Tkachenko, A., Van Reeth, T., et al.    
 2016, pre-print ([2016arXiv161106955P](http://adsabs.harvard.edu/abs/2016arXiv161106955P))  
 
-38. [MAGNETIC ACTIVITY ANALYSIS FOR A SAMPLE OF G-TYPE MAIN SEQUENCE \EMPH{KEPLER} TARGETS](http://adsabs.harvard.edu/abs/2016arXiv161107262M)  
+32. [MAGNETIC ACTIVITY ANALYSIS FOR A SAMPLE OF G-TYPE MAIN SEQUENCE \EMPH{KEPLER} TARGETS](http://adsabs.harvard.edu/abs/2016arXiv161107262M)  
 Mehrabi, A., He, H., Khosroshahi, H.    
 2016, pre-print ([2016arXiv161107262M](http://adsabs.harvard.edu/abs/2016arXiv161107262M))  
 
-39. [A PHYSICALLY INSPIRED MODEL OF DIP D792 AND D1519 OF THE KEPLER LIGHT CURVE SEEN AT KIC8462852](http://adsabs.harvard.edu/abs/2016arXiv161108368H)  
+33. [A PHYSICALLY INSPIRED MODEL OF DIP D792 AND D1519 OF THE KEPLER LIGHT CURVE SEEN AT KIC8462852](http://adsabs.harvard.edu/abs/2016arXiv161108368H)  
 Heindl, Eduard    
 2016, pre-print ([2016arXiv161108368H](http://adsabs.harvard.edu/abs/2016arXiv161108368H))  
 
-40. [EARLY IDENTIFICATION OF TYPE I SUPERNOVA LIGHT CURVES](http://adsabs.harvard.edu/abs/2016arXiv161108746A)  
+34. [EARLY IDENTIFICATION OF TYPE I SUPERNOVA LIGHT CURVES](http://adsabs.harvard.edu/abs/2016arXiv161108746A)  
 Arnett, W. David, Fryer, Christopher L., Matheson, Thomas    
 2016, pre-print ([2016arXiv161108746A](http://adsabs.harvard.edu/abs/2016arXiv161108746A))  
 
-41. [STANDING ON THE SHOULDERS OF DWARFS: THE KEPLER ASTEROSEISMIC LEGACY SAMPLE II - RADII, MASSES, AND AGES](http://adsabs.harvard.edu/abs/2016arXiv161108776S)  
+35. [STANDING ON THE SHOULDERS OF DWARFS: THE KEPLER ASTEROSEISMIC LEGACY SAMPLE II - RADII, MASSES, AND AGES](http://adsabs.harvard.edu/abs/2016arXiv161108776S)  
 Silva Aguirre, Victor, Lund, Mikkel N., Antia, H. M., et al.    
 2016, pre-print ([2016arXiv161108776S](http://adsabs.harvard.edu/abs/2016arXiv161108776S))  
 
-42. [METAL-RICH SX PHE STARS IN THE KEPLER FIELD](http://adsabs.harvard.edu/abs/2016arXiv161110332N)  
+36. [METAL-RICH SX PHE STARS IN THE KEPLER FIELD](http://adsabs.harvard.edu/abs/2016arXiv161110332N)  
 Nemec, James M., Balona, Luis A., Murphy, Simon J., et al.    
 2016, pre-print ([2016arXiv161110332N](http://adsabs.harvard.edu/abs/2016arXiv161110332N))  
 
-43. [ROTATION PERIODS OF WIDE BINARIES IN THE KEPLER FIELD](http://adsabs.harvard.edu/abs/2016arXiv161200070J)  
+37. [ROTATION PERIODS OF WIDE BINARIES IN THE KEPLER FIELD](http://adsabs.harvard.edu/abs/2016arXiv161200070J)  
 Janes, K. A.    
 2016, pre-print ([2016arXiv161200070J](http://adsabs.harvard.edu/abs/2016arXiv161200070J))  
 
@@ -615,81 +611,49 @@ Steffen, Jason H., Coughlin, Jeffrey L.
 Guo, Zhao, Gies, Douglas R., Matson, Rachel A., et al.    
 2016, pre-print ([2016arXiv161000350G](http://adsabs.harvard.edu/abs/2016arXiv161000350G))  
 
-25. [KOI-1003: A NEW SPOTTED, ECLIPSING RS CVN BINARY IN THE KEPLER FIELD](http://adsabs.harvard.edu/abs/2016arXiv161000721R)  
-Roettenbacher, Rachael M., Kane, Stephen R., Monnier, John D., et al.    
-2016, pre-print ([2016arXiv161000721R](http://adsabs.harvard.edu/abs/2016arXiv161000721R))  
-
-26. [BORN DRY IN THE PHOTO-EVAPORATION DESERT: KEPLER'S ULTRA-SHORT-PERIOD PLANETS FORMED WATER-POOR](http://adsabs.harvard.edu/abs/2016arXiv161001170L)  
+25. [BORN DRY IN THE PHOTO-EVAPORATION DESERT: KEPLER'S ULTRA-SHORT-PERIOD PLANETS FORMED WATER-POOR](http://adsabs.harvard.edu/abs/2016arXiv161001170L)  
 Lopez, Eric D.    
 2016, pre-print ([2016arXiv161001170L](http://adsabs.harvard.edu/abs/2016arXiv161001170L))  
 
-27. [ANALYSIS OF THE LINEAR APPROXIMATION OF SEISMIC INVERSIONS FOR VARIOUS STRUCTURAL PAIRS](http://adsabs.harvard.edu/abs/2016arXiv161001460B)  
+26. [ANALYSIS OF THE LINEAR APPROXIMATION OF SEISMIC INVERSIONS FOR VARIOUS STRUCTURAL PAIRS](http://adsabs.harvard.edu/abs/2016arXiv161001460B)  
 Buldgen, G., Reese, D. R., Dupret, M. A.    
 2016, pre-print ([2016arXiv161001460B](http://adsabs.harvard.edu/abs/2016arXiv161001460B))  
 
-28. [VARIABLE STARS WITH THE KEPLER SPACE TELESCOPE](http://adsabs.harvard.edu/abs/2016arXiv161002004M)  
-Molnár, László, Szabó, Róbert, Plachy, Emese    
-2016, pre-print ([2016arXiv161002004M](http://adsabs.harvard.edu/abs/2016arXiv161002004M))  
-
-29. [MAGNETIC ACTIVITY OF SEISMIC SOLAR ANALOGS](http://adsabs.harvard.edu/abs/2016arXiv161002195S)  
+27. [MAGNETIC ACTIVITY OF SEISMIC SOLAR ANALOGS](http://adsabs.harvard.edu/abs/2016arXiv161002195S)  
 Salabert, D., Beck, R. A. Garcia. P. G., the SSA team    
 2016, pre-print ([2016arXiv161002195S](http://adsabs.harvard.edu/abs/2016arXiv161002195S))  
 
-30. [DATA PREPARATION FOR ASTEROSEISMOLOGY WITH TESS](http://adsabs.harvard.edu/abs/2016arXiv161002702L)  
+28. [DATA PREPARATION FOR ASTEROSEISMOLOGY WITH TESS](http://adsabs.harvard.edu/abs/2016arXiv161002702L)  
 Lund, Mikkel N., Handberg, Rasmus, Kjeldsen, Hans, et al.    
 2016, pre-print ([2016arXiv161002702L](http://adsabs.harvard.edu/abs/2016arXiv161002702L))  
 
-31. [THE HIGH RATE OF THE BOYAJIAN'S STAR ANOMALY AS A PHENOMENON](http://adsabs.harvard.edu/abs/2016arXiv161003219L)  
+29. [THE HIGH RATE OF THE BOYAJIAN'S STAR ANOMALY AS A PHENOMENON](http://adsabs.harvard.edu/abs/2016arXiv161003219L)  
 Lacki, Brian C.    
 2016, pre-print ([2016arXiv161003219L](http://adsabs.harvard.edu/abs/2016arXiv161003219L))  
 
-32. [TATOOINE'S FUTURE: THE ECCENTRIC RESPONSE OF KEPLER'S CIRCUMBINARY PLANETS TO COMMON-ENVELOPE EVOLUTION OF THEIR HOST STARS](http://adsabs.harvard.edu/abs/2016arXiv161003436K)  
-Kostov, Veselin B., Moore, Keavin, Tamayo, Daniel, et al.    
-2016, pre-print ([2016arXiv161003436K](http://adsabs.harvard.edu/abs/2016arXiv161003436K))  
-
-33. [HOW ECLIPSE TIME VARIATIONS, ECLIPSE DURATION VARIATIONS, AND RADIAL VELOCITIES CAN REVEAL S-TYPE PLANETS IN CLOSE ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2016arXiv161004047O)  
+30. [HOW ECLIPSE TIME VARIATIONS, ECLIPSE DURATION VARIATIONS, AND RADIAL VELOCITIES CAN REVEAL S-TYPE PLANETS IN CLOSE ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2016arXiv161004047O)  
 Oshagh, M., Heller, R., Dreizler, S.    
 2016, pre-print ([2016arXiv161004047O](http://adsabs.harvard.edu/abs/2016arXiv161004047O))  
 
-34. [LAMOST OBSERVATIONS OF FLARING M DWARFS IN THE KEPLER FIELD](http://adsabs.harvard.edu/abs/2016arXiv161004541C)  
-Chang, H. -Y., Song, Y. -H., Luo, A. -L., et al.    
-2016, pre-print ([2016arXiv161004541C](http://adsabs.harvard.edu/abs/2016arXiv161004541C))  
-
-35. [A NEW ASTEROSEISMIC DIAGNOSTIC FOR INTERNAL ROTATION IN $\GAMMA$ DORADUS STARS](http://adsabs.harvard.edu/abs/2016arXiv161006184O)  
-Ouazzani, Rhita-Maria, Salmon, S. J. A. J., Antoci, V., et al.    
-2016, pre-print ([2016arXiv161006184O](http://adsabs.harvard.edu/abs/2016arXiv161006184O))  
-
-36. [THE ROLE OF DISC SELF-GRAVITY IN CIRCUMBINARY PLANET SYSTEMS: I. DISC STRUCTURE AND EVOLUTION](http://adsabs.harvard.edu/abs/2016arXiv161007811M)  
-Mutter, Matthew M., Pierens, Arnaud, Nelson, Richard P.    
-2016, pre-print ([2016arXiv161007811M](http://adsabs.harvard.edu/abs/2016arXiv161007811M))  
-
-37. [LIMITS TO THE PRESENCE OF TRANSITING CIRCUMBINARY PLANETS IN COROT DATA](http://adsabs.harvard.edu/abs/2016arXiv161008471K)  
+31. [LIMITS TO THE PRESENCE OF TRANSITING CIRCUMBINARY PLANETS IN COROT DATA](http://adsabs.harvard.edu/abs/2016arXiv161008471K)  
 Klagyivik, P., Deeg, H. J., Cabrera, J., et al.    
 2016, pre-print ([2016arXiv161008471K](http://adsabs.harvard.edu/abs/2016arXiv161008471K))  
 
-38. [CONVERSION OF INTERNAL GRAVITY WAVES INTO MAGNETIC WAVES](http://adsabs.harvard.edu/abs/2016arXiv161008506L)  
+32. [CONVERSION OF INTERNAL GRAVITY WAVES INTO MAGNETIC WAVES](http://adsabs.harvard.edu/abs/2016arXiv161008506L)  
 Lecoanet, Daniel, Vasil, Geoffrey M, Fuller, Jim, et al.    
 2016, pre-print ([2016arXiv161008506L](http://adsabs.harvard.edu/abs/2016arXiv161008506L))  
 
-39. [ROTATING STARS FROM KEPLER OBSERVED WITH GAIA DR1](http://adsabs.harvard.edu/abs/2016arXiv161008563D)  
+33. [ROTATING STARS FROM KEPLER OBSERVED WITH GAIA DR1](http://adsabs.harvard.edu/abs/2016arXiv161008563D)  
 Davenport, James R. A.    
 2016, pre-print ([2016arXiv161008563D](http://adsabs.harvard.edu/abs/2016arXiv161008563D))  
 
-40. [A SIMPLE MODEL TO DESCRIBE INTRINSIC STELLAR NOISE FOR EXOPLANET DETECTION AROUND RED GIANTS](http://adsabs.harvard.edu/abs/2016arXiv161008688N)  
-North, Thomas S. H., Chaplin, William J., Gilliland, Ronald L., et al.    
-2016, pre-print ([2016arXiv161008688N](http://adsabs.harvard.edu/abs/2016arXiv161008688N))  
-
-41. [PREDICTIONS FOR THE PERIOD DEPENDENCE OF THE TRANSITION BETWEEN ROCKY SUPER-EARTHS AND GASEOUS SUB-NEPTUNES AND IMPLICATIONS FOR $\ETA_{\MATHRM{\OPLUS}}$](http://adsabs.harvard.edu/abs/2016arXiv161009390L)  
+34. [PREDICTIONS FOR THE PERIOD DEPENDENCE OF THE TRANSITION BETWEEN ROCKY SUPER-EARTHS AND GASEOUS SUB-NEPTUNES AND IMPLICATIONS FOR $\ETA_{\MATHRM{\OPLUS}}$](http://adsabs.harvard.edu/abs/2016arXiv161009390L)  
 Lopez, Eric D., Rice, Ken    
 2016, pre-print ([2016arXiv161009390L](http://adsabs.harvard.edu/abs/2016arXiv161009390L))  
 
-42. [CANDIDATES OF ECLIPSING MULTIPLES BASED ON EXTRANEOUS ECLIPSES ON BINARY LIGHT CURVES: KIC 7622486, KIC 7668648, KIC 7670485 AND KIC 8938628](http://adsabs.harvard.edu/abs/2016arXiv161009446Z)  
+35. [CANDIDATES OF ECLIPSING MULTIPLES BASED ON EXTRANEOUS ECLIPSES ON BINARY LIGHT CURVES: KIC 7622486, KIC 7668648, KIC 7670485 AND KIC 8938628](http://adsabs.harvard.edu/abs/2016arXiv161009446Z)  
 Zhang, Jia, Qian, Sheng-Bang, He, Jian-Duo    
 2016, pre-print ([2016arXiv161009446Z](http://adsabs.harvard.edu/abs/2016arXiv161009446Z))  
-
-43. [ON THE RADIAL VELOCITY DETECTION OF ADDITIONAL PLANETS IN TRANSITING, SLOWLY ROTATING M-DWARF SYSTEMS: THE CASE OF GJ 1132](http://adsabs.harvard.edu/abs/2016arXiv161009667C)  
-Cloutier, Ryan, Doyon, RenĂŠ, Menou, Kristen, et al.    
-2016, pre-print ([2016arXiv161009667C](http://adsabs.harvard.edu/abs/2016arXiv161009667C))  
 
 
 2016-09
@@ -803,95 +767,55 @@ Wang, Dun, Hogg, David W., Foreman-Mackey, Daniel, et al.
 Roxburgh, Ian W    
 2016, pre-print ([2016arXiv160900568R](http://adsabs.harvard.edu/abs/2016arXiv160900568R))  
 
-28. [THE AGE OF THE KIC 7177553 SYSTEM](http://adsabs.harvard.edu/abs/2016arXiv160900942M)  
-MacDonald, James, Mullan, D. J.    
-2016, pre-print ([2016arXiv160900942M](http://adsabs.harvard.edu/abs/2016arXiv160900942M))  
-
-29. [ASTEROSEISMOLOGY OF HYBRID $\DELTA$ SCUTI--$\GAMMA$ DORADUS PULSATING STARS](http://adsabs.harvard.edu/abs/2016arXiv160902864S)  
-Sรกnchez Arias, J. P., Cรณrsico, A. H., Althaus, L. G.    
-2016, pre-print ([2016arXiv160902864S](http://adsabs.harvard.edu/abs/2016arXiv160902864S))  
-
-30. [TRANSITS PROBABILITIES AROUND HYPERVELOCITY AND RUNAWAY STARS](http://adsabs.harvard.edu/abs/2016arXiv160903905F)  
+28. [TRANSITS PROBABILITIES AROUND HYPERVELOCITY AND RUNAWAY STARS](http://adsabs.harvard.edu/abs/2016arXiv160903905F)  
 Fragione, Giacomo, Ginsburg, Idan    
 2016, pre-print ([2016arXiv160903905F](http://adsabs.harvard.edu/abs/2016arXiv160903905F))  
 
-31. [BAYESIAN ANALYSIS OF INTERIORS OF HD 219134B, KEPLER-10B, KEPLER-93B, COROT-7B, 55 CNC E, AND HD 97658B USING STELLAR ABUNDANCE PROXIES](http://adsabs.harvard.edu/abs/2016arXiv160903909D)  
-Dorn, C., Hinkel, N. R., Venturini, J.    
-2016, pre-print ([2016arXiv160903909D](http://adsabs.harvard.edu/abs/2016arXiv160903909D))  
-
-32. [PHOTOMETRIC AND ASTROMETRIC VAGARIES OF THE ENIGMA STAR KIC 8462852](http://adsabs.harvard.edu/abs/2016arXiv160904032M)  
-Makarov, Valeri V, Goldin, Alexey    
-2016, pre-print ([2016arXiv160904032M](http://adsabs.harvard.edu/abs/2016arXiv160904032M))  
-
-33. [REVISED STELLAR PROPERTIES OF KEPLER TARGETS FOR THE Q1-17 (DR25) TRANSIT DETECTION RUN](http://adsabs.harvard.edu/abs/2016arXiv160904128M)  
+29. [REVISED STELLAR PROPERTIES OF KEPLER TARGETS FOR THE Q1-17 (DR25) TRANSIT DETECTION RUN](http://adsabs.harvard.edu/abs/2016arXiv160904128M)  
 Mathur, Savita, Huber, Daniel, Batalha, Natalie M., et al.    
 2016, pre-print ([2016arXiv160904128M](http://adsabs.harvard.edu/abs/2016arXiv160904128M))  
 
-34. [A FIRST VIEW WITH GAIA ON KIC 8462852 - DISTANCE ESTIMATES AND A COMPARISON TO OTHER F STARS](http://adsabs.harvard.edu/abs/2016arXiv160905492H)  
+30. [A FIRST VIEW WITH GAIA ON KIC 8462852 - DISTANCE ESTIMATES AND A COMPARISON TO OTHER F STARS](http://adsabs.harvard.edu/abs/2016arXiv160905492H)  
 Hippke, Michael, Angerhausen, Daniel    
 2016, pre-print ([2016arXiv160905492H](http://adsabs.harvard.edu/abs/2016arXiv160905492H))  
 
-35. [STELLAR PARAMETERS OF MAIN SEQUENCE TURN-OFF STAR CANDIDATES OBSERVED WITH THE LAMOST AND KEPLER](http://adsabs.harvard.edu/abs/2016arXiv160905707W)  
+31. [STELLAR PARAMETERS OF MAIN SEQUENCE TURN-OFF STAR CANDIDATES OBSERVED WITH THE LAMOST AND KEPLER](http://adsabs.harvard.edu/abs/2016arXiv160905707W)  
 Wu, Yaqian, Xiang, Maosheng, Zhang, Xianfei, et al.    
 2016, pre-print ([2016arXiv160905707W](http://adsabs.harvard.edu/abs/2016arXiv160905707W))  
 
-36. [TIDALLY INDUCED PULSATIONS IN KEPLER ECLIPSING BINARY KIC 3230227](http://adsabs.harvard.edu/abs/2016arXiv160906376G)  
-Guo, Zhao, Gies, Douglas R., Fuller, Jim    
-2016, pre-print ([2016arXiv160906376G](http://adsabs.harvard.edu/abs/2016arXiv160906376G))  
-
-37. [$\GAMMA$ DORADUS PULSATIONS IN THE ECLIPSING BINARY STAR KIC 6048106](http://adsabs.harvard.edu/abs/2016arXiv160906387L)  
-Lee, Jae Woo    
-2016, pre-print ([2016arXiv160906387L](http://adsabs.harvard.edu/abs/2016arXiv160906387L))  
-
-38. [SEARCHING FOR TWINS OF THE V1309 SCO PROGENITOR SYSTEM: A SELECTION OF LONG-PERIOD CONTACT BINARIES](http://adsabs.harvard.edu/abs/2016arXiv160906595K)  
+32. [SEARCHING FOR TWINS OF THE V1309 SCO PROGENITOR SYSTEM: A SELECTION OF LONG-PERIOD CONTACT BINARIES](http://adsabs.harvard.edu/abs/2016arXiv160906595K)  
 Kurtenkov, Alexander    
 2016, pre-print ([2016arXiv160906595K](http://adsabs.harvard.edu/abs/2016arXiv160906595K))  
 
-39. [GIANT STAR SEISMOLOGY](http://adsabs.harvard.edu/abs/2016arXiv160907487H)  
+33. [GIANT STAR SEISMOLOGY](http://adsabs.harvard.edu/abs/2016arXiv160907487H)  
 Hekker, S., Christensen-Dalsgaard, J.    
 2016, pre-print ([2016arXiv160907487H](http://adsabs.harvard.edu/abs/2016arXiv160907487H))  
 
-40. [DAWES REVIEW. THE TIDAL DOWNSIZING HYPOTHESIS OF PLANET FORMATION](http://adsabs.harvard.edu/abs/2016arXiv160907503N)  
+34. [DAWES REVIEW. THE TIDAL DOWNSIZING HYPOTHESIS OF PLANET FORMATION](http://adsabs.harvard.edu/abs/2016arXiv160907503N)  
 Nayakshin, Sergei    
 2016, pre-print ([2016arXiv160907503N](http://adsabs.harvard.edu/abs/2016arXiv160907503N))  
 
-41. [KEPLER-21B: A ROCKY PLANET AROUND A V = 8.25 MAGNITUDE STAR](http://adsabs.harvard.edu/abs/2016arXiv160907617L)  
-Lopez-Morales, Mercedes, Haywood, Raphaelle D., Coughlin, Jeffrey L., et al.    
-2016, pre-print ([2016arXiv160907617L](http://adsabs.harvard.edu/abs/2016arXiv160907617L))  
-
-42. [CHANGE IN ACTIVITY CHARACTER OF CORONAE OF LOW-MASS STARS OF VARIOUS SPECTRAL TYPES](http://adsabs.harvard.edu/abs/2016arXiv160907989N)  
+35. [CHANGE IN ACTIVITY CHARACTER OF CORONAE OF LOW-MASS STARS OF VARIOUS SPECTRAL TYPES](http://adsabs.harvard.edu/abs/2016arXiv160907989N)  
 Nizamov, B. A., Katsova, M. M., Livshits, M. A.    
 2016, pre-print ([2016arXiv160907989N](http://adsabs.harvard.edu/abs/2016arXiv160907989N))  
 
-43. [THE EFFECTS OF EXTERNAL PLANETS ON INNER SYSTEMS: MULTIPLICITIES, INCLINATIONS, AND PATHWAYS TO ECCENTRIC WARM JUPITERS](http://adsabs.harvard.edu/abs/2016arXiv160908058M)  
+36. [THE EFFECTS OF EXTERNAL PLANETS ON INNER SYSTEMS: MULTIPLICITIES, INCLINATIONS, AND PATHWAYS TO ECCENTRIC WARM JUPITERS](http://adsabs.harvard.edu/abs/2016arXiv160908058M)  
 Mustill, Alexander J, Davies, Melvyn B, Johansen, Anders    
 2016, pre-print ([2016arXiv160908058M](http://adsabs.harvard.edu/abs/2016arXiv160908058M))  
 
-44. [DYNAMICALLY HOT SUPER-EARTHS FROM OUTER GIANT PLANET SCATTERING](http://adsabs.harvard.edu/abs/2016arXiv160908110H)  
+37. [DYNAMICALLY HOT SUPER-EARTHS FROM OUTER GIANT PLANET SCATTERING](http://adsabs.harvard.edu/abs/2016arXiv160908110H)  
 Huang, Chelsea X., Petrovich, Cristobal, Deibert, Emily    
 2016, pre-print ([2016arXiv160908110H](http://adsabs.harvard.edu/abs/2016arXiv160908110H))  
 
-45. [GLOBAL INSTABILITY OF EXO-MOON SYSTEM TRIGGERED BY PHOTO-EVAPORATION](http://adsabs.harvard.edu/abs/2016arXiv160908634Y)  
-Yang, Ming, Xie, Ji-Wei, Zhou, Ji-Lin, et al.    
-2016, pre-print ([2016arXiv160908634Y](http://adsabs.harvard.edu/abs/2016arXiv160908634Y))  
-
-46. [INFERRING THE THREE-DIMENSIONAL DISTRIBUTION OF DUST IN THE GALAXY WITH A NON-PARAMETRIC METHOD: PREPARING FOR GAIA](http://adsabs.harvard.edu/abs/2016arXiv160908917R)  
+38. [INFERRING THE THREE-DIMENSIONAL DISTRIBUTION OF DUST IN THE GALAXY WITH A NON-PARAMETRIC METHOD: PREPARING FOR GAIA](http://adsabs.harvard.edu/abs/2016arXiv160908917R)  
 Rezaei Kh., S., Bailer-Jones, C. A. L., Hanson, R. J., et al.    
 2016, pre-print ([2016arXiv160908917R](http://adsabs.harvard.edu/abs/2016arXiv160908917R))  
 
-47. [THE ORIGIN AND 9:7 MMR DYNAMICS OF THE KEPLER-29 SYSTEM](http://adsabs.harvard.edu/abs/2016arXiv160909135M)  
-Migaszewski, Cezary, Gozdziewski, Krzysztof, Panichi, Federico    
-2016, pre-print ([2016arXiv160909135M](http://adsabs.harvard.edu/abs/2016arXiv160909135M))  
-
-48. [SONNEBERG PLATE PHOTOMETRY FOR BOYAJIAN'S STAR IN TWO PASSBANDS](http://adsabs.harvard.edu/abs/2016arXiv160909290H)  
+39. [SONNEBERG PLATE PHOTOMETRY FOR BOYAJIAN'S STAR IN TWO PASSBANDS](http://adsabs.harvard.edu/abs/2016arXiv160909290H)  
 Hippke, Michael, Kroll, Peter, Matthei, Frank, et al.    
 2016, pre-print ([2016arXiv160909290H](http://adsabs.harvard.edu/abs/2016arXiv160909290H))  
 
-49. [PROBABILITY OF PHYSICAL ASSOCIATION OF 104 BLENDED COMPANIONS TO \TEXTIT{KEPLER} OBJECTS OF INTEREST USING VISIBLE AND NEAR-INFRARED ADAPTIVE OPTICS PHOTOMETRY](http://adsabs.harvard.edu/abs/2016arXiv160909512A)  
-Atkinson, Dani, Baranec, Christoph, Ziegler, Carl, et al.    
-2016, pre-print ([2016arXiv160909512A](http://adsabs.harvard.edu/abs/2016arXiv160909512A))  
-
-50. [KEPLER OBSERVATIONS OF THE ASTEROSEISMIC BINARY HD 176465](http://adsabs.harvard.edu/abs/2016arXiv160909581W)  
+40. [KEPLER OBSERVATIONS OF THE ASTEROSEISMIC BINARY HD 176465](http://adsabs.harvard.edu/abs/2016arXiv160909581W)  
 White, T. R., Benomar, O., Silva Aguirre, V., et al.    
 2016, pre-print ([2016arXiv160909581W](http://adsabs.harvard.edu/abs/2016arXiv160909581W))  
 
@@ -991,121 +915,121 @@ Salabert, David, Garcia, Rafael A., Beck, Paul G., et al.
 2016-07
 -------
 
-1. [HIGH DISPERSION SPECTROSCOPY OF SOLAR-TYPE SUPERFLARE STARS WITH SUBARU/HDS](http://adsabs.harvard.edu/abs/2016csss.confE..98N)  
-Notsu, Yuta, Honda, Satoshi, Maehara, Hiroyuki, et al.    
-2016, not refereed ([2016csss.confE..98N](http://adsabs.harvard.edu/abs/2016csss.confE..98N))  
-
-2. [SPACEINN HARE-AND-HOUNDS EXERCISE: ESTIMATION OF STELLAR PROPERTIES USING SPACE-BASED ASTEROSEISMIC DATA](http://adsabs.harvard.edu/abs/2016A&A...592A..14R)  
+1. [SPACEINN HARE-AND-HOUNDS EXERCISE: ESTIMATION OF STELLAR PROPERTIES USING SPACE-BASED ASTEROSEISMIC DATA](http://adsabs.harvard.edu/abs/2016A&A...592A..14R)  
 Reese, D. R., Chaplin, W. J., Davies, G. R., et al.    
 2016, refereed ([2016A&A...592A..14R](http://adsabs.harvard.edu/abs/2016A&A...592A..14R))  
 
-3. [SEARCH FOR LIGHT CURVE MODULATIONS AMONG KEPLER CANDIDATES. THREE VERY LOW-MASS TRANSITING COMPANIONS](http://adsabs.harvard.edu/abs/2016A&A...592A..32L)  
+2. [SEARCH FOR LIGHT CURVE MODULATIONS AMONG KEPLER CANDIDATES. THREE VERY LOW-MASS TRANSITING COMPANIONS](http://adsabs.harvard.edu/abs/2016A&A...592A..32L)  
 Lillo-Box, J., Ribas, A., Barrado, D., et al.    
 2016, refereed ([2016A&A...592A..32L](http://adsabs.harvard.edu/abs/2016A&A...592A..32L))  
 
-4. [USING KEPLER CANDIDATES TO EXAMINE THE PROPERTIES OF HABITABLE ZONE EXOPLANETS](http://adsabs.harvard.edu/abs/2016AJ....152....4A)  
+3. [USING KEPLER CANDIDATES TO EXAMINE THE PROPERTIES OF HABITABLE ZONE EXOPLANETS](http://adsabs.harvard.edu/abs/2016AJ....152....4A)  
 Adams, Arthur D., Kane, Stephen R.    
 2016, refereed ([2016AJ....152....4A](http://adsabs.harvard.edu/abs/2016AJ....152....4A))  
 
-5. [CALIBRATION OF LAMOST STELLAR SURFACE GRAVITIES USING THE KEPLER ASTEROSEISMIC DATA](http://adsabs.harvard.edu/abs/2016AJ....152....6W)  
+4. [CALIBRATION OF LAMOST STELLAR SURFACE GRAVITIES USING THE KEPLER ASTEROSEISMIC DATA](http://adsabs.harvard.edu/abs/2016AJ....152....6W)  
 Wang, Liang, Wang, Wei, Wu, Yue, et al.    
 2016, refereed ([2016AJ....152....6W](http://adsabs.harvard.edu/abs/2016AJ....152....6W))  
 
-6. [THE IMPACT OF STELLAR MULTIPLICITY ON PLANETARY SYSTEMS. I. THE RUINOUS INFLUENCE OF CLOSE BINARY COMPANIONS](http://adsabs.harvard.edu/abs/2016AJ....152....8K)  
+5. [THE IMPACT OF STELLAR MULTIPLICITY ON PLANETARY SYSTEMS. I. THE RUINOUS INFLUENCE OF CLOSE BINARY COMPANIONS](http://adsabs.harvard.edu/abs/2016AJ....152....8K)  
 Kraus, Adam L., Ireland, Michael J., Huber, Daniel, et al.    
 2016, refereed ([2016AJ....152....8K](http://adsabs.harvard.edu/abs/2016AJ....152....8K))  
 
-7. [ROBO-AO KEPLER PLANETARY CANDIDATE SURVEY. II. ADAPTIVE OPTICS IMAGING OF 969 KEPLER EXOPLANET CANDIDATE HOST STARS](http://adsabs.harvard.edu/abs/2016AJ....152...18B)  
+6. [ROBO-AO KEPLER PLANETARY CANDIDATE SURVEY. II. ADAPTIVE OPTICS IMAGING OF 969 KEPLER EXOPLANET CANDIDATE HOST STARS](http://adsabs.harvard.edu/abs/2016AJ....152...18B)  
 Baranec, Christoph, Ziegler, Carl, Law, Nicholas M., et al.    
 2016, refereed ([2016AJ....152...18B](http://adsabs.harvard.edu/abs/2016AJ....152...18B))  
 
-8. [LIGHT-CURVE SOLUTIONS OF 20 ECLIPSING KEPLER BINARIES, MOST OF THEM WITH PRONOUNCED SPOT AND FLARE ACTIVITY](http://adsabs.harvard.edu/abs/2016AN....337..640K)  
+7. [LIGHT-CURVE SOLUTIONS OF 20 ECLIPSING KEPLER BINARIES, MOST OF THEM WITH PRONOUNCED SPOT AND FLARE ACTIVITY](http://adsabs.harvard.edu/abs/2016AN....337..640K)  
 Kjurkchieva, D., Atanasova, T., Dimitrov, D.    
 2016, refereed ([2016AN....337..640K](http://adsabs.harvard.edu/abs/2016AN....337..640K))  
 
-9. [PROBABILISTIC MASS-RADIUS RELATIONSHIP FOR SUB-NEPTUNE-SIZED PLANETS](http://adsabs.harvard.edu/abs/2016ApJ...825...19W)  
+8. [PROBABILISTIC MASS-RADIUS RELATIONSHIP FOR SUB-NEPTUNE-SIZED PLANETS](http://adsabs.harvard.edu/abs/2016ApJ...825...19W)  
 Wolfgang, Angie, Rogers, Leslie A., Ford, Eric B.    
 2016, refereed ([2016ApJ...825...19W](http://adsabs.harvard.edu/abs/2016ApJ...825...19W))  
 
-10. [A STATISTICAL ANALYSIS OF THE ACCURACY OF THE DIGITIZED MAGNITUDES OF PHOTOMETRIC PLATES ON THE TIMESCALE OF DECADES WITH AN APPLICATION TO THE CENTURY-LONG LIGHT CURVE OF KIC 8462852](http://adsabs.harvard.edu/abs/2016ApJ...825...73H)  
+9. [A STATISTICAL ANALYSIS OF THE ACCURACY OF THE DIGITIZED MAGNITUDES OF PHOTOMETRIC PLATES ON THE TIMESCALE OF DECADES WITH AN APPLICATION TO THE CENTURY-LONG LIGHT CURVE OF KIC 8462852](http://adsabs.harvard.edu/abs/2016ApJ...825...73H)  
 Hippke, Michael, Angerhausen, Daniel, Lund, Michael B., et al.    
 2016, refereed ([2016ApJ...825...73H](http://adsabs.harvard.edu/abs/2016ApJ...825...73H))  
 
-11. [DETECTING PLANET PAIRS IN MEAN MOTION RESONANCES VIA THE ASTROMETRY METHOD](http://adsabs.harvard.edu/abs/2016ApJ...825...76W)  
+10. [DETECTING PLANET PAIRS IN MEAN MOTION RESONANCES VIA THE ASTROMETRY METHOD](http://adsabs.harvard.edu/abs/2016ApJ...825...76W)  
 Wu, Dong-Hong, Liu, Hui-Gen, Yu, Zhou-Yi, et al.    
 2016, refereed ([2016ApJ...825...76W](http://adsabs.harvard.edu/abs/2016ApJ...825...76W))  
 
-12. [WARM JUPITERS ARE LESS LONELY THAN HOT JUPITERS: CLOSE NEIGHBORS](http://adsabs.harvard.edu/abs/2016ApJ...825...98H)  
+11. [WARM JUPITERS ARE LESS LONELY THAN HOT JUPITERS: CLOSE NEIGHBORS](http://adsabs.harvard.edu/abs/2016ApJ...825...98H)  
 Huang, Chelsea, Wu, Yanqin, Triaud, Amaury H. M. J.    
 2016, refereed ([2016ApJ...825...98H](http://adsabs.harvard.edu/abs/2016ApJ...825...98H))  
 
-13. [POWER BEAMING LEAKAGE RADIATION AS A SETI OBSERVABLE](http://adsabs.harvard.edu/abs/2016ApJ...825..101B)  
+12. [POWER BEAMING LEAKAGE RADIATION AS A SETI OBSERVABLE](http://adsabs.harvard.edu/abs/2016ApJ...825..101B)  
 Benford, James N., Benford, Dominic J.    
 2016, refereed ([2016ApJ...825..101B](http://adsabs.harvard.edu/abs/2016ApJ...825..101B))  
 
-14. [RADIO SETI OBSERVATIONS OF THE ANOMALOUS STAR KIC 8462852](http://adsabs.harvard.edu/abs/2016ApJ...825..155H)  
+13. [RADIO SETI OBSERVATIONS OF THE ANOMALOUS STAR KIC 8462852](http://adsabs.harvard.edu/abs/2016ApJ...825..155H)  
 Harp, G. R., Richards, Jon, Shostak, Seth, et al.    
 2016, refereed ([2016ApJ...825..155H](http://adsabs.harvard.edu/abs/2016ApJ...825..155H))  
 
-15. [OPTICAL SETI OBSERVATIONS OF THE ANOMALOUS STAR KIC 8462852](http://adsabs.harvard.edu/abs/2016ApJ...825L...5S)  
+14. [OPTICAL SETI OBSERVATIONS OF THE ANOMALOUS STAR KIC 8462852](http://adsabs.harvard.edu/abs/2016ApJ...825L...5S)  
 Schuetz, Marlin, Vakoch, Douglas A., Shostak, Seth, et al.    
 2016, refereed ([2016ApJ...825L...5S](http://adsabs.harvard.edu/abs/2016ApJ...825L...5S))  
 
-16. [DEEP MIXING IN STELLAR VARIABILITY: IMPROVED METHOD, STATISTICS, AND APPLICATIONS](http://adsabs.harvard.edu/abs/2016ApJ...826...35A)  
+15. [DEEP MIXING IN STELLAR VARIABILITY: IMPROVED METHOD, STATISTICS, AND APPLICATIONS](http://adsabs.harvard.edu/abs/2016ApJ...826...35A)  
 Arkhypov, Oleksiy V., Khodachenko, Maxim L., Lammer, Helmut, et al.    
 2016, refereed ([2016ApJ...826...35A](http://adsabs.harvard.edu/abs/2016ApJ...826...35A))  
 
-17. [KEPLER ECLIPSING BINARIES WITH DELTA SCUTI/GAMMA DORADUS PULSATING COMPONENTS I: KIC 9851944](http://adsabs.harvard.edu/abs/2016ApJ...826...69G)  
+16. [KEPLER ECLIPSING BINARIES WITH DELTA SCUTI/GAMMA DORADUS PULSATING COMPONENTS I: KIC 9851944](http://adsabs.harvard.edu/abs/2016ApJ...826...69G)  
 Guo, Zhao, Gies, Douglas R., Matson, Rachel A., et al.    
 2016, refereed ([2016ApJ...826...69G](http://adsabs.harvard.edu/abs/2016ApJ...826...69G))  
 
-18. [STELLAR EVIDENCE THAT THE SOLAR DYNAMO MAY BE IN TRANSITION](http://adsabs.harvard.edu/abs/2016ApJ...826L...2M)  
+17. [STELLAR EVIDENCE THAT THE SOLAR DYNAMO MAY BE IN TRANSITION](http://adsabs.harvard.edu/abs/2016ApJ...826L...2M)  
 Metcalfe, Travis S., Egeland, Ricky, van Saders, Jennifer    
 2016, refereed ([2016ApJ...826L...2M](http://adsabs.harvard.edu/abs/2016ApJ...826L...2M))  
 
-19. [NO TIMING VARIATIONS OBSERVED IN THIRD TRANSIT OF SNOW-LINE EXOPLANET KEPLER-421B](http://adsabs.harvard.edu/abs/2016ApJ...826L...7D)  
+18. [NO TIMING VARIATIONS OBSERVED IN THIRD TRANSIT OF SNOW-LINE EXOPLANET KEPLER-421B](http://adsabs.harvard.edu/abs/2016ApJ...826L...7D)  
 Dalba, Paul A., Muirhead, Philip S.    
 2016, refereed ([2016ApJ...826L...7D](http://adsabs.harvard.edu/abs/2016ApJ...826L...7D))  
 
-20. [TRANSIT TIMING OBSERVATIONS FROM KEPLER. IX. CATALOG OF THE FULL LONG-CADENCE DATA SET](http://adsabs.harvard.edu/abs/2016ApJS..225....9H)  
+19. [TRANSIT TIMING OBSERVATIONS FROM KEPLER. IX. CATALOG OF THE FULL LONG-CADENCE DATA SET](http://adsabs.harvard.edu/abs/2016ApJS..225....9H)  
 Holczer, Tomer, Mazeh, Tsevi, Nachmani, Gil, et al.    
 2016, refereed ([2016ApJS..225....9H](http://adsabs.harvard.edu/abs/2016ApJS..225....9H))  
 
-21. [FINE DETRENDING OF RAW KEPLER AND MOST PHOTOMETRIC DATA OF KIC 6950556 AND HD 37633](http://adsabs.harvard.edu/abs/2016BlgAJ..25...19M)  
+20. [FINE DETRENDING OF RAW KEPLER AND MOST PHOTOMETRIC DATA OF KIC 6950556 AND HD 37633](http://adsabs.harvard.edu/abs/2016BlgAJ..25...19M)  
 Mikulášek, Zdeněk, Paunzen, Ernst, Zejda, Miloslav, et al.    
 2016, refereed ([2016BlgAJ..25...19M](http://adsabs.harvard.edu/abs/2016BlgAJ..25...19M))  
 
-22. [STATISTICAL PROPERTIES OF QUASI-PERIODIC PULSATIONS IN WHITE-LIGHT FLARES OBSERVED WITH KEPLER](http://adsabs.harvard.edu/abs/2016MNRAS.459.3659P)  
+21. [STATISTICAL PROPERTIES OF QUASI-PERIODIC PULSATIONS IN WHITE-LIGHT FLARES OBSERVED WITH KEPLER](http://adsabs.harvard.edu/abs/2016MNRAS.459.3659P)  
 Pugh, C. E., Armstrong, D. J., Nakariakov, V. M., et al.    
 2016, refereed ([2016MNRAS.459.3659P](http://adsabs.harvard.edu/abs/2016MNRAS.459.3659P))  
 
-23. [SUPERVISED ENSEMBLE CLASSIFICATION OF KEPLER VARIABLE STARS](http://adsabs.harvard.edu/abs/2016MNRAS.459.3721B)  
+22. [SUPERVISED ENSEMBLE CLASSIFICATION OF KEPLER VARIABLE STARS](http://adsabs.harvard.edu/abs/2016MNRAS.459.3721B)  
 Bass, G., Borne, K.    
 2016, refereed ([2016MNRAS.459.3721B](http://adsabs.harvard.edu/abs/2016MNRAS.459.3721B))  
 
-24. [HABITABILITY OF TERRESTRIAL-MASS PLANETS IN THE HZ OF M DWARFS - I. H/HE-DOMINATED ATMOSPHERES](http://adsabs.harvard.edu/abs/2016MNRAS.459.4088O)  
+23. [HABITABILITY OF TERRESTRIAL-MASS PLANETS IN THE HZ OF M DWARFS - I. H/HE-DOMINATED ATMOSPHERES](http://adsabs.harvard.edu/abs/2016MNRAS.459.4088O)  
 Owen, James E., Mohanty, Subhanjoy    
 2016, refereed ([2016MNRAS.459.4088O](http://adsabs.harvard.edu/abs/2016MNRAS.459.4088O))  
 
-25. [FAST STOCHASTIC VARIABILITY STUDY OF TWO SU UMA SYSTEMS V1504 CYG AND V344 LYR OBSERVED BY KEPLER SATELLITE](http://adsabs.harvard.edu/abs/2016MNRAS.460..458D)  
+24. [FAST STOCHASTIC VARIABILITY STUDY OF TWO SU UMA SYSTEMS V1504 CYG AND V344 LYR OBSERVED BY KEPLER SATELLITE](http://adsabs.harvard.edu/abs/2016MNRAS.460..458D)  
 Dobrotka, A., Ness, J. -U., Bajčičáková, I.    
 2016, refereed ([2016MNRAS.460..458D](http://adsabs.harvard.edu/abs/2016MNRAS.460..458D))  
 
-26. [KIC 8263801: A CLUMP STAR IN THE KEPLER OPEN CLUSTER NGC 6866 FIELD?](http://adsabs.harvard.edu/abs/2016NewA...46...21A)  
+25. [KIC 8263801: A CLUMP STAR IN THE KEPLER OPEN CLUSTER NGC 6866 FIELD?](http://adsabs.harvard.edu/abs/2016NewA...46...21A)  
 Abedigamba, O. P.    
 2016, refereed ([2016NewA...46...21A](http://adsabs.harvard.edu/abs/2016NewA...46...21A))  
 
-27. [DISTANCE MODULI OF OPEN CLUSTER NGC 6819 FROM RED GIANT CLUMP STARS](http://adsabs.harvard.edu/abs/2016NewA...46...90A)  
+26. [DISTANCE MODULI OF OPEN CLUSTER NGC 6819 FROM RED GIANT CLUMP STARS](http://adsabs.harvard.edu/abs/2016NewA...46...90A)  
 Abedigamba, O. P., Balona, L. A., Medupe, R.    
 2016, refereed ([2016NewA...46...90A](http://adsabs.harvard.edu/abs/2016NewA...46...90A))  
 
-28. [IDENTIFYING FALSE ALARMS IN THE KEPLER PLANET CANDIDATE CATALOG](http://adsabs.harvard.edu/abs/2016PASP..128g4502M)  
+27. [IDENTIFYING FALSE ALARMS IN THE KEPLER PLANET CANDIDATE CATALOG](http://adsabs.harvard.edu/abs/2016PASP..128g4502M)  
 Mullally, F., Coughlin, Jeffery L., Thompson, Susan E., et al.    
 2016, refereed ([2016PASP..128g4502M](http://adsabs.harvard.edu/abs/2016PASP..128g4502M))  
 
-29. [COMBINING PHOTOMETRY FROM KEPLER AND TESS TO IMPROVE SHORT-PERIOD EXOPLANET CHARACTERIZATION](http://adsabs.harvard.edu/abs/2016PASP..128g4503P)  
+28. [COMBINING PHOTOMETRY FROM KEPLER AND TESS TO IMPROVE SHORT-PERIOD EXOPLANET CHARACTERIZATION](http://adsabs.harvard.edu/abs/2016PASP..128g4503P)  
 Placek, Ben, Knuth, Kevin H., Angerhausen, Daniel    
 2016, refereed ([2016PASP..128g4503P](http://adsabs.harvard.edu/abs/2016PASP..128g4503P))  
+
+29. [THE ROBO-AO KOI SURVEY: LASER ADAPTIVE OPTICS IMAGING OF EVERY KEPLER EXOPLANET CANDIDATE](http://adsabs.harvard.edu/abs/2016SPIE.9909E..5UZ)  
+Ziegler, Carl, Law, Nicholas M., Baranec, Christoph, et al.    
+2016, not refereed ([2016SPIE.9909E..5UZ](http://adsabs.harvard.edu/abs/2016SPIE.9909E..5UZ))  
 
 30. [EXTRACTING INFORMATION FROM AGN VARIABILITY](http://adsabs.harvard.edu/abs/2016arXiv160704299K)  
 Kasliwal, Vishal P., Vogeley, Michael S., Richards, Gordon T.    
@@ -1115,23 +1039,19 @@ Kasliwal, Vishal P., Vogeley, Michael S., Richards, Gordon T.
 Zink, Jonathon K., Christian, Damian    
 2016, pre-print ([2016arXiv160707894Z](http://adsabs.harvard.edu/abs/2016arXiv160707894Z))  
 
-32. [THE POPULATION OF LONG-PERIOD TRANSITING EXOPLANETS](http://adsabs.harvard.edu/abs/2016arXiv160708237F)  
-Foreman-Mackey, Daniel, Morton, Timothy D., Hogg, David W., et al.    
-2016, pre-print ([2016arXiv160708237F](http://adsabs.harvard.edu/abs/2016arXiv160708237F))  
-
-33. [KIC011764567: AN EVOLVED OBJECT SHOWING SUBSTANTIAL FLARE-ACTIVITY](http://adsabs.harvard.edu/abs/2016arXiv160708412K)  
+32. [KIC011764567: AN EVOLVED OBJECT SHOWING SUBSTANTIAL FLARE-ACTIVITY](http://adsabs.harvard.edu/abs/2016arXiv160708412K)  
 Kitze, M., Akopian, A. A., Hambaryan, V., et al.    
 2016, pre-print ([2016arXiv160708412K](http://adsabs.harvard.edu/abs/2016arXiv160708412K))  
+
+33. [HIGH DISPERSION SPECTROSCOPY OF SOLAR-TYPE SUPERFLARE STARS WITH SUBARU/HDS](http://adsabs.harvard.edu/abs/2016csss.confE..98N)  
+Notsu, Yuta, Honda, Satoshi, Maehara, Hiroyuki, et al.    
+2016, not refereed ([2016csss.confE..98N](http://adsabs.harvard.edu/abs/2016csss.confE..98N))  
 
 34. [STATISTICAL PROPERTIES OF SUPERFLARES ON SOLAR-TYPE STARS WITH KEPLER DATA](http://adsabs.harvard.edu/abs/2016csss.confE.119N)  
 Notsu, Yuta, Maehara, Hiroyuki, Shibayama, Takuya, et al.    
 2016, not refereed ([2016csss.confE.119N](http://adsabs.harvard.edu/abs/2016csss.confE.119N))  
 
-35. [THE ROBO-AO KOI SURVEY: LASER ADAPTIVE OPTICS IMAGING OF EVERY KEPLER EXOPLANET CANDIDATE](http://adsabs.harvard.edu/abs/2016SPIE.9909E..5UZ)  
-Ziegler, Carl, Law, Nicholas M., Baranec, Christoph, et al.    
-2016, not refereed ([2016SPIE.9909E..5UZ](http://adsabs.harvard.edu/abs/2016SPIE.9909E..5UZ))  
-
-36. [SUPERFLARE G AND K STARS AND THE LITHIUM ABUNDANCE](http://adsabs.harvard.edu/abs/2016csss.confE.124K)  
+35. [SUPERFLARE G AND K STARS AND THE LITHIUM ABUNDANCE](http://adsabs.harvard.edu/abs/2016csss.confE.124K)  
 Katsova, Maria M., Livshits, Moisey A., Mishenina, Tamara V., et al.    
 2016, not refereed ([2016csss.confE.124K](http://adsabs.harvard.edu/abs/2016csss.confE.124K))  
 
@@ -1199,37 +1119,29 @@ Moutou, C., Donati, J. -F., Lin, D., et al.
 Masuda, Kento, Suto, Yasushi    
 2016, refereed ([2016PASJ...68L...5M](http://adsabs.harvard.edu/abs/2016PASJ...68L...5M))  
 
-16. [THE BLAZHKO EFFECT](http://adsabs.harvard.edu/abs/2016pas..conf...22S)  
-Smolec, RadosĹaw    
-2016, not refereed ([2016pas..conf...22S](http://adsabs.harvard.edu/abs/2016pas..conf...22S))  
-
-17. [NON-RADIAL PULSATIONS IN RR LYRAE STARS FROM THE OGLE COLLECTION](http://adsabs.harvard.edu/abs/2016pas..conf...36N)  
-Netzel, Henryka, Smolec, RadosĹaw    
-2016, not refereed ([2016pas..conf...36N](http://adsabs.harvard.edu/abs/2016pas..conf...36N))  
-
-18. [A SIMPLE ANALYTICAL MODEL FOR ROCKY PLANET INTERIORS](http://adsabs.harvard.edu/abs/2016arXiv160603522Z)  
+16. [A SIMPLE ANALYTICAL MODEL FOR ROCKY PLANET INTERIORS](http://adsabs.harvard.edu/abs/2016arXiv160603522Z)  
 Zeng, Li, Jacobsen, Stein B.    
 2016, pre-print ([2016arXiv160603522Z](http://adsabs.harvard.edu/abs/2016arXiv160603522Z))  
 
-19. [KEPLER-108: A MUTUALLY INCLINED GIANT PLANET SYSTEM](http://adsabs.harvard.edu/abs/2016arXiv160604485M)  
-Mills, Sean M., Fabrycky, Daniel C.    
-2016, pre-print ([2016arXiv160604485M](http://adsabs.harvard.edu/abs/2016arXiv160604485M))  
-
-20. [BENFORD'S DISTRIBUTION IN EXTRASOLAR WORLD: DO THE EXOPLANETS FOLLOW BENFORD'S DISTRIBUTION?](http://adsabs.harvard.edu/abs/2016arXiv160605678S)  
+17. [BENFORD'S DISTRIBUTION IN EXTRASOLAR WORLD: DO THE EXOPLANETS FOLLOW BENFORD'S DISTRIBUTION?](http://adsabs.harvard.edu/abs/2016arXiv160605678S)  
 Shukla, Abhishek, Pandey, Ankit Kumar, Pathak, Anirban    
 2016, pre-print ([2016arXiv160605678S](http://adsabs.harvard.edu/abs/2016arXiv160605678S))  
 
-21. [SCIENCE IMPACTS OF THE SPHEREX ALL-SKY OPTICAL TO NEAR-INFRARED SPECTRAL SURVEY: REPORT OF A COMMUNITY WORKSHOP EXAMINING EXTRAGALACTIC, GALACTIC, STELLAR AND PLANETARY SCIENCE](http://adsabs.harvard.edu/abs/2016arXiv160607039D)  
+18. [SCIENCE IMPACTS OF THE SPHEREX ALL-SKY OPTICAL TO NEAR-INFRARED SPECTRAL SURVEY: REPORT OF A COMMUNITY WORKSHOP EXAMINING EXTRAGALACTIC, GALACTIC, STELLAR AND PLANETARY SCIENCE](http://adsabs.harvard.edu/abs/2016arXiv160607039D)  
 Doré, Olivier, Werner, Michael W., Ashby, Matt, et al.    
 2016, pre-print ([2016arXiv160607039D](http://adsabs.harvard.edu/abs/2016arXiv160607039D))  
 
-22. [POETRY IN MOTION: ASTEROSEISMOLOGY OF DELTA SCUTI STARS IN BINARIES USING KEPLER DATA](http://adsabs.harvard.edu/abs/2016arXiv160608638L)  
+19. [POETRY IN MOTION: ASTEROSEISMOLOGY OF DELTA SCUTI STARS IN BINARIES USING KEPLER DATA](http://adsabs.harvard.edu/abs/2016arXiv160608638L)  
 Liakos, Alexios, Niarchos, Panagiotis    
 2016, pre-print ([2016arXiv160608638L](http://adsabs.harvard.edu/abs/2016arXiv160608638L))  
 
-23. [HIDING PLANETS BEHIND A BIG FRIEND: MUTUAL INCLINATIONS OF MULTI-PLANET SYSTEMS WITH EXTERNAL COMPANIONS](http://adsabs.harvard.edu/abs/2016arXiv160608855L)  
-Lai, Dong, Pu, Bonan    
-2016, pre-print ([2016arXiv160608855L](http://adsabs.harvard.edu/abs/2016arXiv160608855L))  
+20. [THE BLAZHKO EFFECT](http://adsabs.harvard.edu/abs/2016pas..conf...22S)  
+Smolec, RadosĹaw    
+2016, not refereed ([2016pas..conf...22S](http://adsabs.harvard.edu/abs/2016pas..conf...22S))  
+
+21. [NON-RADIAL PULSATIONS IN RR LYRAE STARS FROM THE OGLE COLLECTION](http://adsabs.harvard.edu/abs/2016pas..conf...36N)  
+Netzel, Henryka, Smolec, RadosĹaw    
+2016, not refereed ([2016pas..conf...36N](http://adsabs.harvard.edu/abs/2016pas..conf...36N))  
 
 
 2016-05
@@ -1323,33 +1235,21 @@ Thompson, M. A., Scicluna, P., Kemper, F., et al.
 Mills, Sean M., Fabrycky, Daniel C., Migaszewski, Cezary, et al.    
 2016, refereed ([2016Natur.533..509M](http://adsabs.harvard.edu/abs/2016Natur.533..509M))  
 
-23. [THE ARCHITECTURE OF EXOPLANETS](http://adsabs.harvard.edu/abs/2016SSRv..tmp...25H)  
-Hatzes, Artie P.    
-2016, refereed ([2016SSRv..tmp...25H](http://adsabs.harvard.edu/abs/2016SSRv..tmp...25H))  
-
-24. [EXOPLANETARY ATMOSPHERES—CHEMISTRY, FORMATION CONDITIONS, AND HABITABILITY](http://adsabs.harvard.edu/abs/2016SSRv..tmp...31M)  
-Madhusudhan, Nikku, Agúndez, Marcelino, Moses, Julianne I., et al.    
-2016, refereed ([2016SSRv..tmp...31M](http://adsabs.harvard.edu/abs/2016SSRv..tmp...31M))  
-
-25. [KEPLER EXOPLANETS: A NEW METHOD OF POPULATION ANALYSIS](http://adsabs.harvard.edu/abs/2016arXiv160502255T)  
+23. [KEPLER EXOPLANETS: A NEW METHOD OF POPULATION ANALYSIS](http://adsabs.harvard.edu/abs/2016arXiv160502255T)  
 Traub, Wesley A.    
 2016, pre-print ([2016arXiv160502255T](http://adsabs.harvard.edu/abs/2016arXiv160502255T))  
 
-26. [THE STABILITY OF F-STAR BRIGHTNESS ON CENTURY TIMESCALES](http://adsabs.harvard.edu/abs/2016arXiv160502760L)  
+24. [THE STABILITY OF F-STAR BRIGHTNESS ON CENTURY TIMESCALES](http://adsabs.harvard.edu/abs/2016arXiv160502760L)  
 Lund, Michael B., Pepper, Joshua, Stassun, Keivan G., et al.    
 2016, pre-print ([2016arXiv160502760L](http://adsabs.harvard.edu/abs/2016arXiv160502760L))  
 
-27. [THE MAGNETIC PROPERTIES OF THE PLANET HOST STAR KEPLER-78](http://adsabs.harvard.edu/abs/2016arXiv160503255M)  
+25. [THE MAGNETIC PROPERTIES OF THE PLANET HOST STAR KEPLER-78](http://adsabs.harvard.edu/abs/2016arXiv160503255M)  
 Moutou, Claire, Donati, Jean-Francois, Lin, Doug, et al.    
 2016, pre-print ([2016arXiv160503255M](http://adsabs.harvard.edu/abs/2016arXiv160503255M))  
 
-28. [ROBO-AO KEPLER PLANETARY CANDIDATE SURVEY III: ADAPTIVE OPTICS IMAGING OF 1629 KEPLER EXOPLANET CANDIDATE HOST STARS](http://adsabs.harvard.edu/abs/2016arXiv160503584Z)  
+26. [ROBO-AO KEPLER PLANETARY CANDIDATE SURVEY III: ADAPTIVE OPTICS IMAGING OF 1629 KEPLER EXOPLANET CANDIDATE HOST STARS](http://adsabs.harvard.edu/abs/2016arXiv160503584Z)  
 Ziegler, Carl, Law, Nicholas M., Morton, Tim, et al.    
 2016, pre-print ([2016arXiv160503584Z](http://adsabs.harvard.edu/abs/2016arXiv160503584Z))  
-
-29. [AMPLITUDE VARIABILITY IN GAMMA DOR AND DELTA SCUTI STARS OBSERVED BY THE KEPLER SPACECRAFT](http://adsabs.harvard.edu/abs/2016arXiv160504443G)  
-Guzik, Joyce A., Kosak, Katie, Bradley, Paul A., et al.    
-2016, pre-print ([2016arXiv160504443G](http://adsabs.harvard.edu/abs/2016arXiv160504443G))  
 
 
 2016-04
@@ -1470,10 +1370,6 @@ Turner, Garrison, Maynard, Austin
 29. [PRECISION STELLAR ASTROPHYSICS IN THE KEPLER ERA](http://adsabs.harvard.edu/abs/2016arXiv160407442H)  
 Huber, Daniel    
 2016, pre-print ([2016arXiv160407442H](http://adsabs.harvard.edu/abs/2016arXiv160407442H))  
-
-30. [GALACTIC ARCHAEOLOGY WITH ASTEROSEISMOLOGY AND SPECTROSCOPY: RED GIANTS OBSERVED BY COROT AND APOGEE](http://adsabs.harvard.edu/abs/2016arXiv160407763A)  
-Anders, F., Chiappini, C., Rodrigues, T. S., et al.    
-2016, pre-print ([2016arXiv160407763A](http://adsabs.harvard.edu/abs/2016arXiv160407763A))  
 
 
 2016-03
@@ -1683,7 +1579,7 @@ Budding, E., Püsküllü, Ç., Rhodes, M. D., et al.
 Fawzy, Diaa E., Musielak, Z. E.    
 2016, refereed ([2016Ap&SS.361...23F](http://adsabs.harvard.edu/abs/2016Ap&SS.361...23F))  
 
-8. [THE SEARCH FOR EXTRATERRESTRIAL CIVILIZATIONS WITH LARGE ENERGY SUPPLIES. IV. THE SIGNATURES AND INFORMATION CONTENT OF TRANSITING MEGASTRUCTURES](http://adsabs.harvard.edu/abs/2016ApJ...816...17W)  
+8. [THE \GCIRC SEARCH FOR EXTRATERRESTRIAL CIVILIZATIONS WITH LARGE ENERGY SUPPLIES. IV. THE SIGNATURES AND INFORMATION CONTENT OF TRANSITING MEGASTRUCTURES](http://adsabs.harvard.edu/abs/2016ApJ...816...17W)  
 Wright, Jason T., Cartier, Kimberly M. S., Zhao, Ming, et al.    
 2016, refereed ([2016ApJ...816...17W](http://adsabs.harvard.edu/abs/2016ApJ...816...17W))  
 
@@ -1775,9 +1671,29 @@ Stello, Dennis, Cantiello, Matteo, Fuller, Jim, et al.
 Kallinger, Thomas, Hekker, Saskia, Garcia, Rafael A., et al.    
 2016, refereed ([2016SciA....250654K](http://adsabs.harvard.edu/abs/2016SciA....250654K))  
 
-31. [STATISTICAL PROPERTIES OF SUPERFLARES ON SOLAR-TYPE STARS BASED ON THE KEPLER 1-MIN CADENCE DATA](http://adsabs.harvard.edu/abs/2016arXiv160101132M)  
+31. [THE SHAPE OF M DWARF FLARES IN KEPLER LIGHT CURVES](http://adsabs.harvard.edu/abs/2016IAUS..320..128D)  
+Davenport, James R. A.    
+2016, not refereed ([2016IAUS..320..128D](http://adsabs.harvard.edu/abs/2016IAUS..320..128D))  
+
+32. [AN OVERVIEW OF INSIDE-OUT PLANET FORMATION](http://adsabs.harvard.edu/abs/2016IAUFM..29A...6T)  
+Tan, Jonathan C., Chatterjee, Sourav, Hu, Xiao, et al.    
+2016, not refereed ([2016IAUFM..29A...6T](http://adsabs.harvard.edu/abs/2016IAUFM..29A...6T))  
+
+33. [PERIOD RATIO DISTRIBUTION OF NEAR-RESONANT PLANETS INDICATES PLANETESIMAL SCATTERING](http://adsabs.harvard.edu/abs/2016IAUFM..29A..30C)  
+Chatterjee, Sourav, Krantzler, Seth O., Ford, Eric B.    
+2016, not refereed ([2016IAUFM..29A..30C](http://adsabs.harvard.edu/abs/2016IAUFM..29A..30C))  
+
+34. [PROPERTIES OF STELLAR ACTIVITY CYCLES](http://adsabs.harvard.edu/abs/2016IAUFM..29A.354K)  
+Korhonen, Heidi    
+2016, not refereed ([2016IAUFM..29A.354K](http://adsabs.harvard.edu/abs/2016IAUFM..29A.354K))  
+
+35. [STATISTICAL PROPERTIES OF SUPERFLARES ON SOLAR-TYPE STARS BASED ON THE KEPLER 1-MIN CADENCE DATA](http://adsabs.harvard.edu/abs/2016IAUS..320..144M)  
 Maehara, Hiroyuki, Shibayama, Takuya, Notsu, Yuta, et al.    
-2016, pre-print ([2016arXiv160101132M](http://adsabs.harvard.edu/abs/2016arXiv160101132M))  
+2016, not refereed ([2016IAUS..320..144M](http://adsabs.harvard.edu/abs/2016IAUS..320..144M))  
+
+36. [AMPLITUDE VARIABILITY IN Γ DOR AND Δ SCT STARS OBSERVED BY THE KEPLER SPACECRAFT](http://adsabs.harvard.edu/abs/2016IAUFM..29B.560G)  
+Guzik, Joyce A., Kosak, Katie, Bradley, Paul A., et al.    
+2016, not refereed ([2016IAUFM..29B.560G](http://adsabs.harvard.edu/abs/2016IAUFM..29B.560G))  
 
 
 2015-12
@@ -1975,10 +1891,6 @@ Garcia Munoz, A., Isaak, K. G.
 Haywood, Raphaëlle Dawn    
 2015, refereed ([2015PhDT.......193H](http://adsabs.harvard.edu/abs/2015PhDT.......193H))  
 
-30. [PROPERTIES OF STELLAR ACTIVITY CYCLES](http://adsabs.harvard.edu/abs/2015arXiv151106116K)  
-Korhonen, Heidi    
-2015, pre-print ([2015arXiv151106116K](http://adsabs.harvard.edu/abs/2015arXiv151106116K))  
-
 
 2015-10
 -------
@@ -2058,18 +1970,6 @@ Fuller, Jim, Cantiello, Matteo, Stello, Dennis, et al.
 19. [PREVALENCE OF EARTH-SIZE PLANETS ORBITING SUN-LIKE STARS](http://adsabs.harvard.edu/abs/2015arXiv151003902A)  
 Ardeshir Petigura, Erik    
 2015, pre-print ([2015arXiv151003902A](http://adsabs.harvard.edu/abs/2015arXiv151003902A))  
-
-20. [THE SHAPE OF M DWARF FLARES IN KEPLER LIGHT CURVES](http://adsabs.harvard.edu/abs/2015arXiv151005695D)  
-Davenport, James R. A.    
-2015, pre-print ([2015arXiv151005695D](http://adsabs.harvard.edu/abs/2015arXiv151005695D))  
-
-21. [AN OVERVIEW OF INSIDE-OUT PLANET FORMATION](http://adsabs.harvard.edu/abs/2015arXiv151006703T)  
-Tan, Jonathan C., Chatterjee, Sourav, Hu, Xiao, et al.    
-2015, pre-print ([2015arXiv151006703T](http://adsabs.harvard.edu/abs/2015arXiv151006703T))  
-
-22. [PERIOD RATIO DISTRIBUTION OF NEAR-RESONANT PLANETS INDICATES PLANETESIMAL SCATTERING](http://adsabs.harvard.edu/abs/2015arXiv151008933C)  
-Chatterjee, Sourav, Krantzler, Seth O., Ford, Eric B.    
-2015, pre-print ([2015arXiv151008933C](http://adsabs.harvard.edu/abs/2015arXiv151008933C))  
 
 
 2015-09
@@ -2277,7 +2177,7 @@ Sánchez Arias, J. P., Córsico, A. H., Althaus, L. G.
 
 19. [SOLAR EXTREME EVENTS](http://adsabs.harvard.edu/abs/2015JPhCS.632a2058H)  
 Hudson, Hugh S.    
-2015, refereed ([2015JPhCS.632a2058H](http://adsabs.harvard.edu/abs/2015JPhCS.632a2058H))  
+2015, not refereed ([2015JPhCS.632a2058H](http://adsabs.harvard.edu/abs/2015JPhCS.632a2058H))  
 
 20. [ANALYSIS OF KEPLER B STARS: ROTATIONAL MODULATION AND MAIA VARIABLES](http://adsabs.harvard.edu/abs/2015MNRAS.451.1445B)  
 Balona, L. A., Baran, A. S., Daszyńska-Daszkiewicz, J., et al.    
@@ -3031,29 +2931,29 @@ Nikitin, Igor
 2015-01
 -------
 
-1. [KIC 8302197: A NON-ROTATING OR LOW-INCLINATION PULSATING SUBDWARF B STAR OBSERVED WITH THE KEPLER SPACECRAFT](http://adsabs.harvard.edu/abs/2015A&A...573A..52B)  
+1. [REVEALING A UNIVERSAL PLANET-METALLICITY CORRELATION FOR PLANETS OF DIFFERENT SIZES AROUND SOLAR-TYPE STARS](http://adsabs.harvard.edu/abs/2015AJ....149...14W)  
+Wang, Ji, Fischer, Debra A.    
+2015, refereed ([2015AJ....149...14W](http://adsabs.harvard.edu/abs/2015AJ....149...14W))  
+
+2. [KIC 8302197: A NON-ROTATING OR LOW-INCLINATION PULSATING SUBDWARF B STAR OBSERVED WITH THE KEPLER SPACECRAFT](http://adsabs.harvard.edu/abs/2015A&A...573A..52B)  
 Baran, A. S., Telting, J. H., Németh, P., et al.    
 2015, refereed ([2015A&A...573A..52B](http://adsabs.harvard.edu/abs/2015A&A...573A..52B))  
 
-2. [SOPHIE VELOCIMETRY OF KEPLER TRANSIT CANDIDATES. XIV. A JOINT PHOTOMETRIC, SPECTROSCOPIC, AND DYNAMICAL ANALYSIS OF THE KEPLER-117 SYSTEM](http://adsabs.harvard.edu/abs/2015A&A...573A.124B)  
+3. [SOPHIE VELOCIMETRY OF KEPLER TRANSIT CANDIDATES. XIV. A JOINT PHOTOMETRIC, SPECTROSCOPIC, AND DYNAMICAL ANALYSIS OF THE KEPLER-117 SYSTEM](http://adsabs.harvard.edu/abs/2015A&A...573A.124B)  
 Bruno, G., Almenara, J. -M., Barros, S. C. C., et al.    
 2015, refereed ([2015A&A...573A.124B](http://adsabs.harvard.edu/abs/2015A&A...573A.124B))  
 
-3. [KEPLER-432 B: A MASSIVE PLANET IN A HIGHLY ECCENTRIC ORBIT TRANSITING A RED GIANT](http://adsabs.harvard.edu/abs/2015A&A...573L...5C)  
+4. [KEPLER-432 B: A MASSIVE PLANET IN A HIGHLY ECCENTRIC ORBIT TRANSITING A RED GIANT](http://adsabs.harvard.edu/abs/2015A&A...573L...5C)  
 Ciceri, S., Lillo-Box, J., Southworth, J., et al.    
 2015, refereed ([2015A&A...573L...5C](http://adsabs.harvard.edu/abs/2015A&A...573L...5C))  
 
-4. [KEPLER-432 B: A MASSIVE WARM JUPITER IN A 52-DAY ECCENTRIC ORBIT TRANSITING A GIANT STAR](http://adsabs.harvard.edu/abs/2015A&A...573L...6O)  
+5. [KEPLER-432 B: A MASSIVE WARM JUPITER IN A 52-DAY ECCENTRIC ORBIT TRANSITING A GIANT STAR](http://adsabs.harvard.edu/abs/2015A&A...573L...6O)  
 Ortiz, Mauricio, Gandolfi, Davide, Reffert, Sabine, et al.    
 2015, refereed ([2015A&A...573L...6O](http://adsabs.harvard.edu/abs/2015A&A...573L...6O))  
 
-5. [SURFACE LAYER INDEPENDENT MODEL FITTING BY PHASE MATCHING: THEORY AND APPLICATION TO HD 49933 AND HD 177153 (AKA PERKY)](http://adsabs.harvard.edu/abs/2015A&A...574A..45R)  
+6. [SURFACE LAYER INDEPENDENT MODEL FITTING BY PHASE MATCHING: THEORY AND APPLICATION TO HD 49933 AND HD 177153 (AKA PERKY)](http://adsabs.harvard.edu/abs/2015A&A...574A..45R)  
 Roxburgh, Ian W.    
 2015, refereed ([2015A&A...574A..45R](http://adsabs.harvard.edu/abs/2015A&A...574A..45R))  
-
-6. [REVEALING A UNIVERSAL PLANET-METALLICITY CORRELATION FOR PLANETS OF DIFFERENT SIZES AROUND SOLAR-TYPE STARS](http://adsabs.harvard.edu/abs/2015AJ....149...14W)  
-Wang, Ji, Fischer, Debra A.    
-2015, refereed ([2015AJ....149...14W](http://adsabs.harvard.edu/abs/2015AJ....149...14W))  
 
 7. [DETECTION OF STARS WITHIN ÂŹ0.8 IN OF KEPLER OBJECTS OF INTEREST](http://adsabs.harvard.edu/abs/2015AJ....149...18K)  
 Kolbl, Rea, Marcy, Geoffrey W., Isaacson, Howard, et al.    
@@ -3615,9 +3515,9 @@ Batalha, Natalie M.
 Marcy, Geoffrey W., Weiss, Lauren M., Petigura, Erik A., et al.    
 2014, refereed ([2014PNAS..11112655M](http://adsabs.harvard.edu/abs/2014PNAS..11112655M))  
 
-24. [ACCURATE PARAMETERS OF THE DOUBLE-LINED ECLIPSING BINARY KIC 9474969 AND COMPARISON WITH ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2014PhDT.......369S)  
+24. [ACCURATE PARAMETERS OF THE DOUBLE-LINED ECLIPSING BINARY KIC 9474969 AND COMPARISON WITH ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2014MsT..........4S)  
 Sharp, Haley Elizabeth    
-2014, refereed ([2014PhDT.......369S](http://adsabs.harvard.edu/abs/2014PhDT.......369S))  
+2014, not refereed ([2014MsT..........4S](http://adsabs.harvard.edu/abs/2014MsT..........4S))  
 
 25. [TIDES IN CLOSE BINARY SYSTEMS](http://adsabs.harvard.edu/abs/2014PhDT.......381B)  
 Burkart, Joshua    
@@ -4451,13 +4351,17 @@ Fuller, James Woodrow
 Lopez, Eric David    
 2014, refereed ([2014PhDT.......106L](http://adsabs.harvard.edu/abs/2014PhDT.......106L))  
 
-23. [AN ANALYSIS OF OCCULTATIONS AND PHASE CURVES OF KEPLER PLANETARY CANDIDATES](http://adsabs.harvard.edu/abs/2014PhDT.......162R)  
+23. [AN ANALYSIS OF OCCULTATIONS AND PHASE CURVES OF KEPLER PLANETARY CANDIDATES](http://adsabs.harvard.edu/abs/2014MsT..........7R)  
 Roberts, Jessica E.    
-2014, refereed ([2014PhDT.......162R](http://adsabs.harvard.edu/abs/2014PhDT.......162R))  
+2014, not refereed ([2014MsT..........7R](http://adsabs.harvard.edu/abs/2014MsT..........7R))  
 
 24. [BAYESIAN DETECTION AND CHARACTERIZATION OF EXTRA-SOLAR PLANETS VIA PHOTOMETRIC VARIATIONS](http://adsabs.harvard.edu/abs/2014PhDT.......220P)  
 Placek, Ben    
 2014, refereed ([2014PhDT.......220P](http://adsabs.harvard.edu/abs/2014PhDT.......220P))  
+
+25. [ACCURATE PARAMETERS OF THE DOUBLE-LINED ECLIPSING BINARY KIC 9474969 AND COMPARISON WITH ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2014PhDT.......369S)  
+Sharp, Haley Elizabeth    
+2014, refereed ([2014PhDT.......369S](http://adsabs.harvard.edu/abs/2014PhDT.......369S))  
 
 
 2013-12
@@ -4750,10 +4654,6 @@ Guzik, Joyce A., Bradley, Paul A., Szabo, Robert, et al.
 27. [A HE-RICH G-MODE PULSATOR ON THE BHB](http://adsabs.harvard.edu/abs/2013arXiv1310.2553O)  
 Ăstensen, Roy H.    
 2013, pre-print ([2013arXiv1310.2553O](http://adsabs.harvard.edu/abs/2013arXiv1310.2553O))  
-
-28. [REVEALING A UNIVERSAL PLANET-METALLICITY CORRELATION FOR PLANETS OF DIFFERENT SIZES AROUND SOLAR-TYPE STARS](http://adsabs.harvard.edu/abs/2013arXiv1310.7830W)  
-Wang, Ji, Fischer, Debra A.    
-2013, pre-print ([2013arXiv1310.7830W](http://adsabs.harvard.edu/abs/2013arXiv1310.7830W))  
 
 
 2013-09
@@ -5447,41 +5347,41 @@ Zeng, Li, Sasselov, Dimitar
 2013-02
 -------
 
-1. [ASYMPTOTIC AND MEASURED LARGE FREQUENCY SEPARATIONS](http://adsabs.harvard.edu/abs/2013A&A...550A.126M)  
+1. [BUILDING TATOOINE: SUPPRESSION OF THE DIRECT SECULAR EXCITATION IN KEPLER CIRCUMBINARY PLANET FORMATION](http://adsabs.harvard.edu/abs/2013ApJ...764L..16R)  
+Rafikov, Roman R.    
+2013, refereed ([2013ApJ...764L..16R](http://adsabs.harvard.edu/abs/2013ApJ...764L..16R))  
+
+2. [ASYMPTOTIC AND MEASURED LARGE FREQUENCY SEPARATIONS](http://adsabs.harvard.edu/abs/2013A&A...550A.126M)  
 Mosser, B., Michel, E., Belkacem, K., et al.    
 2013, refereed ([2013A&A...550A.126M](http://adsabs.harvard.edu/abs/2013A&A...550A.126M))  
 
-2. [DETERMINING DISTANCES USING ASTEROSEISMIC METHODS](http://adsabs.harvard.edu/abs/2013AN....334...22S)  
+3. [DETERMINING DISTANCES USING ASTEROSEISMIC METHODS](http://adsabs.harvard.edu/abs/2013AN....334...22S)  
 Silva Aguirre, V., Casagrande, L., Basu, S., et al.    
 2013, refereed ([2013AN....334...22S](http://adsabs.harvard.edu/abs/2013AN....334...22S))  
 
-3. [STARSPOTS AND SPIN-ORBIT ALIGNMENT FOR KEPLER COOL HOST STARS](http://adsabs.harvard.edu/abs/2013AN....334..180S)  
+4. [STARSPOTS AND SPIN-ORBIT ALIGNMENT FOR KEPLER COOL HOST STARS](http://adsabs.harvard.edu/abs/2013AN....334..180S)  
 Sanchis-Ojeda, R., Winn, J. N., Fabrycky, D. C.    
 2013, refereed ([2013AN....334..180S](http://adsabs.harvard.edu/abs/2013AN....334..180S))  
 
-4. [THE TRIPLY ECLIPSING HIERARCHICAL TRIPLE STAR KIC002856960](http://adsabs.harvard.edu/abs/2013ApJ...763...74L)  
+5. [THE TRIPLY ECLIPSING HIERARCHICAL TRIPLE STAR KIC002856960](http://adsabs.harvard.edu/abs/2013ApJ...763...74L)  
 Lee, Jae Woo, Kim, Seung-Lee, Lee, Chung-Uk, et al.    
 2013, refereed ([2013ApJ...763...74L](http://adsabs.harvard.edu/abs/2013ApJ...763...74L))  
 
-5. [AN ANALYTIC THEORY FOR THE ORBITS OF CIRCUMBINARY PLANETS](http://adsabs.harvard.edu/abs/2013ApJ...763..107L)  
+6. [AN ANALYTIC THEORY FOR THE ORBITS OF CIRCUMBINARY PLANETS](http://adsabs.harvard.edu/abs/2013ApJ...763..107L)  
 Leung, Gene C. K., Lee, Man Hoi    
 2013, refereed ([2013ApJ...763..107L](http://adsabs.harvard.edu/abs/2013ApJ...763..107L))  
 
-6. [CHARACTERIZING THE COOL KOIS. IV. KEPLER-32 AS A PROTOTYPE FOR THE FORMATION OF COMPACT PLANETARY SYSTEMS THROUGHOUT THE GALAXY](http://adsabs.harvard.edu/abs/2013ApJ...764..105S)  
+7. [CHARACTERIZING THE COOL KOIS. IV. KEPLER-32 AS A PROTOTYPE FOR THE FORMATION OF COMPACT PLANETARY SYSTEMS THROUGHOUT THE GALAXY](http://adsabs.harvard.edu/abs/2013ApJ...764..105S)  
 Swift, Jonathan J., Johnson, John Asher, Morton, Timothy D., et al.    
 2013, refereed ([2013ApJ...764..105S](http://adsabs.harvard.edu/abs/2013ApJ...764..105S))  
 
-7. [ASSEMBLY OF PROTOPLANETARY DISKS AND INCLINATIONS OF CIRCUMBINARY PLANETS](http://adsabs.harvard.edu/abs/2013ApJ...764..106F)  
+8. [ASSEMBLY OF PROTOPLANETARY DISKS AND INCLINATIONS OF CIRCUMBINARY PLANETS](http://adsabs.harvard.edu/abs/2013ApJ...764..106F)  
 Foucart, Francois, Lai, Dong    
 2013, refereed ([2013ApJ...764..106F](http://adsabs.harvard.edu/abs/2013ApJ...764..106F))  
 
-8. [A SEARCH FOR EXOZODIACAL CLOUDS WITH KEPLER](http://adsabs.harvard.edu/abs/2013ApJ...764..195S)  
+9. [A SEARCH FOR EXOZODIACAL CLOUDS WITH KEPLER](http://adsabs.harvard.edu/abs/2013ApJ...764..195S)  
 Stark, Christopher C., Boss, Alan P., Weinberger, Alycia J., et al.    
 2013, refereed ([2013ApJ...764..195S](http://adsabs.harvard.edu/abs/2013ApJ...764..195S))  
-
-9. [BUILDING TATOOINE: SUPPRESSION OF THE DIRECT SECULAR EXCITATION IN KEPLER CIRCUMBINARY PLANET FORMATION](http://adsabs.harvard.edu/abs/2013ApJ...764L..16R)  
-Rafikov, Roman R.    
-2013, refereed ([2013ApJ...764L..16R](http://adsabs.harvard.edu/abs/2013ApJ...764L..16R))  
 
 10. [KEPLER'S OPTICAL SECONDARY ECLIPSE OF HAT-P-7B AND PROBABLE DETECTION OF PLANET-INDUCED STELLAR GRAVITY DARKENING](http://adsabs.harvard.edu/abs/2013ApJ...764L..22M)  
 Morris, Brett M., Mandell, Avi M., Deming, Drake    
@@ -5787,11 +5687,7 @@ Neubauer, David, Vrtala, Aron, Leitner, Johannes J., et al.
 Christiansen, Jessie L., Jenkins, Jon M., Caldwell, Douglas A., et al.    
 2012, refereed ([2012PASP..124.1279C](http://adsabs.harvard.edu/abs/2012PASP..124.1279C))  
 
-38. [HOW TO BUILD TATOOINE: REDUCING SECULAR EXCITATION IN KEPLER CIRCUMBINARY PLANET FORMATION](http://adsabs.harvard.edu/abs/2012arXiv1212.2217R)  
-Rafikov, Roman R.    
-2012, pre-print ([2012arXiv1212.2217R](http://adsabs.harvard.edu/abs/2012arXiv1212.2217R))  
-
-39. [DETECTION OF POTENTIAL TRANSIT SIGNALS IN THE FIRST TWELVE QUARTERS OF KEPLER MISSION DATA](http://adsabs.harvard.edu/abs/2012arXiv1212.2915T)  
+38. [DETECTION OF POTENTIAL TRANSIT SIGNALS IN THE FIRST TWELVE QUARTERS OF KEPLER MISSION DATA](http://adsabs.harvard.edu/abs/2012arXiv1212.2915T)  
 Tenenbaum, Peter, Jenkins, Jon M., Seader, Shawn, et al.    
 2012, pre-print ([2012arXiv1212.2915T](http://adsabs.harvard.edu/abs/2012arXiv1212.2915T))  
 
@@ -7399,9 +7295,9 @@ Balona, L. A., Cunha, M. S., Kurtz, D. W., et al.
 Bloemen, S., Marsh, T. R., Østensen, R. H., et al.    
 2011, refereed ([2011MNRAS.410.1787B](http://adsabs.harvard.edu/abs/2011MNRAS.410.1787B))  
 
-8. [PLANETARY TRANSIT MAPPING OF SPOTTED STARS WITH KEPLER](http://adsabs.harvard.edu/abs/2011PhDT.......134S)  
+8. [PLANETARY TRANSIT MAPPING OF SPOTTED STARS WITH KEPLER](http://adsabs.harvard.edu/abs/2011MsT.........20S)  
 Smith, Riley James    
-2011, refereed ([2011PhDT.......134S](http://adsabs.harvard.edu/abs/2011PhDT.......134S))  
+2011, not refereed ([2011MsT.........20S](http://adsabs.harvard.edu/abs/2011MsT.........20S))  
 
 
 2010-12
