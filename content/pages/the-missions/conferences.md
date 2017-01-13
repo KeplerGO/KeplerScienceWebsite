@@ -7,22 +7,14 @@ Save_as: conferences.html
 <table class="table table-striped table-hover" style="max-width:55em;">
 
   <tr>
-    <td style="width: 9em;">4 Jan 2017</td>
-    <td style="width: 20em;"><a href='k2-tess-splinter-session-at-aas229-on-4-jan-2017'>K2 Special Session at AAS 229th Meeting</a></td>
-    <td><a
-    href='k2-tess-splinter-session-at-aas229-on-4-jan-2017'>schedule</a>,
-    <a href="https://twitter.com/search?q=%23AAS229">#AAS229 tweets</a></td>
-  </tr>
-
-  <tr>
     <td style="width: 9em;">14-16 Feb 2017</td>
-    <td style="width: 20em;"><a href='supernova-experiment/#k2-supernova-workshop'>K2 Supernova Cosmology Workshop</a></td>
+    <td style="width: 25em;"><a href='supernova-experiment/#k2-supernova-workshop'>K2 Supernova Cosmology Workshop</a></td>
     <td><a href='supernova-experiment/#k2-supernova-workshop'>website</a>, <a href="https://twitter.com/search?q=%23K2SN">#K2SN tweets</a></td>
   </tr>
 	
   <tr>
     <td style="width: 9em;">19-23 Jun 2017</td>
-    <td style="width: 20em;"><a href='scicon4'>Kepler &amp; K2 SciCon IV: Legacy &amp; Scion</a></td>
+    <td style="width: 25em;"><a href='scicon4'>Kepler &amp; K2 SciCon IV: Legacy &amp; Scion</a></td>
     <td><a
     href='scicon4'>website</a>, <a href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon tweets</a></td>
   </tr>
@@ -32,6 +24,14 @@ Save_as: conferences.html
 ## Past meetings
 
 <table class="table table-striped table-hover" style="max-width:55em;">
+
+  <tr>
+    <td style="width: 9em;">Jan 2017</td>
+    <td style="width: 25em;">K2/TESS Special Session at AAS 229th Meeting</td>
+    <td><a
+    href='k2-tess-splinter-session-at-aas229-on-4-jan-2017'>schedule</a>,
+    <a href="https://twitter.com/search?q=%23AAS229">#AAS229 tweets</a></td>
+  </tr>
 
   <tr>
     <td style="width: 9em;">Jun 2016</td>

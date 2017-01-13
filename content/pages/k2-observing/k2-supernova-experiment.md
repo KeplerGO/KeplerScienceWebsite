@@ -241,7 +241,9 @@ i.e. professional astronomers and PhD students.
 This event is not suitable for undergraduate students or members of the general public.
 
 <b class="text-danger">Registration deadline: January 9th, 2017.</b>
-It is essential that non-US citizens apply before the deadline to gain access to the meeting venue.
+It is essential that non-US citizens apply before the deadline to gain
+access to the meeting venue. *While the formal deadline has passed, US
+citizens can still register until February 7th, 2017.*
 
 Please contact <a href="mailto:keplergo@mail.arc.nasa.gov">keplergo@mail.arc.nasa.gov</a> if you have any questions.
 
