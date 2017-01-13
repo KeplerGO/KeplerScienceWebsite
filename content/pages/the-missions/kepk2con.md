@@ -156,6 +156,3 @@ violation, please contact Mark D. Messersmith at 650-793-5722 or Jessie Dotson a
 * Ellen O'Leary, NASA Exoplanet Science Institute
 * Wendy Stenzel, NASA Ames Research Center
 
-### Contact
-
-Questions can be sent to [ARC-KeplerSciCon@nasa.gov](mailto:ARC-KeplerSciCon@nasa.gov).
