@@ -53,18 +53,18 @@ that span all topics in astrophysics and planetary science. The
 invited speakers include:
 
 * Angie Wolfgang, Penn State
-* Armin Rest, Harvard
-* Calen Henderson, OSU
-* Conny Aerts, Leuven
+* Armin Rest, STScI
+* Calen Henderson, JPL
+* Conny Aerts, KU Leuven
 * Dave Latham, Harvard
 * Dennis Stello, UNSW Australia
 * Eric Mamajek, JPL
-* Jason Rowe, Bishop's University
+* Jason Rowe, Université de Montréal
 * Jennifer Johnson, OSU
 * Jennifer van Saders, Carnegie
 * Josh Winn, Princeton (*to be confirmed*)
 * Luisa Rebull, Caltech
-* Ruth Murray Clay, UCSB
+* Ruth Murray Clay, UCSC
 * Susan Thompson, NASA Ames
 
 ### Presenter Information
