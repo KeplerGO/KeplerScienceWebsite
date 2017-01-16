@@ -14,7 +14,7 @@ Check back here for updates or follow the conversation on Twitter (<a href="http
 <table class="table table-striped table-hover" style="max-width:55em;">
 
   <tr>
-    <td style="width: 9em;">16 Jan 2017</td>
+    <td style="width: 9em;">17 Jan 2017</td>
     <td style="width: 20em;"> registration and abstract submission open </td>
   </tr>
 
@@ -56,7 +56,7 @@ invited speakers include:
 * Armin Rest, STScI
 * Calen Henderson, JPL
 * Conny Aerts, KU Leuven
-* Dave Latham, Harvard
+* Dave Latham, Harvard-Smithsonian CfA
 * Dennis Stello, UNSW Australia
 * Eric Mamajek, JPL
 * Jason Rowe, Université de Montréal
