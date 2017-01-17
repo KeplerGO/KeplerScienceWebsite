@@ -52,7 +52,12 @@ AUTHOR_FEED_RSS = None
 DISPLAY_BREADCRUMBS = False
 
 HIDE_SIDEBAR = True
-MD_EXTENSIONS = (['toc'])
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.toc': {},
+    },
+}
+
 
 # Which static data dirs should be uploaded as part of the website?
 STATIC_PATHS = (['images', 'data'])
