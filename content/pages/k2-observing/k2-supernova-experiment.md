@@ -199,7 +199,7 @@ which provides ample restaurant options.
 
 ### Participants list
 
-(Last update: Jan 10, 2017.)
+(Last update: Jan 17, 2017.)
 
 * Greg Aldering (Berkeley Lab)
 * Kyle Barbary (UC Berkeley)
@@ -215,6 +215,7 @@ which provides ample restaurant options.
 * Patrick Kelly (UC Berkeley)
 * Anais Möller (ANU)
 * Jakob Nordin (Humboldt Berlin)
+* Elisa Quintana (NASA Goddard)
 * Armin Rest (STScI)
 * Jeonghee Rho (SETI/NASA Ames/SOFIA)
 * Ryan Ridden-Harper (ANU)
@@ -223,11 +224,13 @@ which provides ample restaurant options.
 * Krisztian Sarneczky (Konkoly)
 * Benjamin Shappee (Carnegie)
 * Ed Shaya (Maryland)
+* Nao Suzuki (Kavli IPMU, Tokyo)
 * Georgina Lee Taylor (ANU)
 * Steven Margheim (Gemini)
 * Adam Rubin (Weizmann)
 * Ashley Villar (CfA)
 * Jozsef Vinko (Konkoly)
+* Xiaofeng Wang (Tsinghua University)
 * Alfredo Andres Zenteno Vivanco (NOAO/CTIO)
 
 
