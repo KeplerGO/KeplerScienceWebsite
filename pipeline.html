@@ -34,13 +34,13 @@ in August 2015, using pelican-bootstrap and flatly.
 <link rel="canonical" href="./pages/kepler-and-k2-data-processing-pipeline.html">
 
         <meta name="author" content="Thomas Barclay" />
-        <meta name="description" content="[TOC] Users are encouraged to review the following papers prior to working with Kepler or K2 data. These papers describe the science operations, processing and characteristics of the light curves. In addition to these papers, the user is also directed to the Kepler Instrument Handbook, the Data Release Notes, the ..." />
+        <meta name="description" content="Users are encouraged to review the following papers prior to working with Kepler or K2 data. These papers describe the science operations, processing and characteristics of the light curves. In addition to these papers, the user is also directed to the Kepler Instrument Handbook, the Data Release Notes, the Data ..." />
 
     <meta property="og:site_name" content="Kepler &amp; K2" />
     <meta property="og:type" content="article"/>
     <meta property="og:title" content="Kepler and K2 data processing pipeline"/>
     <meta property="og:url" content="./pages/kepler-and-k2-data-processing-pipeline.html"/>
-    <meta property="og:description" content="[TOC] Users are encouraged to review the following papers prior to working with Kepler or K2 data. These papers describe the science operations, processing and characteristics of the light curves. In addition to these papers, the user is also directed to the Kepler Instrument Handbook, the Data Release Notes, the ..." />
+    <meta property="og:description" content="Users are encouraged to review the following papers prior to working with Kepler or K2 data. These papers describe the science operations, processing and characteristics of the light curves. In addition to these papers, the user is also directed to the Kepler Instrument Handbook, the Data Release Notes, the Data ..." />
 
 
     <!-- Why use Helvetica Neue when you can have Lato? -->
@@ -132,11 +132,11 @@ in August 2015, using pelican-bootstrap and flatly.
     <div class="row">
         <div class="col-lg-12">
 
-    <div class="col-sm-12">
+    <div class="col-sm-9" data-spy="scroll" data-target="#sidebarCol">
         <section id="content" class="body">
             <h1 class="entry-title">Kepler and K2 data processing pipeline</h1>
             <div class="entry-content">
-                <p>[TOC]</p>
+                
 <p>Users are encouraged to review the following papers prior to
 working with Kepler or K2 data. These
 papers describe the science operations, processing and characteristics
@@ -174,7 +174,7 @@ Pipeline</a>
 <li><a href="http://adsabs.harvard.edu/abs/2014PASP..126..398H">The K2 Mission: Characterization and Early Results</a> (Howell,
   S. B., et al., 2014 PASP, 126, 398)</li>
 </ul>
-<h3>Pipeline overview</h3>
+<h3 id="pipeline-overview">Pipeline overview</h3>
 <p>Data collected by the Kepler photometer are recorded on orbit, downlinked,
 archived, and end up at the Space Science Division of NASA's Ames
 Research Center. All science data is processed and calibrated through
@@ -215,9 +215,9 @@ elements:</p>
 <p>A schematic of the Kepler Processing Pipeline is shown below. The
 primary software modules are indicated on the left.</p>
 <p><br/></p>
-<p><img class="img-responsive" style="min-width:97%;" src="images/pipeline1_drn5.jpg"></p>
+<p><img class="img-responsive" src="images/pipeline1_drn5.jpg" style="min-width:97%;"/></p>
 <p><br/></p>
-<h4>Calibration (CAL)</h4>
+<h4 id="calibration-cal">Calibration (CAL)</h4>
 <p>The initial step in the Kepler science data pipeline is performed by
 the software module termed CAL. CAL converts raw data numbers into
 calibrated pixels, which are then passed to the Photometric Analysis (PA)
@@ -244,7 +244,7 @@ by 1132 columns, of which only a subset (1024 x 1100) is used for
 photometry.</p>
 <p>Below is a block diagram of a Kepler CCD, showing the science and collateral pixel locations.</p>
 <p><br/></p>
-<p><img class="img-responsive" style="min-width:97%;" src="images/CCD_blockdiagram1.jpg"></p>
+<p><img class="img-responsive" src="images/CCD_blockdiagram1.jpg" style="min-width:97%;"/></p>
 <p><br/></p>
 <p>The focal plane CCD models are applied within CAL to execute the following tasks:</p>
 <ul>
@@ -315,7 +315,7 @@ obtained on orbit.</p>
 calibrated target pixel images within a pre-set aperture. The
 photometric time series is constructed from these images in the next
 step, Photometric Analysis (PA).</p>
-<h4>Photometric Analysis (PA)</h4>
+<h4 id="photometric-analysis-pa">Photometric Analysis (PA)</h4>
 <p>The PA module constructs a photometric time series, i.e. a light
 curve, from the pixels defined to contain the optimal aperture and
 associated background pixels. The data are in the form of integrated
@@ -440,7 +440,7 @@ pixels, equivalent to 0.4 arcseconds.</p>
 </li>
 </ul>
 <p><br/></p>
-<p><img class="img-responsive" style="min-width:97%;" src="images/centroid_motion_drn5f4.jpg"></p>
+<p><img class="img-responsive" src="images/centroid_motion_drn5f4.jpg" style="min-width:97%;"/></p>
 <p><br/></p>
 <ul>
 <li>
@@ -463,7 +463,7 @@ derived for each cadence independently.</p>
 </ul>
 <p>The output of this module is a photometric time series. These light curves are then passed to the Pre-Search
  Data Conditioning (PDC) for correction of systematic errors.</p>
-<h4>Pre-search Data Conditioning (PDC)</h4>
+<h4 id="pre-search-data-conditioning-pdc">Pre-search Data Conditioning (PDC)</h4>
 <p>The PDC software module examines the calibrated light curves produced
 by PA and applies a series of corrections, based on known
 instrumental and spacecraft anomalies as well as unanticipated artifacts
@@ -586,7 +586,7 @@ linear term produced by differential velocity aberration. (Adapted
 from DRN5.)<br/></p>
 </li>
 </ul>
-<p><img class="img-responsive" style="min-width:97%;" src="images/PDC_example3_quietstar_drn5.jpg"></p>
+<p><img class="img-responsive" src="images/PDC_example3_quietstar_drn5.jpg" style="min-width:97%;"/></p>
 <ul>
 <li>
 <p><strong>Correct excess flux</strong><br/>
@@ -638,7 +638,7 @@ aware:</p>
 (c)   May identify a stellar eclipse as a flux discontinuity. <br/>
 (d)   Fail to accurately track slowly rising or declining flux levels over a quarter. If this linear term is correlated with centroid motion times series, the linear term may be removed from the data. <br/>
 (e)   Positive outliers which are not flagged as real events. PDC may tag these events as discontinuities, and attempt to correct. </p>
-<p><img class="img-responsive" style="min-width:97%;" src="images/PDC_example_Jenkinsb_fig3.jpg"></p>
+<p><img class="img-responsive" src="images/PDC_example_Jenkinsb_fig3.jpg" style="min-width:97%;"/></p>
 <p>Output of PA (top curve) and PDC (bottom curve) for a variable star
 observed during Q1. This source displays periodic behavior with ~1%
 peak-to-peak amplitude on a timescale of ~5 days. The figures show
@@ -661,6 +661,20 @@ variable.</p>
         </section>
     </div>
 
+        <nav class="col-sm-3 visible-sm visible-md visible-lg bs-docs-sidebar" id="sidebarCol">
+            <div class="nav nav-stacked fixed" id="mytoc">
+            <div class="toc">
+<ul>
+<li><a href="#pipeline-overview">Pipeline overview</a><ul>
+<li><a href="#calibration-cal">Calibration (CAL)</a></li>
+<li><a href="#photometric-analysis-pa">Photometric Analysis (PA)</a></li>
+<li><a href="#pre-search-data-conditioning-pdc">Pre-search Data Conditioning (PDC)</a></li>
+</ul>
+</li>
+</ul>
+</div>
+            </div>
+        </nav>
         </div>
     </div>
 </div>
@@ -727,5 +741,24 @@ variable.</p>
 <script language="javascript" id="_fed_an_ua_tag" src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA&subagency=ARC&dclink=true"></script>
 
 
+        <script>
+          $('#mytoc').affix({
+                offset: {
+                  top: 50
+                }
+          });
+          $('body').scrollspy({
+              target: '#sidebarCol',
+              offset: 100
+          });
+
+          // Fix for issue #32:
+          function refreshScrollspy() {
+                $('[data-spy="scroll"]').each(function() {
+                    $(this).scrollspy('refresh');
+                });
+          }
+          $("img").bind('load', refreshScrollspy);
+        </script>
 </body>
 </html>

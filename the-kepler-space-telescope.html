@@ -34,13 +34,13 @@ in August 2015, using pelican-bootstrap and flatly.
 <link rel="canonical" href="./pages/characteristics-of-the-kepler-space-telescope.html">
 
         <meta name="author" content="Thomas Barclay" />
-        <meta name="description" content="[TOC] Orbit Kepler is in an Earth-trailing heliocentric orbit, which insured a thermally stable environment and provided the ability to remain on a single pointing for the duration of the prime Kepler mission. Quarterly rolls were performed – one roll every 93 days – to reorient the solar arrays. With each roll ..." />
+        <meta name="description" content="Orbit Kepler is in an Earth-trailing heliocentric orbit, which insured a thermally stable environment and provided the ability to remain on a single pointing for the duration of the prime Kepler mission. Quarterly rolls were performed – one roll every 93 days – to reorient the solar arrays. With each roll, the ..." />
 
     <meta property="og:site_name" content="Kepler &amp; K2" />
     <meta property="og:type" content="article"/>
     <meta property="og:title" content="Characteristics of the Kepler space telescope"/>
     <meta property="og:url" content="./pages/characteristics-of-the-kepler-space-telescope.html"/>
-    <meta property="og:description" content="[TOC] Orbit Kepler is in an Earth-trailing heliocentric orbit, which insured a thermally stable environment and provided the ability to remain on a single pointing for the duration of the prime Kepler mission. Quarterly rolls were performed – one roll every 93 days – to reorient the solar arrays. With each roll ..." />
+    <meta property="og:description" content="Orbit Kepler is in an Earth-trailing heliocentric orbit, which insured a thermally stable environment and provided the ability to remain on a single pointing for the duration of the prime Kepler mission. Quarterly rolls were performed – one roll every 93 days – to reorient the solar arrays. With each roll, the ..." />
 
 
     <!-- Why use Helvetica Neue when you can have Lato? -->
@@ -132,12 +132,12 @@ in August 2015, using pelican-bootstrap and flatly.
     <div class="row">
         <div class="col-lg-12">
 
-    <div class="col-sm-12">
+    <div class="col-sm-9" data-spy="scroll" data-target="#sidebarCol">
         <section id="content" class="body">
             <h1 class="entry-title">Characteristics of the Kepler space telescope</h1>
             <div class="entry-content">
-                <p>[TOC]</p>
-<h3>Orbit</h3>
+                
+<h3 id="orbit">Orbit</h3>
 <p>Kepler is in an Earth-trailing heliocentric orbit, which insured a
 thermally stable environment and provided the ability to remain on a
 single pointing for the duration of the prime Kepler
@@ -147,7 +147,7 @@ view land on different regions of the detector relative to their
 pre-roll position, introducing quarterly discontinuities in the light
 curves. In the K2 mission, the spacecraft is rotated and different fields are observed every ~80 days
 in order to prevent sunlight from entering the telescope.</p>
-<h3>Field of view</h3>
+<h3 id="field-of-view">Field of view</h3>
 <p>The Kepler photometer consists of 21 CCD modules (each with two 2200x1024
 pixel CCDs).  Each module covers 5 square degrees on the sky.  The full 116
 square degree field of view on the sky is illustrated below,
@@ -156,19 +156,19 @@ Kepler mission.  Tables that contain the corners of each Kepler CCD
 module are available for download (<a href="data/morc_2_ra_dec_4_seasons.txt">ascii</a> and <a href="data/morc_2_ra_dec_4_seasons.xls">Microsoft Excel</a>).
 Corners are provided in J2000 celestial coordinates for all four seasonal roll rotations.</p>
 <p><br/></p>
-<p><img class="img-responsive" style="max-width:67%;" src="images/Keplerfieldofviewstarchart.gif"></p>
+<p><img class="img-responsive" src="images/Keplerfieldofviewstarchart.gif" style="max-width:67%;"/></p>
 <p><br/></p>
 <p>An image of the field of view observed in the Kepler mission is shown below.</p>
 <p><br/></p>
-<p><img class="img-responsive" style="max-width:67%;" src="images/kepler-fov-full.jpg"></p>
+<p><img class="img-responsive" src="images/kepler-fov-full.jpg" style="max-width:67%;"/></p>
 <p><br/></p>
 <p>The K2 mission observes a different field every ~80 days.  For
 comparison to the prime Kepler mission field, the field of view of K2 Campaign 10 is shown below
 (note the three dead modules as of August 2016).</p>
 <p><br/></p>
-<p><img class="img-responsive" style="max-width:67%;" src="images/c10ffi.png"></p>
+<p><img class="img-responsive" src="images/c10ffi.png" style="max-width:67%;"/></p>
 <p><br/></p>
-<h3>Instrument response</h3>
+<h3 id="instrument-response">Instrument response</h3>
 <p>The Kepler spacecraft hosts 0.95-m aperture Schmidt telescope.  The primary instrument aboard Kepler is the focal plane array
 consisting of 21 science and 4 Fine Guidance Sensor CCD modules. Field
 flattener lenses on each module map the spherical telescope image
@@ -180,9 +180,9 @@ additional masked real pixels and virtual pixels for collection of
 collateral data.  As of August 2016, three of the modules are no longer in
 working order.</p>
 <p><br/></p>
-<p><img class="img-responsive" style="max-width:67%;" src="images/kepler_CCDarray.jpg"></p>
+<p><img class="img-responsive" src="images/kepler_CCDarray.jpg" style="max-width:67%;"/></p>
 <p><br/></p>
-<p><img class="img-responsive" style="max-width:67%;" src="images/kepler_focalplane1.jpg"></p>
+<p><img class="img-responsive" src="images/kepler_focalplane1.jpg" style="max-width:67%;"/></p>
 <p><br/></p>
 <p>The Kepler focal plane detectors and the optical elements within the
 Kepler telescope are illustrated above (from the <a href="data/documentation/KSCI-19033-001.pdf">Kepler Instrument Handbook</a>).</p>
@@ -195,7 +195,7 @@ of the optical spectrum. This response curve was
 derived during pre-flight testing and
 represents the laboratory calibration of the Kepler photometer. </p>
 <p><br/></p>
-<p><img class="img-responsive" style="max-width:97%;" src="images/kepler_response1.jpg"></p>
+<p><img class="img-responsive" src="images/kepler_response1.jpg" style="max-width:97%;"/></p>
 <p><br/></p>
 <p>The below plot shows the optical element components of the Kepler Instrument Response compared
 to approximate M5 and G2 stellar spectra. The total photometer spectral response is a combination of the
@@ -207,7 +207,7 @@ anti-reflection coated; a bandpass filter coating was applied to the
 back surfaces. At long wavelengths the coating was designed to minimize
 fringing.</p>
 <p><br/></p>
-<p><img class="img-responsive" style="max-width:87%;" src="images/kepler_response2.jpg"></p>
+<p><img class="img-responsive" src="images/kepler_response2.jpg" style="max-width:87%;"/></p>
 <p><br/></p>
 <p>The figure below shows a comparison of the Kepler, MOST, CoRoT and Johnson response
 curves (kindly provided by Jason Rowe and extracted from
@@ -218,9 +218,9 @@ the spectrum for a M2V star is shown in orange which peaks in the
 infrared. The two spectra have been scaled to have equal flux in the
 Johnson V filter.</p>
 <p><br/></p>
-<p><img class="img-responsive" style="max-width:67%;" src="images/kepler_bandpass_jason1.jpg"></p>
+<p><img class="img-responsive" src="images/kepler_bandpass_jason1.jpg" style="max-width:67%;"/></p>
 <p><br/></p>
-<h3>Pixel response function</h3>
+<h3 id="pixel-response-function">Pixel response function</h3>
 <p>Kepler has an image scale of 3.98 arcseconds per pixel and a pixel
 size of 27 × 27 microns.</p>
 <p>The design requirements for Kepler emphasize photometric stability
@@ -266,7 +266,7 @@ the center. The pixelated image is shown below and a contoured version
 above. (Adapted from <a href="http://adsabs.harvard.edu/abs/2010ApJ...713L..97B">Bryson et al.
 (2010)</a>).</p>
 <p><br/></p>
-<p><img class="img-responsive" style="min-width:97%;" src="images/bryson_prfs1.jpg"></p>
+<p><img class="img-responsive" src="images/bryson_prfs1.jpg" style="min-width:97%;"/></p>
 <p><br/></p>
 <p>For K2, image quality continues to vary with position in the focal plane, with the 95% encircled energy diameter ranging from 3.1 to 7.5 pixels and a median of 4.2 pixels. The percentage of point-source flux concentrated in the center pixel is between 20% and 62%, with a median value of 45%.</p>
 <p><strong>Vignetting</strong></p>
@@ -280,7 +280,7 @@ area of sky which is vignetted &lt; 11% is 151.2 square degrees, and the
 sky area imaged onto active pixels with &lt; 11% vignetting is 101 square
 degrees since there are gaps between modules, a gap between the two
 CCDs on each module, and inactive areas on each CCD. </p>
-<h3>Backgrounds</h3>
+<h3 id="backgrounds">Backgrounds</h3>
 <p>Source photometry is affected by both celestial and instrumental
 backgrounds. During nominal science data collection, pixels designated
 as background are measured in addition to target pixels. These data
@@ -369,7 +369,7 @@ evident:</p>
 perpendicular to the Galactic plane is about a factor of 1.8.</li>
 </ul>
 <p><br/></p>
-<p><img class="img-responsive" style="min-width:97%;" src="images/kepler_background_Q0+1.jpg"></p>
+<p><img class="img-responsive" src="images/kepler_background_Q0+1.jpg" style="min-width:97%;"/></p>
 <p><br/></p>
 <p>The treatment of the background by the pipeline for
 crowded sources may not be optimal. Users should inspect the FOV around sources using a Kepler full-frame
@@ -377,7 +377,7 @@ image to check for nearby bright sources which may affect a target. Also note sa
 the same (+/-1) column to check for charge
 bleeds.  Users may wish to contruct their own background estimates
 using the background pixel files available on the data archive at MAST.</p>
-<h3>Signal-to-noise</h3>
+<h3 id="signal-to-noise">Signal-to-noise</h3>
 <p>The following plot below demonstrates the fine-point photometric precision achieved by K2 in Campaign 3 (orange) compared to
 Kepler in Quarter 10 (blue) [credit: Andrew Vanderburg, created using the method described in
 <a href="http://adsabs.harvard.edu/abs/2014arXiv1412.1827V">Vanderburg (2014)</a>
@@ -389,7 +389,7 @@ photometrically-quiet dwarf stars.  Note that the data from Campaign 3
 was taken after applying an increase in pointing control bandwidth, so
 data in earlier K2 Campaigns will provide slightly poorer photometric precision.  </p>
 <p><br/></p>
-<p><img class="img-responsive" style="min-width:97%;" src="images/k2-kpcdpp-201508.png"></p>
+<p><img class="img-responsive" src="images/k2-kpcdpp-201508.png" style="min-width:97%;"/></p>
 <p><br/></p>
 <p>The limiting factor for observations of faint sources is set by source
 confusion, rather than the photometric accuracy computed for isolated
@@ -412,7 +412,7 @@ charge will bleed into adjacent pixels in the column containing that
 source. However, even when the central pixel is saturated, the target
 aperture can extend along the bleed column, preserving most or all of
 the signal from the source. </p>
-<h3>Flux calibration</h3>
+<h3 id="flux-calibration">Flux calibration</h3>
 <p>Each target observed by Kepler or K2 had or has a pre-set observing aperture uploaded to the
 spacecraft. These apertures are defined in terms of the number of
 pixels and shape of the array. The brighter a source, the larger the
@@ -453,91 +453,77 @@ relation. This color can be applied to stars whose apparent Johnson V
 magnitude is known to obtain Kp, with the caveat that for stars cooler
 than M0, the estimated Kp may be too faint.</p>
 <table class="table table-striped table-hover" style="max-width:10em;">
-  <thead>
-    <tr>
-      <th>Spectral Type</th>
-      <th>B-V</th>
-      <th>Kp-V</th>
-    </tr>
-  </thead>
-
-  <tdata>
-      <tr>
-      <td>O3</td>
-      <td>-0.33</td>
-      <td>+0.16</td>
-      </tr>
-
-     <tr>
-      <td>B0</td>
-      <td>-0.28</td>
-      <td>+0.15</td>
-      </tr>
-
-     <tr>
-      <td>B5</td>
-      <td>-0.16</td>
-      <td>+0.12</td>
-      </tr>
-
-     <tr>
-      <td>A0</td>
-      <td>-0.01</td>
-      <td>+0.08</td>
-      </tr>
-
-     <tr>
-      <td>A5</td>
-      <td>+0.13</td>
-      <td>+0.05</td>
-      </tr>
-
-     <tr>
-      <td>F0</td>
-      <td>+0.28</td>
-      <td>+0.01</td>
-      </tr>
-
-     <tr>
-      <td>F5</td>
-      <td>+0.46</td>
-      <td>-0.03</td>
-      </tr>
-
-     <tr>
-      <td>G0</td>
-      <td>+0.60</td>
-      <td>-0.06</td>
-      </tr>
-
-     <tr>
-      <td>G5</td>
-      <td>+0.67</td>
-      <td>-0.08</td>
-      </tr>
-
-    <tr>
-      <td>K0</td>
-      <td>+0.85</td>
-      <td>-0.13</td>
-      </tr>
-
-         <tr>
-      <td>K5</td>
-      <td>+1.15</td>
-      <td>-0.29</td>
-      </tr>
-
-   <tr>
-      <td>M0</td>
-      <td>+1.55</td>
-      <td>-0.43</td>
-      </tr>
-
+<thead>
+<tr>
+<th>Spectral Type</th>
+<th>B-V</th>
+<th>Kp-V</th>
+</tr>
+</thead>
+<tdata>
+<tr>
+<td>O3</td>
+<td>-0.33</td>
+<td>+0.16</td>
+</tr>
+<tr>
+<td>B0</td>
+<td>-0.28</td>
+<td>+0.15</td>
+</tr>
+<tr>
+<td>B5</td>
+<td>-0.16</td>
+<td>+0.12</td>
+</tr>
+<tr>
+<td>A0</td>
+<td>-0.01</td>
+<td>+0.08</td>
+</tr>
+<tr>
+<td>A5</td>
+<td>+0.13</td>
+<td>+0.05</td>
+</tr>
+<tr>
+<td>F0</td>
+<td>+0.28</td>
+<td>+0.01</td>
+</tr>
+<tr>
+<td>F5</td>
+<td>+0.46</td>
+<td>-0.03</td>
+</tr>
+<tr>
+<td>G0</td>
+<td>+0.60</td>
+<td>-0.06</td>
+</tr>
+<tr>
+<td>G5</td>
+<td>+0.67</td>
+<td>-0.08</td>
+</tr>
+<tr>
+<td>K0</td>
+<td>+0.85</td>
+<td>-0.13</td>
+</tr>
+<tr>
+<td>K5</td>
+<td>+1.15</td>
+<td>-0.29</td>
+</tr>
+<tr>
+<td>M0</td>
+<td>+1.55</td>
+<td>-0.43</td>
+</tr>
 </tdata>
 </table>
-
-<h3>Astrometry</h3>
+<h3 id="astrometry">Astrometry</h3>
 <p>Source coordinates are provided by the Kepler Input Catalog
 (KIC) or the Eplictic Plane Input Catalog (EPIC) for K2. Astrometric calibration of
 the source centroids occurs in the PA pipeline
@@ -597,6 +583,22 @@ observation (1 long cadence).</p>
         </section>
     </div>
 
+        <nav class="col-sm-3 visible-sm visible-md visible-lg bs-docs-sidebar" id="sidebarCol">
+            <div class="nav nav-stacked fixed" id="mytoc">
+            <div class="toc">
+<ul>
+<li><a href="#orbit">Orbit</a></li>
+<li><a href="#field-of-view">Field of view</a></li>
+<li><a href="#instrument-response">Instrument response</a></li>
+<li><a href="#pixel-response-function">Pixel response function</a></li>
+<li><a href="#backgrounds">Backgrounds</a></li>
+<li><a href="#signal-to-noise">Signal-to-noise</a></li>
+<li><a href="#flux-calibration">Flux calibration</a></li>
+<li><a href="#astrometry">Astrometry</a></li>
+</ul>
+</div>
+            </div>
+        </nav>
         </div>
     </div>
 </div>
@@ -663,5 +665,24 @@ observation (1 long cadence).</p>
 <script language="javascript" id="_fed_an_ua_tag" src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA&subagency=ARC&dclink=true"></script>
 
 
+        <script>
+          $('#mytoc').affix({
+                offset: {
+                  top: 50
+                }
+          });
+          $('body').scrollspy({
+              target: '#sidebarCol',
+              offset: 100
+          });
+
+          // Fix for issue #32:
+          function refreshScrollspy() {
+                $('[data-spy="scroll"]').each(function() {
+                    $(this).scrollspy('refresh');
+                });
+          }
+          $("img").bind('load', refreshScrollspy);
+        </script>
 </body>
 </html>

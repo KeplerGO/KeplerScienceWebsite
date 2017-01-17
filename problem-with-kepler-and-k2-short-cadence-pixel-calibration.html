@@ -171,7 +171,7 @@ between the spacecraft and the ground, causing smear values to be
 assigned to the wrong columns within a target’s aperture.</p>
 <p>In these cases, the pipeline’s pixel-level calibration routine
 applies an erroneous smear correction.</p>
-<h3>Impact</h3>
+<h3 id="impact">Impact</h3>
 <p>The issue has been present since launch and affects both the target pixel
 files and the light curves of approximately
 half of all short-cadence targets in all releases to date,
@@ -191,7 +191,7 @@ or dark, column in the calibrated target pixel image.
 Comparison of the short-cadence pixel image with the long-cadence pixel image
 (which is not affected by this problem)
 can be used to estimate the magnitude of any contaminating signal.</p>
-<h3>Solution</h3>
+<h3 id="solution">Solution</h3>
 <p>The Kepler pipeline has been amended to ensure that the 
 correct smear data is used at all times. 
 All affected data will be corrected as follows:</p>
@@ -201,7 +201,7 @@ All affected data will be corrected as follows:</p>
 <li>Reprocessing of K2 Campaigns 0-5 will occur over the coming months. The expected release dates will be listed here when known.</li>
 <li>Data from the prime Kepler mission will be corrected as part of the scheduled reprocessing with pipeline release 9.3 (DR25). Corrected target pixel files are expected to be available in Summer 2016.</li>
 </ul>
-<h3>More information</h3>
+<h3 id="more-information">More information</h3>
 <p>The project has released an erratum document describing the issue and
 its impact in more detail.
 The document is accompanied by a list of all the affected targets:</p>

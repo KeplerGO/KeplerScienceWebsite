@@ -129,16 +129,12 @@ All users are nevertheless encouraged to update the
 &lt;a href="software.html#k2fov"&gt;K2fov&lt;/a&gt; target selection tool
 to version 6.2, released on 14 Nov 2016, which includes the change.&lt;/p&gt;
 &lt;p&gt;K2fov can be updated from the command line using pip:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;pip install K2fov --upgrade
-&lt;/pre&gt;&lt;/div&gt;
-
-
+&lt;pre&gt;&lt;code&gt;pip install K2fov --upgrade
+&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;The version number of your K2fov installation may be verified
 using the following command:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;python&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;c&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;import K2fov; print(K2fov.__version__)&amp;quot;&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
+&lt;pre&gt;&lt;code&gt;python -c "import K2fov; print(K2fov.__version__)"
+&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;This must return "6.2.0" or higher. If the number is lower, or if you see an error message, then your installation of K2fov is outdated and must be upgraded. &lt;/p&gt;
 &lt;p&gt;Campaign 16 does not require a change due to the use of a different,
 forward-facing spacecraft configuration.&lt;/p&gt;
@@ -224,7 +220,7 @@ during these campaigns.&lt;/p&gt;
 &lt;img alt="Figure: position of fields 14, 15, and 16 (green) relative to previous fields." class="img-responsive" src="images/k2/footprint-all-campaigns.png"/&gt;&lt;/a&gt;
 &lt;/div&gt;
 
-&lt;h2&gt;Campaign 14&lt;/h2&gt;
+&lt;h2 id="campaign-14"&gt;Campaign 14&lt;/h2&gt;
 &lt;p&gt;Field 14 (RA 11h, Dec +7°) is located at a moderately high Galactic Latitude (+50°)
 towards the constellations of Leo and Sextans.&lt;/p&gt;
 &lt;p&gt;Notable targets include:&lt;/p&gt;
@@ -245,7 +241,7 @@ towards the constellations of Leo and Sextans.&lt;/p&gt;
 &lt;img alt="Figure: position of field 14." class="img-responsive" src="images/campaign_selected/field14-final.png"/&gt;&lt;/a&gt;
 &lt;/div&gt;
 
-&lt;h2&gt;Campaign 15&lt;/h2&gt;
+&lt;h2 id="campaign-15"&gt;Campaign 15&lt;/h2&gt;
 &lt;p&gt;Field 15 (RA 16h, Dec -20°) is located at a moderate Galactic Latitude (+30°)
 towards the constellation of Libra.  There is a small overlap with the previous Campaign 2.&lt;/p&gt;
 &lt;p&gt;Notable targets include:&lt;/p&gt;
@@ -270,7 +266,7 @@ towards the constellation of Libra.  There is a small overlap with the previous 
 &lt;img alt="Figure: position of field 15 relative to field 2." class="img-responsive" src="images/campaign_selected/field15-final.png"/&gt;&lt;/a&gt;
 &lt;/div&gt;
 
-&lt;h2&gt;Campaign 16&lt;/h2&gt;
+&lt;h2 id="campaign-16"&gt;Campaign 16&lt;/h2&gt;
 &lt;p&gt;Field 16 (RA 9h, Dec +19°) is located at a moderate Galactic Latitude (+35°)
 towards the constellation of Cancer. About 30% of the field overlaps with the previous Campaign 5.&lt;/p&gt;
 &lt;p&gt;The field shows very low foreground extinction (Av ~0.2 mag) 
@@ -292,7 +288,7 @@ at the cost of having the bright Earth pass through the field.&lt;/p&gt;
 &lt;img alt="Figure: position of field 16 relative to field 5." class="img-responsive" src="images/new-c16-field.png"/&gt;&lt;/a&gt;
 &lt;/div&gt;
 
-&lt;h2&gt;Other candidate highlights&lt;/h2&gt;
+&lt;h2 id="other-candidate-highlights"&gt;Other candidate highlights&lt;/h2&gt;
 &lt;p&gt;In addition to the highlights listed above, Simbad lists a wealth of known objects that will be visible during these Campaigns. They include:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;19208 Galaxies;&lt;/li&gt;
@@ -437,7 +433,7 @@ Such hardware failures were foreseen in the initial mission planning, and the sy
 as a result of the anomaly.
 Observations have since returned to normal
 and no further interruptions are expected.&lt;/p&gt;
-&lt;h3&gt;Impact on GO programs&lt;/h3&gt;
+&lt;h3 id="impact-on-go-programs"&gt;Impact on GO programs&lt;/h3&gt;
 &lt;p&gt;For the K2 mission’s current Campaign 10, the targets that fell on Module 4 &lt;a href="/break-in-science-collection-during-k2-campaign-10.html"&gt;will yield no data beyond July 20&lt;/a&gt;.
 For all campaigns going forward, we will only allocate pixels to targets which fall on one of the remaining 18 operational modules.&lt;/p&gt;
 &lt;p&gt;On average 4% of the targets requested by selected GO programs fell on the retired Module, with no single program affected by more than 20%.&lt;/p&gt;
@@ -446,7 +442,7 @@ K2 targets to remain unchanged.
 The impact on science is expected to be small as a result.&lt;/p&gt;
 &lt;p&gt;None of the high-profile targets in future Campaigns, such as Trappist-1 or Comet Chiron, are known to be affected.
 Investigators who are concerned about a particular target are encouraged to contact us at &lt;a href="keplergo@mail.arc.nasa.gov"&gt;keplergo@mail.arc.nasa.gov&lt;/a&gt;.&lt;/p&gt;
-&lt;h3&gt;Where is Module 4?&lt;/h3&gt;
+&lt;h3 id="where-is-module-4"&gt;Where is Module 4?&lt;/h3&gt;
 &lt;p&gt;The ill-fated Module is located on the outside of the focal plane,
 where both the pointing stability and the point spread function are less ideal.
 Its position is marked using a pen in the photograph below:&lt;/p&gt;
@@ -455,7 +451,7 @@ Its position is marked using a pen in the photograph below:&lt;/p&gt;
 &lt;script async src="//platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
 
 &lt;p&gt;Module 4 contains channel numbers #9, #10, #11, and #12.&lt;/p&gt;
-&lt;h3&gt;K2fov update required&lt;/h3&gt;
+&lt;h3 id="k2fov-update-required"&gt;K2fov update required&lt;/h3&gt;
 &lt;p&gt;The due date for &lt;a href="call-for-k2-go-cycle-5-proposals-for-campaigns-14-15-and-16.html"&gt;K2 Cycle 5 proposals&lt;/a&gt; for targets to be observed in 
 Campaigns 14, 15, and 16 is just over a month away.
 The &lt;a href="software.html#k2fov"&gt;K2fov target selection tool&lt;/a&gt; has been
@@ -494,7 +490,7 @@ submitting a Step 1 proposal by the due date.&lt;/p&gt;
 &lt;p&gt;Information about the proposal process, including the scope,
 evaluation criteria, availability of funds, eligibility,
 target selection tools, submission process, and frequently asked questions, is detailed on the &lt;a href="/k2-proposing-targets.html"&gt;proposal preparation page&lt;/a&gt;.&lt;/p&gt;
-&lt;h3&gt;K2fov update required&lt;/h3&gt;
+&lt;h3 id="k2fov-update-required"&gt;K2fov update required&lt;/h3&gt;
 &lt;p&gt;The final field positions for Campaigns 14 and 15 have recently
 been set based on community input.  The field
 position for Campaign 16 is currently preliminary and will be finalized before the Step 1 deadline.
@@ -503,19 +499,15 @@ All investigators &lt;em&gt;must&lt;/em&gt; update their version of the
 to version 5.1, released on 14 Aug 2016,
 to take the final field positions into account. &lt;/p&gt;
 &lt;p&gt;K2fov can be updated from the command line using pip:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;pip install K2fov --upgrade
-&lt;/pre&gt;&lt;/div&gt;
-
-
+&lt;pre&gt;&lt;code&gt;pip install K2fov --upgrade
+&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;The version number of your K2fov installation may be verified
 using the following command:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;python&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;c&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;import K2fov; print(K2fov.__version__)&amp;quot;&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
+&lt;pre&gt;&lt;code&gt;python -c "import K2fov; print(K2fov.__version__)"
+&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;This should return "5.1.0" or higher. If the number is lower,
 or if you see an error message, then your installation of K2fov is outdated.&lt;/p&gt;
-&lt;h3&gt;Questions?&lt;/h3&gt;
+&lt;h3 id="questions"&gt;Questions?&lt;/h3&gt;
 &lt;p&gt;Questions regarding this call should be sent to &lt;a href="keplergo@mail.arc.nasa.gov"&gt;keplergo@mail.arc.nasa.gov&lt;/a&gt;.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen, Knicole Colon</dc:creator><pubDate>Mon, 01 Aug 2016 12:00:00 -0700</pubDate><guid>tag:keplerscience.arc.nasa.gov,2016-08-01:call-for-k2-go-cycle-5-proposals-for-campaigns-14-15-and-16.html</guid></item><item><title>Kepler 3D puzzle available for outreach</title><link>https://keplerscience.arc.nasa.gov/kepler-3d-puzzle-available-for-outreach.html</link><description>&lt;p&gt;With the help of the &lt;a href="https://www.nasa.gov/centers/ames/spaceshop/home"&gt;NASA Ames SpaceShop Rapid Prototyping Facility&lt;/a&gt;,
 the Kepler team has created a 3D-printable puzzle of the spacecraft
 for educational purposes.&lt;/p&gt;
@@ -592,7 +584,7 @@ of Discovery Program missions by broadening the scientific participation
 in the analysis of data, both recent and archived.&lt;/p&gt;
 &lt;p&gt;The program intends to fund solar system science.
 Proposals using Kepler/K2 observations of objects outside the solar system are not eligible and should be submitted to the Astrophysics Data Analysis Program (ADAP) instead. A non-exhaustive list of K2's solar system targets is given below.&lt;/p&gt;
-&lt;h2&gt;Background&lt;/h2&gt;
+&lt;h2 id="background"&gt;Background&lt;/h2&gt;
 &lt;p&gt;Because operating in the ecliptic plane minimizes the torque exerted on the spacecraft by solar pressure, the K2 mission entails a series of sequential &lt;a href="k2-fields.html"&gt;observing Campaigns&lt;/a&gt; of fields distributed around the ecliptic.
 A result of this observing strategy is that the K2 fields
 contain a large number of solar system targets,
@@ -602,7 +594,7 @@ and search for activity in comets or oscillations in giant planets.
 Because Solar System objects move relative to the celestial sphere,
 long streaks of pixels are downloaded from the Kepler spacecraft to cover
 their trajectory (or part thereof).&lt;/p&gt;
-&lt;h2&gt;Solar system targets in Campaigns 0-11&lt;/h2&gt;
+&lt;h2 id="solar-system-targets-in-campaigns-0-11"&gt;Solar system targets in Campaigns 0-11&lt;/h2&gt;
 &lt;p&gt;The K2 mission has so far targeted 163 solar system objects during
 Campaigns 0 through 11 as part of the
 &lt;a href="k2-approved-programs.html"&gt;approved observing programs&lt;/a&gt;.
@@ -613,19 +605,19 @@ as they passed through the pixel masks of other targets.
 A list of these serendipitously-observed targets is not available at this time,
 but note that the visibility of solar system targets in past or future K2 Campaigns
 can be checked using the &lt;a href="https://github.com/KeplerGO/K2ephem"&gt;K2ephem command-line tool&lt;/a&gt;.&lt;/p&gt;
-&lt;h3&gt;Planets and moons&lt;/h3&gt;
+&lt;h3 id="planets-and-moons"&gt;Planets and moons&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Saturn's moons Titan and Enceladus (C11)&lt;/li&gt;
 &lt;li&gt;Uranus and its irregular satellites Caliban, Prospero, Setebos, Sycorax (C8)&lt;/li&gt;
 &lt;li&gt;Neptune and its moon Nereid (C3)&lt;/li&gt;
 &lt;li&gt;Pluto (C7)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Comets&lt;/h3&gt;
+&lt;h3 id="comets"&gt;Comets&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;C/2013 A1 Siding Spring (C2)&lt;/li&gt;
 &lt;li&gt;67P/Churyumov–Gerasimenko (C10)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Trans-Neptunian Objects&lt;/h3&gt;
+&lt;h3 id="trans-neptunian-objects"&gt;Trans-Neptunian Objects&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Ixion      (C11)&lt;/li&gt;
 &lt;li&gt;Quaoar     (C9)&lt;/li&gt;
@@ -649,7 +641,7 @@ can be checked using the &lt;a href="https://github.com/KeplerGO/K2ephem"&gt;K2e
 &lt;li&gt;2010 GX34  (C11)&lt;/li&gt;
 &lt;li&gt;2010 JJ124 (C11)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Trojan and Hilda asteroids&lt;/h3&gt;
+&lt;h3 id="trojan-and-hilda-asteroids"&gt;Trojan and Hilda asteroids&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Actor        (C6) &lt;/li&gt;
 &lt;li&gt;Agasthenes   (C6)&lt;/li&gt;
@@ -788,7 +780,7 @@ can be checked using the &lt;a href="https://github.com/KeplerGO/K2ephem"&gt;K2e
 &lt;li&gt;2009 QB22    (C11)&lt;/li&gt;
 &lt;li&gt;2010 XP50    (C6)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;K2 Discoveries&lt;/h2&gt;
+&lt;h2 id="k2-discoveries"&gt;K2 Discoveries&lt;/h2&gt;
 &lt;p&gt;In addition to the targeted observations,
 K2 discovered the following objects:&lt;/p&gt;
 &lt;ul&gt;
@@ -911,7 +903,7 @@ between the spacecraft and the ground, causing smear values to be
 assigned to the wrong columns within a target’s aperture.&lt;/p&gt;
 &lt;p&gt;In these cases, the pipeline’s pixel-level calibration routine
 applies an erroneous smear correction.&lt;/p&gt;
-&lt;h3&gt;Impact&lt;/h3&gt;
+&lt;h3 id="impact"&gt;Impact&lt;/h3&gt;
 &lt;p&gt;The issue has been present since launch and affects both the target pixel
 files and the light curves of approximately
 half of all short-cadence targets in all releases to date,
@@ -931,7 +923,7 @@ or dark, column in the calibrated target pixel image.
 Comparison of the short-cadence pixel image with the long-cadence pixel image
 (which is not affected by this problem)
 can be used to estimate the magnitude of any contaminating signal.&lt;/p&gt;
-&lt;h3&gt;Solution&lt;/h3&gt;
+&lt;h3 id="solution"&gt;Solution&lt;/h3&gt;
 &lt;p&gt;The Kepler pipeline has been amended to ensure that the 
 correct smear data is used at all times. 
 All affected data will be corrected as follows:&lt;/p&gt;
@@ -941,7 +933,7 @@ All affected data will be corrected as follows:&lt;/p&gt;
 &lt;li&gt;Reprocessing of K2 Campaigns 0-5 will occur over the coming months. The expected release dates will be listed here when known.&lt;/li&gt;
 &lt;li&gt;Data from the prime Kepler mission will be corrected as part of the scheduled reprocessing with pipeline release 9.3 (DR25). Corrected target pixel files are expected to be available in Summer 2016.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;More information&lt;/h3&gt;
+&lt;h3 id="more-information"&gt;More information&lt;/h3&gt;
 &lt;p&gt;The project has released an erratum document describing the issue and
 its impact in more detail.
 The document is accompanied by a list of all the affected targets:&lt;/p&gt;
@@ -959,18 +951,14 @@ All users are nevertheless encouraged to update the
 &lt;a href="software.html#k2fov"&gt;K2fov&lt;/a&gt; target selection tool
 to version 4.0, which was released on 27 Jan 2016 to include the change.&lt;/p&gt;
 &lt;p&gt;K2fov can be updated from the command line using pip:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;pip install K2fov --upgrade
-&lt;/pre&gt;&lt;/div&gt;
-
-
+&lt;pre&gt;&lt;code&gt;pip install K2fov --upgrade
+&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;The version number of your K2fov installation may be verified
 using the following command:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;python&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;c&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;import pkg_resources; print(pkg_resources.require(&amp;#39;K2fov&amp;#39;)[0].version)&amp;quot;&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
+&lt;pre&gt;&lt;code&gt;python -c "import pkg_resources; print(pkg_resources.require('K2fov')[0].version)"
+&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;This should return "4.0.0" or higher.&lt;/p&gt;
-&lt;h3&gt;Background&lt;/h3&gt;
+&lt;h3 id="background"&gt;Background&lt;/h3&gt;
 &lt;p&gt;Campaigns 11, 12, and 13 are being rotated slightly to
 accommodate a change in the configuration of the Kepler spacecraft. &lt;/p&gt;
 &lt;p&gt;During these Campaigns, spacecraft telemetry will be downlinked
@@ -1029,7 +1017,7 @@ The catalog details object IDs, spectral types, object classifications, citation
 &lt;p&gt;The K2-SIMBAD catalog does not replace the &lt;a href="https://archive.stsci.edu/k2/epic/search.php"&gt;EPIC Input Catalog&lt;/a&gt;, which remains the principal target selection tool. Instead it provides an overview of objects that have appeared in the literature and may hence trigger or inspire K2 Cycle 4 proposals.&lt;/p&gt;
 &lt;p&gt;Below we list a selection of notable objects that we encountered in the  catalog, along with interesting Solar System bodies
 that will be visible as determined by the &lt;a href="https://github.com/KeplerGO/K2ephem"&gt;K2ephem tool&lt;/a&gt;.  This list is not exhaustive by any means and we encourage members of the community to share missing highlights for inclusion.&lt;/p&gt;
-&lt;h2&gt;Highlights in Campaign 11&lt;/h2&gt;
+&lt;h2 id="highlights-in-campaign-11"&gt;Highlights in Campaign 11&lt;/h2&gt;
 &lt;p&gt;C11 is located near the Galactic Center in the region of Ophiucus.
 Notable objects in the field will include:&lt;/p&gt;
 &lt;ul&gt;
@@ -1044,7 +1032,7 @@ Notable objects in the field will include:&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;Asteroid 311999&lt;/strong&gt;: a Mars Trojan;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Comet 116P/Wild 4&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Highlights in Campaign 12&lt;/h2&gt;
+&lt;h2 id="highlights-in-campaign-12"&gt;Highlights in Campaign 12&lt;/h2&gt;
 &lt;p&gt;C12 is located towards the South Galactic Cap, in the region of Aquarius.
 Notable objects in the field will include:&lt;/p&gt;
 &lt;ul&gt;
@@ -1055,7 +1043,7 @@ Notable objects in the field will include:&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a href="https://en.wikipedia.org/wiki/25143_Itokawa"&gt;Asteroid Itokawa&lt;/a&gt;&lt;/strong&gt;: visited by the Hayabuse spacecraft in 2005;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Comet 53P/Van Biesbroeck&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Highlights in Campaign 13&lt;/h2&gt;
+&lt;h2 id="highlights-in-campaign-13"&gt;Highlights in Campaign 13&lt;/h2&gt;
 &lt;p&gt;&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/HL_Tau_protoplanetary_disk.jpg/225px-HL_Tau_protoplanetary_disk.jpg" class="hidden-xs hidden-sm" style="float:right; padding:1em;"&gt;&lt;/p&gt;
 &lt;p&gt;C13 is located towards the Galactic Anti-Center near Taurus.
 Notable objects in the field will include:&lt;/p&gt;
@@ -1078,7 +1066,7 @@ Notable objects in the field will include:&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;NGC 1817&lt;/strong&gt;: 1 Gyr open cluster, ~2 kpc distance;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;NGC 1647, 1746, 1750, 1802, 1807&lt;/strong&gt;: open clusters, not well-studied.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Other candidate highlights&lt;/h2&gt;
+&lt;h2 id="other-candidate-highlights"&gt;Other candidate highlights&lt;/h2&gt;
 &lt;p&gt;Along with the highlights listed above, the &lt;a href="https://github.com/KeplerGO/K2FootprintFiles/tree/master/simbad"&gt;K2-SIMBAD catalog&lt;/a&gt; details thousands of known
 objects in Campaigns 11-13 including, but not limited to:&lt;/p&gt;
 &lt;ul&gt;

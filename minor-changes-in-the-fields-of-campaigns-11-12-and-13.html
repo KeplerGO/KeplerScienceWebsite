@@ -171,18 +171,14 @@ All users are nevertheless encouraged to update the
 <a href="software.html#k2fov">K2fov</a> target selection tool
 to version 4.0, which was released on 27 Jan 2016 to include the change.</p>
 <p>K2fov can be updated from the command line using pip:</p>
-<div class="highlight"><pre><span></span>pip install K2fov --upgrade
-</pre></div>
-
-
+<pre><code>pip install K2fov --upgrade
+</code></pre>
 <p>The version number of your K2fov installation may be verified
 using the following command:</p>
-<div class="highlight"><pre><span></span><span class="n">python</span> <span class="o">-</span><span class="n">c</span> <span class="s2">&quot;import pkg_resources; print(pkg_resources.require(&#39;K2fov&#39;)[0].version)&quot;</span>
-</pre></div>
-
-
+<pre><code>python -c "import pkg_resources; print(pkg_resources.require('K2fov')[0].version)"
+</code></pre>
 <p>This should return "4.0.0" or higher.</p>
-<h3>Background</h3>
+<h3 id="background">Background</h3>
 <p>Campaigns 11, 12, and 13 are being rotated slightly to
 accommodate a change in the configuration of the Kepler spacecraft. </p>
 <p>During these Campaigns, spacecraft telemetry will be downlinked

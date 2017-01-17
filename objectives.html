@@ -34,13 +34,13 @@ in August 2015, using pelican-bootstrap and flatly.
 <link rel="canonical" href="./pages/mission-objectives.html">
 
         <meta name="author" content="Thomas Barclay" />
-        <meta name="description" content="[TOC] Kepler A search for Earth-like planets around Sun-like stars The Kepler spacecraft launched in March 2009 and spent a little over four years monitoring more than 150,000 stars in the Cygnus-Lyra region with continuous 30-min or 1-min sampling. The primary science objective of the Kepler mission was transit-driven ..." />
+        <meta name="description" content="Kepler A search for Earth-like planets around Sun-like stars The Kepler spacecraft launched in March 2009 and spent a little over four years monitoring more than 150,000 stars in the Cygnus-Lyra region with continuous 30-min or 1-min sampling. The primary science objective of the Kepler mission was transit-driven exoplanet ..." />
 
     <meta property="og:site_name" content="Kepler &amp; K2" />
     <meta property="og:type" content="article"/>
     <meta property="og:title" content="Mission objectives"/>
     <meta property="og:url" content="./pages/mission-objectives.html"/>
-    <meta property="og:description" content="[TOC] Kepler A search for Earth-like planets around Sun-like stars The Kepler spacecraft launched in March 2009 and spent a little over four years monitoring more than 150,000 stars in the Cygnus-Lyra region with continuous 30-min or 1-min sampling. The primary science objective of the Kepler mission was transit-driven ..." />
+    <meta property="og:description" content="Kepler A search for Earth-like planets around Sun-like stars The Kepler spacecraft launched in March 2009 and spent a little over four years monitoring more than 150,000 stars in the Cygnus-Lyra region with continuous 30-min or 1-min sampling. The primary science objective of the Kepler mission was transit-driven exoplanet ..." />
 
 
     <!-- Why use Helvetica Neue when you can have Lato? -->
@@ -132,12 +132,12 @@ in August 2015, using pelican-bootstrap and flatly.
     <div class="row">
         <div class="col-lg-12">
 
-    <div class="col-sm-12">
+    <div class="col-sm-9" data-spy="scroll" data-target="#sidebarCol">
         <section id="content" class="body">
             <h1 class="entry-title">Mission objectives</h1>
             <div class="entry-content">
-                <p>[TOC]</p>
-<h2>Kepler</h2>
+                
+<h2 id="kepler">Kepler</h2>
 <p><strong>A search for Earth-like planets around Sun-like stars</strong></p>
 <p>The Kepler spacecraft launched in March 2009 and spent a little over
 four years monitoring more than 150,000 stars in the Cygnus-Lyra region with continuous 30-min
@@ -156,10 +156,10 @@ planets as well as the fraction of stars harboring Earth-size planets
 in the Habitable Zone, work which is still in progress by the Kepler
 Science Office. The community is also encouraged to exploit the mission's <a href="data-products.html">unique data archive</a>.</p>
 <p><br/></p>
-<p><img class="img-responsive" style="max-width:60%;" src="images/Kepler_ExoDISC.jpg">
-<em>Image Credit: NASA Ames/W. Stenzel</em></p>
+<p><img class="img-responsive" src="images/Kepler_ExoDISC.jpg" style="max-width:60%;">
+<em>Image Credit: NASA Ames/W. Stenzel</em></img></p>
 <p><br/></p>
-<h2>K2</h2>
+<h2 id="k2">K2</h2>
 <p><strong>Extending Kepler's power to the ecliptic</strong></p>
 <p>The loss of a second of the four reaction wheels on board the Kepler 
 spacecraft in May 2013 brought an end to Kepler's four plus year science 
@@ -172,8 +172,7 @@ with the Kepler space telescope. K2 became fully operational in June
 <p>The K2 mission entails a series of sequential observing
 <a href="k2-fields.html">"Campaigns"</a> 
 of fields distributed around the ecliptic plane 
-and offers a photometric precision <a
-href="k2-observing.html#fine-point-photometric-precision">approaching that 
+and offers a photometric precision <a href="k2-observing.html#fine-point-photometric-precision">approaching that 
 of the original Kepler mission</a>. Operating in the ecliptic plane minimizes the torque exerted 
 on the spacecraft by solar wind pressure, 
 reducing pointing drift to the point where spacecraft attitude 
@@ -232,6 +231,16 @@ list of potential targets:</p>
         </section>
     </div>
 
+        <nav class="col-sm-3 visible-sm visible-md visible-lg bs-docs-sidebar" id="sidebarCol">
+            <div class="nav nav-stacked fixed" id="mytoc">
+            <div class="toc">
+<ul>
+<li><a href="#kepler">Kepler</a></li>
+<li><a href="#k2">K2</a></li>
+</ul>
+</div>
+            </div>
+        </nav>
         </div>
     </div>
 </div>
@@ -298,5 +307,24 @@ list of potential targets:</p>
 <script language="javascript" id="_fed_an_ua_tag" src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA&subagency=ARC&dclink=true"></script>
 
 
+        <script>
+          $('#mytoc').affix({
+                offset: {
+                  top: 50
+                }
+          });
+          $('body').scrollspy({
+              target: '#sidebarCol',
+              offset: 100
+          });
+
+          // Fix for issue #32:
+          function refreshScrollspy() {
+                $('[data-spy="scroll"]').each(function() {
+                    $(this).scrollspy('refresh');
+                });
+          }
+          $("img").bind('load', refreshScrollspy);
+        </script>
 </body>
 </html>
