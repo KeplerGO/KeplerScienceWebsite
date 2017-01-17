@@ -14,7 +14,7 @@ Check back here for updates or follow the conversation on Twitter (<a href="http
 <table class="table table-striped table-hover" style="max-width:55em;">
 
   <tr>
-    <td style="width: 9em;">15 Jan 2017</td>
+    <td style="width: 9em;">17 Jan 2017</td>
     <td style="width: 20em;"> registration and abstract submission open </td>
   </tr>
 
@@ -49,7 +49,23 @@ the conference.
 ### Conference Agenda
 
 This conference will showcase results from the Kepler and K2 missions
-that span all topics in astrophysics and planetary science. Confirmed invited speakers will be announced soon.
+that span all topics in astrophysics and planetary science. The
+invited speakers include:
+
+* Angie Wolfgang, Penn State
+* Armin Rest, STScI
+* Calen Henderson, JPL
+* Conny Aerts, KU Leuven
+* Dave Latham, Harvard-Smithsonian CfA
+* Dennis Stello, UNSW Australia
+* Eric Mamajek, JPL
+* Jason Rowe, Université de Montréal
+* Jennifer Johnson, OSU
+* Jennifer van Saders, Carnegie
+* Josh Winn, Princeton (*to be confirmed*)
+* Luisa Rebull, Caltech
+* Ruth Murray Clay, UCSC
+* Susan Thompson, NASA Ames
 
 ### Presenter Information
 
@@ -77,11 +93,33 @@ for transportation from the airport.
 
 ### Lodging Options
 
-The conference center provides a <a href='http://naccenter.arc.nasa.gov/links.php#hotel'>list of local hotels</a>.
+Lodging on-site is available on a first-come, first-served basis. On-site accommodation is available at the <a href='http://naccenter.arc.nasa.gov/links.php#lodge'>NASA Lodge</a>,
+which offers affordable rooms with private bath, microwave, and refrigerator
+in one of two buildings:
+
+* <a href='https://www.google.com/maps/place/Nasa+Exchange+Lodge/@37.4108933,-122.0594741,18z'>Building 19</a>
+  offers queen-sized beds with tv and airconditioning at $65/night;
+* <a href='https://www.google.com/maps/place/NASA+Exchange+Lodge+-+583A,+583A+Dailey+Rd,+Mountain+View,+CA+94043/@37.4085436,-122.0566298,18.25z'>Building 583</a>
+ offers double or twin beds without tv or airconditioning at $55/night.
+
+Bookings need to be made by phone on **+1 650 603 7100**,
+mentioning you are a participant of the "Kepler Science Conference"
+at the conference center.
+You will need to provide a credit card number
+along with your name, cell phone number, and email.
+
+**Be aware that the NASA lodging fills up quickly in the summer due to
+student interns, so we recommend calling as soon as possible to book a
+room at the NASA lodge.**
+
+Alternatively, the conference center provides a <a href='http://naccenter.arc.nasa.gov/links.php#hotel'>list of local hotels</a>.
 Those nearest to Ames are the <a href='http://www.countyinn.com'>County Inn</a>
 and the <a href='http://hamptoninn3.hilton.com'>Hampton Inn &amp; Suites</a>.
 These options are more expensive but are located closer to downtown Mountain View,
-which provides ample restaurant options.  Additional details coming soon.
+which provides ample restaurant options.
+
+Additional details coming
+soon.
 
 ### Remote Attendance
 

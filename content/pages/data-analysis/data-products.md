@@ -306,8 +306,8 @@ conducted through NASA Roses and so do not have an official cycle
 associated with them.
 
 Note that K2 long cadence (30-min) images are available for each Campaign.
-Light curves produced by the Project Office are available starting in
-Campaign 3.  Short cadence (1-min) images are also available for each
+Light curves produced by the Project Office are available for most
+Campaigns, excluding 0, 2, and 9.  Short cadence (1-min) images are also available for each
 Campaign, but no light curves are provided.
 
 The relevant data release and pipeline notes
