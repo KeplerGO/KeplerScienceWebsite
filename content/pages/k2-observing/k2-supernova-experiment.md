@@ -123,7 +123,7 @@ The goal of the first day will be to review the science that can and should be d
 <div class="col-sm-12 col-md-10">
 <table class="table table-striped table-hover">
   <tr>
-    <th><b>09:30–10:00</b></th>
+    <th style="min-width:8em;"><b>09:30–10:00</b></th>
     <td>
         <b>Coffee &amp; snacks</b>
     </td>
@@ -151,7 +151,7 @@ The goal of the first day will be to review the science that can and should be d
     <td>
         <b>Ongoing analyses</b><br/>
         Shock breakout detection in a new Type Ia supernova — <i>Anais Möller</i> (10 min)<br/>
-        Type Ia's SNe in Kepler/K2 — <i>Ashley Villar</i> (10 min)<br/>
+        Type Ia SNe in Kepler/K2 — <i>Ashley Villar</i> (10 min)<br/>
         Core Collapse SNe in Kepler/K2 — <i>Peter Garnavich</i> (10 min)<br/>
         AGN variability studies in the Kepler era — <i>Rick Edelson</i> (10 min)
     </td>
@@ -160,7 +160,7 @@ The goal of the first day will be to review the science that can and should be d
   <tr>
     <th><b>14:00–15:00</b></th>
     <td>
-        <b>Facilities and surveys</b><br/>
+        <b>Facilities and surveys to support K2SN</b><br/>
         Photometry of SNe at Konkoly Observatory — <i>Jozsef Vinko</i> (10 min)<br/>
         ZTF observations of C16 fields — <i>Jakob Nordin</i> (10 min)<br/>
         LCO Supernova Key Project — <i>Andy Howell</i> (10 min)<br/>
@@ -176,7 +176,7 @@ The goal of the first day will be to review the science that can and should be d
   <tr>
     <th><b>15:30–17:00</b></th>
     <td>        
-        <b>Facilities and surveys (continued)</b><br/>
+        <b>Facilities and surveys to support K2SN (continued)</b><br/>
         AST3 and LAMOST — <i>Xiaofeng Wang</i> (10 min)<br/>
         ASAS-SN high-cadence monitoring — <i>Benjamin John Shappee</i> (10 min)<br/>
         PanStarrs — <i>Armin Rest</i> (10 min)<br/>
@@ -204,7 +204,7 @@ The goal of the second day will be to plan the K2 supernova experiment in detail
 <div class="col-sm-12 col-md-10">
 <table class="table table-striped table-hover">
   <tr>
-    <th style="min-width:10em;"><b>09:00–09:30</b></th>
+    <th style="min-width:8em;"><b>09:00–09:30</b></th>
     <td>
         <b>Coffee &amp; snacks</b>
     </td>
@@ -243,7 +243,7 @@ The goal of the second day will be to plan the K2 supernova experiment in detail
 
 <h4>Thursday, Feb 16th</h4>
 
-The goal of the second day will be to capture the outcome of the workshop
+The goal of the third day will be to capture the outcome of the workshop
 by continuing work on the observing proposals, drafting a K2SN white paper,
 or carrying out hands-on analysis of existing K2 data.
 
@@ -251,7 +251,7 @@ or carrying out hands-on analysis of existing K2 data.
 <div class="col-sm-12 col-md-10">
 <table class="table table-striped table-hover">
   <tr>
-    <th><b>09:00–09:30</b></th>
+    <th style="min-width:8em;"><b>09:00–09:30</b></th>
     <td>
         <b>Coffee &amp; snacks</b>
     </td>
