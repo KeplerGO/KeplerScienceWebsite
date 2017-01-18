@@ -9,6 +9,8 @@ the scientific exploitation of the data.
 
 <hr>
 
+
+
 # K2 Campaign 10
 
 <h2>At a glance</h2>
@@ -116,6 +118,8 @@ the second does not.
 </div>
 
 </div>
+
+<br style="clear:both;">
 
 <h2>Features and events</h2>
 
@@ -293,6 +297,9 @@ export these data. There will be a new entry each time the data are processed
 for release by the mission.
 
 * <a href="k2-pipeline-release-notes.html#data-release-15">Data Release 15</a>
+
+<hr>
+
 
 # K2 Campaign 9
 
@@ -613,6 +620,10 @@ for release by the mission.
 
 * <a href="k2-pipeline-release-notes.html#data-release-12">Data Release 12</a>
 
+<hr>
+
+
+
 # K2 Campaign 8
 
 <h2>At a glance</h2>
@@ -794,8 +805,9 @@ The following is the data release history for C8. Follow the link for informatio
 
 * <a href="k2-pipeline-release-notes.html#data-release-11">Data Release 11</a>
 
-
 <hr>
+
+
 
 # K2 Campaign 7
 
@@ -1256,6 +1268,8 @@ The following is the data release history for this campaign. Follow the link for
 Data Release 10 updates the short cadence data only. This release corrects the short cadence collateral bug described in the <a href="http://archive.stsci.edu/kepler/KSCI-19080-002.pdf">Global Erratum for Kepler Q0-Q17 & K2 C0-C5 Short-Cadence Data, KSCI-19080</a>. This release replaces short cadence data previously delivered to the archive in Data Release 7. Specific targets known to have their calibration improved by Data Release 10 are identifed in the <a href="http://archive.stsci.edu/missions/k2/catalogs/K2_scrambled_short_cadence_collateral_target_list.csv">list of affected targets at the MAST</a>. 
 
 <hr>
+
+
 
 # K2 Campaign 4
 
