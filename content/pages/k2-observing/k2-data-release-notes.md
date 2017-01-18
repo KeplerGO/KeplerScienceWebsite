@@ -90,8 +90,11 @@ The C10a offset from the desired pointing (nominal - measured) was
 </ul>
 
 <b><i>Full Frame Images (FFI)</i></b>
-Both C10 FFIs were taken at the C10b pointing. The first includes data from module~4,
+<p>
+Both C10 FFIs were taken at the C10b pointing.
+The first includes data from module~4,
 the second does not.
+</p>
 <ul>
 <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2016199030108-c102_ffi-cal.fits">ktwo2016199030108-c102_ffi-cal.fits</a></li>
 <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2016240074042-c102_ffi-cal.fits">ktwo2016240074042-c102_ffi-cal.fits</a></li>
@@ -326,9 +329,9 @@ and C92, respectively.
 
 <b><i>C9a Targets</i></b>
 <ul>
-<li>  3,481 in long cadence (LC)</li>
-<li>  12 in short cadence (SC)</li>
-<li>  76 unique custom targets were selected in C9. Three million of the total 3.3 million C9 target pixels were used to construct microlensing super apertures on 5 channels around the Galactic bulge. See the <a href="images/release-notes/c9/ktwoc91_caf.csv">csv file that maps</a> the custom aperture number to the target name.</li>
+<li>3,481 in long cadence (LC)</li>
+<li>12 in short cadence (SC)</li>
+<li>76 unique custom targets were selected in C9. Three million of the total 3.3 million C9 target pixels were used to construct microlensing super apertures on 5 channels around the Galactic bulge. See the <a href="images/release-notes/c9/ktwoc91_caf.csv">csv file that maps</a> the custom aperture number to the target name.</li>
 </ul>
 
 <b><i>C9a First cadence</i></b>
@@ -356,9 +359,9 @@ and C92, respectively.
 
 <b><i>C9b Targets</i></b>
 <ul>
-<li>  3,614 in long cadence (LC)</li>
-<li>  13 in short cadence (SC)</li>
-<li>  132 additional long-cadence  microlensing targets and 1 short-cadence target were added to the C9a target list for C9b. See the <a href="images/release-notes/c9/ktwoc92_caf.csv">csv file that maps</a> the custom aperture number to the target name.</li>
+<li>3,614 in long cadence (LC)</li>
+<li>13 in short cadence (SC)</li>
+<li>132 additional long-cadence  microlensing targets and 1 short-cadence target were added to the C9a target list for C9b. See the <a href="images/release-notes/c9/ktwoc92_caf.csv">csv file that maps</a> the custom aperture number to the target name.</li>
 </ul>
 
 <b><i>C9b First cadence</i></b>
@@ -403,6 +406,8 @@ and C92, respectively.
 </div>
 
 </div>
+
+<br style="clear:both;">
 
 <h2>Features and events</h2>
 
