@@ -17,11 +17,12 @@ the scientific exploitation of the data.
 
 <div class="col-lg-5">
 
+<p>
 Campaign 10 was operationally separated into two segments as a result of a 3.5-pixel 
 initial pointing error at the start of the campaign. The offset was corrected
 six days into the campaign. The two segments are identified in the 
 archive products as C101 and C102, respectively.
-<br>
+</p>
 
 <b><i>C10 Pointing</i></b>
 <ul>
@@ -307,13 +308,14 @@ for release by the mission.
 
 <div class="col-lg-5">
 
+<p>
 Campaign 9 was flown in the forward velocity vector direction to observe the
 star-rich region around the Galactic bulge in search of microlensing events. In
 order to maximize data collection capabilities, the campaign was conducted in
 two parts with a mid-campaign data downlink and a ~0.6 pixel offset between the
 two subfields known as C9a and C9b, identified in the archive products as C91
 and C92, respectively.
-<br>
+</p>
 
 <b><i>C9a Pointing</i></b>
 <ul>
@@ -1454,8 +1456,6 @@ These notes are issues specific to how the data was processed and are likely to 
 The PDC quality flags were populated for some of the SC targets even though there are no SC PDC light curves. These flags are: manual exclude (bit 9), SPSD detected (bit 11), and impulsive outlier removed (bit 12). Users may simply ignore these flags.
 
 <hr>
-
-
 
 
 
