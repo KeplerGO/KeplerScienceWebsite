@@ -89,7 +89,7 @@ The K2 Supernova Cosmology Experiment will deliver a statistical sample of such 
     thought to occur when energy traveling from the core reaches the surface
     during the early stages of a supernova.
     See <a href='https://arxiv.org/abs/1603.05657'>Garnavich et al. 2016</a>
-    for more details on this event.
+    for more details on this event.</i>
   </div>
 </div>
 
@@ -106,38 +106,182 @@ The motivations for this workshop include:
 * exploring synergies with other space missions, wavelength regions, and  science areas.
 
 
-### Dates & schedule
-
-The workshop will begin on Tuesday, February 14, at 10am and end on Thursday, February 16, at 5pm.
+### Schedule
 
 This will be an <a href='https://en.wikipedia.org/wiki/Unconference'>unconference-style</a>
 meeting with a limited number of
 introductory talks and a strong focus on participant-led breakout sessions.
-The final day will provide time for drafting observing proposals and papers.
+There will also be time for writing observing proposals,
+drafting a white paper, and hands-on K2 data analysis.
 
+
+<h4>Tuesday, Feb 14th</h4>
+
+The goal of the first day will be to review the science that can and should be done, and identify the resources available.
+
+<div class="row">
+<div class="col-sm-12 col-md-10">
 <table class="table table-striped table-hover">
-<tr>
-<th></th>
-<th>Tue 14 Feb</th>
-<th>Wed 15 Feb</th>
-<th>Thu 16 Feb</th>
-</tr>
-
   <tr>
-    <th>Morning</th>
-    <td>Review talks<br>K2 data showcase</td>
-    <td>Unconference reports<br>Feedback</td>
-    <td>Unconference reports<br>Feedback</td>
+    <th><b>09:30–10:00</b></th>
+    <td>
+        <b>Coffee &amp; snacks</b>
+    </td>
+  </tr>
+  <tr>
+    <th><b>10:00–12:00</b></th>
+    <td>
+        <b>Introductory talks</b><br/>
+        Welcome &amp; K2 Overview — <i>Jessie Dotson, Tom Barclay, Geert Barentsen</i> (15 min)<br/>
+        K2SN Experiment Goals — <i>Brad Tucker</i> (10 min)<br/>
+        K2SN Data Reduction Challenges — <i>Ed Shaya</i> (10 min)<br/>
+        The K2 SN Survey as a Rosetta Stone for Cosmology — <i>Ryan Foley</i> (15 min)<br/>
+        Review of SN Ia progenitors — <i>Daniel Kasen</i> (15 min)<br/>
+        Modeling early-time SN emission with shock-cooling models — <i>Adam Rubin</i> (10 min)<br/>
+    </td>
+  </tr>
+  <tr>
+    <th><b>12:00–13:00</b></th>
+    <td>
+        <b>Lunch</b>
+    </td>
+  </tr>
+  <tr>
+    <th><b>13:00–14:00</b></th>
+    <td>
+        <b>Ongoing analyses</b><br/>
+        Shock breakout detection in a new Type Ia supernova — <i>Anais Möller</i> (10 min)<br/>
+        Type Ia's SNe in Kepler/K2 — <i>Ashley Villar</i> (10 min)<br/>
+        Core Collapse SNe in Kepler/K2 — <i>Peter Garnavich</i> (10 min)<br/>
+        AGN variability studies in the Kepler era — <i>Rick Edelson</i> (10 min)
+    </td>
   </tr>
 
   <tr>
-    <th>Afternoon</th>
-    <td>Unconference:<br>Science goals</td>
-    <td>Unconference:<br>Observation planning</td>
-    <td>Proposal &amp; report writing</td>
+    <th><b>14:00–15:00</b></th>
+    <td>
+        <b>Facilities and surveys</b><br/>
+        Photometry of SNe at Konkoly Observatory — <i>Jozsef Vinko</i> (10 min)<br/>
+        ZTF observations of C16 fields — <i>Jakob Nordin</i> (10 min)<br/>
+        LCO Supernova Key Project — <i>Andy Howell</i> (10 min)<br/>
+        SuperNova Integral Field Spectrograph — <i>Greg Aldering</i> (10 min)<br/>
+    </td>
   </tr>
-
+  <tr>
+    <th><b>15:00–15:30</b></th>
+    <td>
+        <b>Coffee</b>
+    </td>
+  </tr>
+  <tr>
+    <th><b>15:30–17:00</b></th>
+    <td>        
+        <b>Facilities and surveys (continued)</b><br/>
+        AST3 and LAMOST — <i>Xiaofeng Wang</i> (10 min)<br/>
+        ASAS-SN high-cadence monitoring — <i>Benjamin John Shappee</i> (10 min)<br/>
+        PanStarrs — <i>Armin Rest</i> (10 min)<br/>
+        DECam — <i>Alfredo Zenteno</i> (10 min)<br/>
+        Gemini Large Survey proposal — <i>Steven Margheim</i> (10 min)<br/>
+        SkyMapper and 2dF — <i>Brad Tucker</i> (10 min)<br/>
+    </td>
+  </tr>
+  <tr>
+    <th><b>17:00–19:00</b></th>
+    <td>
+        <b>Visit to the NASA Space Bar</b>
+    </td>
+  </tr>
 </table>
+</div>
+</div>
+
+
+<h4>Wednesday, Feb 15th</h4>
+
+The goal of the second day will be to plan the K2 supernova experiment in detail using free-from unconference sessions.
+
+<div class="row">
+<div class="col-sm-12 col-md-10">
+<table class="table table-striped table-hover">
+  <tr>
+    <th style="min-width:10em;"><b>09:00–09:30</b></th>
+    <td>
+        <b>Coffee &amp; snacks</b>
+    </td>
+  </tr>
+  <tr>
+    <th><b>09:30–10:00</b></th>
+    <td>
+        <b>Welcome</b><br/>
+        Summary of the previous day — <i>TBD</i><br/>
+        The Kepler/K2 follow-up coordination website — <i>Jessie Christiansen</i> (10 min)<br/>
+    </td>
+  </tr>
+  <tr>
+    <th><b>10:00–15:00</b></th>
+    <td>
+    <b>Unconference sessions</b><br/>
+    Likely topics:<br/>
+    &rarr; Target galaxy selection;<br/>
+    &rarr; Expected numbers of SNe, redshift distributions;<br/>
+    &rarr; Communication between groups, observation planning, ground-based/parallel efforts, authorship policies;<br/>
+    &rarr; Shock breakouts and underlying physics of explosions, early-time light curve modeling, weirdos;<br/>
+    &rarr; Technical (systematic errors, infrastructure, SNCosmo, etc).
+    </td>
+  </tr>
+<tr>
+    <th><b>15:00–17:00</b></th>
+    <td>
+        <b>Unconference reports</b><br/>
+        <b>Start drafting observing proposals &amp; white papers</b>
+    </td>
+  </tr>
+</table>
+</div>
+</div>
+
+
+<h4>Thursday, Feb 16th</h4>
+
+The goal of the second day will be to capture the outcome of the workshop
+by continuing work on the observing proposals, drafting a K2SN white paper,
+or carrying out hands-on analysis of existing K2 data.
+
+<div class="row">
+<div class="col-sm-12 col-md-10">
+<table class="table table-striped table-hover">
+  <tr>
+    <th><b>09:00–09:30</b></th>
+    <td>
+        <b>Coffee &amp; snacks</b>
+    </td>
+  </tr>
+  <tr>
+    <th><b>09:30–10:00</b></th>
+    <td>
+        <b>Welcome</b><br/>
+        Summary of the previous day — <i>TBD</i><br/>
+        Future supernova opportunities with the TESS Mission — <i>Elisa Quintana</i> (10 min)<br/>
+    </td>
+  </tr>
+  <tr>
+    <th><b>10:00–16:00</b></th>
+    <td> 
+        <b>Unconference sessions</b><br/>
+        &rarr; Drafting observing proposals &amp; white papers;<br/>
+        &rarr; Hands-on analysis of existing K2 data.<br/>
+    </td>
+  </tr>
+  <tr>
+    <th><b>16:00–17:00</b></th>
+    <td> 
+        <b>Unconference reports &amp; adjourn</b>
+    </td>
+  </tr>
+</table>
+</div>
+</div>
+
 
 ### Venue
 
