@@ -9,6 +9,18 @@ For more information about the Kepler pipeline see the Kepler manuals: <a href="
 
 Information about each specific campaign can be found in the links associated with each data release. 
 
+### Data Release 15
+* December 2016
+* SOC 9.3
+* Campaigns: [C10](k2-data-release-notes.html#k2-campaign-10)
+
+This is the first delivery of C10. The release consists of Type-1 target pixel 
+files for the first six days of the campaign (C10a) and Type-2 TPFs and light curve
+files for the remainder of the campaign (C10b). No light curve files were 
+generated for C10a.
+See the [C9 data release notes](k2-data-release-notes.html#k2-campaign-9) 
+for a description of the content of Type-1 versus Type-2 (nominal) TPFs.  No other features of the data processing have changed.  See below for previous updates to the K2 pipeline.
+
 ### Data Release 14
 * December 2016
 * SOC 9.3
@@ -29,7 +41,7 @@ The updated release of C2 is pending.
 * SOC 9.3
 * Campaigns: [C9](k2-data-release-notes.html#k2-campaign-9)
 
-This is the first delivery of C9. The release consists of Type-1 target pixel files and supporting calibration files. No light curve files were generated for C9. See the [C9 data release notes](k2-data-release-notes.html#k2-campaign-9) for a description of the the content of Type-1 versus Type-2 (nominal) TPFs.  No other features of the the data processing have changed.  See below for previous updates to the K2 pipeline.
+This is the first delivery of C9. The release consists of Type-1 target pixel files and supporting calibration files. No light curve files were generated for C9. See the [C9 data release notes](k2-data-release-notes.html#k2-campaign-9) for a description of the the content of Type-1 versus Type-2 (nominal) TPFs.  No other features of the data processing have changed.  See below for previous updates to the K2 pipeline.
 
 ### Data Release 11
 * July 2016
