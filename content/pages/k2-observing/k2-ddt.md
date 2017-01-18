@@ -16,12 +16,15 @@ We expect to observe several hundred targets through the DDT program, which amou
 
 A DDT request should consist of <2 pages of text including all
 figures, tables, and references, no smaller than 13-point font, and
-submitted in .pdf format via email to [keplergo@mail.arc.nasa.gov](keplergo@mail.arc.nasa.gov).  All DDT requests must include:
+submitted in .pdf format via email to [keplergo@mail.arc.nasa.gov](keplergo@mail.arc.nasa.gov).
+All DDT requests must include:
 
 * a strong scientific justification;
 * a description of the long-term legacy value of the program;
 * a justification for why the request was not submitted during the previous Call for Proposals;
 * a separate target table (does not count toward the 2-page limit; the required format as well as a [template for the target table can be found here](/k2-proposing-targets.html#target-table)).
+
+Beause e-mail may occasionally get lost, you should expect to receive a notification of receipt after submitting your proposal.
 
 In all DDT submissions, please specify the institution and email address
 of the principal investigator and include the campaign for which
