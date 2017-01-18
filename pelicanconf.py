@@ -3,6 +3,7 @@
 from __future__ import unicode_literals
 import os
 import datetime
+import pelican
 
 # If `DEVMODE = True`, show a red warning banner at the top
 DEVMODE = False   # pelicanconf-dev.py will override this
@@ -52,12 +53,15 @@ AUTHOR_FEED_RSS = None
 DISPLAY_BREADCRUMBS = False
 
 HIDE_SIDEBAR = True
-MD_EXTENSIONS = (['toc'])
-MARKDOWN = {
-    'extension_configs': {
-        'markdown.extensions.toc': {},
-    },
-}
+
+if pelican.__version__ >= '3.7.0':
+    MARKDOWN = {
+        'extension_configs': {
+            'markdown.extensions.toc': {},
+        },
+    }
+else:
+    MD_EXTENSIONS = (['toc'])
 
 
 # Which static data dirs should be uploaded as part of the website?
