@@ -114,6 +114,7 @@ introductory talks and a strong focus on participant-led breakout sessions.
 There will also be time for writing observing proposals,
 drafting a white paper, and hands-on K2 data analysis.
 
+<p><b class="text-danger">Note: this is a draft schedule. Contact keplergo@mail.arc.nasa.gov if you have any concerns.</b></p>
 
 <h4>Tuesday, Feb 14th</h4>
 
@@ -220,7 +221,7 @@ The goal of the second day will be to plan the K2 supernova experiment in detail
   <tr>
     <th><b>10:00–15:00</b></th>
     <td>
-    <b>Unconference sessions</b><br/>
+    <b>Unconference</b><br/>
     Likely topics:<br/>
     &rarr; Target galaxy selection;<br/>
     &rarr; Expected numbers of SNe, redshift distributions;<br/>
@@ -267,7 +268,7 @@ or carrying out hands-on analysis of existing K2 data.
   <tr>
     <th><b>10:00–16:00</b></th>
     <td> 
-        <b>Unconference sessions</b><br/>
+        <b>Unconference</b><br/>
         &rarr; Drafting observing proposals &amp; white papers;<br/>
         &rarr; Hands-on analysis of existing K2 data.<br/>
     </td>
