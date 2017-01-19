@@ -3,6 +3,12 @@ Save_as: supernova-experiment/index.html
 
 [TOC]
 
+<style>
+ul.schedule > li {
+    margin-top: 0.4em;
+    margin-left: -1em;
+}
+</style>
 
 ## Summary
 
@@ -124,7 +130,7 @@ The goal of the first day will be to review the science that can and should be d
 <div class="col-sm-12 col-md-10">
 <table class="table table-striped table-hover">
   <tr>
-    <th style="min-width:8em;"><b>09:30–10:00</b></th>
+    <th style="min-width:8em;"><b>09:15–10:00</b></th>
     <td>
         <b>Coffee &amp; snacks</b>
     </td>
@@ -132,13 +138,33 @@ The goal of the first day will be to review the science that can and should be d
   <tr>
     <th><b>10:00–12:00</b></th>
     <td>
-        <b>Introductory talks</b><br/>
-        Welcome &amp; K2 Overview — <i>Jessie Dotson, Tom Barclay, Geert Barentsen</i> (15 min)<br/>
-        K2SN Experiment Goals — <i>Brad Tucker</i> (10 min)<br/>
-        K2SN Data Reduction Challenges — <i>Ed Shaya</i> (10 min)<br/>
-        The K2 SN Survey as a Rosetta Stone for Cosmology — <i>Ryan Foley</i> (15 min)<br/>
-        Review of SN Ia progenitors — <i>Daniel Kasen</i> (15 min)<br/>
-        Modeling early-time SN emission with shock-cooling models — <i>Adam Rubin</i> (10 min)<br/>
+        <b>Introductory talks (15 min each)</b><br/>
+        <ul class="schedule">
+            <li>
+                Welcome &amp; K2 Overview<br/>
+                <i>Jessie Dotson, Tom Barclay, Geert Barentsen</i>
+            </li>
+            <li>
+                K2SN Experiment Goals<br/>
+                <i>Brad Tucker</i>
+            </li>
+            <li>
+                K2SN Data Reduction Challenges<br/>
+                <i>Ed Shaya</i>
+            </li>
+            <li>
+                The K2 SN Survey as a Rosetta Stone for Cosmology<br/>
+                <i>Ryan Foley</i>
+            </li>
+            <li>
+                Review of SN Ia progenitors<br/>
+                <i>Daniel Kasen</i>
+            </li>
+            <li>
+                Modeling early-time SN emission with shock-cooling models<br/>
+                <i>Adam Rubin</i>
+            </li>
+        </ul>
     </td>
   </tr>
   <tr>
@@ -150,22 +176,50 @@ The goal of the first day will be to review the science that can and should be d
   <tr>
     <th><b>13:00–14:00</b></th>
     <td>
-        <b>Ongoing analyses</b><br/>
-        Shock breakout detection in a new Type Ia supernova — <i>Anais Möller</i> (10 min)<br/>
-        Type Ia SNe in Kepler/K2 — <i>Ashley Villar</i> (10 min)<br/>
-        Core Collapse SNe in Kepler/K2 — <i>Peter Garnavich</i> (10 min)<br/>
-        AGN variability studies in the Kepler era — <i>Rick Edelson</i> (10 min)
+        <b>Ongoing analyses (10 min each)</b><br/>
+        <ul class="schedule">
+            <li>
+                Shock breakout detection in a new Type Ia supernova<br/>
+                <i>Anais Möller</i>
+            </li>
+            <li>
+                Type Ia SNe in Kepler/K2<br/>
+                <i>Ashley Villar</i>
+            </li>
+            <li>
+                Core Collapse SNe in Kepler/K2<br/>
+                <i>Peter Garnavich</i>
+            </li>
+            <li>
+                AGN variability studies in the Kepler era<br/>
+                <i>Rick Edelson</i>
+            </li>
+        </ul>
     </td>
   </tr>
 
   <tr>
     <th><b>14:00–15:00</b></th>
     <td>
-        <b>Facilities and surveys to support K2SN</b><br/>
-        Photometry of SNe at Konkoly Observatory — <i>Jozsef Vinko</i> (10 min)<br/>
-        ZTF observations of C16 fields — <i>Jakob Nordin</i> (10 min)<br/>
-        LCO Supernova Key Project — <i>Andy Howell</i> (10 min)<br/>
-        SuperNova Integral Field Spectrograph — <i>Greg Aldering</i> (10 min)<br/>
+        <b>Facilities and surveys to support K2SN (10 min each)</b><br/>
+        <ul class="schedule">
+            <li>
+                PanStarrs<br/>
+                <i>Armin Rest</i>
+            </li>
+            <li>
+                ZTF<br/>
+                <i>Jakob Nordin</i> 
+            </li>
+            <li>
+                DECam<br/>
+                <i>Alfredo Zenteno</i>
+            </li>
+            <li>
+                LCO Supernova Key Project<br/>
+                <i>Andy Howell</i>
+            </li>
+        </ul>
     </td>
   </tr>
   <tr>
@@ -176,14 +230,34 @@ The goal of the first day will be to review the science that can and should be d
   </tr>
   <tr>
     <th><b>15:30–17:00</b></th>
-    <td>        
-        <b>Facilities and surveys to support K2SN (continued)</b><br/>
-        AST3 and LAMOST — <i>Xiaofeng Wang</i> (10 min)<br/>
-        ASAS-SN high-cadence monitoring — <i>Benjamin John Shappee</i> (10 min)<br/>
-        PanStarrs — <i>Armin Rest</i> (10 min)<br/>
-        DECam — <i>Alfredo Zenteno</i> (10 min)<br/>
-        Gemini Large Survey proposal — <i>Steven Margheim</i> (10 min)<br/>
-        SkyMapper and 2dF — <i>Brad Tucker</i> (10 min)<br/>
+    <td>
+        <b>Facilities and surveys to support K2SN (10 min each)</b><br/>
+        <ul class="schedule">
+            <li>
+                Photometry of SNe at Konkoly Observatory<br/>
+                <i>Jozsef Vinko</i> 
+            </li>
+            <li>
+                ASAS-SN high-cadence monitoring<br/>
+                <i>Benjamin John Shappee</i>
+            </li>
+            <li>
+                Gemini Large Survey proposal<br/>
+                <i>Steven Margheim</i>
+            </li>
+            <li>
+                AST3 and LAMOST<br/>
+                <i>Xiaofeng Wang</i> 
+            </li>
+            <li>
+                SuperNova Integral Field Spectrograph<br/>
+                <i>Greg Aldering</i>
+            </li>
+            <li>
+                SkyMapper and 2dF<br/>
+                <i>Brad Tucker</i>
+            </li>
+        </ul>
     </td>
   </tr>
   <tr>
@@ -214,20 +288,29 @@ The goal of the second day will be to plan the K2 supernova experiment in detail
     <th><b>09:30–10:00</b></th>
     <td>
         <b>Welcome</b><br/>
-        Summary of the previous day — <i>TBD</i><br/>
-        The Kepler/K2 follow-up coordination website — <i>Jessie Christiansen</i> (10 min)<br/>
+        <ul class="schedule">
+            <li>
+                Summary of the previous day
+            </li>
+            <li>
+                The Kepler/K2 follow-up coordination website (10 min)<br/>
+                <i>Jessie Christiansen</i>
+            </li>
+        </ul>
     </td>
   </tr>
   <tr>
     <th><b>10:00–15:00</b></th>
     <td>
     <b>Unconference</b><br/>
-    Likely topics:<br/>
-    &rarr; Target galaxy selection;<br/>
-    &rarr; Expected numbers of SNe, redshift distributions;<br/>
-    &rarr; Communication between groups, observation planning, ground-based/parallel efforts, authorship policies;<br/>
-    &rarr; Shock breakouts and underlying physics of explosions, early-time light curve modeling, weirdos;<br/>
-    &rarr; Technical (systematic errors, infrastructure, SNCosmo, etc).
+    Example topics:<br/>
+        <ul class="schedule">
+          <li>Target galaxy selection;</li>
+          <li>Expected numbers of SNe, redshift distributions;</li>
+          <li>Communication between groups, observation planning, ground-based/parallel efforts, authorship policies;</li>
+          <li>Shock breakouts and underlying physics of explosions, early-time light curve modeling, weirdos;</li>
+          <li>Technical (systematic errors, infrastructure, SNCosmo, etc).</li>
+        </ul>
     </td>
   </tr>
 <tr>
@@ -261,16 +344,26 @@ or carrying out hands-on analysis of existing K2 data.
     <th><b>09:30–10:00</b></th>
     <td>
         <b>Welcome</b><br/>
-        Summary of the previous day — <i>TBD</i><br/>
-        Future supernova opportunities with the TESS Mission — <i>Elisa Quintana</i> (10 min)<br/>
+        <ul class="schedule">
+            <li>
+                Summary of the previous day
+            </li>
+            <li>
+                Future supernova opportunities with the TESS Mission (10 min)<br/>
+                <i>Elisa Quintana</i>
+            </li>
+        </ul>
     </td>
   </tr>
   <tr>
     <th><b>10:00–16:00</b></th>
     <td> 
         <b>Unconference</b><br/>
-        &rarr; Drafting observing proposals &amp; white papers;<br/>
-        &rarr; Hands-on analysis of existing K2 data.<br/>
+        <ul class="schedule">
+            <li>Drafting observing proposals &amp; white papers;</li>
+            <li>K2 data analysis tutorials (volunteers wanted);</li>
+            <li>Hands-on analysis of existing K2 data.</li>
+        </ul>
     </td>
   </tr>
   <tr>
