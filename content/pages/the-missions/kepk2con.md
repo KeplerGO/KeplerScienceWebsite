@@ -14,7 +14,7 @@ Check back here for updates or follow the conversation on Twitter (<a href="http
 <table class="table table-striped table-hover" style="max-width:55em;">
 
   <tr>
-    <td style="width: 9em;">17 Jan 2017</td>
+    <td style="width: 9em;">23 Jan 2017</td>
     <td style="width: 20em;"> registration and abstract submission open </td>
   </tr>
 
@@ -156,3 +156,6 @@ violation, please contact Mark D. Messersmith at 650-793-5722 or Jessie Dotson a
 * Ellen O'Leary, NASA Exoplanet Science Institute
 * Wendy Stenzel, NASA Ames Research Center
 
+### Contact
+
+Any questions should be sent to [ARC-KeplerSciCon@mail.nasa.gov](mailto:ARC-KeplerSciCon@mail.nasa.gov).
