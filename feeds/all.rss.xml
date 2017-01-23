@@ -3,7 +3,7 @@
 &lt;p&gt;We strongly encourage all users to review the notes to learn more about the
 impact of the pointing offset,
 which affected the first 6 days of the Campaign,
-and the loss Module 4,
+and the loss of Module 4,
 which resulted in a 14-day data gap.&lt;/p&gt;
 &lt;p&gt;In addition, the &lt;a href="/k2-data-release-notes.html#k2-campaign-9"&gt;K2 Campaign 9 Data Release Notes&lt;/a&gt;
 have been updated to document a minor issue with the
@@ -21,7 +21,7 @@ the data were processed in two separate sets:&lt;/p&gt;
 &lt;p&gt;The C10a files are known in the archive under Campaign number 101,
 and the C10b files have Campaign number 102.
 A search for Campaign 10 will return both sets of files. &lt;/p&gt;
-&lt;p&gt;Another complexity is that &lt;a href="/break-in-science-collection-during-k2-campaign-10.html"&gt;module 4 was lost part way through C10b&lt;/a&gt;,
+&lt;p&gt;Another complexity is that &lt;a href="/break-in-science-collection-during-k2-campaign-10.html"&gt;Module 4 was lost part way through C10b&lt;/a&gt;,
 which powered off the photometer and produced a 14-day data gap.&lt;/p&gt;
 &lt;p&gt;We strongly encourage users to read the &lt;a href="/k2-data-release-notes.html#k2-campaign-10"&gt;C10 data release notes&lt;/a&gt; carefully.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Wed, 21 Dec 2016 10:30:00 -0800</pubDate><guid>tag:keplerscience.arc.nasa.gov,2016-12-21:k2-campaign-10-data-available.html</guid></item><item><title>K2 Campaign 10 data processing complete</title><link>https://keplerscience.arc.nasa.gov/k2-campaign-10-data-processing-complete.html</link><description>&lt;p&gt;Pipeline processing for K2 Campaign 10 is now complete
 and the data are in the process of being shipped
