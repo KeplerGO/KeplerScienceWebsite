@@ -350,7 +350,7 @@ which detail deviations from the pipeline used for Kepler.
       <td>2014 Dec 23</td>
       <td><a
       href="k2-data-release-notes.html#k2-campaign-1">DRN</a></td>
-	  	  <td><a href="/k2-pipeline-release-notes.html#data-release-3">PRN</a></td>
+	  	  <td><a href="/k2-pipeline-release-notes.html#data-release-14">PRN</a></td>
       </tr>
 
       <tr>
@@ -459,8 +459,8 @@ which detail deviations from the pipeline used for Kepler.
       <td>2016 Sep 20</td>
       <td>2016 Dec 20</td>
       <td><a
-      href="k2-data-release-notes.html">DRN</a></td>
-     <td><a href="/k2-pipeline-release-notes.html">PRN</a></td>
+      href="k2-data-release-notes.html#k2-campaign-10">DRN</a></td>
+     <td><a href="/k2-pipeline-release-notes.html#data-release-15">PRN</a></td>
      </tr>
 
 </tdata>

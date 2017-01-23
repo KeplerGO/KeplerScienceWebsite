@@ -7,7 +7,7 @@ The [K2 Campaign 10 Data Release Notes](/k2-data-release-notes.html#k2-campaign-
 We strongly encourage all users to review the notes to learn more about the
 impact of the pointing offset,
 which affected the first 6 days of the Campaign,
-and the loss Module 4,
+and the loss of Module 4,
 which resulted in a 14-day data gap.
 
 In addition, the [K2 Campaign 9 Data Release Notes](/k2-data-release-notes.html#k2-campaign-9)

@@ -15,7 +15,7 @@ The C10a files are known in the archive under Campaign number 101,
 and the C10b files have Campaign number 102.
 A search for Campaign 10 will return both sets of files. 
 
-Another complexity is that [module 4 was lost part way through C10b](/break-in-science-collection-during-k2-campaign-10.html),
+Another complexity is that [Module 4 was lost part way through C10b](/break-in-science-collection-during-k2-campaign-10.html),
 which powered off the photometer and produced a 14-day data gap.
 
 We strongly encourage users to read the [C10 data release notes](/k2-data-release-notes.html#k2-campaign-10) carefully.
