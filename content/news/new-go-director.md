@@ -1,5 +1,5 @@
 Title: Dr. Geert Barentsen to take over as Kepler/K2 Guest Observer Office lead on April 1
-Date: 2017-01-26 10:00
+Date: 2017-01-30 10:00
 Author: Tom Barclay
 
 Dr. Geert Barentsen has been appointed to Director of the Kepler/K2 Guest Observer Office at NASA Ames and will take up this new position on April 1. Geert earned a Ph.D in astrophysics from Queens University Belfast and has a background in star formation. Geert has been with the Kepler/K2 GO office since June 2015, serving as a support scientist. During his time with the project Geert took leading role in coordinating the K2 C9 microlensing experiment.
