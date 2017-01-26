@@ -122,7 +122,7 @@ drafting a white paper, and hands-on K2 data analysis.
 
 <p><b class="text-danger">Note: this is a draft schedule. Contact keplergo@mail.arc.nasa.gov if you have any concerns.</b></p>
 
-<h4>Tuesday, Feb 14th</h4>
+<h4 style="font-weight: bold;">Tuesday, Feb 14th</h4>
 
 The goal of the first day will be to review the science that can and should be done, and identify the resources available.
 
@@ -271,9 +271,11 @@ The goal of the first day will be to review the science that can and should be d
 </div>
 
 
-<h4>Wednesday, Feb 15th</h4>
+<h4 style="font-weight: bold;">Wednesday, Feb 15th</h4>
 
+<p>
 The goal of the second day will be to plan the K2 supernova experiment in detail using free-from unconference sessions.
+</p>
 
 <div class="row">
 <div class="col-sm-12 col-md-10">
@@ -294,7 +296,7 @@ The goal of the second day will be to plan the K2 supernova experiment in detail
             </li>
             <li>
                 The Kepler/K2 follow-up coordination website (10 min)<br/>
-                <i>Jessie Christiansen</i>
+                <i>TBD</i>
             </li>
         </ul>
     </td>
@@ -325,11 +327,13 @@ The goal of the second day will be to plan the K2 supernova experiment in detail
 </div>
 
 
-<h4>Thursday, Feb 16th</h4>
+<h4 style="font-weight: bold;">Thursday, Feb 16th</h4>
 
+<p>
 The goal of the third day will be to capture the outcome of the workshop
 by continuing work on the observing proposals, drafting a K2SN white paper,
 or carrying out hands-on analysis of existing K2 data.
+</p>
 
 <div class="row">
 <div class="col-sm-12 col-md-10">
