@@ -6,7 +6,7 @@ Save_as: scicon4/index.html
 <img class="img-responsive" style="max-width:100%;" src="../images/KepSciConf-IV-2017_title-block_slide-web.png">
 *Image Credit: NASA ARC/W. Stenzel*
 
-Welcome to the home page of the Kepler & K2 Science Conference IV! Over the past 8 years, high-precision photometry from the Kepler/K2 Mission has enabled breakthrough discoveries in exoplanet science, asteroseismology, eclipsing binary stars, solar-system objects, and extragalactic science. To celebrate the legacy and latest science results of Kepler/K2 we invite the community to the 4th Kepler & K2 Science Conference, hosted at NASA’s Ames Research Center in Moffett Field, CA. We welcome contributions from any area of science related to the Kepler/K2 mission, as well as related future missions such as TESS. We are looking forward to celebrating the Kepler/K2 science and legacy with the community!
+Welcome to the home page of the Kepler & K2 Science Conference IV! Over the past 8 years, high-precision photometry from the Kepler/K2 mission has enabled breakthrough discoveries in exoplanet science, asteroseismology, eclipsing binary stars, solar-system objects, and extragalactic science. To celebrate the legacy and latest science results of Kepler/K2 we invite the community to the 4th Kepler & K2 Science Conference, hosted at NASA’s Ames Research Center in Moffett Field, CA. We welcome contributions from any area of science related to the Kepler/K2 mission, as well as related future missions such as TESS. We are looking forward to celebrating the Kepler/K2 science and legacy with the community!
 
 **Check back here for updates or follow the conversation on Twitter (<a
 href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon</a>).**
@@ -61,14 +61,13 @@ is open to people at all professional
 levels (graduate students, postdocs, etc.).
 
 **[Click here to submit an abstract for the conference](http://catcopy.ipac.caltech.edu/ksc2017/abstract.php)**. Multiple
-  abstract submissions are allowed. Note that Wednesday afternoon (June 21) is reserved for breakout sessions to enable the community to discuss and work on Kepler/K2 related projects. We envision that these sessions will be more hands-on ("unconference" sessions) compared to traditional talks, ideally with broad interest to the community. Examples for breakout sessions could include panel discussions, hack activities, work meetings of larger collaborations, or tutorials to use data/software products related to Kepler/K2. To submit a proposal for a breakout session please select the appropriate abstract preference during registration.
-
+  abstract submissions are allowed. Note that Wednesday afternoon (June 21) has been reserved for breakout sessions to enable the community to discuss and work on Kepler/K2 related projects. We envision that these sessions will be more hands-on ("unconference" sessions) compared to traditional talks, ideally with broad interest to the community. Examples for breakout sessions could include panel discussions, hack activities, work meetings of larger collaborations, or tutorials to use data/software products related to Kepler/K2. To submit a proposal for a breakout session please select the appropriate abstract preference during registration.
 
 ### Conference Agenda
 
 This conference will showcase results from the Kepler and K2 missions
 that span all topics in astrophysics and planetary science. The
-invited speakers include:
+confirmed invited speakers include:
 
 * Angie Wolfgang, Penn State
 * Armin Rest, STScI
@@ -80,7 +79,6 @@ invited speakers include:
 * Jason Rowe, Université de Montréal
 * Jennifer Johnson, OSU
 * Jennifer van Saders, Carnegie
-* Josh Winn, Princeton (*to be confirmed*)
 * Luisa Rebull, Caltech
 * Ruth Murray Clay, UCSC
 * Susan Thompson, NASA Ames
