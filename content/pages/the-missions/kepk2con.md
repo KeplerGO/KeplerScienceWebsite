@@ -153,7 +153,7 @@ violation, please contact Mark D. Messersmith at 650-793-5722 or Jessie Dotson a
 *** Scientific Organizing Committee *** </br>
 
 * Eric Agol, University of Washington (co-Chair)
-* Dan Huber, University of Sydney (co-Chair)
+* Daniel Huber, University of Hawaii (co-Chair)
 * Natalie Batalha, NASA Ames Research Center (Kepler Project Scientist)
 * Jessie Dotson, NASA Ames Research Center (K2 Project Scientist)
 * Thomas Barclay, NASA Ames Research Center (Kepler/K2 Guest Observer Office Director)
