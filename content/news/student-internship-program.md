@@ -13,7 +13,7 @@ Example projects we can offer include:
 * Designing an interactive web application to compute Kepler’s planet occurrence rates, or to visualize K2’s planet discoveries.
 * Searching the Kepler/K2 data for unknown asteroids and comets.
 * Assisting the quality control of new data releases by improving the [k2-quality-control software](https://github.com/KeplerGO/k2-quality-control).
-* Mining the Kepler/K2 literature and producing enhanced publication statics using the [kpub software](https://github.com/KeplerGO/kpub).
+* Mining the Kepler/K2 literature and producing enhanced publication statistics using the [kpub software](https://github.com/KeplerGO/kpub).
 * Writing Kepler/K2 data analysis tutorials.
 * etc...
 

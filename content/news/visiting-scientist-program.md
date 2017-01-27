@@ -8,7 +8,7 @@ The Program enables users of Kepler or K2 data
 to visit the mission headquarters at NASA Ames in California,
 for a period of multiple weeks or months,
 to work on a research project that would benefit from close interaction
-with [Kepler/K2 team members and instrument experts](https://www.nasa.gov/mission_pages/kepler/team/teamroster).
+with Kepler/K2 team members and instrument experts.
 Visitors will also be expected to give a seminar at Ames.
 
 Interested participants should submit a <2-page proposal
