@@ -296,7 +296,7 @@ The goal of the second day will be to plan the K2 supernova experiment in detail
             </li>
             <li>
                 The Kepler/K2 follow-up coordination website (10 min)<br/>
-                <i>TBD</i>
+                <i>Knicole Colón</i>
             </li>
         </ul>
     </td>
