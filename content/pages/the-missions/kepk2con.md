@@ -16,7 +16,7 @@ href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon</a>).**
 <table class="table table-striped table-hover" style="max-width:55em;">
 
   <tr>
-    <td style="width: 9em;">23 Jan 2017</td>
+    <td style="width: 9em;">26 Jan 2017</td>
     <td style="width: 20em;"> registration and abstract submission open </td>
   </tr>
 
