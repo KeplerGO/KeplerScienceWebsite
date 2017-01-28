@@ -11,6 +11,10 @@ to work on a research project that would benefit from close interaction
 with Kepler/K2 team members and instrument experts.
 Visitors will also be expected to give a seminar at Ames.
 
+Funds will normally be available
+to support the travel and lodging expenses
+of successful applicants, to be agreed upon acceptance.
+
 Interested participants should submit a <2-page proposal
 that includes an outline of the research project, relevant experience,
 and the desired duration and period of the visit.
@@ -24,6 +28,3 @@ with respect to several factors, including:
 * scientific merit of the proposed project;
 * benefit of having access to Kepler/K2 experts to carry out the project;
 * contribution of the project to Kepler/K2’s long-term legacy.
-
-Funds will normally be available to support the travel and lodging expenses
-of successful applicants, to be agreed upon acceptance.
