@@ -47,6 +47,30 @@ North, Thomas S. H., Chaplin, William J., Gilliland, Ronald L., et al.
 Atri, Dimitra    
 2017, refereed ([2017MNRAS.465L..34A](http://adsabs.harvard.edu/abs/2017MNRAS.465L..34A))  
 
+4. [KEPLER TRANSIT DEPTHS CONTAMINATED BY A PHANTOM STAR](http://adsabs.harvard.edu/abs/2017AJ....153...59D)  
+Dalba, Paul A., Muirhead, Philip S., Croll, Bryce, et al.    
+2017, refereed ([2017AJ....153...59D](http://adsabs.harvard.edu/abs/2017AJ....153...59D))  
+
+5. [ROBO-AO KEPLER PLANETARY CANDIDATE SURVEY. III. ADAPTIVE OPTICS IMAGING OF 1629 KEPLER EXOPLANET CANDIDATE HOST STARS](http://adsabs.harvard.edu/abs/2017AJ....153...66Z)  
+Ziegler, Carl, Law, Nicholas M., Morton, Tim, et al.    
+2017, refereed ([2017AJ....153...66Z](http://adsabs.harvard.edu/abs/2017AJ....153...66Z))  
+
+6. [THE KEPLER FOLLOW-UP OBSERVATION PROGRAM. I. A CATALOG OF COMPANIONS TO KEPLER STARS FROM HIGH-RESOLUTION IMAGING](http://adsabs.harvard.edu/abs/2017AJ....153...71F)  
+Furlan, E., Ciardi, D. R., Everett, M. E., et al.    
+2017, refereed ([2017AJ....153...71F](http://adsabs.harvard.edu/abs/2017AJ....153...71F))  
+
+7. [ULTRA-SHORT-PERIOD PLANETS IN K2 WITH COMPANIONS: A DOUBLE TRANSITING SYSTEM FOR EPIC 220674823](http://adsabs.harvard.edu/abs/2017AJ....153...82A)  
+Adams, Elisabeth R., Jackson, Brian, Endl, Michael, et al.    
+2017, refereed ([2017AJ....153...82A](http://adsabs.harvard.edu/abs/2017AJ....153...82A))  
+
+8. [ZODIACAL EXOPLANETS IN TIME (ZEIT). IV. SEVEN TRANSITING PLANETS IN THE PRAESEPE CLUSTER](http://adsabs.harvard.edu/abs/2017AJ....153...64M)  
+Mann, Andrew W., Gaidos, Eric, Vanderburg, Andrew, et al.    
+2017, refereed ([2017AJ....153...64M](http://adsabs.harvard.edu/abs/2017AJ....153...64M))  
+
+9. [UKIRT MICROLENSING SURVEYS AS A PATHFINDER FOR WFIRST: THE DETECTION OF FIVE HIGHLY EXTINGUISHED LOW-∣B∣ EVENTS](http://adsabs.harvard.edu/abs/2017AJ....153...61S)  
+Shvartzvald, Y., Bryden, G., Gould, A., et al.    
+2017, refereed ([2017AJ....153...61S](http://adsabs.harvard.edu/abs/2017AJ....153...61S))  
+
 
 2017-01
 -------
@@ -146,6 +170,34 @@ Hu, Yongyun, Wang, Yuwei, Liu, Yonggang, et al.
 24. [A MULTI-PLANET SYSTEM TRANSITING THE $V$ = 9 RAPIDLY ROTATING F-STAR HD 106315](http://adsabs.harvard.edu/abs/2017arXiv170103807R)  
 Rodriguez, Joseph E., Zhou, George, Vanderburg, Andrew, et al.    
 2017, pre-print ([2017arXiv170103807R](http://adsabs.harvard.edu/abs/2017arXiv170103807R))  
+
+25. [ASSESSING THE EFFECT OF STELLAR COMPANIONS FROM HIGH-RESOLUTION IMAGING OF KEPLER OBJECTS OF INTEREST](http://adsabs.harvard.edu/abs/2017arXiv170106577H)  
+Hirsch, Lea A., Ciardi, David R., Howard, Andrew W., et al.    
+2017, pre-print ([2017arXiv170106577H](http://adsabs.harvard.edu/abs/2017arXiv170106577H))  
+
+26. [PERTURBATION OF COMPACT PLANETARY SYSTEMS BY DISTANT GIANT PLANETS](http://adsabs.harvard.edu/abs/2017MNRAS.tmp..186H)  
+Hansen, Bradley M. S.    
+2017, refereed ([2017MNRAS.tmp..186H](http://adsabs.harvard.edu/abs/2017MNRAS.tmp..186H))  
+
+27. [TWO SMALL TRANSITING PLANETS AND A THIRD BODY ORBITING HD 106315](http://adsabs.harvard.edu/abs/2017arXiv170103811C)  
+Crossfield, Ian J. M., Ciardi, David R., Isaacson, Howard, et al.    
+2017, pre-print ([2017arXiv170103811C](http://adsabs.harvard.edu/abs/2017arXiv170103811C))  
+
+28. [ON THE DETECTION OF EXTRASOLAR MOONS AND RINGS](http://adsabs.harvard.edu/abs/2017arXiv170104706H)  
+Heller, René    
+2017, pre-print ([2017arXiv170104706H](http://adsabs.harvard.edu/abs/2017arXiv170104706H))  
+
+29. [FORMATION OF MASSIVE ROCKY EXOMOONS BY GIANT IMPACT](http://adsabs.harvard.edu/abs/2017MNRAS.tmp...87B)  
+Barr, Amy C., Syal, Megan Bruck    
+2017, refereed ([2017MNRAS.tmp...87B](http://adsabs.harvard.edu/abs/2017MNRAS.tmp...87B))  
+
+30. [DAWES REVIEW 7: THE TIDAL DOWNSIZING HYPOTHESIS OF PLANET FORMATION](http://adsabs.harvard.edu/abs/2017PASA...34....2N)  
+Nayakshin, Sergei    
+2017, refereed ([2017PASA...34....2N](http://adsabs.harvard.edu/abs/2017PASA...34....2N))  
+
+31. [TERRESTRIAL PLANETS FORMATION UNDER MIGRATION: THE SYSTEMS NEAR 4:2:1 MEAN MOTION RESONANCE](http://adsabs.harvard.edu/abs/2017arXiv170102994S)  
+Sun, Zhao, Ji, Jianghui, Wang, Su, et al.    
+2017, pre-print ([2017arXiv170102994S](http://adsabs.harvard.edu/abs/2017arXiv170102994S))  
 
 
 2016-12
@@ -290,6 +342,14 @@ Metzger, Brian D., Shen, Ken J., Stone, Nicholas C.
 35. [BEER ANALYSIS OF KEPLER AND COROT LIGHT CURVES: DISCOVERING BINARIES AND EXOPLANETS](http://adsabs.harvard.edu/abs/2016arXiv161208846F)  
 Faigler, Simchon    
 2016, pre-print ([2016arXiv161208846F](http://adsabs.harvard.edu/abs/2016arXiv161208846F))  
+
+36. [OBLIQUITIES OF EXOPLANET HOST STARS FROM PRECISE DISTANCES AND STELLAR ANGULAR DIAMETERS](http://adsabs.harvard.edu/abs/2016ApJ...833..173Q)  
+Quinn, Samuel N., White, Russel J.    
+2016, refereed ([2016ApJ...833..173Q](http://adsabs.harvard.edu/abs/2016ApJ...833..173Q))  
+
+37. [HOW ECLIPSE TIME VARIATIONS, ECLIPSE DURATION VARIATIONS, AND RADIAL VELOCITIES CAN REVEAL S-TYPE PLANETS IN CLOSE ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1555O)  
+Oshagh, M., Heller, R., Dreizler, S.    
+2016, refereed ([2016MNRAS.tmp.1555O](http://adsabs.harvard.edu/abs/2016MNRAS.tmp.1555O))  
 
 
 2016-11
