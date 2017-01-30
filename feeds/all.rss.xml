@@ -1,11 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><atom:link href="https://keplerscience.arc.nasa.gov/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 26 Jan 2017 13:10:00 -0800</lastBuildDate><item><title>Visiting Scientist opportunities available</title><link>https://keplerscience.arc.nasa.gov/visiting-scientist-opportunities-available.html</link><description>&lt;p&gt;The Kepler &amp;amp; K2 missions are launching a &lt;em&gt;Visiting Scientist Program&lt;/em&gt;.&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><atom:link href="https://keplerscience.arc.nasa.gov/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 30 Jan 2017 09:30:00 -0800</lastBuildDate><item><title>First Announcement: Kepler &amp; K2 SciCon IV, June 19-23, 2017</title><link>https://keplerscience.arc.nasa.gov/first-announcement-kepler-k2-scicon-iv-june-19-23-2017.html</link><description>&lt;p&gt;&lt;strong&gt;FIRST ANNOUNCEMENT: "Kepler &amp;amp; K2 Science Conference IV: Legacy &amp;amp;
+Scion"&lt;/strong&gt; &lt;/br&gt;
+June 19-23, 2017 &lt;/br&gt;
+NASA Ames Research Center, Moffett Field, CA &lt;/br&gt;
+&lt;a href="https://keplerscience.arc.nasa.gov/scicon4/"&gt;https://keplerscience.arc.nasa.gov/scicon4/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Over the past 8 years, high-precision photometry from the Kepler/K2 mission has enabled breakthrough discoveries in exoplanet science, asteroseismology, eclipsing binary stars, solar-system objects, and extragalactic science. To celebrate the legacy and latest science results of Kepler/K2 we invite the community to the 4th Kepler &amp;amp; K2 Science Conference, hosted at NASA’s Ames Research Center in Moffett Field, CA. We welcome contributions from any area of science related to the Kepler/K2 mission, as well as related future missions such as TESS. We are looking forward to celebrating the Kepler/K2 science and legacy with the community!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Confirmed Invited Speakers include:&lt;/strong&gt; &lt;/br&gt;
+Angie Wolfgang, Penn State &lt;/br&gt;
+Armin Rest, STScI &lt;/br&gt;
+Calen Henderson, JPL &lt;/br&gt;
+Conny Aerts, KU Leuven &lt;/br&gt;
+Dave Latham, Harvard-Smithsonian CfA &lt;/br&gt;
+Dennis Stello, UNSW Australia &lt;/br&gt;
+Eric Mamajek, JPL &lt;/br&gt;
+Jason Rowe, Université de Montréal &lt;/br&gt;
+Jennifer Johnson, OSU &lt;/br&gt;
+Jennifer van Saders, Carnegie &lt;/br&gt;
+Luisa Rebull, Caltech &lt;/br&gt;
+Ruth Murray Clay, UCSC &lt;/br&gt;
+Susan Thompson, NASA Ames&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Important Dates:&lt;/strong&gt; &lt;/br&gt;
+26 Jan 2017     Registration and abstract submission open &lt;/br&gt;
+31 Mar 2017     Abstract submission deadline &lt;/br&gt;
+20 Apr 2017     Registration deadline for Foreign Nationals &lt;/br&gt;
+15 May 2017    Registration deadline for U.S. Citizens and Permanent Residents&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Conference Venue, Registration and Logistics:&lt;/strong&gt;&lt;/br&gt;
+For more information, including registration details, please visit the conference website:&lt;/br&gt;
+&lt;a href="https://keplerscience.arc.nasa.gov/scicon4/"&gt;https://keplerscience.arc.nasa.gov/scicon4/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Note that Wednesday afternoon (June 21) has been reserved for breakout sessions to enable the community to discuss and work on Kepler/K2 related projects. We envision that these sessions will be more hands-on ("unconference" sessions) compared to traditional talks, ideally with broad interest to the community. Examples for breakout sessions could include panel discussions, hack activities, work meetings of larger collaborations, or tutorials to use data/software products related to Kepler/K2. To submit a proposal for a breakout session please select the appropriate abstract preference during registration.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Scientific Organizing Committee:&lt;/strong&gt;&lt;/br&gt;
+Eric Agol, University of Washington (co-Chair) &lt;/br&gt;
+Daniel Huber, University of Hawaii (co-Chair) &lt;/br&gt;
+Natalie Batalha, NASA Ames Research Center (Kepler Project Scientist) &lt;/br&gt;
+Jessie Dotson, NASA Ames Research Center (K2 Project Scientist) &lt;/br&gt;
+Thomas Barclay, NASA Ames Research Center (Kepler/K2 Guest Observer Office Director) &lt;/br&gt;
+Jessie Christiansen, NASA Exoplanet Science Institute &lt;/br&gt;
+JJ Hermes, University of North Carolina, Chapel Hill &lt;/br&gt;
+Marc Pinsonneault, The Ohio State University &lt;/br&gt;
+Erin Ryan, SETI Institute &lt;/br&gt;
+Karl Stapelfeldt, NASA Jet Propulsion Laboratory &lt;/br&gt;
+Rachel Street, Las Cumbres Observatory Global Telescope Network &lt;/br&gt;
+Brad Tucker, Australian National University&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Local Organizing Committee:&lt;/strong&gt;&lt;/br&gt;
+Mark Messersmith, NASA Ames Research Center (Chair) &lt;/br&gt;
+Knicole Colón, NASA Ames Research Center &lt;/br&gt;
+Ellen O'Leary, NASA Exoplanet Science Institute &lt;/br&gt;
+Wendy Stenzel, NASA Ames Research Center&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Knicole Colon</dc:creator><pubDate>Mon, 30 Jan 2017 09:30:00 -0800</pubDate><guid>tag:keplerscience.arc.nasa.gov,2017-01-30:first-announcement-kepler-k2-scicon-iv-june-19-23-2017.html</guid></item><item><title>Dr. Geert Barentsen to take over as Kepler/K2 Guest Observer Office lead on April 1</title><link>https://keplerscience.arc.nasa.gov/dr-geert-barentsen-to-take-over-as-keplerk2-guest-observer-office-lead-on-april-1.html</link><description>&lt;p&gt;Dr. Geert Barentsen has been appointed to Director of the Kepler/K2 Guest Observer Office at NASA Ames and will take up this new position on April 1. Geert earned a Ph.D in astrophysics from Queens University Belfast and has a background in star formation. Geert has been with the Kepler/K2 GO office since June 2015, serving as a support scientist. During his time with the project Geert took leading role in coordinating the K2 C9 microlensing experiment.&lt;/p&gt;
+&lt;p&gt;After spending 6 years within the Kepler and K2 mission, current Director Dr. Tom Barclay will be moving to NASA Goddard Space Flight Center in Maryland. Tom will take the position of Guest Investigator Deputy Director for the upcoming Transiting Exoplanet Survey Satellite (TESS), which is due for launch in March 2018.&lt;/p&gt;
+&lt;p&gt;We are working to ensure that the transition is as seamless as possible, and are expecting to hire new staff in the near future.
+Geert and the rest of the Kepler/K2 team look forward continuing to support the scientific community in the coming years.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom Barclay</dc:creator><pubDate>Mon, 30 Jan 2017 08:00:00 -0800</pubDate><guid>tag:keplerscience.arc.nasa.gov,2017-01-30:dr-geert-barentsen-to-take-over-as-keplerk2-guest-observer-office-lead-on-april-1.html</guid></item><item><title>Visiting Scientist opportunities available</title><link>https://keplerscience.arc.nasa.gov/visiting-scientist-opportunities-available.html</link><description>&lt;p&gt;The Kepler &amp;amp; K2 missions are launching a &lt;em&gt;Visiting Scientist Program&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;The Program enables users of Kepler or K2 data
 to visit the mission headquarters at NASA Ames in California,
 for a period of multiple weeks or months,
 to work on a research project that would benefit from close interaction
-with &lt;a href="https://www.nasa.gov/mission_pages/kepler/team/teamroster"&gt;Kepler/K2 team members and instrument experts&lt;/a&gt;.
+with Kepler/K2 team members and instrument experts.
 Visitors will also be expected to give a seminar at Ames.&lt;/p&gt;
+&lt;p&gt;Funds will normally be available
+to support the travel and lodging expenses
+of successful applicants, to be agreed upon acceptance.&lt;/p&gt;
 &lt;p&gt;Interested participants should submit a &amp;lt;2-page proposal
 that includes an outline of the research project, relevant experience,
 and the desired duration and period of the visit.
@@ -18,18 +70,18 @@ with respect to several factors, including:&lt;/p&gt;
 &lt;li&gt;scientific merit of the proposed project;&lt;/li&gt;
 &lt;li&gt;benefit of having access to Kepler/K2 experts to carry out the project;&lt;/li&gt;
 &lt;li&gt;contribution of the project to Kepler/K2’s long-term legacy.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Funds will normally be available to support the travel and lodging expenses
-of successful applicants, to be agreed upon acceptance.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Thu, 26 Jan 2017 13:10:00 -0800</pubDate><guid>tag:keplerscience.arc.nasa.gov,2017-01-26:visiting-scientist-opportunities-available.html</guid></item><item><title>Student internship opportunities available</title><link>https://keplerscience.arc.nasa.gov/student-internship-opportunities-available.html</link><description>&lt;p&gt;The Kepler &amp;amp; K2 missions are launching a &lt;em&gt;Student Internship&lt;/em&gt; program.&lt;/p&gt;
-&lt;p&gt;The Program enables graduate and undergraduate students
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Thu, 26 Jan 2017 13:10:00 -0800</pubDate><guid>tag:keplerscience.arc.nasa.gov,2017-01-26:visiting-scientist-opportunities-available.html</guid></item><item><title>Student Internship opportunities available</title><link>https://keplerscience.arc.nasa.gov/student-internship-opportunities-available.html</link><description>&lt;p&gt;The Kepler &amp;amp; K2 missions are offering internship opportunities
+to graduate and undergraduate students wishing to 
 to gain experience in the scientific exploitation and operations
 of a major NASA mission.&lt;/p&gt;
+&lt;p&gt;The internships are based at Kepler/K2's mission headquarters
+at the NASA Ames Research Center in Mountain View, California.&lt;/p&gt;
 &lt;p&gt;Example projects we can offer include:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Designing an interactive web application to compute Kepler’s planet occurrence rates, or to visualize K2’s planet discoveries.&lt;/li&gt;
 &lt;li&gt;Searching the Kepler/K2 data for unknown asteroids and comets.&lt;/li&gt;
 &lt;li&gt;Assisting the quality control of new data releases by improving the &lt;a href="https://github.com/KeplerGO/k2-quality-control"&gt;k2-quality-control software&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Mining the Kepler/K2 literature and producing enhanced publication statics using the &lt;a href="https://github.com/KeplerGO/kpub"&gt;kpub software&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Mining the Kepler/K2 literature and producing enhanced publication statistics using the &lt;a href="https://github.com/KeplerGO/kpub"&gt;kpub software&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Writing Kepler/K2 data analysis tutorials.&lt;/li&gt;
 &lt;li&gt;etc...&lt;/li&gt;
 &lt;/ul&gt;
