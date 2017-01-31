@@ -23,5 +23,5 @@ The position is expected to last around 2 years, depending on Kepler’s fuel us
 
 Qualifications: PhD in science or equivalent experience; broad understanding of astronomical and/or exoplanet science; open source software development skills; excellent communication skills.  Additional desirable experience includes familiarity with the Python/AstroPy ecosystem, the GitHub platform, and web development skills.  Experience in a science support role and/or direct experience with Kepler data is beneficial, but not essential.
 
-These jobs will entail significant travel in support of the Kepler/K2 community.  The positions are funded through a cooperative agreement between NASA and the Bay Area Environmental Research Institute ([www.baeri.org](www.baeri.org)).
+These jobs will entail significant travel in support of the Kepler/K2 community.  The positions are funded through a cooperative agreement between NASA and the Bay Area Environmental Research Institute ([www.baeri.org](http://www.baeri.org)).
 To apply send a CV, a list of three references, and a summary of science interests and relevant technical skills (maximum of 3 pages in length) to [resumes@baeri.org](mailto:resumes@baeri.org).  **Applications will be reviewed starting February 20, 2017, and will continue to be considered thereafter until March 31, 2017.**
