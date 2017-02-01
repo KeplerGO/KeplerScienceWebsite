@@ -1,6 +1,7 @@
 Title: We are hiring! Job opportunities available at the Kepler/K2 Science Center
 Date: 2017-01-31 10:00
 Author: Geert Barentsen
+Summary: The Kepler/K2 Science Center is seeking to fill multiple staff positions within the Kepler and K2 Guest Observer (GO) Office at NASA’s Ames Research Center.
 
 The Kepler/K2 Science Center is seeking to fill multiple staff positions within the Kepler and K2 Guest Observer (GO) Office at NASA’s Ames Research Center.
 The job ad is shown below.
