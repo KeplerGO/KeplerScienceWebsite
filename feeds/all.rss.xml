@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><atom:link href="https://keplerscience.arc.nasa.gov/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 30 Jan 2017 09:30:00 -0800</lastBuildDate><item><title>First Announcement: Kepler &amp; K2 SciCon IV, June 19-23, 2017</title><link>https://keplerscience.arc.nasa.gov/first-announcement-kepler-k2-scicon-iv-june-19-23-2017.html</link><description>&lt;p&gt;&lt;strong&gt;FIRST ANNOUNCEMENT: "Kepler &amp;amp; K2 Science Conference IV: Legacy &amp;amp;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><atom:link href="https://keplerscience.arc.nasa.gov/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 01 Feb 2017 15:30:00 -0800</lastBuildDate><item><title>K2 Campaigns 14, 15 and 16 Director's Discretionary Targets program</title><link>https://keplerscience.arc.nasa.gov/k2-campaigns-14-15-and-16-directors-discretionary-targets-program.html</link><description>&lt;p&gt;A small percentage of the available K2 pixels in each campaign may be
+allocated by the K2 Guest Observer (GO) Office Director as Director's
+Discretionary Targets (DDTs). The primary utilization of DDT programs
+is in support of community-proposed requests that are based on
+exceptional, time-critical observing opportunities that cannot be
+accommodated with the regular cycle of Calls for Proposals for K2.&lt;/p&gt;
+&lt;p&gt;We are currently accepting DDT proposals for Campaigns 14, 15
+and 16. The proposals are due by 23:59 PT (Pacific Time) on the
+following dates: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;February 23, 2017 for Campaign 14&lt;/li&gt;
+&lt;li&gt;May 25, 2017 for Campaign 15&lt;/li&gt;
+&lt;li&gt;September 7, 2017 for Campaign 16&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For further information on the DDT program for K2 and the requirements
+for proposal submission,
+&lt;a href="k2-ddt.html"&gt;check out the DDT website&lt;/a&gt;. Proposals should be
+submitted via email to &lt;a href="mailto:keplergo@mail.arc.nasa.gov"&gt;keplergo@mail.arc.nasa.gov&lt;/a&gt;.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Knicole Colon</dc:creator><pubDate>Wed, 01 Feb 2017 15:30:00 -0800</pubDate><guid>tag:keplerscience.arc.nasa.gov,2017-02-01:k2-campaigns-14-15-and-16-directors-discretionary-targets-program.html</guid></item><item><title>We are hiring! Job opportunities available at the Kepler/K2 Science Center</title><link>https://keplerscience.arc.nasa.gov/we-are-hiring-job-opportunities-available-at-the-keplerk2-science-center.html</link><description>&lt;p&gt;The Kepler/K2 Science Center is seeking to fill multiple staff positions within the Kepler and K2 Guest Observer (GO) Office at NASA’s Ames Research Center.&lt;/p&gt;
+&lt;h2 id="job-ad"&gt;Job ad&lt;/h2&gt;
+&lt;p&gt;&lt;i&gt;Support Scientists, Kepler/K2 Science Center&lt;/i&gt;&lt;br&gt;
+&lt;i&gt;NASA Ames Research Center&lt;/i&gt;&lt;br&gt;
+&lt;i&gt;Moffett Field, California 94035&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;NASA’s Kepler and K2 missions deliver high-precision space-borne photometry which impact all areas of astrophysics in unique and important ways, including exoplanet science, stellar astrophysics, extragalactic physics, and solar system science.&lt;/p&gt;
+&lt;p&gt;The Kepler/K2 Science Center is seeking to fill multiple staff positions within the Kepler and K2 Guest Observer (GO) Office at NASA’s Ames Research Center.  Responsibilities of the GO Office are to provide an interface between mission operations and the diverse academic community, to help execute and vet new K2 observations, to provide technical support for the scientific exploitation of the data by developing open source software tools, and to support outreach activities.  Details of the GO Office’s activities can be found at keplerscience.arc.nasa.gov.&lt;/p&gt;
+&lt;p&gt;Support Scientists will be encouraged to develop an independent astronomical research program.  Ideally, this research would involve active collaboration with Kepler/K2 community scientists and staff.   The development of synergies between Kepler/K2 science and NASA’s upcoming TESS and JWST missions is particularly encouraged.&lt;/p&gt;
+&lt;p&gt;The position is expected to last around 2 years, depending on Kepler’s fuel usage, and may continue thereafter depending on the mission’s close-out funding.  The position comes with a competitive salary for the Silicon Valley area ($95-$115k commensurate with experience) plus health, vision, and dental insurance, and retirement contributions.&lt;/p&gt;
+&lt;p&gt;Qualifications: PhD in science or equivalent experience; broad understanding of astronomical and/or exoplanet science; open source software development skills; excellent communication skills.  Additional desirable experience includes familiarity with the Python/AstroPy ecosystem, the GitHub platform, and web development skills.  Experience in a science support role and/or direct experience with Kepler data is beneficial, but not essential.&lt;/p&gt;
+&lt;p&gt;These jobs will entail significant travel in support of the Kepler/K2 community.  The positions are funded through a cooperative agreement between NASA and the Bay Area Environmental Research Institute (&lt;a href="http://www.baeri.org"&gt;www.baeri.org&lt;/a&gt;).
+To apply send a CV, a list of three references, and a summary of science interests and relevant technical skills (maximum of 3 pages in length) to &lt;a href="mailto:resumes@baeri.org"&gt;resumes@baeri.org&lt;/a&gt;.  &lt;strong&gt;Applications will be reviewed starting February 20, 2017, and will continue to be considered thereafter until March 31, 2017.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Enquires about the position can be directed to &lt;a href="mailto:geert.barentsen@nasa.gov"&gt;geert.barentsen@nasa.gov&lt;/a&gt;.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Tue, 31 Jan 2017 10:00:00 -0800</pubDate><guid>tag:keplerscience.arc.nasa.gov,2017-01-31:we-are-hiring-job-opportunities-available-at-the-keplerk2-science-center.html</guid></item><item><title>First Announcement: Kepler &amp; K2 SciCon IV, June 19-23, 2017</title><link>https://keplerscience.arc.nasa.gov/first-announcement-kepler-k2-scicon-iv-june-19-23-2017.html</link><description>&lt;p&gt;&lt;strong&gt;FIRST ANNOUNCEMENT: "Kepler &amp;amp; K2 Science Conference IV: Legacy &amp;amp;
 Scion"&lt;/strong&gt; &lt;/br&gt;
 June 19-23, 2017 &lt;/br&gt;
 NASA Ames Research Center, Moffett Field, CA &lt;/br&gt;
