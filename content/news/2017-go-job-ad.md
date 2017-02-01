@@ -4,9 +4,6 @@ Author: Geert Barentsen
 Summary: The Kepler/K2 Science Center is seeking to fill multiple staff positions within the Kepler and K2 Guest Observer (GO) Office at NASA’s Ames Research Center.
 
 The Kepler/K2 Science Center is seeking to fill multiple staff positions within the Kepler and K2 Guest Observer (GO) Office at NASA’s Ames Research Center.
-The job ad is shown below.
-Prospective applicants are encouraged to [contact us](/helpdesk) with questions.
-
 
 ## Job ad
 
@@ -26,3 +23,5 @@ Qualifications: PhD in science or equivalent experience; broad understanding of 
 
 These jobs will entail significant travel in support of the Kepler/K2 community.  The positions are funded through a cooperative agreement between NASA and the Bay Area Environmental Research Institute ([www.baeri.org](http://www.baeri.org)).
 To apply send a CV, a list of three references, and a summary of science interests and relevant technical skills (maximum of 3 pages in length) to [resumes@baeri.org](mailto:resumes@baeri.org).  **Applications will be reviewed starting February 20, 2017, and will continue to be considered thereafter until March 31, 2017.**
+
+Enquires about the position can be directed to [geert.barentsen@nasa.gov](mailto:geert.barentsen@nasa.gov).
