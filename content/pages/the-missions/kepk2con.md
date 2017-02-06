@@ -175,3 +175,17 @@ violation, please contact Mark D. Messersmith at 650-793-5722 or Jessie Dotson a
 ### Contact
 
 Any questions should be sent to [ARC-KeplerSciCon@mail.nasa.gov](mailto:ARC-KeplerSciCon@mail.nasa.gov).
+
+### Sponsors
+
+<div class="row">
+  <div class="col-lg-2">
+    <a href="../images/Ball_Logo_Blue.jpg"><img class="img-responsive" src="../images/Ball_Logo_Blue.jpg"></a>
+	</div>
+	 <div class="col-lg-4">
+    <a href="../images/KBRwyle.png"><img class="img-responsive" src="../images/KBRwyle.png"></a>
+  </div>
+
+</div>
+
+ 
