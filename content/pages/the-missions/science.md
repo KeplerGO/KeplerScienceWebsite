@@ -96,7 +96,9 @@ Center<br/>
 <br/>
 
 * **Star Properties Working Group (STAR)** <br/>
-POC: [Jaymie Matthews](matthews@astro.ubc.ca), University of British Columbia, POC: [Marc Pinsonneault](pinsonneault.1@osu.edu), Ohio State University<br/>
+POC: [Daniel Huber](huberd@hawaii.edu), University of Hawaii<br/>
+POC: [Jaymie Matthews](matthews@astro.ubc.ca), University of British Columbia<br/>
+POC: [Marc Pinsonneault](pinsonneault.1@osu.edu), Ohio State University<br/>
 <br/>Fundamental stellar properties are required for the determination of planet properties and for quantifying the sensitivity biases that affect the calculation of planet occurrence rates. The Star Properties working group acts as an advisory body for issues related to stellar characterization and the determination of fundamental stellar properties. Specific topics include:
 
 	* Assess the systematic errors in the stellar properties provided in the Kepler Input Catalog.
