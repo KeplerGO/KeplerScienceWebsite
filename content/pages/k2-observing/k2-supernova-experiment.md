@@ -441,10 +441,11 @@ which provides ample restaurant options.
 
 ### Participants list
 
-(Last update: Jan 17, 2017.)
+(Last update: Feb 9, 2017.)
 
 * Greg Aldering (Berkeley Lab)
 * Kyle Barbary (UC Berkeley)
+* Ann-Marie Cody (NASA Ames)
 * Dave Coulter (UC Santa Cruz)
 * Rick Edelson (Maryland)
 * Ryan Foley (UC Santa Cruz)
@@ -472,7 +473,6 @@ which provides ample restaurant options.
 * Adam Rubin (Weizmann)
 * Ashley Villar (CfA)
 * Jozsef Vinko (Konkoly)
-* Xiaofeng Wang (Tsinghua University)
 * Alfredo Andres Zenteno Vivanco (NOAO/CTIO)
 
 
