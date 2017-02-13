@@ -120,8 +120,6 @@ introductory talks and a strong focus on participant-led breakout sessions.
 There will also be time for writing observing proposals,
 drafting a white paper, and hands-on K2 data analysis.
 
-<p><b class="text-danger">Note: this is a draft schedule. Contact keplergo@mail.arc.nasa.gov if you have any concerns.</b></p>
-
 <h4 style="font-weight: bold;">Tuesday, Feb 14th</h4>
 
 The goal of the first day will be to review the science that can and should be done, and identify the resources available.
