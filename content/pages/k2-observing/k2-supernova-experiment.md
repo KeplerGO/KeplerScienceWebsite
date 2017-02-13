@@ -244,10 +244,6 @@ The goal of the first day will be to review the science that can and should be d
                 <i>Steven Margheim</i>
             </li>
             <li>
-                AST3 and LAMOST<br/>
-                <i>Xiaofeng Wang</i> 
-            </li>
-            <li>
                 SuperNova Integral Field Spectrograph<br/>
                 <i>Greg Aldering</i>
             </li>
