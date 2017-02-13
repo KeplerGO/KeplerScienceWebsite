@@ -439,7 +439,7 @@ which provides ample restaurant options.
 
 ### Participants list
 
-(Last update: Feb 9, 2017.)
+(Last update: Feb 13, 2017.)
 
 * Greg Aldering (Berkeley Lab)
 * Kyle Barbary (UC Berkeley)
@@ -454,6 +454,7 @@ which provides ample restaurant options.
 * Saurabh Jha (Rutgers University)
 * Daniel Kasen (UC Berkeley)
 * Patrick Kelly (UC Berkeley)
+* Irina Kitiashvili (NASA Ames)
 * Anais Möller (ANU)
 * Jakob Nordin (Humboldt Berlin)
 * Elisa Quintana (NASA Goddard)
