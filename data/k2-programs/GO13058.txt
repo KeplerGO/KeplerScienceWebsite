@@ -1,0 +1,40 @@
+# Summary of K2 Program GO13058
+
+Title: Understanding the Precursors to Disk Eclipsing Systems
+
+PI: Pepper, Joshua (Lehigh University)
+CoIs: Stassun, Keivan Guadalupe; Rodriguez, Joseph Enrique
+
+It is known that planets form from the gas and dust in the protoplanetary disks surrounding young stellar objects (YSOs). What is not clear is what governs the large diversity of planet types and of planetary system architectures that are now being discovered by the thousands. The circumstellar environment involves a variety of processes that lead to the evolution of the protoplanetary disk over time. These processes include accretion onto the star, dispersion by stellar winds and radiation, magnetic fields, outflows, and in many cases stellar companions. Each of these different features can manifest as disk substructures, gradients, and other properties that could reveal the mechanisms that influence planet formation and diversity therein. One method to constrain the planet-building properties of these disks is to observe them as they fortuitously eclipse their stars. Such events are very rare, with only a few discovered, but have already led to such insights as dense planet-forming structures within the tidally disrupted disk of the young binary star system (Rodriguez et al. 2013, AJ, 146, 122), Saturn-like rings and gaps in the disk surrounding a young planet (Mamajek et al. 2012, AJ, 143, 72), stratified dust coagulation within a young protoplanetary disk (Bouvier et al. 2013, A&A, 557, A77; Rodriguez et al. 2015, AJ, 150, 32), and an evolved binary star system with remnant planet-building material (Rodriguez et al. Accepted, AJ). Therefore, using time series photometry from Kilodegree Extremely Little Telescope (KELT), we are conducting the Disk Eclipse Search with KELT (DESK) survey to look for large dimming events cause by a feature of the stars circumstellar environment, specifically in young stellar associations. To date, the survey has discovered and analyzed four previously unknown large dimming events around the stars RW Aurigae, V409 Tau, and TYC 2505-672-1, the latter now representing the longest-period eclipsing object known (period ~ 69 years). In most of these discovered systems, the eclipse is either already occurring or the system has recovered to its original brightness at the time of discovery; limiting our ability to characterize the system and the occulting mechanism. However, It is very likely that there are specific pre-eclipse photometric signatures that could allow us to predict an upcoming large occultation. These precursors would include small amplitude (<1 mmag) eclipses due to the leading edge of a large occulting body beginning to cross in front of the host star. Unfortunately, ground based surveys do not provide the photometric precision or continuous observations required to search for these very small signals. Therefore, we request K2 observations of the ~30 brightest young stars in the Taurus-Auriga association that have corresponding observations from the KELT survey, allowing the ability to probe small amplitude photometric variability, gaining insight to the precursors of larger dimming events. 
+
+The proposed K2 observations will be combined with other ground based observations from surveys like KELT, the American Association of Variable Star Observers (AAVSO), and Digital Access to a Sky Century @ Harvard (DASCH), providing up to a century long baseline of observations with a variety of photometric precisions. By searching for periodic and non periodic photometric variability on timescales from days to weeks (K2) and months to decades (KELT, AAVSO, and DASCH), we will be able to study stellar phenomena such as rotation, pulsation, shallow eclipses, flares, and outbursts that will help illuminate the underlying mechanisms of the system. Continued monitoring of these systems by KELT and AAVSO will allow us to look for future large dimming events and test the possible of predictive features observed in the K2 observations.
+
+# Targets requested by this program that have been observed (27)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210690735, 67.516651, 18.230399, 10.389, GO13117_LC|GO13009_LC|GO13016_LC|GO13002_LC|GO13062_LC|GO13025_LC|GO13082_LC|GO13058_LC|GO13119_LC|GO13903_LC
+210690892, 67.916987, 18.23253, 12.012, GO13117_LC|GO13009_LC|GO13016_LC|GO13002_LC|GO13121_LC|GO13086_LC|GO13082_LC|GO13058_LC|GO13119_LC|GO13005_LC|GO13118_LC
+210690913, 67.9103, 18.232801, 13.698, GO13117_LC|GO13009_LC|GO13016_LC|GO13086_LC|GO13082_LC|GO13058_LC|GO13005_LC|GO13118_LC|GO13082_SC
+210699801, 67.990804, 18.360528, 12.484, GO13117_LC|GO13071_LC|GO13009_LC|GO13122_LC|GO13016_LC|GO13002_LC|GO13121_LC|GO13086_LC|GO13082_LC|GO13058_LC|GO13119_LC|GO13118_LC
+246923113, 71.775872, 16.978558, 10.545, GO13117_LC|GO13009_LC|GO13016_LC|GO13082_LC|GO13058_LC|GO13119_LC|GO13005_LC|GO13118_LC|GO13117_SC|GO13118_SC
+247047380, 68.45305, 18.169436, 13.223, GO13117_LC|GO13009_LC|GO13016_LC|GO13062_LC|GO13086_LC|GO13082_LC|GO13058_LC|GO13119_LC|GO13118_LC
+247520207, 69.824111, 22.350905, 11.488, GO13117_LC|GO13009_LC|GO13016_LC|GO13062_LC|GO13103_LC|GO13082_LC|GO13058_LC|GO13119_LC|GO13118_LC|GO13103_SC|GO13082_SC
+247584113, 68.466732, 22.841696, 12.126, GO13117_LC|GO13009_LC|GO13016_LC|GO13082_LC|GO13058_LC|GO13119_LC|GO13118_LC
+247592103, 68.975635, 22.90377, 10.509, GO13117_LC|GO13123_LC|GO13009_LC|GO13016_LC|GO13002_LC|GO13082_LC|GO13058_LC|GO13119_LC|GO13118_LC|GO13903_LC
+247763883, 68.275902, 24.159423, 12.267, GO13117_LC|GO13009_LC|GO13002_LC|GO13121_LC|GO13082_LC|GO13058_LC|GO13119_LC
+247764745, 68.277621, 24.165277, 10.678, GO13117_LC|GO13009_LC|GO13016_LC|GO13002_LC|GO13121_LC|GO13082_LC|GO13058_LC|GO13119_LC
+247788960, 68.127396, 24.3326, 11.682, GO13117_LC|GO13009_LC|GO13016_LC|GO13002_LC|GO13036_LC|GO13082_LC|GO13058_LC
+247789209, 68.13236, 24.334201, 11.595, GO13117_LC|GO13009_LC|GO13016_LC|GO13082_LC|GO13058_LC|GO13119_LC
+247791801, 68.394013, 24.35163, 10.753, GO13117_LC|GO13009_LC|GO13016_LC|GO13002_LC|GO13082_LC|GO13058_LC|GO13119_LC
+247792225, 68.39192, 24.354748, 11.041, GO13117_LC|GO13009_LC|GO13016_LC|GO13002_LC|GO13036_LC|GO13082_LC|GO13058_LC|GO13119_LC
+247799571, 67.960734, 24.404929, 14.064, GO13117_LC|GO13009_LC|GO13016_LC|GO13002_LC|GO13121_LC|GO13082_LC|GO13058_LC|GO13119_LC
+247805410, 67.623409, 24.445841, 12.514, GO13117_LC|GO13009_LC|GO13016_LC|GO13002_LC|GO13121_LC|GO13082_LC|GO13058_LC|GO13119_LC
+247810494, 68.730916, 24.481404, 13.503, GO13117_LC|GO13009_LC|GO13016_LC|GO13002_LC|GO13082_LC|GO13058_LC|GO13119_LC|GO13118_LC
+247843485, 67.714122, 24.706208, 12.951, GO13117_LC|GO13123_LC|GO13009_LC|GO13011_LC|GO13016_LC|GO13121_LC|GO13082_LC|GO13058_LC|GO13119_LC
+247923794, 70.657064, 25.260359, 12.625, GO13117_LC|GO13009_LC|GO13016_LC|GO13002_LC|GO13082_LC|GO13058_LC|GO13118_LC
+247941930, 70.532411, 25.386592, 14.53, GO13117_LC|GO13009_LC|GO13016_LC|GO13002_LC|GO13121_LC|GO13082_LC|GO13058_LC|GO13119_LC|GO13118_LC
+247986526, 66.761642, 25.706221, 10.943, GO13117_LC|GO13009_LC|GO13016_LC|GO13002_LC|GO13121_LC|GO13039_LC|GO13082_LC|GO13058_LC|GO13119_LC|GO13118_LC|GO13117_SC
+248009353, 68.178394, 25.875366, 11.645, GO13117_LC|GO13009_LC|GO13016_LC|GO13002_LC|GO13121_LC|GO13082_LC|GO13058_LC|GO13119_LC|GO13005_LC|GO13118_LC|GO13119_SC
+248029373, 67.684347, 26.023515, 12.094, GO13117_LC|GO13009_LC|GO13016_LC|GO13002_LC|GO13121_LC|GO13082_LC|GO13058_LC|GO13119_LC
+248040905, 67.464827, 26.112456, 13.1, GO13117_LC|GO13009_LC|GO13016_LC|GO13002_LC|GO13082_LC|GO13058_LC|GO13119_LC
+248047443, 68.4035, 26.163698, 13.92, GO13117_LC|GO13009_LC|GO13016_LC|GO13002_LC|GO13121_LC|GO13082_LC|GO13058_LC|GO13119_LC
+248049475, 69.619107, 26.179889, 12.892, GO13117_LC|GO13071_LC|GO13009_LC|GO13016_LC|GO13002_LC|GO13082_LC|GO13058_LC

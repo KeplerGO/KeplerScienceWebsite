@@ -1,0 +1,43 @@
+# Summary of K2 Program GO13083
+
+Title: Searching for Extended Exoplanetary Atmospheres Around Active Stars
+
+PI: Jensen, Adam Gabriel (University of Nebraska-Kearney)
+CoIs: Cauley, Paul Wilson; Endl, Michael; Redfield, Seth
+
+A key question in studying any planetary atmosphere is what happens at the boundary between the atmosphere and interplanetary space. This unbound, outermost layer of an atmosphere is called its exosphere.  Several observations of extended atmospheres have been made (e.g., Vidal-Madjar et al. 2003, 2004; Linsky et al. 2010; Schlawin et al. 2010; Lecavelier Des Etangs et al. 2010, 2012; Fossati et al. 2010; Jensen et al. 2012; Cauley et al. 2015; Cauley et al. 2016, in preparation) in hydrogen (both ground-state and excited) and various metals.
+
+Our team detected excited, n=2 hydrogen (through hydrogen alpha absorption) in the exosphere of HD 189733b (Jensen et al. 2012), the first such detection in an exoplanet atmosphere. Follow-up observations (Cauley et al. 2015; Cauley et al. 2016, in prep.) confirmed this result by detecting exospheric absorption in hydrogen alpha, hydrogen beta, and hydrogen gamma, and also observed a significant pre-transit signal in these lines.  The pre-transit signal is variable between the two observation sets and the physical interpretation is not clear.  Jensen et al. (2012) hypothesized that the excited hydrogen in the exosphere (the transit signal) may be correlated with chromospheric activity, as HD 189733b, the only planet in that paper's sample of four planets to show H-alpha absorption, was also the most chromospherically active in the sample (as measured by S_HK and log [R'_HK] indices).
+
+In Kepler Guest Observer Cycle 3, we proposed to search for planets around stars which are candidates for chromospheric activity in the Kepler 8 and 10 fields.  We found dozens of suitable targets based on the Radial Velocity Experiment (RAVE) Survey's catalogue of chromospherically active stars (Zerjal et al. 2013).  We now propose to do the same for Kepler Guest Observer Cycle 4 for the Kepler Campaign 11, 12, and 13 fields.  Because the 11 and 12 fields are in the southern celestial hemisphere, these are largely covered by the RAVE survey in particular, whereas the RAVE survey mostly covered field 10.  Therefore, we expect to have roughly double the number of targets for this cycle as we did in the previous cycle, roughly tripling the overall sample.  This will greatly improve the chance of success of the accepted Cycle 3 proposal at minimal cost of targets to the K2 mission.
+
+Looking for planets around active stars with radial velocity methods is often disfavored because the stellar noise limits RV precision.  However, this makes the transit method the more important way to detect planets in these cases. Furthermore, if any of these stars do have a transiting planet, they will be excellent potential candidates for follow-up spectroscopy with the large ground-based telescopes (Keck I, HobbyEberly Telescope) that our team has used in the past to detect exospheric absorption. The goal of follow-up spectroscopic observations would be to search for excited hydrogen absorption from an exosphere, including possible pre-transit signals. As a secondary science product, many of these active stars will have light curves worth studying on their own for stellar astrophysics purposes.
+
+# Targets requested by this program that have been observed (26)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210580123, 67.49053, 16.672839, 8.837, GO13008_LC|GO13071_LC|GO13122_LC|GO13023_LC|GO13024_LC|GO13077_LC|GO13039_LC|GO13083_LC|GO13019_LC|GO13090_LC|GO13903_LC|GO13023_SC
+210666330, 67.381695, 17.893185, 9.046, GO13008_LC|GO13012_LC|GO13064_LC|GO13071_LC|GO13122_LC|GO13023_LC|GO13006_LC|GO13024_LC|GO13077_LC|GO13039_LC|GO13083_LC|GO13090_LC|GO13903_LC|GO13012_SC
+210675409, 66.448161, 18.017272, 8.774, GO13008_LC|GO13049_LC|GO13071_LC|GO13122_LC|GO13002_LC|GO13023_LC|GO13077_LC|GO13039_LC|GO13083_LC|GO13019_LC|GO13090_LC|GO13902_LC|GO13904_LC
+210791522, 67.155056, 19.74068, 8.704, GO13008_LC|GO13012_LC|GO13071_LC|GO13122_LC|GO13023_LC|GO13024_LC|GO13077_LC|GO13039_LC|GO13083_LC|GO13090_LC|GO13903_LC|GO13012_SC
+210817382, 67.815373, 20.133156, 8.431, GO13008_LC|GO13012_LC|GO13071_LC|GO13122_LC|GO13002_LC|GO13023_LC|GO13024_LC|GO13077_LC|GO13039_LC|GO13083_LC|GO13019_LC|GO13090_LC|GO13903_LC|GO13012_SC
+210874177, 66.780786, 20.990885, 9.175, GO13071_LC|GO13122_LC|GO13002_LC|GO13024_LC|GO13083_LC|GO13903_LC
+210899260, 65.843041, 21.379097, 9.518, GO13008_LC|GO13064_LC|GO13071_LC|GO13122_LC|GO13002_LC|GO13062_LC|GO13023_LC|GO13024_LC|GO13077_LC|GO13039_LC|GO13083_LC|GO13090_LC|GO13903_LC
+246685193, 75.140811, 14.383811, 6.615, GO13012_LC|GO13071_LC|GO13122_LC|GO13062_LC|GO13065_LC|GO13039_LC|GO13083_LC|GO13019_LC|GO13012_SC
+246741756, 72.640906, 15.083454, 8.412, GO13008_LC|GO13012_LC|GO13071_LC|GO13122_LC|GO13002_LC|GO13062_LC|GO13023_LC|GO13024_LC|GO13077_LC|GO13039_LC|GO13083_LC|GO13090_LC|GO13903_LC|GO13012_SC
+246748626, 68.493908, 15.163619, 8.308, GO13008_LC|GO13012_LC|GO13049_LC|GO13071_LC|GO13122_LC|GO13002_LC|GO13023_LC|GO13077_LC|GO13039_LC|GO13083_LC|GO13019_LC|GO13090_LC|GO13012_SC
+246775335, 71.62661, 15.472052, 8.161, GO13008_LC|GO13012_LC|GO13071_LC|GO13122_LC|GO13002_LC|GO13023_LC|GO13024_LC|GO13077_LC|GO13039_LC|GO13083_LC|GO13019_LC|GO13090_LC|GO13903_LC|GO13012_SC|GO13023_SC
+246778300, 68.647122, 15.504619, 7.797, GO13071_LC|GO13122_LC|GO13023_LC|GO13024_LC|GO13077_LC|GO13039_LC|GO13083_LC|GO13052_LC|GO13019_LC|GO13903_LC
+246794704, 69.021935, 15.684012, 9.285, GO13008_LC|GO13064_LC|GO13071_LC|GO13122_LC|GO13023_LC|GO13024_LC|GO13077_LC|GO13039_LC|GO13083_LC|GO13090_LC|GO13903_LC
+246808055, 68.634103, 15.827554, 9.447, GO13008_LC|GO13049_LC|GO13064_LC|GO13123_LC|GO13071_LC|GO13122_LC|GO13023_LC|GO13024_LC|GO13077_LC|GO13039_LC|GO13083_LC|GO13090_LC|GO13903_LC
+246825070, 68.208794, 16.005815, 8.832, GO13008_LC|GO13049_LC|GO13071_LC|GO13122_LC|GO13002_LC|GO13023_LC|GO13024_LC|GO13077_LC|GO13039_LC|GO13083_LC|GO13090_LC
+246900928, 68.408192, 16.762501, 9.262, GO13008_LC|GO13049_LC|GO13064_LC|GO13071_LC|GO13122_LC|GO13023_LC|GO13024_LC|GO13077_LC|GO13083_LC|GO13090_LC|GO13903_LC
+246953884, 72.954953, 17.273712, 10.893, GO13008_LC|GO13049_LC|GO13064_LC|GO13023_LC|GO13077_LC|GO13083_LC|GO13090_LC
+247130198, 70.732396, 18.958168, 9.076, GO13049_LC|GO13010_LC|GO13032_LC|GO13062_LC|GO13039_LC|GO13073_LC|GO13083_LC|GO13085_LC|GO13903_LC
+247227122, 68.927332, 19.881791, 6.174, GO13048_LC|GO13002_LC|GO13035_LC|GO13028_LC|GO13083_LC|GO13019_LC
+247417331, 69.058151, 21.536542, 7.415, GO13012_LC|GO13071_LC|GO13122_LC|GO13002_LC|GO13065_LC|GO13024_LC|GO13039_LC|GO13083_LC|GO13019_LC|GO13012_SC
+247428966, 68.032945, 21.632355, 6.969, GO13012_LC|GO13071_LC|GO13122_LC|GO13002_LC|GO13024_LC|GO13039_LC|GO13083_LC|GO13052_LC|GO13019_LC|GO13903_LC|GO13012_SC
+247624258, 69.713713, 23.149969, 8.298, GO13008_LC|GO13012_LC|GO13071_LC|GO13122_LC|GO13023_LC|GO13024_LC|GO13077_LC|GO13039_LC|GO13083_LC|GO13052_LC|GO13090_LC|GO13903_LC|GO13012_SC
+247657217, 72.450127, 23.395761, 8.39, GO13012_LC|GO13071_LC|GO13122_LC|GO13024_LC|GO13039_LC|GO13083_LC|GO13019_LC|GO13012_SC
+247713687, 70.204446, 23.80962, 8.922, GO13008_LC|GO13071_LC|GO13122_LC|GO13023_LC|GO13006_LC|GO13024_LC|GO13077_LC|GO13039_LC|GO13083_LC|GO13090_LC|GO13903_LC
+247753812, 70.80732, 24.088915, 6.072, GO13071_LC|GO13122_LC|GO13024_LC|GO13039_LC|GO13083_LC|GO13019_LC
+248242432, 73.196322, 27.897486, 5.941, GO13047_LC|GO13122_LC|GO13024_LC|GO13083_LC|GO13019_LC

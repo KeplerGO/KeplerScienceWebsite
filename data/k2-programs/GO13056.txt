@@ -1,0 +1,21 @@
+# Summary of K2 Program GO13056
+
+Title: HIGH MySTERY: Probing high-mass stellar
+evolution models with binary stars
+
+PI: Tkachenko, Andrew (KU Leuven)
+CoIs: Neiner, Coralie; De Cat, Peter; Debosscher, Jonas; Aerts, Conny Clara; Mathis, Stephane
+
+The mass discrepancy problem in binary stars stands for the difference between the stellar component masses inferred from binary dynamics and those obtained from spectral characteristics of stars and evolutionary models. The problem clearly points to some missing physical ingredients in stellar structure and evolution theory, and is often solved by introducing an additional near core mixing into evolutionary models by means of an unusually large core overshoot. Our goal is an independent seismic evaluation of the core overshoot parameter for pulsating binary components.
+Binary stars provide a valuable test of the tidal evolution theory. This theory, in particular, describes the evolution of eccentric binary orbits into the stage of two stars with synchronized spin rates and residing in a circular orbit. Current theory predicts time-scale of spins synchronization to be shorter than the time-scale of the orbit circularization. This often contradicts our observations, thus our goal is to test and, if necessary, refine tidal evolution theory, by considering different types of interactions within a binary system.
+The resonant excitation of stars free oscillation modes through dynamical tides within a binary system is a direct result of the above mentioned interactions. These tidally induced oscillations provide a potential of probing deep stellar interiors, but the topic is not well explored observationally. We shall remedy the lack of high-quality photometric data for massive binary stars and detections of their tidally-induced oscillations.
+A statistically significant sample of pulsating binaries with precise masses is required to meet our science goals. The current sample consists of about a hundred of binaries and is greatly biased towards short orbital periods (< 10 d). With K2, we aim at observing about 100 members of the class of massive binary stars, which will lead to significant extension of the sample, in particular towards longer orbital periods.
+Our team has all necessary tools and expertise to perform photometric and spectroscopic data reduction and analyses. The pixel data files delivered by the K2 mission will be used to extract the light curves by means of the software available at the host institute of the project PI. We will rely on the data analysis strategy that proved to be very efficient (e.g., Tkachenko et al. 2014, MNRAS, 438, 3093) and comprises of using the methods like Wilson-Devinney and spectral disentangling for the analysis of light curves and stellar spectra, respectively.
+The K2 mission is the only available instrument to deliver the required data for our science goal. The high-quality photometric data, coupled with the state-of-the-art modelling tools, will ensure accurate subtraction of the orbital signal from the light curves, and will allow accurate frequency and asteroseismic analyses. Tidally induced pulsations have periods of a few days, so long cadence is sufficient for our targets. 
+The present team was a part of the MASSIVE consortium applying for the K2 observations during previous campaigns. We used the experience gained from previous campaigns to do a careful selection of the best K2 targets for our aims in the fields of Campaigns 11,12,&13. The total number of targets to be proposed for the observations is estimated to be about 15.
+
+# Targets requested by this program that have been observed (3)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+247153152, 71.492121, 19.177505, 9.289, GO13122_LC|GO13101_LC|GO13056_LC|GO13077_LC|GO13052_LC|GO13127_LC
+247759652, 75.059996, 24.130066, 10.695, GO13122_LC|GO13002_LC|GO13056_LC|GO13036_LC|GO13052_LC|GO13127_LC
+248064520, 74.532644, 26.298355, 9.613, GO13071_LC|GO13122_LC|GO13002_LC|GO13056_LC|GO13052_LC|GO13127_LC

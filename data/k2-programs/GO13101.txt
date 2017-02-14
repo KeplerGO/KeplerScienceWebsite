@@ -1,0 +1,79 @@
+# Summary of K2 Program GO13101
+
+Title: A K2 Survey of Hot Massive Stars during Campaigns C11 and C13
+
+PI: Gies, Douglas Russell (Georgia State University)
+CoIs: 
+
+Introduction:
+The NASA Kepler mission was a huge success for exoplanet detection and stellar astronomy. We obtained magnificent 
+time series data that have led to remarkable new studies especially in the areas of asteroseismology, stellar 
+rotational modulation, and binary and multiple stars. However, the Kepler field of view was selected away from the 
+Galactic plane to avoid problems with blending in the crowded star fields close to the plane. Because the massive stars 
+are generally young and form in the Galactic plane, the selection of a FOV away from the plane meant that very few massive 
+stars were measured by Kepler (no O-type stars, for example). Now with K2 we have the opportunity to remedy the situation 
+and follow the light curves of a significant sample of massive stars. First observations occurred during campaigns 
+C0, C4, and C7, and now in C11 and C13, the K2 FOV is again located close to the galactic plane, so that massive star
+targets are accessible.  This proposal describes the massive star sample and the kinds of scientific investigations that 
+would be possible through such K2 photometric observations.
+
+Sample:
+I selected stars from the "Catalogue of Stellar Spectral Classifications" (Skiff, 2009-2014) that is available from
+CDS Vizier.  A total of 176 and 27 targets were selected that are within the nominal boresight coordinates for C11 and 
+C13, respectively, and confirmed to fall on the CCD detectors using the K2fov program. These stars have magnitudes in the
+range V = 8 to 12.  They comprise a diverse collection of young stars, mainly of spectral types O and B and spanning 
+all luminosity classes. The group includes a number of the rapidly rotating Be stars that eject gas into a circumstellar 
+disk.  All these stars are ideal long cadence targets for continuous temporal coverage during the C11 and C13 campaigns, 
+and we plan to obtain contemporaneous spectroscopy of them.
+
+Eclipsing Binaries and Exoplanets:
+Massive stars are rare, and consequently there are relatively few with well-established masses from combined spectroscopic 
+and photometric analysis (Torres et al. 2010, A&ARv, 18, 67 note only four eclipsing systems containing O-type stars in 
+their compendium of accurate eclipsing binary results).  Consequently, the identification of new eclipsing binaries 
+would offer us important new targets for the determination of fundamental parameters. In addition, massive stars are 
+often found in multiple systems, and the survey would help determine the incidence of massive stars with eclipsing 
+binary companions. There are several known exoplanets that orbit host B-type stars, and the C11 and C13 campaigns offer
+a superb opportunity to search for transiting planets that managed to form in the energetic radiation fields of the 
+hot host stars.
+
+Asteroseismology:
+The early-type pulsating stars include the beta Cep class (p-mode), slowly pulsating B stars (g-mode), and periodically 
+variable B and A-type supergiants. These pulsations are important probes of stellar interiors. The K2 sample will 
+determine the incidence of pulsations and how multiple-mode beating may play a role in the gas ejection processes that 
+lead to disk formation in the emission line Be stars.
+
+Magnetic Fields and Rotational Modulation:
+Massive stars generally have convective cores and radiative envelopes that are not usually associated with magnetic 
+dynamos and field generation. Nevertheless, sensitive polarimetric surveys like the MiMeS project have led to the 
+detection of magnetic fields in about 10% of the OB-stars. In these cases, the magnetic field can produce spots that 
+introduce a rotational modulation in the light curve. The K2 survey will help determine the frequency of such 
+rotational modulations and will provide a sample large enough to study the kinds of stellar parameters that are 
+associated with magnetic fields.
+
+# Targets requested by this program that have been observed (25)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+246800994, 73.449516, 15.752878, 9.583, GO13122_LC|GO13101_LC|GO13038_LC|GO13052_LC
+246820783, 68.357293, 15.960932, 9.108, GO13071_LC|GO13122_LC|GO13101_LC|GO13024_LC|GO13052_LC|GO13127_LC
+246968035, 70.385958, 17.412931, 8.828, GO13071_LC|GO13122_LC|GO13101_LC|GO13024_LC|GO13052_LC
+247106666, 69.629404, 18.733741, 8.771, GO13122_LC|GO13002_LC|GO13101_LC|GO13095_LC|GO13052_LC
+247136661, 71.297162, 19.019829, 10.103, GO13071_LC|GO13122_LC|GO13101_LC|GO13077_LC|GO13036_LC|GO13052_LC
+247144563, 71.527839, 19.095106, 11.079, GO13122_LC|GO13101_LC|GO13077_LC|GO13052_LC
+247147343, 71.501861, 19.121894, 9.645, GO13122_LC|GO13101_LC|GO13077_LC|GO13052_LC|GO13127_LC
+247147476, 71.313996, 19.123262, 9.985, GO13122_LC|GO13101_LC|GO13024_LC|GO13077_LC|GO13052_LC|GO13127_LC
+247148818, 71.28398, 19.136015, 10.065, GO13122_LC|GO13101_LC|GO13024_LC|GO13077_LC|GO13052_LC
+247153152, 71.492121, 19.177505, 9.289, GO13122_LC|GO13101_LC|GO13056_LC|GO13077_LC|GO13052_LC|GO13127_LC
+247153504, 71.483123, 19.180984, 8.975, GO13122_LC|GO13002_LC|GO13101_LC|GO13077_LC|GO13036_LC|GO13052_LC
+247156683, 71.324858, 19.211463, 10.187, GO13122_LC|GO13101_LC|GO13024_LC|GO13077_LC|GO13052_LC
+247164195, 71.45274, 19.282263, 9.327, GO13113_LC|GO13122_LC|GO13101_LC|GO13077_LC|GO13052_LC|GO13127_LC
+247169098, 71.394528, 19.328305, 8.671, GO13112_LC|GO13071_LC|GO13122_LC|GO13101_LC|GO13024_LC|GO13059_LC|GO13077_LC|GO13082_LC|GO13052_LC|GO13127_LC
+247253514, 80.718034, 20.127981, 10.191, GO13122_LC|GO13101_LC
+247368219, 76.705673, 21.138358, 11.427, GO13122_LC|GO13101_LC|GO13082_LC|GO13052_LC|GO13127_LC
+247559520, 69.806436, 22.652252, 8.946, GO13122_LC|GO13101_LC|GO13052_LC|GO13127_LC
+247587084, 75.197544, 22.864654, 10.414, GO13122_LC|GO13101_LC|GO13038_LC|GO13052_LC
+247664011, 68.582854, 23.447141, 9.946, GO13117_LC|GO13049_LC|GO13071_LC|GO13122_LC|GO13101_LC|GO13052_LC
+247732582, 70.24527, 23.939798, 9.399, GO13071_LC|GO13122_LC|GO13101_LC|GO13024_LC|GO13052_LC
+247745384, 75.566223, 24.029163, 9.144, GO13112_LC|GO13071_LC|GO13122_LC|GO13002_LC|GO13101_LC|GO13095_LC|GO13059_LC|GO13082_LC|GO13052_LC|GO13127_LC
+247774959, 68.471635, 24.235579, 12.072, GO13071_LC|GO13122_LC|GO13101_LC|GO13052_LC|GO13127_LC
+247974919, 74.516732, 25.621777, 9.292, GO13071_LC|GO13122_LC|GO13101_LC|GO13052_LC
+248014510, 70.352997, 25.913453, 9.896, GO13123_LC|GO13016_LC|GO13101_LC|GO13052_LC
+248224646, 74.205702, 27.718509, 12.057, GO13123_LC|GO13071_LC|GO13122_LC|GO13101_LC|GO13082_LC

@@ -1,0 +1,16 @@
+# Summary of K2 Program GO13055
+
+Title: Accreting compact binaries with K2
+
+PI: Scaringi, Simone (Max Planck Institute for Extraterrestrial Physics)
+CoIs: Koerding, Elmar; Maccarone, Thomas Joseph; Israel, GianLuca; Rea, Nanda; Knigge, Christian
+
+Kepler/K2 observations of compact interacting binaries have already had a major impact to astrophysics. Thanks to its fast photometric cadence, continuous monitoring and high photometric accuracy, Kepler has provided unprecedented insights into various types of compact binaries, and holds an enormous potential for other astrophysical domains on top of planet hunting. Some of the most notable studies have revealed i) the mass ratio and precise orbital parameters through Doppler beaming and Romer delays for compact binaries (Bloemen et al. 2011, MNRAS,410, 178, Bloemen et al. 2012, MNRAS, 422, 2600), ii) the discovery of the rms-flux relation in the aperiodic flickering of accreting white dwarfs (WD, Scaringi et al. 2012, MNRAS, 421, 2854) iii) stringent tests to the disk instability model through the precise characterization of dwarf nova (DN) outburst cycles and (Cannizzo et al. 2012, ApJ, 747, 117) iv) the discovery of a universal scaling relation linking the timing properties of Active Galactic Nuclei, accreting stellar-mass black holes, accreting white dwarfs and young-stellar objects (Scaringi et al. 2015, Sci. Adv, e1500686).
+
+Here we propose to continue exploiting the capabilities of Kepler/K2, and specifically ask to observe 13 targets (6 SC and 7 LC) in Campaign 11, 3 (1 SC and 2 LC) in Campaign 12 and 2 (1 SC and 1 LC) in Campaign 13. Most targets have been selected from the Ritter & Kolb catalogue (A&A, 404, 301). Campaign 11 is particularly interesting given its close proximity to the Galactic centre, providing the opportunity to observe various X-ray binaries, including accreting stellar-mass black holes for the first time with Kepler. Because of this, additional targets are included in our target list as known X-ray binaries in Campaign 11. The precise target list will be defined on submission of the Step 2 proposal.
+
+For all targets in our sample we will probe their broad-band variability properties. Together with similar targets observed during the previous K2 campaigns, this will form the most comprehensive study of optical aperiodic variability in accreting compact objects. Additionally for some systems we will also study the periodic emission (see e.g. Sco X-1 from Campaign 2, Scaringi et al. 2015, MNRAS, 451, 3857). With K2 we will be able to precisely fold the optical lightcurves on the orbital period of the systems. This in turn will allow us to isolate and study the different emission components arising form the secondary star, accretion disk and boundary layer/corona of the accreting objects themselves as a function of orbital phase.
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+251456970, , , , GO13055_LC|GO13026_LC|GO13067_LC|GO13055_SC

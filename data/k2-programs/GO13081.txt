@@ -1,0 +1,17 @@
+# Summary of K2 Program GO13081
+
+Title: Jets or Disks? Using K2 to distinguish between the origins of optical variability in quasars.
+
+PI: Wehrle, Ann E. (Space Science Institute)
+CoIs: Carini, Michael Thomas; Wiita, Paul J
+
+We propose to measure the  long cadence light curves  of a large sample of 417 quasars in Campaign 12 and  2 quasars in Campaign 13. By doubling the size of our currently approved samples, we will increase the number of AGN in which K2 detects variability enough to form  good statistical samples in each quasar class. The AGN are drawn primarily from the Sloan Digital Sky Survey, the Parkes radio surveys, and the 2nd Fermi LAT AGN catalog. They include 4 gamma-ray blazars. Many quasars have been observed in the PanSTARRS Medium Deep Field 10.  Our ongoing K2 observations have already detected significant optical variability in ~ 88% of gamma-ray blazars, including binary black hole candidate OJ 287, ~ 16% of radio loud quasars (RLQs), and ~ 5% of radio quiet quasars (RQQs). 
+
+Our  first goal is to determine the origin of optical emission in the quasars at the time of K2 observations. Three candidate
+origins are: 1) a single dominant synchrotron-emitting region in a jet; 2) multiple synchrotron-emitting regions in a jet; and 3) an accretion disk  with one or more thermal emitting regions. 
+
+Our  second  goal is to see how the optical variability amplitude and power spectral densities of the three main classes of quasars -- blazars, radio loud quasars, and radio quiet quasars -- differ on minute-to-months timescales. We will measure the power spectral densities of the light curves and determine the power spectral density slopes which are related to the underlying variability processes, such as turbulence in the relativistic jets or stochastic fluctuations in thermal emission from segments of the accretion disk.
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+251456988, , , , GO13081_LC

@@ -1,0 +1,116 @@
+# Summary of K2 Program GO13111
+
+Title: The grand K2 RR Lyrae survey
+
+PI: Molnar, Laszlo (Konkoly Observatory)
+CoIs: Kollmeier, Juna A; Plachy, Emese; Szabo, Robert; Netzel, Henryka; Magnier, Eugene A; Smolec, Radoslaw; Pal, Andras; Flewelling, Heather A; Kolenberg, Katrien
+
+RR Lyrae stars play a crucial role in astrophysics as standard candles, tracers of galactic history, and touchstones for modeling stellar pulsations. Space data of these crucial objects have led to a giant leap forward in our understanding of their structure and evolution through the discovery of new dynamical phenomena. Moreover, insight into these stars dynamics is of crucial importance to advance our knowledge of galaxy formation and evolution in the Local Group of galaxies and beyond.
+Throughout the K2 Mission we have been building up a unique database of high precision RR Lyrae light curves from field to field, covering different parts of our Galaxy, and beyond. Our strategy assures that galactic structure studies and statistical analysis of pulsation properties (double-mode pulsation, Blazhko modulation, period doubling, low-dimensional chaos, non-radial modes) based on K2 data will be possible. Besides the ensemble studies, the boutique analysis of individual stars will be equally interesting and important. 
+
+Targets
+---------
+Field 11 covers parts of the bulge where tens of thousands of RR Lyrae stars reside. For this proposal we selected about 1200 stars based on the OGLE-IV survey and an additional 400 stars from other sources covering the rest of the field of view. The OGLE survey discovered many stars with peculiar pulsation and modulation properties. Low-amplitude additional modes have been observed in all RR Lyrae subtypes, but their origins and occurrence rates are still largely unknown. We also included modulated RRc stars in the list. While the Blazhko effect in fundamental-mode stars has been studied extensively from space, the sample of modulated RRc stars is still scarce.  
+
+In Field 12 we selected about 200 stars. 8 RR Lyrae stars were previously observed during the K2-E2 Engineering Test run, including a fundamental-mode star where we tentatively identified a frequency component as a g-mode signal. Re-observation of these targets present a unique opportunity to reassess our earlier findings that were based on only 9 days of data. It will also show us how did the accuracy of Kepler evolve since the early tests.  
+For a number of RR Lyrae stars extensive multicolor photometry is available from the Pan-STARRS Medium Deep Field survey. The detailed color information will be a valuable addition to the K2 light curves. Beside the RR Lyrae stars, we also found an additional 30 variables belonging to various classes that we also include in this proposal.   
+
+Field 13, towards the Galactic anticenter direction, contains 103 known RR Lyrae stars. One priority target here is BR Tau that has a short modulation period of only ~19 days. 
+
+Methods and planned community resources
+---------------------------------------------------
+Standard time-frequency analysis (by e.g. Period04) and study of time-dependent features are envisaged. Metallicities will be derived from empirical relations calibrated with high-resolution spectra. State-of-the-art numerical hydrocodes (Florida-Budapest, Warsaw) will be used to interpret the results. Synthetic galactic models (TRILEGAL) will be used to compare the galactic location and number of the observed sample with simulations.
+Photometry of large-amplitude pulsators require special treatment, and general-purpose pipelines may provide RR Lyrae light curves with sub-optimal quality. We already released tailor-made photometry from some Kepler data sets. We intend to create custom light curves for the stars listed in this proposal too, and plan to employ special methods like differential-image photometry for the bulge field. As a value-added community resource we envisage a searchable database containing the light curves, frequency solutions and other parameters (Blazhko periods, additional modes, etc.) of the RR Lyrae stars observed by K2.
+
+# Targets requested by this program that have been observed (90)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210648816, 66.331496, 17.652293, 18.579, GO13111_LC
+210654899, 66.810294, 17.736759, 18.963, GO13111_LC
+210676540, 66.204739, 18.033227, 18.721, GO13111_LC
+210739713, 66.577806, 18.95301, 15.757, GO13111_LC|GO13902_LC|GO13904_LC
+210754711, 66.567775, 19.182075, 16.663, GO13111_LC|GO13902_LC|GO13904_LC
+210766289, 65.66354, 19.357075, 16.398, GO13111_LC|GO13902_LC|GO13904_LC
+210799616, 67.216501, 19.8624, 18.071, GO13111_LC
+210831853, 65.87982, 20.353701, 17.153, GO13111_LC
+210862813, 65.759455, 20.820553, 16.312, GO13111_LC
+210872065, 66.288593, 20.959254, 16.016, GO13111_LC
+210908689, 65.650881, 21.526576, 19.035, GO13111_LC
+210934522, 66.9177, 21.936791, 15.477, GO13111_LC
+220115973, 66.3701782, 19.5589905, 19.73, GO13111_LC
+246623633, 71.820234, 13.54665, 17.847, GO13111_LC
+246691697, 74.295212, 14.467372, 19.603, GO13111_LC
+246785473, 78.466359, 15.583502, 13.367, GO13049_LC|GO13122_LC|GO13111_LC
+246786436, 78.235588, 15.593631, 18.066, GO13111_LC
+246789347, 78.813919, 15.625519, 17.326, GO13111_LC
+246820469, 79.061005, 15.957747, 11.845, GO13071_LC|GO13122_LC|GO13111_LC
+246851302, 78.490542, 16.274752, 14.774, GO13111_LC
+246872772, 75.303577, 16.488167, 17.71, GO13111_LC
+246912519, 76.601616, 16.873901, 17.926, GO13111_LC
+246917989, 76.607229, 16.927691, 15.866, GO13111_LC
+246932763, 76.932607, 17.071406, 15.703, GO13111_LC
+247033375, 73.357129, 18.03476, 17.984, GO13111_LC
+247050596, 74.970874, 18.200516, 14.742, GO13111_LC
+247056872, 74.128851, 18.259985, 15.54, GO13111_LC|GO13019_LC
+247061553, 74.200207, 18.304445, 11.408, GO13071_LC|GO13122_LC|GO13024_LC|GO13111_LC
+247070019, 74.43139, 18.384221, 14.558, GO13111_LC
+247162240, 71.033103, 19.263632, 16.526, GO13111_LC
+247163350, 69.078885, 19.274584, 18.08, GO13111_LC
+247230439, 71.060449, 19.913078, 17.234, GO13111_LC
+247269360, 73.952225, 20.275068, 17.803, GO13111_LC
+247271295, 69.622642, 20.29246, 19.879, GO13111_LC
+247334376, 78.638139, 20.852724, 17.569, GO13111_LC
+247359184, 68.526546, 21.063087, 19.184, GO13111_LC
+247374553, 73.712337, 21.189704, 15.654, GO13111_LC
+247398225, 71.398565, 21.38224, 17.99, GO13111_LC
+247436262, 74.596495, 21.691088, 13.638, GO13122_LC|GO13111_LC
+247446215, 68.678819, 21.772699, 12.931, GO13071_LC|GO13111_LC
+247504420, 68.08357, 22.229076, 19.934, GO13111_LC
+247520086, 74.535403, 22.349961, 13.671, GO13122_LC|GO13111_LC|GO13070_LC
+247535910, 72.412914, 22.470014, 19.717, GO13111_LC
+247554980, 71.102847, 22.617196, 12.739, GO13071_LC|GO13122_LC|GO13002_LC|GO13111_LC
+247672771, 70.718492, 23.513281, 16.157, GO13111_LC
+247715790, 75.500595, 23.824521, 16.091, GO13111_LC
+247724949, 73.571991, 23.888307, 15.06, GO13111_LC
+247755596, 72.5761, 24.101698, 17.301, GO13111_LC
+247763502, 70.821603, 24.156761, 16.453, GO13111_LC
+247776031, 75.855812, 24.243093, 16.917, GO13111_LC
+247811730, 72.117885, 24.490116, 17.824, GO13111_LC
+247853291, 72.041069, 24.774831, 19.474, GO13111_LC
+247945902, 68.400811, 25.414495, 16.933, GO13111_LC
+248152409, 70.284708, 27.041889, 18.098, GO13111_LC
+251456989, , , , GO13111_LC
+251456990, , , , GO13111_LC
+251456991, , , , GO13111_LC
+251456992, , , , GO13111_LC
+251456993, , , , GO13111_LC
+251456994, , , , GO13111_LC
+251456995, , , , GO13111_LC
+251456996, , , , GO13111_LC
+251456997, , , , GO13111_LC
+251456998, , , , GO13111_LC
+251456999, , , , GO13111_LC
+251457000, , , , GO13111_LC
+251457001, , , , GO13111_LC
+251457002, , , , GO13111_LC
+251457003, , , , GO13111_LC
+251457005, , , , GO13111_LC
+251457006, , , , GO13111_LC
+251457007, , , , GO13111_LC
+251457008, , , , GO13111_LC
+251457009, , , , GO13111_LC
+251457010, , , , GO13111_LC
+251457011, , , , GO13111_LC
+251457012, , , , GO13111_LC
+251457013, , , , GO13111_LC
+251457014, , , , GO13111_LC
+251457015, , , , GO13111_LC
+251457016, , , , GO13111_LC
+251457017, , , , GO13111_LC
+251457018, , , , GO13111_LC
+251457019, , , , GO13111_LC
+251457020, , , , GO13111_LC
+251457021, , , , GO13111_LC
+251457022, , , , GO13111_LC
+251457023, , , , GO13111_LC
+251457024, , , , GO13111_LC
+251457025, , , , GO13111_LC
