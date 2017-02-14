@@ -1,0 +1,22 @@
+# Summary of K2 Program GO13044
+
+Title: Kepler light curves of hot subdwarf binaries
+
+PI: Kupfer, Thomas (Caltech)
+CoIs: Nemeth, Peter; Heber, Ulrich; Geier, Stephan; Schaffenroth, Veronika
+
+Hot subdwarf-B (sdB) stars are core-helium burning stars that have evolved from the red giant stage to the extreme blue end of the horizontal branch in a process where almost the entire envelope has been lost through interactions with a companion. Many sdBs are known to have close companions with periods ranging from 0.05 to 10 days, and must have evolved through the common-envelope-ejection (CEE) process. The closest systems are quite easy to study from the ground, but Kepler observations have opened the door for precise studies of the population of systems with periods between 0.5 and and 10 days.
+
+Several close binary sdB stars were discovered by the original Kepler mission. The excellent Kepler light curves show photometric signals from Doppler beaming, ellipsoidal deformations and mutual irradiation effects. Long-cadence K2 observations presents us with an unique opportunity to accumulate a larger sample of post-common envelope sdB binaries that can shed light on the statistics of the CEE process, and thereby constrain the long sought after efficiency parameters that govern the common envelope stage of evolution. In the process we hope to find new particularly interesting binary systems, such as the eclipsing cases and those with extraordinary masses that could be progenitors of type-Ia supernovae.
+
+# Targets requested by this program that have been observed (9)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+246643895, 72.284718, 13.833535, 14.498, GO13072_LC|GO13044_LC|GO13072_SC
+246683636, 71.237082, 14.363935, 15.066, GO13072_LC|GO13044_LC|GO13072_SC
+246735349, 70.763917, 15.006696, 13.973, GO13044_LC
+246745570, 72.124143, 15.127714, 15.68, GO13072_LC|GO13044_LC|GO13019_LC|GO13072_SC
+246864591, 74.997072, 16.406037, 15.975, GO13072_LC|GO13044_LC|GO13072_SC
+246877984, 77.053697, 16.537902, 16.112, GO13072_LC|GO13044_LC|GO13072_SC
+246901153, 69.942822, 16.764441, 15.697, GO13072_LC|GO13044_LC|GO13072_SC
+246980092, 72.773607, 17.530337, 15.739, GO13072_LC|GO13044_LC|GO13072_SC
+246997679, 78.457432, 17.700731, 14.581, GO13072_LC|GO13044_LC|GO13072_SC

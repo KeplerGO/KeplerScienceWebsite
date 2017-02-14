@@ -1,0 +1,77 @@
+# Summary of K2 Program GO13011
+
+Title: Rotation and activity of brown dwarfs in Taurus
+
+PI: Scholz, Aleks (University of St Andrews)
+CoIs: Kostov, Veselin; Stelzer, Beate; Jayawardhana, Ray; Melnikov, Stanislav; Eisloeffel, Jochen
+
+Rotation is a fundamental parameter in the formation and evolution of stars. Young stars have orders of magnitude less angular momentum per unit mass than the cloud cores from which they have formed, indicating that efficient rotational braking occurs in the first few million years, due to binary and planet formation as well as interaction between star and disk. Subsequently stars spin up due to pre-main sequence contraction over ~100 million years. On longer timescales, the spin of stars is controlled by winds powered by stellar magnetic fields. Thus, the rotation is linked to key elements in the evolution of stars. 
+
+In contrast to most other parameters of low-mass stars, the rotation period is a quantity that can be measured with very high accuracy in many objects. Period measurements are routinely done by photometric monitoring and measuring the periodic flux modulation caused by cool magnetic spots co-rotating with the stars. The rotation periods provide highly relevant constraints on our understanding of magnetic activity and angular momentum exchange between stars and their disks. For comprehensive reviews on this topic, see Herbst et al. (2007) and Bouvier et al. (2014).
+
+For FGK stars, our best spindown models succesfully reproduce the observed periods in open clusters with known age and distance. These models take into account disk locking, contraction, wind braking, as well as core-envelope decoupling. So far, however, the models fail to explain the rotational evolution of the fully convective very low mass stars (M<0.3 Msol) and brown dwarfs (M<0.08 Msol). Over the past decade, we have carried out groundbreaking observational work to characterise the rotational behaviour of these VLM objects. In a series of papers we have published more than hundred rotation periods for objects below the 0.3 Msol boundary (Scholz & Eisloeffel 2004a, b, 2005, 2007; Scholz, Eisloeffel, Mundt 2009; Scholz et al. 2011). It has turned out that VLM objects retain high rotation rates for at least a gigayear, brown dwarfs for much longer. This is puzzling, as there is also evidence for large-scale magnetic fields and strong magnetic activity in VLM stars (Morin et al. 2011). The fast rotation of VLM objects may be a result of inefficient angular momentum transport due to a change in magnetic field topology and/or the increasingly neutral stellar atmospheres. At this point, however, this remains speculative.
+
+The current rotational database is very sparse in the mass domain below 0.3 Msol, which precludes further empirical tests of the ideas outlined above. Almost no periods are available for objects with M<0.1Msol and ages >10 Myr. Most periods for young brown dwarfs are in distant regions with little chance of detailed follow-up. K2 offers a unique chance to remedy the situation and to study the rotation of very low mass stars and brown dwarfs as a function of age. We have already published the first brown dwarf rotation period from campaign 2 for the 10 Myr old UpSco association (Scholz et al. 2015). We are currently in the process of analysing data from campaign 4 and 5, which contain The field covers large parts of the Pleiades (age 100 Myr), the Hyades (age 600 Myr), and Praesepe (age 600 Myr), three of the classical benchmark clusters. In addition, a paper with rotation periods and activity diagnostics for field M dwarfs from campaign 0-4 is close to being submitted (Stelzer et al. 2016). In campaign 13 we get another chance to pursue this project, when the K2 field includes the young brown dwarfs in the Taurus association (age 1-2 Myr), and again the Hyades, in total about 100 target for our science goals. Here we propose to study their rotation and activity using K2 and to continue our successful project.
+
+# Targets requested by this program that have been observed (60)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210540496, 67.51739, 16.068888, 15.236, GO13018_LC|GO13011_LC|GO13077_LC
+210552148, 66.919769, 16.248719, 13.814, GO13008_LC|GO13064_LC|GO13018_LC|GO13011_LC|GO13023_LC|GO13077_LC|GO13073_LC
+210640966, 66.445925, 17.544606, 14.553, GO13008_LC|GO13064_LC|GO13018_LC|GO13011_LC|GO13023_LC|GO13077_LC|GO13073_LC|GO13090_LC|GO13902_LC|GO13904_LC
+210644048, 66.346458, 17.587503, 16.27, GO13011_LC|GO13902_LC|GO13904_LC
+210674207, 66.590457, 18.000294, 14.599, GO13008_LC|GO13064_LC|GO13123_LC|GO13018_LC|GO13011_LC|GO13023_LC|GO13077_LC|GO13073_LC|GO13090_LC|GO13902_LC|GO13904_LC|GO13023_SC
+210718930, 65.986159, 18.638931, 14.608, GO13008_LC|GO13064_LC|GO13018_LC|GO13011_LC|GO13023_LC|GO13077_LC|GO13073_LC|GO13902_LC|GO13904_LC
+210742017, 66.127462, 18.986894, 15.149, GO13008_LC|GO13064_LC|GO13018_LC|GO13011_LC|GO13023_LC|GO13077_LC|GO13073_LC|GO13090_LC|GO13902_LC|GO13904_LC
+210743724, 66.424322, 19.013215, 13.8, GO13008_LC|GO13049_LC|GO13064_LC|GO13123_LC|GO13018_LC|GO13011_LC|GO13023_LC|GO13077_LC|GO13073_LC|GO13090_LC|GO13902_LC|GO13904_LC
+210754620, 66.087286, 19.180739, 14.397, GO13008_LC|GO13064_LC|GO13018_LC|GO13011_LC|GO13023_LC|GO13077_LC|GO13073_LC|GO13902_LC|GO13904_LC
+210772187, 66.902001, 19.445683, 14.363, GO13008_LC|GO13064_LC|GO13123_LC|GO13018_LC|GO13011_LC|GO13002_LC|GO13023_LC|GO13077_LC|GO13073_LC|GO13090_LC
+210828490, 65.409687, 20.302828, 15.003, GO13008_LC|GO13064_LC|GO13018_LC|GO13011_LC|GO13023_LC|GO13077_LC|GO13073_LC|GO13090_LC
+210834592, 65.441108, 20.395727, 18.572, GO13008_LC|GO13064_LC|GO13011_LC|GO13077_LC|GO13073_LC
+210835057, 65.434833, 20.402943, 17.794, GO13008_LC|GO13064_LC|GO13011_LC|GO13077_LC|GO13073_LC
+210871016, 66.904524, 20.944139, 14.418, GO13008_LC|GO13064_LC|GO13018_LC|GO13011_LC|GO13006_LC|GO13077_LC|GO13073_LC
+210878579, 65.797414, 21.058949, 14.166, GO13008_LC|GO13064_LC|GO13123_LC|GO13018_LC|GO13011_LC|GO13023_LC|GO13077_LC|GO13073_LC|GO13090_LC
+210899231, 65.122451, 21.378697, 14.281, GO13008_LC|GO13064_LC|GO13123_LC|GO13018_LC|GO13011_LC|GO13023_LC|GO13077_LC|GO13073_LC|GO13090_LC
+247548866, 68.924331, 22.569885, 15.459, GO13117_LC|GO13009_LC|GO13011_LC
+247573157, 68.359223, 22.75815, 13.277, GO13117_LC|GO13009_LC|GO13011_LC
+247575958, 68.289405, 22.780195, 14.482, GO13117_LC|GO13009_LC|GO13011_LC
+247581233, 68.964299, 22.819986, 16.933, GO13029_LC|GO13022_LC|GO13009_LC|GO13011_LC|GO13042_LC
+247585465, 68.100646, 22.852333, 17.698, GO13117_LC|GO13009_LC|GO13011_LC|GO13016_LC|GO13082_LC
+247588169, 68.925159, 22.872963, 12.835, GO13117_LC|GO13009_LC|GO13011_LC|GO13016_LC|GO13082_LC|GO13118_LC
+247591534, 68.990035, 22.899303, 16.646, GO13117_LC|GO13009_LC|GO13011_LC|GO13118_LC
+247592919, 68.986864, 22.909994, 12.746, GO13117_LC|GO13009_LC|GO13011_LC|GO13016_LC|GO13002_LC|GO13082_LC|GO13119_LC|GO13118_LC
+247600777, 69.16224, 22.969973, 15.057, GO13117_LC|GO13009_LC|GO13011_LC|GO13118_LC
+247604448, 69.043281, 22.998896, 15.088, GO13117_LC|GO13009_LC|GO13011_LC|GO13118_LC
+247630187, 68.78545, 23.194407, 16.985, GO13117_LC|GO13009_LC|GO13011_LC|GO13016_LC|GO13118_LC
+247735103, 66.939085, 23.956757, 16.348, GO13009_LC|GO13011_LC
+247739445, 67.598562, 23.986942, 16.377, GO13009_LC|GO13011_LC
+247748412, 68.097078, 24.050383, 13.726, GO13117_LC|GO13009_LC|GO13011_LC|GO13016_LC
+247766994, 67.849228, 24.181384, 13.212, GO13117_LC|GO13123_LC|GO13009_LC|GO13011_LC|GO13016_LC|GO13002_LC|GO13121_LC|GO13004_LC|GO13119_LC|GO13004_SC
+247791556, 68.258238, 24.350002, 15.914, GO13117_LC|GO13009_LC|GO13011_LC|GO13016_LC|GO13082_LC
+247794491, 68.209439, 24.369879, 15.305, GO13117_LC|GO13009_LC|GO13011_LC
+247794636, 68.074424, 24.370829, 13.065, GO13117_LC|GO13009_LC|GO13011_LC|GO13016_LC|GO13002_LC
+247802333, 71.666134, 24.423925, 12.148, GO13011_LC
+247820507, 67.348912, 24.549997, 13.069, GO13117_LC|GO13009_LC|GO13011_LC|GO13016_LC|GO13002_LC|GO13121_LC|GO13086_LC|GO13082_LC|GO13119_LC|GO13005_LC
+247820821, 67.49795, 24.552181, 17.396, GO13117_LC|GO13009_LC|GO13011_LC|GO13016_LC
+247842020, 67.715473, 24.696531, 18.248, GO13117_LC|GO13009_LC|GO13011_LC|GO13016_LC|GO13002_LC|GO13082_LC
+247843485, 67.714122, 24.706208, 12.951, GO13117_LC|GO13123_LC|GO13009_LC|GO13011_LC|GO13016_LC|GO13121_LC|GO13082_LC|GO13058_LC|GO13119_LC
+247915927, 71.113051, 25.204557, 16.803, GO13117_LC|GO13009_LC|GO13011_LC|GO13016_LC|GO13118_LC
+247927319, 71.416127, 25.284621, 11.77, GO13117_LC|GO13011_LC
+247932205, 70.165802, 25.318367, 13.294, GO13117_LC|GO13009_LC|GO13011_LC|GO13016_LC|GO13002_LC|GO13118_LC
+247950452, 68.428815, 25.446394, 16.03, GO13009_LC|GO13011_LC
+247953586, 68.013725, 25.468836, 16.223, GO13117_LC|GO13009_LC|GO13011_LC|GO13016_LC|GO13082_LC
+247968420, 70.451043, 25.575138, 15.063, GO13117_LC|GO13009_LC|GO13011_LC|GO13042_LC|GO13118_LC
+247989075, 67.993577, 25.724997, 13.004, GO13117_LC|GO13123_LC|GO13009_LC|GO13011_LC|GO13016_LC|GO13082_LC
+247989931, 70.352685, 25.731396, 18.265, GO13117_LC|GO13009_LC|GO13011_LC
+247991214, 69.7665, 25.740671, 18.092, GO13117_LC|GO13009_LC|GO13011_LC|GO13042_LC
+248015397, 70.294936, 25.919903, 18.758, GO13117_LC|GO13009_LC|GO13011_LC|GO13042_LC
+248018652, 67.73828, 25.9443, 15.903, GO13029_LC|GO13022_LC|GO13009_LC|GO13011_LC|GO13042_LC|GO13042_SC
+248021602, 70.267713, 25.965429, 13.491, GO13117_LC|GO13123_LC|GO13009_LC|GO13011_LC|GO13016_LC|GO13082_LC
+248023915, 69.503499, 25.982563, 13.066, GO13117_LC|GO13009_LC|GO13011_LC
+248029954, 69.947849, 26.027994, 18.808, GO13117_LC|GO13009_LC|GO13011_LC|GO13042_LC|GO13002_LC|GO13086_LC
+248030407, 69.937014, 26.03133, 15.896, GO13117_LC|GO13009_LC|GO13011_LC|GO13016_LC|GO13002_LC|GO13086_LC|GO13082_LC
+248044306, 67.530184, 26.139109, 16.415, GO13029_LC|GO13022_LC|GO13009_LC|GO13011_LC|GO13042_LC|GO13042_SC
+248051303, 69.56192, 26.194427, 16.61, GO13117_LC|GO13009_LC|GO13011_LC|GO13042_LC
+248053986, 68.468574, 26.215237, 17.287, GO13009_LC|GO13011_LC
+248058354, 68.436051, 26.250147, 17.316, GO13117_LC|GO13009_LC|GO13011_LC
+248060724, 68.282542, 26.268509, 18.111, GO13117_LC|GO13009_LC|GO13011_LC
+248075421, 71.685242, 26.385154, 11.999, GO13117_LC|GO13011_LC

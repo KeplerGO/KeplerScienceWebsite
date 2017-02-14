@@ -1,0 +1,18 @@
+# Summary of K2 Program GO13032
+
+Title: Monitoring the Closest Stars in K2 Fields 11, 12 and 13
+
+PI: Jao, Wei-Chun (Georgia State University)
+CoIs: Henry, Todd J.
+
+The fundamentals of stellar astronomy are built upon studies of nearby stars. Because of their proximity and brightness, they provide us with the most reliable answers to questions about stellar populations, multiplicity, structure, and evolution.  These nearby stars have accurate optical/infrared photometry in addition to accurate parallaxes, so we know their precise locations on the HR diagram. Using the combination of available parallaxes and photometry, we will answer a fundamental question in stellar astronomy: What stellar parameters of K and M dwarfs cause the main sequence (MS) to be up to three full magnitudes in width? In order to answer this question, we need to understand their multiplicity, metallicities/ages, variability characteristics, radii, and rotation rates.  
+
+The RECONS team has initiated programs to understand the relation between the MS width and different stellar parameters discussed above. Because of the limited precision on the ground based observations to measure rotation periods, we propose to utilize the K2 mission to observe the sample of the nearest K and M dwarfs within 25 pc to accurately determine their rotation rates. In K2 fields 11, 12 and 13, we will observe ten nearby systems, including three K and seven M dwarfs. One of the systems, GJ0176, has a known planet and the other, GJ1286, is the closest star among all three campaigns. We expect to have the most complete characterization of a set of the nearest K and M stars in all K2 fields that have ever been accomplished.
+
+# Targets requested by this program that have been observed (5)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+246807434, 73.458533, 15.820916, 12.171, GO13049_LC|GO13010_LC|GO13071_LC|GO13018_LC|GO13032_LC
+247130198, 70.732396, 18.958168, 9.076, GO13049_LC|GO13010_LC|GO13032_LC|GO13062_LC|GO13039_LC|GO13073_LC|GO13083_LC|GO13085_LC|GO13903_LC
+247227231, 78.570839, 19.88295, 9.087, GO13014_LC|GO13049_LC|GO13123_LC|GO13071_LC|GO13122_LC|GO13032_LC|GO13002_LC|GO13062_LC|GO13024_LC|GO13039_LC|GO13903_LC
+247262221, 70.610766, 20.20847, 14.717, GO13123_LC|GO13032_LC
+247340158, 70.328568, 20.901513, 10.102, GO13049_LC|GO13032_LC|GO13002_LC|GO13062_LC|GO13039_LC|GO13103_LC|GO13903_LC

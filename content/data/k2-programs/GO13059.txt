@@ -1,0 +1,21 @@
+# Summary of K2 Program GO13059
+
+Title: Variability of Be Stars
+
+PI: Pepper, Joshua (Lehigh University)
+CoIs: Labadie-Bartz, Jonathan Michael
+
+We propose to observe seven Be-type stars in K2 Campaigns 11 and 13. Be stars are rapidly rotating, with spectral type B and luminosity class V-III that exhibit line emission, which is attributed to a gaseous circumstellar disk in Keplerian motion. The physical mechanism behind the disk creation is still unclear, but the very rapid stellar rotation combined with non-radial pulsations is theorized to play an important role via mass outbursts which transfer material from the star to the disk. These outbursts appear in photometry, typically as a sudden brightening of the system followed by a more gradual return to the pre-outburst brightness level. Transient pulsational modes are sometimes associated with outbursts, showing different frequencies and amplitudes before, during, and after the outburst event (Huat et al. 2009, with CoRoT).
+
+For 3 of the stars proposed here, we have existing light curves with baselines of many years from the Kilodegree Extremely Little Telescope (KELT; Pepper et al. 2007) - a ground based photometric survey designed to find transiting exoplanets. Notably, HD 32190 is a classical Be star with a 9-year KELT light curve that shows very strong outburst features (up to 0.5 mag) on timescales of ~1 year, with smaller scale outbursts superimposed. Simultaneous spectroscopic observations from the Be Star Spectral Database (BeSS; Neiner et al. 2011) show significant line profile variability that is correlated in time with these photometric outbursts. K2 provides a photometric precision and uninterrupted observing window that is unavailable with ground-based observing strategies, and will allow us to study pulsations and low-amplitude outbursts that are unseen in the KELT data. The additional context given by the KELT photometric data and the BeSS spectra make HD 32190 a valuable target for an in-depth analysis, regardless of the outburst stage during the K2 observations. Another star, HD 30123, has 7 years of KELT data, but does not exhibit any clear variability or outbursts that are resolved the KELT light curve. The existing spectra for this object are simultaneous with KELT photometry and show a strong single-peaked emission line profile that grows over the course of three years, so it is likely that there are in fact outbursts injecting material into the disk with amplitudes and/or durations too small to be detectable with KELT data. K2 photometry would likely reveal these outbursts (and possibly pulsations), providing evidence that even Be stars that appear to be photometrically stable from the ground can exhibit variability in the form of pulsations and outbursts.
+
+Huat et al. 2009 Astronomy and Astrophysics, Volume 506, Issue 1, 2009, pp.95-101
+Pepper et al. 2007 The Publications of the Astronomical Society of the Pacific, Volume 119, Issue 858, pp. 923-935
+Neiner et al. 2011 The Astronomical Journal, Volume 142, Issue 5, article id. 149, 7 pp. (2011)
+Pojmanski, G. 1997 Acta Astronomica, v.47, pp.467-481, (1997)
+
+# Targets requested by this program that have been observed (3)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+247169098, 71.394528, 19.328305, 8.671, GO13112_LC|GO13071_LC|GO13122_LC|GO13101_LC|GO13024_LC|GO13059_LC|GO13077_LC|GO13082_LC|GO13052_LC|GO13127_LC
+247541278, 76.670537, 22.510756, 7.207, GO13122_LC|GO13059_LC|GO13052_LC|GO13019_LC|GO13127_LC
+247745384, 75.566223, 24.029163, 9.144, GO13112_LC|GO13071_LC|GO13122_LC|GO13002_LC|GO13101_LC|GO13095_LC|GO13059_LC|GO13082_LC|GO13052_LC|GO13127_LC

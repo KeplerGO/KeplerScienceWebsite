@@ -20,6 +20,33 @@ After data has been released, the
 should be consulted for more comprehensive notes for each Campaign.
 
 
+Campaign 13
+-----------
+.. raw:: html
+
+  <ul class="list-group">
+    <li class="list-group-item">
+      <i class="fa fa-calendar fa-margin"></i>
+      Mar 8, 2017 - May 27, 2017
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-pencil-square-o fa-margin"></i>
+      Data release notes (awaiting data release)
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-download fa-margin"></i>
+      <a href="data/campaigns/c12/K2Campaign13targets.csv">Target list (csv)</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-external-link fa-margin"></i>
+      Target pixel files (awaiting data release)
+    </li>
+  </ul>
+
+.. include:: approved-programs/c13.html
+
+
+
 Campaign 12
 -----------
 .. raw:: html

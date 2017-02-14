@@ -1,0 +1,31 @@
+# Summary of K2 Program GO13005
+
+Title: Variability at the edge: K2 observations of EXors, FUors, and other highly accreting objects in Taurus
+
+PI: Kospal, Agnes (Konkoly Observatory)
+CoIs: Szabo, Robert; Abraham, Peter
+
+Variability at the edge: K2 observations of EXors, FUors, and other highly accreting objects in Taurus
+
+Agnes Kospal, Peter Abraham, Robert Szabo
+Konkoly Observatory, Budapest, Hungary
+
+Mass accretion from the circumstellar disk onto the star is a fundamental process in the formation of Sun-like stars. Accretion is inherently time variable, and its fluctuations are responsible for an significant fraction of photometric variations observed in young stars (Herbst et al. 1994). Accretion rates show a wide variety in different young stellar objects. EX Lup- and FU Ori-type variable stars (EXors and FUors, collectively called young eruptive stars) exhibit the most extreme accretion rate changes, up to several orders of magnitude, appearing as 1-5 mag optical outbursts. There are also other low-mass young T Tauri stars where accretion significantly exceeds the average rate.
+
+The aim of this proposal is to study the mass accretion in the time domain in a sample of actively accreting young stars in the benchmark star-forming region Taurus. The accretion rate variations will be deduced from the observed flux fluctuations, derived from high cadence, high accuracy K2 photometry.  Beside analyzing the general variability characteristics and patterns, we will also study two so-far little understood phenomena related to the accretion process: flickering and periodic accretion signal variations.
+
+Flickering is small amplitude (0.01-1.0 mag) random fluctuations on timescales of 1 day or less, observed in young eruptive stars (Kenyon et al. 2000), originating in a region between the central star and disk. During FUor outbursts, a large amount of disk material falls to the stellar surface, therefore, flickering will provide information on the inhomogeneity of the accretion flow (e.g., Bastien et al. 2011). Similar short-term variations were found in classical T Tauri stars as well (BP Tau, Gullbring et al. 1996; DG Tau, DR Tau, and DI Cep, Hessman  & Guenther 1997). These variations are interpreted with a magnetospheric disk model, where jitter in the magnetically channeled flow from the inner disk to the star produces small amplitude flares. The proposed K2 observations will constitute the highest time resolution and sensitivity study of this phenomenon.
+
+Accretion-related periodic or quasi-periodic oscillations were detected in the outburst light curves of many young eruptive stars. EX Lup, the prototype of EXors, showed fluctuations with increasing amplitude and 35 d period during its outburst in 2008 (Juhasz et al. 2012); V960 Mon showed oscillations with declining amplitude and period of 17 d, explained by a hypothetical eccentric close binary (Hackstein et al. 2015); V1647 Ori displayed 56 d period in the light curve, probably due to obscuration by an orbiting dust cloud (Acosta-Pulido et al. 2007); and HBC 722 showed 5.8 and 1.28 d periods, the first associated to stellar rotation, the second one to disk instability and flickering (Green et al. 2013). These examples demonstrate that photometric monitoring and period analysis are powerful tools for identifying various processes that modulate the usually assumed simple, steady accretion flow. The 80 d observing window of K2 is most appropriate for covering the expected periodicities.
+
+Using K2 in long cadence mode, we will monitor brightness variations in eight EXors, FUors, and other highly accreting systems, in order to determine typical variability timescales, patterns, and amplitudes.
+
+# Targets requested by this program that have been observed (7)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210683818, 67.891989, 18.134695, 15.04, GO13117_LC|GO13009_LC|GO13002_LC|GO13086_LC|GO13082_LC|GO13119_LC|GO13005_LC
+210690892, 67.916987, 18.23253, 12.012, GO13117_LC|GO13009_LC|GO13016_LC|GO13002_LC|GO13121_LC|GO13086_LC|GO13082_LC|GO13058_LC|GO13119_LC|GO13005_LC|GO13118_LC
+210690913, 67.9103, 18.232801, 13.698, GO13117_LC|GO13009_LC|GO13016_LC|GO13086_LC|GO13082_LC|GO13058_LC|GO13005_LC|GO13118_LC|GO13082_SC
+246923113, 71.775872, 16.978558, 10.545, GO13117_LC|GO13009_LC|GO13016_LC|GO13082_LC|GO13058_LC|GO13119_LC|GO13005_LC|GO13118_LC|GO13117_SC|GO13118_SC
+246925324, 71.721091, 17.000025, 12.57, GO13117_LC|GO13009_LC|GO13016_LC|GO13002_LC|GO13082_LC|GO13119_LC|GO13005_LC|GO13118_LC|GO13117_SC|GO13119_SC
+247820507, 67.348912, 24.549997, 13.069, GO13117_LC|GO13009_LC|GO13011_LC|GO13016_LC|GO13002_LC|GO13121_LC|GO13086_LC|GO13082_LC|GO13119_LC|GO13005_LC
+248009353, 68.178394, 25.875366, 11.645, GO13117_LC|GO13009_LC|GO13016_LC|GO13002_LC|GO13121_LC|GO13082_LC|GO13058_LC|GO13119_LC|GO13005_LC|GO13118_LC|GO13119_SC
