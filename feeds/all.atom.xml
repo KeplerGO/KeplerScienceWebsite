@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2017-02-01T15:30:00-08:00</updated><entry><title>K2 Campaigns 14, 15 and 16 Director's Discretionary Targets program</title><link href="https://keplerscience.arc.nasa.gov/k2-campaigns-14-15-and-16-directors-discretionary-targets-program.html" rel="alternate"></link><published>2017-02-01T15:30:00-08:00</published><updated>2017-02-01T15:30:00-08:00</updated><author><name>Knicole Colon</name></author><id>tag:keplerscience.arc.nasa.gov,2017-02-01:/k2-campaigns-14-15-and-16-directors-discretionary-targets-program.html</id><summary type="html">&lt;p&gt;A small percentage of the available K2 pixels in each campaign may be
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2017-02-14T22:00:00-08:00</updated><entry><title>Funding available for Kepler &amp; K2 data analysis through ADAP</title><link href="https://keplerscience.arc.nasa.gov/funding-available-for-kepler-k2-data-analysis-through-adap.html" rel="alternate"></link><published>2017-02-14T22:00:00-08:00</published><updated>2017-02-14T22:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-02-14:/funding-available-for-kepler-k2-data-analysis-through-adap.html</id><summary type="html">&lt;p&gt;The Kepler/K2 community is being alerted to the new call for proposals
+to be submitted to the &lt;a href="https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&amp;amp;solId={9B644CB9-C0A8-8F23-DE92-FA3837D2F0BD}&amp;amp;path=open"&gt;Astrophysics Data Analysis Program (ADAP)&lt;/a&gt;, which provides financial support for investigations
+whose primary purpose is the analysis of NASA space astrophysics data
+that are archived in the public domain at the time …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The Kepler/K2 community is being alerted to the new call for proposals
+to be submitted to the &lt;a href="https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&amp;amp;solId={9B644CB9-C0A8-8F23-DE92-FA3837D2F0BD}&amp;amp;path=open"&gt;Astrophysics Data Analysis Program (ADAP)&lt;/a&gt;, which provides financial support for investigations
+whose primary purpose is the analysis of NASA space astrophysics data
+that are archived in the public domain at the time of proposal submission.&lt;/p&gt;
+&lt;p&gt;ADAP proposals are solicitated annually as part of NASA's
+&lt;a href="https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&amp;amp;solId={E757EF32-60E6-76AE-A276-21A1F8BA96BB}&amp;amp;path=open"&gt;Research Opportunities in Space and Earth Sciences (ROSES)&lt;/a&gt; solicitation.
+Typical ADAP funding amounts range between $40,000 per year
+to more than $200,000 per year, and can run for up to 3 years.&lt;/p&gt;
+&lt;p&gt;Proposals for the 2017 call are due on May 16, 2017.
+All Kepler/K2 data that will have been released to the community as of 
+that date will be eligible for inclusion in ADAP proposals.
+This includes all Kepler prime mission data and K2 Campaigns 0 through 10.&lt;/p&gt;
+&lt;p&gt;Studies of bodies within our Solar System based on Kepler/K2 data
+are not eligible for funding under the ADAP.
+These are eligible for funding through the &lt;a href="https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&amp;amp;solId={410D2803-9FFE-F7D0-2CDA-6AABC9664AF5}&amp;amp;path=open"&gt;DDAP program&lt;/a&gt; instead.&lt;/p&gt;
+&lt;p&gt;Quick links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&amp;amp;solId={9B644CB9-C0A8-8F23-DE92-FA3837D2F0BD}&amp;amp;path=open"&gt;Astrophysics Data Analysis Program&lt;/a&gt; (ADAP)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&amp;amp;solId={410D2803-9FFE-F7D0-2CDA-6AABC9664AF5}&amp;amp;path=open"&gt;Discovery Data Analysis Program&lt;/a&gt; (DDAP)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&amp;amp;solId={E757EF32-60E6-76AE-A276-21A1F8BA96BB}&amp;amp;path=open"&gt;Annual ROSES solication&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content></entry><entry><title>K2 Campaigns 14, 15 and 16 Director's Discretionary Targets program</title><link href="https://keplerscience.arc.nasa.gov/k2-campaigns-14-15-and-16-directors-discretionary-targets-program.html" rel="alternate"></link><published>2017-02-01T15:30:00-08:00</published><updated>2017-02-01T15:30:00-08:00</updated><author><name>Knicole Colon</name></author><id>tag:keplerscience.arc.nasa.gov,2017-02-01:/k2-campaigns-14-15-and-16-directors-discretionary-targets-program.html</id><summary type="html">&lt;p&gt;A small percentage of the available K2 pixels in each campaign may be
 allocated by the K2 Guest Observer (GO) Office Director as Director's
 Discretionary Targets (DDTs). The primary utilization of DDT programs
 is in support of community-proposed requests that are based on
