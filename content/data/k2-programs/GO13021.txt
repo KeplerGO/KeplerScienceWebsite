@@ -1,0 +1,17 @@
+# Summary of K2 Program GO13021
+
+Title: Fundamental Properties of Galactic Carbon Stars from K2 Observations
+
+PI: Kraemer, Kathleen E (Boston College)
+CoIs: Sloan, Gregory C
+
+We propose to observe 29 evolved carbon stars that are in the upcoming K2 fields F11, F12, and F13. Carbon stars may be responsible for at least half the dust returned to the Galactic interstellar medium (ISM) (e.g., Jura & Kleinmann 1989, Gehrz 1989). However, while progress has recently been made linking the dust production and mass loss of these stars to their long-term pulsations, little is known about their high-frequency oscillations. Most of the work so far has concentrated on the oxygen-rich sample of evolved stars (e.g., Banyai et al. 2013, 2014). To fill this void, we will use K2 to observe the evolved carbon stars in the next three campaigns. K2 enables us to to bypass a basic problem in Galactic astronomy: the unknown distances to Galactic carbon stars. With K2 data, the asteroseismologic techniques and models that have been developed for oxygen-rich stars (e.g., Chaplin & Miglio 2013) can be applied to the carbon stars in order to determine their fundamental parameters like mass, radius, and surface gravity - independent of their unknown distances. Thus, a small investment of K2 time, 29 long-cadence observations, has the potential for a very high
+scientific payoff.
+
+# Targets requested by this program that have been observed (5)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+246805167, 72.656967, 15.79708, 8.599, GO13021_LC|GO13052_LC
+247497550, 76.217645, 22.176117, 12.576, GO13021_LC
+247785704, 75.355167, 24.310377, 11.164, GO13021_LC|GO13052_LC
+247961728, 67.077226, 25.528039, 10.836, GO13021_LC
+248002365, 69.451064, 25.823938, 9.493, GO13021_LC

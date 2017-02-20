@@ -1,0 +1,22 @@
+# Summary of K2 Program GO13004
+
+Title: A survey of M/L flare stars
+
+PI: Ramsay, Gavin (Armagh Observatory)
+CoIs: Doyle, John Gerard
+
+Flares are seen from stars of various spectral types including our Sun.  However, flares from stars with a much lower mass than our Sun are more common than higher mass stars. At the start of K2 we initiated a project to observe a stars with M/L spectral type to determine how the flare activity depends on parameters such as mass, rotation period, age and hence a better understanding of the
+underlying physics which produce flares. A second key goal is to assess how correlated flares are with the stellar rotational phase. Kepler observations indicate that at least some flare stars do not show a correlation but do show a characteristic rotational modulation. This is difficult to explain since the modulation is expected to be due to starspots rotating into and out of view which should produce a correlation between phase and flare rate. Our work will also have implications for determining how flares can effect the atmosphere of any exoplanets in the stellar system. Our target selection will cover the M (and early L) spectral types. We bid for observatios of 4, 3 and 10 known flare stars in Fields 11, 12 and 13 respectively. Since stellar flares can have a duration of only a few minutes, we request that some of our observations will be configured in short cadence mode.
+
+# Targets requested by this program that have been observed (10)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+246774176, 77.291557, 15.459022, 11.488, GO13049_LC|GO13010_LC|GO13123_LC|GO13071_LC|GO13004_LC|GO13039_LC|GO13004_SC
+247556609, 67.68751, 22.630088, 13.652, GO13008_LC|GO13064_LC|GO13018_LC|GO13023_LC|GO13004_LC|GO13077_LC|GO13073_LC|GO13090_LC|GO13004_SC
+247566033, 68.169181, 22.702983, 13.891, GO13004_LC
+247592507, 68.83709, 22.906737, 12.945, GO13117_LC|GO13009_LC|GO13016_LC|GO13002_LC|GO13121_LC|GO13004_LC|GO13004_SC
+247603230, 68.804893, 22.989045, 13.438, GO13008_LC|GO13064_LC|GO13123_LC|GO13009_LC|GO13018_LC|GO13023_LC|GO13004_LC|GO13077_LC|GO13073_LC|GO13004_SC
+247609913, 69.565047, 23.040998, 12.966, GO13117_LC|GO13123_LC|GO13009_LC|GO13016_LC|GO13002_LC|GO13004_LC|GO13118_LC|GO13004_SC
+247610046, 69.158471, 23.041996, 13.117, GO13008_LC|GO13064_LC|GO13123_LC|GO13018_LC|GO13016_LC|GO13023_LC|GO13004_LC|GO13077_LC|GO13073_LC|GO13090_LC|GO13004_SC
+247685149, 69.301151, 23.604585, 15.783, GO13004_LC|GO13004_SC
+247766994, 67.849228, 24.181384, 13.212, GO13117_LC|GO13123_LC|GO13009_LC|GO13011_LC|GO13016_LC|GO13002_LC|GO13121_LC|GO13004_LC|GO13119_LC|GO13004_SC
+248019863, 69.507866, 25.953113, 11.424, GO13004_LC|GO13004_SC

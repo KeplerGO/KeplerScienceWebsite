@@ -1,0 +1,74 @@
+# Summary of K2 Program GO13010
+
+Title: Rotation of M dwarfs: spindown, activity, and gyrochronology
+
+PI: Scholz, Aleks (University of St Andrews)
+CoIs: Damasso, Mario; Peterson, Dawn E; Matt, Sean P; Stelzer, Beate
+
+Stellar rotation is a fundamental parameter for the evolution of stars and planets. Perhaps the biggest challenge in this context is to explain the spindown and the rotation-activity interplay in very low mass stars with spectral type M -- the most abundant type of star in our Galaxy.
+
+Our best spindown models which very successfully reproduce the rotation rates of FGK stars, encounter many problems in the M dwarf regime (Gallet & Bouvier 2013, Mohanty & Reiners 2012). In addition, the gyrochronology period-age relations established for FGK stars do not apply to M dwarfs. A successful theory of the spindown of M dwarfs is going to lead to new insights into magnetic field generation, wind physics, and habitability of planets (e.g., Matt et al. 2012). For a better understanding of the connection between activity, rotation, and age, we suggest to observe a well-defined sample of nearby M dwarfs with well-studied activity properties in the Kepler K2 mission.
+
+The ideal parameter to constrain models is the rotation period which can be measured with high accuracy from photometric monitoring. Because M dwarfs have long spindown timescales (>1 Gyr), obtaining periods for evolved objects is critical. While large samples of periods exist for M dwarfs in clusters up to 600 Myr (Scholz et al. 2011), the situation is much different for the field. From the ground, rotation periods have only been measured for small (~50), biased samples of M dwarfs (Irwin et al. 2011). Interestingly, these few periods show a wide spread from a few hours up to 150 d, in stark contrast to the periods of more massive stars.
+
+Measuring rotation periods for field M dwarfs is very challenging from the ground, due to the wide spread in periods, the low amplitudes, and the faintness of the objects. While a large sample of M dwarfs have been covered in the original Kepler field (McQuillan et al.2013), most of them are too distant for detailed characterisation (distance, age, binarity, activity levels). The wide sky coverage of the K2 mission represents a unique opportunity to tackle this problem.
+
+Recent survey work has provided excellent, nearly complete samples of M dwarfs in the solar neighbourhood. The Superblink catalog by Lepine & Gaidos (2011) comprises an all-sky list of 8889 M dwarf candidates brighter than J=10, most of them within 60 pc, with estimated spectral types ranging from K7 to M7. Detailed follow-up for these objects is underway. Lepine et al. (2013) confirm spectroscopically that the candidate list contains very litte (<10%) contamination. All these objects will soon have information on parallaxes, kinematics, and binarity from Gaia, which should provide good constraints on ages and masses. A large fraction of them have been detected in UV or X-rays, allowing for detailed activity studies (Stelzer et al. 2013).
+
+Here we propose to investigate the rotation periods of the Superblink M dwarfs using Kepler. Several hundred of them (about 30 per field) are likely to be covered by the K2 fields from 2014 to 2017. We have successfully applied for time in previous campaigns and the lightcurves for campaigns 0-5 are fully analysed, paper close to submission (Stelzer et al., A&A). For fields 11-13, observed in late 2016 and early 2017, we propose to include ~100 targets in the K2 fields for these campaigns for long-cadence (30 min) monitoring. We anticipate that most of them will fall onto the Kepler chips. For the subsequent fields we will submit similarly sized numbers of objects. Our team combines expertise in period search and time series analysis, magnetic activity and spindown modeling. The data from this run will be analysed in a timely manner using the procedures developed for previous campaigns.
+
+# Targets requested by this program that have been observed (53)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210491860, 67.30146, 15.273897, 11.603, GO13008_LC|GO13049_LC|GO13064_LC|GO13010_LC|GO13071_LC|GO13018_LC|GO13023_LC|GO13077_LC|GO13039_LC|GO13090_LC
+210596446, 67.482257, 16.914051, 11.999, GO13008_LC|GO13049_LC|GO13064_LC|GO13010_LC|GO13071_LC|GO13018_LC|GO13023_LC|GO13077_LC|GO13039_LC|GO13073_LC|GO13090_LC
+210651981, 67.119902, 17.695942, 11.247, GO13008_LC|GO13049_LC|GO13064_LC|GO13010_LC|GO13123_LC|GO13018_LC|GO13002_LC|GO13023_LC|GO13077_LC|GO13039_LC|GO13090_LC|GO13902_LC|GO13904_LC|GO13023_SC
+210653579, 67.871133, 17.71866, 11.226, GO13008_LC|GO13049_LC|GO13010_LC|GO13071_LC|GO13018_LC|GO13023_LC|GO13006_LC|GO13098_LC
+210721261, 67.254214, 18.673702, 12.345, GO13008_LC|GO13049_LC|GO13064_LC|GO13010_LC|GO13123_LC|GO13071_LC|GO13018_LC|GO13023_LC|GO13077_LC|GO13073_LC|GO13090_LC
+210741091, 66.310684, 18.973581, 11.981, GO13008_LC|GO13049_LC|GO13064_LC|GO13010_LC|GO13123_LC|GO13071_LC|GO13018_LC|GO13023_LC|GO13077_LC|GO13090_LC|GO13902_LC|GO13904_LC
+210840804, 65.383316, 20.491227, 12.909, GO13010_LC|GO13123_LC|GO13018_LC|GO13002_LC|GO13036_LC
+210889984, 66.698434, 21.234915, 11.113, GO13008_LC|GO13049_LC|GO13064_LC|GO13010_LC|GO13123_LC|GO13071_LC|GO13018_LC|GO13122_LC|GO13023_LC|GO13077_LC|GO13050_LC|GO13090_LC|GO13903_LC
+210895913, 65.45866, 21.32857, 12.298, GO13049_LC|GO13010_LC|GO13123_LC|GO13071_LC|GO13050_LC
+210915518, 66.518479, 21.633114, 12.542, GO13010_LC|GO13123_LC|GO13018_LC
+246625561, 71.33175, 13.574283, 12.106, GO13008_LC|GO13049_LC|GO13064_LC|GO13010_LC|GO13018_LC|GO13023_LC|GO13077_LC|GO13090_LC
+246732310, 72.760135, 14.9713, 11.048, GO13008_LC|GO13049_LC|GO13064_LC|GO13010_LC|GO13123_LC|GO13018_LC|GO13023_LC|GO13098_LC|GO13077_LC|GO13090_LC
+246774176, 77.291557, 15.459022, 11.488, GO13049_LC|GO13010_LC|GO13123_LC|GO13071_LC|GO13004_LC|GO13039_LC|GO13004_SC
+246806983, 77.790454, 15.815963, 11.272, GO13008_LC|GO13049_LC|GO13064_LC|GO13010_LC|GO13018_LC|GO13023_LC|GO13077_LC|GO13090_LC
+246807434, 73.458533, 15.820916, 12.171, GO13049_LC|GO13010_LC|GO13071_LC|GO13018_LC|GO13032_LC
+246812637, 79.008519, 15.874643, 12.405, GO13049_LC|GO13010_LC|GO13071_LC|GO13018_LC
+246818597, 69.294109, 15.937388, 8.292, GO13010_LC
+246849411, 68.83807, 16.255473, 11.411, GO13010_LC|GO13123_LC|GO13018_LC
+246862801, 72.127674, 16.388538, 11.704, GO13008_LC|GO13049_LC|GO13064_LC|GO13010_LC|GO13071_LC|GO13018_LC|GO13023_LC|GO13077_LC|GO13073_LC|GO13090_LC
+246931087, 72.003658, 17.056016, 10.441, GO13008_LC|GO13049_LC|GO13064_LC|GO13010_LC|GO13123_LC|GO13018_LC|GO13002_LC|GO13023_LC|GO13077_LC|GO13090_LC
+247003390, 70.931946, 17.755878, 11.813, GO13049_LC|GO13010_LC|GO13123_LC|GO13071_LC|GO13018_LC|GO13122_LC
+247080522, 73.811045, 18.482253, 12.525, GO13049_LC|GO13010_LC|GO13123_LC|GO13071_LC
+247094343, 69.162273, 18.615749, 12.393, GO13008_LC|GO13049_LC|GO13064_LC|GO13010_LC|GO13071_LC|GO13018_LC|GO13023_LC|GO13077_LC|GO13073_LC|GO13090_LC
+247122957, 69.017385, 18.888577, 12.624, GO13008_LC|GO13049_LC|GO13064_LC|GO13010_LC|GO13071_LC|GO13018_LC|GO13023_LC|GO13077_LC|GO13073_LC|GO13090_LC
+247130198, 70.732396, 18.958168, 9.076, GO13049_LC|GO13010_LC|GO13032_LC|GO13062_LC|GO13039_LC|GO13073_LC|GO13083_LC|GO13085_LC|GO13903_LC
+247164626, 70.052975, 19.286104, 12.619, GO13008_LC|GO13049_LC|GO13064_LC|GO13010_LC|GO13123_LC|GO13071_LC|GO13018_LC|GO13023_LC|GO13077_LC|GO13073_LC|GO13090_LC
+247191714, 80.509576, 19.545599, 11.78, GO13049_LC|GO13010_LC|GO13123_LC|GO13071_LC|GO13018_LC
+247238215, 72.60603, 19.98649, 11.171, GO13049_LC|GO13010_LC|GO13123_LC|GO13071_LC|GO13018_LC
+247269565, 80.708877, 20.276726, 11.217, GO13010_LC|GO13018_LC
+247282522, 68.708738, 20.39456, 10.526, GO13008_LC|GO13049_LC|GO13064_LC|GO13010_LC|GO13018_LC|GO13023_LC|GO13077_LC|GO13090_LC|GO13903_LC
+247289039, 70.626248, 20.453175, 12.726, GO13008_LC|GO13049_LC|GO13010_LC|GO13123_LC|GO13071_LC|GO13018_LC|GO13023_LC
+247309641, 71.801041, 20.636324, 13.504, GO13010_LC|GO13123_LC|GO13018_LC
+247325547, 70.597688, 20.776193, 11.479, GO13049_LC|GO13010_LC|GO13071_LC
+247449449, 69.723141, 21.798452, 12.358, GO13014_LC|GO13049_LC|GO13010_LC|GO13071_LC|GO13002_LC|GO13050_LC
+247476655, 73.523622, 22.015127, 11.784, GO13049_LC|GO13010_LC|GO13018_LC|GO13050_LC
+247514292, 68.027721, 22.305763, 12.047, GO13008_LC|GO13049_LC|GO13010_LC|GO13123_LC|GO13071_LC|GO13018_LC|GO13050_LC
+247592661, 67.659131, 22.908021, 11.937, GO13008_LC|GO13049_LC|GO13064_LC|GO13010_LC|GO13071_LC|GO13018_LC|GO13023_LC|GO13077_LC|GO13082_LC|GO13090_LC
+247640857, 68.069673, 23.273718, 11.454, GO13049_LC|GO13010_LC|GO13071_LC|GO13018_LC
+247657761, 70.376792, 23.399776, 11.347, GO13049_LC|GO13010_LC|GO13071_LC|GO13018_LC|GO13122_LC
+247679710, 75.739132, 23.563888, 12.338, GO13049_LC|GO13010_LC|GO13018_LC|GO13050_LC
+247725508, 72.69495, 23.892148, 11.968, GO13049_LC|GO13010_LC|GO13071_LC|GO13018_LC
+247730793, 71.133958, 23.927971, 11.168, GO13049_LC|GO13010_LC|GO13018_LC
+247734588, 75.471557, 23.953165, 13.113, GO13010_LC|GO13123_LC|GO13018_LC
+247744104, 71.790662, 24.020032, 11.511, GO13008_LC|GO13049_LC|GO13064_LC|GO13010_LC|GO13123_LC|GO13071_LC|GO13018_LC|GO13023_LC|GO13077_LC|GO13090_LC
+247827225, 74.29288, 24.596215, 12.363, GO13049_LC|GO13010_LC|GO13123_LC|GO13071_LC
+247867687, 75.314577, 24.873492, 10.766, GO13049_LC|GO13010_LC|GO13123_LC|GO13071_LC|GO13039_LC|GO13903_LC
+247905449, 75.081382, 25.130827, 11.878, GO13014_LC|GO13049_LC|GO13010_LC|GO13123_LC|GO13018_LC
+247909274, 69.954066, 25.157276, 12.518, GO13010_LC|GO13071_LC|GO13018_LC
+247969864, 71.452904, 25.585475, 11.152, GO13049_LC|GO13010_LC|GO13123_LC|GO13071_LC|GO13018_LC|GO13122_LC
+247983269, 69.678282, 25.681599, 12.576, GO13049_LC|GO13010_LC|GO13123_LC|GO13071_LC|GO13018_LC
+247988033, 67.70061, 25.717314, 12.077, GO13049_LC|GO13010_LC|GO13123_LC|GO13071_LC|GO13018_LC|GO13002_LC
+248030935, 71.697971, 26.035309, 10.376, GO13010_LC
+248042336, 72.710708, 26.123877, 11.814, GO13049_LC|GO13010_LC|GO13071_LC

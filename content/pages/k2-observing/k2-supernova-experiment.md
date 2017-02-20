@@ -137,10 +137,15 @@ The goal of the first day will be to review the science that can and should be d
     <th><b>10:00–12:00</b></th>
     <td>
         <b>Introductory talks (15 min each)</b><br/>
+        <i>Chair: Tom Barclay</i>
         <ul class="schedule">
             <li>
-                Welcome &amp; K2 Overview<br/>
-                <i>Jessie Dotson, Tom Barclay, Geert Barentsen</i>
+                Welcome<br/>
+                <i>Jessie Dotson, Mark Messersmith</i>
+            </li>
+            <li>
+                K2 Overview<br/>
+                <i>Geert Barentsen</i>
             </li>
             <li>
                 K2SN Experiment Goals<br/>
@@ -175,6 +180,7 @@ The goal of the first day will be to review the science that can and should be d
     <th><b>13:00–14:00</b></th>
     <td>
         <b>Ongoing analyses (10 min each)</b><br/>
+        <i>Chair: Brad Tucker</i>
         <ul class="schedule">
             <li>
                 Shock breakout detection in a new Type Ia supernova<br/>
@@ -200,6 +206,7 @@ The goal of the first day will be to review the science that can and should be d
     <th><b>14:00–15:00</b></th>
     <td>
         <b>Facilities and surveys to support K2SN (10 min each)</b><br/>
+        <i>Chair: Brad Tucker</i>
         <ul class="schedule">
             <li>
                 PanStarrs<br/>
@@ -230,6 +237,7 @@ The goal of the first day will be to review the science that can and should be d
     <th><b>15:30–17:00</b></th>
     <td>
         <b>Facilities and surveys to support K2SN (10 min each)</b><br/>
+        <i>Chair: Jessie Dotson</i>
         <ul class="schedule">
             <li>
                 Photometry of SNe at Konkoly Observatory<br/>
@@ -290,7 +298,7 @@ The goal of the second day will be to plan the K2 supernova experiment in detail
             </li>
             <li>
                 The Kepler/K2 follow-up coordination website (10 min)<br/>
-                <i>Knicole Colón</i>
+                <i>Susan Mullaly</i>
             </li>
         </ul>
     </td>

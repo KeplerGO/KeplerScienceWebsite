@@ -1,0 +1,84 @@
+# Summary of K2 Program GO13038
+
+Title: Probing the Planetary Population of High-Mass Stars (K2-GO4)
+
+PI: Cochran, William D. (The University of Texas at Austin)
+CoIs: Shporer, Avi; Johnson, Marshall C
+
+Objectives: To date most planet searches have been confined to stars of spectral type F and later, as hotter stars have fewer spectral lines and tend to be rapidly rotating, making precise radial velocity (RV) observations difficult. By observing a sample of A and early F stars, K2 can expand the number of known planets around stars with M~1.5-2.5 M_sun. This population has been probed largely through RV surveys of subgiant stars in this mass range [1], but the masses of these subgiants have been debated [2]. During its primary mission, Kepler discovered a handful of planets around A-type stars, most notably Kepler-13 Ab [3], plus ~60 planet candidates that are awaiting validation. K2 observations of main sequence A and F stars will complement subgiant RV observations, as K2 is sensitive to smaller planets, and close-in planets that have already been engulfed by the subgiants. K2 can thus be used to expand the sample of known transiting planets around these stars. There are currently only ~10 such confirmed planets; this population is currently almost totally unexplored. We thus propose to search for planets around such stars with K2.
+
+Targets: We plan to request approximately 400 long cadence targets, ~3/4 of which will be in Field 11. The sample will consist of A and early F-type dwarfs with 8<V<12.5, allowing for high quality photometry and spectroscopy while not requiring many K2 detector pixels.
+
+Methodology: Our colleagues at the DLR and University of Cologne (Germany) will prepare lightcurves and search for transit signals. We will conduct reconnaissance spectroscopy of planet candidate hosts using the 2.7m Harlan J. Smith Telescope at McDonald Observatory and the forthcoming NRES spectrographs on the Las Cumbres Observatory Global Telescope Network (LCOGT); we will leverage our group's experience with similar observations of Kepler prime mission targets. For long-period targets where the K2 observations are insufficient to constrain the transit emphemeris, we will conduct follow-up photometric observations with LCOGT. Any planet candidates in our sample will (by design) not be amenable to confirmation using standard RV techniques. Instead, we will validate our candidates using other techniques. We will be able to confirm massive, short-period planets using photometry alone by searching for beaming and ellipsoidal variations caused by the planetary orbit, which gives the planetary mass and can find non-transiting planets [4]. A stars are typically photometrically quiet, making them prime targets for this technique. We will also use Doppler tomography (which uses the Rossiter-McLaughlin effect on rapidly rotating stars, where the spectral line distortion during transit is spectroscopically resolved) to validate planet candidates, and to measure the alignment between the stellar spin and planetary orbit. This will continue our program to validate Kepler prime mission candidates using Doppler tomography [5]; we will use the same methodology for K2 candidates.
+
+Relevance: Our program will not only discover and characterize new planets around massive stars but also provide insight into the planetary population and planet formation and migration around these stars. It will thus address two of the science goals of NASA's Astrophysics program, namely, "Explore the origin and evolution of the galaxies, stars, and planets that make up our universe" and "Discover and study planets around other stars." We require new K2 observations in order to expand the sample of massive stars that has been surveyed for planets, building on the sample from Kepler and our earlier K2 programs.
+
+References: [1] Johnson, J. A., Clanton, C., Howard, A. W., et al. 2011, ApJS, 197, 26 [2] Lloyd, J. P. 2011, ApJL, 739, L49 [3] Mislis, D., & Hodgkin, S. 2012, MNRAS, 422, 1512 [4] Shporer, A., Jenkins, J. M., Rowe, J. F., et al. 2011, AJ, 142, 195 [5] Johnson, M. C., Cochran, W. D., Albrecht, S., et al. 2014, ApJ, 790, 30
+
+# Targets requested by this program that have been observed (65)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210945888, 65.391466, 22.11967, 10.712, GO13122_LC|GO13038_LC|GO13052_LC
+246645083, 71.94196, 13.849979, 9.532, GO13122_LC|GO13038_LC|GO13052_LC
+246654942, 71.438126, 13.985442, 12.412, GO13071_LC|GO13122_LC|GO13038_LC
+246726803, 75.033459, 14.90445, 10.932, GO13122_LC|GO13038_LC|GO13052_LC
+246742723, 77.217057, 15.094764, 10.538, GO13122_LC|GO13038_LC
+246754774, 77.19281, 15.234176, 9.159, GO13038_LC|GO13052_LC|GO13019_LC
+246771609, 77.289192, 15.42944, 12.221, GO13122_LC|GO13038_LC
+246788829, 74.671369, 15.619752, 9.211, GO13122_LC|GO13038_LC|GO13052_LC|GO13127_LC
+246800994, 73.449516, 15.752878, 9.583, GO13122_LC|GO13101_LC|GO13038_LC|GO13052_LC
+246816678, 78.096062, 15.916916, 9.481, GO13122_LC|GO13038_LC|GO13052_LC
+246826990, 74.363398, 16.025958, 11.683, GO13122_LC|GO13038_LC
+246866898, 77.538735, 16.430474, 10.252, GO13122_LC|GO13038_LC
+246884884, 77.17546, 16.606489, 10.734, GO13122_LC|GO13038_LC
+246886718, 76.288287, 16.624592, 9.086, GO13122_LC|GO13038_LC|GO13052_LC|GO13019_LC
+246893312, 78.045899, 16.68867, 9.637, GO13122_LC|GO13038_LC|GO13052_LC
+246897495, 78.156439, 16.72974, 11.74, GO13053_LC|GO13122_LC|GO13038_LC|GO13090_LC
+246905264, 77.918297, 16.80367, 11.876, GO13053_LC|GO13122_LC|GO13038_LC|GO13065_LC
+246918273, 78.297347, 16.930501, 11.052, GO13122_LC|GO13098_LC|GO13038_LC
+246942017, 77.382338, 17.159878, 12.183, GO13122_LC|GO13038_LC
+246950264, 74.325009, 17.238927, 12.529, GO13038_LC
+246988320, 73.90375, 17.609945, 10.528, GO13122_LC|GO13038_LC|GO13052_LC|GO13127_LC
+247099567, 69.115209, 18.665715, 8.627, GO13122_LC|GO13038_LC|GO13052_LC|GO13903_LC
+247144102, 70.969484, 19.090887, 12.235, GO13071_LC|GO13122_LC|GO13038_LC
+247176847, 80.926287, 19.403196, 12.825, GO13122_LC|GO13038_LC
+247178064, 79.90471, 19.414708, 11.379, GO13071_LC|GO13122_LC|GO13098_LC|GO13038_LC|GO13024_LC
+247190827, 79.919738, 19.537048, 10.171, GO13122_LC|GO13038_LC
+247194101, 80.55188, 19.56879, 11.6, GO13122_LC|GO13038_LC
+247230722, 80.735563, 19.915681, 12.41, GO13071_LC|GO13122_LC|GO13038_LC|GO13065_LC
+247246439, 72.994122, 20.06246, 11.538, GO13122_LC|GO13038_LC|GO13052_LC
+247261638, 79.256572, 20.202841, 11.651, GO13122_LC|GO13038_LC
+247264957, 80.377844, 20.234075, 11.775, GO13122_LC|GO13038_LC
+247276771, 80.476161, 20.341792, 10.84, GO13122_LC|GO13038_LC
+247278755, 80.16025, 20.360081, 11.913, GO13122_LC|GO13038_LC
+247302993, 73.333191, 20.577723, 11.537, GO13122_LC|GO13038_LC|GO13052_LC
+247306770, 79.907316, 20.611008, 11.829, GO13122_LC|GO13038_LC
+247346305, 72.238528, 20.952609, 13.282, GO13122_LC|GO13038_LC
+247370929, 72.809187, 21.160927, 13.105, GO13122_LC|GO13038_LC
+247412897, 72.819237, 21.501024, 11.074, GO13122_LC|GO13038_LC|GO13052_LC
+247425491, 73.776593, 21.604076, 11.605, GO13122_LC|GO13038_LC|GO13052_LC
+247487018, 76.199162, 22.093981, 12.214, GO13122_LC|GO13038_LC
+247554799, 75.139738, 22.615743, 9.471, GO13038_LC|GO13052_LC|GO13127_LC
+247566798, 75.837997, 22.708984, 11.831, GO13122_LC|GO13038_LC
+247587084, 75.197544, 22.864654, 10.414, GO13122_LC|GO13101_LC|GO13038_LC|GO13052_LC
+247593836, 76.446476, 22.91679, 9.834, GO13122_LC|GO13038_LC|GO13052_LC
+247625124, 73.768763, 23.156215, 11.663, GO13122_LC|GO13038_LC
+247685696, 75.299415, 23.608797, 10.273, GO13122_LC|GO13038_LC|GO13052_LC
+247688393, 75.110514, 23.627756, 10.992, GO13122_LC|GO13038_LC|GO13052_LC
+247692298, 75.811536, 23.656247, 9.718, GO13122_LC|GO13038_LC|GO13077_LC|GO13052_LC|GO13127_LC
+247694606, 75.736863, 23.673898, 11.335, GO13122_LC|GO13038_LC|GO13052_LC
+247695418, 75.885795, 23.679704, 10.026, GO13122_LC|GO13038_LC|GO13077_LC|GO13052_LC|GO13090_LC|GO13127_LC
+247697511, 76.066551, 23.695102, 11.269, GO13122_LC|GO13002_LC|GO13038_LC|GO13077_LC|GO13052_LC|GO13090_LC
+247701843, 75.843846, 23.725656, 11.332, GO13122_LC|GO13038_LC|GO13077_LC|GO13052_LC|GO13090_LC
+247702533, 75.910641, 23.730448, 10.751, GO13122_LC|GO13002_LC|GO13038_LC|GO13077_LC|GO13036_LC|GO13052_LC|GO13090_LC
+247706032, 76.210284, 23.755416, 11.958, GO13122_LC|GO13038_LC|GO13077_LC|GO13090_LC
+247707386, 75.628892, 23.765215, 10.797, GO13122_LC|GO13038_LC|GO13052_LC
+247709756, 75.628088, 23.781615, 11.795, GO13122_LC|GO13038_LC
+247711516, 75.949686, 23.794093, 12.243, GO13122_LC|GO13038_LC|GO13077_LC|GO13090_LC
+247714640, 75.252864, 23.816485, 10.953, GO13122_LC|GO13038_LC|GO13052_LC
+247719287, 75.156212, 23.849542, 9.421, GO13038_LC|GO13052_LC
+247731836, 75.978865, 23.934862, 10.205, GO13038_LC|GO13052_LC|GO13090_LC
+247732843, 75.286259, 23.941487, 11.735, GO13122_LC|GO13038_LC
+247737170, 76.084496, 23.971064, 12.275, GO13122_LC|GO13038_LC|GO13090_LC
+247752754, 75.815564, 24.081742, 12.252, GO13122_LC|GO13038_LC|GO13024_LC
+247757517, 75.910027, 24.115507, 10.385, GO13038_LC|GO13052_LC|GO13127_LC
+247765859, 76.115307, 24.173353, 9.908, GO13038_LC|GO13052_LC
