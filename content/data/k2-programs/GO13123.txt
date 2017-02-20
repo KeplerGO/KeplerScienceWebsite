@@ -25,8 +25,9 @@ METHOLOGY: The K2 data will be used to determine radius, mass, and age of each s
 ground-based spectroscopy from large surveys targeting both hemispheres (APOGEE, GALAH, Gaia-ESO, and RAVE). We will use
 our seismic inferred stellar properties to stresstest state-of-the-art Galaxy models (Galaxia, TRILEGAL).
 
-# Targets requested by this program that have been observed (5973)
+# Targets requested by this program that have been observed (5974)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+200173872, , , , GO13047_LC|GO13123_LC
 210504221, 67.448475, 15.483853, 13.711, GO13049_LC|GO13123_LC|GO13018_LC
 210516147, 67.324487, 15.679089, 12.823, GO13123_LC|GO13009_LC
 210524542, 67.387586, 15.816158, 14.626, GO13123_LC|GO13019_LC

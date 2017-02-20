@@ -17,9 +17,11 @@ We will propose a large sample of approximately 3000 targets.  They range in V m
 Relevance:
 We are searching for new exoplanetary systems. These results will provide important new constraints on the physics and chemistry of planetary system formation, as well as provide constraints for the computation of planet occurrence rates. We will address the Kepler mission goals of obtaining an inventory of the diversity of planetary systems around sun-like stars. We will also obtain data very complementary to the goals of the TESS program, and help guide planetary system science for JWST studies.
 
-# Targets requested by this program that have been observed (619)
+# Targets requested by this program that have been observed (621)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
-200173877, , , , GO13019|GO13023|GO13024|GO13039|GO13047|GO13077|GO13122
+200173874, , , , GO13019_LC|GO13024_LC|GO13047_LC|GO13083_LC|GO13122_LC
+200173875, , , , GO13019_LC|GO13023_LC|GO13024_LC|GO13039_LC|GO13047_LC|GO13077_LC|GO13122_LC|GO13902_LC|GO13903_LC|GO13904_LC
+200173877, , , , GO13019_SC|GO13023_SC|GO13024_SC|GO13039_SC|GO13047_SC|GO13077_SC|GO13122_SC
 210545633, 67.694983, 16.148696, 6.435, GO13012_LC|GO13122_LC|GO13002_LC|GO13023_LC|GO13006_LC|GO13024_LC|GO13077_LC|GO13039_LC|GO13019_LC|GO13903_LC
 210546296, 67.249047, 16.159097, 6.491, GO13071_LC|GO13122_LC|GO13002_LC|GO13023_LC|GO13065_LC|GO13024_LC|GO13077_LC|GO13036_LC|GO13039_LC|GO13019_LC
 210561006, 67.502272, 16.385598, 11.084, GO13071_LC|GO13122_LC|GO13024_LC

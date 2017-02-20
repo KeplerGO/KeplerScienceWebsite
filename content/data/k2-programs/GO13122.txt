@@ -11,15 +11,32 @@ This Cycle 4 request for Campaigns 11, 12, and 13 is similar to our previous K2 
 
 We will continue our search for transit signals in the K2 photometry using the well-vetted TERRA pipeline (Petigura & Marcy 2012, Petigura et al. 2013).  We catalog the planets discovered, their orbital and physical properties, and their host star characteristics.  We compute the occurrence rates of small, close-in planets using injection-and-recovery tests to account for the sensitivity of TERRA and will report the field-to-field variability and overall rates of planet occurrence. Assuming a precision of 80 ppm over 6.5 hours, a 2 Earth-radii planet with P = 20-day is detectable at SNR = 8 during a single 75-day K2 campaign.  Based on the prime mission occurrence statistics, we expect to find 3 planets of size 2-3 Earth-radii with P < 20 days per 1,000 stars observed. As validated by our searches of K2 photometry from Campaigns 0-2, a sample of 8,000 stars is expected to yield ~25 planets of size 2-3 Earth-radii with orbital periods less than 20 days, providing an occurrence measurement with 25% fractional uncertainty. With 8,000 stars, we will be sensitive to factor-of-two variations in the occurrence rate of 2-3 Earth-radii planets at 4-sigma significance.  In addition, we will identify the planets most amenable to Doppler mass measurements and observe them using Keck-HIRES and other facilities. These mass measurements will focus on detectable small planets -- short-period super-Earths and Neptunes and ultra-short-period Earths. Our team demonstrated technical expertise in all of the above areas during the prime Kepler mission.
 
-# Targets requested by this program that have been observed (6106)
+# Targets requested by this program that have been observed (6123)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
-200173877, , , , GO13019|GO13023|GO13024|GO13039|GO13047|GO13077|GO13122
-200173878, , , , GO13002|GO13019|GO13023|GO13039|GO13047|GO13077|GO13122
-200173879, , , , GO13023|GO13025|GO13039|GO13047|GO13077|GO13122
-200173881, , , , GO13023|GO13039|GO13047|GO13077|GO13122
-200173882, , , , GO13023|GO13039|GO13047|GO13077|GO13122
-200173883, , , , GO13006|GO13023|GO13025|GO13039|GO13047|GO13077|GO13122
-200173885, , , , GO13019|GO13023|GO13039|GO13047|GO13077|GO13122
+200173845, , , , GO13023_LC|GO13025_LC|GO13039_LC|GO13047_LC|GO13077_LC|GO13122_LC
+200173848, , , , GO13023_LC|GO13039_LC|GO13047_LC|GO13077_LC|GO13122_LC
+200173850, , , , GO13047_LC|GO13122_LC|GO13127_LC
+200173851, , , , GO13023_LC|GO13039_LC|GO13047_LC|GO13077_LC|GO13122_LC
+200173853, , , , GO13047_LC|GO13122_LC
+200173854, , , , GO13047_LC|GO13122_LC
+200173855, , , , GO13006_LC|GO13023_LC|GO13025_LC|GO13039_LC|GO13047_LC|GO13077_LC|GO13122_LC
+200173859, , , , GO13019_LC|GO13023_LC|GO13039_LC|GO13047_LC|GO13077_LC|GO13122_LC
+200173861, , , , GO13019_LC|GO13047_LC|GO13122_LC
+200173864, , , , GO13019_LC|GO13039_LC|GO13047_LC|GO13122_LC|GO13127_LC
+200173865, , , , GO13019_LC|GO13023_LC|GO13039_LC|GO13047_LC|GO13077_LC|GO13122_LC
+200173867, , , , GO13019_LC|GO13023_LC|GO13039_LC|GO13047_LC|GO13077_LC|GO13122_LC
+200173869, , , , GO13019_LC|GO13047_LC|GO13122_LC|GO13127_LC
+200173870, , , , GO13019_LC|GO13039_LC|GO13047_LC|GO13122_LC
+200173871, , , , GO13019_LC|GO13047_LC|GO13122_LC|GO13127_LC
+200173874, , , , GO13019_LC|GO13024_LC|GO13047_LC|GO13083_LC|GO13122_LC
+200173875, , , , GO13019_LC|GO13023_LC|GO13024_LC|GO13039_LC|GO13047_LC|GO13077_LC|GO13122_LC|GO13902_LC|GO13903_LC|GO13904_LC
+200173877, , , , GO13019_SC|GO13023_SC|GO13024_SC|GO13039_SC|GO13047_SC|GO13077_SC|GO13122_SC
+200173878, , , , GO13002_SC|GO13019_SC|GO13023_SC|GO13039_SC|GO13047_SC|GO13077_SC|GO13122_SC
+200173879, , , , GO13023_SC|GO13025_SC|GO13039_SC|GO13047_SC|GO13077_SC|GO13122_SC
+200173881, , , , GO13023_SC|GO13039_SC|GO13047_SC|GO13077_SC|GO13122_SC
+200173882, , , , GO13023_SC|GO13039_SC|GO13047_SC|GO13077_SC|GO13122_SC
+200173883, , , , GO13006_SC|GO13023_SC|GO13025_SC|GO13039_SC|GO13047_SC|GO13077_SC|GO13122_SC
+200173885, , , , GO13019_SC|GO13023_SC|GO13039_SC|GO13047_SC|GO13077_SC|GO13122_SC
 210500010, 67.220547, 15.414002, 12.198, GO13071_LC|GO13122_LC
 210500754, 67.308236, 15.425755, 12.134, GO13049_LC|GO13071_LC|GO13122_LC
 210523204, 67.374688, 15.795028, 12.467, GO13071_LC|GO13122_LC

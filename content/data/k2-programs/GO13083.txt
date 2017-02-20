@@ -13,8 +13,11 @@ In Kepler Guest Observer Cycle 3, we proposed to search for planets around stars
 
 Looking for planets around active stars with radial velocity methods is often disfavored because the stellar noise limits RV precision.  However, this makes the transit method the more important way to detect planets in these cases. Furthermore, if any of these stars do have a transiting planet, they will be excellent potential candidates for follow-up spectroscopy with the large ground-based telescopes (Keck I, HobbyEberly Telescope) that our team has used in the past to detect exospheric absorption. The goal of follow-up spectroscopic observations would be to search for excited hydrogen absorption from an exosphere, including possible pre-transit signals. As a secondary science product, many of these active stars will have light curves worth studying on their own for stellar astrophysics purposes.
 
-# Targets requested by this program that have been observed (26)
+# Targets requested by this program that have been observed (29)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+200173844, , , , GO13023_LC|GO13039_LC|GO13047_LC|GO13077_LC|GO13083_LC|GO13085_LC
+200173846, , , , GO13023_LC|GO13039_LC|GO13047_LC|GO13077_LC|GO13083_LC
+200173874, , , , GO13019_LC|GO13024_LC|GO13047_LC|GO13083_LC|GO13122_LC
 210580123, 67.49053, 16.672839, 8.837, GO13008_LC|GO13071_LC|GO13122_LC|GO13023_LC|GO13024_LC|GO13077_LC|GO13039_LC|GO13083_LC|GO13019_LC|GO13090_LC|GO13903_LC|GO13023_SC
 210666330, 67.381695, 17.893185, 9.046, GO13008_LC|GO13012_LC|GO13064_LC|GO13071_LC|GO13122_LC|GO13023_LC|GO13006_LC|GO13024_LC|GO13077_LC|GO13039_LC|GO13083_LC|GO13090_LC|GO13903_LC|GO13012_SC
 210675409, 66.448161, 18.017272, 8.774, GO13008_LC|GO13049_LC|GO13071_LC|GO13122_LC|GO13002_LC|GO13023_LC|GO13077_LC|GO13039_LC|GO13083_LC|GO13019_LC|GO13090_LC|GO13902_LC|GO13904_LC
