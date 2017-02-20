@@ -13,6 +13,7 @@ Here we propose to observe 9 exoplanet-candidate host stars (1 transiting and 8 
 
 Our program will a) provide direct measurements for the rotation periods; b) break degeneracies between stellar rotation and exoplanetary orbits; and c) allow for comprehensive characterization of these systems. In combination with v sin i measurements (where available), our results will also allow model-independent measurements of the stellar radii. In addition, the observations will be sensitive to transits caused by additional exoplanets, and in the case of the one transiting planet  to transit timing variations. While there are ground-based photometric measurements for some of our targets, none of the available data compares to the precision, quality and uninterrupted monitoring of K2, making the observatory uniquely-suited for the proposed investigation. Thus our program will add to the growing legacy of stellar activity research enabled by the mission, provide input for gyrochronological studies, and offer new insight into the stellar astrophysics of these planet-hosting stars. The proposed study will directly support NASAs goal to Discover and study planets around other stars, in order to understand the underlying physical processes of exoplanets and to improve understanding of their origins.
 
-# Targets requested by this program that have been observed (1)
+# Targets requested by this program that have been observed (2)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+200173844, , , , GO13023_LC|GO13039_LC|GO13047_LC|GO13077_LC|GO13083_LC|GO13085_LC
 247130198, 70.732396, 18.958168, 9.076, GO13049_LC|GO13010_LC|GO13032_LC|GO13062_LC|GO13039_LC|GO13073_LC|GO13083_LC|GO13085_LC|GO13903_LC

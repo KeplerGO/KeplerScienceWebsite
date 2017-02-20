@@ -7,8 +7,9 @@ CoIs:
 
 
 
-# Targets requested by this program that have been observed (333)
+# Targets requested by this program that have been observed (334)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+200173875, , , , GO13019_LC|GO13023_LC|GO13024_LC|GO13039_LC|GO13047_LC|GO13077_LC|GO13122_LC|GO13902_LC|GO13903_LC|GO13904_LC
 210629497, 66.421774, 17.38143, 18.148, GO13902_LC|GO13904_LC
 210629674, 66.413892, 17.384253, 16.069, GO13902_LC|GO13904_LC
 210632031, 66.407784, 17.417646, 16.472, GO13902_LC|GO13904_LC

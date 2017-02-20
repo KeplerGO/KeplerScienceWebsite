@@ -11,8 +11,11 @@ Our sample consists of 1208 binary stars, which represents the largest sample of
 
 Targeting binary stars with no prior information of planet helps to unambiguously address the planet occurrence rate in binary stars. Increasing the sample size helps not only to confirm the deficiency of planets in binary stars but also study the influence of stellar companions on planets with different sizes and orbital separations. Future NASA mission in search of habitable worlds will inevitably encounter with this question: to select binary stars or not, which account for 33% of stars in the solar neighborhood. This proposal will pave the way to solve this question.
 
-# Targets requested by this program that have been observed (110)
+# Targets requested by this program that have been observed (113)
 EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+200173849, , , , GO13023_LC|GO13036_LC|GO13039_LC|GO13047_LC|GO13077_LC
+200173866, , , , GO13019_LC|GO13023_LC|GO13036_LC|GO13039_LC|GO13047_LC|GO13077_LC
+200173873, , , , GO13019_LC|GO13036_LC|GO13047_LC
 210513593, 67.535824, 15.637839, 5.673, GO13047_LC|GO13023_LC|GO13077_LC|GO13036_LC|GO13039_LC|GO13019_LC
 210546296, 67.249047, 16.159097, 6.491, GO13071_LC|GO13122_LC|GO13002_LC|GO13023_LC|GO13065_LC|GO13024_LC|GO13077_LC|GO13036_LC|GO13039_LC|GO13019_LC
 210554781, 67.211742, 16.289022, 10.161, GO13008_LC|GO13049_LC|GO13064_LC|GO13002_LC|GO13023_LC|GO13077_LC|GO13036_LC|GO13039_LC|GO13090_LC|GO13023_SC
