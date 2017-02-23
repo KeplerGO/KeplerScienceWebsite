@@ -1,0 +1,58 @@
+# Summary of K2 Program GO13040
+
+Title: K2 Observations of Variable White Dwarfs in Fields 11, 12 and 13
+
+PI: Hermes, James J (University Of North Carolina, Chapel Hill)
+CoIs: Clemens, Chris; Gaensicke, Boris Teddy; Dennihy, Erik; Montgomery, Mike; Gentile Fusillo, Nicola; Fuchs, Josh; Kawaler, Steven; Barlow, Brad Newton; Winget, D. E.; Raddi, Roberto; Bell, Keaton
+
+We propose observations of variable white dwarfs (WDs) in Fields 11-13 of the K2 mission. We propose short-cadence observations of known and high-probability pulsating WDs. We additionally propose short-cadence observations of known magnetic and metal-polluted white dwarfs to constrain magnetic activity in these stars, and to search for possible transits in around stars with known evolved planetary systems.
+
+As they cool, WDs with hydrogen-dominated atmospheres pulsate as DAVs (a.k.a. ZZ Ceti stars) when they reach the appropriate effective temperature to foster a hydrogen partial-ionization zone, which efficiently drives global oscillations. This range of temperatures empirically spans roughly 12,600-11,100 K for typical-mass (0.6 Msun) WDs. Pulsating WDs provide an important glimpse into the interior of the future of the vast majority (> 97%) of all stars in our Galaxy, including our Sun, allowing us to probe the masses and compositions of their electron-degenerate cores, as well as of their non-degenerate envelopes; to determine their internal rotation profiles; and to detect weak magnetic fields.
+
+Since the DAV instability strip is defined by temperature, color selection is an excellent predictor of variability. Our team discovered all DAVs in the original Kepler mission, which is leading to exquisite insight into white dwarf interiors. We have applied the same photometric selection methods to K2 Fields 11-13 using the SDSS, VST/ATLAS, and VPHAS+ multiwavelength surveys, and have identified 75 excellent candidate white dwarfs on silicon in the three fields with colors consistent with the empirical DAV and DBV instability strips. Additionally, there are three previously published pulsating white dwarfs in Field 12. We have used ground-based resources to refine the atmospheric parameters of many of these candidates, confirming than a large number fall within the empirical ZZ Ceti instability strip. Additionally, we have confirmed pulsations in two new white dwarfs using ground-based high-speed photometry. With typical pulsations ranging from 100-1400 s, we require short-cadence observations of these white dwarfs.
+
+Every new DAV we can observe with K2 adds significant legacy value, since it brings us that much closer to statistically significant studies of white dwarfs with ensemble asteroseismology. There were only six pulsating white dwarfs in the original Kepler mission, but that number has grown to at least 20 with K2, and will continue to grow as the extended mission progresses.
+
+Additionally, we propose long-cadence observations of all other WD candidates in these fields, to continue our in-depth study into rotation, magnetic activity, planetary systems, and binarity in the endpoints of stellar evolution. These observations simultaneously allow for serendipitous discoveries, including possible eclipses or transits, as demonstrated by the unique disintegrating planetesimal orbiting a WD in K2 Campaign 1 (Vanderburg et al. 2015, Nature, 526, 546).
+
+# Targets requested by this program that have been observed (39)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210600298, 67.162621, 16.969976, 17.911, GO13040_LC|GO13040_SC
+210682034, 66.685656, 18.109754, 19.431, GO13040_LC
+210755204, 67.847842, 19.189495, 16.372, GO13040_LC|GO13037_LC|GO13040_SC|GO13037_SC
+210765616, 66.444482, 19.34736, 19.222, GO13040_LC
+210766332, 67.913469, 19.357669, 17.477, GO13040_LC|GO13027_LC|GO13037_LC|GO13040_SC|GO13037_SC
+210768799, 66.690243, 19.394236, 18.286, GO13040_LC
+210844962, 65.379, 20.553683, 17.401, GO13040_LC|GO13027_LC|GO13040_SC
+210857535, 66.89617, 20.739412, 18.818, GO13040_LC|GO13027_LC|GO13037_LC
+210899098, 66.092786, 21.377074, 18.728, GO13040_LC|GO13027_LC
+210935777, 65.523064, 21.956092, 18.739, GO13040_LC
+246723035, 75.829204, 14.857469, 18.855, GO13040_LC|GO13027_LC|GO13040_SC
+246808113, 76.830501, 15.828171, 18.314, GO13040_LC|GO13040_SC
+246885975, 77.755863, 16.617522, 17.965, GO13040_LC|GO13027_LC|GO13040_SC
+247296400, 69.906169, 20.519141, 17.752, GO13040_LC|GO13027_LC|GO13037_LC|GO13040_SC|GO13037_SC
+247333314, 69.383357, 20.843541, 18.26, GO13040_LC
+247426706, 71.774134, 21.614242, 18.616, GO13040_LC|GO13027_LC|GO13037_LC|GO13040_SC|GO13037_SC
+247510898, 67.913246, 22.279218, 18.688, GO13040_LC|GO13037_LC
+247559069, 71.505412, 22.648632, 17.816, GO13040_LC|GO13007_LC|GO13027_LC|GO13037_LC|GO13040_SC|GO13037_SC
+247637336, 74.366224, 23.247383, 17.471, GO13040_LC|GO13002_LC|GO13027_LC|GO13037_LC|GO13040_SC|GO13037_SC
+247644144, 74.882948, 23.298087, 17.801, GO13040_LC|GO13027_LC|GO13037_LC|GO13040_SC|GO13037_SC
+247710612, 73.537932, 23.787513, 18.928, GO13040_LC|GO13027_LC|GO13037_LC|GO13040_SC|GO13037_SC
+247747914, 75.748219, 24.046868, 17.511, GO13040_LC|GO13027_LC|GO13037_LC|GO13040_SC|GO13037_SC
+247895901, 75.775183, 25.064634, 16.395, GO13040_LC|GO13027_LC|GO13037_LC|GO13040_SC|GO13037_SC
+247938111, 75.713265, 25.359201, 18.044, GO13040_LC|GO13040_SC
+247940917, 75.556005, 25.379295, 18.346, GO13040_LC|GO13027_LC|GO13037_LC
+247943447, 68.11238, 25.397036, 18.036, GO13040_LC
+247947876, 71.176996, 25.428837, 17.274, GO13040_LC|GO13027_LC|GO13037_LC|GO13040_SC|GO13037_SC
+251456975, , , , GO13040_LC|GO13037_LC|GO13040_SC|GO13037_SC
+251456976, , , , GO13040_LC|GO13040_SC
+251456977, , , , GO13040_LC|GO13040_SC
+251456978, , , , GO13040_LC|GO13040_SC
+251456979, , , , GO13040_LC|GO13040_SC
+251456980, , , , GO13040_LC
+251456981, , , , GO13040_LC
+251456982, , , , GO13040_LC
+251456983, , , , GO13040_LC
+251456984, , , , GO13040_LC
+251456985, , , , GO13040_LC
+251456986, , , , GO13040_LC

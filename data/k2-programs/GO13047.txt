@@ -1,0 +1,71 @@
+# Summary of K2 Program GO13047
+
+Title: Asteroseismology of the Brightest K2 Stars
+
+PI: Huber, Daniel (SETI Institute)
+CoIs: White, Timothy R; Pope, Benjamin James Spinks; Aerts, Conny Clara; Bedding, Tim; Silva Aguirre, Victor
+
+The most powerful tests of stellar structure and evolution come from the brightest stars in the night sky, for which complementary observational techniques (such as astrometry, asteroseismology, and interferometry) can be combined. So far, stars brighter than Kp < 6 mag were rarely observed with Kepler/K2 due to the large number of pixels required to capture the saturated pixel columns. We propose K2 long-cadence observations of the brightest K2 stars in campaigns 11-13 (including 36 Oph, the brightest K dwarf observable by K2) using a novel technique which uses a small number of unsaturated pixels. Asteroseismic studies of these targets will allow unprecedented tests of asteroseismic scaling relations for giants and insights into poorly understood internal processes of intermediate-mass stars such as convective core overshooting.
+
+We selected 54 targets with Kp < 6.0 mag from the Hipparcos catalog. We will use small (~20x20 pixel) circular apertures around the saturated core for each target, and perform photometry using weighted sums of unsaturated pixels in the wings of the circular aperture. The method (so-called halo photometry) has been demonstrated to detect pulsations for all bright Pleiades and Hyades stars observed in Campaign 4. We will also organize spectroscopic and interferometric follow-up observations that will be combined with the K2 photometry.
+
+Our proposal addresses fundamental stellar astrophysics, a key science goal of the K2 mission. Our project furthermore supports galactic astrophysics, another key science area identified in the NRA, through the calibration of scaling relations for galactic archeology studies. A better understanding of stellar models through the study of bright stars is relevant for science goals pursued by both present and future NASA missions such as the characterization of exoplanets (TESS, JWST) as well as stellar populations and galaxy formation/evolution (HST, JWST).
+
+# Targets requested by this program that have been observed (56)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+200173843, , , , GO13047_LC
+200173844, , , , GO13023_LC|GO13039_LC|GO13047_LC|GO13077_LC|GO13083_LC|GO13085_LC
+200173845, , , , GO13023_LC|GO13025_LC|GO13039_LC|GO13047_LC|GO13077_LC|GO13122_LC
+200173846, , , , GO13023_LC|GO13039_LC|GO13047_LC|GO13077_LC|GO13083_LC
+200173847, , , , GO13023_LC|GO13039_LC|GO13047_LC|GO13077_LC
+200173848, , , , GO13023_LC|GO13039_LC|GO13047_LC|GO13077_LC|GO13122_LC
+200173849, , , , GO13023_LC|GO13036_LC|GO13039_LC|GO13047_LC|GO13077_LC
+200173850, , , , GO13047_LC|GO13122_LC|GO13127_LC
+200173851, , , , GO13023_LC|GO13039_LC|GO13047_LC|GO13077_LC|GO13122_LC
+200173852, , , , GO13039_LC|GO13047_LC
+200173853, , , , GO13047_LC|GO13122_LC
+200173854, , , , GO13047_LC|GO13122_LC
+200173855, , , , GO13006_LC|GO13023_LC|GO13025_LC|GO13039_LC|GO13047_LC|GO13077_LC|GO13122_LC
+200173856, , , , GO13047_LC
+200173857, , , , GO13019_LC|GO13023_LC|GO13039_LC|GO13047_LC|GO13077_LC
+200173858, , , , GO13047_LC
+200173859, , , , GO13019_LC|GO13023_LC|GO13039_LC|GO13047_LC|GO13077_LC|GO13122_LC
+200173860, , , , GO13006_LC|GO13019_LC|GO13023_LC|GO13039_LC|GO13047_LC|GO13077_LC
+200173861, , , , GO13019_LC|GO13047_LC|GO13122_LC
+200173862, , , , GO13019_LC|GO13047_LC
+200173864, , , , GO13019_LC|GO13039_LC|GO13047_LC|GO13122_LC|GO13127_LC
+200173865, , , , GO13019_LC|GO13023_LC|GO13039_LC|GO13047_LC|GO13077_LC|GO13122_LC
+200173866, , , , GO13019_LC|GO13023_LC|GO13036_LC|GO13039_LC|GO13047_LC|GO13077_LC
+200173867, , , , GO13019_LC|GO13023_LC|GO13039_LC|GO13047_LC|GO13077_LC|GO13122_LC
+200173868, , , , GO13019_LC|GO13023_LC|GO13039_LC|GO13047_LC|GO13077_LC
+200173869, , , , GO13019_LC|GO13047_LC|GO13122_LC|GO13127_LC
+200173870, , , , GO13019_LC|GO13039_LC|GO13047_LC|GO13122_LC
+200173871, , , , GO13019_LC|GO13047_LC|GO13122_LC|GO13127_LC
+200173872, , , , GO13047_LC|GO13123_LC
+200173873, , , , GO13019_LC|GO13036_LC|GO13047_LC
+200173874, , , , GO13019_LC|GO13024_LC|GO13047_LC|GO13083_LC|GO13122_LC
+200173875, , , , GO13019_LC|GO13023_LC|GO13024_LC|GO13039_LC|GO13047_LC|GO13077_LC|GO13122_LC|GO13902_LC|GO13903_LC|GO13904_LC
+200173876, , , , GO13047_LC
+200173877, , , , GO13019_SC|GO13023_SC|GO13024_SC|GO13039_SC|GO13047_SC|GO13077_SC|GO13122_SC
+200173878, , , , GO13002_SC|GO13019_SC|GO13023_SC|GO13039_SC|GO13047_SC|GO13077_SC|GO13122_SC
+200173879, , , , GO13023_SC|GO13025_SC|GO13039_SC|GO13047_SC|GO13077_SC|GO13122_SC
+200173880, , , , GO13023_SC|GO13039_SC|GO13047_SC|GO13077_SC
+200173881, , , , GO13023_SC|GO13039_SC|GO13047_SC|GO13077_SC|GO13122_SC
+200173882, , , , GO13023_SC|GO13039_SC|GO13047_SC|GO13077_SC|GO13122_SC
+200173883, , , , GO13006_SC|GO13023_SC|GO13025_SC|GO13039_SC|GO13047_SC|GO13077_SC|GO13122_SC
+200173884, , , , GO13019_SC|GO13023_SC|GO13039_SC|GO13047_SC|GO13077_SC
+200173885, , , , GO13019_SC|GO13023_SC|GO13039_SC|GO13047_SC|GO13077_SC|GO13122_SC
+210513593, 67.535824, 15.637839, 5.673, GO13047_LC|GO13023_LC|GO13077_LC|GO13036_LC|GO13039_LC|GO13019_LC
+210548567, 67.640136, 16.194012, 4.814, GO13047_LC|GO13122_LC|GO13023_LC|GO13006_LC|GO13025_LC|GO13077_LC|GO13039_LC
+210745602, 66.238031, 19.042009, 5.946, GO13047_LC|GO13122_LC|GO13023_LC|GO13024_LC|GO13077_LC|GO13039_LC|GO13019_LC|GO13902_LC|GO13903_LC|GO13904_LC
+210924194, 64.902937, 21.773492, 5.509, GO13047_LC|GO13122_LC|GO13019_LC
+210950988, 66.35423, 22.199997, 5.29, GO13047_LC|GO13122_LC|GO13023_LC|GO13077_LC|GO13039_LC|GO13019_LC
+246786764, 77.424824, 15.597234, 4.812, GO13047_LC|GO13122_LC
+246795385, 67.66204, 15.691878, 5.472, GO13047_LC|GO13023_LC|GO13006_LC|GO13077_LC|GO13039_LC|GO13019_LC
+246810368, 67.965656, 15.85156, 5.985, GO13047_LC|GO13122_LC|GO13002_LC|GO13023_LC|GO13077_LC|GO13039_LC|GO13019_LC
+247220058, 80.235892, 19.814346, 5.974, GO13047_LC
+247254216, 79.811208, 20.134592, 5.927, GO13047_LC|GO13036_LC|GO13019_LC
+247649941, 69.12141, 23.340858, 5.979, GO13047_LC|GO13122_LC|GO13023_LC|GO13024_LC|GO13077_LC|GO13039_LC|GO13019_LC
+247733919, 74.452694, 23.948561, 5.608, GO13047_LC|GO13019_LC
+247893813, 74.539142, 25.050406, 5.897, GO13047_LC|GO13122_LC|GO13039_LC|GO13019_LC
+248242432, 73.196322, 27.897486, 5.941, GO13047_LC|GO13122_LC|GO13024_LC|GO13083_LC|GO13019_LC

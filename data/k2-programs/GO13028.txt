@@ -1,0 +1,60 @@
+# Summary of K2 Program GO13028
+
+Title: The Am stars: peculiarities, pulsations and planets
+
+PI: Smalley, Barry (Keele University)
+CoIs: Holdsworth, Daniel L; Catanzaro, Gianni; Ripepi, Vincenzo; Murphy, Simon James
+
+The metallic-line (Am) stars are a sub-class of A-type stars which exhibit strong lines of transition elements and weakening of Ca and Sc lines compared to the strength of the Balmer lines. The strength of the metal lines is thought to arise from the interplay between gravitational settling and radiative acceleration in an A-type star where the magnetic field is weak or absent. Stars need to be rotating slower than about 120 km/s in order for radiative diffusion to compete with meridional circulation. Most, but not all, Am stars appear to be members of binary systems with periods between 210 days. 
+
+The diffusion scenario makes predictions about pulsational driving in Am stars which are in contradiction to observations. Thanks to the micro-magnitude precision of Kepler and wide sky coverage of the ground-based SuperWASP survey we now know that many, but by no means all, Am stars have low-level pulsations and that even one of them, WASP-33, hosts a transiting planet. This amplitude difference is still to be understood in terms of atomic diffusion reducing pulsation driving for the slowly rotating Am stars. 
+
+Currently there are only three A-type stars known to host transiting short-period hot jupiters (WASP-33, Kepler-13A and HAT-P-57b). Finding additional A-type stars with short-period transiting planetary systems is imperative to furthering our understanding the formation mechanisms around hotter stars. 
+
+Using Kepler and K2, we have a programme to collect a statistically-significant sample of known Am stars, in order to: 
+1. study the interaction between pulsations and radiative diffusion, 
+2. perform a statistical study of the incidence of pulsations and binarity within the Am stars, 
+3. search for additional transiting planetary systems around A-type stars. 
+
+Only 15 Am stars were observed during the Kepler mission, with a further 83 observed during earlier K2 Campaigns. For this proposal we have 52 targets for Campaigns 11 to 13. This will bring the total number Am stars observed with micro-magnitude precision to 150. 
+
+The proposal team are experienced in the reduction of Kepler data using PyKE tools and in the analysis of time-varying photometry. We will conduct in-depth periodogram analyses to search for stellar pulsations and low-level variability as we have previously applied to Kepler data. We will complement the photometric analyses with ground-based spectroscopy as necessary. 
+
+The K2 mission provides a unique opportunity to investigate the photometric variability of Am stars at micro-magnitude precision. This will provide new insights into the competition between stellar pulsations and element separation processes, as well as the nature of the stellar (and sub-stellar) companions to these chemically peculiar A-type stars.
+
+# Targets requested by this program that have been observed (34)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+246791785, 75.971951, 15.652538, 10.022, GO13122_LC|GO13024_LC|GO13028_LC|GO13052_LC
+247214390, 69.144621, 19.760033, 7.376, GO13122_LC|GO13002_LC|GO13028_LC|GO13036_LC|GO13052_LC|GO13019_LC
+247227122, 68.927332, 19.881791, 6.174, GO13048_LC|GO13002_LC|GO13035_LC|GO13028_LC|GO13083_LC|GO13019_LC
+247375592, 74.799082, 21.198194, 13.104, GO13122_LC|GO13028_LC
+247384094, 73.061027, 21.268176, 12.888, GO13123_LC|GO13071_LC|GO13122_LC|GO13028_LC
+247397514, 72.758682, 21.37642, 13.29, GO13122_LC|GO13028_LC
+247422232, 75.308607, 21.577471, 12.626, GO13071_LC|GO13122_LC|GO13028_LC
+247427120, 75.017517, 21.617538, 12.676, GO13071_LC|GO13122_LC|GO13028_LC
+247433568, 75.026329, 21.669403, 11.526, GO13071_LC|GO13122_LC|GO13028_LC
+247449254, 74.908107, 21.796916, 11.754, GO13071_LC|GO13122_LC|GO13028_LC|GO13050_LC
+247457506, 73.351381, 21.861841, 13.051, GO13122_LC|GO13028_LC
+247480571, 73.622781, 22.044988, 12.316, GO13071_LC|GO13122_LC|GO13028_LC
+247550091, 72.463634, 22.579218, 13.316, GO13122_LC|GO13028_LC
+247568703, 75.572795, 22.723766, 11.477, GO13071_LC|GO13122_LC|GO13024_LC|GO13028_LC|GO13052_LC
+247574720, 75.79879, 22.77045, 12.272, GO13071_LC|GO13122_LC|GO13028_LC
+247590797, 69.761705, 22.893407, 12.859, GO13071_LC|GO13122_LC|GO13028_LC
+247604389, 75.790574, 22.998438, 12.655, GO13071_LC|GO13122_LC|GO13028_LC
+247609425, 73.874102, 23.03694, 11.961, GO13071_LC|GO13122_LC|GO13028_LC
+247620150, 71.811462, 23.118792, 13.258, GO13122_LC|GO13028_LC
+247623941, 72.272904, 23.147396, 11.378, GO13049_LC|GO13071_LC|GO13122_LC|GO13028_LC|GO13050_LC|GO13052_LC
+247631568, 72.295299, 23.204685, 13.789, GO13122_LC|GO13028_LC
+247637786, 72.442799, 23.250784, 13.005, GO13122_LC|GO13028_LC
+247710901, 71.733667, 23.789506, 13.159, GO13122_LC|GO13028_LC
+247757428, 71.190046, 24.114834, 12.362, GO13071_LC|GO13122_LC|GO13028_LC
+247771548, 70.561844, 24.212301, 12.358, GO13071_LC|GO13122_LC|GO13028_LC
+247783948, 70.942889, 24.298126, 12.963, GO13071_LC|GO13122_LC|GO13028_LC
+247825334, 73.911368, 24.582982, 11.345, GO13071_LC|GO13122_LC|GO13028_LC
+247855947, 73.745555, 24.793581, 13.063, GO13122_LC|GO13028_LC
+247923168, 74.031695, 25.255947, 11.534, GO13071_LC|GO13122_LC|GO13028_LC
+247943866, 71.065416, 25.399964, 11.806, GO13123_LC|GO13028_LC
+248065602, 70.771977, 26.307084, 12.522, GO13071_LC|GO13122_LC|GO13028_LC
+248088603, 70.204332, 26.489891, 12.185, GO13123_LC|GO13071_LC|GO13122_LC|GO13028_LC
+248108720, 71.173926, 26.656678, 11.559, GO13071_LC|GO13122_LC|GO13028_LC
+248275770, 74.26326, 28.260187, 9.11, GO13012_LC|GO13071_LC|GO13122_LC|GO13024_LC|GO13028_LC|GO13903_LC
