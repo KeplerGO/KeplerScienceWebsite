@@ -168,7 +168,7 @@ violation, please contact Mark D. Messersmith at 650-793-5722 or Jessie Dotson a
 *** Local Organizing Committee *** </br>
 
 * Mark Messersmith, NASA Ames Research Center (Chair)
-* Knicole Colón, NASA Ames Research Center
+* Knicole Colón, NASA Goddard Space Flight Center
 * Ellen O'Leary, NASA Exoplanet Science Institute
 * Wendy Stenzel, NASA Ames Research Center
 
