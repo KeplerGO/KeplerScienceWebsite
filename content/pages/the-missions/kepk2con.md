@@ -26,14 +26,15 @@ href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon</a>).**
 	</tr>
 
   <tr>
-    <td style="width: 9em;">20 Apr 2017</td>
-    <td style="width: 20em;"> registration deadline for Foreign Nationals </td>
+    <td style="width: 9em;">31 Mar 2017</td>
+    <td style="width: 20em;"> registration deadline for Foreign
+    Nationals </td>
   </tr>
 
   <tr>
     <td style="width: 9em;">15 May 2017</td>
     <td style="width: 20em;"> registration deadline for U.S. Citizens
-    and Permanent Residents </td>
+    & Permanent Residents </td>
   </tr>
 
   <tr>
