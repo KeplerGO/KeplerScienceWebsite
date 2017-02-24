@@ -88,7 +88,7 @@ Campaign 13
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
-      <a href="data/campaigns/c12/K2Campaign13targets.csv">Target list (csv)</a>
+      <a href="data/campaigns/c13/K2Campaign13targets.csv">Target list (csv)</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
