@@ -477,22 +477,3 @@ which provides ample restaurant options.
 * Ashley Villar (CfA)
 * Jozsef Vinko (Konkoly)
 * Alfredo Andres Zenteno Vivanco (NOAO/CTIO)
-
-
-### Registration
-
-Fill out the [registration form](https://goo.gl/forms/PRczp7E2DDBev6Zp1) below to apply to register.
-There is no registration fee.
-
-Note that the workshop is aimed at active researchers in the field,
-i.e. professional astronomers and PhD students.
-This event is not suitable for undergraduate students or members of the general public.
-
-<b class="text-danger">Registration deadline: January 9th, 2017.</b>
-It is essential that non-US citizens apply before the deadline to gain
-access to the meeting venue. *While the formal deadline has passed, US
-citizens can still register until February 7th, 2017.*
-
-Please contact <a href="mailto:keplergo@mail.arc.nasa.gov">keplergo@mail.arc.nasa.gov</a> if you have any questions.
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScrThzG5AVrhydaXQlLssJb_kVj2NcqldOPuOsJVqDyd19hmw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
