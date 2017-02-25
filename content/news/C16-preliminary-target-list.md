@@ -18,7 +18,8 @@ This will enable K2's single-bandpass photometry to be
 complemented with simultaneous multi-band or
 spectroscopic observations from the ground.**
 
-To help the community secure observing resources for this opportunity,
+To help the community secure observing resources for this opportunity
+ahead of the upcoming proposal deadlines,
 the project has prepared a preliminary list of 16,000 targets which
 are very likely to be observed during the Campaign.
 The list is available as a CSV file ([k2c16-preliminary-target-list.csv](data/campaigns/c16/k2c16-preliminary-target-list.csv))
