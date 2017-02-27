@@ -35,7 +35,7 @@ and Solar System bodies.
 
 The final list of ~25,000 targets will be available near Oct 2017
 and is expected to include all targets from the preliminary list,
-except for a save a small number of targets which prove to be unobserable due to falling close to the edge of the field of view.
+except for a save a small number of targets which prove to be unobserable due to falling close too the edge of the field of view.
 
 As a reminder: Campaign 16 is scheduled to run from December 7th, 2017,
 through February 25th, 2018.
