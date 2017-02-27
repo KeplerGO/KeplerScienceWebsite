@@ -7,21 +7,18 @@ simultaneous observations from the ground
 were only possible during challenging twilight conditions,
 owing to K2's strategy to observe in the backward-facing
 direction along its velocity vector.
-The backward-facing direction was favored to prevent Earth
-from entering the field and scattering light across the focal plane.
 
-**This will change in Campaign 16 (Dec 2017 - Feb 2018), 
+**This will change in Campaign 16 (Dec 2017 - Feb 2018),
 when K2 will observe in the forward-facing direction
-to enable observations in a field 
+to enable observations in a field
 that can easily be accessed from Earth at the same time.
 This will enable K2's single-bandpass photometry to be
-complemented with simultaneous multi-band or
-spectroscopic observations from the ground.**
+complemented with simultaneous observations from the ground.**
 
 To help the community secure observing resources for this opportunity
 ahead of the upcoming proposal deadlines,
 the project has prepared a preliminary list of 16,000 targets which
-are very likely to be observed during the Campaign.
+are planned to be observed during the Campaign.
 The list is available as a CSV file ([k2c16-preliminary-target-list.csv](data/campaigns/c16/k2c16-preliminary-target-list.csv))
 and contains five columns:
 
@@ -38,8 +35,7 @@ and Solar System bodies.
 
 The final list of ~25,000 targets will be available near Oct 2017
 and is expected to include all targets from the preliminary list,
-except for a small number of (bright) targets which the pipeline may determine
-to fall or bleed off silicon.
+except for a save a small number of targets which prove to be unobserable due to falling close to the edge of the field of view.
 
 As a reminder: Campaign 16 is scheduled to run from December 7th, 2017,
 through February 25th, 2018.
