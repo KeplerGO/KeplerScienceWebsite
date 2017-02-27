@@ -1,5 +1,5 @@
 Title: K2 Campaign 16 preliminary target list available
-Date: 2017-02-24 14:00
+Date: 2017-02-27 09:00
 Author: Geert Barentsen
 
 A limitation that K2 users have faced in previous Campaigns is that
@@ -21,7 +21,7 @@ spectroscopic observations from the ground.**
 To help the community secure observing resources for this opportunity
 ahead of the upcoming proposal deadlines,
 the project has prepared a preliminary list of 16,000 targets which
-are very likely to be observed during the Campaign.
+are most likely to be observed during the Campaign.
 The list is available as a CSV file ([k2c16-preliminary-target-list.csv](data/campaigns/c16/k2c16-preliminary-target-list.csv))
 and contains five columns:
 
@@ -36,12 +36,12 @@ such as M67 (the core of which is likely to be observed
 using a ~0.5°-by-0.5° super-mask)
 and Solar System bodies.
 
-The final list of ~25,000 targets will be available near Oct 2017
+The final list of ~25,000 targets will be available by Nov 2017
 and is expected to include all targets from the preliminary list,
-except for a small number of (bright) targets which the pipeline may determine
+except for a small number of targets which the pipeline may determine
 to fall or bleed off silicon.
 
-As a reminder: Campaign 16 is scheduled to run from December 7th, 2017,
+As a reminder: Campaign 16 will run from December 7th, 2017,
 through February 25th, 2018.
 The field is located at a moderate Galactic Latitude (+35°)
 towards the constellation of Cancer (RA 9h, Dec +19°).
