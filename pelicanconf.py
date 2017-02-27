@@ -121,7 +121,7 @@ IMPORTANT_DATES = (
             ('<b>31 Mar 2017</b>',
              'Kepler & K2 SciCon abstract deadline',
              'scicon4/'),
-            ('<b>14 Apr 2017</b>',
+            ('<b>27 Apr 2017</b>',
              'K2 Campaign 11 data release (expected)',
              'k2-fields.html'),
             ('<b>25 May 2017</b>',
