@@ -29,8 +29,8 @@ Susan Thompson, NASA Ames
 **Important Dates:** </br>
 26 Jan 2017     Registration and abstract submission open </br>
 31 Mar 2017     Abstract submission deadline </br>
-20 Apr 2017     Registration deadline for Foreign Nationals </br>
-15 May 2017    Registration deadline for U.S. Citizens and Permanent Residents
+31 Mar 2017     Registration deadline for Foreign Nationals </br>
+15 May 2017     Registration deadline for U.S. Citizens and Permanent Residents
 
 **Conference Venue, Registration and Logistics:**</br>
 For more information, including registration details, please visit the conference website:</br>
