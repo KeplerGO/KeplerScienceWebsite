@@ -3,8 +3,7 @@ Date: 2017-01-30 09:30
 Author: Knicole Colon
 Summary: To celebrate the legacy and latest science results of Kepler/K2 we invite the community to the 4th Kepler & K2 Science Conference, hosted at NASA’s Ames Research Center in Moffett Field, CA.
 
-**FIRST ANNOUNCEMENT: "Kepler & K2 Science Conference IV: Legacy &
-Scion"** </br>
+**FIRST ANNOUNCEMENT: Kepler & K2 Science Conference IV** </br>
 June 19-23, 2017 </br>
 NASA Ames Research Center, Moffett Field, CA </br>
 [https://keplerscience.arc.nasa.gov/scicon4/](https://keplerscience.arc.nasa.gov/scicon4/)
