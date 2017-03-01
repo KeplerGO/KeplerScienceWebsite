@@ -39,7 +39,7 @@ href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon</a>).**
 
   <tr>
     <td style="width: 9em;">19-23 Jun 2017</td>
-    <td style="width: 20em;"> Kepler & K2 Science Conference IV </td>
+    <td style="width: 20em;"> Kepler &amp; K2 Science Conference IV </td>
 	</tr>
 	
 </table>
@@ -172,6 +172,7 @@ violation, please contact Mark D. Messersmith at 650-793-5722 or Jessie Dotson a
 * Knicole Colón, NASA Goddard Space Flight Center
 * Ellen O'Leary, NASA Exoplanet Science Institute
 * Wendy Stenzel, NASA Ames Research Center
+* Geert Barentsen, NASA Ames Research Center
 
 ### Contact
 

@@ -56,4 +56,5 @@ Brad Tucker, Australian National University
 Mark Messersmith, NASA Ames Research Center (Chair) </br>
 Knicole Colón, NASA Ames Research Center </br>
 Ellen O'Leary, NASA Exoplanet Science Institute </br>
-Wendy Stenzel, NASA Ames Research Center
+Wendy Stenzel, NASA Ames Research Center<br/>
+Geert Barentsen, NASA Ames Research Center
