@@ -3,7 +3,7 @@ Save_as: scicon4/index.html
 
 [TOC]
 
-<img class="img-responsive" style="max-width:100%;" src="../images/KepSciConf-IV-2017_title-block_slide-web.png">
+<img class="img-responsive" style="max-width:100%;" src="../images/KepSciConf-IV-2017_title-block_slide-web_no-legsci.png">
 *Image Credit: NASA ARC/W. Stenzel*
 
 Welcome to the home page of the Kepler & K2 Science Conference IV! Over the past 8 years, high-precision photometry from the Kepler/K2 mission has enabled breakthrough discoveries in exoplanet science, asteroseismology, eclipsing binary stars, solar-system objects, and extragalactic science. To celebrate the legacy and latest science results of Kepler/K2 we invite the community to the 4th Kepler & K2 Science Conference, hosted at NASA’s Ames Research Center in Moffett Field, CA. We welcome contributions from any area of science related to the Kepler/K2 mission, as well as related future missions such as TESS. We are looking forward to celebrating the Kepler/K2 science and legacy with the community!
