@@ -118,11 +118,14 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
+            ('<b>7 Mar 2017</b>',
+             'K2 Campaign 12 raw data release',
+             'http://archive.stsci.edu/k2/trappist1/'),
             ('<b>31 Mar 2017</b>',
              'Kepler & K2 SciCon abstract deadline',
              'scicon4/'),
             ('<b>27 Apr 2017</b>',
-             'K2 Campaign 11 data release (expected)',
+             'K2 Campaign 11 calibrated data release (expected)',
              'k2-fields.html'),
             ('<b>25 May 2017</b>',
              'K2 Campaign 15 DDT deadline',
