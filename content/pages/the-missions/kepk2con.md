@@ -28,7 +28,7 @@ href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon</a>).**
   <tr>
     <td style="width: 9em;">31 Mar 2017</td>
     <td style="width: 20em;"> registration deadline for Foreign
-    Nationals </td>
+    Nationals and employees of Chinese Entities </td>
   </tr>
 
   <tr>
@@ -46,6 +46,8 @@ href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon</a>).**
 
 ### Registration & Abstract Submission
 
+**The SOC and LOC are committed to enabling the broadest possible participation by members of the Kepler/K2 community. If you have any questions or concerns regarding your ability to attend please contact the SOC and LOC chairs (Eric Agol at agol@astro.washington.edu, Daniel Huber at huberd@hawaii.edu, and Mark Messersmith at mark.d.messersmith@nasa.gov).**
+ 
 **[Click here to register for the conference](http://catcopy.ipac.caltech.edu/ksc2017/registration.php)**. There is no registration
 fee. When registering, we ask that all participants read and agree
 with the <a
@@ -62,7 +64,16 @@ is open to people at all professional
 levels (graduate students, postdocs, etc.).
 
 **[Click here to submit an abstract for the conference](http://catcopy.ipac.caltech.edu/ksc2017/abstract.php)**. Multiple
-  abstract submissions are allowed. Note that Wednesday afternoon (June 21) has been reserved for breakout sessions to enable the community to discuss and work on Kepler/K2 related projects. We envision that these sessions will be more hands-on ("unconference" sessions) compared to traditional talks, ideally with broad interest to the community. Examples for breakout sessions could include panel discussions, hack activities, work meetings of larger collaborations, or tutorials to use data/software products related to Kepler/K2. To submit a proposal for a breakout session please select the appropriate abstract preference during registration.
+  abstract submissions are allowed. Note that Wednesday afternoon
+  (June 21) has been reserved for breakout sessions to enable the
+  community to discuss and work on Kepler/K2 related projects. We
+  envision that these sessions will be more hands-on ("unconference"
+  sessions) compared to traditional talks, ideally with broad interest
+  to the community. Examples for breakout sessions could include panel
+  discussions, hack activities, work meetings of larger
+  collaborations, or tutorials to use data/software products related
+  to Kepler/K2. To submit a proposal for a breakout session please
+  select the appropriate abstract preference during registration.
 
 ### Conference Agenda
 
@@ -73,6 +84,7 @@ confirmed invited speakers include:
 * Angie Wolfgang, Penn State
 * Armin Rest, STScI
 * Calen Henderson, JPL
+* Chris Burke, NASA Ames
 * Conny Aerts, KU Leuven
 * Dave Latham, Harvard-Smithsonian CfA
 * Dennis Stello, UNSW Australia
