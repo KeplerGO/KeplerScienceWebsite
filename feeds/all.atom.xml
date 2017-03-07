@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2017-02-27T09:00:00-08:00</updated><entry><title>K2 Campaign 16 preliminary target list available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-16-preliminary-target-list-available.html" rel="alternate"></link><published>2017-02-27T09:00:00-08:00</published><updated>2017-02-27T09:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-02-27:/k2-campaign-16-preliminary-target-list-available.html</id><summary type="html">&lt;p&gt;A limitation that K2 users have faced in previous Campaigns is that
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2017-03-06T19:00:00-08:00</updated><entry><title>Funding available for exoplanet research through NASA's XRP</title><link href="https://keplerscience.arc.nasa.gov/funding-available-for-exoplanet-research-through-nasas-xrp.html" rel="alternate"></link><published>2017-03-06T19:00:00-08:00</published><updated>2017-03-06T19:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-03-06:/funding-available-for-exoplanet-research-through-nasas-xrp.html</id><summary type="html">&lt;p&gt;Our US-based Kepler/K2 community is being alerted to the open call
+for proposals to be submitted to NASA's
+&lt;a href="https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&amp;amp;solId=%7B43CC37DF-3D91-E61A-2E57-63949390CE2C%7D&amp;amp;path=open"&gt;Exoplanet Research Program (XRP)&lt;/a&gt;.
+Investigations are expected to directly support the goal
+of understanding exoplanetary systems, by doing one or more of the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;detect exoplanets and/or confirm exoplanet candidates …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Our US-based Kepler/K2 community is being alerted to the open call
+for proposals to be submitted to NASA's
+&lt;a href="https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&amp;amp;solId=%7B43CC37DF-3D91-E61A-2E57-63949390CE2C%7D&amp;amp;path=open"&gt;Exoplanet Research Program (XRP)&lt;/a&gt;.
+Investigations are expected to directly support the goal
+of understanding exoplanetary systems, by doing one or more of the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;detect exoplanets and/or confirm exoplanet candidates
+in order to provide high-value targets
+for current and future NASA observatories
+or support NASA’s ongoing exoplanet surveys;&lt;/li&gt;
+&lt;li&gt;observationally characterize exoplanets, their atmospheres,
+or specific host star properties that directly impact our understanding
+of the exoplanetary system, in order to support
+NASA’s ongoing exoplanet surveys, inform target and operational choices
+for current NASA missions, or deliver targeting, operational,
+and formulation data for future NASA observatories;&lt;/li&gt;
+&lt;li&gt;understand the chemical and physical processes of exoplanets
+(including the state and evolution of their surfaces, interiors,
+and atmospheres);&lt;/li&gt;
+&lt;li&gt;improve understanding of the origins of exoplanetary systems. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;XRP proposals are solicitated annually as part of NASA's
+&lt;a href="https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&amp;amp;solId={E757EF32-60E6-76AE-A276-21A1F8BA96BB}&amp;amp;path=open"&gt;Research Opportunities in Space and Earth Sciences (ROSES)&lt;/a&gt;
+solicitation.
+Typical XRP funding amounts range between $60,000 to $200,000 per year,
+and run typically for 2-3 years.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Proposals for the 2017 call are due on Mar 30, 2017.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Quick links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&amp;amp;solId=%7B43CC37DF-3D91-E61A-2E57-63949390CE2C%7D&amp;amp;path=open"&gt;Exoplanet Research Program (XRP)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&amp;amp;solId={E757EF32-60E6-76AE-A276-21A1F8BA96BB}&amp;amp;path=open"&gt;Annual ROSES solication&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content></entry><entry><title>K2 Campaign 16 preliminary target list available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-16-preliminary-target-list-available.html" rel="alternate"></link><published>2017-02-27T09:00:00-08:00</published><updated>2017-02-27T09:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-02-27:/k2-campaign-16-preliminary-target-list-available.html</id><summary type="html">&lt;p&gt;A limitation that K2 users have faced in previous Campaigns is that
 simultaneous observations from the ground
 were only possible during challenging twilight conditions,
 owing to K2's strategy to observe in the backward-facing
