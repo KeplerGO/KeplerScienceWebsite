@@ -1,5 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><atom:link href="https://keplerscience.arc.nasa.gov/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 06 Mar 2017 19:00:00 -0800</lastBuildDate><item><title>Funding available for exoplanet research through NASA's XRP</title><link>https://keplerscience.arc.nasa.gov/funding-available-for-exoplanet-research-through-nasas-xrp.html</link><description>&lt;p&gt;Our US-based Kepler/K2 community is being alerted to the open call
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><atom:link href="https://keplerscience.arc.nasa.gov/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 08 Mar 2017 06:00:00 -0800</lastBuildDate><item><title>Raw data for K2 Campaign 12 and TRAPPIST-1 now available</title><link>https://keplerscience.arc.nasa.gov/raw-data-for-k2-campaign-12-and-trappist-1-now-available.html</link><description>&lt;p&gt;The raw, uncalibrated data files for &lt;a href="k2-approved-programs.html#campaign-12"&gt;K2 Campaign 12&lt;/a&gt;
+are now available for download from the
+&lt;a href="https://archive.stsci.edu/k2/trappist1/"&gt;data archive at MAST&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The raw files are made public straight away to aid astronomers
+in preparing proposals due this month to use ground-based telescopes
+to further investigate TRAPPIST-1.
+These are &lt;em&gt;not&lt;/em&gt; the project's true data products:
+by late May, the routine pipeline processing of the K2 data will be completed
+and vetted, and the fully calibrated data made available.&lt;/p&gt;
+&lt;p&gt;While we recommend that scientists only use the pipeline-processed data products in journal papers,
+we do encourage our community to share their 
+understanding of the raw data with the public by blogging or tweeting
+tutorials and analyses. 
+This public TRAPPIST-1 data set offers a unique opportunity
+to let a wider audience witness the process scientific discovery.&lt;/p&gt;
+&lt;p&gt;The remainder of this blog post summarizes the caveats
+associated with the raw data,
+describes the availability of preliminary Target Pixel Files,
+and offers a quick-look at the TRAPPIST-1 light curve.&lt;/p&gt;
+&lt;h2 id="raw-data-caveats"&gt;Raw data caveats&lt;/h2&gt;
+&lt;p&gt;The use of the raw, uncalibrated data files requires an intimate understanding
+of their format and caveats.
+In particular:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the raw data are not flat-fielded, bias-subtracted, or smear-corrected;&lt;/li&gt;
+&lt;li&gt;cadences of poor quality, e.g. due to thruster firings, are not flagged;&lt;/li&gt;
+&lt;li&gt;the data are formatted in a non-standard way 
+and &lt;a href="https://github.com/KeplerGO/kadenza"&gt;require reformatting&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Moreover, during Campaign 12, a cosmic ray event reset
+the spacecraft's onboard software causing a five-day break
+in science data collection from Feb 1st through Feb 6th.
+The benign event is the fourth occurrence of a cosmic ray susceptibility
+since launch in March 2009 and the spacecraft remains healthy
+and operating nominally otherwise.&lt;/p&gt;
+&lt;h2 id="pseudo-target-pixel-files"&gt;Pseudo Target Pixel Files&lt;/h2&gt;
+&lt;p&gt;TRAPPIST-1 was observed
+using a 11x11 short-cadence mask with EPIC ID 200164267
+from Dec 15th, 2016, through Mar 4th, 2017.
+To help the community explore this target,
+the Guest Observer Office reformatted the raw data into a
+&lt;em&gt;pseudo&lt;/em&gt; Target Pixel Files
+using the &lt;a href="https://github.com/KeplerGO/kadenza"&gt;Kadenza tool&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The files are available for download from Zenodo
+(DOI &lt;a href="https://doi.org/10.5281/zenodo.375796"&gt;10.5281/zenodo.375796&lt;/a&gt;):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Long cadence: &lt;a href="https://zenodo.org/record/375796/files/k2-trappist1-unofficial-tpf-long-cadence.fits.gz"&gt;k2-trappist1-unofficial-tpf-long-cadence.fits.gz&lt;/a&gt; (2 MB)&lt;/li&gt;
+&lt;li&gt;Short cadence: &lt;a href="https://zenodo.org/record/375796/files/k2-trappist1-unofficial-tpf-short-cadence.fits.gz"&gt;k2-trappist1-unofficial-tpf-short-cadence.fits.gz&lt;/a&gt; (45 MB)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Compared to traditional Target Pixel Files, the FLUX values
+in these files are &lt;strong&gt;not corrected for smear or bias,
+and not all header keywords are populated&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id="quick-look-at-trappist-1"&gt;Quick look at TRAPPIST-1&lt;/h2&gt;
+&lt;p&gt;A &lt;a href="https://github.com/mrtommyb/trappist-lc/blob/master/TRAPPIST-1-transit-code.ipynb"&gt;quick-look lightcurve&lt;/a&gt; of the long cadence data for TRAPPIST-1
+reveals sinusoidal patterns due to star spots, and at least 6 planets:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/mrtommyb/trappist-lc/blob/master/TRAPPIST-1-transit-code.ipynb" style="border:none;"&gt;&lt;img src="images/news/trappist1-quicklook-lightcurve.png"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/mrtommyb/trappist-lc/blob/master/TRAPPIST-1-transit-code.ipynb"&gt;&lt;img src="images/news/trappist1-quicklook-planets.png"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The pseudo Target Pixel Files above can also be converted into movies
+using the &lt;a href="http://barentsen.github.io/k2flix/"&gt;k2flix tool&lt;/a&gt;,
+which shows TRAPPIST-1 to be at the center of the target mask:&lt;/p&gt;
+&lt;p&gt;&lt;img src="images/news/trappist1-mask.gif"&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Wed, 08 Mar 2017 06:00:00 -0800</pubDate><guid>tag:keplerscience.arc.nasa.gov,2017-03-08:raw-data-for-k2-campaign-12-and-trappist-1-now-available.html</guid></item><item><title>Funding available for exoplanet research through NASA's XRP</title><link>https://keplerscience.arc.nasa.gov/funding-available-for-exoplanet-research-through-nasas-xrp.html</link><description>&lt;p&gt;Our US-based Kepler/K2 community is being alerted to the open call
 for proposals to be submitted to NASA's
 &lt;a href="https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&amp;amp;solId=%7B43CC37DF-3D91-E61A-2E57-63949390CE2C%7D&amp;amp;path=open"&gt;Exoplanet Research Program (XRP)&lt;/a&gt;.
 Investigations are expected to directly support the goal
