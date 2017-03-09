@@ -13,8 +13,7 @@ These are *not* the project's true data products:
 by late May, the routine pipeline processing of the K2 data will be completed
 and vetted, and the fully calibrated data made available.
 
-While we recommend that scientists only use the pipeline-processed data products in journal papers,
-we do encourage our community to share their 
+We encourage our community to share their 
 understanding of the raw data with the public by blogging or tweeting
 tutorials and analyses. 
 This public TRAPPIST-1 data set offers a unique opportunity
