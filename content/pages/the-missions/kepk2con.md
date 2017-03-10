@@ -8,8 +8,12 @@ Save_as: scicon4/index.html
 
 Welcome to the home page of the Kepler & K2 Science Conference IV! Over the past 8 years, high-precision photometry from the Kepler/K2 mission has enabled breakthrough discoveries in exoplanet science, asteroseismology, eclipsing binary stars, solar-system objects, and extragalactic science. To celebrate the legacy and latest science results of Kepler/K2 we invite the community to the 4th Kepler & K2 Science Conference, hosted at NASA’s Ames Research Center in Moffett Field, CA. We welcome contributions from any area of science related to the Kepler/K2 mission, as well as related future missions such as TESS. We are looking forward to celebrating the Kepler/K2 science and legacy with the community!
 
-**Check back here for updates or follow the conversation on Twitter (<a
-href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon</a>).**
+<div>
+<img border="1" src='../images/twitter.png' width="30" height="30" style="float: left;">
+<b> Check back here for updates or follow the conversation on Twitter (<a
+href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon</a>).</b>
+<div style="clear: both;"></div>
+</div>
 
 ### Important Dates 
 
@@ -46,7 +50,7 @@ href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon</a>).**
 
 ### Registration & Abstract Submission
 
-**The SOC and LOC are committed to enabling the broadest possible participation by members of the Kepler/K2 community. If you have any questions or concerns regarding your ability to attend please contact the SOC and LOC chairs (Eric Agol at agol@astro.washington.edu, Daniel Huber at huberd@hawaii.edu, and Mark Messersmith at mark.d.messersmith@nasa.gov).**
+*The SOC and LOC are committed to enabling the broadest possible participation by members of the Kepler/K2 community. If you have any questions or concerns regarding your ability to attend please contact the SOC and LOC chairs (Eric Agol at agol@astro.washington.edu, Daniel Huber at huberd@hawaii.edu, and Mark Messersmith at mark.d.messersmith@nasa.gov).*
  
 **[Click here to register for the conference](http://catcopy.ipac.caltech.edu/ksc2017/registration.php)**. There is no registration
 fee. When registering, we ask that all participants read and agree
@@ -91,9 +95,9 @@ Depending upon the demonstrated need and the volume of requests, awarded support
 * Airfare
 * Ground Transportation
 
-Decisions for requests submitted before March 31 will be made by April 15.
+**[Click here to submit a request for travel support](https://goo.gl/forms/vsrCGGcdNTqqHFF92)**.
+ Decisions for requests submitted before March 31 will be made by April 15.
 
-**A travel support request form will go live shortly**. 
 
 ### Conference Agenda
 
