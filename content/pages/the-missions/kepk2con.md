@@ -75,6 +75,26 @@ levels (graduate students, postdocs, etc.).
   to Kepler/K2. To submit a proposal for a breakout session please
   select the appropriate abstract preference during registration.
 
+### Travel Support
+
+Limited financial support for travel expenses is available for those
+who would otherwise be unable to attend the conference. Special
+consideration will be given to graduate students and postdoctoral
+associates. Priority will be given to requests placed on or before the
+deadline for abstract submissions (March 31, 2017). Late requests will
+be accepted but will be limited by the availability of funds.
+
+Depending upon the demonstrated need and the volume of requests, awarded support (in the form of expense reimbursement) may include one or more of the following:
+
+* Lodging
+* Meals
+* Airfare
+* Ground Transportation
+
+Decisions for requests submitted before March 31 will be made by April 15.
+
+**A travel support request form will go live shortly**. 
+
 ### Conference Agenda
 
 This conference will showcase results from the Kepler and K2 missions
