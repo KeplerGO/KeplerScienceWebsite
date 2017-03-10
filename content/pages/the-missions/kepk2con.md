@@ -116,11 +116,16 @@ confirmed invited speakers include:
 * Ruth Murray Clay, UCSC
 * Susan Thompson, NASA Ames
 
-### Presenter Information
+#### Participant List
+
+<a href='../participants.html'>A list of registered participants can
+be found here</a>.
+
+#### Presenter Information
 
 Details coming soon.
 
-### Venue Information
+### Venue 
 
 The conference will be held in the
 <a href='https://www.google.com/maps/place/NASA+Ames+Conference+Center-NACC,+Building+152,+200+Bailey+Rd,+Mountain+View,+CA+94043/@37.4075789,-122.059327,17z'>NASA Ames Conference Center (Building 152)</a>,
@@ -131,7 +136,7 @@ main gate. Non US-citizens will be required to pick up a badge at the
 <a href='https://www.google.com/maps/@37.4098037,-122.063085,19z'>main
 gate</a>.
 
-### Travel Information
+#### Travel Information
 
 The nearest airport is the San Jose International Airport (SJC).
 The nearest alternative to SJC is San Francisco International Airport
@@ -140,7 +145,7 @@ also another option.
 We recommend hiring a rental car or using the Uber or Lyft apps
 for transportation from the airport. 
 
-### Lodging Options
+#### Lodging Options
 
 Lodging on-site is available on a first-come, first-served basis. On-site accommodation is available at the <a href='http://naccenter.arc.nasa.gov/links.php#lodge'>NASA Lodge</a>,
 which offers affordable rooms with private bath, microwave, and refrigerator
