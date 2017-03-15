@@ -37,7 +37,7 @@ ul.schedule > li {
                 as part of <a href="/k2-proposing-targets.html">K2 GO Cycle 5</a>.  The Step 1 deadline was Nov 3, 2016.
             </li>
             <li style='margin-top: 0.75em;'>
-                A <b><a href='#k2-supernova-workshop'>workshop</a></b> will be held at NASA Ames on <b>Feb 14-16, 2017</b>,
+                A <b><a href='#k2-supernova-workshop'>workshop</a></b> was held at NASA Ames on <b>Feb 14-16, 2017</b>,
                 to help plan the K2 Supernova Experiment, including the ground-based observations and data analysis efforts.
             </li>
         </ul>
@@ -102,9 +102,9 @@ The K2 Supernova Cosmology Experiment will deliver a statistical sample of such 
 
 ## K2 Supernova Workshop
 
-The K2 mission will host a **Supernova Workshop on Feb 14-16, 2017**,
+The K2 mission hosted a **Supernova Workshop on Feb 14-16, 2017**,
 at NASA Ames in Mountain View, California.
-The motivations for this workshop include:
+The motivations for this workshop included:
 
 * providing an opportunity to plan the K2 observations with Kepler/K2 team members;
 * coordinating the simultaneous, ground-based follow-up observations and proposals;
