@@ -5,12 +5,6 @@ Save_as: conferences.html
 
 
 <table class="table table-striped table-hover" style="max-width:55em;">
-
-  <tr>
-    <td style="width: 9em;">14-16 Feb 2017</td>
-    <td style="width: 25em;"><a href='supernova-experiment/#k2-supernova-workshop'>K2 Supernova Cosmology Workshop</a></td>
-    <td><a href='supernova-experiment/#k2-supernova-workshop'>website</a>, <a href="https://twitter.com/search?q=%23K2SN">#K2SN tweets</a></td>
-  </tr>
 	
   <tr>
     <td style="width: 9em;">19-23 Jun 2017</td>
@@ -25,6 +19,12 @@ Save_as: conferences.html
 
 <table class="table table-striped table-hover" style="max-width:55em;">
 
+  <tr>
+    <td style="width: 9em;">Feb 2017</td>
+    <td style="width: 25em;">K2 Supernova Cosmology Workshop</td>
+    <td><a href='supernova-experiment/#k2-supernova-workshop'>website</a>, <a href="https://twitter.com/search?q=%23K2SN">#K2SN tweets</a></td>
+	</tr>
+	
   <tr>
     <td style="width: 9em;">Jan 2017</td>
     <td style="width: 25em;">K2/TESS Special Session at AAS 229th Meeting</td>
