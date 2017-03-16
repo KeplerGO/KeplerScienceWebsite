@@ -113,10 +113,9 @@ and contains five columns:&lt;/p&gt;
 &lt;li&gt;Kp (magnitude);&lt;/li&gt;
 &lt;li&gt;Programs (pipe-delimited list of program IDs).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The list does not include custom masks,
-such as M67 (the core of which is likely to be observed
-using a ~0.5°-by-0.5° super-mask)
-and Solar System bodies.&lt;/p&gt;
+&lt;p&gt;The list does not include short cadence mode, Solar System bodies,
+and custom masks (such as M67, the core of which is likely to be observed
+using a ~0.5°-by-0.5° super-mask).&lt;/p&gt;
 &lt;p&gt;The final list of ~25,000 targets will be available by Nov 2017
 and is expected to include all targets from the preliminary list,
 save a small number of targets which prove to be unobservable
