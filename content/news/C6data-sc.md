@@ -2,7 +2,7 @@ Title: K2 Campaign 6 short cadence data available
 Date: 2016-02-18 12:00
 Author: Geert Barentsen
 
-Short cadence target pixel files and light curves for K2 Campaign 6
+Short cadence target pixel files for K2 Campaign 6
 are now available for download 
 from the [K2 data archive at MAST](https://archive.stsci.edu/k2/).
 
