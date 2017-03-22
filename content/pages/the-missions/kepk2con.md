@@ -166,18 +166,28 @@ at the conference center.
 You will need to provide a credit card number
 along with your name, cell phone number, and email.
 
-**Be aware that the NASA lodging fills up quickly in the summer due to
-student interns, so we recommend calling as soon as possible to book a
-room at the NASA lodge.**
+**Due to the presence of student interns in the summer and ongoing
+renovations in Building 19, rooms at the NASA lodge are likely no
+longer available at this time.**
 
-Alternatively, the conference center provides a <a href='http://naccenter.arc.nasa.gov/links.php#hotel'>list of local hotels</a>.
-Those nearest to Ames are the <a href='http://www.countyinn.com'>County Inn</a>
-and the <a href='http://hamptoninn3.hilton.com'>Hampton Inn &amp; Suites</a>.
-These options are more expensive but are located closer to downtown Mountain View,
-which provides ample restaurant options.
+Alternatively, the conference center provides a <a
+href='http://naccenter.arc.nasa.gov/links.php#hotel'>list of local
+hotels</a>. Some hotel options are below along with the distances from the hotel to the conference center:
 
-Additional details coming
-soon.
+* <a href='http://www.countyinn.com'>County Inn</a>, 850 Leong Drive,
+  Mountain View, CA 94043 (650-961-1131) (~1.2 miles)
+* <a href='http://www.ramadasiliconvalley.com/'> Ramada Mountain
+  View</a>, 55 Fairchild Drive, Mountain View, CA 94043 (650-967-6856)
+  (~1.4 miles)
+* <a href='http://www.qualityinnmountainview.com/'> Quality Inn &
+  Suites</a>, 5 Fairchild Drive, Mountain View, CA 94043
+  (650-934-0155) (~1.4 miles)
+* <a href='http://hamptoninn3.hilton.com/en/hotels/california/hampton-inn-and-suites-mountain-view-NUQCAHX/index.html'> Hampton Inn & Suites</a>, 390 Moffett Boulevard, Mountain View, CA 94043 (650-988-0300) (~1.7 miles)
+* <a
+  href='http://www.oakwood.com/furnished-apartments/furnished/US/CA/Mountain-View/prop17.html'>
+  Oakwood</a>, 555 W Middlefield Road, Mountain View, CA
+  (877-715-7696) (~1.7 miles) 
+  *(note: these are extended stay apartments and prefer to have people staying at least five nights)*
 
 ### Remote Attendance
 
