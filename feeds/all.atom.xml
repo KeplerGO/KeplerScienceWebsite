@@ -113,10 +113,9 @@ and contains five columns:&lt;/p&gt;
 &lt;li&gt;Kp (magnitude);&lt;/li&gt;
 &lt;li&gt;Programs (pipe-delimited list of program IDs).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The list does not include custom masks,
-such as M67 (the core of which is likely to be observed
-using a ~0.5°-by-0.5° super-mask)
-and Solar System bodies.&lt;/p&gt;
+&lt;p&gt;The list does not include short cadence mode, Solar System bodies,
+and custom masks (such as M67, the core of which is likely to be observed
+using a ~0.5°-by-0.5° super-mask).&lt;/p&gt;
 &lt;p&gt;The final list of ~25,000 targets will be available by Nov 2017
 and is expected to include all targets from the preliminary list,
 save a small number of targets which prove to be unobservable
@@ -1212,7 +1211,7 @@ mission operations engineers discovered that the Kepler spacecraft
 was in Emergency Mode (EM).  As a result, the start of K2 Campaign 9
 is delayed.&lt;/p&gt;
 &lt;p&gt;Updates will be provided via the
-&lt;a href="http://www.nasa.gov/feature/mission-manager-update-kepler-spacecraft-in-emergency-mode"&gt;Mission Manager Updates&lt;/a&gt;.&lt;/p&gt;</summary></entry><entry><title>K2 Campaign 6 short cadence data available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-6-short-cadence-data-available.html" rel="alternate"></link><updated>2016-02-18T12:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2016-02-18:k2-campaign-6-short-cadence-data-available.html</id><summary type="html">&lt;p&gt;Short cadence target pixel files and light curves for K2 Campaign 6
+&lt;a href="http://www.nasa.gov/feature/mission-manager-update-kepler-spacecraft-in-emergency-mode"&gt;Mission Manager Updates&lt;/a&gt;.&lt;/p&gt;</summary></entry><entry><title>K2 Campaign 6 short cadence data available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-6-short-cadence-data-available.html" rel="alternate"></link><updated>2016-02-18T12:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2016-02-18:k2-campaign-6-short-cadence-data-available.html</id><summary type="html">&lt;p&gt;Short cadence target pixel files for K2 Campaign 6
 are now available for download 
 from the &lt;a href="https://archive.stsci.edu/k2/"&gt;K2 data archive at MAST&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Whilst data for 28,289 long cadence targets in C6
