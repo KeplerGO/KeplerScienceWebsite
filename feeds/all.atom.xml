@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2017-03-25T11:00:00-07:00</updated><entry><title>Request for input on the Campaign 17 and 18 field placement</title><link href="https://keplerscience.arc.nasa.gov/request-for-input-on-the-campaign-17-and-18-field-placement.html" rel="alternate"></link><published>2017-03-25T11:00:00-07:00</published><updated>2017-03-25T11:00:00-07:00</updated><author><name>Knicole Colon &amp; Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-03-25:/request-for-input-on-the-campaign-17-and-18-field-placement.html</id><summary type="html">&lt;p&gt;The fields for K2 Campaigns 17 and beyond have not yet been set.
-We strive to optimize these future fields based on potential science.
+Although these future Campaigns are at risk of not being executed
+due to Kepler running low on fuel,
+there is a significant chance that the spacecraft will continue to function
+well into 2018 and the project will …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The fields for K2 Campaigns 17 and beyond have not yet been set.
+Although these future Campaigns are at risk of not being executed
+due to Kepler running low on fuel,
+there is a significant chance that the spacecraft will continue to function
+well into 2018 and the project will prepare fields accordingly.&lt;/p&gt;
+&lt;p&gt;We strive to optimize these future fields based on potential science.
 We are now soliciting feedback from the community on the
-placement of fields 17 and 18.&lt;/p&gt;
-&lt;p&gt;Example options which satisfy K2's pointing constraints are shown below …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The fields for K2 Campaigns 17 and beyond have not yet been set.
-We strive to optimize these future fields based on potential science.
-We are now soliciting feedback from the community on the
-placement of fields 17 and 18.&lt;/p&gt;
-&lt;p&gt;Example options which satisfy K2's pointing constraints are shown below.
+placement of fields 17 and 18.
+Example options which satisfy K2's pointing constraints are shown below.
 When submitting your input, please keep in mind
 that we can only shift the field along the ecliptic between these options,
 not up or down.&lt;/p&gt;
