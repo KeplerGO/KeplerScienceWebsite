@@ -320,62 +320,11 @@ This page details the previous, current, and future K2 Campaign fields.
 
 <hr>
 
-### Future (preliminary)
+### Future
 
-<p>
-The fields below indicate fields being considered for Campaign 16 and beyond. 
-The coordinates are not final and <i>will</i> change to optimize science
-and accommodate engineering constraints (e.g. the availability of guide stars).
-</p>
+Community feedback on the field placement of Campaigns 17 and 18
+is [currently being sollicited](request-for-input-on-the-campaign-17-and-18-field-placement.html).
 
-We encourage the community to provide input on the placement of these
-fields by emailing us at [keplergo@mail.arc.nasa.gov](keplergo@mail.arc.nasa.gov). 
-
-<div class="panel panel-primary">
-  <div class="panel-heading">
-    <h3 class="panel-title">Proposed future fields</h3>
-  </div>
-  <div class="panel-body">
-
-<table class="table table-striped table-hover" style="font-size: 0.9em;">
-  <thead>
-    <tr>
-      <th>Field</th>
-      <th>Start after<sup>†</sup></th>
-      <th>End before<sup>†</sup></th>
-      <th>RA (J2000)</th>
-      <th>Dec (J2000)</th>
-      <th>Comments</th>
-    </tr>
-  </thead>
-  <tdata>
-    <tr>
-      <td>17<sup>††</sup></td>
-      <td>2018 Feb 1</td>
-      <td>2018 Apr 22</td>
-      <td>12:33:24</td>
-      <td>-01:57:31</td>
-      <td>Forward-facing</td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>2018 Apr 22</td>
-      <td>2018 Jul 12</td>
-      <td>07:31:33</td>
-      <td>+20:13:38</td>
-      <td>Approximate position</td>
-    </tr>
-  </tdata>
-</table>
-<p>
-<b><sup>†</sup>Note:</b> the dates shown are the <i>earliest possible</i> start dates, and the <i>latest possible</i> end dates.  The feasible date ranges of these campaigns overlap slightly to allow for some flexibility
-in the final choice of dates and positions.</p>
-<p>
-<b><sup>††</sup>Note:</b> field 17 is proposed to be forward-facing campaign.
-</p>
-
-  </div>
-</div>
 
 <hr/>
 
