@@ -16,6 +16,10 @@ not up or down.
 April 10 and be [submitted via this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfJ9hfrCBbRKsbHF-0cMO-orQMaijXnC_5pHfezp29Q81wFPg/viewform?usp=sf_link).**
 We anticipate announcing the final field positions in early May.
 
+Questions may be addressed to [keplergo@mail.arc.nasa.gov](keplergo@mail.arc.nasa.gov).
+
+<hr>
+
 
 ## Campaign 17: Example forward-facing options
 
@@ -72,6 +76,9 @@ the the C17-C10 overlap option to run for >70 days.
 <a href="images/k2/k2-c17-options.gif">
 <img src="images/k2/k2-c17-options.gif" style="max-width:40em;">
 </a>
+
+
+<hr>
 
 
 ## Campaign 18: Example forward-facing options
@@ -131,6 +138,8 @@ the following options listed below in the case of a forward-facing field:
 <img src="images/k2/k2-c18-forward-options.gif" style="max-width:40em;">
 </a>
 
+<hr>
+
 
 ## Campaign 18: Example backward-facing options
 
@@ -183,6 +192,7 @@ simultaneous observations from the ground would be challenging:
 <img src="images/k2/k2-c18-backward-options.gif" style="max-width:40em;">
 </a>
 
+<hr>
 
 ## K2fov
 
@@ -191,3 +201,4 @@ The above field options have been configured in the [GitHub version of K2fov](ht
 * 171, 172, 173 (C17);
 * 181, 182, 183 (C18 forward-facing);
 * 184, 185, 186 (C18 backward-facing).
+
