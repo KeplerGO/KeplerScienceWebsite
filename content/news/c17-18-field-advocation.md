@@ -3,10 +3,14 @@ Date: 2017-03-25 11:00
 Author: Knicole Colon & Geert Barentsen
 
 The fields for K2 Campaigns 17 and beyond have not yet been set.
+Although these future Campaigns are at risk of not being executed
+due to Kepler running low on fuel,
+there is a significant chance that the spacecraft will continue to function
+well into 2018 and the project will prepare fields accordingly.
+
 We strive to optimize these future fields based on potential science.
 We are now soliciting feedback from the community on the
 placement of fields 17 and 18.
-
 Example options which satisfy K2's pointing constraints are shown below.
 When submitting your input, please keep in mind
 that we can only shift the field along the ecliptic between these options,
