@@ -14,6 +14,9 @@ not up or down.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;We ask that all requests for field placements be received by
 April 10 and be &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSfJ9hfrCBbRKsbHF-0cMO-orQMaijXnC_5pHfezp29Q81wFPg/viewform?usp=sf_link"&gt;submitted via this Google Form&lt;/a&gt;.&lt;/strong&gt;
 We anticipate announcing the final field positions in early May.&lt;/p&gt;
+&lt;p&gt;Questions may be addressed to &lt;a href="keplergo@mail.arc.nasa.gov"&gt;keplergo@mail.arc.nasa.gov&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+
 &lt;h2 id="campaign-17-example-forward-facing-options"&gt;Campaign 17: Example forward-facing options&lt;/h2&gt;
 &lt;p&gt;Campaign 17 is designated to have a forward-facing field
 to enable simultaneous observations from the Earth.
@@ -67,6 +70,8 @@ the the C17-C10 overlap option to run for &amp;gt;70 days.&lt;/p&gt;
 &lt;p&gt;&lt;a href="images/k2/k2-c17-options.gif"&gt;
 &lt;img src="images/k2/k2-c17-options.gif" style="max-width:40em;"&gt;
 &lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+
 &lt;h2 id="campaign-18-example-forward-facing-options"&gt;Campaign 18: Example forward-facing options&lt;/h2&gt;
 &lt;p&gt;The field for Campaign 18 largely depends on the location of the Campaign
 17 field as well as whether or not Campaign 18 will be posited as a
@@ -122,6 +127,8 @@ the following options listed below in the case of a forward-facing field:&lt;/p&
 &lt;p&gt;&lt;a href="images/k2/k2-c18-forward-options.gif"&gt;
 &lt;img src="images/k2/k2-c18-forward-options.gif" style="max-width:40em;"&gt;
 &lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+
 &lt;h2 id="campaign-18-example-backward-facing-options"&gt;Campaign 18: Example backward-facing options&lt;/h2&gt;
 &lt;p&gt;And these are the C18 options for the backward-facing geometry,
 in which case Earth is kept out of the field but
@@ -170,6 +177,8 @@ simultaneous observations from the ground would be challenging:&lt;/p&gt;
 &lt;p&gt;&lt;a href="images/k2/k2-c18-backward-options.gif"&gt;
 &lt;img src="images/k2/k2-c18-backward-options.gif" style="max-width:40em;"&gt;
 &lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+
 &lt;h2 id="k2fov"&gt;K2fov&lt;/h2&gt;
 &lt;p&gt;The above field options have been configured in the &lt;a href="https://github.com/KeplerGO/K2fov"&gt;GitHub version of K2fov&lt;/a&gt; using mock field numbers:&lt;/p&gt;
 &lt;ul&gt;
