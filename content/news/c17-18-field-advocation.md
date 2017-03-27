@@ -1,12 +1,12 @@
 Title: Request for input on the Campaign 17 and 18 field placement
-Date: 2017-03-25 11:00
+Date: 2017-03-26 17:00
 Author: Knicole Colon & Geert Barentsen
 
 The fields for K2 Campaigns 17 and beyond have not yet been set.
 Although these future Campaigns are at risk of not being executed
 due to Kepler running low on fuel,
 there is a significant chance that the spacecraft will continue to function
-well into 2018 and the project will prepare fields accordingly.
+well into 2018 and the project must be ready to observe fields accordingly.
 
 We strive to optimize these future fields based on potential science.
 We are now soliciting feedback from the community on the
@@ -17,7 +17,9 @@ that we can only shift the field along the ecliptic between these options,
 not up or down.
 
 **We ask that all requests for field placements be received by
-April 10 and be [submitted via this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfJ9hfrCBbRKsbHF-0cMO-orQMaijXnC_5pHfezp29Q81wFPg/viewform?usp=sf_link).**
+April 11 and be [submitted via this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfJ9hfrCBbRKsbHF-0cMO-orQMaijXnC_5pHfezp29Q81wFPg/viewform?usp=sf_link).**
+Advocacy that was submitted in recent months via e-mail
+will be taken into account as well.
 We anticipate announcing the final field positions in early May.
 
 Questions may be addressed to [keplergo@mail.arc.nasa.gov](keplergo@mail.arc.nasa.gov).
@@ -33,9 +35,8 @@ Possible field options are outlined in the table below.
 
 Note that all options have a start date of 3 March 2018,
 i.e. 5 days after the end of Campaign 16.
-The first option is very short in duration as a result; 
-Campaign 16 would have to be cut short by a month to enable
-the the C17-C10 overlap option to run for >70 days.
+The first option is very short in duration
+due to its partial overlap in observing geometry with C16.
 
 <div class="panel panel-primary" style="max-width:40em;">
   <div class="panel-heading">
