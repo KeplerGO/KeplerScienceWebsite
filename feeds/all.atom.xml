@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2017-03-25T11:00:00-07:00</updated><entry><title>Request for input on the Campaign 17 and 18 field placement</title><link href="https://keplerscience.arc.nasa.gov/request-for-input-on-the-campaign-17-and-18-field-placement.html" rel="alternate"></link><published>2017-03-25T11:00:00-07:00</published><updated>2017-03-25T11:00:00-07:00</updated><author><name>Knicole Colon &amp; Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-03-25:/request-for-input-on-the-campaign-17-and-18-field-placement.html</id><summary type="html">&lt;p&gt;The fields for K2 Campaigns 17 and beyond have not yet been set.
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2017-03-26T17:00:00-07:00</updated><entry><title>Request for input on the Campaign 17 and 18 field placement</title><link href="https://keplerscience.arc.nasa.gov/request-for-input-on-the-campaign-17-and-18-field-placement.html" rel="alternate"></link><published>2017-03-26T17:00:00-07:00</published><updated>2017-03-26T17:00:00-07:00</updated><author><name>Knicole Colon &amp; Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-03-26:/request-for-input-on-the-campaign-17-and-18-field-placement.html</id><summary type="html">&lt;p&gt;The fields for K2 Campaigns 17 and beyond have not yet been set.
 Although these future Campaigns are at risk of not being executed
 due to Kepler running low on fuel,
 there is a significant chance that the spacecraft will continue to function
-well into 2018 and the project will …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The fields for K2 Campaigns 17 and beyond have not yet been set.
+well into 2018 and the project must …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The fields for K2 Campaigns 17 and beyond have not yet been set.
 Although these future Campaigns are at risk of not being executed
 due to Kepler running low on fuel,
 there is a significant chance that the spacecraft will continue to function
-well into 2018 and the project will prepare fields accordingly.&lt;/p&gt;
+well into 2018 and the project must be ready to observe fields accordingly.&lt;/p&gt;
 &lt;p&gt;We strive to optimize these future fields based on potential science.
 We are now soliciting feedback from the community on the
 placement of fields 17 and 18.
@@ -16,7 +16,9 @@ When submitting your input, please keep in mind
 that we can only shift the field along the ecliptic between these options,
 not up or down.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;We ask that all requests for field placements be received by
-April 10 and be &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSfJ9hfrCBbRKsbHF-0cMO-orQMaijXnC_5pHfezp29Q81wFPg/viewform?usp=sf_link"&gt;submitted via this Google Form&lt;/a&gt;.&lt;/strong&gt;
+April 11 and be &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSfJ9hfrCBbRKsbHF-0cMO-orQMaijXnC_5pHfezp29Q81wFPg/viewform?usp=sf_link"&gt;submitted via this Google Form&lt;/a&gt;.&lt;/strong&gt;
+Advocacy that was submitted in recent months via e-mail
+will be taken into account as well.
 We anticipate announcing the final field positions in early May.&lt;/p&gt;
 &lt;p&gt;Questions may be addressed to &lt;a href="keplergo@mail.arc.nasa.gov"&gt;keplergo@mail.arc.nasa.gov&lt;/a&gt;.&lt;/p&gt;
 &lt;hr&gt;
@@ -27,9 +29,8 @@ to enable simultaneous observations from the Earth.
 Possible field options are outlined in the table below.&lt;/p&gt;
 &lt;p&gt;Note that all options have a start date of 3 March 2018,
 i.e. 5 days after the end of Campaign 16.
-The first option is very short in duration as a result; 
-Campaign 16 would have to be cut short by a month to enable
-the the C17-C10 overlap option to run for &amp;gt;70 days.&lt;/p&gt;
+The first option is very short in duration
+due to its partial overlap in observing geometry with C16.&lt;/p&gt;
 &lt;div class="panel panel-primary" style="max-width:40em;"&gt;
   &lt;div class="panel-heading"&gt;
     &lt;h3 class="panel-title"&gt; Campaign 17: Example options&lt;/h3&gt;
@@ -68,8 +69,7 @@ the the C17-C10 overlap option to run for &amp;gt;70 days.&lt;/p&gt;
 &lt;/table&gt;
 
   &lt;/div&gt;
-
-&lt;/div&gt;
+  &lt;/div&gt;
 
 &lt;p&gt;&lt;a href="images/k2/k2-c17-options.gif"&gt;
 &lt;img src="images/k2/k2-c17-options.gif" style="max-width:40em;"&gt;
@@ -125,8 +125,7 @@ the following options listed below in the case of a forward-facing field:&lt;/p&
   across modules was not uniform in that campaign.
 
   &lt;/div&gt;
-
-&lt;/div&gt;
+  &lt;/div&gt;
 
 &lt;p&gt;&lt;a href="images/k2/k2-c18-forward-options.gif"&gt;
 &lt;img src="images/k2/k2-c18-forward-options.gif" style="max-width:40em;"&gt;
@@ -175,8 +174,7 @@ simultaneous observations from the ground would be challenging:&lt;/p&gt;
 &lt;/table&gt;
 
   &lt;/div&gt;
-
-&lt;/div&gt;
+  &lt;/div&gt;
 
 &lt;p&gt;&lt;a href="images/k2/k2-c18-backward-options.gif"&gt;
 &lt;img src="images/k2/k2-c18-backward-options.gif" style="max-width:40em;"&gt;
@@ -189,7 +187,28 @@ simultaneous observations from the ground would be challenging:&lt;/p&gt;
 &lt;li&gt;171, 172, 173 (C17);&lt;/li&gt;
 &lt;li&gt;181, 182, 183 (C18 forward-facing);&lt;/li&gt;
 &lt;li&gt;184, 185, 186 (C18 backward-facing).&lt;/li&gt;
-&lt;/ul&gt;</content></entry><entry><title>Raw data for K2 Campaign 12 and TRAPPIST-1 now available</title><link href="https://keplerscience.arc.nasa.gov/raw-data-for-k2-campaign-12-and-trappist-1-now-available.html" rel="alternate"></link><published>2017-03-08T06:00:00-08:00</published><updated>2017-03-08T06:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-03-08:/raw-data-for-k2-campaign-12-and-trappist-1-now-available.html</id><summary type="html">&lt;p&gt;The raw, uncalibrated data files for &lt;a href="k2-approved-programs.html#campaign-12"&gt;K2 Campaign 12&lt;/a&gt;
+&lt;/ul&gt;</content></entry><entry><title>Kepler DR 25 KOI Catalog now available</title><link href="https://keplerscience.arc.nasa.gov/kepler-dr-25-koi-catalog-now-available.html" rel="alternate"></link><published>2017-03-26T15:00:00-07:00</published><updated>2017-03-26T15:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-03-26:/kepler-dr-25-koi-catalog-now-available.html</id><summary type="html">&lt;p&gt;The latest version of the Kepler Objects of Interest (KOI) Catalog, version DR25, is &lt;a href="http://exoplanetarchive.ipac.caltech.edu/docs/exonews_archive.html#23March2017"&gt;now available in the NASA Exoplanet Archive&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The catalog details all the transit-like features
+across the full data set of the original Kepler mission,
+i.e. Quarters 1 through 17,
+as found by the Kepler pipeline …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The latest version of the Kepler Objects of Interest (KOI) Catalog, version DR25, is &lt;a href="http://exoplanetarchive.ipac.caltech.edu/docs/exonews_archive.html#23March2017"&gt;now available in the NASA Exoplanet Archive&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The catalog details all the transit-like features
+across the full data set of the original Kepler mission,
+i.e. Quarters 1 through 17,
+as found by the Kepler pipeline and vetted by the &lt;em&gt;RoboVetter&lt;/em&gt;.
+Details on the nature and contents of the catalog can be found in the
+&lt;a href="http://exoplanetarchive.ipac.caltech.edu/docs/Q1Q17-DR25-KOIcompanion.html"&gt;DR25 KOI Companion Document&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The catalog will be the first of its kind to be accompanied by
+a full suite of detection reliability and completeness measurements,
+and will hence be the recommended catalog
+for estimating planet occurence rates.
+A &lt;a href="http://exoplanetarchive.ipac.caltech.edu/docs/Kepler_completeness_reliability.html"&gt;first set of these accompanying products&lt;/a&gt; have been released alongside the catalog,
+and additional products will be released as they become available
+over the next months.&lt;/p&gt;
+&lt;p&gt;Further details on the DR25 data products,
+and their use for occurence rates measurements,
+will be described in a forthcoming paper and accompanying talks
+to be presented at the &lt;a href="https://keplerscience.arc.nasa.gov/scicon4/"&gt;Kepler &amp;amp; K2 Science Conference IV&lt;/a&gt;. (Note: abstract and foreign registration deadline: March 31!)&lt;/p&gt;</content></entry><entry><title>Raw data for K2 Campaign 12 and TRAPPIST-1 now available</title><link href="https://keplerscience.arc.nasa.gov/raw-data-for-k2-campaign-12-and-trappist-1-now-available.html" rel="alternate"></link><published>2017-03-08T06:00:00-08:00</published><updated>2017-03-08T06:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-03-08:/raw-data-for-k2-campaign-12-and-trappist-1-now-available.html</id><summary type="html">&lt;p&gt;The raw, uncalibrated data files for &lt;a href="k2-approved-programs.html#campaign-12"&gt;K2 Campaign 12&lt;/a&gt;
 are now available for download from the
 &lt;a href="https://archive.stsci.edu/k2/trappist1/"&gt;data archive at MAST&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The raw files are made public straight away to aid astronomers
