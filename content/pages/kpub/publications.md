@@ -36,7 +36,7 @@ Or by topic:
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/KeplerGO/kpub">GitHub repository</a> of the database.
 
-Last update: 08 Mar 2017.
+Last update: 29 Mar 2017.
 
 <hr/>
 
@@ -44,8 +44,9 @@ Last update: 08 Mar 2017.
 
 The graph below shows the number of publications as a function
 of year and mission.
-The publication count for Kepler is 1909,
+The publication count for Kepler is 1909
 while that of K2 is 230.
+The number of refereed papers is 1696 for Kepler and 182 for K2.
 
 ![Publication rate by mission and year]({filename}/images/kpub/kpub-publication-rate.png)
 
