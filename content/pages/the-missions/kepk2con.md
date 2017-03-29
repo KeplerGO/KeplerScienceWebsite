@@ -129,6 +129,10 @@ be found here</a>.
 
 Details coming soon.
 
+#### ExoPAG 16 Meeting
+
+The ExoPAG 16 meeting will be held immediately prior to the conference on June 18, 2017.  We encourage all attendees of the main conference to arrive a day early to sunny Mountain View, California to attend the ExoPAG meeting and learn the latest news regarding planned and future exoplanet exploration.  The meeting is open to the entire scientific community and there is no registration fee.  For further information, [access the meeting website here](https://exoplanets.nasa.gov/exep/events/191/).
+
 ### Venue 
 
 The conference will be held in the
