@@ -26,13 +26,13 @@ href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon</a>).</b>
 
   <tr>
     <td style="width: 9em;">31 Mar 2017</td>
-    <td style="width: 20em;"> abstract submission deadline </td>
+    <td style="width: 20em;"> abstract submission deadline <b>(closed)</b>  </td>
 	</tr>
 
   <tr>
     <td style="width: 9em;">31 Mar 2017</td>
-    <td style="width: 20em;"> registration deadline for Foreign
-    Nationals and employees of Chinese Entities </td>
+    <td style="width: 28em;"> registration deadline for Foreign
+    Nationals and employees of Chinese Entities <b>(closed)</b> </td>
   </tr>
 
   <tr>
@@ -67,7 +67,7 @@ forthcoming. Also, the opportunity to give a public lecture
 is open to people at all professional
 levels (graduate students, postdocs, etc.).
 
-**[Click here to submit an abstract for the conference](http://catcopy.ipac.caltech.edu/ksc2017/abstract.php)**. Multiple
+**[Abstract submission is now closed](http://catcopy.ipac.caltech.edu/ksc2017/abstract.php)**. Multiple
   abstract submissions are allowed. Note that Wednesday afternoon
   (June 21) has been reserved for breakout sessions to enable the
   community to discuss and work on Kepler/K2 related projects. We
