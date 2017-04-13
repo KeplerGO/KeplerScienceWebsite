@@ -31,21 +31,9 @@ The panel will report to the K2 Project Scientist and K2 Program Scientists a fe
   
   <tdata>
 
-  <tr>
- <td>
-Padi Boyd (Chair)
-</td>
-  <td>
-NASA Goddard Space Flight Center
-</td>
-<td>
-patricia.t.boyd@nasa.gov
-</td>
-  </tr>
-
 <tr>
 <td>
-Ben Montet (Deputy Chair)
+Ben Montet (Chair)
 </td>
 <td>
 University of Chicago
@@ -54,6 +42,18 @@ University of Chicago
 btm@astro.caltech.edu
 </td>
  </tr>
+
+  <tr>
+ <td>
+Padi Boyd
+</td>
+  <td>
+NASA Goddard Space Flight Center
+</td>
+<td>
+patricia.t.boyd@nasa.gov
+</td>
+</tr>
 
 <tr>
 <td>
