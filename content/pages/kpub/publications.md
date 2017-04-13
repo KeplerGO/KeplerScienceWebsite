@@ -18,8 +18,8 @@ directorate.*
 
 The Guest Observer office curates a list of scientific publications
 pertaining to Kepler and K2.
-The database contains 2139 publications,
-of which 1878 are peer-reviewed.
+The database contains 2231 publications,
+of which 1924 are peer-reviewed.
 It demonstrates the important impact of Kepler/K2 data
 on astronomical research.
 
@@ -36,7 +36,7 @@ Or by topic:
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/KeplerGO/kpub">GitHub repository</a> of the database.
 
-Last update: 29 Mar 2017.
+Last update: 13 Apr 2017.
 
 <hr/>
 
@@ -44,9 +44,9 @@ Last update: 29 Mar 2017.
 
 The graph below shows the number of publications as a function
 of year and mission.
-The publication count for Kepler is 1909
-while that of K2 is 230.
-The number of refereed papers is 1696 for Kepler and 182 for K2.
+The publication count for Kepler is 1971
+while that of K2 is 260.
+The number of refereed papers is 1725 for Kepler and 199 for K2.
 
 ![Publication rate by mission and year]({filename}/images/kpub/kpub-publication-rate.png)
 
@@ -56,9 +56,9 @@ The number of refereed papers is 1696 for Kepler and 182 for K2.
 
 Both Kepler and K2 data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 1003 works relate to exoplanets
+While 1043 works relate to exoplanets
 (47%),
-a total of 1135
+a total of 1187
 pertain to other areas of astrophysics
 (53%).
 
@@ -70,7 +70,7 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 Kepler/K2 publications have cumulatively been cited
-54686 times.
+54736 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -80,14 +80,14 @@ Borucki, William J., Koch, David, Basri, Gibor, et al.
 [2010Sci...327..977B](http://adsabs.harvard.edu/abs/2010Sci...327..977B)
 <span class="badge">1055 citations</span>
 
-2. PLANETARY CANDIDATES OBSERVED BY KEPLER. III. ANALYSIS OF THE FIRST 16 MONTHS OF DATA  
-Batalha, Natalie M., Rowe, Jason F., Bryson, Stephen T., et al.    
-[2013ApJS..204...24B](http://adsabs.harvard.edu/abs/2013ApJS..204...24B)
-<span class="badge">599 citations</span>
-
-3. CHARACTERISTICS OF PLANETARY CANDIDATES OBSERVED BY KEPLER. II. ANALYSIS OF THE FIRST FOUR MONTHS OF DATA  
+2. CHARACTERISTICS OF PLANETARY CANDIDATES OBSERVED BY KEPLER. II. ANALYSIS OF THE FIRST FOUR MONTHS OF DATA  
 Borucki, William J., Koch, David G., Basri, Gibor, et al.    
 [2011ApJ...736...19B](http://adsabs.harvard.edu/abs/2011ApJ...736...19B)
+<span class="badge">599 citations</span>
+
+3. PLANETARY CANDIDATES OBSERVED BY KEPLER. III. ANALYSIS OF THE FIRST 16 MONTHS OF DATA  
+Batalha, Natalie M., Rowe, Jason F., Bryson, Stephen T., et al.    
+[2013ApJS..204...24B](http://adsabs.harvard.edu/abs/2013ApJS..204...24B)
 <span class="badge">599 citations</span>
 
 4. KEPLER MISSION DESIGN, REALIZED PHOTOMETRIC PERFORMANCE, AND EARLY SCIENCE  
@@ -190,7 +190,7 @@ within the last 90 days.
 ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 3789 unique author names.
+by a total of 3859 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
 
@@ -200,124 +200,136 @@ Here we list the most-active authors, defined as those with six or more first-au
 
  * Borucki, W (13 publications)
 
- * Stello, D (12 publications)
+ * Jenkins, J (12 publications)
 
  * Steffen, J (12 publications)
 
- * Jenkins, J (12 publications)
-
  * Murphy, S (12 publications)
 
- * Baran, A (11 publications)
+ * Stello, D (12 publications)
 
- * Armstrong, D (11 publications)
+ * Baran, A (11 publications)
 
  * Kane, S (11 publications)
 
  * Savanov, I (11 publications)
 
+ * Armstrong, D (11 publications)
+
  * Huber, D (11 publications)
+
+ * Mathur, S (10 publications)
 
  * Scaringi, S (10 publications)
 
+ * Gaidos, E (10 publications)
+
  * Hekker, S (10 publications)
-
- * Mosser, B (9 publications)
-
- * Gaidos, E (9 publications)
-
- * Chaplin, W (9 publications)
-
- * Silva Aguirre, V (9 publications)
-
- * Molenda-Zakowicz, J (9 publications)
-
- * Lund, M (9 publications)
-
- * Mathur, S (9 publications)
-
- * Lee, J (9 publications)
-
- * Kjurkchieva, D (9 publications)
 
  * Rappaport, S (9 publications)
 
- * Van Eylen, V (8 publications)
+ * Lund, M (9 publications)
 
- * Ostensen, R (8 publications)
+ * Silva Aguirre, V (9 publications)
 
- * Campante, T (8 publications)
+ * Chaplin, W (9 publications)
+
+ * Molenda-Zakowicz, J (9 publications)
+
+ * Campante, T (9 publications)
+
+ * Lee, J (9 publications)
+
+ * Ramsay, G (9 publications)
+
+ * Kjurkchieva, D (9 publications)
+
+ * Mosser, B (9 publications)
 
  * Santerne, A (8 publications)
 
  * Metcalfe, T (8 publications)
 
- * Ramsay, G (8 publications)
+ * Petigura, E (8 publications)
 
- * Howell, S (8 publications)
-
- * Wang, J (8 publications)
+ * Hermes, J (8 publications)
 
  * Lillo-Box, J (8 publications)
 
- * Kato, T (8 publications)
-
  * Beck, P (8 publications)
-
- * Guzik, J (8 publications)
 
  * Sanchis-Ojeda, R (8 publications)
 
- * Hermes, J (7 publications)
+ * Van Eylen, V (8 publications)
 
- * Heller, R (7 publications)
+ * Wang, J (8 publications)
 
- * Tkachenko, A (7 publications)
+ * Kato, T (8 publications)
 
- * Gilliland, R (7 publications)
+ * Guzik, J (8 publications)
+
+ * Howell, S (8 publications)
+
+ * Ostensen, R (8 publications)
+
+ * Hippke, M (7 publications)
+
+ * Dressing, C (7 publications)
+
+ * Gizis, J (7 publications)
 
  * Vanderburg, A (7 publications)
 
- * Mann, A (7 publications)
+ * Plachy, E (7 publications)
 
  * Papics, P (7 publications)
 
+ * Mann, A (7 publications)
+
+ * Tkachenko, A (7 publications)
+
+ * Heller, R (7 publications)
+
+ * Gilliland, R (7 publications)
+
  * Dawson, R (7 publications)
 
- * Karoff, C (6 publications)
+ * Buldgen, G (6 publications)
 
- * Ballard, S (6 publications)
-
- * Corsaro, E (6 publications)
-
- * Bonomo, A (6 publications)
+ * Lopez, E (6 publications)
 
  * Davies, G (6 publications)
-
- * Dressing, C (6 publications)
-
- * David, T (6 publications)
-
- * Hirano, T (6 publications)
-
- * Faigler, S (6 publications)
-
- * Batalha, N (6 publications)
-
- * Petigura, E (6 publications)
 
  * Morton, T (6 publications)
 
  * Szabo, R (6 publications)
 
- * Lissauer, J (6 publications)
+ * Batalha, N (6 publications)
 
- * Hippke, M (6 publications)
+ * Bonomo, A (6 publications)
 
- * Lopez, E (6 publications)
+ * Corsaro, E (6 publications)
+
+ * Molnar, L (6 publications)
+
+ * Karoff, C (6 publications)
+
+ * Johnson, J (6 publications)
+
+ * Hirano, T (6 publications)
 
  * Barclay, T (6 publications)
 
+ * Ballard, S (6 publications)
+
  * Koch, D (6 publications)
+
+ * Masuda, K (6 publications)
+
+ * Faigler, S (6 publications)
+
+ * David, T (6 publications)
+
+ * Lissauer, J (6 publications)
 
  * Demory, B (6 publications)
