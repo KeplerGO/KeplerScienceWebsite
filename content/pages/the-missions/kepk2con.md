@@ -26,13 +26,13 @@ href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon</a>).</b>
 
   <tr>
     <td style="width: 9em;">31 Mar 2017</td>
-    <td style="width: 20em;"> abstract submission deadline </td>
+    <td style="width: 20em;"> abstract submission deadline <b>(closed)</b>  </td>
 	</tr>
 
   <tr>
     <td style="width: 9em;">31 Mar 2017</td>
-    <td style="width: 20em;"> registration deadline for Foreign
-    Nationals and employees of Chinese Entities </td>
+    <td style="width: 28em;"> registration deadline for Foreign
+    Nationals and employees of Chinese Entities <b>(closed)</b> </td>
   </tr>
 
   <tr>
@@ -67,7 +67,7 @@ forthcoming. Also, the opportunity to give a public lecture
 is open to people at all professional
 levels (graduate students, postdocs, etc.).
 
-**[Click here to submit an abstract for the conference](http://catcopy.ipac.caltech.edu/ksc2017/abstract.php)**. Multiple
+**[Abstract submission is now closed](http://catcopy.ipac.caltech.edu/ksc2017/abstract.php)**. Multiple
   abstract submissions are allowed. Note that Wednesday afternoon
   (June 21) has been reserved for breakout sessions to enable the
   community to discuss and work on Kepler/K2 related projects. We
@@ -128,6 +128,10 @@ be found here</a>.
 #### Presenter Information
 
 Details coming soon.
+
+#### ExoPAG 16 Meeting
+
+The ExoPAG 16 meeting will be held immediately prior to the conference on June 18, 2017.  We encourage all attendees of the main conference to arrive a day early to sunny Mountain View, California to attend the ExoPAG meeting and learn the latest news regarding planned and future exoplanet exploration.  The meeting is open to the entire scientific community and there is no registration fee.  For further information, [access the meeting website here](https://exoplanets.nasa.gov/exep/events/191/).
 
 ### Venue 
 
