@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon IV Participants
 Save_as: participants.html
 
-The current list of registered attendees is below (last update: April 4, 2017).
+The current list of 200 registered attendees is below (last update: April 13, 2017).
 
 *	Eric	Agol	,	University of Washington
 *	Suzanne	Aigrain	,	University of Oxford
@@ -18,15 +18,15 @@ The current list of registered attendees is below (last update: April 4, 2017).
 *	Daniel	Bayliss	,	University of Geneva
 *	Juliette	Becker	,	University of Michigan
 *	Tim	Bedding	,	University of Sydney
-*	youness	Bentahar	,	université Hassan II casablanca
+*	youness	bentahar	,	université Hassan II casablanca
 *	Michael	Bicay	,	NASA-ARC
 *	Gary	Blackwood	,	NASA/JPL
 *	Jennifer	Blank	,	NASA Ames / Blue Marble Space
 *	William	Borucki	,	NASA Ames Research Center
 *	John	Brewer	,	Yale University
 *	Christopher	Burke	,	SETI Institute / NASA Ames
-*	Douglas	Caldwell	,	SETI Institute
 *	Caleb	Cañas	,	Pennsylvania State University
+*	Douglas	Caldwell	,	SETI Institute
 *	Matteo	Cantiello	,	Center for Computational Astrophysics, Flatiron Institute
 *	Daniel	Carrera	,	CEHW, Penn State
 *	Barbara	Castanheira Endl	,	Baylor University
@@ -57,9 +57,11 @@ The current list of registered attendees is below (last update: April 4, 2017).
 *	Peter	Gao	,	NASA Ames Research Center
 *	Rafael A.	Garcia	,	CEA-Saclay
 *	Scott	Gaudi	,	The Ohio State University
+*	Thomas	Gautier	,	Jet Propulsion Laboratory
 *	Dawn	Gelino	,	NASA Exoplanet Science Institute, Caltech
 *	Mark	Giampapa	,	National Solar Observatory
 *	Alexey	Goldin	,	Teza Technologies
+*	Erica	Gonzales	,	University of California, Santa Cruz
 *	Tom	Greene	,	NASA Ames Research Center
 *	Samuel	Grunblatt	,	University of Hawaii
 *	Sascha	Grziwa	,	RIU, Planetary Research at the University of Cologne
@@ -92,6 +94,7 @@ The current list of registered attendees is below (last update: April 4, 2017).
 *	Catherine	Kaleida	,	The Space Telescope Science Instutite
 *	Stephen	Kane	,	San Francisco State University
 *	John	Karcz	,	NASA Ames
+*	Juliana	Karp	,	NAP
 *	Steve	Kawaler	,	Iowa State University
 *	Flavien	Kiefer	,	IAP
 *	Agnes	Kim	,	Penn State Worthington Scranton
@@ -106,6 +109,7 @@ The current list of registered attendees is below (last update: April 4, 2017).
 *	John	Livingston	,	University of Tokyo
 *	Jacob	Luhn	,	Penn State University
 *	Mikkel	Lund	,	Stellar Astrophysics Centre (SAC)
+*	Pascale	Macleod	,	NAP
 *	Nina	Madsen	,	University of the Pacific
 *	Hiroyuki	Maehara	,	National Astronomical Observatory of Japan, NINS
 *	Valeri	Makarov	,	USNO
@@ -124,6 +128,7 @@ The current list of registered attendees is below (last update: April 4, 2017).
 *	Paul	Mooney	,	Intune.Network
 *	Giuseppe	Morello	,	University College London
 *	Brett	Morris	,	University of Washington
+*	James	Neff	,	nsf.gov
 *	Seblu H.	Negu	,	Entoto Observatory and Research Center
 *	James	Nemec	,	Camosun College, Victoria, BC Canada
 *	Srinitha	Nimmakayala	,	Center for Astrobiology, Madrid. Univeridad Complutense de Madrid, Madrid
@@ -143,11 +148,14 @@ The current list of registered attendees is below (last update: April 4, 2017).
 *	Clément	Ranc	,	USRA/NASA Goddard Space Flight Center
 *	Luisa	Rebull	,	Caltech-IPAC/IRSA, NITARP, and SSC
 *	Armin	Rest	,	Space Telescope Science Institute
+*	Jeonghee	Rho	,	SETI Institute
 *	George	Ricker	,	MIT
 *	Pamela	Rowden	,	The Open University
 *	Jason	Rowe	,	Université de Montréal
 *	Andrew	Rushby	,	NASA Ames Research Center
 *	Zafar	Rustamkulov	,	University of California, Santa Cruz
+*	Erin	Ryan	,	SETI Institute
+*	Farid	Salama	,	NASA Ames Research Center
 *	Emily	Sandford	,	Columbia University
 *	Mikael	Schelin	,	Royal Institute of Technology (KTH)
 *	Kevin	Schlaufman	,	Johns Hopkins University
@@ -159,6 +167,7 @@ The current list of registered attendees is below (last update: April 4, 2017).
 *	Nick	Siegler	,	NASA/JPL
 *	Victor	Silva Aguirre	,	Stellar Astrophysics Centre, Aarhus University
 *	Evan	Sinukoff	,	University of Hawaii, Institute for Astronomy
+*	Jeffrey	Smith	,	SETI Institute
 *	Garrett	Somers	,	Vanderbilt University
 *	Karl	Stapelfeldt	,	JPL / Caltech
 *	Keivan	Stassun	,	Vanderbilt University
@@ -193,29 +202,7 @@ The current list of registered attendees is below (last update: April 4, 2017).
 *	Yan	Yan	,	National Astronomical Observatories, Chinese Academy of Sciences
 *	Wei	Zhu	,	Ohio State University
 *	Carl	Ziegler	,	UNC Chapel Hill
-*	Joel	Zinn	,	Ohio State University
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
+*	Joel	Zinn	,	Ohio State University				
 				
 				
 				
