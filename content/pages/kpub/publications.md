@@ -36,7 +36,7 @@ Or by topic:
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/KeplerGO/kpub">GitHub repository</a> of the database.
 
-Last update: 13 Apr 2017.
+Last update: 14 Apr 2017.
 
 <hr/>
 
@@ -200,136 +200,136 @@ Here we list the most-active authors, defined as those with six or more first-au
 
  * Borucki, W (13 publications)
 
- * Jenkins, J (12 publications)
-
- * Stello, D (12 publications)
+ * Steffen, J (12 publications)
 
  * Murphy, S (12 publications)
 
- * Steffen, J (12 publications)
+ * Stello, D (12 publications)
 
- * Savanov, I (11 publications)
-
- * Huber, D (11 publications)
-
- * Armstrong, D (11 publications)
+ * Jenkins, J (12 publications)
 
  * Baran, A (11 publications)
 
  * Kane, S (11 publications)
 
- * Gaidos, E (10 publications)
+ * Huber, D (11 publications)
 
- * Scaringi, S (10 publications)
+ * Savanov, I (11 publications)
+
+ * Armstrong, D (11 publications)
 
  * Hekker, S (10 publications)
 
  * Mathur, S (10 publications)
 
+ * Scaringi, S (10 publications)
+
+ * Gaidos, E (10 publications)
+
  * Chaplin, W (9 publications)
-
- * Rappaport, S (9 publications)
-
- * Mosser, B (9 publications)
-
- * Campante, T (9 publications)
-
- * Lund, M (9 publications)
-
- * Ramsay, G (9 publications)
-
- * Lee, J (9 publications)
-
- * Silva Aguirre, V (9 publications)
 
  * Kjurkchieva, D (9 publications)
 
+ * Mosser, B (9 publications)
+
+ * Ramsay, G (9 publications)
+
+ * Silva Aguirre, V (9 publications)
+
+ * Lee, J (9 publications)
+
+ * Lund, M (9 publications)
+
  * Molenda-Zakowicz, J (9 publications)
 
- * Van Eylen, V (8 publications)
+ * Campante, T (9 publications)
 
- * Guzik, J (8 publications)
-
- * Lillo-Box, J (8 publications)
-
- * Kato, T (8 publications)
-
- * Petigura, E (8 publications)
-
- * Howell, S (8 publications)
-
- * Hermes, J (8 publications)
-
- * Ostensen, R (8 publications)
-
- * Beck, P (8 publications)
-
- * Wang, J (8 publications)
-
- * Sanchis-Ojeda, R (8 publications)
-
- * Santerne, A (8 publications)
+ * Rappaport, S (9 publications)
 
  * Metcalfe, T (8 publications)
 
- * Dressing, C (7 publications)
+ * Hermes, J (8 publications)
 
- * Heller, R (7 publications)
+ * Wang, J (8 publications)
+
+ * Petigura, E (8 publications)
+
+ * Guzik, J (8 publications)
+
+ * Santerne, A (8 publications)
+
+ * Van Eylen, V (8 publications)
+
+ * Lillo-Box, J (8 publications)
+
+ * Sanchis-Ojeda, R (8 publications)
+
+ * Kato, T (8 publications)
+
+ * Beck, P (8 publications)
+
+ * Ostensen, R (8 publications)
+
+ * Howell, S (8 publications)
+
+ * Gizis, J (7 publications)
 
  * Tkachenko, A (7 publications)
 
  * Dawson, R (7 publications)
 
- * Vanderburg, A (7 publications)
-
- * Hippke, M (7 publications)
+ * Gilliland, R (7 publications)
 
  * Plachy, E (7 publications)
 
+ * Hippke, M (7 publications)
+
+ * Dressing, C (7 publications)
+
  * Papics, P (7 publications)
+
+ * Vanderburg, A (7 publications)
 
  * Mann, A (7 publications)
 
- * Gizis, J (7 publications)
-
- * Gilliland, R (7 publications)
-
- * Demory, B (6 publications)
-
- * Davies, G (6 publications)
-
- * Johnson, J (6 publications)
+ * Heller, R (7 publications)
 
  * Corsaro, E (6 publications)
 
- * Morton, T (6 publications)
-
- * Szabo, R (6 publications)
-
- * David, T (6 publications)
-
- * Faigler, S (6 publications)
-
- * Bonomo, A (6 publications)
-
- * Lopez, E (6 publications)
-
- * Lissauer, J (6 publications)
-
- * Barclay, T (6 publications)
+ * Ballard, S (6 publications)
 
  * Molnar, L (6 publications)
 
  * Masuda, K (6 publications)
 
- * Ballard, S (6 publications)
+ * Bonomo, A (6 publications)
 
- * Karoff, C (6 publications)
+ * Hirano, T (6 publications)
+
+ * Szabo, R (6 publications)
+
+ * Lissauer, J (6 publications)
+
+ * Lopez, E (6 publications)
+
+ * Faigler, S (6 publications)
 
  * Buldgen, G (6 publications)
 
  * Batalha, N (6 publications)
 
- * Hirano, T (6 publications)
+ * Johnson, J (6 publications)
+
+ * Barclay, T (6 publications)
+
+ * Karoff, C (6 publications)
 
  * Koch, D (6 publications)
+
+ * Demory, B (6 publications)
+
+ * David, T (6 publications)
+
+ * Davies, G (6 publications)
+
+ * Morton, T (6 publications)
