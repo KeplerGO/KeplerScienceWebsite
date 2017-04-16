@@ -33,7 +33,7 @@ below.
 * [Kepler Instrument Handbook](data/documentation/KSCI-19033-001.pdf) and [Supplement](data/documentation/KSCI-19033-001_supplement.tar)
 * [Kepler Input Catalog (KIC)](http://adsabs.harvard.edu/abs/2011AJ....142..112B)
 * [Kepler Data Characteristics Handbook](http://archive.stsci.edu/kepler/manuals/Data_Characteristics.pdf)
-* [Kepler Data Processing Handbook](http://archive.stsci.edu/kepler/manuals/KSCI-19081-001_Data_Processing_Handbook.pdf)
+* [Kepler Data Processing Handbook](https://archive.stsci.edu/kepler/manuals/KSCI-19081-002-KDPH.pdf)
 * [Kepler Data Release Notes](data-products.html#kepler-data-release-notes) 
 <br/>
 * [K2 Ecliptic Plane Input Catalog (EPIC)](https://archive.stsci.edu/k2/epic.pdf)
