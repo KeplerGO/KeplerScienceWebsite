@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Sun, 26 Mar 2017 17:00:00 -0700</lastBuildDate><item><title>Request for input on the Campaign 17 and 18 field placement</title><link>https://keplerscience.arc.nasa.gov/request-for-input-on-the-campaign-17-and-18-field-placement.html</link><description>&lt;p&gt;The fields for K2 Campaigns 17 and beyond have not yet been set.
+<rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Sun, 16 Apr 2017 03:00:00 -0700</lastBuildDate><item><title>Release of dithered data obtained during Kepler commissioning</title><link>https://keplerscience.arc.nasa.gov/release-of-dithered-data-obtained-during-kepler-commissioning.html</link><description>&lt;p&gt;During Kepler’s commissioning phase in April 2009, 
+the spacecraft observed 33,424 stars in a dither pattern
+for the purpose of measuring the Pixel Response Function (PRF).
+The pattern consisted of 122 pointings, each with a
+duration of 14.7 minutes,
+observed across a 2.5-day period on April …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Sun, 16 Apr 2017 03:00:00 -0700</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2017-04-16:/release-of-dithered-data-obtained-during-kepler-commissioning.html</guid></item><item><title>Request for input on the Campaign 17 and 18 field placement</title><link>https://keplerscience.arc.nasa.gov/request-for-input-on-the-campaign-17-and-18-field-placement.html</link><description>&lt;p&gt;The fields for K2 Campaigns 17 and beyond have not yet been set.
 Although these future Campaigns are at risk of not being executed
 due to Kepler running low on fuel,
 there is a significant chance that the spacecraft will continue to function
