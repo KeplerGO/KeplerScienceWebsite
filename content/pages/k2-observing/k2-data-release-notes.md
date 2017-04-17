@@ -2110,7 +2110,7 @@ Prior to the start of C0, on January 21, 2014, the photometer was autonomously p
 Since the thruster firing flags are not populated in FITS quality flags for the 
 C0 Type-1 TPFs, they are delivered as separate 
 long-cadence <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c0_lc.csv">(thruster_firing_flags_c0_lc.csv)</a> 
-and short-cadence <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c0_sc.csv">(thruster_firing_flags_co_sc.csv)</a>
+and short-cadence <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c0_sc.csv">(thruster_firing_flags_c0_sc.csv)</a>
 thruster firing tables for the C0 campaign.
 
 <br>
