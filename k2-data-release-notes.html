@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2017-04-14" />
+    <meta name="dc.date.modified" content="2017-04-16" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -34,13 +34,13 @@ in August 2015, using pelican-bootstrap and flatly.
 <link rel="canonical" href="./pages/k2-data-release-notes.html">
 
         <meta name="author" content="Thomas Barclay" />
-        <meta name="description" content="This page details the key features of the K2 data releases, including a description of technical issues relevant to the scientific exploitation of the data. K2 Campaign 10 At a glance Campaign 10 was operationally separated into two segments as a result of a 3.5-pixel initial pointing error at …" />
+        <meta name="description" content="This page details the key features of the K2 data releases, including a description of technical issues relevant to the scientific exploitation of the data. K2 Campaign 10 At a glance Campaign 10 was operationally separated into two segments as a result of a 3.5-pixel initial pointing error at ..." />
 
     <meta property="og:site_name" content="Kepler &amp; K2" />
     <meta property="og:type" content="article"/>
     <meta property="og:title" content="K2 Data Release Notes"/>
     <meta property="og:url" content="./pages/k2-data-release-notes.html"/>
-    <meta property="og:description" content="This page details the key features of the K2 data releases, including a description of technical issues relevant to the scientific exploitation of the data. K2 Campaign 10 At a glance Campaign 10 was operationally separated into two segments as a result of a 3.5-pixel initial pointing error at …" />
+    <meta property="og:description" content="This page details the key features of the K2 data releases, including a description of technical issues relevant to the scientific exploitation of the data. K2 Campaign 10 At a glance Campaign 10 was operationally separated into two segments as a result of a 3.5-pixel initial pointing error at ..." />
 
 
     <!-- Why use Helvetica Neue when you can have Lato? -->
@@ -1773,6 +1773,13 @@ in the <a href="http://archive.stsci.edu/missions/k2/catalogs/K2_scrambled_short
 <strong><em>Module 7 Failure</em></strong></br></p>
 <p>Prior to the start of C0, on January 21, 2014, the photometer was autonomously powered off by an under voltage fault in the Local Detector Electronics Power Supply. Since that time, module 7 (i.e., channels 17 to 20) has yielded no star data or charge injection signal. The subsequent behavior of this module is very similar to that of module 3 after it failed on January 19, 2010. K2 continues to operate and collect simultaneous data from sources falling upon the remaining 19 detector modules over 105 square degrees. There is no indication of any accelerated degradation on these other modules.</p>
 <p><br>
+<strong><em>Thruster Firing Flags</em></strong></br></p>
+<p>Since the thruster firing flags are not populated in FITS quality flags for the 
+C0 Type-1 TPFs, they are delivered as separate 
+long-cadence <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c0_lc.csv">(thruster_firing_flags_c0_lc.csv)</a> 
+and short-cadence <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c0_sc.csv">(thruster_firing_flags_co_sc.csv)</a>
+thruster firing tables for the combined C0 campaign.</p>
+<p><br>
 <strong><em>Cropped Calibrated Pixels in Data Release 1</em></strong></br></p>
 <p><strong>The problem described below was corrected in Data Release 2 of the Campaign 0 data. See the DATA_REL keyword in the primary header of the target pixel file to determine which data release you have. We recommend that everyone use the latest release of the data.</strong></p>
 <p>In Data Release 1, for cadences after the Safe Mode (cadence no. 89346), the calibrated data (see the FLUX column in the exported target pixel files) is incorrectly reporting a value of zero for pixels collected near the edge of the aperture. The raw pixels (see the RAW_CNTS column) do not have this issue, so the collected data is properly reported in the target pixel files. An example of the issue is shown in the figure below. The left image is the mask (white indicates a collected pixel), the central image shows the calibrated pixels and the right image contains the raw pixels for one cadence. Those columns and rows that are black in the central image incorrectly have a value of zero, but there is clearly data in the original raw data on the right.</p>
@@ -1863,8 +1870,8 @@ document.write(document.lastModified);
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Sun 26 March 2017
-            &middot; Editor: Thomas Barclay &middot; NASA Official: Jessie Dotson 
+         Last modified: Sun 16 April 2017
+            &middot; Editor: Geert Barentsen &middot; NASA Official: Jessie Dotson
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
       </div>
