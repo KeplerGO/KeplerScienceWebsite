@@ -236,7 +236,7 @@ versus Type-2 files.
 
 Since the thruster firing flags are not populated in FITS quality flags for the 
 C10a Type-1 TPFs, they are delivered as separate 
-long-cadence <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c10_lc.csv">(thruster_firing_flags_C101_lc.csv)</a> 
+long-cadence <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c10_lc.csv">(thruster_firing_flags_C10_lc.csv)</a> 
 and short-cadence <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c10_sc.csv">(thruster_firing_flags_C10_sc.csv)</a>
 thruster firing tables for the combined C10a + C10b campaign. Thruster firing
 flags are populated in the FITS quality flag in the C10b Type-2 TPFs.
