@@ -2105,6 +2105,15 @@ The thermal environment is changing more rapidly in K2 than it did for the Keple
 Prior to the start of C0, on January 21, 2014, the photometer was autonomously powered off by an under voltage fault in the Local Detector Electronics Power Supply. Since that time, module 7 (i.e., channels 17 to 20) has yielded no star data or charge injection signal. The subsequent behavior of this module is very similar to that of module 3 after it failed on January 19, 2010. K2 continues to operate and collect simultaneous data from sources falling upon the remaining 19 detector modules over 105 square degrees. There is no indication of any accelerated degradation on these other modules.
 
 <br>
+***Thruster Firing Flags***
+
+Since the thruster firing flags are not populated in FITS quality flags for the 
+C0 Type-1 TPFs, they are delivered as separate 
+long-cadence <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c0_lc.csv">(thruster_firing_flags_c0_lc.csv)</a> 
+and short-cadence <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c0_sc.csv">(thruster_firing_flags_co_sc.csv)</a>
+thruster firing tables for the C0 campaign.
+
+<br>
 ***Cropped Calibrated Pixels in Data Release 1***
 
 **The problem described below was corrected in Data Release 2 of the Campaign 0 data. See the DATA_REL keyword in the primary header of the target pixel file to determine which data release you have. We recommend that everyone use the latest release of the data.**
