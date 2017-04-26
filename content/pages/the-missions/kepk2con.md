@@ -95,8 +95,8 @@ Depending upon the demonstrated need and the volume of requests, awarded support
 * Airfare
 * Ground Transportation
 
-**[Click here to submit a request for travel support](https://goo.gl/forms/vsrCGGcdNTqqHFF92)**.
- Decisions for requests submitted before March 31 will be made by April 15.
+**[We are no longer accepting applications for travel support](https://goo.gl/forms/vsrCGGcdNTqqHFF92)**.
+ Decisions for support requests will be announced soon.
 
 
 ### Conference Agenda
