@@ -1,13 +1,14 @@
 Title: Kepler & K2 SciCon IV Participants
 Save_as: participants.html
 
-The current list of 200 registered attendees is below (last update: April 13, 2017).
+The current list of 215 registered attendees is below (last update: April 26, 2017).
 
 *	Eric	Agol	,	University of Washington
 *	Suzanne	Aigrain	,	University of Oxford
 *	Ruth	Angus	,	Columbia University
 *	Megan	Ansdell	,	Institute for Astronomy, University of Hawaii
 *	Robert	Ashby	,	University of the Pacific
+*	Jaya	Bajpayee	,	NASA Ames Research Center
 *	Christoph	Baranec	,	University of Hawai`i
 *	Tom	Barclay	,	NASA Goddard Space Flight Center
 *	Geert	Barentsen	,	NASA Kepler/K2
@@ -18,10 +19,12 @@ The current list of 200 registered attendees is below (last update: April 13, 20
 *	Daniel	Bayliss	,	University of Geneva
 *	Juliette	Becker	,	University of Michigan
 *	Tim	Bedding	,	University of Sydney
+*	Ruslan	Belikov	,	NASA Ames Research Center
 *	youness	bentahar	,	université Hassan II casablanca
 *	Michael	Bicay	,	NASA-ARC
 *	Gary	Blackwood	,	NASA/JPL
 *	Jennifer	Blank	,	NASA Ames / Blue Marble Space
+*	Jay	Bookbinder	,	NASA
 *	William	Borucki	,	NASA Ames Research Center
 *	John	Brewer	,	Yale University
 *	Christopher	Burke	,	SETI Institute / NASA Ames
@@ -36,10 +39,13 @@ The current list of 200 registered attendees is below (last update: April 13, 20
 *	Jessie	Christiansen	,	Caltech/IPAC-NExScI
 *	David	Ciardi	,	Caltech-IPAC/NExScI
 *	Christian	Clanton	,	NASA Ames Research Center
+*	Riley	Clarke	,	Western Washington University
 *	William	Cochran	,	McDonald Observatory, University of Texas
+*	Knicole	Colon	,	NASA Goddard Space Flight Center
 *	Enrico	Corsaro	,	INAF - Osservatorio Astrofisico di Catania
 *	Jeffrey	Coughlin	,	SETI / NASA Ames
 *	Ian	Crossfield	,	UC Santa Cruz
+*	Katia	Cunha	,	U. Arizona and Steward Observatory
 *	Jason	Curtis	,	Columbia
 *	Fei	Dai	,	MIT
 *	James	Davenport	,	Western Washington University
@@ -48,6 +54,7 @@ The current list of 200 registered attendees is below (last update: April 13, 20
 *	Miguel	de Val-Borro	,	NASA GSFC
 *	Azariah	Dhasan Raj	,	JCE
 *	Jessie	Dotson	,	NASA Ames Research Center
+*	Rebecca	Esselstein	,	University of Oxford
 *	Daniel	Fabrycky	,	University of Chicago
 *	Simchon	Faigler	,	Tel-Aviv University
 *	Eric	Ford	,	Penn State University
@@ -62,6 +69,7 @@ The current list of 200 registered attendees is below (last update: April 13, 20
 *	Mark	Giampapa	,	National Solar Observatory
 *	Alexey	Goldin	,	Teza Technologies
 *	Erica	Gonzales	,	University of California, Santa Cruz
+*	Tom	Greene	,	NASA Ames
 *	Tom	Greene	,	NASA Ames Research Center
 *	Samuel	Grunblatt	,	University of Hawaii
 *	Sascha	Grziwa	,	RIU, Planetary Research at the University of Cologne
@@ -130,6 +138,7 @@ The current list of 200 registered attendees is below (last update: April 13, 20
 *	Brett	Morris	,	University of Washington
 *	James	Neff	,	nsf.gov
 *	Seblu H.	Negu	,	Entoto Observatory and Research Center
+*	Seblu H.	Negu	,	Entoto Observatory and Research Center
 *	James	Nemec	,	Camosun College, Victoria, BC Canada
 *	Srinitha	Nimmakayala	,	Center for Astrobiology, Madrid. Univeridad Complutense de Madrid, Madrid
 *	Yuta	Notsu	,	Kyoto University
@@ -137,6 +146,7 @@ The current list of 200 registered attendees is below (last update: April 13, 20
 *	José Manuel	Olmedo Aguilar	,	Instituto Nacional de Astrofísica Optica y Electrónica
 *	James	Owen	,	Institute for Advanced Study
 *	Andras	Pal	,	Konkoly Observatory
+*	Rahul	Patel	,	Caltech/IPAC
 *	Rishi	Paudel	,	University of Delaware
 *	Matthew	Penny	,	Ohio State University
 *	Raphaël	Peralta	,	Observatoire de Paris
@@ -145,6 +155,7 @@ The current list of 200 registered attendees is below (last update: April 13, 20
 *	Marc	Pinsonneault	,	Ohio State University, Dept. of Astronomy
 *	Radoslaw (Radek)	Poleski	,	Ohio State University
 *	Darin	Ragozzine	,	Brigham Young University
+*	Clément	Ranc	,	USRA/NASA Goddard Space Flight Center
 *	Clément	Ranc	,	USRA/NASA Goddard Space Flight Center
 *	Luisa	Rebull	,	Caltech-IPAC/IRSA, NITARP, and SSC
 *	Armin	Rest	,	Space Telescope Science Institute
@@ -161,6 +172,7 @@ The current list of 200 registered attendees is below (last update: April 13, 20
 *	Kevin	Schlaufman	,	Johns Hopkins University
 *	Nic	Scott	,	NASA ARC
 *	Benjamin	Shappee	,	Carnegie Observatories
+*	Holly	Sheets	,	McGill University
 *	Madhusudhan	Shivanna	,	Kuvempu University, karnataka, India
 *	Kendra	Short	,	NASA/JPL
 *	Avi	Shporer	,	Caltech
@@ -168,6 +180,7 @@ The current list of 200 registered attendees is below (last update: April 13, 20
 *	Victor	Silva Aguirre	,	Stellar Astrophysics Centre, Aarhus University
 *	Evan	Sinukoff	,	University of Hawaii, Institute for Astronomy
 *	Jeffrey	Smith	,	SETI Institute
+*	Verne	Smith	,	NOAO
 *	Garrett	Somers	,	Vanderbilt University
 *	Karl	Stapelfeldt	,	JPL / Caltech
 *	Keivan	Stassun	,	Vanderbilt University
@@ -176,6 +189,7 @@ The current list of 200 registered attendees is below (last update: April 13, 20
 *	Dennis	Stello	,	UNSW
 *	Martin	Still	,	NASA Headquarters
 *	Nao	Suzuki	,	Kavli IPMU, University of Tokyo
+*	Jamie	Tayar	,	Ohio State University
 *	Stuart Fisher	Taylor	,	Participation Worldscope
 *	Susan	Thompson	,	SETI Institute/NASA Ames Research Center
 *	Stephanie	Toole	,	Cal State Northridge
@@ -195,6 +209,7 @@ The current list of 200 registered attendees is below (last update: April 13, 20
 *	William	Welsh	,	San Diego State University
 *	Michael	Werner	,	JPL
 *	Timothy	White	,	Stellar Astrophysics Centre, Aarhus University
+*	Paul	Wiita	,	The College of New Jersey
 *	Diana	Windemuth	,	University of Washington
 *	Rob	Wittenmyer	,	University of Southern Queensland
 *	Angie	Wolfgang	,	The Pennsylvania State University
@@ -203,34 +218,6 @@ The current list of 200 registered attendees is below (last update: April 13, 20
 *	Wei	Zhu	,	Ohio State University
 *	Carl	Ziegler	,	UNC Chapel Hill
 *	Joel	Zinn	,	Ohio State University				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
 				
 				
 				
