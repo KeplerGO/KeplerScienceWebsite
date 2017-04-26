@@ -155,31 +155,21 @@ for transportation from the airport.
 
 #### Lodging Options
 
-Lodging on-site is available on a first-come, first-served basis. On-site accommodation is available at the <a href='http://naccenter.arc.nasa.gov/links.php#lodge'>NASA Lodge</a>,
-which offers affordable rooms with private bath, microwave, and refrigerator
-in one of two buildings:
+*<b> We have received reports of some registrants receiving phone
+ calls from hotels in the Bay Area (including, e.g. a person claiming
+ to be from the County Inn).  The caller was attempting to pressure
+ the registrant into making hotel reservations as room rates were
+ supposedly going up soon.  We (the conference LOC) have no
+ arrangements with any hotels in regards to this information, and we
+ greatly apologize for any inconvenience.  If you do receive a call
+ like this, please be aware that this is a scam and do not give them
+ any further information. </b>*
 
-* <a href='https://www.google.com/maps/place/Nasa+Exchange+Lodge/@37.4108933,-122.0594741,18z'>Building 19</a>
-  offers queen-sized beds with tv and airconditioning at $65/night;
-* <a href='https://www.google.com/maps/place/NASA+Exchange+Lodge+-+583A,+583A+Dailey+Rd,+Mountain+View,+CA+94043/@37.4085436,-122.0566298,18.25z'>Building 583</a>
- offers double or twin beds without tv or airconditioning at $55/night.
 
-Bookings need to be made by phone on **+1 650 603 7100**,
-mentioning you are a participant of the "Kepler Science Conference"
-at the conference center.
-You will need to provide a credit card number
-along with your name, cell phone number, and email.
-
-**Due to the presence of student interns in the summer and ongoing
-renovations in Building 19, rooms at the NASA lodge are likely no
-longer available at this time.**
-
-Alternatively, the conference center provides a <a
+The conference center provides a <a
 href='http://naccenter.arc.nasa.gov/links.php#hotel'>list of local
 hotels</a>. Some hotel options are below along with the distances from the hotel to the conference center:
 
-* <a href='http://www.countyinn.com'>County Inn</a>, 850 Leong Drive,
-  Mountain View, CA 94043 (650-961-1131) (~1.2 miles)
 * <a href='http://www.ramadasiliconvalley.com/'> Ramada Mountain
   View</a>, 55 Fairchild Drive, Mountain View, CA 94043 (650-967-6856)
   (~1.4 miles)
@@ -192,6 +182,14 @@ hotels</a>. Some hotel options are below along with the distances from the hotel
   Oakwood</a>, 555 W Middlefield Road, Mountain View, CA
   (877-715-7696) (~1.7 miles) 
   *(note: these are extended stay apartments and prefer to have people staying at least five nights)*
+* <a href='http://www.countyinn.com'>County Inn</a>, 850 Leong Drive,
+  Mountain View, CA 94043 (650-961-1131) (~1.2 miles)
+
+
+**The NASA Lodge is currently undergoing renovation and is no longer
+  taking reservations.  All available rooms have been booked.  We
+  recommend people check out other hotels in the area, including those listed above.**
+
 
 ### Remote Attendance
 
