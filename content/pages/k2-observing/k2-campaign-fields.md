@@ -234,7 +234,7 @@ This page details the previous, current, and future K2 Campaign fields.
       <td><a href="#c12">12</a></td>
       <td>2016&nbsp;Dec&nbsp;15</td>
       <td>2017&nbsp;Mar&nbsp;04</td>
-      <td>2017&nbsp;Jun&nbsp;19</td>
+      <td>2017&nbsp;Jun&#8209;Aug</td>
       <td>23:26:38</td>
       <td>-05:06:08</td>
       <td class="text-center">
@@ -250,7 +250,7 @@ This page details the previous, current, and future K2 Campaign fields.
       <td><a href="#c13">13</a></td>
       <td>2017&nbsp;Mar&nbsp;08</td>
       <td>2017&nbsp;May&nbsp;27</td>
-      <td>2017&nbsp;Aug&nbsp;3</td>
+      <td>2017&nbsp;Aug&#8209;Oct</td>
       <td>04:51:11</td>
       <td>+20:47:11</td>
       <td class="text-center">
@@ -265,7 +265,7 @@ This page details the previous, current, and future K2 Campaign fields.
       <td><a href="#c14">14</a></td> 
       <td>2017&nbsp;May&nbsp;31</td>
       <td>2017&nbsp;Aug&nbsp;19</td>
-      <td>2017&nbsp;Oct&nbsp;23</td>
+      <td>2017&nbsp;Nov&#8209;Jan</td>
       <td>10:42:44</td>
       <td>+06:51:06</td>
       <td class="text-center">
@@ -280,7 +280,7 @@ This page details the previous, current, and future K2 Campaign fields.
       <td><a href="#c15">15</a></td>
       <td>2017&nbsp;Aug&nbsp;23</td>
       <td>2017&nbsp;Nov&nbsp;20</td>
-      <td>2018&nbsp;Jan&nbsp;20</td>
+      <td>2018&nbsp;Feb&#8209;Apr</td>
       <td>15:34:28</td>
       <td>-20:04:44</td>
       <td class="text-center">
@@ -295,7 +295,7 @@ This page details the previous, current, and future K2 Campaign fields.
       <td><a href='#c16'>16</a><sup>†</sup></td>
       <td>2017&nbsp;Dec&nbsp;7</td>
       <td>2018&nbsp;Feb&nbsp;25</td>
-      <td>2018&nbsp;Apr&nbsp;25</td>
+      <td>2018&nbsp;Apr&#8209;Jun</td>
       <td>08:54:50</td>
       <td>+18:31:31</td>
       <td class="text-center">

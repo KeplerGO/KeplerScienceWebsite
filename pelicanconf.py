@@ -127,19 +127,22 @@ IMPORTANT_DATES = (
             ('<b>25 May 2017</b>',
              'K2 Campaign 15 DDT deadline',
              'k2-ddt.html'),
-            ('<b>19 Jun 2017</b>',
-             'K2 Campaign 12 calibrated data release (expected)',
-             'k2-fields.html'),
          )
 
 # Defines the "meetings" box on the front page
 MEETINGS = (
             ('<b>4–8 Jun 2017</b><br>'
-             'AAS 230th Meeting',
+             'AAS 230th Meeting (Austin, TX)',
              'https://aas.org/meetings/aas230'),
             ('<b>19–23 Jun 2017</b><br>'
              'Kepler & K2 SciCon IV',
              'scicon4/'),
+            ('<b>16–21 Jul 2017</b><br>'
+             'TASC3 KASC10 Workshop (UK)',
+             'www.tasc3kasc10.com'),
+            ('<b>17–21 Jul 2017</b><br>'
+             'Transiting Exoplanets (UK)',
+             'https://wasp-planets.net/conference/'),
             )
 
 # Defines the "related websites" listing in the footer of all pages
