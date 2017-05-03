@@ -323,7 +323,7 @@ This page details the previous, current, and future K2 Campaign fields.
 ### Future
 
 Community feedback on the field placement of Campaigns 17 and 18
-is [currently being sollicited](request-for-input-on-the-campaign-17-and-18-field-placement.html).
+is [currently being solicited](request-for-input-on-the-campaign-17-and-18-field-placement.html).
 
 
 <hr/>

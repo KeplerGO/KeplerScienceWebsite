@@ -43,6 +43,18 @@ btm@astro.caltech.edu
 </td>
  </tr>
 
+<tr>
+<td>
+JJ Hermes (Deputy Chair)
+</td>
+<td>
+University of North Carolina, Chapel Hill
+</td>
+<td>
+jjhermes@unc.edu
+</td>
+  </tr>
+
   <tr>
  <td>
 Padi Boyd
@@ -76,18 +88,6 @@ Max Planck Institute for Solar System Research
 </td>
 <td>
 hekker@mps.mpg.de
-</td>
-  </tr>
-
-<tr>
-<td>
-JJ Hermes
-</td>
-<td>
-University of North Carolina, Chapel Hill
-</td>
-<td>
-jjhermes@unc.edu
 </td>
   </tr>
 

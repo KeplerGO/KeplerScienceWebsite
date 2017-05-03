@@ -5,14 +5,14 @@ Save_as: helpdesk.html
 
 <div class="row">
     <div class="col-sm-3 text-center">
-        <img src="images/faces/tom.jpg" class="img-circle"><br>
-        Dr Thomas Barclay<br>
-        Director
-    </div>
-    <div class="col-sm-3 text-center">
         <img src="images/faces/geert.jpg" class="img-circle"><br>
         Dr Geert Barentsen<br>
-        Support Scientist
+        Director
+    </div>
+	<div class="col-sm-3 text-center">
+        <img src="images/faces/tom.jpg" class="img-circle"><br>
+        Dr Thomas Barclay<br>
+        Former Director
     </div>
     <div class="col-sm-3 text-center">
         <img src="images/faces/knicole.jpg" class="img-circle"><br>
