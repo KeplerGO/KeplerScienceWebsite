@@ -18,7 +18,12 @@ Save_as: helpdesk.html
         <img src="images/faces/knicole.jpg" class="img-circle"><br>
         Dr Knicole Colón<br>
         Support Scientist
-</div>
+    </div>
+    <div class="col-sm-3 text-center">
+        <img src="images/faces/ze.jpg" class="img-circle"><br>
+        Zé Vinícius<br>
+        Intern
+    </div>
 </div>
 
 ### E-mail
@@ -34,7 +39,7 @@ Your contact information will be used to answer your query and will not be used 
 
 ### Twitter
 
-You can also tweet your questions to <a href="https://twitter.com/KeplerGO">@KeplerGO</a>, 
+You can also tweet your questions to <a href="https://twitter.com/KeplerGO">@KeplerGO</a>,
 or search for hashtag <a href="https://twitter.com/search?q=k2mission">#K2Mission</a>
 on Twitter.
 
@@ -46,4 +51,4 @@ The FAQ archives at MAST for
 questions about the missions as well as how to retrieve and analyze
 the data.  The FAQ archives on the original Kepler/K2 website can be accessed
 [here for Kepler](/FAQ.shtml) and
-[here for K2](/K2/FAQ.shtml). 
+[here for K2](/K2/FAQ.shtml).
