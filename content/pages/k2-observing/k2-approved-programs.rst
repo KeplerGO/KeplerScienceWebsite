@@ -40,10 +40,10 @@ Campaign 14
         <b>WASP-104</b>: host of a transiting hot Jupiter (EPIC 248662696);
       </li>
       <li>
-        <b>7 bright stars</b> observed using custom circular masks, including the <b>blue supergiant rho Leo</b> (EPIC 200182931);
+        <b>7 bright stars</b> observed using custom circular masks, including the 4th-magnitude <b>blue supergiant rho Leo</b> (EPIC 200182931);
       </li>
       <li>
-        <b>6 large galaxies</b> observed using custom masks (M95, M96, M105, NGC 3384, NGC 3423, NGC3412) and <b>14,691 small galaxies</b> observed using standard masks to <a href="/supernova-experiment">detect supernovae</a>;
+        <b>6 large galaxies</b> observed using custom masks (M95, M96, M105, NGC 3384, NGC 3423, NGC3412) and <b>14,691 small galaxies</b> observed using standard masks to <a href="/supernova-experiment">observe supernovae</a>;
       </li>
       <li>
         <b>27 hilda and trojan asteroids</b>;
@@ -61,7 +61,8 @@ Campaign 14
     </p>
 
     <p>
-    We encourage all users to credit the PI's and Co-I's who submitted the observing proposals as detailed below.
+    We encourage all users interested in the data to give credit to,
+    and collaborate with, the PI's and Co-I's who submitted the observing proposals as detailed below.
     </p>
 
   <ul class="list-group">
