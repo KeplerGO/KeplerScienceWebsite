@@ -1,0 +1,26 @@
+# Summary of K2 Program GO14103
+
+Title: Exploring the connection between gamma-ray and optical variability in blazars
+
+PI: Santander, Juan Marcos (Barnard College)
+CoIs: Williams, David A; Mukherjee, Reshmi; Johnson, Caitlin Anne
+
+Blazars constitute the most numerous source type detected in gamma rays, accounting for more than one third of the objects listed in the Fermi-LAT point-source catalog. They are characterized by a non-thermal, highly-polarized continuum emission spanning the entire electromagnetic spectrum and  by very fast variability which has been observed down to time scales of minutes in the TeV energy range. 
+We propose to exploit the unprecedented photometric precision and temporal coverage of K2 observations to investigate the correlation between optical and gamma-ray light curves in blazars. For this purpose, we have selected a sample of gamma-ray detected and gamma-ray candidate blazars that fall on the K2 silicon footprint during the upcoming observation cycle. These correlation studies can provide further insights into the mechanism responsible for the blazar emission and test the dependence of optical variability on blazar type.
+
+# Targets requested by this program that have been observed (14)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+201534490, 162.965769, 1.054435, 18.206, GO14103_LC
+201621388, 166.899578, 2.373612, 18.584, GO14016_LC|GO14027_LC|GO14103_LC
+248434654, 160.766007, 0.905673, 19.205, GO14103_LC
+248438564, 162.965981, 1.053003, 18.831, GO14027_LC|GO14103_LC
+248530766, 156.346008, 4.041408, 17.988, GO14008_LC|GO14103_LC|GO14079_LC
+248530814, 156.345387, 4.042633, 19.217, GO14103_LC
+248574881, 159.694981, 5.208115, 18.951, GO14103_LC
+248586210, 154.616069, 5.508329, 17.457, GO14088_LC|GO14027_LC|GO14103_LC
+248616493, 160.131773, 6.289362, 19.639, GO14016_LC|GO14103_LC
+248621209, 161.469712, 6.410183, 18.996, GO14040_LC|GO14103_LC
+248652828, 158.389232, 7.192632, 19.5, GO14103_LC
+248695656, 163.102197, 8.236024, 17.268, GO14103_LC|GO14079_LC
+251458112, 154.0125, 5.2172, 19.558, GO14103_LC
+251458114, 164.9583, 2.3731, 20.0, GO14103_LC

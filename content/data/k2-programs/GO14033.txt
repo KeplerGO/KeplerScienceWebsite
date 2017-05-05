@@ -1,0 +1,45 @@
+# Summary of K2 Program GO14033
+
+Title: Probing the Planetary Population of High-Mass Stars (K2-GO5)
+
+PI: Gaudi, Bernard Scott (The Ohio State University)
+CoIs: Paetzold, Martin; Cochran, William D.; Shporer, Avi; Csizmadia, Szilard; Johnson, Marshall C; Eigmueller, Philipp; Grziwa, Sascha
+
+Objectives: To date most planet searches have been confined to stars of spectral type F and later, as hotter stars have fewer spectral lines and tend to be rapidly rotating, making precise radial velocity (RV) observations difficult. By observing a sample of A and early F stars, K2 can help to expand the number of known planets around stars with M~1.5-2.5 M_sun. This population has been probed largely through RV surveys of subgiants and giants in this mass range [1], but the masses of these stars have been debated [2]. During its primary mission, Kepler discovered a handful of planets around A-type stars, most notably Kepler-13 Ab [3], plus ~60 planet candidates that are awaiting validation. K2 observations of main sequence A and F stars will complement (sub)giant RV observations, as K2 is sensitive to smaller planets, and close-in planets that have already been engulfed by the (sub)giants. K2 can thus be used to expand the sample of known transiting planets around these stars. There are currently only ~20 such confirmed planets; this population is currently almost totally unexplored. We thus propose to search for planets around such stars with K2.
+
+Targets: We request 301 long cadence targets, ~1/2 of which will be in Field 16. This will build on the ~1500 targets we have been granted earlier in the K2 mission. The sample consists of A and early F-type dwarfs with 8<V<13, allowing for high quality photometry and spectroscopy while not requiring many K2 detector pixels.
+
+Methodology: We will extract lightcurves of our targets from the K2 pixel data, correct these for systematics, and search for transit signals. We will conduct reconnaissance spectroscopy of planet candidate hosts using the 2.7m telescope at McDonald Observatory and the forthcoming NRES spectrographs for the Las Cumbres Observatory (LCO) network, and high-resolution imaging with Robo-AO and the Large Binocular Telescope. For long-period targets with only 2 or 3 transits in the K2 data, we will conduct follow-up photometric observations with LCO and the DEMONEXT robotic 0.5m telescope. Any planet candidates in our sample will (by design) not be amenable to confirmation using standard RV techniques. Instead, we will validate our candidates using other methods. We will be able to confirm massive, short-period planets using photometry alone by searching for beaming and ellipsoidal variations caused by the planetary orbit, which gives the planetary mass and can find non-transiting planets [4]. A stars are typically photometrically quiet, making them prime targets for this technique. We will also use Doppler tomography (where we spectroscopically resolve the stellar line profile perturbation during the transit due to the Rossiter-McLaughlin effect) to validate planet candidates, and to measure the alignment between the stellar spin and planetary orbit [5]. We will use the statistical techniques developed to validate Kepler planets for any candidates not amenable to phase curve detection or Doppler tomography.
+
+Relevance: Our program will not only discover and characterize new planets around massive stars but also provide insight into the planetary population and planet formation and migration around these stars. It will thus address two of the science goals of NASA's Astrophysics program, namely, "Explore the origin and evolution of the galaxies, stars, and planets that make up our universe" and "Discover and study planets around other stars." We require new K2 observations in order to expand the sample of massive stars that has been surveyed for planets, building on the sample from Kepler and our earlier K2 programs.
+
+References: [1] Johnson, J. A., Clanton, C., Howard, A. W., et al. 2011, ApJS, 197, 26 [2] Lloyd, J. P. 2011, ApJL, 739, L49 [3] Mislis, D., & Hodgkin, S. 2012, MNRAS, 422, 1512 [4] Shporer, A., Jenkins, J. M., Rowe, J. F., et al. 2011, AJ, 142, 195 [5] Johnson, M. C., Cochran, W. D., Albrecht, S., et al. 2014, ApJ, 790, 30
+
+# Targets requested by this program that have been observed (26)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+248432217, 159.010464, 0.814191, 10.651, GO14033_LC|GO14021_LC
+248449304, 157.093219, 1.453001, 12.053, GO14033_LC|GO14021_LC
+248461328, 160.899757, 1.871471, 10.458, GO14033_LC|GO14028_LC|GO14021_LC
+248463171, 159.134765, 1.931179, 10.2, GO14033_LC|GO14028_LC|GO14021_LC
+248464113, 157.887282, 1.962225, 11.381, GO14033_LC|GO14021_LC|GO14083_LC
+248511206, 156.098063, 3.497601, 10.528, GO14033_LC|GO14004_LC|GO14021_LC
+248531757, 158.412012, 4.066813, 10.666, GO14033_LC|GO14021_LC
+248545444, 158.142864, 4.426479, 10.095, GO14033_LC|GO14021_LC
+248556118, 159.433421, 4.707067, 11.503, GO14033_LC|GO14028_LC|GO14021_LC
+248577259, 156.330518, 5.27056, 11.352, GO14033_LC|GO14009_LC|GO14028_LC|GO14021_LC
+248581189, 157.388476, 5.372606, 11.003, GO14033_LC|GO14021_LC
+248592189, 155.232667, 5.671644, 11.653, GO14033_LC|GO14004_LC|GO14021_LC
+248612575, 158.777494, 6.188208, 11.412, GO14033_LC|GO14028_LC|GO14021_LC
+248655660, 163.970363, 7.26125, 11.539, GO14033_LC|GO14021_LC|GO14083_LC
+248657489, 156.786013, 7.305563, 10.992, GO14033_LC|GO14021_LC|GO14083_LC
+248715440, 160.26944, 8.689077, 10.102, GO14033_LC|GO14028_LC|GO14021_LC
+248730250, 164.230887, 9.024263, 11.362, GO14033_LC|GO14028_LC|GO14021_LC
+248732259, 160.571508, 9.066634, 11.926, GO14033_LC|GO14021_LC|GO14083_LC
+248761335, 164.393044, 9.744241, 9.844, GO14033_LC|GO14028_LC|GO14021_LC
+248776485, 154.261355, 10.113481, 9.61, GO14033_LC|GO14021_LC
+248776520, 154.262247, 10.114357, 9.837, GO14033_LC|GO14001_LC|GO14021_LC
+248793104, 161.300279, 10.518516, 9.86, GO14033_LC|GO14021_LC
+248797773, 154.335904, 10.627337, 11.801, GO14033_LC|GO14009_LC|GO14028_LC|GO14004_LC|GO14021_LC
+248833227, 155.656, 11.484744, 9.646, GO14033_LC|GO14021_LC
+248853719, 160.828603, 12.002143, 11.326, GO14033_LC|GO14021_LC|GO14083_LC
+248890228, 165.308981, 12.953989, 11.259, GO14033_LC|GO14021_LC

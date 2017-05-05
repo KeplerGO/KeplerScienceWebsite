@@ -1,0 +1,17 @@
+# Summary of K2 Program GO14093
+
+Title: K2 observations of the prototypical transitional millisecond pulsar PSR J1023+0038
+
+PI: Boyd, Patricia T. (UMBC and NASA's Goddard Space Flight Center)
+CoIs: Chomiuk, Laura B; Coley, Joel Barry; Strader, Jay; Cheung, Chi C (Teddy); Dubus, Guillaume; Corbet, Robin
+
+Science Goals and Objectives
+We propose to exploit the remarkable photometric accuracy and continuous evenly spaced K2 one-minute light curves to improve our physical insights on the rare transitional millisecond pulsars (tMSPs). Evolutionary models indicate MSPs are the descendents of neutron star Low Mass X-ray Binaries (NS-LMXBs) where the neutron star is spun-up "recycled" via accretion to rotation periods on the order of milliseconds. An even more direct evolutionary connection is realized in tMSPs, binary systems found to undergo transitions between a radio millisecond pulsar (RMSP) state and an accreting millisecond X-ray pulsar (AMXP) state. Such state changes could be driven by the transition between magnetospheric accretion and emission in a shock produced from the collision of the pulsar wind and the material of the main-sequence donor star, but the increase of GeV photons in the accreting state as well as the state transition timescale on the order of weeks is perplexing. To investigate accretion in the AMXP state and a possible state transition, we request Campaign 14 K2 observations simultaneous with Swift, Fermi and SOAR of the prototypical transitional millisecond pulsar (tMSP) PSR J1023+0038, currently the only tMSP found in an accretion-powered regime.  Using the discrete cross-correlation function (DCF), we will cross-correlate the K2 optical data with X-ray data from proposed Swift ToO UVOT and XRT observations. To investigate emission and absorption lines in the intermittent accretion disk, we will additionally request time on the 4.1 m SOAR telescope. Our use of K2's short cadence mode will investigate the accretion in transitional millisecond pulsars in the accreting state, a key problem addressed in the Physics of the Cosmos.
+
+
+Methodology & Relevance
+We request short cadence mode to investigate variability on orbital and sub-orbital timescales using traditional Fourier analysis techniques as well as the zero-crossing method, which makes use of K2's continuous evenly spaced light curves.  To probe emission from the accretion disk, heating up the main-sequence star, we will cross-correlate the K2 optical data with X-ray data from proposed Swift ToO UVOT and XRT observations.  In the unlikely case that no Swift ToO's can be obtained, we search for orbital and sub-orbital variability with K2 only.  To investigate emission and absorption lines in the intermittent accretion disk, we will additionally request time on the 4.1 m Southern Astrophysical Research (SOAR) telescope.  Our use of K2's short cadence mode will investigate the accretion in transitional millisecond pulsars in the accreting state, a key problem addressed in the Physics of the Cosmos.
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+248427628, 155.948711, 0.644619, 17.815, GO14093_LC|GO14066_LC|GO14019_LC|GO14057_LC|GO14093_SC|GO14019_SC|GO14057_SC

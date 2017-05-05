@@ -1,0 +1,84 @@
+# Summary of K2 Program GO14071
+
+Title: X-ray Sources in K2  Rigorously Probing Active Galaxy Accretion and Stellar Variability
+
+PI: Boyd, Patricia T. (UMBC and NASA's Goddard Space Flight Center)
+CoIs: Mushotzky, Richard; Howell, Steve B; Smith, Krista Lynne
+
+P.I.: P. BoydNASA/GSFC; Co-Is: K.L. SmithNASA/GSFC, UMd, R. MushotzkyUMd, S. HowellNASA/ARC 
+ 
+Scientific Justification 
+We request K2 monitoring of unidentified and known X-ray sources in Campaigns 14 through 16, compiled from a variety of sources
+ including the Chandra Source Catalog and the Million Quasar Catalog, to probe accretion onto compact objects at a variety of mass
+ and time scales. Our KSwAGS survey found 93 bright X-ray sources in the original Kepler FOV (Smith et al., 2015). Approximately
+ half were active galaxies while the remainder were active stars of various types (pulsating stars, rapid rotators, close binaries, flaring
+ M-stars). A Kepler GO survey (PI: Still) of Chandra point sources resulted in a similar distribution of stars to active galaxies. High
+ precision optical follow-up is scientifically useful for all sources; the AGN allow for a study of variability characteristics as a function
+ of SMBH mass (Smith et al., 2015) and the stars allow for the study of a variety of rapid rotators and chromospheric activity (Howell
+ et al., 2016). We received time for K2 to monitor KSwAGS sources in Fields 4,8 and 11-13. This proposal has identical scientific
+ goals and will continue the K2 optical monitoring of X-ray sources, but with target selection criteria that relies on archival X-ray
+ observations only and not on new Swift pointings. 
+Previous AGN in the original Kepler field were selected using near-infrared photometric methods (e.g., Edelson & Malkan 2012).
+ These methods preferentially select AGN with high black hole masses (MBH e 10^8 MSUN), since the method fails if the continuum
+ is dominated by starlight rather than AGN light (e.g., Lacy et al. 2004, Stern et al. 2012). Fortunately, X-ray selection uncovers low-
+MBH, low luminosity, and low accretion-rate AGN. These types of AGN have predicted variability timescales short enough to be
+ constrained by a ~80-day K2 campaign. Indeed, narrow-line Sy 1 objects (NLS1) are expected to vary on timescales of days to weeks.
+ This science is complimentary to what we are conducting in the original field with high-MBH objects, since the accretion physics is
+ expected to differ between these types of objects (i.e., low-accretion rate objects may have advection dominated accretion flows or
+ other scenarios instead of the canonical optically-thick, geometrically-thin accretion disk). This further monitoring will critically
+ enhance the sample numbers of K2-monitored AGN discovered using a relatively unbiased selection method. We expect on the order of
+ 50-100 targets in each Field depending on galactic latitude. 
+
+Methodology and Relevance to NASA Astrophysics Science Goals 
+We aim to use K2s impressive photometric precision to detect characteristic variability timescales using Fourier analysis. These
+ timescales are the only possible direct observables of AGN accretion physics, which remains an important astrophysical mystery and
+ directly addresses NASA Astrophysics goal to "[d]iscover how the universe works, explore how it began and evolved, and search
+ for life on planets around other stars.".  Additionally, these X-ray selected targets will fill in the phase-space of black hole mass and
+ accretion rate, complementing our work in the original Kepler field.
+
+# Targets requested by this program that have been observed (44)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+248447040, 162.349856, 1.373481, 17.583, GO14088_LC|GO14071_LC|GO14008_LC
+248451618, 156.52923, 1.529319, 17.757, GO14016_LC|GO14088_LC|GO14071_LC|GO14008_LC
+248489675, 161.083808, 2.805496, 16.561, GO14071_LC|GO14008_LC
+248498971, 160.983516, 3.113693, 16.51, GO14071_LC|GO14079_LC
+248503559, 160.473361, 3.250149, 16.614, GO14071_LC|GO14008_LC|GO14079_LC
+248538486, 160.720665, 4.244764, 16.649, GO14071_LC|GO14008_LC|GO14079_LC
+248577113, 156.941012, 5.266325, 17.411, GO14088_LC|GO14071_LC|GO14008_LC
+248581626, 157.576173, 5.383961, 17.281, GO14071_LC
+248583472, 157.272988, 5.432076, 17.606, GO14071_LC|GO14008_LC|GO14079_LC
+248583744, 163.183319, 5.439678, 17.85, GO14088_LC|GO14071_LC|GO14008_LC
+248585172, 157.62539, 5.478702, 12.054, GO14071_LC|GO14009_LC|GO14021_LC
+248586655, 162.889054, 5.521135, 17.965, GO14088_LC|GO14071_LC|GO14008_LC
+248597344, 162.814166, 5.806899, 16.61, GO14071_LC|GO14008_LC|GO14079_LC
+248604549, 158.602727, 5.988091, 17.273, GO14071_LC|GO14008_LC|GO14079_LC
+248621588, 160.031573, 6.419197, 17.968, GO14088_LC|GO14071_LC|GO14008_LC
+248639472, 158.04232, 6.86818, 16.123, GO14071_LC|GO14008_LC|GO14079_LC
+248649854, 156.831004, 7.118311, 17.262, GO14088_LC|GO14071_LC|GO14008_LC
+248650911, 161.132326, 7.14486, 17.455, GO14088_LC|GO14071_LC|GO14008_LC
+248652286, 161.665322, 7.178993, 17.829, GO14071_LC|GO14008_LC
+248655925, 161.437552, 7.267765, 17.619, GO14071_LC
+248659505, 162.971056, 7.356331, 17.91, GO14088_LC|GO14071_LC|GO14008_LC
+248666804, 158.815217, 7.539046, 15.074, GO14071_LC|GO14052_LC
+248667381, 156.960652, 7.554417, 17.489, GO14088_LC|GO14071_LC|GO14008_LC
+248667886, 158.828078, 7.568421, 16.472, GO14071_LC|GO14008_LC|GO14079_LC
+248672544, 157.017376, 7.680815, 17.661, GO14088_LC|GO14071_LC|GO14008_LC
+248682847, 160.078185, 7.931566, 17.787, GO14088_LC|GO14071_LC|GO14008_LC
+248686223, 158.058082, 8.013484, 17.362, GO14071_LC|GO14079_LC
+248694266, 157.406512, 8.203455, 17.815, GO14088_LC|GO14071_LC|GO14008_LC
+248717158, 161.271517, 8.727498, 15.772, GO14088_LC|GO14071_LC|GO14008_LC
+248735580, 162.228035, 9.14051, 17.887, GO14088_LC|GO14071_LC|GO14008_LC
+248736029, 157.909112, 9.15051, 17.484, GO14088_LC|GO14071_LC|GO14008_LC
+248770032, 161.80579, 9.953179, 17.84, GO14071_LC|GO14008_LC
+248783782, 161.877281, 10.291354, 16.687, GO14071_LC|GO14008_LC
+248792841, 162.207991, 10.512063, 17.974, GO14088_LC|GO14071_LC|GO14008_LC
+248794974, 159.235182, 10.561792, 17.221, GO14071_LC|GO14008_LC|GO14079_LC
+248796086, 160.997637, 10.587297, 17.915, GO14088_LC|GO14071_LC|GO14008_LC
+248799490, 161.218346, 10.668266, 17.566, GO14088_LC|GO14071_LC|GO14008_LC
+248804650, 159.28823, 10.788514, 17.918, GO14088_LC|GO14071_LC|GO14008_LC
+248808886, 160.121579, 10.888346, 16.777, GO14071_LC|GO14008_LC
+248839536, 161.121909, 11.636448, 17.609, GO14071_LC
+248842175, 160.998088, 11.702894, 17.829, GO14071_LC
+248842207, 160.990587, 11.703669, 12.086, GO14071_LC|GO14009_LC|GO14079_LC|GO14065_LC
+248843729, 161.026786, 11.742091, 17.819, GO14071_LC
+248844091, 161.267621, 11.752432, 15.891, GO14071_LC|GO14008_LC|GO14079_LC

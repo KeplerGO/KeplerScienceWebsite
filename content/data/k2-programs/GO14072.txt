@@ -1,0 +1,14 @@
+# Summary of K2 Program GO14072
+
+Title: Measuring White Light Flare Rates of Fully Convective Stars
+
+PI: Gizis, John E. (University of Delaware)
+CoIs: Paudel, Rishi R; Mullan, Dermott
+
+The precise photometry and intensive time coverage of Kepler/K2 photometry is ideal for detecting flares, with hundreds of thousands of stellar flares published to date. We propose a short-cadence study of key nearby mid-M dwarfs. These stars are fully convective yet generate powerful magnetic reconnection events. We will measure the white light flare rate as a function of rotation and luminosity and compare it the flare rate in hotter and cooler stars. Davenport et al. found a universal template describes nearly all Kepler white light flares in the M4 dwarf GJ1243. We, however, have found evidence that M7 and later dwarfs have systematically difference cooling rates in their light curves.  We also find complex flares and interpret them in terms of EIT waves and conditions in the coronae. By studying active flare stars between M4 and M7 we can map these changes as a function of stellar temperature.
+
+# Targets requested by this program that have been observed (3)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+201885041, 164.120109, 7.01454, 11.585, GO14082_LC|GO14025_LC|GO14067_LC|GO14012_LC|GO14072_LC|GO14018_LC|GO14056_LC|GO14030_LC|GO14063_LC|GO14052_LC|GO14005_LC|GO14082_SC|GO14072_SC
+248601792, 163.059258, 5.919405, 13.343, GO14014_LC|GO14072_LC|GO14056_LC|GO14030_LC|GO14063_LC|GO14052_LC|GO14072_SC
+248856413, 165.210143, 12.069655, 14.311, GO14072_LC|GO14056_LC|GO14030_LC|GO14052_LC|GO14072_SC

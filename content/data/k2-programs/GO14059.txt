@@ -1,0 +1,221 @@
+# Summary of K2 Program GO14059
+
+Title: Physical studies of asteroids with Kepler
+
+PI: Marciniak, Anna (Adam Mickiewicz University)
+CoIs: Szabo, Robert; Szakats, Robert; Kiss, Csaba; Mueller, Thomas G
+
+As it has been demonstrated in some recent papers, the Kepler Space Telescope in the K2 mission is an excellent tool to observe asteroids and obtain accurate lightcurves even if the targets are relatively fast-moving main belt asteroids (Szabo et al., 2015, 2016a) or Jovian Trojans (Szabo et al., 2016b).  
+
+While in the case of trans-Neptunian bodies the lightcurve information is available for a limited sample only (see e.g. Kiss et al., 2015), the general spin characteristics of main belt asteroids are relatively well know due to their proximity and relatively short (~few years) orbital periods that allows us to observe these bodies at various spin axis aspect angles during their motion around the Sun. The sufficient orbital phase coverage also allows us to apply lightcurve inversion techniques to obtain detailed shape models for these targets (Kaasalainen et al., 2002). 
+
+In this proposal our goal is to obtain lightcurves of slowly rotating asteroids with low amplitudes, to decrease the strong selection effects in spin and shape studies of asteroids. Currently spin and shape models are mainly available for targets with relatively short rotation periods and substantial elongations of their shapes that results in a biased sample of asteroids with known physical properties (Marciniak et al. 2015). Consequently, our knowledge on spin vs. diameter, the internal cohesion and strength or the non-gravitational effects are biased, too. Data from asteroids observed in the K2 mission can substantially increase the data pool for asteroids omitted in previous studies, enabling continuous observations of targets with periods of the order of days. 
+
+We also investigate small asteroids with spin axes close to the ecliptic plane. Some studies suggest their non-existence due to non-gravitational YORP effect (Durech et al. 2016). However, such lack can be a selection effect, because such targets often display very small amplitudes when viewed pole-on. Kepler/K2 data will allow us to decide whether the low amplitude of these targets are due to close to pole-on configurations.  
+
+We propose to observe a set of main belt asteroids for which additional high-quality lightcurve data obtained with K2 would enable us to obtain spin and shape models for the first time. Some of the targets, (203) Pompeja, (566) Stereoskopia and (308) Polyxo have rotation periods close to 12h or 24h and have small, <0.1 mag lightcurve amplitudes. These targets are difficult to observe from ground due to daily gaps and aliases, and would require coordinated observations from many observing sites, typically flawed by weather conditions. The Kepler Space Telescope is able to perform these observations alone. (525) Adelaide is a target with highly inclined spin axis and strongly variable amplitudes, sometimes being as low as 0.02 mag. Obtaining full, composite lightcurve of this P=19.967 h target would be very difficult from the ground, as the period exceeds the length of the average observing night. In practice, only continuous data from a space-based observatory can provide meaningful data for this target. (437) Rhodia is a very slow rotator with a period of ~56 hours, and variable, usually very low amplitudes. A sufficiently long, continuous measurement of this target would allow us to determine the orientation of its (likely) multiple spin axes.  
+
+All our 14 targets will spend enough time on silicon (typically ~5 days) that a sufficient light curve coverage can be guaranteed. 
+
+References:
+
+- Durech et al., 2016, A&A, 587, A48
+- Kaasalainen, et al., 2002, "Asteroid Models from Disk-integrated Data", in Asteroids III, Univ. of Arizona Press
+- Kiss, Cs. et al., "Trans-Neptunian objects with K2: targeting our own Solar System", 2015, K2 White Paper
+- Marciniak et al., 2015, P&SS, 118, 256
+- Szabo, R., et al., 2015, AJ, 149, 112
+- Szabo, R., et al., 2016a, arXiv:1609.02759, A&A, accepted
+- Szabo, Gy.M., et al., 2016b, arXiv:1609.02760, A&A, accepted
+
+# Targets requested by this program that have been observed (190)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+200180071, , , , GO14059_LC|373-LC-SSO_TILE
+200180072, , , , GO14059_LC|373-LC-SSO_TILE
+200180073, , , , GO14059_LC|373-LC-SSO_TILE
+200180074, , , , GO14059_LC|373-LC-SSO_TILE
+200180075, , , , GO14059_LC|373-LC-SSO_TILE
+200180076, , , , GO14059_LC|373-LC-SSO_TILE
+200180077, , , , GO14059_LC|373-LC-SSO_TILE
+200180078, , , , GO14059_LC|373-LC-SSO_TILE
+200180079, , , , GO14059_LC|373-LC-SSO_TILE
+200180080, , , , GO14059_LC|373-LC-SSO_TILE
+200180081, , , , GO14059_LC|373-LC-SSO_TILE
+200180082, , , , GO14059_LC|373-LC-SSO_TILE
+200180083, , , , GO14059_LC|373-LC-SSO_TILE
+200180084, , , , GO14059_LC|373-LC-SSO_TILE
+200180085, , , , GO14059_LC|373-LC-SSO_TILE
+200180086, , , , GO14059_LC|373-LC-SSO_TILE
+200180087, , , , GO14059_LC|373-LC-SSO_TILE
+200180088, , , , GO14059_LC|373-LC-SSO_TILE
+200180089, , , , GO14059_LC|373-LC-SSO_TILE
+200180090, , , , GO14059_LC|373-LC-SSO_TILE
+200180091, , , , GO14059_LC|373-LC-SSO_TILE
+200180092, , , , GO14059_LC|373-LC-SSO_TILE
+200180093, , , , GO14059_LC|373-LC-SSO_TILE
+200180094, , , , GO14059_LC|373-LC-SSO_TILE
+200180095, , , , GO14059_LC|373-LC-SSO_TILE
+200180096, , , , GO14059_LC|373-LC-SSO_TILE
+200180097, , , , GO14059_LC|373-LC-SSO_TILE
+200180098, , , , GO14059_LC|373-LC-SSO_TILE
+200180099, , , , GO14059_LC|373-LC-SSO_TILE
+200180100, , , , GO14059_LC|373-LC-SSO_TILE
+200180101, , , , GO14059_LC|373-LC-SSO_TILE
+200180102, , , , GO14059_LC|373-LC-SSO_TILE
+200180103, , , , GO14059_LC|373-LC-SSO_TILE
+200180104, , , , GO14059_LC|373-LC-SSO_TILE
+200180105, , , , GO14059_LC|373-LC-SSO_TILE
+200180106, , , , GO14059_LC|373-LC-SSO_TILE
+200180107, , , , GO14059_LC|373-LC-SSO_TILE
+200180108, , , , GO14059_LC|373-LC-SSO_TILE
+200180109, , , , GO14059_LC|373-LC-SSO_TILE
+200180110, , , , GO14059_LC|373-LC-SSO_TILE
+200180111, , , , GO14059_LC|373-LC-SSO_TILE
+200180112, , , , GO14059_LC|373-LC-SSO_TILE
+200180113, , , , GO14059_LC|373-LC-SSO_TILE
+200180114, , , , GO14059_LC|373-LC-SSO_TILE
+200180115, , , , GO14059_LC|373-LC-SSO_TILE
+200180116, , , , GO14059_LC|373-LC-SSO_TILE
+200180117, , , , GO14059_LC|373-LC-SSO_TILE
+200180118, , , , GO14059_LC|373-LC-SSO_TILE
+200180119, , , , GO14059_LC|373-LC-SSO_TILE
+200180120, , , , GO14059_LC|373-LC-SSO_TILE
+200180121, , , , GO14059_LC|373-LC-SSO_TILE
+200180122, , , , GO14059_LC|373-LC-SSO_TILE
+200180123, , , , GO14059_LC|373-LC-SSO_TILE
+200180124, , , , GO14059_LC|373-LC-SSO_TILE
+200180125, , , , GO14059_LC|373-LC-SSO_TILE
+200180126, , , , GO14059_LC|373-LC-SSO_TILE
+200180127, , , , GO14059_LC|373-LC-SSO_TILE
+200180128, , , , GO14059_LC|373-LC-SSO_TILE
+200180129, , , , GO14059_LC|373-LC-SSO_TILE
+200180130, , , , GO14059_LC|373-LC-SSO_TILE
+200180131, , , , GO14059_LC|373-LC-SSO_TILE
+200180132, , , , GO14059_LC|373-LC-SSO_TILE
+200180133, , , , GO14059_LC|373-LC-SSO_TILE
+200180134, , , , GO14059_LC|373-LC-SSO_TILE
+200180135, , , , GO14059_LC|373-LC-SSO_TILE
+200180136, , , , GO14059_LC|373-LC-SSO_TILE
+200180137, , , , GO14059_LC|373-LC-SSO_TILE
+200180138, , , , GO14059_LC|373-LC-SSO_TILE
+200180139, , , , GO14059_LC|373-LC-SSO_TILE
+200180140, , , , GO14059_LC|373-LC-SSO_TILE
+200180141, , , , GO14059_LC|373-LC-SSO_TILE
+200180142, , , , GO14059_LC|373-LC-SSO_TILE
+200180143, , , , GO14059_LC|373-LC-SSO_TILE
+200180144, , , , GO14059_LC|373-LC-SSO_TILE
+200180145, , , , GO14059_LC|373-LC-SSO_TILE
+200180146, , , , GO14059_LC|373-LC-SSO_TILE
+200180147, , , , GO14059_LC|373-LC-SSO_TILE
+200180148, , , , GO14059_LC|373-LC-SSO_TILE
+200180149, , , , GO14059_LC|373-LC-SSO_TILE
+200180150, , , , GO14059_LC|373-LC-SSO_TILE
+200180151, , , , GO14059_LC|373-LC-SSO_TILE
+200180152, , , , GO14059_LC|373-LC-SSO_TILE
+200180153, , , , GO14059_LC|373-LC-SSO_TILE
+200180154, , , , GO14059_LC|373-LC-SSO_TILE
+200180155, , , , GO14059_LC|373-LC-SSO_TILE
+200180156, , , , GO14059_LC|373-LC-SSO_TILE
+200180157, , , , GO14059_LC|373-LC-SSO_TILE
+200180158, , , , GO14059_LC|373-LC-SSO_TILE
+200180159, , , , GO14059_LC|373-LC-SSO_TILE
+200180160, , , , GO14059_LC|373-LC-SSO_TILE
+200180161, , , , GO14059_LC|373-LC-SSO_TILE
+200180162, , , , GO14059_LC|373-LC-SSO_TILE
+200180163, , , , GO14059_LC|373-LC-SSO_TILE
+200180164, , , , GO14059_LC|373-LC-SSO_TILE
+200180165, , , , GO14059_LC|373-LC-SSO_TILE
+200180166, , , , GO14059_LC|373-LC-SSO_TILE
+200180167, , , , GO14059_LC|373-LC-SSO_TILE
+200180168, , , , GO14059_LC|373-LC-SSO_TILE
+200180169, , , , GO14059_LC|373-LC-SSO_TILE
+200180170, , , , GO14059_LC|373-LC-SSO_TILE
+200180171, , , , GO14059_LC|373-LC-SSO_TILE
+200180172, , , , GO14059_LC|373-LC-SSO_TILE
+200180173, , , , GO14059_LC|373-LC-SSO_TILE
+200180174, , , , GO14059_LC|373-LC-SSO_TILE
+200180175, , , , GO14059_LC|373-LC-SSO_TILE
+200180176, , , , GO14059_LC|373-LC-SSO_TILE
+200180177, , , , GO14059_LC|373-LC-SSO_TILE
+200180178, , , , GO14059_LC|373-LC-SSO_TILE
+200180179, , , , GO14059_LC|373-LC-SSO_TILE
+200180180, , , , GO14059_LC|373-LC-SSO_TILE
+200180181, , , , GO14059_LC|373-LC-SSO_TILE
+200180182, , , , GO14059_LC|373-LC-SSO_TILE
+200180183, , , , GO14059_LC|373-LC-SSO_TILE
+200180184, , , , GO14059_LC|373-LC-SSO_TILE
+200180185, , , , GO14059_LC|373-LC-SSO_TILE
+200180186, , , , GO14059_LC|373-LC-SSO_TILE
+200180187, , , , GO14059_LC|373-LC-SSO_TILE
+200180188, , , , GO14059_LC|373-LC-SSO_TILE
+200180189, , , , GO14059_LC|373-LC-SSO_TILE
+200180190, , , , GO14059_LC|373-LC-SSO_TILE
+200180191, , , , GO14059_LC|373-LC-SSO_TILE
+200180192, , , , GO14059_LC|373-LC-SSO_TILE
+200180193, , , , GO14059_LC|373-LC-SSO_TILE
+200180194, , , , GO14059_LC|373-LC-SSO_TILE
+200180195, , , , GO14059_LC|373-LC-SSO_TILE
+200180196, , , , GO14059_LC|373-LC-SSO_TILE
+200180197, , , , GO14059_LC|373-LC-SSO_TILE
+200180198, , , , GO14059_LC|373-LC-SSO_TILE
+200180199, , , , GO14059_LC|373-LC-SSO_TILE
+200180200, , , , GO14059_LC|373-LC-SSO_TILE
+200180201, , , , GO14059_LC|373-LC-SSO_TILE
+200180202, , , , GO14059_LC|373-LC-SSO_TILE
+200180203, , , , GO14059_LC|373-LC-SSO_TILE
+200180204, , , , GO14059_LC|373-LC-SSO_TILE
+200180205, , , , GO14059_LC|373-LC-SSO_TILE
+200180206, , , , GO14059_LC|373-LC-SSO_TILE
+200180207, , , , GO14059_LC|373-LC-SSO_TILE
+200180208, , , , GO14059_LC|373-LC-SSO_TILE
+200180209, , , , GO14059_LC|373-LC-SSO_TILE
+200180210, , , , GO14059_LC|373-LC-SSO_TILE
+200180211, , , , GO14059_LC|373-LC-SSO_TILE
+200180212, , , , GO14059_LC|373-LC-SSO_TILE
+200180213, , , , GO14059_LC|373-LC-SSO_TILE
+200180214, , , , GO14059_LC|373-LC-SSO_TILE
+200180215, , , , GO14059_LC|373-LC-SSO_TILE
+200180216, , , , GO14059_LC|373-LC-SSO_TILE
+200180217, , , , GO14059_LC|373-LC-SSO_TILE
+200180218, , , , GO14059_LC|373-LC-SSO_TILE
+200180219, , , , GO14059_LC|373-LC-SSO_TILE
+200180220, , , , GO14059_LC|373-LC-SSO_TILE
+200180221, , , , GO14059_LC|373-LC-SSO_TILE
+200180222, , , , GO14059_LC|373-LC-SSO_TILE
+200180223, , , , GO14059_LC|373-LC-SSO_TILE
+200180224, , , , GO14059_LC|373-LC-SSO_TILE
+200180225, , , , GO14059_LC|373-LC-SSO_TILE
+200180226, , , , GO14059_LC|373-LC-SSO_TILE
+200180227, , , , GO14059_LC|373-LC-SSO_TILE
+200180228, , , , GO14059_LC|373-LC-SSO_TILE
+200180229, , , , GO14059_LC|373-LC-SSO_TILE
+200180230, , , , GO14059_LC|373-LC-SSO_TILE
+200180231, , , , GO14059_LC|373-LC-SSO_TILE
+200180232, , , , GO14059_LC|373-LC-SSO_TILE
+200180233, , , , GO14059_LC|373-LC-SSO_TILE
+200180234, , , , GO14059_LC|373-LC-SSO_TILE
+200180235, , , , GO14059_LC|373-LC-SSO_TILE
+200180236, , , , GO14059_LC|373-LC-SSO_TILE
+200180237, , , , GO14059_LC|373-LC-SSO_TILE
+200180238, , , , GO14059_LC|373-LC-SSO_TILE
+200180239, , , , GO14059_LC|373-LC-SSO_TILE
+200180240, , , , GO14059_LC|373-LC-SSO_TILE
+200180241, , , , GO14059_LC|373-LC-SSO_TILE
+200180242, , , , GO14059_LC|373-LC-SSO_TILE
+200180243, , , , GO14059_LC|373-LC-SSO_TILE
+200180244, , , , GO14059_LC|373-LC-SSO_TILE
+200180245, , , , GO14059_LC|373-LC-SSO_TILE
+200180246, , , , GO14059_LC|373-LC-SSO_TILE
+200180247, , , , GO14059_LC|373-LC-SSO_TILE
+200180248, , , , GO14059_LC|373-LC-SSO_TILE
+200180249, , , , GO14059_LC|373-LC-SSO_TILE
+200180250, , , , GO14059_LC|373-LC-SSO_TILE
+200180251, , , , GO14059_LC|373-LC-SSO_TILE
+200180252, , , , GO14059_LC|373-LC-SSO_TILE
+200180253, , , , GO14059_LC|373-LC-SSO_TILE
+200180254, , , , GO14059_LC|373-LC-SSO_TILE
+200180255, , , , GO14059_LC|373-LC-SSO_TILE
+200180256, , , , GO14059_LC|373-LC-SSO_TILE
+200180257, , , , GO14059_LC|373-LC-SSO_TILE
+200180258, , , , GO14059_LC|373-LC-SSO_TILE
+200180259, , , , GO14059_LC|373-LC-SSO_TILE
+200180260, , , , GO14059_LC|373-LC-SSO_TILE

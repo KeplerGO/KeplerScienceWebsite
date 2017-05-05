@@ -1,0 +1,72 @@
+# Summary of K2 Program GO14010
+
+Title: Asteroseismology of solar-type stars with K2
+
+PI: Lund, Mikkel N (University of Birmingham)
+CoIs: Huber, Daniel; Grundahl, Frank; White, Timothy R; Basu, Sarbani; Chaplin, William J; Latham, David W.; Silva Aguirre, Victor; Davies, Guy Rhys; Casagrande, Luca
+
+The aim of the present proposal is to perform an asteroseismic study of bright solar-type stars, including cool main-sequence (MS) dwarfs and sub-giants, residing in the solar neighbourhood. This will be achieved using short-cadence (SC) data collected during K2 Campaigns 14, 15, and 16 (C14-16). This proposal follows similar ones submitted for K2 campaigns 0-13 (PIs Chaplin, Campante, Davies, and Lund).
+
+The information contained in solar-like oscillations allows the internal stellar structure to be constrained to unprecedented levels and allows precise determinations of fundamental stellar properties (mass, radius, age). We seek to exploit the unique opportunity offered by K2 to observe targets for asteroseismology that are typically brighter than those observed during the nominal mission, thus benefiting from better independent constraints (parallaxes, spectroscopy, interferometry). This will make it possible to bring the full potential of asteroseismology to bear to test the physics of stellar interiors. To constrain our analysis further we plan for a spectroscopic follow-up of the proposed targets. By combining the targets observed 
+during C14-16 with those from previous K2 campaigns that possess independent constraints we may calibrate seismic scaling relations. This will be essential in seismic galactic archaeology studies, which rely on the application of these relations. Including also targets from the nominal mission, we may study the chemical evolution of the solar neighbourhood and place constraints on the age-metallicity relation of nearby field stars. The results will be used in ongoing investigations that are relevant to this solicitation:
+
+- In C16, M44 and M67 will be re-observed, allowing us to combine new observations with those made during C5, from which solar-like oscillations have been detected for both clusters. M44 is similar to the Hyades for which [1] from C4 observations provided the first ever detections of MS solar-like oscillators in an open cluster. C16 is furthermore forward facing, allowing for contemporaneous observations from the SONG network. Such observations are vital to better understand the relations between observations in photometry and velocity.  
+
+- The targets will further expand the sample of benchmark stars having precise fundamental properties from asteroseismology to different fields in the Galaxy, which will be crucial to calibrate surveys as Gaia and the upcoming GALAH.
+
+We estimate requesting for 30-50 targets per campaign. These should show detectable solar-like oscillations with periods of the order of minutes, hence SC data are required for detecting the oscillations. We will prepare analysis-ready light curves from pixel-data using in-house software - these will be made available to the community via the KASOC portal. We will apply well-tested analysis procedures to the frequency-power spectra of the light curves, providing both estimates of global seismic parameters and individual modes of oscillation. Detailed modelling using state-of-the-art stellar evolution codes will then provide the stellar properties. 
+
+The methodology delineated above has already been successfully applied to the analysis of K2 C1-8 data, for which we reached a very good understanding of the seismic detection yield - from targets awarded in C0-3, [2] showed a detection yield >73%. From C3-5 data we have found that solar-like oscillations can be detected for stars similar to the Sun, with characteristic frequencies around 3100uHz. We have also successfully extracted individual frequencies for these stars, hence enabling detailed seismic modelling [2].
+
+Rerefences: 
+[1] Lund et al., 2016a, MNRAS, 463, 1237
+[2] Lund et al., 2016b, PASP (in press; http://adsabs.harvard.edu/abs/2016arXiv160807292L)
+
+# Targets requested by this program that have been observed (46)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+201623069, 166.565791, 2.398565, 8.502, GO14010_LC|GO14009_LC|GO14028_LC|GO14021_LC|GO14901_LC|GO14010_SC
+201725213, 166.514895, 4.069483, 10.168, GO14010_LC|GO14009_LC|GO14028_LC|GO14021_LC|GO14020_LC|GO14010_SC
+201814313, 164.209669, 5.631404, 9.074, GO14010_LC|GO14063_LC|GO14009_LC|GO14028_LC|GO14021_LC|GO14901_LC|GO14010_SC
+248424564, 157.130614, 0.524539, 8.813, GO14010_LC|GO14063_LC|GO14009_LC|GO14028_LC|GO14021_LC|GO14901_LC|GO14010_SC
+248462787, 160.844427, 1.91907, 8.188, GO14010_LC|GO14063_LC|GO14028_LC|GO14021_LC|GO14901_LC|GO14010_SC
+248471368, 157.732602, 2.212412, 9.832, GO14010_LC|GO14063_LC|GO14052_LC|GO14020_LC|GO14901_LC|GO14010_SC
+248505415, 161.259479, 3.30668, 7.034, GO14010_LC|GO14081_LC|GO14063_LC|GO14028_LC|GO14021_LC|GO14901_LC|GO14010_SC|GO14081_SC
+248514180, 160.656179, 3.583114, 6.512, GO14010_LC|GO14081_LC|GO14063_LC|GO14001_LC|GO14009_LC|GO14028_LC|GO14021_LC|GO14010_SC|GO14081_SC
+248530476, 161.139099, 4.033809, 8.907, GO14010_LC|GO14001_LC|GO14009_LC|GO14028_LC|GO14021_LC|GO14901_LC|GO14010_SC
+248538738, 160.895185, 4.250812, 8.524, GO14010_LC|GO14068_LC|GO14063_LC|GO14001_LC|GO14009_LC|GO14028_LC|GO14021_LC|GO14901_LC|GO14010_SC
+248553904, 155.173439, 4.649059, 8.487, GO14010_LC|GO14063_LC|GO14009_LC|GO14028_LC|GO14021_LC|GO14901_LC|GO14010_SC
+248568507, 155.117562, 5.04083, 9.591, GO14010_LC|GO14009_LC|GO14028_LC|GO14004_LC|GO14021_LC|GO14010_SC
+248581196, 154.451458, 5.372843, 8.211, GO14010_LC|GO14063_LC|GO14028_LC|GO14021_LC|GO14010_SC
+248593082, 155.810888, 5.694259, 6.473, GO14010_LC|GO14081_LC|GO14063_LC|GO14001_LC|GO14028_LC|GO14021_LC|GO14010_SC|GO14081_SC
+248619509, 158.331816, 6.366466, 9.168, GO14010_LC|GO14001_LC|GO14009_LC|GO14028_LC|GO14021_LC|GO14010_SC
+248641774, 153.925765, 6.925763, 9.348, GO14010_LC|GO14041_LC|GO14063_LC|GO14001_LC|GO14009_LC|GO14028_LC|GO14021_LC|GO14020_LC|GO14901_LC|GO14010_SC
+248643218, 161.328586, 6.960654, 8.177, GO14010_LC|GO14063_LC|GO14009_LC|GO14028_LC|GO14021_LC|GO14010_SC
+248648320, 158.345939, 7.08372, 8.531, GO14010_LC|GO14063_LC|GO14001_LC|GO14028_LC|GO14021_LC|GO14901_LC|GO14010_SC
+248659546, 159.728845, 7.357274, 8.866, GO14010_LC|GO14001_LC|GO14009_LC|GO14901_LC|GO14010_SC
+248662379, 159.862323, 7.427388, 8.769, GO14010_LC|GO14063_LC|GO14009_LC|GO14028_LC|GO14021_LC|GO14901_LC|GO14010_SC
+248662696, 160.602498, 7.435086, 11.567, GO14010_LC|GO14015_LC|GO14013_LC|GO14009_LC|GO14021_LC|GO14020_LC|GO14083_LC|GO14010_SC|GO14015_SC|GO14013_SC
+248663722, 163.044186, 7.460835, 7.953, GO14010_LC|GO14001_LC|GO14004_LC|GO14901_LC|GO14010_SC
+248663801, 163.041484, 7.462765, 9.021, GO14010_LC|GO14009_LC|GO14028_LC|GO14021_LC|GO14901_LC|GO14010_SC
+248665653, 160.52071, 7.510196, 9.066, GO14010_LC|GO14009_LC|GO14028_LC|GO14021_LC|GO14901_LC|GO14010_SC
+248666073, 154.547107, 7.520417, 8.726, GO14010_LC|GO14063_LC|GO14001_LC|GO14009_LC|GO14028_LC|GO14021_LC|GO14010_SC
+248669585, 163.583499, 7.609139, 9.277, GO14010_LC|GO14001_LC|GO14009_LC|GO14028_LC|GO14021_LC|GO14010_SC
+248687497, 157.460623, 8.043696, 8.825, GO14010_LC|GO14063_LC|GO14009_LC|GO14028_LC|GO14021_LC|GO14901_LC|GO14010_SC
+248693044, 159.098513, 8.17395, 9.112, GO14010_LC|GO14009_LC|GO14028_LC|GO14021_LC|GO14901_LC|GO14010_SC
+248696061, 154.231631, 8.245176, 8.777, GO14010_LC|GO14001_LC|GO14004_LC|GO14901_LC|GO14010_SC
+248722063, 159.925483, 8.842994, 8.354, GO14010_LC|GO14063_LC|GO14001_LC|GO14009_LC|GO14028_LC|GO14021_LC|GO14010_SC
+248724653, 161.101849, 8.903178, 9.057, GO14010_LC|GO14052_LC|GO14004_LC|GO14020_LC|GO14010_SC
+248729983, 164.455284, 9.0185, 9.191, GO14010_LC|GO14009_LC|GO14028_LC|GO14021_LC|GO14901_LC|GO14010_SC
+248731989, 163.000397, 9.061328, 8.152, GO14010_LC|GO14001_LC|GO14028_LC|GO14010_SC
+248760285, 154.858712, 9.720589, 9.424, GO14010_LC|GO14052_LC|GO14004_LC|GO14020_LC|GO14901_LC|GO14010_SC
+248772355, 158.341551, 10.012199, 9.529, GO14010_LC|GO14009_LC|GO14028_LC|GO14021_LC|GO14901_LC|GO14010_SC
+248776784, 163.956355, 10.121386, 9.097, GO14010_LC|GO14009_LC|GO14052_LC|GO14004_LC|GO14021_LC|GO14010_SC
+248777106, 154.671074, 10.129027, 9.204, GO14010_LC|GO14009_LC|GO14028_LC|GO14021_LC|GO14901_LC|GO14010_SC
+248785352, 159.966104, 10.329908, 9.355, GO14010_LC|GO14009_LC|GO14028_LC|GO14021_LC|GO14901_LC|GO14010_SC
+248814397, 159.179465, 11.021934, 8.483, GO14010_LC|GO14063_LC|GO14001_LC|GO14009_LC|GO14028_LC|GO14021_LC|GO14010_SC
+248820353, 157.885364, 11.168158, 8.867, GO14010_LC|GO14021_LC|GO14010_SC
+248825038, 154.439893, 11.283537, 8.691, GO14010_LC|GO14063_LC|GO14009_LC|GO14028_LC|GO14021_LC|GO14901_LC|GO14010_SC
+248825193, 163.210365, 11.287541, 8.772, GO14010_LC|GO14034_LC|GO14009_LC|GO14028_LC|GO14004_LC|GO14021_LC|GO14901_LC|GO14010_SC
+248842300, 164.921208, 11.705868, 6.485, GO14010_LC|GO14081_LC|GO14063_LC|GO14001_LC|GO14028_LC|GO14021_LC|GO14901_LC|GO14010_SC|GO14081_SC
+248849444, 162.04802, 11.891958, 9.642, GO14010_LC|GO14009_LC|GO14028_LC|GO14021_LC|GO14020_LC|GO14901_LC|GO14010_SC
+248855475, 165.273679, 12.046301, 8.155, GO14010_LC|GO14063_LC|GO14021_LC|GO14901_LC|GO14010_SC
+248891803, 161.078375, 12.998259, 9.167, GO14010_LC|GO14009_LC|GO14028_LC|GO14021_LC|GO14901_LC|GO14010_SC

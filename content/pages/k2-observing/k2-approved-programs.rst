@@ -20,6 +20,72 @@ After data has been released, the
 should be consulted for more comprehensive notes for each Campaign.
 
 
+Campaign 14
+-----------
+.. raw:: html
+
+    <p>
+    The Campaign 14 target list includes <b>29,897 standard long cadence</b> and <b>147 standard short cadence</b> targets,
+    located towards the constellations of Leo and Sextans
+    near the <b>North Galactic Cap</b>.
+    </p>
+
+    <p>
+    Notable targets include:
+    <ul>
+      <li>
+        <b>Wolf 359</b>: a late M dwarf and 5th nearest star system to the Sun (EPIC 201885041);
+      </li>
+      <li>
+        <b>WASP-104</b>: host of a transiting hot Jupiter (EPIC 248662696);
+      </li>
+      <li>
+        <b>7 bright stars</b> observed using custom circular masks, including the <b>blue supergiant rho Leo</b> (EPIC 200182931);
+      </li>
+      <li>
+        <b>6 large galaxies</b> observed using custom masks (M95, M96, M105, NGC 3384, NGC 3423, NGC3412) and <b>14,691 small galaxies</b> observed using standard masks to <a href="/supernova-experiment">detect supernovae</a>;
+      </li>
+      <li>
+        <b>27 hilda and trojan asteroids</b>;
+      </li>
+      <li>
+        <b>8 trans-Neptunian objects</b>: 2000 CM105, 2000 OG44, 2002 CY224, 2008 CS190, 2014 WJ510, 2014 WA509, 2014 WA510, 2014 WO509;
+      </li>
+      <li>
+        <b>6 comets</b>: 17P, 202P, 331P, 50P, P2010 TO20, and P2016 A3;
+      </li> 
+      <li>
+        <b>1 main-belt asteroid</b>: 373 Melusina.
+      </li>
+    </ul>
+    </p>
+
+    <p>
+    We encourage all users to credit the PI's and Co-I's who submitted the observing proposals as detailed below.
+    </p>
+
+  <ul class="list-group">
+    <li class="list-group-item">
+      <i class="fa fa-calendar fa-margin"></i>
+      May 31, 2017 - Aug 19, 2017
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-pencil-square-o fa-margin"></i>
+      Data release notes (awaiting data release)
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-download fa-margin"></i>
+      <a href="data/campaigns/c14/K2Campaign14targets.csv">Target list (csv)</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-external-link fa-margin"></i>
+      Target pixel files (awaiting data release)
+    </li>
+  </ul>
+
+.. include:: approved-programs/c14.html
+
+
 Campaign 13
 -----------
 .. raw:: html
