@@ -40,9 +40,4 @@ Notable targets include:
   </li>
 </ul>
 
-
-We encourage all users interested in the data to give credit to,
-and collaborate with, the PI's and Co-I's who submitted the observing proposals as detailed on the [approved programs page](k2-approved-programs.html#campaign-14).
-
-
 <a href="images/k2/k2-c14-field.png"><img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c14-field.png"></a>

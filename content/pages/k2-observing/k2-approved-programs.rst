@@ -60,11 +60,6 @@ Campaign 14
     </ul>
     </p>
 
-    <p>
-    We encourage all users interested in the data to give credit to,
-    and collaborate with, the PI's and Co-I's who submitted the observing proposals as detailed below.
-    </p>
-
   <ul class="list-group">
     <li class="list-group-item">
       <i class="fa fa-calendar fa-margin"></i>
