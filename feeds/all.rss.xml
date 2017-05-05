@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Sun, 16 Apr 2017 03:00:00 -0700</lastBuildDate><item><title>Release of dithered data obtained during Kepler commissioning</title><link>https://keplerscience.arc.nasa.gov/release-of-dithered-data-obtained-during-kepler-commissioning.html</link><description>&lt;p&gt;During Kepler’s commissioning phase in April 2009, 
+<rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Thu, 04 May 2017 16:00:00 -0700</lastBuildDate><item><title>K2 Campaign 14 science program now available</title><link>https://keplerscience.arc.nasa.gov/k2-campaign-14-science-program-now-available.html</link><description>&lt;p&gt;The science program and target lists for K2 Campaign 14
+have now been posted on the
+&lt;a href="k2-approved-programs.html#campaign-14"&gt;approved targets &amp;amp; programs page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Campaign 14 is scheduled to run from &lt;b&gt;May 31 through August 19, 2017&lt;/b&gt;,
+and will be observing towards the constellations of Leo and Sextans
+near the &lt;b&gt;North Galactic Cap&lt;/b&gt;.
+The …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Thu, 04 May 2017 16:00:00 -0700</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2017-05-04:/k2-campaign-14-science-program-now-available.html</guid></item><item><title>Release of dithered data obtained during Kepler commissioning</title><link>https://keplerscience.arc.nasa.gov/release-of-dithered-data-obtained-during-kepler-commissioning.html</link><description>&lt;p&gt;During Kepler’s commissioning phase in April 2009, 
 the spacecraft observed 33,424 stars in a dither pattern
 for the purpose of measuring the Pixel Response Function (PRF).
 The pattern consisted of 122 pointings, each with a

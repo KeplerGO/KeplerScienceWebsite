@@ -1,0 +1,22 @@
+# Summary of K2 Program GO14030
+
+Title: Monitoring the Closest Stars in K2 Fields 14, 15 and 16
+
+PI: Jao, Wei-Chun (Georgia State University)
+CoIs: Henry, Todd J.
+
+The fundamentals of stellar astronomy are built upon studies of nearby stars. Because of their proximity and brightness, they provide us with the most reliable answers to questions about stellar populations, multiplicity, structure, and evolution.  These nearby stars have accurate optical/infrared photometry in addition to accurate parallaxes, so we know their precise locations on the HR diagram. Using the combination of available parallaxes and photometry, we will answer a fundamental question in stellar astronomy: What stellar parameters of K and M dwarfs cause the main sequence (MS) to be up to three full magnitudes in width? In order to answer this question, we need to understand their multiplicity, metallicities/ages, variability characteristics, radii, and rotation rates.  
+
+The RECONS team has initiated programs to understand the relation between the MS width and different stellar parameters discussed above. Because of the limited precision on the ground based observations to measure rotation periods, we propose to utilize the K2 mission to observe the sample of the nearest K and M dwarfs within 25 pc to accurately determine their rotation rates as one of the key approaches to solve the width problem. In K2 fields 14, 15 and 16, we will observe 22 nearby systems, including two K dwarfs and 20 M dwarfs. One of the systems is GJ406, which is the closest dwarf at only 2.6pc among all K2 campaigns. By combing stars previously observed by K2, we have a total of 74 stars within 25 pc in K2 campaigns. We expect to have the most complete characterization of a set of the nearest K and M stars in all K2 campaigns that have ever been accomplished.
+
+# Targets requested by this program that have been observed (9)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+201661761, 165.331938, 3.00476, 12.891, GO14014_LC|GO14056_LC|GO14030_LC|GO14063_LC|GO14009_LC|GO14052_LC|GO14005_LC
+201885041, 164.120109, 7.01454, 11.585, GO14082_LC|GO14025_LC|GO14067_LC|GO14012_LC|GO14072_LC|GO14018_LC|GO14056_LC|GO14030_LC|GO14063_LC|GO14052_LC|GO14005_LC|GO14082_SC|GO14072_SC
+248432941, 157.231462, 0.841006, 8.771, GO14025_LC|GO14014_LC|GO14068_LC|GO14056_LC|GO14030_LC|GO14063_LC|GO14031_LC|GO14028_LC|GO14065_LC
+248574998, 156.360209, 5.210876, 16.066, GO14030_LC|GO14052_LC
+248601792, 163.059258, 5.919405, 13.343, GO14014_LC|GO14072_LC|GO14056_LC|GO14030_LC|GO14063_LC|GO14052_LC|GO14072_SC
+248624968, 158.137423, 6.502076, 14.123, GO14030_LC|GO14052_LC
+248637069, 162.716797, 6.808119, 10.436, GO14025_LC|GO14014_LC|GO14068_LC|GO14056_LC|GO14030_LC|GO14063_LC|GO14001_LC|GO14031_LC|GO14009_LC|GO14052_LC|GO14005_LC|GO14901_LC
+248660770, 164.128326, 7.388474, 7.204, GO14025_LC|GO14068_LC|GO14030_LC|GO14063_LC|GO14031_LC|GO14021_LC|GO14901_LC
+248856413, 165.210143, 12.069655, 14.311, GO14072_LC|GO14056_LC|GO14030_LC|GO14052_LC|GO14072_SC

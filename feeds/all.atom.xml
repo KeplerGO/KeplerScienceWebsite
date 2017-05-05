@@ -1,5 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2017-04-16T03:00:00-07:00</updated><entry><title>Release of dithered data obtained during Kepler commissioning</title><link href="https://keplerscience.arc.nasa.gov/release-of-dithered-data-obtained-during-kepler-commissioning.html" rel="alternate"></link><published>2017-04-16T03:00:00-07:00</published><updated>2017-04-16T03:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-04-16:/release-of-dithered-data-obtained-during-kepler-commissioning.html</id><summary type="html">&lt;p&gt;During Kepler’s commissioning phase in April 2009, 
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2017-05-04T16:00:00-07:00</updated><entry><title>K2 Campaign 14 science program now available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-14-science-program-now-available.html" rel="alternate"></link><published>2017-05-04T16:00:00-07:00</published><updated>2017-05-04T16:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-05-04:/k2-campaign-14-science-program-now-available.html</id><summary type="html">&lt;p&gt;The science program and target lists for K2 Campaign 14
+have now been posted on the
+&lt;a href="k2-approved-programs.html#campaign-14"&gt;approved targets &amp;amp; programs page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Campaign 14 is scheduled to run from &lt;b&gt;May 31 through August 19, 2017&lt;/b&gt;,
+and will be observing towards the constellations of Leo and Sextans
+near the &lt;b&gt;North Galactic Cap&lt;/b&gt;.
+The …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The science program and target lists for K2 Campaign 14
+have now been posted on the
+&lt;a href="k2-approved-programs.html#campaign-14"&gt;approved targets &amp;amp; programs page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Campaign 14 is scheduled to run from &lt;b&gt;May 31 through August 19, 2017&lt;/b&gt;,
+and will be observing towards the constellations of Leo and Sextans
+near the &lt;b&gt;North Galactic Cap&lt;/b&gt;.
+The target list includes &lt;b&gt;29,897 standard long cadence&lt;/b&gt; and &lt;b&gt;147 standard short cadence&lt;/b&gt; targets.&lt;/p&gt;
+&lt;p&gt;Notable targets include:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;b&gt;Wolf 359&lt;/b&gt;: a late M dwarf and 5th nearest star system to the Sun (EPIC 201885041);
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;b&gt;WASP-104&lt;/b&gt;: host of a transiting hot Jupiter (EPIC 248662696);
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;b&gt;7 bright stars&lt;/b&gt; observed using custom circular masks, including the 4th-magnitude &lt;b&gt;blue supergiant rho Leo&lt;/b&gt; (EPIC 200182931);
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;b&gt;6 large galaxies&lt;/b&gt; observed using custom masks (M95, M96, M105, NGC 3384, NGC 3423, NGC3412) and &lt;b&gt;14,691 small galaxies&lt;/b&gt; observed using standard masks to &lt;a href="/supernova-experiment"&gt;observe supernovae&lt;/a&gt;;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;b&gt;27 hilda and trojan asteroids&lt;/b&gt;;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;b&gt;8 trans-Neptunian objects&lt;/b&gt;: 2000 CM105, 2000 OG44, 2002 CY224, 2008 CS190, 2014 WJ510, 2014 WA509, 2014 WA510, 2014 WO509;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;b&gt;6 comets&lt;/b&gt;: 17P, 202P, 331P, 50P, P2010 TO20, and P2016 A3;
+  &lt;/li&gt; 
+  &lt;li&gt;
+    &lt;b&gt;1 main-belt asteroid&lt;/b&gt;: 373 Melusina.
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We encourage all users interested in the data to give credit to,
+and collaborate with, the PI's and Co-I's who submitted the observing proposals as detailed on the &lt;a href="k2-approved-programs.html#campaign-14"&gt;approved programs page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="images/k2/k2-c14-field.png"&gt;&lt;img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c14-field.png"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>Release of dithered data obtained during Kepler commissioning</title><link href="https://keplerscience.arc.nasa.gov/release-of-dithered-data-obtained-during-kepler-commissioning.html" rel="alternate"></link><published>2017-04-16T03:00:00-07:00</published><updated>2017-04-16T03:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-04-16:/release-of-dithered-data-obtained-during-kepler-commissioning.html</id><summary type="html">&lt;p&gt;During Kepler’s commissioning phase in April 2009, 
 the spacecraft observed 33,424 stars in a dither pattern
 for the purpose of measuring the Pixel Response Function (PRF).
 The pattern consisted of 122 pointings, each with a

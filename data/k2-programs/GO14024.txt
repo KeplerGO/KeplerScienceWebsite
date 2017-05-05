@@ -1,0 +1,15 @@
+# Summary of K2 Program GO14024
+
+Title: Transit Search Around 2 White Dwarfs with Infrared Excesses
+
+PI: Johnson, John Asher (Harvard-Smithsonian Center for Astrophysics)
+CoIs: Lewis, John Arban
+
+Vanderburg et al. (2015) discovered the first transit signal around a white dwarf (WD 1145+017) using data from the Kepler mission. WD 1145 demonstrated for the first time a direct link between white dwarfs having metal lines and an infrared-excess with solid bodies orbiting the star. The evolution of planetary systems is a fundamentally important question in astrophysics, however our understanding of their end states, in an observational sense, is all but unconstrained. Thus far, most searches for planets around white dwarfs have focused on identifying planets in the habitable zone of white dwarfs. WD 1145 was an unanticipated discovery and has resulted in a wide literature attempting to characterize the transits and theoretically understand the source of the material in orbit. Theory can only be constrained so much by a single system. There is a great deal to be learned from turning WD 1145 from a single example into a class of objects.
+ 
+Previous studies of white dwarf transits have focused on detecting planets around these stars. The goal of this study is to look at systems for which we know there is material orbiting in debris disks. Using a combination of the Montreal White Dwarf Database (Dufour et al. 2016) and the WISE InfraRed Excesses around Degenerates (WIRED) Survey (Debes et al 2011, 2013) we have identified 86 unique white dwarfs with IR excesses. Of the 86 stars, only 2 lie on active silicon during campaigns 14-16, all in C14. Constraints on debris disk geometry suggest orbital periods from hours to days  and transit durations of 2-4 minutes (Algol 2011, Vanderburg 2015). Observationally we find that transit depths vary from 10-50%. The short transit duration, multiplicity of periods, and variation in transit timing (Gary et al. 2016) expected in these systems means that transit signals can be easily washed out if observed with 30 minute cadence, so short 2 minute cadence is required to detect and resolve these transits.
+
+# Targets requested by this program that have been observed (2)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+248523380, 159.487663, 3.839912, 18.749, GO14016_LC|GO14024_LC|GO14046_LC|GO14024_SC
+248726003, 160.923082, 8.932843, 17.351, GO14016_LC|GO14024_LC|GO14046_LC|GO14062_LC|GO14016_SC|GO14024_SC|GO14062_SC

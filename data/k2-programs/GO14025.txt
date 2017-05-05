@@ -1,0 +1,23 @@
+# Summary of K2 Program GO14025
+
+Title: Developing Predictors of Radial Velocity Jitter from K2 Light Curves
+
+PI: Bastien, Fabienne Anne (Center for Exoplanets and Habitable Worlds)
+CoIs: Luhn, Jacob; Wright, Jason T
+
+1.	Description of Science Goals & Objectives and Relevance to Proposed Call
+Much of exoplanet science hinges on a thorough understanding of the planets host star. As a result of the push toward lower mass and more widely separated exoplanets, it has become increasingly important to properly characterize exoplanet hosts and efficiently distinguish the signals from planets from signals from the star itself. Currently, stellar physical processes on the surfaces of stars poses a major deterrent to our ability to detect exoplanets. In radial velocity (RV) measurements, these processes induce noise, coined jitter, that can imitate or drown out the signals of planets. As new transiting planets are discovered by K2 and TESS, it will be imperative to have new methods of prioritizing ground-based RV follow-up, especially given that Kepler alone provided more planet candidates than can be followed-up in a reasonable time-frame with all ground-based resources combined. By accurately predicting the level of stellar jitter of a host star, we can readily identify the most promising targets for both the RV follow-up of transiting planet candidates and the RV discovery of new exoplanets. 
+	We propose to use the high-precision light curves from the K2 mission with archival RV jitter and activity measurements to (1) develop an empirical relation between RV jitter and light curve variations, following the methodology developed by Bastien et al. (2014) and (2) determine the dependency of the relation on age, spectral type, and magnetic activity. These relations will prove useful for RV follow-up of existing transiting exoplanet candidates. We will use them to identify targets that have low levels of RV jitter and use them to uncover the physical causes of RV jitter, which will help optimize the use of upcoming RV facilities like NASAs NEID spectrograph. 
+
+2.	Description of Methodology to be Used
+Bastien et al. (2014) showed that short-timescale light curve variations, called flicker are strongly correlated with RV jitter for magnetically inactive stars. Current work involves extending this relation from the 12 California Planet Survey (CPS) stars in the Kepler field to stars in the K2 campaigns. Due to the multiple fields of the K2 mission, there is larger overlap between CPS stars and potential K2 targets. Past and future K2 campaigns (0-11) have increased the initial CPS-Kepler sample by nearly 50 stars. Here we have identified roughly 30 stars across Campaigns 14, 15, and 16 of the K2 mission with existing RV time series from CPS, which will provide further refinement of this empirical relation. More importantly, they will allow coverage over a wider range of spectral types, ages, and activity levels. Thus, we will be able to fully explore the photometric manifestations of RV jitter and develop the tools necessary for improved RV target selection in a timeframe suitable for the upcoming space missions and ground-based instruments, such as the TESS mission or the NEID spectrograph.
+
+# Targets requested by this program that have been observed (7)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+201885041, 164.120109, 7.01454, 11.585, GO14082_LC|GO14025_LC|GO14067_LC|GO14012_LC|GO14072_LC|GO14018_LC|GO14056_LC|GO14030_LC|GO14063_LC|GO14052_LC|GO14005_LC|GO14082_SC|GO14072_SC
+248432941, 157.231462, 0.841006, 8.771, GO14025_LC|GO14014_LC|GO14068_LC|GO14056_LC|GO14030_LC|GO14063_LC|GO14031_LC|GO14028_LC|GO14065_LC
+248476320, 156.054903, 2.368017, 7.729, GO14003_LC|GO14025_LC|GO14068_LC|GO14063_LC|GO14001_LC|GO14004_LC
+248637069, 162.716797, 6.808119, 10.436, GO14025_LC|GO14014_LC|GO14068_LC|GO14056_LC|GO14030_LC|GO14063_LC|GO14001_LC|GO14031_LC|GO14009_LC|GO14052_LC|GO14005_LC|GO14901_LC
+248660770, 164.128326, 7.388474, 7.204, GO14025_LC|GO14068_LC|GO14030_LC|GO14063_LC|GO14031_LC|GO14021_LC|GO14901_LC
+248889370, 162.404775, 12.929246, 9.446, GO14025_LC|GO14041_LC|GO14068_LC|GO14001_LC|GO14009_LC|GO14028_LC|GO14021_LC|GO14065_LC|GO14901_LC
+251457103, 155.86804, 0.90217, 6.289, GO14025_LC
