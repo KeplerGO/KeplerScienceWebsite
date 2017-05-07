@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon IV Participants
 Save_as: participants.html
 
-The current list of 215 registered attendees is below (last update: April 26, 2017).
+The current list of 220 registered attendees is below (last update: May 7, 2017).
 
 *	Eric	Agol	,	University of Washington
 *	Suzanne	Aigrain	,	University of Oxford
@@ -27,6 +27,7 @@ The current list of 215 registered attendees is below (last update: April 26, 20
 *	Jay	Bookbinder	,	NASA
 *	William	Borucki	,	NASA Ames Research Center
 *	John	Brewer	,	Yale University
+*	Steve	Bryson	,	NASA Ames Research Center
 *	Christopher	Burke	,	SETI Institute / NASA Ames
 *	Caleb	Cañas	,	Pennsylvania State University
 *	Douglas	Caldwell	,	SETI Institute
@@ -69,7 +70,6 @@ The current list of 215 registered attendees is below (last update: April 26, 20
 *	Mark	Giampapa	,	National Solar Observatory
 *	Alexey	Goldin	,	Teza Technologies
 *	Erica	Gonzales	,	University of California, Santa Cruz
-*	Tom	Greene	,	NASA Ames
 *	Tom	Greene	,	NASA Ames Research Center
 *	Samuel	Grunblatt	,	University of Hawaii
 *	Sascha	Grziwa	,	RIU, Planetary Research at the University of Cologne
@@ -99,6 +99,8 @@ The current list of 215 registered attendees is below (last update: April 26, 20
 *	Michele	Johnson	,	NASA Ames
 *	Daniel	Jontof-Hutter	,	University of the Pacific
 *	Edward	Jurua	,	Mbarara University of Science and Technology
+*	Jennifer	Kahn	,	Smith College
+*	Rebekah	Kahn	,	Smith College
 *	Catherine	Kaleida	,	The Space Telescope Science Instutite
 *	Stephen	Kane	,	San Francisco State University
 *	John	Karcz	,	NASA Ames
@@ -107,6 +109,8 @@ The current list of 215 registered attendees is below (last update: April 26, 20
 *	Flavien	Kiefer	,	IAP
 *	Agnes	Kim	,	Penn State Worthington Scranton
 *	Molly	Kosiarek	,	University of California, Santa Cruz
+*	Veselin	Kostov	,	NASA GSFC
+*	Ethan	Kruse	,	University of Washington
 *	Michelle	Kunimoto	,	University of British Columbia
 *	Daryll	LaCourse	,	PlanetHunters.org
 *	David	Latham	,	Harvard-Smithsonian Center for Astrophysics
@@ -138,7 +142,6 @@ The current list of 215 registered attendees is below (last update: April 26, 20
 *	Brett	Morris	,	University of Washington
 *	James	Neff	,	nsf.gov
 *	Seblu H.	Negu	,	Entoto Observatory and Research Center
-*	Seblu H.	Negu	,	Entoto Observatory and Research Center
 *	James	Nemec	,	Camosun College, Victoria, BC Canada
 *	Srinitha	Nimmakayala	,	Center for Astrobiology, Madrid. Univeridad Complutense de Madrid, Madrid
 *	Yuta	Notsu	,	Kyoto University
@@ -154,8 +157,9 @@ The current list of 215 registered attendees is below (last update: April 26, 20
 *	Erik	Petigura	,	Caltech
 *	Marc	Pinsonneault	,	Ohio State University, Dept. of Astronomy
 *	Radoslaw (Radek)	Poleski	,	Ohio State University
+*	Howard	Pomerantz	,	De Anza College
+*	Elisa	Quintana	,	NASA Goddard Space Flight Center
 *	Darin	Ragozzine	,	Brigham Young University
-*	Clément	Ranc	,	USRA/NASA Goddard Space Flight Center
 *	Clément	Ranc	,	USRA/NASA Goddard Space Flight Center
 *	Luisa	Rebull	,	Caltech-IPAC/IRSA, NITARP, and SSC
 *	Armin	Rest	,	Space Telescope Science Institute
@@ -187,6 +191,7 @@ The current list of 215 registered attendees is below (last update: April 26, 20
 *	john	stauffer	,	Spitzer Science Center, Caltech
 *	Gudmundur	Stefansson	,	Penn State University
 *	Dennis	Stello	,	UNSW
+*	Robert	Stern	,	(no affiliation)
 *	Martin	Still	,	NASA Headquarters
 *	Nao	Suzuki	,	Kavli IPMU, University of Tokyo
 *	Jamie	Tayar	,	Ohio State University
@@ -217,8 +222,7 @@ The current list of 215 registered attendees is below (last update: April 26, 20
 *	Yan	Yan	,	National Astronomical Observatories, Chinese Academy of Sciences
 *	Wei	Zhu	,	Ohio State University
 *	Carl	Ziegler	,	UNC Chapel Hill
-*	Joel	Zinn	,	Ohio State University				
-				
+*	Joel	Zinn	,	Ohio State University	
 				
 				
 				
