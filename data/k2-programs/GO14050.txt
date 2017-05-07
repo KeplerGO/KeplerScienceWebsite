@@ -1,0 +1,36 @@
+# Summary of K2 Program GO14050
+
+Title: Asteroseismology of the B1Iab Supergiant rho Leonidis
+
+PI: Moravveji, Ehsan (KU Leuven)
+CoIs: Simon-Diaz, Sergio; White, Timothy R; Castro, Norberto; Huber, Daniel
+
+Asteroseismology of the B1Iab Supergiant rho Leonidis
+
+Ehsan Moravveji (PI, IvS, KU Leuven, Belgium), Sergio Simon Diaz(IAC, Tenerife, Spain), 
+Tim White (Uni. Aarhus, Denmark), Daniel Huber (Uni. Sydney, Australia),
+Norberto Castro (Uni. Michigan, US)
+
+Introduction.
+Blue Supergiant (BSG) stars are the progenitors of core collapse supernovae. They are descendants of early O- and B-type stars, and provide a natural link between the main sequence evolution and the advanced evolutionary phases of the most massive stars. BSGs can influence the chemistry of their host galaxy by ejecting their metal-rich envelopes
+into the interstellar medium. Moreover, they seed the formation of neutron stars or black holes, which are the sources of gravitational waves which we have just begun to detect. Thus, it is of utmost importance to study single and binary blue supergiants, due to their broad astrophysical applications.
+Because massive stars are scarce and evolve on short timescales, even a single object is extremely valuable to the astrophysical community.
+
+BSGs exhibit photometric and spectroscopic variabilities due to radial/nonradial oscillations (e.g. Kaufer et al. 1996, 1997; Lefever et al. 2009, Moravveji et al. 2012a). We employ asteroseismology (in-depth analysis and modeling of pulsating stars) to address  fundamental questions regarding massive stars. 
+
+rho Leonidis is a single B1 Iab star, and is a confirmed pulsating BSG. We have been monitoring the spectroscopic variability of this target since June 2010 using high-resolution spectrographs attached to the Mercator-1.2m, NOT-2.6m and SONG-1m telescopes. We use the SiIII4567 diagnostic line, which is sensitive to the local temperature and gravity fluctuations at the surface of early-type stars. Based on that, rho Leo exhibits a rich pulsation pattern with short-period modes of a few hours as well as long-period modes of a few days. The observed variability is in agreement with the theoretical predictions of heat-driven modes excited by the kappa-mechanism (Saio 2011, MNRAS; Godart et al. 2016, A&A). The predicted oscillations are due to unstable g-modes with a broad period range. The interest of the proposed observations of rho Leo is hence well justified from both observational and theoretical points of view.
+
+Observing Plan.
+We ask for long-cadence K2 photometry of rho Leo (V=3.9 mag) during campaign 14. The K2 data will be complemented with high-SNR high-resolution spectroscopy with the Mercator, NOT and SONG telescopes for mode identification, radial velicity and H_alpha monitoring. Such a bright star would typically need a large number of pixels to observe. However, we propose to use so-called halo photometry using the unsaturated pixels in the wings of the PSF. With this method a much smaller mask may be used. A circular mask with a radius of 20 pixels requires 1245 pixels, approximately equivalent to only four 9th mag stars. This technique has had proven success for K2 photometry of bright Hyades and Pleiades stars in campaign 4 (White et al. in prep.).
+
+Objectives.
+The K2 photometry will be combined with our ongoing monitoring survey in order to conduct thorough asteroseismic modeling of rho Leo, and address the following concrete questions: 
+(1) What are the nature of excited modes in this star? Are they pressure (p-) or gravity (g-) modes?
+(2) Which mechanism excites these modes? The classical kappa-mechanism (Saio 2011, MNRAS) or the epsilon-mechanism (Unno et al. 1989; Moravveji et al. 2012b, ApJ)?
+(3) What is the size and mass of the convective helium core?
+(4) What is the size and mass of the H-burning shell?
+(5) Is there any coupling between pulsations and H_alpha variability?
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+200182931, , , , GO14001|GO14050

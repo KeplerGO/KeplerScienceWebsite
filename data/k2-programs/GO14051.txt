@@ -1,0 +1,29 @@
+# Summary of K2 Program GO14051
+
+Title: A survey to detect first sdB Planetary Transit
+
+PI: Silvotti, Roberto (INAF)
+CoIs: Ostensen, Roy H.
+
+To date almost nothing is known about the final (WD) configuration of planetary systems.
+Although not a single bona-fide planet orbiting an isolated WD has yet been identified, it is now widely accepted that the dusty and/or gaseous disks that we see within one solar radius around many WDs are produced by the tidal disruption of asteroids (Farihi+2010, MNRAS 404, 2123). Recently, a disintegrating minor planet transiting a white dwarf has been detected (Vanderburg+2015, Nature 526, 546; Croll+2015, http://arxiv.org/pdf/1510.06434v1.pdf). An increasing fraction of WDs (>=27%) show a metal enrichment due to the fall into the WD atmosphere of ancient planetary material (Koester+2014, A&A 566, 34), whose chemical composition is similar to that seen in different Solar-system meteorites (Gansicke+2012, MNRAS 424, 333).
+Theory predicts a gap in the final distribution of orbital periods, due to the opposite effects of stellar mass loss (planets pushed outwards) and tidal interactions (planets pushed inwards) during the RGB and the AGB phases (Nordhaus & Spiegel 2013, MNRAS 432, 500). While Gaia will discover WD planets at several AUs from their host stars, those external to the period gap (Silvotti+2015, ASPC 493, 455), this proposal aims to study the inner boundary of the period gap. Substellar companions to sdB stars offer a unique opportunity to disentangle the effects of the RG expansion alone (while WD planets are affected also by AGB expansion, thermal pulses and PN ejection, Mustill & Villaver 2012, ApJ 761, 121), and they are the natural 1st step to study the post-RGB evolution of planetary systems and their final architecture. Star/planet interactions during the RGB may be responsible for the stellar envelope ejection leading to the formation of a single sdB star (Soker 1998, AJ 116, 1308; Han+2012, ASPC 452, 3).
+Among the first planet/BD candidates around sdB stars (Silvotti+2014, ASPC 481, 13), 2 planetary systems were detected by Kepler measuring the photometric modulation due to reflection/re-emission of the star light (Charpinet+2011, Nature 480, 496; Silvotti +2014, A&A 570, 130). Given that only 7 single sdBs were observed by Kepler for enough time to detect tiny photometric variations of 20-50 ppm, we can assume that 2/7 of sdBs have Earth-size bodies in tight orbits at ~0.005 AU from the star. With a geometric transit probability of 0.2 (Rp<<RsdB, RsdB=0.001 AU), the prob. to see a transit is about 0.057, i.e. in average we need to observe ~18 sdB stars to see one transit. Similar numbers are obtained for more massive sdB companions detected through RVs (Geier+2012 ASPC 452, 153): 16% of their sample of 27 single-lined sdBs do show small RV variations compatible with massive substellar companions.
+Here the geom. transit probability at 0.005 AU is ~0.28 (Rp=0.9 Rjup) so that, in average, 1 sdB out of ~22 should show transits and secondary eclipses.
+The main goal of this proposal is to detect sdB planetary transits and measure for the 1st time sdB planet radii by targetting in SC ~40 sdB/sdO stars in the 9 fields of K2. With typical transit durations of 15-40 min (at 6h<Porb<24h), SC is more adequate. The transit depth may vary between 25% (1 R_Jup) down to 0.2% (1 R_Earth). Thanks to the high number of transits in a ~80 days observation, K2 should be able to measure radii smaller than the Moon. If we find transits, PEPSI@LBT and ESPRESSO@VLT (both in or near commissioning) should be able to measure the star's RVs in order to obtain also masses and densities of these extremely hot and peculiar planetary remnants.
+The secondary goal of this proposal is to detect photometric variations due to reflection effects by a faint stellar companion, ellipsoidal deformations, Doppler boosting. Kepler gave already an important contribution to this field. K2 can increase by a factor 5 to 10 the statistics of well studied sdB+WD and sdB+dM systems. We point out that the secondary goal is compatible with LC data.
+
+# Targets requested by this program that have been observed (12)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+201640895, 165.564386, 2.676184, 17.597, GO14016_LC|GO14051_LC|GO14089_LC|GO14051_SC
+248411044, 162.511777, -0.010237, 13.555, GO14096_LC|GO14051_LC|GO14089_LC|GO14080_LC|GO14099_LC|GO14096_SC|GO14051_SC|GO14080_SC
+248520995, 165.223133, 3.773014, 17.252, GO14016_LC|GO14051_LC|GO14089_LC|GO14080_LC|GO14051_SC|GO14080_SC
+248588851, 155.836676, 5.57942, 16.331, GO14016_LC|GO14096_LC|GO14051_LC|GO14089_LC|GO14080_LC|GO14046_LC|GO14051_SC|GO14080_SC
+248685347, 155.836116, 7.992797, 16.989, GO14016_LC|GO14051_LC|GO14089_LC|GO14080_LC|GO14065_LC|GO14051_SC|GO14080_SC
+248748173, 158.957034, 9.431051, 16.378, GO14016_LC|GO14096_LC|GO14051_LC|GO14089_LC|GO14080_LC|GO14065_LC|GO14051_SC|GO14080_SC
+248761152, 161.912937, 9.740084, 17.093, GO14016_LC|GO14096_LC|GO14051_LC|GO14089_LC|GO14080_LC|GO14051_SC|GO14080_SC
+248807515, 154.316956, 10.856649, 16.4, GO14016_LC|GO14051_LC|GO14089_LC|GO14080_LC|GO14065_LC|GO14051_SC|GO14080_SC
+248810568, 165.233142, 10.928443, 14.223, GO14016_LC|GO14051_LC|GO14089_LC|GO14080_LC|GO14051_SC|GO14080_SC
+248840987, 155.212445, 11.673449, 18.148, GO14016_LC|GO14051_LC|GO14089_LC|GO14051_SC
+248915544, 159.527679, 13.736695, 17.209, GO14016_LC|GO14051_LC|GO14089_LC|GO14080_LC|GO14051_SC|GO14080_SC
+251457058, 163.6202, 1.087444, 17.1, GO14016_LC|GO14051_LC|GO14089_LC|GO14080_LC|GO14051_SC|GO14080_SC

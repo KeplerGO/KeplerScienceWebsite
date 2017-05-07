@@ -1,0 +1,27 @@
+# Summary of K2 Program GO14044
+
+Title: Stellar Pulsations in Eclipsing-Binary Systems
+
+PI: Gaulme, Patrick (New Mexico State University)
+CoIs: Jackiewicz, Jason; Guzik, Joyce Ann; Harrison, Thomas Edward
+
+Binary systems hosting at least one star with detectable solar-like pulsations are becoming important astrophysical targets because they provide a way to calibrate asteroseismology. As illustrated by the CoRoT and Kepler missions, asteroseismology of solar-like stars is an efficient method to measure masses, radii, and ages of large numbers of stars, which is of prime importance to test stellar evolution. However, a crucial test of both asteroseismic masses and radii of a large sample of stars with independent measurements of those quantities has not yet been carried out. Eclipsing binary systems (EBs) potentially permit such an exercise by allowing for accurate determination of masses and radii of both stars by combining photometric and radial-velocity measurements, provided that spectral lines are detectable for both components (e.g., Gaulme et al. 2016). 
+
+EBs are also interesting for the physical processes resulting from tidal interactions, which may influence their evolution when the stars are close enough. As an example, Gaulme et al. 2014 noticed that among red giants belonging to EBs about a third do not display oscillations. They showed the shorter the orbital period and the closer the stars are, the weaker the oscillation modes become, until complete mode depletion is reached. This is observed in the closest systems where rotational and orbital periods are almost synchronized and where strong surface activity is detected. Beyond solar-like oscillators, the Kepler mission led to a much clearer understanding of the oscillation spectra of classical pulsators as RR-Lyrae, gamma-Doradus or delta-Scuti stars (e.g., Keen et al. 2015, Ouazzani et al. 2015, Kurtz et al. 2016). As patterns in the mode distributions are becoming clearer and inference on these stars improve, a similar need for ``benchmarks'' become important. Observing stars that likely pulsate and belong to eclipsing binaries are precious targets for studying stellar evolution in the common multiple evolution configuration. 
+
+In the field of views of campaign 14, 15, and 16, we have identified a set of binary systems with components that are likely on the instability strip, displaying oscillations from Beta Ceph to Delta Scuti, and maybe even solar-like oscillations. We will propose this set to be observed in the main proposal. Long cadence will be enough for most of the systems. 
+
+No funding will be requested.
+
+References:
+Gaulme P., Jackiewicz J., Appourchaux T., Mosser B., 2014, ApJ, 785, 5(
+Gaulme P., et al., 2016, in press in ApJ (arXiv:1609.06645)
+Keen M.A., Bedding T.R., Murphy S.J., et al., 2015, MNRAS, 454, 1792(
+Kurtz D.W., Bowman D.M., Ebo S.J., et al., 2016, MNRAS, 455, 1237(
+Ouazzani R.M., Roxburgh I.W., Dupret M.A., 2015, A&A, 579, A116
+
+# Targets requested by this program that have been observed (3)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+201826322, 163.689879, 5.84786, 7.201, GO14003_LC|GO14044_LC|GO14004_LC
+248746213, 164.484577, 9.387486, 15.272, GO14066_LC|GO14019_LC|GO14044_LC|GO14049_LC|GO14052_LC|GO14065_LC|GO14066_SC|GO14049_SC
+248817572, 156.318158, 11.10148, 10.362, GO14044_LC|GO14009_LC|GO14028_LC|GO14021_LC|GO14020_LC|GO14083_LC

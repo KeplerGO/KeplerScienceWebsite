@@ -1,0 +1,21 @@
+# Summary of K2 Program GO14031
+
+Title: PICK2 - Planets In Clusters with K2 (GO5)
+
+PI: Endl, Michael (McDonald Observatory)
+CoIs: Gandolfi, Davide; Johnson, Marshall C; Cabrera, Juan; Cochran, William D.; Yong, David; Nowak, Grzegorz; Hatzes, Artie
+
+o) Objectives:
+Stellar clusters provide a homogeneous sample of stars in which the major independent variable is the stellar mass. The different ages of the clusters will help us to understand the early dynamical evolution of planetary systems. We have assembled a large, diverse and highly experienced international team. The PICK2 project has already collected K2 data on the Hyades, Pleiades, Praesepe and Ruprecht 147 clusters. In K2 campaign 16 we will be able to observe different - and previously unexplored - parts of the M67 and Praesepe open clusters.
+
+o) Methods & techniques:
+We will search the K2 light curves for planetary transit signatures. We will conduct extensive followup observations including ground-based photometry, high precision RV measurement, and high resolution optical and near-IR spectroscopy in order to confirm the planetary candidates. We will perform detailed spectral analysis in order to derive stellar parameters and chemical abundances. Our team has just discovered a transiting super-giant planet or brown dwarf in the Ruprecht 147 cluster (Nowak et al. 2016) and has confirmed several new K2 planets (Johnson et al. 2016; Barragan et al. 2016; Smith et al. 2016)
+
+o) Perceived significance:
+These results will provide important new constraints on the physics of planetary system formation and early dynamical evolution. We will address the Kepler mission goals of obtaining an inventory of the diversity of planetary systems around sun-like stars. We will also obtain data very complementary to the goals of the TESS program, and help guide planetary system science for JWST studies.
+
+# Targets requested by this program that have been observed (3)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+248432941, 157.231462, 0.841006, 8.771, GO14025_LC|GO14014_LC|GO14068_LC|GO14056_LC|GO14030_LC|GO14063_LC|GO14031_LC|GO14028_LC|GO14065_LC
+248637069, 162.716797, 6.808119, 10.436, GO14025_LC|GO14014_LC|GO14068_LC|GO14056_LC|GO14030_LC|GO14063_LC|GO14001_LC|GO14031_LC|GO14009_LC|GO14052_LC|GO14005_LC|GO14901_LC
+248660770, 164.128326, 7.388474, 7.204, GO14025_LC|GO14068_LC|GO14030_LC|GO14063_LC|GO14031_LC|GO14021_LC|GO14901_LC
