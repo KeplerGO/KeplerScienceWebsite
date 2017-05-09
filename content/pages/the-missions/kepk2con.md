@@ -101,6 +101,9 @@ Depending upon the demonstrated need and the volume of requests, awarded support
 
 ### Conference Agenda
 
+<a href="../data/KeplerK2SciConIV_Program_v1.pdf" class="btn btn-primary
+btn-xs"><i class="fa fa-download fa-margin"></i> The conference program can downloaded here.</a>
+
 This conference will showcase results from the Kepler and K2 missions
 that span all topics in astrophysics and planetary science. The
 confirmed invited speakers include:

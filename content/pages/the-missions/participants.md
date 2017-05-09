@@ -1,12 +1,11 @@
 Title: Kepler & K2 SciCon IV Participants
 Save_as: participants.html
 
-The current list of 220 registered attendees is below (last update: May 7, 2017).
+The current list of 225 registered attendees is below (last update: May 9, 2017).
 
 *	Eric	Agol	,	University of Washington
 *	Suzanne	Aigrain	,	University of Oxford
 *	Ruth	Angus	,	Columbia University
-*	Megan	Ansdell	,	Institute for Astronomy, University of Hawaii
 *	Robert	Ashby	,	University of the Pacific
 *	Jaya	Bajpayee	,	NASA Ames Research Center
 *	Christoph	Baranec	,	University of Hawai`i
@@ -20,6 +19,7 @@ The current list of 220 registered attendees is below (last update: May 7, 2017)
 *	Juliette	Becker	,	University of Michigan
 *	Tim	Bedding	,	University of Sydney
 *	Ruslan	Belikov	,	NASA Ames Research Center
+*	Keaton	Bell	,	The University of Texas at Austin
 *	youness	bentahar	,	université Hassan II casablanca
 *	Michael	Bicay	,	NASA-ARC
 *	Gary	Blackwood	,	NASA/JPL
@@ -29,8 +29,8 @@ The current list of 220 registered attendees is below (last update: May 7, 2017)
 *	John	Brewer	,	Yale University
 *	Steve	Bryson	,	NASA Ames Research Center
 *	Christopher	Burke	,	SETI Institute / NASA Ames
-*	Caleb	Cañas	,	Pennsylvania State University
 *	Douglas	Caldwell	,	SETI Institute
+*	Caleb	Cañas	,	Pennsylvania State University
 *	Matteo	Cantiello	,	Center for Computational Astrophysics, Flatiron Institute
 *	Daniel	Carrera	,	CEHW, Penn State
 *	Barbara	Castanheira Endl	,	Baylor University
@@ -49,6 +49,7 @@ The current list of 220 registered attendees is below (last update: May 7, 2017)
 *	Katia	Cunha	,	U. Arizona and Steward Observatory
 *	Jason	Curtis	,	Columbia
 *	Fei	Dai	,	MIT
+*	Paul	Dalba	,	Boston University
 *	James	Davenport	,	Western Washington University
 *	Douglas	David Baptista de Souza	,	Independent Researcher
 *	José Vinícius	de Miranda Cardoso	,	NASA Ames Research Center
@@ -60,6 +61,7 @@ The current list of 220 registered attendees is below (last update: May 7, 2017)
 *	Simchon	Faigler	,	Tel-Aviv University
 *	Eric	Ford	,	Penn State University
 *	Daniel	Foreman-Mackey	,	University of Washington
+*	Richard	Freedman	,	SETI Institute
 *	Akihiko	Fukui	,	Okayama Astrophysical Observaotry, NAOJ
 *	Benjamin	Fulton	,	Institute for Astronomy, University of Hawaii & Caltech
 *	Peter	Gao	,	NASA Ames Research Center
@@ -70,6 +72,7 @@ The current list of 220 registered attendees is below (last update: May 7, 2017)
 *	Mark	Giampapa	,	National Solar Observatory
 *	Alexey	Goldin	,	Teza Technologies
 *	Erica	Gonzales	,	University of California, Santa Cruz
+*	Alan	Gould	,	Lawrence Hall of Science, UC Berkeley
 *	Tom	Greene	,	NASA Ames Research Center
 *	Samuel	Grunblatt	,	University of Hawaii
 *	Sascha	Grziwa	,	RIU, Planetary Research at the University of Cologne
@@ -111,6 +114,7 @@ The current list of 220 registered attendees is below (last update: May 7, 2017)
 *	Molly	Kosiarek	,	University of California, Santa Cruz
 *	Veselin	Kostov	,	NASA GSFC
 *	Ethan	Kruse	,	University of Washington
+*	Thomas	Kuchar	,	Boston College/Institute for Scientific Research
 *	Michelle	Kunimoto	,	University of British Columbia
 *	Daryll	LaCourse	,	PlanetHunters.org
 *	David	Latham	,	Harvard-Smithsonian Center for Astrophysics
@@ -174,6 +178,7 @@ The current list of 220 registered attendees is below (last update: May 7, 2017)
 *	Emily	Sandford	,	Columbia University
 *	Mikael	Schelin	,	Royal Institute of Technology (KTH)
 *	Kevin	Schlaufman	,	Johns Hopkins University
+*	Joshua	Schlieder	,	NASA GSFC
 *	Nic	Scott	,	NASA ARC
 *	Benjamin	Shappee	,	Carnegie Observatories
 *	Holly	Sheets	,	McGill University
@@ -222,22 +227,7 @@ The current list of 220 registered attendees is below (last update: May 7, 2017)
 *	Yan	Yan	,	National Astronomical Observatories, Chinese Academy of Sciences
 *	Wei	Zhu	,	Ohio State University
 *	Carl	Ziegler	,	UNC Chapel Hill
-*	Joel	Zinn	,	Ohio State University	
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
+*	Joel	Zinn	,	Ohio State University				
 				
 				
 				
