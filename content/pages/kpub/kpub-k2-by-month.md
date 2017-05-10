@@ -103,6 +103,18 @@ Douglas, Stephanie T., Agüeros, Marcel A., Covey, Kevin R., et al.
 Johnston, Cole, Buysschaert, Bram, Tkachenko, Andrew, et al.    
 2017, pre-print ([2017arXiv170407592J](http://adsabs.harvard.edu/abs/2017arXiv170407592J))  
 
+16. [SPECTROSCOPIC EVOLUTION OF DISINTEGRATING PLANETESIMALS: MINUTE TO MONTH VARIABILITY IN THE CIRCUMSTELLAR GAS ASSOCIATED WITH WD 1145+017](http://adsabs.harvard.edu/abs/2017ApJ...839...42R)  
+Redfield, Seth, Farihi, Jay, Cauley, P. Wilson, et al.    
+2017, refereed ([2017ApJ...839...42R](http://adsabs.harvard.edu/abs/2017ApJ...839...42R))  
+
+17. [EXTRACTING MICROLENSING SIGNALS FROM K2 CAMPAIGN 9](http://adsabs.harvard.edu/abs/2017arXiv170408692Z)  
+Zhu, Wei, Huang, Chelsea, Udalski, A., et al.    
+2017, pre-print ([2017arXiv170408692Z](http://adsabs.harvard.edu/abs/2017arXiv170408692Z))  
+
+18. [EVIDENCE FROM K2 FOR RAPID ROTATION IN THE DESCENDANT OF AN INTERMEDIATE-MASS STAR](http://adsabs.harvard.edu/abs/2017arXiv170408690H)  
+Hermes, J. J., Kawaler, Steven D., Romero, A. D., et al.    
+2017, pre-print ([2017arXiv170408690H](http://adsabs.harvard.edu/abs/2017arXiv170408690H))  
+
 
 2017-03
 -------
@@ -247,6 +259,10 @@ Hallakoun, N., Xu, S., Maoz, D., et al.
 Luger, Rodrigo, Kruse, Ethan, Foreman-Mackey, Daniel, et al.    
 2017, pre-print ([2017arXiv170205488L](http://adsabs.harvard.edu/abs/2017arXiv170205488L))  
 
+20. [EXPLAINING THE VARIABILITY OF WD 1145+017 WITH SIMULATIONS OF ASTEROID TIDAL DISRUPTION](http://adsabs.harvard.edu/abs/2017MNRAS.465.1008V)  
+Veras, Dimitri, Carter, Philip J., Leinhardt, Zoë M., et al.    
+2017, refereed ([2017MNRAS.465.1008V](http://adsabs.harvard.edu/abs/2017MNRAS.465.1008V))  
+
 
 2017-01
 -------
@@ -386,6 +402,10 @@ Močnik, T., Anderson, D. R., Brown, D. J. A., et al.
 21. [IRREGULAR VARIABILITY IN KEPLER PHOTOMETRY](http://adsabs.harvard.edu/abs/2016PhDT.......178S)  
 Schlecker, Martin    
 2016, refereed ([2016PhDT.......178S](http://adsabs.harvard.edu/abs/2016PhDT.......178S))  
+
+22. [SIMULTANEOUS INFRARED AND OPTICAL OBSERVATIONS OF THE TRANSITING DEBRIS CLOUD AROUND WD 1145+017](http://adsabs.harvard.edu/abs/2016MNRAS.463.4422Z)  
+Zhou, G., Kedziora-Chudczer, L., Bailey, J., et al.    
+2016, refereed ([2016MNRAS.463.4422Z](http://adsabs.harvard.edu/abs/2016MNRAS.463.4422Z))  
 
 
 2016-11
@@ -711,6 +731,14 @@ Bodman, Eva H. L., Quillen, Alice C., Ansdell, Megan, et al.
 Osborn, H. P., Santerne, A., Barros, S. C. C., et al.    
 2016, pre-print ([2016arXiv160504291O](http://adsabs.harvard.edu/abs/2016arXiv160504291O))  
 
+15. [WHITE DWARF WD-1145+17 "ZOMBIE STAR" CONSUMES ASTEROID](http://adsabs.harvard.edu/abs/2016SASS...35..127K)  
+Kaye, Thomas G., Gary, Bruce L., Rappaport, Saul A., et al.    
+2016, refereed ([2016SASS...35..127K](http://adsabs.harvard.edu/abs/2016SASS...35..127K))  
+
+16. [GRAY TRANSITS OF WD 1145+017 OVER THE VISIBLE BAND](http://adsabs.harvard.edu/abs/2016A&A...589L...6A)  
+Alonso, R., Rappaport, S., Deeg, H. J., et al.    
+2016, refereed ([2016A&A...589L...6A](http://adsabs.harvard.edu/abs/2016A&A...589L...6A))  
+
 
 2016-04
 -------
@@ -823,11 +851,15 @@ Nardiello, D., Libralato, M., Bedin, L. R., et al.
 Pope, B. J. S., White, T. R., Huber, D., et al.    
 2016, refereed ([2016MNRAS.455L..36P](http://adsabs.harvard.edu/abs/2016MNRAS.455L..36P))  
 
-8. [ASTEROSEISMOLOGY OF EXOPLANET HOST STARS](http://adsabs.harvard.edu/abs/2016IAUFM..29B.620H)  
+8. [EVIDENCE FOR GAS FROM A DISINTEGRATING EXTRASOLAR ASTEROID](http://adsabs.harvard.edu/abs/2016ApJ...816L..22X)  
+Xu, S., Jura, M., Dufour, P., et al.    
+2016, refereed ([2016ApJ...816L..22X](http://adsabs.harvard.edu/abs/2016ApJ...816L..22X))  
+
+9. [ASTEROSEISMOLOGY OF EXOPLANET HOST STARS](http://adsabs.harvard.edu/abs/2016IAUFM..29B.620H)  
 Huber, Daniel    
 2016, not refereed ([2016IAUFM..29B.620H](http://adsabs.harvard.edu/abs/2016IAUFM..29B.620H))  
 
-9. [SERENDIPITOUS SCIENCE FROM THE K2 MISSION](http://adsabs.harvard.edu/abs/2016IAUFM..29B.673B)  
+10. [SERENDIPITOUS SCIENCE FROM THE K2 MISSION](http://adsabs.harvard.edu/abs/2016IAUFM..29B.673B)  
 Buzasi, Derek, L., Carboneau, Lindsey, Hessler, Carly, et al.    
 2016, not refereed ([2016IAUFM..29B.673B](http://adsabs.harvard.edu/abs/2016IAUFM..29B.673B))  
 

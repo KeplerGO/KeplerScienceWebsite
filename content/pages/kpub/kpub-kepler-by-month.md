@@ -63,6 +63,18 @@ Molnar, Lawrence A., Van Noord, Daniel M., Kinemuchi, Karen, et al.
 Jontof-Hutter, Daniel, Weaver, Brian P., Ford, Eric B., et al.    
 2017, refereed ([2017AJ....153..227J](http://adsabs.harvard.edu/abs/2017AJ....153..227J))  
 
+9. [EVIDENCE FOR COMPACT BINARY SYSTEMS AROUND $KEPLER$ RED GIANTS](http://adsabs.harvard.edu/abs/2017arXiv170500621C)  
+Colman, Isabel L., Huber, Daniel, Bedding, Timothy R., et al.    
+2017, pre-print ([2017arXiv170500621C](http://adsabs.harvard.edu/abs/2017arXiv170500621C))  
+
+10. [THE GOLD STANDARD: ACCURATE STELLAR AND PLANETARY PARAMETERS FOR EIGHT KEPLER M DWARF SYSTEMS ENABLED BY PARALLAXES](http://adsabs.harvard.edu/abs/2017arXiv170501545M)  
+Mann, Andrew W., Dupuy, Trent, Muirhead, Philip S., et al.    
+2017, pre-print ([2017arXiv170501545M](http://adsabs.harvard.edu/abs/2017arXiv170501545M))  
+
+11. [THE CORRELATION BETWEEN MIXING LENGTH AND METALLICITY ON THE GIANT BRANCH: IMPLICATIONS FOR AGES IN THE GAIA ERA](http://adsabs.harvard.edu/abs/2017ApJ...840...17T)  
+Tayar, Jamie, Somers, Garrett, Pinsonneault, Marc H., et al.    
+2017, refereed ([2017ApJ...840...17T](http://adsabs.harvard.edu/abs/2017ApJ...840...17T))  
+
 
 2017-04
 -------
@@ -206,6 +218,14 @@ Rogers, T. M.
 35. [CIRCUMBINARY DISKS: NUMERICAL AND PHYSICAL BEHAVIOUR](http://adsabs.harvard.edu/abs/2017arXiv170408130T)  
 Thun, Daniel, Kley, Wilhelm, Picogna, Giovanni    
 2017, pre-print ([2017arXiv170408130T](http://adsabs.harvard.edu/abs/2017arXiv170408130T))  
+
+36. [SEISMIC DIAGNOSTICS OF SOLAR-LIKE OSCILLATING STARS](http://adsabs.harvard.edu/abs/2017RAA....17..044L)  
+Li, Ya-Guang, Du, Ming-Hao, Xie, Bo-Han, et al.    
+2017, refereed ([2017RAA....17..044L](http://adsabs.harvard.edu/abs/2017RAA....17..044L))  
+
+37. [EVIDENCE OF CHAOTIC MODES IN THE ANALYSIS OF FOUR Δ SCUTI STARS](http://adsabs.harvard.edu/abs/2017A&A...601A..57B)  
+Barceló Forteza, S., Roca Cortés, T., García Hernández, A., et al.    
+2017, refereed ([2017A&A...601A..57B](http://adsabs.harvard.edu/abs/2017A&A...601A..57B))  
 
 
 2017-03
@@ -686,6 +706,18 @@ Schonhut-Stasik, Jessica S., Baranec, Christoph, Huber, Daniel, et al.
 40. [THE IMPACT OF GAIA DR1 ON ASTEROSEISMIC INFERENCES FROM KEPLER](http://adsabs.harvard.edu/abs/2017arXiv170108746M)  
 Metcalfe, Travis, Creevey, Orlagh, van Saders, Jennifer    
 2017, pre-print ([2017arXiv170108746M](http://adsabs.harvard.edu/abs/2017arXiv170108746M))  
+
+41. [KIC011764567: AN EVOLVED KEPLER -STAR SHOWING SUBSTANTIAL FLARE ACTIVITY](http://adsabs.harvard.edu/abs/2017AN....338...49K)  
+Kitze, M., Akopian, A. A., Hambaryan, V., et al.    
+2017, refereed ([2017AN....338...49K](http://adsabs.harvard.edu/abs/2017AN....338...49K))  
+
+42. [CHARACTERIZING SOLAR-TYPE STARS FROM FULL-LENGTH KEPLER DATA SETS USING THE ASTEROSEISMIC MODELING PORTAL](http://adsabs.harvard.edu/abs/2017A&A...601A..67C)  
+Creevey, O. L., Metcalfe, T. S., Schultheis, M., et al.    
+2017, refereed ([2017A&A...601A..67C](http://adsabs.harvard.edu/abs/2017A&A...601A..67C))  
+
+43. [THE EFFECTS OF CLOSE BINARIES ON THE MAGNETIC ACTIVITY OF M DWARFS AS PROBED USING CLOSE WHITE DWARF COMPANIONS](http://adsabs.harvard.edu/abs/2017PhDT.........4M)  
+Morgan, D. P.    
+2017, refereed ([2017PhDT.........4M](http://adsabs.harvard.edu/abs/2017PhDT.........4M))  
 
 
 2016-12
@@ -1287,6 +1319,10 @@ Estrela, Raissa, Valio, Adriana
 Salabert, David, Garcia, Rafael A., Beck, Paul G., et al.    
 2016, not refereed ([2016csss.confE..30S](http://adsabs.harvard.edu/abs/2016csss.confE..30S))  
 
+20. [EXAMINING TATOOINE: ATMOSPHERIC MODELS OF NEPTUNE-LIKE CIRCUMBINARY PLANETS](http://adsabs.harvard.edu/abs/2016ApJ...826..225M)  
+May, E. M., Rauscher, E.    
+2016, refereed ([2016ApJ...826..225M](http://adsabs.harvard.edu/abs/2016ApJ...826..225M))  
+
 
 2016-07
 -------
@@ -1511,6 +1547,10 @@ Smolec, Radosław
 Netzel, Henryka, Smolec, Radosław    
 2016, not refereed ([2016pas..conf...36N](http://adsabs.harvard.edu/abs/2016pas..conf...36N))  
 
+20. [PREBIOTIC CHEMISTRY AND ATMOSPHERIC WARMING OF EARLY EARTH BY AN ACTIVE YOUNG SUN](http://adsabs.harvard.edu/abs/2016NatGe...9..452A)  
+Airapetian, V. S., Glocer, A., Gronoff, G., et al.    
+2016, refereed ([2016NatGe...9..452A](http://adsabs.harvard.edu/abs/2016NatGe...9..452A))  
+
 
 2016-05
 -------
@@ -1610,6 +1650,10 @@ Traub, Wesley A.
 24. [THE STABILITY OF F-STAR BRIGHTNESS ON CENTURY TIMESCALES](http://adsabs.harvard.edu/abs/2016arXiv160502760L)  
 Lund, Michael B., Pepper, Joshua, Stassun, Keivan G., et al.    
 2016, pre-print ([2016arXiv160502760L](http://adsabs.harvard.edu/abs/2016arXiv160502760L))  
+
+25. [PREDICTING A LUMINOUS RED NOVA](http://adsabs.harvard.edu/abs/2016SASS...35..121V)  
+Van Noord, Daniel, Molnar, Larry, Kinemuchi, Karen, et al.    
+2016, refereed ([2016SASS...35..121V](http://adsabs.harvard.edu/abs/2016SASS...35..121V))  
 
 
 2016-04
@@ -2038,6 +2082,14 @@ Davenport, James R. A.
 33. [STATISTICAL PROPERTIES OF SUPERFLARES ON SOLAR-TYPE STARS BASED ON THE KEPLER 1-MIN CADENCE DATA](http://adsabs.harvard.edu/abs/2016IAUS..320..144M)  
 Maehara, Hiroyuki, Shibayama, Takuya, Notsu, Yuta, et al.    
 2016, not refereed ([2016IAUS..320..144M](http://adsabs.harvard.edu/abs/2016IAUS..320..144M))  
+
+34. [UNDERSTANDING EXOPLANET POPULATIONS WITH SIMULATION-BASED METHODS](http://adsabs.harvard.edu/abs/2016PhDT.......179M)  
+Morehead, Robert Charles    
+2016, refereed ([2016PhDT.......179M](http://adsabs.harvard.edu/abs/2016PhDT.......179M))  
+
+35. [TOPICS IN EXTRASOLAR PLANET CHARACTERIZATION](http://adsabs.harvard.edu/abs/2016PhDT........98H)  
+Howe, Alex Ryan    
+2016, refereed ([2016PhDT........98H](http://adsabs.harvard.edu/abs/2016PhDT........98H))  
 
 
 2015-12
