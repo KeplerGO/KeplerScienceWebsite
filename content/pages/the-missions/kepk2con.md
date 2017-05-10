@@ -129,8 +129,9 @@ be found here</a>.
 
 #### Presenter Information
 
-For poster presentations, posters can have up to maximum dimensions
-of 42'' x 42''.
+For poster presentations, posters should be no larger than 42'' x 42''
+(106 cm x 106 cm). It is anticipated that all posters will be up for
+the entire duration of the meeting.
 
 Additional details coming soon.
 
