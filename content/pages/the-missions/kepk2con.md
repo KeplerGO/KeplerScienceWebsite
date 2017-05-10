@@ -96,7 +96,6 @@ Depending upon the demonstrated need and the volume of requests, awarded support
 * Ground Transportation
 
 **[We are no longer accepting applications for travel support](https://goo.gl/forms/vsrCGGcdNTqqHFF92)**.
- Decisions for support requests will be announced soon.
 
 
 ### Conference Agenda
@@ -130,7 +129,10 @@ be found here</a>.
 
 #### Presenter Information
 
-Details coming soon.
+For poster presentations, posters can have up to maximum dimensions
+of 42'' x 42''.
+
+Additional details coming soon.
 
 #### ExoPAG 16 Meeting
 
@@ -141,6 +143,10 @@ The ExoPAG 16 meeting will be held immediately prior to the conference on June 1
 The conference will be held in the
 <a href='https://www.google.com/maps/place/NASA+Ames+Conference+Center-NACC,+Building+152,+200+Bailey+Rd,+Mountain+View,+CA+94043/@37.4075789,-122.059327,17z'>NASA Ames Conference Center (Building 152)</a>,
 in Mountain View, California.
+
+There is a small room off the auxiliary conference room that can be
+reserved for breakout meetings and/or nursing. The room will have a
+sign-up sheet so the desired time for meetings/nursing can be selected.
 
 Access to NASA Ames requires a valid form of ID to be shown at the
 main gate. Non US-citizens will be required to pick up a badge at the
