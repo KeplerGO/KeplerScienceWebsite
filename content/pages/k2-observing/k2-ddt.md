@@ -29,7 +29,7 @@ Beause e-mail may occasionally get lost, you should expect to receive a notifica
 In all DDT submissions, please specify the institution and email address
 of the principal investigator and include the campaign for which
 targets are being proposed in the subject line of the email (e.g. *K2
-C14 DDT proposal*).
+C16 DDT proposal*).
 
 Target overlap with the current GO target list will not be considered unless short cadence observations are being requested of a current long cadence target. Requests for DDT cannot be used to resubmit all or part of a proposal that was rejected by the normal peer review process. DDT proposals from every institution are encouraged.
 
@@ -41,9 +41,8 @@ To ensure that approved targets are able to be included in the final
 target lists for each campaign, proposals must be submitted via email
 to [keplergo@mail.arc.nasa.gov](keplergo@mail.arc.nasa.gov) by 23:59 PT (Pacific Time) on the following dates:
 
-* **February 23, 2017 for Campaign 14**
 * **May 18, 2017 for Campaign 15**
-* **September 7, 2017 for Campaign 16**
+* **August 31, 2017 for Campaign 16**
 
-The fixed locations and observing windows of Campaigns 14, 15, and 16 are provided [at the field information page](k2-fields.html). 
+The fixed locations and observing windows of Campaigns 15 and 16 are provided [at the field information page](k2-fields.html). 
  
