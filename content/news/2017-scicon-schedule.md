@@ -15,5 +15,7 @@ clusters, stellar activity, extragalactic science, and Solar System studies.
 [register for the conference](https://keplerscience.arc.nasa.gov/scicon4/#registration-abstract-submission)
 until Monday 15 May 2017.**
 Registration is free.
-The deadline for Foreign Nationals has passed. 
 
+If you have registered for the conference and are interested in
+shared housing, please contact [ARC-KeplerSciCon@mail.nasa.gov](mailto:ARC-KeplerSciCon@mail.nasa.gov) 
+to be connected to other participants interested in this option.
