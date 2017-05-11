@@ -200,6 +200,9 @@ hotels</a>. Some hotel options are below along with the distances from the hotel
   taking reservations.  All available rooms have been booked.  We
   recommend people check out other hotels in the area, including those listed above.**
 
+<a
+href='#contact'>**If you are interested in shared housing, please contact us so we can
+connect you with others interested as well.**</a>
 
 ### Remote Attendance
 
