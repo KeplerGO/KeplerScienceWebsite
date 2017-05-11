@@ -201,6 +201,10 @@ hotels</a>. Some hotel options are below along with the distances from the hotel
   recommend people check out other hotels in the area, including those listed above.**
 
 
+If you are interested in shared housing, please contact us so we can
+connect you with others interested as well.
+
+
 ### Remote Attendance
 
 Details coming soon.
