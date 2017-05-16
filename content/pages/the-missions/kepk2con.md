@@ -161,7 +161,12 @@ The nearest alternative to SJC is San Francisco International Airport
 (SFO).  While a bit further, flying into Oakland International Airport (OAK) is
 also another option.
 We recommend hiring a rental car or using the Uber or Lyft apps
-for transportation from the airport. 
+for transportation from the airport.
+
+Civil servants traveling to the conference should note the information
+below:
+* Gov Civil Service NCTS #28596-17
+* Conference Name: Kepler & K2 SciConIV: Kepler Science Conference 4, Legacy & SciCon
 
 #### Lodging Options
 
