@@ -322,7 +322,7 @@ This page details the previous, current, and future K2 Campaign fields.
 
 ### Future
 
-Community feedback on the field placement of Campaigns 17 - 18 - 19
+Community feedback on the field placement of future campaigns
 has been received. Stay tuned for further information on these future fields!
 
 
