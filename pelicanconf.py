@@ -118,15 +118,15 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b>15 May 2017</b>',
-             'Kepler & K2 SciCon US registration deadline',
-             'scicon4/'),
             ('<b>18 May 2017</b>',
              'K2 Campaign 15 DDT deadline',
              'k2-ddt.html'),
             ('<b>6 Jun 2017</b>',
              'K2 Campaign 11 calibrated data release (expected)',
              'k2-fields.html'),
+            ('<b>31 August 2017</b>',
+             'K2 Campaign 16 DDT deadline',
+             'k2-ddt.html'), 
          )
 
 # Defines the "meetings" box on the front page
