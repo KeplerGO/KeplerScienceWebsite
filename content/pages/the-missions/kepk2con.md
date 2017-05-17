@@ -38,7 +38,7 @@ href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon</a>).</b>
   <tr>
     <td style="width: 9em;">15 May 2017</td>
     <td style="width: 20em;"> registration deadline for U.S. Citizens
-    & Permanent Residents </td>
+    & Permanent Residents <b>(closed)</b> </td>
   </tr>
 
   <tr>
@@ -52,7 +52,7 @@ href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon</a>).</b>
 
 *The SOC and LOC are committed to enabling the broadest possible participation by members of the Kepler/K2 community. If you have any questions or concerns regarding your ability to attend please contact the SOC and LOC chairs (Eric Agol at agol@astro.washington.edu, Daniel Huber at huberd@hawaii.edu, and Mark Messersmith at mark.d.messersmith@nasa.gov).*
  
-**[Click here to register for the conference](http://catcopy.ipac.caltech.edu/ksc2017/registration.php)**. There is no registration
+**[Registration is now closed](http://catcopy.ipac.caltech.edu/ksc2017/registration.php)**. There is no registration
 fee. When registering, we ask that all participants read and agree
 with the <a
 href='../code.html'>code of conduct</a>. Upon registering,
