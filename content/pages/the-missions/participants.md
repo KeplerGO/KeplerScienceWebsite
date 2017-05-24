@@ -16,7 +16,6 @@ The current list of 273 registered attendees is below (last update: May 17, 2017
 *	Fabienne	Bastien	,	Pennsylvania State University
 *	Sarbani	Basu	,	Yale University
 *	Natalie	Batalha	,	NASA Ames Research Center
-*	Daniel	Bayliss	,	University of Geneva
 *	Juliette	Becker	,	University of Michigan
 *	Tim	Bedding	,	University of Sydney
 *	Ruslan	Belikov	,	NASA Ames Research Center
@@ -65,6 +64,7 @@ The current list of 273 registered attendees is below (last update: May 17, 2017
 *	Azariah	Dhasan Raj	,	JCE
 *	Jessie	Dotson	,	NASA Ames Research Center
 *	Laurance	Doyle	,	SETI Institute
+* Courtney Dressing, California Institute of Technology
 *	Gözen	Ertem	,	University of Maryland
 *	Rebecca	Esselstein	,	University of Oxford
 *	Daniel	Fabrycky	,	University of Chicago
@@ -147,6 +147,7 @@ The current list of 273 registered attendees is below (last update: May 17, 2017
 *	Jack	Lissauer	,	NASA Ames
 *	Carey	Lisse	,	Johns Hopkins University Applied Physics Lab
 *	John	Livingston	,	University of Tokyo
+* Eric Lopez, NASA Goddard
 *	Rodrigo	Luger	,	University of Washington
 *	Jacob	Luhn	,	Penn State University
 *	Mikkel	Lund	,	Stellar Astrophysics Centre (SAC)
