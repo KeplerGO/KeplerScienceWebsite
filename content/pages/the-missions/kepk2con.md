@@ -52,7 +52,8 @@ href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon</a>).</b>
 
 *The SOC and LOC are committed to enabling the broadest possible participation by members of the Kepler/K2 community. If you have any questions or concerns regarding your ability to attend please contact the SOC and LOC chairs (Eric Agol at agol@astro.washington.edu, Daniel Huber at huberd@hawaii.edu, and Mark Messersmith at mark.d.messersmith@nasa.gov).*
  
-**[Registration is now closed](http://catcopy.ipac.caltech.edu/ksc2017/registration.php)**. There is no registration
+**[Registration is now closed for general participants.  Press can still register at this link](http://catcopy.ipac.caltech.edu/ksc2017/registration.php)**. There
+is no registration
 fee. When registering, we ask that all participants read and agree
 with the <a
 href='../code.html'>code of conduct</a>. Upon registering,
@@ -100,7 +101,7 @@ Depending upon the demonstrated need and the volume of requests, awarded support
 
 ### Conference Agenda
 
-<a href="../data/KeplerK2SciConIV_Program_v1.pdf" class="btn btn-primary
+<a href="../data/KeplerK2SciConIV_Program_v2.pdf" class="btn btn-primary
 btn-xs"><i class="fa fa-download fa-margin"></i> The conference program can downloaded here.</a>
 
 This conference will showcase results from the Kepler and K2 missions
@@ -129,9 +130,16 @@ be found here</a>.
 
 #### Presenter Information
 
+The length for invited talks is 25 minutes + 5 minutes for questions,
+and contributed talks have 12 minutes + 3 minutes for questions.
+
 For poster presentations, posters should be no larger than 42'' x 42''
 (106 cm x 106 cm). It is anticipated that all posters will be up for
 the entire duration of the meeting.
+
+We also encourage all presenters to use color-blind friendly figures
+in their talk and poster presentations. Resources to produce
+color-blind friendly presentations include [this website](http://www.vischeck.com/).
 
 Additional details coming soon.
 
