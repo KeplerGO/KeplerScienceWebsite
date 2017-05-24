@@ -41,8 +41,7 @@ To ensure that approved targets are able to be included in the final
 target lists for each campaign, proposals must be submitted via email
 to [keplergo@mail.arc.nasa.gov](keplergo@mail.arc.nasa.gov) by 23:59 PT (Pacific Time) on the following dates:
 
-* **May 18, 2017 for Campaign 15**
 * **August 31, 2017 for Campaign 16**
 
-The fixed locations and observing windows of Campaigns 15 and 16 are provided [at the field information page](k2-fields.html). 
+The fixed location and observing window of Campaign 16 are provided [at the field information page](k2-fields.html). 
  
