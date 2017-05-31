@@ -24,6 +24,11 @@ Save_as: helpdesk.html
         Zé Vinícius<br>
         Intern
     </div>
+    <div class="col-sm-3 text-center">
+        <img src="images/faces/gully.jpg" class="img-circle"><br>
+        Dr Michael Gully-Santiago<br>
+        Support Scientist
+    </div>
 </div>
 
 ### E-mail
