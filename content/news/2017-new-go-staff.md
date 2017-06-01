@@ -11,8 +11,9 @@ Institute of Technology in 2011, where she investigated the properties of
 young brown dwarfs and low-mass stars using time series photometry and
 spectroscopy. Ann Marie will take a leading role in supporting the stellar
 astrophysics community to mine the rich set of stellar clusters K2 has
-observed in recent Campaigns, and help PI's deliver value-added High Level 
-Science Products to the data archive.
+observed in recent Campaigns, organize a K2 Cluster Science Workshop,
+and help PI's deliver value-added High Level Science Products to the data
+archive.
 
 [Michael Gully-Santiago](https://gully.github.io) earned his PhD at the 
 University of Texas in Austin in 2015 where he developed innovative 
