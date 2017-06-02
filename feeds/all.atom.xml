@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2017-05-11T13:00:00-07:00</updated><entry><title>DDT deadlines for K2 Campaigns 15 &amp; 16 approaching</title><link href="https://keplerscience.arc.nasa.gov/ddt-deadlines-for-k2-campaigns-15-16-approaching.html" rel="alternate"></link><published>2017-05-11T13:00:00-07:00</published><updated>2017-05-11T13:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-05-11:/ddt-deadlines-for-k2-campaigns-15-16-approaching.html</id><summary type="html">&lt;p&gt;A small percentage of the available K2 pixels in each campaign may be
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2017-06-01T14:00:00-07:00</updated><entry><title>Ann Marie Cody, Michael Gully-Santiago, Christina Hedges, and Zé Vinícius join the Guest Observer Office</title><link href="https://keplerscience.arc.nasa.gov/ann-marie-cody-michael-gully-santiago-christina-hedges-and-ze-vinicius-join-the-guest-observer-office.html" rel="alternate"></link><published>2017-06-01T14:00:00-07:00</published><updated>2017-06-01T14:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-06-01:/ann-marie-cody-michael-gully-santiago-christina-hedges-and-ze-vinicius-join-the-guest-observer-office.html</id><summary type="html">&lt;p&gt;The Kepler/K2 Guest Observer Office has four new members joining us at Ames
+Research Center in California: Michael Gully-Santiago, Ann Marie Cody,
+Christina Hedges, and Zé Vinícius.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://annmariecody.com"&gt;Ann Marie Cody&lt;/a&gt; earned her PhD at the California
+Institute of Technology in 2011, where she investigated the properties of
+young brown …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The Kepler/K2 Guest Observer Office has four new members joining us at Ames
+Research Center in California: Michael Gully-Santiago, Ann Marie Cody,
+Christina Hedges, and Zé Vinícius.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://annmariecody.com"&gt;Ann Marie Cody&lt;/a&gt; earned her PhD at the California
+Institute of Technology in 2011, where she investigated the properties of
+young brown dwarfs and low-mass stars using time series photometry and
+spectroscopy. Ann Marie will take a leading role in supporting the stellar
+astrophysics community to mine the rich set of stellar clusters K2 has
+observed in recent Campaigns, organize a K2 Cluster Science Workshop,
+and help PI's deliver value-added High Level Science Products to the data
+archive.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://gully.github.io"&gt;Michael Gully-Santiago&lt;/a&gt; earned his PhD at the 
+University of Texas in Austin in 2015 where he developed innovative 
+technologies for and observational studies of star and planet formation.
+Gully will take a leading role in supporting the K2 Supernova Cosmology
+Experiment and helping our community leverage modern data science methods.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.ast.cam.ac.uk/~clh93/"&gt;Christina Hedges&lt;/a&gt; recently submitted her
+PhD at the University of Cambridge in the UK, researching exoplanet 
+transmission spectroscopy using the Hubble Space Telescope and mining the K2
+data using machine learning methods. Christina will take a leading role
+supporting our exoplanet and asteroseismology community.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mirca.github.io"&gt;Zé Vinícius&lt;/a&gt; is an intern from the University of
+Campina Grande in Brazil, where he is studying towards an Electrical
+Engineering degree. Last year Zé implemented PSF photometry for the 
+AstroPy/photutils project as part of a Google Summer of Code project. 
+Zé will take a leading role in helping the GO office and the community produce
+high-quality open source software tools and perform photometry in crowded
+fields.&lt;/p&gt;
+&lt;p&gt;Zé started on March 1st, Michael and Ann Marie started on May 31st,
+and Christina will join us at the end of June.
+Together, the team will embark on an ambitious plan to leave behind a rich set
+of community-oriented data products, tools, and tutorials to help current and
+future astronomers extract the best possible science from Kepler and K2's
+unique legacy data sets.&lt;/p&gt;</content></entry><entry><title>DDT deadlines for K2 Campaigns 15 &amp; 16 approaching</title><link href="https://keplerscience.arc.nasa.gov/ddt-deadlines-for-k2-campaigns-15-16-approaching.html" rel="alternate"></link><published>2017-05-11T13:00:00-07:00</published><updated>2017-05-11T13:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-05-11:/ddt-deadlines-for-k2-campaigns-15-16-approaching.html</id><summary type="html">&lt;p&gt;A small percentage of the available K2 pixels in each campaign may be
 allocated by the K2 Guest Observer (GO) Office Director as Director's
 Discretionary Targets (DDTs). The primary utilization of DDT programs
 is in support of community-proposed requests that are based on
@@ -194,7 +232,8 @@ due to its partial overlap in observing geometry with C16.&lt;/p&gt;
 &lt;/table&gt;
 
   &lt;/div&gt;
-  &lt;/div&gt;
+
+&lt;/div&gt;
 
 &lt;p&gt;&lt;a href="images/k2/k2-c17-options.gif"&gt;
 &lt;img src="images/k2/k2-c17-options.gif" style="max-width:40em;"&gt;
@@ -250,7 +289,8 @@ the following options listed below in the case of a forward-facing field:&lt;/p&
   across modules was not uniform in that campaign.
 
   &lt;/div&gt;
-  &lt;/div&gt;
+
+&lt;/div&gt;
 
 &lt;p&gt;&lt;a href="images/k2/k2-c18-forward-options.gif"&gt;
 &lt;img src="images/k2/k2-c18-forward-options.gif" style="max-width:40em;"&gt;
@@ -299,7 +339,8 @@ simultaneous observations from the ground would be challenging:&lt;/p&gt;
 &lt;/table&gt;
 
   &lt;/div&gt;
-  &lt;/div&gt;
+
+&lt;/div&gt;
 
 &lt;p&gt;&lt;a href="images/k2/k2-c18-backward-options.gif"&gt;
 &lt;img src="images/k2/k2-c18-backward-options.gif" style="max-width:40em;"&gt;
