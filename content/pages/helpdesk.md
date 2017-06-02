@@ -29,6 +29,11 @@ Save_as: helpdesk.html
         Dr Michael Gully-Santiago<br>
         Support Scientist
     </div>
+    <div class="col-sm-3 text-center">
+        <img src="images/faces/annmarie.jpg" class="img-circle"><br>
+        Dr Ann Marie Cody<br>
+        Support Scientist
+    </div>
 </div>
 
 ### E-mail
