@@ -10,10 +10,10 @@ Christina Hedges, and Zé Vinícius.
 Institute of Technology in 2011, where she investigated the properties of
 young brown dwarfs and low-mass stars using time series photometry and
 spectroscopy. Ann Marie will take a leading role in supporting the stellar
-astrophysics community to mine the rich set of stellar clusters K2 has
-observed in recent Campaigns, organize a K2 Cluster Science Workshop,
-and help PI's deliver value-added High Level Science Products to the data
-archive.
+astrophysics community mine the rich star clusters K2 has
+observed in recent Campaigns. She will also organize a K2 Cluster Science
+Workshop, and help PI's deliver value-added High Level Science Products to 
+the data archive.
 
 [Michael Gully-Santiago](https://gully.github.io) earned his PhD at the 
 University of Texas in Austin in 2015 where he developed innovative 
@@ -24,8 +24,8 @@ Experiment and helping our community leverage modern data science methods.
 [Christina Hedges](http://www.ast.cam.ac.uk/~clh93/) recently submitted her
 PhD at the University of Cambridge in the UK, researching exoplanet 
 transmission spectroscopy using the Hubble Space Telescope and mining the K2
-data using machine learning methods. Christina will take a leading role
-supporting our exoplanet and asteroseismology community.
+data using machine learning methods. Christina will take a leading role in
+supporting our exoplanet and asteroseismology communities.
 
 [Zé Vinícius](https://mirca.github.io) is an intern from the University of
 Campina Grande in Brazil, where he is studying towards an Electrical
@@ -37,6 +37,7 @@ fields.
 
 Zé started on March 1st, Michael and Ann Marie started on May 31st,
 and Christina will join us at the end of June.
+
 Together, the team will embark on an ambitious plan to leave behind a rich set
 of community-oriented data products, tools, and tutorials to help current and
 future astronomers extract the best possible science from Kepler and K2's
