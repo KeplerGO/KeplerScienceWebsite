@@ -139,7 +139,8 @@ the entire duration of the meeting.
 
 We also encourage all presenters to use color-blind friendly figures
 in their talk and poster presentations. Resources to produce
-color-blind friendly presentations include [this website](http://www.vischeck.com/).
+color-blind friendly presentations include
+[this website](http://www.vischeck.com/) and [this website](http://colororacle.org/index.html).
 
 Additional details coming soon.
 
@@ -220,7 +221,11 @@ connect you with others interested as well.**</a>
 
 ### Remote Attendance
 
-Details coming soon.
+If you are a researcher/scientist unable to attend the conference
+in-person, you can sign in to this Adobe Connect URL to experience it virtually:
+<a
+href='https://ac.arc.nasa.gov/kepler/'>https://ac.arc.nasa.gov/kepler/</a>. The
+link will be live starting on June 19th at 9AM PST.
 
 ### Code of Conduct
 

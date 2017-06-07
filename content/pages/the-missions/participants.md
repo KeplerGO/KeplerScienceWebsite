@@ -1,10 +1,9 @@
 Title: Kepler & K2 SciCon IV Participants
 Save_as: participants.html
 
-The current list of 273 registered attendees is below (last update: May 17, 2017).
+The current list of 274 registered attendees is below (last update: Jun 7, 2017).
 
 *	Eric	Agol	,	University of Washington
-*	Suzanne	Aigrain	,	University of Oxford
 *	Daniel	Angerhausen	,	CSH, Uni Bern
 *	Ruth	Angus	,	Columbia University
 *	Robert	Ashby	,	University of the Pacific
@@ -65,7 +64,6 @@ The current list of 273 registered attendees is below (last update: May 17, 2017
 *	Jessie	Dotson	,	NASA Ames Research Center
 *	Laurance	Doyle	,	SETI Institute
 * Courtney Dressing, California Institute of Technology
-*	Gözen	Ertem	,	University of Maryland
 *	Rebecca	Esselstein	,	University of Oxford
 *	Daniel	Fabrycky	,	University of Chicago
 *	Simchon	Faigler	,	Tel-Aviv University
@@ -90,7 +88,6 @@ The current list of 273 registered attendees is below (last update: May 17, 2017
 *	Samuel	Grunblatt	,	University of Hawaii
 *	Sascha	Grziwa	,	RIU, Planetary Research at the University of Cologne
 *	Michael	Gully-Santiago	,	BAERI / NASA Ames
-*	Shashanka	Gurumath	,	VIT University Vellore
 *	Michael	Haas	,	NASA-Ames Research Center
 *	Nader	Haghighipour	,	Institute for Astronomy, University of Hawaii
 *	Rasmus	Handberg	,	Stellar Astrophysics Centre, Aarhus University
@@ -142,6 +139,7 @@ The current list of 273 registered attendees is below (last update: May 17, 2017
 *	Kipp	Larson	,	Ball Aerospace
 *	David	Latham	,	Harvard-Smithsonian Center for Astrophysics
 *	Chien-Hsiu	Lee	,	Subaru Telescope
+* Michael Lemonick, Scientific American
 *	Gongjie	Li	,	Harvard
 *	Charles	Lillie	,	Lillie Consulting LLC
 *	Jack	Lissauer	,	NASA Ames
@@ -159,7 +157,6 @@ The current list of 273 registered attendees is below (last update: May 17, 2017
 *	Luca	Malavolta	,	Dipartimento di Fisica e Astronomia, Università degli Studi di Padova
 *	Eric	Mamajek	,	JPL/Caltech
 *	Avi	Mandell	,	NASA GSFC
-*	David	Martin	,	University of Geneva
 *	Kento	Masuda	,	Princeton University
 *	Savita	Mathur	,	Space Science Institute
 *	Rachel	Matson	,	NASA Ames
@@ -187,6 +184,7 @@ The current list of 273 registered attendees is below (last update: May 17, 2017
 *	José Manuel	Olmedo Aguilar	,	Instituto Nacional de Astrofísica Optica y Electrónica
 *	Jerome	Orosz	,	San Diego State University
 *	Naomi	Orosz	,	UC Berkeley
+* Dennis Overbye, New York Times
 *	James	Owen	,	Institute for Advanced Study
 *	Andras	Pal	,	Konkoly Observatory
 *	Rahul	Patel	,	Caltech/IPAC
@@ -196,6 +194,7 @@ The current list of 273 registered attendees is below (last update: May 17, 2017
 *	Mario	Perez	,	NASA Headquarters
 *	Colin	Peterson	,	Ball Aerospace
 *	Erik	Petigura	,	Caltech
+* Camellia Pham, Heising-Simons Foundation
 *	Marc	Pinsonneault	,	Ohio State University, Dept. of Astronomy
 *	Radoslaw (Radek)	Poleski	,	Ohio State University
 *	Howard	Pomerantz	,	De Anza College
@@ -243,6 +242,7 @@ The current list of 273 registered attendees is below (last update: May 17, 2017
 *	Dennis	Stello	,	UNSW
 *	Robert	Stern	,	(no affiliation)
 *	Martin	Still	,	NASA Headquarters
+*  Rachel Street , Las Cumbres Observatory
 *	Nao	Suzuki	,	Kavli IPMU, University of Tokyo
 *	Jamie	Tayar	,	Ohio State University
 *	Stuart Fisher	Taylor	,	Participation Worldscope
