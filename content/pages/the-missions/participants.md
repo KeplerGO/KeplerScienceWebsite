@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon IV Participants
 Save_as: participants.html
 
-The current list of 275 registered attendees is below (last update: Jun 8, 2017).
+The current list of 276 conference participants is below (last update: Jun 8, 2017).
 
 *	Eric	Agol	,	University of Washington
 * Rachel Akeson, NExScI
@@ -234,6 +234,7 @@ The current list of 275 registered attendees is below (last update: Jun 8, 2017)
 *	Marcie	Smith	,	NASA ARC
 *	Verne	Smith	,	NOAO
 *	Charlie	Sobeck	,	NASA Ames Research Center
+* Quentin Socia, San Diego State University
 *	Garrett	Somers	,	Vanderbilt University
 *	Karl	Stapelfeldt	,	JPL / Caltech
 *	Keivan	Stassun	,	Vanderbilt University
