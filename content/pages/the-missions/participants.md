@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon IV Participants
 Save_as: participants.html
 
-The current list of 278 conference participants is below (last update: Jun 8, 2017).
+The current list of 272 conference participants is below (last update: Jun 8, 2017).
 
 * Conny Aerts, Institute of Astronomy, KU Leuven
 *	Eric	Agol	,	University of Washington
@@ -98,7 +98,6 @@ The current list of 278 conference participants is below (last update: Jun 8, 20
 *	Kevin	Hardegree-Ullman	,	University of Toledo/IPAC
 *	Sheida	Hassani	,	Sharif University of Technology
 *	Raphaëlle	Haywood	,	Harvard College Observatory
-*	Han	He	,	National Astronomical Observatories, Chinese Academy of Sciences, Beijing, China
 *	Christina	Hedges	,	Institute of Astronomy, Cambridge
 *	Calen	Henderson	,	Caltech/IPAC
 *	Cassandra	Henderson	,	UC Santa Cruz
@@ -217,7 +216,6 @@ The current list of 278 conference participants is below (last update: Jun 8, 20
 *	Erin	Ryan	,	SETI Institute
 *	Farid	Salama	,	NASA Ames Research Center
 *	Emily	Sandford	,	Columbia University
-*	Mikael	Schelin	,	Royal Institute of Technology (KTH)
 *	Kevin	Schlaufman	,	Johns Hopkins University
 *	Joshua	Schlieder	,	NASA GSFC
 *	Nic	Scott	,	NASA ARC
@@ -255,7 +253,6 @@ The current list of 278 conference participants is below (last update: Jun 8, 20
 *	John	Troeltzsch	,	Ball Aerospace
 *	OTTO	TRUST	,	MBARARA UNIVERSITY OF SCIENCE AND TECHNOLOGY
 *	Brad	Tucker	,	Mount Stromlo Observatory, the Australian National University
-*	Akhilbabu Laxman	Turai	,	SRM University
 *	Gerard	van Belle	,	Lowell Observatory
 *	Vincent	Van Eylen	,	Leiden Observatory
 *	Timothy	Van Reeth	,	Institute of Astronomy, KU Leuven
@@ -276,9 +273,6 @@ The current list of 278 conference participants is below (last update: Jun 8, 20
 *	Diana	Windemuth	,	University of Washington
 *	Rob	Wittenmyer	,	University of Southern Queensland
 *	Angie	Wolfgang	,	The Pennsylvania State University
-*	Tao	Wu	,	Yunnan Observatories, Chinese Academy of Sciences
-*	Yan	Yan	,	National Astronomical Observatories, Chinese Academy of Sciences
-*	Wei	Zhu	,	Ohio State University
 *	Carl	Ziegler	,	UNC Chapel Hill
 *	Joel	Zinn	,	Ohio State University				
 				
