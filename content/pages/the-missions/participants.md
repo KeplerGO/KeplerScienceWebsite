@@ -1,8 +1,9 @@
 Title: Kepler & K2 SciCon IV Participants
 Save_as: participants.html
 
-The current list of 276 conference participants is below (last update: Jun 8, 2017).
+The current list of 278 conference participants is below (last update: Jun 8, 2017).
 
+* Conny Aerts, Institute of Astronomy, KU Leuven
 *	Eric	Agol	,	University of Washington
 * Rachel Akeson, NExScI
 *	Ruth	Angus	,	Columbia University
@@ -221,6 +222,7 @@ The current list of 276 conference participants is below (last update: Jun 8, 20
 *	Joshua	Schlieder	,	NASA GSFC
 *	Nic	Scott	,	NASA ARC
 *	Megan	Shabram	,	NASA Ames Kepler
+* Chris Shallue, Google Brain
 *	Benjamin	Shappee	,	Carnegie Observatories
 *	Holly	Sheets	,	McGill University
 *	Madhusudhan	Shivanna	,	Kuvempu University, karnataka, India
