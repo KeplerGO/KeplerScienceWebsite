@@ -1,10 +1,10 @@
 Title: Kepler & K2 SciCon IV Participants
 Save_as: participants.html
 
-The current list of 274 registered attendees is below (last update: Jun 7, 2017).
+The current list of 275 registered attendees is below (last update: Jun 8, 2017).
 
 *	Eric	Agol	,	University of Washington
-*	Daniel	Angerhausen	,	CSH, Uni Bern
+* Rachel Akeson, NExScI
 *	Ruth	Angus	,	Columbia University
 *	Robert	Ashby	,	University of the Pacific
 *	Jaya	Bajpayee	,	NASA Ames Research Center
@@ -61,6 +61,7 @@ The current list of 274 registered attendees is below (last update: Jun 7, 2017)
 *	José Vinícius	de Miranda Cardoso	,	NASA Ames Research Center
 *	Miguel	de Val-Borro	,	NASA GSFC
 *	Azariah	Dhasan Raj	,	JCE
+* Shawn Domagal-Goldman, NASA GSFC
 *	Jessie	Dotson	,	NASA Ames Research Center
 *	Laurance	Doyle	,	SETI Institute
 * Courtney Dressing, California Institute of Technology
