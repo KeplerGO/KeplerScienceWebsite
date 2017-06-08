@@ -133,9 +133,22 @@ be found here</a>.
 The length for invited talks is 25 minutes + 5 minutes for questions,
 and contributed talks have 12 minutes + 3 minutes for questions.
 
-For poster presentations, posters should be no larger than 42'' x 42''
-(106 cm x 106 cm). It is anticipated that all posters will be up for
-the entire duration of the meeting.
+All posters must be approved by the SOC – no late or extra
+posters are allowed due to space limitations.  Posters should be no larger than 42'' x 42''
+(106 cm x 106 cm). Poster numbers will be placed in the upper corner
+of each poster board. This number corresponds to the number assigned
+to each poster as given in the conference agenda. All posters will be up for
+the entire duration of the meeting. 
+
+Each author is responsible for mounting his/her material prior to
+the opening of the poster session and for removing it at the end of
+the meeting.   We will leave six pins at each poster site with a box
+of pins located beneath the easels throughout the room in order for
+you to mount your poster.  If you are not planning on taking your
+poster with you at the end of the conference, please put it in a blue
+recycling bin in the corner of the room prior to your departure.  The
+Kepler/K2 mission will not assume responsibility for materials left
+behind. Also, be aware that all materials must be removable; you may not write, paint or use paste on the poster boards as they are rented.
 
 We also encourage all presenters to use color-blind friendly figures
 in their talk and poster presentations. Resources to produce
@@ -225,7 +238,7 @@ If you are a researcher/scientist unable to attend the conference
 in-person, you can sign in to this Adobe Connect URL to experience it virtually:
 <a
 href='https://ac.arc.nasa.gov/kepler/'>https://ac.arc.nasa.gov/kepler/</a>. The
-link will be live starting on June 19th at 9AM PST.
+link will be live starting on Monday, June 19th at 9AM PST.
 
 ### Code of Conduct
 
