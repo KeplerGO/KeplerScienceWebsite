@@ -123,10 +123,29 @@ confirmed invited speakers include:
 * Ruth Murray Clay, UCSC
 * Susan Thompson, NASA Ames
 
+#### ExoPAG 16 Meeting
+
+The ExoPAG 16 meeting will be held immediately prior to the conference on June 18, 2017.  We encourage all attendees of the main conference to arrive a day early to sunny Mountain View, California to attend the ExoPAG meeting and learn the latest news regarding planned and future exoplanet exploration.  The meeting is open to the entire scientific community and there is no registration fee.  For further information, [access the meeting website here](https://exoplanets.nasa.gov/exep/events/191/).
+
 #### Participant List
 
 <a href='../participants.html'>A list of registered participants can
 be found here</a>.
+
+#### Attendee Information
+
+The conference will be held in the
+<a href='https://www.google.com/maps/place/NASA+Ames+Conference+Center-NACC,+Building+152,+200+Bailey+Rd,+Mountain+View,+CA+94043/@37.4075789,-122.059327,17z'>NASA Ames Conference Center (Building 152)</a>,
+in Mountain View, California.
+
+There is a small room off the auxiliary conference room that can be
+reserved for breakout meetings and/or nursing. The room will have a
+sign-up sheet so the desired time for meetings/nursing can be selected.
+
+Access to NASA Ames requires a valid form of ID to be shown at the
+main gate. Non US-citizens will be required to pick up a badge at the
+<a href='https://www.google.com/maps/@37.4098037,-122.063085,19z'>main
+gate</a>.
 
 #### Presenter Information
 
@@ -155,28 +174,32 @@ in their talk and poster presentations. Resources to produce
 color-blind friendly presentations include
 [this website](http://www.vischeck.com/) and [this website](http://colororacle.org/index.html).
 
-Additional details coming soon.
+#### Lunch and Break Information
 
-#### ExoPAG 16 Meeting
+Lunches at the conference are catered by The NASA Ames Exchange.
+ 
+**Attendees should prepay for lunch by June 15th so that enough food can
+be ordered for each day of the conference**:
+ 
+* Monday, June 19th:  <a href='https://www.eventbrite.com/e/kepscicon4-lunch-monday-619-self-serve-pasta-bar-tickets-35251081935'>https://www.eventbrite.com/e/kepscicon4-lunch-monday-619-self-serve-pasta-bar-tickets-35251081935</a>
+ 
+* Tuesday, June 20th:  <a href='https://www.eventbrite.com/e/kepscicon4-lunch-tuesday-619-salmon-salad-box-lunch-tickets-35251250439'>https://www.eventbrite.com/e/kepscicon4-lunch-tuesday-619-salmon-salad-box-lunch-tickets-35251250439</a>
+ 
+* Wednesday, June 21st:  <a href='https://www.eventbrite.com/e/kepscicon4-lunch-wednesday-621-pizza-party-lunch-tickets-35251327670'>https://www.eventbrite.com/e/kepscicon4-lunch-wednesday-621-pizza-party-lunch-tickets-35251327670</a>
+ 
+* Thursday, June 22nd:  <a href='https://www.eventbrite.com/e/kepscicon4-lunch-thursday-622-sandwich-boxed-lunch-tickets-35251491159'>https://www.eventbrite.com/e/kepscicon4-lunch-thursday-622-sandwich-boxed-lunch-tickets-35251491159</a>
+ 
+* Friday, June 23rd:   <a
+href='https://www.eventbrite.com/e/kepscicon4-lunch-friday-623-hamburgerhot-dog-lunch-tickets-35251556354'>https://www.eventbrite.com/e/kepscicon4-lunch-friday-623-hamburgerhot-dog-lunch-tickets-35251556354</a>
 
-The ExoPAG 16 meeting will be held immediately prior to the conference on June 18, 2017.  We encourage all attendees of the main conference to arrive a day early to sunny Mountain View, California to attend the ExoPAG meeting and learn the latest news regarding planned and future exoplanet exploration.  The meeting is open to the entire scientific community and there is no registration fee.  For further information, [access the meeting website here](https://exoplanets.nasa.gov/exep/events/191/).
+Coffee, tea, and water will be free to conference attendees courtesy
+KBRwyle and Ball Aerospace.
 
-### Venue 
+This service includes regular/decaf Peet's
+coffees and assorted teas, all served first thing in the morning, at the
+morning coffee break and at the afternoon coffee break (**note that afternoon coffee will not be available Wednesday or Friday**).
 
-The conference will be held in the
-<a href='https://www.google.com/maps/place/NASA+Ames+Conference+Center-NACC,+Building+152,+200+Bailey+Rd,+Mountain+View,+CA+94043/@37.4075789,-122.059327,17z'>NASA Ames Conference Center (Building 152)</a>,
-in Mountain View, California.
-
-There is a small room off the auxiliary conference room that can be
-reserved for breakout meetings and/or nursing. The room will have a
-sign-up sheet so the desired time for meetings/nursing can be selected.
-
-Access to NASA Ames requires a valid form of ID to be shown at the
-main gate. Non US-citizens will be required to pick up a badge at the
-<a href='https://www.google.com/maps/@37.4098037,-122.063085,19z'>main
-gate</a>.
-
-#### Travel Information
+### Travel Information
 
 The nearest airport is the San Jose International Airport (SJC).
 The nearest alternative to SJC is San Francisco International Airport
@@ -191,7 +214,7 @@ below:
 * Gov Civil Service NCTS #28596-17
 * Conference Name: Kepler & K2 SciConIV: Kepler Science Conference 4, Legacy & SciCon
 
-#### Lodging Options
+### Lodging Options
 
 *<b> We have received reports of some registrants receiving phone
  calls from hotels in the Bay Area (including, e.g. a person claiming
