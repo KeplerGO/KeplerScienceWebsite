@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon IV Participants
 Save_as: participants.html
 
-The current list of 272 conference participants is below (last update: Jun 8, 2017).
+The current list of 275 conference participants is below (last update: Jun 9, 2017).
 
 * Conny Aerts, Institute of Astronomy, KU Leuven
 *	Eric	Agol	,	University of Washington
@@ -90,6 +90,7 @@ The current list of 272 conference participants is below (last update: Jun 8, 20
 *	Samuel	Grunblatt	,	University of Hawaii
 *	Sascha	Grziwa	,	RIU, Planetary Research at the University of Cologne
 *	Michael	Gully-Santiago	,	BAERI / NASA Ames
+* Xueying (Sherry) Guo, MIT Kavli Institute
 *	Michael	Haas	,	NASA-Ames Research Center
 *	Nader	Haghighipour	,	Institute for Astronomy, University of Hawaii
 *	Rasmus	Handberg	,	Stellar Astrophysics Centre, Aarhus University
@@ -174,6 +175,7 @@ The current list of 272 conference participants is below (last update: Jun 8, 20
 *	Giuseppe	Morello	,	University College London
 *	Brett	Morris	,	University of Washington
 *	Fergal	Mullally	,	Orbital Insight Inc.
+* Ruth Murray Clay, UC Santa Barbara
 *	James	Neff	,	nsf.gov
 *	Seblu H.	Negu	,	Entoto Observatory and Research Center
 *	James	Nemec	,	Camosun College, Victoria, BC Canada
@@ -249,6 +251,7 @@ The current list of 272 conference participants is below (last update: Jun 8, 20
 *	Jamie	Tayar	,	Ohio State University
 *	Stuart Fisher	Taylor	,	Participation Worldscope
 *	Susan	Thompson	,	SETI Institute/NASA Ames Research Center
+* Daniel Thorngren, University of California, Santa Cruz
 *	Stephanie	Toole	,	Cal State Northridge
 *	John	Troeltzsch	,	Ball Aerospace
 *	OTTO	TRUST	,	MBARARA UNIVERSITY OF SCIENCE AND TECHNOLOGY
