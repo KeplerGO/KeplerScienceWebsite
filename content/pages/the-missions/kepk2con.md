@@ -149,8 +149,18 @@ gate</a>.
 
 #### Presenter Information
 
+**Talks**
+
 The length for invited talks is 25 minutes + 5 minutes for questions,
-and contributed talks have 12 minutes + 3 minutes for questions.
+and contributed talks have 12 minutes + 3 minutes for
+questions.
+
+Note that the projectors can handle both 16:9 and 4:3
+format. Presenters should upload their presentations as soon as
+possible, but no later than during the break prior to the session in
+which the talk is being given.
+
+**Posters**
 
 All posters must be approved by the SOC – no late or extra
 posters are allowed due to space limitations.
@@ -206,8 +216,10 @@ Coffee, tea, and water will be free to conference attendees courtesy
 KBRwyle and Ball Aerospace.
 
 This service includes regular/decaf Peet's
-coffees and assorted teas, all served first thing in the morning, at the
-morning coffee break and at the afternoon coffee break (**note that afternoon coffee will not be available Wednesday or Friday**).
+coffees and assorted teas, all served first thing in the morning
+starting at 8:00 AM, at the
+morning coffee break at 10:00 AM and at the afternoon coffee break at
+03:00 PM (**note that afternoon coffee will not be available Wednesday or Friday**).
 
 ### Travel Information
 

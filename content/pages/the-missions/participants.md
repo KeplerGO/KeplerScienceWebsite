@@ -78,7 +78,6 @@ The current list of 275 conference participants is below (last update: Jun 9, 20
 *	Jim	Fuller	,	California Institute of Technology
 *	Benjamin	Fulton	,	Institute for Astronomy, University of Hawaii & Caltech
 *	Peter	Gao	,	NASA Ames Research Center
-*	Rafael A.	Garcia	,	CEA-Saclay
 *	Thomas	Gautier	,	Jet Propulsion Laboratory
 *	Dawn	Gelino	,	NASA Exoplanet Science Institute, Caltech
 *	Mark	Giampapa	,	National Solar Observatory
