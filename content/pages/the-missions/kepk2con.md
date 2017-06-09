@@ -153,17 +153,24 @@ The length for invited talks is 25 minutes + 5 minutes for questions,
 and contributed talks have 12 minutes + 3 minutes for questions.
 
 All posters must be approved by the SOC – no late or extra
-posters are allowed due to space limitations.  Posters should be no larger than 42'' x 42''
+posters are allowed due to space limitations.
+
+Posters should be no larger than 42'' x 42''
 (106 cm x 106 cm). Poster numbers will be placed in the upper corner
 of each poster board. This number corresponds to the number assigned
-to each poster as given in the conference agenda. All posters will be up for
-the entire duration of the meeting. 
+to each poster as given in the conference agenda.
+
+All posters will be up for the entire duration of the meeting. Posters can be mounted starting at
+8:00 AM PST on Monday, June 19th and should be taken down by 4:00 PM
+PST Friday, June 23rd.
 
 Each author is responsible for mounting his/her material prior to
 the opening of the poster session and for removing it at the end of
 the meeting.   We will leave six pins at each poster site with a box
 of pins located beneath the easels throughout the room in order for
-you to mount your poster.  If you are not planning on taking your
+you to mount your poster.
+
+If you are not planning on taking your
 poster with you at the end of the conference, please put it in a blue
 recycling bin in the corner of the room prior to your departure.  The
 Kepler/K2 mission will not assume responsibility for materials left
@@ -179,7 +186,10 @@ color-blind friendly presentations include
 Lunches at the conference are catered by The NASA Ames Exchange.
  
 **Attendees should prepay for lunch by June 15th so that enough food can
-be ordered for each day of the conference**:
+be ordered for each day of the conference. Food must be purchased
+separately for each day, so please use the links below to purchase
+food for each of the days you plan to eat the lunch provided by the
+NASA Ames Exchange**:
  
 * Monday, June 19th:  <a href='https://www.eventbrite.com/e/kepscicon4-lunch-monday-619-self-serve-pasta-bar-tickets-35251081935'>https://www.eventbrite.com/e/kepscicon4-lunch-monday-619-self-serve-pasta-bar-tickets-35251081935</a>
  
@@ -261,7 +271,7 @@ If you are a researcher/scientist unable to attend the conference
 in-person, you can sign in to this Adobe Connect URL to experience it virtually:
 <a
 href='https://ac.arc.nasa.gov/kepler/'>https://ac.arc.nasa.gov/kepler/</a>. The
-link will be live starting on Monday, June 19th at 9AM PST.
+link will be live starting on Monday, June 19th at 9:00 AM PST.
 
 ### Code of Conduct
 
