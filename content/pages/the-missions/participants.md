@@ -39,7 +39,8 @@ The current list of 275 conference participants is below (last update: Jun 9, 20
 *	Matteo	Cantiello	,	Center for Computational Astrophysics, Flatiron Institute
 *	Daniel	Carrera	,	CEHW, Penn State
 *	Barbara	Castanheira Endl	,	Baylor University
-*	Han Yuan	Chang	,	Graduate Insititute of Astronomy, National Central University, Taiwan
+*	Han Yuan	Chang	,	Graduate Insititute of Astronomy, National
+*	Central University, Taiwan
 *	David	Charbonneau	,	Harvard-Smithsonian Center for Astrophysics
 *	Ashley	Chontos	,	Institute for Astronomy, University of Hawaii
 *	Jeffrey	Chou	,	Lynbrook High School
@@ -275,6 +276,7 @@ The current list of 275 conference participants is below (last update: Jun 9, 20
 *	Diana	Windemuth	,	University of Washington
 *	Rob	Wittenmyer	,	University of Southern Queensland
 *	Angie	Wolfgang	,	The Pennsylvania State University
+* Wei Zhu , Ohio State University 
 *	Carl	Ziegler	,	UNC Chapel Hill
 *	Joel	Zinn	,	Ohio State University				
 				

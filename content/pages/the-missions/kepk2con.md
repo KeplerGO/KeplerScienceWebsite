@@ -143,7 +143,7 @@ reserved for breakout meetings and/or nursing. The room will have a
 sign-up sheet so the desired time for meetings/nursing can be selected.
 
 Access to NASA Ames requires a valid form of ID to be shown at the
-main gate. Non US-citizens will be required to pick up a badge at the
+Ellis gate. Non US-citizens will be required to pick up a badge at the
 <a href='https://www.google.com/maps/@37.4098037,-122.063085,19z'>main
 gate</a>.
 
