@@ -132,7 +132,7 @@ The ExoPAG 16 meeting will be held immediately prior to the conference on June 1
 <a href='../participants.html'>A list of registered participants can
 be found here</a>.
 
-#### Attendee Information
+#### Venue Information
 
 The conference will be held in the
 <a href='https://www.google.com/maps/place/NASA+Ames+Conference+Center-NACC,+Building+152,+200+Bailey+Rd,+Mountain+View,+CA+94043/@37.4075789,-122.059327,17z'>NASA Ames Conference Center (Building 152)</a>,
@@ -142,12 +142,24 @@ There is a small room off the auxiliary conference room that can be
 reserved for breakout meetings and/or nursing. The room will have a
 sign-up sheet so the desired time for meetings/nursing can be selected.
 
-Access to NASA Ames requires a valid form of ID to be shown at the
-Ellis gate. Non US-citizens will be required to pick up a badge at the
+#### Directions to Venue
+
+Access to NASA Ames requires a valid form of ID to be shown.  There is
+significant construction around the main gate, so participants should
+access the conference center via the Ellis gate.  <a
+href='http://bit.ly/2sLZbyv'>A map showing the route to the conference venue
+(Building 152) from the Ellis gate can be found at this link</a>.
+
+Foreign Nationals and employees of Chinese Entities will be required to pick up a badge at the
 <a href='https://www.google.com/maps/@37.4098037,-122.063085,19z'>main
 gate</a>.
 
 #### Presenter Information
+
+We encourage all presenters to use color-blind friendly figures
+in their talk and poster presentations. Resources to produce
+color-blind friendly presentations include
+[this website](http://www.vischeck.com/) and [this website](http://colororacle.org/index.html).
 
 **Talks**
 
@@ -185,11 +197,6 @@ poster with you at the end of the conference, please put it in a blue
 recycling bin in the corner of the room prior to your departure.  The
 Kepler/K2 mission will not assume responsibility for materials left
 behind. Also, be aware that all materials must be removable; you may not write, paint or use paste on the poster boards as they are rented.
-
-We also encourage all presenters to use color-blind friendly figures
-in their talk and poster presentations. Resources to produce
-color-blind friendly presentations include
-[this website](http://www.vischeck.com/) and [this website](http://colororacle.org/index.html).
 
 #### Lunch and Break Information
 

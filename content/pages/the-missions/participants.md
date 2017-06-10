@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon IV Participants
 Save_as: participants.html
 
-The current list of 275 conference participants is below (last update: Jun 9, 2017).
+The current list of 274 conference participants is below (last update: Jun 9, 2017).
 
 * Conny Aerts, Institute of Astronomy, KU Leuven
 *	Eric	Agol	,	University of Washington
@@ -145,7 +145,6 @@ The current list of 275 conference participants is below (last update: Jun 9, 20
 *	Gongjie	Li	,	Harvard
 *	Charles	Lillie	,	Lillie Consulting LLC
 *	Jack	Lissauer	,	NASA Ames
-*	Carey	Lisse	,	Johns Hopkins University Applied Physics Lab
 *	John	Livingston	,	University of Tokyo
 * Eric Lopez, NASA Goddard
 *	Rodrigo	Luger	,	University of Washington
