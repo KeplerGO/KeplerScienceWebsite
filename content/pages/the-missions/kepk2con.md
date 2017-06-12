@@ -148,7 +148,9 @@ Access to NASA Ames requires a valid form of ID to be shown.  There is
 significant construction around the main gate, so participants should
 access the conference center via the Ellis gate.  <a
 href='http://bit.ly/2sLZbyv'>A map showing the route to the conference venue
-(Building 152) from the Ellis gate can be found at this link</a>.
+(Building 152) from the Ellis gate can be found at this
+link</a>. Attendees can drive into Ames and park at lots near Building
+152. There is no cost to park.
 
 Foreign Nationals and employees of Chinese Entities will be required to pick up a badge at the
 <a href='https://www.google.com/maps/@37.4098037,-122.063085,19z'>main
