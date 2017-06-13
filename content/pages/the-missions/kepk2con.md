@@ -159,8 +159,7 @@ Networks, Google Tech Corners, Amazon Labs and NetApps to name a few, are
 located nearby).
 
 <a
-href='http://bit.ly/2sLZbyv'>A map showing the route to the conference venue
-(Building 152) from the Ellis gate can be found at this
+href='http://bit.ly/2sLZbyv'>A map showing the route to the conference venue from the Ellis gate can be found at this
 link</a>.
 
 Attendees can drive into Ames and park at lots near Building
