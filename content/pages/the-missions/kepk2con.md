@@ -151,7 +151,7 @@ Highway 101.  The Moffett Field Gate is accessible to foot traffic and
 bicycles only.  (It will look daunting, but pathways are there.)
 Please do not park at the Moffett Field Gate; it is a limited area at this time due to construction.
  
-At either entrance, stop at the guard station, show your ID, and state you are attending the Kepler Science Conference in Bldg 152.  There is no need to stop at the badging office.
+At either entrance, stop at the guard station, show your ID, and state you are attending the Kepler Science Conference in Building 152.  There is no need to stop at the badging office.
  
 Try to arrive early on the first day; Mondays can be clogged with
 traffic and the Ellis entrance is a major Silicon Valley hub (Juniper

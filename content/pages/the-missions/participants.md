@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon IV Participants
 Save_as: participants.html
 
-The current list of 274 conference participants is below (last update: Jun 9, 2017).
+The current list of 275 conference participants is below (last update: Jun 12, 2017).
 
 * Conny Aerts, Institute of Astronomy, KU Leuven
 *	Eric	Agol	,	University of Washington
@@ -66,6 +66,7 @@ The current list of 274 conference participants is below (last update: Jun 9, 20
 * Shawn Domagal-Goldman, NASA GSFC
 *	Jessie	Dotson	,	NASA Ames Research Center
 *	Laurance	Doyle	,	SETI Institute
+* Nadia Drake, National Geographic
 * Courtney Dressing, California Institute of Technology
 *	Rebecca	Esselstein	,	University of Oxford
 *	Daniel	Fabrycky	,	University of Chicago
