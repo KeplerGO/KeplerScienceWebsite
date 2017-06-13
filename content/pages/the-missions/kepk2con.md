@@ -144,17 +144,27 @@ sign-up sheet so the desired time for meetings/nursing can be selected.
 
 #### Directions to Venue
 
-Access to NASA Ames requires a valid form of ID to be shown.  There is
-significant construction around the main gate, so participants should
-access the conference center via the Ellis gate.  <a
+Access to NASA Ames requires a valid form of ID to be shown.
+
+Anyone in a vehicle should use the Ellis Gate entrance off of
+Highway 101.  The Moffett Field Gate is accessible to foot traffic and
+bicycles only.  (It will look daunting, but pathways are there.)
+Please do not park at the Moffett Field Gate; it is a limited area at this time due to construction.
+ 
+At either entrance, stop at the guard station, show your ID, and state you are attending the Kepler Science Conference in Bldg 152.  There is no need to stop at the badging office.
+ 
+Try to arrive early on the first day; Mondays can be clogged with
+traffic and the Ellis entrance is a major Silicon Valley hub (Juniper
+Networks, Google Tech Corners, Amazon Labs and NetApps to name a few, are
+located nearby).
+
+<a
 href='http://bit.ly/2sLZbyv'>A map showing the route to the conference venue
 (Building 152) from the Ellis gate can be found at this
-link</a>. Attendees can drive into Ames and park at lots near Building
-152. There is no cost to park.
+link</a>.
 
-Foreign Nationals and employees of Chinese Entities will be required to pick up a badge at the
-<a href='https://www.google.com/maps/@37.4098037,-122.063085,19z'>main
-gate</a>.
+Attendees can drive into Ames and park at lots near Building
+152. There is no cost to park.
 
 #### Presenter Information
 
