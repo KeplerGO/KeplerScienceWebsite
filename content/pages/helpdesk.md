@@ -34,6 +34,11 @@ Save_as: helpdesk.html
         Dr Ann Marie Cody<br>
         Support Scientist
     </div>
+    <div class="col-sm-3 text-center">
+        <img src="images/faces/jeff.jpg" class="img-circle"><br>
+        Dr Jeff Coughlin<br>
+        K2 Science Office Director
+    </div>
 </div>
 
 ### E-mail
