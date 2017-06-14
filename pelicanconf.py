@@ -18,7 +18,7 @@ WITH_FUTURE_DATES = False
 
 ANALYTICS = ()   # pelicanconf-live.py will override this
 
-AUTHOR = u'Thomas Barclay'
+AUTHOR = u'Geert Barentsen'
 SITENAME = "Kepler &amp; K2"
 BANNER_SUBTITLE = "Science Center"
 SITEURL = "https://keplerscience.arc.nasa.gov"
@@ -121,16 +121,19 @@ IMPORTANT_DATES = (
             ('<b>Jun 2017</b>',
              'K2 Campaign 11 calibrated data release (expected)',
              'k2-fields.html'),
-            ('<b>31 August 2017</b>',
+            ('<b>31 Aug 2017</b>',
              'K2 Campaign 16 DDT deadline',
-             'k2-ddt.html'), 
+             'k2-ddt.html'),
+            ('<b>12 Oct 2017</b>',
+             'GO Cycle 6 Step-1 deadline:<br/>Target lists due for Campaigns 17, 18, 19',
+             ''),
+            ('<b>19 Apr 2017</b>',
+             'GO Cycle 6 Step-2 deadline:<br/>Full proposals due for Campaigns 17, 18, 19',
+             ''),
          )
 
 # Defines the "meetings" box on the front page
 MEETINGS = (
-            ('<b>4–8 Jun 2017</b><br>'
-             'AAS 230th Meeting (Austin, TX)',
-             'https://aas.org/meetings/aas230'),
             ('<b>19–23 Jun 2017</b><br>'
              'Kepler & K2 SciCon IV (Mt. View, CA)',
              'scicon4/'),
@@ -138,8 +141,11 @@ MEETINGS = (
              'TASC3 KASC10 Workshop (UK)',
              'www.tasc3kasc10.com'),
             ('<b>17–21 Jul 2017</b><br>'
-             'Transiting Exoplanets (UK)',
+             'Transiting Exoplanets Conference (UK)',
              'https://wasp-planets.net/conference/'),
+            ('<b>8–12 Jan 2018</b><br>'
+             'Kepler/K2 booth at the Winter AAS meeting',
+             'https://aas.org/meetings/aas231'),
             )
 
 # Defines the "related websites" listing in the footer of all pages
