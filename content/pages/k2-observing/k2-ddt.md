@@ -12,7 +12,7 @@ The purpose of the DDT program for K2 is therefore to facilitate observations th
 
 We expect to observe several hundred targets through the DDT program, which amounts to a few per cent of the total targets allocated. The exact number of DDTs to be observed largely depends on the number of short versus long cadence DDTs approved. 
 
-## Proposal Information
+## DDT Proposal Information
 
 A DDT request should consist of <2 pages of text including all
 figures, tables, and references, no smaller than 13-point font, and
@@ -35,13 +35,17 @@ Target overlap with the current GO target list will not be considered unless sho
 
 DDT proposals are reviewed for both technical feasibility by someone in the project office and for scientific value by an outside reviewer.  The results of these reviews are sent to the K2 Project Scientist for approval and, if approved, the targets are placed into the observing list for the upcoming campaign.  An email reply to the proposer, stating the fate of the DDT request, will be sent out by the GO Office approximately one month before the start of the campaign for which targets were proposed.
 
-## Proposal Deadlines
+## DDT Proposal Deadlines
 
 To ensure that approved targets are able to be included in the final
 target lists for each campaign, proposals must be submitted via email
 to [keplergo@mail.arc.nasa.gov](keplergo@mail.arc.nasa.gov) by 23:59 PT (Pacific Time) on the following dates:
 
-* **August 31, 2017 for Campaign 16**
+* **Campaign 16: August 31, 2017**
+* **Campaign 17: November 30, 2017**
+* **Campaign 18: February 1, 2018**
+* **Campaign 19: May 3, 2018**
 
-The fixed location and observing window of Campaign 16 are provided [at the field information page](k2-fields.html). 
- 
+Note: operational constraints may cause DDT deadlines to shift. We recommend verifying the deadlines closer to date.
+
+The fixed location and observing window of the Campaigns are provided [at the field information page](k2-fields.html).
