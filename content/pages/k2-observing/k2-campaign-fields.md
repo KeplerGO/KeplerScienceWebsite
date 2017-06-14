@@ -304,26 +304,63 @@ This page details the previous, current, and future K2 Campaign fields.
       <td class="text-center">
 
       </td>
-      <td>Galaxies, M44 (Beehive), M67, Earth.</td>
+      <td>M44 (Beehive), M67, Earth.</td>
+    </tr>
+    <tr>
+      <td><a href='#c17'>17</a><sup>†</sup></td>
+      <td>2018&nbsp;Mar&nbsp;1</td>
+      <td>2018&nbsp;May&nbsp;10</td>
+      <td>2018&nbsp;Aug&#8209;Oct</td>
+      <td>13:30:12</td>
+      <td>-07:43:16</td>
+      <td class="text-center">
+
+      </td>
+      <td class="text-center">
+
+      </td>
+      <td>Galaxies.</td>
+    </tr>
+    <tr>
+      <td><a href='#c18'>18</a></td>
+      <td>2018&nbsp;May&nbsp;14</td>
+      <td>2018&nbsp;Aug&nbsp;2</td>
+      <td>2018&nbsp;Nov&#8209;Jan</td>
+      <td>08:40:39</td>
+      <td>+16:49:40</td>
+      <td class="text-center">
+
+      </td>
+      <td class="text-center">
+
+      </td>
+      <td>M44 (Beehive), M67.</td>
+    </tr>
+    <tr>
+      <td><a href='#c19'>19</a><sup>†</sup></td>
+      <td>2018&nbsp;Aug&nbsp;6</td>
+      <td>2018&nbsp;Oct&nbsp;10</td>
+      <td>2019&nbsp;Jan&#8209;Mar</td>
+      <td>23:09:02</td>
+      <td>-04:12:10</td>
+      <td class="text-center">
+
+      </td>
+      <td class="text-center">
+
+      </td>
+      <td>Trappist-1, Neptune.</td>
     </tr>
   </tdata>
 </table>
 
   <p>
-  <b><sup>†</sup>Note:</b> fields 9 and 16 are forward-facing campaigns (+VV), enabling simultaneous observations to be made from the ground during the campaign. This comes at the expense of having Earth in K2's field of view,
+  <b><sup>†</sup>Note:</b> fields 9, 16, 17, and 19 are forward-facing campaigns (+VV), enabling simultaneous observations to be made from the ground during the campaign. This comes at the expense of having Earth in K2's field of view,
   which is a very bright object.
   </p>
 
   </div>
 </div>
-
-
-<hr>
-
-### Future
-
-Community feedback on the field placement of future campaigns
-has been received. Stay tuned for further information on these future fields!
 
 
 <hr/>
@@ -423,7 +460,16 @@ You can learn more about the installation and usage of these tools [on the softw
     <a href="images/k2/k2-c16-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c16-field.png" id="c16"></a>
   </div>
   <div class="col-lg-6">
+    <a href="images/k2/k2-c17-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c17-field.png" id="c17"></a>
+  </div>
+</div>
 
+<div class="row">
+  <div class="col-lg-6">
+    <a href="images/k2/k2-c18-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c18-field.png" id="c18"></a>
+  </div>
+  <div class="col-lg-6">
+    <a href="images/k2/k2-c19-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c19-field.png" id="c19"></a>
   </div>
 </div>
 
@@ -442,15 +488,10 @@ These files specify the coordinates of the corners of each CCD channel
 in each campaign, along with the observing dates and module numbers.
 The JSON files also provide galactic coordinates.
 
-Campaigns 0 through 16:
+Campaigns 0 through 19:
 
 * [k2-footprint.json](https://github.com/KeplerGO/K2FootprintFiles/raw/master/json/k2-footprint.json)
 * [k2-footprint.csv](https://github.com/KeplerGO/K2FootprintFiles/raw/master/csv/k2-footprint.csv)
-
-Campaigns 17 and 18:
-
-* [k2-footprint-proposed.json](https://github.com/KeplerGO/K2FootprintFiles/raw/master/json/k2-footprint-proposed.json) **(preliminary!)**
-* [k2-footprint-proposed.csv](https://github.com/KeplerGO/K2FootprintFiles/raw/master/csv/k2-footprint-proposed.csv) **(preliminary!)**
 
 <br/>
 ***Usage of the JSON files***
