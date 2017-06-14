@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon IV Participants
 Save_as: participants.html
 
-The current list of 275 conference participants is below (last update: Jun 12, 2017).
+The current list of 277 conference participants is below (last update: Jun 14, 2017).
 
 * Conny Aerts, Institute of Astronomy, KU Leuven
 *	Eric	Agol	,	University of Washington
@@ -99,6 +99,7 @@ The current list of 275 conference participants is below (last update: Jun 12, 2
 *	Owen	Hardee	,	University of Nevada, Reno
 *	Kevin	Hardegree-Ullman	,	University of Toledo/IPAC
 *	Sheida	Hassani	,	Sharif University of Technology
+* Alison Hawkes, Astrobiology Magazine
 *	Raphaëlle	Haywood	,	Harvard College Observatory
 *	Christina	Hedges	,	Institute of Astronomy, Cambridge
 *	Calen	Henderson	,	Caltech/IPAC
@@ -246,6 +247,7 @@ The current list of 275 conference participants is below (last update: Jun 12, 2
 *	Dennis	Stello	,	UNSW
 *	Robert	Stern	,	(no affiliation)
 *	Martin	Still	,	NASA Headquarters
+* Jerome Strach, SFI
 *  Rachel Street , Las Cumbres Observatory
 *	Nao	Suzuki	,	Kavli IPMU, University of Tokyo
 *	Jamie	Tayar	,	Ohio State University
