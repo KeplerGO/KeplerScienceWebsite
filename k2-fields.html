@@ -33,7 +33,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
 <link rel="canonical" href="./pages/k2-campaign-fields.html">
 
-        <meta name="author" content="Thomas Barclay" />
+        <meta name="author" content="Geert Barentsen" />
         <meta name="description" content="Each K2 Campaign has a duration of approximately 80 days and remains fixed upon a single boresight position. This page details the previous, current, and future K2 Campaign fields. Campaigns overview Observed and planned Field dates and positions Field Start Stop Dataavailable RA Dec Targetlist Releasenotes Comments …" />
 
     <meta property="og:site_name" content="Kepler &amp; K2" />
@@ -417,20 +417,55 @@ This page details the previous, current, and future K2 Campaign fields.</p>
 </td>
 <td class="text-center">
 </td>
-<td>Galaxies, M44 (Beehive), M67, Earth.</td>
+<td>M44 (Beehive), M67, Earth.</td>
+</tr>
+<tr>
+<td><a href="#c17">17</a><sup>†</sup></td>
+<td>2018 Mar 1</td>
+<td>2018 May 10</td>
+<td>2018 Aug‑Oct</td>
+<td>13:30:12</td>
+<td>-07:43:16</td>
+<td class="text-center">
+</td>
+<td class="text-center">
+</td>
+<td>Galaxies.</td>
+</tr>
+<tr>
+<td><a href="#c18">18</a></td>
+<td>2018 May 14</td>
+<td>2018 Aug 2</td>
+<td>2018 Nov‑Jan</td>
+<td>08:40:39</td>
+<td>+16:49:40</td>
+<td class="text-center">
+</td>
+<td class="text-center">
+</td>
+<td>M44 (Beehive), M67.</td>
+</tr>
+<tr>
+<td><a href="#c19">19</a><sup>†</sup></td>
+<td>2018 Aug 6</td>
+<td>2018 Oct 10</td>
+<td>2019 Jan‑Mar</td>
+<td>23:09:02</td>
+<td>-04:12:10</td>
+<td class="text-center">
+</td>
+<td class="text-center">
+</td>
+<td>Trappist-1, Neptune.</td>
 </tr>
 </tdata>
 </table>
 <p>
-<b><sup>†</sup>Note:</b> fields 9 and 16 are forward-facing campaigns (+VV), enabling simultaneous observations to be made from the ground during the campaign. This comes at the expense of having Earth in K2's field of view,
+<b><sup>†</sup>Note:</b> fields 9, 16, 17, and 19 are forward-facing campaigns (+VV), enabling simultaneous observations to be made from the ground during the campaign. This comes at the expense of having Earth in K2's field of view,
   which is a very bright object.
   </p>
 </div>
 </div>
-<hr>
-<h3 id="future">Future</h3>
-<p>Community feedback on the field placement of future campaigns
-has been received. Stay tuned for further information on these future fields!</p>
 <hr/>
 <h2 id="target-selection-tools">Target selection tools</h2>
 <p>The <a href="https://github.com/KeplerGO/K2fov">K2fov Python package</a> enables the community to test whether targets fall within a campaign field,
@@ -512,6 +547,15 @@ allows moving Solar System bodies to be checked.</p>
 <a href="images/k2/k2-c16-field.png"><img class="img-responsive" id="c16" src="images/k2/k2-c16-field.png" style="padding:0.5em;"/></a>
 </div>
 <div class="col-lg-6">
+<a href="images/k2/k2-c17-field.png"><img class="img-responsive" id="c17" src="images/k2/k2-c17-field.png" style="padding:0.5em;"/></a>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-6">
+<a href="images/k2/k2-c18-field.png"><img class="img-responsive" id="c18" src="images/k2/k2-c18-field.png" style="padding:0.5em;"/></a>
+</div>
+<div class="col-lg-6">
+<a href="images/k2/k2-c19-field.png"><img class="img-responsive" id="c19" src="images/k2/k2-c19-field.png" style="padding:0.5em;"/></a>
 </div>
 </div>
 <hr/>
@@ -523,15 +567,10 @@ have been exported to machine-readable CSV and JSON text files.
 These files specify the coordinates of the corners of each CCD channel
 in each campaign, along with the observing dates and module numbers.
 The JSON files also provide galactic coordinates.</p>
-<p>Campaigns 0 through 16:</p>
+<p>Campaigns 0 through 19:</p>
 <ul>
 <li><a href="https://github.com/KeplerGO/K2FootprintFiles/raw/master/json/k2-footprint.json">k2-footprint.json</a></li>
 <li><a href="https://github.com/KeplerGO/K2FootprintFiles/raw/master/csv/k2-footprint.csv">k2-footprint.csv</a></li>
-</ul>
-<p>Campaigns 17 and 18:</p>
-<ul>
-<li><a href="https://github.com/KeplerGO/K2FootprintFiles/raw/master/json/k2-footprint-proposed.json">k2-footprint-proposed.json</a> <strong>(preliminary!)</strong></li>
-<li><a href="https://github.com/KeplerGO/K2FootprintFiles/raw/master/csv/k2-footprint-proposed.csv">k2-footprint-proposed.csv</a> <strong>(preliminary!)</strong></li>
 </ul>
 <p><br/>
 <strong><em>Usage of the JSON files</em></strong></p>
@@ -559,7 +598,7 @@ MOC is a HealPix-based VO standard which can be opened using the
 <a href="http://aladin.u-strasbg.fr">Aladin interactive sky atlas</a>,
 where it can be used to query remote databases given a K2 footprint.</p>
 <p>The MOC files, one for each Campaign, can be downloaded from
-<a href="https://github.com/KeplerGO/K2FootprintFiles/tree/master/moc">a GitHub repository</a>.</p></hr>
+<a href="https://github.com/KeplerGO/K2FootprintFiles/tree/master/moc">a GitHub repository</a>.</p>
             </div>
         </section>
     </div>
@@ -570,7 +609,6 @@ where it can be used to query remote databases given a K2 footprint.</p>
 <ul>
 <li><a href="#campaigns-overview">Campaigns overview</a><ul>
 <li><a href="#observed-and-planned">Observed and planned</a></li>
-<li><a href="#future">Future</a></li>
 </ul>
 </li>
 <li><a href="#target-selection-tools">Target selection tools</a></li>
@@ -627,7 +665,7 @@ where it can be used to query remote databases given a K2 footprint.</p>
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Thu 01 June 2017
+         Last modified: Tue 13 June 2017
             &middot; Editor: Geert Barentsen &middot; NASA Official: Jessie Dotson
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
