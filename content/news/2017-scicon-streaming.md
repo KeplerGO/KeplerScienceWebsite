@@ -1,5 +1,5 @@
 Title: Live streaming available for Kepler & K2 Science Conference IV
-Date: 2017-06-13 20:00
+Date: 2017-06-14 20:00
 Author: Geert Barentsen
 
 The [Kepler & K2 Science Conference IV](/scicon4),
