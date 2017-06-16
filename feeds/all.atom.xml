@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2017-06-16T09:00:00-07:00</updated><entry><title>Fields selected for K2 Campaigns 17, 18, and 19</title><link href="https://keplerscience.arc.nasa.gov/fields-selected-for-k2-campaigns-17-18-and-19.html" rel="alternate"></link><published>2017-06-16T09:00:00-07:00</published><updated>2017-06-16T09:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-06-16:/fields-selected-for-k2-campaigns-17-18-and-19.html</id><summary type="html">&lt;p&gt;The K2 mission has selected the fields
 that will be observed as part of Campaigns 17, 18, and 19.
 The fields were selected based on a review of the feedback received
-as part of a &lt;a href="/request-for-input-on-the-campaign-17-and-18-field-placement.html"&gt;recent solicitation for community input&lt;/a&gt;,
+as part of a &lt;a href="request-for-input-on-the-campaign-17-and-18-field-placement.html"&gt;recent solicitation for community input&lt;/a&gt;,
 whilst also taking into account the spacecraft's engineering constaints
 and …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The K2 mission has selected the fields
 that will be observed as part of Campaigns 17, 18, and 19.
 The fields were selected based on a review of the feedback received
-as part of a &lt;a href="/request-for-input-on-the-campaign-17-and-18-field-placement.html"&gt;recent solicitation for community input&lt;/a&gt;,
+as part of a &lt;a href="request-for-input-on-the-campaign-17-and-18-field-placement.html"&gt;recent solicitation for community input&lt;/a&gt;,
 whilst also taking into account the spacecraft's engineering constaints
 and fuel usage.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Campaign 17&lt;/b&gt; (Mar 1 - May 8, 2018) will observe a forward-facing field located near the constellation of Virgo. The high galactic latitude of this field makes it ideally suited to enable the &lt;a href="/supernova-experiment"&gt;K2 Supernova Cosmology Experiment&lt;/a&gt; to continue, leveraging ground-based resources already put in place for Campaign 16. The field also provides a substantial overlap with Campaign 6, offering a longer baseline for AGN, stellar activity, and seismology studies, whilst also enabling dozens of known K2 planet candidates to be revisited.
@@ -19,13 +19,13 @@ Alongside M44 and M67, the field provides access to HIP 41378 (a 5-planet system
 &lt;p&gt;The following graphs illustrate the exact field placement:&lt;/p&gt;
 &lt;div clas="row"&gt;
 &lt;div class="col-sm-4"&gt;
-&lt;a href="/images/k2/k2-c17-field.png"&gt;&lt;img src="/images/k2/k2-c17-field.png" style="margin: 2px;" class="img-responsive"&gt;&lt;/a&gt;
+&lt;a href="images/k2/k2-c17-field.png"&gt;&lt;img src="images/k2/k2-c17-field.png" style="margin: 2px;" class="img-responsive"&gt;&lt;/a&gt;
 &lt;/div&gt;
 &lt;div class="col-sm-4"&gt;
-&lt;a href="/images/k2/k2-c18-field.png"&gt;&lt;img src="/images/k2/k2-c18-field.png" style="margin: 2px;"&gt;&lt;/a&gt;
+&lt;a href="images/k2/k2-c18-field.png"&gt;&lt;img src="images/k2/k2-c18-field.png" style="margin: 2px;"&gt;&lt;/a&gt;
 &lt;/div&gt;
 &lt;div class="col-sm-4"&gt;
-&lt;a href="/images/k2/k2-c19-field.png"&gt;&lt;img src="/images/k2/k2-c19-field.png" style="margin: 2px;" class="img-responsive"&gt;&lt;/a&gt;
+&lt;a href="images/k2/k2-c19-field.png"&gt;&lt;img src="images/k2/k2-c19-field.png" style="margin: 2px;" class="img-responsive"&gt;&lt;/a&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
@@ -33,7 +33,7 @@ Alongside M44 and M67, the field provides access to HIP 41378 (a 5-planet system
 &lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Finally, the graph below shows their position relative to all twenty K2 Campaigns:&lt;/p&gt;
 &lt;div class="row"&gt;
-&lt;a href="/images/k2/footprint-all-campaigns.png"&gt;&lt;img src="/images/k2/footprint-all-campaigns.png"&gt;&lt;/a&gt;
+&lt;a href="images/k2/footprint-all-campaigns.png"&gt;&lt;img src="images/k2/footprint-all-campaigns.png"&gt;&lt;/a&gt;
 &lt;/div&gt;</content></entry><entry><title>Live streaming available for Kepler &amp; K2 Science Conference IV</title><link href="https://keplerscience.arc.nasa.gov/live-streaming-available-for-kepler-k2-science-conference-iv.html" rel="alternate"></link><published>2017-06-14T20:00:00-07:00</published><updated>2017-06-14T20:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-06-14:/live-streaming-available-for-kepler-k2-science-conference-iv.html</id><summary type="html">&lt;p&gt;The &lt;a href="/scicon4"&gt;Kepler &amp;amp; K2 Science Conference IV&lt;/a&gt;,
 to be held at NASA Ames next week (June 19–23, 2017),
 will be live-streamed for the benefit of researchers unable to attend
