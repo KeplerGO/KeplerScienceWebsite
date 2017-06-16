@@ -7,9 +7,7 @@ Each K2 Campaign has a duration of approximately 80 days
 and remains fixed upon a single boresight position. 
 This page details the previous, current, and future K2 Campaign fields.
 
-## Campaigns overview
-
-### Observed and planned
+## Overview
 
 <a href="images/k2/footprint-all-campaigns.png"><img src="images/k2/footprint-all-campaigns.png" class="img-responsive" alt="K2 campaign fields on the sky"></a>
 
@@ -355,8 +353,7 @@ This page details the previous, current, and future K2 Campaign fields.
 </table>
 
   <p>
-  <b><sup>†</sup>Note:</b> fields 9, 16, 17, and 19 are forward-facing campaigns (+VV), enabling simultaneous observations to be made from the ground during the campaign. This comes at the expense of having Earth in K2's field of view,
-  which is a very bright object.
+  <b><sup>†</sup>Note:</b> fields 9, 16, 17, and 19 are forward-facing campaigns, for which simultaneous observations from the ground are possible throughout the duration of the campaign.
   </p>
 
   </div>
