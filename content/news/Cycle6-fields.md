@@ -5,7 +5,7 @@ Author: Geert Barentsen
 The K2 mission has selected the fields
 that will be observed as part of Campaigns 17, 18, and 19.
 The fields were selected based on a review of the feedback received
-as part of a [recent solicitation for community input](/request-for-input-on-the-campaign-17-and-18-field-placement.html),
+as part of a [recent solicitation for community input](request-for-input-on-the-campaign-17-and-18-field-placement.html),
 whilst also taking into account the spacecraft's engineering constaints
 and fuel usage.
 
@@ -23,13 +23,13 @@ The following graphs illustrate the exact field placement:
 
 <div clas="row">
 <div class="col-sm-4">
-<a href="/images/k2/k2-c17-field.png"><img src="/images/k2/k2-c17-field.png" style="margin: 2px;" class="img-responsive"></a>
+<a href="images/k2/k2-c17-field.png"><img src="images/k2/k2-c17-field.png" style="margin: 2px;" class="img-responsive"></a>
 </div>
 <div class="col-sm-4">
-<a href="/images/k2/k2-c18-field.png"><img src="/images/k2/k2-c18-field.png" style="margin: 2px;"></a>
+<a href="images/k2/k2-c18-field.png"><img src="images/k2/k2-c18-field.png" style="margin: 2px;"></a>
 </div>
 <div class="col-sm-4">
-<a href="/images/k2/k2-c19-field.png"><img src="/images/k2/k2-c19-field.png" style="margin: 2px;" class="img-responsive"></a>
+<a href="images/k2/k2-c19-field.png"><img src="images/k2/k2-c19-field.png" style="margin: 2px;" class="img-responsive"></a>
 </div>
 </div>
 
@@ -39,5 +39,5 @@ The following graphs illustrate the exact field placement:
 Finally, the graph below shows their position relative to all twenty K2 Campaigns:
 
 <div class="row">
-<a href="/images/k2/footprint-all-campaigns.png"><img src="/images/k2/footprint-all-campaigns.png"></a>
+<a href="images/k2/footprint-all-campaigns.png"><img src="images/k2/footprint-all-campaigns.png"></a>
 </div>
