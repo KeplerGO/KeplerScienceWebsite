@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2017-06-14T20:00:00-07:00</updated><entry><title>Live streaming available for Kepler &amp; K2 Science Conference IV</title><link href="https://keplerscience.arc.nasa.gov/live-streaming-available-for-kepler-k2-science-conference-iv.html" rel="alternate"></link><published>2017-06-14T20:00:00-07:00</published><updated>2017-06-14T20:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-06-14:/live-streaming-available-for-kepler-k2-science-conference-iv.html</id><summary type="html">&lt;p&gt;The &lt;a href="/scicon4"&gt;Kepler &amp;amp; K2 Science Conference IV&lt;/a&gt;,
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2017-06-16T09:00:00-07:00</updated><entry><title>Fields selected for K2 Campaigns 17, 18, and 19</title><link href="https://keplerscience.arc.nasa.gov/fields-selected-for-k2-campaigns-17-18-and-19.html" rel="alternate"></link><published>2017-06-16T09:00:00-07:00</published><updated>2017-06-16T09:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-06-16:/fields-selected-for-k2-campaigns-17-18-and-19.html</id><summary type="html">&lt;p&gt;The K2 mission has selected the fields
+that will be observed as part of Campaigns 17, 18, and 19.
+The fields were selected based on a review of the feedback received
+as part of a &lt;a href="/request-for-input-on-the-campaign-17-and-18-field-placement.html"&gt;recent solicitation for community input&lt;/a&gt;,
+whilst also taking into account the spacecraft's engineering constaints
+and …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The K2 mission has selected the fields
+that will be observed as part of Campaigns 17, 18, and 19.
+The fields were selected based on a review of the feedback received
+as part of a &lt;a href="/request-for-input-on-the-campaign-17-and-18-field-placement.html"&gt;recent solicitation for community input&lt;/a&gt;,
+whilst also taking into account the spacecraft's engineering constaints
+and fuel usage.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Campaign 17&lt;/b&gt; (Mar 1 - May 8, 2018) will observe a forward-facing field located near the constellation of Virgo. The high galactic latitude of this field makes it ideally suited to enable the &lt;a href="/supernova-experiment"&gt;K2 Supernova Cosmology Experiment&lt;/a&gt; to continue, leveraging ground-based resources already put in place for Campaign 16. The field also provides a substantial overlap with Campaign 6, offering a longer baseline for AGN, stellar activity, and seismology studies, whilst also enabling dozens of known K2 planet candidates to be revisited.
+The field also provides access to ~20 deg&lt;sup&gt;2&lt;/sup&gt; of previously unexplored sky.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Campaign 18&lt;/b&gt; (May 12 - Aug 2, 2018) will be a backward-facing campaign dedicated to an exact revisit of Campaign 5, and a partial overlap with Campaign 16. The third visit to this key part of the sky that contains M44 and M67 will enable users to study targets with a 3-year baseline and 8-month duty cycle, enabling original Kepler-like science at a Galactic sightline that is 130 degrees away from the original Kepler field in Cygnus.
+Alongside M44 and M67, the field provides access to HIP 41378 (a 5-planet system around a 9th magnitude star), and more than one hundred previously-published K2 planet candidates.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Campaign 19&lt;/b&gt; (Aug 6 - Oct 10, 2018) will observe a forward-facing field near the constellation of Aquarius, partially overlapping Campaigns 3 and 12, whilst also providing access to ~15 deg&lt;sup&gt;2&lt;/sup&gt; of previously unstudied sky. The field includes planet Neptune, Comet 2P/Encke, and the Trappist-1 system.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;These fields will constitute the K2 GO Cycle 6 program. A call for target and funding proposals to be submitted to this program is expected to be issued in July as part of NASA ROSES, with a Step-1 deadline expected to follow in October.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The following graphs illustrate the exact field placement:&lt;/p&gt;
+&lt;div clas="row"&gt;
+&lt;div class="col-sm-4"&gt;
+&lt;a href="/images/k2/k2-c17-field.png"&gt;&lt;img src="/images/k2/k2-c17-field.png" style="margin: 2px;" class="img-responsive"&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="col-sm-4"&gt;
+&lt;a href="/images/k2/k2-c18-field.png"&gt;&lt;img src="/images/k2/k2-c18-field.png" style="margin: 2px;"&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="col-sm-4"&gt;
+&lt;a href="/images/k2/k2-c19-field.png"&gt;&lt;img src="/images/k2/k2-c19-field.png" style="margin: 2px;" class="img-responsive"&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br&gt;&amp;nbsp;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Finally, the graph below shows their position relative to all twenty K2 Campaigns:&lt;/p&gt;
+&lt;div class="row"&gt;
+&lt;a href="/images/k2/footprint-all-campaigns.png"&gt;&lt;img src="/images/k2/footprint-all-campaigns.png"&gt;&lt;/a&gt;
+&lt;/div&gt;</content></entry><entry><title>Live streaming available for Kepler &amp; K2 Science Conference IV</title><link href="https://keplerscience.arc.nasa.gov/live-streaming-available-for-kepler-k2-science-conference-iv.html" rel="alternate"></link><published>2017-06-14T20:00:00-07:00</published><updated>2017-06-14T20:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-06-14:/live-streaming-available-for-kepler-k2-science-conference-iv.html</id><summary type="html">&lt;p&gt;The &lt;a href="/scicon4"&gt;Kepler &amp;amp; K2 Science Conference IV&lt;/a&gt;,
 to be held at NASA Ames next week (June 19–23, 2017),
 will be live-streamed for the benefit of researchers unable to attend
 the conference in-person.
@@ -247,7 +282,8 @@ due to its partial overlap in observing geometry with C16.&lt;/p&gt;
 &lt;/table&gt;
 
   &lt;/div&gt;
-  &lt;/div&gt;
+
+&lt;/div&gt;
 
 &lt;p&gt;&lt;a href="images/k2/k2-c17-options.gif"&gt;
 &lt;img src="images/k2/k2-c17-options.gif" style="max-width:40em;"&gt;
@@ -303,7 +339,8 @@ the following options listed below in the case of a forward-facing field:&lt;/p&
   across modules was not uniform in that campaign.
 
   &lt;/div&gt;
-  &lt;/div&gt;
+
+&lt;/div&gt;
 
 &lt;p&gt;&lt;a href="images/k2/k2-c18-forward-options.gif"&gt;
 &lt;img src="images/k2/k2-c18-forward-options.gif" style="max-width:40em;"&gt;
@@ -352,7 +389,8 @@ simultaneous observations from the ground would be challenging:&lt;/p&gt;
 &lt;/table&gt;
 
   &lt;/div&gt;
-  &lt;/div&gt;
+
+&lt;/div&gt;
 
 &lt;p&gt;&lt;a href="images/k2/k2-c18-backward-options.gif"&gt;
 &lt;img src="images/k2/k2-c18-backward-options.gif" style="max-width:40em;"&gt;
