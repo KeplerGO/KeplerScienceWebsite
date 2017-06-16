@@ -13,5 +13,4 @@ using the hashtag [#KeplerSciCon](https://twitter.com/search?q=%23KeplerSciCon).
 
 The agenda features 84 talks and 91 posters. The schedule outline is shown below. The full program, including abstracts, is available [in pdf format](data/KeplerK2SciConIV_Program_v3_online.pdf).
 
-<a href="images/scicon2017-program-am.png"><img src="images/scicon2017-program-am.png" /></a>
-<a href="images/scicon2017-program-pm.png"><img src="images/scicon2017-program-pm.png" /></a>
+<a href="images/scicon2017-program.png"><img src="images/scicon2017-program.png" /></a>
