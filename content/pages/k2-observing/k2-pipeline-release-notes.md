@@ -9,6 +9,23 @@ For more information about the Kepler pipeline see the Kepler manuals: <a href="
 
 Information about each specific campaign can be found in the links associated with each data release. 
 
+### Data Release 17
+* June 2017
+* SOC 9.3
+* Campaigns: [C11](k2-data-release-notes.html#k2-campaign-11)
+
+This is the first delivery of C11. The release consists of Type-1 target pixel 
+files and Type-2 light curve files for both C11a (23 days) and C11b (48 days). 
+No other features of the data processing have changed.  See below for previous 
+updates to the K2 pipeline.
+
+### Data Release 16
+* pending
+* SOC 9.3
+* Campaigns: C0
+
+The updated release of C0 is pending. 
+
 ### Data Release 15
 * December 2016
 * SOC 9.3

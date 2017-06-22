@@ -10,6 +10,387 @@ the scientific exploitation of the data.
 <hr>
 
 
+# K2 Campaign 11
+
+<h2>At a glance</h2>
+
+<div class="col-lg-5">
+
+<p>
+Campaign 11 was operationally separated into two segments as a result of
+error in the initial roll-angle used to minimize solar torque on the spacecraft.
+The larger than expected roll motion seen in at the start of the campaign meant 
+that the targets would be rolling out of their pixel aperture by the end of the
+campaign. The roll offset was corrected twenty-three days into the campaign with a 
+-0.32º roll. The size of this correction meant that new target aperture definitions
+had to be used for the second part of the campaign. 
+The two segments are identified in the 
+archive products as C111 and C112, respectively.
+</p>
+
+<b><i>C11a Pointing</i></b>
+<ul>
+<li>RA: 260.3880064 degrees</li>
+<li>Dec: -23.9759578 degrees</li>
+<li>Roll: 176.7437075 degrees</li>
+</ul>
+
+<b><i>C11b Pointing</i></b>
+<ul>
+<li>RA: 260.3880064 degrees</li>
+<li>Dec: -23.9759578 degrees</li>
+<li>Roll: 176.4237075 degrees</li>
+</ul>
+
+<b><i>C11b pointing offset from C11a</i></b>
+<ul>
+<li>delta-RA: 0.0 degrees</li>
+<li>delta-Dec: 0.0 degrees</li>
+<li>delta-Roll: -0.32 degrees</li>
+</ul>
+
+<b><i>C11a First cadence</i></b>
+<ul>
+<li>Time: 2016-09-24 19:12:30 UTC</li>
+<li>Long Cadence Number: 132839</li>
+<li>Short Cadence Number: 3973630</li>
+</ul>
+
+<b><i>C11a Last cadence</i></b>
+<ul>
+<li>Time: 2016-10-18 02:16:19 UTC</li>
+<li>Long Cadence Number: 133979</li>
+<li>Short Cadence Number: 4007859</li>
+</ul>
+
+<b><i>C11b First cadence</i></b>
+<ul>
+<li>Time: 2016-10-21 06:17:05 UTC</li>
+<li>Long Cadence Number: 134134</li>
+<li>Short Cadence Number: 4012480</li>
+</ul>
+
+<b><i>C11b Last cadence</i></b>
+<ul>
+<li>Time: 2016-12-07 23:23:03 UTC</li>
+<li>Long Cadence Number: 136469</li>
+<li>Short Cadence Number: 4082559</li>
+</ul>
+
+<b><i>C11 Targets</i></b>
+<ul>
+<li> 32884 (32580 in C11b) in long cadence (LC)</li>
+<li> 67 (66 in C11b) in short cadence (SC)</li>
+<li> 72 Custom targets include 64 Solar System moving objects tiled with multiple apertures, featuring Titan and Enceladus, 9 bright stars covered with disk apertures to capture the PSF wings, 22 late microlensing targets, and 5 galaxy targets. See the <a href="images/release-notes/c11/ktwoc111_caf.csv">C11a csv file</a> and <a href="images/release-notes/c11/ktwoc112_caf.csv">C11b csv file</a> that map the Solar system object custom aperture numbers to the target names.</li>
+<li> No new targets were added for C11b. Because of the change in roll attitude, the positions of all the target apertures on the focal plane were changed, causing some targets to move to a different detector channel and some to fall off active silicon. 304 long cadence targets and 1 short cadence target were dropped in C11b. 
+</ul>
+
+<b><i>Full Frame Images (FFI)</i></b>
+<p>
+The two C11 FFIs were taken at the C11a and C11b pointings respectively. The -0.32 degree roll offset
+is evident when comparing the two images.
+</p>
+<ul>
+<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2016279022810-c111_ffi-cal.fits">ktwo2016279022810-c111_ffi-cal.fits</a></li>
+<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2016307123729-c112_ffi-cal.fits">ktwo2016307123729-c112_ffi-cal.fits</a></li>
+</ul>
+
+</div>
+
+<div class="col-lg-7">
+
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C11-FOV: Schematic of Kepler's C11 field-of-view with observed targets shown with purple dots. The galactic plane passes through modules 2 and 6.</i>
+</div>
+<a href="images/release-notes/c11/C11_selected.png">
+<img src="images/release-notes/c11/C11_selected.png" class="img-responsive" alt="C11 field-of-view with selected targets plotted in purple. The galactic plane passes through modules 2 and 6.">
+</a>
+</div> 
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C11-Mag: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The distribution is due to the <a href="k2-approved-programs.html#campaign-11">GO  programs</a> that were selected.</i>
+</div>
+<a href="images/release-notes/c10/c10LcMagDistribution.png">
+<img src="images/release-notes/c10/c10LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed C11 targets.">
+</a>
+</div>
+
+</div>
+
+<br style="clear:both;">
+
+<h2>Features and events</h2>
+
+***Galactic Bulge***
+
+The C11 field of view is the densest star field for which pipeline light curves have been created.
+The average density of stars with magnitude 11.5 < Kp < 14.5 over the field of view is 
+6959 stars/deg^2. Detector channels covering the galactic bulge have densities as high 
+as 25,000 stars/deg^2. For comparison the average density of stars in this magnitude range
+for the Kepler field of view is 900 stars/deg^2. As a result of the high star density, many
+of the pipeline algorithms are operating outside of their design range. Users are cautioned 
+to treat the pipeline background, centroid, and aperture photomemtry results with care, especially
+on channels covering the Galactic Bulge. 
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C11-Star Density: The average density of stars with 11.5 < Kp < 14.5 for each channel 
+ranges from a few thousand to over 20,000 stars/deg^2.  The galactic plane passes through 
+modules 2 and 6. The numbers indicate detector the module and output number.</i>
+</div>
+<a href="images/release-notes/c11/k2_c11_star_density.jpg">
+<img src="images/release-notes/c11/k2_c11_star_density.jpg" class="img-responsive" alt="C11 star 
+density ranges from a few thousand to over 20000 stars/deg^2.">
+</a>
+</div> 
+
+<br>
+
+***Saturn***
+
+Saturn (V = +1) and its bright moons Titan (V = +9), and Enceladus (V = +12) entered 
+channel 84 near the end of the campaign (Dec 3, ~12h UT) allowing ~4.5 days of observations. 
+Titan is ~18 pixels away from Saturn, while Enceladus is only 2-4 pixels from Saturn and 
+regularly passed through Saturn's saturated charge spill columns. Both Titan and Enceladus
+were tiled with custom aperture masks.
+
+<br>
+
+***Attitude Offset and Segmenting of C11 Data***
+
+The spacecraft attitude was adjusted by -0.32º in roll on 2016-10-21 to correct 
+the initial roll-offset error. Because this attitude offset was large enough to 
+require new target pixel apertures, the C11 data were processed through the 
+pipeline in two separate sets:
+<ul>
+<li>the first 23 days of data, dubbed C11a  
+<li>the remaining 48 days of the campaign, dubbed C11b.
+</ul>
+The C11a files are found in the archive under Campaign number 111. The C11b 
+files have Campaign number 112. A search for Campaign 11 will return both sets of files.
+Users should take care when combining data from C11a and C11b for targets. Because the 
+targets have changed pixels -and in some cases detectors- there is no guarantee that the
+C11a and C11b fluxes will match in absolute value, or even slope across the C11a-C11b boundary.
+The C11a and C11b data may need to be treated as coming from two separate campaigns.
+the figures below give some examples of the behavior of SAP flux over C11.
+<div class="caption">
+<i>Figure C11 SAP Flux: The C11a (red) and C11b (blue) SAP flux for four sample targets.
+Because of the change of target pixel apertures between C11a and C11b, the fluxes can 
+differ in absolute value and in behavior with the K2 roll motion.</i>   
+</div>
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<a href="images/release-notes/c11/epic221115664.png">
+<img src="images/release-notes/c11/epic221115664.png" class="img-responsive" alt="C11 SAP flux for EPIC-221115664.">
+</a>
+</div>
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<a href="images/release-notes/c11/epic221326895.png">
+<img src="images/release-notes/c11/epic221326895.png" class="img-responsive" alt="C11 SAP flux for EPIC-221326895.">
+</a>
+</div>
+<br>
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<a href="images/release-notes/c11/epic221391462.png">
+<img src="images/release-notes/c11/epic221391462.png" class="img-responsive" alt="C11 SAP flux for EPIC-221391462.">
+</a>
+</div>
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<a href="images/release-notes/c11/epic221597630.png">
+<img src="images/release-notes/c11/epic221597630.png" class="img-responsive" alt="C11 SAP flux for EPIC-221597630.">
+</a>
+</div>
+
+
+<br>
+
+***Pointing and Roll Performance***
+
+The C11a and C11b pointing and 
+roll behavior were within the limits of that seen in other K2 campaigns. 
+The pipeline calculated maximum distance between the 
+derived and nominal positions for any target (the "maximum attitude residual", or MAR) 
+for C11 was well under the 3-pixel limit accommodated by the aperture halos.  
+The C11a attitude error started at a relatively high value and large roll amplitude,
+due in part to the initial roll offset error. The negative going roll offsets 
+along with the large negative roll rate at the start of C11a indicated that, 
+without correction, the roll would have been unacceptably large in the 6-hours 
+between thruster firing windows by the end of the campaign. The large roll would have
+caused targets at the edge of the focal plane to roll out of their apertures. 
+The roll offset was corrected during the gap starting
+around 16 October 2016 seen in the C11-Pointing History figure, resulting in the roll profile
+centered around zero at the start of C11b and a more typical roll-rate profile. 
+Similarly, the C11a maximum attitude residual was 
+somewhat high -though well within the aperture limits- while the C11b starting maximum attitude
+residual was more typical of K2 behavior. 
+
+<div class="thumbnail" style="width: 45%;display: inline-block;">
+<div class="caption">
+<i>Figure C11-Pointing History: pointing performance for C11 was consistent with that of previous campaigns. The C11a-C11b transition occured at the gap around 16 October 2016.</i>
+</div>
+<a href="images/release-notes/c11/c11_roll_error.png">
+<img src="images/release-notes/c11/c11_roll_error.png" class="img-responsive" alt="Roll amplitude for C11 matched that of previous campaigns."></a>
+</a>
+</div>
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C11-Roll Rate: the C11 roll rate as a function of solar elevation angle
+clearly shows the impact of the roll offset error (C3 is shown here for comparison). The large
+negative roll rate during C11a was corrected with the roll offset change in C11b.</i>
+<a href="images/release-notes/c11/c11_roll_rate.jpg">
+<img src="images/release-notes/c11/c11_roll_rate.jpg" class="img-responsive" alt="Roll Drift rates for C11 indicate the improvement in performance with the corrected roll offset in C11b.">
+</a>
+</div>
+</div>
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C11a-MAR: The maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C11a.</i>
+<a href="images/release-notes/c11/c11a_pad_pdq_attitude_mar.png">
+<img src="images/release-notes/c11/c11a_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the C11a attitude measured with PAD and PDQ.">
+</a>
+</div>
+</div>
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C11b-MAR: The maximum attitude residual for C11b shows the pointing improvement at the 
+start of the sub-campaign.</i>
+<a href="images/release-notes/c11/c11b_pad_pdq_attitude_mar.png">
+<img src="images/release-notes/c11/c11b_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the attitude measured with PAD and PDQ.">
+</a>
+</div>
+</div>
+
+<br>
+
+***Light Curve Quality***
+
+We consider the C11a and C11b pipeline-generated light curves separately
+for noise analysis and comparison with previous campaigns.
+As in previous campaigns, the 6-hour spacecraft roll cycle 
+continues to dominate the systematic 
+errors in C11 simple aperture photometry light curves. 
+
+The magnitude dependence of CDPP and its distribution over the focal plane 
+are shown below. Other CDPP benchmarks can be found in the 
+<a href="images/release-notes/c11/c11a_bin1.00_sc1.00_CDPP_Summary_17042811.txt">
+table giving C11a 6.5-hr CDPP as a function of magnitude</a> and
+<a href="images/release-notes/c11/c11b_bin1.00_sc1.00_CDPP_Summary_17051815.txt">
+the C11b 6.5-hr CDPP table.</a>
+The stellar properties
+for each target, available from the 
+<a href="http://archive.stsci.edu/k2/epic/search.php">EPIC catalog</a>, 
+were used to distinguish dwarf and giant stars. The C11
+CDPP values are in family with C7, the next most crowded K2 FOV for which
+pipeline light curves were generated. 
+<br>
+
+<div class="caption">
+<i>Figure C11-CDPP: 6.5-hr CDPP measurements for C11a targets (left) and C11b targets (right) as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>   
+</div>
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<a href="images/release-notes/c11/c11a_logg_CDPP_vs_model.png">
+<img src="images/release-notes/c11/c11a_logg_CDPP_vs_model.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
+</a>
+</div>
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<a href="images/release-notes/c11/c11b_logg_CDPP_vs_model.png">
+<img src="images/release-notes/c11/c11b_logg_CDPP_vs_model.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
+</a>
+</div>
+
+<div class="caption">
+<i>Figure C11-CDPP Focal Plane: 6.5-hr CDPP for C11a (left) and C11b (right) dwarf targets across the focal plane. Panels show the 10th percentile (left) and median (right) CDPP metric for all dwarf targets in the 12th (top) and 14th (bottom) magnitude range. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
+</div>
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<a href="images/release-notes/c11/c11a_dwarf_CDPP_by_channel.png">
+<img src="images/release-notes/c11/c11a_dwarf_CDPP_by_channel.png" class="img-responsive" alt="CDPP per channel for all 12th magnitude stars">
+</a>    
+</div>
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<a href="images/release-notes/c11/c11b_dwarf__CDPP_by_mod_out.jpg">
+<img src="images/release-notes/c11/c11b_dwarf__CDPP_by_mod_out.jpg" class="img-responsive" alt="CDPP per channel for all 12th magnitude stars">
+</a>    
+</div>
+
+***Targets Missing from the Archive***
+
+Pipeline errors during the process of exporting the light curve (LCV) and 
+target pixel (TP) FITS files resulted in targets from both C11a and C11b
+having no LCV or TP files at the archive. 
+There are <a href="images/release-notes/c11/c11a_missing_export_target_epic_ids.txt">194 
+missing targets for C11a</a> (15 are non-custom targets) and
+<a href="images/release-notes/c11/c11a_missing_export_target_epic_ids.txt">88 
+missing targets for C11b</a> (10 non-custom). There is no overlap between the C11a 
+and C11b missing target lists. The project is investigating options
+for delivering these targets in the future.
+<br>
+
+***Poor Smear Correction - Bright Stars***
+
+There was several very bright stars observed in C11 with saturation spilling
+over all rows of the array on *three* channels, corrupting the smear measurement
+for the affected columns. For these columns
+the virtual smear measurement is used for smear correction, 
+though it is known that this value is invalid and will corrupt data on the
+affected columns. Given the normal motion of the stars in K2 due to roll and
+differential velocity aberration, it is likely 
+that adjacent columns will be corrupted at some times during the campaign. The
+smear curruption is complicated in C11 due to the roll offset: stars at the edge
+of the array moved upto 30 pixels from C11a to C11b, while stars in the center 
+modules moved only slightly. The channels and affected columns in C11a and C11b
+given below.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-25al{font-size:10px;vertical-align:top}
+.tg .tg-yw4l{vertical-align:top}
+</style>
+<table class="tg">
+<div class="caption">
+<i>Channels with corrupt smear measurments due to saturating stars on the specified 
+columns for C11a and C11b</i>
+</div>
+<tr>
+<th class="tg-yw4l">Channel</th>
+<th class="tg-yw4l">C11a columns</th>
+<th class="tg-yw4l">C11b columns</th>
+</tr>
+<tr>
+<td class="tg-yw4l">35</td>
+<td class="tg-baqh">888-892</td>
+<td class="tg-baqh">858-861</td>
+</tr>
+<tr>
+<td class="tg-yw4l">43</td>
+<td class="tg-baqh">162-165</td>
+<td class="tg-baqh">160-162</td>
+</tr>
+<tr>
+<td class="tg-yw4l">58</td>
+<td class="tg-baqh">167-169</td>
+<td class="tg-baqh">154-158</td>
+</tr>
+</table>
+<br>
+
+<h2>Release History</h2>
+
+The following is the data release history for C11. Follow the link for
+information about some of the features of the software used to reduce and
+export these data. There will be a new entry each time the data are processed 
+for release by the mission.
+
+* <a href="k2-pipeline-release-notes.html#data-release-17">Data Release 17</a>
+
+<hr>
+
 
 # K2 Campaign 10
 
@@ -206,7 +587,7 @@ for C10b was well under the 3-pixel limit accommodated by the aperture halos.
 <i>Figure C10-Pointing History: pointing performance for C10 was consistent with that of previous campaigns. </i>
 </div>
 <a href="images/release-notes/c10/c10_pointing_history.png">
-<img src="images/release-notes/c10/c10_pointing_history.png" class="img-responsive" alt="Roll amplitude for C10 matched that of previous campaigns despite the forward velocity vector orientation"></a>
+<img src="images/release-notes/c10/c10_pointing_history.png" class="img-responsive" alt="Roll amplitude for C10 matched that of previous campaigns."></a>
 </a>
 </div>
 
