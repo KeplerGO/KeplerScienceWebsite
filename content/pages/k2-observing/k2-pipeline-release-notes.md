@@ -16,6 +16,15 @@ Information about each specific campaign can be found in the links associated wi
 
 This is the first delivery of C11. The release consists of Type-1 target pixel 
 files and Type-2 light curve files for both C11a (23 days) and C11b (48 days). 
+There was one change of note in the processing pipeline for C11. The collateral 
+cosmic ray detection threshold used in pixel-level calibration was increased 
+from 4.0 to 7.0 sigma in order to minimize false detections triggered by K2's roll motion.
+Based on analysis of reprocessed data from C0, the project realized that 
+false cosmic ray detections resulted in poor smear correction for individual columns, 
+creating positive-going stripes in the image (see 
+[C8: Intermittent Streaks](k2-data-release-notes.html#k2-campaign-8)
+section for an example). The increased threshold has greatly reduced this 
+processing artifact.
 No other features of the data processing have changed.  See below for previous 
 updates to the K2 pipeline.
 
