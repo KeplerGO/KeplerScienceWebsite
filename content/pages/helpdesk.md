@@ -1,28 +1,11 @@
 Title: Kepler/K2 Helpdesk
 Save_as: helpdesk.html
 
-### Guest Observer Office
-
 <div class="row">
     <div class="col-sm-3 text-center">
         <img src="images/faces/geert.jpg" class="img-circle"><br>
         Dr Geert Barentsen<br>
-        Director
-    </div>
-	<div class="col-sm-3 text-center">
-        <img src="images/faces/tom.jpg" class="img-circle"><br>
-        Dr Thomas Barclay<br>
-        Former Director
-    </div>
-    <div class="col-sm-3 text-center">
-        <img src="images/faces/knicole.jpg" class="img-circle"><br>
-        Dr Knicole Colón<br>
-        Support Scientist
-    </div>
-    <div class="col-sm-3 text-center">
-        <img src="images/faces/ze.jpg" class="img-circle"><br>
-        Zé Vinícius<br>
-        Intern
+        Guest Observer Office Director
     </div>
     <div class="col-sm-3 text-center">
         <img src="images/faces/gully.jpg" class="img-circle"><br>
@@ -33,6 +16,16 @@ Save_as: helpdesk.html
         <img src="images/faces/annmarie.jpg" class="img-circle"><br>
         Dr Ann Marie Cody<br>
         Support Scientist
+    </div>
+    <div class="col-sm-3 text-center">
+        <img src="images/faces/knicole.jpg" class="img-circle"><br>
+        Dr Knicole Colón<br>
+        Support Scientist
+    </div>
+    <div class="col-sm-3 text-center">
+        <img src="images/faces/ze.jpg" class="img-circle"><br>
+        Zé Vinícius<br>
+        Intern
     </div>
     <div class="col-sm-3 text-center">
         <img src="images/faces/jeff.jpg" class="img-circle"><br>
