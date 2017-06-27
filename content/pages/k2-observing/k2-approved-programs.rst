@@ -748,14 +748,14 @@ Concept Engineering Test
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
-      <a href="https://archive.stsci.edu/pub/k2/tpf_eng/K2_E2_targets_lc.csv">Long Cadence Target list (csv)</a>
+      <a href="https://archive.stsci.edu/pub/k2/eng/K2_E2_targets_lc.csv">Long Cadence Target list (csv)</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
-      <a href="https://archive.stsci.edu/pub/k2/tpf_eng/K2_E2_targets_sc.csv">Short Cadence Target list (csv)</a>
+      <a href="https://archive.stsci.edu/pub/k2/eng/K2_E2_targets_sc.csv">Short Cadence Target list (csv)</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
-      <a href="https://archive.stsci.edu/pub/k2/tpf_eng/">Target pixel files (MAST)</a>   
+      <a href="https://archive.stsci.edu/pub/k2/eng/">Target pixel files (MAST)</a>
     </li>
   </ul>
