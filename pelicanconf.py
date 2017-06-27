@@ -134,9 +134,6 @@ IMPORTANT_DATES = (
 
 # Defines the "meetings" box on the front page
 MEETINGS = (
-            ('<b>19–23 Jun 2017</b><br>'
-             'Kepler & K2 SciCon IV (Mt. View, CA)',
-             'scicon4/'),
             ('<b>16–21 Jul 2017</b><br>'
              'TASC3 KASC10 Workshop (UK)',
              'www.tasc3kasc10.com'),
