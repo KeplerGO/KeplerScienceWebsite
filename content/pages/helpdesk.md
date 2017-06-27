@@ -2,34 +2,37 @@ Title: Kepler/K2 Helpdesk
 Save_as: helpdesk.html
 
 <div class="row">
-    <div class="col-sm-3 text-center">
-        <img src="images/faces/geert.jpg" class="img-circle"><br>
-        Dr Geert Barentsen<br>
+    <div class="col-sm-4 text-center">
+        <img src="images/faces/geert.jpg" class="img-circle" style="padding-top:0.5em;"><br>
+        <b>Dr Geert Barentsen</b><br>
         Guest Observer Office Director
     </div>
-    <div class="col-sm-3 text-center">
-        <img src="images/faces/gully.jpg" class="img-circle"><br>
-        Dr Michael Gully-Santiago<br>
-        Support Scientist
+    <div class="col-sm-4 text-center">
+        <img src="images/faces/gully.jpg" class="img-circle" style="padding-top:0.5em;"><br>
+        <b>Dr Michael Gully-Santiago</b><br>
+        Lead Data Science Support<br>
+        Lead Supernova Experiment Support
     </div>
-    <div class="col-sm-3 text-center">
-        <img src="images/faces/annmarie.jpg" class="img-circle"><br>
-        Dr Ann Marie Cody<br>
-        Support Scientist
+    <div class="col-sm-4 text-center">
+        <img src="images/faces/annmarie.jpg" class="img-circle" style="padding-top:0.5em;"><br>
+        <b>Dr Ann Marie Cody</b><br>
+        High Level Science Product Manager<br>
+        Lead Cluster Science Support
     </div>
-    <div class="col-sm-3 text-center">
-        <img src="images/faces/knicole.jpg" class="img-circle"><br>
-        Dr Knicole Colón<br>
-        Support Scientist
+    <div class="col-sm-4 text-center">
+        <img src="images/faces/ze.jpg" class="img-circle" style="padding-top:0.5em;"><br>
+        <b>Zé Vinícius</b><br>
+        Lead Software Development Support
     </div>
-    <div class="col-sm-3 text-center">
-        <img src="images/faces/ze.jpg" class="img-circle"><br>
-        Zé Vinícius<br>
-        Intern
+    <div class="col-sm-4 text-center">
+        <img src="images/faces/knicole.jpg" class="img-circle" style="padding-top:0.5em;"><br>
+        <b>Dr Knicole Colón</b><br>
+        DDT Program Manager<br/>
+        Users' Panel Manager
     </div>
-    <div class="col-sm-3 text-center">
-        <img src="images/faces/jeff.jpg" class="img-circle"><br>
-        Dr Jeff Coughlin<br>
+    <div class="col-sm-4 text-center">
+        <img src="images/faces/jeff.jpg" class="img-circle" style="padding-top:0.5em;"><br>
+        <b>Dr Jeff Coughlin</b><br>
         K2 Science Office Director
     </div>
 </div>
