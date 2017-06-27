@@ -1,6 +1,7 @@
 Title: Kepler & K2 meetings and conferences
 Save_as: conferences.html
 
+<!--
 ## Upcoming meetings
 
 
@@ -14,10 +15,18 @@ Save_as: conferences.html
   </tr>
 	
 </table>
+-->
 
 ## Past meetings
 
 <table class="table table-striped table-hover" style="max-width:55em;">
+
+  <tr>
+    <td style="width: 9em;">Jun 2017</td>
+    <td style="width: 25em;"><a href='scicon4'>Kepler &amp; K2 SciCon IV</a></td>
+    <td><a
+    href='scicon4'>website</a>, <a href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon tweets</a></td>
+  </tr>
 
   <tr>
     <td style="width: 9em;">Feb 2017</td>
