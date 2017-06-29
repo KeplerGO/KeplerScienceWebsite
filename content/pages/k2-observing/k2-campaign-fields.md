@@ -216,14 +216,14 @@ This page details the previous, current, and future K2 Campaign fields.
       <td><a href="#c11">11</a></td>
       <td>2016&nbsp;Sep&nbsp;24</td>
       <td>2016&nbsp;Dec&nbsp;08</td>
-      <td>2017&nbsp;Jun</td>
+      <td>2017&nbsp;Jun&nbsp;30</td>
       <td>17:21:33</td>
       <td>-23:58:33</td>
       <td class="text-center">
         <a href="k2-approved-programs.html#campaign-11"><i class="fa fa-check"></i></a>
 	  </td>
       <td class="text-center">
-        
+        <a href="k2-data-release-notes.html#k2-campaign-11"><i class="fa fa-check"></i></a>
       </td>
       <td>Galactic Center, Saturn</td>
       </tr>
