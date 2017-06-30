@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Fri, 16 Jun 2017 10:00:00 -0700</lastBuildDate><item><title>Live streaming available for Kepler &amp; K2 Science Conference IV</title><link>https://keplerscience.arc.nasa.gov/live-streaming-available-for-kepler-k2-science-conference-iv.html</link><description>&lt;p&gt;The &lt;a href="/scicon4"&gt;Kepler &amp;amp; K2 Science Conference IV&lt;/a&gt;,
+<rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Fri, 30 Jun 2017 00:00:00 -0700</lastBuildDate><item><title>K2 Campaign 11 data available</title><link>https://keplerscience.arc.nasa.gov/k2-campaign-11-data-available.html</link><description>&lt;p&gt;The pipeline-processed data for
+&lt;a href="k2-approved-programs.html#campaign-11"&gt;K2 Campaign 11&lt;/a&gt;
+are now available for download
+from the &lt;a href="http://archive.stsci.edu/k2"&gt;K2 archive at MAST&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;As explained in more detail in the &lt;a href="/k2-data-release-notes.html#k2-campaign-11"&gt;data release notes&lt;/a&gt;,
+Campaign 11 was operationally separated into two segments,
+C11a (23 days) and C11b (47 days),
+as a result of a necessary roll correction
+made 23 days after the start of the Campaign
+to minimize solar torque on the spacecraft.
+The C11a files are known in the archive under Campaign number 111,
+and the C11b files have Campaign number 112.
+A search for Campaign 11 will return both sets of files.&lt;/p&gt;
+&lt;p&gt;We strongly encourage users to read the &lt;a href="/k2-data-release-notes.html#k2-campaign-11"&gt;C11 data release notes&lt;/a&gt; carefully to understand
+the implications of the roll correction, which is unique to C11.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Fri, 30 Jun 2017 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2017-06-30:k2-campaign-11-data-available.html</guid></item><item><title>Live streaming available for Kepler &amp; K2 Science Conference IV</title><link>https://keplerscience.arc.nasa.gov/live-streaming-available-for-kepler-k2-science-conference-iv.html</link><description>&lt;p&gt;The &lt;a href="/scicon4"&gt;Kepler &amp;amp; K2 Science Conference IV&lt;/a&gt;,
 to be held at NASA Ames next week (June 19–23, 2017),
 will be live-streamed for the benefit of researchers unable to attend
 the conference in-person.
