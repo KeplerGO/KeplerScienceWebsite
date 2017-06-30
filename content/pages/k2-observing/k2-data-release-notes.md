@@ -336,8 +336,8 @@ target pixel (TP) FITS files resulted in targets from both C11a and C11b
 having no LCV or TP files at the archive. 
 There are <a href="images/release-notes/c11/c11a_missing_export_target_epic_ids.txt">194 
 missing targets for C11a</a> (15 are non-custom targets) and
-<a href="images/release-notes/c11/c11b_missing_export_target_epic_ids.txt">88 
-missing targets for C11b</a> (10 non-custom). There is no overlap between the C11a 
+<a href="images/release-notes/c11/c11b_missing_export_target_epic_ids.txt">3 
+missing custom-aperture targets for C11b</a>. There is no overlap between the C11a 
 and C11b missing target lists. The project is investigating options
 for delivering these targets in the future.
 <br>
