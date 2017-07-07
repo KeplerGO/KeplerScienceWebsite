@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2017-07-06" />
+    <meta name="dc.date.modified" content="2017-07-07" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -34,13 +34,13 @@ in August 2015, using pelican-bootstrap and flatly.
 <link rel="canonical" href="./pages/k2-pipeline-release-notes.html">
 
         <meta name="author" content="Geert Barentsen" />
-        <meta name="description" content="Below are notes on the features of the software used to process the K2 data. Any changes to the pipeline that directly impact the data quality or format are listed for each data release. Any change impacts all subsequent data releases unless stated otherwise. For more information about the Kepler …" />
+        <meta name="description" content="Below are notes on the features of the software used to process the K2 data. Any changes to the pipeline that directly impact the data quality or format are listed for each data release. Any change impacts all subsequent data releases unless stated otherwise. For more information about the Kepler ..." />
 
     <meta property="og:site_name" content="Kepler &amp; K2" />
     <meta property="og:type" content="article"/>
     <meta property="og:title" content="K2 Pipeline Release Notes"/>
     <meta property="og:url" content="./pages/k2-pipeline-release-notes.html"/>
-    <meta property="og:description" content="Below are notes on the features of the software used to process the K2 data. Any changes to the pipeline that directly impact the data quality or format are listed for each data release. Any change impacts all subsequent data releases unless stated otherwise. For more information about the Kepler …" />
+    <meta property="og:description" content="Below are notes on the features of the software used to process the K2 data. Any changes to the pipeline that directly impact the data quality or format are listed for each data release. Any change impacts all subsequent data releases unless stated otherwise. For more information about the Kepler ..." />
 
 
     <!-- Why use Helvetica Neue when you can have Lato? -->
@@ -253,7 +253,7 @@ No other features of the the data processing have changed. See below for previou
 <p><strong><em>CAL inputs</em></strong></p>
 <p>One change was made to the smear pixel mapping information used by CAL. This fixed the long-standing problem reported <a href="#sc-smear-erratum">in the Erratum below</a> where the smear values were being applied to the wrong columns in short cadence data.  </p>
 <p>For further information about the processing and content of this delivery, see the previous release notes.</p>
-<hr/>
+<hr>
 <h3 id="sc-smear-erratum">SC Smear Erratum</h3>
 <div class="well">
 <h2> Incorrect SC Smear </h2>
@@ -262,7 +262,7 @@ No other features of the the data processing have changed. See below for previou
 <p>Since it will take some time to correct this error and reprocess all Kepler and K2 data, a <a href="http://archive.stsci.edu/missions/k2/catalogs/K2_scrambled_short_cadence_collateral_target_list.csv">list of affected targets is provided</a>.  Even though the affected targets are readily identified, the science impact for any particular target may be difficult to assess.  Since the smear signal is often small compared to the target signal, the effect is negligible for many targets. However, the smear signal is scene-dependent, so time-varying signals can be introduced into any target by the other stars falling on the same CCD column.  </p>
 <p>Some tips on how to assess the severity of the calibration error and more details on how this problem occurred are provided in the <a href="http://archive.stsci.edu/kepler/KSCI-19080-002.pdf">Erratum Document KSCI-19080</a>. </p>
 </div>
-<hr/>
+<hr>
 <h3 id="data-release-7">Data Release 7</h3>
 <ul>
 <li>November 2015 </li>
@@ -270,9 +270,9 @@ No other features of the the data processing have changed. See below for previou
 <li>Campaigns: <a href="k2-data-release-notes.html#k2-campaign-5">C5</a></li>
 </ul>
 <p>This is the first delivery of C5.</p>
-<p>One procedural change was made to how the data were processed, resulting in improvements to how the optimal apertures are selected. In C4 it was discovered that the optimal apertures selected by the pipeline were too small. Starting with Data Release 7 the apertures are no longer selected by including information about the motion polynomials and this change in process has proven to select larger and better optimal apertures.  </p> 
+<p>One procedural change was made to how the data were processed, resulting in improvements to how the optimal apertures are selected. In C4 it was discovered that the optimal apertures selected by the pipeline were too small. Starting with Data Release 7 the apertures are no longer selected by including information about the motion polynomials and this change in process has proven to select larger and better optimal apertures.  </p> </hr></hr>
 <p>For further information about the content of this delivery see the previous Release Notes.</p>
-<hr/>
+<hr>
 <h3 id="data-release-6">Data Release 6</h3>
 <ul>
 <li>September 2015</li>
@@ -280,14 +280,14 @@ No other features of the the data processing have changed. See below for previou
 <li>Campaigns: <a href="k2-data-release-notes.html#k2-campaign-4">C4</a></li>
 </ul>
 <p>This is the first delivery of C4. No features of the files have changed. For further information about the content of this delivery see the previous Release Notes.</p>
-<hr/>
+<hr>
 <h3 id="data-release-5">Data Release 5</h3>
 <ul>
 <li>July 2015</li>
 <li>SOC 9.3 </li>
 <li>Campaigns: <a href="k2-data-release-notes.html#k2-campaign-3">C3</a></li>
 </ul>
-<p>This is the first delivery of C3. In addition to the FFIs and the target pixel files, the project is delivering long cadence light curves, background pixels and collateral data.</p>
+<p>This is the first delivery of C3. In addition to the FFIs and the target pixel files, the project is delivering long cadence light curves, background pixels and collateral data.</p></hr></hr>
 <p><strong><em>PA</em></strong></p>
 <p>The method used to generate optimal apertures was improved for the SOC 9.3 pipeline. It now includes a data driven approach that uses the actual mask scene data to calculate the pixel noise in the SNR calculation. It also optimizes apertures based on CDPP. We are finding a significant improvement in CDPP for many targets.  As with Kepler, the pixels used to create the light curve seen in the SAP_FLUX data column are shown in the APERTURE extension of the exported light curve and target pixel files.  </p>
 <p>PA fits motion polynomials (2D polynomial models mapping celestial coordinates to pixel coordinates) to PRF-fitted centroids of bright, well-isolated targets on each channel. We have found the PRF-centroids to be reliable for both Kepler and K2, so the residual errors in the models provide a measure of quality. The median model residual over all targets and cadences across the entire FOV was 0.047 pixels for Kepler Q14 (processed with SOC 9.3) and 0.070 pixels for C3. The relative motion of the star, evaluated for each star and cadence, is available in the POS_CORR columns of the light curve and target pixel files.</p>
@@ -309,7 +309,7 @@ No other features of the the data processing have changed. See below for previou
 <li><p>Motion Polynomials have been calculated per cadence. The mesured motion relative to the location near the middle of the campaign is recorded in the two POS_CORR columns.</p></li>
 <li><p>All Kelper data products are now available, except for SC light curve files. This includes the Target Pixel, Light Curve, FFI, Collateral, Background, Artifact Removal Pixel and Cotrending Basis Vector files.</p></li>
 </li></ul>
-<hr/>
+<hr>
 <h3 id="data-release-4">Data Release 4</h3>
 <ul>
 <li>March 2015</li>
@@ -319,16 +319,16 @@ No other features of the the data processing have changed. See below for previou
 <p>This is the first delivery of C2.  </p>
 <p>The algorithm used by the CAL module to propagate the errors on the flux was turned off to expedite processing. Consequently, the reported error for each pixel at each cadence is the minimal error (shot noise plus read noise) as it does not include the associated offset term resulting from the full propagation of errors. See Section 5.1.3 of the <a href="http://archive.stsci.edu/kepler/manuals/Data_Characteristics.pdf">Data Characteristics Handbook (DCH, Christiansen et al. , 2013)</a> for more details.  </p>
 <p>No features of the files have changed. For further information about the content of this delivery see the previous Release Notes.</p>
-<hr/>
+<hr>
 <h3 id="data-release-3">Data Release 3</h3>
 <ul>
 <li>December 2014</li>
 <li>SOC 9.2 </li>
 <li>Campaigns: <a href="k2-data-release-notes.html#k2-campaign-1">C1</a></li>
 </ul>
-<p>This is the first delivery of C1.  </p>
+<p>This is the first delivery of C1.  </p></hr></hr>
 <p>No features of the files have changed. For further information about the content of this delivery see the previous Release Notes.</p>
-<hr/>
+<hr>
 <h3 id="data-release-2">Data Release 2</h3>
 <ul>
 <li>October 2014</li>
@@ -343,7 +343,7 @@ No other features of the the data processing have changed. See below for previou
     </p></li>
 </ul>
 <p>No other features of the files have changed. For further information about the content of this delivery see the previous Release Notes.</p>
-<hr/>
+<hr>
 <h3 id="data-release-1">Data Release 1</h3>
 <ul>
 <li>September 2014</li>
@@ -370,12 +370,12 @@ No other features of the the data processing have changed. See below for previou
 <li>No Data Reported (bit 17)</li>
 </ul>
 </ul>
-<p><hr/>
-<br/>
+<p><hr>
+<br>
 Page last updated on: 
 <script>
 document.write(document.lastModified);
-</script></p>
+</script></br></hr></p></hr></hr>
             </div>
         </section>
     </div>
