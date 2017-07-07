@@ -393,6 +393,12 @@ columns for C11a and C11b</i>
 </table>
 <br>
 
+***LDE Flags***
+
+During the last three days of C11b we experienced a large number of parity errors coming from the photometer's local detector electronics (LDE). These LDE parity errors can occur when a very bright object saturates and spills charge into the CCD serial readout register, causing an overflow at the input to the analog-to-digital converter. The LDE parity errors were likely caused by the image of Saturn on the focal plane. These errors do not affect the quality of data from pixels on the active focal plane.
+
+The LDE parity error triggers a flag (bit 15, decimal=16384) in the QUALITY column of the target pixel files. Most of the cadences from long cadence number 136276 (2016-12-4 00:58 UTC) to LC 136426 (2016-12-7 02:32 UTC) have the parity error flag set.
+
 <h2>Release History</h2>
 
 The following is the data release history for C11. Follow the link for
