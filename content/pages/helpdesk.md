@@ -20,14 +20,16 @@ Save_as: helpdesk.html
         Lead Cluster Science Support
     </div>
     <div class="col-sm-4 text-center">
-        <img src="images/faces/ze.jpg" class="img-circle" style="padding-top:0.5em;"><br>
-        <b>Zé Vinícius</b><br>
-        Lead Software Development Support
-    </div>
-    <div class="col-sm-4 text-center">
         <img src="images/faces/christina.jpg" class="img-circle" style="padding-top:0.5em;"><br>
         <b>Christina Hedges</b><br>
-        Add her role here
+        Lead Exoplanet Support<br>
+        Lead Asteroseismology Support
+    </div>
+    <div class="col-sm-4 text-center">
+        <img src="images/faces/ze.jpg" class="img-circle" style="padding-top:0.5em;"><br>
+        <b>Zé Vinícius</b><br>
+        Lead PyKE Developer<br>
+        Lead PSF Photometry Support
     </div>
     <div class="col-sm-4 text-center">
         <img src="images/faces/knicole.jpg" class="img-circle" style="padding-top:0.5em;"><br>
