@@ -25,6 +25,11 @@ Save_as: helpdesk.html
         Lead Software Development Support
     </div>
     <div class="col-sm-4 text-center">
+        <img src="images/faces/christina.jpg" class="img-circle" style="padding-top:0.5em;"><br>
+        <b>Christina Hedges</b><br>
+        Add her role here
+    </div>
+    <div class="col-sm-4 text-center">
         <img src="images/faces/knicole.jpg" class="img-circle" style="padding-top:0.5em;"><br>
         <b>Dr Knicole Colón</b><br>
         DDT Program Manager<br/>
