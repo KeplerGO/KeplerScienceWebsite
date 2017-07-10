@@ -118,7 +118,7 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b>Aug 2017</b>',
+            ('<b>31 Jul 2017</b>',
              'K2 Campaign 12 calibrated data release (expected)',
              'k2-fields.html'),
             ('<b>31 Aug 2017</b>',
