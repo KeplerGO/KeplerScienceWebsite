@@ -83,6 +83,14 @@ Hwang, Jason, Chatterjee, Sourav, Lombardi, James, Jr., et al.
 Oshagh, M., Santos, N. C., Figueira, P., et al.    
 2017, pre-print ([2017arXiv170701827O](http://adsabs.harvard.edu/abs/2017arXiv170701827O))  
 
+11. [THE DENSITIES OF PLANETS IN MULTIPLE STELLAR SYSTEMS](http://adsabs.harvard.edu/abs/2017arXiv170701942F)  
+Furlan, E., Howell, S. B.    
+2017, pre-print ([2017arXiv170701942F](http://adsabs.harvard.edu/abs/2017arXiv170701942F))  
+
+12. [MIGRATION OF PLANETS INTO AND OUT OF MEAN MOTION RESONANCES IN PROTOPLANETARY DISCS: ANALYTICAL THEORY OF SECOND-ORDER RESONANCES](http://adsabs.harvard.edu/abs/2017MNRAS.468.3223X)  
+Xu, Wenrui, Lai, Dong    
+2017, refereed ([2017MNRAS.468.3223X](http://adsabs.harvard.edu/abs/2017MNRAS.468.3223X))  
+
 
 2017-06
 -------

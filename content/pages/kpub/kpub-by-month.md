@@ -119,6 +119,30 @@ Hwang, Jason, Chatterjee, Sourav, Lombardi, James, Jr., et al.
 Oshagh, M., Santos, N. C., Figueira, P., et al.    
 2017, pre-print ([2017arXiv170701827O](http://adsabs.harvard.edu/abs/2017arXiv170701827O))  
 
+16. [LIGHT CURVE SOLUTIONS OF THE ECCENTRIC BINARIES KIC 10992733, KIC 5632781, KIC 10026136 AND THEIR OUT-OF-ECLIPSE VARIABILITY](http://adsabs.harvard.edu/abs/2017arXiv170702488K)  
+Kjurkchieva, Diana, Vasileva, Doroteya    
+2017, pre-print ([2017arXiv170702488K](http://adsabs.harvard.edu/abs/2017arXiv170702488K))  
+
+17. [EVIDENCE FOR PHOTOMETRIC ACTIVITY CYCLES IN 3203 KEPLER STARS](http://adsabs.harvard.edu/abs/2017A&A...603A..52R)  
+Reinhold, Timo, Cameron, Robert H., Gizon, Laurent    
+2017, refereed ([2017A&A...603A..52R](http://adsabs.harvard.edu/abs/2017A&A...603A..52R))  
+
+18. [SEMI-EMPIRICAL SEISMIC RELATIONS OF A-F STARS FROM COROT AND KEPLER LEGACY DATA](http://adsabs.harvard.edu/abs/2017arXiv170702082M)  
+Moya, A., Suárez, J. C., García Hernández, A., et al.    
+2017, pre-print ([2017arXiv170702082M](http://adsabs.harvard.edu/abs/2017arXiv170702082M))  
+
+19. [A THEORETICAL STUDY OF THE OUTER LAYERS OF EIGHT KEPLER F-STARS: THE RELEVANCE OF IONIZATION PROCESSES](http://adsabs.harvard.edu/abs/2017ApJ...843...75B)  
+Brito, Ana, Lopes, Ilídio    
+2017, refereed ([2017ApJ...843...75B](http://adsabs.harvard.edu/abs/2017ApJ...843...75B))  
+
+20. [THE DENSITIES OF PLANETS IN MULTIPLE STELLAR SYSTEMS](http://adsabs.harvard.edu/abs/2017arXiv170701942F)  
+Furlan, E., Howell, S. B.    
+2017, pre-print ([2017arXiv170701942F](http://adsabs.harvard.edu/abs/2017arXiv170701942F))  
+
+21. [MIGRATION OF PLANETS INTO AND OUT OF MEAN MOTION RESONANCES IN PROTOPLANETARY DISCS: ANALYTICAL THEORY OF SECOND-ORDER RESONANCES](http://adsabs.harvard.edu/abs/2017MNRAS.468.3223X)  
+Xu, Wenrui, Lai, Dong    
+2017, refereed ([2017MNRAS.468.3223X](http://adsabs.harvard.edu/abs/2017MNRAS.468.3223X))  
+
 
 2017-06
 -------

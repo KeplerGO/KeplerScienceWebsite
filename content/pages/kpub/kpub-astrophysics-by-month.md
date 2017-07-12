@@ -47,6 +47,22 @@ Makarov, Valeri V., Goldin, Alexey
 Niemczura, E., Polińska, M., Murphy, S. J., et al.    
 2017, pre-print ([2017arXiv170700613N](http://adsabs.harvard.edu/abs/2017arXiv170700613N))  
 
+6. [LIGHT CURVE SOLUTIONS OF THE ECCENTRIC BINARIES KIC 10992733, KIC 5632781, KIC 10026136 AND THEIR OUT-OF-ECLIPSE VARIABILITY](http://adsabs.harvard.edu/abs/2017arXiv170702488K)  
+Kjurkchieva, Diana, Vasileva, Doroteya    
+2017, pre-print ([2017arXiv170702488K](http://adsabs.harvard.edu/abs/2017arXiv170702488K))  
+
+7. [EVIDENCE FOR PHOTOMETRIC ACTIVITY CYCLES IN 3203 KEPLER STARS](http://adsabs.harvard.edu/abs/2017A&A...603A..52R)  
+Reinhold, Timo, Cameron, Robert H., Gizon, Laurent    
+2017, refereed ([2017A&A...603A..52R](http://adsabs.harvard.edu/abs/2017A&A...603A..52R))  
+
+8. [SEMI-EMPIRICAL SEISMIC RELATIONS OF A-F STARS FROM COROT AND KEPLER LEGACY DATA](http://adsabs.harvard.edu/abs/2017arXiv170702082M)  
+Moya, A., Suárez, J. C., García Hernández, A., et al.    
+2017, pre-print ([2017arXiv170702082M](http://adsabs.harvard.edu/abs/2017arXiv170702082M))  
+
+9. [A THEORETICAL STUDY OF THE OUTER LAYERS OF EIGHT KEPLER F-STARS: THE RELEVANCE OF IONIZATION PROCESSES](http://adsabs.harvard.edu/abs/2017ApJ...843...75B)  
+Brito, Ana, Lopes, Ilídio    
+2017, refereed ([2017ApJ...843...75B](http://adsabs.harvard.edu/abs/2017ApJ...843...75B))  
+
 
 2017-06
 -------
