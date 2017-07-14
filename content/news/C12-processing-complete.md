@@ -5,7 +5,8 @@ Author: Geert Barentsen
 Data processing for K2 Campaign 12 is now complete
 and the pixel files and lightcurves are being shipped
 to the [data archive at MAST](http://archive.stsci.edu/k2).
-We anticipate that the data will become available in the week of July 24th.
+We anticipate that the data will become available in the week of July 24th,
+or shortly thereafter.
 
 The target list included 29,221 standard long cadence
 and 141 standard short cadence targets,
