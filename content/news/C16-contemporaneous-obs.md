@@ -2,7 +2,7 @@ Title: Share your plan for K2 Campaign 16 ancillary observations
 Date: 2017-07-06 16:00
 Author: Michael Gully-Santiago
 
-K2 Campaign 16 (Dec 7 - Feb 25) will be "forward-facing", making possible contemporaneous ground-based observations from Earth.  Many teams have now secured telescope time to provide polychromatic photometry and spectroscopy of the field during the Campaign, e.g. for the benefit of the [K2 Supernova Cosmology Experiment](/supernova-experiment.html) as well as a diversity of other projects including stellar rotation/activity/jitter studies and simultaneous exoplanet transit observations.
+K2 Campaign 16 (Dec 7 - Feb 25) will be "forward-facing", making possible contemporaneous ground-based observations from Earth.  Many teams have now secured telescope time to provide polychromatic photometry and spectroscopy of the field during the Campaign, e.g. for the benefit of the [K2 Supernova Cosmology Experiment](https://keplerscience.arc.nasa.gov/supernova/) as well as a diversity of other projects including stellar rotation/activity/jitter studies and simultaneous exoplanet transit observations.
 
 Because many of these ancillary data can be repurposed to benefit multiple science projects, and because many of these data will become publicly available, we encourage the K2 community to share the details of their observing resources in a crowdsourced Google Doc and collaborate to optimize the use of these resources:
 
