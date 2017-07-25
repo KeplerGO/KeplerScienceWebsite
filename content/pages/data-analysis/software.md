@@ -8,7 +8,7 @@ Save_as: software.html
 Here is a list of software products created by the Kepler/K2 Guest
 Observer Office for use in preparing for Kepler and K2 observations
 and for analyzing the collected data. The Guest Observer Office hosts
-source code on [Github](https://github.com/KeplerGO). 
+source code on [Github](https://github.com/KeplerGO).
 
 <table class="table table-striped table-hover" style="max-width:50em;">
 
@@ -302,86 +302,11 @@ PyKE is a suite of python software tools developed to reduce and
 analyze Kepler and K2 light curves, TPFs, and FFIs. PyKE tools provide the
 user with flexibility to tune pixel extraction and artifact mitigation
 for the scientific potential of individual target data. A variety of
-other tasks are also included. A [PyKE primer](/PyKEprimer.shtml) provides a thorough
-description of the Kepler data products and analysis techniques to
-consider. We also provide links to a sample of PyKE tutorials below.
-
-The current version of PyKE is 2.6.2.  PyKE contributors are Martin
-Still and Tom Barclay. PyKE is an open source
-project. Contributions of new tasks or enhanced functionality of
-existing tasks by the community are welcome.
-
-<h4>PyRAF installation</h4>
-
-PyKE is a python-based
-[PyRAF](http://www.stsci.edu/institute/software_hardware/pyraf)
-package which can also be executed without PyRAF on the command line
-of a shell.
-
-In order to install and run PyKE as a PyRAF package on your Mac or
-Linux platform you will need PyRAF to be pre-installed. We recommend following the
-instructions here to install Python and IRAF and PyRAF:
-[https://astroconda.readthedocs.io/en/latest/installation.html](https://astroconda.readthedocs.io/en/latest/installation.html). If
-you instead use the older Ureka binary install option
-[following these instructions](http://www.stsci.edu/institute/software_hardware/pyraf/stsci_python/installation),
-then be sure to follow the Ureka-specific instructions included
-below.
-
-[A PyRAF tutorial is provided here](http://stsdas.stsci.edu/pyraf/doc.old/pyraf_tutorial/), explaining functionality and the evolution of IRAF into a python-based scripting language. The Kepler tools have been tested against PyRAF version 2.1.6. Please report any deviant behavior using later versions of these packages.
-
-* [Download the PyKE package tarball](https://github.com/KeplerGO/PyKE/releases).
-* To install the Kepler package first create an empty directory to contain the PyKE package files. The most uniform place for this directory is alongside similar packages in the IRAF tree such as stsdas/ and tables/. If PyRAF has been installed e.g. on a Mac using the Ureka instructions on the STScI python page then create a directory called /usr/local/Ureka/variants/common/iraf/kepler. Doing this may require administrator privileges. The command to create a new directory will be sudo mkdir /usr/local/Ureka/variants/common/iraf/kepler. 
-
-* The folder /usr/local/Ureka/variants/common/iraf/kepler may already exist. If so, it was installed by the Ureka build and more often than not will contain an older version of the PyKE tools. We recommend you delete the content of that folder before continuing.
-
-* Edit the extern.pkg file to define the package within the PyRAF
-system. The location of this file will typically be
-/usr/local/Ureka/variants/common/extern.pkg. Edit extern.pkg to
-include the two lines (again administrator privileges may be needed here): <br/>
-*reset kepler = /usr/local/Ureka/variants/common/iraf/kepler/* <br/>
-*task kepler.pkg = kepler$kepler.cl*
-
-* Change directories to the PyKE root directory /usr/local/Ureka/variants/common/iraf/kepler and unpack the downloaded PyKE tarball:<br/>
-% cd /usr/local/Ureka/variants/common/iraf/kepler/<br/>
-% tar xvf *path*/PyKE.tar<br/>
-where *path* is the location of the downloaded file. The tar operation may require root privilege.
-
-* If you are an existing IRAF or PyRAF user, change directory to where your iraf login script 'login.cl' is located (for example, your home directory), and rerun the 'mkiraf' script, which re-initializes the uparm parameter files. 
-
-* PyRAF requires that you be using csh or tcsh. If you are not running csh or tcsh change to cshell by typing: <br/>
-% csh
-
-<h4>PyRAF execution</h4>
-
-For a full description on getting started see the [PyRAF tutorial](http://stsdas.stsci.edu/pyraf/doc.old/pyraf_tutorial/). In summary:
-
-* Before running this package for the first time add the Ureka
-executable files to your path by typing: <br>
-eval `/Users/username/.ureka/ur_setup !*`.  Be sure to replace *username*
-  with your actual username on your computer.  Tip - if you look in your startup
-  file, e.g., .cshrc in your home directory, you will find that the
-  Ureka install process has made you a handy alias for this ugly
-  command.
-  
-* Create files for the storage of PyRAF environment variables and
-  arguments. Within the working shell type 'mkiraf' and choose
-  'xterm'.
-  
-* Fire up PyRAF by typing 'pyraf'.
-
-* Load the Kepler package by typing 'kepler'. You should see a welcome
-message and a list of available tasks.
-
-<h4>Standalone installation</h4>
-
-There are pros and cons to using PyKE as a PyRAF package. Users can
-rely on GUI operation and retention of input parameters previously
-used. On the other hand, installation of PyRAF on Linux machines can
-occasionally be challenging. Users unwilling to attempt PyRAF
-installation can still use PyKE from within a Unix/Linux shell on the
-command line. GUI and parameter retention features are however lost in
-this operating mode and command line calls to PyKE can often be long
-character strings. However, a positive is that calls to PyKE can be easily included within shell scripts. [Find installation and execution instructions for shell-based PyKE here](/StandAlonePyKE.shtml).
+other tasks are also included.
+PyKE development takes place on its [GitHub repository](https://www.github.com/KeplerGO/PyKE).
+Check out PyKE's documentation webpage [here](http://pyke.rtfd.io).
+We encourage users to participate in the development process by opening
+issues, pull requests, or sending us an email.
 
 <h4>PyKE tasks</h4>
 
@@ -390,208 +315,171 @@ A comprehensive list of PyKE tasks is provided here.
 <table class="table table-striped table-hover" style="max-width:70em;">
 
 <tr>
-    <td><a href="/ContributedSoftwareKeparith.shtml">keparith</a></td>
-    <td>Time-invariant algebra on light curve data </td>
-</tr>
-
-<tr>
-    <td><a href="/ContributedSoftwareKepbls.shtml">kepbls</a></td>
+    <td>kepbls</td>
     <td>Box Least-Square planet transit detection </td>
 </tr>
 
 <tr>
-    <td><a href="/ContributedSoftwareKepclip.shtml"> kepclip</a></td>
+    <td><kepclip</td>
     <td> Remove unwanted time ranges from Kepler time series data </td>
     </tr>
 
 <tr>
-    <td><a href="/ContributedSoftwareKepconvert.shtml"> kepconvert</a></td>
+    <td>kepconvert</td>
     <td>Convert Kepler FITS time series to or from a different file format </td>
     </tr>
 
 <tr>
-    <td><a href="/ContributedSoftwareKepcotrend.shtml"> kepcotrend</a></td>
+    <td>kepcotrend</td>
     <td>Remove systematic trends in photometry using cotrending basis vectors </td>
     </tr>
 
 <tr>
-    <td><a href="/ContributedSoftwareKepdetrend.shtml"> kepdetrend</a></td>
+    <td>kepdetrend</td>
     <td>Detrend systematic features from Simple Aperture Photometry (SAP) data </td>
     </tr>
 
 <tr>
-    <td><a href="/ContributedSoftwareKepdiffim.shtml"> kepdiffim</a></td>
+    <td>kepdiffim</td>
     <td>Difference imaging of pixels within a target mask </td>
     </tr>
 
 <tr>
-    <td><a href="/ContributedSoftwareKepdraw.shtml"> kepdraw</a></td>
+    <td>kepdraw</td>
     <td>Interactive plotting of Kepler time series data </td>
     </tr>
 
 <tr>
-    <td><a href="/ContributedSoftwareKepdynamic.shtml"> kepdynamic</a></td>
+    <td>kepdynamic</td>
     <td>Construct a dynamic (time-dependent) power spectrum from Kepler time series data </td>
     </tr>
 
 <tr>
-    <td><a href="/ContributedSoftwareKepextract.shtml"> kepextract</a></td>
+    <td>kepextract</td>
     <td>Derive a light curve from a target pixel file, with user-defined apertures </td>
     </tr>
 
 <tr>
-    <td><a href="/ContributedSoftwareKepffi.shtml"> kepffi</a></td>
+    <td>kepffi</td>
     <td>Plot sub-areas of Kepler Full Frame Images and define custom target apertures </td>
     </tr>
 
 <tr>
-    <td><a href="/ContributedSoftwareKepfield.shtml"> kepfield</a></td>
+    <td>kepfield</td>
     <td>Superimpose photometric mask and source positions over a target pixel image </td>
     </tr>
 
 <tr>
-    <td><a href="/ContributedSoftwareKepfilter.shtml"> kepfilter</a></td>
+    <td>kepfilter</td>
     <td>Remove low frequency variability from time-series, preserve transits and flares </td>
     </tr>
 
 <tr>
-    <td><a href="/ContributedSoftwareKepflatten.shtml"> kepflatten</a></td>
+    <td>kepflatten</td>
     <td>Low bandpass or high bandpass signal filtering </td>
     </tr>
 
 <tr>
-    <td><a href="/ContributedSoftwareKepfold.shtml"> kepfold</a></td>
+    <td>kepfold</td>
     <td>Fold data on a linear ephemeris </td>
     </tr>
 
 <tr>
-    <td><a href="/ContributedSoftwareKepft.shtml"> kepft</a></td>
+    <td>kepft</td>
     <td>Calculate and store a Fourier Transform from a Kepler time series </td>
     </tr>
 
 <tr>
-    <td><a href="/ContributedSoftwareKephead.shtml"> kephead</a></td>
+    <td>kephead</td>
     <td>Search for and list FITS keywords in Kepler data files </td>
     </tr>
 
 <tr>
-    <td><a href="/ContributedSoftwareKepimages.shtml"> kepimages</a></td>
+    <td>kepimages</td>
     <td>Create a series of separate FITS image files from a Target Pixel File </td>
     </tr>
 
 <tr>
-    <td><a href="/ContributedSoftwareKepmask.shtml"> kepmask</a></td>
+    <td>kepmask</td>
     <td>Plots, creates or edits custom light curve extraction masks for target pixel files </td>
     </tr>
 
 <tr>
-    <td><a href="/ContributedSoftwareKepoutlier.shtml"> kepoutlier</a></td>
+    <td>kepoutlier</td>
     <td>Remove or replace data outliers from a time series</td>
     </tr>
 
 <tr>
-    <td><a href="/ContributedSoftwareKeppca.shtml"> keppca</a></td>
+    <td>keppca</td>
     <td>Pixel-level principal component analysis of time series </td>
     </tr>
 
 <tr>
-    <td><a href="/ContributedSoftwareKeppixseries.shtml"> keppixseries</a></td>
+    <td>keppixseries</td>
     <td>Individual time series photometry for all pixels within a target mask </td>
     </tr>
-    
+
 <tr>
-    <td><a href="/ContributedSoftwareKepprf.shtml"> kepprf</a></td>
+    <td>kepprf</td>
     <td>Fit a PSF model to a specific image within a Target Pixel File </td>
     </tr>
-    
+
 <tr>
-    <td><a href="/ContributedSoftwareKepprfphot.shtml"> kepprfphot</a></td>
+    <td>kepprfphot</td>
     <td>Fit a PSF model to time series observations within a Target Pixel File </td>
     </tr>
-    
+
 <tr>
-    <td><a href="/ContributedSoftwareKeprange.shtml"> keprange</a></td>
+    <td>keprange</td>
     <td>Interactively define and store time ranges via a GUI </td>
     </tr>
 
 <tr>
-    <td><a href="/ContributedSoftwareKepsff.shtml"> kepsff</a></td>
+    <td>kepsff</td>
     <td>Correct aperture photmetry using target motion </td>
     </tr>
 
 <tr>
-    <td><a href="/ContributedSoftwareKepsmooth.shtml"> kepsmooth</a></td>
+    <td>kepsmooth</td>
     <td>Smooth Kepler light curve data by convolution</td>
     </tr>
 
 <tr>
-    <td><a href="/ContributedSoftwareKepstddev.shtml"> kepstddev</a></td>
+    <td>kepstddev</td>
     <td>Calculate Combined Differental Photometric Precision for time series light curve </td>
     </tr>
 
 <tr>
-    <td><a href="/ContributedSoftwareKepstitch.shtml"> kepstitch</a></td>
+    <td>kepstitch</td>
     <td>Append multiple month short cadence and/or multiple quarter long cadence data</td>
     </tr>
 
 <tr>
-    <td><a href="/ContributedSoftwareKeptimefix.shtml"> keptimefix</a></td>
+    <td>keptimefix</td>
     <td>Correct time stamps in Target Pixel Files to TDB system </td>
     </tr>
 
 <tr>
-    <td><a href="/ContributedSoftwareKeptransit.shtml"> keptransit</a></td>
+    <td>keptransit</td>
     <td>Fit planet trasit models to Kepler time-series </td>
     </tr>
 
 <tr>
-    <td><a href="/ContributedSoftwareKeptrial.shtml"> keptrial</a></td>
+    <td>keptrial</td>
     <td>Calculate best period and error estimate from Fourier transform </td>
     </tr>
 
 <tr>
-    <td><a href="/ContributedSoftwareKeptrim.shtml"> keptrim</a></td>
+    <td>keptrim</td>
     <td>Trim pixels from Target Pixel Files </td>
     </tr>
 
 <tr>
-    <td><a href="/ContributedSoftwareKepwindow.shtml"> kepwindow</a></td>
+    <td>kepwindow</td>
     <td>Calculate and store the window function for a Kepler time series </td>
     </tr>
-    
+
 </table>
-
-<h4>PyKE tutorials</h4>
-
-These examples provide use cases and reduction examples for the user to follow. The procedures outlined in this section will not be optimal for all science, and it will ultimately be up to the user to determine what parameter values optimize scientific return.
-
-PyKE tasks can be called and controlled (i) directly from the command
-line within the PyRAF environment, (ii) entirely through GUI-driven
-operation using the epar function on the command line within the PyRAF
-environment, or (iii) as standalone python scripts called from the
-command line of a unix/linux shell. For the sake of clarity in these
-walkthroughs, we provide uniformly the PyRAF GUI task invocations. To
-get started on each walkthrough - in an xterm (not an OS X terminal
-window), run the following command in the directory where you have
-downloaded your Kepler or K2 data:<br/>
-
-  % mkiraf <br/>
-
-setting the terminal type to *xterm* when asked. Then startup PyRAF and load the PyKE tools in the Kepler package by entering the following commands <br/>
-
-  % pyraf <br/>
-
-  --> kepler <br/>
-
-To execute any task in GUI mode, type *epar <taskname>*, e.g. <br/>
-
-  --> epar kepdraw <br/>
-
-* [Extract and cotrend new light curves from Target Pixel Files](/PyKEprimerWalkthroughA.shtml)
-* [Mitigate motion and focus artifacts by redefining the optimal aperture](/PyKEprimerWalkthroughB.shtml)
-* [Subjective light curve cotrending using basis vectors](/PyKEprimerWalkthroughC.shtml)
-* [Removing stellar astrophysics and quarter stitching](/PyKEprimerWalkthroughD.shtml)
-* [Mitigate K2 motion artifacts by correlating detrended flux with target centroids](/PyKEprimerWalkthroughE.shtml)
 
 <h4>PyKE history</h4>
 
@@ -721,6 +609,20 @@ To execute any task in GUI mode, type *epar <taskname>*, e.g. <br/>
     <td>2.6.2 </td>
     <td>New tools like kepsff (MS) </td>
 </tr>
+
+<tr>
+    <td>2015-12-16</td>
+    <td>2.6.3a </td>
+    <td>Bugfixes in kepextract and keppca</td>
+</tr>
+
+<tr>
+    <td>2017-05-03</td>
+    <td>2.6.3 </td>
+    <td>PyKE is now installable via the <a href="http://astroconda.readthedocs.io/en/latest/installation.html#legacy-software-stack-with-iraf">Astroconda IRAF Channel</a></td>
+    <td>Bugfixes related to deprecated dependencies</td>
+</tr>
+
 
 </tdata>
 </table>
