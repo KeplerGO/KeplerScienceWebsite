@@ -1,19 +1,30 @@
-Title: Kepler/K2 Software Tools
+Title: Kepler/K2 software tools
 Save_as: software.html
 
 [TOC]
 
 ## Overview
 
-Here is a list of software products created by the Kepler/K2 Guest
+<h4>GO Office tools</h4>
+
+Below is a list of software tools created by the Kepler/K2 Guest
 Observer Office for use in preparing for Kepler and K2 observations
-and for analyzing the collected data. The Guest Observer Office hosts
-source code on [Github](https://github.com/KeplerGO).
+and for analyzing the collected data.
 
 <table class="table table-striped table-hover" style="max-width:50em;">
 
 <tr>
-    <td><a href="/software.html#k2fov">k2fov</a></td>
+    <td><a href="/software.html#pyke">PyKE</a></td>
+    <td>
+        A suite of tools to inspect target pixel files and extract detrended lightcurves.
+    </td>
+    <td>
+        <a href="https://github.com/KeplerGO/PyKE">github.com/KeplerGO/PyKE</a>
+    </td>
+</tr>
+
+<tr>
+    <td><a href="/software.html#k2fov">K2fov</a></td>
     <td>
         Checks whether a celestial coordinate falls within the field of view
         of a K2 campaign.
@@ -24,7 +35,7 @@ source code on [Github](https://github.com/KeplerGO).
 </tr>
 
 <tr>
-    <td><a href="/software.html#k2ephem">k2ephem</a></td>
+    <td><a href="/software.html#k2ephem">K2ephem</a></td>
     <td>
         Checks whether a moving Solar System body, e.g. an asteroid or comet,
         falls within the field of view of any K2 campaign.
@@ -35,18 +46,27 @@ source code on [Github](https://github.com/KeplerGO).
 </tr>
 
 <tr>
-    <td><a href="/software.html#pyke">pyke</a></td>
+    <td><a href="http://barentsen.github.io/k2flix/">K2flix</a></td>
     <td>
-        A tool to create light curves with user-chosen pixel apertures and
-        cotrend and/or detrend data.
+        Converts target pixel files into movies or animated gifs for quick and easy pixel data inspection.
     </td>
     <td>
-        <a href="https://github.com/KeplerGO/PyKE">github.com/KeplerGO/PyKE</a>
+        <a href="https://github.com/KeplerGO/k2flix">github.com/KeplerGO/k2flix</a>
     </td>
 </tr>
 
 <tr>
-    <td><a href="https://github.com/KeplerGO/kadenza">kadenza</a></td>
+    <td><a href="http://k2mosaic.geert.io">K2mosaic</a></td>
+    <td>
+        Combines target pixel files into wide-field images.
+    </td>
+    <td>
+        <a href="https://github.com/KeplerGO/k2mosaic">github.com/KeplerGO/k2mosaic</a>
+    </td>
+</tr>
+
+<tr>
+    <td><a href="https://github.com/KeplerGO/kadenza">Kadenza</a></td>
     <td>
         Converts raw cadence data from the Kepler spacecraft into astronomer-friendly FITS files.</td>
     <td>
@@ -56,6 +76,8 @@ source code on [Github](https://github.com/KeplerGO).
 
 </table>
 
+
+<h4>Community-contributed tools</h4>
 
 In addition, members of the community have made a range of tools available.
 Below is a non-exhaustive list of community tools, presented in alphabetical order. Please <a href="helpdesk.html">contact us</a> if your software is missing!
@@ -69,26 +91,6 @@ Below is a non-exhaustive list of community tools, presented in alphabetical ord
     </td>
     <td>
         <a href="https://github.com/rodluger/everest">github.com/rodluger/everest</a>
-    </td>
-</tr>
-
-<tr>
-    <td><a href="https://github.com/barentsen/k2mosaic">k2mosaic</a></td>
-    <td>
-        Combines target pixel files into wide-field images.
-    </td>
-    <td>
-        <a href="https://github.com/barentsen/k2mosaic">github.com/barentsen/k2mosaic</a>
-    </td>
-</tr>
-
-<tr>
-    <td><a href="http://barentsen.github.io/k2flix/">k2flix</a></td>
-    <td>
-        Converts target pixel files into movies or animated gifs for quick and easy pixel data inspection.
-    </td>
-    <td>
-        <a href="https://github.com/barentsen/k2flix">github.com/barentsen/k2flix</a>
     </td>
 </tr>
 
@@ -320,9 +322,9 @@ A comprehensive list of PyKE tasks is provided here.
 </tr>
 
 <tr>
-    <td><kepclip</td>
-    <td> Remove unwanted time ranges from Kepler time series data </td>
-    </tr>
+    <td>kepclip</td>
+    <td>Remove unwanted time ranges from Kepler time series data </td>
+</tr>
 
 <tr>
     <td>kepconvert</td>
@@ -619,44 +621,13 @@ A comprehensive list of PyKE tasks is provided here.
 <tr>
     <td>2017-05-03</td>
     <td>2.6.3 </td>
-    <td>PyKE is now installable via the <a href="http://astroconda.readthedocs.io/en/latest/installation.html#legacy-software-stack-with-iraf">Astroconda IRAF Channel</a></td>
-    <td>Bugfixes related to deprecated dependencies</td>
+    <td>PyKE is now installable via the <a href="http://astroconda.readthedocs.io/en/latest/installation.html#legacy-software-stack-with-iraf">Astroconda IRAF Channel</a>
+    In addition, the release contains a series of bugfixes related to deprecated dependencies</td>
 </tr>
 
 
 </tdata>
 </table>
-
-<h4>Citing PyKE</h4>
-
-Those wishing to cite PyKE in a publication can reference
-[Still & Barclay (2012)](http://adsabs.harvard.edu/abs/2012ascl.soft08004S). An
-appropriate statement to include in the acknowledgements is: *"This
-work made use of PyKE (Still & Barclay 2012), a software package for
-the reduction and analysis of Kepler data. This open source software
-project is developed and distributed by the NASA Kepler Guest Observer
-Office."*
-
-**Disclaimers**<br/>
-<u>No Warranty</u>: THE SUBJECT SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY WARRANTY OF ANY KIND, EITHER EXPRESSED, IMPLIED, OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTY THAT THE SUBJECT SOFTWARE WILL CONFORM TO SPECIFICATIONS, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR FREEDOM FROM INFRINGEMENT, ANY WARRANTY THAT THE SUBJECT SOFTWARE WILL BE ERROR FREE, OR ANY WARRANTY THAT DOCUMENTATION, IF PROVIDED, WILL CONFORM TO THE SUBJECT SOFTWARE. THIS AGREEMENT DOES NOT, IN ANY MANNER, CONSTITUTE AN ENDORSEMENT BY GOVERNMENT AGENCY OR ANY PRIOR RECIPIENT OF ANY RESULTS, RESULTING DESIGNS, HARDWARE, SOFTWARE PRODUCTS OR ANY OTHER APPLICATIONS RESULTING FROM USE OF THE SUBJECT SOFTWARE. FURTHER, GOVERNMENT AGENCY DISCLAIMS ALL WARRANTIES AND LIABILITIES REGARDING THIRD-PARTY SOFTWARE, IF PRESENT IN THE ORIGINAL SOFTWARE, AND DISTRIBUTES IT "AS IS."
-
-<u>Waiver and Indemnity</u>: RECIPIENT AGREES TO WAIVE ANY AND ALL CLAIMS
-AGAINST THE UNITED STATES GOVERNMENT, ITS CONTRACTORS AND
-SUBCONTRACTORS, AS WELL AS ANY PRIOR RECIPIENT. IF RECIPIENT'S USE OF
-THE SUBJECT SOFTWARE RESULTS IN ANY LIABILITIES, DEMANDS, DAMAGES,
-EXPENSES OR LOSSES ARISING FROM SUCH USE, INCLUDING ANY DAMAGES FROM
-PRODUCTS BASED ON, OR RESULTING FROM, RECIPIENT'S USE OF THE SUBJECT
-SOFTWARE, RECIPIENT SHALL INDEMNIFY AND HOLD HARMLESS THE UNITED
-STATES GOVERNMENT, ITS CONTRACTORS AND SUBCONTRACTORS, AS WELL AS ANY
-PRIOR RECIPIENT, TO THE EXTENT PERMITTED BY LAW. RECIPIENT'S SOLE
-REMEDY FOR ANY SUCH MATTER SHALL BE THE IMMEDIATE, UNILATERAL
-TERMINATION OF THIS AGREEMENT.
-
-**Notices**<br/>
-Copyright © 2010-2011 United States Government as represented by the Administrator of the National Aeronautics and Space Administration. All Rights Reserved.
-
-[NASA OPEN SOURCE AGREEMENT](/docs/KeplerScienceCommunityToolsNOSA.pdf)
-
 
 
 ## Data inspection
@@ -673,8 +644,13 @@ K2flix enables the pixel data to be visualized
 by turning Kepler/K2's Target Pixel Files (TPF) into 
 contrast-stretched animated gifs or MPEG-4 movies.
 K2flix can be used both as a command-line tool or using its Python API.
-The tool is hosted and documented on [GitHub](https://github.com/barentsen/k2flix).
+The tool is hosted and documented on [GitHub](https://github.com/KeplerGO/k2flix).
 
+
+### K2mosaic
+
+K2mosaic is a command-line tool which allows the postage stamp-sized pixel masks obtained by Kepler and K2 to be stitched together into CCD-sized mosaics and movies. The principal use is to take a set of Target Pixel Files (TPF) and turn them into more traditional FITS image files -- one per CCD channel and per cadence. K2mosaic can also be used to create animations from these mosaics.
+The tool is hosted and documented on [GitHub](https://github.com/KeplerGO/K2mosaic).
 
 ### KeplerFFI
 
