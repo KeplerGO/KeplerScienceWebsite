@@ -300,13 +300,14 @@ Or you can type *K2ephem --help* to see the detailed usage instructions:
 
 ### PyKE
 
+Documentation website: [pyke.keplerscience.org](http://pyke.keplerscience.org).
+
 PyKE is a suite of python software tools developed to reduce and
 analyze Kepler and K2 light curves, TPFs, and FFIs. PyKE tools provide the
 user with flexibility to tune pixel extraction and artifact mitigation
 for the scientific potential of individual target data. A variety of
 other tasks are also included.
 PyKE development takes place on its [GitHub repository](https://www.github.com/KeplerGO/PyKE).
-Check out PyKE's documentation webpage [here](http://pyke.rtfd.io).
 We encourage users to participate in the development process by opening
 issues, pull requests, or sending us an email.
 
