@@ -118,9 +118,6 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b>2 Aug 2017</b> (expected)',
-             'K2 Campaign 12 calibrated data release',
-             'k2-fields.html'),
             ('<b>31 Aug 2017</b>',
              'K2 Campaign 16 DDT deadline',
              'k2-ddt.html'),
@@ -137,12 +134,9 @@ IMPORTANT_DATES = (
 
 # Defines the "meetings" box on the front page
 MEETINGS = (
-            ('<b>16–21 Jul 2017</b><br>'
-             'TASC3 KASC10 Workshop (UK)',
-             'www.tasc3kasc10.com'),
-            ('<b>17–21 Jul 2017</b><br>'
-             'Transiting Exoplanets Conference (UK)',
-             'https://wasp-planets.net/conference/'),
+            ('<b>15–20 Oct 2017</b><br>'
+             'Kepler/K2 booth at the DPS meeting',
+             'https://aas.org/meetings/dps49'),
             ('<b>8–12 Jan 2018</b><br>'
              'Kepler/K2 booth at the Winter AAS meeting',
              'https://aas.org/meetings/aas231'),
