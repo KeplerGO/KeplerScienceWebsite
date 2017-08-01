@@ -37,14 +37,14 @@ the scientific exploitation of the data.
 
 <b><i>First cadence</i></b>
 <ul>
-<li>Time: 2016-12-15 20:40:49 UTC</li>
+<li>Start Time: 2016-12-15 20:40:49 UTC</li>
 <li>Long Cadence Number:136855</li>
 <li>Short Cadence Number: 4094110 </li>
 </ul>
 
 <b><i>Last cadence</i></b>
 <ul>
-<li>Time: 2017-03-04 18:08:21 UTC</li>
+<li>End Time: 2017-03-04 18:37:47 UTC</li>
 <li>Long Cadence Number: 140716</li>
 <li>Short Cadence Number: 4209969</li>
 </ul>
@@ -64,7 +64,7 @@ the scientific exploitation of the data.
 
 <div class="thumbnail">
 <div class="caption">
-<i>Figure C12-Mag: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The distribution is due to how the largest [GO programs](k2-approved-programs.html#campaign-12) were selected.</i>
+<i>Figure C12-Mag: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href ="k2-approved-programs.html#campaign-12">GO Programs</a> were selected.</i>
 </div>
 <a href="images/release-notes/c12/c12_lc_magnitude_distribution.png">
 <img src="images/release-notes/c12/c12_lc_magnitude_distribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets.">
@@ -122,7 +122,7 @@ data-setup="{}">
 
 <div class="thumbnail" style="width: 43%;display: inline-block;">
 <div class="caption">
-<i>Figure C12-Channel-62 Mars Ghost Image: the large spatial extent and complex structure of the Schmidt corrector ghost image of Mars is striking in this stretched image from the the calibrated FFI ktwo2017032102633-c12_ffi-cal.fits.</i>
+<i>Figure C12-Channel-62 Mars Ghost Image: the large spatial extent and complex structure of the Schmidt corrector ghost image of Mars is striking in this stretched image from the calibrated FFI ktwo2017032102633-c12_ffi-cal.fits.</i>
 </div>
 <a href="images/release-notes/c12/c12_ffi2_mod18.png">
 <img src="images/release-notes/c12/c12_ffi2_mod18.png" class="img-responsive" alt="Module-18 Schmidt corrector ghost image of Mars.">
@@ -162,10 +162,10 @@ The location of Mars was calculated from the Kepler-o-centric (NAIF Id = -227)
 RA and DEC. The location of Mars and its ghost in the FFI are in the 
 headers of the respective files. 
 
-The location of the ghost was calculated from rotating the 
+The location of the ghost was calculated by rotating the 
 RA and DEC of Mars around the boresight by 180 degrees and is approximate due to 
 variations of the CCD and field-flattener lens positions and orientations 
-from the ideal focal plane. Based on the the FFI and the long cadence pixel data,
+from the ideal focal plane. Based on the FFI and the long cadence pixel data,
 the ghost can vary in position by up to ~100 pixels from the locations given in
 the table. Given this variation and the large size of the ghost image, 
 users might be advised to use caution if their target is within
@@ -243,12 +243,13 @@ to dominate the systematic
 errors in C12 simple aperture photometry light curves. In spite of the sparse
 nature of the C12 field of view, the pipeline CDPP 12th magnitude noise 
 benchmark is 20% higher than what was seen in star fields of comparable star 
-density (55 ppm in C12 vs 42 ppm in C6 and 47 ppm in C8). The passage Mars 
-affected CDPP on the channels with the
+density (55 ppm in C12 vs 42 ppm in C6 and 47 ppm in C8). The passage of Mars 
+most significantly affected CDPP on the channels with the
 direct and ghost images; however, excluding these channels does not lower
 the 12th magnitude CDPP benchmark value. The project is investigating this
-performance change to see if it can be traced to a spacecraft or a 
-pipeline processing change. 
+performance change to better understand the change in CDPP as a function 
+of magnitude, position, color, etc., and to see if it can be traced 
+to a spacecraft, or a pipeline processing change.
 
 The magnitude dependence of CDPP and its distribution over the focal 
 plane are shown below. Other CDPP benchmarks can be found in the 
@@ -1803,7 +1804,7 @@ The star on Module 25 used for guiding during C6 was highly variable. No adverse
 
 The dominant systematic present in K2 simple aperture photometry light curves is a sawtooth shape that is due to the roll of the spacecraft approximately every 6 hours. The PDC module of the Kepler Pipeline uses Principle Component Analysis to remove this signal in addition to other systematics. Below, we examine observed noise levels in the PDC light curves for C6, Data Release 8.
 
-<a href="images/release-notes/c6/K2-C6_bin1.00_sc1.00_CDPP_Summary.txt">Table giving 6.5-hr CDPP as a function of magnitude.</a>
+<a href="images/release-notes/c6/K2-C06_bin1.00_sc1.00_CDPP_Summary.txt">Table giving 6.5-hr CDPP as a function of magnitude.</a>
 
 <div class="thumbnail" style="width: 70%;">
     <div class="caption">
