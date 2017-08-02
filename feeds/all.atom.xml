@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2017-08-01T16:00:00-07:00</updated><entry><title>Open source release of the Kepler data processing pipeline</title><link href="https://keplerscience.arc.nasa.gov/open-source-release-of-the-kepler-data-processing-pipeline.html" rel="alternate"></link><published>2017-08-01T16:00:00-07:00</published><updated>2017-08-01T16:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-08-01:/open-source-release-of-the-kepler-data-processing-pipeline.html</id><summary type="html">&lt;p&gt;The source code for the official Kepler data processing pipeline
 has been released to the public under the NASA Open Source License,
-and made available for download via the GitHub repository at &lt;a href="https://github.com/nasa/kepler-pipeline"&gt;https://github.com/nasa/kepler-pipeline&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The release is accompanied by a &lt;a href="https://github.com/nasa/kepler-pipeline/raw/master/kscrm.pdf"&gt;Source Code Roadmap&lt;/a&gt; (pdf)
+and made available for download via the GitHub repository at &lt;a href="https://github.com/nasa/kepler-pipeline"&gt;https://github.com/nasa/kepler-pipeline&lt;/a&gt;.
+The release is accompanied by a &lt;a href="https://github.com/nasa/kepler-pipeline/raw/master/kscrm.pdf"&gt;Source Code Roadmap&lt;/a&gt; (pdf)
 which presents an …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The source code for the official Kepler data processing pipeline
 has been released to the public under the NASA Open Source License,
-and made available for download via the GitHub repository at &lt;a href="https://github.com/nasa/kepler-pipeline"&gt;https://github.com/nasa/kepler-pipeline&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The release is accompanied by a &lt;a href="https://github.com/nasa/kepler-pipeline/raw/master/kscrm.pdf"&gt;Source Code Roadmap&lt;/a&gt; (pdf)
+and made available for download via the GitHub repository at &lt;a href="https://github.com/nasa/kepler-pipeline"&gt;https://github.com/nasa/kepler-pipeline&lt;/a&gt;.
+The release is accompanied by a &lt;a href="https://github.com/nasa/kepler-pipeline/raw/master/kscrm.pdf"&gt;Source Code Roadmap&lt;/a&gt; (pdf)
 which presents an overview of the various pipeline components
 found in the source code directory tree.&lt;/p&gt;
 &lt;p&gt;Users interested in the development of the underlying algorithms
 should refer to the &lt;a href="https://archive.stsci.edu/kepler/manuals/KSCI-19081-002-KDPH.pdf"&gt;Kepler Data Processing Handbook&lt;/a&gt; (pdf) which, together with the source code,
 represents the documentation of the algorithms used
-to produce the final data products of Kepler's prime mission.
-Products generated for the K2 mission use a modified version of this pipeline.&lt;/p&gt;</content></entry><entry><title>K2 Campaign 12 processed data available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-12-processed-data-available.html" rel="alternate"></link><published>2017-07-31T07:00:00-07:00</published><updated>2017-07-31T07:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-07-31:/k2-campaign-12-processed-data-available.html</id><summary type="html">&lt;p&gt;The pipeline-processed data for
+to produce the final target pixel files, light curves, and list of transit-like features (&lt;a href="https://exoplanetarchive.ipac.caltech.edu/docs/Kepler_TCE_docs.html"&gt;TCEs&lt;/a&gt;) for the final Data Release 25 of Kepler's prime mission (DR25).&lt;/p&gt;
+&lt;p&gt;A separate codebase, called the RoboVetter, was used to classify the transit-like features into planet candidates and false positives for Kepler's final planet catalog.
+This code is available in a separate repository at &lt;a href="https://github.com/nasa/kepler-robovetter"&gt;https://github.com/nasa/kepler-robovetter&lt;/a&gt; and will be described in a forthcoming paper led by Susan Mullally et al (in prep).&lt;/p&gt;
+&lt;p&gt;Products generated for the K2 mission use a modified version of this pipeline.&lt;/p&gt;</content></entry><entry><title>K2 Campaign 12 processed data available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-12-processed-data-available.html" rel="alternate"></link><published>2017-07-31T07:00:00-07:00</published><updated>2017-07-31T07:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-07-31:/k2-campaign-12-processed-data-available.html</id><summary type="html">&lt;p&gt;The pipeline-processed data for
 &lt;a href="k2-approved-programs.html#campaign-12"&gt;K2 Campaign 12&lt;/a&gt;
 are now available for download
 from the &lt;a href="http://archive.stsci.edu/k2"&gt;K2 archive at MAST&lt;/a&gt;. &lt;/p&gt;

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Tue, 01 Aug 2017 16:00:00 -0700</lastBuildDate><item><title>Open source release of the Kepler data processing pipeline</title><link>https://keplerscience.arc.nasa.gov/open-source-release-of-the-kepler-data-processing-pipeline.html</link><description>&lt;p&gt;The source code for the official Kepler data processing pipeline
 has been released to the public under the NASA Open Source License,
-and made available for download via the GitHub repository at &lt;a href="https://github.com/nasa/kepler-pipeline"&gt;https://github.com/nasa/kepler-pipeline&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The release is accompanied by a &lt;a href="https://github.com/nasa/kepler-pipeline/raw/master/kscrm.pdf"&gt;Source Code Roadmap&lt;/a&gt; (pdf)
+and made available for download via the GitHub repository at &lt;a href="https://github.com/nasa/kepler-pipeline"&gt;https://github.com/nasa/kepler-pipeline&lt;/a&gt;.
+The release is accompanied by a &lt;a href="https://github.com/nasa/kepler-pipeline/raw/master/kscrm.pdf"&gt;Source Code Roadmap&lt;/a&gt; (pdf)
 which presents an …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Tue, 01 Aug 2017 16:00:00 -0700</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2017-08-01:/open-source-release-of-the-kepler-data-processing-pipeline.html</guid></item><item><title>K2 Campaign 12 processed data available</title><link>https://keplerscience.arc.nasa.gov/k2-campaign-12-processed-data-available.html</link><description>&lt;p&gt;The pipeline-processed data for
 &lt;a href="k2-approved-programs.html#campaign-12"&gt;K2 Campaign 12&lt;/a&gt;
 are now available for download
