@@ -1,0 +1,45 @@
+# Summary of K2 Program GO15003
+
+Title: Asteroseismology of the Brightest K2 Stars
+
+PI: Huber, Daniel (University of Hawaii)
+CoIs: Aerts, Conny Clara; Silva Aguirre, Victor; Boyajian, Tabetha Suzanne; Pope, Benjamin James Spinks; White, Timothy R; Creevey, Orlagh; Bedding, Tim
+
+The most powerful tests of stellar structure and evolution come from the brightest stars in the night sky, for which complementary observational techniques (such as astrometry, asteroseismology, and interferometry) can be combined. So far, stars brighter than Kp < 8 mag were rarely observed with Kepler/K2 due to the large number of pixels required to capture the saturated pixel columns. We propose K2 observations of the brightest stars in campaigns 14-16, including a novel technique which uses a small number of unsaturated pixels. Asteroseismic studies of these targets will allow unprecedented tests of asteroseismic scaling relations which will pave the way for the success of the K2 Galactic Archeology Program, and insights into poorly understood internal processes of intermediate-mass stars such as convective core overshooting.
+
+We will select all targets with Kp < 8 mag from the Hipparcos catalog. We will use conventional apertures and small (~24 pixel diameter) circular apertures around the saturated core for very bright (Kp < 6) targets. For the latter, we will perform photometry using weighted sums of unsaturated pixels in the wings of the circular aperture. The method (so-called halo photometry) has been demonstrated to detect pulsations for all bright Pleiades and Hyades stars observed in Campaign 4. We will also organize spectroscopic and interferometric follow-up observations that will be combined with the K2 photometry.
+
+Our proposal addresses fundamental stellar astrophysics, a key science goal of the K2 mission. Our project furthermore supports galactic astrophysics, another key science area identified in the NRA, through the calibration of scaling relations for galactic archeology studies. A better understanding of stellar models through the study of bright stars is relevant for science goals pursued by both present and future NASA missions such as the characterization of exoplanets (TESS, JWST) as well as stellar populations and galaxy formation/evolution (HST, JWST).
+
+# Targets requested by this program that have been observed (30)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+200194910, , , , GO15001|GO15003|GO15023|DELTA_SCO-LC-BRIGHT_STAR_DISC
+200194911, , , , GO15001|GO15003|GO15063|GAMMA_LIB-LC-BRIGHT_STAR_DISC
+200194912, , , , GO15001|GO15003|GO15021|IOTA1_LIB-LC-BRIGHT_STAR_DISC
+200194913, , , , GO15001|GO15003|GO15063|41_LIB-LC-BRIGHT_STAR_DISC
+200194914, , , , GO15003|GO15021|GO15023|ZETA4_LIB-LC-BRIGHT_STAR_DISC
+200194915, , , , GO15003|GO15021|GO15023|GO15063|HR_5762-LC-BRIGHT_STAR_DISC
+200194916, , , , GO15003|GO15063|HR_5806-LC-BRIGHT_STAR_DISC
+200194917, , , , GO15003|ZETA3_LIB-LC-BRIGHT_STAR_DISC
+200194918, , , , GO15003|GO15063|HR_5810-LC-BRIGHT_STAR_DISC
+200194919, , , , GO15003|IOTA2_LIB-LC-BRIGHT_STAR_DISC
+200194920, , , , GO15003|GO15004|GO15063|HR_5620-LC-BRIGHT_STAR_DISC
+200194921, , , , GO15003|28_LIB-LC-BRIGHT_STAR_DISC
+200194958, , , , GO15003_LC|GO15001_LC|HD_138810-LC-BRIGHT_STAR_DISC
+249119329, 230.737736, -26.688766, 8.086, GO15003_LC
+249216625, 230.590877, -25.459495, 8.277, GO15003_LC
+249354477, 232.77923, -23.656802, 8.236, GO15003_LC
+249448438, 226.51306, -22.403979, 6.888, GO15003_LC
+249475847, 231.239847, -22.043659, 8.275, GO15003_LC
+249584373, 227.197893, -20.694495, 7.774, GO15003_LC
+249617858, 237.339131, -20.28487, 7.68, GO15003_LC
+249639986, 231.709823, -20.005078, 6.812, GO15003_LC|GO15009_LC
+249688732, 226.561678, -19.377503, 7.459, GO15003_LC
+249785519, 228.109515, -18.089949, 8.115, GO15003_LC|GO15004_LC|GO15021_LC
+249817942, 234.672456, -17.66485, 6.945, GO15003_LC
+249861691, 236.717582, -17.108681, 7.394, GO15003_LC|GO15001_LC
+249906067, 230.878729, -16.564098, 8.28, GO15003_LC
+249940651, 227.95824, -16.159557, 6.426, GO15003_LC|GO15023_LC
+250036555, 235.853578, -15.043232, 6.094, GO15003_LC
+250081171, 234.621168, -14.516866, 6.581, GO15003_LC
+250104419, 233.514519, -14.229523, 8.284, GO15003_LC|GO15009_LC|GO15028_LC|GO15021_LC

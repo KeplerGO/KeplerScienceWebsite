@@ -1,0 +1,15 @@
+# Summary of K2 Program GO15070
+
+Title: Detection of Transiting Exoplanet Candidates from the KELT Survey
+
+PI: Pepper, Joshua (Lehigh University)
+CoIs: Colon, Knicole D; Labadie-Bartz, Jonathan Michael; James, David J
+
+We propose a small program for K2 campaign 15 of the K2 mission to search for transiting planets around a set of stars pre-selected by the KELT ground-based transit survey.  These stars were observed by KELT over several years to search for Hot Jupiters and Saturns, and have initial indications of transit signatures.  These stars have not yet been further observed for confirmation, but we are deploying efforts to do so.  It is likely that most of these targets are false alarms, as is common for ground-based transit surveys, but given the initial data from KELT, each of them are more likely to be transit hosts than randomly selected bright dwarf stars in the K2 fields.  The transit signatures in the light curves for these targets should be easily measurable by K2.
+
+# Targets requested by this program that have been observed (4)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+249436087, 230.610614, -22.566916, 9.318, GO15070_LC|GO15009_LC|GO15052_LC|GO15021_LC
+249490794, 226.608106, -21.852403, 8.967, GO15070_LC|GO15034_LC|GO15009_LC|GO15028_LC|GO15021_LC
+249581326, 231.061977, -20.73203, 9.729, GO15070_LC|GO15006_LC|GO15009_LC|GO15028_LC|GO15004_LC|GO15021_LC
+250036302, 234.547171, -15.046226, 10.365, GO15070_LC|GO15028_LC|GO15021_LC

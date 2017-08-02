@@ -1,0 +1,25 @@
+# Summary of K2 Program GO15066
+
+Title: Continuous Monitoring of Cataclysmic Variables in the K2 Fields
+
+PI: Garnavich, Peter M. (University of Notre Dame)
+CoIs: Pepper, Joshua; Kennedy, Mark; Szkody, Paula
+
+The original Kepler field contained 27 previously known and/or subsequently discovered cataclysmic variables (CVs) which are close binaries with mass transfer from a late main-sequence star to a white dwarf. Kepler monitored 15 of these systems. The detailed coverage enabled unique studies of quiescent orbital and sporadic variability as well as the changes in the disk and stream impact area during short and long dwarf nova outbursts. We propose to monitor a set of CVs in the K2 fields of Campaigns 14, 15 and 16. The Cycle 5 fields represent the extremes of stellar densities with the directions toward the pole and Galactic center. We have matched the K2 fields with several CV databases and selected a total of about 33 targets for this cycle. These data will extend the range of CV types studied with Kepler's unprecedented continuous, fast-candence observations.
+
+For Campaign 16 observed in the forward facing direction, simultaneous ground-based observations are possible. We plan extensive photometric monitoring of the brighter CVs observed with K2 in complementary filters and fast cadences.
+
+# Targets requested by this program that have been observed (12)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+210282493, 238.95615, -23.28408, 17.1, GO15066_LC
+249251294, 229.980614, -25.006817, 18.241, GO15016_LC|GO15066_LC|GO15019_LC|GO15049_LC|GO15016_SC|GO15066_SC|GO15019_SC|GO15049_SC
+250015127, 234.636719, -15.288537, 19.501, GO15066_LC|GO15019_LC|GO15032_LC
+250105131, 233.971134, -14.220069, 13.678, GO15016_LC|GO15066_LC|GO15090_LC|GO15019_LC|GO15099_LC|GO15049_LC|GO15032_LC|GO15065_LC|GO15016_SC|GO15066_SC|GO15090_SC|GO15019_SC|GO15049_SC
+251668180, 227.4885417, -23.81625, 20.5, GO15066_LC|GO15019_LC
+251668181, 231.60499, -14.69582, 19.8, GO15066_LC|GO15019_LC
+251668182, 234.19155, -22.49742, 20.5, GO15066_LC|GO15019_LC
+251668183, 235.9754583, -14.6291111, 20.5, GO15066_LC|GO15019_LC
+251668185, 234.1884583, -14.4286, 22.906, GO15066_LC|GO15032_LC
+251668274, 229.87323, -24.66709, 21.0, GO15066_LC
+251668275, 227.18134, -17.45264, 19.0, GO15066_LC
+251668276, 233.27551, -23.59294, 22.0, GO15066_LC

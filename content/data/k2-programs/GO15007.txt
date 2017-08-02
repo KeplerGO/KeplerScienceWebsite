@@ -1,0 +1,22 @@
+# Summary of K2 Program GO15007
+
+Title: K2 observations of the roAp star 33 Lib
+
+PI: Holdsworth, Daniel L (University of Central Lancashire)
+CoIs: Kurtz, Donald Wayne; Cunha, Margarida Salvador
+
+We propose Short Cadence observations of 33 Lib (HD 137949, EPIC 249835410), a known rapidly oscillating Ap (roAp) star. 33 Lib was among one of the first roAp stars discovered by Kurtz (1982), and was shown to have a period of 8.3 min with an amplitude of 1.45 millimagnitudes (mmag).
+
+Since its discovery as a roAp star, 33 Lib has been the subject of photometric and spectroscopic variability studies. After the initial discovery, two lower amplitude pulsations were discovered, leading to the suggestion that 33 Lib is an ideal target to apply asteroseismic techniques to study the star. Kurtz (1991) postulated that the frequency separation between two photometric modes could be representative of the large frequency separation, but the ground-based data were insufficiently precise to make a firm conclusion. With the availability of K2 SC data we will improve on the precision previously attained and investigate the frequency separations. 
+
+SC observations are necessary to analyse this high frequency pulsator as the signature is much greater than the nominal Nyquist frequency of the Long Cadence mode. Although it is possible to study roAp stars in the super-nyquist regime (Holdsworth et al. 2014), amplitude suppression is likely to push the modes below the noise limit of the K2 data. Therefore, SC observations are key to exploiting the full potential of 33 Lib.
+
+The pulsations in the roAp stars are thought to be driven by the kappa-mechanism acting in the hydrogen ionisation zone. However, this mechanism cannot explain all of the observations. Rather, Cunha et al. (2013) suggest that turbulent pressure might be the driving force for some roAp stars. 33 Lib is one of these stars. The observed pulsation frequencies are from modes that are predicted to be stable in models with only kappa-mechanism driving, thus the need for a full and precise frequency solution of this star is key in understanding this, and other, roAp stars.
+
+To achieve our goals, we will conduct thorough data reduction of the provided data, aiming to maximise the output to best fit our science goals. Pulsational analysis will make use of linear and non-linear least squares fitting to the extracted lightcurve. The data will be sub-divided to monitor frequency and amplitude variations over the observing period, and the star will be compared to the other five roAp stars studied at such a high time resolution and photometric precision. 
+
+Modelling of the star will allow us to solve the mystery of the high-frequency pulsations. In particular, we will investigate the linear stability of high radial order modes in models of 33 Lib with and without envelope convection suppressed and helium settling. We will also verify whether the turbulent pressure mechanism contributes to (and eventually dominates) the excitation of the modes.
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+249835410, 232.394764, -17.440942, 6.64, GO15007_LC|GO15081_LC|GO15063_LC|GO15001_LC|GO15021_LC|GO15007_SC|GO15081_SC

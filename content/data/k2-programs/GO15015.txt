@@ -1,0 +1,26 @@
+# Summary of K2 Program GO15015
+
+Title: Extending the K2 Exoplanet Legacy by Re-Observing Previous K2 Targets in Campaigns 15 and 16
+
+PI: Boyajian, Tabetha Suzanne (Louisiana State University)
+CoIs: Vanderburg, Andrew
+
+K2 observes new a field every campaign, which means that K2 can observe large numbers of bright stars and can potentially find many planets, but it also means that K2 is generally unable to follow-up on its own discoveries. Occasionally, however, K2 re-observes portions of the sky that it has already surveyed, so it is possible to use existing K2 data to plan future observations. We propose Cycle 5 K2 observations of targets observed in previous K2 campaigns, with a particular focus on stars hosting transiting planet candidates. During Cycle 5, portions of Fields 2 and 5 will be reobserved (during Campaigns 15 and 16, respectively). We have produced light curves of stars that could be re-observed during Cycle 5 and searched both by eye and by an automated pipeline to identify planet candidates and interesting variables. We propose short-cadence observations of some of the more interesting planet candidates which would benefit most from improved sampling.
+
+
+Observing targets across multiple campaigns brings a number of benefits. Chiefly, it allows improved constraints on the timing of periodic signals like transiting planets. Additionally, knowing about planet candidates before K2 observations makes short cadence observations of interesting candidates possible, which can significantly improve transit parameters and can reveal transit-timing variations.  Lastly, the longer duration of observations allows for study the evolution of phenomena (like stellar magnetic activity) that vary on timescales longer than a single campaign.
+
+
+Module 2 of Field 15 overlaps nearly entirely with Module 23 of Field 2, and almost 30% of Field 5 overlaps with Field 16. We have reduced light curves from these overlapping regions following Vanderburg & Johnson (2014) and searched for transiting planets using the methodology of Vanderburg et al. (2016). In addition, we visually inspected each overlapping light curve by eye to find planet candidates missed by our automated search (including planet candidates with single or few transits), and also to find other interesting or noteworthy variable stars such as young dipper stars (e.g. Ansdell et al. 2016). 
+
+
+We propose short-cadence observations of several systems. One of these systems is K2-38 (Sinukoff et al. 2016), a two-planet system around a bright solar-type star, which already has an RV mass measurement. Short cadence observations will improve the measurement of the planet radius, giving better constraints on the planets bulk composition. Other systems for which we propose short cadence observations include several planetary systems in Praesepe (Mann et al. 2016). Short cadence observations of these stars will improve transit parameters and could yield spin/orbit alignment information from starspot crossing events.
+
+# Targets requested by this program that have been observed (6)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+204197636, 239.262728, -23.280608, 13.468, GO15011_LC|GO15015_LC|GO15052_LC|GO15021_LC
+204221263, 240.033579, -23.189288, 11.21, GO15011_LC|GO15025_LC|GO15101_LC|GO15015_LC|GO15013_LC|GO15009_LC|GO15028_LC|GO15021_LC|GO15011_SC|GO15101_SC|GO15015_SC|GO15013_SC|GO15009_SC
+204262652, 240.727952, -23.025109, 13.801, GO15015_LC|GO15052_LC
+204531595, 239.466655, -21.957015, 13.336, GO15015_LC|GO15052_LC|GO15021_LC
+204533587, 238.776534, -21.948824, 12.24, GO15015_LC|GO15009_LC|GO15021_LC|GO15020_LC
+204579445, 240.828357, -21.756069, 11.916, GO15011_LC|GO15101_LC|GO15015_LC|GO15009_LC|GO15021_LC|GO15101_SC|GO15015_SC

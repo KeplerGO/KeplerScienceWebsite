@@ -1,0 +1,27 @@
+# Summary of K2 Program GO15080
+
+Title: Constraining cores of horizontal branch stars using K2 seismology
+
+PI: Reed, Mike D (Missouri State University)
+CoIs: Telting, John; Baran, Andrzej S; Jeffery, Christopher Simon; Ostensen, Roy H.
+
+This proposal is a continuation of our work to understand processes and structures within helium-fusing cores of stars. These cores are at the centers of all horizontal branch stars so understanding them has impact across much of astronomy. Our understanding comes from applying seismic constraints from their pulsations to stellar models which contain appropriate physics. Only Kepler (K1) and K2 observations have proven sufficient to interpret their pulsations (even TESS will not contribute). So campaigns 14 to 16 are our last chance to accumulate observational data. Pulsating horizontal branch cores are sdBV stars. K1 discovered 19 and K2 (to C8) has discovered 18 and observed 2 known sdBV stars. Through several years experience, we have made great progress, with several analyses ongoing. We have learned to robustly assign pulsation modes using asymptotic period spacings, rotationally split multiplets, and the value of the Ledoux constant. These supply extremely strong constraints to structural models, which prior to K1 were under-constrained, but now demonstrate contradictions between observation and theory. This implies that the models require new physics, especially regarding the physics of diffusion and tides, and will lead to a better understanding of stellar structure.
+ We anticipated degeneracies between core mass, envelope mass, and evolution, requiring multiple stars to overcome. From K1, and continuing with K2, we have found that core masses in sdBV stars have a narrow range. We have uncovered new features including: stars with differential and others with uniform rotation; stars with stable pulsations and others with stochastic properties; frequency multiplets which we associate with stellar rotation that are constant, converging, or diverging; pulsations in only pressure (surface) modes, only gravity (core-sensing) modes, and both (hybrids); varying degrees of mode trapping, which is a consequence of  internal stratification; and rotation rates which are long, sub-synchronous when in binaries, yet we are discovering groupings, likely related to mass loss/exchange mechanisms.To discriminate the causes of these various features will require substantial modelling efforts, but those can only proceed with observational constraints. As such, we still urgently need K2 observations of sdBV stars covering the full range of pulsation properties, especially in the pressure-mode domain, which is very sparsely populated by K1+K2 observations.
+ Our team has extensively explored many aspects of sdB stars, including spectroscopic characterisation, binary properties, and the application of asteroseismic tools. We have been examining sdB stars since their pulsations were discovered in 1996 and have already published over 20 papers from K1 and five from K2.
+ We propose to observe about 5-8 stars per campaign, most of which are so far unobserved for pulsations. We only select the most promising targets, both in terms of potential pulsation and binary properties. Processes we can probe include radiative and gravitational diffusion; binary interaction, mass and
+angular momentum exchange; post-helium flash core structure; and helium fusion cross-sections via evolution.
+ We also include students in our work. Many of our papers include undergraduate students as significant contributors. Students have learned to process, analyze, and interpret K2 data for pulsations and binarity. They have also been involved in pre- and post-Kepler characterisation studies, providing them with a broad range of training. Graduate students at European partner institutions will be working with us; processing and interpreting pulsations, as well as developing new physics for sdB star models as part of their thesis work. Only K2 provides sufficient accuracy, duty cycle, and duration necessary to fully exploit sdB pulsations as a probe of stellar astrophysics.
+
+# Targets requested by this program that have been observed (11)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+249585191, 227.33427, -20.685234, 17.947, GO15051_LC|GO15089_LC|GO15080_LC|GO15051_SC|GO15080_SC
+249601610, 226.968972, -20.483921, 15.709, GO15051_LC|GO15089_LC|GO15080_LC|GO15051_SC|GO15080_SC
+249700050, 227.189843, -19.229303, 15.645, GO15051_LC|GO15089_LC|GO15080_LC|GO15051_SC|GO15080_SC
+249770424, 230.884527, -18.290601, 14.001, GO15051_LC|GO15089_LC|GO15080_LC|GO15051_SC|GO15080_SC
+249862817, 236.893304, -17.094694, 18.05, GO15016_LC|GO15051_LC|GO15089_LC|GO15080_LC|GO15016_SC|GO15051_SC|GO15080_SC
+249867379, 234.418044, -17.037584, 15.345, GO15051_LC|GO15089_LC|GO15080_LC|GO15051_SC|GO15080_SC
+249942493, 228.293049, -16.138997, 12.887, GO15051_LC|GO15089_LC|GO15080_LC|GO15099_LC|GO15051_SC|GO15080_SC
+250083298, 230.78483, -14.491302, 17.344, GO15016_LC|GO15089_LC|GO15080_LC|GO15016_SC|GO15080_SC
+250121838, 234.829211, -14.001523, 15.743, GO15080_LC|GO15080_SC
+250152590, 235.892792, -13.572252, 17.13, GO15051_LC|GO15089_LC|GO15080_LC|GO15051_SC|GO15080_SC
+251668197, 228.0605, -17.61161, 17.0, GO15051_LC|GO15089_LC|GO15080_LC|GO15051_SC|GO15080_SC
