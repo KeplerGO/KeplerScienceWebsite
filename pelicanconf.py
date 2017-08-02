@@ -127,7 +127,7 @@ IMPORTANT_DATES = (
             ('<b>12 Oct 2017</b>',
              'GO Cycle 6 Step-1 deadline:<br/>Target lists due for Campaigns 17-19',
              ''),
-            ('<b>19 Apr 2017</b>',
+            ('<b>19 Apr 2018</b>',
              'GO Cycle 6 Step-2 deadline:<br/>Funding proposals due for Campaigns 17-19',
              ''),
          )
