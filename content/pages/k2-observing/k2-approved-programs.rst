@@ -24,6 +24,69 @@ Campaign 15
 -----------
 .. raw:: html
 
+    <p>
+        The Campaign 15 target list includes <b>23,279 standard long cadence</b>
+        and <b>119 standard short cadence</b> targets,
+        located towards the constellations of Scorpius.
+    </p>
+
+    <p>
+    The target list includes:
+    <ul>
+    <li>
+        The outskirts of the ~11 Myr-old <b>Upper Sco</b> region, the most nearby OB star association located just ~400 light-years away, including:
+        <ul>
+            <li>
+                <b>Delta Sco</b>: one of the best-studied Be-type stars, known for outbursts in 2000 and 2011. The target is very bright (Kp=2) and hence observed using a custom circular mask (EPIC 200194910).
+            </li>
+            <li>
+                Several other <b>bright B- and A-type stars</b> (Kp=4-6) to be searched for pulsations for the first time.
+            </li>
+            <li>
+                Hundreds of <b>low-mass pre-main sequence stars</b>.
+            </li>
+        </ul>
+    </li>
+    <li>
+        Notable targets observed in short cadence include:
+        <ul>
+            <li>
+                <b>GW Lib</b> (EPIC 249251294): a Cataclysmic Variable with a pulsating white dwarf.
+            </li>
+            <li>
+                <b>2MASS 1507-1627</b> (EPIC 249914869): an L5 Brown Dwarf located just 24 light-years from Earth.
+            </li>
+            <li>
+                <b>K2-38</b> (EPIC 204221263): an exoplanet system with two transiting super-Earths discovered in Campaign 2.
+            </li>
+        </ul>
+    </li>
+    <li>
+        The globular cluster <b>NGC 5897</b> is observed using a 90-by-90 pixel square box.
+    </li>
+    <li>
+        <b>3466 Galaxies</b> are being monitored for supernovae.
+    </li>
+    <li>
+        <b>38 Solar System objects</b>, including:
+        <ul>
+            <li>
+                Asteroid Ryugu: target of the <a href="https://en.wikipedia.org/wiki/Hayabusa_2">Hyabusa 2 sample return mission</a>.
+            </li>
+            <li>
+                3 Main-belt asteroids: Fantasia, Neujmina, and Stereoskopia.
+            </li>
+            <li>
+                4 Comets: 94P/Russell, 130P/McNaught-Hughes, C/2014 F3 (Sheppard-Trujillo), and C/2014 W2 (PANSTARRS).
+            </li>
+            <li>
+                16 Trojans and 14 Trans-Neptunian Objects.
+            </li>
+        </ul>
+    </li>
+    </ul>
+    </p>
+
   <ul class="list-group">
     <li class="list-group-item">
       <i class="fa fa-calendar fa-margin"></i>
@@ -119,39 +182,38 @@ Campaign 13
     in the Galactic Anti-Center direction.
     </p>
 
-
     <p>
     Notable targets include:
     <ul>
-    <li>
-    members of the <b>Taurus star-forming region</b> including two well-known T Tauri-type stars:
-    <ul>
-    <li>
-        <b>HL Tau</b> (EPIC 210690913);
-    </li>
-    <li>
-        <b>LkCa 15</b> (EPIC 247520207);
-    </li>
-    </ul>
-    </li>
-    <li>
-        the nearby <b>Hyades open cluster</b>;
-    </li>
-    <li>
-        the distant clusters <b>NGC 1647</b>, <b>NGC 1746</b> and <b>NGC 1817</b>;
-    </li>
-    <li>
-        33 galaxies;
-    </li>
-    <li>
-        6 Trojan asteroids;
-    </li>
-    <li>
-        8 Trans-Neptunian Objects (TNOs);
-    </li>
-    <li>
-        1 Comet (246P/NEAT).
-    </li>
+        <li>
+            members of the <b>Taurus star-forming region</b> including two well-known T Tauri-type stars:
+            <ul>
+                <li>
+                    <b>HL Tau</b> (EPIC 210690913);
+                </li>
+                <li>
+                    <b>LkCa 15</b> (EPIC 247520207);
+                </li>
+            </ul>
+        </li>
+        <li>
+            the nearby <b>Hyades open cluster</b>;
+        </li>
+        <li>
+            the distant clusters <b>NGC 1647</b>, <b>NGC 1746</b> and <b>NGC 1817</b>;
+        </li>
+        <li>
+            33 galaxies;
+        </li>
+        <li>
+            6 Trojan asteroids;
+        </li>
+        <li>
+            8 Trans-Neptunian Objects (TNOs);
+        </li>
+        <li>
+            1 Comet (246P/NEAT).
+        </li>
     </ul>
     </p>
 
