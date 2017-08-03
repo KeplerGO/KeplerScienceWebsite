@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Tue, 01 Aug 2017 16:00:00 -0700</lastBuildDate><item><title>Open source release of the Kepler data processing pipeline</title><link>https://keplerscience.arc.nasa.gov/open-source-release-of-the-kepler-data-processing-pipeline.html</link><description>&lt;p&gt;The source code for the official Kepler data processing pipeline
+<rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Wed, 02 Aug 2017 21:00:00 -0700</lastBuildDate><item><title>K2 Campaign 15 science program now available</title><link>https://keplerscience.arc.nasa.gov/k2-campaign-15-science-program-now-available.html</link><description>&lt;p&gt;The science program and target lists for K2 Campaign 15
+have now been posted on the
+&lt;a href="k2-approved-programs.html#campaign-15"&gt;approved targets &amp;amp; programs page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Campaign 15 is scheduled to run from &lt;b&gt;August 23 through November 20, 2017&lt;/b&gt;,
+and will be observing towards the constellation of &lt;b&gt;Scorpius&lt;/b&gt;.
+The target list includes &lt;b&gt;23,279 standard long …&lt;/b&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Wed, 02 Aug 2017 21:00:00 -0700</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2017-08-02:/k2-campaign-15-science-program-now-available.html</guid></item><item><title>Open source release of the Kepler data processing pipeline</title><link>https://keplerscience.arc.nasa.gov/open-source-release-of-the-kepler-data-processing-pipeline.html</link><description>&lt;p&gt;The source code for the official Kepler data processing pipeline
 has been released to the public under the NASA Open Source License,
 and made available for download via the GitHub repository at &lt;a href="https://github.com/nasa/kepler-pipeline"&gt;https://github.com/nasa/kepler-pipeline&lt;/a&gt;.
 The release is accompanied by a &lt;a href="https://github.com/nasa/kepler-pipeline/raw/master/kscrm.pdf"&gt;Source Code Roadmap&lt;/a&gt; (pdf)

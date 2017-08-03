@@ -1,0 +1,25 @@
+# Summary of K2 Program GO15103
+
+Title: Exploring the connection between gamma-ray and optical variability in blazars
+
+PI: Santander, Juan Marcos (Barnard College)
+CoIs: Williams, David A; Mukherjee, Reshmi; Johnson, Caitlin Anne
+
+Blazars constitute the most numerous source type detected in gamma rays, accounting for more than one third of the objects listed in the Fermi-LAT point-source catalog. They are characterized by a non-thermal, highly-polarized continuum emission spanning the entire electromagnetic spectrum and  by very fast variability which has been observed down to time scales of minutes in the TeV energy range. 
+We propose to exploit the unprecedented photometric precision and temporal coverage of K2 observations to investigate the correlation between optical and gamma-ray light curves in blazars. For this purpose, we have selected a sample of gamma-ray detected and gamma-ray candidate blazars that fall on the K2 silicon footprint during the upcoming observation cycle. These correlation studies can provide further insights into the mechanism responsible for the blazar emission and test the dependence of optical variability on blazar type.
+
+# Targets requested by this program that have been observed (13)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+249148935, 232.924759, -26.325705, 18.256, GO15103_LC
+249149405, 232.930723, -26.319996, 17.689, GO15103_LC
+249178575, 235.946767, -25.948499, 16.031, GO15103_LC
+249410284, 228.05315, -22.919004, 17.885, GO15103_LC
+249479972, 226.728188, -21.990479, 17.001, GO15103_LC|GO15079_LC
+249544142, 237.11208, -21.18602, 18.035, GO15103_LC
+249544232, 237.113939, -21.18489, 19.641, GO15103_LC
+249996315, 231.694534, -15.507366, 17.173, GO15071_LC|GO15103_LC
+250000885, 234.423232, -15.453467, 18.314, GO15008_LC|GO15103_LC
+251668388, 233.1875, -13.3194, 22.2, GO15103_LC
+251668389, 227.9042, -16.8953, 20.0, GO15103_LC
+251668390, 226.7708, -16.8753, 18.606, GO15103_LC
+251668391, 234.7125, -16.9242, 21.7, GO15103_LC

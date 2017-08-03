@@ -1,0 +1,25 @@
+# Summary of K2 Program GO15011
+
+Title: Revisiting a Successful Campaign: a Second Term Pursuing Transit Timing of K2-discovered Worlds
+
+PI: Fabrycky, Daniel Clark (University of Chicago)
+CoIs: Montet, Benjamin T; Agol, Eric; Foreman-Mackey, Daniel; Kruse, Ethan; Luger, Rodrigo
+
+K2 Campaigns 15 and 16 are the first in the K2 mission to have substantial overlap with previous fields. One module in Campaign 15 observations will overlap with Campaign 2, while 30% of the field of Campaign 16 overlaps with Campaign 5. These fields provide unique opportunities beyond those of a typical K2 field. First, the three-year time baseline of observations provide an opportunity to detect transit timing variations (TTVs), which can be used to confirm the planetary nature of transit signals in the K2 data. The observed TTV signal from interacting planets can grow quadratically in time: planetary systems that may have an apparent linear ephemeris in 75 days of data could show significant TTVs over three years. In the cases when both planets transit, this can enable us to infer masses, densities, and eccentricities for both planets in the system. TTVs can also be used to infer the presence of non-transiting planets in the Kepler data by detecting perturbations on observed planets that cannot be explained by other transiting planets in the system. 
+
+The K2 overlap regions also provide the opportunity to detect the smallest planets found by K2. The overlap regions provide 40 square degrees of the sky which will be observed for a total of 150 days, rather than the 75 days of a typical K2 field, enabling the detection of smaller planets that would be below the signal-to-noise threshold of a single K2 campaign. These observations will enable us to detect smaller planets in systems with known planet candidates. Moreover, by re-observing targets from Campaigns 2 and 5 with transit signals below the standard 7.1 sigma threshold for detection, we will have additional opportunities to detect planets smaller than can be observed in any single K2 Campaign.
+
+Additionally, the K2 overlap regions allow us to confirm and precisely measure the periods of long-period planets. Planets with one transit in the K2 data have poorly constrained periods; two planets of near-equal size can masquerade as one planet if only two transits are observed. With a longer time baseline, these planets can be confirmed and their ephemerides precisely measured.
+
+There are 8,362 targets in common between Campaigns 2/5 and 15/16. We will propose to observe a subset of these targets. We will propose all 75 objects of interest detected with our pipeline (Luger et al. 2016, AJ, 152, 100; Kruse et al. in prep), which includes multi-candidate systems with as many as 5 transiting planets. Additionally, we will propose all stars with one or two observed transit events in order to confirm these planets and refine their orbits. We will also propose stars with candidate signals consistent with the presence of small planets which could be detected with an additional 75 days of observations. These observations will enable K2 to detect its smallest planets yet, confirm the planetary nature of any systems with detected TTV signals, and possibly detect non-transiting planets through their interactions with transiting planets.
+
+# Targets requested by this program that have been observed (8)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+204193529, 239.048803, -23.29675, 11.027, GO15011_LC|GO15009_LC|GO15052_LC|GO15021_LC|GO15065_LC
+204197636, 239.262728, -23.280608, 13.468, GO15011_LC|GO15015_LC|GO15052_LC|GO15021_LC
+204221263, 240.033579, -23.189288, 11.21, GO15011_LC|GO15025_LC|GO15101_LC|GO15015_LC|GO15013_LC|GO15009_LC|GO15028_LC|GO15021_LC|GO15011_SC|GO15101_SC|GO15015_SC|GO15013_SC|GO15009_SC
+204321014, 239.472702, -22.795929, 12.426, GO15011_LC|GO15009_LC|GO15021_LC|GO15065_LC
+204407880, 238.798385, -22.454353, 12.142, GO15011_LC|GO15009_LC|GO15004_LC|GO15021_LC|GO15065_LC
+204531124, 240.214325, -21.958933, 12.141, GO15011_LC|GO15065_LC
+204546592, 239.696812, -21.894829, 9.934, GO15011_LC|GO15052_LC|GO15004_LC
+204579445, 240.828357, -21.756069, 11.916, GO15011_LC|GO15101_LC|GO15015_LC|GO15009_LC|GO15021_LC|GO15101_SC|GO15015_SC

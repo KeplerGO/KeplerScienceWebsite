@@ -1,0 +1,19 @@
+# Summary of K2 Program GO15031
+
+Title: PICK2 - Planets In Clusters with K2 (GO5)
+
+PI: Endl, Michael (McDonald Observatory)
+CoIs: Gandolfi, Davide; Johnson, Marshall C; Cabrera, Juan; Cochran, William D.; Yong, David; Nowak, Grzegorz; Hatzes, Artie
+
+o) Objectives:
+Stellar clusters provide a homogeneous sample of stars in which the major independent variable is the stellar mass. The different ages of the clusters will help us to understand the early dynamical evolution of planetary systems. We have assembled a large, diverse and highly experienced international team. The PICK2 project has already collected K2 data on the Hyades, Pleiades, Praesepe and Ruprecht 147 clusters. In K2 campaign 16 we will be able to observe different - and previously unexplored - parts of the M67 and Praesepe open clusters.
+
+o) Methods & techniques:
+We will search the K2 light curves for planetary transit signatures. We will conduct extensive followup observations including ground-based photometry, high precision RV measurement, and high resolution optical and near-IR spectroscopy in order to confirm the planetary candidates. We will perform detailed spectral analysis in order to derive stellar parameters and chemical abundances. Our team has just discovered a transiting super-giant planet or brown dwarf in the Ruprecht 147 cluster (Nowak et al. 2016) and has confirmed several new K2 planets (Johnson et al. 2016; Barragan et al. 2016; Smith et al. 2016)
+
+o) Perceived significance:
+These results will provide important new constraints on the physics of planetary system formation and early dynamical evolution. We will address the Kepler mission goals of obtaining an inventory of the diversity of planetary systems around sun-like stars. We will also obtain data very complementary to the goals of the TESS program, and help guide planetary system science for JWST studies.
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+204069863, 238.749463, -23.788366, 9.171, GO15043_LC|GO15023_LC|GO15034_LC|GO15001_LC|GO15031_LC|GO15009_LC|GO15021_LC|GO15065_LC

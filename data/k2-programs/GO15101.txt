@@ -1,0 +1,20 @@
+# Summary of K2 Program GO15101
+
+Title: Short-Cadence Observations of Previously Identified K2 Planet Candidates
+
+PI: Winn, Joshua N. (Princeton University)
+CoIs: Dai, Fei
+
+Upcoming K2 fields will overlap to some degree with previously
+observed fields.  We propose short-cadence observations of a
+collection of transiting planet candidates that we have identified in
+the earlier K2 data.  The better time sampling will allow for improved
+characterization of the transit signals, and better discrimination
+between true planets and imposters. In some cases the finer time
+sampling may also allow the stellar obliquity to be determined through
+the analysis of starspot-crossing anomalies.
+
+# Targets requested by this program that have been observed (2)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+204221263, 240.033579, -23.189288, 11.21, GO15011_LC|GO15025_LC|GO15101_LC|GO15015_LC|GO15013_LC|GO15009_LC|GO15028_LC|GO15021_LC|GO15011_SC|GO15101_SC|GO15015_SC|GO15013_SC|GO15009_SC
+204579445, 240.828357, -21.756069, 11.916, GO15011_LC|GO15101_LC|GO15015_LC|GO15009_LC|GO15021_LC|GO15101_SC|GO15015_SC

@@ -1,0 +1,16 @@
+# Summary of K2 Program GO15090
+
+Title: The ultracompact AMCVn type binary HP Lib
+
+PI: Kupfer, Thomas (Caltech)
+CoIs: Groot, Paul J; Prince, Thomas A; Bellm, Eric C
+
+AMCVn systems are rare, ultracompact binaries consisting of a white  dwarf primary and a (semi-)degenerate secondary whose study is critical to our understanding of such diverse areas as binary evolution, supernova Ia progenitors and common envelope (CE) evolution. AMCVn systems are highly evolved and unique systems, having undergone two CE phases and a direct impact phase - something that is still poorly understood. Only 51 AMCVn systems are known. They show orbital periods in a range of 5.4 - 65 min. Spectroscopically they are characterized by a lack of hydrogen and an enhancement of  helium, which is an indicator of the advanced evolutionary state of the  systems. As these systems evolve from a short orbital period, their  mass transfer rate decreases by several orders of magnitude as the orbit widens and the orbital period increases. As ultracompact binaries, they are one of the strongest and most abundant sources of gravitational wave radiation in the eLISA regime and will be verification binaries after launch.
+
+So far only SDSS J1908, a 18min AMCVn type binary, has been observed in fast-cadence mode with Kepler and studied in detail by the PI of this proposal. A Fourier analysis of the Kepler data revealed a large number of frequencies above the noise level where the majority shows a large variability in frequency and amplitude possibly caused by the tidal interaction between the accretion disc and the companion. 
+
+HP Lib has a similar orbital period as SDSS J1908. Here we request fast-cadence Kepler K2 observations of HP Lib (which falls on chip in campaign 15) to study accretion disc variability with high precision and long baseline provided by K2 and search for a change in the orbital period which is expected to increase.
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+250105131, 233.971134, -14.220069, 13.678, GO15016_LC|GO15066_LC|GO15090_LC|GO15019_LC|GO15099_LC|GO15049_LC|GO15032_LC|GO15065_LC|GO15016_SC|GO15066_SC|GO15090_SC|GO15019_SC|GO15049_SC

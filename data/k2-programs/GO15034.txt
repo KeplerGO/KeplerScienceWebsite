@@ -1,0 +1,45 @@
+# Summary of K2 Program GO15034
+
+Title: The Stars as A Sun
+
+PI: Buzasi, Derek L (Florida Gulf Coast University)
+CoIs: Preston, Heather
+
+The star we know best is the one which is closest to us, the Sun, and improving our understanding of our star is an important goal for astrophysics in general. Two complementary approaches have been adopted, the first centered on in-depth studies of the Sun itself, and the second focusing on the study of solar analogs, stars which are like the Sun and thus might shed light on characteristics of its composition, structure, activity, planetary system, evolution, and future. The utility of the study of solar analogs is broad, ranging from finding night-time proxies for the Sun for calibration purposes to their use as snapshots of the evolutionary history of the Sun. Their study has helped to establish that chromospheric activity is key to understanding stellar rotation, activity, and dynamos. The project proposed here is aimed at providing a large consistent set of well-vetted solar analogs in order to address these questions. We will make use of the K2 mission fields to obtain precise photometric time series of approximately 1000 solar analogs, supplemented by asteroseismology and ground- and space-based spectroscopic data for the brighter and more promising candidates. From this data we will derive rotation periods, spot coverages, and flare rates for a well-calibrated sample of solar analogs. This work expands and extends our ongoing Kepler and K2 analysis, and supports an ongoing project under NASA's Living With a Star program; the use of new fields will also allow us to compare different stellar populations and provide a growing sample of test data for the study of stellar activity, rotation, and dynamos.
+
+The chosen targets will be selected on the basis of existing ground-based photometry supplemented by spectroscopy when available and guided by previous results and population models using TRILEGAL. We anticipate that <10% of the stars in our sample will be giants, but we can make use of light curves and power spectra to eliminate giants from our sample after the fact based on granulation noise (Mathur et al. 2011, Bastien et al. 2013, 2015). We will reduce our limiting magnitude from the ~14 we used for Kepler to ~12.5 to roughly compensate for the increased noise in K2 compared to Kepler, and make ground-based high-resolution spectroscopic follow-up easier.
+
+# Targets requested by this program that have been observed (32)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+203582227, 237.782932, -25.649801, 9.637, GO15043_LC|GO15023_LC|GO15034_LC|GO15009_LC|GO15028_LC|GO15021_LC
+204069863, 238.749463, -23.788366, 9.171, GO15043_LC|GO15023_LC|GO15034_LC|GO15001_LC|GO15031_LC|GO15009_LC|GO15021_LC|GO15065_LC
+204226532, 238.560557, -23.168873, 9.993, GO15043_LC|GO15023_LC|GO15034_LC|GO15009_LC|GO15028_LC|GO15021_LC
+249106915, 234.680121, -26.841051, 8.373, GO15034_LC|GO15009_LC|GO15004_LC|GO15021_LC
+249136766, 235.818688, -26.476507, 9.197, GO15034_LC|GO15009_LC|GO15028_LC|GO15021_LC
+249173165, 230.804644, -26.018862, 9.916, GO15043_LC|GO15023_LC|GO15034_LC|GO15001_LC|GO15009_LC|GO15021_LC|GO15065_LC
+249173170, 230.803348, -26.018741, 9.932, GO15043_LC|GO15023_LC|GO15034_LC|GO15009_LC|GO15021_LC|GO15065_LC
+249246258, 236.685263, -25.071935, 9.955, GO15034_LC|GO15009_LC|GO15028_LC|GO15021_LC
+249272200, 237.088733, -24.730378, 9.902, GO15043_LC|GO15023_LC|GO15034_LC|GO15009_LC|GO15021_LC
+249371225, 232.76282, -23.437422, 9.229, GO15034_LC|GO15001_LC|GO15009_LC|GO15028_LC|GO15021_LC|GO15065_LC
+249374880, 231.58651, -23.388883, 9.942, GO15034_LC|GO15009_LC|GO15028_LC|GO15021_LC
+249377178, 228.48673, -23.358739, 9.738, GO15043_LC|GO15034_LC|GO15009_LC|GO15028_LC|GO15021_LC
+249478765, 233.282111, -22.006435, 9.97, GO15034_LC|GO15009_LC|GO15021_LC
+249490794, 226.608106, -21.852403, 8.967, GO15070_LC|GO15034_LC|GO15009_LC|GO15028_LC|GO15021_LC
+249548925, 228.007903, -21.126941, 9.719, GO15043_LC|GO15034_LC|GO15009_LC|GO15028_LC|GO15004_LC|GO15021_LC
+249583098, 228.612021, -20.71024, 9.433, GO15034_LC|GO15009_LC|GO15028_LC|GO15052_LC|GO15021_LC
+249608925, 229.471152, -20.39564, 9.883, GO15034_LC|GO15009_LC|GO15028_LC|GO15021_LC
+249624221, 226.689086, -20.203912, 8.934, GO15034_LC|GO15009_LC|GO15028_LC|GO15021_LC
+249656571, 228.071317, -19.797289, 9.735, GO15068_LC|GO15034_LC|GO15001_LC|GO15009_LC|GO15021_LC|GO15020_LC|GO15065_LC
+249706694, 234.275893, -19.142488, 9.677, GO15034_LC|GO15009_LC|GO15021_LC
+249795058, 230.887914, -17.961615, 9.594, GO15034_LC|GO15009_LC|GO15021_LC
+249815592, 234.124586, -17.696343, 9.774, GO15023_LC|GO15034_LC|GO15009_LC|GO15028_LC|GO15021_LC
+249827205, 231.042799, -17.544361, 9.258, GO15034_LC|GO15009_LC|GO15028_LC|GO15021_LC
+249838869, 231.487623, -17.396035, 9.746, GO15023_LC|GO15034_LC|GO15009_LC|GO15028_LC|GO15021_LC
+249842950, 228.512074, -17.344153, 8.837, GO15034_LC|GO15009_LC|GO15028_LC|GO15021_LC
+249872230, 234.259955, -16.978601, 9.705, GO15074_LC|GO15034_LC|GO15001_LC|GO15009_LC|GO15028_LC|GO15021_LC|GO15020_LC|GO15065_LC
+249883464, 232.432133, -16.841216, 8.652, GO15034_LC|GO15004_LC|GO15065_LC
+249909517, 233.032364, -16.522926, 9.637, GO15043_LC|GO15034_LC|GO15009_LC|GO15021_LC
+250024096, 230.078206, -15.18678, 9.958, GO15043_LC|GO15034_LC|GO15009_LC|GO15052_LC|GO15021_LC
+250098873, 232.91687, -14.299671, 9.958, GO15034_LC|GO15009_LC|GO15021_LC
+250146398, 234.353988, -13.662099, 8.596, GO15034_LC|GO15009_LC|GO15021_LC
+250174434, 233.156938, -13.243597, 9.97, GO15034_LC|GO15009_LC|GO15028_LC|GO15021_LC

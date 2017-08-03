@@ -1,0 +1,18 @@
+# Summary of K2 Program GO15018
+
+Title: Clouds and Flares in Ultracool Dwarfs
+
+PI: Gizis, John E. (University of Delaware)
+CoIs: Burgasser, Adam J; Paudel, Rishi R; Williams, Peter K G; Schmidt, Sarah Jane
+
+We propose to observe spectroscopically confirmed nearby ultracool dwarfs using the Kepler K2 mission to characterize their cloud/weather properties, measure their flare rates, and detect their planetary companions. Like gas giant planets, very-low-mass stars and brown dwarfs form condensate clouds in their atmospheres. For the nearest ultracool dwarfs, K2 can uniquely characterize variability due to these clouds, both rotation modulation on a timescale of hours and weather evolution of the clouds on timescales from days to months. Magnetic activity changes dramatically at the stellar/substellar hydrogen-burning limits. We have already demonstrated that ultracool dwarfs can generate white light flares and superflares in our previous Kepler and K2 campaigns, but increasing the sample size is important to constraint the rate of these rare events as a function of effective temperature and age. Flares are tied to magnetic reconnection rates and the energy budget. We also aim to detect transiting exoplanets by continuing to monitor each available ultracool dwarf in K2 campaigns; brown dwarfs, gas giants, and even large rocky planets are detectable. The K2 targets include nearby field late-M and L dwarfs, and even faint targets are valuable, since transits may be total and flares can be 20-40 times the photosphere in the Kepler filter. Campaign 15 includes the key target 2MASSW J1507476-162738, a bright L5 dwarf at 7.2 pc.
+
+# Targets requested by this program that have been observed (7)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+204407831, 239.950087, -22.454525, 15.604, GO15043_LC|GO15067_LC|GO15012_LC|GO15018_LC|GO15065_LC
+204594600, 239.700552, -21.692745, 16.008, GO15043_LC|GO15012_LC|GO15018_LC|GO15023_LC
+249343675, 230.77739, -23.797955, 15.562, GO15067_LC|GO15012_LC|GO15018_LC|GO15065_LC|GO15018_SC
+249472713, 233.289076, -22.08526, 15.162, GO15012_LC|GO15018_LC
+249639465, 226.865825, -20.011995, 13.206, GO15067_LC|GO15012_LC|GO15018_LC|GO15005_LC|GO15065_LC|GO15018_SC
+249903099, 237.243085, -16.600517, 15.231, GO15067_LC|GO15012_LC|GO15018_LC|GO15065_LC|GO15018_SC
+249914869, 226.948719, -16.460728, 14.172, GO15012_LC|GO15018_LC|GO15063_LC|GO15065_LC|GO15018_SC

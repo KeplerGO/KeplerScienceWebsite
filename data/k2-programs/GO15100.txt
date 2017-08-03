@@ -1,0 +1,18 @@
+# Summary of K2 Program GO15100
+
+Title: RAVE and K2: towards precise ages for metal poor stars
+
+PI: Valentini, Marica (Kepler Guest Observer Office)
+CoIs: Montalban, Josefina; Matijevic, Gal; Miglio, Andrea; Anders, Friedrich; Davies, Guy Rhys; Chiappini, Cristina; Mosser, Benoit
+
+MOTIVATION: As candidates for being the oldest stars, metal-poor halo giants can provide a lower limit to the age of our Universe. When the age and chemical abundances of metal-poor stars are known, it is also possible to obtain hints about the onset and early conditions of star formation in our Galaxy. While red-giant abundances can be derived using spectroscopy, their age is most difficult to obtain:  Unless the star belongs to a cluster, age determination via isochrone-fitting is hampered by the degeneracy of the isochrones in the red-giant locus, introducing a typical age uncertainty of 80%. Asteroseismology has recently revolutionised the age determination of red giants: With the seismically determined stellar radius, mass and evolutionary status, combined with information on temperature and metallicity derived from spectroscopy, it is nowadays possible to derive the age of a red giant with a precision better than 20% (Davies and Miglio, 2016, 2016AN....337..774D). 
+RELEVANCE: The oldest star in our Galaxy with a measured age is the metal-poor halo star CS31082-001 (Cayrel et al. 2001 NATURE 409 691C). This star, a red giant with [Fe/H]=-2.90 dex, has an age of 12.5 Gyr, with an error of 3 Gyr (24%), derived using the thorium-232 to uranium-238 ratio, a challenging spectroscopic technique that requires an high signal-to-noise spectrum and clean U and Th lines. By joining the spectroscopic abundances and temperatures provided by RAVE with the seismic information from K2, we aim to determine precise stellar ages for 30 metal-poor stars. Presently K2 is the only instrument able to provide light curves for metal-poor halo targets: The CoRoT satellite observed mostly disk stars, since its fields were close to the Galactic plane, and the Kepler mission did not systematically target halo stars, while the forthcoming PLATO and  TESS missions are going to observe bright targets, mostly close-by dwarfs and subgiants.
+AIM:  With this proposal we aim at getting the light curve for 17 stars, identified as metal-poor stars ([Fe/H]<-2.5dex) in the RAVE spectroscopic survey. The selection has been performed by combining the newly seismically calibrated RAVE catalogue (RAVE-SC) with the RAVE spectra classification tool (see Valentini et al 2016, arXiv:1609.03826, for details). 
+METHODOLOGY:  Our group possesses the necessary tools for a complete analysis of the targets light curves and spectra: we aim to extract seismic parameters from K2 light curves, to then determine refined atmospheric parameters and abundances from RAVE spectra, by fixing the spectroscopic gravity to the seismic value (as in Valentini et al. 2016). By combining the spectroscopic abundances with the value of mass and evolutionary status provided by asteroseismology, it will be possible to determine ages for the sample of RAVE metal-poor stars with an error less than 20% .
+
+# Targets requested by this program that have been observed (4)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+249384590, 227.319218, -23.260239, 11.152, GO15100_LC|GO15052_LC|GO15020_LC
+249824347, 233.91459, -17.582022, 11.891, GO15100_LC|GO15052_LC
+249828628, 230.720709, -17.526073, 11.973, GO15100_LC|GO15009_LC|GO15021_LC|GO15083_LC
+250046754, 233.827652, -14.924344, 13.012, GO15100_LC|GO15021_LC|GO15039_LC

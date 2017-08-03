@@ -1,0 +1,37 @@
+# Summary of K2 Program GO15087
+
+Title: The Runaway Binary IT Librae
+
+PI: Gies, Douglas Russell (Georgia State University)
+CoIs: 
+
+The eclipsing binary IT Lib is one of only three known 
+eclipsing binaries that consist of massive B-type stars, 
+yet are found far from the disk of the Galaxy.   
+The best explanation may involve ejection from a 
+birthplace in the Galactic plane through dynamical 
+interactions with other stars or through a supernova 
+explosion of a prior companion.  However, in the case of 
+IT Lib, its current position and velocity imply that 
+ejection occurred some 33 million years ago, longer than 
+the estimated main-sequence lifetime of the primary of 
+22 million years. We need to re-assess the masses and 
+other properties of the binary in order to try to 
+resolve this inconsistency.  
+
+IT Lib will be within the Kepler K2 field of view during 
+Campaign 15, and this offers us a remarkable opportunity to 
+obtain an extremely high quality light curve.  Furthermore, 
+the residuals from the binary light curve will also 
+demonstrate whether either star is a pulsator, which would 
+enable asteroseismology studies of the interiors. 
+Here we propose to include IT Lib in the C15 program and to 
+obtain complementary high resolution spectroscopy in order to 
+perform a complete analysis of the physical and chemical 
+properties of the stellar components of the binary.  These 
+will be compared to models to test whether the timescales of 
+the disk ejection model are feasible.
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+249249722, 233.328804, -25.026951, 9.495, GO15044_LC|GO15087_LC|GO15038_LC|GO15065_LC

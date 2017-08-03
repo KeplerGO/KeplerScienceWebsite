@@ -1,0 +1,45 @@
+# Summary of K2 Program GO15046
+
+Title: Eclipses, transits and variability of white dwarf stars with the K2 Mission
+
+PI: Burleigh, Matt R. (University of Leicester)
+CoIs: Belardi, Claudia; Holberg, Jay B; Barstow, Martin Adrian; Braker, Ian Peter
+
+Matt Burleigh(1)(PI), Jay Holberg(2)(Co-I), Martin Barstow(1)(Co-I), Ian Braker(1) & Claudia Belardi(1)(Graduate Students)
+
+(1) Dept. Physics and Astronomy, University of Leicester, UK.
+(2) Lunar and Planetary Laboratory, Sonnett Space Sciences Bld., University of Arizona, Tucson, AZ 85721, USA
+
+The small size of a white dwarf (WD) star (approx. 1 Earth radii) implies that any sub-stellar or gas giant companion at suitable orbital inclination will completely eclipse it, while terrestrial bodies smaller than the Moon, including asteroids, will still produce transits that are detectable in high signal/noise light-curves. 
+
+Whether such planets actually exist around WDs is an open question. Those caught within the expanding envelope of an AGB star will be destroyed. However, the presence of debris disks around a few % of WDs (Farihi et al. 2011, Barber et al. 2012), and accreted metals in the photospheres of a surprisingly large fraction of such stars (approx. 25% at circa 1 Gyr, Zuckerman et al.2003) demonstrates that surviving asteroids and terrestrial planets must be perturbed into orbits that take them close to the central WD, where they are tidally disrupted. Even so, it appears dynamically difficult, though not impossible, to perturb them into stable, circularised orbits within the WD HZ. Alternatively, 2nd generation planets may be created from material ejected after the AGB phase. 
+
+The Kepler 2 mission is an ideal opportunity to search the HZs of a statistically significant (1000 to 1500) sample of WDs for terrestrial planets. Any discovery would provide vital data and a significant challenge to dynamicists and theoreticians, just as the unexpected discovery of hot Jupiters did in the 1990s. A single detection would then open the exciting possibility of studying the atmosphere of a nearby terrestrial world through spectroscopy with JWST (Loeb & Maoz 2013). 
+
+A Kepler survey of WDs opens up other serendipitous science than just the exciting, but perhaps tantalising prize of a terrestrial planet. Besides pulsating WDs, which can be studied in exquisite detail with high cadence mode observations, other variable examples will be discovered. Recently, Beuermann et al.(2013) discovered the first eclipsing, detached WD + brown dwarf (BD) system, and Casewell et al.(2012) found probably the lowest mass close companion to a white dwarf (25 - 30 Jupiter masses). Both BDs likely survived common envelope evolution, but what is the lowest mass object that can do so, and will it be revealed through eclipses of the WD?
+
+This survey will also reveal the full population of optically variable WDs at accuracies undetectable from the Earth. We have detected low level variability in circa 50% of the WDs in the Kepler and K2 Campaign 0 fields. These could be due to star spots or accretion of dust from disrupted asteroids onto poles of low level magnetic WDs. It is likely more unexpected variables await discovery.
+
+The total eclipse of an Earth-sized WD by a Jovian or BD sized companion in a few hour orbit will last around 5 mins. In a 30 min long cadence (LC) observation this will be diluted to 17%. An eclipse by an Earth terrestrial companion in the HZ would last approximately 2.5 min, diluted to circa 8% in a LC datapoint. These can be compared to the expected Kepler 2 mission sensitivity at magnitude 19.0 of circa 50,000ppm(5%). Even at this faint magnitude, the Jovian sized object would be comfortably visible at 3 sigma confidence in a single datapoint, while the Earth-sized object would also be detectable, especially if many such eclipses/transits are observed and suitably phase-folded.
+
+We estimate that our target list will be made up of 177, 17 and 242 WDs (campaigns 14, 15 and 16), that have been spectroscopically identified or are deemed to have a 60% or greater probability of being a WD (Fusillo et al. 2015), and which are brighter than Kepler Magnitude 19.5 from the McCook & Sion and SDSS catalogues.
+
+# Targets requested by this program that have been observed (17)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+204919142, 237.779192, -20.267127, 18.1, GO15016_LC|GO15046_LC|GO15062_LC|GO15016_SC|GO15062_SC
+249581565, 234.244693, -20.729034, 18.835, GO15016_LC|GO15046_LC|GO15062_LC|GO15016_SC|GO15062_SC
+249598573, 236.763352, -20.521578, 18.77, GO15016_LC|GO15046_LC|GO15062_LC|GO15016_SC|GO15062_SC
+249600039, 236.547648, -20.503513, 16.439, GO15016_LC|GO15046_LC|GO15062_LC|GO15903_LC|GO15016_SC|GO15062_SC
+249628409, 236.913963, -20.150927, 18.811, GO15016_LC|GO15046_LC|GO15062_LC|GO15016_SC|GO15062_SC
+249701196, 237.457654, -19.215008, 18.26, GO15016_LC|GO15046_LC|GO15062_LC|GO15016_SC|GO15062_SC
+249837266, 236.604885, -17.416943, 17.3, GO15016_LC|GO15046_LC|GO15062_LC|GO15016_SC|GO15062_SC
+249842752, 232.636086, -17.346298, 16.501, GO15016_LC|GO15046_LC|GO15062_LC|GO15016_SC|GO15062_SC
+249885753, 237.3072, -16.812378, 18.722, GO15016_LC|GO15046_LC|GO15062_LC|GO15902_LC|GO15062_SC|GO15902_SC
+249899334, 237.866479, -16.64752, 17.297, GO15016_LC|GO15046_LC|GO15062_LC|GO15016_SC|GO15062_SC
+249901196, 229.646235, -16.624479, 16.123, GO15016_LC|GO15046_LC|GO15016_SC
+250151928, 232.815696, -13.581462, 17.902, GO15016_LC|GO15046_LC|GO15062_LC|GO15062_SC
+250168085, 233.811939, -13.340701, 18.342, GO15016_LC|GO15046_LC|GO15062_LC|GO15016_SC|GO15062_SC
+250170124, 231.694386, -13.308581, 17.975, GO15016_LC|GO15046_LC|GO15062_LC|GO15062_SC
+251668148, 235.9124, -15.4617, 19.0, GO15016_LC|GO15046_LC|GO15062_LC|GO15016_SC|GO15062_SC
+251668178, 237.4088, -20.45241, 19.129, GO15016_LC|GO15046_LC|GO15062_LC|GO15062_SC
+251668196, 235.50392, -13.93517, 18.5, GO15046_LC|GO15062_LC|GO15062_SC

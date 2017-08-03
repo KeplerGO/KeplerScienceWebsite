@@ -1,5 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2017-08-01T16:00:00-07:00</updated><entry><title>Open source release of the Kepler data processing pipeline</title><link href="https://keplerscience.arc.nasa.gov/open-source-release-of-the-kepler-data-processing-pipeline.html" rel="alternate"></link><published>2017-08-01T16:00:00-07:00</published><updated>2017-08-01T16:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-08-01:/open-source-release-of-the-kepler-data-processing-pipeline.html</id><summary type="html">&lt;p&gt;The source code for the official Kepler data processing pipeline
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2017-08-02T21:00:00-07:00</updated><entry><title>K2 Campaign 15 science program now available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-15-science-program-now-available.html" rel="alternate"></link><published>2017-08-02T21:00:00-07:00</published><updated>2017-08-02T21:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-08-02:/k2-campaign-15-science-program-now-available.html</id><summary type="html">&lt;p&gt;The science program and target lists for K2 Campaign 15
+have now been posted on the
+&lt;a href="k2-approved-programs.html#campaign-15"&gt;approved targets &amp;amp; programs page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Campaign 15 is scheduled to run from &lt;b&gt;August 23 through November 20, 2017&lt;/b&gt;,
+and will be observing towards the constellation of &lt;b&gt;Scorpius&lt;/b&gt;.
+The target list includes &lt;b&gt;23,279 standard long …&lt;/b&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;The science program and target lists for K2 Campaign 15
+have now been posted on the
+&lt;a href="k2-approved-programs.html#campaign-15"&gt;approved targets &amp;amp; programs page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Campaign 15 is scheduled to run from &lt;b&gt;August 23 through November 20, 2017&lt;/b&gt;,
+and will be observing towards the constellation of &lt;b&gt;Scorpius&lt;/b&gt;.
+The target list includes &lt;b&gt;23,279 standard long cadence&lt;/b&gt;
+and &lt;b&gt;119 standard short cadence&lt;/b&gt; stars.&lt;/p&gt;
+&lt;p&gt;
+    Notable targets include:
+&lt;ul&gt;
+&lt;li&gt;
+    The outskirts of the ~11 Myr-old &lt;b&gt;Upper Sco&lt;/b&gt; region, the most nearby OB star association (400 light-years away), including:
+    &lt;ul&gt;
+        &lt;li&gt;
+            &lt;b&gt;Delta Sco&lt;/b&gt;: one of the best-studied Be-type stars, known for outbursts in 2000 and 2011. The target is very bright (Kp=2) and thus observed using a custom circular mask (ID 200194910).
+        &lt;/li&gt;
+        &lt;li&gt;
+            Several other &lt;b&gt;bright B- and A-type stars&lt;/b&gt; (Kp=4-6) to be searched for pulsations for the first time.
+        &lt;/li&gt;
+        &lt;li&gt;
+            Hundreds of &lt;b&gt;low-mass pre-main sequence stars&lt;/b&gt;.
+        &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+    Targets being observed in short cadence include:
+    &lt;ul&gt;
+        &lt;li&gt;
+            &lt;b&gt;GW Lib&lt;/b&gt;: a cataclysmic variable with a white dwarf that pulsates (ID 249251294).
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;b&gt;2MASS 1507-1627&lt;/b&gt;: an L5-type Brown Dwarf located just 24 light-years from Earth (ID 249914869).
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;b&gt;K2-38&lt;/b&gt;: an exoplanet system with two transiting super-Earths discovered in K2 Campaign 2 (ID 204221263).
+        &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+    The &lt;b&gt;globular cluster NGC 5897&lt;/b&gt; is being observed using a 90-by-90 pixel square box (IDs 200194922–200194957).
+&lt;/li&gt;
+&lt;li&gt;
+    &lt;b&gt;3466 Galaxies&lt;/b&gt; are being monitored for supernovae.
+&lt;/li&gt;
+&lt;li&gt;
+    &lt;b&gt;38 Solar System objects&lt;/b&gt;, including:
+    &lt;ul&gt;
+        &lt;li&gt;
+            Asteroid Ryugu: target of the &lt;a href="https://en.wikipedia.org/wiki/Hayabusa_2"&gt;Hyabusa 2&lt;/a&gt; sample return mission (IDs 200194922–200194787).
+        &lt;/li&gt;
+        &lt;li&gt;
+            3 Main-belt asteroids: Fantasia, Neujmina, and Stereoskopia.
+        &lt;/li&gt;
+        &lt;li&gt;
+            4 Comets: 94P/Russell, 130P/McNaught-Hughes, C/2014 F3 (Sheppard-Trujillo), and C/2014 W2 (PANSTARRS).
+        &lt;/li&gt;
+        &lt;li&gt;
+            16 Jupiter Trojans and 14 Trans-Neptunian Objects.
+        &lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The figure below illustrates the location of the field and its notable targets.&lt;/p&gt;
+&lt;p&gt;&lt;a href="images/k2/k2-c15-field.png"&gt;&lt;img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c15-field.png"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>Open source release of the Kepler data processing pipeline</title><link href="https://keplerscience.arc.nasa.gov/open-source-release-of-the-kepler-data-processing-pipeline.html" rel="alternate"></link><published>2017-08-01T16:00:00-07:00</published><updated>2017-08-01T16:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-08-01:/open-source-release-of-the-kepler-data-processing-pipeline.html</id><summary type="html">&lt;p&gt;The source code for the official Kepler data processing pipeline
 has been released to the public under the NASA Open Source License,
 and made available for download via the GitHub repository at &lt;a href="https://github.com/nasa/kepler-pipeline"&gt;https://github.com/nasa/kepler-pipeline&lt;/a&gt;.
 The release is accompanied by a &lt;a href="https://github.com/nasa/kepler-pipeline/raw/master/kscrm.pdf"&gt;Source Code Roadmap&lt;/a&gt; (pdf)
