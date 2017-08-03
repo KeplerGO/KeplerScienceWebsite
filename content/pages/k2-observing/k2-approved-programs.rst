@@ -26,18 +26,18 @@ Campaign 15
 
     <p>
         The Campaign 15 target list includes <b>23,279 standard long cadence</b>
-        and <b>119 standard short cadence</b> targets,
+        and <b>119 standard short cadence</b> targets
         located towards the constellations of Scorpius.
     </p>
 
     <p>
-    The target list includes:
+        Notable targets include:
     <ul>
     <li>
-        The outskirts of the ~11 Myr-old <b>Upper Sco</b> region, the most nearby OB star association located just ~400 light-years away, including:
+        The outskirts of the ~11 Myr-old <b>Upper Sco</b> cluster, the most nearby OB star association (400 light-years away), including:
         <ul>
             <li>
-                <b>Delta Sco</b>: one of the best-studied Be-type stars, known for outbursts in 2000 and 2011. The target is very bright (Kp=2) and hence observed using a custom circular mask (EPIC 200194910).
+                <b>Delta Sco</b>: one of the best-studied Be-type stars, known for outbursts in 2000 and 2011. The target is very bright (Kp=2) and thus observed using a custom circular mask (ID 200194910).
             </li>
             <li>
                 Several other <b>bright B- and A-type stars</b> (Kp=4-6) to be searched for pulsations for the first time.
@@ -48,21 +48,21 @@ Campaign 15
         </ul>
     </li>
     <li>
-        Notable targets observed in short cadence include:
+        Targets being observed in short cadence include:
         <ul>
             <li>
-                <b>GW Lib</b> (EPIC 249251294): a Cataclysmic Variable with a pulsating white dwarf.
+                <b>GW Lib</b>: a cataclysmic variable with a white dwarf that pulsates (ID 249251294).
             </li>
             <li>
-                <b>2MASS 1507-1627</b> (EPIC 249914869): an L5 Brown Dwarf located just 24 light-years from Earth.
+                <b>2MASS 1507-1627</b>: an L5-type Brown Dwarf located just 24 light-years from Earth (ID 249914869).
             </li>
             <li>
-                <b>K2-38</b> (EPIC 204221263): an exoplanet system with two transiting super-Earths discovered in Campaign 2.
+                <b>K2-38</b>: an exoplanet system with two transiting super-Earths discovered in K2 Campaign 2 (ID 204221263).
             </li>
         </ul>
     </li>
     <li>
-        The globular cluster <b>NGC 5897</b> is observed using a 90-by-90 pixel square box.
+        The <b>globular cluster NGC 5897</b> is being observed using a 90-by-90 pixel square box (IDs 200194922–200194957).
     </li>
     <li>
         <b>3466 Galaxies</b> are being monitored for supernovae.
@@ -71,7 +71,7 @@ Campaign 15
         <b>38 Solar System objects</b>, including:
         <ul>
             <li>
-                Asteroid Ryugu: target of the <a href="https://en.wikipedia.org/wiki/Hayabusa_2">Hyabusa 2 sample return mission</a>.
+                Asteroid Ryugu: target of the <a href="https://en.wikipedia.org/wiki/Hayabusa_2">Hyabusa 2</a> sample return mission (IDs 200194922–200194787).
             </li>
             <li>
                 3 Main-belt asteroids: Fantasia, Neujmina, and Stereoskopia.
@@ -80,7 +80,7 @@ Campaign 15
                 4 Comets: 94P/Russell, 130P/McNaught-Hughes, C/2014 F3 (Sheppard-Trujillo), and C/2014 W2 (PANSTARRS).
             </li>
             <li>
-                16 Trojans and 14 Trans-Neptunian Objects.
+                16 Jupiter Trojans and 14 Trans-Neptunian Objects.
             </li>
         </ul>
     </li>
