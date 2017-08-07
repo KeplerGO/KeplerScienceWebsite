@@ -2811,6 +2811,44 @@ The following is the data release history for this campaign. Follow the link for
 
 * <a href="k2-pipeline-release-notes.html#data-release-2">Data Release 2</a>
 * <a href="k2-pipeline-release-notes.html#data-release-1">Data Release 1</a>
+<hr>
+
+
+
+# Two-wheel Concept Engineering Test
+
+
+<h2>At a glance</h2>
+
+Before the official start of the K2 Mission, the spacecraft executed a 9-day test to demonstrate the two-wheel mission concept. While this engineering test is not an officially-supported Campaign, the pixel data were made public to help the community appraise the characteristics of K2 data.  Extensive data release notes are not available for this test, but support is offered on a best-effort basis via the Kepler Science Center helpdesk. Please refer to this data set as the "Two-wheel Concept Engineering Test" in all publications.
+
+<div class="row">
+<div class="col-lg-5">
+
+    <b><i>Pointing</i></b>
+    <ul>
+        <li>RA: 358.6492374 degrees</li>
+        <li>Dec: -2.1523890 degrees</li>
+        <li>Roll: -156.4440683 degrees</li>
+    </ul>
+
+    <b><i>First cadence</i></b>
+    <ul>
+        <li>Time: 2014-02-04 12:57:46 UTC</li>
+        <li>Long Cadence Number: 85698</li>
+        <li>Short Cadence Number: 2559400</li>
+    </ul>
+
+    <b><i>Last cadence</i></b>
+    <ul>
+        <li>Time: 2014-02-13 12:44:30 UTC</li>
+        <li>Long Cadence Number: 86137</li>
+        <li>Short Cadence Number: 2572599</li>
+    </ul>
+
+</div>
+
+</div>
 
 <hr>
 <br>
