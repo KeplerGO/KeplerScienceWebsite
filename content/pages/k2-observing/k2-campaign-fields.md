@@ -35,7 +35,7 @@ This page details the previous, current, and future K2 Campaign fields.
 
   <tdata>
     <tr>
-      <td><a href="#eng">E</a></td>
+      <td>E</td>
       <td>2014&nbsp;Feb&nbsp;04</td>
       <td>2014&nbsp;Feb&nbsp;13</td>
       <td>2014&nbsp;Mar&nbsp;25</td>
@@ -99,7 +99,7 @@ This page details the previous, current, and future K2 Campaign fields.
       <td class="text-center">
         <a href="k2-data-release-notes.html#k2-campaign-2"><i class="fa fa-check"></i></a>
       </td>
-      <td>Near Gal Center, M4, M80, M19, Upr Sco, &rho; Oph</td>
+      <td>Near Gal Center, M4, M80, Upr Sco, &rho; Oph</td>
     </tr>
 
     <tr>
@@ -396,23 +396,19 @@ You can learn more about the installation and usage of these tools [on the softw
 
 <div class="row">
   <div class="col-lg-6">
-    <b id="c0">Campaign 0</b>
-    <a href="images/k2/field0-final.png"><img class="img-responsive" src="images/k2/field0-final.png"></a>
+    <a href="images/k2/k2-c0-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c0-field.png" id="c0"></a>
   </div>
   <div class="col-lg-6">
-    <b id="c1">Campaign 1</b>
-    <a href="images/k2/field1-final.png"><img class="img-responsive" src="images/k2/field1-final.png"></a>
+    <a href="images/k2/k2-c1-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c1-field.png" id="c1"></a>
   </div>
 </div>
 
 <div class="row">
   <div class="col-lg-6">
-    <b id="c2">Campaign 2</b>
-    <a href="images/k2/field2-final.png"><img class="img-responsive" src="images/k2/field2-final.png"></a>
+    <a href="images/k2/k2-c2-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c2-field.png" id="c2"></a>
   </div>
   <div class="col-lg-6">
-    <b id="c3">Campaign 3</b>
-    <a href="images/k2/field3-final.png"><img class="img-responsive" src="images/k2/field3-final.png"></a>
+    <a href="images/k2/k2-c3-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c3-field.png" id="c3"></a>
   </div>
 </div>
 
