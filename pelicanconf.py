@@ -124,12 +124,12 @@ IMPORTANT_DATES = (
             ('<b>31 Aug 2017</b>',
              'K2 Campaign 16 DDT deadline',
              'k2-ddt.html'),
-            ('<b>12 Oct 2017</b>',
-             'GO Cycle 6 Step-1 deadline:<br/>Target lists due for Campaigns 17-19',
-             ''),
+            ('<b class="text-danger">12 Oct 2017</b>',
+             '<div class="text-danger">GO Cycle 6 Phase-1 deadline: target lists & justifications due for Campaigns 17-19</div>',
+             'k2-proposing-targets.html'),
             ('<b>19 Apr 2018</b>',
-             'GO Cycle 6 Step-2 deadline:<br/>Funding proposals due for Campaigns 17-19',
-             ''),
+             'GO Cycle 6 Phase-2 deadline:<br/>funding proposals due for Campaigns 17-19',
+             'k2-proposing-targets.html'),
          )
 
 # Defines the "meetings" box on the front page
