@@ -1,0 +1,15 @@
+# Summary of K2 Program GO15040
+
+Title: Rapid Optical Variability in Infrared and Optically Bright blazars
+
+PI: Carini, Michael Thomas (Western Kentucky University)
+CoIs: 
+
+Blazars are extreme examples of the phenomena known as Active Galactic Nuclei (AGN). The defining characteristics of blazars are a featureless (or nearly featureless) optical continuum, large amplitude and highly variable polarization, and large amplitude continuum variability at all wavelengths. Their weak or completely absent discrete spectral features leaves us with only continuum variability as a diagnostic of the emission mechanisms at work in these objects. Long cadence observations of a sample of optical and IR bright blazars identified in the F14, 15 and 16 fields of the K2 mission are proposed. The source sample will be comprised of less than 100 objects with Kep magnitude < 18 which are either already identified as blazars or sources in the fields found on the Wise blazar strip that are not previously identified blazars. The continuous, highly sampled light curves that will be obtained in the K2 mission will allow a detailed exploration of blazar variability on timescales of minutes to several months that is not possible with ground based observations. In particular these observations will allow: the determination of the minimum timescale of the variability, the determination of the slope of the power spectral density on timescales from minutes to several months, searches for breaks in the high frequency PSD which indicate the presence of characteristic variability timescales and searches for quasi-periodic oscillations in the optical light curves of blazars. Bright blazars are being chosen so that they can continue to be monitored from the ground post K2 in order to lengthen the time series and characterize the PSD across a wider range of frequencies.
+
+# Targets requested by this program that have been observed (4)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+249580651, 228.639683, -20.740532, 18.177, GO15040_LC
+249798522, 237.810797, -17.917324, 19.017, GO15040_LC
+249839402, 233.962638, -17.389416, 17.495, GO15040_LC
+249905154, 235.511979, -16.575205, 17.981, GO15040_LC

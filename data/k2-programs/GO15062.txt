@@ -1,0 +1,34 @@
+# Summary of K2 Program GO15062
+
+Title: A Search for Transiting Objects Orbiting White Dwarf Stars
+
+PI: Redfield, Seth (Wesleyan University)
+CoIs: Farihi, Jay; Gaensicke, Boris Teddy; Cauley, Paul Wilson; Veras, Dimitri
+
+Science Goals and Objectives: Given their small size, white dwarf stars present a very intriguing sample to monitor for transiting objects. Indeed, K2 observed the first such example in Campaign 1: WD1145+017 (Vanderburg et al. 2015), which we have followed-up on with high resolution spectroscopy (Redfield et al. 2016). Several researchers have explored the possibility of detecting very small objects, even down to exoasteroids, around white dwarf stars (e.g., Di Stefano et al. 2010, Agol 2011, Loeb & Moaz 2013). The transit of an Earth-sized planet would cause a full eclipse of the host star, and therefore would be easy to detect, however, it would be very short, on the order of seconds to minutes, and would therefore require short cadence observations. The size of the host star also makes any followup observations of the exoplanet significantly easier (e.g., transmission spectroscopy of the planetary atmosphere [e.g., Redfield et al. 2008, Jensen et al. 2013]). Regardless of the relative ease of follow-up observations, the atmospheric measurements of a planet around such an evolved star, would provide critical information regarding the composition and formation of such objects (Veras & Gaensicke 2015). I propose a sample of "bright" (V < 18 mag) white dwarf stars, in which we would be able to detect objects as small as asteroids (i.e., ~500 km) and in periods that range from hours to months, including the intriguing periods in the habitable zone from 4-32 hours.
+
+Estimate of the Number of Targets: Given the sparse distribution of relatively bright white dwarfs, we estimate the total number of targets to be about 30 (based on the numbers proposed in previous campaigns).
+
+Methodology: Given the similarity in size between the host star and even small planetary objects, the transit depth will be substantial, and possibly even total. The detected debris disks around white dwarfs (Kilic & Redfield 2007) and evidence of planetesimal accretion onto white dwarfs (Farihi et al. 2010; Xu et al. 2014) indicates that there may be planetary material in close orbits. The first planets detected were around a compact object, a pulsar (Wolszczan & Frail 1992). Additionally, N-body simulations of planetary systems through stellar evolution indicate it is possible to return significant mass objects back very close to the white dwarf (Veras & Gaensicke 2015), so it is likely for white dwarfs to host planets. Any object in the habitable zone (4-32 hours) will be easily detected with scores of transits in a single K2 campaign. Due to the shortness of any transit, these observations should be taken in short cadence. Even if a single transit is detected, follow-up observations can be done from the ground. While a search from the ground is possible, it suffers from severe aliasing with Earth's rotation. However, a followup campaign on known targets is quite straightforward. At Wesleyan University, we are conducting a ground-based search with our 0.6-meter telescope. However, the observations are limited to 1-2 8-hour epochs, making it difficult to definitively rule-out a transiting signal with periods in the habitable zone range, and extremely limited coverage of longer periods.
+
+Relevance of Proposed Research to this Solicitation: A detection of an object transiting a white dwarf would be significant finding for many areas of astrophysics (e.g., stellar evolution, planetary migration, planet formation, atmospheric characterization), and in line with the objectives of the original Kepler mission, to identify planet candidates. This work identifies a sample of K2 targets, which are directly related to the original Kepler mission of planet discovery, and directly tied to Objective 1.6 in the NASA 2014 Strategic Plan.
+
+# Targets requested by this program that have been observed (17)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+204919142, 237.779192, -20.267127, 18.1, GO15016_LC|GO15046_LC|GO15062_LC|GO15016_SC|GO15062_SC
+249581565, 234.244693, -20.729034, 18.835, GO15016_LC|GO15046_LC|GO15062_LC|GO15016_SC|GO15062_SC
+249598573, 236.763352, -20.521578, 18.77, GO15016_LC|GO15046_LC|GO15062_LC|GO15016_SC|GO15062_SC
+249600039, 236.547648, -20.503513, 16.439, GO15016_LC|GO15046_LC|GO15062_LC|GO15903_LC|GO15016_SC|GO15062_SC
+249628409, 236.913963, -20.150927, 18.811, GO15016_LC|GO15046_LC|GO15062_LC|GO15016_SC|GO15062_SC
+249701196, 237.457654, -19.215008, 18.26, GO15016_LC|GO15046_LC|GO15062_LC|GO15016_SC|GO15062_SC
+249837266, 236.604885, -17.416943, 17.3, GO15016_LC|GO15046_LC|GO15062_LC|GO15016_SC|GO15062_SC
+249842752, 232.636086, -17.346298, 16.501, GO15016_LC|GO15046_LC|GO15062_LC|GO15016_SC|GO15062_SC
+249885753, 237.3072, -16.812378, 18.722, GO15016_LC|GO15046_LC|GO15062_LC|GO15902_LC|GO15062_SC|GO15902_SC
+249899334, 237.866479, -16.64752, 17.297, GO15016_LC|GO15046_LC|GO15062_LC|GO15016_SC|GO15062_SC
+249931070, 237.201886, -16.273431, 18.425, GO15016_LC|GO15062_LC|GO15902_LC|GO15062_SC|GO15902_SC
+250151928, 232.815696, -13.581462, 17.902, GO15016_LC|GO15046_LC|GO15062_LC|GO15062_SC
+250168085, 233.811939, -13.340701, 18.342, GO15016_LC|GO15046_LC|GO15062_LC|GO15016_SC|GO15062_SC
+250170124, 231.694386, -13.308581, 17.975, GO15016_LC|GO15046_LC|GO15062_LC|GO15062_SC
+251668148, 235.9124, -15.4617, 19.0, GO15016_LC|GO15046_LC|GO15062_LC|GO15016_SC|GO15062_SC
+251668178, 237.4088, -20.45241, 19.129, GO15016_LC|GO15046_LC|GO15062_LC|GO15062_SC
+251668196, 235.50392, -13.93517, 18.5, GO15046_LC|GO15062_LC|GO15062_SC

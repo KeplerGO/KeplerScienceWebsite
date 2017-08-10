@@ -1,0 +1,24 @@
+# Summary of K2 Program GO15012
+
+Title: Activity and Planets at the Bottom of the Main-Sequence
+
+PI: Muirhead, Philip Steven (Boston University)
+CoIs: Skinner, Julie N
+
+We propose to continue a K2 program to observe a carefully selected sample of ultracool dwarfs (UCDs) with K2 during Campaigns 14, 15, and 16. UCDs occupy the transition from main-sequence stars to brown dwarfs (late-M and later) and are essential to understanding the formation and evolution of the lowest mass objects in the Universe. Historically, photometric monitoring of UCDs for transiting planets and rotational spot modulation has been hampered by their intrinsic faintness and the expected short duration of transit events. The K2 spacecraft provides an excellent opportunity to study these objects in more detail, thanks to the large aperture and near-continuous 80-day photometric coverage of each K2 field. 
+
+Searching for Transiting Planets Orbiting UCDs: The discovery of transiting planets (TRAPPIST-1) orbiting a UCD has had significant implications for the field of exoplanets.  However, the larger population of exoplanets around these small, cool objects remains unprobed and will provide important constraints on planet formation around the smallest dwarfs.  UCDs are small, all roughly the diameter of Jupiter, which implies deep fractional transit signatures. UCDs are also relatively bright in the infrared. A planet that transits a UCD, whether gaseous or rocky, would be an ideal target for near-infrared transit transmission spectroscopy, as has been successfully performed on super Earths orbiting mid-M dwarf stars with the Hubble Space Telescope. Future transit transmission observations with NASAs James Webb Space Telescope may be able to detect biosignatures in the atmospheres of rocky planets, but only for those planets that transit ultra-cool dwarfs. The transits from rocky planets orbiting mid-M and earlier dwarf stars are simply not deep enough to search for biosignatures over the expected lifetime of JWST. Recent studies of short-period planet occurrence around early- and mid-M dwarfs show that lower mass stars have significantly more rocky short-period planets than Sun-like stars. Extrapolating to ultra-cool dwarfs, we expect a large fraction, if not all UCDs to harbor rocky planets with transit probabilities of ~10%. 
+
+Spot morphology at the M/L transition: Studies indicate that over 90% of UCDs show evidence of surface activity in the form of H± emission; however, the nature of the activity is not fully understood. Unlike sun-like stars, UCDs have fully convective interiors and are expected to have magnetic field morphologies markedly different from the Sun. With precise photometric monitoring of UCDs with K2 we will measure the morphology of spots on the surfaces of UCDs via light curve inversion. We will also search for flare events and correlate those flare events to specific spots structures. 
+
+Surface activity in UCDs is related to stellar wind and ultraviolet emission from their chromospheres, both of which affect the photochemistry in the upper atmospheres of orbiting exoplanets. Understanding the nature of surface activity on UCDs is therefore critical for interpreting transit-transmission spectroscopy, as well as inferring the habitability of any detected planets. K2 provides a unique opportunity to study ultra-cool dwarfs in a way never before realized.
+
+# Targets requested by this program that have been observed (7)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+204407831, 239.950087, -22.454525, 15.604, GO15043_LC|GO15067_LC|GO15012_LC|GO15018_LC|GO15065_LC
+204594600, 239.700552, -21.692745, 16.008, GO15043_LC|GO15012_LC|GO15018_LC|GO15023_LC
+249343675, 230.77739, -23.797955, 15.562, GO15067_LC|GO15012_LC|GO15018_LC|GO15065_LC|GO15018_SC
+249472713, 233.289076, -22.08526, 15.162, GO15012_LC|GO15018_LC
+249639465, 226.865825, -20.011995, 13.206, GO15067_LC|GO15012_LC|GO15018_LC|GO15005_LC|GO15065_LC|GO15018_SC
+249903099, 237.243085, -16.600517, 15.231, GO15067_LC|GO15012_LC|GO15018_LC|GO15065_LC|GO15018_SC
+249914869, 226.948719, -16.460728, 14.172, GO15012_LC|GO15018_LC|GO15063_LC|GO15065_LC|GO15018_SC

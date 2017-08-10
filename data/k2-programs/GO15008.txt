@@ -1,0 +1,30 @@
+# Summary of K2 Program GO15008
+
+Title: AGN variability studies with K2 Campaigns 14-16
+
+PI: Edelson, Rick (University of Maryland, College Park)
+CoIs: Vanderburg, Andrew; Stern, Daniel K; Vaughan, Simon; Starkey, David A; Horne, Keith; Malkan, Matthew A; Graham, Matthew J; Tsan, Tran Que
+
+Kepler's unprecedented precision, sampling, and duty cycle is revolutionizing Active Galactic Nuclei (AGN) optical variability studies, leading to the first observation of a break in the optical power spectrum of a Type 1 AGN and quantification of microvariability in blazars.  We propose monitoring 540 AGN and robust AGN candidates in Campaigns 14-16 (C14-16).  Our highest priority is the forward-facing C16 that will repeat monitoring of 41 C5 AGN.  These data will be used to test the stationarity of AGN variability.  We also plan to obtain full ~60 day simultaneous multicolor monitoring with other telescopes to measure interband lags and perform accretion disk reverberation mapping.  By the end of this Cycle well over 1000 AGN will have been monitored by K2, providing an invaluable legacy to characterize AGN optical variability.  Among the many uses of these data, we will perform the first large survey of AGN optical power spectra and an unparalleled quantitative search for quasi-periodic oscillation, as has been seen in X-ray binaries.  This could elucidate the link between AGN and these possible low-mass counterparts.
+
+# Targets requested by this program that have been observed (19)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+204305844, 241.034957, -22.856663, 18.418, GO15008_LC
+204369421, 239.871708, -22.604849, 14.756, GO15008_LC
+204376268, 240.053115, -22.578466, 17.788, GO15008_LC
+249106485, 232.276549, -26.846691, 17.232, GO15008_LC
+249142746, 234.166306, -26.402933, 18.411, GO15008_LC
+249149316, 236.398795, -26.321121, 18.2, GO15008_LC
+249169069, 232.272644, -26.070307, 18.381, GO15008_LC
+249241189, 230.992287, -25.13881, 16.45, GO15008_LC
+249252118, 229.970148, -24.99596, 18.135, GO15008_LC
+249268196, 236.357175, -24.782913, 18.409, GO15008_LC
+249268324, 231.010015, -24.781271, 17.006, GO15008_LC
+249326788, 234.152996, -24.009336, 17.93, GO15008_LC
+249343024, 226.83926, -23.805891, 18.144, GO15008_LC
+249434726, 232.343364, -22.586025, 18.038, GO15008_LC
+249589369, 229.375606, -20.634108, 18.27, GO15008_LC
+249597019, 227.800847, -20.541096, 18.325, GO15008_LC
+249855194, 227.549437, -17.190784, 18.39, GO15008_LC
+249889051, 226.701386, -16.773552, 17.681, GO15008_LC
+250000885, 234.423232, -15.453467, 18.314, GO15008_LC|GO15103_LC

@@ -1,0 +1,21 @@
+# Summary of K2 Program GO15025
+
+Title: Developing Predictors of Radial Velocity Jitter from K2 Light Curves
+
+PI: Bastien, Fabienne Anne (Center for Exoplanets and Habitable Worlds)
+CoIs: Luhn, Jacob; Wright, Jason T
+
+1.	Description of Science Goals & Objectives and Relevance to Proposed Call
+Much of exoplanet science hinges on a thorough understanding of the planets host star. As a result of the push toward lower mass and more widely separated exoplanets, it has become increasingly important to properly characterize exoplanet hosts and efficiently distinguish the signals from planets from signals from the star itself. Currently, stellar physical processes on the surfaces of stars poses a major deterrent to our ability to detect exoplanets. In radial velocity (RV) measurements, these processes induce noise, coined jitter, that can imitate or drown out the signals of planets. As new transiting planets are discovered by K2 and TESS, it will be imperative to have new methods of prioritizing ground-based RV follow-up, especially given that Kepler alone provided more planet candidates than can be followed-up in a reasonable time-frame with all ground-based resources combined. By accurately predicting the level of stellar jitter of a host star, we can readily identify the most promising targets for both the RV follow-up of transiting planet candidates and the RV discovery of new exoplanets. 
+	We propose to use the high-precision light curves from the K2 mission with archival RV jitter and activity measurements to (1) develop an empirical relation between RV jitter and light curve variations, following the methodology developed by Bastien et al. (2014) and (2) determine the dependency of the relation on age, spectral type, and magnetic activity. These relations will prove useful for RV follow-up of existing transiting exoplanet candidates. We will use them to identify targets that have low levels of RV jitter and use them to uncover the physical causes of RV jitter, which will help optimize the use of upcoming RV facilities like NASAs NEID spectrograph. 
+
+2.	Description of Methodology to be Used
+Bastien et al. (2014) showed that short-timescale light curve variations, called flicker are strongly correlated with RV jitter for magnetically inactive stars. Current work involves extending this relation from the 12 California Planet Survey (CPS) stars in the Kepler field to stars in the K2 campaigns. Due to the multiple fields of the K2 mission, there is larger overlap between CPS stars and potential K2 targets. Past and future K2 campaigns (0-11) have increased the initial CPS-Kepler sample by nearly 50 stars. Here we have identified roughly 30 stars across Campaigns 14, 15, and 16 of the K2 mission with existing RV time series from CPS, which will provide further refinement of this empirical relation. More importantly, they will allow coverage over a wider range of spectral types, ages, and activity levels. Thus, we will be able to fully explore the photometric manifestations of RV jitter and develop the tools necessary for improved RV target selection in a timeframe suitable for the upcoming space missions and ground-based instruments, such as the TESS mission or the NEID spectrograph.
+
+# Targets requested by this program that have been observed (5)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+204221263, 240.033579, -23.189288, 11.21, GO15011_LC|GO15025_LC|GO15101_LC|GO15015_LC|GO15013_LC|GO15009_LC|GO15028_LC|GO15021_LC|GO15011_SC|GO15101_SC|GO15015_SC|GO15013_SC|GO15009_SC
+204281213, 239.653806, -22.954233, 9.964, GO15025_LC|GO15068_LC|GO15023_LC|GO15001_LC|GO15009_LC|GO15052_LC|GO15065_LC
+204519031, 240.168979, -22.008951, 10.858, GO15025_LC|GO15043_LC|GO15068_LC|GO15023_LC|GO15052_LC|GO15065_LC
+249914684, 227.554037, -16.462922, 9.164, GO15010_LC|GO15025_LC|GO15068_LC|GO15063_LC|GO15076_LC|GO15009_LC|GO15065_LC|GO15010_SC
+249921958, 227.554533, -16.379407, 8.923, GO15010_LC|GO15025_LC|GO15068_LC|GO15063_LC|GO15001_LC|GO15076_LC|GO15009_LC|GO15065_LC|GO15010_SC

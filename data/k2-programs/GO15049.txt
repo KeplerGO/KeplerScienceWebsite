@@ -1,0 +1,13 @@
+# Summary of K2 Program GO15049
+
+Title: Accreting compact binaries with K2
+
+PI: Scaringi, Simone (Max Planck Institute for Extraterrestrial Physics)
+CoIs: Maccarone, Thomas Joseph; Koerding, Elmar; Israel, GianLuca; Groot, Paul J; Knigge, Christian; Rea, Nanda
+
+Kepler/K2 observations of compact interacting binaries have already had a major impact to astrophysics. Thanks to its fast photometric cadence, continuous monitoring and high photometric accuracy, Kepler has provided unprecedented insights into various types of compact binaries, and holds an enormous potential for other astrophysical domains on top of planet hunting. Some of the most notable studies have revealed i) the mass ratio and precise orbital parameters through Doppler beaming and Romer delays for compact binaries (Bloemen et al. 2011, MNRAS,410, 178), ii) stringent tests to the disk instability model through the precise characterization of dwarf nova (DN) outburst cycles and (Cannizzo et al. 2012, ApJ, 747, 117), iii) a plethora of currently unexplained periodicities in the AM CVn system SDSS J190817.07+394036.4 (Kupfer et al. 2015, MNRAS, 453, 483), iv) the discovery of the rms-flux relation in the aperiodic flickering of accreting white dwarfs (WD, Scaringi et al. 2012, MNRAS, 421, 2854), v) the discovery of a universal scaling relation linking the timing properties of Active Galactic Nuclei, accreting stellar-mass black holes, accreting white dwarfs and young-stellar objects (Scaringi et al. 2015, Sci. Adv, e1500686). Here we propose to carry on this program to continue exploiting the capabilities of Kepler/K2, and specifically ask to observe 4 targets (3 SC and 1 LC) in Campaign 14, 3 (2 SC and 1 LC) in Campaign 15 and 3 (2 SC and 1 LC) in Campaign 16. Most targets have been selected from the Ritter & Kolb catalogue (A&A, 404, 301). The exact target list will be defined on submission of the Step 2 proposal. For all targets in our sample we will probe their broad-band variability properties. Together with similar targets observed during the previous K2 campaigns, this will form the most comprehensive study of optical aperiodic variability in accreting compact objects, and provide a legacy dataset for years to come.
+
+# Targets requested by this program that have been observed (2)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+249251294, 229.980614, -25.006817, 18.241, GO15016_LC|GO15066_LC|GO15019_LC|GO15049_LC|GO15016_SC|GO15066_SC|GO15019_SC|GO15049_SC
+250105131, 233.971134, -14.220069, 13.678, GO15016_LC|GO15066_LC|GO15090_LC|GO15019_LC|GO15099_LC|GO15049_LC|GO15032_LC|GO15065_LC|GO15016_SC|GO15066_SC|GO15090_SC|GO15019_SC|GO15049_SC
