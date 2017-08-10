@@ -118,12 +118,12 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
+            ('<b>28 Aug 2017</b> (expected)',
+             'K2 Campaign 13 calibrated data release',
+             'k2-campaign-13-data-processing-complete.html'),
             ('<b>31 Aug 2017</b>',
              'K2 Campaign 16 DDT deadline',
              'k2-ddt.html'),
-            ('<b>5 Sep 2017</b> (expected)',
-             'K2 Campaign 13 calibrated data release',
-             'k2-fields.html'),
             ('<b>12 Oct 2017</b>',
              'GO Cycle 6 Step-1 deadline:<br/>Target lists due for Campaigns 17-19',
              ''),
