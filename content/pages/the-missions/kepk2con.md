@@ -80,31 +80,11 @@ levels (graduate students, postdocs, etc.).
   to Kepler/K2. To submit a proposal for a breakout session please
   select the appropriate abstract preference during registration.
 
-### Travel Support
-
-Limited financial support for travel expenses is available for those
-who would otherwise be unable to attend the conference. Special
-consideration will be given to graduate students and postdoctoral
-associates. Priority will be given to requests placed on or before the
-deadline for abstract submissions (March 31, 2017). Late requests will
-be accepted but will be limited by the availability of funds.
-
-Depending upon the demonstrated need and the volume of requests, awarded support (in the form of expense reimbursement) may include one or more of the following:
-
-* Lodging
-* Meals
-* Airfare
-* Ground Transportation
-
-**[We are no longer accepting applications for travel support](https://goo.gl/forms/vsrCGGcdNTqqHFF92)**.
-
 
 ### Conference Agenda
 
-<a href='../kepscicon_program.html'>Recordings of talks from the conference have been made available online here</a>.
-
 <a href="../data/KeplerK2SciConIV_Program_v3_online.pdf" class="btn btn-primary
-btn-xs"><i class="fa fa-download fa-margin"></i> The conference program can downloaded here.</a>
+btn-xs"><i class="fa fa-download fa-margin"></i> The conference program can be downloaded in PDF format here.</a>
 
 This conference will showcase results from the Kepler and K2 missions
 that span all topics in astrophysics and planetary science. The
@@ -215,35 +195,6 @@ behind.
 
 Registration for the poster competition for graduate students and postdocs will open at the registration desk on Monday morning. Each participant should mark their poster with a sticker which will be provided at the registration desk. Competition winners will be notified on Wednesday evening and will present a 5 min talk (+2 min for questions) in Session 2 on Friday.
 
-#### Lunch and Break Information
-
-Lunches at the conference are catered by The NASA Ames Exchange. Note that this is the most convenient option for lunchtime dining.  There are only a couple of other dining options within walking distance from the venue.
- 
-**Attendees should prepay for lunch by June 15th so that enough food can
-be ordered for each day of the conference. Food must be purchased
-separately for each day, so please use the links below to purchase
-food for each of the days you plan to eat the lunch provided by the
-NASA Ames Exchange**:
- 
-* Monday, June 19th:  <a href='https://www.eventbrite.com/e/kepscicon4-lunch-monday-619-self-serve-pasta-bar-tickets-35251081935'>https://www.eventbrite.com/e/kepscicon4-lunch-monday-619-self-serve-pasta-bar-tickets-35251081935</a>
- 
-* Tuesday, June 20th:  <a href='https://www.eventbrite.com/e/kepscicon4-lunch-tuesday-619-salmon-salad-box-lunch-tickets-35251250439'>https://www.eventbrite.com/e/kepscicon4-lunch-tuesday-619-salmon-salad-box-lunch-tickets-35251250439</a>
- 
-* Wednesday, June 21st:  <a href='https://www.eventbrite.com/e/kepscicon4-lunch-wednesday-621-pizza-party-lunch-tickets-35251327670'>https://www.eventbrite.com/e/kepscicon4-lunch-wednesday-621-pizza-party-lunch-tickets-35251327670</a>
- 
-* Thursday, June 22nd:  <a href='https://www.eventbrite.com/e/kepscicon4-lunch-thursday-622-sandwich-boxed-lunch-tickets-35251491159'>https://www.eventbrite.com/e/kepscicon4-lunch-thursday-622-sandwich-boxed-lunch-tickets-35251491159</a>
- 
-* Friday, June 23rd:   <a
-href='https://www.eventbrite.com/e/kepscicon4-lunch-friday-623-hamburgerhot-dog-lunch-tickets-35251556354'>https://www.eventbrite.com/e/kepscicon4-lunch-friday-623-hamburgerhot-dog-lunch-tickets-35251556354</a>
-
-Coffee, tea, and water will be free to conference attendees courtesy
-KBRwyle and Ball Aerospace.
-
-This service includes regular/decaf Peet's
-coffees and assorted teas, all served first thing in the morning
-starting at 8:00 AM, at the
-morning coffee break at 10:00 AM and at the afternoon coffee break at
-03:00 PM (**note that afternoon coffee will not be available Wednesday or Friday**).
 
 ### Travel Information
 
