@@ -85,6 +85,11 @@ levels (graduate students, postdocs, etc.).
 
 <a href="../data/KeplerK2SciConIV_Program_v3_online.pdf"><i class="fa fa-download fa-margin"></i> Download the conference program in PDF format.</a>
 
+<div class="well">
+Note: in order to view the recorded talks below, you will need to have the "Adobe Connect Add-In" installed. Most browsers should be able to access these talks, but we have found Firefox to be the most user-friendly browser for the plug-in to work.
+</div>
+
+
 <div class="panel panel-primary" style="max-width:74em;">
   <div class="panel-heading">
   <h3 class="panel-title">Monday, June 19, 2017</h3>
