@@ -226,7 +226,7 @@ Note: in order to view the recorded talks below, you will need to have the "Adob
   <td>14:00-14:15</td>
  <td> Matteo Cantiello </td>
   <td> Asteroseismic Signatures of Evolving Internal Stellar Magnetic Fields </td>
-  <td>
+  <td>Coming soon
   </td>
 </tr>
 
@@ -399,7 +399,7 @@ Note: in order to view the recorded talks below, you will need to have the "Adob
   <td>09:45-10:00</td>
  <td>  Miguel de Val-Borro </td>
   <td> K2 photometry of comet 67P/ChuryumovGerasimenko </td>
-  <td>
+  <td>Coming soon
   </td>
   </tr>
   
@@ -1144,7 +1144,7 @@ Constants for Low Mass Stars </td>
   <td>14:00-14:15</td>
  <td> George Ricker </td>
   <td> Unlocking the Secrets of Nearby Exoplanets with the Transiting Exoplanet Survey Satellite </td>
-  <td>
+  <td>Coming soon
   </td>
 </tr>
 
