@@ -101,7 +101,7 @@ Depending upon the demonstrated need and the volume of requests, awarded support
 
 ### Conference Agenda
 
-[Recordings of talks from the conference have been made available online here](/kepscicon_program).
+<a href='../kepscicon_program.html'>Recordings of talks from the conference have been made available online here</a>.
 
 <a href="../data/KeplerK2SciConIV_Program_v3_online.pdf" class="btn btn-primary
 btn-xs"><i class="fa fa-download fa-margin"></i> The conference program can downloaded here.</a>
