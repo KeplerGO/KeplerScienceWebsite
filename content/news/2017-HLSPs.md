@@ -16,16 +16,16 @@ The K2SC pipeline aims to preserve astrophysical signals by modeling
 both spacecraft systematics and stellar variability at the same time.
 Version 2.0 incorporates Campaigns 7, 8, and 10 for the first time,
 includes a re-processing of Campaigns 3-6,
-and fixes the "cadence" and "quality" columns which were affected by a glitch in version 1.0. 
+and fixes the "cadence" and "quality" columns which were affected by a glitch in version 1.0.
 
 * As of July, the **[K2 Self-Flat-Fielding (K2SFF)](https://archive.stsci.edu/prepds/k2sff/)** light curves prepared by [Vanderburg & Johnson](http://adsabs.harvard.edu/abs/2014PASP..126..948V) have been updated.
 The K2SFF algorithm correlates flux measurements
-with the spacecraft's pointing to removing the motion-induced systematics.
+with the spacecraft's pointing to remove the motion-induced systematics.
 The latest update adds Campaign 11 light curves to the existing set which already included Campaigns 0 through 10.
 
-* As of March, the **[Planet candidates from OptimaL Aperture Reduction light curves (POLAR)](https://archive.stsci.edu/prepds/polar/)** light curves and planet candidates prepared by [Barros et al.](http://adsabs.harvard.edu/abs/2016A%26A...594A.100B) have been made available for Campaigns 1 through 6.
-POLAR is a new product optimised for bright stars
-which are suitable for spectroscopic follow-up. 
+* As of March, the **[Planet candidates from OptimaL Aperture Reduction (POLAR)](https://archive.stsci.edu/prepds/polar/)** light curves and planet candidates prepared by [Barros et al.](http://adsabs.harvard.edu/abs/2016A%26A...594A.100B) have been made available for Campaigns 1 through 6.
+POLAR is a new product optimized for bright stars
+which are suitable for spectroscopic follow-up.
 
 * As of February, version 2.0 of the **[EPIC Variability Extraction and Removal for Exoplanet Science Targets (EVEREST)](https://archive.stsci.edu/prepds/everest/)** light curves was released.
 The update, detailed in [Luger et al. (2017)](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1702.05488),
