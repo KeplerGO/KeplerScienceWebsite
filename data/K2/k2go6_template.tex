@@ -1,0 +1,200 @@
+%% LaTeX template for the science justification & technical
+%% feasibility to be submitted as part of a K2 GO Cycle 6 Phase 1 proposal.
+%% This template is based on the proposal template
+%% used by the NuSTAR and TESS missions.
+%%
+%% K2 GO Cycle 6 template
+%% V1.0
+%% 2017-08-17
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% DOCUMENT FORMAT %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% The default font was chosen to be easily readable while allowing
+%% sufficient material to be included.
+
+%% Please note that the proposal will be printed on US Letter size paper,
+%% 8.5 in x 11 in, and that formatting the text for other sizes will
+%% generally cause layout problems and may result in text being cut
+%% off near the edges. PLEASE DO NOT CHANGE THE 'LETTERPAPER' OPTION
+%% IN THE DOCUMENTCLASS COMMAND.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Default format: 11pt single column %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% NOTE: NASA ROSES requires body font size to be no smaller than 15 
+%% characters per inch (equivalent to Times Roman 12 point).
+%%
+%% Minimum margin size is 1 inch from top, bottom, and sides.
+
+\documentclass[letterpaper,11pt]{article}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% HOW TO INCLUDE FIGURES %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% Please see the ``Included packages'' section below.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Included packages %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{graphics,graphicx}
+\usepackage[colorlinks]{hyperref}
+\hypersetup{urlcolor=blue}
+\usepackage{cleveref}
+
+%% Feel free to modify the included packages list to use your
+%% favorite packages. 
+
+%% In the graphics and graphicx packages, Postscript and eps figures
+%% can be included using the \includegraphics command. The graphics
+%% package is part of standard LaTeX2e and provides a basic way of including a
+%% figure. The graphicx package is not standard, but extends the
+%% \includegraphics command to make it more user-friendly. If graphicx
+%% is not available on your system please remove it from the list of
+%% included packages above.  
+
+%% Syntax:
+%% In the graphics package:
+%%
+%% \begin{figure}
+%% \includegraphics[llx,lly][urx,ury]{file}
+%% \end{figure}
+%%
+%% where ll denotes 'lower left' and ur 'upper right' and the x and y
+%% values are the coordinates of the PostScript bounding box in
+%% points. There are 72 points in an inch.
+%%
+%% In the graphicx package:
+%% 
+%% \begin{figure}
+%% \includegraphics[key=val,key=val,...]{file}
+%% \end{figure}
+%%
+%% where some of the useful keys are: angle, width, height,
+%% keepaspectratio (='true' or 'false') and scale. Bounding box values
+%% can be given as [bb=llx lly urx ury].
+%%
+%% In either case you have to use LaTeX figure placement commands to
+%% position the figure on the page; \includegraphics will not do
+%% that. Both these commands also have other options that are listed
+%% in the LaTeX manual (for the graphics package) and in 'The LaTeX
+%% Graphics Companion' (for the graphicx package).
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Page dimensions %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\setlength{\textwidth}{6.5in} 
+\setlength{\textheight}{9in}
+\setlength{\topmargin}{-0.0625in} 
+\setlength{\oddsidemargin}{0in}
+\setlength{\evensidemargin}{0in} 
+\setlength{\headheight}{0in}
+\setlength{\headsep}{0in} 
+\setlength{\hoffset}{0in}
+\setlength{\voffset}{0in}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Section heading format %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\makeatletter
+\renewcommand{\section}{\@startsection%
+{section}{1}{0mm}{-\baselineskip}%
+{0.1\baselineskip}{\normalfont\bfseries}}%
+\makeatother
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Some Useful Abbreviations %%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\tess}{{\it TESS}}
+\newcommand{\jwst}{{\it JWST}}
+\newcommand{\kepler}{{\it Kepler}}
+\newcommand{\ktwo}{{K2}}
+\newcommand{\hst}{{\it HST}}
+\newcommand{\msun}{$M_{\odot}$}
+\newcommand{\rsun}{$R_{\odot}$}
+\newcommand{\lsun}{$L_{\odot}$}
+\newcommand{\re}{$R_{\oplus}$}
+\newcommand{\me}{$M_{\oplus}$}
+\newcommand{\rj}{$R_{\textrm{\scriptsize Jup}}$}
+\newcommand{\mj}{$M_{\textrm{\scriptsize Jup}}$}
+\newcommand{\ms}{m~s$^{-1}$}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Start of document %%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\pagestyle{plain}
+\pagenumbering{arabic}
+
+
+ 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Title of proposal %%%%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{center} 
+\textbf{\uppercase{%
+%%
+%% ENTER TITLE OF PROPOSAL BELOW THIS LINE
+YOUR PROPOSAL TITLE \\
+%%
+}}
+PI \textit{(required)}: Your Name (Your Institution) \\
+Co-Is \textit{(optional)}: Investigator A (Their Institution), Investigator B (Their Institution), ... \\
+\end{center}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% Body of science justification %%%%%
+%%%%% and technical feasibility     %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\noindent{\textit{K2 GO Cycle 6 Step-1 proposals for targets in Campaigns 17, 18, and/or 19 should be submitted via email to \textbf{keplergo@mail.arc.nasa.gov}. The Step-1 proposals are limited to either 2 pages of text for small programs ($<$ 1000 targets) or 4 pages of text for large programs (1000 targets or more). The page limit includes all figures, tables, and references. The recommended sections for the proposal are below. (This section can be deleted from your proposal!)}} 
+
+
+\section{Summary}
+
+Summarize the scientific goals that will be achieved by observing your proposed targets with K2.
+
+
+\section{Scientific Justification}
+
+Provide a strong scientific justification that clearly states why K2 is needed to achieve your scientific goals. Briefly justify your choice of targets and whether short or long cadence is needed to reach your goals. Extended, moving, or bright objects requiring larger aperture sizes should be particularly well justified.
+
+\section{Target Selection \textit{(required for large programs; optional for small programs)}}
+
+A detailed description of the target selection criteria is required for large programs. Large pro-grams should also include an explanation of how the target list may be descoped if required by the spacecraft’s limited on-board storage. 
+
+\section{Long-Term Legacy Value}
+
+The long-term legacy value of the proposed targets, both for the K2 mission legacy and the broader astronomical community, needs to be described.
+
+\section{References}
+
+Include a list of references.
+
+\section{Target Table \textit{(required to be submitted via email in a separate file from this document; target tables may also be embedded here, but that is not required)}}
+
+\textit{Proposers are required to provide a separate target table for each campaign in which targets are being proposed, and the required format for the target tables is given on the Kepler \& K2 Science Center website: https://keplerscience.arc.nasa.gov/k2-proposing-targets.html\#target-table. Targets must be ordered by priority, so that the top ranked target is at the top of the list. (This section can be deleted from your proposal!)}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%% End of document %%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{document}
+
