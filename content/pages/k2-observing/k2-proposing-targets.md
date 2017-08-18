@@ -393,8 +393,8 @@ Campaign 17 and if allowed by the spacecraft health and fuel.
 
 * Step-1, for all three campaigns combined, will consist of 2 pages of text for small programs (less than 1000 targets) and 4 pages for large programs (1000 targets or more), including all figures, tables, and references, in a PDF file. The text shall be no smaller than 12-point font. 
 
-* The Step-1 proposal must include a title, team, and summary, followed by a body of text which offers a strong scientific justification of the target list and explains the long-term legacy value of the proposed targets. Large programs must also include a detailed description of the target selection criteria, and explain how the target list may be de-scoped if required by the spacecraft’s limited on-board storage. Proposers are encouraged to use the Step-1 proposal template
-available [here]().
+* The Step-1 proposal must include a title, team, and summary, followed by a body of text which offers a strong scientific justification of the target list and explains the long-term legacy value of the proposed targets. Large programs must also include a detailed description of the target selection criteria, and explain how the target list may be de-scoped if required by the spacecraft’s limited on-board storage. <b>Proposers are encouraged to use the Step-1 proposal template
+available [here in Word format](data/K2/k2go6_template.docx) and [here in Latex format](data/K2/k2go6_template.tex).</b>
 
 * Separate target tables (one per campaign), which do not count toward
   the 2/4-page limit for the scientific justification, must be prepared in the [format specified here](https://keplerscience.arc.nasa.gov/k2-proposing-targets.html#target-table). **Targets in the list must be ordered by priority.**
