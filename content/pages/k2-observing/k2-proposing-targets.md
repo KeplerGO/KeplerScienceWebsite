@@ -455,9 +455,6 @@ Campaign 17 and if allowed by the spacecraft health and fuel.
 
 * Phase-1, for all three campaigns combined, will consist of 2 pages of text for small programs (less than 1000 targets) and 4 pages for large programs (1000 targets or more), including all figures, tables, and references, in a PDF file. The text shall be no smaller than 12-point font. 
 
-* The Phase-1 proposal must include a title, team, and summary, followed by a body of text which offers a strong scientific justification of the target list and explains the long-term legacy value of the proposed targets. Large programs must also include a detailed description of the target selection criteria, and explain how the target list may be de-scoped if required by the spacecraft’s limited on-board storage. Proposers are encouraged to use the Phase-1 proposal template
-available [here]().
-=======
 * The Phase-1 proposal must include a title, team, and summary,
 followed by a body of text which offers a strong scientific justification
 of the target list and explains the long-term legacy value of the proposed targets.
