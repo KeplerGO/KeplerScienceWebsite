@@ -17,9 +17,9 @@ As a reminder: the "forward-facing" Campaign 16 field
 will be **visible from both hemispheres throughout the duration of the Campaign**,
 enabling contemporaneous observations to be carried out from observatories on Earth. Many teams have already registered their contemporaneous observing plans in [a publicly editable Google Doc](share-your-plan-for-k2-campaign-16-ancillary-observations.html).
 
-We have compiled the plans submitted so far into the map below,
-revealing a wide range of observing capabilities put in place for Campaign 16,
-yielding a rich legacy data set that is likely to benefit a wide variety of science cases for many years to come.
+The plans submitted so far have been compiled into the map below,
+revealing a wide range of observing capabilities which are expected to yield
+a rich legacy data set that is likely to benefit a wide variety of investigations.
 Several of the observatories plan to monitor the C16 field every night,
 providing polychromatic photometry and spectroscopy to complement Kepler's single bandpass.
 
