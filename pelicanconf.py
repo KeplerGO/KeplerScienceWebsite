@@ -140,6 +140,9 @@ MEETINGS = (
             ('<b>8–12 Jan 2018</b><br>'
              'Kepler/K2 booth at the Winter AAS meeting',
              'https://aas.org/meetings/aas231'),
+            ('<b>8–13 Jul 2018</b><br>'
+             'TASC4/KASC11 Asteroseismology Meeting',
+             ''),
             )
 
 # Defines the "related websites" listing in the footer of all pages
