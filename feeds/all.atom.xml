@@ -26,52 +26,7 @@ providing polychromatic photometry and spectroscopy to complement Kepler's singl
 &lt;p&gt;We continue to encourage the K2 community to continue to &lt;a href="share-your-plan-for-k2-campaign-16-ancillary-observations.html"&gt;register
 the details of the observing efforts in the Google Doc&lt;/a&gt;,
 and to engage in collaborations which help optimize the use of the available resources.&lt;/p&gt;
-&lt;p&gt;&lt;a href="images/K2C16_global_map.png"&gt;&lt;img alt="Map of selected ground-based observations of the Campaign 16 field" src="images/K2C16_global_map.png" /&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>Call for K2 GO Cycle 6 proposals for Campaigns 17, 18, and 19</title><link href="https://keplerscience.arc.nasa.gov/call-for-k2-go-cycle-6-proposals-for-campaigns-17-18-and-19.html" rel="alternate"></link><published>2017-08-24T15:00:00-07:00</published><updated>2017-08-24T15:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-08-24:/call-for-k2-go-cycle-6-proposals-for-campaigns-17-18-and-19.html</id><summary type="html">&lt;p&gt;The call for K2 Guest Observer Cycle 6 proposals for 
-&lt;a href="/k2-fields.html"&gt;Campaigns 17, 18, and 19&lt;/a&gt; has been
-&lt;a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={7DC22936-4C6A-44FC-74A3-F0C9248DC9DD}&amp;amp;path=open"&gt;released and made available at NSPIRES&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Because spacecraft fuel is expected to run out during one of these Campaigns,
-the Cycle 6 call will use a new two-phase submission and
-target selection process …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The call for K2 Guest Observer Cycle 6 proposals for 
-&lt;a href="/k2-fields.html"&gt;Campaigns 17, 18, and 19&lt;/a&gt; has been
-&lt;a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={7DC22936-4C6A-44FC-74A3-F0C9248DC9DD}&amp;amp;path=open"&gt;released and made available at NSPIRES&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Because spacecraft fuel is expected to run out during one of these Campaigns,
-the Cycle 6 call will use a new two-phase submission and
-target selection process:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;An optional Phase-1 proposal, for all three campaigns (17-19) combined, will enable targets to be selected ahead of the observing campaigns.
-Phase-1 proposals, including target lists and a scientific rationale (both submitted via email to keplergo@mail.arc.nasa.gov),
-are requested by 23:59 EST on October 12, 2017.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;If the spacecraft health and fuel allow, then Phase-2 proposals will be due April 19, 2018 (via NSPIRES).
-Phase-2 proposals are limited to use observations for targets which have
-been selected as part of Phase-1, the selection results of which will
-be published in February 2018.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Information about the proposal process, including the scope,
-evaluation criteria, availability of funds, eligibility,
-target selection tools, submission process, and frequently asked questions, is detailed on the &lt;a href="/k2-proposing-targets.html"&gt;proposal preparation page&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id="k2fov-update-required"&gt;K2fov update required&lt;/h3&gt;
-&lt;p&gt;The final field positions for Campaigns 17-19 have recently
-been set based on community input.  The field
-position for Campaign 16 is currently preliminary and will be finalized before the Step 1 deadline.
-All investigators &lt;em&gt;must&lt;/em&gt; update their version of the
-&lt;a href="software.html#k2fov"&gt;K2fov target selection tool&lt;/a&gt;
-to version 5.1, released on 14 Aug 2016,
-to take the final field positions into account. &lt;/p&gt;
-&lt;p&gt;K2fov can be updated from the command line using pip:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;pip install K2fov --upgrade
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;The version number of your K2fov installation may be verified
-using the following command:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;python -c "import K2fov; print(K2fov.__version__)"
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;This should return "5.1.0" or higher. If the number is lower,
-or if you see an error message, then your installation of K2fov is outdated.&lt;/p&gt;
-&lt;h3 id="questions"&gt;Questions?&lt;/h3&gt;
-&lt;p&gt;Questions regarding this call should be sent to &lt;a href="keplergo@mail.arc.nasa.gov"&gt;keplergo@mail.arc.nasa.gov&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><title>New community-prepared K2 light curves available at MAST</title><link href="https://keplerscience.arc.nasa.gov/new-community-prepared-k2-light-curves-available-at-mast.html" rel="alternate"></link><published>2017-08-16T08:00:00-07:00</published><updated>2017-08-16T08:00:00-07:00</updated><author><name>Ann Marie Cody</name></author><id>tag:keplerscience.arc.nasa.gov,2017-08-16:/new-community-prepared-k2-light-curves-available-at-mast.html</id><summary type="html">&lt;p&gt;The project encourages members of our community to share and archive
+&lt;p&gt;&lt;a href="images/K2C16_global_map.png"&gt;&lt;img alt="Map of selected ground-based observations of the Campaign 16 field" src="images/K2C16_global_map.png" /&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>New community-prepared K2 light curves available at MAST</title><link href="https://keplerscience.arc.nasa.gov/new-community-prepared-k2-light-curves-available-at-mast.html" rel="alternate"></link><published>2017-08-16T08:00:00-07:00</published><updated>2017-08-16T08:00:00-07:00</updated><author><name>Ann Marie Cody</name></author><id>tag:keplerscience.arc.nasa.gov,2017-08-16:/new-community-prepared-k2-light-curves-available-at-mast.html</id><summary type="html">&lt;p&gt;The project encourages members of our community to share and archive
 value-added data products derived from Kepler or K2 observations
 via the &lt;a href="https://archive.stsci.edu/k2/hlsps.html"&gt;High Level Science Products (HLSP)&lt;/a&gt; service offered by the data archive at MAST.&lt;/p&gt;
 &lt;p&gt;In recent months, four bespoke data products have been released or updated in this way …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The project encourages members of our community to share and archive
