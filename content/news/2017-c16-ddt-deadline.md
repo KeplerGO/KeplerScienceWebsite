@@ -14,7 +14,7 @@ include the M67 and M44 (Beehive) clusters,
 alongside dozens of confirmed and candidate planets previously discovered in the overlapping Campaign 5 field.
 
 As a reminder: the "forward-facing" Campaign 16 field
-will be **visible from both hemispheres throughout the duration of the Campaign**,
+will be **visible from both hemispheres throughout the duration of the Campaign (Dec 7 - Feb 25)**,
 enabling contemporaneous observations to be carried out from observatories on Earth. Many teams have already registered their contemporaneous observing plans in [a publicly editable Google Doc](share-your-plan-for-k2-campaign-16-ancillary-observations.html).
 
 The plans submitted so far have been compiled into the map below,
