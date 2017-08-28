@@ -8,7 +8,7 @@ via the [High Level Science Products (HLSP)](https://archive.stsci.edu/k2/hlsps.
 
 In recent months, four bespoke data products have been released or updated in this way:
 
-* As of this month, the second version of the **[K2 Systematics Correction](https://archive.stsci.edu/prepds/k2sc/) (K2SC)** light curves
+* As of this month, the second version of the **[K2 Systematics Correction (K2SC)](https://archive.stsci.edu/prepds/k2sc/)** light curves
 prepared by [Aigrain et al.](http://adsabs.harvard.edu/abs/2016MNRAS.459.2408A)
 has been made available.
 The K2SC pipeline aims to preserve astrophysical signals by modeling
