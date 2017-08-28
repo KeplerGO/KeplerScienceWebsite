@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2017-08-28T07:20:00-07:00</updated><entry><title>Call for K2 GO Cycle 6 proposals for Campaigns 17, 18, and 19</title><link href="https://keplerscience.arc.nasa.gov/call-for-k2-go-cycle-6-proposals-for-campaigns-17-18-and-19.html" rel="alternate"></link><published>2017-08-28T07:20:00-07:00</published><updated>2017-08-28T07:20:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-08-28:/call-for-k2-go-cycle-6-proposals-for-campaigns-17-18-and-19.html</id><summary type="html">&lt;p&gt;The call for K2 Guest Observer Cycle 6 proposals for Campaigns 17, 18, and 19 
-has been &lt;a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={7DC22936-4C6A-44FC-74A3-F0C9248DC9DD}&amp;amp;path=open"&gt;released and made available at NSPIRES&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id="new-two-phase-process"&gt;New two-phase process&lt;/h3&gt;
-&lt;p&gt;Because spacecraft fuel is expected to run out during one of these Campaigns,
-the Cycle 6 call will use a new two-phase submission and …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The call for K2 Guest Observer Cycle 6 proposals for Campaigns 17, 18, and 19 
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2017-08-28T07:20:00-07:00</updated><entry><title>Call for K2 GO Cycle 6 proposals for Campaigns 17, 18, and 19</title><link href="https://keplerscience.arc.nasa.gov/call-for-k2-go-cycle-6-proposals-for-campaigns-17-18-and-19.html" rel="alternate"></link><published>2017-08-28T07:20:00-07:00</published><updated>2017-08-28T07:20:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-08-28:/call-for-k2-go-cycle-6-proposals-for-campaigns-17-18-and-19.html</id><summary type="html">&lt;p&gt;The call for K2 Guest Observer Cycle 6 proposals for Campaigns 17, 18, and 19 has been &lt;a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={7DC22936-4C6A-44FC-74A3-F0C9248DC9DD}&amp;amp;path=open"&gt;released and made available at NSPIRES&lt;/a&gt;.&lt;/p&gt;</summary><content type="html">&lt;p&gt;The call for K2 Guest Observer Cycle 6 proposals for Campaigns 17, 18, and 19 
 has been &lt;a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={7DC22936-4C6A-44FC-74A3-F0C9248DC9DD}&amp;amp;path=open"&gt;released and made available at NSPIRES&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id="new-two-phase-process"&gt;New two-phase process&lt;/h3&gt;
 &lt;p&gt;Because spacecraft fuel is expected to run out during one of these Campaigns,
@@ -12,15 +8,16 @@ target selection process:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;An optional &lt;strong&gt;Phase-1&lt;/strong&gt; proposal, for all three campaigns (17-19) combined, will enable &lt;strong&gt;targets&lt;/strong&gt; to be selected ahead of the observing campaigns.
-Phase-1 proposals, including target lists and a scientific rationale (both submitted via email to keplergo@mail.arc.nasa.gov)
-are requested by &lt;strong&gt;October 12, 2017&lt;/strong&gt;.
+Phase-1 proposals, including target lists and a scientific rationale,
+are requested by &lt;strong&gt;October 12, 2017&lt;/strong&gt;
+and must be submitted via email to keplergo@mail.arc.nasa.gov.
 The scientific rationale must not exceed 2 pages for small programs
 (less than 1000 targets) and 4 pages for large programs
 (1000 targets or more).&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;If the spacecraft health and fuel allow,
-then &lt;strong&gt;Phase-2 proposals for funding&lt;/strong&gt; will be due &lt;strong&gt;April 19, 2018&lt;/strong&gt; (via NSPIRES).
+then &lt;strong&gt;Phase-2&lt;/strong&gt; proposals for &lt;strong&gt;funding&lt;/strong&gt; will be due &lt;strong&gt;April 19, 2018&lt;/strong&gt; (via NSPIRES).
 Phase-2 proposals are limited to use observations for targets which have
 been selected as part of Phase-1, the selection results of which will
 be published in February 2018.
@@ -31,7 +28,8 @@ between $30K and $150K, depending on the number of targets used.&lt;/p&gt;
 &lt;p&gt;This revised process allows the allocation of funding to be postponed until after the successful start of Campaign 17 is confirmed in April 2018.&lt;/p&gt;
 &lt;p&gt;Both Phase-1 and Phase-2 proposals will be peer-reviewed and ranked by professional volunteers.
 The ranking of Phase-1 proposals will only inform the target selection, while
-the ranking of Phase-2 proposals will only inform the allocation of funding. Submission of the Phase-1 proposals does not obligate proposers to submit a Phase-2 proposal. (In fact Phase-2 proposals will normally only be of interest to US-based investigators that are eligible to receive funding.)&lt;/p&gt;
+the ranking of Phase-2 proposals will only inform the allocation of funding.
+Submission of the Phase-1 proposals does not obligate proposers to submit a Phase-2 proposal (the latter will normally only be of interest to US-based investigators that are eligible to receive funding.)&lt;/p&gt;
 &lt;p&gt;Information about the proposal process, including the scope,
 evaluation criteria, availability of funds, eligibility,
 target selection tools, submission process, and frequently asked questions, is detailed on the &lt;a href="/k2-proposing-targets.html"&gt;proposal preparation page&lt;/a&gt;.&lt;/p&gt;
@@ -68,7 +66,7 @@ including members of the Taurus and Hyades clusters,
 alongside a number of galaxies and Solar System objects.&lt;/p&gt;
 &lt;p&gt;The associated &lt;a href="k2-data-release-notes.html"&gt;data release notes&lt;/a&gt;
 are expected to be posted soon. 
-Users are alerted to the presence of one of the brightest stars in the sky\
+Users are alerted to the presence of one of the brightest stars in the sky
 (Aldebaran) on Module 22.1 (Channel 73),
 which also impacted the calibration of Module 22.2 (Channel 74).&lt;/p&gt;
 &lt;p&gt;&lt;a href="images/k2/k2-c13-field.png"&gt;&lt;img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c13-field.png"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>K2 Campaign 16 DDT deadline approaching</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-16-ddt-deadline-approaching.html" rel="alternate"></link><published>2017-08-25T14:00:00-07:00</published><updated>2017-08-25T14:00:00-07:00</updated><author><name>Michael Gully-Santiago</name></author><id>tag:keplerscience.arc.nasa.gov,2017-08-25:/k2-campaign-16-ddt-deadline-approaching.html</id><summary type="html">&lt;p&gt;The deadline for 2-page
