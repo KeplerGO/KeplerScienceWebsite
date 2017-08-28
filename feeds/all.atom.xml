@@ -1,5 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2017-08-28T06:30:00-07:00</updated><entry><title>K2 Campaign 13 processed data available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-13-processed-data-available.html" rel="alternate"></link><published>2017-08-28T06:30:00-07:00</published><updated>2017-08-28T06:30:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-08-28:/k2-campaign-13-processed-data-available.html</id><summary type="html">&lt;p&gt;The pipeline-processed data for K2 Campaign 13
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2017-08-28T07:20:00-07:00</updated><entry><title>Call for K2 GO Cycle 6 proposals for Campaigns 17, 18, and 19</title><link href="https://keplerscience.arc.nasa.gov/call-for-k2-go-cycle-6-proposals-for-campaigns-17-18-and-19.html" rel="alternate"></link><published>2017-08-28T07:20:00-07:00</published><updated>2017-08-28T07:20:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-08-28:/call-for-k2-go-cycle-6-proposals-for-campaigns-17-18-and-19.html</id><summary type="html">&lt;p&gt;The call for K2 Guest Observer Cycle 6 proposals for Campaigns 17, 18, and 19 
+has been &lt;a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={7DC22936-4C6A-44FC-74A3-F0C9248DC9DD}&amp;amp;path=open"&gt;released and made available at NSPIRES&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Because spacecraft fuel is expected to run out during one of these Campaigns,
+the Cycle 6 call will use a new two-phase submission and
+target selection process …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The call for K2 Guest Observer Cycle 6 proposals for Campaigns 17, 18, and 19 
+has been &lt;a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={7DC22936-4C6A-44FC-74A3-F0C9248DC9DD}&amp;amp;path=open"&gt;released and made available at NSPIRES&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Because spacecraft fuel is expected to run out during one of these Campaigns,
+the Cycle 6 call will use a new two-phase submission and
+target selection process:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;An optional &lt;strong&gt;Phase-1&lt;/strong&gt; proposal, for all three campaigns (17-19) combined, will enable targets to be selected ahead of the observing campaigns.
+Phase-1 proposals, including &lt;strong&gt;target lists and a scientific rationale&lt;/strong&gt; (both submitted via email to keplergo@mail.arc.nasa.gov)
+are requested by &lt;strong&gt;October 12, 2017&lt;/strong&gt;.
+The scientific rationale must not exceed 2 pages for small programs
+(less than 1000 targets) and 4 pages for large programs
+(1000 targets or more).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If the spacecraft health and fuel allow,
+then &lt;strong&gt;Phase-2&lt;/strong&gt; proposals for funding will be due &lt;strong&gt;April 19, 2018&lt;/strong&gt; (via NSPIRES).
+Phase-2 proposals are limited to use observations for targets which have
+been selected as part of Phase-1, the selection results of which will
+be published in February 2018.
+Phase-2 proposals are eligible to receive funding awards
+which range between $30K and $150K, depending on the number of targets used.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This revised process allows the allocation of funding to be postponed until after the successful start of Campaign 17 is confirmed in April 2018.&lt;/p&gt;
+&lt;p&gt;Both Phase-1 and Phase-2 proposals will be peer-reviewed and ranked by professional volunteers.
+The ranking of Phase-1 proposals will only inform the target selection, while
+the ranking of Phase-2 proposals will only inform the allocation of funding. Submission of the Phase-1 proposals does not obligate proposers to submit a Phase-2 proposal. (Phase-2 proposals will normally only be of interest to US-based teams eligible to receive funding.)&lt;/p&gt;
+&lt;p&gt;Information about the proposal process, including the scope,
+evaluation criteria, availability of funds, eligibility,
+target selection tools, submission process, and frequently asked questions, is detailed on the &lt;a href="/k2-proposing-targets.html"&gt;proposal preparation page&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id="k2fov-update-required"&gt;K2fov update required&lt;/h3&gt;
+&lt;p&gt;The &lt;a href="fields-selected-for-k2-campaigns-17-18-and-19.html"&gt;final field positions for Campaigns 17-19
+have recently been set&lt;/a&gt;
+based on community input.
+All investigators &lt;em&gt;must&lt;/em&gt; update their version of the
+&lt;a href="software.html#k2fov"&gt;K2fov target selection tool&lt;/a&gt;
+to version 7.0, released on 16 June 2017,
+to take the final field positions into account. &lt;/p&gt;
+&lt;p&gt;K2fov can be updated from the command line using pip:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;pip install K2fov --upgrade --no-deps
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;The version number of your K2fov installation may be verified
+using the following command:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;python -c "import K2fov; print(K2fov.__version__)"
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This should return "7.0.0" or higher. If the number is lower,
+or if you see an error message, then your installation of K2fov is outdated.&lt;/p&gt;
+&lt;h3 id="questions"&gt;Questions?&lt;/h3&gt;
+&lt;p&gt;Questions regarding this call should be sent to &lt;a href="keplergo@mail.arc.nasa.gov"&gt;keplergo@mail.arc.nasa.gov&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><title>K2 Campaign 13 processed data available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-13-processed-data-available.html" rel="alternate"></link><published>2017-08-28T06:30:00-07:00</published><updated>2017-08-28T06:30:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-08-28:/k2-campaign-13-processed-data-available.html</id><summary type="html">&lt;p&gt;The pipeline-processed data for K2 Campaign 13
 are now available for download
 from the &lt;a href="http://archive.stsci.edu/k2"&gt;K2 archive at MAST&lt;/a&gt;. &lt;/p&gt;
 &lt;p&gt;The &lt;a href="k2-approved-programs.html#campaign-13"&gt;Campaign 13 target list&lt;/a&gt; featured
@@ -17,52 +70,7 @@ are expected to be posted soon.
 Users are alerted to the presence of one of the brightest stars in the sky\
 (Aldebaran) on Module 22.1 (Channel 73),
 which has also impacted the calibration of Module 22.2 (Channel 74).&lt;/p&gt;
-&lt;p&gt;&lt;a href="images/k2/k2-c13-field.png"&gt;&lt;img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c13-field.png"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>Call for K2 GO Cycle 6 proposals for Campaigns 17, 18, and 19</title><link href="https://keplerscience.arc.nasa.gov/call-for-k2-go-cycle-6-proposals-for-campaigns-17-18-and-19.html" rel="alternate"></link><published>2017-08-26T15:00:00-07:00</published><updated>2017-08-26T15:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-08-26:/call-for-k2-go-cycle-6-proposals-for-campaigns-17-18-and-19.html</id><summary type="html">&lt;p&gt;The call for K2 Guest Observer Cycle 6 proposals for 
-&lt;a href="/k2-fields.html"&gt;Campaigns 17, 18, and 19&lt;/a&gt; has been
-&lt;a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={7DC22936-4C6A-44FC-74A3-F0C9248DC9DD}&amp;amp;path=open"&gt;released and made available at NSPIRES&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Because spacecraft fuel is expected to run out during one of these Campaigns,
-the Cycle 6 call will use a new two-phase submission and
-target selection process …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The call for K2 Guest Observer Cycle 6 proposals for 
-&lt;a href="/k2-fields.html"&gt;Campaigns 17, 18, and 19&lt;/a&gt; has been
-&lt;a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={7DC22936-4C6A-44FC-74A3-F0C9248DC9DD}&amp;amp;path=open"&gt;released and made available at NSPIRES&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Because spacecraft fuel is expected to run out during one of these Campaigns,
-the Cycle 6 call will use a new two-phase submission and
-target selection process:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;An optional Phase-1 proposal, for all three campaigns (17-19) combined, will enable targets to be selected ahead of the observing campaigns.
-Phase-1 proposals, including target lists and a scientific rationale (both submitted via email to keplergo@mail.arc.nasa.gov),
-are requested by 23:59 EST on October 12, 2017.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;If the spacecraft health and fuel allow, then Phase-2 proposals will be due April 19, 2018 (via NSPIRES).
-Phase-2 proposals are limited to use observations for targets which have
-been selected as part of Phase-1, the selection results of which will
-be published in February 2018.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Information about the proposal process, including the scope,
-evaluation criteria, availability of funds, eligibility,
-target selection tools, submission process, and frequently asked questions, is detailed on the &lt;a href="/k2-proposing-targets.html"&gt;proposal preparation page&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id="k2fov-update-required"&gt;K2fov update required&lt;/h3&gt;
-&lt;p&gt;The final field positions for Campaigns 17-19 have recently
-been set based on community input.  The field
-position for Campaign 16 is currently preliminary and will be finalized before the Step 1 deadline.
-All investigators &lt;em&gt;must&lt;/em&gt; update their version of the
-&lt;a href="software.html#k2fov"&gt;K2fov target selection tool&lt;/a&gt;
-to version 5.1, released on 14 Aug 2016,
-to take the final field positions into account. &lt;/p&gt;
-&lt;p&gt;K2fov can be updated from the command line using pip:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;pip install K2fov --upgrade
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;The version number of your K2fov installation may be verified
-using the following command:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;python -c "import K2fov; print(K2fov.__version__)"
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;This should return "5.1.0" or higher. If the number is lower,
-or if you see an error message, then your installation of K2fov is outdated.&lt;/p&gt;
-&lt;h3 id="questions"&gt;Questions?&lt;/h3&gt;
-&lt;p&gt;Questions regarding this call should be sent to &lt;a href="keplergo@mail.arc.nasa.gov"&gt;keplergo@mail.arc.nasa.gov&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><title>K2 Campaign 16 DDT deadline approaching</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-16-ddt-deadline-approaching.html" rel="alternate"></link><published>2017-08-25T14:00:00-07:00</published><updated>2017-08-25T14:00:00-07:00</updated><author><name>Michael Gully-Santiago</name></author><id>tag:keplerscience.arc.nasa.gov,2017-08-25:/k2-campaign-16-ddt-deadline-approaching.html</id><summary type="html">&lt;p&gt;The deadline for 2-page
+&lt;p&gt;&lt;a href="images/k2/k2-c13-field.png"&gt;&lt;img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c13-field.png"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>K2 Campaign 16 DDT deadline approaching</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-16-ddt-deadline-approaching.html" rel="alternate"></link><published>2017-08-25T14:00:00-07:00</published><updated>2017-08-25T14:00:00-07:00</updated><author><name>Michael Gully-Santiago</name></author><id>tag:keplerscience.arc.nasa.gov,2017-08-25:/k2-campaign-16-ddt-deadline-approaching.html</id><summary type="html">&lt;p&gt;The deadline for 2-page
 &lt;a href="k2-ddt.html"&gt;Campaign 16 Director's Discretionary Time (DDT) proposals&lt;/a&gt;
 is &lt;strong&gt;August 31, 2017&lt;/strong&gt;.
 The DDT program welcome requests for exceptional, time-critical
