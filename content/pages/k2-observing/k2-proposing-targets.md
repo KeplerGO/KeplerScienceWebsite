@@ -160,7 +160,7 @@ to identify which targets fall upon active silicon.
 Only those targets within the active fields of view should be proposed.
 
 Note that all investigators *must* update their version of 
-K2fov to the latest version (v7.1.1) to take the final field positions
+K2fov to the latest version (v7.0) to take the final field positions
 of Campaigns 17-18-19 into account. 
 K2fov can be updated from the command line using pip:
 
@@ -171,7 +171,7 @@ using the following command:
 
     python -c "import K2fov; print(K2fov.__version__)"
 
-This must return "7.1.1" or higher. If the number is lower,
+This must return "7.0.0" or higher. If the number is lower,
 or if you see an error message, then your installation of K2fov is outdated
 and must be upgraded.
 Not upgrading K2fov will lead to unobservable targets being selected!
