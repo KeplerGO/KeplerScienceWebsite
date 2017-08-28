@@ -69,7 +69,22 @@ are expected to be posted soon.
 Users are alerted to the presence of one of the brightest stars in the sky
 (Aldebaran) on Module 22.1 (Channel 73),
 which also impacted the calibration of Module 22.2 (Channel 74).&lt;/p&gt;
-&lt;p&gt;&lt;a href="images/k2/k2-c13-field.png"&gt;&lt;img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c13-field.png"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>K2 Campaign 16 DDT deadline approaching</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-16-ddt-deadline-approaching.html" rel="alternate"></link><published>2017-08-25T14:00:00-07:00</published><updated>2017-08-25T14:00:00-07:00</updated><author><name>Michael Gully-Santiago</name></author><id>tag:keplerscience.arc.nasa.gov,2017-08-25:/k2-campaign-16-ddt-deadline-approaching.html</id><summary type="html">&lt;p&gt;The deadline for 2-page
+&lt;p&gt;&lt;a href="images/k2/k2-c13-field.png"&gt;&lt;img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c13-field.png"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>K2 Campaign 14 raw data available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-14-raw-data-available.html" rel="alternate"></link><published>2017-08-25T20:00:00-07:00</published><updated>2017-08-25T20:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-08-25:/k2-campaign-14-raw-data-available.html</id><summary type="html">&lt;p&gt;The raw cadence data for K2 Campaign 14 were successfully downlinked
+from the spacecraft in the weekend of August 19th
+and are now available for download from the
+&lt;a href="http://archive.stsci.edu/k2"&gt;K2 archive at MAST&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;The use of the raw, uncalibrated data files requires an intimate understanding
+of their &lt;a href="raw-data-for-k2-campaign-12-and-trappist-1-now-available.html"&gt;format and caveats&lt;/a&gt;.
+For …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The raw cadence data for K2 Campaign 14 were successfully downlinked
+from the spacecraft in the weekend of August 19th
+and are now available for download from the
+&lt;a href="http://archive.stsci.edu/k2"&gt;K2 archive at MAST&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;The use of the raw, uncalibrated data files requires an intimate understanding
+of their &lt;a href="raw-data-for-k2-campaign-12-and-trappist-1-now-available.html"&gt;format and caveats&lt;/a&gt;.
+For nearly all scientific investigations,
+we recommend that users wait for the calibrated products to become available.
+Pipeline processing has started and the data products are expected
+to become available in the course of October 2017.&lt;/p&gt;</content></entry><entry><title>K2 Campaign 16 DDT deadline approaching</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-16-ddt-deadline-approaching.html" rel="alternate"></link><published>2017-08-25T14:00:00-07:00</published><updated>2017-08-25T14:00:00-07:00</updated><author><name>Michael Gully-Santiago</name></author><id>tag:keplerscience.arc.nasa.gov,2017-08-25:/k2-campaign-16-ddt-deadline-approaching.html</id><summary type="html">&lt;p&gt;The deadline for 2-page
 &lt;a href="k2-ddt.html"&gt;Campaign 16 Director's Discretionary Time (DDT) proposals&lt;/a&gt;
 is &lt;strong&gt;August 31, 2017&lt;/strong&gt;.
 The DDT program welcome requests for exceptional, time-critical
@@ -105,7 +120,7 @@ via the &lt;a href="https://archive.stsci.edu/k2/hlsps.html"&gt;High Level Scien
 &lt;p&gt;In recent months, four bespoke data products have been released or updated in this way:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;As of this month, the second version of the &lt;strong&gt;&lt;a href="https://archive.stsci.edu/prepds/k2sc/"&gt;K2 Systematics Correction&lt;/a&gt; (K2SC)&lt;/strong&gt; light curves
+&lt;p&gt;As of this month, the second version of the &lt;strong&gt;&lt;a href="https://archive.stsci.edu/prepds/k2sc/"&gt;K2 Systematics Correction (K2SC)&lt;/a&gt;&lt;/strong&gt; light curves
 prepared by &lt;a href="http://adsabs.harvard.edu/abs/2016MNRAS.459.2408A"&gt;Aigrain et al.&lt;/a&gt;
 has been made available.
 The K2SC pipeline aims to preserve astrophysical signals by modeling
@@ -256,7 +271,7 @@ found in the source code directory tree.&lt;/p&gt;
 should refer to the &lt;a href="https://archive.stsci.edu/kepler/manuals/KSCI-19081-002-KDPH.pdf"&gt;Kepler Data Processing Handbook&lt;/a&gt; (pdf) which, together with the source code,
 represents the documentation of the algorithms used
 to produce the final target pixel files, light curves, and list of transit Threshold Crossing Events (&lt;a href="https://exoplanetarchive.ipac.caltech.edu/docs/Kepler_TCE_docs.html"&gt;TCEs&lt;/a&gt;) for the final Data Release 25 of Kepler's original mission in the Cygnus field (DR25).&lt;/p&gt;
-&lt;p&gt;A separate codebase, called the RoboVetter, was used to classify the TCEs into planet candidates and false positives for Kepler's DR25 planet catalog.
+&lt;p&gt;A separate codebase, called the Robovetter, was used to classify the TCEs into planet candidates and false positives for Kepler's DR25 planet catalog.
 This code is available in a separate repository at &lt;a href="https://github.com/nasa/kepler-robovetter"&gt;https://github.com/nasa/kepler-robovetter&lt;/a&gt; and will be described in a forthcoming paper led by Susan Mullally et al (in prep).&lt;/p&gt;</content></entry><entry><title>K2 Campaign 12 processed data available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-12-processed-data-available.html" rel="alternate"></link><published>2017-07-31T07:00:00-07:00</published><updated>2017-07-31T07:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-07-31:/k2-campaign-12-processed-data-available.html</id><summary type="html">&lt;p&gt;The pipeline-processed data for
 &lt;a href="k2-approved-programs.html#campaign-12"&gt;K2 Campaign 12&lt;/a&gt;
 are now available for download
