@@ -11,5 +11,5 @@ The use of the raw, uncalibrated data files requires an intimate understanding
 of their [format and caveats](raw-data-for-k2-campaign-12-and-trappist-1-now-available.html).
 For nearly all scientific investigations,
 we recommend that users wait for the calibrated products to become available.
-Pipeline processing has started and the data products are expected
+Pipeline processing has started and the calibrated data products are expected
 to become available in the course of October 2017.
