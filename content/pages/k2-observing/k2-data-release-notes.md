@@ -112,7 +112,7 @@ evolve in future campaigns.
 
 <div class="thumbnail" style="width: 49%;display: inline-block;">
 <div class="caption">
-<i>Figure C12-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C13.</i>   
+<i>Figure C13-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C13.</i>   
 </div>
 <a href="images/release-notes/c13/c13_pad_pdq_attitude_roll.png">
 <img src="images/release-notes/c13/c13_pad_pdq_attitude_roll.png" class="img-responsive" alt="Pipeline measured roll error for C13.">
@@ -121,7 +121,7 @@ evolve in future campaigns.
 
 <div class="thumbnail" style="width: 49%;display: inline-block;">
 <div class="caption">
-<i>Figure C12-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C13.</i>
+<i>Figure C13-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C13.</i>
 <a href="images/release-notes/c13/c13_pad_pdq_attitude_mar.png">
 <img src="images/release-notes/c13/c13_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the C13 attitude measured with PAD and PDQ.">
 </a>
