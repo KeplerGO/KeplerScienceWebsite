@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2017-08-28" />
+    <meta name="dc.date.modified" content="2017-09-05" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -34,13 +34,13 @@ in August 2015, using pelican-bootstrap and flatly.
 <link rel="canonical" href="./pages/k2-data-release-notes.html">
 
         <meta name="author" content="Geert Barentsen" />
-        <meta name="description" content="This page details the key features of the K2 data releases, including a description of technical issues relevant to the scientific exploitation of the data. K2 Campaign 12 At a glance Pointing RA: 351.6588124 degrees Dec: -5.1023328 degrees Roll: -156.8808419 degrees Targets 29,221 standard long cadence …" />
+        <meta name="description" content="This page details the key features of the K2 data releases, including a description of technical issues relevant to the scientific exploitation of the data. K2 Campaign 13 At a glance Pointing RA: 72.7971166 Dec: 20.7870759 Roll: -172.7995758 Targets 26,242 long cadence (LC) targets, including 21 ..." />
 
     <meta property="og:site_name" content="Kepler &amp; K2" />
     <meta property="og:type" content="article"/>
     <meta property="og:title" content="K2 Data Release Notes"/>
     <meta property="og:url" content="./pages/k2-data-release-notes.html"/>
-    <meta property="og:description" content="This page details the key features of the K2 data releases, including a description of technical issues relevant to the scientific exploitation of the data. K2 Campaign 12 At a glance Pointing RA: 351.6588124 degrees Dec: -5.1023328 degrees Roll: -156.8808419 degrees Targets 29,221 standard long cadence …" />
+    <meta property="og:description" content="This page details the key features of the K2 data releases, including a description of technical issues relevant to the scientific exploitation of the data. K2 Campaign 13 At a glance Pointing RA: 72.7971166 Dec: 20.7870759 Roll: -172.7995758 Targets 26,242 long cadence (LC) targets, including 21 ..." />
 
 
     <!-- Why use Helvetica Neue when you can have Lato? -->
@@ -141,6 +141,213 @@ in August 2015, using pelican-bootstrap and flatly.
 including a description of technical issues relevant to
 the scientific exploitation of the data.</p>
 <hr>
+<h1 id="k2-campaign-13">K2 Campaign 13</h1>
+<h2>At a glance</h2>
+<div class="col-lg-5">
+<b><i>Pointing</i></b>
+<ul>
+<li> RA: 72.7971166 </li>
+<li> Dec: 20.7870759 </li>
+<li> Roll: -172.7995758 </li>
+</ul>
+<b><i>Targets</i></b>
+<ul>
+<li> 26,242 long cadence (LC) targets, including 21,434 standard LC stellar (or point-like) targets</li>
+<li> 118 short cadence (SC) targets, with 144 target definitions</li>
+<li> 15 moving objects were tiled with LC custom strip apertures. 33 bright stars, including Aldebaran, were assigned 40-pixel diameter LC disk apertures to cature the point spread function wings. Nine bright Hyades cluster stars were assigned 24-pixel diameter SC disk apertures. See the <a href="images/release-notes/c13/ktwoc13_caf.csv">csv file that maps</a> the custom aperture number to the target name.</li>
+</ul>
+<b><i>Full Frame Image (FFI)</i></b>
+<ul>
+<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2017079075530-c13_ffi-cal.fits">ktwo2017079075530-c13_ffi-cal.fits</a> Note: only one FFI was collected during C13.</li>
+</ul>
+<b><i>First cadence</i></b>
+<ul>
+<li>Start Time: 2017-03-08 01:35:06 UTC</li>
+<li>Long Cadence Number: 140878</li>
+<li>Short Cadence Number: 4214800</li>
+</ul>
+<b><i>Last cadence</i></b>
+<ul>
+<li>End Time: 2017-05-27 15:44:53 UTC</li>
+<li>Long Cadence Number: 144821</li>
+<li>Short Cadence Number: 4333119</li>
+</ul>
+</div>
+<div class="col-lg-7">
+<!---
+ <div class="thumbnail">
+<div class="caption">
+<i>Figure C13-FOV: Schematic of Kepler's C13 field-of-view with observed targets shown with purple dots. REPLACE WITH UPDATED VERSION, OR REMOVE</i>
+</div>
+<a href="images/release-notes/c13/C13_selected.png">
+<img src="images/release-notes/c13/c13_selected.png" class="img-responsive" alt="C13 field-of-view with selected targets plotted in purple.">
+</a>
+</div>
+ --->
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C13-Mag: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-13">GO Programs</a> were selected.</i>
+</div>
+<a href="images/release-notes/c13/c13_lc_magnitude_distribution.png">
+<img alt="Distribution of the Kepler magnitudes of observed LC targets." class="img-responsive" src="images/release-notes/c13/c13_lc_magnitude_distribution.png">
+</img></a>
+</div>
+</div>
+<h2>Features and events</h2>
+<p><br>
+<strong><em>Clusters and Star Forming Regions</em></strong></br></p>
+<p>The C13 field of view encompasses part of the Taurus star forming region, 
+including the well
+known T-Tauri stars HL Tau (EPIC 210690913) and LkCa 15 (EPIC 247520207). 
+The field of view also covers a portion of the
+Hyades star cluster along with the distant clusters 
+NGC 1647, NGC 1746, and NGC 1817.</p>
+<p><br>
+<strong><em>Galaxies</em></strong></br></p>
+<p>There are 33 galaxies targeted in the C13 field of view.</p>
+<p><br>
+<strong><em>Pointing and Roll Performance</em></strong></br></p>
+<p>The C13 pointing and roll behavior are within the limits of that seen 
+in other K2 campaigns for the majority of the campaign. 
+The pipeline calculated maximum distance between the 
+derived and nominal positions for any target (the "maximum attitude residual", or MAR) 
+for C13 is well under the 3-pixel limit accommodated by the aperture halos, 
+except for three periods with anomalous thruster firings. One is in the first day 
+of the campaign lasting for 6 hours starting at 2017-03-08 17:46:06 UTC
+(cadence numbers 140911-140922). 
+Two periods of anomalous pointing occur in the final five days
+of the campaign: 18 hours starting at 2017-05-23 12:11:44 UTC
+(cadence numbers 144619-144654), and 6 hours 
+starting at 2017-05-23 11:16:28 UTC (cadence numbers 144715-144726). 
+These anomalous thruster firing events occurring near the start and end of campaigns
+are suspected to be due to low fuel levels. The flight team is investigating them in
+an effort to understand whether they can be mitigated and how they might 
+evolve in future campaigns.</p>
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C13-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C13.</i>
+</div>
+<a href="images/release-notes/c13/c13_pad_pdq_attitude_roll.png">
+<img alt="Pipeline measured roll error for C13." class="img-responsive" src="images/release-notes/c13/c13_pad_pdq_attitude_roll.png">
+</img></a>
+</div>
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C13-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C13.</i>
+<a href="images/release-notes/c13/c13_pad_pdq_attitude_mar.png">
+<img alt="Maximum residual of the C13 attitude measured with PAD and PDQ." class="img-responsive" src="images/release-notes/c13/c13_pad_pdq_attitude_mar.png">
+</img></a>
+</div>
+</div>
+<p><br>
+<strong><em>Smear Correction Error on Channel 74</em></strong></br></p>
+<p>The presence of the first magnitude star Aldebaran on channel 73 led to an error in 
+the smear correction for channel 74, which shares the same physical CCD (see figure 
+Aldebaran). 
+The saturated charge from Aldebaran spills over all rows of the image and into the
+serial register of the CCD, corrupting the first three rows of the masked smear region
+in the FFI. While these rows are not used for the smear correction, at times during 
+C13 the saturation spill covered more rows in the masked smear, extending up to row 15 on
+channel 74 (see figure Channel 74 Trailing Black). Trailing black rows 7-18 are fit
+with a linear model to estimate the black (bias) level for the masked smear region. </p>
+<p>At these times, 
+the trailing black estimate for the masked smear signal was corrupted, resulting in a
+corrupted smear measurement for the affected cadences. Since the smear signal is subtracted
+from all the pixels in the channel, all targets on channel 74 were affected for these
+cadences. The impact is somewhat mitigated by background correction, but due to the 
+non-linearity correction during calibration, a residual error remains. The effect is
+generally more significant for faint targets; however, users are cautioned
+to estimate the impact on their science of using data from the affected cadences. 
+In addition, due to the rapidly changing background estimate, the argabrightening 
+detector (see <a href="http://archive.stsci.edu/kepler/manuals/Data_Characteristics.pdf">Kepler Data Characteristics Handbook, Sec 5.8</a>)
+was triggered on channel 74 resulting in data gaps in the light curve files for
+some targets. Users should treat the channel specific argabrightening indicator
+in QUALITY and SAP_QUALITY flags with caution 
+(bit 13, decimal=4096).</p>
+<p>The smear corruption effects were most prominent in the
+first 80 cadences of the campaign and again in the period between cadence 1800-3200
+(see Figure Channel 74 Trailing Black)
+In order to allow users to select the cadences they wish to exclude, the attached
+csv file <a href="images/release-notes/c13/c13_ch74_black_for_smear_residuals.csv">c13_ch74_black_for_smear_residuals.csv</a>
+contains the residual black level for the masked smear pixels after model fitting for
+each LC.
+The units of the residual signal are ADU/LC/pixel. The cadences with large negative 
+residuals (&lt;-200 ADU/LC/pixel) and those showing bimodal behavior are indicative of 
+a poor model fit and a corrupted smear correction. </p>
+<div class="thumbnail">
+<div class="caption">
+<i>Figure Aldebaran: An image of channels 73 (left) and 74 (right) from the FFI 
+ktwo2017079075530-c13_ffi-cal shows the bright star on channel 73 with 
+saturation spilling over all rows (x-axis is CCD columns, y-axis is CCD rows). 
+In a zoomed image of the first 50 rows of the CCD 
+(lower panel) the saturation spill along the serial register of both channels shows
+up as a white bar in rows 1-3. The readout amplifiers 
+are located at the lower left corner for channel 73 and lower right corner for
+channel 74. The trailing black signal is measured from virtual columns in the center 
+of this composite image (at the green dashed line). 
+</i>
+</div>
+<a href="images/release-notes/c13/ffi_raw_ch73_74_c13.png">
+<img alt="C13 FFI image of channels 73 and 74 with Aldebaran." class="img-responsive" src="images/release-notes/c13/ffi_raw_ch73_74_c13.png">
+</img></a>
+</div>
+<p><a href="images/release-notes/c13/ffi_raw_ch73_74_c13_zoom.png">
+<img alt="C13 FFI zoomed image of channels 73 and 74 showing collateral data rows." class="img-responsive" src="images/release-notes/c13/ffi_raw_ch73_74_c13_zoom.png">
+</img></a>
+</p></hr>
+
+<div class="thumbnail">
+<div class="caption">
+<i>Figure Channel 74 Trailing Black: A time series of the residual trailing
+black level for the masked smear pixels after model fitting shows the effect 
+of the saturation from Aldebaran. The trailing black rows used in estimating 
+the black correction for the masked smear signal (rows 7:18) show anomalous 
+values and bimodal behavior during the affected cadences.
+</i>
+</div>
+<a href="images/release-notes/c13/c13_ch74_black_for_ms_residual.png">
+<img alt="C13 channel 74 black model residual for masked smear pixels by cadence number." class="img-responsive" src="images/release-notes/c13/c13_ch74_black_for_ms_residual.png">
+</img></a>
+</div>
+
+<p><br>
+<strong><em>Light Curve Quality</em></strong></br></p>
+<p>As in previous campaigns, the 6-hour spacecraft roll cycle continues 
+to dominate the systematic 
+errors in C13 simple aperture photometry light curves. 
+Similar to C12, the pipeline CDPP 12th magnitude noise 
+benchmark is 15-20% higher than what was seen in star fields of comparable star 
+density (e.g. C4, C5). There is tentative evidence that at least part of this increase
+is due to the anomalous pointing excursions at the beginning and end of the campaign.
+In future campaigns, the processing will exclude such cadences from PDC and from 
+the CDPP estimates. </p>
+<p>The magnitude dependence of CDPP and its distribution over the focal 
+plane are shown below. Other CDPP benchmarks can be found in the 
+<a href="images/release-notes/c13/c13_bin1.00_sc1.00_CDPP_Summary_17080715.txt">
+table giving 6.5-hr CDPP as a function of magnitude.</a>
+<br>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C13-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i> <br/>
+</div>
+<a href="images/release-notes/c13/c13_logg_CDPP_vs_model.png">
+<img alt="CDPP measured for all targets as a function of Kepler magnitude." class="img-responsive" src="images/release-notes/c13/c13_logg_CDPP_vs_model.png">
+</img></a>
+</div>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C13-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
+<a href="images/release-notes/c13/c13_dwarf_CDPP_by_mod_out.png">
+<img alt="CDPP per channel for 12th magnitude dwarfs" class="img-responsive" src="images/release-notes/c13/c13_dwarf_CDPP_by_mod_out.png">
+</img></a> <br/>
+</div>
+</div></br></p>
+<h2>Release History</h2>
+<p>The following is the data release history for C13. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.</p>
+<ul>
+<li><a href="k2-pipeline-release-notes.html#data-release-19">Data Release 19</a></li>
+</ul>
+<hr>
 <h1 id="k2-campaign-12">K2 Campaign 12</h1>
 <h2>At a glance</h2>
 <div class="col-lg-5">
@@ -159,7 +366,7 @@ the scientific exploitation of the data.</p>
 <b><i>Full Frame Images (FFI)</i></b>
 <ul>
 <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2016361035629-c12_ffi-cal.fits">ktwo2016361035629-c12_ffi-cal.fits</a></li>
-<li>[ktwo2017032102633-c12_ffi-cal.fits](https://archive.stsci.edu/pub/k2/ffi/ktwo2017032102633-c12_ffi-cal.fits)</li>
+<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2017032102633-c12_ffi-cal.fits">ktwo2017032102633-c12_ffi-cal.fits</a></li>
 </ul>
 <b><i>First cadence</i></b>
 <ul>
@@ -2405,6 +2612,7 @@ document.write(document.lastModified);
             <div class="nav nav-stacked fixed" id="mytoc">
             <div class="toc">
 <ul>
+<li><a href="#k2-campaign-13">K2 Campaign 13</a></li>
 <li><a href="#k2-campaign-12">K2 Campaign 12</a></li>
 <li><a href="#k2-campaign-11">K2 Campaign 11</a></li>
 <li><a href="#k2-campaign-10">K2 Campaign 10</a></li>
