@@ -52,7 +52,8 @@ the scientific exploitation of the data.
 
 <div class="col-lg-7">
 
-<div class="thumbnail">
+<!---
+ <div class="thumbnail">
 <div class="caption">
 <i>Figure C13-FOV: Schematic of Kepler's C13 field-of-view with observed targets shown with purple dots. REPLACE WITH UPDATED VERSION, OR REMOVE</i>
 </div>
@@ -60,6 +61,7 @@ the scientific exploitation of the data.
 <img src="images/release-notes/c13/c13_selected.png" class="img-responsive" alt="C13 field-of-view with selected targets plotted in purple.">
 </a>
 </div>
+ --->
 
 <div class="thumbnail">
 <div class="caption">
