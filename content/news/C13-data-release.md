@@ -11,9 +11,8 @@ The [Campaign 13 target list](k2-approved-programs.html#campaign-13) featured
 including members of the Taurus and Hyades clusters,
 alongside a number of galaxies and Solar System objects.
 
-The associated [data release notes](k2-data-release-notes.html)
-are expected to be posted soon. 
-Users are alerted to the presence of one of the brightest stars in the sky
+The properties of the release are discussed in the [data release notes](k2-data-release-notes.html#campaign-13).
+In particular, users are alerted to the presence of one of the brightest stars in the sky
 (Aldebaran) on Module 22.1 (Channel 73),
 which also impacted the calibration of Module 22.2 (Channel 74).
 
