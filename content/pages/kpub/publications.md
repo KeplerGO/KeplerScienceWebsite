@@ -48,7 +48,7 @@ The publication count for Kepler is 2071
 while that of K2 is 299.
 The number of refereed papers is 1843 for Kepler and 246 for K2.
 
-![Publication rate by mission and year]({filename}/images/kpub/kpub-publication-rate.png)
+[![Publication rate by mission and year]({filename}/images/kpub/kpub-publication-rate.png)]({filename}/images/kpub/kpub-publication-rate.png)
 
 <hr/>
 
@@ -64,7 +64,7 @@ pertain to other areas of astrophysics
 
 The graph below details the breakdown of K2 papers by science topic.
 
-![Publications by subject]({filename}/images/kpub/k2-science-piechart.png)
+[![Publications by subject]({filename}/images/kpub/k2-science-piechart.png)]({filename}/images/kpub/k2-science-piechart.png)
 
 <hr/>
 
@@ -201,21 +201,21 @@ Here we list the most-active authors, defined as those with six or more first-au
 
  * Borucki, W (13 publications)
 
- * Kjurkchieva, D (12 publications)
+ * Murphy, S (12 publications)
 
- * Stello, D (12 publications)
-
- * Huber, D (12 publications)
+ * Jenkins, J (12 publications)
 
  * Rappaport, S (12 publications)
 
- * Murphy, S (12 publications)
-
- * Savanov, I (12 publications)
+ * Kjurkchieva, D (12 publications)
 
  * Steffen, J (12 publications)
 
- * Jenkins, J (12 publications)
+ * Stello, D (12 publications)
+
+ * Savanov, I (12 publications)
+
+ * Huber, D (12 publications)
 
  * Baran, A (11 publications)
 
@@ -223,120 +223,120 @@ Here we list the most-active authors, defined as those with six or more first-au
 
  * Armstrong, D (11 publications)
 
- * Hekker, S (10 publications)
-
- * Scaringi, S (10 publications)
-
- * Corsaro, E (10 publications)
-
  * Metcalfe, T (10 publications)
 
  * Gaidos, E (10 publications)
 
- * Guzik, J (9 publications)
+ * Hekker, S (10 publications)
+
+ * Corsaro, E (10 publications)
+
+ * Scaringi, S (10 publications)
+
+ * Beck, P (9 publications)
+
+ * Ramsay, G (9 publications)
 
  * Chaplin, W (9 publications)
 
+ * Mathur, S (9 publications)
+
  * Campante, T (9 publications)
 
- * Mathur, S (9 publications)
+ * Guzik, J (9 publications)
 
  * Molenda-Zakowicz, J (9 publications)
 
  * Mosser, B (9 publications)
 
- * Ramsay, G (9 publications)
+ * Lund, M (8 publications)
 
- * Beck, P (9 publications)
+ * Wang, J (8 publications)
 
- * Ostensen, R (8 publications)
+ * Petigura, E (8 publications)
 
- * Van Eylen, V (8 publications)
+ * Molnar, L (8 publications)
 
  * Mann, A (8 publications)
 
  * Silva Aguirre, V (8 publications)
 
- * Wang, J (8 publications)
+ * Lee, J (8 publications)
+
+ * Van Eylen, V (8 publications)
+
+ * Lillo-Box, J (8 publications)
 
  * Santerne, A (8 publications)
 
  * Sanchis-Ojeda, R (8 publications)
 
- * Kato, T (8 publications)
-
- * Lillo-Box, J (8 publications)
-
- * Lund, M (8 publications)
-
- * Lee, J (8 publications)
-
- * Petigura, E (8 publications)
+ * Ostensen, R (8 publications)
 
  * Hermes, J (8 publications)
 
- * Molnar, L (8 publications)
-
- * Gizis, J (7 publications)
-
- * Gilliland, R (7 publications)
+ * Kato, T (8 publications)
 
  * Howell, S (7 publications)
 
- * Montet, B (7 publications)
+ * Plachy, E (7 publications)
 
  * Johnson, J (7 publications)
+
+ * Masuda, K (7 publications)
+
+ * Shporer, A (7 publications)
+
+ * Vanderburg, A (7 publications)
+
+ * Montet, B (7 publications)
+
+ * Gilliland, R (7 publications)
+
+ * Dawson, R (7 publications)
 
  * Christiansen, J (7 publications)
 
  * Tkachenko, A (7 publications)
 
- * Masuda, K (7 publications)
-
- * Vanderburg, A (7 publications)
+ * Gizis, J (7 publications)
 
  * Heller, R (7 publications)
 
- * Shporer, A (7 publications)
-
- * Dawson, R (7 publications)
-
- * Plachy, E (7 publications)
-
- * Hirano, T (6 publications)
+ * Demory, B (6 publications)
 
  * Szabo, R (6 publications)
 
- * Morton, T (6 publications)
+ * Lissauer, J (6 publications)
+
+ * Karoff, C (6 publications)
+
+ * Barclay, T (6 publications)
+
+ * Papics, P (6 publications)
+
+ * Hirano, T (6 publications)
+
+ * Faigler, S (6 publications)
 
  * Chatterjee, S (6 publications)
 
- * Miglio, A (6 publications)
+ * Hippke, M (6 publications)
 
  * Aigrain, S (6 publications)
 
- * Lissauer, J (6 publications)
+ * Miglio, A (6 publications)
 
- * Demory, B (6 publications)
+ * Morton, T (6 publications)
+
+ * Lopez, E (6 publications)
 
  * White, T (6 publications)
+
+ * Koch, D (6 publications)
 
  * Batalha, N (6 publications)
 
  * Dressing, C (6 publications)
 
  * Nielsen, M (6 publications)
-
- * Koch, D (6 publications)
-
- * Hippke, M (6 publications)
-
- * Papics, P (6 publications)
-
- * Lopez, E (6 publications)
-
- * Karoff, C (6 publications)
-
- * Faigler, S (6 publications)
-
- * Barclay, T (6 publications)
