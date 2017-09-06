@@ -12,6 +12,22 @@ Kjurkchieva, Diana, Vasileva, Doroteya
 2018, refereed ([2018NewA...58...10K](http://adsabs.harvard.edu/abs/2018NewA...58...10K))  
 
 
+2017-11
+-------
+
+1. [LARGE AMPLITUDE CHANGE IN SPOT-INDUCED ROTATIONAL MODULATION OF THE KEPLER AP STAR KIC 2569073](http://adsabs.harvard.edu/abs/2017MNRAS.471.3193D)  
+Drury, Jason A., Murphy, Simon J., Derekas, Aliz, et al.    
+2017, refereed ([2017MNRAS.471.3193D](http://adsabs.harvard.edu/abs/2017MNRAS.471.3193D))  
+
+2. [CAN DIPS OF BOYAJIAN'S STAR BE EXPLAINED BY CIRCUMSOLAR RINGS?](http://adsabs.harvard.edu/abs/2017MNRAS.471.3680K)  
+Katz, J. I.    
+2017, refereed ([2017MNRAS.471.3680K](http://adsabs.harvard.edu/abs/2017MNRAS.471.3680K))  
+
+3. [STATISTICAL-LIKELIHOOD EXO-PLANETARY HABITABILITY INDEX (SEPHI)](http://adsabs.harvard.edu/abs/2017MNRAS.471.4628R)  
+Rodríguez-Mozos, J. M., Moya, A.    
+2017, refereed ([2017MNRAS.471.4628R](http://adsabs.harvard.edu/abs/2017MNRAS.471.4628R))  
+
+
 2017-10
 -------
 
@@ -22,6 +38,14 @@ Hwang, Jason A., Steffen, Jason H., Lombardi, J. C., Jr., et al.
 2. [SPECTROSCOPIC AND ASTEROSEISMIC ANALYSIS OF THE REMARKABLE MAIN-SEQUENCE A STAR KIC 11145123](http://adsabs.harvard.edu/abs/2017MNRAS.470.4908T)  
 Takada-Hidai, Masahide, Kurtz, Donald W., Shibahashi, Hiromoto, et al.    
 2017, refereed ([2017MNRAS.470.4908T](http://adsabs.harvard.edu/abs/2017MNRAS.470.4908T))  
+
+3. [ROBUST, OPEN-SOURCE REMOVAL OF SYSTEMATICS IN KEPLER DATA](http://adsabs.harvard.edu/abs/2017MNRAS.471..759A)  
+Aigrain, S., Parviainen, H., Roberts, S., et al.    
+2017, refereed ([2017MNRAS.471..759A](http://adsabs.harvard.edu/abs/2017MNRAS.471..759A))  
+
+4. [SEMI-EMPIRICAL SEISMIC RELATIONS OF A-F STARS FROM COROT AND KEPLER LEGACY DATA](http://adsabs.harvard.edu/abs/2017MNRAS.471.2491M)  
+Moya, A., Suárez, J. C., García Hernández, A., et al.    
+2017, refereed ([2017MNRAS.471.2491M](http://adsabs.harvard.edu/abs/2017MNRAS.471.2491M))  
 
 
 2017-09
@@ -90,6 +114,18 @@ Millholland, Sarah, Laughlin, Gregory
 16. [EVIDENCE FOR TWO HOT-JUPITER FORMATION PATHS](http://adsabs.harvard.edu/abs/2017AJ....154..106N)  
 Nelson, Benjamin E., Ford, Eric B., Rasio, Frederic A.    
 2017, refereed ([2017AJ....154..106N](http://adsabs.harvard.edu/abs/2017AJ....154..106N))  
+
+17. [AN INDEPENDENT ASTEROSEISMIC ANALYSIS OF THE FUNDAMENTAL PARAMETERS AND INTERNAL STRUCTURE OF THE SOLAR-LIKE OSCILLATOR KIC 6225718](http://adsabs.harvard.edu/abs/2017ApJ...846...41W)  
+Wu, Tao, Li, Yan    
+2017, refereed ([2017ApJ...846...41W](http://adsabs.harvard.edu/abs/2017ApJ...846...41W))  
+
+18. [MAGNETIC EVOLUTION AND THE DISAPPEARANCE OF SUN-LIKE ACTIVITY CYCLES](http://adsabs.harvard.edu/abs/2017SoPh..292..126M)  
+Metcalfe, Travis S., van Saders, Jennifer    
+2017, refereed ([2017SoPh..292..126M](http://adsabs.harvard.edu/abs/2017SoPh..292..126M))  
+
+19. [ON THE ORIGIN OF DYNAMICALLY ISOLATED HOT EARTHS](http://adsabs.harvard.edu/abs/2017ApJ...846L..13K)  
+Königl, Arieh, Giacalone, Steven, Matsakos, Titos    
+2017, refereed ([2017ApJ...846L..13K](http://adsabs.harvard.edu/abs/2017ApJ...846L..13K))  
 
 
 2017-08
@@ -202,6 +238,18 @@ Barnes, Rory
 27. [ON THE ORIGIN OF DYNAMICALLY ISOLATED HOT EARTHS](http://adsabs.harvard.edu/abs/2017arXiv170808159K)  
 Königl, Arieh, Giacalone, Steven, Matsakos, Titos    
 2017, pre-print ([2017arXiv170808159K](http://adsabs.harvard.edu/abs/2017arXiv170808159K))  
+
+28. [DETERMINING EXOPLANETARY OBLATENESS USING TRANSIT DEPTH VARIATIONS](http://adsabs.harvard.edu/abs/2017arXiv170808990B)  
+Biersteker, John B., Schlichting, Hilke    
+2017, pre-print ([2017arXiv170808990B](http://adsabs.harvard.edu/abs/2017arXiv170808990B))  
+
+29. [AVERAGE ALBEDOS OF CLOSE-IN SUPER-EARTHS AND NEPTUNES FROM STATISTICAL ANALYSIS OF LONG CADENCE KEPLER SECONDARY ECLIPSE DATA](http://adsabs.harvard.edu/abs/2017arXiv170808459S)  
+Sheets, Holly, Deming, Drake    
+2017, pre-print ([2017arXiv170808459S](http://adsabs.harvard.edu/abs/2017arXiv170808459S))  
+
+30. [METALLICITY EFFECT ON STELLAR GRANULATION DETECTED FROM OSCILLATING RED GIANTS IN OPEN CLUSTERS](http://adsabs.harvard.edu/abs/2017A&A...605A...3C)  
+Corsaro, E., Mathur, S., García, R. A., et al.    
+2017, refereed ([2017A&A...605A...3C](http://adsabs.harvard.edu/abs/2017A&A...605A...3C))  
 
 
 2017-07
@@ -3843,6 +3891,22 @@ Epstein, Courtney
 Earl, Nicholas Michael    
 2015, not refereed ([2015MsT..........2E](http://adsabs.harvard.edu/abs/2015MsT..........2E))  
 
+37. [IMPLICATIONS FOR PLANET FORMATION FROM POPULATION INFERENCE OF KEPLER-PLANET-CANDIDATES AND ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2015PhDT.......472S)  
+Shabram, Megan Iris    
+2015, refereed ([2015PhDT.......472S](http://adsabs.harvard.edu/abs/2015PhDT.......472S))  
+
+38. [PROBING AGN ACCRETION PHYSICS THROUGH AGN VARIABILITY: INSIGHTS FROM KEPLER](http://adsabs.harvard.edu/abs/2015PhDT.......261K)  
+Kasliwal, Vishal Pramod    
+2015, refereed ([2015PhDT.......261K](http://adsabs.harvard.edu/abs/2015PhDT.......261K))  
+
+39. [ENSEMBLE SUPERVISED AND UNSUPERVISED LEARNING WITH KEPLER VARIABLE STARS](http://adsabs.harvard.edu/abs/2015PhDT.......270B)  
+Bass, Gideon    
+2015, refereed ([2015PhDT.......270B](http://adsabs.harvard.edu/abs/2015PhDT.......270B))  
+
+40. [LEVERAGING THE POWER OF A PLANET POPULATION: MASS-RADIUS RELATION, HOST STAR MULTIPLICITY, AND COMPOSITION DISTRIBUTION OF KEPLER'S SUB-NEPTUNES](http://adsabs.harvard.edu/abs/2015PhDT........80W)  
+Wolfgang, Angie K.    
+2015, refereed ([2015PhDT........80W](http://adsabs.harvard.edu/abs/2015PhDT........80W))  
+
 
 2014-12
 -------
@@ -5099,27 +5163,31 @@ Ksanfomality, L. V.
 Evans, N. R., Szabo, R., Szabados, L., et al.    
 2014, pre-print ([2014arXiv1401.5032E](http://adsabs.harvard.edu/abs/2014arXiv1401.5032E))  
 
-20. [AN ANALYSIS OF OCCULTATIONS AND PHASE CURVES OF KEPLER PLANETARY CANDIDATES](http://adsabs.harvard.edu/abs/2014MsT..........7R)  
+20. [THE OCCURRENCE OF NON-PULSATING STARS IN THE GAMMA DORADUS/DELTA SCUTI PULSATION INSTABILITY REGION](http://adsabs.harvard.edu/abs/2014AstRv...9a..41G)  
+Guzik, Joyce A., Bradley, Paul A., Jackiewiecz, Jason, et al.    
+2014, refereed ([2014AstRv...9a..41G](http://adsabs.harvard.edu/abs/2014AstRv...9a..41G))  
+
+21. [AN ANALYSIS OF OCCULTATIONS AND PHASE CURVES OF KEPLER PLANETARY CANDIDATES](http://adsabs.harvard.edu/abs/2014MsT..........7R)  
 Roberts, Jessica E.    
 2014, not refereed ([2014MsT..........7R](http://adsabs.harvard.edu/abs/2014MsT..........7R))  
 
-21. [DEMOGRAPHIC STUDIES OF EXTRASOLAR PLANETS](http://adsabs.harvard.edu/abs/2014PhDT.........4M)  
+22. [DEMOGRAPHIC STUDIES OF EXTRASOLAR PLANETS](http://adsabs.harvard.edu/abs/2014PhDT.........4M)  
 Morton, Timothy    
 2014, refereed ([2014PhDT.........4M](http://adsabs.harvard.edu/abs/2014PhDT.........4M))  
 
-22. [DYNAMICAL TIDES AND OSCILLATIONS IN STAR AND PLANETARY SYSTEMS](http://adsabs.harvard.edu/abs/2014PhDT.........6F)  
+23. [DYNAMICAL TIDES AND OSCILLATIONS IN STAR AND PLANETARY SYSTEMS](http://adsabs.harvard.edu/abs/2014PhDT.........6F)  
 Fuller, James Woodrow    
 2014, refereed ([2014PhDT.........6F](http://adsabs.harvard.edu/abs/2014PhDT.........6F))  
 
-23. [UNDERSTANDING KEPLER'S SUPER-EARTHS AND SUB-NEPTUNES: INSIGHTS FROM THERMAL EVOLUTION AND PHOTO-EVAPORATION](http://adsabs.harvard.edu/abs/2014PhDT.......106L)  
+24. [UNDERSTANDING KEPLER'S SUPER-EARTHS AND SUB-NEPTUNES: INSIGHTS FROM THERMAL EVOLUTION AND PHOTO-EVAPORATION](http://adsabs.harvard.edu/abs/2014PhDT.......106L)  
 Lopez, Eric David    
 2014, refereed ([2014PhDT.......106L](http://adsabs.harvard.edu/abs/2014PhDT.......106L))  
 
-24. [BAYESIAN DETECTION AND CHARACTERIZATION OF EXTRA-SOLAR PLANETS VIA PHOTOMETRIC VARIATIONS](http://adsabs.harvard.edu/abs/2014PhDT.......220P)  
+25. [BAYESIAN DETECTION AND CHARACTERIZATION OF EXTRA-SOLAR PLANETS VIA PHOTOMETRIC VARIATIONS](http://adsabs.harvard.edu/abs/2014PhDT.......220P)  
 Placek, Ben    
 2014, refereed ([2014PhDT.......220P](http://adsabs.harvard.edu/abs/2014PhDT.......220P))  
 
-25. [ACCURATE PARAMETERS OF THE DOUBLE-LINED ECLIPSING BINARY KIC 9474969 AND COMPARISON WITH ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2014PhDT.......369S)  
+26. [ACCURATE PARAMETERS OF THE DOUBLE-LINED ECLIPSING BINARY KIC 9474969 AND COMPARISON WITH ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2014PhDT.......369S)  
 Sharp, Haley Elizabeth    
 2014, refereed ([2014PhDT.......369S](http://adsabs.harvard.edu/abs/2014PhDT.......369S))  
 
@@ -6295,6 +6363,14 @@ Dalessio, James Ruland
 Moore, Alexander    
 2013, refereed ([2013PhDT.......351M](http://adsabs.harvard.edu/abs/2013PhDT.......351M))  
 
+30. [CONNECTIONS BETWEEN STELLAR OSCILLATIONS AND TURBULENT CONVECTION](http://adsabs.harvard.edu/abs/2013LNP...865..179B)  
+Belkacem, K., Samadi, R.    
+2013, refereed ([2013LNP...865..179B](http://adsabs.harvard.edu/abs/2013LNP...865..179B))  
+
+31. [DARTMOUTH MAGNETIC EVOLUTIONARY STELLAR TRACKS AND RELATIONS](http://adsabs.harvard.edu/abs/2013PhDT.......149F)  
+Feiden, Gregory Alexander    
+2013, refereed ([2013PhDT.......149F](http://adsabs.harvard.edu/abs/2013PhDT.......149F))  
+
 
 2012-12
 -------
@@ -7330,6 +7406,10 @@ Coughlin, Jeffrey Langer
 19. [CHARACTERIZING EXTRASOLAR PLANETS WITH MULTI-COLOR PHOTOMETRY](http://adsabs.harvard.edu/abs/2012PhDT.......395C)  
 Colon, Knicole Dawn    
 2012, refereed ([2012PhDT.......395C](http://adsabs.harvard.edu/abs/2012PhDT.......395C))  
+
+20. [EVOLUTION AND INTERNAL STRUCTURE OF RED GIANTS](http://adsabs.harvard.edu/abs/2012ASSP...26...45S)  
+Salaris, Maurizio    
+2012, refereed ([2012ASSP...26...45S](http://adsabs.harvard.edu/abs/2012ASSP...26...45S))  
 
 
 2011-12

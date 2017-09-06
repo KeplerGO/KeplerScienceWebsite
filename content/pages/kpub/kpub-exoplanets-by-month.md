@@ -4,6 +4,18 @@ Save_as: kpub-exoplanets-by-month.html
 [TOC]
 
 
+2017-11
+-------
+
+1. [K2-113: A DENSE HOT-JUPITER TRANSITING A SOLAR ANALOGUE](http://adsabs.harvard.edu/abs/2017MNRAS.471.4374E)  
+Espinoza, Néstor, Rabus, Markus, Brahm, Rafael, et al.    
+2017, refereed ([2017MNRAS.471.4374E](http://adsabs.harvard.edu/abs/2017MNRAS.471.4374E))  
+
+2. [STATISTICAL-LIKELIHOOD EXO-PLANETARY HABITABILITY INDEX (SEPHI)](http://adsabs.harvard.edu/abs/2017MNRAS.471.4628R)  
+Rodríguez-Mozos, J. M., Moya, A.    
+2017, refereed ([2017MNRAS.471.4628R](http://adsabs.harvard.edu/abs/2017MNRAS.471.4628R))  
+
+
 2017-10
 -------
 
@@ -14,6 +26,14 @@ Močnik, T., Southworth, J., Hellier, C.
 2. [DYNAMICS AND COLLISIONAL EVOLUTION OF CLOSELY PACKED PLANETARY SYSTEMS](http://adsabs.harvard.edu/abs/2017MNRAS.470.4145H)  
 Hwang, Jason A., Steffen, Jason H., Lombardi, J. C., Jr., et al.    
 2017, refereed ([2017MNRAS.470.4145H](http://adsabs.harvard.edu/abs/2017MNRAS.470.4145H))  
+
+3. [ROBUST, OPEN-SOURCE REMOVAL OF SYSTEMATICS IN KEPLER DATA](http://adsabs.harvard.edu/abs/2017MNRAS.471..759A)  
+Aigrain, S., Parviainen, H., Roberts, S., et al.    
+2017, refereed ([2017MNRAS.471..759A](http://adsabs.harvard.edu/abs/2017MNRAS.471..759A))  
+
+4. [EXTRACTING MICROLENSING SIGNALS FROM K2 CAMPAIGN 9](http://adsabs.harvard.edu/abs/2017PASP..129j4501Z)  
+Zhu, Wei, Huang, C. X., Udalski, A., et al.    
+2017, refereed ([2017PASP..129j4501Z](http://adsabs.harvard.edu/abs/2017PASP..129j4501Z))  
 
 
 2017-09
@@ -58,6 +78,26 @@ Millholland, Sarah, Laughlin, Gregory
 10. [EVIDENCE FOR TWO HOT-JUPITER FORMATION PATHS](http://adsabs.harvard.edu/abs/2017AJ....154..106N)  
 Nelson, Benjamin E., Ford, Eric B., Rasio, Frederic A.    
 2017, refereed ([2017AJ....154..106N](http://adsabs.harvard.edu/abs/2017AJ....154..106N))  
+
+11. [THE TRANSITING MULTI-PLANET SYSTEM HD 3167: A 5.7 M <SUB>⊕</SUB> SUPER-EARTH AND AN 8.3 M <SUB>⊕</SUB> MINI-NEPTUNE](http://adsabs.harvard.edu/abs/2017AJ....154..123G)  
+Gandolfi, Davide, Barragán, Oscar, Hatzes, Artie P., et al.    
+2017, refereed ([2017AJ....154..123G](http://adsabs.harvard.edu/abs/2017AJ....154..123G))  
+
+12. [THREE’S COMPANY: AN ADDITIONAL NON-TRANSITING SUPER-EARTH IN THE BRIGHT HD 3167 SYSTEM, AND MASSES FOR ALL THREE PLANETS](http://adsabs.harvard.edu/abs/2017AJ....154..122C)  
+Christiansen, Jessie L., Vanderburg, Andrew, Burt, Jennifer, et al.    
+2017, refereed ([2017AJ....154..122C](http://adsabs.harvard.edu/abs/2017AJ....154..122C))  
+
+13. [THREE SMALL TRANSITING PLANETS AROUND THE M DWARF HOST STAR LP 358-499](http://adsabs.harvard.edu/abs/2017arXiv170901025W)  
+Wells, R., Poppenhaeger, K., Watson, C. A.    
+2017, pre-print ([2017arXiv170901025W](http://adsabs.harvard.edu/abs/2017arXiv170901025W))  
+
+14. [PRECISE MASSES FOR THE TRANSITING PLANETARY SYSTEM HD 106315 WITH HARPS](http://adsabs.harvard.edu/abs/2017arXiv170900865B)  
+Barros, S. C. C., Gosselin, H., Lillo-Box, J., et al.    
+2017, pre-print ([2017arXiv170900865B](http://adsabs.harvard.edu/abs/2017arXiv170900865B))  
+
+15. [ON THE ORIGIN OF DYNAMICALLY ISOLATED HOT EARTHS](http://adsabs.harvard.edu/abs/2017ApJ...846L..13K)  
+Königl, Arieh, Giacalone, Steven, Matsakos, Titos    
+2017, refereed ([2017ApJ...846L..13K](http://adsabs.harvard.edu/abs/2017ApJ...846L..13K))  
 
 
 2017-08
@@ -138,6 +178,18 @@ Barnes, Rory
 19. [ON THE ORIGIN OF DYNAMICALLY ISOLATED HOT EARTHS](http://adsabs.harvard.edu/abs/2017arXiv170808159K)  
 Königl, Arieh, Giacalone, Steven, Matsakos, Titos    
 2017, pre-print ([2017arXiv170808159K](http://adsabs.harvard.edu/abs/2017arXiv170808159K))  
+
+20. [DETERMINING EXOPLANETARY OBLATENESS USING TRANSIT DEPTH VARIATIONS](http://adsabs.harvard.edu/abs/2017arXiv170808990B)  
+Biersteker, John B., Schlichting, Hilke    
+2017, pre-print ([2017arXiv170808990B](http://adsabs.harvard.edu/abs/2017arXiv170808990B))  
+
+21. [AVERAGE ALBEDOS OF CLOSE-IN SUPER-EARTHS AND NEPTUNES FROM STATISTICAL ANALYSIS OF LONG CADENCE KEPLER SECONDARY ECLIPSE DATA](http://adsabs.harvard.edu/abs/2017arXiv170808459S)  
+Sheets, Holly, Deming, Drake    
+2017, pre-print ([2017arXiv170808459S](http://adsabs.harvard.edu/abs/2017arXiv170808459S))  
+
+22. [THREE STATISTICALLY VALIDATED K2 TRANSITING WARM JUPITER EXOPLANETS CONFIRMED AS LOW-MASS STARS](http://adsabs.harvard.edu/abs/2017arXiv170808455S)  
+Shporer, Avi, Zhou, George, Vanderburg, Andrew, et al.    
+2017, pre-print ([2017arXiv170808455S](http://adsabs.harvard.edu/abs/2017arXiv170808455S))  
 
 
 2017-07
@@ -750,6 +802,10 @@ Nayakshin, Sergei
 21. [ON THE DETECTION OF EXTRASOLAR MOONS AND RINGS](http://adsabs.harvard.edu/abs/2017arXiv170104706H)  
 Heller, René    
 2017, pre-print ([2017arXiv170104706H](http://adsabs.harvard.edu/abs/2017arXiv170104706H))  
+
+22. [LOW-MASS STARS AND THEIR COMPANIONS](http://adsabs.harvard.edu/abs/2017PhDT........34M)  
+Montet, Benjamin Tyler    
+2017, refereed ([2017PhDT........34M](http://adsabs.harvard.edu/abs/2017PhDT........34M))  
 
 
 2016-12
@@ -2322,6 +2378,18 @@ Chavez, C. E., Georgakarakos, N., Prodan, S., et al.
 17. [GRAVITATIONAL QUANTIZATION OF EXOPLANET ORBITS IN HD 40307, $\MU$ ARA, KEPLER-26, KEPLER-62, AND KEPLER-275: COMPARING PREDICTED ORBITS](http://adsabs.harvard.edu/abs/2015arXiv150104189G)  
 Geroyannis, Vassilis S.    
 2015, pre-print ([2015arXiv150104189G](http://adsabs.harvard.edu/abs/2015arXiv150104189G))  
+
+18. [IMPLICATIONS FOR PLANET FORMATION FROM POPULATION INFERENCE OF KEPLER-PLANET-CANDIDATES AND ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2015PhDT.......472S)  
+Shabram, Megan Iris    
+2015, refereed ([2015PhDT.......472S](http://adsabs.harvard.edu/abs/2015PhDT.......472S))  
+
+19. [LEVERAGING THE POWER OF A PLANET POPULATION: MASS-RADIUS RELATION, HOST STAR MULTIPLICITY, AND COMPOSITION DISTRIBUTION OF KEPLER'S SUB-NEPTUNES](http://adsabs.harvard.edu/abs/2015PhDT........80W)  
+Wolfgang, Angie K.    
+2015, refereed ([2015PhDT........80W](http://adsabs.harvard.edu/abs/2015PhDT........80W))  
+
+20. [METHODS FOR THE DETECTION AND CHARACTERIZATION OF EXOPLANETS AND THEIR POPULATION](http://adsabs.harvard.edu/abs/2015PhDT........44F)  
+Foreman-Mackey, Daniel    
+2015, refereed ([2015PhDT........44F](http://adsabs.harvard.edu/abs/2015PhDT........44F))  
 
 
 2014-12
