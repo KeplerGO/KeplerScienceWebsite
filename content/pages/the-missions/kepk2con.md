@@ -399,7 +399,7 @@ Note: in order to view the recorded talks below, you will need to have the "Adob
   <td>09:45-10:00</td>
  <td>  Miguel de Val-Borro </td>
   <td> K2 photometry of comet 67P/ChuryumovGerasimenko </td>
-  <td>Coming soon
+  <td><a href="../data/deValBorro_slides.pdf">View slides</a>
   </td>
   </tr>
   
