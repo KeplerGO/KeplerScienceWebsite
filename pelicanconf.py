@@ -121,7 +121,7 @@ IMPORTANT_DATES = (
             ('<b class="text-danger">12 Oct 2017</b>',
              '<div class="text-danger">GO Cycle 6 Phase-1 deadline: target lists & justifications due for Campaigns 17-19</div>',
              'k2-proposing-targets.html'),
-            ('<b>Oct 2017</b> (expected)',
+            ('<b>20 Oct 2017</b> (expected)',
              'K2 Campaign 14 calibrated data release',
              ''),
             ('<b>19 Apr 2018</b>',
