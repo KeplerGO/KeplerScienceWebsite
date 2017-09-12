@@ -463,6 +463,39 @@ which detail deviations from the pipeline used for Kepler.
      <td><a href="/k2-pipeline-release-notes.html#data-release-15">PRN</a></td>
      </tr>
 
+      <tr>
+      <td>C11</td>
+      <td>4</td>
+      <td>2016 Sep 24</td>
+      <td>2016 Dec 8</td>
+      <td>2017 Jun 30</td>
+      <td><a
+      href="k2-data-release-notes.html#k2-campaign-11">DRN</a></td>
+     <td><a href="/k2-pipeline-release-notes.html#data-release-17">PRN</a></td>
+     </tr>
+
+      <tr>
+      <td>C12</td>
+      <td>4</td>
+      <td>2016 Dec 15</td>
+      <td>2017 Mar 4</td>
+      <td>2017 Jul 31</td>
+      <td><a
+      href="k2-data-release-notes.html#k2-campaign-12">DRN</a></td>
+     <td><a href="/k2-pipeline-release-notes.html#data-release-18">PRN</a></td>
+     </tr>
+
+      <tr>
+      <td>C13</td>
+      <td>4</td>
+      <td>2017 Mar 8</td>
+      <td>2017 May 27</td>
+      <td>2017 Aug 28</td>
+      <td><a
+      href="k2-data-release-notes.html#k2-campaign-13">DRN</a></td>
+     <td><a href="/k2-pipeline-release-notes.html#data-release-19">PRN</a></td>
+     </tr>
+
 </tdata>
 </table>
 
