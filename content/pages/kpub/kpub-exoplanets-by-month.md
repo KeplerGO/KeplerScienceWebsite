@@ -99,6 +99,34 @@ Barros, S. C. C., Gosselin, H., Lillo-Box, J., et al.
 Wells, R., Poppenhaeger, K., Watson, C. A.    
 2017, pre-print ([2017arXiv170901025W](http://adsabs.harvard.edu/abs/2017arXiv170901025W))  
 
+16. [DETECTION OF A REPEATED TRANSIT SIGNATURE IN THE LIGHT CURVE OF THE ENIGMA STAR KIC 8462852: A 928-DAY PERIOD?](http://adsabs.harvard.edu/abs/2017arXiv170901732K)  
+Kiefer, Flavien, Lecavelier des Etangs, Alain, Vidal-Madjar, Alfred, et al.    
+2017, pre-print ([2017arXiv170901732K](http://adsabs.harvard.edu/abs/2017arXiv170901732K))  
+
+17. [CHROMOSPHERIC ACTIVITY OF HAT-P-11: AN UNUSUALLY ACTIVE PLANET-HOSTING K STAR](http://adsabs.harvard.edu/abs/2017arXiv170903913M)  
+Morris, Brett M., Hawley, Suzanne L., Hebb, Leslie, et al.    
+2017, pre-print ([2017arXiv170903913M](http://adsabs.harvard.edu/abs/2017arXiv170903913M))  
+
+18. [THE SCATTERING OUTCOMES OF KEPLER CIRCUMBINARY PLANETS: PLANET MASS RATIO](http://adsabs.harvard.edu/abs/2017arXiv170904433G)  
+Gong, Yan-Xiang, Ji, Jianghui    
+2017, pre-print ([2017arXiv170904433G](http://adsabs.harvard.edu/abs/2017arXiv170904433G))  
+
+19. [THE STARSPOTS OF HAT-P-11: EVIDENCE FOR A SOLAR-LIKE DYNAMO](http://adsabs.harvard.edu/abs/2017ApJ...846...99M)  
+Morris, Brett M., Hebb, Leslie, Davenport, James R. A., et al.    
+2017, refereed ([2017ApJ...846...99M](http://adsabs.harvard.edu/abs/2017ApJ...846...99M))  
+
+20. [SPIN DYNAMICS OF CLOSE-IN PLANETS EXHIBITING LARGE TRANSIT TIMING VARIATIONS](http://adsabs.harvard.edu/abs/2017A&A...605A..37D)  
+Delisle, J. -B., Correia, A. C. M., Leleu, A., et al.    
+2017, refereed ([2017A&A...605A..37D](http://adsabs.harvard.edu/abs/2017A&A...605A..37D))  
+
+21. [DO PLANETS REMEMBER HOW THEY FORMED?](http://adsabs.harvard.edu/abs/2017arXiv170904987K)  
+Kipping, David    
+2017, pre-print ([2017arXiv170904987K](http://adsabs.harvard.edu/abs/2017arXiv170904987K))  
+
+22. [THREE SMALL SUPER-EARTHS TRANSITING THE NEARBY STAR GJ 9827](http://adsabs.harvard.edu/abs/2017arXiv170901527N)  
+Niraula, Prajwal, Redfield, Seth, Dai, Fei, et al.    
+2017, pre-print ([2017arXiv170901527N](http://adsabs.harvard.edu/abs/2017arXiv170901527N))  
+
 
 2017-08
 -------
@@ -4820,20 +4848,20 @@ Jenkins, J. M., Caldwell, D. A., Borucki, W. J., et al.
 2001, not refereed ([2001AAS...198.8605J](http://adsabs.harvard.edu/abs/2001AAS...198.8605J))  
 
 
+2001-04
+-------
+
+1. [THE VULCAN PHOTOMETER: A DEDICATED PHOTOMETER FOR EXTRASOLAR PLANET SEARCHES](http://adsabs.harvard.edu/abs/2001PASP..113..439B)  
+Borucki, William J., Caldwell, Douglas, Koch, David G., et al.    
+2001, refereed ([2001PASP..113..439B](http://adsabs.harvard.edu/abs/2001PASP..113..439B))  
+
+
 2000-07
 -------
 
 1. [PROCESSING CCD IMAGES TO DETECT TRANSITS OF EARTH-SIZED PLANETS: MAXIMIZING SENSITIVITY WHILE ACHIEVING REASONABLE DOWNLINK REQUIREMENTS](http://adsabs.harvard.edu/abs/2000SPIE.4013..520J)  
 Jenkins, Jon M., Witteborn, Fred, Koch, David G., et al.    
 2000, not refereed ([2000SPIE.4013..520J](http://adsabs.harvard.edu/abs/2000SPIE.4013..520J))  
-
-
-1999-12
--------
-
-1. [THE VULCAN PHOTOMETER: A DEDICATED PHOTOMETER FOR EXTRASOLAR PLANET SEARCHES](http://adsabs.harvard.edu/abs/1999AAS...195.2401B)  
-Borucki, W. J., Caldwell, D. A., Koch, D. G., et al.    
-1999, not refereed ([1999AAS...195.2401B](http://adsabs.harvard.edu/abs/1999AAS...195.2401B))  
 
 
 1997-01

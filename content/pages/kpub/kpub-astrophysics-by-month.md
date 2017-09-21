@@ -87,6 +87,34 @@ Gontcharov, George A., Mosenkov, Aleksandr V.
 Metcalfe, Travis S., van Saders, Jennifer    
 2017, refereed ([2017SoPh..292..126M](http://adsabs.harvard.edu/abs/2017SoPh..292..126M))  
 
+10. [ASTEROSEISMOLOGY OF KEPLER ALGOL TYPE OSCILLATING ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2017arXiv170901497L)  
+Liakos, Alexios    
+2017, pre-print ([2017arXiv170901497L](http://adsabs.harvard.edu/abs/2017arXiv170901497L))  
+
+11. [KIC 9451096: MAGNETIC ACTIVITY, FLARES AND DIFFERENTIAL ROTATION](http://adsabs.harvard.edu/abs/2017arXiv170901129O)  
+Özdarcan, Orkun, Yoldaş, Ezgi, Dal, Hasan Ali    
+2017, pre-print ([2017arXiv170901129O](http://adsabs.harvard.edu/abs/2017arXiv170901129O))  
+
+12. [NEAR-DEGENERACY EFFECTS ON THE FREQUENCIES OF ROTATIONALLY-SPLIT MIXED MODES IN RED GIANTS](http://adsabs.harvard.edu/abs/2017A&A...605A..75D)  
+Deheuvels, S., Ouazzani, R. M., Basu, S.    
+2017, refereed ([2017A&A...605A..75D](http://adsabs.harvard.edu/abs/2017A&A...605A..75D))  
+
+13. [MULTI-TECHNIQUE INVESTIGATION OF THE BINARY FRACTION AMONG A-F TYPE CANDIDATE HYBRID VARIABLE STARS DISCOVERED BY KEPLER](http://adsabs.harvard.edu/abs/2017arXiv170903436L)  
+Lampens, P., Frémat, Y., Vermeylen, L., et al.    
+2017, pre-print ([2017arXiv170903436L](http://adsabs.harvard.edu/abs/2017arXiv170903436L))  
+
+14. [THE {\GAMMA} DOR STARS AS REVEALED BY KEPLER : A KEY TO REVEAL DEEP-LAYER ROTATION IN A AND F STARS](http://adsabs.harvard.edu/abs/2017arXiv170903791S)  
+Salmon, S. J. A. J., Ouazzani, R. -M., Antoci, V., et al.    
+2017, pre-print ([2017arXiv170903791S](http://adsabs.harvard.edu/abs/2017arXiv170903791S))  
+
+15. [THE PSEUDOSYNCHRONIZATION OF BINARY STARS UNDERGOING STRONG TIDAL INTERACTIONS](http://adsabs.harvard.edu/abs/2017ApJ...846..147Z)  
+Zimmerman, Mara K., Thompson, Susan E., Mullally, Fergal, et al.    
+2017, refereed ([2017ApJ...846..147Z](http://adsabs.harvard.edu/abs/2017ApJ...846..147Z))  
+
+16. [STOCHASTIC MODELING OF MULTIWAVELENGTH VARIABILITY OF THE CLASSICAL BL LAC OBJECT OJ 287 ON TIMESCALES RANGING FROM DECADES TO HOURS](http://adsabs.harvard.edu/abs/2017arXiv170904457G)  
+Goyal, A., Stawarz, L., Zola, S., et al.    
+2017, pre-print ([2017arXiv170904457G](http://adsabs.harvard.edu/abs/2017arXiv170904457G))  
+
 
 2017-08
 -------

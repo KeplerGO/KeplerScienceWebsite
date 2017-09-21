@@ -59,6 +59,14 @@ Barros, S. C. C., Gosselin, H., Lillo-Box, J., et al.
 Wells, R., Poppenhaeger, K., Watson, C. A.    
 2017, pre-print ([2017arXiv170901025W](http://adsabs.harvard.edu/abs/2017arXiv170901025W))  
 
+6. [THREE SMALL SUPER-EARTHS TRANSITING THE NEARBY STAR GJ 9827](http://adsabs.harvard.edu/abs/2017arXiv170901527N)  
+Niraula, Prajwal, Redfield, Seth, Dai, Fei, et al.    
+2017, pre-print ([2017arXiv170901527N](http://adsabs.harvard.edu/abs/2017arXiv170901527N))  
+
+7. [STOCHASTIC MODELING OF MULTIWAVELENGTH VARIABILITY OF THE CLASSICAL BL LAC OBJECT OJ 287 ON TIMESCALES RANGING FROM DECADES TO HOURS](http://adsabs.harvard.edu/abs/2017arXiv170904457G)  
+Goyal, A., Stawarz, L., Zola, S., et al.    
+2017, pre-print ([2017arXiv170904457G](http://adsabs.harvard.edu/abs/2017arXiv170904457G))  
+
 
 2017-08
 -------
