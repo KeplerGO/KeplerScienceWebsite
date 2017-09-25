@@ -14,7 +14,7 @@ We encourage interested applicants to contact [keplergo@mail.arc.nasa.gov](keple
 
 Also at NASA Ames, the [NASA Postdoctoral Program](https://npp.usra.edu/)
 is accepting applications to work on
-[high-resolution imaging of Kepler and K2 exoplanet host stars](https://npp.usra.edu/opportunities/details/?ro=19108) with Steve Howell
+[high-resolution imaging of K2 and TESS exoplanet host stars](https://npp.usra.edu/opportunities/details/?ro=19108) with Steve Howell
 and [the analysis of transiting planets to be observed by JWST](https://npp.usra.edu/opportunities/details/?ro=19114) with Tom Greene.
 Interested applicants are encouraged to contact the advisor before applying.
 
