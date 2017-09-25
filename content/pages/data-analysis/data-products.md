@@ -11,7 +11,7 @@ and the
 [Mikulski Archive for Space Telescopes (MAST)](https://archive.stsci.edu/)
 which is hosted at the
 [Space Telescope Science Institute (STScI)](http://www.stsci.edu/). The
-Exoplanet Archive primarily hosts data related to the Kepler and K2 mission planet searches while the MAST is responsible for hosting time series data and spacecraft calibration products for Kepler and K2. 
+Exoplanet Archive primarily hosts data related to the Kepler and K2 mission planet searches while the MAST is responsible for hosting time series data and spacecraft calibration products for Kepler and K2.
 
 In the following sections we list the main products from Kepler and
 K2, and we describe a few of the products in some detail.  For tools
@@ -34,10 +34,11 @@ below.
 * [Kepler Input Catalog (KIC)](http://adsabs.harvard.edu/abs/2011AJ....142..112B)
 * [Kepler Data Characteristics Handbook](http://archive.stsci.edu/kepler/manuals/Data_Characteristics.pdf)
 * [Kepler Data Processing Handbook](https://archive.stsci.edu/kepler/manuals/KSCI-19081-002-KDPH.pdf)
-* [Kepler Data Release Notes](data-products.html#kepler-data-release-notes) 
+* [Kepler Data Release Notes](data-products.html#kepler-data-release-notes)
 <br/>
 * [K2 Ecliptic Plane Input Catalog (EPIC)](https://archive.stsci.edu/k2/epic.pdf)
 * [K2 Data Release Notes](data-products.html#k2-data-release-notes)
+* [K2 Handbook](http://archive.stsci.edu/k2/manuals/k2_handbook.pdf)
 
 ## Kepler product overview
 
@@ -100,7 +101,7 @@ Kepler long cadence (30-min) images and light curves are stored in files that
 span a quarter. Short cadence (1-min) images and light curves are
 stored in files that span a month.
 
-[All Kepler data release notes can be found at MAST](https://archive.stsci.edu/kepler/data_release.html). 
+[All Kepler data release notes can be found at MAST](https://archive.stsci.edu/kepler/data_release.html).
 
 <table class="table table-striped table-hover" style="max-width:40em;">
   <thead>
@@ -260,7 +261,7 @@ stored in files that span a month.
       <td>2013 May 08</td>
       <td>2013 Dec 09</td>
       </tr>
-	  
+
 </tdata>
 </table>
 
@@ -342,7 +343,7 @@ which detail deviations from the pipeline used for Kepler.
 	  <td><a href="/k2-pipeline-release-notes.html#data-release-2">PRN</a></td>
       </tr>
 
-      <tr> 
+      <tr>
       <td>C1</td>
 	  <td>N/A</td>
 	  <td>2014 May 30</td>
@@ -451,7 +452,7 @@ which detail deviations from the pipeline used for Kepler.
       href="k2-data-release-notes.html#k2-campaign-9">DRN</a></td>
      <td><a href="/k2-pipeline-release-notes.html#data-release-12">PRN</a></td>
      </tr>
-	 
+
       <tr>
       <td>C10</td>
       <td>3</td>
@@ -523,7 +524,7 @@ FFI data format is defined in section 2.3.3 of the [Kepler Archive
 Manual](http://archive.stsci.edu/kepler/manuals/archive_manual.pdf). Note
 that as of August 2016, the Kepler detector has three dead modules (3,
 4 and
-7). 
+7).
 
 <br/>
 
@@ -558,7 +559,7 @@ steps are performed for K2 targets.
 
 The target pixel files are the rawest form of target-specific data
 available from the Kepler and K2 archives at MAST.  The TPF data format is defined in section 2.3.2 of the [Kepler Archive
-Manual](http://archive.stsci.edu/kepler/manuals/archive_manual.pdf). 
+Manual](http://archive.stsci.edu/kepler/manuals/archive_manual.pdf).
 
 <br/>
 
@@ -595,7 +596,7 @@ moving around within the pixel apertures. These effects are greater
 for K2 as the pointing is not as stable as for Kepler, due to
 low-frequency motion due to solar pressure and subsequent thruster
 firings. These cause targets to drift across detector pixels and are
-the dominant factor in photometric precision from K2 after photon statistics. 
+the dominant factor in photometric precision from K2 after photon statistics.
 
 Within the pipeline, artifacts are mitigated for using a derivative of principle component analysis. The product of this analysis is provided within the light curve. It is the prerogative of archive users to determine whether the pipeline mitigation is suitable for their scientific goals or whether manual mitigation will be required.
 
