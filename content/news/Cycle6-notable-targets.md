@@ -86,7 +86,7 @@ Notable objects which may be proposed include:
 
 <br style="clear: both;">
 
-## Other candidate highlights
+## Other candidate targets
 
 In addition to the highlights listed above, Simbad lists a wealth of known objects that will be visible during these Campaigns. They include:
 
