@@ -1,5 +1,5 @@
 Title: K2 Cycle 6: Notable objects in Campaigns 17-18-19
-Date: 2017-09-25 06:00
+Date: 2017-09-25 07:00
 Author: Geert Barentsen
 
 Proposals for targets to be observed by K2 in Campaigns 17, 18, and 19
