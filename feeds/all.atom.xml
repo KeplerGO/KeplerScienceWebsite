@@ -1,24 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2017-09-25T06:00:00-07:00</updated><entry><title>Internship and postdoc opportunities at NASA Ames</title><link href="https://keplerscience.arc.nasa.gov/internship-and-postdoc-opportunities-at-nasa-ames.html" rel="alternate"></link><published>2017-09-25T06:00:00-07:00</published><updated>2017-09-25T06:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-09-25:/internship-and-postdoc-opportunities-at-nasa-ames.html</id><summary type="html">&lt;p&gt;The Kepler/K2 Science Center at NASA Ames is now
-&lt;a href="https://intern.nasa.gov/ossi/web/public/guest/searchOpps/index.cfm?solarAction=view&amp;amp;id=28643"&gt;accepting applications&lt;/a&gt;
-for paid internships via the
-&lt;a href="https://intern.nasa.gov/ossi/web/public/guest/searchOpps/index.cfm?solarAction=view&amp;amp;id=28643"&gt;NASA Internships Portal&lt;/a&gt;.
-The program enables students to gain experience in the scientific operations
-of a high-profile space photometry mission.
-PhD and graduate students already using Kepler or K2 data
-as part of …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The Kepler/K2 Science Center at NASA Ames is now
-&lt;a href="https://intern.nasa.gov/ossi/web/public/guest/searchOpps/index.cfm?solarAction=view&amp;amp;id=28643"&gt;accepting applications&lt;/a&gt;
-for paid internships via the
-&lt;a href="https://intern.nasa.gov/ossi/web/public/guest/searchOpps/index.cfm?solarAction=view&amp;amp;id=28643"&gt;NASA Internships Portal&lt;/a&gt;.
-The program enables students to gain experience in the scientific operations
-of a high-profile space photometry mission.
-PhD and graduate students already using Kepler or K2 data
-as part of their research projects are particularly encouraged to apply.
-We encourage interested applicants to contact &lt;a href="keplergo@mail.arc.nasa.gov"&gt;keplergo@mail.arc.nasa.gov&lt;/a&gt; before applying.&lt;/p&gt;
-&lt;p&gt;Also at NASA Ames, the &lt;a href="https://npp.usra.edu/"&gt;NASA Postdoctoral Program&lt;/a&gt;
-is accepting applications to work on &lt;a href="https://npp.usra.edu/opportunities/details/?ro=19108"&gt;high-resolution imaging of Kepler and K2 exoplanet host stars&lt;/a&gt; with Steve Howell, &lt;a href="https://npp.usra.edu/opportunities/details/?ro=18912"&gt;the analysis of Kepler's exoplanet populations&lt;/a&gt; with Natalie Batalha,
-and &lt;a href="https://npp.usra.edu/opportunities/details/?ro=19114"&gt;the analysis of transiting planets to be observed by JWST&lt;/a&gt; with Tom Greene.
-Interested applicants are encouraged to contact the advisor before applying.&lt;/p&gt;</content></entry><entry><title>K2 Cycle 6: Notable objects in Campaigns 17-18-19</title><link href="https://keplerscience.arc.nasa.gov/k2-cycle-6-notable-objects-in-campaigns-17-18-19.html" rel="alternate"></link><published>2017-09-25T06:00:00-07:00</published><updated>2017-09-25T06:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-09-25:/k2-cycle-6-notable-objects-in-campaigns-17-18-19.html</id><summary type="html">&lt;p&gt;Proposals for targets to be observed by K2 in Campaigns 17, 18, and 19
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2017-09-25T07:00:00-07:00</updated><entry><title>K2 Cycle 6: Notable objects in Campaigns 17-18-19</title><link href="https://keplerscience.arc.nasa.gov/k2-cycle-6-notable-objects-in-campaigns-17-18-19.html" rel="alternate"></link><published>2017-09-25T07:00:00-07:00</published><updated>2017-09-25T07:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-09-25:/k2-cycle-6-notable-objects-in-campaigns-17-18-19.html</id><summary type="html">&lt;p&gt;Proposals for targets to be observed by K2 in Campaigns 17, 18, and 19
 are currently being solicited as part of &lt;a href="k2-proposing-targets.html"&gt;K2 Guest Observer Cycle 6&lt;/a&gt;,
 with Phase 1 submissions due on &lt;strong&gt;October 12, 2017&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;The &lt;a href="k2-fields.html"&gt;fields of these campaigns&lt;/a&gt; 
@@ -111,7 +92,30 @@ we recommend using a more complete source catalog such as the &lt;a href="https:
 &lt;p&gt;As a reminder, the &lt;a href="software.html#k2fov"&gt;K2fov Python package&lt;/a&gt; enables you to test whether targets fall within a campaign field,
 while its sister &lt;a href="software.html#k2ephem"&gt;K2ephem package&lt;/a&gt;
 allows moving Solar System bodies to be checked.
-Note that Campaigns 17-18-19 require K2fov version 7.0 or higher to be installed.&lt;/p&gt;</content></entry><entry><title>Call for K2 GO Cycle 6 proposals for Campaigns 17, 18, and 19</title><link href="https://keplerscience.arc.nasa.gov/call-for-k2-go-cycle-6-proposals-for-campaigns-17-18-and-19.html" rel="alternate"></link><published>2017-08-28T07:20:00-07:00</published><updated>2017-08-28T07:20:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-08-28:/call-for-k2-go-cycle-6-proposals-for-campaigns-17-18-and-19.html</id><summary type="html">&lt;p&gt;The call for K2 Guest Observer Cycle 6 proposals for Campaigns 17, 18, and 19 has been &lt;a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={7DC22936-4C6A-44FC-74A3-F0C9248DC9DD}&amp;amp;path=open"&gt;released and made available at NSPIRES&lt;/a&gt;.&lt;/p&gt;</summary><content type="html">&lt;p&gt;The call for K2 Guest Observer Cycle 6 proposals for Campaigns 17, 18, and 19 
+Note that Campaigns 17-18-19 require K2fov version 7.0 or higher to be installed.&lt;/p&gt;</content></entry><entry><title>Internship and postdoc opportunities at NASA Ames</title><link href="https://keplerscience.arc.nasa.gov/internship-and-postdoc-opportunities-at-nasa-ames.html" rel="alternate"></link><published>2017-09-25T06:00:00-07:00</published><updated>2017-09-25T06:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-09-25:/internship-and-postdoc-opportunities-at-nasa-ames.html</id><summary type="html">&lt;p&gt;The Kepler/K2 Science Center at NASA Ames is now
+&lt;a href="https://intern.nasa.gov/ossi/web/public/guest/searchOpps/index.cfm?solarAction=view&amp;amp;id=28643"&gt;accepting applications&lt;/a&gt;
+for paid internships via the
+&lt;a href="https://intern.nasa.gov/ossi/web/public/guest/searchOpps/index.cfm?solarAction=view&amp;amp;id=28643"&gt;NASA Internships Portal&lt;/a&gt;.
+The program enables students to gain experience in the scientific operations
+of a high-profile space photometry mission.
+PhD and graduate students already using Kepler or K2 data
+as part of …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The Kepler/K2 Science Center at NASA Ames is now
+&lt;a href="https://intern.nasa.gov/ossi/web/public/guest/searchOpps/index.cfm?solarAction=view&amp;amp;id=28643"&gt;accepting applications&lt;/a&gt;
+for paid internships via the
+&lt;a href="https://intern.nasa.gov/ossi/web/public/guest/searchOpps/index.cfm?solarAction=view&amp;amp;id=28643"&gt;NASA Internships Portal&lt;/a&gt;.
+The program enables students to gain experience in the scientific operations
+of a high-profile space photometry mission.
+PhD and graduate students already using Kepler or K2 data
+as part of their research projects are particularly encouraged to apply.
+We encourage interested applicants to contact &lt;a href="keplergo@mail.arc.nasa.gov"&gt;keplergo@mail.arc.nasa.gov&lt;/a&gt; before applying.&lt;/p&gt;
+&lt;p&gt;Also at NASA Ames, the &lt;a href="https://npp.usra.edu/"&gt;NASA Postdoctoral Program&lt;/a&gt;
+is accepting applications to work on
+&lt;a href="https://npp.usra.edu/opportunities/details/?ro=19108"&gt;high-resolution imaging of Kepler and K2 exoplanet host stars&lt;/a&gt; with Steve Howell
+and &lt;a href="https://npp.usra.edu/opportunities/details/?ro=19114"&gt;the analysis of transiting planets to be observed by JWST&lt;/a&gt; with Tom Greene.
+Interested applicants are encouraged to contact the advisor before applying.&lt;/p&gt;
+&lt;p&gt;Finally, Ames is &lt;a href="http://careers.wyle.com/Careers.aspx?adata=EJ9Cwu81RisGA9ZgegJEfwh/DFp9S21x2oWwa19HSD4AgOR/uDwLeFeFcBjShgcbWzilw8aC6TiZD2KFaoI0lDQHt6mzLr7Qwi9nijjbJvXaQSzR82YqUT2zBDuciHD//pccHeH7HmVCPXBvTAXmvVPS6RtCFNR3aZlydZDgGwLB4dXkgmKZFOSYllVp%2Bz1kWyB5Gsw72kGRuZ4pVLeZLxY%3D"&gt;seeking to hire a Science Communications Specialist&lt;/a&gt;
+to help share the scientific results from Kepler and K2 with the public.
+Interested applicants are encouraged to contact &lt;a href="mailto:matthew.c.buffington@nasa.gov"&gt;matthew.c.buffington@nasa.gov&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><title>Call for K2 GO Cycle 6 proposals for Campaigns 17, 18, and 19</title><link href="https://keplerscience.arc.nasa.gov/call-for-k2-go-cycle-6-proposals-for-campaigns-17-18-and-19.html" rel="alternate"></link><published>2017-08-28T07:20:00-07:00</published><updated>2017-08-28T07:20:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-08-28:/call-for-k2-go-cycle-6-proposals-for-campaigns-17-18-and-19.html</id><summary type="html">&lt;p&gt;The call for K2 Guest Observer Cycle 6 proposals for Campaigns 17, 18, and 19 has been &lt;a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={7DC22936-4C6A-44FC-74A3-F0C9248DC9DD}&amp;amp;path=open"&gt;released and made available at NSPIRES&lt;/a&gt;.&lt;/p&gt;</summary><content type="html">&lt;p&gt;The call for K2 Guest Observer Cycle 6 proposals for Campaigns 17, 18, and 19 
 has been &lt;a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={7DC22936-4C6A-44FC-74A3-F0C9248DC9DD}&amp;amp;path=open"&gt;released and made available at NSPIRES&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id="new-two-phase-process"&gt;New two-phase process&lt;/h3&gt;
 &lt;p&gt;Because spacecraft fuel is expected to run out during one of these Campaigns,
