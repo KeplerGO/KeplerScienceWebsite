@@ -84,7 +84,8 @@ for a talk will be December 15, 2017.
 (Last update: Sept. 27, 2017)
 
 * Ann Marie Cody (NASA Ames)
-* Luisa Rebull (IPAC/Caltech)
 * John Gizis (University of Delaware)
-* Søren Meibom (Harvard CfA)
 * Michael Gully-Santiago (NASA Ames)
+* Søren Meibom (Harvard CfA)
+* Philip Muirhead (Boston University)
+* Luisa Rebull (IPAC/Caltech)
