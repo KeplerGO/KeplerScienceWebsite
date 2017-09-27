@@ -33,7 +33,11 @@ two days. (There will not be any posters.) We have reserved the final morning fo
 and high-level science product creation overviews. We will also encourage participants to spend time comparing technical
 approaches to K2 data, including photometry.
 
-<h4 style="font-weight: bold;">Schedule TBA</h4>
+<h4 style="font-weight: bold;">Schedule:</h4>
+
+h4 style="font-weight: bold;">Tuesday, Jan 16th:</h4> Talks
+h4 style="font-weight: bold;">Wednesday, Jan 17th:</h4> Talks
+h4 style="font-weight: bold;">Thursday, Jan 18th:</h4> Hack day
 
 ### Venue
 
