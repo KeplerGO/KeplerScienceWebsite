@@ -1,15 +1,6 @@
 Title:
 Save_as: cluster-workshop/index.html
 
-[TOC]
-
-<style>
-ul.schedule > li {
-    margin-top: 0.4em;
-    margin-left: -1em;
-}
-</style>
-
 <img class="img-responsive" style="max-width:100%;" src="../../images/k2/bu_fireworks.jpg" alt="Dwarf Stars and Clusters with 
 K2: A Workshop"> 
 *Image Credit: Eric Kilby*
