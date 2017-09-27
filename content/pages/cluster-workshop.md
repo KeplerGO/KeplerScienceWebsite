@@ -47,7 +47,7 @@ approaches to K2 data, including photometry.
 
 The workshop will take place on the Boston University campus.
 
-The nearest airport is the Boston Logan International Airport.
+The nearest airport is the Boston Logan International Airport (BOS).
 We recommend using the MBTA system, which provides free public transportation from the airport.
 
 
@@ -88,4 +88,3 @@ for a talk will be December 15, 2017.
 (Last update: Sept. 26, 2017)
 
 * Ann Marie Cody (NASA Ames)
-* Luisa Rebull (IPAC/Caltech)
