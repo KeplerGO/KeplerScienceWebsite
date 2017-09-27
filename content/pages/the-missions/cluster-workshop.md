@@ -11,7 +11,7 @@ K2: A Workshop">
 The K2 Mission and Boston University will host a **Dwarf Stars and Clusters Workshop on Jan 16-18, 2018**,
 at BU in Boston, Massachusetts.
 
-Since its launch in 2009, the Kepler telescope has been providing high precision photometric time series on thousands of
+Since its launch in 2009, the Kepler telescope has been providing high precision photometric time series on half a million
 targets, from exoplanet hosts to active dwarf stars. With its focus on the ecliptic plane, the K2 Mission has further
 expanded science opportunities, especially in the area of stellar clusters and magnetic activity. By the end of 2017, K2
 will have observed more than 15 open clusters and associations, some on more than one occasion. The resulting data have
@@ -28,16 +28,191 @@ The motivations for this workshop include:
 
 ### Agenda
 
-This will be a small workshop (space is limited to < 100 participants) with time for most participants to give a short 
+This will be a small workshop (space is limited to < 100 people) with time for most participants to give a short 
 overview of their research during the first two days. (There will not be any posters.) We have reserved the final morning 
 for "hack day" activities, including data how-to's and high-level science product creation overviews. We will also 
 encourage participants to spend time comparing technical approaches to K2 data, including photometry.
 
-<h4 style="font-weight: bold;">Schedule (to be updated):</h4>
+<h4 style="font-weight: bold;">Tuesday, Jan 16th</h4>
 
-<h4 style="font-weight: bold;">Tuesday, Jan 16th</h4> Talks
-<h4 style="font-weight: bold;">Wednesday, Jan 17th</h4> Talks
-<h4 style="font-weight: bold;">Thursday, Jan 18th</h4> Hack day
+The goal of the first day will be to review the science that has done with K2 and generate ideas for the hack day.
+
+<div class="row">
+<div class="col-sm-12 col-md-10">
+<table class="table table-striped table-hover">
+  <tr>
+    <th style="min-width:8em;"><b>09:15–10:00</b></th>
+    <td>
+        <b>Coffee &amp; snacks</b>
+    </td>
+  </tr>
+  <tr>
+    <th><b>10:00–12:00</b></th>
+    <td>
+        <b>Introductory talks</b><br/>
+        <ul class="schedule">
+            <li>
+                Welcome<br/>
+            </li>
+            <li>
+                K2 Overview<br/>
+            </li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <th><b>12:00–13:00</b></th>
+    <td>
+        <b>Lunch</b>
+    </td>
+  </tr>
+  <tr>
+    <th><b>13:00–14:00</b></th>
+    <td>
+        <b>Hack Day pitches</b><br/>
+        <ul class="schedule">
+        </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <th><b>14:00–15:00</b></th>
+    <td>
+        <b>Science talks</b><br/>
+        <ul class="schedule">
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <th><b>15:00–15:30</b></th>
+    <td>
+        <b>Coffee</b>
+    </td>
+  </tr>
+  <tr>
+    <th><b>15:30–17:00</b></th>
+    <td>
+        <b>Science talks</b><br/>
+        <ul class="schedule">
+        </ul>
+    </td>
+  </tr>
+</table>
+</div>
+</div>
+
+
+<h4 style="font-weight: bold;">Wednesday, Jan 17th</h4>
+
+<div class="row">
+<div class="col-sm-12 col-md-10">
+<table class="table table-striped table-hover">
+  <tr>
+    <th style="min-width:8em;"><b>09:00–09:30</b></th>
+    <td>
+        <b>Coffee &amp; snacks</b>
+    </td>
+  </tr>
+  <tr>
+    <th><b>09:30–10:00</b></th>
+    <td>
+        <b>Welcome</b><br/>
+        <ul class="schedule">
+            <li>
+                Summary of the previous day
+            </li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <th><b>10:00–12:00</b></th>
+    <td>
+        <b>Introductory talks</b><br/>
+        <ul class="schedule">
+            <li>
+                Welcome<br/>
+            </li>
+            <li>
+                K2 Overview<br/>
+            </li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <th><b>12:00–13:30</b></th>
+    <td>
+        <b>Lunch</b>
+    </td>
+  </tr>
+  <tr>
+    <th><b>13:30–15:00</b></th>
+    <td>
+        <b>Science talks</b><br/>
+        <ul class="schedule">
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <th><b>15:00–15:30</b></th>
+    <td>
+        <b>Coffee</b>
+    </td>
+  </tr>
+  <tr>
+    <th><b>15:30–17:00</b></th>
+    <td>
+        <b>Science talks</b><br/>
+        <ul class="schedule">
+        </ul>
+    </td>
+  </tr>
+</table>
+</div>
+</div>
+
+
+<h4 style="font-weight: bold;">Thursday, Jan 18th</h4>
+
+<p>Hack Day</p>
+
+<div class="row">
+<div class="col-sm-12 col-md-10">
+<table class="table table-striped table-hover">
+  <tr>
+    <th style="min-width:8em;"><b>09:00–09:30</b></th>
+    <td>
+        <b>Coffee &amp; snacks</b>
+    </td>
+  </tr>
+  <tr>
+    <th><b>09:30–10:00</b></th>
+    <td>
+        <b>Welcome</b><br/>
+        <ul class="schedule">
+            <li>
+                Summary of the previous day
+            </li>
+            <li>
+                Discussion of tutorials and group projects<br/>
+            </li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <th><b>10:00–14:00</b></th>
+    <td> 
+        <b>Hack activities</b><br/>
+        <ul class="schedule">
+            <li>Data products overview and future ideas;</li>
+            <li>K2 data analysis tutorials;</li>
+            <li>Photometry methods and comparisons</li>
+        </ul>
+    </td>
+  </tr>
+</table>
+</div>
+</div>
+
 
 ### Venue
 
@@ -68,9 +243,9 @@ Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 
 ### Registration
 
-Registration will be available free of charge, apart from a small fee to be paid by cash or check on site. Please indicate
-your [non-binding] interest in attending the workshop by <a href='https://docs.google.com/forms/d/e/1FAIpQLSdZCWOJd_L10gG-IQ9QYLkKDkkDM99Hn3awA3KStSz2B0AzCQ/viewform?c=0&w=1'> signing up for further correspondence.</a> The final date to register
-for a talk will be December 15, 2017.
+Please indicate your [non-binding] interest in attending the workshop by <a 
+href='https://docs.google.com/forms/d/e/1FAIpQLSdZCWOJd_L10gG-IQ9QYLkKDkkDM99Hn3awA3KStSz2B0AzCQ/viewform?c=0&w=1'> 
+signing up for further correspondence.</a> The final date to register for a talk will be November 15, 2017.
 
 ### Organizing Committee
 
