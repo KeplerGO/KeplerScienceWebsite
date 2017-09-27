@@ -35,9 +35,9 @@ approaches to K2 data, including photometry.
 
 <h4 style="font-weight: bold;">Schedule:</h4>
 
-h4 style="font-weight: bold;">Tuesday, Jan 16th:</h4> Talks
-h4 style="font-weight: bold;">Wednesday, Jan 17th:</h4> Talks
-h4 style="font-weight: bold;">Thursday, Jan 18th:</h4> Hack day
+<h4 style="font-weight: bold;">Tuesday, Jan 16th:</h4> Talks
+<h4 style="font-weight: bold;">Wednesday, Jan 17th:</h4> Talks
+<h4 style="font-weight: bold;">Thursday, Jan 18th:</h4> Hack day
 
 ### Venue
 
