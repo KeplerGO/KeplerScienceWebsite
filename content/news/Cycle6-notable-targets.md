@@ -100,8 +100,8 @@ In addition to the highlights listed above, Simbad lists a wealth of known objec
 * 44 Flare Stars;
 * 21 Cataclysmic Variables.
 
-A full table containing all Simbad sources that are visible in C14-15-16
-can be downloaded from this website in CSV format ([K2-C14-C16-Simbad.csv](https://raw.githubusercontent.com/KeplerGO/K2FootprintFiles/master/simbad/K2-C17-C19-Simbad.csv)) or as a VOTable ([K2-C14-C16-Simbad.xml.gz](https://github.com/KeplerGO/K2FootprintFiles/raw/master/simbad/K2-C17-C19-Simbad.xml.gz)). Beware however that Simbad is not a full catalog of all known sources; it merely lists objects that have previously been discussed in the literature.
+A full table containing all Simbad sources that are visible in C17-18-19
+can be downloaded from this website in CSV format ([K2-C17-C19-Simbad.csv](https://raw.githubusercontent.com/KeplerGO/K2FootprintFiles/master/simbad/K2-C17-C19-Simbad.csv)) or as a VOTable ([K2-C17-C19-Simbad.xml.gz](https://github.com/KeplerGO/K2FootprintFiles/raw/master/simbad/K2-C17-C19-Simbad.xml.gz)). Beware however that Simbad is not a full catalog of all known sources; it merely lists objects that have previously been discussed in the literature.
 For the purpose of e.g. color-based target selections,
 we recommend using a more complete source catalog such as the [EPIC](https://archive.stsci.edu/k2/epic/search.php).
 
