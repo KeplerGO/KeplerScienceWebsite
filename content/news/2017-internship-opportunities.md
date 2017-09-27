@@ -1,4 +1,4 @@
-Title: Internship and postdoc opportunities at NASA Ames
+Title: Internship and postdoc opportunities available at NASA Ames
 Date: 2017-09-25 06:00
 Author: Geert Barentsen
 
