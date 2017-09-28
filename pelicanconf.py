@@ -137,6 +137,9 @@ MEETINGS = (
             ('<b>8–12 Jan 2018</b><br>'
              'Kepler/K2 booth at the Winter AAS meeting',
              'https://aas.org/meetings/aas231'),
+            ('<b>16–18 Jan 2018</b><br>'
+             'Workshop: Dwarf Stars and Clusters with K2',
+             '/cluster-workshop'),
             ('<b>8–13 Jul 2018</b><br>'
              'TASC4/KASC11 Asteroseismology Meeting',
              ''),
