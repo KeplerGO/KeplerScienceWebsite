@@ -7,6 +7,6 @@ will take place from January 16 to 18, 2018 on the BU campus in Boston Massachus
 science that K2 has enabled in the areas of cool stars and open clusters. Topics will include stellar rotation and activity,
 eclipsing binaries, young stellar objects, and planets in clusters. 
 
-The [conference website](https://keplerscience.arc.nasa.gov/cluster-workshop) is now live, and you may [register your interest](https://docs.google.com/forms/d/e/1FAIpQLSdZCWOJd_L10gG-IQ9QYLkKDkkDM99Hn3awA3KStSz2B0AzCQ/viewform?c=0&w=1) in attending this workshop.
+The [workshop website](https://keplerscience.arc.nasa.gov/cluster-workshop) is now live, and you may [register your interest](https://docs.google.com/forms/d/e/1FAIpQLSdZCWOJd_L10gG-IQ9QYLkKDkkDM99Hn3awA3KStSz2B0AzCQ/viewform?c=0&w=1) in attending this workshop.
 
 Stay tuned for further details!
