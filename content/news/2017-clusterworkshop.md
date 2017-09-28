@@ -1,4 +1,4 @@
-Title: Save the date: workshop on Dwarfs Stars and Clusters with K2, January 16-18, 2018
+Title: Save the date: Workshop on Dwarfs Stars and Clusters with K2, January 16-18, 2018
 Date: 2017-09-27 17:00
 Author: Ann Marie Cody
 

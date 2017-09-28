@@ -1,21 +1,21 @@
 Title: Kepler & K2 meetings and conferences
 Save_as: conferences.html
 
-<!--
+
 ## Upcoming meetings
 
 
 <table class="table table-striped table-hover" style="max-width:55em;">
 	
   <tr>
-    <td style="width: 9em;">19-23 Jun 2017</td>
-    <td style="width: 25em;"><a href='scicon4'>Kepler &amp; K2 SciCon IV</a></td>
+    <td style="width: 9em;">Jan 16-18, 2018</td>
+    <td style="width: 25em;"><a href='cluster-workshop'>Dwarf Stars and Clusters with K2: a Workshop</a></td>
     <td><a
-    href='scicon4'>website</a>, <a href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon tweets</a></td>
+    href='cluster-workshop'>website</a>, <a href="https://twitter.com/search?q=%23K2Workshop">#K2Workshop tweets</a></td>
   </tr>
 	
 </table>
--->
+
 
 ## Past meetings
 

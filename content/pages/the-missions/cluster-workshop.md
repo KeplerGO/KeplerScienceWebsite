@@ -1,4 +1,4 @@
-Title:
+Title: Dwarfs Stars and Clusters with K2, January 16-18, 2018
 Save_as: cluster-workshop/index.html
 
 <img class="img-responsive" style="max-width:100%;" src="../../images/k2/bu_fireworks.jpg" alt="Dwarf Stars and Clusters with 
@@ -21,8 +21,8 @@ invited to gather for discussion at BU this coming January.
 
 The motivations for this workshop include:
 
-* Summarizing the science done to date with K2 in the area of cool stars, star formation regions, and open clusters
-* Forging new collaborations for future science with K2
+* Summarizing the science done to date with K2 in the area of cool stars, star formation regions, and open clusters.
+* Forging new collaborations for future science with K2.
 * Exploring synergies with other space missions (especially TESS), wavelength regions, and science areas.
 
 
@@ -35,7 +35,7 @@ encourage participants to spend time comparing technical approaches to K2 data, 
 
 <h4 style="font-weight: bold;">Tuesday, Jan 16th</h4>
 
-The goal of the first day will be to review the science that has done with K2 and generate ideas for the hack day.
+The goal of the first day will be to review the science that has been done with K2 and generate ideas for the hack day.
 
 <div class="row">
 <div class="col-sm-12 col-md-10">
@@ -262,6 +262,7 @@ signing up for further correspondence.</a> The final date to register for a talk
 
 (Last update: Sept. 27, 2017)
 
+* Geert Barentsen (NASA Ames)
 * Ann Marie Cody (NASA Ames)
 * John Gizis (University of Delaware)
 * Michael Gully-Santiago (NASA Ames)
