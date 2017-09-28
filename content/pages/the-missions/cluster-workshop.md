@@ -28,7 +28,7 @@ The motivations for this workshop include:
 
 ### Agenda
 
-This will be a small workshop (space is limited to < 100 people) with time for most participants to give a short 
+This will be a small workshop (space is limited to ~50 people) with time for most participants to give a short 
 overview of their research during the first two days. (There will not be any posters.) We have reserved the final morning 
 for "hack day" activities, including data how-to's and high-level science product creation overviews. We will also 
 encourage participants to spend time comparing technical approaches to K2 data, including photometry.
