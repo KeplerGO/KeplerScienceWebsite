@@ -3,7 +3,7 @@ Date: 2017-09-27 17:00
 Author: Ann Marie Cody
 
 The K2 Mission and Boston University are convening
-a small workshop on Dwarfs Stars and Clusters with K2,
+a small workshop on Dwarf Stars and Clusters with K2,
 to take place from January 16 to 18, 2018, on the BU campus
 in Boston, Massachusetts.
 

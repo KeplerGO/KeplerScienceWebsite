@@ -1,4 +1,4 @@
-Title: Dwarfs Stars and Clusters with K2, January 16-18, 2018
+Title: Dwarf Stars and Clusters with K2, January 16-18, 2018
 Save_as: cluster-workshop/index.html
 
 <img class="img-responsive" style="max-width:100%;" src="../../images/k2/bu_fireworks.jpg" alt="Dwarf Stars and Clusters with 
