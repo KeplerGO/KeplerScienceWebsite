@@ -15,3 +15,7 @@ eclipsing binaries, young stellar objects, and planets in clusters.
 The [workshop website](/cluster-workshop) is now live, and you may [register your interest](https://docs.google.com/forms/d/e/1FAIpQLSdZCWOJd_L10gG-IQ9QYLkKDkkDM99Hn3awA3KStSz2B0AzCQ/viewform?c=0&w=1) in attending.
 
 Stay tuned for further details!
+
+<img class="img-responsive" style="max-width:100%;" src="images/k2/bu_fireworks.jpg" alt="Dwarf Stars and Clusters with 
+K2: A Workshop"> 
+*Image Credit: Eric Kilby*
