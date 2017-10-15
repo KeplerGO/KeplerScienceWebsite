@@ -28,10 +28,10 @@ long streaks of pixels are downloaded from the Kepler spacecraft to cover
 their trajectory (or part thereof).
 
 
-## Solar system targets in Campaigns 0-11
+## Solar system targets in Campaigns 0-13
 
-The K2 mission has so far targeted 163 solar system objects during
-Campaigns 0 through 11 as part of the
+The K2 mission has so far targeted ~200 solar system objects during
+Campaigns 0 through 13 as part of the
 [approved observing programs](k2-approved-programs.html).
 These objects are listed below.
 
@@ -55,6 +55,7 @@ can be checked using the [K2ephem command-line tool](https://github.com/KeplerGO
 * 90P (C12)
 * 176P (C12)
 * 228P (C12)
+* 246P (C13)
 * Chiron (C12, short cadence)
 * C/2013 A1 Siding Spring (C2)
 
@@ -72,16 +73,24 @@ can be checked using the [K2ephem command-line tool](https://github.com/KeplerGO
 * 2002 GV31  (C1)
 * 2002 KX14  (C11)
 * 2002 KY14  (C4)
+* 2002 VS130 (C13)
+* 2002 VT130 (C13)
+* 2002 VU130 (C13)
 * 2003 FC128 (C10)
 * 2003 QW90  (C8)
+* 2004 TF282 (C13)
+* 2004 TV357 (C13)
+* 2004 XR190 (C13)
 * 2005 LC54  (C11)
 * 2005 RS43  (C8)
 * 2007 JJ43  (C2)
 * 2007 OR10  (C3)
+* 2009 YG19  (C13)
 * 2010 ET65  (C10)
 * 2010 FC49  (C10)
 * 2010 GX34  (C11)
 * 2010 JJ124 (C11)
+* 2012 VU85  (C13)
 
 ### Trojan and Hilda asteroids
 
@@ -116,6 +125,7 @@ can be checked using the [K2ephem command-line tool](https://github.com/KeplerGO
 * Phemios      (C11)
 * Phyleus      (C11)
 * Podarkes     (C11)
+* Santorini    (C13)
 * Stichius     (C6)
 * Telamon      (C6)
 * Thrasymedes  (C6)
@@ -176,7 +186,9 @@ can be checked using the [K2ephem command-line tool](https://github.com/KeplerGO
 * 2000 QG199   (C7 & C12)
 * 2000 QK57    (C12)
 * 2000 QT59    (C12)
+* 2000 UX34    (C13)
 * 2000 WC140   (C8)
+* 2000 WW146   (C13)
 * 2001 AH11    (C6)
 * 2001 BD25    (C6)
 * 2001 BU42    (C6)
@@ -209,6 +221,7 @@ can be checked using the [K2ephem command-line tool](https://github.com/KeplerGO
 * 2001 TL98    (C12)
 * 2001 TQ142   (C12)
 * 2001 UK113   (C12)
+* 2002 CR306   (C13)
 * 2002 EL153   (C11)
 * 2002 EN37    (C11)
 * 2002 EQ149   (C11)
@@ -232,7 +245,7 @@ can be checked using the [K2ephem command-line tool](https://github.com/KeplerGO
 * 2005 UR38    (C10)
 * 2005 VZ17    (C10)
 * 2006 QA138   (C11)
-* 2006 UB219   (C8)
+* 2006 UB219   (C8 & C13)
 * 2007 RJ283   (C11)
 * 2007 RL162   (C11)
 * 2007 RY194   (C8)
@@ -243,6 +256,7 @@ can be checked using the [K2ephem command-line tool](https://github.com/KeplerGO
 * 2008 SG182   (C11)
 * 2008 SY172   (C6)
 * 2008 TJ126   (C11)
+* 2008 VE11    (C13)
 * 2009 QB22    (C11)
 * 2010 PL66    (C12)
 * 2010 XP50    (C6)
