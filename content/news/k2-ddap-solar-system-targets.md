@@ -2,7 +2,7 @@ Title: New funding opportunity for work on K2 solar system data
 Date: 2016-05-16 12:00:00
 Author: Geert Barentsen
 
-*(Last updated on 2016 Dec 10 to include Campaign 11 solar system targets.)*
+*(Last updated on 2017 Oct 15 to include Campaign 15 solar system targets.)*
 
 A [recent amendment](http://science.nasa.gov/researchers/sara/grant-solicitations/roses-2016/2016/3/11/amendment-1ddap-now-includes-keplerk2-solar-system-observations/)
 to NASA's [Discovery Data Analysis Program (DDAP)](https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId=%7BE2458B76-679E-DD13-4075-005651FF0CEE%7D&path=open)
@@ -28,10 +28,10 @@ long streaks of pixels are downloaded from the Kepler spacecraft to cover
 their trajectory (or part thereof).
 
 
-## Solar system targets in Campaigns 0-14
+## Solar system targets in Campaigns 0-15
 
 The K2 mission has so far targeted ~200 solar system objects during
-Campaigns 0 through 14 as part of the
+Campaigns 0 through 15 as part of the
 [approved observing programs](k2-approved-programs.html).
 These objects are listed below.
 
@@ -51,37 +51,51 @@ can be checked using the [K2ephem command-line tool](https://github.com/KeplerGO
 
 ### Main Belt Asteroids
 
-* 373 Melusina  (C14)
+* 373 Melusina     (C14)
+* 566 Stereoskopia (C15)
+* 1129 Neujmina    (C15)
+* 1224 Fantasia    (C15)
+* 162173 Ryugu     (C15)
 
 
 ### Comets
 
-* 17P    (C14)
-* 50P    (C14)
-* 67P/Churyumov–Gerasimenko (C10)
-* 90P    (C12)
-* 176P   (C12)
-* 202P   (C14)
-* 228P   (C12)
-* 246P   (C13)
-* 331P   (C14)
-* Chiron (C12; short cadence)
-* C/2013 A1 Siding Spring (C2)
-* P/2010 TO20 (C14)
-* P/2016 A3   (C14)
+* 17P/Holmes                  (C14)
+* 50P/Arend                   (C14)
+* 67P/Churyumov–Gerasimenko   (C10)
+* 90P/Gehrels                 (C12)
+* 94P/Russell                 (C15)
+* 95P/Chiron                  (C12; short cadence)
+* 130P/McNaught–Hughes        (C15)
+* 176P/LINEAR                 (C12)
+* 202P/Scotti                 (C14)
+* 228P/LINEAR                 (C12)
+* 246P/NEAT                   (C13)
+* 331P/Gibbs                  (C14)
+* C/2013 A1 Siding Spring     (C2)
+* P/2010 TO20                 (C14)
+* C/2014 F3 Sheppard-Trujillo (C15)
+* C/2014 W2 PANSTARRS         (C15)
+* C/2016 A3 PANSTARRS         (C14)
+
 
 ### Trans-Neptunian Objects
 
 * Ixion      (C11)
 * Quaoar     (C9)
 * 80806      (C14)
+* 160147     (C15)
+* 385437     (C15)
+* 469505     (C15)
 * 1998 SN165 (C8)
 * 1999 DE9   (C10)
 * 2000 OG44  (C14)
+* 2001 HZ58  (C15)
 * 2001 KA77  (C11)
 * 2001 QT322 (C8)
 * 2001 YH40  (C5)
 * 2002 CY224 (C14)
+* 2002 GJ32  (C15)
 * 2002 GP32  (C11)
 * 2002 GV31  (C1)
 * 2002 KX14  (C11)
@@ -104,11 +118,20 @@ can be checked using the [K2ephem command-line tool](https://github.com/KeplerGO
 * 2010 FC49  (C10)
 * 2010 GX34  (C11)
 * 2010 JJ124 (C11)
+* 2011 JF31  (C15)
 * 2012 VU85  (C13)
+* 2013 JV65  (C15)
+* 2014 DJ143 (C15)
+* 2014 EZ51  (C15)
+* 2014 GJ54  (C15)
+* 2014 HF200 (C15)
+* 2014 JQ80  (C15)
+* 2014 LS28  (C15)
 * 2014 WA509 (C14)
 * 2014 WA510 (C14)
 * 2014 WJ510 (C14)
 * 2014 WO509 (C14)
+* 2015 BZ518 (C15)
 
 ### Trojan and Hilda asteroids
 
@@ -140,6 +163,7 @@ can be checked using the [K2ephem command-line tool](https://github.com/KeplerGO
 * Lipperhey    (C12)
 * Mauderli     (C14)
 * Medon        (C11)
+* Muskau       (C15)
 * Odysseus     (C6)
 * Peiraios     (C11)
 * Phemios      (C11)
@@ -179,10 +203,12 @@ can be checked using the [K2ephem command-line tool](https://github.com/KeplerGO
 * 301013       (C14)
 * 1981 EK47    (C12)
 * 1986 WD      (C6)
-* 1988 RO12    (C10)
+* 1988 RO12    (C10 & C15)
+* 1988 SX2     (C15)
 * 1989 BL      (C6)
 * 1989 CW1     (C11)
-* 1989 VW      (C10)
+* 1989 VW      (C10 & C15)
+* 1992 DJ6     (C15)
 * 1992 ET32    (C10)
 * 1996 RJ33    (C6)
 * 1997 SJ4     (C6)
@@ -208,6 +234,7 @@ can be checked using the [K2ephem command-line tool](https://github.com/KeplerGO
 * 1999 TS40    (C8)
 * 1999 VG135   (C8)
 * 1999 WS4     (C6)
+* 1999 XJ55    (C15)
 * 1999 XM193   (C11)
 * 1999 XS226   (C11)
 * 1999 YN12    (C6)
@@ -220,6 +247,8 @@ can be checked using the [K2ephem command-line tool](https://github.com/KeplerGO
 * 2000 BA27    (C11)
 * 2000 BQ21    (C11)
 * 2000 BV1     (C11)
+* 2000 DC27    (C15)
+* 2000 DC45    (C15)
 * 2000 DP99    (C10)
 * 2000 DS8     (C10)
 * 2000 DV76    (C10)
@@ -243,8 +272,9 @@ can be checked using the [K2ephem command-line tool](https://github.com/KeplerGO
 * 2001 CX27    (C6)
 * 2001 CX6     (C6)
 * 2001 DU87    (C11)
-* 2001 FV58    (C11)
 * 2001 EN12    (C6)
+* 2001 FV58    (C11)
+* 2001 HG21    (C15)
 * 2001 OB100   (C6 & C11)
 * 2001 OG13    (C6 & C11)
 * 2001 OH76    (C11)
@@ -283,11 +313,13 @@ can be checked using the [K2ephem command-line tool](https://github.com/KeplerGO
 * 2002 TE13    (C11)
 * 2002 XF45    (C11)
 * 2003 QA92    (C12)
+* 2003 QE57    (C15)
 * 2004 CV2     (C12)
 * 2004 TN126   (C10)
 * 2005 CB68    (C7)
 * 2005 TB190   (C12)
-* 2005 UR38    (C10)
+* 2005 TN125   (C15)
+* 2005 UR38    (C10 & C15)
 * 2005 VZ17    (C10)
 * 2006 QA138   (C11)
 * 2006 UB219   (C8 & C13)
@@ -295,15 +327,19 @@ can be checked using the [K2ephem command-line tool](https://github.com/KeplerGO
 * 2007 RL162   (C11)
 * 2007 RY194   (C8)
 * 2007 TP371   (C11)
+* 2008 CW119   (C15)
 * 2008 DN52    (C10)
 * 2008 RR51    (C12)
 * 2008 SA192   (C11)
 * 2008 SG182   (C11)
+* 2008 SO47    (C15)
 * 2008 SY172   (C6)
 * 2008 TJ126   (C11)
 * 2008 VE11    (C13)
 * 2009 QB22    (C11)
+* 2009 UR154   (C15)
 * 2010 PL66    (C12)
+* 2010 VM61    (C15)
 * 2010 XP50    (C6)
 * 2013 PH44    (C12)
 
