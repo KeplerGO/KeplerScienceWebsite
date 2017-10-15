@@ -28,10 +28,10 @@ long streaks of pixels are downloaded from the Kepler spacecraft to cover
 their trajectory (or part thereof).
 
 
-## Solar system targets in Campaigns 0-13
+## Solar system targets in Campaigns 0-14
 
 The K2 mission has so far targeted ~200 solar system objects during
-Campaigns 0 through 13 as part of the
+Campaigns 0 through 14 as part of the
 [approved observing programs](k2-approved-programs.html).
 These objects are listed below.
 
@@ -49,26 +49,39 @@ can be checked using the [K2ephem command-line tool](https://github.com/KeplerGO
 * Neptune and its moon Nereid (C3)
 * Pluto (C7)
 
+### Main Belt Asteroids
+
+* 373 Melusina  (C14)
+
+
 ### Comets
 
+* 17P    (C14)
+* 50P    (C14)
 * 67P/Churyumov–Gerasimenko (C10)
-* 90P (C12)
-* 176P (C12)
-* 228P (C12)
-* 246P (C13)
-* Chiron (C12, short cadence)
+* 90P    (C12)
+* 176P   (C12)
+* 202P   (C14)
+* 228P   (C12)
+* 246P   (C13)
+* 331P   (C14)
+* Chiron (C12; short cadence)
 * C/2013 A1 Siding Spring (C2)
-
+* P/2010 TO20 (C14)
+* P/2016 A3   (C14)
 
 ### Trans-Neptunian Objects
 
 * Ixion      (C11)
 * Quaoar     (C9)
+* 80806      (C14)
 * 1998 SN165 (C8)
 * 1999 DE9   (C10)
+* 2000 OG44  (C14)
 * 2001 KA77  (C11)
 * 2001 QT322 (C8)
 * 2001 YH40  (C5)
+* 2002 CY224 (C14)
 * 2002 GP32  (C11)
 * 2002 GV31  (C1)
 * 2002 KX14  (C11)
@@ -85,12 +98,17 @@ can be checked using the [K2ephem command-line tool](https://github.com/KeplerGO
 * 2005 RS43  (C8)
 * 2007 JJ43  (C2)
 * 2007 OR10  (C3)
+* 2008 CS190 (C14)
 * 2009 YG19  (C13)
 * 2010 ET65  (C10)
 * 2010 FC49  (C10)
 * 2010 GX34  (C11)
 * 2010 JJ124 (C11)
 * 2012 VU85  (C13)
+* 2014 WA509 (C14)
+* 2014 WA510 (C14)
+* 2014 WJ510 (C14)
+* 2014 WO509 (C14)
 
 ### Trojan and Hilda asteroids
 
@@ -115,10 +133,12 @@ can be checked using the [K2ephem command-line tool](https://github.com/KeplerGO
 * Hooke        (C11)
 * Ialmenus     (C11)
 * Icarion      (C6)
+* Janeausten   (C14)
 * Kalchas      (C6)
 * Kamerlingh   (C12)
 * Leucus       (C11)
 * Lipperhey    (C12)
+* Mauderli     (C14)
 * Medon        (C11)
 * Odysseus     (C6)
 * Peiraios     (C11)
@@ -126,12 +146,37 @@ can be checked using the [K2ephem command-line tool](https://github.com/KeplerGO
 * Phyleus      (C11)
 * Podarkes     (C11)
 * Santorini    (C13)
+* Semois       (C14)
 * Stichius     (C6)
 * Telamon      (C6)
 * Thrasymedes  (C6)
 * Tlepolemos   (C11)
 * Tuckia       (C11)
 * Xanthomalitia (C12)
+* 13035        (C14)
+* 31819        (C14)
+* 60381        (C14)
+* 63293        (C14)
+* 76820        (C14)
+* 76835        (C14)
+* 86435        (C14)
+* 111113       (C14)
+* 111231       (C14)
+* 116567       (C14)
+* 117113       (C14)
+* 119942       (C14)
+* 120962       (C14)
+* 131635       (C14)
+* 134652       (C14)
+* 141557       (C14)
+* 146961       (C14)
+* 174074       (C14)
+* 174077       (C14)
+* 174089       (C14)
+* 177640       (C14)
+* 207644       (C14)
+* 208290       (C14)
+* 301013       (C14)
 * 1981 EK47    (C12)
 * 1986 WD      (C6)
 * 1988 RO12    (C10)
