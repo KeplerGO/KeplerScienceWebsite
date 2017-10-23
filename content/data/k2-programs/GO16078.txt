@@ -1,0 +1,23 @@
+# Summary of K2 Program GO16078
+
+Title: The K2 Extragalactic Survey (KEGS) in Nearby Galaxies: Cycle 5
+
+PI: Garnavich, Peter M. (University of Notre Dame)
+CoIs: Shaya, Ed; Mushotzky, Richard; Olling, Robert P; Kasen, Daniel Nathan; Rest, Armin; Tucker, Brad E
+
+We propose a K2 Program to monitor twenty, large, nearby galaxies in Campaign 14 and six large galaxies in Campaign 16. Monitoring of these galaxies will allow us to look for fast (t > 10 day) and faint (M < -15) stellar transients. The K2 science mission, with its long baseline, high-cadence, good light-gathering power allows us to obtain high precision photometry. The ability to monitor several targets simultaneously provides a unique opportunity to examine such a broad range of variables and transients. 
+
+The fast transients we wish to examine are defined by their fainter than SNe (Mv < -16) magnitudes, fast rise times and/or short lifetime. Perets et al. 2010 found a new class of faint events that were spectroscopically similar to SN Ib/c but had strong calcium lines in their nebular spectra. These objects characterized by a relatively fast light curve (12 - 15 days), making them difficult to find by traditional surveys, and thus the progenitors of these interesting events are unknown 
+
+In addition, Drout et al. 2014, using the Pan-STARRS1 survey, found a few transients that were relatively bright (-16 < M < -20) but with a time near maximum of only a few days. Even though they are bright, their short time scale, some brightening in only a day, means these events are usually missed. The stellar origin of these events is also unknown. PTF has been a prolific discoverer of unique short-lived and/or faint events as well. 
+
+This program will also be sensitive to LBV- and nova-like eruptions, large amplitude flare stars, cataclysmic variable stars, and other still unknown types of faint, fast transients. 
+
+We will undertake a major, concurrent ground-based effort to observe these galaxies every other day using SkyMapper and ATLAS Pathfinder. We will also coordinate multi-color photometry and spectra to classify the transients using PESSTO, and existing programs at Siding Spring, Lick, Gemini, and Keck
+
+# Targets requested by this program that have been observed (4)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211496134, 130.816242, 13.085014, 19.404, GO16078_LC|GO16079_LC|GO16095_LC
+211505275, 131.666504, 13.213676, 14.042, GO16078_LC|GO16079_LC|GO16095_LC
+212069341, 137.072772, 21.443343, 12.49, GO16009_LC|GO16078_LC|GO16079_LC|GO16095_LC
+251403706, 136.225244, 25.00392, 17.406, GO16078_LC|GO16079_LC

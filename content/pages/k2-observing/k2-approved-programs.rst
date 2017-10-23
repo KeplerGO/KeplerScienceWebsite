@@ -20,6 +20,59 @@ After data has been released, the
 should be consulted for more comprehensive notes for each Campaign.
 
 
+Campaign 16
+-----------
+.. raw:: html
+
+    <p>
+        The Campaign 16 target list includes <b>29,888 standard long cadence</b>
+        and <b>129 standard short cadence</b> targets
+        located towards the constellation of Cancer.
+    </p>
+    <p>
+        Kepler is observing Field 16 in the forward-facing direction along its
+        velocity vector, which allows the field
+        to easily be accessed from Earth during the Campaign. 
+        This enables K2's single-bandpass photometry
+        to be complemented with simultaneous observations from the ground,
+        an opportunity that is being utilised by many of the selected programs,
+        e.g. to characterize supernovae in the field and to carry out
+        simultaenous high-precision RV observations.
+    </p>
+    <p>
+        Notable targets in Campaign 16 include:
+        <ul>
+            <li><b>9,241 galaxies</b> for the supernova experiment.</li>
+            <li>Dozens of <b>exoplanets</b> and exoplanet candidates revealed by Campaign 5.</li>
+            <li><b>M67</b>: the benchmark cluster with solar-like age and metallicity.</li>
+            <li><b>M44 (Beehive)</b>: one of the most nearby open clusters.</li>
+            <li>The <b>Earth-Moon system</b> to be captured by the first FFI.</li>
+        </ul>
+    </p>
+
+  <ul class="list-group">
+    <li class="list-group-item">
+      <i class="fa fa-calendar fa-margin"></i>
+      Dec 7, 2017 (~22h UT) - Feb 25, 2017 (~13h UT)
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-pencil-square-o fa-margin"></i>
+      Data release notes (awaiting data release)
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-download fa-margin"></i>
+      <a href="data/campaigns/c16/K2Campaign16targets.csv">Target list (csv)</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-external-link fa-margin"></i>
+      Target pixel files (awaiting data release)
+    </li>
+  </ul>
+
+.. include:: approved-programs/c16.html
+
+
+
 Campaign 15
 -----------
 .. raw:: html

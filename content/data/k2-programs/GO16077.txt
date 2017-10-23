@@ -1,0 +1,47 @@
+# Summary of K2 Program GO16077
+
+Title: Low Mass Planets around Bright Stars:
+Long Baseline TTV mass determinations with K2
+
+PI: Quarles, Billy L (University of Oklahoma)
+CoIs: Jontof-Hutter, Daniel S; Rowe, Jason Frank
+
+Science Goals Objectives:  Transit-timing variations, or TTVs, have been an incredible tool to accurately measure the masses of many planet systems in the Kepler Mission.  However, K2 has not been able to capitalize on the precision of TTV measurements in part due to the much shorter baseline of data in its ~90 day campaigns.  In C16, we have the unique opportunity to investigate a sample of known exoplanet candidates that were found in C5 using K2, 3 years ago due to an overlap of the observing fields.  Fortuitously, a few of the candidates are known to belong to a multiple planet system and this number may increase in C16 due to the longer observing baseline.  Of the known multis, any detected TTVs over the 3 year baseline will enable mass constraints even if the planetary masses are too low for an RV detection.  TTV measurements are important because they help constrain the observational ephemerides allowing for tractable photometric follow-up studies and space-based observations focused on atmospheric characterization (e.g., JWST).  They also have been an exceptional probe of planet densities using Kepler and much more so with K2 as the targets tend to be much brighter, which permits an independent measure of the mass through ground-based follow-up RV observations.  These are just two types of science that benefit from TTV measurements, which can improve the accuracy of characterized planetary systems.  We seek to observe, in C16, the exoplanet candidates discovered by Pope, Parviainen, & Aigrain (2016) in C5 in order to more accurately measure their transit times and take advantage of a 3 year observation gap utilizing the immense power of TTVs to measure the masses of these exoplanets and potentially discover more many-body systems.
+
+Methodology: The method of TTVs has uncovered a distinct population within exoplanet studies, namely those of lower density.  Our team has extensive knowledge and experience with Kepler/K2 photometric data for both transit finding and analysis.  We have a target list of exoplanet candidates (previously observed in C5) that may have undetected transiting neighbors or have detectable perturbations from previously unknown neighbors.  Observations from C16 will help us determine if this is the case and improve the characterization of these targets.  Furthermore, we will better understand our search capabilities with a transit injection study.  These studies are important to match archival observations with  future observations with TESS as those data will consist of similar short campaigns. 
+
+Relevance to Kepler-GO Program: Using observations with K2, we will search for additional exoplanets and better characterize a set of exoplanet candidates uncovered from a previous K2 campaign.  Our research will broadly further the science goals of the Kepler mission, identifying exoplanet candidates and providing better characterization in the transit parameters of the already known candidates.  Detections of additional planets within our target sample may become part of a set of high-profile targets for atmospheric transmission with JWST and will be unique to K2, as the observing strategy for TESS avoids the ecliptic.
+
+# Targets requested by this program that have been observed (31)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211403356, 132.486754, 11.692479, 9.72, GO16031_LC|GO16052_LC|GO16064_LC|GO16077_LC|GO16902_LC
+211413752, 133.709545, 11.848265, 13.539, GO16011_LC|GO16015_LC|GO16052_LC|GO16077_LC|GO16101_LC|GO16011_SC|GO16015_SC|GO16101_SC
+211487634, 129.815845, 12.960373, 8.487, GO16004_LC|GO16009_LC|GO16021_LC|GO16025_LC|GO16037_LC|GO16063_LC|GO16068_LC|GO16077_LC|GO16902_LC|GO16037_SC
+211490999, 130.798847, 13.009593, 13.416, GO16011_LC|GO16015_LC|GO16021_LC|GO16077_LC
+211491383, 130.155165, 13.014676, 11.785, GO16009_LC|GO16011_LC|GO16015_LC|GO16021_LC|GO16077_LC|GO16011_SC
+211506655, 133.099756, 13.233436, 9.244, GO16004_LC|GO16010_LC|GO16025_LC|GO16037_LC|GO16052_LC|GO16063_LC|GO16068_LC|GO16077_LC|GO16010_SC|GO16037_SC
+211529065, 131.266597, 13.549833, 13.431, GO16011_LC|GO16015_LC|GO16021_LC|GO16052_LC|GO16077_LC|GO16101_LC|GO16011_SC|GO16015_SC|GO16101_SC
+211586387, 136.801117, 14.355476, 14.296, GO16011_LC|GO16052_LC|GO16077_LC
+211733267, 130.009413, 16.372406, 12.15, GO16009_LC|GO16011_LC|GO16015_LC|GO16021_LC|GO16052_LC|GO16077_LC|GO16015_SC
+211763214, 133.838068, 16.79418, 12.529, GO16009_LC|GO16011_LC|GO16015_LC|GO16021_LC|GO16077_LC
+211814733, 132.667407, 17.524891, 11.971, GO16011_LC|GO16052_LC|GO16077_LC
+211816003, 132.62112, 17.542445, 13.654, GO16011_LC|GO16015_LC|GO16021_LC|GO16077_LC
+211834065, 132.548024, 17.799325, 11.634, GO16009_LC|GO16011_LC|GO16021_LC|GO16077_LC
+211886472, 137.132531, 18.528543, 11.126, GO16011_LC|GO16021_LC|GO16028_LC|GO16077_LC
+211897691, 130.082557, 18.692919, 14.313, GO16011_LC|GO16015_LC|GO16052_LC|GO16077_LC|GO16011_SC
+211906259, 131.311027, 18.819358, 12.676, GO16009_LC|GO16011_LC|GO16021_LC|GO16077_LC
+211919004, 129.777047, 19.010023, 13.131, GO16011_LC|GO16015_LC|GO16021_LC|GO16052_LC|GO16077_LC
+211924657, 130.026777, 19.092879, 15.031, GO16005_LC|GO16011_LC|GO16015_LC|GO16052_LC|GO16077_LC|GO16101_LC|GO16015_SC|GO16101_SC
+211936827, 130.54791, 19.277002, 11.9, GO16009_LC|GO16020_LC|GO16021_LC|GO16022_LC|GO16031_LC|GO16060_LC|GO16077_LC|GO16902_LC
+211941472, 130.448577, 19.347497, 11.788, GO16009_LC|GO16011_LC|GO16015_LC|GO16021_LC|GO16077_LC
+211945201, 136.573975, 19.402252, 10.115, GO16009_LC|GO16011_LC|GO16015_LC|GO16021_LC|GO16025_LC|GO16028_LC|GO16077_LC|GO16015_SC
+211969807, 129.636756, 19.773829, 15.149, GO16011_LC|GO16015_LC|GO16022_LC|GO16031_LC|GO16052_LC|GO16060_LC|GO16075_LC|GO16077_LC|GO16902_LC|GO16011_SC|GO16015_SC|GO16075_SC
+212006344, 126.476311, 20.359569, 12.466, GO16005_LC|GO16011_LC|GO16015_LC|GO16020_LC|GO16052_LC|GO16077_LC|GO16101_LC|GO16011_SC|GO16015_SC|GO16101_SC
+212009427, 127.874459, 20.410422, 14.072, GO16011_LC|GO16022_LC|GO16031_LC|GO16052_LC|GO16056_LC|GO16060_LC|GO16075_LC|GO16077_LC|GO16075_SC
+212069861, 134.444189, 21.453533, 14.102, GO16005_LC|GO16011_LC|GO16015_LC|GO16052_LC|GO16056_LC|GO16077_LC|GO16015_SC
+212088059, 132.707863, 21.789122, 14.757, GO16005_LC|GO16011_LC|GO16015_LC|GO16052_LC|GO16077_LC
+212099230, 128.073571, 22.006011, 10.513, GO16009_LC|GO16011_LC|GO16021_LC|GO16077_LC
+212110888, 127.57877, 22.235908, 11.441, GO16009_LC|GO16010_LC|GO16011_LC|GO16013_LC|GO16015_LC|GO16028_LC|GO16077_LC|GO16101_LC|GO16902_LC|GO16010_SC|GO16013_SC|GO16015_SC|GO16101_SC
+212154564, 133.641182, 23.13289, 15.105, GO16005_LC|GO16011_LC|GO16015_LC|GO16052_LC|GO16077_LC|GO16011_SC
+212164470, 129.813631, 23.357481, 12.704, GO16009_LC|GO16011_LC|GO16015_LC|GO16021_LC|GO16077_LC|GO16011_SC
+251341358, 140.946194, 20.364455, 8.272, GO16009_LC|GO16010_LC|GO16021_LC|GO16028_LC|GO16063_LC|GO16077_LC
