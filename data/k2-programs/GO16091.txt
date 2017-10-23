@@ -1,0 +1,30 @@
+# Summary of K2 Program GO16091
+
+Title: The Evolutionary History of the Blue Horizontal Branch Star HD 74721
+
+PI: Peterson, Ruth (SETI Institute)
+CoIs: Montalban, Josefina
+
+Relevance of K2 data for HD 74721.
+
+We propose long-cadence (LC) Kepler 2 light curves of HD 74721 in the forward-facing Campaign 16. HD 74721 is a bright (Kp=9.64), well-studied field blue horizontal branch (BHB) star. Recent analyses of UVES optical and STIS E230M UV echelle spectra provide an effective temperature Teff ~ 9000K and a metallicity [Fe/H] ~ -1 (one-tenth solar), unusually metal-rich for a BHB star. Its rotational velocity is < 5 km/s, unusually slow for a hot star. 
+
+Although its radial velocities show little variability, HD 74721 is likely to be a binary that has undergone mass transfer to a companion. Single-star evolutionary tracks require either a high helium abundance or significant mass loss to produce BHB stars of this metallicity. Further mass loss is believed to yield the hotter extreme blue horizontal branch (EHB) stars, which are seen in old, massive, red, inactive galaxies at even higher metallicities.
+
+The proposed K2 data will be the first Kepler light curve of an isolated, bright, core-helium-burning star on the cool half of the blue horizontal branch. It will provide a legacy, and perhaps a surprise; the surface rotation of BHB stars was only discovered once first targeted for high-resolution spectroscopy. A few K2 light curves were obtained for BHB stars in the globular cluster M4 (of similar metallicity), but these are faint and crowded. HD 74721 is likely too hot for solar-like oscillations, and too cool for EHB oscillations. Its K2 data should reveal its binary nature, and might also show phenomena seen in more massive hot stars. These include semi-periodic variations with periods of a few to several tens of days, which are seen in Kepler data of several objects of similar temperature at levels from a few tenths of a percent to a few percent, or oscillations or spots. 
+
+Goals.
+
+From K2 data, we should be able to establish whether HD 74721 is in a merging binary system, or in one whose companions have already merged and was then spun down by mass lost to a disk. We plan to derive constraints on its He content, its radial-velocity behavior, and its current mass loss from high-resolution spectra to be proposed for the same time frame, which can then be related directly to the simultaneous light curve variations. By identifying and characterizing the nature of this star, we hope to infer its previous and future evolutionary history. A better understanding of the circumstances under which a star of one-tenth solar metallicity or higher becomes a BHB/EHB star should greatly aid the interpretation of the outer Galactic halo, and the age and metallicity of luminous, old, evolved galaxies.
+
+Methods.
+
+The K2 light curves will be corrected for roll angle variation following one or more of the published approaches suitable for this isolated star. Further analysis will depend on the phenomena observed. We will seek the guidance of other colleagues with the relevant expertise where desirable.
+
+Additional high-resolution spectroscopy during C16 will be sought by proposals to relevant institutions. On the ground, the star is bright enough for the OHP Sophie echelle spectrograph on the 2m telescope. In space, we will propose in HST Cycle 25 for HD 74721 STIS E230H spectra, since the many strong UV resonance lines are more sensitive to mass loss than is Ca II. These will require substantially fewer orbits than Peterson, Spite, and Barbuy received for E230H spectra of metal-poor stars in Cycle 24 (GO-14672). Existing UV spectra of HD 74721 show blue-shifted cores of strong resonance lines.
+
+At the velocity of HD 74721, +31 km/s, the line core blueshifts are superimposed on absorption by the interstellar medium (ISM). These can be distinguished since the ISM velocity is constant, but the stellar outflow may vary. Because the orbital phase will be known for each spectrum, the relative velocity of any stellar outflow can be explicitly tracked against the stellar orbital velocity.
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211508792, 131.496923, 13.263502, 9.64, GO16021_LC|GO16091_LC

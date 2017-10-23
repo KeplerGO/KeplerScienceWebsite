@@ -1,0 +1,24 @@
+# Summary of K2 Program GO16075
+
+Title: Zodiacal Exoplanets in Time: the Return to Praesepe
+
+PI: Mann, Andrew Withycombe (The University of Texas at Austin)
+CoIs: Rizzuto, Aaron C; Gaidos, Eric; Kraus, Adam L; Vanderburg, Andrew
+
+How planets change with time is a critical but relatively unexplored area. Planets orbital, structural, and atmospheric properties can evolve through a range of processes, including gravitational interactions with other nearby planets or stars and high-energy radiation from their host star. K2 has offered a unique glimpse into these changes by enabling the discovery of transiting planets in nearby young clusters (Pleiades, Praesepe, and Hyades) and young stellar associations (e.g., Upper Scorpius) aged 11-800 Myr.
+
+Planet parameters are inexorably linked to that of the host star. However, parameters of young and active stars are more difficult to determine than their old, inactive counterparts. Fortunately, K2 has provided precise light curves of young eclipsing binaries in the same clusters and associations. These light curves provide us with empirical constraints on host star parameters with the same abundances and ages as the corresponding young planet hosts.
+
+Our understanding of both young planets and their hosts is limited by the fact that K2 observations of young clusters have been monochromatic, long cadence, and could not be done simultaneously from the ground. Short duration transits, which are common for close-in planets around late-type stars, are often unresolved or poorly resolved in long cadence data, resulting in poorer transit parameters. Further, when a transiting planet or eclipsing star crosses a spot, the amount of light blocked is decreased, deforming the transit and biasing the resulting parameters. Spot-crossings can be identified in the K2 long cadence data through asymmetries, but are too poorly resolved to remove or study in detail. Multi-wavelength data could be used to study the spot, but it would need to be simultaneous with the K2 observations.
+
+Here we request short cadence data on the known Praesepe planets and eclipsing binaries in the Campaign 16 field. Short cadence data will provide better measurements of the transit duration and hence planet's eccentricity, a probe of its dynamical state. Additional observations can identify any longer-period planets directly or through the measurement of transit timing variations. Higher cadence also will enable us to resolve out spot crossings and correct for any resulting distortion. Because Campaign 16 is forward-facing, we can take multi-wavelength, simultaneous, ground-based photometry, from which we can measure the color (temperature) of the spot. This would provide a unique view of spot properties outside our Sun. Thus Campaign 16 presents a powerful opportunity to vastly improve our understanding of planets and their hosts at 800 Myr.
+
+# Targets requested by this program that have been observed (7)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211822797, 130.410365, 17.640005, 14.568, GO16011_LC|GO16015_LC|GO16022_LC|GO16031_LC|GO16052_LC|GO16060_LC|GO16075_LC|GO16101_LC|GO16902_LC|GO16015_SC|GO16075_SC|GO16101_SC
+211901114, 130.398723, 18.743057, 16.024, GO16015_LC|GO16022_LC|GO16031_LC|GO16052_LC|GO16060_LC|GO16075_LC|GO16015_SC|GO16075_SC
+211913977, 130.344085, 18.933875, 12.619, GO16009_LC|GO16011_LC|GO16015_LC|GO16020_LC|GO16021_LC|GO16022_LC|GO16031_LC|GO16052_LC|GO16060_LC|GO16075_LC|GO16101_LC|GO16902_LC|GO16015_SC|GO16075_SC|GO16101_SC
+211946007, 130.664324, 19.414446, 16.57, GO16011_LC|GO16022_LC|GO16031_LC|GO16060_LC|GO16065_LC|GO16075_LC|GO16075_SC
+211969807, 129.636756, 19.773829, 15.149, GO16011_LC|GO16015_LC|GO16022_LC|GO16031_LC|GO16052_LC|GO16060_LC|GO16075_LC|GO16077_LC|GO16902_LC|GO16011_SC|GO16015_SC|GO16075_SC
+211970147, 130.056046, 19.77881, 12.872, GO16009_LC|GO16015_LC|GO16020_LC|GO16021_LC|GO16022_LC|GO16031_LC|GO16052_LC|GO16060_LC|GO16075_LC|GO16101_LC|GO16902_LC|GO16015_SC|GO16075_SC|GO16101_SC
+212009427, 127.874459, 20.410422, 14.072, GO16011_LC|GO16022_LC|GO16031_LC|GO16052_LC|GO16056_LC|GO16060_LC|GO16075_LC|GO16077_LC|GO16075_SC
