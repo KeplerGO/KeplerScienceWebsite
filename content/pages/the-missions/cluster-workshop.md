@@ -1,12 +1,14 @@
 Title: Dwarf Stars and Clusters with K2, January 16-18, 2018
 Save_as: cluster-workshop/index.html
 
-<img class="img-responsive" style="max-width:100%;" src="../../images/k2/bu_fireworks.jpg" alt="Dwarf Stars and Clusters with 
+[TOC]
+
+<img class="img-responsive" style="max-width:100%;" src="../images/k2/bu_fireworks.jpg" alt="Dwarf Stars and Clusters with 
 K2: A Workshop"> 
 *Image Credit: Eric Kilby*
 
 
-## Summary
+### Summary
 
 The K2 Mission and Boston University will host a **Dwarf Stars and Clusters Workshop on Jan 16-18, 2018**,
 at BU in Boston, Massachusetts.
@@ -218,7 +220,7 @@ The goal of the first day will be to review the science that has been done with 
 
 The workshop will take place on the Boston University campus, primarily at the College of Arts and Sciences.
 
-<img class="img-responsive" style="max-width:80%;" src="../../images/k2/BUworkshop.png" >
+<img class="img-responsive" style="max-width:80%;" src="../images/k2/BUworkshop.png" >
 
 The nearest airport is the Boston Logan International Airport.
 We recommend using the MBTA system, which provides public transportation from the airport.
@@ -240,12 +242,6 @@ Prices range from $110-150/night + tax.
 
 * For other options, check out hotels on the B or C Green Lines, such as the <a href='https://www.reservations.com/hotel/holiday-inn-boston-brookline?gclid=EAIaIQobChMIo7Hy6N3D1gIVir3tCh30-AbCEAAYAiAAEgJSyfD_BwE'>
 Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
-
-### Registration
-
-Registration is now open! There is no fee to attend.
-Please <a href='https://docs.google.com/forms/d/e/1FAIpQLSdZhetqWv9_oUAXmLueHDhyIVdMYcLPj53p5TjPeEgTTMkRWQ/viewform?usp=sf_link'> 
-sign up </a> to attend and indicate your interest to give a short talk. The final date to register for a talk will be November 20, 2017.
 
 ### Organizing Committee
 
@@ -271,3 +267,11 @@ sign up </a> to attend and indicate your interest to give a short talk. The fina
 * Søren Meibom (Harvard CfA)
 * Philip Muirhead (Boston University)
 * Luisa Rebull (IPAC/Caltech)
+
+### Registration
+
+Registration is now open! There is no fee to attend.
+Please <a href='https://docs.google.com/forms/d/e/1FAIpQLSdZhetqWv9_oUAXmLueHDhyIVdMYcLPj53p5TjPeEgTTMkRWQ/viewform?usp=sf_link'>
+sign up </a> to attend and indicate your interest to give a short talk. The final date to register for a talk will be November 22, 2017.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdZhetqWv9_oUAXmLueHDhyIVdMYcLPj53p5TjPeEgTTMkRWQ/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
