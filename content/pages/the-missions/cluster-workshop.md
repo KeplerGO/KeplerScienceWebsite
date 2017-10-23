@@ -243,9 +243,9 @@ Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 
 ### Registration
 
-Please indicate your [non-binding] interest in attending the workshop by <a 
-href='https://docs.google.com/forms/d/e/1FAIpQLSdZCWOJd_L10gG-IQ9QYLkKDkkDM99Hn3awA3KStSz2B0AzCQ/viewform?c=0&w=1'> 
-signing up for further correspondence.</a> The final date to register for a talk will be November 15, 2017.
+Registration is now open! There is no fee to attend.
+Please <a href='https://docs.google.com/forms/d/e/1FAIpQLSdZhetqWv9_oUAXmLueHDhyIVdMYcLPj53p5TjPeEgTTMkRWQ/viewform?usp=sf_link> 
+sign up </a> to attend and indicate your interest to give a short talk. The final date to register for a talk will be November 20, 2017.
 
 ### Organizing Committee
 
@@ -260,12 +260,14 @@ signing up for further correspondence.</a> The final date to register for a talk
 
 ### Participants list
 
-(Last update: Sept. 27, 2017)
+(Last update: Oct. 23, 2017)
 
 * Geert Barentsen (NASA Ames)
 * Ann Marie Cody (NASA Ames)
+* Trevor David (JPL)
 * John Gizis (University of Delaware)
 * Michael Gully-Santiago (NASA Ames)
+* Christina Hedges (NASA Ames)
 * Søren Meibom (Harvard CfA)
 * Philip Muirhead (Boston University)
 * Luisa Rebull (IPAC/Caltech)
