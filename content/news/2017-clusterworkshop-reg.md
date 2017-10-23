@@ -12,8 +12,8 @@ in the areas of cool stars and open clusters.
 Topics will include stellar rotation and activity,
 eclipsing binaries, young stellar objects, and planets in clusters. 
 
-The [workshop website](/cluster-workshop) contains further details, and you may [register to attend]
-(https://docs.google.com/forms/d/e/1FAIpQLSdZhetqWv9_oUAXmLueHDhyIVdMYcLPj53p5TjPeEgTTMkRWQ/viewform?usp=sf_link). 
+The [workshop website](/cluster-workshop) contains further details, and you may 
+[https://docs.google.com/forms/d/e/1FAIpQLSdZhetqWv9_oUAXmLueHDhyIVdMYcLPj53p5TjPeEgTTMkRWQ/viewform?usp=sf_link](register to attend). 
 We will be soliciting talks until November 20th; most participants will have an opportunity to give a 
 brief presentation on a topic of their choice. 
 
