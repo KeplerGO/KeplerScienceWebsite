@@ -244,7 +244,7 @@ Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 ### Registration
 
 Registration is now open! There is no fee to attend.
-Please <a href='https://docs.google.com/forms/d/e/1FAIpQLSdZhetqWv9_oUAXmLueHDhyIVdMYcLPj53p5TjPeEgTTMkRWQ/viewform?usp=sf_link> 
+Please <a href='https://docs.google.com/forms/d/e/1FAIpQLSdZhetqWv9_oUAXmLueHDhyIVdMYcLPj53p5TjPeEgTTMkRWQ/viewform?usp=sf_link'> 
 sign up </a> to attend and indicate your interest to give a short talk. The final date to register for a talk will be November 20, 2017.
 
 ### Organizing Committee
