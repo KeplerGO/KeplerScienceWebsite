@@ -16,4 +16,4 @@ We also note that multiple Kepler/K2 users have been successful
 in securing fellowships in recent years.
 For example, applications for the [NASA Hubble Fellowship Program](https://nhfp.stsci.edu/) (which replaces the previous Einstein, Hubble, and Sagan Fellowship Programs) are due by Nov 2nd, 2017.
 
-If you have a Kepler/K2-relatd job opening that you would like us to advertise, then please contact us at keplergo@mail.arc.nasa.gov.
+If you have a Kepler/K2-related job opening that you would like us to advertise, then please let us know at keplergo@mail.arc.nasa.gov.
