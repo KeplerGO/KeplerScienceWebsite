@@ -256,17 +256,24 @@ Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 
 ### Participants list
 
-(Last update: Oct. 23, 2017)
+(Last update: Oct. 24, 2017)
 
 * Geert Barentsen (NASA Ames)
+* Giovanni Carraro (University di Padova)
 * Ann Marie Cody (NASA Ames)
 * Trevor David (JPL)
 * John Gizis (University of Delaware)
 * Michael Gully-Santiago (NASA Ames)
+* Joel Hartman (Princeton University)
 * Christina Hedges (NASA Ames)
+* Kenneth Janes (Boston University)
+* Adam Krause (University of Texas Austin)
 * Søren Meibom (Harvard CfA)
 * Philip Muirhead (Boston University)
+* Elisabeth Newton (MIT)
 * Luisa Rebull (IPAC/Caltech)
+* Melinda Soares-Furtado (Princeton University)
+
 
 ### Registration
 
