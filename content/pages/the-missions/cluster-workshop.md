@@ -267,11 +267,14 @@ Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 * Joel Hartman (Princeton University)
 * Christina Hedges (NASA Ames)
 * Kenneth Janes (Boston University)
-* Adam Krause (University of Texas Austin)
+* Adam Kraus (University of Texas Austin)
+* David Latham (Harvard CfA)
 * Søren Meibom (Harvard CfA)
 * Philip Muirhead (Boston University)
 * Elisabeth Newton (MIT)
+* Prajwal Niraula (Wesleyan University)
 * Luisa Rebull (IPAC/Caltech)
+* Avi Shporer (MIT)
 * Melinda Soares-Furtado (Princeton University)
 
 
