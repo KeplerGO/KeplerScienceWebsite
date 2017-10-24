@@ -1,0 +1,65 @@
+# Summary of K2 Program GO16063
+
+Title: Monitoring of Targets Within 100 Parsecs
+
+PI: Redfield, Seth (Wesleyan University)
+CoIs: Cauley, Paul Wilson
+
+Science Goals and Objectives: Temporal monitoring of stars within 100 parsecs provides an opportunity to search for close planetary systems that are optimal for follow-up studies, as well as evaluate the stellar properties that are critical to the evolution of planetary atmospheres. A complete census of the physical properties of a star and planetary system is necessary for an evaluation of the habitability of planets. It is precisely these nearest systems that the question of habitability will be examined in greatest detail in the decades to come. I propose for consideration the sample of all nearby stars with reliable parallaxes within 100 pc. A planetary inventory of our immediate galactic neighborhood is attractive for many reasons. This sample is comprised of relatively bright stars, which means any form of follow-up (e.g., planetary atmosphere measurements [e.g., Redfield et al. 2008, Jensen et al. 2012], astrometry, direct imaging, spin-orbit alignment measurements, stellar metallicity, stellar activity) is easier, and possible with ground-based and space-based telescopes with a range of aperture sizes. This broadens the number of instruments observing these targets, encouraging independent confirmation of marginal detections, as well as experimenting with new observational techniques. Given the occurrence rates of short period planets from Freesin et al. (2013), it is likely that there are planets orbiting these stars. While some of these targets are likely monitored with radial velocity measurements, the hottest and coolest stars present significant challenges. A complementary transit search that is unbiased in this way, would be valuable.
+
+Estimate of the Number of Targets: Given the sparse distribution of very nearby stars, we estimate the total number of targets to be 200-300 stars (based on the numbers proposed in previous campaigns). This sample is likely to be dominated by cool, low-mass stars (typically G stars or cooler, including many M stars). In particular, there are likely to be a few extremely close stellar systems, within the 100 nearest stars, that should certainly be monitored. The bright, early type stars are also important to monitor, not only because of the difficulty in getting precision radial velocity measurements, but also because they facilitate better opportunities for transmission spectroscopy of their transiting planets.
+
+Methodology: Nearby stars are among the most well-studied stellar systems, making them an ideal sample to integrate the many components that go into an evaluation of habitability. An example is the evaluation of the stellar wind strength, which is critical to the long-term evolution of planetary atmospheres (Lammer et al. 2003). One of the only methods to detect the weak, but important, stellar winds of low mass stars is through the detection of the astrosphere, the analog to the heliosphere, where the outward pressure of the stellar wind balances the inward pressure of the surrounding local interstellar medium. This has only been possible with the nearest stars (i.e., within 30 pc; Wood et al. 2005, Edelman et al. 2014). While many of these stars are bright, and therefore more expensive in terms of pixel usage, it is worth pushing this constraint. Long cadence observations would be appropriate.
+
+Relevance of Proposed Research to this Solicitation: While I have only touched on the value of these targets in terms of exoplanet detections and the assessment of habitability, there is a long list of other research programs that this data would facilitate, even if no exoplanets are found. These include stellar activity (spots, rotation, flares) and stellar pulsation. This work identifies a sample of K2 targets, which are directly related to the original Kepler mission of planet discovery, and directly tied to Objective 1.6 in the NASA 2014 Strategic Plan.
+
+# Targets requested by this program that have been observed (48)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+200200356, , , , GO16003|GO16063|DELTA_CANCRI-LC-BRIGHT_STAR_DISC
+200200357, , , , GO16001|GO16003|GO16021|GO16063|ALPHA_CANCRI-LC-BRIGHT_STAR_DISC
+200200359, , , , GO16003|GO16063|ETA_CANCRI-LC-BRIGHT_STAR_DISC
+200200360, , , , GO16003|GO16021|GO16063|OMICRON1_CANCRI-LC-BRIGHT_STAR_DISC
+200200361, , , , GO16003|GO16021|GO16063|OMICRON2_CANCRI-LC-BRIGHT_STAR_DISC
+200200363, , , , GO16003|GO16021|GO16063|50_CANCRI-LC-BRIGHT_STAR_DISC
+200200727, , , , GO16021|GO16028|GO16063|GO16081|HD_76333-SC-BRIGHT_STAR_DISC
+211394991, 137.443434, 11.564377, 6.473, GO16006_LC|GO16021_LC|GO16063_LC
+211395494, 136.239922, 11.572482, 8.861, GO16009_LC|GO16010_LC|GO16021_LC|GO16025_LC|GO16028_LC|GO16063_LC|GO16068_LC
+211400445, 134.269524, 11.646989, 9.801, GO16005_LC|GO16009_LC|GO16014_LC|GO16030_LC|GO16037_LC|GO16052_LC|GO16056_LC|GO16063_LC|GO16065_LC
+211420502, 137.052346, 11.948203, 7.119, GO16004_LC|GO16010_LC|GO16063_LC
+211452088, 134.137944, 12.431913, 8.563, GO16009_LC|GO16010_LC|GO16021_LC|GO16028_LC|GO16034_LC|GO16063_LC
+211487634, 129.815845, 12.960373, 8.487, GO16004_LC|GO16009_LC|GO16021_LC|GO16025_LC|GO16037_LC|GO16063_LC|GO16068_LC|GO16077_LC|GO16902_LC|GO16037_SC
+211506655, 133.099756, 13.233436, 9.244, GO16004_LC|GO16010_LC|GO16025_LC|GO16037_LC|GO16052_LC|GO16063_LC|GO16068_LC|GO16077_LC|GO16010_SC|GO16037_SC
+211515464, 137.37927, 13.356941, 8.743, GO16009_LC|GO16028_LC|GO16063_LC
+211529519, 130.139598, 13.556391, 9.908, GO16009_LC|GO16020_LC|GO16039_LC|GO16052_LC|GO16063_LC|GO16065_LC
+211593834, 137.474415, 14.456763, 8.168, GO16009_LC|GO16010_LC|GO16021_LC|GO16028_LC|GO16034_LC|GO16063_LC
+211646961, 135.374136, 15.192768, 8.69, GO16009_LC|GO16021_LC|GO16028_LC|GO16063_LC
+211648701, 136.69075, 15.216272, 8.465, GO16009_LC|GO16021_LC|GO16028_LC|GO16063_LC
+211658473, 132.756096, 15.350656, 6.232, GO16010_LC|GO16021_LC|GO16028_LC|GO16063_LC|GO16068_LC|GO16081_LC
+211685798, 134.018356, 15.723848, 8.502, GO16009_LC|GO16021_LC|GO16028_LC|GO16063_LC
+211736498, 136.130508, 16.41691, 10.217, GO16005_LC|GO16009_LC|GO16020_LC|GO16021_LC|GO16028_LC|GO16063_LC|GO16083_LC
+211736551, 137.205327, 16.417652, 9.276, GO16001_LC|GO16009_LC|GO16021_LC|GO16028_LC|GO16063_LC
+211750200, 133.672957, 16.611211, 8.453, GO16009_LC|GO16063_LC
+211800702, 135.493991, 17.32666, 8.816, GO16009_LC|GO16021_LC|GO16028_LC|GO16034_LC|GO16063_LC
+211811597, 134.191623, 17.48135, 7.48, GO16004_LC|GO16010_LC|GO16025_LC|GO16037_LC|GO16052_LC|GO16063_LC|GO16068_LC|GO16010_SC|GO16037_SC
+211818158, 135.786768, 17.573735, 8.801, GO16009_LC|GO16021_LC|GO16028_LC|GO16063_LC
+211826254, 132.653639, 17.689322, 9.221, GO16009_LC|GO16010_LC|GO16021_LC|GO16028_LC|GO16037_LC|GO16063_LC|GO16903_LC|GO16010_SC|GO16903_SC
+211857745, 132.932483, 18.124967, 10.687, GO16005_LC|GO16009_LC|GO16014_LC|GO16030_LC|GO16052_LC|GO16056_LC|GO16063_LC|GO16083_LC
+211877657, 130.123962, 18.40255, 12.673, GO16005_LC|GO16012_LC|GO16018_LC|GO16030_LC|GO16052_LC|GO16063_LC
+211906132, 131.373281, 18.817486, 8.056, GO16001_LC|GO16021_LC|GO16028_LC|GO16063_LC
+212017602, 134.659086, 20.546748, 9.036, GO16009_LC|GO16025_LC|GO16030_LC|GO16037_LC|GO16063_LC|GO16068_LC|GO16037_SC
+212053807, 134.732211, 21.166286, 8.275, GO16009_LC|GO16010_LC|GO16021_LC|GO16025_LC|GO16028_LC|GO16034_LC|GO16037_LC|GO16063_LC|GO16068_LC|GO16010_SC|GO16037_SC
+212090371, 135.097968, 21.834477, 11.981, GO16005_LC|GO16018_LC|GO16030_LC|GO16052_LC|GO16056_LC|GO16063_LC|GO16072_LC|GO16072_SC
+212096658, 126.753739, 21.956861, 10.21, GO16011_LC|GO16020_LC|GO16052_LC|GO16063_LC|GO16065_LC
+212109644, 133.577945, 22.211262, 7.737, GO16010_LC|GO16021_LC|GO16028_LC|GO16063_LC
+212122727, 135.125035, 22.468902, 8.597, GO16009_LC|GO16021_LC|GO16028_LC|GO16063_LC
+212178066, 129.689671, 23.685905, 6.793, GO16009_LC|GO16010_LC|GO16021_LC|GO16028_LC|GO16063_LC|GO16068_LC|GO16081_LC
+212181661, 135.205252, 23.780045, 8.95, GO16001_LC|GO16009_LC|GO16010_LC|GO16021_LC|GO16028_LC|GO16034_LC|GO16041_LC|GO16063_LC
+212194811, 130.761487, 24.137161, 9.84, GO16001_LC|GO16010_LC|GO16020_LC|GO16037_LC|GO16052_LC|GO16063_LC
+212205146, 134.056329, 24.447755, 6.708, GO16021_LC|GO16028_LC|GO16063_LC|GO16081_LC
+212210492, 129.904671, 24.62044, 9.219, GO16009_LC|GO16021_LC|GO16028_LC|GO16063_LC
+212222467, 130.54157, 25.04158, 10.898, GO16009_LC|GO16020_LC|GO16028_LC|GO16063_LC|GO16083_LC
+251322682, 140.446311, 18.746338, 8.436, GO16001_LC|GO16009_LC|GO16021_LC|GO16028_LC|GO16063_LC
+251323525, 139.112951, 18.810254, 7.024, GO16021_LC|GO16063_LC
+251341358, 140.946194, 20.364455, 8.272, GO16009_LC|GO16010_LC|GO16021_LC|GO16028_LC|GO16063_LC|GO16077_LC
+251402443, 135.074857, 24.929345, 10.72, GO16009_LC|GO16020_LC|GO16052_LC|GO16063_LC|GO16083_LC
+251408897, 136.326756, 25.297834, 10.022, GO16009_LC|GO16020_LC|GO16052_LC|GO16063_LC|GO16083_LC

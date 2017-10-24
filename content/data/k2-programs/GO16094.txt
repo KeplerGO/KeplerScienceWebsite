@@ -1,0 +1,24 @@
+# Summary of K2 Program GO16094
+
+Title: Spectrophotometric Time Series for the Kepler-2 Supernova Experiment
+
+PI: Aldering, Greg (Lawrence Berkeley National Lab)
+CoIs: Gupta, Ravi Ryan; Copin, Yannick; Nordin, Jakob; Perlmutter, Saul; Rubin, David; Boone, Kyle Robert; Hayden, Brian; Smadja, Gerard
+
+Campaign 16 of Kepler Cycle 5 will monitor 20,000 galaxies in anticipation that many of these galaxies will host supernovae while being monitored by Kepler.  The science yield of the Kepler-2 Supernova Experiment (K2SE) can be greatly enhanced through ground-based spectrophometric time series.  The SuperNova Integral Field Spectrograph (SNIFS) is uniquely suited for this task.
+
+Emission from shocked gas at the earliest phases due, e.g., to interactions with a companion, is one of the most unique set of measurements that the K2SE will provide. But such shocks have characteristics that can't be uniquely constrained by the single-band optical photometry provided by Kepler. Sited on Mauna Kea, SNIFS can work as blue as the atmospheric ozone limit, providing the UV data and spectral information essential for confirming the presence of shocked gas.
+
+With it's single band, Kepler will not be able to determine the SN Ia colors that are needed to correct for dust extinction and luminosity standardization. Moreover, spectrophotometry is necessary to provide the K-corrections needed to put the Kepler SNe on a uniform system. Without K-corrections for each phase, the implied advantages from space-based photometry will be greatly weakened.  SNIFS can provide color and K-correction information well beyond the 0.43-0.89 micron coverage of Kepler. The resulting K-corrections will be valuable for application to other SN Ia samples as well.
+
+SNIFS has been used to demonstrate that SNe Ia whose spectrophotometric time series match - so called "twins" - can be standardized to an accuracy twice as good as that acheived using lightcurves from optical filter photometry. Besides the resulting boost in distance accuracy, this improvement implicitly removes about 75% of the astrophysical and dust property differences between SNe Ia. This is a huge improvement in systematics control that will be essential for helping K2SE improve cosmology measurements using SNe Ia.
+
+Equally important is consistent flux calibration between the K2SE subset and SNe at higher redshift. Conventional imaging photometry requires that the system transmission be scanned on a regular basis, otherwise the measurements will suffer from unknown "S-corrections," but in practice this is not done. Unknown S-corrections have the same ruinous effects as unknown K-corrections. Since SNIFS is spectrophotometric, it can tie the K2SE SNe directly to the HST CALSPEC fundamental standard stars and SNLS and SDSS tertiary stars. While other spectrographs could observe spectrophotometric standards and K2SE SNe, SNIFS is the only spectroscopic instrument that has demonstrated the accurate calibration and host galaxy subtraction necessary for cosmology applications.
+
+We envision pooling the equivalent of approximately 40 queue-scheduled nights to obtain spectrophotometric time series for the ~40 SNe Ia with z < 0.08 and full phase coverage expected from the Campaign 16 supernova fields. This will allow observations with a cadence of ~2 days when the SNe are on the rise, and 3-10 day sampling on the decline. The focus on SNe~Ia with z < 0.08 ensures that SNIFS will be able to detect shocked gas from interaction with a companion. These spectrophotometric time series will provide accurate subtraction of host-galaxy light, K-corrections, will be free of S-corrections, and will be calibrated on a reliable flux system. Twinning with the sample of 200+ SNe Ia having spectrophotometric time series already taken with SNIFS will allow the twin SN technique to be applied, thereby providing the best standardization of the K2SE SN Ia dataset.
+
+This effort will be coordinated with the other programs accepted under this AO, which will be organized at the February community meeting on the Kepler-2 Supernova Experiment.  Our spectrophotometric time series will be an essential value-added accompaniment to the K2SE observations.
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+251809489, , , , GO16094_LC

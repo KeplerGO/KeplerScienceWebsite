@@ -4,34 +4,54 @@ Save_as: kpub-k2-by-month.html
 [TOC]
 
 
+2017-12
+-------
+
+1. [THE MASSES OF RETIRED A STARS WITH ASTEROSEISMOLOGY: KEPLER AND K2 OBSERVATIONS OF EXOPLANET HOSTS](http://adsabs.harvard.edu/abs/2017MNRAS.472.1866N)  
+North, Thomas S. H., Campante, Tiago L., Miglio, Andxsrea, et al.    
+2017, refereed ([2017MNRAS.472.1866N](http://adsabs.harvard.edu/abs/2017MNRAS.472.1866N))  
+
+
 2017-11
 -------
 
-1. [K2-113: A DENSE HOT-JUPITER TRANSITING A SOLAR ANALOGUE](http://adsabs.harvard.edu/abs/2017MNRAS.471.4374E)  
-Espinoza, Néstor, Rabus, Markus, Brahm, Rafael, et al.    
-2017, refereed ([2017MNRAS.471.4374E](http://adsabs.harvard.edu/abs/2017MNRAS.471.4374E))  
-
-2. [BEYOND THE KEPLER/K2 BRIGHT LIMIT: VARIABILITY IN THE SEVEN BRIGHTEST MEMBERS OF THE PLEIADES](http://adsabs.harvard.edu/abs/2017MNRAS.471.2882W)  
+1. [BEYOND THE KEPLER/K2 BRIGHT LIMIT: VARIABILITY IN THE SEVEN BRIGHTEST MEMBERS OF THE PLEIADES](http://adsabs.harvard.edu/abs/2017MNRAS.471.2882W)  
 White, T. R., Pope, B. J. S., Antoci, V., et al.    
 2017, refereed ([2017MNRAS.471.2882W](http://adsabs.harvard.edu/abs/2017MNRAS.471.2882W))  
+
+2. [K2-113: A DENSE HOT-JUPITER TRANSITING A SOLAR ANALOGUE](http://adsabs.harvard.edu/abs/2017MNRAS.471.4374E)  
+Espinoza, Néstor, Rabus, Markus, Brahm, Rafael, et al.    
+2017, refereed ([2017MNRAS.471.4374E](http://adsabs.harvard.edu/abs/2017MNRAS.471.4374E))  
 
 
 2017-10
 -------
 
-1. [RECURRING SETS OF RECURRING STARSPOT OCCULTATIONS ON EXOPLANET HOST QATAR-2](http://adsabs.harvard.edu/abs/2017MNRAS.471..394M)  
+1. [THE YOUNG SUBSTELLAR COMPANION ROXS 12 B: NEAR-INFRARED SPECTRUM, SYSTEM ARCHITECTURE, AND SPIN─ORBIT MISALIGNMENT](http://adsabs.harvard.edu/abs/2017AJ....154..165B)  
+Bowler, Brendan P., Kraus, Adam L., Bryan, Marta L., et al.    
+2017, refereed ([2017AJ....154..165B](http://adsabs.harvard.edu/abs/2017AJ....154..165B))  
+
+2. [THREE STATISTICALLY VALIDATED K2 TRANSITING WARM JUPITER EXOPLANETS CONFIRMED AS LOW-MASS STARS](http://adsabs.harvard.edu/abs/2017ApJ...847L..18S)  
+Shporer, Avi, Zhou, George, Vanderburg, Andrew, et al.    
+2017, refereed ([2017ApJ...847L..18S](http://adsabs.harvard.edu/abs/2017ApJ...847L..18S))  
+
+3. [RECURRING SETS OF RECURRING STARSPOT OCCULTATIONS ON EXOPLANET HOST QATAR-2](http://adsabs.harvard.edu/abs/2017MNRAS.471..394M)  
 Močnik, T., Southworth, J., Hellier, C.    
 2017, refereed ([2017MNRAS.471..394M](http://adsabs.harvard.edu/abs/2017MNRAS.471..394M))  
 
-2. [WD 1202-024: THE SHORTEST-PERIOD PRE-CATACLYSMIC VARIABLE](http://adsabs.harvard.edu/abs/2017MNRAS.471..948R)  
+4. [WD 1202-024: THE SHORTEST-PERIOD PRE-CATACLYSMIC VARIABLE](http://adsabs.harvard.edu/abs/2017MNRAS.471..948R)  
 Rappaport, S., Vanderburg, A., Nelson, L., et al.    
 2017, refereed ([2017MNRAS.471..948R](http://adsabs.harvard.edu/abs/2017MNRAS.471..948R))  
 
-3. [TWO WHITE DWARFS IN ULTRASHORT BINARIES WITH DETACHED, ECLIPSING, LIKELY SUB-STELLAR COMPANIONS DETECTED BY K2](http://adsabs.harvard.edu/abs/2017MNRAS.471..976P)  
+5. [TWO WHITE DWARFS IN ULTRASHORT BINARIES WITH DETACHED, ECLIPSING, LIKELY SUB-STELLAR COMPANIONS DETECTED BY K2](http://adsabs.harvard.edu/abs/2017MNRAS.471..976P)  
 Parsons, S. G., Hermes, J. J., Marsh, T. R., et al.    
 2017, refereed ([2017MNRAS.471..976P](http://adsabs.harvard.edu/abs/2017MNRAS.471..976P))  
 
-4. [EXTRACTING MICROLENSING SIGNALS FROM K2 CAMPAIGN 9](http://adsabs.harvard.edu/abs/2017PASP..129j4501Z)  
+6. [MAGNETOSPHERICALLY-TRAPPED DUST AND A POSSIBLE MODEL FOR THE UNUSUAL TRANSITS AT WD 1145+017](http://adsabs.harvard.edu/abs/2017MNRAS.471L.145F)  
+Farihi, J., von Hippel, T., Pringle, J. E.    
+2017, refereed ([2017MNRAS.471L.145F](http://adsabs.harvard.edu/abs/2017MNRAS.471L.145F))  
+
+7. [EXTRACTING MICROLENSING SIGNALS FROM K2 CAMPAIGN 9](http://adsabs.harvard.edu/abs/2017PASP..129j4501Z)  
 Zhu, Wei, Huang, C. X., Udalski, A., et al.    
 2017, refereed ([2017PASP..129j4501Z](http://adsabs.harvard.edu/abs/2017PASP..129j4501Z))  
 
@@ -39,33 +59,81 @@ Zhu, Wei, Huang, C. X., Udalski, A., et al.
 2017-09
 -------
 
-1. [PROPERTIES OF THE IRREGULAR SATELLITE SYSTEM AROUND URANUS INFERRED FROM K2, HERSCHEL, AND SPITZER OBSERVATIONS](http://adsabs.harvard.edu/abs/2017AJ....154..119F)  
+1. [DIPPERS AND DUSTY DISC EDGES: NEW DIAGNOSTICS AND COMPARISON TO MODEL PREDICTIONS](http://adsabs.harvard.edu/abs/2017MNRAS.470..202B)  
+Bodman, Eva H. L., Quillen, Alice C., Ansdell, Megan, et al.    
+2017, refereed ([2017MNRAS.470..202B](http://adsabs.harvard.edu/abs/2017MNRAS.470..202B))  
+
+2. [PROPERTIES OF THE IRREGULAR SATELLITE SYSTEM AROUND URANUS INFERRED FROM K2, HERSCHEL, AND SPITZER OBSERVATIONS](http://adsabs.harvard.edu/abs/2017AJ....154..119F)  
 Farkas-Takács, A., Kiss, Cs., Pál, A., et al.    
 2017, refereed ([2017AJ....154..119F](http://adsabs.harvard.edu/abs/2017AJ....154..119F))  
 
-2. [THREE’S COMPANY: AN ADDITIONAL NON-TRANSITING SUPER-EARTH IN THE BRIGHT HD 3167 SYSTEM, AND MASSES FOR ALL THREE PLANETS](http://adsabs.harvard.edu/abs/2017AJ....154..122C)  
+3. [THREE’S COMPANY: AN ADDITIONAL NON-TRANSITING SUPER-EARTH IN THE BRIGHT HD 3167 SYSTEM, AND MASSES FOR ALL THREE PLANETS](http://adsabs.harvard.edu/abs/2017AJ....154..122C)  
 Christiansen, Jessie L., Vanderburg, Andrew, Burt, Jennifer, et al.    
 2017, refereed ([2017AJ....154..122C](http://adsabs.harvard.edu/abs/2017AJ....154..122C))  
 
-3. [THE TRANSITING MULTI-PLANET SYSTEM HD 3167: A 5.7 M <SUB>⊕</SUB> SUPER-EARTH AND AN 8.3 M <SUB>⊕</SUB> MINI-NEPTUNE](http://adsabs.harvard.edu/abs/2017AJ....154..123G)  
+4. [THE TRANSITING MULTI-PLANET SYSTEM HD 3167: A 5.7 M <SUB>⊕</SUB> SUPER-EARTH AND AN 8.3 M <SUB>⊕</SUB> MINI-NEPTUNE](http://adsabs.harvard.edu/abs/2017AJ....154..123G)  
 Gandolfi, Davide, Barragán, Oscar, Hatzes, Artie P., et al.    
 2017, refereed ([2017AJ....154..123G](http://adsabs.harvard.edu/abs/2017AJ....154..123G))  
 
-4. [PRECISE MASSES FOR THE TRANSITING PLANETARY SYSTEM HD 106315 WITH HARPS](http://adsabs.harvard.edu/abs/2017arXiv170900865B)  
+5. [PRECISE MASSES FOR THE TRANSITING PLANETARY SYSTEM HD 106315 WITH HARPS](http://adsabs.harvard.edu/abs/2017arXiv170900865B)  
 Barros, S. C. C., Gosselin, H., Lillo-Box, J., et al.    
 2017, pre-print ([2017arXiv170900865B](http://adsabs.harvard.edu/abs/2017arXiv170900865B))  
 
-5. [THREE SMALL TRANSITING PLANETS AROUND THE M DWARF HOST STAR LP 358-499](http://adsabs.harvard.edu/abs/2017arXiv170901025W)  
+6. [THREE SMALL TRANSITING PLANETS AROUND THE M DWARF HOST STAR LP 358-499](http://adsabs.harvard.edu/abs/2017arXiv170901025W)  
 Wells, R., Poppenhaeger, K., Watson, C. A.    
 2017, pre-print ([2017arXiv170901025W](http://adsabs.harvard.edu/abs/2017arXiv170901025W))  
 
-6. [THREE SMALL SUPER-EARTHS TRANSITING THE NEARBY STAR GJ 9827](http://adsabs.harvard.edu/abs/2017arXiv170901527N)  
+7. [THREE SMALL SUPER-EARTHS TRANSITING THE NEARBY STAR GJ 9827](http://adsabs.harvard.edu/abs/2017arXiv170901527N)  
 Niraula, Prajwal, Redfield, Seth, Dai, Fei, et al.    
 2017, pre-print ([2017arXiv170901527N](http://adsabs.harvard.edu/abs/2017arXiv170901527N))  
 
-7. [STOCHASTIC MODELING OF MULTIWAVELENGTH VARIABILITY OF THE CLASSICAL BL LAC OBJECT OJ 287 ON TIMESCALES RANGING FROM DECADES TO HOURS](http://adsabs.harvard.edu/abs/2017arXiv170904457G)  
+8. [A SYSTEM OF THREE SUPER EARTHS TRANSITING THE LATE K-DWARF GJ 9827 AT THIRTY PARSECS](http://adsabs.harvard.edu/abs/2017arXiv170901957R)  
+Rodriguez, Joseph E., Vanderburg, Andrew, Eastman, Jason D., et al.    
+2017, pre-print ([2017arXiv170901957R](http://adsabs.harvard.edu/abs/2017arXiv170901957R))  
+
+9. [TRANSIT VISIBILITY ZONES OF THE SOLAR SYSTEM PLANETS](http://adsabs.harvard.edu/abs/2017arXiv170902211W)  
+Wells, R., Poppenhaeger, K., Watson, C. A., et al.    
+2017, pre-print ([2017arXiv170902211W](http://adsabs.harvard.edu/abs/2017arXiv170902211W))  
+
+10. [STOCHASTIC MODELING OF MULTIWAVELENGTH VARIABILITY OF THE CLASSICAL BL LAC OBJECT OJ 287 ON TIMESCALES RANGING FROM DECADES TO HOURS](http://adsabs.harvard.edu/abs/2017arXiv170904457G)  
 Goyal, A., Stawarz, L., Zola, S., et al.    
 2017, pre-print ([2017arXiv170904457G](http://adsabs.harvard.edu/abs/2017arXiv170904457G))  
+
+11. [WHITE DWARF ROTATION AS A FUNCTION OF MASS AND A DICHOTOMY OF MODE LINEWIDTHS: KEPLER OBSERVATIONS OF 27 PULSATING DA WHITE DWARFS THROUGH K2 CAMPAIGN 8](http://adsabs.harvard.edu/abs/2017arXiv170907004H)  
+Hermes, J. J., Gaensicke, B. T., Kawaler, Steven D., et al.    
+2017, pre-print ([2017arXiv170907004H](http://adsabs.harvard.edu/abs/2017arXiv170907004H))  
+
+12. [WD 1145+017: OPTICAL ACTIVITY DURING 2016-2017 AND LIMITS ON THE X-RAY FLUX](http://adsabs.harvard.edu/abs/2017arXiv170908195R)  
+Rappaport, S., Gary, B. L., Vanderburg, A., et al.    
+2017, pre-print ([2017arXiv170908195R](http://adsabs.harvard.edu/abs/2017arXiv170908195R))  
+
+13. [MAGNETISM, X-RAYS, AND ACCRETION RATES IN WD 1145+017 AND OTHER POLLUTED WHITE DWARF SYSTEMS](http://adsabs.harvard.edu/abs/2017arXiv170908206F)  
+Farihi, J., Fossati, L., Wheatley, P. J., et al.    
+2017, pre-print ([2017arXiv170908206F](http://adsabs.harvard.edu/abs/2017arXiv170908206F))  
+
+14. [OBLIQUITY AND ECCENTRICITY CONSTRAINTS FOR TERRESTRIAL EXOPLANETS](http://adsabs.harvard.edu/abs/2017arXiv170909240K)  
+Kane, Stephen R., Torres, Stephanie M.    
+2017, pre-print ([2017arXiv170909240K](http://adsabs.harvard.edu/abs/2017arXiv170909240K))  
+
+15. [ZODIACAL EXOPLANETS IN TIME (ZEIT) V: A UNIFORM SEARCH FOR TRANSITING PLANETS IN YOUNG CLUSTERS OBSERVED BY K2](http://adsabs.harvard.edu/abs/2017arXiv170909670R)  
+Rizzuto, Aaron C., Mann, Andrew W., Vanderburg, Andrew, et al.    
+2017, pre-print ([2017arXiv170909670R](http://adsabs.harvard.edu/abs/2017arXiv170909670R))  
+
+16. [AN ISOLATED MICROLENS OBSERVED FROM K2, SPITZER AND EARTH](http://adsabs.harvard.edu/abs/2017arXiv170909959Z)  
+Zhu, Wei, Udalski, A., Huang, C., et al.    
+2017, pre-print ([2017arXiv170909959Z](http://adsabs.harvard.edu/abs/2017arXiv170909959Z))  
+
+17. [ZODIACAL EXOPLANETS IN TIME (ZEIT) VI: A THREE-PLANET SYSTEM IN THE HYADES CLUSTER INCLUDING AN EARTH-SIZED PLANET](http://adsabs.harvard.edu/abs/2017arXiv170910328M)  
+Mann, Andrew W., Vanderburg, Andrew, Rizzuto, Aaron C., et al.    
+2017, pre-print ([2017arXiv170910328M](http://adsabs.harvard.edu/abs/2017arXiv170910328M))  
+
+18. [K2-NNNA~B: A BINARY SYSTEM IN THE HYADES CLUSTER HOSTING A NEPTUNE-SIZED PLANET](http://adsabs.harvard.edu/abs/2017arXiv170910398C)  
+Ciardi, David R., Crossfield, Ian J. M., Feinstein, Adina D., et al.    
+2017, pre-print ([2017arXiv170910398C](http://adsabs.harvard.edu/abs/2017arXiv170910398C))  
+
+19. [THE DISCOVERY AND MASS MEASUREMENT OF A NEW ULTRA-SHORT-PERIOD PLANET: EPIC~228732031B](http://adsabs.harvard.edu/abs/2017arXiv171000076D)  
+Dai, Fei, Winn, Joshua N., Gandolfi, Davide, et al.    
+2017, pre-print ([2017arXiv171000076D](http://adsabs.harvard.edu/abs/2017arXiv171000076D))  
 
 
 2017-08
@@ -95,33 +163,13 @@ Močnik, T., Hellier, C., Anderson, D. R., et al.
 Hallakoun, N., Xu (许偲艺), S., Maoz, D., et al.    
 2017, refereed ([2017MNRAS.469.3213H](http://adsabs.harvard.edu/abs/2017MNRAS.469.3213H))  
 
-7. [DIPPERS AND DUSTY DISC EDGES: NEW DIAGNOSTICS AND COMPARISON TO MODEL PREDICTIONS](http://adsabs.harvard.edu/abs/2017MNRAS.470..202B)  
-Bodman, Eva H. L., Quillen, Alice C., Ansdell, Megan, et al.    
-2017, refereed ([2017MNRAS.470..202B](http://adsabs.harvard.edu/abs/2017MNRAS.470..202B))  
-
-8. [PHOTOMETRY OF WD 1145+017 IN EARLY 2017](http://adsabs.harvard.edu/abs/2017PASA...34...32K)  
+7. [PHOTOMETRY OF WD 1145+017 IN EARLY 2017](http://adsabs.harvard.edu/abs/2017PASA...34...32K)  
 Kjurkchieva, Diana P., Dimitrov, Dinko P., Petrov, Nikola I.    
 2017, refereed ([2017PASA...34...32K](http://adsabs.harvard.edu/abs/2017PASA...34...32K))  
 
-9. [THE MASSES OF RETIRED A STARS WITH ASTEROSEISMOLOGY: KEPLER AND K2 OBSERVATIONS OF EXOPLANET HOSTS](http://adsabs.harvard.edu/abs/2017arXiv170800716N)  
-North, Thomas S. H., Campante, Tiago L., Miglio, Andrea, et al.    
-2017, pre-print ([2017arXiv170800716N](http://adsabs.harvard.edu/abs/2017arXiv170800716N))  
-
-10. [QUIESCENT PHOTOMETRIC MODULATIONS OF TWO LOW-INCLINATION CATACLYSMIC VARIABLES KZGEM AND TWVIR](http://adsabs.harvard.edu/abs/2017arXiv170804948D)  
-Dai, Zhibin, Szkody, Paula, Taani, Ali, et al.    
-2017, pre-print ([2017arXiv170804948D](http://adsabs.harvard.edu/abs/2017arXiv170804948D))  
-
-11. [EPIC 211418729B AND EPIC 211442297B: TWO TRANSITING WARM JUPITERS](http://adsabs.harvard.edu/abs/2017arXiv170807128S)  
+8. [K2-114B AND K2-115B: TWO TRANSITING WARM JUPITERS](http://adsabs.harvard.edu/abs/2017arXiv170807128S)  
 Shporer, Avi, Zhou, George, Fulton, Benjamin J., et al.    
 2017, pre-print ([2017arXiv170807128S](http://adsabs.harvard.edu/abs/2017arXiv170807128S))  
-
-12. [THE YOUNG SUBSTELLAR COMPANION ROXS 12 B: NEAR-INFRARED SPECTRUM, SYSTEM ARCHITECTURE, AND SPIN-ORBIT MISALIGNMENT](http://adsabs.harvard.edu/abs/2017arXiv170807611B)  
-Bowler, Brendan, Kraus, Adam, Bryan, Marta, et al.    
-2017, pre-print ([2017arXiv170807611B](http://adsabs.harvard.edu/abs/2017arXiv170807611B))  
-
-13. [THREE STATISTICALLY VALIDATED K2 TRANSITING WARM JUPITER EXOPLANETS CONFIRMED AS LOW-MASS STARS](http://adsabs.harvard.edu/abs/2017arXiv170808455S)  
-Shporer, Avi, Zhou, George, Vanderburg, Andrew, et al.    
-2017, pre-print ([2017arXiv170808455S](http://adsabs.harvard.edu/abs/2017arXiv170808455S))  
 
 
 2017-07
@@ -174,10 +222,6 @@ Ansdell, Megan, Oelkers, Ryan J., Rodriguez, Joseph E., et al.
 12. [DISPROVAL OF THE VALIDATED PLANETS K2-78B, K2-82B, AND K2-92B](http://adsabs.harvard.edu/abs/2017arXiv170708007C)  
 Cabrera, J., Barros, S. C. C., Armstrong, D., et al.    
 2017, pre-print ([2017arXiv170708007C](http://adsabs.harvard.edu/abs/2017arXiv170708007C))  
-
-13. [MAGNETOSPHERICALLY-TRAPPED DUST AND A POSSIBLE MODEL FOR THE UNUSUAL TRANSITS AT WD 1145+017](http://adsabs.harvard.edu/abs/2017arXiv170709474F)  
-Farihi, J., von Hippel, T., Pringle, J. E.    
-2017, pre-print ([2017arXiv170709474F](http://adsabs.harvard.edu/abs/2017arXiv170709474F))  
 
 
 2017-06
@@ -275,7 +319,7 @@ Lynch, C. R., Murphy, Tara, Kaplan, D. L., et al.
 Jensen-Clem, Rebecca Marie    
 2017, refereed ([2017PhDT.........8J](http://adsabs.harvard.edu/abs/2017PhDT.........8J))  
 
-10. [K2-106, A SYSTEM CONTAINING A METAL RICH PLANET AND A PLANET OF LOWER DENSITY](http://adsabs.harvard.edu/abs/2017arXiv170504163G)  
+10. [K2-106, A SYSTEM CONTAINING A METAL-RICH PLANET AND A PLANET OF LOWER DENSITY](http://adsabs.harvard.edu/abs/2017arXiv170504163G)  
 Guenther, E. W., Barragan, O., Dai, F., et al.    
 2017, pre-print ([2017arXiv170504163G](http://adsabs.harvard.edu/abs/2017arXiv170504163G))  
 
@@ -898,10 +942,6 @@ Berthier, J., Carry, B., Vachier, F., et al.
 14. [WHITE DWARF WD-1145+17 "ZOMBIE STAR" CONSUMES ASTEROID](http://adsabs.harvard.edu/abs/2016SASS...35..127K)  
 Kaye, Thomas G., Gary, Bruce L., Rappaport, Saul A., et al.    
 2016, refereed ([2016SASS...35..127K](http://adsabs.harvard.edu/abs/2016SASS...35..127K))  
-
-15. [DIPPERS AND DUSTY DISKS EDGES: A UNIFIED MODEL](http://adsabs.harvard.edu/abs/2016arXiv160503985B)  
-Bodman, Eva H. L., Quillen, Alice C., Ansdell, Megan, et al.    
-2016, pre-print ([2016arXiv160503985B](http://adsabs.harvard.edu/abs/2016arXiv160503985B))  
 
 
 2016-04

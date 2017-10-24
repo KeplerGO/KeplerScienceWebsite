@@ -271,7 +271,7 @@ href="/the-kepler-space-telescope.html#flux-calibration">it
 </table>
 
 A blank template target table for insertion into the proposal 
-can be [downloaded here](data/K2/K2-Cnn-propnum-PINAME.xls). 
+can be [downloaded here](data/K2/K2-Cnn-PINAME.xls). 
 
 Target tables for each campaign are required to be submitted via email
 directly to the Kepler & K2 GO Office for Phase-1 proposals submitted in response to GO Cycle 6.
@@ -287,16 +287,16 @@ must appear in two places:
 Instructions on how to provide both versions of the table are detailed below: 
 
 1.  Download the template file written in Microsoft Excel format: <a
-href="data/K2/K2-Cnn-propnum-PINAME.xls">K2-Cnn-propnum-PINAME.xls</a>
+href="data/K2/K2-Cnn-PINAME.xls">K2-Cnn-PINAME.xls</a>
 2.  Populate the table using either Microsoft Excel or the freeware [OpenOffice](http://www.openoffice.org/) package. Insert additional table rows if needed, one per proposed target.
 3.  Copy / paste or encapsulate the table into the submission package
     between the science justification / technical management section
     and the PI's biography (only required for Phase-2 proposals).
 4.  Rename the Excel spreadsheet according the format
-    K2-Ccampaign-no-propid-PIname.xls, where propid is the proposal ID
-    number assigned to the proposal by NSPIRES at the time of
-    submission and PIname is the surname of the PI. A separate target
-    table should be created for each campaign.  An example would be K2-C17-0028-SMITH.xls
+    K2-Cnn-PIname.xls, where PIname is the surname of the PI.
+    A separate target table should be created for each campaign.
+    An example would be "K2-C17-SMITH.xls".
+    If you plan on submitting a second proposal, use "K2-C17-SMITH-2.xls".
 5.  Attach the renamed spreadsheet to an email and send it to the GO
     Office at **keplergo@mail.arc.nasa.gov** before the proposal deadline.
 

@@ -2,10 +2,10 @@ Title: Internship and postdoc opportunities available at NASA Ames
 Date: 2017-09-25 06:00
 Author: Geert Barentsen
 
-The Kepler/K2 Science Center at NASA Ames is now
-[accepting applications](https://intern.nasa.gov/ossi/web/public/guest/searchOpps/index.cfm?solarAction=view&id=28643)
+The Kepler/K2 Science Center at NASA Ames is now accepting applications
 for paid internships via the
-[NASA Internships Portal](https://intern.nasa.gov/ossi/web/public/guest/searchOpps/index.cfm?solarAction=view&id=28643).
+[NASA Internships Portal](https://intern.nasa.gov)
+(search for the opportunity titled "Kepler/K2 Science Center").
 The program enables students to gain experience in the scientific operations
 of a high-profile space photometry mission.
 PhD and graduate students already using Kepler or K2 data
