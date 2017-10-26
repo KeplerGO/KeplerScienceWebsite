@@ -1,0 +1,22 @@
+# Summary of K2 Program GO16013
+
+Title: Short-cadence observations of WASP-104, K2-38 and K2-34
+
+PI: Mocnik, Teo (Keele University)
+CoIs: Southworth, John; Hellier, Coel
+
+We propose to observe three planetary systems in the short-cadence observing mode: WASP-104 (Smith et al. 2014, Campaign 14), K2-38 (Sinukoff et al. 2016, Campaign 15) and K2-34 (Hirano et al. 2016, Lillo-Box et al. 2016, Campaign 16).
+
+WASP-104 hosts a transiting hot Jupiter with a short orbital period of 1.8d. According to the current system parameters and assuming the optical geometric albedo of 0.1, this short-period planet should produce reflectional phase-curve modulation with a semi-amplitude of ~27ppm. For a bright (V=11.1) and photometrically quiet host star, such reflectional modulation should be detectable using K2 photometry. Although the previous ground based photometric observations placed a 4mmag upper limit on rotational modulation, the stellar G8 spectral type suggests that some starspots could still be present. If so, the short-cadence observations may reveal starspot occultation events, a valuable detection for determining precise stellar rotational period and obliquity.
+
+K2-38 has been observed by the K2 during the observing Campaign 2 in the long-cadence observing mode, which resulted in the discovery of a transiting hot super-Earth and a hot sub-Neptune. This compact planetary configuration is an ideal candidate to search for transit-timing variations. The 1-min short-cadence is essential as it provides a much improved precision of individual transits' timing measurements compared to long-cadence.
+
+K2-34 is transited by a slightly inflated hot Jupiter, which was discovered using the K2 long-cadence photometry from the observing Campaign 5. Several mechanisms have been proposed to explain why some of the planets are inflated, and expanding the sample of inflated planets with accurate parameters is of particular interest. The K2 Campaign 5 lightcurve has indicated a possible rotational modulation with a period of 19d. Additional photometric dataset would put this detection to the test. Since rotational modulations are caused by the presence of starspots, the short-cadence K2 lightcurve may exhibit any potential starspot occultation events.
+
+In addition to science goals mentioned above, the research of all three planetary systems would benefit from the short-cadence K2 observations in several aspects: refinement of system parameters with improved precision, search for transit-timing variations, additional transiting planets, phase-curve modulation, starspot occultations and rotational modulation.
+
+Our team has developed a data reduction procedure to correct the drift artefacts from the K2 short-cadence lightcurves to restore the near-original Kepler-like photometric precision (Mocnik et al. 2016). We also have experience with K2 short-cadence data analysis.
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+212110888, 127.57877, 22.235908, 11.441, GO16009_LC|GO16010_LC|GO16011_LC|GO16013_LC|GO16015_LC|GO16028_LC|GO16077_LC|GO16101_LC|GO16902_LC|GO16010_SC|GO16013_SC|GO16015_SC|GO16101_SC

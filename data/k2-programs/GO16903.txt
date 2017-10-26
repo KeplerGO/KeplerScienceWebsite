@@ -1,0 +1,15 @@
+# Summary of K2 Program GO16903
+
+Title: Understanding stellar activity: the first joint space photometry, radial velocity and polarimetry campaign
+
+PI: Santerne, Alexandre (Laboratoire d'Astrophysique de Marseille)
+CoIs: 
+
+Stellar activity is currently the main astrophysical challenge to the exploration of planetary systems and will affect the scientific exploitation of the next-generation exoplanet-hunter instruments, both on the ground (e.g. the SPIRou@CFHT and ESPRESSO@VLT spectrographs) and in space (e.g. the NASA TESS and the ESA PLATO missions). It is urgent to make substantial progress towards the understanding of stellar activity and how it affects radial velocity (RV) measurements.  For this purpose, we will be conducting for the first time, a large and ambitious joint photometry, RV, and spectro-polarimetry campaign on a sample of 4 relatively bright and active G- to M-dwarf stars, with dense observations over several months. For that, we will be combining the data from the K2 space mission, the SOPHIE (OHP, France - 12 nights granted in visitor mode) and HARPS (ESO, Chile - 6 nights granted in visitor mode) RV spectrographs together with the ESPaDOnS (CFHT, Hawaii - 47 hours granted in priority A) and NARVAL (TBL, France - 74 hours granted in priority A and B) spectropolarimeters, with nightly observations of the 4 stars over a several stellar rotation periods (see Figure 2). The stars will also be observed in griz photometry from the ground with the TRAPPIST-N telescope (in Morocco). We will also request for CARMENES NIR spectroscopy early 2018. These 4 stars were already observed with ESPaDOnS in March 2017 (DDT) and Zeeman signatures were already detected in the snapshot observations. This observing campaign is only possible because of the unique opportunity of the forward-facing mode of the campaign C16 of the K2 mission.
+
+# Targets requested by this program that have been observed (4)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211432321, 131.227426, 12.130137, 10.207, GO16005_LC|GO16020_LC|GO16052_LC|GO16903_LC|GO16903_SC
+211826254, 132.653639, 17.689322, 9.221, GO16009_LC|GO16010_LC|GO16021_LC|GO16028_LC|GO16037_LC|GO16063_LC|GO16903_LC|GO16010_SC|GO16903_SC
+211889233, 130.933359, 18.568668, 11.585, GO16005_LC|GO16009_LC|GO16014_LC|GO16020_LC|GO16052_LC|GO16056_LC|GO16903_LC|GO16903_SC
+212165841, 134.23592, 23.388999, 10.568, GO16009_LC|GO16020_LC|GO16021_LC|GO16028_LC|GO16052_LC|GO16903_LC|GO16903_SC

@@ -1,0 +1,16 @@
+# Summary of K2 Program GO16038
+
+Title: Dynamical Activity in Algol-Type Interacting Binaries
+
+PI: Peters, Geraldine J (University of Southern California)
+CoIs: Wilson, R. E.
+
+We propose K2 photometry of 18 binaries with Algol-type light curves in Campaign (C) Fields 14-16 to study gas stream impact and spot dynamics that influence the evolution of these systems. Most early-type stars begin as binary or multiple star systems, so an understanding the evolution of the Algol systems is critical for a more general knowledge of massive star and galactic evolution. All but one observation will be in the long cadence mode. In C16 we will have the opportunity to revisit three interesting binaries that were observed in K2 C5 and look for long-term variability. One system, S Cnc, for which we propose short cadence coverage is a well studied late-term Algol that displays a total eclipse. We plan to apply for observing time at KPNO to obtain spectra that will support the K2 observations, especially those in C16. The K2 mission and the modeling capabilities of the Wilson-Devinney (WD) binary system analysis program present a unique opportunity to probe gas stream dynamics and/or magnetic activity from the recently discovered quadrature brightness variations in Algol binaries that we call L/T variables. L/T is the flux ratio between the quadrature flux at phase 0.25 to that at phase 0.75 (Leading and Trailing hemispheres on the primary star). The L/T phenomenon was discovered in Kepler data and has never been reported in ground-based photometry. L/T behavior is likely due to changes in either hot accretion or cool magnetic spots. In the hot spot interpretation the impact site's location and movement can be diagnostic of stream dynamics that may be modulated by magnetic fields. In the cool spot scenario the variability is a consequence of magnetic activity on the mass loser. New data from K2 Cycle 5 will improve our statistical study of the percentage of Algols that show L/T inequality and indicate whether there is a preference for L > T or the reverse.   Modeling the K2 light curves with the WD program, stellar and spot parameters, including spot motions, will be determined so as to generate an image of the binary versus time.  Updates to the WD program will be made available to the community.
+
+# Targets requested by this program that have been observed (5)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211607670, 134.028452, 14.64295, 12.793, GO16009_LC|GO16021_LC|GO16038_LC|GO16065_LC
+211725259, 139.061337, 16.25713, 12.392, GO16021_LC|GO16038_LC|GO16065_LC|GO16083_LC
+211920612, 130.9839, 19.034175, 8.433, GO16001_LC|GO16009_LC|GO16021_LC|GO16038_LC|GO16044_LC|GO16065_LC|GO16038_SC
+211972837, 129.977592, 19.82192, 13.547, GO16011_LC|GO16021_LC|GO16038_LC|GO16065_LC
+212194007, 134.337685, 24.114152, 12.824, GO16009_LC|GO16021_LC|GO16038_LC|GO16065_LC|GO16083_LC
