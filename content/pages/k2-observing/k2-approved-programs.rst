@@ -25,17 +25,18 @@ Campaign 16
 .. raw:: html
 
     <p>
-        The Campaign 16 target list includes 29,888 standard long cadence
+        Campaign 16 is scheduled to run from
+        <b>2017 Dec 7 (~22h UT) through 2018 Feb 25 (~13h UT)</b>.
+        The target list includes 29,888 standard long cadence
         and 129 standard short cadence targets
         located towards the constellation of Cancer.
-        The list includes <b>9,241 galaxies</b> for the
-        <a href="supernova-experiment">supernova experiment</a>
-        alongside <b>20,647 stars</b>.
+        The list includes <b>20,647 stars alongside 
+        9,241 galaxies for the <a href="supernova-experiment">supernova experiment</a></b>.
     </p>
     <p>
-        Kepler is observing the field in the forward-facing direction
-        of the spacecraft's velocity vector, which <b>allows the field
-        to be accessed from Earth during the Campaign</b>. 
+        Uniquely, the spacecraft will be pointing along the forward-facing direction
+        of the spacecraft's velocity vector during this Campaign,
+        which <b>allows the field to be accessed from Earth</b>. 
         This enables K2's single-bandpass photometry
         to be complemented with simultaneous observations from the ground,
         an opportunity that is being utilised by many of the selected programs,
@@ -66,31 +67,48 @@ Campaign 16
                 and the confirmed hot Jupiter K2-34b.
             </li>
             <li>
+                <b>Nearby late-type flare stars</b>
+                including LHS 2090 (M6.5), DP Cnc (M3.5),
+                DS Cnc (M4), and AZ Cnc (M6).
+            </li>
+            <li>
                 <b>9 very bright stars</b> are being observed using custom circular masks,
-                including α, δ, η, and ξ Cancri in long cadence,
-                and HD 76333 and 45 Cancri in short cadence.
+                including A/F-dwarfs HD 76333 and 45 Cancri in short cadence,
+                and α, δ, η, and ξ Cancri in long cadence.
             </li>
             <li>
                 <b>19 Solar System objects</b> including asteroid Hekate,
-                comet 288P, comet 2009 YD7, 4 Trojan asteroids,
+                comets 288P and 2009 YD7, 4 Trojan asteroids,
                 and 12 Trans-Neptunian Objects.
             </li>   
         </ul>
     </p>
     <p>
-        Finally, our own <b>Earth-Moon system</b> will be captured by the
-        first Full Frame Image (FFI),
+        Finally, a consequence of the forward-facing geometry is that
+        our own <b>Earth-Moon system</b> will be moving across the focal
+        plane during the first 3.5 days of the Campaign.
+        We warn that our planet's passage will add noise to multiple CCD channels
+        due to scattered light and saturation effects.
+        Ground-based observers may wish to wait for Earth
+        to leave the focal plane on 2017-Dec-11 near 6h UT to
+        commence their complementary observations.
+        By this time, the mission's engineers will also have been
+        able to confirm the accuracy of Kepler's pointing.
+    </p>
+    <p>
+        Earth and Moon will be captured by the first Full Frame Image (FFI),
         which is scheduled for 2017-Dec-10 between 21:30 and 22:00 UT.
-        In addition, a small custom LC mask will cover Earth's trajectory
+        In addition, a narrow custom LC mask will cover Earth's trajectory
         between 2017-Dec-07 17:00 and 2017-Dec-08 03:00 UT,
-        which is when our planet will occult the Moon as seen from Kepler. 
-        Don't forget to wave at Kepler at these times!
+        which is when Earth will occult the Moon as seen from Kepler.
+        Don't forget to smile and wave towards the constellation of Capricornus
+        near these times, which is where Kepler will be located!
     </p>
 
   <ul class="list-group">
     <li class="list-group-item">
       <i class="fa fa-calendar fa-margin"></i>
-      Dec 7, 2017 (22h UT) - Feb 25, 2017 (13h UT)
+      Dec 7, 2017 (22h UT) - Feb 25, 2018 (13h UT)
     </li>
     <li class="list-group-item">
       <i class="fa fa-pencil-square-o fa-margin"></i>
