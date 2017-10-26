@@ -83,7 +83,7 @@ have now been posted on the
     In addition, a narrow custom LC mask will cover Earth's trajectory
     between 2017-Dec-07 17:00 and 2017-Dec-08 03:00 UT,
     which is when Earth will occult the Moon as seen from Kepler.
-    Don't forget to smile and wave towards the constellation of Capricornus
+    Don't forget to smile and wave towards the constellation of Capricorn
     near these times, which is where Kepler will be located while it is
     observing our planet!
 </p>
