@@ -73,7 +73,7 @@ Campaign 16
             </li>
             <li>
                 <b>9 very bright stars</b> are being observed using custom circular masks,
-                including A/F-dwarfs HD 76333 and 45 Cancri in short cadence,
+                including HD 76333 and 45 Cancri in short cadence,
                 and α, δ, η, and ξ Cancri in long cadence.
             </li>
             <li>
@@ -102,7 +102,8 @@ Campaign 16
         between 2017-Dec-07 17:00 and 2017-Dec-08 03:00 UT,
         which is when Earth will occult the Moon as seen from Kepler.
         Don't forget to smile and wave towards the constellation of Capricornus
-        near these times, which is where Kepler will be located!
+        near these times, which is where Kepler will be located while it is
+        observing our planet!
     </p>
 
   <ul class="list-group">
