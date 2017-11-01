@@ -256,8 +256,10 @@ Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 
 ### Participants list
 
-(Last update: Oct. 24, 2017)
+(Last update: Oct. 31, 2017)
 
+* Marcel Agüeros (Columbia University)
+* Megan Ansdell (University of California Berkeley)
 * Geert Barentsen (NASA Ames)
 * Giovanni Carraro (University di Padova)
 * Ann Marie Cody (NASA Ames)
@@ -266,9 +268,11 @@ Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 * Michael Gully-Santiago (NASA Ames)
 * Joel Hartman (Princeton University)
 * Christina Hedges (NASA Ames)
+* JJ Hermes (University of North Carolina Chapel Hill)
 * Kenneth Janes (Boston University)
 * Adam Kraus (University of Texas Austin)
 * David Latham (Harvard CfA)
+* Andrew Mann (Columbia University)
 * Søren Meibom (Harvard CfA)
 * Philip Muirhead (Boston University)
 * Elisabeth Newton (MIT)
