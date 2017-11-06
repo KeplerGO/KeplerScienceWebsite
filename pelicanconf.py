@@ -121,7 +121,7 @@ IMPORTANT_DATES = (
             ('<b>20 Nov 2017</b> (expected)',
              'K2 Campaign 14 calibrated data release',
              ''),
-            ('<b>23 Nov 2017</b>',
+            ('<b>30 Nov 2017</b>',
              'K2 Campaign 17 DDT proposals due',
              'k2-ddt.html'),
             ('<b>19 Apr 2018</b>',
