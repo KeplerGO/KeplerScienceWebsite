@@ -79,7 +79,7 @@ have now been posted on the
 </p>
 <p>
     Earth and Moon will be captured by the first Full Frame Image (FFI),
-    which is scheduled for 2017-Dec-10 between 21:30 and 22:00 UT.
+    which is scheduled for 2017-Dec-10 between 21:38 and 22:08 UT.
     In addition, a narrow custom LC mask will cover Earth's trajectory
     between 2017-Dec-07 17:00 and 2017-Dec-08 03:00 UT,
     which is when Earth will occult the Moon as seen from Kepler.
