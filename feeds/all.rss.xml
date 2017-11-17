@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Tue, 14 Nov 2017 22:00:00 -0800</lastBuildDate><item><title>DDT deadline for K2 Campaign 17 approaching</title><link>https://keplerscience.arc.nasa.gov/ddt-deadline-for-k2-campaign-17-approaching.html</link><description>&lt;p&gt;A small percentage of the available K2 pixels in each campaign may be
+<rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Thu, 16 Nov 2017 14:00:00 -0800</lastBuildDate><item><title>Workshop on Dwarf Stars and Clusters with K2: Abstract deadline approaching!</title><link>https://keplerscience.arc.nasa.gov/workshop-on-dwarf-stars-and-clusters-with-k2-abstract-deadline-approaching.html</link><description>&lt;p&gt;The K2 Mission and Boston University (BU) are convening
+a small meeting from January 16 to 18, 2018, on the BU campus
+in Boston, Massachusetts.&lt;/p&gt;
+&lt;p&gt;The event will highlight the diverse science that K2 has enabled
+in the areas of cool stars and open clusters.
+Topics will include stellar rotation …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ann Marie Cody</dc:creator><pubDate>Thu, 16 Nov 2017 14:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2017-11-16:/workshop-on-dwarf-stars-and-clusters-with-k2-abstract-deadline-approaching.html</guid></item><item><title>K2 Campaign 14 data processing complete</title><link>https://keplerscience.arc.nasa.gov/k2-campaign-14-data-processing-complete.html</link><description>&lt;p&gt;Data processing for K2 Campaign 14 is now complete
+and the pixel files and lightcurves are being ingested
+into the &lt;a href="http://archive.stsci.edu/k2"&gt;data archive at MAST&lt;/a&gt;.
+We anticipate that the data release will be made public on Monday,
+November 20th, or shortly thereafter.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="k2-approved-programs.html#campaign-14"&gt;target list&lt;/a&gt; featured
+29,897 standard long cadence …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Thu, 16 Nov 2017 12:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2017-11-16:/k2-campaign-14-data-processing-complete.html</guid></item><item><title>Kepler to image Earth and Moon on December 10, 2017</title><link>https://keplerscience.arc.nasa.gov/kepler-to-image-earth-and-moon-on-december-10-2017.html</link><description>&lt;p&gt;During K2's upcoming Campaign 16, the Kepler spacecraft will be operated
+in its &lt;a href="images/k2/k2-c16-geometry.png"&gt;forward-facing mode&lt;/a&gt; to enable
+&lt;a href="share-your-plan-for-k2-campaign-16-ancillary-observations.html"&gt;simultaneous observations of the K2 field&lt;/a&gt;
+to be carried out using ground-based telescopes.&lt;/p&gt;
+&lt;p&gt;A consequence of the forward-facing observing geometry
+is that the Earth-Moon system will be moving across Kepler's focal plane during …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Thu, 16 Nov 2017 06:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2017-11-16:/kepler-to-image-earth-and-moon-on-december-10-2017.html</guid></item><item><title>K2 pixel data now available in bundles from MAST</title><link>https://keplerscience.arc.nasa.gov/k2-pixel-data-now-available-in-bundles-from-mast.html</link><description>&lt;p&gt;Users seeking to obtain a copy of every single Target Pixel File (TPF)
+for a given K2 Campaign may now retrieve the data in "bundles" of
+tar archive files from the following url at MAST:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://archive.stsci.edu/missions/k2/target_pixel_files/bundles/"&gt;http://archive.stsci.edu/missions/k2/target_pixel_files/bundles/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By grouping the TPFs into larger bundles …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Wed, 15 Nov 2017 18:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2017-11-15:/k2-pixel-data-now-available-in-bundles-from-mast.html</guid></item><item><title>DDT deadline for K2 Campaign 17 approaching</title><link>https://keplerscience.arc.nasa.gov/ddt-deadline-for-k2-campaign-17-approaching.html</link><description>&lt;p&gt;A small percentage of the available K2 pixels in each campaign may be
 allocated by the K2 Guest Observer (GO) Office Director
 as Director's Discretionary Targets (DDTs).
 The primary utilization of DDT programs is in support
