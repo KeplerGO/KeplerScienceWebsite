@@ -18,5 +18,7 @@ For example, applications for the [NASA Hubble Fellowship Program](https://nhfp.
 (which replaces the previous Einstein, Hubble, and Sagan Fellowship Programs)
 are due by Nov 2nd, 2017.
 
+Finally, MAST is [seeking to hire two Archive Scientists](https://rn11.ultipro.com/SPA1004/JobBoard/JobDetails.aspx?__ID=*4BD21BA9BCB520B4) to provide scientific, technical and computational expertise to improve the MAST Archive (closes Dec 15).
+
 If you have a Kepler/K2-related job opening that you would like us
 to advertise, then please let us know at keplergo@mail.arc.nasa.gov.
