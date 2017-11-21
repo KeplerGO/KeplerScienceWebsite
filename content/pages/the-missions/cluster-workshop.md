@@ -287,7 +287,7 @@ Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 * David Latham (Harvard CfA)
 * Emily Leiner (University of Wisconsin)
 * Andrew Mann (Columbia University)
-* Robert Mathieu (University of Wisconsin Madison Madison)
+* Robert Mathieu (University of Wisconsin Madison)
 * Søren Meibom (Harvard CfA)
 * Philip Muirhead (Boston University)
 * Elisabeth Newton (MIT)
@@ -310,7 +310,7 @@ Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 
 ### Registration
 
-Registration is now open! There is no fee to attend. 
+Registration is now open! There is no fee to attend. Coffee breaks are sponsored by the <a 'href=https://www.bu.edu/iar'> Institute for Astrophysical Research</a> at Boston University.
 
 Please <a href='https://docs.google.com/forms/d/e/1FAIpQLSdZhetqWv9_oUAXmLueHDhyIVdMYcLPj53p5TjPeEgTTMkRWQ/viewform?usp=sf_link'>
 sign up </a> to attend and indicate your interest to give a short talk. The final date to register for a talk will be November 22, 2017.
