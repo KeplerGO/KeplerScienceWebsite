@@ -310,7 +310,7 @@ Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 
 ### Registration
 
-Registration is now open! There is no fee to attend. Coffee breaks are sponsored by the <a 'href=https://www.bu.edu/iar'> Institute for Astrophysical Research</a> at Boston University.
+Registration is now open! There is no fee to attend. Coffee breaks are sponsored by the <a href='https://www.bu.edu/iar'> Institute for Astrophysical Research</a> at Boston University.
 
 Please <a href='https://docs.google.com/forms/d/e/1FAIpQLSdZhetqWv9_oUAXmLueHDhyIVdMYcLPj53p5TjPeEgTTMkRWQ/viewform?usp=sf_link'>
 sign up </a> to attend and indicate your interest to give a short talk. The final date to register for a talk will be November 22, 2017.
