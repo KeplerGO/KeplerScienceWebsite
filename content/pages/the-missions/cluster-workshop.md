@@ -254,12 +254,13 @@ Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 * Jessie Dotson (K2 Project Scientist)
 
 
-### Participants list
+### Participant registration list
 
-(Last update: Nov. 13, 2017)
+(Last update: Nov. 21, 2017)
 
 * Marcel Agüeros (Columbia University)
 * Ruth Angus (Columbia University)
+* Nuralfin Anripa (State Islamic University of Maulana Malik Ibrahim)
 * Megan Ansdell (University of California Berkeley)
 * Geert Barentsen (NASA Ames)
 * Jerome Bouvier (IPAG, Grenoble)
@@ -286,6 +287,7 @@ Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 * Adam Kraus (University of Texas Austin)
 * David Latham (Harvard CfA)
 * Emily Leiner (University of Wisconsin)
+* Fatima Mammadova (Istanbul University)
 * Andrew Mann (Columbia University)
 * Robert Mathieu (University of Wisconsin Madison)
 * Søren Meibom (Harvard CfA)
