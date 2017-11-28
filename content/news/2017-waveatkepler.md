@@ -21,4 +21,5 @@ during the exposure!
 
 Kepler user Jim Davenport [tweeted](https://twitter.com/jradavenport/status/930867347522326529) the following fan art to mark the occasion:
 
-<img class="img-responsive" style="max-width:800px;" src="images/news/waveatkepler-davenport.jpg " alt="#WaveAtKepler"> 
+<img class="img-responsive" style="max-width:800px;" src="images/news/waveatkepler-davenport.jpg " alt="#WaveAtKepler">
+*Image Credit: Jim Davenport*
