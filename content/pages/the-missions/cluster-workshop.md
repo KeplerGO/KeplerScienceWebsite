@@ -261,7 +261,6 @@ Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 * Marcel Agüeros (Columbia University)
 * Ruth Angus (Columbia University)
 * Nuralfin Anripa (State Islamic University of Maulana Malik Ibrahim)
-* Megan Ansdell (University of California Berkeley)
 * Geert Barentsen (NASA Ames)
 * Jerome Bouvier (IPAG, Grenoble)
 * Phillip Cargile (Harvard CfA)
