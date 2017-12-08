@@ -28,16 +28,15 @@ The motivations for this workshop include:
 * Exploring synergies with other space missions (especially TESS), wavelength regions, and science areas.
 
 
-### Agenda
+### Draft Agenda
 
-This will be a small workshop (space is limited to ~50 people) with time for most participants to give a short 
-overview of their research during the first two days. (There will not be any posters.) We have reserved the final morning 
-for "hack day" activities, including data how-to's and high-level science product creation overviews. We will also 
-encourage participants to spend time comparing technical approaches to K2 data, including photometry.
+This will be a small workshop with time for most participants to give a short 
+overview of their research during the first two days. Talks are 10 minutes each, plus 5 minutes for questions.
+(There will not be any posters.) We have reserved the final morning for "unconference" activities, including data 
+how-to's and high-level science product creation overviews. We will also encourage participants to spend time 
+comparing technical approaches to K2 data, including photometry.
 
 <h4 style="font-weight: bold;">Tuesday, Jan 16th</h4>
-
-The goal of the first day will be to review the science that has been done with K2 and generate ideas for the hack day.
 
 <div class="row">
 <div class="col-sm-12 col-md-10">
@@ -49,44 +48,91 @@ The goal of the first day will be to review the science that has been done with 
     </td>
   </tr>
   <tr>
-    <th><b>10:00–12:00</b></th>
+    <th><b>10:00–10:30</b></th>
     <td>
-        <b>Introductory talks</b><br/>
+        <b>Opening session</b><br/>
         <ul class="schedule">
             <li>
                 Welcome<br/>
+                <i>Phil Muirhead</i>
             </li>
             <li>
-                K2 Overview<br/>
+                Mission update and workshop goals<br/>
+                <i>The K2 team</i>
             </li>
         </ul>
     </td>
   </tr>
   <tr>
-    <th><b>12:00–13:00</b></th>
+    <th><b>10:30–11:45</b></th>
+    <td>
+        <b>Science talks: Eclipsing binaries</b><br/>
+        <ul class="schedule">
+            <li>
+                The Mass-Radius Relation of Young Stars<br/>
+                <i>Adam Kraus</i>
+            </li>
+            <li>
+                K2 Observations of a M3.7+M5.0 EB with Total Secondary Eclipses<br/>
+                <i>Joel Hartman</i>
+            </li>
+            <li>
+                Eclipsing Binaries and Cluster Ages<br/>
+                <i>Eric Sandquist</i>
+            </li>
+            <li>
+                Young planets, brown dwarfs and eclipsing binaries in Praesepe<br/>
+                <i>Ed Gillen</i>
+            </li>
+            <li>
+                Findings from the K2 Campaign on the Old Open Cluster M67<br/>
+                <i>Robert Mathieu</i>
+            </li>
+        </ul>
+    </td>
+  </tr>
+  <tr>
+    <th><b>11:45–12:00</b></th>
+    <td>
+        <b>Unconference day overview & 1-minute pitches</b>
+    </td>
+  </tr>
+  <tr>
+    <th><b>12:00–13:30</b></th>
     <td>
         <b>Lunch</b>
     </td>
   </tr>
   <tr>
-    <th><b>13:00–14:00</b></th>
+    <th><b>13:30–14:45</b></th>
     <td>
-        <b>Hack Day pitches</b><br/>
+        <b>Activity and flares</b><br/>
         <ul class="schedule">
+            <li>
+                Ultracool Dwarfs: Flares and Clouds<br/>
+                <i>John Gizis</i>
+            </li>
+            <li>
+                Flares in K2 Clusters: In Search of the Flaring-Age Relation<br/>
+                <i>Ekaterina Ilin</i>
+            </li>
+            <li>
+                Searching for the Origin of flares in M dwarfs<br/>
+                <i>Lauren Doyle</i>
+            </li>
+            <li>
+                Probing Activity and Livable Environments Affecting L-dwarf Exoplanets (PALE ALE)<br/>
+                <i>Julie Skinner</i>
+            </li>
+            <li>
+                Simultaneous Spectroscopic & K2 Observations of Praesepe<br/>
+                <i>Marcel Agüeros</i>
+            </li>
         </ul>
     </td>
   </tr>
-
   <tr>
-    <th><b>14:00–15:00</b></th>
-    <td>
-        <b>Science talks</b><br/>
-        <ul class="schedule">
-        </ul>
-    </td>
-  </tr>
-  <tr>
-    <th><b>15:00–15:30</b></th>
+    <th><b>14:45–15:30</b></th>
     <td>
         <b>Coffee</b>
     </td>
@@ -94,8 +140,31 @@ The goal of the first day will be to review the science that has been done with 
   <tr>
     <th><b>15:30–17:00</b></th>
     <td>
-        <b>Science talks</b><br/>
+        <b>Transiting planets</b><br/>
         <ul class="schedule">
+            <li>
+                The Zodiacal Exoplanets in Time Survey<br/>
+                <i>Andrew Mann</i>
+            </li>
+            <li>
+                Searching for Transiting Exoplanets in Open Cluster Environments<br/>
+                <i>Melinda Soares-Furtado</i>
+            </li>
+            <li> 
+               Discovery of planets around nearby planets<br/>
+                <i>Prajwaul Nirala</i>
+            </li>
+            <li>
+                Looking for transiting warm Jupiters - win some, lose some<br/>
+                <i>Avi Shporer</i>
+            </li>
+            <li>
+                Planet Occurrence in the M67 Open Cluster<br/>
+                <i>Andrew Vanderburg</i>
+            <li>
+                Towards measuring temporal trends in planet occurrence<br/>
+                <i>Trevor David</i>
+            </li>
         </ul>
     </td>
   </tr>
@@ -110,33 +179,48 @@ The goal of the first day will be to review the science that has been done with 
 <div class="col-sm-12 col-md-10">
 <table class="table table-striped table-hover">
   <tr>
-    <th style="min-width:8em;"><b>09:00–09:30</b></th>
+    <th style="min-width:8em;"><b>9:30-10:00</b></th>
     <td>
         <b>Coffee &amp; snacks</b>
     </td>
   </tr>
   <tr>
-    <th><b>09:30–10:00</b></th>
+    <th><b>10:00-11:30</b></th>
     <td>
-        <b>Welcome</b><br/>
+        <b>Rotation</b><br/>
         <ul class="schedule">
             <li>
-                Summary of the previous day
+                Rotation in field M dwarfs<br/>
+                <i>Elisabeth Newton</i>                
+            </li>
+            <li>
+               Stellar Rotation in Clusters with K2<br/>
+                <i>Luisa Rebull</i>
+            </li>
+            <li>
+               Determining Reliable Rotation Periods for M67 from K2 Data<br/>
+                <i>Rebecca Esselstein</i>
+            </li>
+            <li>
+               The effect of companions on rotational evolution<br/>
+                <i>Stephanie Douglas</i>
+            </li>
+            <li>
+               The lithium-rotation connection in young stars<br/>
+                <i>Jerome Bouvier</i>
+            </li>
+            <li>
+               Measuring the radii of low-mass active stars using K2<br/>
+                <i>Rob Jeffries</i>
             </li>
         </ul>
     </td>
   </tr>
   <tr>
-    <th><b>10:00–12:00</b></th>
+    <th><b>11:30–12:00</b></th>
     <td>
-        <b>Introductory talks</b><br/>
+        <b>Unconference pitches</b><br/>
         <ul class="schedule">
-            <li>
-                Welcome<br/>
-            </li>
-            <li>
-                K2 Overview<br/>
-            </li>
         </ul>
     </td>
   </tr>
@@ -149,8 +233,32 @@ The goal of the first day will be to review the science that has been done with 
   <tr>
     <th><b>13:30–15:00</b></th>
     <td>
-        <b>Science talks</b><br/>
+        <b>Young Stellar Objects</b><br/>
         <ul class="schedule">
+            <li>            
+                Probing star-disk interactions on YSOs in Taurus by simultaneous K2 and ground based photometry<br/>
+                <i>Zhen Guo</i>
+            </li>
+            <li>    
+                Spinning and Dipping: Observing the Young Star Ballet with KELT and K2<br/>
+                <i>Joey Rodriguez</i>
+            </li>
+            <li>    
+                Starspots on young stars with K2 and IGRINS<br/>
+                <i>Michael Gully-Santiago</i>
+            </li>
+            <li>    
+                Inference of Dipper Populations in K2 Using Machine Learning<br/>
+                <i>Christina Hedges</i>
+            </li>
+            <li>    
+                The Zoo of Young Star Variability as seen by K2<br/>
+                <i>Ann Marie Cody</i>
+            </li>
+            <li>    
+                YSOVAR: Mid-infrared Variability Among YSOs in the Star Formation Regions<br/>
+                <i>Scott Wolk</i>
+            </li>
         </ul>
     </td>
   </tr>
@@ -163,8 +271,28 @@ The goal of the first day will be to review the science that has been done with 
   <tr>
     <th><b>15:30–17:00</b></th>
     <td>
-        <b>Science talks</b><br/>
+        <b>Non-main-sequence stars and synergies with other missions</b><br/>
         <ul class="schedule">
+            <li>
+                Beyond Blue Stragglers: K2 Observations Reveal Post-Mass-Transfer Binaries Hidden on the M67 Main Sequence<br/>
+                <i>Emily Leiner</i>
+            </li>
+            <li>
+                Age calibration from coeval white dwarfs in K2 and TESS<br/>
+                <i>JJ Hermes</i>
+            </li>
+            <li>
+                The TESS Open Cluster Survey<br/>
+                <i>Søren Meibom</i>
+            </li>
+            <li>
+                A PSF-based approach to K2 data - Variables and Exoplanet candidates within K2 cluster fields<br/>
+                <i>Domenico Nardiello</i>
+            </li>
+            <li>
+                A Glimpse of Star Formation in the Outer Galaxy: SMOG Field<br/>
+                <i>Elaine Winston</i>
+            </li>
         </ul>
     </td>
   </tr>
@@ -175,40 +303,57 @@ The goal of the first day will be to review the science that has been done with 
 
 <h4 style="font-weight: bold;">Thursday, Jan 18th</h4>
 
-<p>Hack Day</p>
+<p>Unconference Day</p>
 
 <div class="row">
 <div class="col-sm-12 col-md-10">
 <table class="table table-striped table-hover">
   <tr>
-    <th style="min-width:8em;"><b>09:00–09:30</b></th>
+    <th style="min-width:8em;"><b>09:00–09:15</b></th>
     <td>
         <b>Coffee &amp; snacks</b>
     </td>
   </tr>
   <tr>
-    <th><b>09:30–10:00</b></th>
+    <th><b>9:15–9:30</b></th>
     <td>
-        <b>Welcome</b><br/>
-        <ul class="schedule">
-            <li>
-                Summary of the previous day
-            </li>
-            <li>
-                Discussion of tutorials and group projects<br/>
-            </li>
-        </ul>
+        <b>Conference summary & unconference plans</b><br/>
     </td>
   </tr>
   <tr>
-    <th><b>10:00–14:00</b></th>
+    <th><b>9:30-10:30</b></th>
     <td> 
-        <b>Hack activities</b><br/>
-        <ul class="schedule">
-            <li>Data products overview and future ideas;</li>
-            <li>K2 data analysis tutorials;</li>
-            <li>Photometry methods and comparisons</li>
-        </ul>
+        <b>Unconference session 1</b><br/>
+    </td>
+  </tr>
+  <tr>
+    <th><b>10:30-11:30</b></th>
+    <td>
+        <b>Unconference session 2</b><br/>
+    </td>
+  </tr>
+  <tr>
+    <th><b>11:30-12:30</b></th>
+    <td>
+        <b>Unconference session 3</b><br/>
+    </td>
+  </tr>
+  <tr>
+    <th><b>12:30-13:00</b></th>
+    <td>
+        <b>Wrap-up & unconference reports</b><br/>
+    </td>
+  </tr>
+  <tr>
+    <th><b>13:00-14:00</b></th>
+    <td>
+        <b>Lunch</b><br/>
+    </td>
+  </tr>
+  <tr>
+    <th><b>14:00-17:00</b></th>
+    <td>
+        <b>Unstructured time for collaboration</b><br/>
     </td>
   </tr>
 </table>
@@ -256,7 +401,7 @@ Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 
 ### Participant registration list
 
-(Last update: Nov. 21, 2017)
+(Last update: Dec. 7, 2017)
 
 * Marcel Agüeros (Columbia University)
 * Ruth Angus (Columbia University)
