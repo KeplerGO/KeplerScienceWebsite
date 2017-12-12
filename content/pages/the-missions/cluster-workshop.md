@@ -84,15 +84,11 @@ comparing technical approaches to K2 data, including photometry.
                 Young planets, brown dwarfs and eclipsing binaries in Praesepe<br/>
                 <i>Ed Gillen</i>
             </li>
-            <li>
-                Findings from the K2 Campaign on the Old Open Cluster M67<br/>
-                <i>Robert Mathieu</i>
-            </li>
         </ul>
     </td>
   </tr>
   <tr>
-    <th><b>11:45–12:00</b></th>
+    <th><b>11:30–12:00</b></th>
     <td>
         <b>Unconference day overview & 1-minute pitches</b>
     </td>
