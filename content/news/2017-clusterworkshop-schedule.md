@@ -1,5 +1,5 @@
-Title: Workshop on Dwarf Stars and Clusters with K2: Registration now open, space is limited!
-Date: 2017-10-23 16:00
+Title: Workshop on Dwarf Stars and Clusters with K2: Schedule now posted
+Date: 2017-12-13 12:00
 Author: Ann Marie Cody
 
 The K2 Mission and Boston University (BU) are convening a small workshop on Dwarf Stars and Clusters with K2,
