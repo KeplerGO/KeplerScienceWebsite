@@ -76,6 +76,8 @@ class WebSummaryCreator(object):
                 "        </tr>\n"
                 "        </thead>\n\n")
         for program_id in self.programs:
+            if program_id == "GO16094":
+                continue  # A bug caused C16 to contain one spurious target for the non-selected program GO16094
             program = self.programlist.get_program(program_id)
             if program is None:
                 continue
@@ -167,7 +169,7 @@ def create_website_pages():
     PATH = '/home/gb/dev/KeplerScienceWebsite'
     summaries_dir = PATH + "/content/data/k2-programs/"
     programlist = ProgramList('/home/gb/dev/YouHadOneJob/k2-programs-table/k2-programs.csv')
-    for campaign in ["15"]:  #["0", "1", "2", "3", "4", "5", "6", "7", "8", "9a", "9b", "10", "11"]:
+    for campaign in ["16"]:  #["0", "1", "2", "3", "4", "5", "6", "7", "8", "9a", "9b", "10", "11"]:
         if campaign in ['9a', '9b']:
             targetlist = PATH + '/content/data/campaigns/c9/K2Campaign{}targets.csv'.format(campaign)
         else:

@@ -118,12 +118,15 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b>30 Oct 2017</b> (expected)',
-             'K2 Campaign 14 calibrated data release',
-             ''),
-            ('<b>23 Nov 2017</b>',
+            ('<b>30 Nov 2017</b>',
              'K2 Campaign 17 DDT proposals due',
              'k2-ddt.html'),
+            ('<b>10 Dec 2017 @ 21:38 UT</b>',
+             'Kepler takes an FFI picture of Earth',
+             'kepler-to-image-earth-and-moon-on-december-10-2017.html'),
+            ('<b>Feb 2018</b>',
+             'K2 Campaign 15 calibrated data release',
+             ''),
             ('<b>19 Apr 2018</b>',
              'GO Cycle 6 Phase-2 deadline:<br/>funding proposals due for Campaigns 17-19',
              'k2-proposing-targets.html'),
@@ -132,8 +135,11 @@ IMPORTANT_DATES = (
 
 # Defines the "meetings" box on the front page
 MEETINGS = (
+            ('<b>9 Jan 2018</b><br>'
+             'K2/TESS Splinter Session at the AAS meeting',
+             'https://aas.org/meetings/aas231'),
             ('<b>8–12 Jan 2018</b><br>'
-             'Kepler/K2 booth at the Winter AAS meeting',
+             'Kepler/K2 booth at the AAS meeting',
              'https://aas.org/meetings/aas231'),
             ('<b>16–18 Jan 2018</b><br>'
              'Workshop: Dwarf Stars and Clusters with K2',

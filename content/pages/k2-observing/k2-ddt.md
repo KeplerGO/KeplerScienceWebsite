@@ -59,7 +59,7 @@ To ensure that approved targets are able to be included in the final
 target lists for each campaign, proposals must be submitted via email
 to [keplergo@mail.arc.nasa.gov](keplergo@mail.arc.nasa.gov) by 23:59 PT (Pacific Time) on the following dates:
 
-* **Campaign 17: November 23, 2017**
+* **Campaign 17: November 30, 2017**
 * **Campaign 18: January 19, 2018**
 * **Campaign 19: April 12, 2018**
 
