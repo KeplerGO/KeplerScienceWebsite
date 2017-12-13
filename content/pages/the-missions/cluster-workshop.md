@@ -366,6 +366,10 @@ The workshop will take place on the Boston University campus, primarily at the C
 The nearest airport is the Boston Logan International Airport.
 We recommend using the MBTA system, which provides public transportation from the airport.
 
+For those that wish to drive to campus, there should be parking available at the Granby Lot, 665 Commonwealth Ave or the Kenmore Lot, 
+549 Commonwealth Ave., at a cost of $17 per day.  If these are full, there are 
+<a href="http://www.bu.edu/parking/lots-locations/family-guests-and-visitor-parking/"> other parking options </a> available.
+If full, attendants at the Granby and Kenmore Lots can offer directions.
 
 ### Accommodation
 
