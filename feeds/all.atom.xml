@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2017-11-20T10:00:00-08:00</updated><entry><title>K2 Campaign 14 processed data available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-14-processed-data-available.html" rel="alternate"></link><published>2017-11-20T10:00:00-08:00</published><updated>2017-11-20T10:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-11-20:/k2-campaign-14-processed-data-available.html</id><summary type="html">&lt;p&gt;The pipeline-processed data for K2 Campaign 14
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2017-12-14T12:00:00-08:00</updated><entry><title>Agenda available for the K2 Clusters Workshop in Boston</title><link href="https://keplerscience.arc.nasa.gov/agenda-available-for-the-k2-clusters-workshop-in-boston.html" rel="alternate"></link><published>2017-12-14T12:00:00-08:00</published><updated>2017-12-14T12:00:00-08:00</updated><author><name>Ann Marie Cody</name></author><id>tag:keplerscience.arc.nasa.gov,2017-12-14:/agenda-available-for-the-k2-clusters-workshop-in-boston.html</id><summary type="html">&lt;p&gt;The draft agenda for the
+&lt;b&gt;Kepler/K2 workshop on Dwarf Stars and Clusters&lt;/b&gt;
+is &lt;a href="/cluster-workshop/#draft-agenda"&gt;now available online&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;So far, over 50 participants have registered to attend the workshop,
+which will take place from &lt;b&gt;January 16-18, 2018&lt;/b&gt;,
+on the &lt;b&gt;Boston University (BU)&lt;/b&gt; campus.
+The first two days will consist of science …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The draft agenda for the
+&lt;b&gt;Kepler/K2 workshop on Dwarf Stars and Clusters&lt;/b&gt;
+is &lt;a href="/cluster-workshop/#draft-agenda"&gt;now available online&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;So far, over 50 participants have registered to attend the workshop,
+which will take place from &lt;b&gt;January 16-18, 2018&lt;/b&gt;,
+on the &lt;b&gt;Boston University (BU)&lt;/b&gt; campus.
+The first two days will consist of science talks by attendees,
+while the last day will be an "unconference" dedicated to
+tutorials and collaborations.&lt;/p&gt;
+&lt;p&gt;We continue to accept late registrations for additional participants.
+A small number of talk slots remain available on a first-come, first-served basis.
+Please contact &lt;a href="mailto:keplergo@mail.arc.nasa.gov"&gt;keplergo@mail.arc.nasa.gov&lt;/a&gt; as soon as possible to be considered for the spare talk slots.&lt;/p&gt;</content></entry><entry><title>K2 Campaign 14 processed data available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-14-processed-data-available.html" rel="alternate"></link><published>2017-11-20T10:00:00-08:00</published><updated>2017-11-20T10:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-11-20:/k2-campaign-14-processed-data-available.html</id><summary type="html">&lt;p&gt;The pipeline-processed data for K2 Campaign 14
 are now available for download
 from the &lt;a href="http://archive.stsci.edu/k2"&gt;K2 archive at MAST&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The &lt;a href="k2-approved-programs.html#campaign-14"&gt;target list&lt;/a&gt; featured
