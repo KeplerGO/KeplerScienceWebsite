@@ -1,14 +1,18 @@
-Title: Workshop on Dwarf Stars and Clusters with K2: Schedule now posted
-Date: 2017-12-13 12:00
+Title: Agenda available for the K2 Clusters Workshop in Boston
+Date: 2017-12-14 12:00
 Author: Ann Marie Cody
 
-The K2 Mission and Boston University (BU) are convening a small workshop on Dwarf Stars and Clusters with K2,
-to take place from January 16 to 18, 2018, on the BU campus in Boston, Massachusetts. The first two days will
-consist of science talks by attendees, while the last day will be an "unconference" dedicated to K2 product
-tutorials and opportunities for participants to collaborate on ideas for data management and software tools.
+The draft agenda for the
+<b>Kepler/K2 workshop on Dwarf Stars and Clusters</b>
+is <a href="/cluster-workshop/#draft-agenda">now available online</a>.
 
-A preliminary schedule is now posted on the [workshop website](/cluster-workshop).
+So far, over 50 participants have registered to attend the workshop,
+which will take place from <b>January 16-18, 2018</b>,
+on the <b>Boston University (BU)</b> campus.
+The first two days will consist of science talks by attendees,
+while the last day will be an "unconference" dedicated to
+tutorials and collaborations.
 
-<img class="img-responsive" style="max-width:100%;" src="images/k2/bu_fireworks.jpg" alt="Dwarf Stars and Clusters with 
-K2: A Workshop"> 
-*Image Credit: Eric Kilby*
+We continue to accept late registrations for additional participants.
+A small number of talk slots remain available on a first-come, first-served basis.
+Please contact <a href="mailto:keplergo@mail.arc.nasa.gov">keplergo@mail.arc.nasa.gov</a> as soon as possible to be considered for the spare talk slots.
