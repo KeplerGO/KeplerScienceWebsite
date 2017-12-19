@@ -8,7 +8,8 @@ and has continued to proceed without issues since.
 Because the Campaign is partially dedicated to the
 [Supernova Experiment](/supernova-experiment),
 the project has acquired PanSTARRS time to monitor
-the entire field every other night in two filters (gr, gi, or gz)
+the entire field every other night in two filters
+(rotating between g+r, g+i, and g+z)
 for the purpose of providing early alerts for transients in the field.
 The alerts are made public instantly via the 
 [Transient Name Server](https://wis-tns.weizmann.ac.il),
@@ -31,5 +32,5 @@ The imaging data collected by PanSTARRS for K2 is expected to be released
 to the public no later than June 1st, 2018.
 The release will include images in g, r, i, and z
 for the entire field to a typical depth of 21st magnitude
-and with a typical cadence of 2 days in g and 6 days in r, i, and z.
+and with a typical cadence of 2 days in g and 6 days in r, i, z.
 These PanSTARRS data are expected to benefit multiple galactic and extragalactic investigations associated with Campaign 16.
