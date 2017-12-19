@@ -31,7 +31,7 @@ https://docs.google.com/document/d/1MKlyjkV8TQwwuUQiQtcrP_P9H3PWYDUjgbKVk37z19Q
 The imaging data collected by PanSTARRS for K2 is expected to be released
 to the public no later than June 1st, 2018.
 The release will include images in g, r, i, and z
-for the entire field to a depth of ~21st magnitude
-with a typical cadence of 2 days in g and 6 days in r, i, and z.
-These public PanSTARRS data are expected to benefit multiple galactic and extragalactic investigations associated with Campaign 16.
+for the entire field to a typical depth of 21st magnitude
+and with a typical cadence of 2 days in g and 6 days in r, i, and z.
+These PanSTARRS data are expected to benefit multiple galactic and extragalactic investigations associated with Campaign 16.
 
