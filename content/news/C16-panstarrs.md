@@ -5,12 +5,12 @@ Author: Geert Barentsen
 K2 Campaign 16 started successfully on December 7th
 and has continued to proceed without issues since.
 
-Because the Campaign is partially dedicated to a
+Because the Campaign is partially dedicated to the
 <a href="/supernova-experiment">Supernova Experiment</a>,
 the project has acquired PanSTARRS time to monitor
 the entire field every other night in two filters (gr, gi, or gz)
-with the aim of providing early alerts for transients in the field.
-The alerts are made public straight away via the 
+for the purpose of providing early alerts for transients in the field.
+The alerts are made public instantly via the 
 <a href="https://wis-tns.weizmann.ac.il">Transient Name Server</a>,
 where users can receive K2-specific alerts by signing up for the "KEGS-C16" alerts category.
 
