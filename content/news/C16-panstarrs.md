@@ -15,7 +15,7 @@ The alerts are made public straight away via the
 where users can receive K2-specific alerts by signing up for the "KEGS-C16" alerts category.
 
 During the first week of C16,
-PanSTARRS has identified two confirmed events in galaxies
+PanSTARRS has already identified two events in galaxies
 which are currently being observed by Kepler:
 
 * [2017iws](https://wis-tns.weizmann.ac.il/object/2017iws): a Type Ia supernova (z=0.09).
