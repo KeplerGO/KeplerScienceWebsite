@@ -118,15 +118,9 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b>30 Nov 2017</b>',
-             'K2 Campaign 17 DDT proposals due',
+            ('<b>19 Jan 2018</b>',
+             'K2 Campaign 18 DDT proposals due',
              'k2-ddt.html'),
-            ('<b>10 Dec 2017 @ 21:38 UT</b>',
-             'Kepler takes an FFI picture of Earth',
-             'kepler-to-image-earth-and-moon-on-december-10-2017.html'),
-            ('<b>Feb 2018</b>',
-             'K2 Campaign 15 calibrated data release',
-             ''),
             ('<b>19 Apr 2018</b>',
              'GO Cycle 6 Phase-2 deadline:<br/>funding proposals due for Campaigns 17-19',
              'k2-proposing-targets.html'),
@@ -135,18 +129,12 @@ IMPORTANT_DATES = (
 
 # Defines the "meetings" box on the front page
 MEETINGS = (
-            ('<b>9 Jan 2018</b><br>'
-             'K2/TESS Splinter Session at the AAS meeting',
-             'https://aas.org/meetings/aas231'),
             ('<b>8–12 Jan 2018</b><br>'
-             'Kepler/K2 booth at the AAS meeting',
-             'https://aas.org/meetings/aas231'),
+             'Kepler/K2 booth and events at AAS 231, including a Splinter Session on Jan 9th.',
+             '/keplerk2-at-the-aas-231-january-2018-washington-dc.html'),
             ('<b>16–18 Jan 2018</b><br>'
              'Workshop: Dwarf Stars and Clusters with K2',
-             '/cluster-workshop'),
-            ('<b>8–13 Jul 2018</b><br>'
-             'TASC4/KASC11 Asteroseismology Meeting',
-             ''),
+             '/cluster-workshop')
             )
 
 # Defines the "related websites" listing in the footer of all pages
