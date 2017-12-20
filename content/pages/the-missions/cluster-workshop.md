@@ -404,7 +404,6 @@ Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 * Ruth Angus (Columbia University)
 * Nuralfin Anripa (State Islamic University of Maulana Malik Ibrahim)
 * Geert Barentsen (NASA Ames)
-* Jerome Bouvier (IPAG, Grenoble)
 * Phillip Cargile (Harvard CfA)
 * Giovanni Carraro (University of Padova)
 * Ann Marie Cody (NASA Ames)
