@@ -1,14 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2017-12-19T01:00:00-08:00</updated><entry><title>PanSTARRS monitoring of the K2 Campaign 16 field</title><link href="https://keplerscience.arc.nasa.gov/panstarrs-monitoring-of-the-k2-campaign-16-field.html" rel="alternate"></link><published>2017-12-19T01:00:00-08:00</published><updated>2017-12-19T01:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-12-19:/panstarrs-monitoring-of-the-k2-campaign-16-field.html</id><summary type="html">&lt;p&gt;K2 Campaign 16 started successfully on December 7th
-and has continued to proceed without issues since.&lt;/p&gt;
-&lt;p&gt;Because the Campaign is partially dedicated to the
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2017-12-20T01:00:00-08:00</updated><entry><title>Kepler/K2 at the AAS 231: January 2018, Washington DC</title><link href="https://keplerscience.arc.nasa.gov/keplerk2-at-the-aas-231-january-2018-washington-dc.html" rel="alternate"></link><published>2017-12-20T01:00:00-08:00</published><updated>2017-12-20T01:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-12-20:/keplerk2-at-the-aas-231-january-2018-washington-dc.html</id><summary type="html">&lt;p&gt;Members of the Kepler/K2 mission team are looking forward to meeting you at the 231st AAS meeting in Washington, DC.  You can find us at our exhibit booth, the K2/TESS splinter session, and several presentations.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Members of the Kepler/K2 mission team are looking forward to meeting you at the 231st AAS meeting in Washington, DC. You can find us at our exhibit booth, the K2/TESS splinter session, and several presentations.&lt;/p&gt;
+&lt;h3 id="exhibit-booth"&gt;Exhibit booth&lt;/h3&gt;
+&lt;p&gt;Kepler/K2 staff will be available at the NASA Exoplanets Booth in the far rear left corner of the exhibit hall.
+We will be able to update you about the spacecraft status,
+answer your questions about the upcoming &lt;a href="/call-for-k2-go-cycle-6-proposals-for-campaigns-17-18-and-19.html"&gt;K2 Cycle 6 funding opportunities&lt;/a&gt;,
+and demonstrate the &lt;a href="http://pyke.keplerscience.org"&gt;new PyKE data analysis tools&lt;/a&gt;.
+You can also just pass by to grab a Kepler sticker!&lt;/p&gt;
+&lt;h3 id="joint-splinter-session-with-tess"&gt;Joint splinter session with TESS&lt;/h3&gt;
+&lt;p&gt;On Tuesday evening (Jan 9th, at 7:30pm) the K2 and TESS missions are convening 
+a joint splinter session to enable you to hear latest news from both missions,
+alongside a small number of fun science talks. Stay tuned for details!&lt;/p&gt;
+&lt;h3 id="nasa-hyperwall-presentations"&gt;NASA Hyperwall presentations&lt;/h3&gt;
+&lt;p&gt;Come and experience Kepler talks on the ultra-high resolution Hyperwall screen
+at NASA's booth in the exhibit hall:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tue Jan 9th, 5:00pm: &lt;strong&gt;How to get the most out of Kepler data&lt;/strong&gt; (Christina Hedges, Kepler/K2 Support Scientist)&lt;/li&gt;
+&lt;li&gt;Wed Jan 10th, 4:15pm: &lt;strong&gt;High-Precision Photometry Across 1000 Square Degrees&lt;/strong&gt; (Jessie Dotson, Kepler/K2 Project Scientist)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="conference-talks-and-posters"&gt;Conference talks and posters&lt;/h3&gt;
+&lt;p&gt;Kepler/K2 staff will present the following contributions during the meeting:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Poster 439.07: &lt;strong&gt;A PSF photometry tool for NASA's Kepler, K2, and TESS missions&lt;/strong&gt; (Jos&amp;eacute; De Miranda Cardoso)&lt;/li&gt;
+&lt;li&gt;Poster 439.10: &lt;strong&gt;PyKE3: data analysis tools for NASA's Kepler, K2, and TESS missions&lt;/strong&gt; (Christina Hedges)&lt;/li&gt;
+&lt;li&gt;Talk at Wed Jan 10th, 10:40am: &lt;strong&gt;The Kepler and K2 Near-Infrared Transit Survey&lt;/strong&gt; (Knicole Col&amp;oacute;n)&lt;/li&gt;
+&lt;li&gt;Talk at Fri Jan 12th, 11:00am: &lt;strong&gt;Using Final Kepler Catalog Completeness and Reliability Products in Exoplanet Occurrence Rate Estimates&lt;/strong&gt; (Steve Bryson)&lt;/li&gt;
+&lt;li&gt;Talk at Fri Jan 12th, 11:20am: &lt;strong&gt;Star clusters and K2&lt;/strong&gt; (Jessie Dotson)&lt;/li&gt;
+&lt;li&gt;Talk at Fri Jan 12th, 2:00pm: &lt;strong&gt;The exoplanet population revealed by K2&lt;/strong&gt; (Geert Barentsen)&lt;/li&gt;
+&lt;li&gt;Talk at Fri Jan 12th, 2:10pm: &lt;strong&gt;Fake Planets! Simulating Transits and False Positives for Kepler's Final Catalog&lt;/strong&gt; (Jeff Coughlin)&lt;/li&gt;
+&lt;li&gt;Talk at Fri Jan 12th, 2:50pm: &lt;strong&gt;Kepler's DR25 Most Earth-like Planet Candidates: What To Know Before You Go&lt;/strong&gt; (Susan Thompson)&lt;/li&gt;
+&lt;/ul&gt;</content></entry><entry><title>PanSTARRS monitoring of the K2 Campaign 16 field</title><link href="https://keplerscience.arc.nasa.gov/panstarrs-monitoring-of-the-k2-campaign-16-field.html" rel="alternate"></link><published>2017-12-20T01:00:00-08:00</published><updated>2017-12-20T01:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-12-20:/panstarrs-monitoring-of-the-k2-campaign-16-field.html</id><summary type="html">&lt;p&gt;Because the currently-ongoing K2 Campaign 16 is partially dedicated to the
 &lt;a href="/supernova-experiment"&gt;Supernova Experiment&lt;/a&gt;,
 the project has acquired PanSTARRS time to monitor
 the entire field every night in two filters
 (cycling through g+r and g+i)
-for …&lt;/p&gt;</summary><content type="html">&lt;p&gt;K2 Campaign 16 started successfully on December 7th
-and has continued to proceed without issues since.&lt;/p&gt;
-&lt;p&gt;Because the Campaign is partially dedicated to the
+for the purpose of providing early alerts for transients in the field.
+The alerts …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Because the currently-ongoing K2 Campaign 16 is partially dedicated to the
 &lt;a href="/supernova-experiment"&gt;Supernova Experiment&lt;/a&gt;,
 the project has acquired PanSTARRS time to monitor
 the entire field every night in two filters
@@ -34,7 +60,25 @@ to the public no later than June 1st, 2018.
 The release will include images in g, r, and i
 for the entire field to a typical depth of 21st magnitude
 and with a typical cadence better than 1-2 days.
-These PanSTARRS data are expected to benefit multiple galactic and extragalactic investigations associated with Campaign 16.&lt;/p&gt;</content></entry><entry><title>Agenda available for the K2 Clusters Workshop in Boston</title><link href="https://keplerscience.arc.nasa.gov/agenda-available-for-the-k2-clusters-workshop-in-boston.html" rel="alternate"></link><published>2017-12-14T12:00:00-08:00</published><updated>2017-12-14T12:00:00-08:00</updated><author><name>Ann Marie Cody</name></author><id>tag:keplerscience.arc.nasa.gov,2017-12-14:/agenda-available-for-the-k2-clusters-workshop-in-boston.html</id><summary type="html">&lt;p&gt;The draft agenda for the
+These PanSTARRS data are expected to benefit multiple galactic and extragalactic investigations associated with Campaign 16.&lt;/p&gt;</content></entry><entry><title>K2 Campaign 16 successfully underway</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-16-successfully-underway.html" rel="alternate"></link><published>2017-12-19T01:00:00-08:00</published><updated>2017-12-19T01:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-12-19:/k2-campaign-16-successfully-underway.html</id><summary type="html">&lt;p&gt;K2 Campaign 16 started successfully on December 7th
+and has continued to proceed without issues since.&lt;/p&gt;
+&lt;p&gt;Uniquely, the spacecraft is pointing along the forward-facing direction of the spacecraft's velocity vector during Campaigns 16 and 17,
+which allows the field to be accessed from Earth during Kepler's observations.
+This enables K2's …&lt;/p&gt;</summary><content type="html">&lt;p&gt;K2 Campaign 16 started successfully on December 7th
+and has continued to proceed without issues since.&lt;/p&gt;
+&lt;p&gt;Uniquely, the spacecraft is pointing along the forward-facing direction of the spacecraft's velocity vector during Campaigns 16 and 17,
+which allows the field to be accessed from Earth during Kepler's observations.
+This enables K2's single-bandpass photometry to be complemented with simultaneous color photometry and spectroscopy from the ground.&lt;/p&gt;
+&lt;p&gt;For example, members of the extragalactic community are taking advantage
+of this opportunity to &lt;a href="/panstarrs-monitoring-of-the-k2-campaign-16-field.html"&gt;execute rapid follow-up of transients&lt;/a&gt;.
+At the same time, teams led by Sharon Wang (see &lt;a href="RVxK2.com"&gt;RVxK2.com&lt;/a&gt;) and Alex Santerne (see the "&lt;a href="https://twitter.com/a_santerne/status/934077306313863169"&gt;K2 Stellar Activity Campaign&lt;/a&gt;") are collecting
+simultaneous high-precision RV observations of bright stars in the K2 field.
+A comprehensive list of science programs is &lt;a href="/k2-approved-programs.html#campaign-16"&gt;available on our website&lt;/a&gt;,
+and a non-exhaustive list of the ground-based facilities involved is available
+as a &lt;a href="https://docs.google.com/spreadsheets/d/1ymIEoUyX0ZE8sKHA80tV8ieYJh47Nj4tIDIGXZeKqc4/edit#gid=45363194"&gt;Google Spreadsheet&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The cartoon below highlights some of the most notable science programs
+being executed during this Campaign.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.nasa.gov/feature/ames/kepler-s-gaze-shifts-toward-new-targets-supernovae-the-beehive-cluster-and-earth"&gt;&lt;img src="/images/news/c16cartoon300dpi-full.jpg"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>Agenda available for the K2 Clusters Workshop in Boston</title><link href="https://keplerscience.arc.nasa.gov/agenda-available-for-the-k2-clusters-workshop-in-boston.html" rel="alternate"></link><published>2017-12-14T12:00:00-08:00</published><updated>2017-12-14T12:00:00-08:00</updated><author><name>Ann Marie Cody</name></author><id>tag:keplerscience.arc.nasa.gov,2017-12-14:/agenda-available-for-the-k2-clusters-workshop-in-boston.html</id><summary type="html">&lt;p&gt;The draft agenda for the
 &lt;b&gt;Kepler/K2 workshop on Dwarf Stars and Clusters&lt;/b&gt;
 is &lt;a href="/cluster-workshop/#draft-agenda"&gt;now available online&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;So far, over 50 participants have registered to attend the workshop,
