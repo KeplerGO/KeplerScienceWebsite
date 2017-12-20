@@ -462,7 +462,7 @@ Registration is now open! There is no fee to attend. Coffee breaks are sponsored
 for Astrophysical Research</a> at Boston University.
 
 Please <a href='https://docs.google.com/forms/d/e/1FAIpQLSdZhetqWv9_oUAXmLueHDhyIVdMYcLPj53p5TjPeEgTTMkRWQ/viewform?usp=sf_link'>
-sign up </a> to attend and indicate your interest to give a short talk. The final date to register for a talk will be November 22, 2017.
+sign up </a> to attend and indicate your interest to give a short talk.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdZhetqWv9_oUAXmLueHDhyIVdMYcLPj53p5TjPeEgTTMkRWQ/viewform?embedded=true" 
 width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
