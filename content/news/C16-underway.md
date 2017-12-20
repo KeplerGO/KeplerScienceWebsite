@@ -11,7 +11,7 @@ This enables K2's single-bandpass photometry to be complemented with simultaneou
 
 For example, members of the extragalactic community are taking advantage
 of this opportunity to [execute rapid follow-up of transients](/panstarrs-monitoring-of-the-k2-campaign-16-field.html).
-At the same time, teams led by Sharon Wang (see [RVxK2.com](RVxK2.com)) and Alex Santerne (see the "[K2 Stellar Activity Campaign](https://twitter.com/a_santerne/status/934077306313863169)") are collecting
+At the same time, teams led by Dr Sharon Wang (see [RVxK2.com](https://RVxK2.com)) and Dr Alexandre Santerne (see the [K2 Stellar Activity Campaign](https://twitter.com/a_santerne/status/934077306313863169)) are collecting
 simultaneous high-precision RV observations of bright stars in the K2 field.
 A comprehensive list of science programs is [available on our website](/k2-approved-programs.html#campaign-16),
 and a non-exhaustive list of the ground-based facilities involved is available
