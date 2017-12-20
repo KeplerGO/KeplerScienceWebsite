@@ -366,6 +366,10 @@ The workshop will take place on the Boston University campus, primarily at the C
 The nearest airport is the Boston Logan International Airport.
 We recommend using the MBTA system, which provides public transportation from the airport.
 
+For those that wish to drive to campus, there should be parking available at the Granby Lot, 665 Commonwealth Ave or the Kenmore Lot, 
+549 Commonwealth Ave., at a cost of $17 per day.  If these are full, there are 
+<a href="http://www.bu.edu/parking/lots-locations/family-guests-and-visitor-parking/"> other parking options </a> available.
+Attendants at the Granby and Kenmore Lots can offer directions.
 
 ### Accommodation
 
@@ -381,7 +385,8 @@ Prices range from $110-150/night + tax.
 
 * Students on a budget may want to check out the <a href='http://bostonhostel.org/'>hostel</a> in central Boston. 
 
-* For other options, check out hotels on the B or C Green Lines, such as the <a href='https://www.reservations.com/hotel/holiday-inn-boston-brookline?gclid=EAIaIQobChMIo7Hy6N3D1gIVir3tCh30-AbCEAAYAiAAEgJSyfD_BwE'>
+* For other options, check out hotels on the B or C Green Lines, such as the <a 
+href='https://www.reservations.com/hotel/holiday-inn-boston-brookline?gclid=EAIaIQobChMIo7Hy6N3D1gIVir3tCh30-AbCEAAYAiAAEgJSyfD_BwE'> 
 Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 
 ### Organizing Committee
@@ -458,9 +463,12 @@ Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 
 ### Registration
 
-Registration is now open! There is no fee to attend. Coffee breaks are sponsored by the <a href='https://www.bu.edu/iar'> Institute for Astrophysical Research</a> at Boston University.
+Registration is now open! There is no fee to attend. Coffee breaks are sponsored by the <a href='https://www.bu.edu/iar'> Institute 
+for Astrophysical Research</a> at Boston University.
 
 Please <a href='https://docs.google.com/forms/d/e/1FAIpQLSdZhetqWv9_oUAXmLueHDhyIVdMYcLPj53p5TjPeEgTTMkRWQ/viewform?usp=sf_link'>
 sign up </a> to attend and indicate your interest to give a short talk. The final date to register for a talk will be November 22, 2017.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdZhetqWv9_oUAXmLueHDhyIVdMYcLPj53p5TjPeEgTTMkRWQ/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdZhetqWv9_oUAXmLueHDhyIVdMYcLPj53p5TjPeEgTTMkRWQ/viewform?embedded=true" 
+width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
