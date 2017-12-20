@@ -64,25 +64,25 @@ comparing technical approaches to K2 data, including photometry.
     </td>
   </tr>
   <tr>
-    <th><b>10:30–11:45</b></th>
+    <th><b>10:30–11:30</b></th>
     <td>
-        <b>Science talks: Eclipsing binaries</b><br/>
+        <b>Science talks: Stellar rotation</b><br/>
         <ul class="schedule">
             <li>
-                The Mass-Radius Relation of Young Stars<br/>
-                <i>Adam Kraus</i>
+                Rotation in field M dwarfs<br/>
+                <i>Elisabeth Newton</i>                
             </li>
             <li>
-                K2 Observations of a M3.7+M5.0 EB with Total Secondary Eclipses<br/>
-                <i>Joel Hartman</i>
+               Stellar Rotation in Clusters with K2<br/>
+                <i>Luisa Rebull</i>
             </li>
             <li>
-                Eclipsing Binaries and Cluster Ages<br/>
-                <i>Eric Sandquist</i>
+               Measuring the radii of low-mass active stars using K2<br/>
+                <i>Rob Jeffries</i>
             </li>
             <li>
-                Young planets, brown dwarfs and eclipsing binaries in Praesepe<br/>
-                <i>Ed Gillen</i>
+               Determining Reliable Rotation Periods for M67 from K2 Data<br/>
+                <i>Rebecca Esselstein</i>
             </li>
         </ul>
     </td>
@@ -90,7 +90,7 @@ comparing technical approaches to K2 data, including photometry.
   <tr>
     <th><b>11:30–12:00</b></th>
     <td>
-        <b>Unconference day overview & 1-minute pitches</b>
+        <b>Unconference day overview </b>
     </td>
   </tr>
   <tr>
@@ -147,7 +147,7 @@ comparing technical approaches to K2 data, including photometry.
                 <i>Melinda Soares-Furtado</i>
             </li>
             <li> 
-               Discovery of planets around nearby planets<br/>
+               Discovery of planets around nearby stars<br/>
                 <i>Prajwaul Nirala</i>
             </li>
             <li>
@@ -181,39 +181,35 @@ comparing technical approaches to K2 data, including photometry.
     </td>
   </tr>
   <tr>
-    <th><b>10:00-11:30</b></th>
+    <th><b>10:00-11:15</b></th>
     <td>
-        <b>Rotation</b><br/>
+        <b>Eclipsing binaries and companions</b><br/>
         <ul class="schedule">
             <li>
-                Rotation in field M dwarfs<br/>
-                <i>Elisabeth Newton</i>                
+                The Mass-Radius Relation of Young Stars<br/>
+                <i>Adam Kraus</i>
             </li>
             <li>
-               Stellar Rotation in Clusters with K2<br/>
-                <i>Luisa Rebull</i>
-            </li>
-            <li>
-               Determining Reliable Rotation Periods for M67 from K2 Data<br/>
-                <i>Rebecca Esselstein</i>
+                K2 Observations of a M3.7+M5.0 EB with Total Secondary Eclipses<br/>
+                <i>Joel Hartman</i>
             </li>
             <li>
                The effect of companions on rotational evolution<br/>
                 <i>Stephanie Douglas</i>
             </li>
             <li>
-               The lithium-rotation connection in young stars<br/>
-                <i>Jerome Bouvier</i>
+                Eclipsing Binaries and Cluster Ages<br/>
+                <i>Eric Sandquist</i>
             </li>
             <li>
-               Measuring the radii of low-mass active stars using K2<br/>
-                <i>Rob Jeffries</i>
+                Young planets, brown dwarfs and eclipsing binaries in Praesepe<br/>
+                <i>Ed Gillen</i>
             </li>
         </ul>
     </td>
   </tr>
   <tr>
-    <th><b>11:30–12:00</b></th>
+    <th><b>11:15–12:00</b></th>
     <td>
         <b>Unconference pitches</b><br/>
         <ul class="schedule">
