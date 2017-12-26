@@ -9,25 +9,31 @@ Test URL: http://keplergo.github.io/KeplerScienceWebsite/
 
 ## Quickstart
 
-Kepler/K2's Science Center Website can be edited
-by modifying the text files in the `content` sub-directory of this repository,
-compiling them using `make html` (or `make devserver`),
-and sending them to the server using `make live`.
-The essential commands for Kepler/K2 staff are:
+To preview the Kepler/K2's Science Center Website
+on your local machine, simply clone this repository and run
+`make devserver` as follows:
 ```
 $ git clone git@github.com:KeplerGO/KeplerScienceWebsite.git
 $ cd KeplerScienceWebsite
 $ make devserver
 $ firefox http://localhost:8000
+```
 
-# make changes in the `content` sub-directory
-# and preview them at http://localhost:8000
-
-$ git add content/file-you-changed.md
+If you have write access to this repository,
+you can modify the website by editing the text files in the `content` 
+sub-directory of this repository, preview them in your browser,
+and then commit the changes to this repository. For example
+```
+$ vim content/pages/helpdesk.md        # Edit the helpdesk page
+$ http://localhost:8000                # Preview the change in your browser
+$ git add content/pages/helpdesk.md    # Commit your change to this repo
 $ git commit -m 'Explain your change'
 $ git push
-$ make live
 ```
+
+Finally, if you have access to the NASA webserver,
+you can make the changes live using the `make upload` command.
+
 In what follows these steps are explained in more detail.
 
 ## Detailed instructions for website editors
@@ -113,10 +119,8 @@ $ git push
 
 Finally, you can now send the new HTML-compiled version of the website
 to the [production webserver](http://keplerscience.arc.nasa.gov).
-This is done by typing `make live`.
-Note that it may take up to 5-10 minutes for changes to become visible after
-`make live` completed, and occasionally you may need to ask the GO Office
-to restart the task that keeps the webserver in sync.
+This is done by typing `make upload` (note that this requires 
+special access to the webserver and the configuration of shell variables).
 
 If you are not quite ready to make your changes live,
 but would to make them available at a test URL,
@@ -130,10 +134,10 @@ The Makefile provides the following useful commands:
 * `make html` to compile *all pages* and store them under `output/`.
 * `make quick` to compile *only pages that have changed*.  This is faster than `make html` but will cause the front and news pages to be incomplete.
 * `make devserver` to start a development webserver on your local machine at `http://localhost:8000`, which will auto-compile a page when you make a change. This too causes the frontpage to be empty unless you call `make html`.
-* `make live` to send the compiled HTML files to the [production server](http://keplerscience.arc.nasa.gov) (this is done indirectly by updating the `live` branch).
+* `make upload` to send the compiled HTML files to the [production server](http://keplerscience.arc.nasa.gov).
 * `make github` to send the compiled HTML files to the [development server](http://keplergo.github.io/KeplerScienceWebsite/).
 
-Note: `make quick` and `make devserver` both use agressive caching which allows the website to be built quickly, but causes the listing of news items to be missing from the front page (`output/index.html`).  You need to call `make html` if you care about a preview of the front page. Calling `make github` or `make live` automatically triggers `make html`.
+Note: `make quick` and `make devserver` both use agressive caching which allows the website to be built quickly, but causes the listing of news items to be missing from the front page (`output/index.html`).  You need to call `make html` if you care about a preview of the front page. Calling `make github` or `make upload` automatically triggers `make html`.
 
 
 ## Authors

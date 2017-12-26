@@ -5,7 +5,6 @@ PELICANOPTS=
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
-LIVEDIR=$(BASEDIR)/live
 
 CONFFILE=$(BASEDIR)/pelicanconf.py
 DEVCONF=$(BASEDIR)/pelicanconf-dev.py
@@ -42,14 +41,14 @@ help:
 quick:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
-html:
-	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS) --ignore-cache
-
 html-dev:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(DEVCONF) $(PELICANOPTS) --ignore-cache
 
-html-live:
-	$(PELICAN) $(INPUTDIR) -o $(LIVEDIR) -s $(LIVECONF) $(PELICANOPTS) --ignore-cache
+html: clean
+	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS) --ignore-cache
+
+html-live: clean
+	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(LIVECONF) $(PELICANOPTS) --ignore-cache
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
@@ -77,7 +76,7 @@ stopserver:
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
 upload: html-live
-	rsync -rvPzc --cvs-exclude $(LIVEDIR)/ $(KEPLERWEB_USER)@$(KEPLERWEB_HOST):$(KEPLERWEB_DIR)
+	rsync -rvPzc --cvs-exclude $(OUTPUTDIR)/ $(KEPLERWEB_USER)@$(KEPLERWEB_HOST):$(KEPLERWEB_DIR)
 
 github: html-dev
 	ghp-import -m "Generate dev site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
