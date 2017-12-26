@@ -76,6 +76,13 @@ stopserver:
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
 upload: html-live
+	@if [ $(shell git status -s | wc -l) -gt 0 ]; then \
+	  	echo "***WARNING***"; \
+	  	echo "You have uncommitted changes in this repository (run 'git status' for details)."; \
+	  	echo "Please add/commit/push these changes to GitHub before uploading to the webserver.\n"; \
+	  	echo "Press Ctrl-C to go back, or any other key to continue the upload."; \
+	  read $foo; \
+	fi
 	rsync -rvPzc --cvs-exclude $(OUTPUTDIR)/ $(KEPLERWEB_USER)@$(KEPLERWEB_HOST):$(KEPLERWEB_DIR)
 
 github: html-dev
