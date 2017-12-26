@@ -7,6 +7,7 @@
 *.out
 *.py[cod]
 output/
+live/
 cache/
 *.pyc
 

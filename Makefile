@@ -5,15 +5,11 @@ PELICANOPTS=
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
+LIVEDIR=$(BASEDIR)/live
 
 CONFFILE=$(BASEDIR)/pelicanconf.py
 DEVCONF=$(BASEDIR)/pelicanconf-dev.py
 LIVECONF=$(BASEDIR)/pelicanconf-live.py
-
-SSH_HOST=localhost
-SSH_PORT=22
-SSH_USER=root
-SSH_TARGET_DIR=/var/www
 
 GITHUB_PAGES_BRANCH=gh-pages
 GITHUB_LIVE_BRANCH=live
@@ -36,8 +32,7 @@ help:
 	@echo '   make serve [PORT=8000]           serve site at http://localhost:8000'
 	@echo '   make devserver [PORT=8000]       start/restart develop_server.sh    '
 	@echo '   make stopserver                  stop local server                  '
-	@echo '   make ssh_upload                  upload the web site via SSH        '
-	@echo '   make rsync_upload                upload the web site via rsync+ssh  '
+	@echo '   make upload                      upload the web site via rsync+ssh  '
 	@echo '   make github                      upload the web site via gh-pages   '
 	@echo '   make kpub                        update the publication stats (requires kpub)'
 	@echo '                                                                       '
@@ -54,7 +49,7 @@ html-dev:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(DEVCONF) $(PELICANOPTS) --ignore-cache
 
 html-live:
-	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(LIVECONF) $(PELICANOPTS) --ignore-cache
+	$(PELICAN) $(INPUTDIR) -o $(LIVEDIR) -s $(LIVECONF) $(PELICANOPTS) --ignore-cache
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
@@ -81,19 +76,17 @@ stopserver:
 	kill -9 `cat srv.pid`
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
-ssh_upload: html-live
-	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
-
-rsync_upload: html-live
-	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
+upload: html-live
+	rsync -rvPzc --cvs-exclude $(LIVEDIR)/ $(KEPLERWEB_USER)@$(KEPLERWEB_HOST):$(KEPLERWEB_DIR)
 
 github: html-dev
 	ghp-import -m "Generate dev site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH)
 
-live: html-live
-	ghp-import -m "Generate live site" -b $(GITHUB_LIVE_BRANCH) $(OUTPUTDIR)
-	git push origin $(GITHUB_LIVE_BRANCH)
+#Make live is deprecated, use make upload instead
+#live:
+	#ghp-import -m "Generate live site" -b $(GITHUB_LIVE_BRANCH) $(OUTPUTDIR)
+	#git push origin $(GITHUB_LIVE_BRANCH)
 
 kpub:
 	cd content/pages/kpub; \
