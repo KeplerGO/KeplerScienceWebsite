@@ -143,9 +143,7 @@ MEETINGS = (
 # Defines the "related websites" listing in the footer of all pages
 RELATEDSITES = (
             ("Kepler/K2 News and Media Resources",
-             'http://www.nasa.gov/mission_pages/kepler/main/index.html'),
-            ('Kepler/K2 Education Resources',
-             'http://kepler.arc.nasa.gov'),
+             'http://www.nasa.gov/kepler'),
             ('Kepler/K2 @ Ball Aerospace',
              'http://www.ballaerospace.com/page.jsp?page=72'),
             ('Kepler Data Archive @ MAST',
