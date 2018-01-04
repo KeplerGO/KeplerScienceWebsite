@@ -130,8 +130,11 @@ IMPORTANT_DATES = (
 # Defines the "meetings" box on the front page
 MEETINGS = (
             ('<b>8–12 Jan 2018</b><br>'
-             'Kepler/K2 booth and events at AAS 231, including a Splinter Session on Jan 9th.',
+             'Kepler/K2 booth and events at AAS 231',
              '/keplerk2-at-the-aas-231-january-2018-washington-dc.html'),
+            ('<b>9 Jan 2018</b><br>'
+             'K2 & TESS Splinter Meeting at AAS 231',
+             '/k2-tess-splinter-meeting-at-aas231-on-jan-9th-2018.html'),
             ('<b>16–18 Jan 2018</b><br>'
              'Workshop: Dwarf Stars and Clusters with K2',
              '/cluster-workshop')
