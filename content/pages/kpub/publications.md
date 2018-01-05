@@ -48,7 +48,7 @@ The publication count for Kepler is 2142
 while that of K2 is 325.
 The number of refereed papers is 1900 for Kepler and 268 for K2.
 
-[![Publication rate by mission and year](/images/kpub/kpub-publication-rate.png)](/images/kpub/kpub-publication-rate.png)
+[![Publication rate by mission and year](/images/kpub/kpub-publication-rate-without-extrapolation.png)](/images/kpub/kpub-publication-rate-without-extrapolation.png)
 
 <hr/>
 
