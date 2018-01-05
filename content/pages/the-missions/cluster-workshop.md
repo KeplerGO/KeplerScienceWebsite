@@ -386,6 +386,9 @@ Research). Upon reaching the College of Arts and Sciences (home of the Institute
 end of the building near the Marsh Chapel. Talks will be in CAS 211, and coffee breaks in CAS 500 and 502.
 Look for signs directing you to the meeting.
 
+For lunch, we suggest the George Sherman Union, but you can also take a look at our <a href='http://www.bu.edu/iar/seminars/local-favorites/'>
+list of other nearby options.</a>
+
 <img class="img-responsive" style="max-width:80%;" src="../images/k2/BUworkshop_zoom.png" >
 
 On the third day, the Unconference will take place in the Terrace Lounge of the George Sherman Union (GSU). GSU is also our 
