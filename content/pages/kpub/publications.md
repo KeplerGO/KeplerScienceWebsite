@@ -351,4 +351,4 @@ Here we list the most-active authors, defined as those with six or more first-au
 ## Spreadsheet
 
 You can mine the Kepler/K2 publication database yourself
-using our spreadsheet of publications: [kepler-publications.xls](/images/kpub/kepler-publications.xls)
+using our spreadsheet of publications: [kepler-publications.xls](/data/kepler-publications.xls)
