@@ -99,9 +99,9 @@ kpub:
 	kpub --save
 	cd content/images/kpub; \
 	kpub-plot
-	cd content/images/kpub; \
+	cd content/data; \
 	kpub-spreadsheet
-	git add content/pages/kpub/* content/images/kpub/*
+	git add content/pages/kpub/* content/images/kpub/* content/data/kepler-publications.xls
 	git commit -m "Publication stats update"
 
 .PHONY: html html-dev html-live help clean regenerate serve devserver ssh_upload rsync_upload github live kpub
