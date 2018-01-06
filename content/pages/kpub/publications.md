@@ -348,3 +348,7 @@ Here we list the most-active authors, defined as those with six or more first-au
  * Gizis, J (6 publications)
 
  * Faigler, S (6 publications)
+## Spreadsheet
+
+You can mine the Kepler/K2 publication database yourself
+using our spreadsheet of publications: [/images/kpub/kepler-publications.xls](kepler-publications.xls)
