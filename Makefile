@@ -99,6 +99,8 @@ kpub:
 	kpub --save
 	cd content/images/kpub; \
 	kpub-plot
+	cd content/images/kpub; \
+	kpub-spreadsheet
 	git add content/pages/kpub/* content/images/kpub/*
 	git commit -m "Publication stats update"
 
