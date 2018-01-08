@@ -260,21 +260,21 @@ BU College of Arts and Sciences building, room 211</h4>
                 The Zoo of Young Star Variability as seen by K2<br/>
                 <i>Ann Marie Cody</i>
             </li>
-            <li>    
-                YSOVAR: Mid-infrared Variability Among YSOs in the Star Formation Regions<br/>
-                <i>Scott Wolk</i>
+            <li> 
+                A Glimpse of Star Formation in the Outer Galaxy: SMOG Field<br/>
+                <i>Elaine Winston</i>   
             </li>
         </ul>
     </td>
   </tr>
   <tr>
-    <th><b>15:00–15:30</b></th>
+    <th><b>15:00–15:45</b></th>
     <td>
         <b>Coffee (Rooms 500/502)</b>
     </td>
   </tr>
   <tr>
-    <th><b>15:30–17:00</b></th>
+    <th><b>15:45–17:00</b></th>
     <td>
         <b>Non-main-sequence stars and synergies with other missions</b><br/>
         <ul class="schedule">
@@ -293,11 +293,7 @@ BU College of Arts and Sciences building, room 211</h4>
             <li>
                 A PSF-based approach to K2 data - Variables and Exoplanet candidates within K2 cluster fields<br/>
                 <i>Domenico Nardiello</i>
-            </li>
-            <li>
-                A Glimpse of Star Formation in the Outer Galaxy: SMOG Field<br/>
-                <i>Elaine Winston</i>
-            </li>
+            </li>            
         </ul>
     </td>
   </tr>
