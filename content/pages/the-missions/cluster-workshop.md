@@ -28,7 +28,7 @@ The motivations for this workshop include:
 * Exploring synergies with other space missions (especially TESS), wavelength regions, and science areas.
 
 
-### Draft Agenda
+### Agenda
 
 This will be a small workshop with time for most participants to give a short 
 overview of their research during the first two days. Talks are 10 minutes each, plus 5 minutes for questions.
@@ -36,7 +36,8 @@ overview of their research during the first two days. Talks are 10 minutes each,
 how-to's and high-level science product creation overviews. We will also encourage participants to spend time 
 comparing technical approaches to K2 data, including photometry.
 
-<h4 style="font-weight: bold;">Tuesday, Jan 16th</h4>
+<h4 style="font-weight: bold;">Tuesday, Jan 16th <br>
+BU College of Arts and Sciences building, room 211</h4>
 
 <div class="row">
 <div class="col-sm-12 col-md-10">
@@ -44,7 +45,7 @@ comparing technical approaches to K2 data, including photometry.
   <tr>
     <th style="min-width:8em;"><b>09:15–10:00</b></th>
     <td>
-        <b>Coffee &amp; snacks</b>
+        <b>Coffee &amp; snacks, Rooms 500/502</b>
     </td>
   </tr>
   <tr>
@@ -64,7 +65,7 @@ comparing technical approaches to K2 data, including photometry.
     </td>
   </tr>
   <tr>
-    <th><b>10:30–11:30</b></th>
+    <th><b>10:30–11:45</b></th>
     <td>
         <b>Science talks: Stellar rotation</b><br/>
         <ul class="schedule">
@@ -84,11 +85,15 @@ comparing technical approaches to K2 data, including photometry.
                Determining Reliable Rotation Periods for M67 from K2 Data<br/>
                 <i>Rebecca Esselstein</i>
             </li>
+            <li>
+               Simply complexity: the missing ingredient for a complete spin-down model<br/>
+                <i>Cecilia Garraffo</i>
+            </li>
         </ul>
     </td>
   </tr>
   <tr>
-    <th><b>11:30–12:00</b></th>
+    <th><b>11:45–12:00</b></th>
     <td>
         <b>Unconference day overview </b>
     </td>
@@ -96,7 +101,7 @@ comparing technical approaches to K2 data, including photometry.
   <tr>
     <th><b>12:00–13:30</b></th>
     <td>
-        <b>Lunch</b>
+        <b>Lunch (George Sherman Union)</b>
     </td>
   </tr>
   <tr>
@@ -128,13 +133,13 @@ comparing technical approaches to K2 data, including photometry.
     </td>
   </tr>
   <tr>
-    <th><b>14:45–15:30</b></th>
+    <th><b>14:45–15:15</b></th>
     <td>
-        <b>Coffee</b>
+        <b>Coffee (rooms 500/502)</b>
     </td>
   </tr>
   <tr>
-    <th><b>15:30–17:00</b></th>
+    <th><b>15:15–16:45</b></th>
     <td>
         <b>Transiting planets</b><br/>
         <ul class="schedule">
@@ -164,12 +169,20 @@ comparing technical approaches to K2 data, including photometry.
         </ul>
     </td>
   </tr>
+  <tr>
+    <th><b>16:45–17:00</b></th>
+    <td>
+        <b>Day 1 Wrap-up</b>
+    </td>
+  </tr>
+
 </table>
 </div>
 </div>
 
 
-<h4 style="font-weight: bold;">Wednesday, Jan 17th</h4>
+<h4 style="font-weight: bold;">Wednesday, Jan 17th <br> 
+BU College of Arts and Sciences building, room 211</h4>
 
 <div class="row">
 <div class="col-sm-12 col-md-10">
@@ -177,7 +190,7 @@ comparing technical approaches to K2 data, including photometry.
   <tr>
     <th style="min-width:8em;"><b>9:30-10:00</b></th>
     <td>
-        <b>Coffee &amp; snacks</b>
+        <b>Coffee &amp; snacks (Rooms 500/502)</b>
     </td>
   </tr>
   <tr>
@@ -257,7 +270,7 @@ comparing technical approaches to K2 data, including photometry.
   <tr>
     <th><b>15:00–15:30</b></th>
     <td>
-        <b>Coffee</b>
+        <b>Coffee (Rooms 500/502)</b>
     </td>
   </tr>
   <tr>
@@ -293,7 +306,8 @@ comparing technical approaches to K2 data, including photometry.
 </div>
 
 
-<h4 style="font-weight: bold;">Thursday, Jan 18th</h4>
+<h4 style="font-weight: bold;">Thursday, Jan 18th <br> 
+Terrace Lounge, George Sherman Union</h4>
 
 <p>Unconference Day</p>
 
@@ -357,15 +371,30 @@ comparing technical approaches to K2 data, including photometry.
 
 The workshop will take place on the Boston University campus, primarily at the College of Arts and Sciences.
 
-<img class="img-responsive" style="max-width:80%;" src="../images/k2/BUworkshop.png" >
-
 The nearest airport is the Boston Logan International Airport.
 We recommend using the MBTA system, which provides public transportation from the airport.
+
+<img class="img-responsive" style="max-width:80%;" src="../images/k2/BUworkshop.png" >
 
 For those that wish to drive to campus, there should be parking available at the Granby Lot, 665 Commonwealth Ave or the Kenmore Lot, 
 549 Commonwealth Ave., at a cost of $17 per day.  If these are full, there are 
 <a href="http://www.bu.edu/parking/lots-locations/family-guests-and-visitor-parking/"> other parking options </a> available.
 Attendants at the Granby and Kenmore Lots can offer directions.
+
+For the first two days, the workshop will be held at the College of Arts and Sciences (CAS; home of the Institute for Astrophysical 
+Research). Upon reaching the College of Arts and Sciences (home of the Institute for Astrophysical Research), proceed to the northwest 
+end of the building near the Marsh Chapel. Talks will be in CAS 211, and coffee breaks in CAS 500 and 502.
+Look for signs directing you to the meeting.
+
+For lunch, we suggest the George Sherman Union, but you can also take a look at our <a href='http://www.bu.edu/iar/seminars/local-favorites/'>
+list of other nearby options.</a>
+
+<img class="img-responsive" style="max-width:80%;" src="../images/k2/BUworkshop_zoom.png" >
+
+On the third day, the Unconference will take place in the Terrace Lounge of the George Sherman Union (GSU). GSU is also our 
+suggested lunch site. It is located at 775 Commonwealth Ave. Right click on the above map and select 'view image' to see a larger 
+version.
+
 
 ### Accommodation
 
@@ -398,7 +427,7 @@ Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 
 ### Participant registration list
 
-(Last update: Dec. 7, 2017)
+(Last update: Jan. 5, 2018)
 
 * Marcel Agüeros (Columbia University)
 * Ruth Angus (Columbia University)
@@ -411,14 +440,18 @@ Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 * Trevor David (JPL)
 * Stephanie Douglas (Harvard CfA)
 * Lauren Doyle (Armagh Observatory)
+* Jeremy Drake (Smithsonian Astrophysical Observatory)
 * Rebecca Esselstein (Oxford University)
 * Nancy Evans (Harvard CfA)
 * Adina Feinstein (Tufts University)
+* Cecilia Garraffo (Harvard CfA)
 * Edward Gillen (University of Cambridge)
+* Peter Gilmartin (Manhattan College)
 * John Gizis (University of Delaware)
 * Natalie Gosnell (Colorado College)
 * Michael Gully-Santiago (NASA Ames)
 * Zhen Guo (Peking University)
+* Eunkyu Han (Boston University)
 * Kevin Hardegree-Ullman (University of Toledo)
 * Joel Hartman (Princeton University)
 * Christina Hedges (NASA Ames)
@@ -426,6 +459,7 @@ Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 * Ekaterina Ilin (Potsdam)
 * Kenneth Janes (Boston University)
 * Rob Jeffries (Keele University)
+* Aurora Kesseli (Boston University)
 * Kathleen Kraemer (Boston College)
 * Adam Kraus (University of Texas Austin)
 * David Latham (Harvard CfA)
@@ -440,17 +474,21 @@ Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 * Elisabeth Newton (MIT)
 * Srinitha Nimmakayala (Universidad Complutense de Madrid)
 * Prajwal Niraula (Wesleyan University)
+* Dawn Peterson	(Space Science Institute)
 * Luisa Rebull (IPAC/Caltech)
 * Alvaro Ribas (Boston University)
 * Joey Rodriguez (Harvard CfA)
 * Philip Rosenfield (Harvard CfA)
 * Sheila Sagear (Boston University)
 * Eric Sandquist (San Diego State University)
+* Brad Schaefer	(Louisiana State University)
 * Joshua Schlieder (NASA GSFC)
 * Avi Shporer (MIT)
 * Julie Skinner (Boston University)
 * Melinda Soares-Furtado (Princeton University)
+* Ali Taani (Al-Balqa Applied University)
 * Patrick Tamburo (Boston University)
+* Aashana Tripathi (University of Potsdam) 
 * Andrew Vanderburg (University of Texas)
 * Mark Veyette (Boston University)
 * Elaine Winston (Harvard CfA)
@@ -458,11 +496,11 @@ Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 
 ### Registration
 
-Registration is now open! There is no fee to attend. Coffee breaks are sponsored by the <a href='https://www.bu.edu/iar'> Institute 
-for Astrophysical Research</a> at Boston University.
+The talk deadline has passed but registration remains open and capped at 70.  There is no fee to attend. Coffee breaks are 
+sponsored by the <a href='https://www.bu.edu/iar'> Institute for Astrophysical Research</a> at Boston University.
 
 Please <a href='https://docs.google.com/forms/d/e/1FAIpQLSdZhetqWv9_oUAXmLueHDhyIVdMYcLPj53p5TjPeEgTTMkRWQ/viewform?usp=sf_link'>
-sign up </a> to attend and indicate your interest to give a short talk. The final date to register for a talk will be November 22, 2017.
+sign up </a> to attend and indicate your interest to give a short talk.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdZhetqWv9_oUAXmLueHDhyIVdMYcLPj53p5TjPeEgTTMkRWQ/viewform?embedded=true" 
 width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>

@@ -10,11 +10,6 @@ CONFFILE=$(BASEDIR)/pelicanconf.py
 DEVCONF=$(BASEDIR)/pelicanconf-dev.py
 LIVECONF=$(BASEDIR)/pelicanconf-live.py
 
-SSH_HOST=localhost
-SSH_PORT=22
-SSH_USER=root
-SSH_TARGET_DIR=/var/www
-
 GITHUB_PAGES_BRANCH=gh-pages
 GITHUB_LIVE_BRANCH=live
 
@@ -36,8 +31,7 @@ help:
 	@echo '   make serve [PORT=8000]           serve site at http://localhost:8000'
 	@echo '   make devserver [PORT=8000]       start/restart develop_server.sh    '
 	@echo '   make stopserver                  stop local server                  '
-	@echo '   make ssh_upload                  upload the web site via SSH        '
-	@echo '   make rsync_upload                upload the web site via rsync+ssh  '
+	@echo '   make upload                      upload the web site via rsync+ssh  '
 	@echo '   make github                      upload the web site via gh-pages   '
 	@echo '   make kpub                        update the publication stats (requires kpub)'
 	@echo '                                                                       '
@@ -47,13 +41,13 @@ help:
 quick:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
-html:
-	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS) --ignore-cache
-
 html-dev:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(DEVCONF) $(PELICANOPTS) --ignore-cache
 
-html-live:
+html:
+	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS) --ignore-cache
+
+html-live: clean
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(LIVECONF) $(PELICANOPTS) --ignore-cache
 
 clean:
@@ -81,26 +75,33 @@ stopserver:
 	kill -9 `cat srv.pid`
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
-ssh_upload: html-live
-	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
-
-rsync_upload: html-live
-	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --delete $(OUTPUTDIR)/ $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR) --cvs-exclude
+upload: html-live
+	@if [ $(shell git status -s | wc -l) -gt 0 ]; then \
+	  	echo "***WARNING***"; \
+	  	echo "You have uncommitted changes in this repository (run 'git status' for details)."; \
+	  	echo "Please add/commit/push these changes to GitHub before uploading to the webserver.\n"; \
+	  	echo "Press Ctrl-C to go back, or any other key to continue the upload."; \
+	  read $foo; \
+	fi
+	rsync -rvPzc --cvs-exclude $(OUTPUTDIR)/ $(KEPLERWEB_USER)@$(KEPLERWEB_HOST):$(KEPLERWEB_DIR)
 
 github: html-dev
 	ghp-import -m "Generate dev site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH)
 
-live: html-live
-	ghp-import -m "Generate live site" -b $(GITHUB_LIVE_BRANCH) $(OUTPUTDIR)
-	git push origin $(GITHUB_LIVE_BRANCH)
+#Make live is deprecated, use make upload instead
+#live:
+	#ghp-import -m "Generate live site" -b $(GITHUB_LIVE_BRANCH) $(OUTPUTDIR)
+	#git push origin $(GITHUB_LIVE_BRANCH)
 
 kpub:
 	cd content/pages/kpub; \
 	kpub --save
 	cd content/images/kpub; \
 	kpub-plot
-	git add content/pages/kpub/* content/images/kpub/*
+	cd content/data; \
+	kpub-spreadsheet
+	git add content/pages/kpub/* content/images/kpub/* content/data/kepler-publications.xls
 	git commit -m "Publication stats update"
 
 .PHONY: html html-dev html-live help clean regenerate serve devserver ssh_upload rsync_upload github live kpub

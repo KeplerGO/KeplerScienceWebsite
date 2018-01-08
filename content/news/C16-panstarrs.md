@@ -1,11 +1,9 @@
 Title: PanSTARRS monitoring of the K2 Campaign 16 field
-Date: 2017-12-19 01:00
+Date: 2017-12-20 01:00
 Author: Geert Barentsen
 
-K2 Campaign 16 started successfully on December 7th
-and has continued to proceed without issues since.
 
-Because the Campaign is partially dedicated to the
+Because the currently-ongoing K2 Campaign 16 is partially dedicated to the
 [Supernova Experiment](/supernova-experiment),
 the project has acquired PanSTARRS time to monitor
 the entire field every night in two filters
