@@ -1,0 +1,20 @@
+# Summary of K2 Program GO16027
+
+Title: Optical Variability of Blazars and Quasars
+
+PI: Wehrle, Ann E. (Space Science Institute)
+CoIs: Carini, Michael Thomas; Wiita, Paul J
+
+We propose to measure the  long cadence light curves  of  eleven Fermi gamma-ray blazars: six in Campaign 14 and  five in Campaign 16, including one (3C 207)  which we observed in Campaign 5. We have data from 20 Fermi gamma-ray blazars in hand or being processed and observations of 3 more are scheduled.  Our ongoing K2 observations have already detected significant optical variability in ~ 83% of gamma-ray blazars, including binary black hole candidate OJ 287, ~ 16 of radio loud quasars, and ~ 5 of radio quiet quasars.  
+
+Our  scientific goal is to determine the origin of optical emission in the blazars at the time of K2 observations. Three candidate origins are: 1) a single dominant synchrotron-emitting region in a jet; 2) multiple synchrotron-emitting regions in a jet; and 3) an accretion disk with one or more thermal emitting regions. We will also determine if the origin of emission from the re-observable  blazar 3C 207 has changed since 2015. We will compare the optical variability amplitude and power spectral densities   of the gamma-ray blazars to those of less extreme blazars, and to those of their parent class of radio loud quasars, and to those of the much larger class of radio quiet quasars -- on hours-to-months timescales.  Data from the latter classes are in hand or scheduled for observations. We will measure the power spectral densities of the light curves and determine the power spectral densities' slopes which are related to the underlying variability processes, such as turbulence in the relativistic jets or stochastic fluctuations in thermal emission from segments of the accretion disk. 
+
+Relevance: The proposed research is relevant to the K2 Cycle 5 solicitation because we will carry out an investigation of science targets using the high precision photometry of the K2 mission with the goal of understanding the origin of optical emission in the cores of active galactic nuclei. We address the NASA Astrophysics goal of understanding the nature of black holes in the Universe.
+
+# Targets requested by this program that have been observed (5)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211504760, 130.198279, 13.206547, 18.264, GO16008_LC|GO16027_LC|GO16040_LC|GO16088_LC|GO16103_LC
+211852059, 129.87803, 18.046421, 17.046, GO16008_LC|GO16027_LC|GO16040_LC|GO16071_LC|GO16103_LC|GO16904_LC
+212035517, 135.612127, 20.846145, 15.741, GO16027_LC|GO16040_LC|GO16071_LC|GO16103_LC
+212042111, 134.165533, 20.962065, 18.345, GO16027_LC|GO16103_LC
+251376444, 137.252583, 23.186932, 17.939, GO16008_LC|GO16027_LC|GO16040_LC|GO16103_LC|GO16904_LC

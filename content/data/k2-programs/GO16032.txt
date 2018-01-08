@@ -1,0 +1,13 @@
+# Summary of K2 Program GO16032
+
+Title: Evolutionary Paths of AM CVn's to Supernovae
+
+PI: Montgomery, Michele (University of Central Florida)
+CoIs: Voloshina, Irina; Olenick, Richard P
+
+Of the most probable paths to supernova type I, three involve AM CVn systems, which are close binary systems where the primary member is a white dwarf. The secondary could be another white dwarf (i.e., a double-degenerate channel), the core of an evolved, once hydrogen-rich main sequence star [i.e., a Cataclysmic Variable (CV) channel], or a semi-degenerate helium star (i.e., a helium star channel). The probabilities to the three paths and identification of a particular path for a known AM CVn system are not well known. Recently we have identified several parameters that are predicted to identify the paths and even go further as to eliminate a path for a particular AM CVn system. Necessary for study of these parameters are observations of light curves, and in particular quiescence to and through Stage A of a superoutburst that is nearly always missed from ground-based observations. As such, we have a limited sample to confirm our predictions using ground-based data. Necessary are the observations we propose for K2 Cycle 5, Campaigns 14-16 for both AM CVn systems and CV systems. We need to observe CV systems so we can differentiate between the evolutionary path of a normal CV (i.e., white dwarf primary and main sequence or evolved secondary) and the CV channel for AM CVn systems. For all observations, we will simultaneously observe from the ground in the R band using the Sternberg Astronomical Observatory and in the V band using the University of Dallas at Texas observatories. We have put together a national and international team of experts to achieve these goals. This project will involve undergraduate student observers using ground-based telescopes.
+
+# Targets requested by this program that have been observed (2)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+251344942, 140.345161, 20.649192, 19.373, GO16019_LC|GO16032_LC|GO16049_LC|GO16066_LC|GO16019_SC|GO16049_SC|GO16066_SC
+251809242, , , , GO16032_LC|GO16066_LC

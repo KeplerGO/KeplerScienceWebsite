@@ -118,39 +118,32 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b class="text-danger">12 Oct 2017</b>',
-             '<div class="text-danger">GO Cycle 6 Phase-1 deadline: target lists & justifications due for Campaigns 17-19</div>',
-             'k2-proposing-targets.html'),
-            ('<b>30 Oct 2017</b> (expected)',
-             'K2 Campaign 14 calibrated data release',
-             ''),
+            ('<b>19 Jan 2018</b>',
+             'K2 Campaign 18 DDT proposals due',
+             'k2-ddt.html'),
             ('<b>19 Apr 2018</b>',
              'GO Cycle 6 Phase-2 deadline:<br/>funding proposals due for Campaigns 17-19',
              'k2-proposing-targets.html'),
          )
 
+
 # Defines the "meetings" box on the front page
 MEETINGS = (
-            ('<b>15–20 Oct 2017</b><br>'
-             'Kepler/K2 booth at the DPS meeting',
-             'https://aas.org/meetings/dps49'),
             ('<b>8–12 Jan 2018</b><br>'
-             'Kepler/K2 booth at the Winter AAS meeting',
-             'https://aas.org/meetings/aas231'),
+             'Kepler/K2 booth and events at AAS 231',
+             '/keplerk2-at-the-aas-231-january-2018-washington-dc.html'),
+            ('<b>9 Jan 2018</b><br>'
+             'K2 & TESS Splinter Meeting at AAS 231',
+             '/k2-tess-splinter-meeting-at-aas231-on-jan-9th-2018.html'),
             ('<b>16–18 Jan 2018</b><br>'
              'Workshop: Dwarf Stars and Clusters with K2',
-             '/cluster-workshop'),
-            ('<b>8–13 Jul 2018</b><br>'
-             'TASC4/KASC11 Asteroseismology Meeting',
-             ''),
+             '/cluster-workshop')
             )
 
 # Defines the "related websites" listing in the footer of all pages
 RELATEDSITES = (
             ("Kepler/K2 News and Media Resources",
-             'http://www.nasa.gov/mission_pages/kepler/main/index.html'),
-            ('Kepler/K2 Education Resources',
-             'http://kepler.arc.nasa.gov'),
+             'http://www.nasa.gov/kepler'),
             ('Kepler/K2 @ Ball Aerospace',
              'http://www.ballaerospace.com/page.jsp?page=72'),
             ('Kepler Data Archive @ MAST',

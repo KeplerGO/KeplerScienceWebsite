@@ -1,0 +1,39 @@
+# Summary of K2 Program GO16089
+
+Title: Kepler lightcurves of hot subdwarf stars
+
+PI: Kupfer, Thomas (Caltech)
+CoIs: Schaffenroth, Veronika; Ziegerer, Eva; Prince, Thomas A; Heber, Ulrich; Geier, Stephan
+
+Hot subdwarf B (sdB) stars are core-helium burning stars that have evolved from the red giant stage to the extreme blue end of the horizontal branch in a process where almost the entire envelope has been lost through interactions with a companion. Many sdBs are known to have close companions with periods ranging from 0.05 to 10 days, and must have evolved through the common-envelope-ejection (CEE) process. The closest systems are quite easy to study from the ground, but Kepler observations have opened the door for precise studies of the population of systems with periods between 0.5 and and 10 days. 
+
+Several close binary sdB stars were discovered by the original Kepler mission. The excellent Kepler light curves show photometric signals from Doppler beaming, ellipsoidal deformations and mutual irradiation effects. Long-cadence K2 observations presents us with an unique opportunity to accumulate a larger sample of post-common envelope sdB binaries that can shed light on the statistics of the CEE process, and thereby constrain the long sought after efficiency parameters that govern the common envelope stage of evolution. In the process we hope to find new particularly interesting binary systems, such as the eclipsing cases and those with extraordinary masses that could be progenitors of type-Ia supernovae.
+
+# Targets requested by this program that have been observed (26)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211421561, 135.177809, 11.963889, 14.902, GO16016_LC|GO16051_LC|GO16080_LC|GO16089_LC|GO16051_SC|GO16080_SC
+211433013, 137.605977, 12.140855, 14.017, GO16016_LC|GO16065_LC|GO16080_LC|GO16089_LC|GO16096_LC|GO16099_LC|GO16080_SC
+211437457, 136.420494, 12.207815, 14.729, GO16016_LC|GO16051_LC|GO16080_LC|GO16089_LC|GO16096_LC|GO16051_SC|GO16080_SC
+211460944, 134.616317, 12.566363, 15.362, GO16016_LC|GO16065_LC|GO16089_LC
+211495446, 130.432738, 13.074995, 14.03, GO16016_LC|GO16051_LC|GO16080_LC|GO16089_LC|GO16096_LC|GO16099_LC|GO16051_SC|GO16080_SC
+211552072, 131.486854, 13.869807, 17.498, GO16016_LC|GO16051_LC|GO16080_LC|GO16089_LC|GO16051_SC|GO16080_SC
+211559083, 131.087953, 13.968805, 18.18, GO16016_LC|GO16089_LC
+211720816, 129.756278, 16.196671, 16.709, GO16016_LC|GO16065_LC|GO16089_LC|GO16901_LC
+211727748, 130.344641, 16.292858, 14.99, GO16051_LC|GO16089_LC|GO16051_SC
+211765471, 133.348574, 16.826456, 14.035, GO16016_LC|GO16065_LC|GO16080_LC|GO16089_LC|GO16096_LC|GO16080_SC
+211881419, 132.935287, 18.456246, 13.302, GO16089_LC|GO16096_LC|GO16096_SC
+211904152, 138.779593, 18.787895, 15.932, GO16016_LC|GO16080_LC|GO16089_LC|GO16096_LC|GO16080_SC
+211910684, 137.221641, 18.886145, 15.985, GO16016_LC|GO16080_LC|GO16089_LC|GO16080_SC
+211930840, 138.800257, 19.1874, 19.13, GO16016_LC|GO16089_LC
+212034957, 135.759977, 20.835825, 18.615, GO16016_LC|GO16046_LC|GO16089_LC
+212126168, 127.068229, 22.540674, 12.613, GO16089_LC
+212204284, 131.549977, 24.41959, 15.639, GO16016_LC|GO16051_LC|GO16080_LC|GO16089_LC|GO16096_LC|GO16051_SC|GO16080_SC
+212212793, 132.907585, 24.697301, 14.296, GO16016_LC|GO16051_LC|GO16080_LC|GO16089_LC|GO16096_LC|GO16051_SC|GO16080_SC
+228682339, 127.100853, 21.4324303, 17.73, GO16016_LC|GO16046_LC|GO16089_LC
+228682488, 133.0733337, 21.2769394, 16.0, GO16016_LC|GO16051_LC|GO16065_LC|GO16080_LC|GO16089_LC|GO16051_SC|GO16080_SC
+251335876, 139.329751, 19.910696, 16.763, GO16016_LC|GO16046_LC|GO16062_LC|GO16089_LC|GO16096_LC
+251344281, 141.021882, 20.596246, 14.75, GO16016_LC|GO16051_LC|GO16062_LC|GO16089_LC|GO16096_LC|GO16051_SC|GO16062_SC
+251357585, 140.690827, 21.710833, 19.01, GO16016_LC|GO16046_LC|GO16089_LC
+251372905, 138.066949, 22.914687, 15.301, GO16016_LC|GO16080_LC|GO16089_LC|GO16080_SC
+251383153, 137.687095, 23.679069, 18.267, GO16016_LC|GO16089_LC
+251410019, 134.537897, 25.359623, 18.871, GO16016_LC|GO16089_LC
