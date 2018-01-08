@@ -488,7 +488,6 @@ Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 * Andrew Vanderburg (University of Texas)
 * Mark Veyette (Boston University)
 * Elaine Winston (Harvard CfA)
-* Scott Wolk (Harvard CfA)
 
 ### Registration
 
