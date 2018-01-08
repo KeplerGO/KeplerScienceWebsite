@@ -1,0 +1,23 @@
+# Summary of K2 Program GO16037
+
+Title: K2 Synergy with Simultaneous Radial Velocities: Asteroseismology, Jitter, and Planet Characterization
+
+PI: Wang, Sharon Xuesong (Carnegie Institution of Washington)
+CoIs: Bastien, Fabienne Anne; Luhn, Jacob; Teske, Johanna; Eastman, Jason David; Wright, Jason T; Johnson, John Asher; Newton, Elisabeth R; Burt, Jennifer A
+
+We propose to perform simultaneous precise radial velocity (RV) observations with K2 Campaign 16 (C16) to understand and characterize stellar jitter. We request short cadence data on five carefully selected stars, including the brightest M dwarf in C16 field, a solar analog, and three bright G/K subgiants. We also request long cadence data on the next three brightest K or M dwarfs in the C16 field. Our campaign includes several precise RV instruments around the globe, including APF, SONG, MINERVA, PARAS, and potentially also Keck/HIRES and IRTF/iSHELL, representing the first organized, extensive, simultaneous RV campaign with space photometry.
+
+Our primary science goal is to characterize and understand stellar activity induced RV signals (stellar jitter), which is the largest term in RV error budget. Mitigating stellar jitter is crucial for searching for Earth analogs and also building up a large sample of small planets with various orbital periods. This RV+K2 campaign will provide the community with an unprecedented dataset of RV spectra and precise photometry to study stellar jitter on a broad range of time scales, from minutes to 80 days. We will gather the first ever RV+photometry dataset aiming at characterizing stellar granulation, the most poorly understood term among all astrophysical sources of stellar jitter. This project will also enable the first asteroseismic studies with simultaneous precise RVs and photometry, while searching for planets in the brightest nearby G to M dwarfs in the field. 
+
+This project adds to the science returns of Kepler/K2 in a unique way by capitalizing the simultaneous observing capability enabled in C16. We maximize the efficiency of such simultaneous observing efforts by grouping together a team of RV facilities and experts around the world. The experience and outcome of this RV+K2 campaign will be invaluable for ground-based RV community in tandem with the upcoming TESS mission.
+
+# Targets requested by this program that have been observed (8)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211400445, 134.269524, 11.646989, 9.801, GO16005_LC|GO16009_LC|GO16014_LC|GO16030_LC|GO16037_LC|GO16052_LC|GO16056_LC|GO16063_LC|GO16065_LC
+211487634, 129.815845, 12.960373, 8.487, GO16004_LC|GO16009_LC|GO16021_LC|GO16025_LC|GO16037_LC|GO16063_LC|GO16068_LC|GO16077_LC|GO16902_LC|GO16037_SC
+211506655, 133.099756, 13.233436, 9.244, GO16004_LC|GO16010_LC|GO16025_LC|GO16037_LC|GO16052_LC|GO16063_LC|GO16068_LC|GO16077_LC|GO16010_SC|GO16037_SC
+211811597, 134.191623, 17.48135, 7.48, GO16004_LC|GO16010_LC|GO16025_LC|GO16037_LC|GO16052_LC|GO16063_LC|GO16068_LC|GO16010_SC|GO16037_SC
+211826254, 132.653639, 17.689322, 9.221, GO16009_LC|GO16010_LC|GO16021_LC|GO16028_LC|GO16037_LC|GO16063_LC|GO16903_LC|GO16010_SC|GO16903_SC
+212017602, 134.659086, 20.546748, 9.036, GO16009_LC|GO16025_LC|GO16030_LC|GO16037_LC|GO16063_LC|GO16068_LC|GO16037_SC
+212053807, 134.732211, 21.166286, 8.275, GO16009_LC|GO16010_LC|GO16021_LC|GO16025_LC|GO16028_LC|GO16034_LC|GO16037_LC|GO16063_LC|GO16068_LC|GO16010_SC|GO16037_SC
+212194811, 130.761487, 24.137161, 9.84, GO16001_LC|GO16010_LC|GO16020_LC|GO16037_LC|GO16052_LC|GO16063_LC

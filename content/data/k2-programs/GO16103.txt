@@ -1,0 +1,23 @@
+# Summary of K2 Program GO16103
+
+Title: Exploring the connection between gamma-ray and optical variability in blazars
+
+PI: Santander, Juan Marcos (Barnard College)
+CoIs: Williams, David A; Mukherjee, Reshmi; Johnson, Caitlin Anne
+
+Blazars constitute the most numerous source type detected in gamma rays, accounting for more than one third of the objects listed in the Fermi-LAT point-source catalog. They are characterized by a non-thermal, highly-polarized continuum emission spanning the entire electromagnetic spectrum and  by very fast variability which has been observed down to time scales of minutes in the TeV energy range. 
+We propose to exploit the unprecedented photometric precision and temporal coverage of K2 observations to investigate the correlation between optical and gamma-ray light curves in blazars. For this purpose, we have selected a sample of gamma-ray detected and gamma-ray candidate blazars that fall on the K2 silicon footprint during the upcoming observation cycle. These correlation studies can provide further insights into the mechanism responsible for the blazar emission and test the dependence of optical variability on blazar type.
+
+# Targets requested by this program that have been observed (11)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+211442443, 129.979602, 12.284342, 18.303, GO16103_LC
+211504760, 130.198279, 13.206547, 18.264, GO16008_LC|GO16027_LC|GO16040_LC|GO16088_LC|GO16103_LC
+211504764, 130.198273, 13.206619, 18.245, GO16008_LC|GO16103_LC|GO16904_LC
+211718544, 137.233032, 16.165225, 19.321, GO16103_LC
+211852059, 129.87803, 18.046421, 17.046, GO16008_LC|GO16027_LC|GO16040_LC|GO16071_LC|GO16103_LC|GO16904_LC
+211891040, 130.521236, 18.594755, 16.615, GO16008_LC|GO16071_LC|GO16088_LC|GO16103_LC|GO16904_LC
+212035517, 135.612127, 20.846145, 15.741, GO16027_LC|GO16040_LC|GO16071_LC|GO16103_LC
+212042111, 134.165533, 20.962065, 18.345, GO16027_LC|GO16103_LC
+251376444, 137.252583, 23.186932, 17.939, GO16008_LC|GO16027_LC|GO16040_LC|GO16103_LC|GO16904_LC
+251809653, , , , GO16103_LC
+251809654, , , , GO16103_LC

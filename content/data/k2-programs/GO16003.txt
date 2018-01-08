@@ -1,0 +1,41 @@
+# Summary of K2 Program GO16003
+
+Title: Asteroseismology of the Brightest K2 Stars
+
+PI: Huber, Daniel (University of Hawaii)
+CoIs: Aerts, Conny Clara; Silva Aguirre, Victor; Boyajian, Tabetha Suzanne; Pope, Benjamin James Spinks; White, Timothy R; Creevey, Orlagh; Bedding, Tim
+
+The most powerful tests of stellar structure and evolution come from the brightest stars in the night sky, for which complementary observational techniques (such as astrometry, asteroseismology, and interferometry) can be combined. So far, stars brighter than Kp < 8 mag were rarely observed with Kepler/K2 due to the large number of pixels required to capture the saturated pixel columns. We propose K2 observations of the brightest stars in campaigns 14-16, including a novel technique which uses a small number of unsaturated pixels. Asteroseismic studies of these targets will allow unprecedented tests of asteroseismic scaling relations which will pave the way for the success of the K2 Galactic Archeology Program, and insights into poorly understood internal processes of intermediate-mass stars such as convective core overshooting.
+
+We will select all targets with Kp < 8 mag from the Hipparcos catalog. We will use conventional apertures and small (~24 pixel diameter) circular apertures around the saturated core for very bright (Kp < 6) targets. For the latter, we will perform photometry using weighted sums of unsaturated pixels in the wings of the circular aperture. The method (so-called halo photometry) has been demonstrated to detect pulsations for all bright Pleiades and Hyades stars observed in Campaign 4. We will also organize spectroscopic and interferometric follow-up observations that will be combined with the K2 photometry.
+
+Our proposal addresses fundamental stellar astrophysics, a key science goal of the K2 mission. Our project furthermore supports galactic astrophysics, another key science area identified in the NRA, through the calibration of scaling relations for galactic archeology studies. A better understanding of stellar models through the study of bright stars is relevant for science goals pursued by both present and future NASA missions such as the characterization of exoplanets (TESS, JWST) as well as stellar populations and galaxy formation/evolution (HST, JWST).
+
+# Targets requested by this program that have been observed (26)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+200200356, , , , GO16003|GO16063|DELTA_CANCRI-LC-BRIGHT_STAR_DISC
+200200357, , , , GO16001|GO16003|GO16021|GO16063|ALPHA_CANCRI-LC-BRIGHT_STAR_DISC
+200200358, , , , GO16003|XI_CANCRI-LC-BRIGHT_STAR_DISC
+200200359, , , , GO16003|GO16063|ETA_CANCRI-LC-BRIGHT_STAR_DISC
+200200360, , , , GO16003|GO16021|GO16063|OMICRON1_CANCRI-LC-BRIGHT_STAR_DISC
+200200361, , , , GO16003|GO16021|GO16063|OMICRON2_CANCRI-LC-BRIGHT_STAR_DISC
+200200363, , , , GO16003|GO16021|GO16063|50_CANCRI-LC-BRIGHT_STAR_DISC
+200200728, , , , GO16003|GO16081|45_CANCRI-SC-BRIGHT_STAR_DISC
+211514553, 136.242085, 13.343948, 7.198, GO16003_LC
+211612703, 137.034965, 14.711396, 8.07, GO16003_LC
+211621378, 132.482696, 14.833385, 7.558, GO16001_LC|GO16003_LC|GO16021_LC|GO16028_LC
+211706383, 132.795024, 15.999429, 8.092, GO16003_LC|GO16004_LC
+211716813, 129.915043, 16.141552, 8.2, GO16003_LC
+211723555, 134.395454, 16.233643, 7.712, GO16003_LC
+211732180, 133.244751, 16.356873, 8.365, GO16003_LC
+211756677, 137.14246, 16.701681, 7.392, GO16003_LC
+211810753, 137.259632, 17.469652, 6.949, GO16003_LC
+211865588, 133.483664, 18.233593, 7.792, GO16003_LC
+211954451, 129.961314, 19.540814, 6.409, GO16001_LC|GO16003_LC|GO16031_LC
+211962912, 130.092028, 19.669939, 6.236, GO16001_LC|GO16003_LC|GO16031_LC
+212052751, 127.029797, 21.148487, 6.699, GO16003_LC
+212091650, 134.271444, 21.860447, 6.81, GO16003_LC|GO16004_LC
+212112028, 135.711288, 22.258552, 8.427, GO16003_LC
+251315548, 140.700985, 18.13201, 8.22, GO16003_LC
+251326747, 140.157887, 19.090631, 7.003, GO16003_LC
+251360981, 137.586908, 21.996418, 5.795, GO16003_LC|GO16004_LC

@@ -1,0 +1,102 @@
+# Summary of K2 Program GO16059
+
+Title: Physical studies of asteroids with Kepler
+
+PI: Marciniak, Anna (Adam Mickiewicz University)
+CoIs: Szabo, Robert; Szakats, Robert; Kiss, Csaba; Mueller, Thomas G
+
+As it has been demonstrated in some recent papers, the Kepler Space Telescope in the K2 mission is an excellent tool to observe asteroids and obtain accurate lightcurves even if the targets are relatively fast-moving main belt asteroids (Szabo et al., 2015, 2016a) or Jovian Trojans (Szabo et al., 2016b).  
+
+While in the case of trans-Neptunian bodies the lightcurve information is available for a limited sample only (see e.g. Kiss et al., 2015), the general spin characteristics of main belt asteroids are relatively well know due to their proximity and relatively short (~few years) orbital periods that allows us to observe these bodies at various spin axis aspect angles during their motion around the Sun. The sufficient orbital phase coverage also allows us to apply lightcurve inversion techniques to obtain detailed shape models for these targets (Kaasalainen et al., 2002). 
+
+In this proposal our goal is to obtain lightcurves of slowly rotating asteroids with low amplitudes, to decrease the strong selection effects in spin and shape studies of asteroids. Currently spin and shape models are mainly available for targets with relatively short rotation periods and substantial elongations of their shapes that results in a biased sample of asteroids with known physical properties (Marciniak et al. 2015). Consequently, our knowledge on spin vs. diameter, the internal cohesion and strength or the non-gravitational effects are biased, too. Data from asteroids observed in the K2 mission can substantially increase the data pool for asteroids omitted in previous studies, enabling continuous observations of targets with periods of the order of days. 
+
+We also investigate small asteroids with spin axes close to the ecliptic plane. Some studies suggest their non-existence due to non-gravitational YORP effect (Durech et al. 2016). However, such lack can be a selection effect, because such targets often display very small amplitudes when viewed pole-on. Kepler/K2 data will allow us to decide whether the low amplitude of these targets are due to close to pole-on configurations.  
+
+We propose to observe a set of main belt asteroids for which additional high-quality lightcurve data obtained with K2 would enable us to obtain spin and shape models for the first time. Some of the targets, (203) Pompeja, (566) Stereoskopia and (308) Polyxo have rotation periods close to 12h or 24h and have small, <0.1 mag lightcurve amplitudes. These targets are difficult to observe from ground due to daily gaps and aliases, and would require coordinated observations from many observing sites, typically flawed by weather conditions. The Kepler Space Telescope is able to perform these observations alone. (525) Adelaide is a target with highly inclined spin axis and strongly variable amplitudes, sometimes being as low as 0.02 mag. Obtaining full, composite lightcurve of this P=19.967 h target would be very difficult from the ground, as the period exceeds the length of the average observing night. In practice, only continuous data from a space-based observatory can provide meaningful data for this target. (437) Rhodia is a very slow rotator with a period of ~56 hours, and variable, usually very low amplitudes. A sufficiently long, continuous measurement of this target would allow us to determine the orientation of its (likely) multiple spin axes.  
+
+All our 14 targets will spend enough time on silicon (typically ~5 days) that a sufficient light curve coverage can be guaranteed. 
+
+References:
+
+- Durech et al., 2016, A&A, 587, A48
+- Kaasalainen, et al., 2002, "Asteroid Models from Disk-integrated Data", in Asteroids III, Univ. of Arizona Press
+- Kiss, Cs. et al., "Trans-Neptunian objects with K2: targeting our own Solar System", 2015, K2 White Paper
+- Marciniak et al., 2015, P&SS, 118, 256
+- Szabo, R., et al., 2015, AJ, 149, 112
+- Szabo, R., et al., 2016a, arXiv:1609.02759, A&A, accepted
+- Szabo, Gy.M., et al., 2016b, arXiv:1609.02760, A&A, accepted
+
+# Targets requested by this program that have been observed (71)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+200199835, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199836, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199837, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199838, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199839, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199840, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199841, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199842, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199843, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199844, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199845, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199846, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199847, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199848, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199849, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199850, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199851, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199852, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199853, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199854, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199855, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199856, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199857, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199858, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199859, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199860, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199861, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199862, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199863, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199864, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199865, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199866, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199867, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199868, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199869, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199870, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199871, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199872, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199873, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199874, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199875, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199876, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199877, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199878, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199879, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199880, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199881, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199882, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199883, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199884, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199885, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199886, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199887, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199888, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199889, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199890, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199891, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199892, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199893, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199894, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199895, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199896, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199897, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199898, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199899, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199900, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199901, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199902, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199903, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199904, , , , GO16059_LC|Hekate-LC-SSO_TILE
+200199905, , , , GO16059_LC|Hekate-LC-SSO_TILE

@@ -21,7 +21,7 @@ Save_as: helpdesk.html
     </div>
     <div class="col-sm-4 text-center">
         <img src="images/faces/christina.jpg" class="img-circle" style="padding-top:0.5em;"><br>
-        <b>Christina Hedges</b><br>
+        <b>Dr Christina Hedges</b><br>
         Lead Exoplanet Support<br>
         Lead Asteroseismology Support
     </div>
