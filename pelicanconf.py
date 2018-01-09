@@ -137,7 +137,13 @@ MEETINGS = (
              '/k2-tess-splinter-meeting-at-aas231-on-jan-9th-2018.html'),
             ('<b>16–18 Jan 2018</b><br>'
              'Workshop: Dwarf Stars and Clusters with K2',
-             '/cluster-workshop')
+             '/cluster-workshop'),
+            ('<b>2–6 Jul 2018</b><br>'
+             'Exoplanets II in Cambridge, UK',
+             'https://exoplanets.phy.cam.ac.uk/Meetings/exoplanets2'),
+            ('<b>8–13 Jul 2018</b><br>'
+             'TASC4/KASC11 Asteroseismology Meeting',
+             '')
             )
 
 # Defines the "related websites" listing in the footer of all pages
