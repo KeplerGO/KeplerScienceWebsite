@@ -385,7 +385,7 @@ Look for signs directing you to the meeting.
 For lunch, we suggest the George Sherman Union, but you can also take a look at our <a href='http://www.bu.edu/iar/seminars/local-favorites/'>
 list of other nearby options.</a>
 
-<img class="img-responsive" style="max-width:80%;" src="../images/k2/BUworkshop_zoom.png" >
+<a href="/images/k2/BUworkshop_zoom.png"><img class="img-responsive" style="max-width:80%;" src="/images/k2/BUworkshop_zoom.png" ></a>
 
 On the third day, the Unconference will take place in the Terrace Lounge of the George Sherman Union (GSU). GSU is also our 
 suggested lunch site. It is located at 775 Commonwealth Ave. Right click on the above map and select 'view image' to see a larger 
