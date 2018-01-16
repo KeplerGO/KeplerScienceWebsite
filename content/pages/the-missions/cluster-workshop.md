@@ -67,7 +67,7 @@ BU College of Arts and Sciences building, room 211</h4>
   <tr>
     <th><b>10:30–11:45</b></th>
     <td>
-        <b>Science talks: Stellar rotation</b><br/>
+        <b>Science talks: Stellar rotation</b> <i>(Chair: Christina Hedges)</i><br/>
         <ul class="schedule">
             <li>
                 Rotation in field M dwarfs<br/>
@@ -107,7 +107,7 @@ BU College of Arts and Sciences building, room 211</h4>
   <tr>
     <th><b>13:30–14:45</b></th>
     <td>
-        <b>Activity and flares</b><br/>
+        <b>Activity and flares</b> <i>(Chair: Michael Gully-Santiago)</i><br/>
         <ul class="schedule">
             <li>
                 Ultracool Dwarfs: Flares and Clouds<br/>
@@ -141,7 +141,7 @@ BU College of Arts and Sciences building, room 211</h4>
   <tr>
     <th><b>15:15–16:45</b></th>
     <td>
-        <b>Transiting planets</b><br/>
+        <b>Transiting planets</b> <i>(Chair: Ann Marie Cody)</i><br/>
         <ul class="schedule">
             <li>
                 The Zodiacal Exoplanets in Time Survey<br/>
@@ -196,7 +196,7 @@ BU College of Arts and Sciences building, room 211</h4>
   <tr>
     <th><b>10:00-11:15</b></th>
     <td>
-        <b>Eclipsing binaries and companions</b><br/>
+        <b>Eclipsing binaries and companions</b> <i>(Chair: Julie Skinner)</i><br/>
         <ul class="schedule">
             <li>
                 The Mass-Radius Relation of Young Stars<br/>
@@ -238,7 +238,7 @@ BU College of Arts and Sciences building, room 211</h4>
   <tr>
     <th><b>13:30–15:00</b></th>
     <td>
-        <b>Young Stellar Objects</b><br/>
+        <b>Young Stellar Objects</b> <i>(Chair: Geert Barentsen)</i><br/>
         <ul class="schedule">
             <li>            
                 Probing star-disk interactions on YSOs in Taurus by simultaneous K2 and ground based photometry<br/>
@@ -276,7 +276,7 @@ BU College of Arts and Sciences building, room 211</h4>
   <tr>
     <th><b>15:45–17:00</b></th>
     <td>
-        <b>Non-main-sequence stars and synergies with other missions</b><br/>
+        <b>Non-main-sequence stars and synergies with other missions</b> <i>(Chair: Phil Muirhead)</i><br/>
         <ul class="schedule">
             <li>
                 Beyond Blue Stragglers: K2 Observations Reveal Post-Mass-Transfer Binaries Hidden on the M67 Main Sequence<br/>
@@ -311,7 +311,7 @@ Terrace Lounge, George Sherman Union</h4>
 <div class="col-sm-12 col-md-10">
 <table class="table table-striped table-hover">
   <tr>
-    <th style="min-width:8em;"><b>09:00–09:15</b></th>
+    <th style="min-width:8em;"><b>9:00–9:15</b></th>
     <td>
         <b>Coffee &amp; snacks</b>
     </td>
@@ -319,37 +319,37 @@ Terrace Lounge, George Sherman Union</h4>
   <tr>
     <th><b>9:15–9:30</b></th>
     <td>
-        <b>Conference summary & unconference plans</b><br/>
+        <b>Unconference overview</b>
     </td>
   </tr>
   <tr>
     <th><b>9:30-10:30</b></th>
     <td> 
-        <b>Unconference session 1</b><br/>
+        <b>Unconference session 1</b>
     </td>
   </tr>
   <tr>
     <th><b>10:30-11:30</b></th>
     <td>
-        <b>Unconference session 2</b><br/>
+        <b>Unconference session 2</b>
     </td>
   </tr>
   <tr>
     <th><b>11:30-12:30</b></th>
     <td>
-        <b>Unconference session 3</b><br/>
+        <b>Unconference session 3</b>
     </td>
   </tr>
   <tr>
     <th><b>12:30-13:00</b></th>
     <td>
-        <b>Wrap-up & unconference reports</b><br/>
+        <b>Wrap-up &amp; unconference reports</b>
     </td>
   </tr>
   <tr>
     <th><b>13:00-14:00</b></th>
     <td>
-        <b>Lunch</b><br/>
+        <b>Lunch</b>
     </td>
   </tr>
   <tr>
