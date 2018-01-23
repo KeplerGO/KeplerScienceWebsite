@@ -54,11 +54,11 @@ BU College of Arts and Sciences building, room 211</h4>
         <b>Opening session</b><br/>
         <ul class="schedule">
             <li>
-                Welcome<br/>
+                <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-01-phil-muirhead.pdf'>Welcome</a> <br/>
                 <i>Phil Muirhead</i>
             </li>
             <li>
-                Mission update and workshop goals<br/>
+                <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-02-geert-barentsen-ann-marie-cody.pdf'>Mission update and workshop goals</a> <br/>
                 <i>The K2 team</i>
             </li>
         </ul>
@@ -70,23 +70,23 @@ BU College of Arts and Sciences building, room 211</h4>
         <b>Science talks: Stellar rotation</b> <i>(Chair: Christina Hedges)</i><br/>
         <ul class="schedule">
             <li>
-                Rotation in field M dwarfs<br/>
+                <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-03-elisabeth-newton.pdf'>Rotation in field M dwarfs</a> <br/>
                 <i>Elisabeth Newton</i>                
             </li>
             <li>
-               Stellar Rotation in Clusters with K2<br/>
+               <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-04-luisa-rebull.pdf'>Stellar Rotation in Clusters with K2</a> <br/>
                 <i>Luisa Rebull</i>
             </li>
             <li>
-               Measuring the radii of low-mass active stars using K2<br/>
+               <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-05-rob-jeffries.pdf'>Measuring the radii of low-mass active stars using K2</a> <br/>
                 <i>Rob Jeffries</i>
             </li>
             <li>
-               Determining Reliable Rotation Periods for M67 from K2 Data<br/>
+               <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-06-rebecca-esselstein.pdf'>Determining Reliable Rotation Periods for M67 from K2 Data</a> <br/>
                 <i>Rebecca Esselstein</i>
             </li>
             <li>
-               Simply complexity: the missing ingredient for a complete spin-down model<br/>
+               <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-07-cecilia-garraffo.pdf'>Simply complexity: the missing ingredient for a complete spin-down model</a> <br/>
                 <i>Cecilia Garraffo</i>
             </li>
         </ul>
@@ -110,23 +110,23 @@ BU College of Arts and Sciences building, room 211</h4>
         <b>Activity and flares</b> <i>(Chair: Michael Gully-Santiago)</i><br/>
         <ul class="schedule">
             <li>
-                Ultracool Dwarfs: Flares and Clouds<br/>
+                <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-08-john-gizis.pdf'>Ultracool Dwarfs: Flares and Clouds</a><br/>
                 <i>John Gizis</i>
             </li>
             <li>
-                Flares in K2 Clusters: In Search of the Flaring-Age Relation<br/>
+                <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-09-ekaterina-ilin.pdf'>Flares in K2 Clusters: In Search of the Flaring-Age Relation</a> <br/>
                 <i>Ekaterina Ilin</i>
             </li>
             <li>
-                Searching for the Origin of flares in M dwarfs<br/>
+                <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-10-lauren-doyle.pdf'>Searching for the Origin of flares in M dwarfs</a> <br/>
                 <i>Lauren Doyle</i>
             </li>
             <li>
-                Probing Activity and Livable Environments Affecting L-dwarf Exoplanets (PALE ALE)<br/>
+                <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-11-julie-skinner.pdf'>Probing Activity and Livable Environments Affecting L-dwarf Exoplanets (PALE ALE)</a> <br/>
                 <i>Julie Skinner</i>
             </li>
             <li>
-                Simultaneous Spectroscopic & K2 Observations of Praesepe<br/>
+                <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-12-marcel-agueros.pdf'>Simultaneous Spectroscopic & K2 Observations of Praesepe</a> <br/>
                 <i>Marcel Agüeros</i>
             </li>
         </ul>
@@ -144,26 +144,26 @@ BU College of Arts and Sciences building, room 211</h4>
         <b>Transiting planets</b> <i>(Chair: Ann Marie Cody)</i><br/>
         <ul class="schedule">
             <li>
-                The Zodiacal Exoplanets in Time Survey<br/>
+                <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-13-andrew-mann.pdf'>The Zodiacal Exoplanets in Time Survey</a> <br/>
                 <i>Andrew Mann</i>
             </li>
             <li>
-                Searching for Transiting Exoplanets in Open Cluster Environments<br/>
+                <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-14-melinda-soares-furtado.pdf'>Searching for Transiting Exoplanets in Open Cluster Environments</a> <br/>
                 <i>Melinda Soares-Furtado</i>
             </li>
             <li> 
-               Discovery of planets around nearby stars<br/>
+               <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-15-niraula-prajwal.pdf'>Discovery of planets around nearby stars</a> <br/>
                 <i>Prajwaul Nirala</i>
             </li>
             <li>
-                Looking for transiting warm Jupiters - win some, lose some<br/>
+                <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-16-avi-shporer.pdf'>Looking for transiting warm Jupiters - win some, lose some</a> <br/>
                 <i>Avi Shporer</i>
             </li>
             <li>
-                Planet Occurrence in the M67 Open Cluster<br/>
+                <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-17-andrew-vanderburg.pdf'>Planet Occurrence in the M67 Open Cluster</a> <br/>
                 <i>Andrew Vanderburg</i>
             <li>
-                Towards measuring temporal trends in planet occurrence<br/>
+                <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-18-trevor-david.pdf'>Towards measuring temporal trends in planet occurrence</a> <br/>
                 <i>Trevor David</i>
             </li>
         </ul>
@@ -199,23 +199,23 @@ BU College of Arts and Sciences building, room 211</h4>
         <b>Eclipsing binaries and companions</b> <i>(Chair: Julie Skinner)</i><br/>
         <ul class="schedule">
             <li>
-                The Mass-Radius Relation of Young Stars<br/>
+                <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-19-adam-kraus.pdf'>The Mass-Radius Relation of Young Stars</a> <br/>
                 <i>Adam Kraus</i>
             </li>
             <li>
-                K2 Observations of a M3.7+M5.0 EB with Total Secondary Eclipses<br/>
+                <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-20-joel-hartman.pdf'>K2 Observations of a M3.7+M5.0 EB with Total Secondary Eclipses</a> <br/>
                 <i>Joel Hartman</i>
             </li>
             <li>
-               The effect of companions on rotational evolution<br/>
+               <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-21-stephanie-douglas.pdf'>The effect of companions on rotational evolution</a> <br/>
                 <i>Stephanie Douglas</i>
             </li>
             <li>
-                Eclipsing Binaries and Cluster Ages<br/>
+               <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-22-eric-sandquist.pdf'>Eclipsing Binaries and Cluster Ages</a> <br/>
                 <i>Eric Sandquist</i>
             </li>
             <li>
-                Young planets, brown dwarfs and eclipsing binaries in Praesepe<br/>
+                <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-23-edward-gillen.pdf'>Young planets, brown dwarfs and eclipsing binaries in Praesepe</a> <br/>
                 <i>Ed Gillen</i>
             </li>
         </ul>
@@ -241,28 +241,28 @@ BU College of Arts and Sciences building, room 211</h4>
         <b>Young Stellar Objects</b> <i>(Chair: Geert Barentsen)</i><br/>
         <ul class="schedule">
             <li>            
-                Probing star-disk interactions on YSOs in Taurus by simultaneous K2 and ground based photometry<br/>
+                <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-24-zhen-guo.pdf'>Probing star-disk interactions on YSOs in Taurus by simultaneous K2 and ground based photometry</a> <br/>
                 <i>Zhen Guo</i>
             </li>
             <li>    
-                Spinning and Dipping: Observing the Young Star Ballet with KELT and K2<br/>
+                <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-25-joey-rodriguez.pdf'>Spinning and Dipping: Observing the Young Star Ballet with KELT and K2</a> <br/>
                 <i>Joey Rodriguez</i>
             </li>
             <li>    
-                Starspots on young stars with K2 and IGRINS<br/>
+                <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-26-michael-gully-santiago.pdf'>Starspots on young stars with K2 and IGRINS</a> <br/>
                 <i>Michael Gully-Santiago</i>
             </li>
             <li>    
-                Inference of Dipper Populations in K2 Using Machine Learning<br/>
+                <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-27-christina-hedges.pdf'>Inference of Dipper Populations in K2 Using Machine Learning</a> <br/>
                 <i>Christina Hedges</i>
             </li>
             <li>    
-                The Zoo of Young Star Variability as seen by K2<br/>
+                <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-28-ann-marie-cody.pdf'>The Zoo of Young Star Variability as seen by K2</a> <br/>
                 <i>Ann Marie Cody</i>
             </li>
             <li> 
-                A Glimpse of Star Formation in the Outer Galaxy: SMOG Field<br/>
-                <i>Elaine Winston</i>   
+                <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-29-jerome-bouvier.pdf'>A Comprehensive Approach to T Tauri Variability: Connecting the Physical Processes at Work</a> <br/>
+                <i>Jérôme Bouvier</i>   
             </li>
         </ul>
     </td>
@@ -279,19 +279,19 @@ BU College of Arts and Sciences building, room 211</h4>
         <b>Non-main-sequence stars and synergies with other missions</b> <i>(Chair: Phil Muirhead)</i><br/>
         <ul class="schedule">
             <li>
-                Beyond Blue Stragglers: K2 Observations Reveal Post-Mass-Transfer Binaries Hidden on the M67 Main Sequence<br/>
+                <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-30-emily-leiner.pdf'>Beyond Blue Stragglers: K2 Observations Reveal Post-Mass-Transfer Binaries Hidden on the M67 Main Sequence</a> <br/>
                 <i>Emily Leiner</i>
             </li>
             <li>
-                Age calibration from coeval white dwarfs in K2 and TESS<br/>
+                <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-31-jj-hermes.pdf'>Age calibration from coeval white dwarfs in K2 and TESS</a> <br/>
                 <i>JJ Hermes</i>
             </li>
             <li>
-                The TESS Open Cluster Survey<br/>
+                <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-32-soren-meibom.pdf'>The TESS Open Cluster Survey</a> <br/>
                 <i>Søren Meibom</i>
             </li>
             <li>
-                A PSF-based approach to K2 data - Variables and Exoplanet candidates within K2 cluster fields<br/>
+                <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-33-domenico-nardiello.pdf'>A PSF-based approach to K2 data - Variables and Exoplanet candidates within K2 cluster fields</a> <br/>
                 <i>Domenico Nardiello</i>
             </li>            
         </ul>
@@ -421,16 +421,12 @@ Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 * Jessie Dotson (K2 Project Scientist)
 
 
-### Participant registration list
-
-(Last update: Jan. 5, 2018)
+### Workshop participants
 
 * Marcel Agüeros (Columbia University)
 * Ruth Angus (Columbia University)
-* Nuralfin Anripa (State Islamic University of Maulana Malik Ibrahim)
 * Geert Barentsen (NASA Ames)
 * Phillip Cargile (Harvard CfA)
-* Giovanni Carraro (University of Padova)
 * Ann Marie Cody (NASA Ames)
 * Paul Dalba (Boston University)
 * Trevor David (JPL)
@@ -458,9 +454,7 @@ Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 * Aurora Kesseli (Boston University)
 * Kathleen Kraemer (Boston College)
 * Adam Kraus (University of Texas Austin)
-* David Latham (Harvard CfA)
 * Emily Leiner (University of Wisconsin)
-* Fatima Mammadova (Istanbul University)
 * Andrew Mann (Columbia University)
 * Robert Mathieu (University of Wisconsin Madison)
 * Søren Meibom (Harvard CfA)
@@ -468,26 +462,19 @@ Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 * Domenico Nardiello (University of Padova)
 * Jose-Dias do Nascimento (Harvard CfA)
 * Elisabeth Newton (MIT)
-* Srinitha Nimmakayala (Universidad Complutense de Madrid)
 * Prajwal Niraula (Wesleyan University)
 * Dawn Peterson	(Space Science Institute)
 * Luisa Rebull (IPAC/Caltech)
-* Alvaro Ribas (Boston University)
 * Joey Rodriguez (Harvard CfA)
-* Philip Rosenfield (Harvard CfA)
 * Sheila Sagear (Boston University)
 * Eric Sandquist (San Diego State University)
 * Brad Schaefer	(Louisiana State University)
-* Joshua Schlieder (NASA GSFC)
 * Avi Shporer (MIT)
 * Julie Skinner (Boston University)
 * Melinda Soares-Furtado (Princeton University)
-* Ali Taani (Al-Balqa Applied University)
 * Patrick Tamburo (Boston University)
-* Aashana Tripathi (University of Potsdam) 
 * Andrew Vanderburg (University of Texas)
 * Mark Veyette (Boston University)
-* Elaine Winston (Harvard CfA)
 
 ### Registration
 

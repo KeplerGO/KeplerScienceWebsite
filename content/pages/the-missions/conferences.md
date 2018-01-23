@@ -7,19 +7,19 @@ Save_as: conferences.html
 
 <table class="table table-striped table-hover" style="max-width:55em;">
 	
-  <tr>
-    <td style="width: 9em;">Jan 16-18, 2018</td>
-    <td style="width: 25em;"><a href='cluster-workshop'>Dwarf Stars and Clusters with K2: a Workshop</a></td>
-    <td><a
-    href='cluster-workshop'>website</a>, <a href="https://twitter.com/search?q=%23K2Workshop">#K2Clusters tweets</a></td>
-  </tr>
-	
 </table>
 
 
 ## Past meetings
 
 <table class="table table-striped table-hover" style="max-width:55em;">
+
+  <tr>
+    <td style="width: 9em;">Jan 2018</td>
+    <td style="width: 25em;"><a href='cluster-workshop'>Dwarf Stars and Clusters with K2: a Workshop</a></td>
+    <td><a
+    href='cluster-workshop'>website</a>, <a href="https://twitter.com/search?q=%23K2Workshop">#K2Clusters tweets</a></td>
+  </tr>
 
   <tr>
     <td style="width: 9em;">Jun 2017</td>
