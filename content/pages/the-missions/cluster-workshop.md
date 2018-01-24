@@ -475,15 +475,3 @@ Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 * Patrick Tamburo (Boston University)
 * Andrew Vanderburg (University of Texas)
 * Mark Veyette (Boston University)
-
-### Registration
-
-The talk deadline has passed but registration remains open and capped at 70.  There is no fee to attend. Coffee breaks are 
-sponsored by the <a href='https://www.bu.edu/iar'> Institute for Astrophysical Research</a> at Boston University.
-
-Please <a href='https://docs.google.com/forms/d/e/1FAIpQLSdZhetqWv9_oUAXmLueHDhyIVdMYcLPj53p5TjPeEgTTMkRWQ/viewform?usp=sf_link'>
-sign up </a> to attend and indicate your interest to give a short talk.
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdZhetqWv9_oUAXmLueHDhyIVdMYcLPj53p5TjPeEgTTMkRWQ/viewform?embedded=true" 
-width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
