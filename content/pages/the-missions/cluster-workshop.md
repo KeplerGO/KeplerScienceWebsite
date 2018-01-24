@@ -59,7 +59,7 @@ BU College of Arts and Sciences building, room 211</h4>
             </li>
             <li>
                 <a href='https://www.dropbox.com/sh/ztp43z01u8a7t25/AACI-vhIPl0GnW6sIMSXEFB3a?dl=0&preview=k2clusters-02-geert-barentsen-ann-marie-cody.pdf'>Mission update and workshop goals</a> <br/>
-                <i>The K2 team</i>
+                <i>Geert Barentsen, Ann Marie Cody</i>
             </li>
         </ul>
     </td>
