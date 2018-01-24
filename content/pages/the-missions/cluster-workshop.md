@@ -59,7 +59,7 @@ BU College of Arts and Sciences building, room 211</h4>
             </li>
             <li>
                 Mission update and workshop goals<br/>
-                <i>The K2 team</i>
+                <i>Geert Barentsen, Ann Marie Cody</i>
             </li>
         </ul>
     </td>
