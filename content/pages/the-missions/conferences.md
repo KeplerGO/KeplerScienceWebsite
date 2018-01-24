@@ -6,7 +6,7 @@ Save_as: conferences.html
 
 
 <table class="table table-striped table-hover" style="max-width:55em;">
-	
+	Stay tuned for upcoming meetings!
 </table>
 
 
