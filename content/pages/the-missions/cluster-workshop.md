@@ -36,8 +36,7 @@ overview of their research during the first two days. Talks are 10 minutes each,
 how-to's and high-level science product creation overviews. We will also encourage participants to spend time 
 comparing technical approaches to K2 data, including photometry.
 
-<h4 style="font-weight: bold;">Tuesday, Jan 16th <br>
-BU College of Arts and Sciences building, room 211</h4>
+<h4 style="font-weight: bold;">Tuesday, Jan 16th</h4>
 
 <div class="row">
 <div class="col-sm-12 col-md-10">
@@ -126,7 +125,7 @@ BU College of Arts and Sciences building, room 211</h4>
                 <i>Julie Skinner</i>
             </li>
             <li>
-                <a href='talks/k2clusters-12-marcel-agueros.pdf'>Simultaneous Spectroscopic & K2 Observations of Praesepe</a> <br/>
+                <a href='talks/k2clusters-12-marcel-agueros.pdf'>Simultaneous Spectroscopic &amp; K2 Observations of Praesepe</a> <br/>
                 <i>Marcel Agüeros</i>
             </li>
         </ul>
@@ -181,8 +180,7 @@ BU College of Arts and Sciences building, room 211</h4>
 </div>
 
 
-<h4 style="font-weight: bold;">Wednesday, Jan 17th <br> 
-BU College of Arts and Sciences building, room 211</h4>
+<h4 style="font-weight: bold;">Wednesday, Jan 17th</h4>
 
 <div class="row">
 <div class="col-sm-12 col-md-10">
@@ -302,8 +300,7 @@ BU College of Arts and Sciences building, room 211</h4>
 </div>
 
 
-<h4 style="font-weight: bold;">Thursday, Jan 18th <br> 
-Terrace Lounge, George Sherman Union</h4>
+<h4 style="font-weight: bold;">Thursday, Jan 18th</h4>
 
 <p>Unconference Day</p>
 
