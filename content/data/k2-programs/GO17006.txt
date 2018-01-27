@@ -1,0 +1,14 @@
+# Summary of K2 Program GO17006
+
+Title: Hunting for Starspots and TTVs in Known Transiting Exoplanetary Systems
+
+PI: Mocnik, Teo (Keele University)
+CoIs: Coel Hellier (Keele University), John Southworth (Keele University)
+
+
+
+# Targets requested by this program that have been observed (3)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+212521166, 207.3495331, -12.2844906, 11.59, GO17006_LC|GO17027_LC|GO17048_LC|GO17049_LC|GO17065_LC|GO17068_LC|GO17006_SC
+212697709, 201.6551971, -8.3175602, 12.193, GO17006_LC|GO17027_LC|GO17048_LC|GO17049_LC|GO17065_LC|GO17006_SC|GO17027_SC
+212803289, 208.7737427, -5.4424658, 11.014, GO17003_LC|GO17006_LC|GO17027_LC|GO17036_LC|GO17048_LC|GO17049_LC|GO17050_LC|GO17006_SC|GO17027_SC|GO17036_SC

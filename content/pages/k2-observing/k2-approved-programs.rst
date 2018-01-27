@@ -20,6 +20,114 @@ After data has been released, the
 should be consulted for more comprehensive notes for each Campaign.
 
 
+Campaign 17
+-----------
+.. raw:: html
+
+    <p>
+        The Campaign 17 target list includes
+        <b>34,398 standard long cadence</b>
+        and <b>179 standard short cadence</b> targets
+        located towards the constellation of Virgo.
+        Like Campaigns 9 and 16, this is a forward-facing field which enables
+        simultaneous observations to be carried out from the ground.
+    </p>
+
+    <p>
+        Campaign 17 provides a substantial overlap with Campaign 6,
+        offering a longer baseline for stellar activity, asteroseismology,
+        and AGN studies,
+        as well as enabling dozens of K2 planet candidates to be revisited.
+        The field also provides access to 20 deg<sup>2</sup>
+        of previously unexplored sky.
+    </p>
+
+    <p>
+        Notable targets include:
+    <ul>
+        <li>
+            <b>Spica</b>: the brightest star system (V=1)
+            in the constellation of Virgo,
+            known to be an ellipsoidal variable.
+            The object is being observed using a 40px-diameter circular mask
+            (ID 200213067) designed to capture the PSF core and wings
+            while excluding the long saturation columns
+            which will bleed off silicon.
+        </li>
+        <li>
+            <b>3,000+ candidate M dwarfs</b> and
+            <b>10,000+ candidate FGK dwarfs</b> for planet searches and more.
+        </li>
+        <li>
+            <b>14,000+ galaxies</b> for the K2 Supernova Cosmology Experiment.
+        </li>
+        <li>
+            <b>24 Solar System objects</b>
+            including comets 183P/Korlevic-Juric and 235P/LINEAR,
+            main-belt asteroids (223) Rosa and (422) Berolina,
+            9 Trans-Neptunian Objects,
+            and 11 Jupiter Trojan/Hilda Objects.
+        </li>  
+        <!--
+        <li>
+            <b>Six additional very bright stars</b> are being observed:
+            68 Vir (K5III),
+            76 Vir (G8III),
+            80 Vir (K0III),
+            82 Vir (M1+III),
+            HD 118054 (A0V),
+            and HD 116831 (A8V).
+            All objects are observed using both a circular and standard mask.
+        </li>
+        -->
+        <li>
+            Targets being observed in short cadence include:
+            <ul>
+            <li>
+                <b>Six confirmed planet systems</b> revealed by Campaign 6 (K2-41 = WASP-157, K2-99, K2-110, K2-126, K2-127, K2-128).
+            </li>
+            <li>
+                <b>Dozens of planet candidates</b> from Campaign 6.
+            </li>
+            <li>
+                <b>67 variable white dwarfs</b>,
+                including the bright white dwarf WD 1327-083 (V=12).
+            </li>
+            <li>
+                <b>47 cool flare stars</b>,
+                including the bright K-type flare star EQ Virginis (V=9).
+            </li>
+            <li>
+                <b>17 bright solar-type stars</b>
+                for asteroseismology studies.
+            </li>
+            </ul>
+        </li>
+    </ul>
+    </p>
+
+  <ul class="list-group">
+    <li class="list-group-item">
+      <i class="fa fa-calendar fa-margin"></i>
+      Mar 1, 2018 - May 8, 2018
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-pencil-square-o fa-margin"></i>
+      Data release notes (awaiting data release)
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-download fa-margin"></i>
+      <a href="data/campaigns/c17/K2Campaign17targets.csv">Target list (csv)</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-external-link fa-margin"></i>
+      Target pixel files (awaiting data release)
+    </li>
+  </ul>
+
+.. include:: approved-programs/c17.html
+
+
 Campaign 16
 -----------
 .. raw:: html

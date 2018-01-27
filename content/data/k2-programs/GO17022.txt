@@ -1,0 +1,12 @@
+# Summary of K2 Program GO17022
+
+Title: Phoenix From The Ashes: Coronal Activity In Old Dwarf Stars
+
+PI: Whitehouse, Lewis (University College London)
+CoIs: Jay Farihi (University College London), JJ Hermes (University of North Carolina)
+
+
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+251548747, 202.642102, -2.408433, 19.556, GO17017_LC|GO17022_LC
