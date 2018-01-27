@@ -15,3 +15,5 @@ cache/
 sandbox
 tmp
 upload.sh
+.~lock*
+*.sublime*
