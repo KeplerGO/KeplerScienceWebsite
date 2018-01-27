@@ -1,18 +1,23 @@
-Title: Agenda available for the K2 Clusters Workshop in Boston
+Title: Slides available from the K2 Clusters Workshop in Boston
 Date: 2018-1-26 16:00
 Author: Ann Marie Cody
 
-The <b>Kepler/K2 workshop on Dwarf Stars and Clusters</b>, held from January 16 to 18, 2018
-at Boston University was a smashing success! Despite the threat of a snowstorm, over 50 
-attendees participated, giving exciting talks, sparking stimulating discussion, and forging new collaborations. 
+The [Kepler/K2 workshop on Dwarf Stars and Clusters](cluster-workshop) was held on
+January 16-18, 2018, at Boston University.
+The event was attended by over 50 participants and featured talks, stimulating discussions,
+and new collaborations. 
+A highlight of the workshop was the *unconference* held on the final day,
+during which participants worked on software, analyzed data, and planned future observations.
 
-A highlight of the workshop was the "unconference" held on the final day. Particpants hacked software,
-wrangled with data, and planned for future observations, among other activities. The Kepler/K2 Guest 
-Observer office is extremely greatful to Professor Philip Muirhead of BU and his colleagues for making
-this event possible!
+Those who could not attend the event can catch up in three ways:
 
-To see and hear about further highlights of the workshop, you can view PDF files of everyone's talk slides linked under the
-<a href="https://keplerscience.arc.nasa.gov/cluster-workshop/#agenda">agenda</a> listing or listen to a 
-<a href="https://soundcloud.com/kepler-k2-mission/recap-of-k2clusters-workshop-at-boston-university"> podcast </a> by K2 staff 
-Michael Gully-Santiago and Christina Hedges.
+* The talks have been posted in PDF format on the [workshop webpage](cluster-workshop/#agenda)
+(click on the talk titles in the agenda).
+* K2 staff Michael Gully-Santiago and Christina Hedges
+[recorded a podcast](https://soundcloud.com/kepler-k2-mission/recap-of-k2clusters-workshop-at-boston-university)
+to summarize their impressions from the meeting.
+* Various participants shared their highlights using the [#K2Clusters hashtag](https://twitter.com/hashtag/K2Clusters) on Twitter.
+
+The mission is grateful to Professor Philip Muirhead, Julie Skinner,
+and their colleagues at Boston University for hosting the successful meeting.
 
