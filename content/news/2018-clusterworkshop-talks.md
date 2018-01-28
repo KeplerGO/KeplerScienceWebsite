@@ -21,3 +21,5 @@ to summarize their impressions from the meeting.
 The mission is grateful to Professor Philip Muirhead, Julie Skinner,
 and their colleagues at Boston University for hosting the successful meeting.
 
+<a href="images/news/k2clusters-group-photo.jpg"><img src="images/news/k2clusters-group-photo.jpg" class="img-responsive" style="max-width:460px; float:left; padding:0.5em;" alt="K2 Clusters Meeting Group Photo"></a>
+<a href="images/news/k2clusters-unconference.jpg"><img src="images/news/k2clusters-unconference.jpg" class="img-responsive" style="max-width:460px; float:left; padding:0.5em;" alt="K2 Clusters Meeting Unconference Session Photo"></a>
