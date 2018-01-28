@@ -20,6 +20,8 @@ After data has been released, the
 should be consulted for more comprehensive notes for each Campaign.
 
 
+-----------
+
 Campaign 17
 -----------
 .. raw:: html
@@ -46,8 +48,8 @@ Campaign 17
         Notable targets include:
     <ul>
         <li>
-            <b>Spica</b>: the brightest star system (V=1)
-            in the constellation of Virgo,
+            <b>Spica</b>: the brightest star system
+            in the constellation of Virgo (V=1),
             known to be an ellipsoidal variable.
             The object is being observed using a 40px-diameter circular mask
             (ID 200213067) designed to capture the PSF core and wings
@@ -56,10 +58,10 @@ Campaign 17
         </li>
         <li>
             <b>3,000+ candidate M dwarfs</b> and
-            <b>10,000+ candidate FGK dwarfs</b> for planet searches and more.
+            <b>10,000+ candidate FGK dwarfs</b> for planet searches and other investigations.
         </li>
         <li>
-            <b>14,000+ galaxies</b> for the K2 Supernova Cosmology Experiment.
+            <b>14,000+ galaxies</b> for the <a href="supernova-experiment/">K2 Supernova Cosmology Experiment</a>.
         </li>
         <li>
             <b>24 Solar System objects</b>
@@ -84,7 +86,7 @@ Campaign 17
             Targets being observed in short cadence include:
             <ul>
             <li>
-                <b>Six confirmed planet systems</b> revealed by Campaign 6 (K2-41 = WASP-157, K2-99, K2-110, K2-126, K2-127, K2-128).
+                <b>Six confirmed planet systems</b> from Campaign 6 (K2-41 = WASP-157, K2-99, K2-110, K2-126, K2-127, K2-128).
             </li>
             <li>
                 <b>Dozens of planet candidates</b> from Campaign 6.
@@ -127,6 +129,7 @@ Campaign 17
 
 .. include:: approved-programs/c17.html
 
+-----------
 
 Campaign 16
 -----------
@@ -236,6 +239,7 @@ Campaign 16
 .. include:: approved-programs/c16.html
 
 
+-----------
 
 Campaign 15
 -----------
@@ -326,6 +330,7 @@ Campaign 15
 .. include:: approved-programs/c15.html
 
 
+-----------
 
 Campaign 14
 -----------
@@ -374,7 +379,7 @@ Campaign 14
     </li>
     <li class="list-group-item">
       <i class="fa fa-pencil-square-o fa-margin"></i>
-      Data release notes (awaiting data release)
+      Data release notes (coming soon)
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -382,12 +387,14 @@ Campaign 14
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
-      Target pixel files (awaiting data release)
+      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c14">Target pixel files (MAST)</a>
     </li>
   </ul>
 
 .. include:: approved-programs/c14.html
 
+
+-----------
 
 Campaign 13
 -----------
@@ -467,6 +474,7 @@ Campaign 13
 .. include:: approved-programs/c13.html
 
 
+-----------
 
 Campaign 12
 -----------
@@ -528,6 +536,8 @@ Campaign 12
 .. include:: approved-programs/c12.html
 
 
+-----------
+
 Campaign 11
 -----------
 .. raw:: html
@@ -582,6 +592,8 @@ Campaign 11
 .. include:: approved-programs/c11.html
 
 
+-----------
+
 Campaign 10
 -----------
 .. raw:: html
@@ -610,6 +622,7 @@ Campaign 10
 
 .. include:: approved-programs/c10.html
 
+-----------
 
 Campaign 9b
 -----------
@@ -658,6 +671,8 @@ Campaign 9b
 .. include:: approved-programs/c9b.html
 
 
+-----------
+
 Campaign 9a
 -----------
 .. raw:: html
@@ -704,9 +719,10 @@ Campaign 9a
 
 .. include:: approved-programs/c9a.html
 
+----------
 
 Campaign 8
----------------------
+----------
 .. raw:: html
 
   <p>
@@ -737,8 +753,11 @@ Campaign 8
 
 .. include:: approved-programs/c8.html
 
+
+----------
+
 Campaign 7
----------------------
+----------
 .. raw:: html
   
   <p>
@@ -769,8 +788,11 @@ Campaign 7
 
 .. include:: approved-programs/c7.html
 
+
+----------
+
 Campaign 6
----------------------
+----------
 .. raw:: html
   
   <p>
@@ -807,8 +829,11 @@ Campaign 6
 
 .. include:: approved-programs/c6.html
 
+
+----------
+
 Campaign 5
----------------------
+----------
 .. raw:: html
  
   <p>
@@ -841,8 +866,11 @@ Campaign 5
 
 .. include:: approved-programs/c5.html
 
+
+----------
+
 Campaign 4
----------------------
+----------
 .. raw:: html
   
   <p>
@@ -878,8 +906,11 @@ Campaign 4
 
 .. include:: approved-programs/c4.html
 
+
+----------
+
 Campaign 3
----------------------
+----------
 .. raw:: html
 
   <p>
@@ -913,8 +944,11 @@ Campaign 3
 
 .. include:: approved-programs/c3.html
 
+
+----------
+
 Campaign 2
----------------------
+----------
 .. raw:: html
 
   <p>
@@ -949,8 +983,10 @@ Campaign 2
 .. include:: approved-programs/c2.html
 
 
+----------
+
 Campaign 1
----------------------
+----------
 .. raw:: html
 
   <p>
@@ -982,8 +1018,11 @@ Campaign 1
 
 .. include:: approved-programs/c1.html
 
+
+----------
+
 Campaign 0
----------------------
+----------
 .. raw:: html
 
   <p>
@@ -1018,6 +1057,8 @@ Campaign 0
 
 .. include:: approved-programs/c0.html
 
+
+------------------------
 
 Concept Engineering Test
 ------------------------
