@@ -6,6 +6,14 @@ The science program and target lists for K2 Campaign 17
 have now been posted on the
 [approved targets & programs page](k2-approved-programs.html#campaign-17).
 
+The target list is based on the peer review of target proposals
+submitted in response to the [K2 GO Cycle 6 Phase-1 opportunity](call-for-k2-go-cycle-6-proposals-for-campaigns-17-18-and-19.html).
+PI teams may expect to receive feedback on their proposals by the end of February.
+Note that US-based investigators may be eligible to obtain funding to analyze
+the data obtained as part of this Campaign by submitting a Phase-2 proposal
+before the deadline, which is currently set at April 19, 2018,
+i.e. after the the successful start of Campaign 17 is confirmed. [See NSPIRES for details](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={7DC22936-4C6A-44FC-74A3-F0C9248DC9DD}&path=open).
+
 The Campaign 17 target list includes <b>34,398 standard long cadence</b>
 and <b>179 standard short cadence</b> targets
 located towards the constellation of Virgo.
