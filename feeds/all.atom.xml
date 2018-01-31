@@ -1,95 +1,502 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2017-10-25T19:00:00-07:00</updated><entry><title>K2 Campaign 16 science program now available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-16-science-program-now-available.html" rel="alternate"></link><published>2017-10-25T19:00:00-07:00</published><updated>2017-10-25T19:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-10-25:/k2-campaign-16-science-program-now-available.html</id><summary type="html">&lt;p&gt;The science program and target lists for K2 Campaign 16
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2018-01-30T14:00:00-08:00</updated><entry><title>Kepler's K2 Mission reaches 300,000 targets</title><link href="https://keplerscience.arc.nasa.gov/keplers-k2-mission-reaches-300000-targets.html" rel="alternate"></link><published>2018-01-30T14:00:00-08:00</published><updated>2018-01-30T14:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-01-30:/keplers-k2-mission-reaches-300000-targets.html</id><summary type="html">&lt;p&gt;During Campaigns 0 through 14,
+the K2 mission has now targeted an estimated 297,991 objects, including
+50,159 cool stars,
+37,041 giant stars,
+40,125 galaxies,
+and 1,560 white dwarfs.
+The flyer below summarizes a few key statistics.&lt;/p&gt;
+&lt;p&gt;Note that the numbers do not include the very …&lt;/p&gt;</summary><content type="html">&lt;p&gt;During Campaigns 0 through 14,
+the K2 mission has now targeted an estimated 297,991 objects, including
+50,159 cool stars,
+37,041 giant stars,
+40,125 galaxies,
+and 1,560 white dwarfs.
+The flyer below summarizes a few key statistics.&lt;/p&gt;
+&lt;p&gt;Note that the numbers do not include the very large number of objects observed
+as part of the large "superstamps" collected towards the Galactic Bulge
+and several clusters including M35 and M67,
+for which the analysis is still ongoing.
+Although the flyer is only a few weeks old, note that the number of confirmed planets is already outdated: the current count of K2 planets stands at 197!&lt;/p&gt;
+&lt;p&gt;&lt;a href="images/news/k2-by-the-numbers-dec2017.jpg"&gt;&lt;img src="images/news/k2-by-the-numbers-dec2017.jpg"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>K2 Campaign 17 science program now available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-17-science-program-now-available.html" rel="alternate"></link><published>2018-01-27T14:00:00-08:00</published><updated>2018-01-27T14:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-01-27:/k2-campaign-17-science-program-now-available.html</id><summary type="html">&lt;p&gt;The science program and target lists for K2 Campaign 17
 have now been posted on the
-&lt;a href="k2-approved-programs.html#campaign-16"&gt;approved targets &amp;amp; programs page&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;
-        Campaign 16 is scheduled to run from
-        &lt;b&gt;2017 Dec 7 (~22h UT) through 2018 Feb 25 (~13h UT)&lt;/b&gt;.
-        The target list includes 29,888 standard long cadence
-        and 129 standard …&lt;/p&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;The science program and target lists for K2 Campaign 16
+&lt;a href="k2-approved-programs.html#campaign-17"&gt;approved targets &amp;amp; programs page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The target list is based on the peer review of target proposals
+submitted in response to the &lt;a href="call-for-k2-go-cycle-6-proposals-for-campaigns-17-18-and-19.html"&gt;K2 GO Cycle 6 Phase-1 opportunity&lt;/a&gt;.
+PI teams may expect to receive feedback …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The science program and target lists for K2 Campaign 17
 have now been posted on the
-&lt;a href="k2-approved-programs.html#campaign-16"&gt;approved targets &amp;amp; programs page&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;
-        Campaign 16 is scheduled to run from
-        &lt;b&gt;2017 Dec 7 (~22h UT) through 2018 Feb 25 (~13h UT)&lt;/b&gt;.
-        The target list includes 29,888 standard long cadence
-        and 129 standard short cadence targets
-        located towards the constellation of Cancer.
-        The list includes &lt;b&gt;20,647 stars alongside 
-        9,241 galaxies for the &lt;a href="supernova-experiment"&gt;supernova experiment&lt;/a&gt;&lt;/b&gt;.
-    &lt;/p&gt;
-    &lt;p&gt;
-        Uniquely, the spacecraft will be pointing along the forward-facing direction
-        of the spacecraft's velocity vector during this Campaign,
-        which &lt;b&gt;allows the field to be accessed from Earth&lt;/b&gt;. 
-        This enables K2's single-bandpass photometry
-        to be complemented with simultaneous observations from the ground,
-        an opportunity that is being utilised by many of the selected programs,
-        e.g. to characterize supernovae in the field, and to carry out
-        simultaneous high-precision RV observations alongside K2's photometry.
-    &lt;/p&gt;
-    &lt;p&gt;
-        The field contains two important clusters: &lt;b&gt;M44 (Beehive) and M67&lt;/b&gt;.
-        M44 is one of the most nearby open clusters;
-        its members are being observed using standard masks.
-        M67 is a benchmark cluster with solar-like age and metallicity;
-        the stars in its core are being observed using a 400-by-360&amp;nbsp;pixel
-        custom mask that covers the same area of the sky
-        that was previously covered by a 400-by-400&amp;nbsp;pixel custom mask in Campaign 5,
-        except for a 40px-wide strip that is not on silicon in C16.
-        In addition, hundreds of members in the outskirts of M67
-        are being targeted using standard long cadence masks,
-        and 39 members are targeted using short cadence masks.
-    &lt;/p&gt;
-    &lt;p&gt;
-        Other notable targets in Campaign 16 include:
-        &lt;ul&gt;
-            &lt;li&gt;
-                &lt;b&gt;Dozens of exoplanets and exoplanet candidates revealed by
-                K2 Campaign 5&lt;/b&gt;,
-                including several discovered in the Beehive cluster
-                (K2-101b, K2-102b, K2-103b, K2-104b, EPIC 211901114b)
-                and the confirmed hot Jupiter K2-34b.
-            &lt;/li&gt;
-            &lt;li&gt;
-                &lt;b&gt;Nearby late-type flare stars&lt;/b&gt;
-                including LHS 2090 (M6.5), DP Cnc (M3.5),
-                DS Cnc (M4), and AZ Cnc (M6).
-            &lt;/li&gt;
-            &lt;li&gt;
-                &lt;b&gt;9 very bright stars&lt;/b&gt; are being observed using custom circular masks,
-                including A/F-dwarfs HD 76333 and 45 Cancri in short cadence,
-                and α, δ, η, and ξ Cancri in long cadence.
-            &lt;/li&gt;
-            &lt;li&gt;
-                &lt;b&gt;19 Solar System objects&lt;/b&gt; including asteroid Hekate,
-                comets 288P and 2009 YD7, 4 Trojan asteroids,
-                and 12 Trans-Neptunian Objects.
-            &lt;/li&gt; &lt;br /&gt;
-        &lt;/ul&gt;
-    &lt;/p&gt;
-    &lt;p&gt;
-        Finally, a consequence of the forward-facing geometry is that
-        our own &lt;b&gt;Earth-Moon system&lt;/b&gt; will be moving across the focal
-        plane during the first 3.5 days of the Campaign.
-        We warn that our planet's passage will add noise to multiple CCD channels
-        due to scattered light and saturation effects.
-        Ground-based observers may wish to wait for Earth
-        to leave the focal plane on 2017-Dec-11 near 6h UT to
-        commence their complementary observations.
-        By this time, the mission's engineers will also have been
-        able to confirm the accuracy of Kepler's pointing.
-    &lt;/p&gt;
-    &lt;p&gt;
-        Earth and Moon will be captured by the first Full Frame Image (FFI),
-        which is scheduled for 2017-Dec-10 between 21:30 and 22:00 UT.
-        In addition, a narrow custom LC mask will cover Earth's trajectory
-        between 2017-Dec-07 17:00 and 2017-Dec-08 03:00 UT,
-        which is when Earth will occult the Moon as seen from Kepler.
-        Don't forget to smile and wave towards the constellation of Capricornus
-        near these times, which is where Kepler will be located!
-    &lt;/p&gt;&lt;/p&gt;
+&lt;a href="k2-approved-programs.html#campaign-17"&gt;approved targets &amp;amp; programs page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The target list is based on the peer review of target proposals
+submitted in response to the &lt;a href="call-for-k2-go-cycle-6-proposals-for-campaigns-17-18-and-19.html"&gt;K2 GO Cycle 6 Phase-1 opportunity&lt;/a&gt;.
+PI teams may expect to receive feedback on their proposals by the end of February.
+Note that US-based investigators may be eligible to obtain funding to analyze
+the data obtained as part of this Campaign by submitting a Phase-2 proposal
+before the deadline, which is currently set for April 19, 2018,
+i.e. after the the successful start of Campaign 17 is confirmed. &lt;a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={7DC22936-4C6A-44FC-74A3-F0C9248DC9DD}&amp;amp;path=open"&gt;See NSPIRES for details&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The Campaign 17 target list includes &lt;b&gt;34,398 standard long cadence&lt;/b&gt;
+and &lt;b&gt;179 standard short cadence&lt;/b&gt; targets
+located towards the constellation of Virgo.
+Like Campaigns 9 and 16, this is a forward-facing field which enables
+simultaneous observations to be carried out from the ground.&lt;/p&gt;
+&lt;p&gt;Campaign 17 provides a substantial overlap with Campaign 6,
+offering a longer baseline for stellar activity, asteroseismology,
+and AGN studies,
+as well as enabling dozens of K2 planet candidates to be revisited.
+The field also provides access to 20 deg&lt;sup&gt;2&lt;/sup&gt;
+of previously unexplored sky.&lt;/p&gt;
+&lt;p&gt;Notable &lt;b&gt;long cadence targets&lt;/b&gt; include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Spica&lt;/b&gt;: the brightest star system in the constellation of Virgo (V=1),
+  known to be an ellipsoidal variable.
+  The object is being observed using a 40px-diameter circular mask
+  (ID 200213067) designed to capture the PSF core and wings while excluding
+  the long saturation columns which will bleed off silicon.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;3,000+ candidate M dwarfs&lt;/b&gt; and &lt;b&gt;10,000+ candidate FGK dwarfs&lt;/b&gt;
+  for planet searches and other investigations.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;14,000+ galaxies&lt;/b&gt; for the
+  &lt;a href="supernova-experiment/"&gt;K2 Supernova Cosmology Experiment&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;24 Solar System objects&lt;/b&gt;
+        including comets 183P/Korlevic-Juric and 235P/LINEAR,
+        main-belt asteroids (223) Rosa and (422) Berolina,
+        9 Trans-Neptunian Objects, and 11 Jupiter Trojan/Hilda Objects.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Targets being observed in &lt;b&gt;short cadence&lt;/b&gt; include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Six confirmed planet systems&lt;/b&gt; from Campaign 6
+  (K2-41 = WASP-157, K2-99, K2-110, K2-126, K2-127, K2-128).&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Dozens of planet candidates&lt;/b&gt; from Campaign 6.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;67 variable white dwarfs&lt;/b&gt;,
+  including the bright white dwarf WD 1327-083 (V=12).&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;47 cool flare stars&lt;/b&gt;,
+  including the bright K-type flare star EQ Virginis (V=9).&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;17 bright solar-type stars&lt;/b&gt; for asteroseismology studies.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;The figure below illustrates the location of the field and its notable targets.&lt;/p&gt;
+&lt;p&gt;&lt;a href="images/k2/k2-c17-field.png"&gt;&lt;img class="img-responsive" style="max-width:500px;" src="images/k2/k2-c17-field.png"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>Slides available from the K2 Clusters Workshop in Boston</title><link href="https://keplerscience.arc.nasa.gov/slides-available-from-the-k2-clusters-workshop-in-boston.html" rel="alternate"></link><published>2018-01-26T16:00:00-08:00</published><updated>2018-01-26T16:00:00-08:00</updated><author><name>Ann Marie Cody</name></author><id>tag:keplerscience.arc.nasa.gov,2018-01-26:/slides-available-from-the-k2-clusters-workshop-in-boston.html</id><summary type="html">&lt;p&gt;The &lt;a href="cluster-workshop"&gt;Kepler/K2 workshop on Dwarf Stars and Clusters&lt;/a&gt; was held on
+January 16-18, 2018, at Boston University.
+The event was attended by over 50 participants and featured talks, stimulating discussions,
+and new collaborations. 
+A highlight of the workshop was the &lt;em&gt;unconference&lt;/em&gt; held on the final day,
+during which participants …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The &lt;a href="cluster-workshop"&gt;Kepler/K2 workshop on Dwarf Stars and Clusters&lt;/a&gt; was held on
+January 16-18, 2018, at Boston University.
+The event was attended by over 50 participants and featured talks, stimulating discussions,
+and new collaborations. 
+A highlight of the workshop was the &lt;em&gt;unconference&lt;/em&gt; held on the final day,
+during which participants worked on software, analyzed data, and planned future observations.&lt;/p&gt;
+&lt;p&gt;Those who could not attend the event can catch up in three ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The talks have been posted in PDF format on the &lt;a href="cluster-workshop/#agenda"&gt;workshop webpage&lt;/a&gt;
+(click on the talk titles in the agenda).&lt;/li&gt;
+&lt;li&gt;K2 staff Michael Gully-Santiago and Christina Hedges
+&lt;a href="https://soundcloud.com/kepler-k2-mission/recap-of-k2clusters-workshop-at-boston-university"&gt;recorded a podcast&lt;/a&gt;
+to summarize their impressions from the meeting.&lt;/li&gt;
+&lt;li&gt;Various participants shared their highlights using the &lt;a href="https://twitter.com/hashtag/K2Clusters"&gt;#K2Clusters hashtag&lt;/a&gt; on Twitter.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The mission is grateful to Professor Philip Muirhead, Julie Skinner,
+and their colleagues at Boston University for hosting the successful meeting.&lt;/p&gt;
+&lt;p&gt;&lt;a href="images/news/k2clusters-group-photo.jpg"&gt;&lt;img src="images/news/k2clusters-group-photo.jpg" class="img-responsive" style="max-width:460px; float:left; padding:0.5em;" alt="K2 Clusters Meeting Group Photo"&gt;&lt;/a&gt;
+&lt;a href="images/news/k2clusters-unconference.jpg"&gt;&lt;img src="images/news/k2clusters-unconference.jpg" class="img-responsive" style="max-width:460px; float:left; padding:0.5em;" alt="K2 Clusters Meeting Unconference Session Photo"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>New community High Level Science Products available at MAST</title><link href="https://keplerscience.arc.nasa.gov/new-community-high-level-science-products-available-at-mast.html" rel="alternate"></link><published>2018-01-08T00:00:00-08:00</published><updated>2018-01-08T00:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-01-08:/new-community-high-level-science-products-available-at-mast.html</id><summary type="html">&lt;p&gt;The mission encourages members of our community to share and archive
+value-added data products derived from Kepler or K2 observations
+via the &lt;a href="https://archive.stsci.edu/k2/hlsps.html"&gt;High Level Science Products (HLSP)&lt;/a&gt; service offered by the data archive at MAST.&lt;/p&gt;
+&lt;p&gt;In recent months, four bespoke data products have been released or updated in this way …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The mission encourages members of our community to share and archive
+value-added data products derived from Kepler or K2 observations
+via the &lt;a href="https://archive.stsci.edu/k2/hlsps.html"&gt;High Level Science Products (HLSP)&lt;/a&gt; service offered by the data archive at MAST.&lt;/p&gt;
+&lt;p&gt;In recent months, four bespoke data products have been released or updated in this way:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The &lt;a href="http://www.mso.anu.edu.au/kegs"&gt;Kepler/K2 Extragalactic Survey Project&lt;/a&gt; (KEGS) has released light curves for galaxies observed during K2 Campaigns 5, 6, and 8.
+The team has constructed their own cotrending basis vectors (CBVs) using the galaxies on each channel using a PCA analysis.
+Their products and documentation are available at &lt;a href="https://archive.stsci.edu/prepds/kegs"&gt;https://archive.stsci.edu/prepds/kegs&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The &lt;a href="http://www.physics.usyd.edu.au/k2gap/"&gt;K2 Galactic Archaeology Program&lt;/a&gt; (K2GAP) has released asteroseismology parameters for red giants observed during K2 Campaign 1.
+The team used six different seismology pipelines to provide power spectra and a catalog of the dnu and numax values.
+The products are available at &lt;a href="https://archive.stsci.edu/prepds/k2gap"&gt;https://archive.stsci.edu/prepds/k2gap&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The K2 Self-Flat-Fielding (K2SFF) light curves prepared by Vanderburg et al have been updated to include all fields through Campaign 14.
+The products are available at &lt;a href="https://archive.stsci.edu/prepds/k2sff"&gt;https://archive.stsci.edu/prepds/k2sff&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The EVEREST light curves prepared by Luger et al have been updated
+to include all fields through Campaign 13.
+The products are available at &lt;a href="https://archive.stsci.edu/prepds/everest"&gt;https://archive.stsci.edu/prepds/everest&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More details on each of these data products, including a more detailed description and a list of references, is available via the &lt;a href="https://archive.stsci.edu/k2/hlsps.html"&gt;K2 High Level Science Product page at MAST&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Additional teams are encouraged to make their bespoke data products available
+in the same way.
+In particular, PI's of large programs funded via the K2 Guest Observer Program
+are reminded of the requirement to develop and disseminate a value-added community resource product at the end of their performance period.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="helpdesk.html"&gt;project's helpdesk&lt;/a&gt; is available
+to help guide the delivery of new data products
+and connect authors with the archives.&lt;/p&gt;</content></entry><entry><title>The Kepler/K2 publication database surpasses 2500 papers</title><link href="https://keplerscience.arc.nasa.gov/the-keplerk2-publication-database-surpasses-2500-papers.html" rel="alternate"></link><published>2018-01-07T00:00:00-08:00</published><updated>2018-01-07T00:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-01-07:/the-keplerk2-publication-database-surpasses-2500-papers.html</id><summary type="html">&lt;p&gt;The GO office curates a
+&lt;a href="publications.html"&gt;database of scientific publications&lt;/a&gt;
+pertaining to Kepler and K2.
+The list now contains 2502 publications, of which 2219 are peer-reviewed.
+Last year was the most productive one so far
+with over 500 publications recorded!&lt;/p&gt;
+&lt;p&gt;The database is available as a spreadsheet (&lt;a href="/data/kepler-publications.xls"&gt;kepler-publications.xls&lt;/a&gt;). 
+If you …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The GO office curates a
+&lt;a href="publications.html"&gt;database of scientific publications&lt;/a&gt;
+pertaining to Kepler and K2.
+The list now contains 2502 publications, of which 2219 are peer-reviewed.
+Last year was the most productive one so far
+with over 500 publications recorded!&lt;/p&gt;
+&lt;p&gt;The database is available as a spreadsheet (&lt;a href="/data/kepler-publications.xls"&gt;kepler-publications.xls&lt;/a&gt;). 
+If you spot an error in the database, such as a missing entry,
+then please &lt;a href="mailto:keplergo@mail.arc.nasa.gov"&gt;get in touch&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src="images/kpub/kpub-publication-rate-without-extrapolation.png"&gt;&lt;/p&gt;</content></entry><entry><title>K2 &amp; TESS Splinter Meeting at #AAS231 on Jan 9th, 2018</title><link href="https://keplerscience.arc.nasa.gov/k2-tess-splinter-meeting-at-aas231-on-jan-9th-2018.html" rel="alternate"></link><published>2018-01-03T12:00:00-08:00</published><updated>2018-01-03T12:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-01-03:/k2-tess-splinter-meeting-at-aas231-on-jan-9th-2018.html</id><summary type="html">&lt;p&gt;NASA's &lt;a href="https://tess.gsfc.nasa.gov"&gt;TESS&lt;/a&gt; and Kepler/K2 Missions
+are convening a joint splinter meeting during the
+&lt;a href="http://aas.org/meetings/aas231"&gt;231st meeting of the American Astronomical Society&lt;/a&gt; (AAS),
+which is being held in Washington, DC, next week.&lt;/p&gt;
+&lt;p&gt;The session will take place on Tuesday evening, January 9th, 2018,
+at 7:30 pm in room "National Harbor …&lt;/p&gt;</summary><content type="html">&lt;p&gt;NASA's &lt;a href="https://tess.gsfc.nasa.gov"&gt;TESS&lt;/a&gt; and Kepler/K2 Missions
+are convening a joint splinter meeting during the
+&lt;a href="http://aas.org/meetings/aas231"&gt;231st meeting of the American Astronomical Society&lt;/a&gt; (AAS),
+which is being held in Washington, DC, next week.&lt;/p&gt;
+&lt;p&gt;The session will take place on Tuesday evening, January 9th, 2018,
+at 7:30 pm in room "National Harbor 7" at the convention center.
+All AAS participants are invited to join the gathering to learn more
+about the present and future science opportunities with K2 and TESS.&lt;/p&gt;
+&lt;p&gt;The schedule is as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;7:30pm: K2 Mission Update – &lt;i&gt;Jessie Dotson, NASA Ames&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;7:40pm: TESS Mission Update – &lt;i&gt;George Ricker, MIT&lt;/i&gt; &lt;/li&gt;
+&lt;li&gt;7:50pm: K2 &amp;amp; TESS Data Resources and Tools –
+   &lt;i&gt;Susan Mullally (STScI) &amp;amp; Christina Hedges (NASA Ames)&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;8:00pm: Star Clusters &amp;amp; Young Planets – &lt;i&gt;Andrew Mann, Columbia University&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;8:10pm: Finding the Best Planets for Characterization –
+   &lt;i&gt;Ian Crossfield, MIT&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;8:20pm: The Kepler/K2 Revolution and Prospects for TESS – &lt;i&gt;Eric Mamajek, JPL&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;8:30pm: Informal Q&amp;amp;A and Socializing until 9pm&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In addition to the splinter meeting, a &lt;a href="keplerk2-at-the-aas-231-january-2018-washington-dc.html"&gt;wealth of Kepler/K2/TESS-related
+talks and posters&lt;/a&gt;
+will be presented during the meeting,
+and members of the missions will be part of NASA's Exoplanets Booth in the exhibit hall.&lt;/p&gt;
+&lt;p&gt;&lt;a href='images/news/aas231-splinter-meeting.jpg'&gt;&lt;img src='images/news/aas231-splinter-meeting.jpg' class='img-responsive'&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>DDT deadline for K2 Campaign 18 approaching</title><link href="https://keplerscience.arc.nasa.gov/ddt-deadline-for-k2-campaign-18-approaching.html" rel="alternate"></link><published>2018-01-02T12:00:00-08:00</published><updated>2018-01-02T12:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-01-02:/ddt-deadline-for-k2-campaign-18-approaching.html</id><summary type="html">&lt;p&gt;We are currently accepting DDT proposals for Campaigns 18 and 19.
+The primary goal of the DDT program is to enable
+exceptional, time-critical observing opportunities.&lt;/p&gt;
+&lt;p&gt;Owing to the overlaps with previous fields,
+C18 offers the opportunity to revisit targets from C5, 
+while C19 enables re-observations of objects from C3 and …&lt;/p&gt;</summary><content type="html">&lt;p&gt;We are currently accepting DDT proposals for Campaigns 18 and 19.
+The primary goal of the DDT program is to enable
+exceptional, time-critical observing opportunities.&lt;/p&gt;
+&lt;p&gt;Owing to the overlaps with previous fields,
+C18 offers the opportunity to revisit targets from C5, 
+while C19 enables re-observations of objects from C3 and C12.
+DDT proposals based on recent analyses of these previous fields,
+e.g. newly-discovered planet candidates, are particularly encouraged.&lt;/p&gt;
+&lt;p&gt;DDT proposals are due by 23:59 PT (Pacific Time) on the following dates: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Campaign 18: Jan 19, 2018&lt;/li&gt;
+&lt;li&gt;Campaign 19: Apr 12, 2018&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For further information on the DDT program and the requirements
+for proposal submission,
+&lt;a href="k2-ddt.html"&gt;consult the DDT web page&lt;/a&gt;.
+Proposals should be submitted via email to &lt;a href="mailto:keplergo@mail.arc.nasa.gov"&gt;keplergo@mail.arc.nasa.gov&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><title>Kepler/K2 at the AAS 231: January 2018, Washington DC</title><link href="https://keplerscience.arc.nasa.gov/keplerk2-at-the-aas-231-january-2018-washington-dc.html" rel="alternate"></link><published>2017-12-20T01:00:00-08:00</published><updated>2017-12-20T01:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-12-20:/keplerk2-at-the-aas-231-january-2018-washington-dc.html</id><summary type="html">&lt;p&gt;Members of the Kepler/K2 mission team are looking forward to meeting you at the 231st AAS meeting in Washington, DC.  You can find us at our exhibit booth, the K2/TESS splinter session, and several presentations.&lt;/p&gt;</summary><content type="html">&lt;p&gt;Members of the Kepler/K2 mission team are looking forward to meeting you at the 231st AAS meeting in Washington, DC. You can find us at our exhibit booth, the K2/TESS splinter session, and several presentations.&lt;/p&gt;
+&lt;h3 id="exhibit-booth"&gt;Exhibit booth&lt;/h3&gt;
+&lt;p&gt;Kepler/K2 staff will be available at the NASA Exoplanets Booth in the far rear left corner of the exhibit hall.
+We will be able to update you about the spacecraft status,
+answer your questions about the upcoming &lt;a href="/call-for-k2-go-cycle-6-proposals-for-campaigns-17-18-and-19.html"&gt;K2 Cycle 6 funding opportunities&lt;/a&gt;,
+and demonstrate the &lt;a href="http://pyke.keplerscience.org"&gt;new PyKE data analysis tools&lt;/a&gt;.
+You can also just pass by to grab a Kepler sticker!&lt;/p&gt;
+&lt;h3 id="joint-splinter-session-with-tess"&gt;Joint splinter session with TESS&lt;/h3&gt;
+&lt;p&gt;On Tuesday evening (Jan 9th, at 7:30pm) the K2 and TESS missions are convening 
+a joint splinter session to enable you to hear latest news from both missions,
+alongside a small number of fun science talks. Stay tuned for details!&lt;/p&gt;
+&lt;h3 id="nasa-hyperwall-presentations"&gt;NASA Hyperwall presentations&lt;/h3&gt;
+&lt;p&gt;Come and experience Kepler talks on the ultra-high resolution Hyperwall screen
+at NASA's booth in the exhibit hall:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tue Jan 9th, 5:00pm: &lt;strong&gt;How to get the most out of Kepler data&lt;/strong&gt; (Christina Hedges, Kepler/K2 Support Scientist)&lt;/li&gt;
+&lt;li&gt;Wed Jan 10th, 4:15pm: &lt;strong&gt;High-Precision Photometry Across 1000 Square Degrees&lt;/strong&gt; (Jessie Dotson, Kepler/K2 Project Scientist)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="conference-talks-and-posters"&gt;Conference talks and posters&lt;/h3&gt;
+&lt;p&gt;Kepler/K2 staff will present the following contributions during the meeting:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Poster 439.07: &lt;strong&gt;A PSF photometry tool for NASA's Kepler, K2, and TESS missions&lt;/strong&gt; (Jos&amp;eacute; De Miranda Cardoso)&lt;/li&gt;
+&lt;li&gt;Poster 439.10: &lt;strong&gt;PyKE3: data analysis tools for NASA's Kepler, K2, and TESS missions&lt;/strong&gt; (Christina Hedges)&lt;/li&gt;
+&lt;li&gt;Talk at Wed Jan 10th, 10:40am: &lt;strong&gt;The Kepler and K2 Near-Infrared Transit Survey&lt;/strong&gt; (Knicole Col&amp;oacute;n)&lt;/li&gt;
+&lt;li&gt;Talk at Fri Jan 12th, 11:00am: &lt;strong&gt;Using Final Kepler Catalog Completeness and Reliability Products in Exoplanet Occurrence Rate Estimates&lt;/strong&gt; (Steve Bryson)&lt;/li&gt;
+&lt;li&gt;Talk at Fri Jan 12th, 11:20am: &lt;strong&gt;Star clusters and K2&lt;/strong&gt; (Jessie Dotson)&lt;/li&gt;
+&lt;li&gt;Talk at Fri Jan 12th, 2:00pm: &lt;strong&gt;The exoplanet population revealed by K2&lt;/strong&gt; (Geert Barentsen)&lt;/li&gt;
+&lt;li&gt;Talk at Fri Jan 12th, 2:10pm: &lt;strong&gt;Fake Planets! Simulating Transits and False Positives for Kepler's Final Catalog&lt;/strong&gt; (Jeff Coughlin)&lt;/li&gt;
+&lt;li&gt;Talk at Fri Jan 12th, 2:50pm: &lt;strong&gt;Kepler's DR25 Most Earth-like Planet Candidates: What To Know Before You Go&lt;/strong&gt; (Susan Thompson)&lt;/li&gt;
+&lt;/ul&gt;</content></entry><entry><title>PanSTARRS monitoring of the K2 Campaign 16 field</title><link href="https://keplerscience.arc.nasa.gov/panstarrs-monitoring-of-the-k2-campaign-16-field.html" rel="alternate"></link><published>2017-12-20T01:00:00-08:00</published><updated>2017-12-20T01:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-12-20:/panstarrs-monitoring-of-the-k2-campaign-16-field.html</id><summary type="html">&lt;p&gt;Because the currently-ongoing K2 Campaign 16 is partially dedicated to the
+&lt;a href="/supernova-experiment"&gt;Supernova Experiment&lt;/a&gt;,
+the project has acquired PanSTARRS time to monitor
+the entire field every night in two filters
+(cycling through g+r and g+i)
+for the purpose of providing early alerts for transients in the field.
+The alerts …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Because the currently-ongoing K2 Campaign 16 is partially dedicated to the
+&lt;a href="/supernova-experiment"&gt;Supernova Experiment&lt;/a&gt;,
+the project has acquired PanSTARRS time to monitor
+the entire field every night in two filters
+(cycling through g+r and g+i)
+for the purpose of providing early alerts for transients in the field.
+The alerts are made public instantly via the 
+&lt;a href="https://wis-tns.weizmann.ac.il"&gt;Transient Name Server&lt;/a&gt;,
+where users can receive K2-specific alerts by signing up for the "KEGS-C16" alerts category.&lt;/p&gt;
+&lt;p&gt;During the first week of C16,
+PanSTARRS has already identified two events in galaxies
+which are currently being observed by Kepler:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://wis-tns.weizmann.ac.il/object/2017iws"&gt;2017iws&lt;/a&gt;: a Type Ia supernova (z=0.09).&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://wis-tns.weizmann.ac.il/object/2017ixf"&gt;2017ixf&lt;/a&gt;: a Type II supernova (z=0.05).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Members of the community who wish to stay up to date
+with this activity are encouraged to subscribe to the 
+&lt;a href="https://groups.google.com/forum/#!forum/k2sn"&gt;K2 Supernova mailing list&lt;/a&gt;. 
+Note that several members of this list have signed up to a
+&lt;a href="https://docs.google.com/document/d/1MKlyjkV8TQwwuUQiQtcrP_P9H3PWYDUjgbKVk37z19Q"&gt;follow-up agreement&lt;/a&gt; which is intended to encourage collaboration.&lt;/p&gt;
+&lt;p&gt;The imaging data collected by PanSTARRS for K2 is expected to be released
+to the public no later than June 1st, 2018.
+The release will include images in g, r, and i
+for the entire field to a typical depth of 21st magnitude
+and with a typical cadence better than 1-2 days.
+These PanSTARRS data are expected to benefit multiple galactic and extragalactic investigations associated with Campaign 16.&lt;/p&gt;</content></entry><entry><title>K2 Campaign 16 successfully underway</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-16-successfully-underway.html" rel="alternate"></link><published>2017-12-19T01:00:00-08:00</published><updated>2017-12-19T01:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-12-19:/k2-campaign-16-successfully-underway.html</id><summary type="html">&lt;p&gt;K2 Campaign 16 started successfully on December 7th
+and has continued to proceed without issues since.&lt;/p&gt;
+&lt;p&gt;Uniquely, the spacecraft is pointing along the forward-facing direction of the spacecraft's velocity vector during Campaigns 16 and 17,
+which allows the field to be accessed from Earth during Kepler's observations.
+This enables K2's …&lt;/p&gt;</summary><content type="html">&lt;p&gt;K2 Campaign 16 started successfully on December 7th
+and has continued to proceed without issues since.&lt;/p&gt;
+&lt;p&gt;Uniquely, the spacecraft is pointing along the forward-facing direction of the spacecraft's velocity vector during Campaigns 16 and 17,
+which allows the field to be accessed from Earth during Kepler's observations.
+This enables K2's single-bandpass photometry to be complemented with simultaneous color photometry and spectroscopy from the ground.&lt;/p&gt;
+&lt;p&gt;For example, members of the extragalactic community are taking advantage
+of this opportunity to &lt;a href="/panstarrs-monitoring-of-the-k2-campaign-16-field.html"&gt;execute rapid follow-up of transients&lt;/a&gt;.
+At the same time, teams led by Dr Sharon Wang (see &lt;a href="https://RVxK2.com"&gt;RVxK2.com&lt;/a&gt;) and Dr Alexandre Santerne (see the &lt;a href="https://twitter.com/a_santerne/status/934077306313863169"&gt;K2 Stellar Activity Campaign&lt;/a&gt;) are collecting
+simultaneous high-precision RV observations of bright stars in the K2 field.
+A comprehensive list of science programs is &lt;a href="/k2-approved-programs.html#campaign-16"&gt;available on our website&lt;/a&gt;,
+and a non-exhaustive list of the ground-based facilities involved is available
+as a &lt;a href="https://docs.google.com/spreadsheets/d/1ymIEoUyX0ZE8sKHA80tV8ieYJh47Nj4tIDIGXZeKqc4/edit#gid=45363194"&gt;Google Spreadsheet&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The cartoon below highlights some of the most notable science programs
+being executed during this Campaign.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.nasa.gov/feature/ames/kepler-s-gaze-shifts-toward-new-targets-supernovae-the-beehive-cluster-and-earth"&gt;&lt;img src="/images/news/c16cartoon300dpi-full.jpg"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>Agenda available for the K2 Clusters Workshop in Boston</title><link href="https://keplerscience.arc.nasa.gov/agenda-available-for-the-k2-clusters-workshop-in-boston.html" rel="alternate"></link><published>2017-12-14T12:00:00-08:00</published><updated>2017-12-14T12:00:00-08:00</updated><author><name>Ann Marie Cody</name></author><id>tag:keplerscience.arc.nasa.gov,2017-12-14:/agenda-available-for-the-k2-clusters-workshop-in-boston.html</id><summary type="html">&lt;p&gt;The draft agenda for the
+&lt;b&gt;Kepler/K2 workshop on Dwarf Stars and Clusters&lt;/b&gt;
+is &lt;a href="/cluster-workshop/#draft-agenda"&gt;now available online&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;So far, over 50 participants have registered to attend the workshop,
+which will take place from &lt;b&gt;January 16-18, 2018&lt;/b&gt;,
+on the &lt;b&gt;Boston University (BU)&lt;/b&gt; campus.
+The first two days will consist of science …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The draft agenda for the
+&lt;b&gt;Kepler/K2 workshop on Dwarf Stars and Clusters&lt;/b&gt;
+is &lt;a href="/cluster-workshop/#draft-agenda"&gt;now available online&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;So far, over 50 participants have registered to attend the workshop,
+which will take place from &lt;b&gt;January 16-18, 2018&lt;/b&gt;,
+on the &lt;b&gt;Boston University (BU)&lt;/b&gt; campus.
+The first two days will consist of science talks by attendees,
+while the last day will be an "unconference" dedicated to
+tutorials and collaborations.&lt;/p&gt;
+&lt;p&gt;We continue to accept late registrations for additional participants.
+A small number of talk slots remain available on a first-come, first-served basis.
+Please contact &lt;a href="mailto:keplergo@mail.arc.nasa.gov"&gt;keplergo@mail.arc.nasa.gov&lt;/a&gt; as soon as possible to be considered for the spare talk slots.&lt;/p&gt;</content></entry><entry><title>K2 Campaign 14 processed data available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-14-processed-data-available.html" rel="alternate"></link><published>2017-11-20T10:00:00-08:00</published><updated>2017-11-20T10:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-11-20:/k2-campaign-14-processed-data-available.html</id><summary type="html">&lt;p&gt;The pipeline-processed data for K2 Campaign 14
+are now available for download
+from the &lt;a href="http://archive.stsci.edu/k2"&gt;K2 archive at MAST&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="k2-approved-programs.html#campaign-14"&gt;target list&lt;/a&gt; featured
+29,897 standard long cadence and 147 standard short cadence targets,
+including Wolf-359, WASP-104, and rho Leo,
+alongside a number of large galaxies (e.g. M95, M96, M105 …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The pipeline-processed data for K2 Campaign 14
+are now available for download
+from the &lt;a href="http://archive.stsci.edu/k2"&gt;K2 archive at MAST&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="k2-approved-programs.html#campaign-14"&gt;target list&lt;/a&gt; featured
+29,897 standard long cadence and 147 standard short cadence targets,
+including Wolf-359, WASP-104, and rho Leo,
+alongside a number of large galaxies (e.g. M95, M96, M105) and Solar System objects.&lt;/p&gt;
+&lt;p&gt;Keep an eye on our website for an announcement of the release
+and the associated &lt;a href="k2-data-release-notes.html"&gt;data release notes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="images/k2/k2-c14-field.png"&gt;&lt;img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c14-field.png"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>Workshop on Dwarf Stars and Clusters with K2: Abstract deadline approaching!</title><link href="https://keplerscience.arc.nasa.gov/workshop-on-dwarf-stars-and-clusters-with-k2-abstract-deadline-approaching.html" rel="alternate"></link><published>2017-11-16T14:00:00-08:00</published><updated>2017-11-16T14:00:00-08:00</updated><author><name>Ann Marie Cody</name></author><id>tag:keplerscience.arc.nasa.gov,2017-11-16:/workshop-on-dwarf-stars-and-clusters-with-k2-abstract-deadline-approaching.html</id><summary type="html">&lt;p&gt;The K2 Mission and Boston University (BU) are convening
+a small meeting from January 16 to 18, 2018, on the BU campus
+in Boston, Massachusetts.&lt;/p&gt;
+&lt;p&gt;The event will highlight the diverse science that K2 has enabled
+in the areas of cool stars and open clusters.
+Topics will include stellar rotation …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The K2 Mission and Boston University (BU) are convening
+a small meeting from January 16 to 18, 2018, on the BU campus
+in Boston, Massachusetts.&lt;/p&gt;
+&lt;p&gt;The event will highlight the diverse science that K2 has enabled
+in the areas of cool stars and open clusters.
+Topics will include stellar rotation and activity,
+eclipsing binaries, young stellar objects, and planets in clusters. &lt;/p&gt;
+&lt;p&gt;The &lt;a href="/cluster-workshop"&gt;workshop website&lt;/a&gt; contains further details,
+including the &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSdZhetqWv9_oUAXmLueHDhyIVdMYcLPj53p5TjPeEgTTMkRWQ/viewform?usp=sf_link"&gt;registration form&lt;/a&gt;.
+There is no fee to attend. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The deadline for submitting a talk is November 22nd.&lt;/strong&gt;
+We expect to give most participants who meet this deadline
+the opportunity to give a talk.&lt;/p&gt;
+&lt;p&gt;&lt;img class="img-responsive" style="max-width:100%;" src="images/k2/bu_fireworks.jpg" alt="Dwarf Stars and Clusters with 
+K2: A Workshop"&gt; 
+&lt;em&gt;Image Credit: Eric Kilby&lt;/em&gt;&lt;/p&gt;</content></entry><entry><title>K2 Campaign 14 data processing complete</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-14-data-processing-complete.html" rel="alternate"></link><published>2017-11-16T12:00:00-08:00</published><updated>2017-11-16T12:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-11-16:/k2-campaign-14-data-processing-complete.html</id><summary type="html">&lt;p&gt;Data processing for K2 Campaign 14 is now complete
+and the pixel files and lightcurves are being ingested
+into the &lt;a href="http://archive.stsci.edu/k2"&gt;data archive at MAST&lt;/a&gt;.
+We anticipate that the data release will be made public on Monday,
+November 20th, or shortly thereafter.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="k2-approved-programs.html#campaign-14"&gt;target list&lt;/a&gt; featured
+29,897 standard long cadence …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Data processing for K2 Campaign 14 is now complete
+and the pixel files and lightcurves are being ingested
+into the &lt;a href="http://archive.stsci.edu/k2"&gt;data archive at MAST&lt;/a&gt;.
+We anticipate that the data release will be made public on Monday,
+November 20th, or shortly thereafter.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="k2-approved-programs.html#campaign-14"&gt;target list&lt;/a&gt; featured
+29,897 standard long cadence and 147 standard short cadence targets,
+including Wolf-359, WASP-104, and rho Leo,
+alongside a number of large galaxies (e.g. M95, M96, M105) and Solar System objects.&lt;/p&gt;
+&lt;p&gt;Keep an eye on our website for an announcement of the release
+and the associated &lt;a href="k2-data-release-notes.html"&gt;data release notes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="images/k2/k2-c14-field.png"&gt;&lt;img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c14-field.png"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>Kepler to image Earth and Moon on December 10, 2017</title><link href="https://keplerscience.arc.nasa.gov/kepler-to-image-earth-and-moon-on-december-10-2017.html" rel="alternate"></link><published>2017-11-16T06:00:00-08:00</published><updated>2017-11-16T06:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-11-16:/kepler-to-image-earth-and-moon-on-december-10-2017.html</id><summary type="html">&lt;p&gt;During K2's upcoming Campaign 16, the Kepler spacecraft will be operated
+in its &lt;a href="images/k2/k2-c16-geometry.png"&gt;forward-facing mode&lt;/a&gt; to enable
+&lt;a href="share-your-plan-for-k2-campaign-16-ancillary-observations.html"&gt;simultaneous observations of the K2 field&lt;/a&gt;
+to be carried out using ground-based telescopes.&lt;/p&gt;
+&lt;p&gt;A consequence of the forward-facing observing geometry
+is that the Earth-Moon system will be moving across Kepler's focal plane during …&lt;/p&gt;</summary><content type="html">&lt;p&gt;During K2's upcoming Campaign 16, the Kepler spacecraft will be operated
+in its &lt;a href="images/k2/k2-c16-geometry.png"&gt;forward-facing mode&lt;/a&gt; to enable
+&lt;a href="share-your-plan-for-k2-campaign-16-ancillary-observations.html"&gt;simultaneous observations of the K2 field&lt;/a&gt;
+to be carried out using ground-based telescopes.&lt;/p&gt;
+&lt;p&gt;A consequence of the forward-facing observing geometry
+is that the Earth-Moon system will be moving across Kepler's focal plane during the first 3 days of the Campaign, i.e. from December 7 through December 10, 2017.&lt;/p&gt;
+&lt;p&gt;We warn that our planet's passage will temporarily add noise to multiple CCD channels due to scattered light and saturation effects.
+To map the scattered light, the Campaign's first Full Frame Image (FFI)
+has been scheduled to capture Earth and Moon while they are in the field of view.&lt;/p&gt;
+&lt;p&gt;The Earth-Moon FFI will start on Sunday December 10 at 21:38 Universal Time (4:38pm Eastern, 1:38pm Pacific)
+using the standard 30-minute integration time.
+Kepler will be above the horizon across the United States at this time, so don't forget to smile and wave towards (ra, dec) = (320.4, -15.7) degrees
+during the exposure!&lt;/p&gt;
+&lt;p&gt;Kepler user Jim Davenport &lt;a href="https://twitter.com/jradavenport/status/930867347522326529"&gt;tweeted&lt;/a&gt; the following fan art to mark the occasion:&lt;/p&gt;
+&lt;p&gt;&lt;img class="img-responsive" style="max-width:800px;" src="images/news/waveatkepler-davenport.jpg " alt="#WaveAtKepler"&gt;
+&lt;em&gt;Image Credit: Jim Davenport&lt;/em&gt;&lt;/p&gt;</content></entry><entry><title>K2 pixel data now available in bundles from MAST</title><link href="https://keplerscience.arc.nasa.gov/k2-pixel-data-now-available-in-bundles-from-mast.html" rel="alternate"></link><published>2017-11-15T18:00:00-08:00</published><updated>2017-11-15T18:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-11-15:/k2-pixel-data-now-available-in-bundles-from-mast.html</id><summary type="html">&lt;p&gt;Users seeking to obtain a copy of every single Target Pixel File (TPF)
+for a given K2 Campaign may now retrieve the data in bundles of
+tar archive files from the following url at MAST:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://archive.stsci.edu/missions/k2/target_pixel_files/bundles/"&gt;http://archive.stsci.edu/missions/k2/target_pixel_files/bundles/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By grouping the TPFs into larger bundles …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Users seeking to obtain a copy of every single Target Pixel File (TPF)
+for a given K2 Campaign may now retrieve the data in bundles of
+tar archive files from the following url at MAST:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://archive.stsci.edu/missions/k2/target_pixel_files/bundles/"&gt;http://archive.stsci.edu/missions/k2/target_pixel_files/bundles/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By grouping the TPFs into larger bundles, users will tend to experience faster data transfers and have a more convenient way of verifying that all files have been transferred. See the README file in the directory for more information.
+Warning: the K2 pixel data amounts to more than 3 terabyte!&lt;/p&gt;</content></entry><entry><title>DDT deadline for K2 Campaign 17 approaching</title><link href="https://keplerscience.arc.nasa.gov/ddt-deadline-for-k2-campaign-17-approaching.html" rel="alternate"></link><published>2017-11-14T22:00:00-08:00</published><updated>2017-11-14T22:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-11-14:/ddt-deadline-for-k2-campaign-17-approaching.html</id><summary type="html">&lt;p&gt;A small percentage of the available K2 pixels in each campaign may be
+allocated by the K2 Guest Observer (GO) Office Director
+as Director's Discretionary Targets (DDTs).
+The primary utilization of DDT programs is in support
+of community-proposed requests that are based on
+exceptional, time-critical observing opportunities that cannot be …&lt;/p&gt;</summary><content type="html">&lt;p&gt;A small percentage of the available K2 pixels in each campaign may be
+allocated by the K2 Guest Observer (GO) Office Director
+as Director's Discretionary Targets (DDTs).
+The primary utilization of DDT programs is in support
+of community-proposed requests that are based on
+exceptional, time-critical observing opportunities that cannot be
+accommodated with the regular cycle of Calls for Proposals for K2.&lt;/p&gt;
+&lt;p&gt;We are currently accepting DDT proposals for Campaign 17, 18, and 19.
+The proposals are due by 23:59 PT (Pacific Time) on the
+following dates: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Campaign 17: Nov 30, 2017&lt;/li&gt;
+&lt;li&gt;Campaign 18: Jan 19, 2018&lt;/li&gt;
+&lt;li&gt;Campaign 19: Apr 12, 2018&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For further information on the DDT program and the requirements
+for proposal submission,
+&lt;a href="k2-ddt.html"&gt;consult the DDT web page&lt;/a&gt;.
+Proposals should be submitted via email to &lt;a href="mailto:keplergo@mail.arc.nasa.gov"&gt;keplergo@mail.arc.nasa.gov&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><title>K2 Campaign 16 science program now available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-16-science-program-now-available.html" rel="alternate"></link><published>2017-10-25T19:00:00-07:00</published><updated>2017-10-25T19:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2017-10-25:/k2-campaign-16-science-program-now-available.html</id><summary type="html">&lt;p&gt;The science program and target lists for K2 Campaign 16
+have now been posted on the
+&lt;a href="k2-approved-programs.html#campaign-16"&gt;approved targets &amp;amp; programs page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+    Campaign 16 is scheduled to run from
+    &lt;b&gt;2017 Dec 7 (~22h UT) through 2018 Feb 25 (~13h UT)&lt;/b&gt;.
+    The target list includes 29,888 standard long cadence
+    and 129 standard …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The science program and target lists for K2 Campaign 16
+have now been posted on the
+&lt;a href="k2-approved-programs.html#campaign-16"&gt;approved targets &amp;amp; programs page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+    Campaign 16 is scheduled to run from
+    &lt;b&gt;2017 Dec 7 (~22h UT) through 2018 Feb 25 (~13h UT)&lt;/b&gt;.
+    The target list includes 29,888 standard long cadence
+    and 129 standard short cadence targets
+    located towards the constellation of Cancer.
+    The list includes &lt;b&gt;20,647 stars alongside 
+    9,241 galaxies for the &lt;a href="supernova-experiment"&gt;supernova experiment&lt;/a&gt;&lt;/b&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;
+    Uniquely, the spacecraft will be pointing along the forward-facing direction
+    of the spacecraft's velocity vector during this Campaign,
+    which &lt;b&gt;allows the field to be accessed from Earth&lt;/b&gt;. 
+    This enables K2's single-bandpass photometry
+    to be complemented with simultaneous observations from the ground,
+    an opportunity that is being utilised by many of the selected programs,
+    e.g. to characterize supernovae in the field, and to carry out
+    simultaneous high-precision RV observations alongside K2's photometry.
+&lt;/p&gt;
+
+&lt;p&gt;
+    The field contains two important clusters: &lt;b&gt;M44 (Beehive) and M67&lt;/b&gt;.
+    M44 is one of the most nearby open clusters;
+    its members are being observed using standard masks.
+    M67 is a benchmark cluster with solar-like age and metallicity;
+    the stars in its core are being observed using a 400-by-360&amp;nbsp;pixel
+    custom mask that covers the same area of the sky
+    that was previously covered by a 400-by-400&amp;nbsp;pixel custom mask in Campaign 5,
+    except for a 40px-wide strip that is not on silicon in C16.
+    In addition, hundreds of members in the outskirts of M67
+    are being targeted using standard long cadence masks,
+    and 39 members are targeted using short cadence masks.
+&lt;/p&gt;
+
+&lt;p&gt;
+    Other notable targets in Campaign 16 include:
+    &lt;ul&gt;
+        &lt;li&gt;
+            &lt;b&gt;Dozens of exoplanets and exoplanet candidates revealed by
+            K2 Campaign 5&lt;/b&gt;,
+            including several discovered in the Beehive cluster
+            (K2-101b, K2-102b, K2-103b, K2-104b, EPIC 211901114b)
+            and the confirmed hot Jupiter K2-34b.
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;b&gt;Nearby late-type flare stars&lt;/b&gt;
+            including LHS 2090 (M6.5), DP Cnc (M3.5),
+            DS Cnc (M4), and AZ Cnc (M6).
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;b&gt;9 very bright stars&lt;/b&gt; are being observed using custom circular masks,
+            including HD 76333 and 45 Cancri in short cadence,
+            and α, δ, η, and ξ Cancri in long cadence.
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;b&gt;19 Solar System objects&lt;/b&gt; including asteroid Hekate,
+            comets 288P and 2009 YD7, 4 Trojan asteroids,
+            and 12 Trans-Neptunian Objects.
+        &lt;/li&gt;   
+    &lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+    Finally, a consequence of the forward-facing geometry is that
+    our own &lt;b&gt;Earth-Moon system&lt;/b&gt; will be moving across the focal
+    plane during the first 3.5 days of the Campaign.
+    We warn that our planet's passage will add noise to multiple CCD channels
+    due to scattered light and saturation effects.
+    Ground-based observers may wish to wait for Earth
+    to leave the focal plane on 2017-Dec-11 near 6h UT to
+    commence their complementary observations.
+    By this time, the mission's engineers will also have been
+    able to confirm the accuracy of Kepler's pointing.
+&lt;/p&gt;
+
+&lt;p&gt;
+    Earth and Moon will be captured by the first Full Frame Image (FFI),
+    which is scheduled for 2017-Dec-10 between 21:38 and 22:08 UT.
+    In addition, a narrow custom LC mask will cover Earth's trajectory
+    between 2017-Dec-07 17:00 and 2017-Dec-08 03:00 UT,
+    which is when Earth will occult the Moon as seen from Kepler.
+    Don't forget to smile and wave towards the constellation of Capricornus
+    near these times, which is where Kepler will be located while it is
+    observing our planet!
+&lt;/p&gt;
+
+&lt;p&gt;
+The figures below illustrates the location of the field and its notable targets.
+&lt;/p&gt;
+
 &lt;p&gt;&lt;a href="images/k2/k2-c16-geometry.png"&gt;&lt;img class="img-responsive" style="max-width:500px; float:left;" src="images/k2/k2-c16-geometry.png"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="images/k2/k2-c16-field.png"&gt;&lt;img class="img-responsive" style="max-width:500px; float:left; margin-left:1em;" src="images/k2/k2-c16-field.png"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>Workshop on Dwarf Stars and Clusters with K2: Registration now open, space is limited!</title><link href="https://keplerscience.arc.nasa.gov/workshop-on-dwarf-stars-and-clusters-with-k2-registration-now-open-space-is-limited.html" rel="alternate"></link><published>2017-10-23T16:00:00-07:00</published><updated>2017-10-23T16:00:00-07:00</updated><author><name>Ann Marie Cody</name></author><id>tag:keplerscience.arc.nasa.gov,2017-10-23:/workshop-on-dwarf-stars-and-clusters-with-k2-registration-now-open-space-is-limited.html</id><summary type="html">&lt;p&gt;The K2 Mission and Boston University (BU) are convening
 a small workshop on Dwarf Stars and Clusters with K2,
@@ -132,6 +539,7 @@ in securing fellowships in recent years.
 For example, applications for the &lt;a href="https://nhfp.stsci.edu/"&gt;NASA Hubble Fellowship Program&lt;/a&gt;
 (which replaces the previous Einstein, Hubble, and Sagan Fellowship Programs)
 are due by Nov 2nd, 2017.&lt;/p&gt;
+&lt;p&gt;Finally, MAST is &lt;a href="https://rn11.ultipro.com/SPA1004/JobBoard/JobDetails.aspx?__ID=*4BD21BA9BCB520B4"&gt;seeking to hire two Archive Scientists&lt;/a&gt; to provide scientific, technical and computational expertise to improve the MAST Archive (closes Dec 15).&lt;/p&gt;
 &lt;p&gt;If you have a Kepler/K2-related job opening that you would like us
 to advertise, then please let us know at keplergo@mail.arc.nasa.gov.&lt;/p&gt;</content></entry><entry><title>Save the date: Workshop on Dwarf Stars and Clusters with K2, January 16-18, 2018</title><link href="https://keplerscience.arc.nasa.gov/save-the-date-workshop-on-dwarf-stars-and-clusters-with-k2-january-16-18-2018.html" rel="alternate"></link><published>2017-09-27T17:00:00-07:00</published><updated>2017-09-27T17:00:00-07:00</updated><author><name>Ann Marie Cody</name></author><id>tag:keplerscience.arc.nasa.gov,2017-09-27:/save-the-date-workshop-on-dwarf-stars-and-clusters-with-k2-january-16-18-2018.html</id><summary type="html">&lt;p&gt;The K2 Mission and Boston University are convening
 a small workshop on Dwarf Stars and Clusters with K2,

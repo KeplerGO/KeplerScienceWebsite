@@ -1,0 +1,20 @@
+# Summary of K2 Program GO17018
+
+Title: Towards Precise Ages for Metal Poor Stars
+
+PI: Valentini, Marica (Leibniz Institut für Astrophysik Potsdam AIP)
+CoIs: Chiappini Cristina (Leibniz Institut fur Astrophysik Potsdam AIP -DE), Andrea Miglio (University of Birmingham – UK), Diego Bossini (University of Birmingham – UK), Guy Davies (University of Birmingham– UK), Friedrich Anders (Leibniz Institut fur Astrophysik Potsdam AIP -DE), and Benoit Mosser (Observatoire de Paris – FR)
+
+
+
+# Targets requested by this program that have been observed (9)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+212427534, 205.5525513, -14.2931376, 9.771, GO17018_LC|GO17068_LC
+212444261, 200.6838226, -13.9253855, 10.369, GO17018_LC|GO17068_LC
+212489677, 204.8808899, -12.9556637, 11.629, GO17018_LC|GO17068_LC
+212525473, 198.4807434, -12.1949081, 11.923, GO17017_LC|GO17018_LC|GO17049_LC|GO17065_LC|GO17068_LC
+212560936, 205.9195251, -11.4390478, 9.916, GO17018_LC|GO17068_LC
+212636578, 201.5746765, -9.7548971, 12.998, GO17018_LC|GO17068_LC
+212643457, 198.6673737, -9.5962677, 13.64, GO17018_LC|GO17049_LC|GO17068_LC
+212738790, 205.7252197, -7.2834988, 11.785, GO17018_LC|GO17068_LC
+251606053, 203.808463, -1.181208, 11.515, GO17018_LC|GO17067_LC|GO17068_LC

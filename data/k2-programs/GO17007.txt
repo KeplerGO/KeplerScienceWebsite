@@ -1,0 +1,12 @@
+# Summary of K2 Program GO17007
+
+Title: K2 Cycle 6 Observations of Cataclysmic Variables
+
+PI: Ramsay, Gavin (Armagh Observatory)
+CoIs: Matt Wood (Texas A&M University-Commerce), Steve Howell (NASA Ames), John Cannizzo (NASA Goddard/U Maryland), Alan Smale (NASA Goddard)
+
+
+
+# Targets requested by this program that have been observed (1)
+EPIC ID, RA (J2000) [deg], Dec (J2000) [deg], magnitude, Investigation IDs
+212700993, 205.9101715, -8.2344065, 15.598, GO17007_LC|GO17013_LC|GO17034_LC|GO17007_SC|GO17013_SC

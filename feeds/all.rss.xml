@@ -1,12 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Wed, 25 Oct 2017 19:00:00 -0700</lastBuildDate><item><title>K2 Campaign 16 science program now available</title><link>https://keplerscience.arc.nasa.gov/k2-campaign-16-science-program-now-available.html</link><description>&lt;p&gt;The science program and target lists for K2 Campaign 16
+<rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Tue, 30 Jan 2018 14:00:00 -0800</lastBuildDate><item><title>Kepler's K2 Mission reaches 300,000 targets</title><link>https://keplerscience.arc.nasa.gov/keplers-k2-mission-reaches-300000-targets.html</link><description>&lt;p&gt;During Campaigns 0 through 14,
+the K2 mission has now targeted an estimated 297,991 objects, including
+50,159 cool stars,
+37,041 giant stars,
+40,125 galaxies,
+and 1,560 white dwarfs.
+The flyer below summarizes a few key statistics.&lt;/p&gt;
+&lt;p&gt;Note that the numbers do not include the very …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Tue, 30 Jan 2018 14:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2018-01-30:/keplers-k2-mission-reaches-300000-targets.html</guid></item><item><title>K2 Campaign 17 science program now available</title><link>https://keplerscience.arc.nasa.gov/k2-campaign-17-science-program-now-available.html</link><description>&lt;p&gt;The science program and target lists for K2 Campaign 17
+have now been posted on the
+&lt;a href="k2-approved-programs.html#campaign-17"&gt;approved targets &amp;amp; programs page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The target list is based on the peer review of target proposals
+submitted in response to the &lt;a href="call-for-k2-go-cycle-6-proposals-for-campaigns-17-18-and-19.html"&gt;K2 GO Cycle 6 Phase-1 opportunity&lt;/a&gt;.
+PI teams may expect to receive feedback …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Sat, 27 Jan 2018 14:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2018-01-27:/k2-campaign-17-science-program-now-available.html</guid></item><item><title>Slides available from the K2 Clusters Workshop in Boston</title><link>https://keplerscience.arc.nasa.gov/slides-available-from-the-k2-clusters-workshop-in-boston.html</link><description>&lt;p&gt;The &lt;a href="cluster-workshop"&gt;Kepler/K2 workshop on Dwarf Stars and Clusters&lt;/a&gt; was held on
+January 16-18, 2018, at Boston University.
+The event was attended by over 50 participants and featured talks, stimulating discussions,
+and new collaborations. 
+A highlight of the workshop was the &lt;em&gt;unconference&lt;/em&gt; held on the final day,
+during which participants …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ann Marie Cody</dc:creator><pubDate>Fri, 26 Jan 2018 16:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2018-01-26:/slides-available-from-the-k2-clusters-workshop-in-boston.html</guid></item><item><title>New community High Level Science Products available at MAST</title><link>https://keplerscience.arc.nasa.gov/new-community-high-level-science-products-available-at-mast.html</link><description>&lt;p&gt;The mission encourages members of our community to share and archive
+value-added data products derived from Kepler or K2 observations
+via the &lt;a href="https://archive.stsci.edu/k2/hlsps.html"&gt;High Level Science Products (HLSP)&lt;/a&gt; service offered by the data archive at MAST.&lt;/p&gt;
+&lt;p&gt;In recent months, four bespoke data products have been released or updated in this way …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Mon, 08 Jan 2018 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2018-01-08:/new-community-high-level-science-products-available-at-mast.html</guid></item><item><title>The Kepler/K2 publication database surpasses 2500 papers</title><link>https://keplerscience.arc.nasa.gov/the-keplerk2-publication-database-surpasses-2500-papers.html</link><description>&lt;p&gt;The GO office curates a
+&lt;a href="publications.html"&gt;database of scientific publications&lt;/a&gt;
+pertaining to Kepler and K2.
+The list now contains 2502 publications, of which 2219 are peer-reviewed.
+Last year was the most productive one so far
+with over 500 publications recorded!&lt;/p&gt;
+&lt;p&gt;The database is available as a spreadsheet (&lt;a href="/data/kepler-publications.xls"&gt;kepler-publications.xls&lt;/a&gt;). 
+If you …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Sun, 07 Jan 2018 00:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2018-01-07:/the-keplerk2-publication-database-surpasses-2500-papers.html</guid></item><item><title>K2 &amp; TESS Splinter Meeting at #AAS231 on Jan 9th, 2018</title><link>https://keplerscience.arc.nasa.gov/k2-tess-splinter-meeting-at-aas231-on-jan-9th-2018.html</link><description>&lt;p&gt;NASA's &lt;a href="https://tess.gsfc.nasa.gov"&gt;TESS&lt;/a&gt; and Kepler/K2 Missions
+are convening a joint splinter meeting during the
+&lt;a href="http://aas.org/meetings/aas231"&gt;231st meeting of the American Astronomical Society&lt;/a&gt; (AAS),
+which is being held in Washington, DC, next week.&lt;/p&gt;
+&lt;p&gt;The session will take place on Tuesday evening, January 9th, 2018,
+at 7:30 pm in room "National Harbor …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Wed, 03 Jan 2018 12:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2018-01-03:/k2-tess-splinter-meeting-at-aas231-on-jan-9th-2018.html</guid></item><item><title>DDT deadline for K2 Campaign 18 approaching</title><link>https://keplerscience.arc.nasa.gov/ddt-deadline-for-k2-campaign-18-approaching.html</link><description>&lt;p&gt;We are currently accepting DDT proposals for Campaigns 18 and 19.
+The primary goal of the DDT program is to enable
+exceptional, time-critical observing opportunities.&lt;/p&gt;
+&lt;p&gt;Owing to the overlaps with previous fields,
+C18 offers the opportunity to revisit targets from C5, 
+while C19 enables re-observations of objects from C3 and …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Tue, 02 Jan 2018 12:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2018-01-02:/ddt-deadline-for-k2-campaign-18-approaching.html</guid></item><item><title>Kepler/K2 at the AAS 231: January 2018, Washington DC</title><link>https://keplerscience.arc.nasa.gov/keplerk2-at-the-aas-231-january-2018-washington-dc.html</link><description>&lt;p&gt;Members of the Kepler/K2 mission team are looking forward to meeting you at the 231st AAS meeting in Washington, DC.  You can find us at our exhibit booth, the K2/TESS splinter session, and several presentations.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Wed, 20 Dec 2017 01:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2017-12-20:/keplerk2-at-the-aas-231-january-2018-washington-dc.html</guid></item><item><title>PanSTARRS monitoring of the K2 Campaign 16 field</title><link>https://keplerscience.arc.nasa.gov/panstarrs-monitoring-of-the-k2-campaign-16-field.html</link><description>&lt;p&gt;Because the currently-ongoing K2 Campaign 16 is partially dedicated to the
+&lt;a href="/supernova-experiment"&gt;Supernova Experiment&lt;/a&gt;,
+the project has acquired PanSTARRS time to monitor
+the entire field every night in two filters
+(cycling through g+r and g+i)
+for the purpose of providing early alerts for transients in the field.
+The alerts …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Wed, 20 Dec 2017 01:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2017-12-20:/panstarrs-monitoring-of-the-k2-campaign-16-field.html</guid></item><item><title>K2 Campaign 16 successfully underway</title><link>https://keplerscience.arc.nasa.gov/k2-campaign-16-successfully-underway.html</link><description>&lt;p&gt;K2 Campaign 16 started successfully on December 7th
+and has continued to proceed without issues since.&lt;/p&gt;
+&lt;p&gt;Uniquely, the spacecraft is pointing along the forward-facing direction of the spacecraft's velocity vector during Campaigns 16 and 17,
+which allows the field to be accessed from Earth during Kepler's observations.
+This enables K2's …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Tue, 19 Dec 2017 01:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2017-12-19:/k2-campaign-16-successfully-underway.html</guid></item><item><title>Agenda available for the K2 Clusters Workshop in Boston</title><link>https://keplerscience.arc.nasa.gov/agenda-available-for-the-k2-clusters-workshop-in-boston.html</link><description>&lt;p&gt;The draft agenda for the
+&lt;b&gt;Kepler/K2 workshop on Dwarf Stars and Clusters&lt;/b&gt;
+is &lt;a href="/cluster-workshop/#draft-agenda"&gt;now available online&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;So far, over 50 participants have registered to attend the workshop,
+which will take place from &lt;b&gt;January 16-18, 2018&lt;/b&gt;,
+on the &lt;b&gt;Boston University (BU)&lt;/b&gt; campus.
+The first two days will consist of science …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ann Marie Cody</dc:creator><pubDate>Thu, 14 Dec 2017 12:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2017-12-14:/agenda-available-for-the-k2-clusters-workshop-in-boston.html</guid></item><item><title>K2 Campaign 14 processed data available</title><link>https://keplerscience.arc.nasa.gov/k2-campaign-14-processed-data-available.html</link><description>&lt;p&gt;The pipeline-processed data for K2 Campaign 14
+are now available for download
+from the &lt;a href="http://archive.stsci.edu/k2"&gt;K2 archive at MAST&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="k2-approved-programs.html#campaign-14"&gt;target list&lt;/a&gt; featured
+29,897 standard long cadence and 147 standard short cadence targets,
+including Wolf-359, WASP-104, and rho Leo,
+alongside a number of large galaxies (e.g. M95, M96, M105 …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Mon, 20 Nov 2017 10:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2017-11-20:/k2-campaign-14-processed-data-available.html</guid></item><item><title>Workshop on Dwarf Stars and Clusters with K2: Abstract deadline approaching!</title><link>https://keplerscience.arc.nasa.gov/workshop-on-dwarf-stars-and-clusters-with-k2-abstract-deadline-approaching.html</link><description>&lt;p&gt;The K2 Mission and Boston University (BU) are convening
+a small meeting from January 16 to 18, 2018, on the BU campus
+in Boston, Massachusetts.&lt;/p&gt;
+&lt;p&gt;The event will highlight the diverse science that K2 has enabled
+in the areas of cool stars and open clusters.
+Topics will include stellar rotation …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ann Marie Cody</dc:creator><pubDate>Thu, 16 Nov 2017 14:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2017-11-16:/workshop-on-dwarf-stars-and-clusters-with-k2-abstract-deadline-approaching.html</guid></item><item><title>K2 Campaign 14 data processing complete</title><link>https://keplerscience.arc.nasa.gov/k2-campaign-14-data-processing-complete.html</link><description>&lt;p&gt;Data processing for K2 Campaign 14 is now complete
+and the pixel files and lightcurves are being ingested
+into the &lt;a href="http://archive.stsci.edu/k2"&gt;data archive at MAST&lt;/a&gt;.
+We anticipate that the data release will be made public on Monday,
+November 20th, or shortly thereafter.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="k2-approved-programs.html#campaign-14"&gt;target list&lt;/a&gt; featured
+29,897 standard long cadence …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Thu, 16 Nov 2017 12:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2017-11-16:/k2-campaign-14-data-processing-complete.html</guid></item><item><title>Kepler to image Earth and Moon on December 10, 2017</title><link>https://keplerscience.arc.nasa.gov/kepler-to-image-earth-and-moon-on-december-10-2017.html</link><description>&lt;p&gt;During K2's upcoming Campaign 16, the Kepler spacecraft will be operated
+in its &lt;a href="images/k2/k2-c16-geometry.png"&gt;forward-facing mode&lt;/a&gt; to enable
+&lt;a href="share-your-plan-for-k2-campaign-16-ancillary-observations.html"&gt;simultaneous observations of the K2 field&lt;/a&gt;
+to be carried out using ground-based telescopes.&lt;/p&gt;
+&lt;p&gt;A consequence of the forward-facing observing geometry
+is that the Earth-Moon system will be moving across Kepler's focal plane during …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Thu, 16 Nov 2017 06:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2017-11-16:/kepler-to-image-earth-and-moon-on-december-10-2017.html</guid></item><item><title>K2 pixel data now available in bundles from MAST</title><link>https://keplerscience.arc.nasa.gov/k2-pixel-data-now-available-in-bundles-from-mast.html</link><description>&lt;p&gt;Users seeking to obtain a copy of every single Target Pixel File (TPF)
+for a given K2 Campaign may now retrieve the data in bundles of
+tar archive files from the following url at MAST:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://archive.stsci.edu/missions/k2/target_pixel_files/bundles/"&gt;http://archive.stsci.edu/missions/k2/target_pixel_files/bundles/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;By grouping the TPFs into larger bundles …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Wed, 15 Nov 2017 18:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2017-11-15:/k2-pixel-data-now-available-in-bundles-from-mast.html</guid></item><item><title>DDT deadline for K2 Campaign 17 approaching</title><link>https://keplerscience.arc.nasa.gov/ddt-deadline-for-k2-campaign-17-approaching.html</link><description>&lt;p&gt;A small percentage of the available K2 pixels in each campaign may be
+allocated by the K2 Guest Observer (GO) Office Director
+as Director's Discretionary Targets (DDTs).
+The primary utilization of DDT programs is in support
+of community-proposed requests that are based on
+exceptional, time-critical observing opportunities that cannot be …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Tue, 14 Nov 2017 22:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2017-11-14:/ddt-deadline-for-k2-campaign-17-approaching.html</guid></item><item><title>K2 Campaign 16 science program now available</title><link>https://keplerscience.arc.nasa.gov/k2-campaign-16-science-program-now-available.html</link><description>&lt;p&gt;The science program and target lists for K2 Campaign 16
 have now been posted on the
 &lt;a href="k2-approved-programs.html#campaign-16"&gt;approved targets &amp;amp; programs page&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;
-        Campaign 16 is scheduled to run from
-        &lt;b&gt;2017 Dec 7 (~22h UT) through 2018 Feb 25 (~13h UT)&lt;/b&gt;.
-        The target list includes 29,888 standard long cadence
-        and 129 standard …&lt;/p&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Wed, 25 Oct 2017 19:00:00 -0700</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2017-10-25:/k2-campaign-16-science-program-now-available.html</guid></item><item><title>Workshop on Dwarf Stars and Clusters with K2: Registration now open, space is limited!</title><link>https://keplerscience.arc.nasa.gov/workshop-on-dwarf-stars-and-clusters-with-k2-registration-now-open-space-is-limited.html</link><description>&lt;p&gt;The K2 Mission and Boston University (BU) are convening
+&lt;p&gt;
+    Campaign 16 is scheduled to run from
+    &lt;b&gt;2017 Dec 7 (~22h UT) through 2018 Feb 25 (~13h UT)&lt;/b&gt;.
+    The target list includes 29,888 standard long cadence
+    and 129 standard …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Wed, 25 Oct 2017 19:00:00 -0700</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2017-10-25:/k2-campaign-16-science-program-now-available.html</guid></item><item><title>Workshop on Dwarf Stars and Clusters with K2: Registration now open, space is limited!</title><link>https://keplerscience.arc.nasa.gov/workshop-on-dwarf-stars-and-clusters-with-k2-registration-now-open-space-is-limited.html</link><description>&lt;p&gt;The K2 Mission and Boston University (BU) are convening
 a small workshop on Dwarf Stars and Clusters with K2,
 to take place from January 16 to 18, 2018, on the BU campus
 in Boston, Massachusetts.&lt;/p&gt;
