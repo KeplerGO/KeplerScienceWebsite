@@ -9,6 +9,13 @@ and new collaborations.
 A highlight of the workshop was the *unconference* held on the final day,
 during which participants worked on software, analyzed data, and planned future observations.
 
+Several tutorials were presented, and you can now follow along by viewing and/or downloading
+them online:
+
+* <a href="https://www.youtube.com/watch?v=aJMPUKiiDJ0">PyKE tutorial </a>by Christina Hedges
+* <a href="https://github.com/amcody/K2tutorials/blob/master/notebooks/K2psftutorial.ipynb">K2 PSF photometry tutorial </a>by Ann Marie Cody
+* <a href="https://github.com/RuthAngus/GPtutorial">Gaussian processes tutorial </a>by Ruth Angus
+
 Those who could not attend the event can catch up in three ways:
 
 * The talks have been posted in PDF format on the [workshop webpage](cluster-workshop/#agenda)
