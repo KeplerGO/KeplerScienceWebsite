@@ -84,7 +84,7 @@ in the C14 field of view. 47 of the Galaxies with radii > 40 arcseconds were cov
 Twelve galaxies were covered with 15x15 pixel square masks. Six galaxies (M95, M96, M105, NGC3384,
 NGC3423, NGC3412) were covered by 40x40 pixel square masks consisting of 16 tiles of 10x10 pixel sub-masks.
 The <a href="images/release-notes/c14/ktwoc14_caf.csv">custom aperture file</a> gives the custom EPIC ID for
-each of these masks. This mapping file has changed format with this release and now includes more information. The
+each of these masks. *This mapping file has changed format with this release and now includes more information.* The
 six columns, which are populated according to target type are:
 
 1. custom KepId
@@ -120,8 +120,7 @@ after the threshold change. The not-in-fine-point cadences have calibrated pixel
 but no flux values in the light curve files.
 
 The project has identified a workaround for the flagging resulting from this changed threshold and has
-implemented it for future processing starting with C15. The gapped C14 cadences will be restored
-with future reprocessing.
+implemented it for future processing starting with C15.
 
 <div class="thumbnail" style="width: 49%;display: inline-block;">
 <div class="caption">
@@ -181,8 +180,7 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 
 Pipeline errors during the process of exporting the light curve (LCV) and
 target pixel (TP) FITS files resulted in two targets (EPIC IDs 248463890 and 248463977)
-from C14 having no LCV or TP files at the archive. The project has
-identified a fix for the export error and will deliver these targets with a future reprocessing.
+from C14 having no LCV or TPF files at the archive.
 <br>
 
 <h2>Release History</h2>
@@ -263,11 +261,11 @@ The following is the data release history for C14. Follow the link for informati
 <br>
 ***Clusters and Star Forming Regions***
 
-The C13 field of view encompasses part of the Taurus star forming region, 
+The C13 field of view encompasses part of the Taurus star forming region,
 including the well
-known T-Tauri stars HL Tau (EPIC 210690913) and LkCa 15 (EPIC 247520207). 
+known T-Tauri stars HL Tau (EPIC 210690913) and LkCa 15 (EPIC 247520207).
 The field of view also covers a portion of the
-Hyades star cluster along with the distant clusters 
+Hyades star cluster along with the distant clusters
 NGC 1647, NGC 1746, and NGC 1817.
 
 <br>
@@ -279,21 +277,21 @@ There are 33 galaxies targeted in the C13 field of view.
 <br>
 ***Pointing and Roll Performance***
 
-The C13 pointing and roll behavior are within the limits of that seen 
-in other K2 campaigns for the majority of the campaign. 
-The pipeline calculated maximum distance between the 
-derived and nominal positions for any target (the "maximum attitude residual", or MAR) 
-for C13 is well under the 3-pixel limit accommodated by the aperture halos, 
-except for three periods with anomalous thruster firings. One is in the first day 
+The C13 pointing and roll behavior are within the limits of that seen
+in other K2 campaigns for the majority of the campaign.
+The pipeline calculated maximum distance between the
+derived and nominal positions for any target (the "maximum attitude residual", or MAR)
+for C13 is well under the 3-pixel limit accommodated by the aperture halos,
+except for three periods with anomalous thruster firings. One is in the first day
 of the campaign lasting for 6 hours starting at 2017-03-08 17:46:06 UTC
-(cadence numbers 140911-140922). 
+(cadence numbers 140911-140922).
 Two periods of anomalous pointing occur in the final five days
 of the campaign: 18 hours starting at 2017-05-23 12:11:44 UTC
-(cadence numbers 144619-144654), and 6 hours 
-starting at 2017-05-23 11:16:28 UTC (cadence numbers 144715-144726). 
+(cadence numbers 144619-144654), and 6 hours
+starting at 2017-05-23 11:16:28 UTC (cadence numbers 144715-144726).
 These anomalous thruster firing events occurring near the start and end of campaigns
 are suspected to be due to low fuel levels. The flight team is investigating them in
-an effort to understand whether they can be mitigated and how they might 
+an effort to understand whether they can be mitigated and how they might
 evolve in future campaigns.
 
 <div class="thumbnail" style="width: 49%;display: inline-block;">
@@ -317,29 +315,29 @@ evolve in future campaigns.
 <br>
 ***Smear Correction Error on Channel 74***
 
-The presence of the first magnitude star Aldebaran on channel 73 led to an error in 
-the smear correction for channel 74, which shares the same physical CCD (see figure 
-Aldebaran). 
+The presence of the first magnitude star Aldebaran on channel 73 led to an error in
+the smear correction for channel 74, which shares the same physical CCD (see figure
+Aldebaran).
 The saturated charge from Aldebaran spills over all rows of the image and into the
 serial register of the CCD, corrupting the first three rows of the masked smear region
-in the FFI. While these rows are not used for the smear correction, at times during 
+in the FFI. While these rows are not used for the smear correction, at times during
 C13 the saturation spill covered more rows in the masked smear, extending up to row 15 on
 channel 74 (see figure Channel 74 Trailing Black). Trailing black rows 7-18 are fit
-with a linear model to estimate the black (bias) level for the masked smear region. 
+with a linear model to estimate the black (bias) level for the masked smear region.
 
-At these times, 
+At these times,
 the trailing black estimate for the masked smear signal was corrupted, resulting in a
 corrupted smear measurement for the affected cadences. Since the smear signal is subtracted
 from all the pixels in the channel, all targets on channel 74 were affected for these
-cadences. The impact is somewhat mitigated by background correction, but due to the 
+cadences. The impact is somewhat mitigated by background correction, but due to the
 non-linearity correction during calibration, a residual error remains. The effect is
 generally more significant for faint targets; however, users are cautioned
-to estimate the impact on their science of using data from the affected cadences. 
-In addition, due to the rapidly changing background estimate, the argabrightening 
+to estimate the impact on their science of using data from the affected cadences.
+In addition, due to the rapidly changing background estimate, the argabrightening
 detector (see [Kepler Data Characteristics Handbook, Sec 5.8](http://archive.stsci.edu/kepler/manuals/Data_Characteristics.pdf))
 was triggered on channel 74 resulting in data gaps in the light curve files for
 some targets. Users should treat the channel specific argabrightening indicator
-in QUALITY and SAP_QUALITY flags with caution 
+in QUALITY and SAP_QUALITY flags with caution
 (bit 13, decimal=4096).
 
 The smear corruption effects were most prominent in the
@@ -349,21 +347,21 @@ In order to allow users to select the cadences they wish to exclude, the attache
 csv file <a href="images/release-notes/c13/c13_ch74_black_for_smear_residuals.csv">c13_ch74_black_for_smear_residuals.csv</a>
 contains the residual black level for the masked smear pixels after model fitting for
 each LC.
-The units of the residual signal are ADU/LC/pixel. The cadences with large negative 
-residuals (<-200 ADU/LC/pixel) and those showing bimodal behavior are indicative of 
-a poor model fit and a corrupted smear correction. 
+The units of the residual signal are ADU/LC/pixel. The cadences with large negative
+residuals (<-200 ADU/LC/pixel) and those showing bimodal behavior are indicative of
+a poor model fit and a corrupted smear correction.
 
 <div class="thumbnail">
 <div class="caption">
-<i>Figure Aldebaran: An image of channels 73 (left) and 74 (right) from the FFI 
-ktwo2017079075530-c13_ffi-cal shows the bright star on channel 73 with 
-saturation spilling over all rows (x-axis is CCD columns, y-axis is CCD rows). 
-In a zoomed image of the first 50 rows of the CCD 
+<i>Figure Aldebaran: An image of channels 73 (left) and 74 (right) from the FFI
+ktwo2017079075530-c13_ffi-cal shows the bright star on channel 73 with
+saturation spilling over all rows (x-axis is CCD columns, y-axis is CCD rows).
+In a zoomed image of the first 50 rows of the CCD
 (lower panel) the saturation spill along the serial register of both channels shows
-up as a white bar in rows 1-3. The readout amplifiers 
+up as a white bar in rows 1-3. The readout amplifiers
 are located at the lower left corner for channel 73 and lower right corner for
-channel 74. The trailing black signal is measured from virtual columns in the center 
-of this composite image (at the green dashed line). 
+channel 74. The trailing black signal is measured from virtual columns in the center
+of this composite image (at the green dashed line).
 </i>
 </div>
 <a href="images/release-notes/c13/ffi_raw_ch73_74_c13.png">
@@ -379,9 +377,9 @@ of this composite image (at the green dashed line).
 <div class="thumbnail">
 <div class="caption">
 <i>Figure Channel 74 Trailing Black: A time series of the residual trailing
-black level for the masked smear pixels after model fitting shows the effect 
-of the saturation from Aldebaran. The trailing black rows used in estimating 
-the black correction for the masked smear signal (rows 7:18) show anomalous 
+black level for the masked smear pixels after model fitting shows the effect
+of the saturation from Aldebaran. The trailing black rows used in estimating
+the black correction for the masked smear signal (rows 7:18) show anomalous
 values and bimodal behavior during the affected cadences.
 </i>
 </div>
@@ -394,18 +392,18 @@ values and bimodal behavior during the affected cadences.
 <br>
 ***Light Curve Quality***
 
-As in previous campaigns, the 6-hour spacecraft roll cycle continues 
-to dominate the systematic 
-errors in C13 simple aperture photometry light curves. 
-Similar to C12, the pipeline CDPP 12th magnitude noise 
-benchmark is 15-20% higher than what was seen in star fields of comparable star 
+As in previous campaigns, the 6-hour spacecraft roll cycle continues
+to dominate the systematic
+errors in C13 simple aperture photometry light curves.
+Similar to C12, the pipeline CDPP 12th magnitude noise
+benchmark is 15-20% higher than what was seen in star fields of comparable star
 density (e.g. C4, C5). There is tentative evidence that at least part of this increase
 is due to the anomalous pointing excursions at the beginning and end of the campaign.
-In future campaigns, the processing will exclude such cadences from PDC and from 
-the CDPP estimates. 
+In future campaigns, the processing will exclude such cadences from PDC and from
+the CDPP estimates.
 
-The magnitude dependence of CDPP and its distribution over the focal 
-plane are shown below. Other CDPP benchmarks can be found in the 
+The magnitude dependence of CDPP and its distribution over the focal
+plane are shown below. Other CDPP benchmarks can be found in the
 <a href="images/release-notes/c13/c13_bin1.00_sc1.00_CDPP_Summary_17080715.txt">
 table giving 6.5-hr CDPP as a function of magnitude.</a>
 <br>
@@ -504,30 +502,30 @@ The following is the data release history for C13. Follow the link for informati
 <br>
 ***Mars***
 
-Mars passed through the focal plane during C12, entering active silicon on module 
-24 output 3 (channel 83) on 2017-01-16 (relative cadence index 1550) and 
-moving off of module 3 output 4 (dead channel 8) on 2017-02-09 
+Mars passed through the focal plane during C12, entering active silicon on module
+24 output 3 (channel 83) on 2017-01-16 (relative cadence index 1550) and
+moving off of module 3 output 4 (dead channel 8) on 2017-02-09
 (relative cadence index 2728). The movie *C12-Mars-at-LC* below shows the
-direct image of Mars passing over channel 83. 
+direct image of Mars passing over channel 83.
 With an average visual magnitude of V ~ -0.2,
-the image of Mars is highly saturated, introduces 
+the image of Mars is highly saturated, introduces
 significant scattered light, and creates a
-video crosstalk signal in each of the other three channels of the module on 
-which it falls. In addition, there is a ghost 
+video crosstalk signal in each of the other three channels of the module on
+which it falls. In addition, there is a ghost
 image of Mars caused by reflection off of the field-flattener lens and CCD then
 off of the Schmidt correcter and back to the focal plane. This ghost image
 appears approximately on the opposite side of the boresight from the direct
 Mars image. An example of the direct image with crosstalk and the ghost image
-is shown in the figures below (*C12-Module-8 Mars FFI Image*, 
-*C12-Channel-62 Mars Ghost Image*) taken from the second FFI: 
-ktwo2017032102633-c12_ffi-cal.fits. 
+is shown in the figures below (*C12-Module-8 Mars FFI Image*,
+*C12-Channel-62 Mars Ghost Image*) taken from the second FFI:
+ktwo2017032102633-c12_ffi-cal.fits.
 
 <div class="thumbnail" style="width: 90%;">
 <div class="caption">
-<i>Figure C12-Mars-at-LC: Mars entered the focal plane on channel 83 and is 
+<i>Figure C12-Mars-at-LC: Mars entered the focal plane on channel 83 and is
 seen here passing through the LC target pixel apertures on this channel in
-just over two days (105 cadences). 
-The saturated columns from the core of the image 
+just over two days (105 cadences).
+The saturated columns from the core of the image
 extend over all rows in the channel.</i>   
 </div>
 <video id="pelican-installation" class="video-js vjs-default-skin" controls loop
@@ -557,14 +555,14 @@ data-setup="{}">
 
 
 A more quantitative understanding of
-the signals from Mars can be gained from the raw flux profiles below of 
-Mars and its ghost image, taken from the same FFI. The profile shows a 
-slice through the direct image for a rough guide to the 
-azimuthally-averaged part of the image. Note that the saturation 
-spills across all CCD rows for the central columns of the Mars image 
-and the diffraction spikes extend over multiple channels. 
+the signals from Mars can be gained from the raw flux profiles below of
+Mars and its ghost image, taken from the same FFI. The profile shows a
+slice through the direct image for a rough guide to the
+azimuthally-averaged part of the image. Note that the saturation
+spills across all CCD rows for the central columns of the Mars image
+and the diffraction spikes extend over multiple channels.
 Spikes in the profile plot are caused by
-stray stars. Users should also note that the median rate of motion of 
+stray stars. Users should also note that the median rate of motion of
 Mars is 11 pixels per Long Cadence.
 
 
@@ -580,22 +578,22 @@ Mars is 11 pixels per Long Cadence.
 
 For users wishing to have a better idea when Mars may have affected the data from
 particular targets, pipe-delimited text files for the path of Mars
-<a href="images/release-notes/c12/c12_mars_direct.txt">c12_mars_direct.txt</a> 
+<a href="images/release-notes/c12/c12_mars_direct.txt">c12_mars_direct.txt</a>
 and its ghost <a href="images/release-notes/c12/c12_mars_ghost.txt">
-c12_mars_ghost.txt</a> during the middle of C12 have been generated using the 
-<a href="https://ssd.jpl.nasa.gov/?horizons">JPL Horizons website</a>. 
-The location of Mars was calculated from the Kepler-o-centric (NAIF Id = -227) 
-RA and DEC. The location of Mars and its ghost in the FFI are in the 
-headers of the respective files. 
+c12_mars_ghost.txt</a> during the middle of C12 have been generated using the
+<a href="https://ssd.jpl.nasa.gov/?horizons">JPL Horizons website</a>.
+The location of Mars was calculated from the Kepler-o-centric (NAIF Id = -227)
+RA and DEC. The location of Mars and its ghost in the FFI are in the
+headers of the respective files.
 
-The location of the ghost was calculated by rotating the 
-RA and DEC of Mars around the boresight by 180 degrees and is approximate due to 
-variations of the CCD and field-flattener lens positions and orientations 
+The location of the ghost was calculated by rotating the
+RA and DEC of Mars around the boresight by 180 degrees and is approximate due to
+variations of the CCD and field-flattener lens positions and orientations
 from the ideal focal plane. Based on the FFI and the long cadence pixel data,
 the ghost can vary in position by up to ~100 pixels from the locations given in
-the table. Given this variation and the large size of the ghost image, 
+the table. Given this variation and the large size of the ghost image,
 users might be advised to use caution if their target is within
-200 pixels from the (predicted) ghost 
+200 pixels from the (predicted) ghost
 image and 350 pixels from the direct image of Mars.  
 
 
@@ -608,14 +606,14 @@ There are 2576 galaxies targeted in the high Galactic latitude (-60º) C12 field
 <br>
 ***Pointing and Roll Performance***
 
-The C12 pointing and roll behavior are within the limits of that seen 
-in other K2 campaigns for the majority of the campaign. 
-The pipeline calculated maximum distance between the 
-derived and nominal positions for any target (the "maximum attitude residual", or MAR) 
-for C12 is well under the 3-pixel limit accommodated by the aperture halos, 
-except for one 6-hour period starting at 2017-03-03 19:05:24 near the end 
+The C12 pointing and roll behavior are within the limits of that seen
+in other K2 campaigns for the majority of the campaign.
+The pipeline calculated maximum distance between the
+derived and nominal positions for any target (the "maximum attitude residual", or MAR)
+for C12 is well under the 3-pixel limit accommodated by the aperture halos,
+except for one 6-hour period starting at 2017-03-03 19:05:24 near the end
 of the campaign. Cadence numbers 140670-140681 have a roll error of more than
--50 arcseconds, though roll performance returned to normal at the 
+-50 arcseconds, though roll performance returned to normal at the
 subsequent thruster firing
 and remained nominal for the rest of the campaign.
 
@@ -644,41 +642,41 @@ On 2017-02-01 15:06 UTC the spacecraft entered safe mode. The safe mode was
 likely due to a flight software reset, which has occurred several times during the
 Kepler/K2 mission. The recovery from this safe mode was routine and the spacecraft
 resumed science data collection at 2017-02-06 20:47 UTC. The total time lost to this
-safe mode was 5.3 days. 
+safe mode was 5.3 days.
 
-In order to minimize the science data loss, the project decided not to downlink 
-stored engineering data during during the safe mode recovery. This decision resulted 
+In order to minimize the science data loss, the project decided not to downlink
+stored engineering data during during the safe mode recovery. This decision resulted
 in the loss of ~10 days of engineering data, starting 2017-01-25 08:16 UTC and
-extending into the safe mode. No stored science data were lost. The engineering 
-data includes the thruster firing data, so there is no thruster firing 
-information from the spacecraft for this time period. In order to fill in the 
+extending into the safe mode. No stored science data were lost. The engineering
+data includes the thruster firing data, so there is no thruster firing
+information from the spacecraft for this time period. In order to fill in the
 thruster firing information in the archive data files, we used the short cadence
 pointing history to detect likely thruster firings during the data gap. If the
 thruster firing could be unambiguously identified within a SC interval, a thruster
 firing was flagged in the QUALITY and SAP_QUALITY fields (bit 21). If the thruster
-firing appeared to span SC intervals, both intervals would be flagged with a 
-possible thruster firing (bit 20). Users should be alert to possible missed 
-thruster firings in the interval from 2017-01-25 08:16 UTC to the start of the 
+firing appeared to span SC intervals, both intervals would be flagged with a
+possible thruster firing (bit 20). Users should be alert to possible missed
+thruster firings in the interval from 2017-01-25 08:16 UTC to the start of the
 safe mode at 2017-02-01 15:06 UTC.
 
 <br>
 ***Light Curve Quality***
 
-As in previous campaigns, the 6-hour spacecraft roll cycle continues 
-to dominate the systematic 
+As in previous campaigns, the 6-hour spacecraft roll cycle continues
+to dominate the systematic
 errors in C12 simple aperture photometry light curves. In spite of the sparse
-nature of the C12 field of view, the pipeline CDPP 12th magnitude noise 
-benchmark is 20% higher than what was seen in star fields of comparable star 
-density (55 ppm in C12 vs 42 ppm in C6 and 47 ppm in C8). The passage of Mars 
+nature of the C12 field of view, the pipeline CDPP 12th magnitude noise
+benchmark is 20% higher than what was seen in star fields of comparable star
+density (55 ppm in C12 vs 42 ppm in C6 and 47 ppm in C8). The passage of Mars
 most significantly affected CDPP on the channels with the
 direct and ghost images; however, excluding these channels does not lower
 the 12th magnitude CDPP benchmark value. The project is investigating this
-performance change to better understand the change in CDPP as a function 
-of magnitude, position, color, etc., and to see if it can be traced 
+performance change to better understand the change in CDPP as a function
+of magnitude, position, color, etc., and to see if it can be traced
 to a spacecraft, or a pipeline processing change.
 
-The magnitude dependence of CDPP and its distribution over the focal 
-plane are shown below. Other CDPP benchmarks can be found in the 
+The magnitude dependence of CDPP and its distribution over the focal
+plane are shown below. Other CDPP benchmarks can be found in the
 <a href="images/release-notes/c12/c12_bin1.00_sc1.00_CDPP_Summary_17070516.txt">
 table giving 6.5-hr CDPP as a function of magnitude.</a>
 <br>
@@ -718,13 +716,13 @@ The following is the data release history for C12. Follow the link for informati
 <p>
 Campaign 11 was operationally separated into two segments as a result of an
 error in the initial roll-angle used to minimize solar torque on the spacecraft.
-The larger than expected roll motion seen at the start of the campaign meant 
+The larger than expected roll motion seen at the start of the campaign meant
 that the targets would be rolling out of their pixel apertures by the end of the
-campaign. The excess roll motion was corrected twenty-three days into the campaign 
-by applying a -0.32º roll offset. The size of this correction meant 
+campaign. The excess roll motion was corrected twenty-three days into the campaign
+by applying a -0.32º roll offset. The size of this correction meant
 that new target aperture definitions
-had to be used for the second part of the campaign. 
-The two segments are identified in the 
+had to be used for the second part of the campaign.
+The two segments are identified in the
 archive products as C111 and C112, respectively.
 </p>
 
@@ -782,7 +780,7 @@ archive products as C111 and C112, respectively.
 <li> 32884 (32580 in C11b) in long cadence (LC)</li>
 <li> 67 (66 in C11b) in short cadence (SC)</li>
 <li> 72 Custom targets include 64 Solar System moving objects tiled with multiple apertures, featuring Titan and Enceladus, 9 bright stars covered with disk apertures to capture the PSF wings, 22 late microlensing targets, and 5 galaxy targets. See the <a href="images/release-notes/c11/ktwoc111_caf.csv">C11a csv file</a> and <a href="images/release-notes/c11/ktwoc112_caf.csv">C11b csv file</a> to map the Solar system object custom aperture numbers to the target names.</li>
-<li> No new targets were added for C11b. Because of the change in roll attitude, the positions of all the target apertures on the focal plane were changed, causing some targets to move to a different detector channel and some to fall off active silicon. 304 long cadence targets and 1 short cadence target were dropped in C11b. 
+<li> No new targets were added for C11b. Because of the change in roll attitude, the positions of all the target apertures on the focal plane were changed, causing some targets to move to a different detector channel and some to fall off active silicon. 304 long cadence targets and 1 short cadence target were dropped in C11b.
 </ul>
 
 <b><i>Full Frame Images (FFI)</i></b>
@@ -806,7 +804,7 @@ is evident when comparing the two images.
 <a href="images/release-notes/c11/C11_selected.png">
 <img src="images/release-notes/c11/C11_selected.png" class="img-responsive" alt="C11 field-of-view with selected targets plotted in purple. The galactic plane passes through modules 2 and 6.">
 </a>
-</div> 
+</div>
 <div class="thumbnail">
 <div class="caption">
 <i>Figure C11-Mag: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The distribution is due to the <a href="k2-approved-programs.html#campaign-11">GO  programs</a> that were selected.</i>
@@ -825,32 +823,32 @@ is evident when comparing the two images.
 ***Galactic Bulge***
 
 The C11 field of view is the densest star field for which pipeline light curves have been created.
-The average density of stars with magnitude 11.5 < Kp < 14.5 over the field of view is 
-6959 stars/deg^2. Detector channels covering the galactic bulge have densities as high 
+The average density of stars with magnitude 11.5 < Kp < 14.5 over the field of view is
+6959 stars/deg^2. Detector channels covering the galactic bulge have densities as high
 as 25,000 stars/deg^2. For comparison the average density of stars in this magnitude range
 for the Kepler field of view is 900 stars/deg^2. As a result of the high star density, many
-of the pipeline algorithms are operating outside of their design range. Users are cautioned 
+of the pipeline algorithms are operating outside of their design range. Users are cautioned
 to treat the pipeline background, centroid, and aperture photometry results with care, especially
-on channels covering the Galactic Bulge. 
+on channels covering the Galactic Bulge.
 <div class="thumbnail">
 <div class="caption">
-<i>Figure C11-Star Density: The average density of stars with 11.5 < Kp < 14.5 for each channel 
-ranges from a few thousand to over 20,000 stars/deg^2.  The galactic plane passes through 
+<i>Figure C11-Star Density: The average density of stars with 11.5 < Kp < 14.5 for each channel
+ranges from a few thousand to over 20,000 stars/deg^2.  The galactic plane passes through
 modules 2 and 6. The numbers indicate the detector module and output number.</i>
 </div>
 <a href="images/release-notes/c11/k2_c11_star_density.jpg">
-<img src="images/release-notes/c11/k2_c11_star_density.jpg" class="img-responsive" alt="C11 star 
+<img src="images/release-notes/c11/k2_c11_star_density.jpg" class="img-responsive" alt="C11 star
 density ranges from a few thousand to over 20000 stars/deg^2.">
 </a>
-</div> 
+</div>
 
 <br>
 
 ***Saturn***
 
-Saturn (V = +1) and its bright moons Titan (V = +9), and Enceladus (V = +12) entered 
-channel 84 near the end of the campaign (Dec 3, ~12h UT) allowing ~4.5 days of observations. 
-Titan is ~18 pixels away from Saturn, while Enceladus is only 2-4 pixels from Saturn and 
+Saturn (V = +1) and its bright moons Titan (V = +9), and Enceladus (V = +12) entered
+channel 84 near the end of the campaign (Dec 3, ~12h UT) allowing ~4.5 days of observations.
+Titan is ~18 pixels away from Saturn, while Enceladus is only 2-4 pixels from Saturn and
 regularly passed through Saturn's saturated charge spill columns. Both Titan and Enceladus
 were tiled with custom aperture masks.
 
@@ -858,17 +856,17 @@ were tiled with custom aperture masks.
 
 ***Attitude Offset and Segmenting of C11 Data***
 
-The spacecraft attitude was adjusted by -0.32º in roll on 2016-10-21 to correct 
-the initial roll-offset error. Because this attitude offset was large enough to 
-require new target pixel apertures, the C11 data were processed through the 
+The spacecraft attitude was adjusted by -0.32º in roll on 2016-10-21 to correct
+the initial roll-offset error. Because this attitude offset was large enough to
+require new target pixel apertures, the C11 data were processed through the
 pipeline in two separate parts:
 <ul>
 <li>the first 23 days of data, dubbed C11a  
 <li>the remaining 48 days of the campaign, dubbed C11b.
 </ul>
-The C11a files are found in the archive under Campaign number 111. The C11b 
+The C11a files are found in the archive under Campaign number 111. The C11b
 files have Campaign number 112. A search for Campaign 11 will return both sets of files.
-Users should take care when combining data from C11a and C11b for targets. Because the 
+Users should take care when combining data from C11a and C11b for targets. Because the
 targets have changed pixels -and in some cases detectors- there is no guarantee that the
 C11a and C11b fluxes will match in absolute value, or even slope across the C11a-C11b boundary.
 The C11a and C11b data may need to be treated as coming from two separate campaigns.
@@ -880,7 +878,7 @@ collateral data are evident in the TPFs and should not be used when doing photom
 the target.
 <div class="caption">
 <i>Figure C11 SAP Flux: The C11a (red) and C11b (blue) SAP flux for four sample targets.
-Because of the change of target pixel apertures between C11a and C11b, the fluxes can 
+Because of the change of target pixel apertures between C11a and C11b, the fluxes can
 differ in absolute value and in behavior with the K2 roll motion.</i>   
 </div>
 <div class="thumbnail" style="width: 49%;display: inline-block;">
@@ -910,24 +908,24 @@ differ in absolute value and in behavior with the K2 roll motion.</i>
 
 ***Pointing and Roll Performance***
 
-The C11a and C11b pointing and 
-roll behavior are within the limits of that seen in other K2 campaigns. 
-The pipeline calculated maximum distance between the 
-derived and nominal positions for any target (the "maximum attitude residual", or MAR) 
+The C11a and C11b pointing and
+roll behavior are within the limits of that seen in other K2 campaigns.
+The pipeline calculated maximum distance between the
+derived and nominal positions for any target (the "maximum attitude residual", or MAR)
 for C11 is well under the 3-pixel limit accommodated by the aperture halos.  
 The C11a attitude error started at a relatively high value and large roll amplitude,
-due in part to the initial roll offset error. The negative going roll offsets 
-along with the large negative roll rate at the start of C11a indicated that, 
-without correction, the roll would have been unacceptably large in the 6-hours 
+due in part to the initial roll offset error. The negative going roll offsets
+along with the large negative roll rate at the start of C11a indicated that,
+without correction, the roll would have been unacceptably large in the 6-hours
 between thruster firing windows by the end of the campaign. The large roll would have
-caused targets at the edge of the focal plane to roll out of their apertures. 
+caused targets at the edge of the focal plane to roll out of their apertures.
 The roll offset was corrected during the gap starting
 around 2016-10-16 seen in the C11-Pointing History figure, resulting in a roll profile
-for C11b that is more typical of past campaigns. 
-Similarly, the C11a maximum attitude residual was 
-somewhat high -though well within the aperture limits- while the C11b 
+for C11b that is more typical of past campaigns.
+Similarly, the C11a maximum attitude residual was
+somewhat high -though well within the aperture limits- while the C11b
 starting maximum attitude
-residual was more typical of K2 behavior. 
+residual was more typical of K2 behavior.
 
 There was a smaller related change in roll behavior during C11a when the spacecraft
 X-band communications were switched from low gain antenna 2(LGA-2) to LGA-1. The
@@ -967,7 +965,7 @@ negative roll rate during C11a was corrected with the roll offset change in C11b
 
 <div class="thumbnail" style="width: 49%;display: inline-block;">
 <div class="caption">
-<i>Figure C11b-MAR: The maximum attitude residual for C11b shows the pointing improvement at the 
+<i>Figure C11b-MAR: The maximum attitude residual for C11b shows the pointing improvement at the
 start of the sub-campaign.</i>
 <a href="images/release-notes/c11/c11b_pad_pdq_attitude_mar.png">
 <img src="images/release-notes/c11/c11b_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the attitude measured with PAD and PDQ.">
@@ -981,22 +979,22 @@ start of the sub-campaign.</i>
 
 We consider the C11a and C11b pipeline-generated light curves separately
 for noise analysis and comparison with previous campaigns.
-As in previous campaigns, the 6-hour spacecraft roll cycle 
-continues to dominate the systematic 
-errors in C11 simple aperture photometry light curves. 
+As in previous campaigns, the 6-hour spacecraft roll cycle
+continues to dominate the systematic
+errors in C11 simple aperture photometry light curves.
 
-The magnitude dependence of CDPP and its distribution over the focal plane 
-are shown below. Other CDPP benchmarks can be found in the 
+The magnitude dependence of CDPP and its distribution over the focal plane
+are shown below. Other CDPP benchmarks can be found in the
 <a href="images/release-notes/c11/c11a_bin1.00_sc1.00_CDPP_Summary_17042811.txt">
 table giving C11a 6.5-hr CDPP as a function of magnitude</a> and
 <a href="images/release-notes/c11/c11b_bin1.00_sc1.00_CDPP_Summary_17051815.txt">
 the C11b 6.5-hr CDPP table.</a>
 The stellar properties
-for each target, available from the 
-<a href="http://archive.stsci.edu/k2/epic/search.php">EPIC catalog</a>, 
+for each target, available from the
+<a href="http://archive.stsci.edu/k2/epic/search.php">EPIC catalog</a>,
 were used to distinguish dwarf and giant stars. The C11
 CDPP values are in family with C7, the next most crowded K2 FOV for which
-pipeline light curves were generated. 
+pipeline light curves were generated.
 <br>
 
 <div class="caption">
@@ -1031,13 +1029,13 @@ pipeline light curves were generated.
 
 ***Targets Missing from the Archive***
 
-Pipeline errors during the process of exporting the light curve (LCV) and 
+Pipeline errors during the process of exporting the light curve (LCV) and
 target pixel (TP) FITS files resulted in targets from both C11a and C11b
-having no LCV or TP files at the archive. 
-There are <a href="images/release-notes/c11/c11a_missing_export_target_epic_ids.txt">194 
+having no LCV or TP files at the archive.
+There are <a href="images/release-notes/c11/c11a_missing_export_target_epic_ids.txt">194
 missing targets for C11a</a> (15 are non-custom targets) and
-<a href="images/release-notes/c11/c11b_missing_export_target_epic_ids.txt">3 
-missing custom-aperture targets for C11b</a>. There is no overlap between the C11a 
+<a href="images/release-notes/c11/c11b_missing_export_target_epic_ids.txt">3
+missing custom-aperture targets for C11b</a>. There is no overlap between the C11a
 and C11b missing target lists. The project is investigating options
 for delivering these targets in the future.
 <br>
@@ -1047,13 +1045,13 @@ for delivering these targets in the future.
 There were several very bright stars observed in C11 with saturation spilling
 over all rows of the array on *three* channels, corrupting the smear measurement
 for the affected columns. For these columns
-the virtual smear measurement is used for smear correction, 
+the virtual smear measurement is used for smear correction,
 though it is known that this value is invalid and will corrupt data on the
 affected columns. Given the normal motion of the stars in K2 due to roll and
-differential velocity aberration, it is likely 
+differential velocity aberration, it is likely
 that adjacent columns will be corrupted at some times during the campaign. The
 smear corruption is complicated in C11 due to the roll offset: stars at the edge
-of the array moved up to 30 pixels from C11a to C11b, while stars in the center 
+of the array moved up to 30 pixels from C11a to C11b, while stars in the center
 modules moved only slightly. The channels and affected columns in C11a and C11b
 are given below.
 
@@ -1067,7 +1065,7 @@ are given below.
 </style>
 <table class="tg">
 <div class="caption">
-<i>Channels with corrupt smear measurments due to saturating stars on the specified 
+<i>Channels with corrupt smear measurments due to saturating stars on the specified
 columns for C11a and C11b</i>
 </div>
 <tr>
@@ -1103,7 +1101,7 @@ The LDE parity error triggers a flag (bit 15, decimal=16384) in the QUALITY colu
 
 The following is the data release history for C11. Follow the link for
 information about some of the features of the software used to reduce and
-export these data. There will be a new entry each time the data are processed 
+export these data. There will be a new entry each time the data are processed
 for release by the mission.
 
 * <a href="k2-pipeline-release-notes.html#data-release-17">Data Release 17</a>
@@ -1118,9 +1116,9 @@ for release by the mission.
 <div class="col-lg-5">
 
 <p>
-Campaign 10 was operationally separated into two segments as a result of a 3.5-pixel 
+Campaign 10 was operationally separated into two segments as a result of a 3.5-pixel
 initial pointing error at the start of the campaign. The offset was corrected
-six days into the campaign. The two segments are identified in the 
+six days into the campaign. The two segments are identified in the
 archive products as C101 and C102, respectively.
 </p>
 
@@ -1211,7 +1209,7 @@ the second does not.
 <a href="images/release-notes/c10/c10_selected.png">
 <img src="images/release-notes/c10/c10_selected.png" class="img-responsive" alt="C10 field-of-view with selected targets plotted in purple.">
 </a>
-</div> 
+</div>
 <div class="thumbnail">
 <div class="caption">
 <i>Figure C10-Mag: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The distribution is due to the <a href="k2-approved-programs.html#campaign-10">GO  programs</a> that were selected.</i>
@@ -1229,25 +1227,25 @@ the second does not.
 
 ***Galaxies***
 
-With its high Galactic latitude, Campaign 10 observed 4,977 galaxies, 
-over 2,000 more than in C8. Twenty-seven large galaxies were each 
-covered using 1,500 pixel custom masks. The extragalactic targets 
+With its high Galactic latitude, Campaign 10 observed 4,977 galaxies,
+over 2,000 more than in C8. Twenty-seven large galaxies were each
+covered using 1,500 pixel custom masks. The extragalactic targets
 include the well-known quasar 3C 273 (EPIC 229151988).
 <br>
 
 ***Comet 67P: Churyumov-Gerasimenko***
 Comet 67P was observed in C10b from September 7 through September 20 as it crossed
-channels 69 and 70. The comet was observed using 2200 custom aperture tiles. 
+channels 69 and 70. The comet was observed using 2200 custom aperture tiles.
 <br>
 
 ***Segmenting of C10 Data***
 
 The C10 data were processed through the pipeline in two separate sets:
 <ul>
-<li>The first six days of data, dubbed C10a, were collected with a pointing error of 3.5 pixels from the nominal field-of-view, so they were only processed through CAL to make Type 1 target pixel files and collateral data files. 
+<li>The first six days of data, dubbed C10a, were collected with a pointing error of 3.5 pixels from the nominal field-of-view, so they were only processed through CAL to make Type 1 target pixel files and collateral data files.
 <li>The remainder of the campaign, dubbed C10b, was processed through the entire photometry pipeline, creating Type 2 target pixel files, long-cadence light curves, and collateral data files.
 </ul>
-The C10a files are found in the archive under Campaign number 101, and the C10b 
+The C10a files are found in the archive under Campaign number 101, and the C10b
 files have Campaign number 102. A search for Campaign 10 will return both sets of files.
 
 **Attitude Offset in C10a**
@@ -1255,35 +1253,35 @@ files have Campaign number 102. A search for Campaign 10 will return both sets o
 C10a data collection started with a pointing error from the intended C10 attitude of
 3.5 pixels. This pointing offset potentially invalidates
 many of the target pixel apertures. The apertures for data collection
-include the pixels needed for photometry plus additional halos to allow 
+include the pixels needed for photometry plus additional halos to allow
 for pointing errors or target catalog errors. Two halos are used in the center of
 the array and three halos are used in the outer portions to account
-for the increased roll-induced motion of targets further from the center 
+for the increased roll-induced motion of targets further from the center
 of the array. Since the C10a initial pointing error
-was 3.5 pixels, it is likely that significant flux from target stars fell outside 
+was 3.5 pixels, it is likely that significant flux from target stars fell outside
 their aperture during the K2 roll cycle. Users should check the validity of the
 aperture for their particular target in C10a before interpreting the flux measurements.
 
-The spacecraft attitude was adjusted at 2016-07-13 01:49:21 UTC to correct 
+The spacecraft attitude was adjusted at 2016-07-13 01:49:21 UTC to correct
 the pointing error, marking the start of C10b.
 
 <br>
 **Loss of Module 4**
 
 An additional complication arises in the C10b data due to the loss of
-module 4 seven days into C10b (around 2017-07-20 07:00 UT), which powered off the 
+module 4 seven days into C10b (around 2017-07-20 07:00 UT), which powered off the
 photometer resulting in a 14-day data gap. The cause of the module 4 failure is
-not known, but the sequence of telemetry faults leading up to the failure and the 
+not known, but the sequence of telemetry faults leading up to the failure and the
 post-recovery behavior of the focal plane are similar to those seen around the failures
-of module 7 (January 2014) and module 3 (January 2010). These failures were 
+of module 7 (January 2014) and module 3 (January 2010). These failures were
 attributed to a blown fuse in the focal plane local detector electronics (LDE) driver
-boards, likely due to the failure of an upstream component creating an 
+boards, likely due to the failure of an upstream component creating an
 over-current load.
 
-The C10b spacecraft pointing on either side of this data gap was consistent 
-and at the correct C10 attitude, so flux values should be consistent 
-across the gap. Note that PDC corrected fluxes may show inconsistent 
-systematic error corrections across the 14-day gap, as the cotrending 
+The C10b spacecraft pointing on either side of this data gap was consistent
+and at the correct C10 attitude, so flux values should be consistent
+across the gap. Note that PDC corrected fluxes may show inconsistent
+systematic error corrections across the 14-day gap, as the cotrending
 basis vectors can be dominated by systematics present on one side of the gap
 but not the other side.
 <br>
@@ -1291,13 +1289,13 @@ but not the other side.
 
 ***Pointing and Roll Performance***
 
-Apart from the initial pointing error in C10a, the C10a and C10b pointing and 
-roll behavior were typical of K2 campaigns. The cross-boresight pointing was 
-well behaved outside of the coarse point portion caused by the failure of 
-module 4 (see Figure C10-Pointing History). However, the photometer was off during 
-this time, so no coarse-point science data were collected. The roll behavior during 
-C10 was also nominal. The pipeline calculated maximum distance between the 
-derived and nominal positions for any target (the "maximum attitude residual", or MAR) 
+Apart from the initial pointing error in C10a, the C10a and C10b pointing and
+roll behavior were typical of K2 campaigns. The cross-boresight pointing was
+well behaved outside of the coarse point portion caused by the failure of
+module 4 (see Figure C10-Pointing History). However, the photometer was off during
+this time, so no coarse-point science data were collected. The roll behavior during
+C10 was also nominal. The pipeline calculated maximum distance between the
+derived and nominal positions for any target (the "maximum attitude residual", or MAR)
 for C10b was well under the 3-pixel limit accommodated by the aperture halos.
 
 
@@ -1326,17 +1324,17 @@ for C10b was well under the 3-pixel limit accommodated by the aperture halos.
 This data release consists of calibrated target pixel files (TPFs) and supporting
 calibration files for C10a, as well as a full set of archive files (TPFs, calibration
 files, and light curve files) for C10b.
-The two separate sets of calibrated TPFs for C10a and C10b 
-have filenames that contain "C101" and "C102" respectively. 
+The two separate sets of calibrated TPFs for C10a and C10b
+have filenames that contain "C101" and "C102" respectively.
 
-Because the full pipeline was not run, the C10a TPFs are Type-1 files. 
-The C10b TPFs are Type-2 and contain all the nominal calibration information. 
-See [Type-1 vs Type-2 TPFs](#type1v2) for details on the contents of the Type-1 
-versus Type-2 files. 
+Because the full pipeline was not run, the C10a TPFs are Type-1 files.
+The C10b TPFs are Type-2 and contain all the nominal calibration information.
+See [Type-1 vs Type-2 TPFs](#type1v2) for details on the contents of the Type-1
+versus Type-2 files.
 
-Since the thruster firing flags are not populated in FITS quality flags for the 
-C10a Type-1 TPFs, they are delivered as separate 
-long-cadence <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c10_lc.csv">(thruster_firing_flags_C10_lc.csv)</a> 
+Since the thruster firing flags are not populated in FITS quality flags for the
+C10a Type-1 TPFs, they are delivered as separate
+long-cadence <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c10_lc.csv">(thruster_firing_flags_C10_lc.csv)</a>
 and short-cadence <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c10_sc.csv">(thruster_firing_flags_C10_sc.csv)</a>
 thruster firing tables for the combined C10a + C10b campaign. Thruster firing
 flags are populated in the FITS quality flag in the C10b Type-2 TPFs.
@@ -1345,20 +1343,20 @@ flags are populated in the FITS quality flag in the C10b Type-2 TPFs.
 <br>
 ***Light Curve Quality***
 
-We consider only the C10b pipeline-generated light curves 
+We consider only the C10b pipeline-generated light curves
 for noise analysis and comparison with previous campaigns.
-As in previous campaigns, the 6-hour spacecraft roll cycle 
-continues to dominate the systematic 
-errors in C10 simple aperture photometry light curves. 
+As in previous campaigns, the 6-hour spacecraft roll cycle
+continues to dominate the systematic
+errors in C10 simple aperture photometry light curves.
 
-The magnitude dependence of CDPP and its distribution over the focal plane 
-are shown below. Other CDPP benchmarks can be found in the 
+The magnitude dependence of CDPP and its distribution over the focal plane
+are shown below. Other CDPP benchmarks can be found in the
 <a href="images/release-notes/c10/c10-postDQAU-PMD_2487_bin1.00_sc1.04_CDPP_Summary.txt">
 table giving 6.5-hr CDPP as a function of magnitude.</a> The stellar properties
-for each target, available from the 
-<a href="http://archive.stsci.edu/k2/epic/search.php">EPIC catalog</a>, 
+for each target, available from the
+<a href="http://archive.stsci.edu/k2/epic/search.php">EPIC catalog</a>,
 were used to distinguish dwarf and giant stars. The C10b
-CDPP values compare favorably with those from C8 and other nominal K2 campaigns. 
+CDPP values compare favorably with those from C8 and other nominal K2 campaigns.
 <br>
 
 <div class="thumbnail" style="width: 90%;">
@@ -1381,15 +1379,15 @@ CDPP values compare favorably with those from C8 and other nominal K2 campaigns.
 ***Poor Smear Correction - Bright Stars***
 
 There are two channels in C10 containing very bright stars with saturation spilling
-over all rows of the array, corrupting the smear measurement. 
-On channel 28 (mod.out 9.4) saturated charge from HD 110380 (V=3.5) spills across all 
+over all rows of the array, corrupting the smear measurement.
+On channel 28 (mod.out 9.4) saturated charge from HD 110380 (V=3.5) spills across all
 rows of columns 829 & 830 in C10a and 831 & 832 in C10b.
-On channel 65 (19.1) saturated charge from HD 107259 (V=3.9) spills across all rows 
+On channel 65 (19.1) saturated charge from HD 107259 (V=3.9) spills across all rows
 of columns 961 & 962 in C10a and 962 & 963 in C10b.
-In both cases, the virtual smear measurement is used for smear correction, 
-though it is known that this value is invalid and will corrupt data on 
+In both cases, the virtual smear measurement is used for smear correction,
+though it is known that this value is invalid and will corrupt data on
 these columns. Given the normal motion of the stars in K2 due to roll and
-differential velocity aberration, it is likely 
+differential velocity aberration, it is likely
 that adjacent columns will be corrupted at some times during the campaign.
 
 
@@ -1397,7 +1395,7 @@ that adjacent columns will be corrupted at some times during the campaign.
 
 The following is the data release history for C10. Follow the link for
 information about some of the features of the software used to reduce and
-export these data. There will be a new entry each time the data are processed 
+export these data. There will be a new entry each time the data are processed
 for release by the mission.
 
 * <a href="k2-pipeline-release-notes.html#data-release-15">Data Release 15</a>
@@ -1495,7 +1493,7 @@ and C92, respectively.
 <a href="images/release-notes/c9/C9_selected.png">
 <img src="images/release-notes/c9/C9_selected.png" class="img-responsive" alt="C9 field-of-view with selected targets plotted in purple.">
 </a>
-</div> 
+</div>
 <div class="thumbnail">
 <div class="caption">
 <i>Figure C9-Mag: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The distribution is due to the <a href="k2-approved-programs.html#campaign-9">GO  programs</a> that were selected. Note that the small number of targets is due to the fact that the majority of pixels were in the microlensing super apertures.</i>
@@ -1519,7 +1517,7 @@ to a microlensing study of targets in the direction of the Galactic Bulge. As
 such, there were a number of unique aspects to the campaign:
 <ul>
 <li> The spacecraft observed in the forward velocity vector direction to allow for simultaneous observations of targets from Earth.
-<li> Three million of the 3.3 million pixels were in dedicated super apertures around the Galactic Bulge. Because these pixels do not have traditional star target apertures, light curves were not generated by the pipeline and we are delivering calibrated pixels only. In addition, there were a number of individual targets outside the super apertures that were added late as they showed microlensing signatures detected by ground-based surveys. 
+<li> Three million of the 3.3 million pixels were in dedicated super apertures around the Galactic Bulge. Because these pixels do not have traditional star target apertures, light curves were not generated by the pipeline and we are delivering calibrated pixels only. In addition, there were a number of individual targets outside the super apertures that were added late as they showed microlensing signatures detected by ground-based surveys.
 <li> The campaign was split into two parts in order to double the available on-board data storage, enabling coverage of the entire high-priority bulge region. This also accomodated the addition of late high-value microlensing targets and allowed for a mid-campaign subpixel pointing offset.
 </ul>
 
@@ -1538,10 +1536,10 @@ such, there were a number of unique aspects to the campaign:
 
 Prior to the start of C9a, the spacecraft entered Safemode on 2016-04-07
 00:05:06 UTC following a glitch on a data bus that left the spacecraft in an
-unstable configuration. As a result of this misconfiguration, large attitude 
+unstable configuration. As a result of this misconfiguration, large attitude
 excursions during Safemode led to a
 Sun-avoidance fault that caused the spacecraft to enter Emergency mode
-approximately two hours later. 
+approximately two hours later.
 
 In Emergency mode the spacecraft computer is
 powered off, resetting all configurations and emptying stored science and
@@ -1549,27 +1547,27 @@ engineering data. The spacecraft is operated by a low-level controller that
 maintains a Sun-safe attitude using thrusters. Since Kepler had never been in
 Emergency mode, the operations team was careful in restoring the spacecraft
 first to Safemode, which uses significantly less fuel, and then to normal
-operations. The recovery was completed and C9a observations began on 
+operations. The recovery was completed and C9a observations began on
 2016-04-22, 14 days after the planned 2016-04-08 start, shortening the C9a
-portion of the campaign by two weeks. 
+portion of the campaign by two weeks.
 
 During Emergency mode the spacecraft clock was reset, so an updated time was loaded to the clock
 prior to the start of C9a data collection. Subsequent timing observations on the ground determined that there
-was a 4 second error in the uploaded spacecraft time. The Mission Operations Center made a 
+was a 4 second error in the uploaded spacecraft time. The Mission Operations Center made a
 retroactive clock kernel update after C9a data collection was
 completed, changing the time on-board the spacecraft by 4.2 seconds and allowing the
 C9a data to be correctly time stamped once it hit the ground. As a result, both the C9a
 and C9b data have the nominal 50 msec absolute accuracy, but the two
 sets of cadences have an offset of 4.2 sec relative to each other.
-The C9a data were collected 4.2 seconds later than expected based on 
-a uniform cadence interval across C9a and C9b. 
+The C9a data were collected 4.2 seconds later than expected based on
+a uniform cadence interval across C9a and C9b.
 
 ***Pointing and Roll Performance***
 
 The C9a and C9b pointing and roll behavior were typical of K2 campaigns despite
 the forward velocity vector orientation. There were two notable pointing
 excursions during the campaign: a commanded pointing offset for C9b, and an
-uncommanded impulsive roll offset observed during C9b. 
+uncommanded impulsive roll offset observed during C9b.
 
 
 <div class="thumbnail" style="width: 45%;display: inline-block;">
@@ -1611,12 +1609,12 @@ measurements collected from the spacecraft, the C9b offset met the intended goal
 amplitude and direction were as expected. The pre-flight planned postion was
 centered on CCD row=50, column=500 in C9a (black circle) with the commanded C9b
 offset expected to put the target at row=50.6, column=499.8 (black asterisk).
-At the start of C9a the position measured by the Photometer Data Quality (PDQ) 
+At the start of C9a the position measured by the Photometer Data Quality (PDQ)
 pipeline (red circle) was ~0.3 pixels from the planned position, well within
 operating limits. A later C9a measure (green circle) put the star
 along the expected line of roll-motion (red x's). The measured C9b position (green
-asterisk) is consistent with the predicted position (red asterisk) based on 
-the initial C9a pointing measure and meets the desired goal of a ~0.6 pixel 
+asterisk) is consistent with the predicted position (red asterisk) based on
+the initial C9a pointing measure and meets the desired goal of a ~0.6 pixel
 offset perpendicular to the roll motion.
 </i>
 </div>
@@ -1632,11 +1630,11 @@ was observed at 2016-06-18 02:17:30, during long-cadence number 128008. The
 movement appears to have been due to a short impulse applied to the spacecraft
 that the reaction wheel momentum nulled out over a period of 2 minutes,
 resulting in the -20 arc second roll offset. The roll offset was corrected 22.5
-hours later by thrusters as part of the normal K2 roll management cycle. 
+hours later by thrusters as part of the normal K2 roll management cycle.
 
 <div class="thumbnail">
 <div class="caption">
-<i>Figure C9b Roll Impulse: the centroid column of a target (EPIC 223254456) on 
+<i>Figure C9b Roll Impulse: the centroid column of a target (EPIC 223254456) on
 CCD channel 50 shows the impulsive pointing offset on cadence number 128008. The
 centroid behavior of this target for 4 days around the jump shows that the
 impulsive offset did not introduce target motions that were out-of-family with
@@ -1658,22 +1656,22 @@ the use of large super apertures to collect the vast majority of the pixels and
 the resulting small number of standard targets, no light curve files were
 generated for the C9 data. These calibrated TPFs are intended to replace the
 raw uncalibrated cadence pixel files currently available at the MAST. These
-raw files 
+raw files
 <ul>
-<li>long cadence target data - lcs-targ 
-<li>long cadence collateral data - lcs-col 
-<li>long cadence processing history - lcs-history 
+<li>long cadence target data - lcs-targ
+<li>long cadence collateral data - lcs-col
+<li>long cadence processing history - lcs-history
 </ul>
-were delivered to facilitate rapid follow-up of possible microlensing events. 
-There are two separate sets of calibrated TPFs for C9a and C9b 
+were delivered to facilitate rapid follow-up of possible microlensing events.
+There are two separate sets of calibrated TPFs for C9a and C9b
 whose filenames contain "c91" and "c92" respectively. The TPFs are available
 through the normal K2 archive source page at MAST, whereas the cadence
-pixel files are available on the 
+pixel files are available on the
 <a href="http://archive.stsci.edu/missions/k2/c9_raw_cadence_data/">MAST FTP site</a>.
 
 We recommend that the calibrated TPFs delivered in Data Release 12 be used
-in place of these raw files for scientific publications. The raw data will 
-continue to be available at the MAST until Jan 1, 2017, three months after 
+in place of these raw files for scientific publications. The raw data will
+continue to be available at the MAST until Jan 1, 2017, three months after
 the delivery of Data Release 12, after which point it will no longer be
 available.
 
@@ -1681,30 +1679,30 @@ available.
 **Type-1 vs Type-2 TPFs**
 
 In normal K2 processing, later stages of the pipeline are used to reconstruct
-the pointing history and associate thruster firings with specific long- and 
+the pointing history and associate thruster firings with specific long- and
 short-cadence numbers. These products are then included in the exported target
 pixel and light curve FITS files. Because the C9 processing only used the pipeline
-pixel-level calibration, these products are not available in the usual format. 
+pixel-level calibration, these products are not available in the usual format.
 
 The C9 TPFs, known as "Type-1 TPFs" are like those released early in K2
-for C0 (DR2), C1 (DR3), and C2 (DR4). 
-These TPFs have world coordinate system (WCS) coordinates 
-based on the ra_dec_2_pix focal plane model and commanded pointing, 
+for C0 (DR2), C1 (DR3), and C2 (DR4).
+These TPFs have world coordinate system (WCS) coordinates
+based on the ra_dec_2_pix focal plane model and commanded pointing,
 rather than using a reconstructed pointing history. We expect that the Type-1 WCS
 coordinates can be wrong by up to ~1 pixel given the unmodeled roll motion
-and discrete pointing offsets. 
+and discrete pointing offsets.
 
 The standard Type-2 TPFs (campaigns C3-C8) contain WCS coordinates based on
-the reconstructed pointing determined from the measured PRF centroid motion of a 
-number of bright unsaturated stars across each channel. The "motion polynomial" 
-model tracks the roll drift and any impulsive pointing offsets, resulting in 
-position errors at or below 0.1 pixel. 
+the reconstructed pointing determined from the measured PRF centroid motion of a
+number of bright unsaturated stars across each channel. The "motion polynomial"
+model tracks the roll drift and any impulsive pointing offsets, resulting in
+position errors at or below 0.1 pixel.
 
-Since the thruster firing flags are not populated in FITS quality flags for the 
-Type-1 TPFs, they are being delivered in separate 
-long-cadence <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c91_lc.csv">(thruster_firing_flags_c91_lc.csv</a>, <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c92_lc.csv">thruster_firing_flags_c92_lc.csv)</a> 
-and short-cadence <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c91_sc.csv">(thruster_firing_flags_c91_sc.csv</a>, <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c92_sc.csv">thruster_firing_flags_c92_sc.csv)</a> 
-thruster firing tables. 
+Since the thruster firing flags are not populated in FITS quality flags for the
+Type-1 TPFs, they are being delivered in separate
+long-cadence <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c91_lc.csv">(thruster_firing_flags_c91_lc.csv</a>, <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c92_lc.csv">thruster_firing_flags_c92_lc.csv)</a>
+and short-cadence <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c91_sc.csv">(thruster_firing_flags_c91_sc.csv</a>, <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c92_sc.csv">thruster_firing_flags_c92_sc.csv)</a>
+thruster firing tables.
 <br>
 
 **Large Target Pixel Files**
@@ -1714,7 +1712,7 @@ contain 795x411 pixels for each cadence, despite the fact that only ~800 of thes
 pixels were actually observed. Users are cautioned that these target pixel files
 are quite large and may cause memory problems when accessed:
 <ul>
-<li>ktwo200070438-c91_lpd-targ.fits = 10GB 
+<li>ktwo200070438-c91_lpd-targ.fits = 10GB
 <li>ktwo200070438-c92_lpd-targ.fits = 15GB.
 </ul>
 
@@ -1722,7 +1720,7 @@ are quite large and may cause memory problems when accessed:
 
 The following is the data release history for C9. Follow the link for
 information about some of the features of the software used to reduce and
-export these data. There will be a new entry each time the data are processed 
+export these data. There will be a new entry each time the data are processed
 for release by the mission.
 
 * <a href="k2-pipeline-release-notes.html#data-release-12">Data Release 12</a>
@@ -1800,7 +1798,7 @@ for release by the mission.
 <br>
 ***Uranus***
 
-Uranus and four of its moons were observed with custom masks during Campaign 8. The path of Uranus was tiled with 245 single column target definitions at long cadence and with nine 9 x 307 trapezoidal masks at short cadence. The moons Caliban, Prospero, Setebos, and Sycorax were observed with separate custom masks. Uranus is the brightest moving object yet observed by K2. 
+Uranus and four of its moons were observed with custom masks during Campaign 8. The path of Uranus was tiled with 245 single column target definitions at long cadence and with nine 9 x 307 trapezoidal masks at short cadence. The moons Caliban, Prospero, Setebos, and Sycorax were observed with separate custom masks. Uranus is the brightest moving object yet observed by K2.
 
 
 <!-- The animated gif below shows Pluto as observed by K2.
@@ -1814,13 +1812,13 @@ Uranus and four of its moons were observed with custom masks during Campaign 8. 
 <br>
 ***Galaxies***
 
-With its high Galactic latitude, Campaign 8 was ideal for observing galaxies. There were 2750 galaxies targeted, including IC 1613 (Caldwell 51), an irregular dwarf galaxy in the Local Group. IC 1613 was tiled with 48 20 x 20 pixel masks for a total of 19,200 pixels. 
+With its high Galactic latitude, Campaign 8 was ideal for observing galaxies. There were 2750 galaxies targeted, including IC 1613 (Caldwell 51), an irregular dwarf galaxy in the Local Group. IC 1613 was tiled with 48 20 x 20 pixel masks for a total of 19,200 pixels.
 
 
 <br>
 ***Roll Drift Returns to _Normal_***
 
-Based on the C7 degraded roll performance, the Mission Operations Center switched back to low-gain antenna LGA1 for spacecraft communication during most of C8. The switch resulted in a return to nominal K2 roll performance and drift rates. The campaign was started using LGA2, as was used in C7, and then starting around 23 Jan 2016 23:50 UTC operations were switched to LGA1. The antenna swap can be seen in the roll drift attitude error. 
+Based on the C7 degraded roll performance, the Mission Operations Center switched back to low-gain antenna LGA1 for spacecraft communication during most of C8. The switch resulted in a return to nominal K2 roll performance and drift rates. The campaign was started using LGA2, as was used in C7, and then starting around 23 Jan 2016 23:50 UTC operations were switched to LGA1. The antenna swap can be seen in the roll drift attitude error.
 
 <div class="thumbnail" style="width: 90%">
  <div class="caption">
@@ -1833,14 +1831,14 @@ Based on the C7 degraded roll performance, the Mission Operations Center switche
 
 <br>
 ***Loss of Fine Point***
-On 2016-02-01 16:40 UTC the spacecraft dropped out of fine point control. Observations continued in coarse point, with much degraded pointing performance, until 2016-02-02 22:27:26 UTC when the spacecraft reacquired fine point during a resat period. This resulted in 29:47:53 of coarse point data collection. These cadences are flagged as "spacecraft is not in fine point" using bit 16 in the data quality flags. The loss of fine point occured following a thruster firing fine tweak that resulted in the spacecraft rolling in the wrong direction. The next tweak was unable to correct the attitude before the loss of fine point fault was triggered, but fine pointing control was restored automatically at the next momentum wheel resaturation. There were several other instances of anomalous thruster firing tweaks in C8, none of which resulted in loss of fine point. Their cause is under investigation. 
+On 2016-02-01 16:40 UTC the spacecraft dropped out of fine point control. Observations continued in coarse point, with much degraded pointing performance, until 2016-02-02 22:27:26 UTC when the spacecraft reacquired fine point during a resat period. This resulted in 29:47:53 of coarse point data collection. These cadences are flagged as "spacecraft is not in fine point" using bit 16 in the data quality flags. The loss of fine point occured following a thruster firing fine tweak that resulted in the spacecraft rolling in the wrong direction. The next tweak was unable to correct the attitude before the loss of fine point fault was triggered, but fine pointing control was restored automatically at the next momentum wheel resaturation. There were several other instances of anomalous thruster firing tweaks in C8, none of which resulted in loss of fine point. Their cause is under investigation.
 
 <br>
 ***Light Curve Quality***
 
 The dominant systematic present in K2 simple aperture photometry light curves is a sawtooth shape that is due to the roll of the spacecraft, which is corrected approximately every 6 hours. With the return to more nominal K2 roll performance in C8, we find CDPP values have improved noticeably over those from C7. Below, we examine observed noise levels in the PDC light curves for C8, Data Release 11.
 
-Analysis of the light curve quality reveals that CDPP values are decreased by roughly 20% from C7, from 59.2 ppm in C7 to 47.0 ppm in C8, as measured by the tenth percentile of 12th magnitude dwarfs. The values are comparable to those from C4-C6. 
+Analysis of the light curve quality reveals that CDPP values are decreased by roughly 20% from C7, from 59.2 ppm in C7 to 47.0 ppm in C8, as measured by the tenth percentile of 12th magnitude dwarfs. The values are comparable to those from C4-C6.
 
 The magnitude dependence of CDPP and its distribution over the focal plane are shown below. Other CDPP benchmarks can be found in the <a href="images/release-notes/c8/C8_bin1.00_sc1.00_CDPP_Summary_16052411.txt">table giving 6.5-hr CDPP as a function of magnitude.</a>
 <br>
@@ -1865,17 +1863,17 @@ The magnitude dependence of CDPP and its distribution over the focal plane are s
 
 *Bright Stars*
 
-There are 2 channels in C8 for which the saturation spill due to very bright stars corrupts both the masked and virtual smear measurements for one or more columns. The affected channels are 23 (columns 500-507 and 1055-1059) and channel 45 (columns 162-166). In these cases, in order to allow the pipeline calibration to complete, we flag the masked smear as bad and process the data with only the virtual smear. As a result, the smear correction will be poor for the channel/column combinations listed above and will be suspect for the same columns on other outputs of the same module due to video crosstalk. 
+There are 2 channels in C8 for which the saturation spill due to very bright stars corrupts both the masked and virtual smear measurements for one or more columns. The affected channels are 23 (columns 500-507 and 1055-1059) and channel 45 (columns 162-166). In these cases, in order to allow the pipeline calibration to complete, we flag the masked smear as bad and process the data with only the virtual smear. As a result, the smear correction will be poor for the channel/column combinations listed above and will be suspect for the same columns on other outputs of the same module due to video crosstalk.
 
 We identified 5 individual targets whose light curves are clearly affected by the poor smear correction: EPIC-220519545 and 220549392 (ch 23); EPIC-220530070 and 220539101 (ch 45), and EPIC-220566642 (ch 48). During this smear investigation, we identified one additional target, EPIC-220498268 on channel 65, that is within the saturation spill of a very bright star and has a similarly corrupted light curve.
 
 *Intermittent Streaks*
 
-There are episodic smear correction errors on channel 42 (mod.out 13.2), the channel containing the Uranus supermask. Nearly every long cadence in the supermask appears to contain between 2 and 20 columns which are brightened by 10 to 80 counts. The brightening of a column lasts only for a single cadence, with no obvious patterns as to which columns are affected in a given cadence. Two example cadences which are particularly affected are 119980 and 119982. 
+There are episodic smear correction errors on channel 42 (mod.out 13.2), the channel containing the Uranus supermask. Nearly every long cadence in the supermask appears to contain between 2 and 20 columns which are brightened by 10 to 80 counts. The brightening of a column lasts only for a single cadence, with no obvious patterns as to which columns are affected in a given cadence. Two example cadences which are particularly affected are 119980 and 119982.
 
 Preliminary investigation indicates that this streaking is caused by false cosmic ray detections in the smear collateral data. Because we do not see similar streaking in the supermask for IC 1613, located on channel 58, we believe that the poor cosmic ray detector performance is due to the bright signal from Uranus moving across columns and altering the cosmic ray detector's dynamic threshold. When false cosmic rays are removed from the smear signal, the pixel data in that column is under-corrected, resulting in a brightening of that column for a given cadence. The streaks are not in the raw data, so users may wish to do their own smear correction on this channel.
 
-The extent of the problem in time and CCD columns can be seen in the figure *C8-Channel 42 Calibrated Smear*. The long cadence data were calibrated in three segments of ~1284 cadences each. The false cosmic ray detections are present in columns where Uranus appeared at any time during the set of cadences being processed. In the figure, the false detections are seen to be confined primarily to the first segment (relative cadence 1-1285, LC number 119907-121191) and third segment (relative cadence 2570-3853, LC number 122476-123759) and to columns above 500. Targets on channel 42 below column 500 should be relatively unaffected by this anomaly. 
+The extent of the problem in time and CCD columns can be seen in the figure *C8-Channel 42 Calibrated Smear*. The long cadence data were calibrated in three segments of ~1284 cadences each. The false cosmic ray detections are present in columns where Uranus appeared at any time during the set of cadences being processed. In the figure, the false detections are seen to be confined primarily to the first segment (relative cadence 1-1285, LC number 119907-121191) and third segment (relative cadence 2570-3853, LC number 122476-123759) and to columns above 500. Targets on channel 42 below column 500 should be relatively unaffected by this anomaly.
 
 <div class="thumbnail" style="width: 45%;display: inline-block;">
 <div class="caption">
@@ -1996,13 +1994,13 @@ Pluto, one of the largest trans-Neptunian objects, previously known as the ninth
 <br>
 ***Ruprecht 47***
 
-Ruprecht 47 is an open cluster observed with K2 during Campaign 7.  It was observed using a super-aperture, tiled with 60 51 x 51 masks, totalling 156,060 pixels. The custom aperture numbers range from 200062524 -- 200062583. 
+Ruprecht 47 is an open cluster observed with K2 during Campaign 7.  It was observed using a super-aperture, tiled with 60 51 x 51 masks, totalling 156,060 pixels. The custom aperture numbers range from 200062524 -- 200062583.
 
 
 <br>
 ***Increase in Roll Drift***
 
-For C7, an alternate low-gain antenna was active during science data collection. The previously used LGA1 was replaced by LGA2 (see [KIH Figure 2](http://archive.stsci.edu/kepler/manuals/KSCI-19033-001.pdf)), as the latter is slightly better oriented with respect to earth. (This partially compensates for the increasing distance to the spacecraft in its earth-trailing orbit, now at 0.8 AU.)  Since the two antennas are mounted on opposite sides of the spacecraft, this antenna swap produced a change in radiation pressure that placed an additional (unbalanced) torque about the boresight on the spacecraft.  The resulting increase in roll drift is illustrated in Figure *C7-RollDrift*, which compares the drift rates for C4, C6, and C7. Consequently, the maximum excursion of any pixel from its nominal position is significantly larger for C7 than for previous campaigns (see Figure *C7-MAR*). 
+For C7, an alternate low-gain antenna was active during science data collection. The previously used LGA1 was replaced by LGA2 (see [KIH Figure 2](http://archive.stsci.edu/kepler/manuals/KSCI-19033-001.pdf)), as the latter is slightly better oriented with respect to earth. (This partially compensates for the increasing distance to the spacecraft in its earth-trailing orbit, now at 0.8 AU.)  Since the two antennas are mounted on opposite sides of the spacecraft, this antenna swap produced a change in radiation pressure that placed an additional (unbalanced) torque about the boresight on the spacecraft.  The resulting increase in roll drift is illustrated in Figure *C7-RollDrift*, which compares the drift rates for C4, C6, and C7. Consequently, the maximum excursion of any pixel from its nominal position is significantly larger for C7 than for previous campaigns (see Figure *C7-MAR*).
 
 <div class="thumbnail" style="width: 45%;display: inline-block;">
     <div class="caption">
@@ -2019,7 +2017,7 @@ For C7, an alternate low-gain antenna was active during science data collection.
     <a href="images/release-notes/c7/c7-mar.png">
         <img src="images/release-notes/c7/c7-mar.png" class="img-responsive" alt="Maximum residual of the attitude measured with PAD and PDQ.">
     </a>
-    
+
     </div>
 </div>
 
@@ -2030,20 +2028,20 @@ Given this unanticipated result, LGA1 will be used for C8, C9, and C10, while th
 <br>
 ***Effect of Roll on Photometry***
 
-The unusually large roll motion in C7, combined with an extremely crowded field, had a strong impact on photometry, particularly on targets near the edge of the focal plane. This impact has several components: 
+The unusually large roll motion in C7, combined with an extremely crowded field, had a strong impact on photometry, particularly on targets near the edge of the focal plane. This impact has several components:
 <ul>
 <li>
-In some cases target stars came close to the edge of their aperture masks. In such cases the photometric precision will be low. 
+In some cases target stars came close to the edge of their aperture masks. In such cases the photometric precision will be low.
 </li>
 <li>
-Background estimates based on background polynomials were strongly polluted by stars rolling in and out of the background apertures. This is especially true for channels near the edge of the focal plane (more roll) and near the Galactic plane (more stars). As a result, the background is strongly over-corrected, with short-time background variations strongly correlated with roll motion. These background variations have been subtracted from all pixels on the channel. 
+Background estimates based on background polynomials were strongly polluted by stars rolling in and out of the background apertures. This is especially true for channels near the edge of the focal plane (more roll) and near the Galactic plane (more stars). As a result, the background is strongly over-corrected, with short-time background variations strongly correlated with roll motion. These background variations have been subtracted from all pixels on the channel.
 </li>
 <li>
-The peaks of the roll motion in the background pixels were often incorrectly identified as cosmic rays and removed. The resulting change in background is minor in magnitude, but potentially diminishes the correlation between background variations and roll motion. 
+The peaks of the roll motion in the background pixels were often incorrectly identified as cosmic rays and removed. The resulting change in background is minor in magnitude, but potentially diminishes the correlation between background variations and roll motion.
 </li>
 </ul>
 
-The motion polynomials generally did a reasonable job tracking the large roll motion, and this enabled the computation of photometric apertures that significantly reduced the impact of roll motion in many cases. In other cases, however, the roll motion was too large for the recovery of high-quality photometry using the standard pipeline processing. 
+The motion polynomials generally did a reasonable job tracking the large roll motion, and this enabled the computation of photometric apertures that significantly reduced the impact of roll motion in many cases. In other cases, however, the roll motion was too large for the recovery of high-quality photometry using the standard pipeline processing.
 
 In addition to the issues with unusually large roll and crowding, stars selected for observation were unusually distributed in C7, with some channels having many targets and other channels having relatively few targets. The result was that some channels had few target stars in the range of magnitudes used to characterize field motion via motion polynomials. A particularly dramatic example is channel 24.4, where all the targets used to create the motion polynomial for this channel are in one corner, resulting in a very inaccurate motion polynomial. Because motion polynomials are used in the creation of the photometric aperture, photometry for some targets on 24.4 may be particularly poor.
 
@@ -2052,7 +2050,7 @@ In addition to the issues with unusually large roll and crowding, stars selected
 
 The dominant systematic present in K2 simple aperture photometry light curves is a sawtooth shape that is due to the roll of the spacecraft approximately every 6 hours. The PDC module of the Kepler Pipeline uses Principle Component Analysis to remove this signal in addition to other systematics. Below, we examine observed noise levels in the PDC light curves for C7, Data Release 9.
 
-Since two halos were used for targets near the center of the focal plane and three halos were used for targets around the periphery, the requisite pixels were captured, but the increased roll motion has severely challenged the data processing pipeline’s ability to perform high-precision photometry. Analysis of the light curve quality reveals that CDPP values are increased by roughly 35% above the benchmark value (tenth percentile of 12th magnitude dwarfs) compared to C4-C6. 
+Since two halos were used for targets near the center of the focal plane and three halos were used for targets around the periphery, the requisite pixels were captured, but the increased roll motion has severely challenged the data processing pipeline’s ability to perform high-precision photometry. Analysis of the light curve quality reveals that CDPP values are increased by roughly 35% above the benchmark value (tenth percentile of 12th magnitude dwarfs) compared to C4-C6.
 
 <a href="images/release-notes/c7/C7_bin1.00_sc1.00_CDPP_Summary_16033014.txt">Table giving 6.5-hr CDPP as a function of magnitude.</a>
 <br>
@@ -2066,10 +2064,10 @@ Since two halos were used for targets near the center of the focal plane and thr
 </div>
 <div class="thumbnail" style="width: 80%;">
     <div class="caption">
-    <i>Figure C7-CDPPFocalPlane: 6.5-hr CDPP measured as a function of position on 
-the focal plane for 12th and 14th magnitude dwarf stars. The photometric precision 
-is generally better near the center of the focal plane where the variations in roll 
-angle produce less pixel motion. All cadences coincident with a definite thruster 
+    <i>Figure C7-CDPPFocalPlane: 6.5-hr CDPP measured as a function of position on
+the focal plane for 12th and 14th magnitude dwarf stars. The photometric precision
+is generally better near the center of the focal plane where the variations in roll
+angle produce less pixel motion. All cadences coincident with a definite thruster
 firing are gapped.</i>
     <a href="images/release-notes/c7/C7_dwarf__CDPP_by_mod_out.png">
         <img src="images/release-notes/c7/C7_dwarf__CDPP_by_mod_out.png" class="img-responsive" alt="CDPP per channel for 12th magnitude dwarfs">
@@ -2087,7 +2085,7 @@ There are 4 channels in C7 for which the saturation spill due to very bright sta
 <li style="list-style-type:none">&emsp;&emsp;45 | 685:691</li>
 <li style="list-style-type:none">&emsp;&emsp;53 | 42:51</li>
 <li style="list-style-type:none">&emsp;&emsp;65 | 819:828</li>
-<li style="list-style-type:none">&emsp;&emsp;67 | 234:242</li> 
+<li style="list-style-type:none">&emsp;&emsp;67 | 234:242</li>
 </ul>
 
 <h2>Release History</h2>
@@ -2168,7 +2166,7 @@ The following is the data release history for C7. Follow the link for informatio
 <br>
 ***Spica***
 
-The star Spica (α Virginis, [EPIC 212573842](http://archive.stsci.edu/k2/epic/search.php?id=212573842&action=Search)) the 15th brightest star in the sky, is on silcon during Campaign 6. As can be seen on the FFI below, Spica is on mod.out 18.3 (channel 63) and its Schmidt-corrector reflection lies on mod.out 8.3. The star bleeds into both smear regions, preventing proper smear correction on columns 805-816 on channel 63.  Also, because of cross-talk, the Spica signal appears on all channels of module 18 at the same row and column position, but to a lesser degree.  For more information on cross-talk, see the [Instrument Handbook](http://archive.stsci.edu/kepler/manuals/KSCI-19033-001.pdf). 
+The star Spica (α Virginis, [EPIC 212573842](http://archive.stsci.edu/k2/epic/search.php?id=212573842&action=Search)) the 15th brightest star in the sky, is on silcon during Campaign 6. As can be seen on the FFI below, Spica is on mod.out 18.3 (channel 63) and its Schmidt-corrector reflection lies on mod.out 8.3. The star bleeds into both smear regions, preventing proper smear correction on columns 805-816 on channel 63.  Also, because of cross-talk, the Spica signal appears on all channels of module 18 at the same row and column position, but to a lesser degree.  For more information on cross-talk, see the [Instrument Handbook](http://archive.stsci.edu/kepler/manuals/KSCI-19033-001.pdf).
 
 <div class="thumbnail" style="width: 52%;">
     <div class="caption">
@@ -2247,7 +2245,7 @@ The following is the data release history for C6. Follow the link for informatio
 
 * <a href="k2-pipeline-release-notes.html#data-release-8">Data Release 8</a>
 
-    * Note: The short cadence data will be released a few weeks after the long cadence data so that a bug fix can be implemented to ensure that the smear correction is properly applied.  Hence, the [Erratum](http://archive.stsci.edu/kepler/KSCI-19080-001.pdf) regarding the long-standing problem with the short cadence smear correction does not apply to the C6 SC data. 
+    * Note: The short cadence data will be released a few weeks after the long cadence data so that a bug fix can be implemented to ensure that the smear correction is properly applied.  Hence, the [Erratum](http://archive.stsci.edu/kepler/KSCI-19080-001.pdf) regarding the long-standing problem with the short cadence smear correction does not apply to the C6 SC data.
 
 <hr>
 
@@ -2372,7 +2370,7 @@ The following is the data release history for this campaign. Follow the link for
 <br>
 ***Notes Specific to Data Release 10***
 
-Data Release 10 updates the short cadence data only. This release corrects the short cadence collateral bug described in the <a href="http://archive.stsci.edu/kepler/KSCI-19080-002.pdf">Global Erratum for Kepler Q0-Q17 & K2 C0-C5 Short-Cadence Data, KSCI-19080</a>. This release replaces short cadence data previously delivered to the archive in Data Release 7. Specific targets known to have their calibration improved by Data Release 10 are identifed in the <a href="http://archive.stsci.edu/missions/k2/catalogs/K2_scrambled_short_cadence_collateral_target_list.csv">list of affected targets at the MAST</a>. 
+Data Release 10 updates the short cadence data only. This release corrects the short cadence collateral bug described in the <a href="http://archive.stsci.edu/kepler/KSCI-19080-002.pdf">Global Erratum for Kepler Q0-Q17 & K2 C0-C5 Short-Cadence Data, KSCI-19080</a>. This release replaces short cadence data previously delivered to the archive in Data Release 7. Specific targets known to have their calibration improved by Data Release 10 are identifed in the <a href="http://archive.stsci.edu/missions/k2/catalogs/K2_scrambled_short_cadence_collateral_target_list.csv">list of affected targets at the MAST</a>.
 
 <hr>
 
@@ -2550,7 +2548,7 @@ The following is the data release history for this campaign. Follow the link for
 <br>
 ***Notes Specific to Data Release 10***
 
-Data Release 10 updates the short cadence data only. This release corrects the short cadence collateral bug described in the <a href="http://archive.stsci.edu/kepler/KSCI-19080-002.pdf">Global Erratum for Kepler Q0-Q17 & K2 C0-C5 Short-Cadence Data, KSCI-19080</a>. This release replaces short cadence data previously delivered to the archive in Data Release 6. Specific targets known to have their calibration improved by Data Release 10 are identifed in the <a href="http://archive.stsci.edu/missions/k2/catalogs/K2_scrambled_short_cadence_collateral_target_list.csv">list of affected targets at the MAST</a>. 
+Data Release 10 updates the short cadence data only. This release corrects the short cadence collateral bug described in the <a href="http://archive.stsci.edu/kepler/KSCI-19080-002.pdf">Global Erratum for Kepler Q0-Q17 & K2 C0-C5 Short-Cadence Data, KSCI-19080</a>. This release replaces short cadence data previously delivered to the archive in Data Release 6. Specific targets known to have their calibration improved by Data Release 10 are identifed in the <a href="http://archive.stsci.edu/missions/k2/catalogs/K2_scrambled_short_cadence_collateral_target_list.csv">list of affected targets at the MAST</a>.
 
 ***Notes Specific to Data Release 6***
 
@@ -2709,7 +2707,7 @@ The following is the data release history for this campaign. Follow the link for
 <br>
 ***Notes Specific to Data Release 10***
 
-Data Release 10 updates the short cadence data only. This release corrects the short cadence collateral bug described in the <a href="http://archive.stsci.edu/kepler/KSCI-19080-002.pdf">Global Erratum for Kepler Q0-Q17 & K2 C0-C5 Short-Cadence Data, KSCI-19080</a>. This release replaces short cadence data previously delivered to the archive in Data Release 5. Specific targets known to have their calibration improved by Data Release 10 are identifed in the <a href="http://archive.stsci.edu/missions/k2/catalogs/K2_scrambled_short_cadence_collateral_target_list.csv">list of affected targets at the MAST</a>. 
+Data Release 10 updates the short cadence data only. This release corrects the short cadence collateral bug described in the <a href="http://archive.stsci.edu/kepler/KSCI-19080-002.pdf">Global Erratum for Kepler Q0-Q17 & K2 C0-C5 Short-Cadence Data, KSCI-19080</a>. This release replaces short cadence data previously delivered to the archive in Data Release 5. Specific targets known to have their calibration improved by Data Release 10 are identifed in the <a href="http://archive.stsci.edu/missions/k2/catalogs/K2_scrambled_short_cadence_collateral_target_list.csv">list of affected targets at the MAST</a>.
 
 <hr>
 
@@ -2835,7 +2833,7 @@ The LDE parity error triggers a flag (bit 15, decimal=16384) in the QUALITY colu
 <br>
 ***Attitude Tweak***
 
-The pointing of the spacecraft was adjusted by approximately 10" on 2014-Aug-25, during cadence 95546, in order to ensure that the observed targets were centered in their masks. This event is flagged in the QUALITY column of the target pixel files with bit 1 (decimal=1). The data collected before the tweak may fall close to the edge of the collected mask and some of the object's flux may have been lost. Use these cadences with caution. 
+The pointing of the spacecraft was adjusted by approximately 10" on 2014-Aug-25, during cadence 95546, in order to ensure that the observed targets were centered in their masks. This event is flagged in the QUALITY column of the target pixel files with bit 1 (decimal=1). The data collected before the tweak may fall close to the edge of the collected mask and some of the object's flux may have been lost. Use these cadences with caution.
 Note, in Data Release 4, because of an operator error, the tweak is marked on the previous cadence, 95545.
 
 <br>
@@ -2950,86 +2948,86 @@ The following is the data release history for this campaign. Follow the link for
 <br>
 ***Operational Considerations***
 
-Campaign 1 (C1) is the first full length observing campaign for K2 where the targets were 
+Campaign 1 (C1) is the first full length observing campaign for K2 where the targets were
 selected by peer review. The project was uncertain of the pointing precision and compression
 efficiency that could be achieved in early K2 operations and took steps to miminimize the risk
-of losing science data. In order to 
-allow for the potential of coarse point operations, all target apertures included six halo rings. 
-The oversized apertures and uncertain compression performance led the project to 
-include a mid-campaign break lasting 2.9 days in order to downlink data. 
+of losing science data. In order to
+allow for the potential of coarse point operations, all target apertures included six halo rings.
+The oversized apertures and uncertain compression performance led the project to
+include a mid-campaign break lasting 2.9 days in order to downlink data.
 
 <br>
 ***Attitude Tweak***
 
-The attitude of the spacecraft was tweaked by 3.3 pixels at cadence 91433 to better 
-position the targets in the centers of their apertures. All cadences in the first 
-2 days of C1 prior to this event have the first bit in the QUALITY column set 
+The attitude of the spacecraft was tweaked by 3.3 pixels at cadence 91433 to better
+position the targets in the centers of their apertures. All cadences in the first
+2 days of C1 prior to this event have the first bit in the QUALITY column set
 (integer value = 1) to indicate that they were taken prior to the tweak.
 
-When creating light curves, the pipeline uses PA-COA to determine the optimal photometric 
+When creating light curves, the pipeline uses PA-COA to determine the optimal photometric
 aperture that maximizes the signal-to-noise ratio for each target over the full
 campaign. This static optimal aperture is determined from a robust average of
-the achieved pointing, so relatively short segments of off-nominal pointing 
-tend to be excluded from the aperture calculation. In the case of C1, the optimal 
-apertures generally do not contain the target star in the pre-attitude tweak 
+the achieved pointing, so relatively short segments of off-nominal pointing
+tend to be excluded from the aperture calculation. In the case of C1, the optimal
+apertures generally do not contain the target star in the pre-attitude tweak
 cadences. Accordingly, the SAP-Flux and PDC-Flux values found in the light curve
 files are gapped for the pre-tweak cadences (where the QUALITY flag=1). In
-addition, neither background flux (FLUX_BKG, FLUX_BKG_ERR) nor motion 
-polynomial values (POS_CORR1, POS_CORR2) were computed for the 
+addition, neither background flux (FLUX_BKG, FLUX_BKG_ERR) nor motion
+polynomial values (POS_CORR1, POS_CORR2) were computed for the
 pre-tweak cadences.
 
 Because of the large C1 apertures, the TPFs do fully contain the target in
 the full set of pixels collected from the spacecraft. However, for the
 pre-tweak cadences incorrect
-background flux values were subtracted from the TPF pixel fluxes given 
-in the FLUX column of the TPF. Users wishing to recover photometry from these 
+background flux values were subtracted from the TPF pixel fluxes given
+in the FLUX column of the TPF. Users wishing to recover photometry from these
 cadences should add the per-cadence pixel background values (TPF column FLUX_BKG)
-back into the pixel flux values and then compute their own background levels. 
+back into the pixel flux values and then compute their own background levels.
 The position offset columns (POS_CORR1, POS_CORR2) should likewise be ignored
-for these cadences. 
+for these cadences.
 
-Finally, in the pre-tweak cadences a small number of targets may have incorrect 
-smear calibrations due to bright saturating stars spilling charge into the 
+Finally, in the pre-tweak cadences a small number of targets may have incorrect
+smear calibrations due to bright saturating stars spilling charge into the
 detector smear regions. Such affects are flagged and excluded from smear calibration
-for the post-tweak cadences, but the pre-tweak positions of the bright stars 
-were not used to flag bad smear corrections. Only about 0.2% of the 
-focal plane columns were affected in this way, so the number of potentially 
+for the post-tweak cadences, but the pre-tweak positions of the bright stars
+were not used to flag bad smear corrections. Only about 0.2% of the
+focal plane columns were affected in this way, so the number of potentially
 affected targets is small.
 
 <br>
 ***Trans-Neptunian Object***
 
-A long-cadence custom aperture was constructed in order to collect data on 
-trans-Neptunian Object 2002 GV31. Note, this target is very faint (V=22) and 
-falls in its 23x22 pixel custom aperture for only about 10 days. This custom 
+A long-cadence custom aperture was constructed in order to collect data on
+trans-Neptunian Object 2002 GV31. Note, this target is very faint (V=22) and
+falls in its 23x22 pixel custom aperture for only about 10 days. This custom
 aperture can be found by searching the MAST for EPIC ID 200001049.
 
 <br>
 ***EPIC Catalog Assignment***
 
-For this Campaign, a number of targets were proposed without EPIC IDs. 
-If a target was observed, it was either 1) given an EPIC ID from the regular 
-catalog if that target matched a target in the catalog, or 
-2) assigned a new EPIC ID. We created EPIC IDs for 28 targets, ranging from 
-210282464 to 210282491. The remaining C1 targets have EPIC IDs ranging 
+For this Campaign, a number of targets were proposed without EPIC IDs.
+If a target was observed, it was either 1) given an EPIC ID from the regular
+catalog if that target matched a target in the catalog, or
+2) assigned a new EPIC ID. We created EPIC IDs for 28 targets, ranging from
+210282464 to 210282491. The remaining C1 targets have EPIC IDs ranging
 from 201000001 to 202059065.
 
 <br>
 ***Light Curve Quality***
 
-C1 long cadence light curves have been delivered with [Data Release 14](k2-pipeline-release-notes.html#data-release-14). 
+C1 long cadence light curves have been delivered with [Data Release 14](k2-pipeline-release-notes.html#data-release-14).
 The dominant noise contributors in the C1 data are the saw-tooth roll signal inherent in
-K2 data and an increased (over Kepler and later K2 campaigns) cross-boresight pointing motion 
-due to the lower bandwidth for the attitude determination and control system (ADCS) 
-used in K2 campaigns C0, C1, and C2. The low ADCS bandwidth was particularly 
-problematic for short cadence data, as it meant that the spacecraft pointing errors are on the 
+K2 data and an increased (over Kepler and later K2 campaigns) cross-boresight pointing motion
+due to the lower bandwidth for the attitude determination and control system (ADCS)
+used in K2 campaigns C0, C1, and C2. The low ADCS bandwidth was particularly
+problematic for short cadence data, as it meant that the spacecraft pointing errors are on the
 same time scale as the SC exposure, so that the pointing induced noise is correlated from
 cadence to cadence. See notes under [C0](#k2-campaign-0) for details.
 
-Analysis of the light curve quality reveals that long cadence CDPP values for dwarf stars are 
-in family with the values from subsequent campaigns. 
-The magnitude dependence of CDPP and its distribution over the focal plane are shown below. 
-Other CDPP benchmarks can be found in the 
+Analysis of the light curve quality reveals that long cadence CDPP values for dwarf stars are
+in family with the values from subsequent campaigns.
+The magnitude dependence of CDPP and its distribution over the focal plane are shown below.
+Other CDPP benchmarks can be found in the
 [table giving 6.5-hr CDPP as a function of magnitude](images/release-notes/c1/K2-C1_CDPP_Summary_16102111.txt).
 <br>
 <div class="thumbnail" style="width: 90%;">
@@ -3060,14 +3058,14 @@ Data releases used for this campaign are given below. Details on the features of
 ***Notes Specific to Data Release 14***
 
 Data Release 14 includes long cadence light curves for C1 targets and updates the exported data
-products to include pipeline derived target coordinates and thruster firing flags. 
-The C1 FITS target pixel files are also updated to 
-Type-2 files. See [Type-1 vs Type-2 TPFs](#type1v2) above and notes under 
-[Data Release 5](k2-pipeline-release-notes.html#data-release-5) for more details on Type-2 TPFs. 
-This release also corrects the short cadence collateral bug described in the 
-[Global Erratum for Kepler Q0-Q17 & K2 C0-C5 Short-Cadence Data, KSCI-19080](http://archive.stsci.edu/kepler/KSCI-19080-002.pdf). 
+products to include pipeline derived target coordinates and thruster firing flags.
+The C1 FITS target pixel files are also updated to
+Type-2 files. See [Type-1 vs Type-2 TPFs](#type1v2) above and notes under
+[Data Release 5](k2-pipeline-release-notes.html#data-release-5) for more details on Type-2 TPFs.
+This release also corrects the short cadence collateral bug described in the
+[Global Erratum for Kepler Q0-Q17 & K2 C0-C5 Short-Cadence Data, KSCI-19080](http://archive.stsci.edu/kepler/KSCI-19080-002.pdf).
 This release replaces the short cadence data previously delivered to the archive in Data Release 3.
-Specific targets known to have their SC calibration improved by Data Release 14 are identifed 
+Specific targets known to have their SC calibration improved by Data Release 14 are identifed
 in the [list of affected targets at the MAST](http://archive.stsci.edu/missions/k2/catalogs/K2_scrambled_short_cadence_collateral_target_list.csv).
 
 <hr>
@@ -3207,9 +3205,9 @@ Prior to the start of C0, on January 21, 2014, the photometer was autonomously p
 <br>
 ***Thruster Firing Flags***
 
-Since the thruster firing flags are not populated in FITS quality flags for the 
-C0 Type-1 TPFs, they are delivered as separate 
-long-cadence <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c0_lc.csv">(thruster_firing_flags_c0_lc.csv)</a> 
+Since the thruster firing flags are not populated in FITS quality flags for the
+C0 Type-1 TPFs, they are delivered as separate
+long-cadence <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c0_lc.csv">(thruster_firing_flags_c0_lc.csv)</a>
 and short-cadence <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c0_sc.csv">(thruster_firing_flags_c0_sc.csv)</a>
 thruster firing tables for the C0 campaign.
 
@@ -3278,7 +3276,7 @@ Before the official start of the K2 Mission, the spacecraft executed a 9-day tes
 
 <hr>
 <br>
-Page last updated on: 
+Page last updated on:
 <script>
 document.write(document.lastModified);
 </script>
