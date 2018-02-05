@@ -1,5 +1,5 @@
 Title: Kepler's K2 Mission reaches 300,000 targets
-Date: 2018-01-30 14:00
+Date: 2028-01-30 14:00
 Author: Geert Barentsen
 
 During Campaigns 0 through 14,
