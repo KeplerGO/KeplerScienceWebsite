@@ -8,17 +8,16 @@ the K2 mission has now targeted an estimated 297,991 objects, including
 37,041 giant stars,
 40,125 galaxies,
 and 1,560 white dwarfs.
+**The number of confirmed K2 planets recently surpassed 200 and
+<a href="https://exoplanetarchive.ipac.caltech.edu/docs/counts_detail.html">now stands at 212</a>!**
+
 The flyer below, which was distributed at the recent Winter AAS meeting,
 summarizes a few of these statistics.
 
 These numbers will further increase upon the upcoming data releases
-for Campaign 15 and 16 (expected by March and June).
+for Campaign 15 and 16.
 We also note that the numbers do not include the very large number of objects observed
 as part of the large "superstamps" collected towards the Galactic Bulge
 and multiple clusters.
-
-Although the flyer below is only a few weeks old,
-the number of confirmed planets is already outdated:
-**the K2 confirmed planets count surpassed 200 on February 5th and <a href="https://exoplanetarchive.ipac.caltech.edu/docs/counts_detail.html">currently stands at 212 planets</a>**.
 
 <a href="images/news/k2-by-the-numbers-dec2017.jpg"><img src="images/news/k2-by-the-numbers-dec2017.jpg"></a>
