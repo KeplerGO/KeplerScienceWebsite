@@ -27,7 +27,7 @@ All campaigns to date
 .. raw:: html
 
     <p>
-        Campaigns 0 - 17 contain <b>507,931 non-unique targets</b> in approved K2 programs.  The target list below was produced from concatenating all campaign-level target lists into a single csv file.  The file contains one additional column indicating the campaign.  This master file will facilitate cross-matching K2 data with other catalogs, and other data mining efforts.  Updates to this file might lag behind the delivery of campaign-level target lists, which remain the primary sources, alongside the Data Release Notes.
+        Campaigns 0 - 17 contain <b>507,931 pixel masks</b> in approved K2 programs.  The target list below was produced from concatenating all campaign-level target lists into a single csv file.  The file contains one additional column indicating the campaign.  This master file will facilitate cross-matching K2 data with other catalogs, and other data mining efforts.
     </p>
 
   <ul class="list-group">
