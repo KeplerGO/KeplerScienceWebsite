@@ -15,9 +15,8 @@ and is several days away from reaching its maximum brightness.
 We encourage the community to continue to coordinate the follow-up
 of this unique event via the [K2 Supernova Experiment Google Group](https://groups.google.com/forum/#!topic/k2sn/PZPtW6myNjs).
 
-**This event is expected to yield the highest-precision continuous lightcurve
-ever obtained for a supernova.**
-Kepler is providing an interrupted 30-minute cadence view of the event
+**This event is expected to yield the highest-precision, uninterruped lightcurve ever obtained for a supernova.**
+Kepler is providing a continuous 30-minute cadence view of the event
 from December 7th through February 25th,
 i.e. starting 2 months before and ending 3 weeks after the explosion.
 

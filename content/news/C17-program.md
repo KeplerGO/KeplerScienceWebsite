@@ -8,7 +8,7 @@ have now been posted on the
 
 The target list is based on the peer review of target proposals
 submitted in response to the [K2 GO Cycle 6 Phase-1 opportunity](call-for-k2-go-cycle-6-proposals-for-campaigns-17-18-and-19.html).
-PI teams may expect to receive feedback on their proposals by the end of February.
+PI teams may expect to receive feedback on their proposals by March.
 Note that US-based investigators may be eligible to obtain funding to analyze
 the data obtained as part of this Campaign by submitting a Phase-2 proposal
 before the deadline, which is currently set for April 19, 2018,
