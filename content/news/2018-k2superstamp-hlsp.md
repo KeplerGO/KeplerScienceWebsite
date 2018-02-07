@@ -8,7 +8,7 @@ available at the MAST archive.
 The HLSP – called **[K2Superstamp](https://archive.stsci.edu/prepds/k2superstamp/)** – consists of a series of FITS images for 
 four open star clusters observed by K2 using so-called "superstamp" pixel masks:
 
-* **M35**: the ~100 Myr old open cluster observed during Campaign 0.
+* **M35**: the ~150 Myr old open cluster observed during Campaign 0.
 * **M67**: the solar-age, solar-metallicity benchmark cluster observed during C5.
 * **Ruprecht 147**: the ~3 Gyr-old open cluster observed during C7.
 * **The Lagoon Nebula (M8)**: the high-mass star-forming region observed during C9.
