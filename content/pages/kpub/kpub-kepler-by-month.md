@@ -147,6 +147,42 @@ Sahlholdt, C. L., Silva Aguirre, V., Casagrande, L., et al.
 Zhang, Xinyi, Wu, Tao, Li, Yan    
 2018, pre-print ([2018arXiv180201320Z](http://adsabs.harvard.edu/abs/2018arXiv180201320Z))  
 
+25. [CHARACTERISING THE OBSERVATIONAL PROPERTIES OF {\DELTA} SCT STARS IN THE ERA OF SPACE PHOTOMETRY FROM THE KEPLER MISSION](http://adsabs.harvard.edu/abs/2018arXiv180205433B)  
+Bowman, Dominic M., Kurtz, Donald W.    
+2018, pre-print ([2018arXiv180205433B](http://adsabs.harvard.edu/abs/2018arXiv180205433B))  
+
+26. [THE DYNAMICS OF TIGHTLY-PACKED PLANETARY SYSTEMS IN THE PRESENCE OF AN OUTER PLANET: CASE STUDIES USING KEPLER-11 AND KEPLER-90](http://adsabs.harvard.edu/abs/2018arXiv180201702G)  
+Granados Contreras, A. P., Boley, A. C.    
+2018, pre-print ([2018arXiv180201702G](http://adsabs.harvard.edu/abs/2018arXiv180201702G))  
+
+27. [TESTING ASTEROSEISMIC RADII OF DWARFS AND SUBGIANTS WITH KEPLER AND GAIA](http://adsabs.harvard.edu/abs/2018MNRAS.tmp..316S)  
+Sahlholdt, C. L., Silva Aguirre, V., Casagrande, L., et al.    
+2018, refereed ([2018MNRAS.tmp..316S](http://adsabs.harvard.edu/abs/2018MNRAS.tmp..316S))  
+
+28. [ASTEROSEISMOLOGY OF 16000 KEPLER RED GIANTS: GLOBAL OSCILLATION PARAMETERS, MASSES, AND RADII](http://adsabs.harvard.edu/abs/2018arXiv180204455Y)  
+Yu, Jie, Huber, Daniel, Bedding, Timothy R., et al.    
+2018, pre-print ([2018arXiv180204455Y](http://adsabs.harvard.edu/abs/2018arXiv180204455Y))  
+
+29. [MULTI-TECHNIQUE INVESTIGATION OF THE BINARY FRACTION OF A-F TYPE CANDIDATE HYBRID VARIABLE STARS DISCOVERED BY KEPLER](http://adsabs.harvard.edu/abs/2018A&A...610A..17L)  
+Lampens, P., Frémat, Y., Vermeylen, L., et al.    
+2018, refereed ([2018A&A...610A..17L](http://adsabs.harvard.edu/abs/2018A&A...610A..17L))  
+
+30. [THE YEAR-LONG FLUX VARIATIONS IN BOYAJIAN'S STAR ARE ASYMMETRIC OR APERIODIC](http://adsabs.harvard.edu/abs/2018ApJ...854L..11H)  
+Hippke, Michael, Angerhausen, Daniel    
+2018, refereed ([2018ApJ...854L..11H](http://adsabs.harvard.edu/abs/2018ApJ...854L..11H))  
+
+31. [FROM COOL TO HOT F-STARS: THE INFLUENCE OF TWO IONIZATION REGIONS IN THE ACOUSTIC OSCILLATIONS](http://adsabs.harvard.edu/abs/2018ApJ...853..183B)  
+Brito, Ana, Lopes, Ilídio    
+2018, refereed ([2018ApJ...853..183B](http://adsabs.harvard.edu/abs/2018ApJ...853..183B))  
+
+32. [THE SHAPE OF CONVECTIVE CORE OVERSHOOTING FROM GRAVITY-MODE PERIOD SPACINGS](http://adsabs.harvard.edu/abs/2018arXiv180202051P)  
+Pedersen, M. G., Aerts, C., Pápics, P. I., et al.    
+2018, pre-print ([2018arXiv180202051P](http://adsabs.harvard.edu/abs/2018arXiv180202051P))  
+
+33. [A HARDCORE MODEL FOR CONSTRAINING AN EXOPLANET'S CORE SIZE](http://adsabs.harvard.edu/abs/2018MNRAS.tmp..371S)  
+Suissa, Gabrielle, Chen, Jingjing, Kipping, David    
+2018, refereed ([2018MNRAS.tmp..371S](http://adsabs.harvard.edu/abs/2018MNRAS.tmp..371S))  
+
 
 2018-01
 -------

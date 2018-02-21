@@ -111,6 +111,34 @@ Denham, Paul, Naoz, Smadar, Hoang, Bao-Minh, et al.
 Margot, Jean-Luc, Greenberg, Adam H., Pinchuk, Pavlo, et al.    
 2018, pre-print ([2018arXiv180201081M](http://adsabs.harvard.edu/abs/2018arXiv180201081M))  
 
+17. [K2 REVEALS PULSED ACCRETION DRIVEN BY THE 2 MYR OLD HOT JUPITER CI TAU B](http://adsabs.harvard.edu/abs/2018ApJ...853L..34B)  
+Biddle, Lauren I., Johns-Krull, Christopher M., Llama, Joe, et al.    
+2018, refereed ([2018ApJ...853L..34B](http://adsabs.harvard.edu/abs/2018ApJ...853L..34B))  
+
+18. [EPHEMERIS REFINEMENT OF A HOT JUPITER K2-140B](http://adsabs.harvard.edu/abs/2018RNAAS...2...22M)  
+Močnik, T., Hellier, C., Anderson, D. R.    
+2018, not refereed ([2018RNAAS...2...22M](http://adsabs.harvard.edu/abs/2018RNAAS...2...22M))  
+
+19. [THE DYNAMICS OF TIGHTLY-PACKED PLANETARY SYSTEMS IN THE PRESENCE OF AN OUTER PLANET: CASE STUDIES USING KEPLER-11 AND KEPLER-90](http://adsabs.harvard.edu/abs/2018arXiv180201702G)  
+Granados Contreras, A. P., Boley, A. C.    
+2018, pre-print ([2018arXiv180201702G](http://adsabs.harvard.edu/abs/2018arXiv180201702G))  
+
+20. [SINGLE TRANSITS AND ECLIPSES OBSERVED BY K2](http://adsabs.harvard.edu/abs/2018arXiv180205823L)  
+LaCourse, Daryll M., Jacobs, Thomas L.    
+2018, pre-print ([2018arXiv180205823L](http://adsabs.harvard.edu/abs/2018arXiv180205823L))  
+
+21. [275 CANDIDATES AND 149 VALIDATED PLANETS ORBITING BRIGHT STARS IN K2 CAMPAIGNS 0-10](http://adsabs.harvard.edu/abs/2018arXiv180205277M)  
+Mayo, Andrew W., Vanderburg, Andrew, Latham, David W., et al.    
+2018, pre-print ([2018arXiv180205277M](http://adsabs.harvard.edu/abs/2018arXiv180205277M))  
+
+22. [A HARDCORE MODEL FOR CONSTRAINING AN EXOPLANET'S CORE SIZE](http://adsabs.harvard.edu/abs/2018MNRAS.tmp..371S)  
+Suissa, Gabrielle, Chen, Jingjing, Kipping, David    
+2018, refereed ([2018MNRAS.tmp..371S](http://adsabs.harvard.edu/abs/2018MNRAS.tmp..371S))  
+
+23. [THE NATURE OF THE TRAPPIST-1 EXOPLANETS](http://adsabs.harvard.edu/abs/2018arXiv180201377G)  
+Grimm, Simon L., Demory, Brice-Olivier, Gillon, Michaël, et al.    
+2018, pre-print ([2018arXiv180201377G](http://adsabs.harvard.edu/abs/2018arXiv180201377G))  
+
 
 2018-01
 -------

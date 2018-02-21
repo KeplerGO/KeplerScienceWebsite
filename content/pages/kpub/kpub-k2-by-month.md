@@ -79,6 +79,54 @@ Hedges, Christina, Hodgkin, Simon, Kennedy, Grant
 Aerts, C., Bowman, D. M., Simon-Diaz, S., et al.    
 2018, pre-print ([2018arXiv180200621A](http://adsabs.harvard.edu/abs/2018arXiv180200621A))  
 
+11. [K2 REVEALS PULSED ACCRETION DRIVEN BY THE 2 MYR OLD HOT JUPITER CI TAU B](http://adsabs.harvard.edu/abs/2018ApJ...853L..34B)  
+Biddle, Lauren I., Johns-Krull, Christopher M., Llama, Joe, et al.    
+2018, refereed ([2018ApJ...853L..34B](http://adsabs.harvard.edu/abs/2018ApJ...853L..34B))  
+
+12. [EPHEMERIS REFINEMENT OF A HOT JUPITER K2-140B](http://adsabs.harvard.edu/abs/2018RNAAS...2...22M)  
+Močnik, T., Hellier, C., Anderson, D. R.    
+2018, not refereed ([2018RNAAS...2...22M](http://adsabs.harvard.edu/abs/2018RNAAS...2...22M))  
+
+13. [MAIN-BELT ASTEROIDS IN THE K2 URANUS FIELD](http://adsabs.harvard.edu/abs/2018ApJS..234...37M)  
+Molnár, L., Pál, A., Sárneczky, K., et al.    
+2018, refereed ([2018ApJS..234...37M](http://adsabs.harvard.edu/abs/2018ApJS..234...37M))  
+
+14. [K2 PHOTOMETRY AND HERMES SPECTROSCOPY OF THE BLUE SUPERGIANT Ρ LEO: ROTATIONAL WIND MODULATION AND LOW-FREQUENCY WAVES](http://adsabs.harvard.edu/abs/2018MNRAS.tmp..311A)  
+Aertsthanks, C., Bowman, D. M., Símon-Díaz, S., et al.    
+2018, refereed ([2018MNRAS.tmp..311A](http://adsabs.harvard.edu/abs/2018MNRAS.tmp..311A))  
+
+15. [K2SUPERSTAMP: THE RELEASE OF CALIBRATED MOSAICS FOR THE {\EM KEPLER/K2} MISSION](http://adsabs.harvard.edu/abs/2018arXiv180206354C)  
+Cody, Ann Marie, Barentsen, Geert, Hedges, Christina, et al.    
+2018, pre-print ([2018arXiv180206354C](http://adsabs.harvard.edu/abs/2018arXiv180206354C))  
+
+16. [SINGLE TRANSITS AND ECLIPSES OBSERVED BY K2](http://adsabs.harvard.edu/abs/2018arXiv180205823L)  
+LaCourse, Daryll M., Jacobs, Thomas L.    
+2018, pre-print ([2018arXiv180205823L](http://adsabs.harvard.edu/abs/2018arXiv180205823L))  
+
+17. [275 CANDIDATES AND 149 VALIDATED PLANETS ORBITING BRIGHT STARS IN K2 CAMPAIGNS 0-10](http://adsabs.harvard.edu/abs/2018arXiv180205277M)  
+Mayo, Andrew W., Vanderburg, Andrew, Latham, David W., et al.    
+2018, pre-print ([2018arXiv180205277M](http://adsabs.harvard.edu/abs/2018arXiv180205277M))  
+
+18. [THE K2 M67 STUDY: A CURIOUSLY YOUNG STAR IN AN ECLIPSING BINARY IN AN OLD OPEN CLUSTER](http://adsabs.harvard.edu/abs/2018arXiv180205854S)  
+Sandquist, Eric L., Mathieu, Robert D., Quinn, Samuel N., et al.    
+2018, pre-print ([2018arXiv180205854S](http://adsabs.harvard.edu/abs/2018arXiv180205854S))  
+
+19. [THE MANY-FACETED LIGHT CURVES OF YOUNG DISK-BEARING STARS IN UPPER SCO AND $\RHO$ OPH OBSERVED BY $K2$ CAMPAIGN 2](http://adsabs.harvard.edu/abs/2018arXiv180206409C)  
+Cody, Ann Marie, Hillenbrand, Lynne A.    
+2018, pre-print ([2018arXiv180206409C](http://adsabs.harvard.edu/abs/2018arXiv180206409C))  
+
+20. [DISCOVERY OF NEW DIPPER STARS WITH K2: A WINDOW INTO THE INNER DISK REGION OF T TAURI STARS](http://adsabs.harvard.edu/abs/2018MNRAS.tmp..325H)  
+Hedges, Christina, Hodgkin, Simon, Kennedy, Grant    
+2018, refereed ([2018MNRAS.tmp..325H](http://adsabs.harvard.edu/abs/2018MNRAS.tmp..325H))  
+
+21. [THE INFLATED RADII OF M-DWARFS IN THE PLEIADES](http://adsabs.harvard.edu/abs/2018arXiv180204288J)  
+Jackson, R. J., Deliyannis, Constantine P., Jeffries, R. D.    
+2018, pre-print ([2018arXiv180204288J](http://adsabs.harvard.edu/abs/2018arXiv180204288J))  
+
+22. [THE NATURE OF THE TRAPPIST-1 EXOPLANETS](http://adsabs.harvard.edu/abs/2018arXiv180201377G)  
+Grimm, Simon L., Demory, Brice-Olivier, Gillon, Michaël, et al.    
+2018, pre-print ([2018arXiv180201377G](http://adsabs.harvard.edu/abs/2018arXiv180201377G))  
+
 
 2018-01
 -------
