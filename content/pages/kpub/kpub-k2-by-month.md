@@ -127,6 +127,10 @@ Jackson, R. J., Deliyannis, Constantine P., Jeffries, R. D.
 Grimm, Simon L., Demory, Brice-Olivier, Gillon, Michaël, et al.    
 2018, pre-print ([2018arXiv180201377G](http://adsabs.harvard.edu/abs/2018arXiv180201377G))  
 
+23. [SHORT TIME-SCALE OPTICAL VARIABILITY PROPERTIES OF THE LARGEST AGN SAMPLE OBSERVED WITH KEPLER/K2](http://adsabs.harvard.edu/abs/2018arXiv180208058A)  
+Aranzana, E., Kording, E., Uttley, P., et al.    
+2018, pre-print ([2018arXiv180208058A](http://adsabs.harvard.edu/abs/2018arXiv180208058A))  
+
 
 2018-01
 -------
