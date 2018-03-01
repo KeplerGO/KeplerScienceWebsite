@@ -288,7 +288,7 @@ of the campaign lasting for 6 hours starting at 2017-03-08 17:46:06 UTC
 Two periods of anomalous pointing occur in the final five days
 of the campaign: 18 hours starting at 2017-05-23 12:11:44 UTC
 (cadence numbers 144619-144654), and 6 hours
-starting at 2017-05-23 11:16:28 UTC (cadence numbers 144715-144726).
+starting at 2017-05-25 11:16:28 UTC (cadence numbers 144715-144726).
 These anomalous thruster firing events occurring near the start and end of campaigns
 are suspected to be due to low fuel levels. The flight team is investigating them in
 an effort to understand whether they can be mitigated and how they might
