@@ -14,7 +14,5 @@ the cataclysmic variable GW Lib,
 and the L5-type Brown Dwarf
 2MASS 1507-1627.
 
-Keep an eye on our website for an announcement of the release
+Please keep an eye on our website for an announcement of the release
 and the associated [data release notes](k2-data-release-notes.html).
-
-<a href="images/k2/k2-c15-field.png"><img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c15-field.png"></a>
