@@ -1,12 +1,11 @@
 Title: K2 Campaign 15 data processing complete
-Date: 2018-02-27 12:00
+Date: 2018-02-28 12:00
 Author: Geert Barentsen
 
 Data processing for K2 Campaign 15 is now complete
 and the pixel files and lightcurves are in the process
 of being shipped to the [data archive at MAST](http://archive.stsci.edu/k2).
-We anticipate that the data release will become available
-in the week of March 12th.
+We anticipate that the data release will be announced near March 13th.
 
 The [target list](k2-approved-programs.html#campaign-15) featured
 23,279 standard long cadence and 119 standard short cadence targets
