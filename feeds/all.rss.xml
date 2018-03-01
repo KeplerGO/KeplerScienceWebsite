@@ -1,18 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Mon, 05 Feb 2018 14:00:00 -0800</lastBuildDate><item><title>Kepler's K2 Mission reaches 300,000 standard targets and 200 confirmed planets</title><link>https://keplerscience.arc.nasa.gov/keplers-k2-mission-reaches-300000-standard-targets-and-200-confirmed-planets.html</link><description>&lt;p&gt;During Campaigns 0 through 14,
+<rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Tue, 27 Feb 2018 12:00:00 -0800</lastBuildDate><item><title>K2 Campaign 15 data processing complete</title><link>https://keplerscience.arc.nasa.gov/k2-campaign-15-data-processing-complete.html</link><description>&lt;p&gt;Data processing for K2 Campaign 15 is now complete
+and the pixel files and lightcurves are in the process
+of being shipped to the &lt;a href="http://archive.stsci.edu/k2"&gt;data archive at MAST&lt;/a&gt;.
+We anticipate that the data release will become available
+in the week of March 12th.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="k2-approved-programs.html#campaign-15"&gt;target list&lt;/a&gt; featured
+23,279 standard …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Tue, 27 Feb 2018 12:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2018-02-27:/k2-campaign-15-data-processing-complete.html</guid></item><item><title>Bright supernova discovered in K2's ongoing Campaign 16</title><link>https://keplerscience.arc.nasa.gov/bright-supernova-discovered-in-k2s-ongoing-campaign-16.html</link><description>&lt;p&gt;The ASAS-SN survey &lt;a href="http://www.astronomerstelegram.org/?read=11253"&gt;reports the discovery&lt;/a&gt;
+of a bright supernova (V=15) in a nearby galaxy
+that is currently being monitored by Kepler
+as part of its ongoing K2 Campaign 16.
+The event is named ASASSN-18bt (AT 2018oh) and is located
+at 09:06:39.6 +19:20:17.5 …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Tue, 06 Feb 2018 14:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2018-02-06:/bright-supernova-discovered-in-k2s-ongoing-campaign-16.html</guid></item><item><title>Kepler's K2 Mission reaches 300,000 standard targets and 200 confirmed planets</title><link>https://keplerscience.arc.nasa.gov/keplers-k2-mission-reaches-300000-standard-targets-and-200-confirmed-planets.html</link><description>&lt;p&gt;During Campaigns 0 through 14,
 the K2 mission has now targeted an estimated 297,991 objects, including
 50,159 cool dwarf stars,
 37,041 giant stars,
 40,125 galaxies,
 and 1,560 white dwarfs.
-The flyer below, which was distributed at the recent Winter AAS meeting,
-summarizes a few of …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Mon, 05 Feb 2018 14:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2018-02-05:/keplers-k2-mission-reaches-300000-standard-targets-and-200-confirmed-planets.html</guid></item><item><title>New K2 superstamp mosaic FITS files available at MAST</title><link>https://keplerscience.arc.nasa.gov/new-k2-superstamp-mosaic-fits-files-available-at-mast.html</link><description>&lt;p&gt;The K2 Guest Observer Office is excited to announce a new
+&lt;strong&gt;The number of confirmed K2 planets recently surpassed 200 and
+&lt;a href="https://exoplanetarchive.ipac.caltech.edu/docs/counts_detail.html"&gt;now stands at 212&lt;/a&gt;!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The flyer …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Mon, 05 Feb 2018 14:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2018-02-05:/keplers-k2-mission-reaches-300000-standard-targets-and-200-confirmed-planets.html</guid></item><item><title>New K2 superstamp mosaic FITS files available at MAST</title><link>https://keplerscience.arc.nasa.gov/new-k2-superstamp-mosaic-fits-files-available-at-mast.html</link><description>&lt;p&gt;The K2 Guest Observer Office is excited to announce a new
 &lt;a href="https://archive.stsci.edu/k2/hlsps.html"&gt;High Level Science Product (HLSP)&lt;/a&gt;
 available at the MAST archive.
 The HLSP – called &lt;strong&gt;&lt;a href="https://archive.stsci.edu/prepds/k2superstamp/"&gt;K2Superstamp&lt;/a&gt;&lt;/strong&gt; – consists of a series of FITS images for 
 four open star clusters observed by K2 using so-called "superstamp" pixel masks:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;M35&lt;/strong&gt;: the ~100 Myr old …&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ann Marie Cody</dc:creator><pubDate>Mon, 05 Feb 2018 14:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2018-02-05:/new-k2-superstamp-mosaic-fits-files-available-at-mast.html</guid></item><item><title>K2 Campaign 14 data release notes available</title><link>https://keplerscience.arc.nasa.gov/k2-campaign-14-data-release-notes-available.html</link><description>&lt;p&gt;The &lt;a href="/k2-data-release-notes.html#k2-campaign-14"&gt;data release notes for K2 Campaign 14&lt;/a&gt; are now available online.
+&lt;li&gt;&lt;strong&gt;M35&lt;/strong&gt;: the ~150 Myr old …&lt;/li&gt;&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ann Marie Cody</dc:creator><pubDate>Mon, 05 Feb 2018 14:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2018-02-05:/new-k2-superstamp-mosaic-fits-files-available-at-mast.html</guid></item><item><title>K2 Campaign 14 data release notes available</title><link>https://keplerscience.arc.nasa.gov/k2-campaign-14-data-release-notes-available.html</link><description>&lt;p&gt;The &lt;a href="/k2-data-release-notes.html#k2-campaign-14"&gt;data release notes for K2 Campaign 14&lt;/a&gt; are now available online.
 We encourage all users to review the notes.&lt;/p&gt;
 &lt;p&gt;In particular, we draw attention to the fact that more cadences
 than usual were flagged as "Spacecraft is not in fine point" (QUALITY flag bit #16, decimal=32768) due to …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Sun, 04 Feb 2018 12:00:00 -0800</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2018-02-04:/k2-campaign-14-data-release-notes-available.html</guid></item><item><title>K2 Campaign 17 science program now available</title><link>https://keplerscience.arc.nasa.gov/k2-campaign-17-science-program-now-available.html</link><description>&lt;p&gt;The science program and target lists for K2 Campaign 17

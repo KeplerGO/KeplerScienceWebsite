@@ -1,40 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2018-02-05T14:00:00-08:00</updated><entry><title>Kepler's K2 Mission reaches 300,000 standard targets and 200 confirmed planets</title><link href="https://keplerscience.arc.nasa.gov/keplers-k2-mission-reaches-300000-standard-targets-and-200-confirmed-planets.html" rel="alternate"></link><published>2018-02-05T14:00:00-08:00</published><updated>2018-02-05T14:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-02-05:/keplers-k2-mission-reaches-300000-standard-targets-and-200-confirmed-planets.html</id><summary type="html">&lt;p&gt;During Campaigns 0 through 14,
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2018-02-27T12:00:00-08:00</updated><entry><title>K2 Campaign 15 data processing complete</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-15-data-processing-complete.html" rel="alternate"></link><published>2018-02-27T12:00:00-08:00</published><updated>2018-02-27T12:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-02-27:/k2-campaign-15-data-processing-complete.html</id><summary type="html">&lt;p&gt;Data processing for K2 Campaign 15 is now complete
+and the pixel files and lightcurves are in the process
+of being shipped to the &lt;a href="http://archive.stsci.edu/k2"&gt;data archive at MAST&lt;/a&gt;.
+We anticipate that the data release will become available
+in the week of March 12th.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="k2-approved-programs.html#campaign-15"&gt;target list&lt;/a&gt; featured
+23,279 standard …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Data processing for K2 Campaign 15 is now complete
+and the pixel files and lightcurves are in the process
+of being shipped to the &lt;a href="http://archive.stsci.edu/k2"&gt;data archive at MAST&lt;/a&gt;.
+We anticipate that the data release will become available
+in the week of March 12th.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="k2-approved-programs.html#campaign-15"&gt;target list&lt;/a&gt; featured
+23,279 standard long cadence and 119 standard short cadence targets
+including members of the ~11 Myr-old Upper Sco cluster,
+the cataclysmic variable GW Lib,
+and the L5-type Brown Dwarf
+2MASS 1507-1627.&lt;/p&gt;
+&lt;p&gt;Keep an eye on our website for an announcement of the release
+and the associated &lt;a href="k2-data-release-notes.html"&gt;data release notes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="images/k2/k2-c15-field.png"&gt;&lt;img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c15-field.png"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>Bright supernova discovered in K2's ongoing Campaign 16</title><link href="https://keplerscience.arc.nasa.gov/bright-supernova-discovered-in-k2s-ongoing-campaign-16.html" rel="alternate"></link><published>2018-02-06T14:00:00-08:00</published><updated>2018-02-06T14:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-02-06:/bright-supernova-discovered-in-k2s-ongoing-campaign-16.html</id><summary type="html">&lt;p&gt;The ASAS-SN survey &lt;a href="http://www.astronomerstelegram.org/?read=11253"&gt;reports the discovery&lt;/a&gt;
+of a bright supernova (V=15) in a nearby galaxy
+that is currently being monitored by Kepler
+as part of its ongoing K2 Campaign 16.
+The event is named ASASSN-18bt (AT 2018oh) and is located
+at 09:06:39.6 +19:20:17.5 …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The ASAS-SN survey &lt;a href="http://www.astronomerstelegram.org/?read=11253"&gt;reports the discovery&lt;/a&gt;
+of a bright supernova (V=15) in a nearby galaxy
+that is currently being monitored by Kepler
+as part of its ongoing K2 Campaign 16.
+The event is named ASASSN-18bt (AT 2018oh) and is located
+at 09:06:39.6 +19:20:17.5 in the galaxy UGC 4780.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="https://groups.google.com/d/msg/k2sn/PZPtW6myNjs/btW_E3BIAwAJ"&gt;initial spectroscopic follow-up&lt;/a&gt; indicates that the event
+is a Type Ia supernova which is still rising
+and is several days away from reaching its maximum brightness.
+We encourage the community to continue to coordinate the follow-up
+of this unique event via the &lt;a href="https://groups.google.com/forum/#!topic/k2sn/PZPtW6myNjs"&gt;K2 Supernova Experiment Google Group&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This event is expected to yield the highest-precision lightcurve ever obtained for a supernova.&lt;/strong&gt;
+Kepler is providing a continuous 30-minute cadence view of the event
+from December 7th through February 25th,
+i.e. starting 2 months before and ending 3 weeks after the explosion.&lt;/p&gt;
+&lt;div class="thumbnail" style="width: 80%"&gt;
+&lt;div &gt;
+&lt;i&gt;Figure: spectrum of ASASSN-18bt (AT 2018oh) taken by the Hobby-Eberly Telescope at McDonald Observatory on February 5th.
+The red line shows a Type Ia reference template. (Image Credit: &lt;a href="https://twitter.com/JozsefVinko/status/960619297805668353"&gt;Jozsef Vinko&lt;/a&gt;.)&lt;/i&gt;
+&lt;/div&gt;
+&lt;a href="c16-2018oh-spectrum.jpg"&gt;&lt;img src="images/news/c16-2018oh-spectrum.jpg" class="img-responsive"&gt;&lt;/a&gt;
+&lt;/div&gt;</content></entry><entry><title>Kepler's K2 Mission reaches 300,000 standard targets and 200 confirmed planets</title><link href="https://keplerscience.arc.nasa.gov/keplers-k2-mission-reaches-300000-standard-targets-and-200-confirmed-planets.html" rel="alternate"></link><published>2018-02-05T14:00:00-08:00</published><updated>2018-02-05T14:00:00-08:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-02-05:/keplers-k2-mission-reaches-300000-standard-targets-and-200-confirmed-planets.html</id><summary type="html">&lt;p&gt;During Campaigns 0 through 14,
 the K2 mission has now targeted an estimated 297,991 objects, including
 50,159 cool dwarf stars,
 37,041 giant stars,
 40,125 galaxies,
 and 1,560 white dwarfs.
-The flyer below, which was distributed at the recent Winter AAS meeting,
-summarizes a few of …&lt;/p&gt;</summary><content type="html">&lt;p&gt;During Campaigns 0 through 14,
+&lt;strong&gt;The number of confirmed K2 planets recently surpassed 200 and
+&lt;a href="https://exoplanetarchive.ipac.caltech.edu/docs/counts_detail.html"&gt;now stands at 212&lt;/a&gt;!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The flyer …&lt;/p&gt;</summary><content type="html">&lt;p&gt;During Campaigns 0 through 14,
 the K2 mission has now targeted an estimated 297,991 objects, including
 50,159 cool dwarf stars,
 37,041 giant stars,
 40,125 galaxies,
 and 1,560 white dwarfs.
-The flyer below, which was distributed at the recent Winter AAS meeting,
+&lt;strong&gt;The number of confirmed K2 planets recently surpassed 200 and
+&lt;a href="https://exoplanetarchive.ipac.caltech.edu/docs/counts_detail.html"&gt;now stands at 212&lt;/a&gt;!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The flyer below, which was distributed at the recent Winter AAS meeting,
 summarizes a few of these statistics.&lt;/p&gt;
 &lt;p&gt;These numbers will further increase upon the upcoming data releases
-for Campaign 15 and 16 (expected by March and June).
+for Campaign 15 and 16.
 We also note that the numbers do not include the very large number of objects observed
 as part of the large "superstamps" collected towards the Galactic Bulge
 and multiple clusters.&lt;/p&gt;
-&lt;p&gt;Although the flyer below is only a few weeks old,
-the number of confirmed planets is already outdated:
-&lt;strong&gt;the K2 confirmed planets count surpassed 200 on February 5th and &lt;a href="https://exoplanetarchive.ipac.caltech.edu/docs/counts_detail.html"&gt;currently stands at 212 planets&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href="images/news/k2-by-the-numbers-dec2017.jpg"&gt;&lt;img src="images/news/k2-by-the-numbers-dec2017.jpg"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>New K2 superstamp mosaic FITS files available at MAST</title><link href="https://keplerscience.arc.nasa.gov/new-k2-superstamp-mosaic-fits-files-available-at-mast.html" rel="alternate"></link><published>2018-02-05T14:00:00-08:00</published><updated>2018-02-05T14:00:00-08:00</updated><author><name>Ann Marie Cody</name></author><id>tag:keplerscience.arc.nasa.gov,2018-02-05:/new-k2-superstamp-mosaic-fits-files-available-at-mast.html</id><summary type="html">&lt;p&gt;The K2 Guest Observer Office is excited to announce a new
 &lt;a href="https://archive.stsci.edu/k2/hlsps.html"&gt;High Level Science Product (HLSP)&lt;/a&gt;
 available at the MAST archive.
 The HLSP – called &lt;strong&gt;&lt;a href="https://archive.stsci.edu/prepds/k2superstamp/"&gt;K2Superstamp&lt;/a&gt;&lt;/strong&gt; – consists of a series of FITS images for 
 four open star clusters observed by K2 using so-called "superstamp" pixel masks:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;M35&lt;/strong&gt;: the ~100 Myr old …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;The K2 Guest Observer Office is excited to announce a new
+&lt;li&gt;&lt;strong&gt;M35&lt;/strong&gt;: the ~150 Myr old …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;The K2 Guest Observer Office is excited to announce a new
 &lt;a href="https://archive.stsci.edu/k2/hlsps.html"&gt;High Level Science Product (HLSP)&lt;/a&gt;
 available at the MAST archive.
 The HLSP – called &lt;strong&gt;&lt;a href="https://archive.stsci.edu/prepds/k2superstamp/"&gt;K2Superstamp&lt;/a&gt;&lt;/strong&gt; – consists of a series of FITS images for 
 four open star clusters observed by K2 using so-called "superstamp" pixel masks:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;M35&lt;/strong&gt;: the ~100 Myr old open cluster observed during Campaign 0.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;M35&lt;/strong&gt;: the ~150 Myr old open cluster observed during Campaign 0.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;M67&lt;/strong&gt;: the solar-age, solar-metallicity benchmark cluster observed during C5.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Ruprecht 147&lt;/strong&gt;: the ~3 Gyr-old open cluster observed during C7.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;The Lagoon Nebula (M8)&lt;/strong&gt;: the high-mass star-forming region observed during C9.&lt;/li&gt;
@@ -68,7 +113,7 @@ have now been posted on the
 &lt;a href="k2-approved-programs.html#campaign-17"&gt;approved targets &amp;amp; programs page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The target list is based on the peer review of target proposals
 submitted in response to the &lt;a href="call-for-k2-go-cycle-6-proposals-for-campaigns-17-18-and-19.html"&gt;K2 GO Cycle 6 Phase-1 opportunity&lt;/a&gt;.
-PI teams may expect to receive feedback on their proposals by the end of February.
+PI teams may expect to receive feedback on their proposals by March.
 Note that US-based investigators may be eligible to obtain funding to analyze
 the data obtained as part of this Campaign by submitting a Phase-2 proposal
 before the deadline, which is currently set for April 19, 2018,
