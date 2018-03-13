@@ -1,0 +1,13 @@
+# Summary of K2 Program GO18019
+
+Title: K2 Campaign 18: Eclipsing Cataclysmic Variables
+
+PI: Schlegel, Eric (Univ of Texas at San Antonio)
+CoIs: R. Kent Honeycutt (Indiana University)
+
+
+
+# Targets requested by this program that have been observed (2)
+EPIC,RA,Dec,Kp,InvestigationIDs
+211481740,131.11296,12.87556,14.11200,GO18002_LC|GO18005_LC|GO18013_LC|GO18019_LC|GO18034_LC|GO18056_LC|GO18013_SC|GO18019_SC
+211931594,123.23695,19.19938,16.20000,GO18002_LC|GO18013_LC|GO18019_LC|GO18019_SC

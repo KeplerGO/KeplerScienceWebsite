@@ -1,0 +1,12 @@
+# Summary of K2 Program GO18902
+
+Title: Investigating the Short Period Pulsational Variability in EPIC211910450 (HD73045)
+
+PI: Joshi, Santosh (ARIES-India)
+CoIs: 
+
+The main aim of this proposal is to investigate the δ-Sct type pulsational variability in EPIC211910450/HD73045 belonging to an open star cluster Praesepe/Beehive/M44. A fraction of metallic line (Am) stars exhibit long and short-period variability explained in terms of rotation of spots (Balona et al, 2015) and κ-mechanism operating in the HeII ionization zone (Pamyatnykh, 2000), respectively. These multi-periodic Am stars are ideally suited to probe the interior structure, rotational, chemical and evolutionary properties to test the input physics and predictions of theoretical models.
+
+# Targets requested by this program that have been observed (1)
+EPIC,RA,Dec,Kp,InvestigationIDs
+211910450,129.20001,18.88281,8.97600,GO18011_LC|GO18030_LC|GO18039_LC|GO18049_LC|GO18902_LC|GO18902_SC

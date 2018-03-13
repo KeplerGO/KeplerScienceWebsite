@@ -41,8 +41,47 @@ All campaigns to date
     </li>
   </ul>
 
-----------------------
+-----------
 
+Campaign 18
+-----------
+.. raw:: html
+
+  <p>
+    The Campaign 18 target list includes
+    <b>20,929 standard long cadence</b>
+    and <b>234 standard short cadence</b> targets
+    located towards the constellation of Cancer.
+  </p>
+
+  <p>
+     The field is almost identical to that observed during Campaign 5,
+     and overlaps substantially with Campaign 16.
+     It includes the cluster M67, which was tiled with many 40x40-pixel aperture masks to create a contiguous 400x400 pixel region over two channels.
+  </p>
+
+  <ul class="list-group">
+    <li class="list-group-item">
+      <i class="fa fa-calendar fa-margin"></i>
+      May 12, 2018 - Aug 2, 2018
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-pencil-square-o fa-margin"></i>
+      Data release notes (awaiting data release)
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-download fa-margin"></i>
+      <a href="data/campaigns/c18/K2Campaign18targets.csv">Target list (csv)</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-external-link fa-margin"></i>
+      Target pixel files (awaiting data release)
+    </li>
+  </ul>
+
+.. include:: approved-programs/c18.html
+
+-----------
 
 Campaign 17
 -----------
@@ -337,7 +376,7 @@ Campaign 15
     </li>
     <li class="list-group-item">
       <i class="fa fa-pencil-square-o fa-margin"></i>
-      Data release notes (awaiting data release)
+      Data release notes (coming soon)
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -345,7 +384,7 @@ Campaign 15
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
-      Target pixel files (awaiting data release)
+      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c15">Target pixel files (MAST)</a>
     </li>
   </ul>
 
@@ -582,7 +621,7 @@ Campaign 11
 
     <p>
     Finally, we will also observe <b>55 Trojan asteroids</b>, <b>7 Trans-Neptunian Objects</b>, and Saturn's moons <b>Titan and Enceladus</b>.
-    The trajectories of these moving bodies have been tiled using 1xn or nx1 pixel strips.
+    The trajectories of these moving bodies have been tiled using 1xn or nx1 pixel strips (EPID IDs 200147375-200147463 for Titan and 200142604-200142897 for Enceladus).
     </p>
 
     <p>

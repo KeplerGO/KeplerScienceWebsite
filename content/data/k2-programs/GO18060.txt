@@ -1,0 +1,16 @@
+# Summary of K2 Program GO18060
+
+Title: The KEGS Nearby Galaxy Survey: The Final Campaigns
+
+PI: Garnavich, Peter (Notre Dame)
+CoIs: Brad Tucker (ANU), Armin Rest (STScI), Ed Shaya (Maryland)
+
+
+
+# Targets requested by this program that have been observed (5)
+EPIC,RA,Dec,Kp,InvestigationIDs
+200233197,,,,GO18059_LC|GO18060_LC|LC_CUSTOM_LARGE_GALAXIES
+200233198,,,,GO18059_LC|GO18060_LC|LC_CUSTOM_LARGE_GALAXIES
+200233199,,,,GO18059_LC|GO18060_LC|GO18065_LC|LC_CUSTOM_LARGE_GALAXIES
+200233200,,,,GO18059_LC|GO18060_LC|LC_CUSTOM_LARGE_GALAXIES
+200233201,,,,GO18059_LC|GO18060_LC|LC_CUSTOM_LARGE_GALAXIES
