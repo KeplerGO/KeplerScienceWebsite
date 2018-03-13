@@ -11,7 +11,8 @@ The [target list](k2-approved-programs.html#campaign-14) featured
 including Wolf-359, WASP-104, and rho Leo,
 alongside a number of large galaxies (e.g. M95, M96, M105) and Solar System objects.
 
-Keep an eye on our website for an announcement of the release
-and the associated [data release notes](k2-data-release-notes.html).
+As usual, we strongly encourage users to read the
+[accompanying data release notes](k2-data-release-notes.html#k2-campaign-14)
+carefully.
 
 <a href="images/k2/k2-c14-field.png"><img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c14-field.png"></a>
