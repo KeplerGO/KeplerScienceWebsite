@@ -1,0 +1,12 @@
+# Summary of K2 Program GO19042
+
+Title: K2’s Final Look Beyond Neptune
+
+PI: Pal, Andras (Konkoly Observatory)
+CoIs: Laszlo Molnar, Csaba Kiss, Otto Hanyecz (Konkoly Observatory), Thomas Muller (Max-Planck-Institut fur extraterrestrische Physik, Garching)
+
+
+
+# Targets requested by this program that have been observed (1)
+EPIC,RA,Dec,Kp,InvestigationIDs
+TBC,,,,GO19028_LC|GO19031_LC|GO19042_LC

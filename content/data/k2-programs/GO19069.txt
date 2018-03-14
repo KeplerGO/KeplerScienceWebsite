@@ -1,0 +1,12 @@
+# Summary of K2 Program GO19069
+
+Title: Neptune and Triton Atmospheric Dynamics
+
+PI: Smith, Heather (KIPR NASA ARC)
+CoIs: 
+
+
+
+# Targets requested by this program that have been observed (1)
+EPIC,RA,Dec,Kp,InvestigationIDs
+NEPTUNE,,,,GO19009_SC|GO19041_SC|GO19061_LC|GO19069_LC

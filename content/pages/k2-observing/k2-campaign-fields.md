@@ -345,7 +345,7 @@ This page details the previous, current, and future K2 Campaign fields.
       <td>08:40:39</td>
       <td>+16:49:40</td>
       <td class="text-center">
-
+        <a href="k2-approved-programs.html#campaign-18"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
 
@@ -360,12 +360,12 @@ This page details the previous, current, and future K2 Campaign fields.
       <td>23:09:02</td>
       <td>-04:12:10</td>
       <td class="text-center">
-
+        <a href="k2-approved-programs.html#campaign-19"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
 
       </td>
-      <td>Trappist-1, Neptune.</td>
+      <td>Trappist-1, GJ 9827, Neptune.</td>
     </tr>
   </tdata>
 </table>

@@ -1,0 +1,12 @@
+# Summary of K2 Program GO19034
+
+Title: Stellar Pulsations in Eclipsing-Binary Systems
+
+PI: Gaulme, Patrick (New Mexico State)
+CoIs: Jason Jackiewicz, New Mexico State U., Joyce Guzik, Los Alamos National Laboratory
+
+
+
+# Targets requested by this program that have been observed (1)
+EPIC,RA,Dec,Kp,InvestigationIDs
+246421858,344.72052,-0.31594,8.27800,GO19034_LC|GO19051_LC

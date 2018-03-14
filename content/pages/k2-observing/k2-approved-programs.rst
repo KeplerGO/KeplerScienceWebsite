@@ -41,6 +41,28 @@ All campaigns to date
     </li>
   </ul>
 
+
+-----------
+
+Campaign 19 (preliminary)
+-------------------------
+.. raw:: html
+
+  <p>
+    The preliminary Campaign 19 target list includes
+    <b>13,353 standard long cadence</b>
+    and <b>88 standard short cadence</b> targets
+    located towards the constellation of Aquarius.
+    Short cadence highlights include Trappist-1, GJ 9827,
+    and the planet Neptune.
+  </p>
+  <p>
+    The final list of targets will be available by July 2018 and is expected to include all targets from the preliminary list, save a small number of targets which prove to be unobservable due to falling close to the edge of the field of view.
+    Spare pixels will be allocated as instructed by the review panels.
+  </p>
+
+.. include:: approved-programs/c19.html
+
 -----------
 
 Campaign 18

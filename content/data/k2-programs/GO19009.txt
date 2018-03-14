@@ -1,0 +1,12 @@
+# Summary of K2 Program GO19009
+
+Title: Multi-Wavelength Characterization of Neptune’s Rotational Brightness Variability
+
+PI: Garcıa-Munoz, Antonio (TU Berlin)
+CoIs: B.-O. Demory (U. Bern, Switzerland), M. Lendl (Space Research Institute, Austria), R.Hueso & A. Sanchez-Lavega (UPV/EHU, Spain)
+
+
+
+# Targets requested by this program that have been observed (1)
+EPIC,RA,Dec,Kp,InvestigationIDs
+NEPTUNE,,,,GO19009_SC|GO19041_SC|GO19061_LC|GO19069_LC

@@ -1,0 +1,12 @@
+# Summary of K2 Program GO19021
+
+Title: Dynamical Masses and Additional Companions in the TRAPPIST-1 System, Part II
+
+PI: Demory, Brice-Olivier (University of Bern)
+CoIs: M.Sestovic (Bern), S.Grimm (Bern), M.Gillon (Liege), E.Agol (UW), E.Jehin (Liege),V.Van Grootel (Liege), A.Burgasser (UCSC), S. Lederer (NASA JSC), M.Turbet (LMD), R.Luger(UW), J.Ingalls (IPAC), J. de Wit (MIT), E.Kruse (UW), D.Holdsworth
+
+
+
+# Targets requested by this program that have been observed (1)
+EPIC,RA,Dec,Kp,InvestigationIDs
+246199087,346.62200,-5.04127,12.91700,GO19006_LC|GO19021_LC|GO19025_LC|GO19027_LC|GO19038_LC|GO19052_LC|GO19057_LC|GO19063_LC|GO19068_LC

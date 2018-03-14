@@ -1,0 +1,17 @@
+# Summary of K2 Program GO19012
+
+Title: Characterization of Be stars in Kepler K2 fields 17,18 and 19
+
+PI: Emilio, Marcelo (Universidade Estadual de Ponta Grossa)
+CoIs: Laerte Andrade (Universidade Estadual de Ponta Grossa), Eduardo Janot Pacheco (Universidade de Sao Paulo)
+
+
+
+# Targets requested by this program that have been observed (6)
+EPIC,RA,Dec,Kp,InvestigationIDs
+245989196,350.46190,-9.76139,7.84700,GO19011_LC|GO19012_LC
+245995103,349.74033,-9.61075,5.13200,GO19012_LC|GO19038_LC|GO19049_LC|GO19051_LC
+246011823,349.47590,-9.18252,4.57100,GO19012_LC|GO19051_LC
+246022249,350.16202,-8.91959,7.99800,GO19011_LC|GO19012_LC|GO19049_LC
+246063873,346.46887,-7.93671,6.81500,GO19011_LC|GO19012_LC|GO19049_LC
+246320565,353.79248,-2.65143,11.67300,GO19012_LC

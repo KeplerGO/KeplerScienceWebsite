@@ -1,0 +1,12 @@
+# Summary of K2 Program GO19061
+
+Title: Observations of Neptune’s haze during solar minimum
+
+PI: Trafton, Laurence (University of Texas at Austin)
+CoIs: 
+
+
+
+# Targets requested by this program that have been observed (1)
+EPIC,RA,Dec,Kp,InvestigationIDs
+NEPTUNE,,,,GO19009_SC|GO19041_SC|GO19061_LC|GO19069_LC
