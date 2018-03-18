@@ -19,7 +19,8 @@ Highlights include:
 <li><b>asteroid Ryugu</b>, due to be visited by the <a href="http://global.jaxa.jp/projects/sat/hayabusa2/">Japanese Hyabusa 2 sample return mission</a> this summer.</li>
 </ul>
 
-Users are encouraged to contact and cite the [teams who proposed the observations](k2-approved-programs.html#campaign-15).
+Users are encouraged to contact, cite, and collaborate with the
+[teams who proposed the observations](k2-approved-programs.html#campaign-15).
 We also encourage users to carefully review the associated
 [data release notes](k2-data-release-notes.html),
 which are expected to become available soon.
