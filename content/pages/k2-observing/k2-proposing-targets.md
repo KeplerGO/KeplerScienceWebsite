@@ -293,7 +293,7 @@ Note:
   funding amounts will be determined formulaically based on target
   allocation.
   * As part of the NSPIRES submission, the system will request a **mandatory
-  Data Management Plan** (DMP).  Proposers are encouraged to explain how the results, data, and source code produced by the investigation will be shared with the public as part of this plan.  Guidance on the DMP can be found at
+  Data Management Plan** (4000 characters).  Proposers are encouraged to explain how the results, data, and source code produced by the investigation will be shared with the public as part of this plan.  Guidance on the Data Management Plan requirement can be found at
 <a href="https://go.nasa.gov/ROSESDMP">https://go.nasa.gov/ROSESDMP</a>.
    * Large proposals that anticipate delivery of a data product/products
   to one of the NASA archives (e.g., MAST or the NASA Exoplanet
@@ -563,6 +563,17 @@ Target lists for each of these fields can be found on the
 K2 GO Cycle 6 Phase-2 proposals may only use targets that are listed on the
 <a href="k2-approved-programs.html">K2 approved targets & programs</a> page
 for Campaigns 17, 18, or 19.
+
+* **What will happen if Kepler runs out of fuel during Campaign 17, 18, or 19?**<br/>
+We currently expect that all eligible Cycle 6 proposals will be funded, subject to ratification by NASA Headquarters.
+Proposers may wish to clarify, as part of their proposal,
+to which degree the scientific objectives can be met using data from
+Campaigns 17 or 18 alone.
+
+* **What are the coordinates of the M67 superstamp being observed in Campaign 18?**<br/>
+The core the M67 is being observed in Campaign 18 using a 440-by-440px rectangular superstamp bounded by the following (ra, dec) coordinates:
+(132.62127, +11.60638), (132.63373 +12.04799), (133.07230 +11.59396), (133.08535 +12.03555).
+
 <!--
   In order to avoid inefficiency for proposers, you are encouraged to
   use the <a href="software.html#k2fov">K2fov tool</a> to
