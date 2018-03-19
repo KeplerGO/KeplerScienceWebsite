@@ -297,7 +297,7 @@ Note:
 <a href="https://go.nasa.gov/ROSESDMP">https://go.nasa.gov/ROSESDMP</a>.
    * Large proposals that anticipate delivery of a data product/products
   to one of the NASA archives (e.g., MAST or the NASA Exoplanet
-  Database) for curation must also include a letter of acknowledgement from
+  Archive) for curation must also include a letter of acknowledgement from
   the relevant archive.
 
 
