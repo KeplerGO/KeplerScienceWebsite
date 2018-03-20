@@ -37,4 +37,6 @@ The development [takes place on GitHub](https://github.com/KeplerGO/lightkurve)
 and everyone is [invited to contribute](http://lightkurve.keplerscience.org/contributing.html).
 It replaces the existing [PyKE](http://pyke.keplerscience.org) suite of command-line tools, which will slowly be migrated to become the command-line interface for the lightkurve package.
 
+The animation below illustrates some of the features provided by lightkurve:
+
 <a href="http://lightkurve.keplerscience.org/_images/lightkurve-teaser.gif"><img src="http://lightkurve.keplerscience.org/_images/lightkurve-teaser.gif"></a>
