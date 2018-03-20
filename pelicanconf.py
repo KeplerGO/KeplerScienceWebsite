@@ -121,8 +121,8 @@ IMPORTANT_DATES = (
             ('<b>12 Apr 2018</b>',
              'K2 Campaign 19 DDT proposals due',
              'k2-ddt.html'),
-            ('<b>19 Apr 2018</b>',
-             'GO Cycle 6 Phase-2 deadline:<br/>funding proposals due for Campaigns 17-19',
+            ('<b class="text-danger">19 Apr 2018</b>',
+             '<div class="text-danger">GO Cycle 6 Phase-2 deadline:<br/>funding proposals due for Campaigns 17-19</div>',
              'k2-proposing-targets.html'),
          )
 

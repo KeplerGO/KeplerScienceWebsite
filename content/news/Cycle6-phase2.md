@@ -27,7 +27,7 @@ on this website.
 
 Compared to previous K2 GO Cycles, we draw attention to the following changes:
 
-* Phase-2 proposals are limited to use observations for targets which have already been selected to be observed during K2 Campaigns 17, 18, or 19, i.e. which are listed on the <a href="k2-approved-programs.html">K2 approved targets & programs</a>.  The target lists for these Campaigns have already been established based on the peer review of Phase-1 proposals.
+* Phase-2 proposals are limited to use observations for targets which have already been selected to be observed during K2 Campaigns 17, 18, or 19, i.e. which are listed on the <a href="k2-approved-programs.html">K2 approved targets & programs</a> page.  The target lists for these Campaigns have already been established based on the peer review of Phase-1 proposals.
 
 * Any team may submit a Phase-2 proposal using any of the targets that appear in the target lists of Campaigns 17, 18, or 19.
 A Phase-1 submission is not mandatory to qualify for Phase-2.
