@@ -123,6 +123,9 @@ QUALITY flag bit #3 as an indicator of poor spacecraft pointing.
 </div>
 
 <br>
+***Coronoal Mass Ejections (CMEs) During Observations***
+
+<br>
 ***Light Curve Quality***
 
 As in previous campaigns, the 6-hour spacecraft roll cycle continues
