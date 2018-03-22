@@ -9,6 +9,31 @@ For more information about the Kepler pipeline see the Kepler manuals: <a href="
 
 Information about each specific campaign can be found in the links associated with each data release. 
 
+### Data Release 21
+
+* March 2018
+* SOC 9.3
+* Campaigns: [C15](k2-data-release-notes.html#k2-campaign-15)
+
+This is the first delivery of C15. There have been some pipeline changes put in place for this
+delivery that are designed to support the uniform reprocessing of all K2 campaigns. The
+changes include activating the dynamic black correction algorithm used during Kepler data processing,
+producing short cadence light curves, correcting bugs in the processing. Details of each change are given below.
+For additional information about the content of this delivery see the previous Release Notes
+below.
+
+Pipeline changes put in place for Data Release 21:
+
+1. Dynablack:
+
+2. Short Cadence light curves:
+
+3. FFI interpolation bug fix:
+
+4. Use of coarse point flag for data gapping:
+
+<hr>
+
 ### Data Release 20
 
 * December 2017
