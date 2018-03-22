@@ -54,6 +54,7 @@ the scientific exploitation of the data.
 <div class="col-lg-7">
 
 
+
 <div class="thumbnail">
 <div class="caption">
 <i>Figure C15-FOV: Schematic of Kepler's C15 field-of-view with high profile objects. </i>
@@ -136,7 +137,13 @@ campaigns).
 
 The magnitude dependence of CDPP and its distribution over the focal
 plane are shown below. Other CDPP benchmarks can be found in the
-<a href="images/release-notes/c15/c15_bin1.00_sc1.00_CDPP_Summary_18020113.txt">
+<a href="images/release-notes/c15/c15_bin1.0<b><i>Pointing</i></b>
+<ul>
+<li> RA:  160.6824762</li>
+<li> Dec:  6.8509316</li>
+<li> Roll:  158.7573464</li>
+</ul>
+0_sc1.00_CDPP_Summary_18020113.txt">
 table giving 6.5-hr CDPP as a function of magnitude.</a>
 <br>
 <div class="thumbnail" style="width: 90%;">
@@ -156,8 +163,10 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 </div>
 </div>
 
-<br>
-***Short Cadence Light Curves***
+# I think we can leave the SC light curves out of it for now - will add after TTR official approval
+# <br>
+# ***Short Cadence Light Curves***
+
 
 <br>
 ***Targets with incorrect flux scaling***
