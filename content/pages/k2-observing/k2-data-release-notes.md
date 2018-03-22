@@ -11,7 +11,6 @@ the scientific exploitation of the data.
 
 # K2 Campaign 15
 
-
 <h2>At a glance</h2>
 
 <div class="col-lg-5">
