@@ -13,9 +13,9 @@ These are *not* the project's true data products:
 by late May, the routine pipeline processing of the K2 data will be completed
 and vetted, and the fully calibrated data made available.
 
-We encourage our community to share their 
+We encourage our community to share their
 understanding of the raw data with the public by blogging or tweeting
-tutorials and analyses. 
+tutorials and analyses.
 This public TRAPPIST-1 data set offers a unique opportunity
 to let a wider audience witness the process scientific discovery.
 
@@ -33,7 +33,7 @@ In particular:
 
 * the raw data are not flat-fielded, bias-subtracted, or smear-corrected;
 * cadences of poor quality, e.g. due to thruster firings, are not flagged;
-* the data are formatted in a non-standard way 
+* the data are formatted in a non-standard way
 and [require reformatting](https://github.com/KeplerGO/kadenza).
 
 Moreover, during Campaign 12, a cosmic ray event reset
@@ -70,12 +70,12 @@ and not all header keywords are populated**.
 A [quick-look lightcurve](https://github.com/mrtommyb/trappist-lc/blob/master/TRAPPIST-1-transit-code.ipynb) of the long cadence data for TRAPPIST-1
 reveals sinusoidal patterns due to star spots, and at least 6 planets:
 
-<a href="https://github.com/mrtommyb/trappist-lc/blob/master/TRAPPIST-1-transit-code.ipynb" style="border:none;"><img src="images/news/trappist1-quicklook-lightcurve.png"></a>
+<a href="https://github.com/mrtommyb/trappist-lc/blob/master/TRAPPIST-1-transit-code.ipynb" style="border:none;"><img src="images/news/trappist1-quicklook-lightcurve.png" alt="Trappist 1"></a>
 
-<a href="https://github.com/mrtommyb/trappist-lc/blob/master/TRAPPIST-1-transit-code.ipynb"><img src="images/news/trappist1-quicklook-planets.png"></a>
+<a href="https://github.com/mrtommyb/trappist-lc/blob/master/TRAPPIST-1-transit-code.ipynb"><img src="images/news/trappist1-quicklook-planets.png" alt="Trappist 1 quicklook"></a>
 
 The pseudo Target Pixel Files above can also be converted into movies
 using the [k2flix tool](http://barentsen.github.io/k2flix/),
 which shows TRAPPIST-1 to be at the center of the target mask:
 
-<img src="images/news/trappist1-mask.gif">
+<img src="images/news/trappist1-mask.gif" alt="Trappist 1 mask">

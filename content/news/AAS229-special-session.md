@@ -15,7 +15,7 @@ about present and future science opportunities with K2 and TESS.
 The schedule is as follows:
 
  - 7:30pm: K2 Mission Update – <i>Jessie Dotson, NASA Ames</i>
- - 7:40pm: K2 Campaigns 16 & 17 Supernova Cosmology Experiment – <i>Armin Rest, STScI</i> 
+ - 7:40pm: K2 Campaigns 16 & 17 Supernova Cosmology Experiment – <i>Armin Rest, STScI</i>
  - 7:50pm: K2 Campaign 9 Microlensing Experiment –
    <i>Calen Henderson, JPL/Caltech</i>
  - 8:00pm: TESS Mission Update & Overview – <i>George Ricker, MIT</i>
@@ -32,5 +32,4 @@ and the missions will also operate a booth in the exhibit hall.
 
 (PS: Come early if you like warm pretzels!)
 
-<a href='images/news/aas2017-k2-tess-splinter-meeting.jpg'><img src='images/news/aas2017-k2-tess-splinter-meeting.jpg' class='img-responsive'></a>
-
+<a href='images/news/aas2017-k2-tess-splinter-meeting.jpg'><img src='images/news/aas2017-k2-tess-splinter-meeting.jpg' alt="AAS 2017 splinter session" class='img-responsive'></a>

@@ -26,5 +26,5 @@ i.e. starting 2 months before and ending 3 weeks after the explosion.
 <i>Figure: spectrum of ASASSN-18bt (AT 2018oh) taken by the Hobby-Eberly Telescope at McDonald Observatory on February 5th.
 The red line shows a Type Ia reference template. (Image Credit: <a href="https://twitter.com/JozsefVinko/status/960619297805668353">Jozsef Vinko</a>.)</i>
 </div>
-<a href="c16-2018oh-spectrum.jpg"><img src="images/news/c16-2018oh-spectrum.jpg" class="img-responsive"></a>
+<a href="c16-2018oh-spectrum.jpg"><img src="images/news/c16-2018oh-spectrum.jpg" class="img-responsive" alt="C16 SN2018oh spectrum"></a>
 </div>

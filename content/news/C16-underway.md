@@ -20,4 +20,4 @@ as a [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1ymIEoUyX0ZE8sK
 The cartoon below highlights some of the most notable science programs
 being executed during this Campaign.
 
-<a href="https://www.nasa.gov/feature/ames/kepler-s-gaze-shifts-toward-new-targets-supernovae-the-beehive-cluster-and-earth"><img src="/images/news/c16cartoon300dpi-full.jpg"></a>
+<a href="https://www.nasa.gov/feature/ames/kepler-s-gaze-shifts-toward-new-targets-supernovae-the-beehive-cluster-and-earth"><img src="/images/news/c16cartoon300dpi-full.jpg" alt="K2 C16 Cartoon"></a>

@@ -6,7 +6,7 @@ Proposals for targets to be observed by K2 in Campaigns 14, 15, and 16
 are currently being solicited as part of [K2 Guest Observer Cycle 5](k2-proposing-targets.html),
 with Step 1 submissions due on **November 3, 2016**.
 
-The [fields of these campaigns](k2-fields.html) 
+The [fields of these campaigns](k2-fields.html)
 will cover roughly 100 square degrees each towards the
 constellations of Leo (C14), Libra (C15), and Cancer (C16).
 To help inspire observing proposals,
@@ -78,9 +78,9 @@ Notable targets include:
 Field 16 (RA 9h, Dec +19°) is located at a moderate Galactic Latitude (+35°)
 towards the constellation of Cancer. About 30% of the field overlaps with the previous Campaign 5.
 
-The field shows very low foreground extinction (Av ~0.2 mag) 
+The field shows very low foreground extinction (Av ~0.2 mag)
 which makes it well-suited for extragalactic and supernova science.
-This field will be observed in the spacecraft's forward-facing direction, enabling simultaneous observations to be made from the ground 
+This field will be observed in the spacecraft's forward-facing direction, enabling simultaneous observations to be made from the ground
 at the cost of having the bright Earth pass through the field.
 
 Notable objects include:

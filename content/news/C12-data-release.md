@@ -5,7 +5,7 @@ Author: Geert Barentsen
 The pipeline-processed data for
 [K2 Campaign 12](k2-approved-programs.html#campaign-12)
 are now available for download
-from the [K2 archive at MAST](http://archive.stsci.edu/k2). 
+from the [K2 archive at MAST](http://archive.stsci.edu/k2).
 
 The Campaign 12 target list included <b>29,221 standard long cadence</b>
 and <b>141 standard short cadence</b> targets,
@@ -17,4 +17,4 @@ alongside <b>minor planet Chiron</b> (IDs 200164175–200164266 for long cadence
 We strongly encourage users to read the [C12 data release notes](/k2-data-release-notes.html#k2-campaign-12) carefully.
 In particular, users should be aware that planet Mars passed through the focal plane during the Campaign, introducing significant saturation, scattered light, and video crosstalk in multiple channels over a period of three weeks.
 
-<a href="images/k2/k2-c12-field.png"><img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c12-field.png"></a>
+<a href="images/k2/k2-c12-field.png"><img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c12-field.png" alt="K2 C12 Field"></a>

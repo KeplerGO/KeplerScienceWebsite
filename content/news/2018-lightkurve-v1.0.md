@@ -39,4 +39,4 @@ It replaces the existing [PyKE](http://pyke.keplerscience.org) suite of command-
 
 The animation below illustrates some of the features provided by lightkurve:
 
-<a href="http://lightkurve.keplerscience.org/_images/lightkurve-teaser.gif"><img src="http://lightkurve.keplerscience.org/_images/lightkurve-teaser.gif"></a>
+<a href="http://lightkurve.keplerscience.org/_images/lightkurve-teaser.gif"><img src="http://lightkurve.keplerscience.org/_images/lightkurve-teaser.gif" alt="lightkurve animation"></a>

@@ -34,10 +34,10 @@ Notable targets include:
   </li>
   <li>
     <b>6 comets</b>: 17P, 202P, 331P, 50P, P2010 TO20, and P2016 A3;
-  </li> 
+  </li>
   <li>
     <b>1 main-belt asteroid</b>: 373 Melusina.
   </li>
 </ul>
 
-<a href="images/k2/k2-c14-field.png"><img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c14-field.png"></a>
+<a href="images/k2/k2-c14-field.png"><img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c14-field.png" alt="K2 C14 field"></a>

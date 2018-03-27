@@ -16,4 +16,4 @@ and a large number of asteroids and galaxies.
 Keep an eye on our website for an announcement of the release
 and the associated [data release notes](k2-data-release-notes.html).
 
-<a href="images/k2/k2-c12-field.png"><img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c12-field.png"></a>
+<a href="images/k2/k2-c12-field.png"><img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c12-field.png" alt="K2-C12 field"></a>

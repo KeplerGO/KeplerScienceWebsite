@@ -25,5 +25,4 @@ We also encourage users to carefully review the associated
 [data release notes](k2-data-release-notes.html),
 which are expected to become available soon.
 
-<a href="images/k2/k2-c15-field.png"><img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c15-field.png"></a>
-
+<a href="images/k2/k2-c15-field.png"><img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c15-field.png" alt="K2 C15 Field"></a>

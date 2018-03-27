@@ -19,7 +19,7 @@ as well as enabling dozens of known K2 planet candidates to be revisited.
 The field also provides access to ~20 deg<sup>2</sup> of previously unexplored sky.
 
 <b>Campaign 18</b> (May 12 - Aug 2, 2018) will be a backward-facing campaign dedicated to revisit Campaign 5 and substantially overlap Campaign 16.
-The third visit to this key part of the sky that contains the M44 and M67 
+The third visit to this key part of the sky that contains the M44 and M67
 clusters will enable users to study benchmark targets with a 3-year baseline and 8-month duty cycle, enabling "original Kepler mission"-like science
 at a Galactic sightline that is located 130 degrees away from the original Kepler field in Cygnus.
 Alongside M44 and M67, the field provides access to HIP 41378 (a 5-planet system around a 9th magnitude star),
@@ -38,13 +38,13 @@ The following graphs illustrate the exact field placement:
 
 <div clas="row">
 <div class="col-sm-4">
-<a href="images/k2/k2-c17-field.png"><img src="images/k2/k2-c17-field.png" style="margin: 2px;" class="img-responsive"></a>
+<a href="images/k2/k2-c17-field.png"><img src="images/k2/k2-c17-field.png" alt="K2 C17 Field" style="margin: 2px;" class="img-responsive"></a>
 </div>
 <div class="col-sm-4">
-<a href="images/k2/k2-c18-field.png"><img src="images/k2/k2-c18-field.png" style="margin: 2px;"></a>
+<a href="images/k2/k2-c18-field.png"><img src="images/k2/k2-c18-field.png" alt="C18 Field" style="margin: 2px;"></a>
 </div>
 <div class="col-sm-4">
-<a href="images/k2/k2-c19-field.png"><img src="images/k2/k2-c19-field.png" style="margin: 2px;" class="img-responsive"></a>
+<a href="images/k2/k2-c19-field.png"><img src="images/k2/k2-c19-field.png" alt="C19 Field" style="margin: 2px;" class="img-responsive"></a>
 </div>
 </div>
 
@@ -54,7 +54,7 @@ The following graphs illustrate the exact field placement:
 Finally, the graph below shows their position relative to all twenty K2 Campaigns:
 
 <div class="row">
-<a href="images/k2/footprint-all-campaigns.png"><img src="images/k2/footprint-all-campaigns.png"></a>
+<a href="images/k2/footprint-all-campaigns.png"><img src="images/k2/footprint-all-campaigns.png" alt="Footprint all campaigns"></a>
 </div>
 
 Additional details of all fields can be found on the [K2 Campaign fields page](k2-fields.html).
