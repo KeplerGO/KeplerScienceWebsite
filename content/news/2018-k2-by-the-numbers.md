@@ -20,4 +20,4 @@ We also note that the numbers do not include the very large number of objects ob
 as part of the large "superstamps" collected towards the Galactic Bulge
 and multiple clusters.
 
-<a href="images/news/k2-by-the-numbers-dec2017.jpg"><img src="images/news/k2-by-the-numbers-dec2017.jpg"></a>
+<a href="images/news/k2-by-the-numbers-dec2017.jpg"><img src="images/news/k2-by-the-numbers-dec2017.jpg" alt="K2 by the numbers"></a>

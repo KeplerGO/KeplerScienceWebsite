@@ -56,4 +56,4 @@ Targets being observed in <b>short cadence</b> include:
 
 The figure below illustrates the location of the field and its notable targets.
 
-<a href="images/k2/k2-c17-field.png"><img class="img-responsive" style="max-width:500px;" src="images/k2/k2-c17-field.png"></a>
+<a href="images/k2/k2-c17-field.png"><img class="img-responsive" style="max-width:500px;" src="images/k2/k2-c17-field.png" alt="K2 C17 Field"></a>

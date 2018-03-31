@@ -54,4 +54,4 @@ the long saturation columns which tend to bleed off silicon.
 Nine bright Hyades members are also being observed in short cadence
 using a similar custom mask.
 
-<a href="images/k2/k2-c13-field.png"><img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c13-field.png"></a>
+<a href="images/k2/k2-c13-field.png"><img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c13-field.png" alt="K2 C13 field "></a>

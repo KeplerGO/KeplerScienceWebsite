@@ -12,13 +12,13 @@ have now been posted on the
     The target list includes 29,888 standard long cadence
     and 129 standard short cadence targets
     located towards the constellation of Cancer.
-    The list includes <b>20,647 stars alongside 
+    The list includes <b>20,647 stars alongside
     9,241 galaxies for the <a href="supernova-experiment">supernova experiment</a></b>.
 </p>
 <p>
     Uniquely, the spacecraft will be pointing along the forward-facing direction
     of the spacecraft's velocity vector during this Campaign,
-    which <b>allows the field to be accessed from Earth</b>. 
+    which <b>allows the field to be accessed from Earth</b>.
     This enables K2's single-bandpass photometry
     to be complemented with simultaneous observations from the ground,
     an opportunity that is being utilised by many of the selected programs,
@@ -92,6 +92,6 @@ have now been posted on the
 The figures below illustrates the location of the field and its notable targets.
 </p>
 
-<a href="images/k2/k2-c16-geometry.png"><img class="img-responsive" style="max-width:500px; float:left;" src="images/k2/k2-c16-geometry.png"></a>
+<a href="images/k2/k2-c16-geometry.png"><img class="img-responsive" style="max-width:500px; float:left;" src="images/k2/k2-c16-geometry.png" alt="K2 C16 geometry"></a>
 
-<a href="images/k2/k2-c16-field.png"><img class="img-responsive" style="max-width:500px; float:left; margin-left:1em;" src="images/k2/k2-c16-field.png"></a>
+<a href="images/k2/k2-c16-field.png"><img class="img-responsive" style="max-width:500px; float:left; margin-left:1em;" src="images/k2/k2-c16-field.png" alt="K2 C16 Field"></a>

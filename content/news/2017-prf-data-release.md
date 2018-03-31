@@ -2,7 +2,7 @@ Title: Release of dithered data obtained during Kepler commissioning
 Date: 2017-04-16 03:00
 Author: Geert Barentsen
 
-During Kepler’s commissioning phase in April 2009, 
+During Kepler’s commissioning phase in April 2009,
 the spacecraft observed 33,424 stars in a dither pattern
 for the purpose of measuring the Pixel Response Function (PRF).
 The pattern consisted of 122 pointings, each with a
@@ -30,7 +30,7 @@ The graph elucidates the dither pattern (Figure 3 from [Bryson et al. 2011](http
 
 
 <a href="/images/news/kepler-prf-dither-example.gif">
-<img class="img-responsive" src="/images/news/kepler-prf-dither-example.gif" style="max-width:350px; float: left; padding:2em;"></a>
+<img class="img-responsive" src="/images/news/kepler-prf-dither-example.gif" alt="PRF dither" style="max-width:350px; float: left; padding:2em;"></a>
 
 <a href="/images/news/kepler-prf-dither-pattern.png">
-<img class="img-responsive" src="/images/news/kepler-prf-dither-pattern.png" style="max-width:500px; float: left; padding:2em;"></a>
+<img class="img-responsive" src="/images/news/kepler-prf-dither-pattern.png" alt="PRF dither pattern" style="max-width:500px; float: left; padding:2em;"></a>

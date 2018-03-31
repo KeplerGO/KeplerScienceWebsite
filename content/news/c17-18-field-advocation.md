@@ -79,7 +79,7 @@ due to its partial overlap in observing geometry with C16.
   </div>
 
 <a href="images/k2/k2-c17-options.gif">
-<img src="images/k2/k2-c17-options.gif" style="max-width:40em;">
+<img src="images/k2/k2-c17-options.gif" alt="C17 options" style="max-width:40em;">
 </a>
 
 
@@ -140,7 +140,7 @@ the following options listed below in the case of a forward-facing field:
   </div>
 
 <a href="images/k2/k2-c18-forward-options.gif">
-<img src="images/k2/k2-c18-forward-options.gif" style="max-width:40em;">
+<img src="images/k2/k2-c18-forward-options.gif" alt="C18 Forward Options" style="max-width:40em;">
 </a>
 
 <hr>
@@ -194,7 +194,7 @@ simultaneous observations from the ground would be challenging:
   </div>
 
 <a href="images/k2/k2-c18-backward-options.gif">
-<img src="images/k2/k2-c18-backward-options.gif" style="max-width:40em;">
+<img src="images/k2/k2-c18-backward-options.gif" alt="C18 Backward Option" style="max-width:40em;">
 </a>
 
 <hr>
@@ -206,4 +206,3 @@ The above field options have been configured in the [GitHub version of K2fov](ht
 * 171, 172, 173 (C17);
 * 181, 182, 183 (C18 forward-facing);
 * 184, 185, 186 (C18 backward-facing).
-

@@ -15,7 +15,7 @@ about the present and future science opportunities with K2 and TESS.
 The schedule is as follows:
 
  - 7:30pm: K2 Mission Update – <i>Jessie Dotson, NASA Ames</i>
- - 7:40pm: TESS Mission Update – <i>George Ricker, MIT</i> 
+ - 7:40pm: TESS Mission Update – <i>George Ricker, MIT</i>
  - 7:50pm: K2 & TESS Data Resources and Tools –
    <i>Susan Mullally (STScI) & Christina Hedges (NASA Ames)</i>
  - 8:00pm: Star Clusters & Young Planets – <i>Andrew Mann, Columbia University</i>
@@ -29,5 +29,4 @@ talks and posters](keplerk2-at-the-aas-231-january-2018-washington-dc.html)
 will be presented during the meeting,
 and members of the missions will be part of NASA's Exoplanets Booth in the exhibit hall.
 
-<a href='images/news/aas231-splinter-meeting.jpg'><img src='images/news/aas231-splinter-meeting.jpg' class='img-responsive'></a>
-
+<a href='images/news/aas231-splinter-meeting.jpg'><img src='images/news/aas231-splinter-meeting.jpg' alt="AAS231 splinter session" class='img-responsive'></a>

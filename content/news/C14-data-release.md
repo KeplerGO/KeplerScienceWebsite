@@ -15,4 +15,4 @@ As usual, we strongly encourage users to read the
 [accompanying data release notes](k2-data-release-notes.html#k2-campaign-14)
 carefully.
 
-<a href="images/k2/k2-c14-field.png"><img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c14-field.png"></a>
+<a href="images/k2/k2-c14-field.png"><img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c14-field.png" alt="K2 C14 field"></a>

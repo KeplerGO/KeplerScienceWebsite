@@ -71,4 +71,4 @@ and <b>119 standard short cadence</b> stars.
 
 The figure below illustrates the location of the field and its notable targets.
 
-<a href="images/k2/k2-c15-field.png"><img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c15-field.png"></a>
+<a href="images/k2/k2-c15-field.png"><img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c15-field.png" alt="K2 C15 field"></a>

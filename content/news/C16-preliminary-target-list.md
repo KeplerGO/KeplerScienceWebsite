@@ -46,6 +46,6 @@ which makes it well-suited for extragalactic
 and [supernova science](supernova-experiment/).
 The field also contains the well-known clusters M44 (Beehive) and M67.
 
-<a href="images/k2/k2-c16-geometry.png"><img class="img-responsive" style="max-width:500px; float:left;" src="images/k2/k2-c16-geometry.png"></a>
+<a href="images/k2/k2-c16-geometry.png"><img class="img-responsive" style="max-width:500px; float:left;" src="images/k2/k2-c16-geometry.png" alt="K2 C16 Geometry"></a>
 
-<a href="images/k2/k2-c16-field.png"><img class="img-responsive" style="max-width:500px; float:left; margin-left:1em;" src="images/k2/k2-c16-field.png"></a>
+<a href="images/k2/k2-c16-field.png"><img class="img-responsive" style="max-width:500px; float:left; margin-left:1em;" src="images/k2/k2-c16-field.png" alt="K2 C16 field"></a>

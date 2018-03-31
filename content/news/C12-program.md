@@ -12,15 +12,15 @@ all located in a high-Galactic latitude field (-60&deg;)
 on the boundary between the constellations of Aquarius and Pisces.
 
 The short cadence list includes <b>TRAPPIST-1</b>,
-an ultracool dwarf star known to host 
+an ultracool dwarf star known to host
 several Earth-sized transiting planets.
-A generous 11-by-11 pixel short cadence mask 
+A generous 11-by-11 pixel short cadence mask
 will be used to capture the target (mask ID 200164267).
 
 The long cadence list includes <b>2,576 galaxies</b> to enable
 supernovae and AGN studies.
 It also includes <b>8 bright stars</b> (Kp ~5)
-for which we collected only the central region of pixels 
+for which we collected only the central region of pixels
 using a circular aperture mask, excluding the long saturation bleed.
 Their target IDs are:
 <ul>
@@ -48,4 +48,4 @@ Compared to the original plan,
 the Campaign 12 field was rotated and shifted slightly
 in order to <a href='/small-changes-to-campaigns-13-14-and-15.html'>optimize spacecraft stability</a> and to ensure the visibility of TRAPPIST-1.
 
-<a href="images/k2/k2-c12-field.png"><img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c12-field.png"></a>
+<a href="images/k2/k2-c12-field.png"><img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c12-field.png" alt="K2 C12 Field"></a>

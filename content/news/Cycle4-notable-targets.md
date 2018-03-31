@@ -6,7 +6,7 @@ Proposals for targets to be observed by K2 in Campaigns 11, 12, and 13
 are currently being solicited as part of [K2 Guest Observer Cycle 4](call-for-k2-go-cycle-4-proposals-for-campaigns-11-12-and-13.html).
 Step 1 submissions for these proposals are due on **February 5, 2016**.
 
-The [fields of these campaigns](k2-fields.html) 
+The [fields of these campaigns](k2-fields.html)
 will cover roughly 100 square degrees at a time near the
 constellations of Ophiucus (C11), Aquarius (C12), and Taurus (C13).
 All the objects that will be observed during these campaigns must be
@@ -54,7 +54,7 @@ Notable objects in the field will include:
 
 ## Highlights in Campaign 13
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/HL_Tau_protoplanetary_disk.jpg/225px-HL_Tau_protoplanetary_disk.jpg" class="hidden-xs hidden-sm" style="float:right; padding:1em;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/HL_Tau_protoplanetary_disk.jpg/225px-HL_Tau_protoplanetary_disk.jpg" alt="HL Tau" class="hidden-xs hidden-sm" style="float:right; padding:1em;">
 
 C13 is located towards the Galactic Anti-Center near Taurus.
 Notable objects in the field will include:

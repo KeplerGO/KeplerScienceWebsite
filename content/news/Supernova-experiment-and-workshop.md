@@ -11,15 +11,15 @@ the new field allows simultaneous observations to be made from the ground
 to complement K2’s single-bandpass photometry,
 i.e. allowing K2's supernovae to be characterized spectroscopically.
 
-<a href='supernova-experiment'><img src='/images/k2/k2-supernova-cosmology-experiment.png' style='max-width:30em; float:right;'></a>
+<a href='supernova-experiment'><img src='/images/k2/k2-supernova-cosmology-experiment.png' alt="supernova experiment" style='max-width:30em; float:right;'></a>
 
 The survey is called the **K2 Supernova Cosmology Experiment**.
 Its aims include, but are not limited to:
 
 * monitoring **&gt;20,000 galaxies** to gather a statistical sample of the **best supernovae lightcurves ever obtained**;
-* catching the critical **first few hours** of supernovae, 
+* catching the critical **first few hours** of supernovae,
 allowing different explosion physics and progenitors to be elucidated;
-* improving the **calibration of Type Ia supernovae** for cosmology 
+* improving the **calibration of Type Ia supernovae** for cosmology
 by determining the key parameters needed for distance fitting.
 
 Proposals to select and analyze K2 targets for this Campaign are eligible for **funding up to $150,000**  as part of <a href="/k2-proposing-targets.html">K2 GO Cycle 5</a>
@@ -27,8 +27,8 @@ Proposals to select and analyze K2 targets for this Campaign are eligible for **
 **The Step 1 deadline is Nov 3, 2016.**
 
 To help the supernova community plan the observations and follow-up,
-the mission will be hosting a 
-**[K2 Supernova Cosmology Workshop](supernova-experiment)** 
+the mission will be hosting a
+**[K2 Supernova Cosmology Workshop](supernova-experiment)**
 on **Feb 14-16, 2017**,
 at NASA Ames in Mountain View, California.
 
