@@ -1,11 +1,11 @@
 Title: We are hiring for a Kepler/K2 Support Scientist!
 Date: 2018-04-03 12:00
 Author: Jeff Coughlin
-Summary: The Kepler/K2 Science Center is seeking to fill a staff position within the Kepler/K2 Science Office (SO) at NASA’s Ames Research Center with the SETI Institute
+Summary: The Kepler/K2 Science Center is seeking to fill a staff position within the Kepler/K2 Science Office (SO) at NASA’s Ames Research Center and with the SETI Institute
 
 <img src="images/we-are-hiring-banner.jpg" alt="hiring banner">
 
-The Kepler/K2 Science Center is seeking to fill a staff position within the Kepler/K2 Science Office (SO) at NASA’s Ames Research Center with the SETI Institute.
+The Kepler/K2 Science Center is seeking to fill a staff position within the Kepler/K2 Science Office (SO) at NASA’s Ames Research Center and with the SETI Institute.
 
 ## Job ad
 
