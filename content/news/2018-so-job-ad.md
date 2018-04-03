@@ -43,4 +43,4 @@ Support Scientists are encouraged to devote 20% of their time to conducting inde
 
 **_Applications will be considered until April 19, 2018._**
 
-Enquires about the position may be directed to [jeffrey.l.coughlin@nasa.gov](mailto:jeffrey.l.coughlin@nasa.gov).
+Questions about the position may be directed to [jeffrey.l.coughlin@nasa.gov](mailto:jeffrey.l.coughlin@nasa.gov).
