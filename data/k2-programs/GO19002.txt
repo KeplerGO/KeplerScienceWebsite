@@ -1,0 +1,13 @@
+# Summary of K2 Program GO19002
+
+Title: Dynamics in CV and Algol Systems
+
+PI: Montgomery, Michele (UCF)
+CoIs: Richard Olenick (University of Dallas)
+
+
+
+# Targets requested by this program that have been observed (2)
+EPIC,RA,Dec,Kp,InvestigationIDs
+246071622,346.47083,-7.76346,9.45900,GO19002_LC|GO19005_LC|GO19026_LC
+246076742,348.59595,-7.64673,11.75700,GO19002_LC|GO19049_LC

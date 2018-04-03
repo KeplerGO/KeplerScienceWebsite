@@ -1,0 +1,13 @@
+# Summary of K2 Program GO19007
+
+Title: K2 Cycle 6 Observations of Cataclysmic Variables
+
+PI: Ramsay, Gavin (Armagh Observatory)
+CoIs: Matt Wood (Texas A&M University-Commerce), Steve Howell (NASA Ames), John Cannizzo (NASA Goddard/U Maryland), Alan Smale (NASA Goddard)
+
+
+
+# Targets requested by this program that have been observed (2)
+EPIC,RA,Dec,Kp,InvestigationIDs
+246370504,351.46440,-1.67313,18.21700,GO19007_LC|GO19013_LC|GO19007_SC|GO19013_SC
+999000000,345.96515,1.11421,19.10000,GO19007_LC|GO19013_LC|GO19007_SC

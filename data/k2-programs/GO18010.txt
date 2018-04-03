@@ -1,0 +1,16 @@
+# Summary of K2 Program GO18010
+
+Title: Does the Character of Optical Emission from OJ287 and Other Gamma-Ray Blazars Change on Year-Long Timescales?
+
+PI: Wehrle, Ann (Space Science Institute)
+CoIs: Michael Carini (Western Kentucky University) Paul Wiita (The College of New Jersey)
+
+
+
+# Targets requested by this program that have been observed (5)
+EPIC,RA,Dec,Kp,InvestigationIDs
+211394951,131.80390,11.56392,17.33100,GO18010_LC|GO18059_LC
+211504760,130.19827,13.20655,18.26400,GO18010_LC|GO18020_LC|GO18044_LC
+211559044,136.39572,13.96842,17.21300,GO18010_LC|GO18020_LC
+211991001,133.70366,20.10851,14.81900,GO18010_LC|GO18020_LC|GO18010_SC|GO18020_SC
+212035840,124.20741,20.85177,17.48600,GO18010_LC
