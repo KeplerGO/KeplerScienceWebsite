@@ -24,8 +24,8 @@ the scientific exploitation of the data.
 
 <b><i>Targets</i></b>
 <ul>
-<li>  35,150 long cadence (LC) targets, including 3,485 galaxy targets</li>
-<li>  118 short cadence (SC) targets, with Q target definitions</li>
+<li>  35,150 long cadence (LC) targets, including 3,485 galaxy targets.</li>
+<li>  118 short cadence (SC) targets, with Q target definitions.</li>
 <li>  38 moving objects were tiled with LC custom strip apertures. 13 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. See the <a href="images/release-notes/c15/kplr2017355085300_c15_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
 </ul>
 
@@ -77,14 +77,19 @@ were selected.</i>
 <h2>Features and events</h2>
 
 <br>
+
 ***Galaxies***
 
 There are 3,485 galaxies targeted in the C15 field of view all of which used standard aperture masks.
 
+<br>
+
 ***NGC 5897***
-The old globular clust NGC 5897 was tiled with a 6x6 array of 15x15 pixel tiles for a total of 8100 pixels.
+
+The old globular cluster NGC 5897 was tiled with a 6x6 array of 15x15 pixel tiles for a total of 8100 pixels.
 
 <br>
+
 ***Pointing and Roll Performance***
 
 The C15 pointing and roll behavior are well within the limits of that seen
@@ -100,9 +105,9 @@ results in additional cadences being flagged as "Spacecraft is not in fine point
 (QUALITY flag bit #16, decimal=32768). Starting with C15, the pipeline is now ignoring the
 spacecraft not-in-fine-point flag and using the "Spacecraft is in coarse point" flag (QUALITY
 flag bit #3, decimal=4). This flag is set by the project based on the measured pointing error exceeding
-1.5 pixels for 4 or more cadences, or exceeding 2.5 pixels for a single cadence. The pipeline will treat
+1.5 pixels for 4 or more continuous cadences, or exceeding 2.5 pixels for a single cadence. The pipeline will treat
 these "coarse-point" cadences as "not-in-fine-point" cadences were treated in previous campaigns
-up to and including C14; that is there will be calibrated pixels, but light curve data will be gapped
+up to and including C14, i.e., there will be calibrated pixels, but light curve data will be gapped
 for the flagged cadences. The project recommends that starting with C15, users look to
 QUALITY flag bit #3 as an indicator of poor spacecraft pointing.
 
@@ -125,9 +130,35 @@ QUALITY flag bit #3 as an indicator of poor spacecraft pointing.
 </div>
 
 <br>
-***Coronoal Mass Ejections (CMEs) During Observations***
+
+***Solar Flares and Coronal Mass Ejections (CMEs) During Observations***
+
+From September 6—10, 2017 (during C15 observations) [the Sun emitted 27 M-class and four X-class flares and released several powerful coronal mass ejections, or CMEs](https://www.nasa.gov/feature/goddard/2017/september-2017s-intense-solar-activity-viewed-from-space). The effect of these flares and CMEs is visible in K2 data during C15,
+most notably in the measured dark current level for all channels; we provide examples for channels 15 and 25 below.
+Peak dark current emission occurred around cadences 149142 + 675, 901, and 957, respectively, corresponding to BJD 2458003.23, 2458007.85, and 2458009.00.
+Uses are urged caution in interpreting astrophysical events in observed targets that have similar timing and duration to these CME events.
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C15-Dark-Chan15: the dark level measured on channel 15 during C15.</i><br>
+<a href="images/release-notes/c15/C15-Channel15-Dark.png">
+<img src="images/release-notes/c15/C15-Channel15-Dark.png" class="img-responsive" alt="Pipeline measured dark current for channel 15 during C15.">
+</a>
+</div>
+</div>
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C15-Dark-Chan25: the dark level measured on channel 25 during C15.</i>
+<a href="images/release-notes/c15/C15-Channel25-Dark.png">
+<img src="images/release-notes/c15/C15-Channel25-Dark.png" class="img-responsive" alt="Pipeline measured dark current for channel 25 during C15.">
+</a>
+</div>
+</div>
+
 
 <br>
+
 ***Light Curve Quality***
 
 As in previous campaigns, the 6-hour spacecraft roll cycle continues
