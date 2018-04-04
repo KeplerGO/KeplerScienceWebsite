@@ -53,8 +53,6 @@ the scientific exploitation of the data.
 
 <div class="col-lg-7">
 
-
-
 <div class="thumbnail">
 <div class="caption">
 <i>Figure C15-FOV: Schematic of Kepler's C15 field-of-view with high profile objects. </i>
@@ -66,7 +64,11 @@ the scientific exploitation of the data.
 
 <div class="thumbnail">
 <div class="caption">
-<i>Figure images/release-notes/c15/c15_lc_magnitude_distribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets.">
+<i>Figure C15-Mag: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-15">GO Programs</a>
+were selected.</i>
+</div>
+<a href="images/release-notes/c15/c15_lc_magnitude_distribution.png">
+<img src="images/release-notes/c15/c15_lc_magnitude_distribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets.">
 </a>
 </div>
 
@@ -160,9 +162,8 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 </div>
 </div>
 
-# I think we can leave the SC light curves out of it for now - will add after TTR official approval
-# <br>
-# ***Short Cadence Light Curves***
+<br>
+***Short Cadence Light Curves***
 
 
 <br>
