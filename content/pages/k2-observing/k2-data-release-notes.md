@@ -74,7 +74,8 @@ were selected.</i>
 
 </div>
 
-<h2>Features and events</h2>
+
+<h2>Features and Events</h2>
 
 <br>
 
@@ -195,21 +196,11 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 
 <br>
 
-***Short Cadence Light Curves***
-
-
-<br>
 
 ***Targets with incorrect flux scaling***
 
-
 <br>
 
-***Dynamic Black Correction***
-
-A new feature
-
-<br>
 
 ***Targets Affected by CAL Bug***
 
@@ -217,8 +208,31 @@ Due to a bug in the smear tables, column 928 on channels 33, and column 1008 on 
 
 The EPIC IDs are 249868223, 249921937, 249924613, 249934130, and 249198204.
 
+<br>
+
+
+***Dynamic Black Correction***
+
+A new feature of the Kepler pipeline that was implemented for K2 processing, starting with C15, is the use of Dynamic Black Correction, or "Dynablack", which is essentially a more sophisticated algorithm to perform the CCD pixel-level calibration. It uses the full-frame images and collateral pixels to provide two main benefits compared to traditional pixel calibration:
+
+* Correct thermally dependent fine guidance sensor crosstalk pixels.
+
+* Identify rolling-band artifacts with flags in the target pixel files.
+
+For the latter case, users can utilite the RB_LEVEL flags in the FITS files.
+
 
 <br>
+
+
+***Short Cadence Light Curves***
+
+Starting with C15, short-cadence light curves are now produced and available at MAST, though we strongly note and caution users that no work was done to adapt the pipeline's detrending module (PDC), developed for Kepler data, to work well on K2 data. *Thruster firings are especially poorly corrected for most short-cadence targets, and other systematic features may not be corrected well.* However, some targets do have adequate detrending in short-cadence, and even in the cases of poor detrending, short-term astrophysical variation can be seen for targets where such astrophysical variation exists. The hope is that producing these short-cadence light curves overall benefits the community compared to not producing them, even if they may only be used for initial inspection of the short-cadence data, which might prompt users to perform their own short-cadence detrending, or better adapt the existing long-cadence [Common Basis Vector (CBV) files](https://archive.stsci.edu/missions/k2/cbv/) for use in detrending the short-cadence data.
+
+
+<br>
+
+
 
 <h2>Release History</h2>
 
