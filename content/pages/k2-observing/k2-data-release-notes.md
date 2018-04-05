@@ -201,6 +201,7 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 
 <br>
 
+# TO-DO: Describe
 
 ***Targets Affected by CAL Bug***
 
@@ -221,6 +222,7 @@ A new feature of the Kepler pipeline that was implemented for K2 processing, sta
 
 For the latter case, users can utilite the RB_LEVEL flags in the FITS files.
 
+# TO-DO: Describe RB_LEVEL flags
 
 <br>
 
@@ -229,6 +231,7 @@ For the latter case, users can utilite the RB_LEVEL flags in the FITS files.
 
 Starting with C15, short-cadence light curves are now produced and available at MAST, though we strongly note and caution users that no work was done to adapt the pipeline's detrending module (PDC), developed for Kepler data, to work well on K2 data. *Thruster firings are especially poorly corrected for most short-cadence targets, and other systematic features may not be corrected well.* However, some targets do have adequate detrending in short-cadence, and even in the cases of poor detrending, short-term astrophysical variation can be seen for targets where such astrophysical variation exists. The hope is that producing these short-cadence light curves overall benefits the community compared to not producing them, even if they may only be used for initial inspection of the short-cadence data, which might prompt users to perform their own short-cadence detrending, or better adapt the existing long-cadence [Common Basis Vector (CBV) files](https://archive.stsci.edu/missions/k2/cbv/) for use in detrending the short-cadence data.
 
+# TO-DO: Add Graphics
 
 <br>
 
