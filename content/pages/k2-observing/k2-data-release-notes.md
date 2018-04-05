@@ -194,14 +194,28 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 </div>
 
 <br>
+
 ***Short Cadence Light Curves***
 
 
 <br>
+
 ***Targets with incorrect flux scaling***
 
+
 <br>
+
 ***Dynamic Black Correction***
+
+A new feature
+
+<br>
+
+***Targets Affected by CAL Bug***
+
+Due to a bug in the smear tables, column 928 on channels 33, and column 1008 on channel 47, had both their real and virtual smear values gapped, which resulted in values of "0.0" for the flux along the entire column. This might potentially affect the light curves of the following targets, which contain the affected column in their pixel-stamp image. Users may want conduct custom photometry that excludes or accounts for the affected column.
+
+The EPIC IDs are 249868223, 249921937, 249924613, 249934130, and 249198204.
 
 
 <br>
