@@ -90,8 +90,8 @@ Campaign 18
 
   <p>
     The Campaign 18 target list includes
-    <b>20,929 standard long cadence</b>
-    and <b>234 standard short cadence</b> targets
+    <b>20,419 standard long cadence</b>
+    and <b>235 standard short cadence</b> targets
     located towards the constellation of Cancer.
   </p>
 
@@ -139,6 +139,8 @@ Campaign 18
       <li>
         <b>Dozens of unconfirmed planet candidates</b> from Campaign 5
         are being re-observed, the majority in long cadence.
+        In addition, the Campaign 16 planet candidate around the bright F dwarf
+        HD 73344 (V=7) is being observed in short cadence.
       </li>
       <li>
         <b>60 low-mass flare stars</b> and <b>59 variable white dwarfs</b>
