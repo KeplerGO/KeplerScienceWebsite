@@ -198,9 +198,10 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 
 ***Targets with incorrect flux scaling***
 
+
+
 <br>
 
-# TO-DO: Describe
 
 ***Targets Affected by CAL Bug***
 
@@ -213,15 +214,16 @@ The EPIC IDs are 249868223, 249921937, 249924613, 249934130, and 249198204.
 
 ***Dynamic Black Correction***
 
-A new feature of the Kepler pipeline that was implemented for K2 processing, starting with C15, is the use of Dynamic Black Correction, or "Dynablack", which is essentially a more sophisticated algorithm to perform the CCD pixel-level calibration. It uses the full-frame images and collateral pixels to provide two main benefits compared to traditional pixel calibration:
+A new feature of the Kepler pipeline that was implemented for K2 processing, starting with C15, is the use of Dynamic Black Correction, or "Dynablack", which is essentially a more sophisticated algorithm to perform the CCD pixel-level calibration that accounts for time varying, instrument-induced artifacts when calibrating the data.
+
+Dynablack uses the full-frame images and collateral pixels to provide two main benefits compared to traditional pixel calibration:
 
 * Correct thermally dependent fine guidance sensor crosstalk pixels.
 
-* Identify rolling-band artifacts with flags in the target pixel files.
+* Identify rolling-band artifacts (see [§6.7 of the Instrument Handbook](https://archive.stsci.edu/kepler/manuals/KSCI-19033-002.pdf#page=75)) with flags in the target pixel files.
 
-For the latter case, users can utilite the RB_LEVEL flags in the FITS files.
+For the latter case, users can utilize the new RB_LEVEL flags in the FITS files. See [§A.1.1 of the Kepler Data Release 25 Notes](https://archive.stsci.edu/kepler/release_notes/release_notes25/KSCI-19065-002DRN25.pdf#page=11) and [§2.3.2 of the Kepler Archive Manual](https://archive.stsci.edu/kepler/manuals/archive_manual.pdf#page=24) for information on how to interpret and utilize the RB_LEVEL flags.
 
-# TO-DO: Describe RB_LEVEL flags
 
 <br>
 
