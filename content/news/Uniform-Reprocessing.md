@@ -1,14 +1,14 @@
 Title: Uniform K2 Data Reprocessing Underway
-Date: 2018-04-08 12:00
+Date: 2018-04-09 12:00
 Author: Jeff Coughlin
 
-
-<h2>What Is It?<h2>
 
 We are attempting a global, uniform reprocessing. Best-effort basis.
 
 
-<h2>The plan<h2>
+<br>
+
+**The plan**
 
 Starting with C15, all new campaigns are processed uniformly.
 
@@ -19,9 +19,9 @@ Priority of older campaigns: C2, C13, C0, C11, C1, C3, C4, C5, C6, C7. C8. C9, C
 All data will be at [K2 data archive at MAST](http://archive.stsci.edu/k2) and new data will replace old as default. Old data will be retained in sub-directory.
 
 
-<h2>Changes<h2>
+**Changes**
 
-<h3>Significant<h3>
+**Significant**
 
 These are listed because they affect all of the data at a significant level.
 
@@ -31,7 +31,7 @@ These are listed because they affect all of the data at a significant level.
 * Cosmic-Ray Threshold
 
 
-<h3>Minor<h3>
+*Minor*
 
 These are listed because they affect only portions of the K2 data or at a minor level.
 
@@ -39,3 +39,6 @@ These are listed because they affect only portions of the K2 data or at a minor 
 * Scrambled uncertatinties
 * Momentum dump flag
 * LDE parity error
+
+
+Probably add red and blue box figures
