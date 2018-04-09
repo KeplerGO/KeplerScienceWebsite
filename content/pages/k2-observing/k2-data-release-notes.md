@@ -163,12 +163,11 @@ Uses are urged caution in interpreting astrophysical events in observed targets 
 ***Light Curve Quality***
 
 As in previous campaigns, the 6-hour spacecraft roll cycle continues
-to dominate the systematic
-errors in C15 simple aperture photometry light curves.
+to dominate the systematic errors in C15 simple aperture photometry light curves.
 The pipeline CDPP 12th magnitude noise benchmark for C15 is
 the lowest seen since C6. It is comparable to that seen in early campaigns with similar
 star density (C6, C8, C10), but is well below that seen in C12, also with similar star density.
-We do not have a definitive cause the for the imporved precision, but it could be in part due
+We do not have a definitive cause the for the improved precision, but it could be in part due
 to the relatively low star density and the return to more stable pointing (compared to recent
 campaigns).
 
@@ -229,9 +228,27 @@ For the latter case, users can utilite the RB_LEVEL flags in the FITS files.
 
 ***Short Cadence Light Curves***
 
-Starting with C15, short-cadence light curves are now produced and available at MAST, though we strongly note and caution users that no work was done to adapt the pipeline's detrending module (PDC), developed for Kepler data, to work well on K2 data. *Thruster firings are especially poorly corrected for most short-cadence targets, and other systematic features may not be corrected well.* However, some targets do have adequate detrending in short-cadence, and even in the cases of poor detrending, short-term astrophysical variation can be seen for targets where such astrophysical variation exists. The hope is that producing these short-cadence light curves overall benefits the community compared to not producing them, even if they may only be used for initial inspection of the short-cadence data, which might prompt users to perform their own short-cadence detrending, or better adapt the existing long-cadence [Common Basis Vector (CBV) files](https://archive.stsci.edu/missions/k2/cbv/) for use in detrending the short-cadence data.
+Starting with C15, short-cadence light curves are now produced and available at MAST, though we strongly caution users that no work was done to adapt the Kepler pipeline's detrending module (PDC), developed for Kepler data, to work well on K2 data. *Thruster firings are especially poorly corrected for most short-cadence targets, and other systematic features may not be corrected well.* See Figure  C15-SC-Example-1 below for an example of remaining systematics in short-cadence data around thruster firings. However, some targets do have adequate detrending in short-cadence, and even in the cases of poor detrending, short-term astrophysical variation can be seen for targets where such astrophysical variation exists. See Figure C15-SC-Example-2 below where the ~18 min periodic variations of the AM CVn type binary HP Lip are readily apparent in the C15 short-cadence light curve. The hope is that producing these short-cadence light curves overall benefits the community compared to not producing them, even if they may only be used for initial inspection of the short-cadence data, which might prompt users to perform their own short-cadence detrending, or better adapt the existing long-cadence [Cotrending Basis Vector (CBV) files](https://archive.stsci.edu/k2/cbv.html) for use in detrending the short-cadence data.
 
-# TO-DO: Add Graphics
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C15-SC-Example-1: The Exoplanet Host K2-38 / EPIC 204221263.</i>
+<a href="images/release-notes/c15/epic_204221263_zoom1.png">
+<img src="images/release-notes/c15/epic_204221263_zoom1.png" class="img-responsive" alt="The Exoplanet Host K2-38 / EPIC 204221263.">
+</a>
+</div>
+</div>
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C15-SC-Example-2: The AM CVn type Binary HP Lip / EPIC 250105131</i><br>
+<a href="images/release-notes/c15/epic_250105131_zoom1.png">
+<img src="images/release-notes/c15/epic_250105131_zoom1.png" class="img-responsive" alt="The AM CVn type Binary HP Lip / EPIC 250105131.">
+</a>
+</div>
+</div>
+
+
 
 <br>
 
