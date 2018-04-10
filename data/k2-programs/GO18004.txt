@@ -1,10 +1,9 @@
 # Summary of K2 Program GO18004
 
-Title: The Old Open Cluster M67 Revisited -
-A Comprehensive Stellar Astrophysical Study with Kepler
+Title: The Old Open Cluster M67 Revisited – A Comprehensive Stellar Astrophysical Study with Kepler
 
 PI: Mathieu, Robert (University of Wisconsin - Madison)
-CoIs: Suzanne Aigrain,University of Oxford; Jon Jenkins, NASA-Ames; Soeren Meibom, Harvard-Smithsonian Center for Astrophysics; Marc Pinsonneault, Ohio State University; Eric Sandquist, San Diego State University; David Soderblom, Space Telescope ScienceI nstitute; Dennis Stello, University of Sydney; Andrew Vanderburg, University of Texas-Austin
+CoIs: Suzanne Aigrain, University of Oxford; Jon Jenkins, NASA-Ames; Soeren Meibom, Harvard-Smithsonian Center for Astrophysics; Marc Pinsonneault, Ohio State University; Eric Sandquist, San Diego State University; David Soderblom, Space Telescope Science Institute; Dennis Stello, University of Sydney; Andrew Vanderburg, University of Texas-Austin
 
 
 
