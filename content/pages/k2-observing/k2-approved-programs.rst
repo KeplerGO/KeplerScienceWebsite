@@ -72,7 +72,7 @@ Campaign 19 (preliminary)
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
-      <a href="data/campaigns/c18/K2Campaign19targets.csv">Target list (csv)</a>
+      <a href="data/campaigns/c19/K2Campaign19targets.csv">Target list (csv)</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
