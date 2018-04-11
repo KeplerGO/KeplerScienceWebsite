@@ -1,24 +1,13 @@
-Title: Uniform K2 Data Reprocessing Underway
-Date: 2018-04-09 12:00
+Title: K2 Uniform Global Reprocessing Underway
+Date: 2018-04-11 12:00
 Author: Jeff Coughlin
 
 
-We are performing a global, uniform reprocessing of the K2 data, utilizing the same
+The K2 mission has begun a global reprocessing of the C0–C14 K2 data with an updated, uniform version of the Kepler/K2 pipeline — C15 and later campaigns will be processed with the same pipeline version. This effort should enhance the scientific return of the K2 mission by providing users with a high quality, uniformly processed and documented K2 dataset. This work will be performed on a best-effort basis as long as mission resources are available to do so. The campaigns have been prioritized by enhanced scientific return as a result of reprocessing. Note that processing of new campaigns (e.g., C16, C17, etc.) will always be prioritized over reprocessing of older campaigns.
 
- on a best-effort basis.
+**Priority of Older Campaigns**: C2, C13, C0, C11, C1, C3, C4, C5, C6, C7, C8, C9, C10, C12, C14.
 
-
-<br>
-
-## The Plan
-
-Starting with C15, all new campaigns are processed uniformly.
-
-New campaigns given top priority.
-
-Priority of older campaigns: C2, C13, C0, C11, C1, C3, C4, C5, C6, C7. C8. C9, C10, C12, C14
-
-All data will be at [K2 data archive at MAST](http://archive.stsci.edu/k2) and new data will replace old as default. Old data will be retained in sub-directory.
+All data will be delivered to the [K2 data archive at MAST](http://archive.stsci.edu/k2) as it is reprocessed, where the reprocessed data for a given campaign will replace the older processing when searching for data via [MAST's K2 Data Search and Retrieval page](https://archive.stsci.edu/k2/data_search/search.php) and any other interfaces. The older data will remain available to users via a subdirectory in the [MAST browser interface](https://archive.stsci.edu/missions/k2/).
 
 
 ## Changes
