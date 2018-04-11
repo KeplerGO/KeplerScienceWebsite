@@ -31,8 +31,7 @@ the scientific exploitation of the data.
 
 <b><i>Full Frame Images (FFI)</i></b>
 <ul>
-<li><a href="https://archive.stsci.edu/pub/k2/ffi/kplr2017344214411-c15_ffi-cal.fits">kplr2017344214411-c15_ffi-cal.fits</a></li>
-<li><a href="https://archive.stsci.edu/pub/k2/ffi/kplr2018030100110-c15_ffi-cal.fits">kplr2018030100110-c15_ffi-cal.fits</a></li>
+<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2017246053350-c15_ffi-cal.fits">ktwo2017246053350-c15_ffi-cal.fits</a> Note: only one FFI was collected during C15.</li>
 </ul>
 
 <b><i>First cadence</i></b>
@@ -79,15 +78,13 @@ were selected.</i>
 
 <br>
 
-***Galaxies***
+***Galaxies and Clusters***
 
 There are 3,485 galaxies targeted in the C15 field of view all of which used standard aperture masks.
 
-<br>
-
-***NGC 5897***
-
-The old globular cluster NGC 5897 was tiled with a 6x6 array of 15x15 pixel tiles for a total of 8100 pixels.
+The C15 field of view overlaps a portion of the young star association Upper Sco. 
+The FOV also contains the old globular cluster NGC 5897, which was tiled with a 
+6x6 array of 15x15 pixel tiles for a total of 8100 pixels.
 
 <br>
 
@@ -141,7 +138,7 @@ Uses are urged caution in interpreting astrophysical events in observed targets 
 
 <div class="thumbnail" style="width: 49%;display: inline-block;">
 <div class="caption">
-<i>Figure C15-Dark-Chan15: the dark level measured on channel 15 during C15.</i><br>
+<i>Figure C15-Dark-Chan15: the dark level measured on channel 15 during C15.</i>
 <a href="images/release-notes/c15/C15-Channel15-Dark.png">
 <img src="images/release-notes/c15/C15-Channel15-Dark.png" class="img-responsive" alt="Pipeline measured dark current for channel 15 during C15.">
 </a>
@@ -198,16 +195,33 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 
 ***Targets with incorrect flux scaling***
 
+During the analysis of C15 data, the Science Office uncovered and inconsistency in how targets 
+with high proper motion are handled. We noted that there was a target with an anomalously 
+high average value for the PDC corrected flux -corresponding to a Kp=7.5 mag star when it should be 
+a magnitude Kp=12 star. The issue was traced to the fact that the target 
+EPIC 250111823, (Ross 802) is a high-proper motion star (-448, -624 mas/yr) that is ~12 arcsec 
+from its J2000 catalog position. The photometric analysis code (PA-COA) was not supplied with
+proper motion information and did not find a star at the catalog position. The code correctly reverted
+to the flight target aperture (which does account for proper motion), but computed the 
+flux-fraction in aperture (FFIA~0.03) and crowding metric based on the assumption that the 
+target was well outside the flight aperture. The low flux-fraction in aperture caused the PDC
+flux time series (PDCSAP_FLUX) to be scaled up by ~1/0.03. The time variation of the PDCSAP_FLUX 
+is correct for the target aperture, only mis-scaled. The SAP_FLUX is unaffected by this bug. 
 
+The Science Office is assessing the impact of this issue in K2, but there is a potential mis-scaling for any 
+targets with accumulated proper motion since J2000 that is larget than ~1.5 pixels (~6 arcseconds). 
+Users should check for potentially mis-scaled PDCSAP_FLUX for any of the 
+<a href="images/release-notes/c15/c15_high_proper_motion_tgts.csv">
+C15 targets with accumulated proper motion ≥ 1 arcsecond</a>.
 
 <br>
 
 
 ***Targets Affected by CAL Bug***
 
-Due to a bug in the smear tables, column 928 on channels 33, and column 1008 on channel 47, had both their real and virtual smear values gapped, which resulted in values of "0.0" for the flux along the entire column. This might potentially affect the light curves of the following targets, which contain the affected column in their pixel-stamp image. Users may want conduct custom photometry that excludes or accounts for the affected column.
+Due to a bug in the smear tables, column 928 on channel 33, and column 1008 on channel 47, had both their real and virtual smear values gapped, which resulted in values of "0.0" for the flux along the entire column. This might potentially affect the light curves of the following targets, which contain the affected column in their pixel-stamp image. Users may want conduct custom photometry that excludes or accounts for the affected column.
 
-The EPIC IDs are 249868223, 249921937, 249924613, 249934130, and 249198204.
+The EPIC IDs of the affected targets are 249868223, 249921937, 249924613, 249934130, and 249198204.
 
 <br>
 
@@ -222,7 +236,7 @@ Dynablack uses the full-frame images and collateral pixels to provide two main b
 
 * Identify rolling-band artifacts (see [§6.7 of the Instrument Handbook](https://archive.stsci.edu/kepler/manuals/KSCI-19033-002.pdf#page=75)) with flags in the target pixel files.
 
-For the latter case, users can utilize the new RB_LEVEL flags in the FITS files. See [§A.1.1 of the Kepler Data Release 25 Notes](https://archive.stsci.edu/kepler/release_notes/release_notes25/KSCI-19065-002DRN25.pdf#page=11) and [§2.3.2 of the Kepler Archive Manual](https://archive.stsci.edu/kepler/manuals/archive_manual.pdf#page=24) for information on how to interpret and utilize the RB_LEVEL flags.
+For the latter case, users can use the new RB_LEVEL flags in the FITS files. See [§A.1.1 of the Kepler Data Release 25 Notes](https://archive.stsci.edu/kepler/release_notes/release_notes25/KSCI-19065-002DRN25.pdf#page=11) and [§2.3.2 of the Kepler Archive Manual](https://archive.stsci.edu/kepler/manuals/archive_manual.pdf#page=24) for information on how to interpret and utilize the RB_LEVEL flags. Users should note that the RB_LEVEL test at the shortest duration (3 hours) is overly sensitive to instrument noise and does not offer a reliable indicator of the presence of rolling band pattern noise.  Because the binary "Rolling Band Detected" QUALITY and SAP_QUALITY flags (bits 18, 19) in the target pixel files and light curve files are based on a rolling band detection at any of the test durations, they also do not provide a reliable indicator of the presence of rolling band pattern noise. The RB_LEVEL flags at durations of 6 hours and longer provide the best indication of the presence of rolling band artifacts. 
 
 
 <br>
@@ -243,7 +257,7 @@ Starting with C15, short-cadence light curves are now produced and available at 
 
 <div class="thumbnail" style="width: 49%;display: inline-block;">
 <div class="caption">
-<i>Figure C15-SC-Example-2: The AM CVn type Binary HP Lip / EPIC 250105131</i><br>
+<i>Figure C15-SC-Example-2: The AM CVn type Binary HP Lip / EPIC 250105131</i>
 <a href="images/release-notes/c15/epic_250105131_zoom1.png">
 <img src="images/release-notes/c15/epic_250105131_zoom1.png" class="img-responsive" alt="The AM CVn type Binary HP Lip / EPIC 250105131.">
 </a>
