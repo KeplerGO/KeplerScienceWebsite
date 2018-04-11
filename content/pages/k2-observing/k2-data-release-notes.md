@@ -2406,14 +2406,14 @@ Data Release 10 updates the short cadence data only. This release corrects the s
     <ul>
         <li>Time: 2015-02-08 06:50:09.177 UTC</li>
         <li>Long Cadence Number: 103744</li>
-        <li>Short Cadence Number: 2976430</li>
+        <li>Short Cadence Number: 3100780</li>
     </ul>
 
     <b><i>Last cadence</i></b>
     <ul>
         <li>Time: 2015-04-20 04:32:47.045 UTC</li>
         <li>Long Cadence Number: 107213</li>
-        <li>Short Cadence Number: 3078009</li>
+        <li>Short Cadence Number: 3204879</li>
     </ul>
 
 </div>
@@ -2600,7 +2600,7 @@ The PDC quality flags were populated for some of the SC targets even though ther
     <b><i>Last cadence</i></b>
     <ul>
         <li>Time: 2015-01-23 18:37:04.488 UTC</li>
-        <li>Long Cadence Number: 107213</li>
+        <li>Long Cadence Number: 102984</li>
         <li>Short Cadence Number: 3078009</li>
     </ul>
 
