@@ -25,7 +25,7 @@ the scientific exploitation of the data.
 <b><i>Targets</i></b>
 <ul>
 <li>  35,150 long cadence (LC) targets, including 3,485 galaxy targets.</li>
-<li>  118 short cadence (SC) targets, with Q target definitions.</li>
+<li>  118 short cadence (SC) targets.</li>
 <li>  38 moving objects were tiled with LC custom strip apertures. 13 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. See the <a href="images/release-notes/c15/kplr2017355085300_c15_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
 </ul>
 
@@ -82,8 +82,8 @@ were selected.</i>
 
 There are 3,485 galaxies targeted in the C15 field of view all of which used standard aperture masks.
 
-The C15 field of view overlaps a portion of the young star association Upper Sco. 
-The FOV also contains the old globular cluster NGC 5897, which was tiled with a 
+The C15 field of view overlaps a portion of the young star association Upper Sco.
+The FOV also contains the old globular cluster NGC 5897, which was tiled with a
 6x6 array of 15x15 pixel tiles for a total of 8100 pixels.
 
 <br>
@@ -101,10 +101,10 @@ campaigns prior to C14.
 As mentioned in the C14 release notes, a change in the on-board fine point fault logging threshold
 results in additional cadences being flagged as "Spacecraft is not in fine point"
 (QUALITY flag bit #16, decimal=32768). Starting with C15, the pipeline is now ignoring the
-spacecraft not-in-fine-point flag and using the "Spacecraft is in coarse point" flag (QUALITY
+spacecraft not-in-fine-point flag, and instead is using the "Spacecraft is in coarse point" flag (QUALITY
 flag bit #3, decimal=4). This flag is set by the project based on the measured pointing error exceeding
 1.5 pixels for 4 or more continuous cadences, or exceeding 2.5 pixels for a single cadence. The pipeline will treat
-these "coarse-point" cadences as "not-in-fine-point" cadences were treated in previous campaigns
+these "coarse-point" cadences just as "not-in-fine-point" cadences were treated in previous campaigns
 up to and including C14, i.e., there will be calibrated pixels, but light curve data will be gapped
 for the flagged cadences. The project recommends that starting with C15, users look to
 QUALITY flag bit #3 as an indicator of poor spacecraft pointing.
@@ -133,7 +133,7 @@ QUALITY flag bit #3 as an indicator of poor spacecraft pointing.
 
 From September 6—10, 2017 (during C15 observations) [the Sun emitted 27 M-class and four X-class flares and released several powerful coronal mass ejections, or CMEs](https://www.nasa.gov/feature/goddard/2017/september-2017s-intense-solar-activity-viewed-from-space). The effect of these flares and CMEs is visible in K2 data during C15,
 most notably in the measured dark current level for all channels; we provide examples for channels 15 and 25 below.
-Peak dark current emission occurred around cadences 149142 + 675, 901, and 957, respectively, corresponding to BJD 2458003.23, 2458007.85, and 2458009.00.
+Peak dark current emission occurred around long cadences 149142 + 675, 901, and 957, respectively, corresponding to BJD 2458003.23, 2458007.85, and 2458009.00.
 Uses are urged caution in interpreting astrophysical events in observed targets that have similar timing and duration to these CME events.
 
 <div class="thumbnail" style="width: 49%;display: inline-block;">
@@ -164,9 +164,9 @@ to dominate the systematic errors in C15 simple aperture photometry light curves
 The pipeline CDPP 12th magnitude noise benchmark for C15 is
 the lowest seen since C6. It is comparable to that seen in early campaigns with similar
 star density (C6, C8, C10), but is well below that seen in C12, also with similar star density.
-We do not have a definitive cause the for the improved precision, but it could be in part due
-to the relatively low star density and the return to more stable pointing (compared to recent
-campaigns).
+While we do not have a definitive cause the for the improved precision, it is likely due to a
+combination of the relatively low star density, the return to more stable pointing (compared to recent
+campaigns), and the updated pipeline version (in-particular the use of the coarse-point flags).
 
 The magnitude dependence of CDPP and its distribution over the focal
 plane are shown below. Other CDPP benchmarks can be found in the
@@ -193,24 +193,24 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 <br>
 
 
-***Targets with incorrect flux scaling***
+***Targets With Incorrect Flux Scaling***
 
-During the analysis of C15 data, the Science Office uncovered and inconsistency in how targets 
-with high proper motion are handled. We noted that there was a target with an anomalously 
-high average value for the PDC corrected flux -corresponding to a Kp=7.5 mag star when it should be 
-a magnitude Kp=12 star. The issue was traced to the fact that the target 
-EPIC 250111823, (Ross 802) is a high-proper motion star (-448, -624 mas/yr) that is ~12 arcsec 
+During the analysis of C15 data, the Science Office uncovered an inconsistency in how targets
+with high proper motion are handled. We noted that there is a target with an anomalously
+high average value for the PDC corrected flux, corresponding to a Kp=7.5 mag star when it should be
+a magnitude Kp=12 star. The issue was traced to the fact that the target
+EPIC 250111823, (Ross 802) is a high-proper motion star (-448, -624 mas/yr) that is ~12 arcsec
 from its J2000 catalog position. The photometric analysis code (PA-COA) was not supplied with
 proper motion information and did not find a star at the catalog position. The code correctly reverted
-to the flight target aperture (which does account for proper motion), but computed the 
-flux-fraction in aperture (FFIA~0.03) and crowding metric based on the assumption that the 
+to the flight target aperture (which does account for proper motion), but computed the
+flux-fraction in aperture (FFIA~0.03) and crowding metric based on the assumption that the
 target was well outside the flight aperture. The low flux-fraction in aperture caused the PDC
-flux time series (PDCSAP_FLUX) to be scaled up by ~1/0.03. The time variation of the PDCSAP_FLUX 
-is correct for the target aperture, only mis-scaled. The SAP_FLUX is unaffected by this bug. 
+flux time series (PDCSAP_FLUX) to be scaled up by a factor of ~1/0.03, or ~33. The time variation of the PDCSAP_FLUX
+is correct for the target aperture, only mis-scaled. The SAP_FLUX is unaffected by this bug.
 
-The Science Office is assessing the impact of this issue in K2, but there is a potential mis-scaling for any 
-targets with accumulated proper motion since J2000 that is larget than ~1.5 pixels (~6 arcseconds). 
-Users should check for potentially mis-scaled PDCSAP_FLUX for any of the 
+The Science Office is assessing the impact of this issue in K2, but there is a potential mis-scaling for any
+targets with accumulated proper motion since J2000 that is larget than ~1.5 pixels (~6 arcseconds).
+Users should check for potentially mis-scaled PDCSAP_FLUX for any of the
 <a href="images/release-notes/c15/c15_high_proper_motion_tgts.csv">
 C15 targets with accumulated proper motion ≥ 1 arcsecond</a>.
 
@@ -236,7 +236,7 @@ Dynablack uses the full-frame images and collateral pixels to provide two main b
 
 * Identify rolling-band artifacts (see [§6.7 of the Instrument Handbook](https://archive.stsci.edu/kepler/manuals/KSCI-19033-002.pdf#page=75)) with flags in the target pixel files.
 
-For the latter case, users can use the new RB_LEVEL flags in the FITS files. See [§A.1.1 of the Kepler Data Release 25 Notes](https://archive.stsci.edu/kepler/release_notes/release_notes25/KSCI-19065-002DRN25.pdf#page=11) and [§2.3.2 of the Kepler Archive Manual](https://archive.stsci.edu/kepler/manuals/archive_manual.pdf#page=24) for information on how to interpret and utilize the RB_LEVEL flags. Users should note that the RB_LEVEL test at the shortest duration (3 hours) is overly sensitive to instrument noise and does not offer a reliable indicator of the presence of rolling band pattern noise.  Because the binary "Rolling Band Detected" QUALITY and SAP_QUALITY flags (bits 18, 19) in the target pixel files and light curve files are based on a rolling band detection at any of the test durations, they also do not provide a reliable indicator of the presence of rolling band pattern noise. The RB_LEVEL flags at durations of 6 hours and longer provide the best indication of the presence of rolling band artifacts. 
+For the latter case, users can use the new RB_LEVEL flags in the FITS files. See [§A.1.1 of the Kepler Data Release 25 Notes](https://archive.stsci.edu/kepler/release_notes/release_notes25/KSCI-19065-002DRN25.pdf#page=11) and [§2.3.2 of the Kepler Archive Manual](https://archive.stsci.edu/kepler/manuals/archive_manual.pdf#page=24) for information on how to interpret and utilize the RB_LEVEL flags. Users should note that the RB_LEVEL test at the shortest duration (3 hours) is overly sensitive to instrument noise and does not offer a reliable indicator of the presence of rolling band pattern noise.  Because the binary "Rolling Band Detected" QUALITY and SAP_QUALITY flags (bits 18, 19) in the target pixel files and light curve files are based on a rolling band detection at any of the test durations, they also do not provide a reliable indicator of the presence of rolling band pattern noise. The RB_LEVEL flags at durations of 6 hours and longer provide the best indication of the presence of rolling band artifacts.
 
 
 <br>
