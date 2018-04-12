@@ -209,7 +209,7 @@ flux time series (PDCSAP_FLUX) to be scaled up by a factor of ~1/0.03, or ~33. T
 is correct for the target aperture, only mis-scaled. The SAP_FLUX is unaffected by this bug.
 
 The Science Office is assessing the impact of this issue in K2, but there is a potential mis-scaling for any
-targets with accumulated proper motion since J2000 that is larget than ~1.5 pixels (~6 arcseconds).
+targets with accumulated proper motion since J2000 that is larger than ~1.5 pixels (~6 arcseconds).
 Users should check for potentially mis-scaled PDCSAP_FLUX for any of the
 <a href="images/release-notes/c15/c15_proper_motion_gt_1pix_tgts.csv">
 C15 targets with accumulated proper motion ≥ 1 pixel (~4 arcseconds)</a>.
