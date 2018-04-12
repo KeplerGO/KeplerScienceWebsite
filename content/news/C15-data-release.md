@@ -22,7 +22,6 @@ Highlights include:
 Users are encouraged to contact, cite, and collaborate with the
 [teams who proposed the observations](k2-approved-programs.html#campaign-15).
 We also encourage users to carefully review the associated
-[data release notes](k2-data-release-notes.html),
-which are expected to become available soon.
+[data release notes](k2-data-release-notes.html).
 
 <a href="images/k2/k2-c15-field.png"><img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c15-field.png" alt="K2 C15 Field"></a>
