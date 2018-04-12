@@ -9,6 +9,276 @@ the scientific exploitation of the data.
 
 <hr>
 
+# K2 Campaign 15
+
+<h2>At a glance</h2>
+
+<div class="col-lg-5">
+
+<b><i>Pointing</i></b>
+<ul>
+<li> RA:  233.6175730</li>
+<li> Dec:  -20.0792397</li>
+<li> Roll:  166.7780778</li>
+</ul>
+
+<b><i>Targets</i></b>
+<ul>
+<li>  35,150 long cadence (LC) targets, including 3,485 galaxy targets.</li>
+<li>  118 short cadence (SC) targets, with Q target definitions.</li>
+<li>  38 moving objects were tiled with LC custom strip apertures. 13 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. See the <a href="images/release-notes/c15/kplr2017355085300_c15_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
+</ul>
+
+<b><i>Full Frame Images (FFI)</i></b>
+<ul>
+<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2017246053350-c15_ffi-cal.fits">ktwo2017246053350-c15_ffi-cal.fits</a> Note: only one FFI was collected during C15.</li>
+</ul>
+
+<b><i>First cadence</i></b>
+<ul>
+<li>Start Time: 2017-08-23 22:18:11 UTC</li>
+<li>Long Cadence Number: 149142</li>
+<li>Short Cadence Number: 4462720</li>
+</ul>
+
+<b><i>Last cadence</i></b>
+<ul>
+<li>End Time: 2017-11-19 22:58:27 UTC</li>
+<li>Long Cadence Number: 153449</li>
+<li>Short Cadence Number: 4591959</li>
+</ul>
+
+</div>
+
+<div class="col-lg-7">
+
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C15-FOV: Schematic of Kepler's C15 field-of-view with high profile objects. </i>
+</div>
+<a href="images/k2/k2-c15-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c15-field.png" id="c15fov" alt="C15 field of view with highlights showing the Upper Sco young star region and the very old globular cluster NGC 5897.">
+</a>
+</div>
+
+
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C15-Mag: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-15">GO Programs</a>
+were selected.</i>
+</div>
+<a href="images/release-notes/c15/c15_lc_magnitude_distribution.png">
+<img src="images/release-notes/c15/c15_lc_magnitude_distribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets.">
+</a>
+</div>
+
+</div>
+
+
+<h2>Features and Events</h2>
+
+<br>
+
+***Galaxies and Clusters***
+
+There are 3,485 galaxies targeted in the C15 field of view all of which used standard aperture masks.
+
+The C15 field of view overlaps a portion of the young star association Upper Sco. 
+The FOV also contains the old globular cluster NGC 5897, which was tiled with a 
+6x6 array of 15x15 pixel tiles for a total of 8100 pixels.
+
+<br>
+
+***Pointing and Roll Performance***
+
+The C15 pointing and roll behavior are well within the limits of that seen
+in other K2 campaigns for the majority of the campaign.
+The pipeline calculated maximum distance between the
+derived and nominal positions for any target (the "maximum attitude residual", or MAR)
+for C15 is less than 2.5 pixels, well under the 3-pixel limit accommodated by the aperture halos.
+There were far fewer anomalous thruster firing events in C15 than were seen in recent
+campaigns prior to C14.
+
+As mentioned in the C14 release notes, a change in the on-board fine point fault logging threshold
+results in additional cadences being flagged as "Spacecraft is not in fine point"
+(QUALITY flag bit #16, decimal=32768). Starting with C15, the pipeline is now ignoring the
+spacecraft not-in-fine-point flag and using the "Spacecraft is in coarse point" flag (QUALITY
+flag bit #3, decimal=4). This flag is set by the project based on the measured pointing error exceeding
+1.5 pixels for 4 or more continuous cadences, or exceeding 2.5 pixels for a single cadence. The pipeline will treat
+these "coarse-point" cadences as "not-in-fine-point" cadences were treated in previous campaigns
+up to and including C14, i.e., there will be calibrated pixels, but light curve data will be gapped
+for the flagged cadences. The project recommends that starting with C15, users look to
+QUALITY flag bit #3 as an indicator of poor spacecraft pointing.
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C15-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C15.</i>
+<a href="images/release-notes/c15/c15_pad_pdq_attitude_roll.png">
+<img src="images/release-notes/c15/c15_pad_pdq_attitude_roll.png" class="img-responsive" alt="Pipeline measured roll error for C15.">
+</a>
+</div>
+</div>
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C15-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C15.</i>
+<a href="images/release-notes/c15/c15_pad_pdq_attitude_mar.png">
+<img src="images/release-notes/c15/c15_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the C15 attitude measured with PAD and PDQ.">
+</a>
+</div>
+</div>
+
+<br>
+
+***Solar Flares and Coronal Mass Ejections (CMEs) During Observations***
+
+From September 6—10, 2017 (during C15 observations) [the Sun emitted 27 M-class and four X-class flares and released several powerful coronal mass ejections, or CMEs](https://www.nasa.gov/feature/goddard/2017/september-2017s-intense-solar-activity-viewed-from-space). The effect of these flares and CMEs is visible in K2 data during C15,
+most notably in the measured dark current level for all channels; we provide examples for channels 15 and 25 below.
+Peak dark current emission occurred around cadences 149142 + 675, 901, and 957, respectively, corresponding to BJD 2458003.23, 2458007.85, and 2458009.00.
+Uses are urged caution in interpreting astrophysical events in observed targets that have similar timing and duration to these CME events.
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C15-Dark-Chan15: the dark level measured on channel 15 during C15.</i>
+<a href="images/release-notes/c15/C15-Channel15-Dark.png">
+<img src="images/release-notes/c15/C15-Channel15-Dark.png" class="img-responsive" alt="Pipeline measured dark current for channel 15 during C15.">
+</a>
+</div>
+</div>
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C15-Dark-Chan25: the dark level measured on channel 25 during C15.</i>
+<a href="images/release-notes/c15/C15-Channel25-Dark.png">
+<img src="images/release-notes/c15/C15-Channel25-Dark.png" class="img-responsive" alt="Pipeline measured dark current for channel 25 during C15.">
+</a>
+</div>
+</div>
+
+
+<br>
+
+***Light Curve Quality***
+
+As in previous campaigns, the 6-hour spacecraft roll cycle continues
+to dominate the systematic errors in C15 simple aperture photometry light curves.
+The pipeline CDPP 12th magnitude noise benchmark for C15 is
+the lowest seen since C6. It is comparable to that seen in early campaigns with similar
+star density (C6, C8, C10), but is well below that seen in C12, also with similar star density.
+We do not have a definitive cause the for the improved precision, but it could be in part due
+to the relatively low star density and the return to more stable pointing (compared to recent
+campaigns).
+
+The magnitude dependence of CDPP and its distribution over the focal
+plane are shown below. Other CDPP benchmarks can be found in the
+<a href="images/release-notes/c15/c15_bin1.00_sc1.00_CDPP_Summary_18020113.txt">
+table giving 6.5-hr CDPP as a function of magnitude.</a>
+<br>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C15-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>
+</div>
+<a href="images/release-notes/c15/c15_logg_CDPP_vs_model.png">
+<img src="images/release-notes/c15/c15_logg_CDPP_vs_model.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
+</a>
+</div>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C15-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
+<a href="images/release-notes/c15/c15_dwarf__CDPP_by_mod_out.png">
+<img src="images/release-notes/c15/c15_dwarf__CDPP_by_mod_out.png" class="img-responsive" alt="CDPP per channel for 12th and 14th magnitude dwarfs">
+</a>
+</div>
+</div>
+
+<br>
+
+
+***Targets with incorrect flux scaling***
+
+During the analysis of C15 data, the Science Office uncovered and inconsistency in how targets 
+with high proper motion are handled. We noted that there was a target with an anomalously 
+high average value for the PDC corrected flux -corresponding to a Kp=7.5 mag star when it should be 
+a magnitude Kp=12 star. The issue was traced to the fact that the target 
+EPIC 250111823, (Ross 802) is a high-proper motion star (-448, -624 mas/yr) that is ~12 arcsec 
+from its J2000 catalog position. The photometric analysis code (PA-COA) was not supplied with
+proper motion information and did not find a star at the catalog position. The code correctly reverted
+to the flight target aperture (which does account for proper motion), but computed the 
+flux-fraction in aperture (FFIA~0.03) and crowding metric based on the assumption that the 
+target was well outside the flight aperture. The low flux-fraction in aperture caused the PDC
+flux time series (PDCSAP_FLUX) to be scaled up by ~1/0.03. The time variation of the PDCSAP_FLUX 
+is correct for the target aperture, only mis-scaled. The SAP_FLUX is unaffected by this bug. 
+
+The Science Office is assessing the impact of this issue in K2, but there is a potential mis-scaling for any 
+targets with accumulated proper motion since J2000 that is larget than ~1.5 pixels (~6 arcseconds). 
+Users should check for potentially mis-scaled PDCSAP_FLUX for any of the 
+<a href="images/release-notes/c15/c15_high_proper_motion_tgts.csv">
+C15 targets with accumulated proper motion ≥ 1 arcsecond</a>.
+
+<br>
+
+
+***Targets Affected by CAL Bug***
+
+Due to a bug in the smear tables, column 928 on channel 33, and column 1008 on channel 47, had both their real and virtual smear values gapped, which resulted in values of "0.0" for the flux along the entire column. This might potentially affect the light curves of the following targets, which contain the affected column in their pixel-stamp image. Users may want conduct custom photometry that excludes or accounts for the affected column.
+
+The EPIC IDs of the affected targets are 249868223, 249921937, 249924613, 249934130, and 249198204.
+
+<br>
+
+
+***Dynamic Black Correction***
+
+A new feature of the Kepler pipeline that was implemented for K2 processing, starting with C15, is the use of Dynamic Black Correction, or "Dynablack", which is essentially a more sophisticated algorithm to perform the CCD pixel-level calibration that accounts for time varying, instrument-induced artifacts when calibrating the data.
+
+Dynablack uses the full-frame images and collateral pixels to provide two main benefits compared to traditional pixel calibration:
+
+* Correct thermally dependent fine guidance sensor crosstalk pixels.
+
+* Identify rolling-band artifacts (see [§6.7 of the Instrument Handbook](https://archive.stsci.edu/kepler/manuals/KSCI-19033-002.pdf#page=75)) with flags in the target pixel files.
+
+For the latter case, users can use the new RB_LEVEL flags in the FITS files. See [§A.1.1 of the Kepler Data Release 25 Notes](https://archive.stsci.edu/kepler/release_notes/release_notes25/KSCI-19065-002DRN25.pdf#page=11) and [§2.3.2 of the Kepler Archive Manual](https://archive.stsci.edu/kepler/manuals/archive_manual.pdf#page=24) for information on how to interpret and utilize the RB_LEVEL flags. Users should note that the RB_LEVEL test at the shortest duration (3 hours) is overly sensitive to instrument noise and does not offer a reliable indicator of the presence of rolling band pattern noise.  Because the binary "Rolling Band Detected" QUALITY and SAP_QUALITY flags (bits 18, 19) in the target pixel files and light curve files are based on a rolling band detection at any of the test durations, they also do not provide a reliable indicator of the presence of rolling band pattern noise. The RB_LEVEL flags at durations of 6 hours and longer provide the best indication of the presence of rolling band artifacts. 
+
+
+<br>
+
+
+***Short Cadence Light Curves***
+
+Starting with C15, short-cadence light curves are now produced and available at MAST, though we strongly caution users that no work was done to adapt the Kepler pipeline's detrending module (PDC), developed for Kepler data, to work well on K2 data. *Thruster firings are especially poorly corrected for most short-cadence targets, and other systematic features may not be corrected well.* See Figure  C15-SC-Example-1 below for an example of remaining systematics in short-cadence data around thruster firings. However, some targets do have adequate detrending in short-cadence, and even in the cases of poor detrending, short-term astrophysical variation can be seen for targets where such astrophysical variation exists. See Figure C15-SC-Example-2 below where the ~18 min periodic variations of the AM CVn type binary HP Lip are readily apparent in the C15 short-cadence light curve. The hope is that producing these short-cadence light curves overall benefits the community compared to not producing them, even if they may only be used for initial inspection of the short-cadence data, which might prompt users to perform their own short-cadence detrending, or better adapt the existing long-cadence [Cotrending Basis Vector (CBV) files](https://archive.stsci.edu/k2/cbv.html) for use in detrending the short-cadence data.
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C15-SC-Example-1: The Exoplanet Host K2-38 / EPIC 204221263.</i>
+<a href="images/release-notes/c15/epic_204221263_zoom1.png">
+<img src="images/release-notes/c15/epic_204221263_zoom1.png" class="img-responsive" alt="The Exoplanet Host K2-38 / EPIC 204221263.">
+</a>
+</div>
+</div>
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C15-SC-Example-2: The AM CVn type Binary HP Lip / EPIC 250105131</i>
+<a href="images/release-notes/c15/epic_250105131_zoom1.png">
+<img src="images/release-notes/c15/epic_250105131_zoom1.png" class="img-responsive" alt="The AM CVn type Binary HP Lip / EPIC 250105131.">
+</a>
+</div>
+</div>
+
+
+
+<br>
+
+
+
+<h2>Release History</h2>
+
+The following is the data release history for C15. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
+
+* <a href="k2-pipeline-release-notes.html#data-release-21">Data Release 21</a>
+
+<hr>
+
+
 # K2 Campaign 14
 
 <h2>At a glance</h2>
