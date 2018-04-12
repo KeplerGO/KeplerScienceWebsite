@@ -106,6 +106,7 @@ Starting with C15, short-cadence light curves are now produced and available at 
 
 
 </div>
+<div>
  <i>
  The status of major changes planned for the final uniform processing.
  <br>
@@ -176,10 +177,12 @@ of this composite image (at the green dashed line).
 </div>
 <a href="images/release-notes/c13/ffi_raw_ch73_74_c13.png">
 <img src="images/release-notes/c13/ffi_raw_ch73_74_c13.png" class="img-responsive" alt="C13 FFI image of channels 73 and 74 with Aldebaran.">
+<a href="images/release-notes/c13/ffi_raw_ch73_74_c13.png"><img src="images/release-notes/c13/ffi_raw_ch73_74_c13.png" class="img-responsive" alt="C13 FFI image of channels 73 and 74 with Aldebaran.">
 </a>
 </div>
 <a href="images/release-notes/c13/ffi_raw_ch73_74_c13_zoom.png">
 <img src="images/release-notes/c13/ffi_raw_ch73_74_c13_zoom.png" class="img-responsive" alt="C13 FFI zoomed image of channels 73 and 74 showing collateral data rows.">
+<a href="images/release-notes/c13/ffi_raw_ch73_74_c13_zoom.png"><img src="images/release-notes/c13/ffi_raw_ch73_74_c13_zoom.png" class="img-responsive" alt="C13 FFI zoomed image of channels 73 and 74 showing collateral data rows.">
 </a>
 </div>
 </div>
@@ -195,6 +198,7 @@ values and bimodal behavior during the affected cadences.
 </div>
 <a href="images/release-notes/c13/c13_ch74_black_for_ms_residual.png">
 <img src="images/release-notes/c13/c13_ch74_black_for_ms_residual.png" class="img-responsive" alt="C13 channel 74 black model residual for masked smear pixels by cadence number.">
+<a href="images/release-notes/c13/c13_ch74_black_for_ms_residual.png"><img src="images/release-notes/c13/c13_ch74_black_for_ms_residual.png" class="img-responsive" alt="C13 channel 74 black model residual for masked smear pixels by cadence number.">
 </a>
 </div>
 </div>
@@ -220,6 +224,7 @@ for delivering these targets in the future.
 <br>
 
 </div>
+<div>
  <i>
  The status of major changes planned for the final uniform processing.
  <br>
