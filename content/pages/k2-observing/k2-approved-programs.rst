@@ -117,8 +117,8 @@ Campaign 18
             <b>M67</b> is the benchmark star cluster
             with solar-like age and metallicity.
             Hundreds of stars in the cluster core are being observed
-            using 121 unique 40x40-pixel long cadence aperture masks
-            which create a contiguous 440x440 pixel region.
+            using 441 unique 20x20-pixel long cadence aperture masks
+            which create a contiguous 420x420 pixel region.
             In addition, hundreds of members in the outskirts
             are being observed using standard masks,
             and more than 40 targets are being observed
