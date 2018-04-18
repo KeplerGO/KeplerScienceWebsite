@@ -1,9 +1,9 @@
 Title: K2 Uniform Global Reprocessing Underway
-Date: 2018-04-11 12:00
+Date: 2018-04-18 12:00
 Author: Jeff Coughlin
 
 
-The K2 mission has begun a global reprocessing of the C0–C14 K2 data with an updated, uniform version of the Kepler/K2 pipeline — C15 and later campaigns will be processed with the same pipeline version. This effort should enhance the scientific return of the K2 mission by providing users with a high quality, uniformly processed and documented K2 dataset. This work will be performed on a best-effort basis as long as mission resources are available to do so. The campaigns have been prioritized by enhanced scientific return as a result of reprocessing. Note that processing of new campaigns (e.g., C16, C17, etc.) will always be prioritized over reprocessing of older campaigns.
+The K2 mission has begun a global reprocessing of the C0–C14 K2 data with an updated, uniform version of the Kepler/K2 pipeline. C15 and later campaigns will be processed with the same pipeline version. This effort should enhance the scientific return of the K2 mission by providing users with a high quality, uniformly processed and documented K2 dataset. This work will be performed on a best-effort basis as long as mission resources are available to do so. The campaigns have been prioritized by enhanced scientific return as a result of reprocessing. Note that processing and delivery of new campaigns (e.g., C16, C17, etc.) will always be prioritized over reprocessing of older campaigns.
 
 **Priority of Older Campaigns**: C2, C13, C0, C11, C1, C3, C4, C5, C6, C7, C8, C9, C10, C12, C14.
 
@@ -16,9 +16,11 @@ All data will be delivered to the [K2 data archive at MAST](http://archive.stsci
 
 The changes listed below affect all of the data at a significant level.
 
+<br>
+
 #### Dynablack
 
-A new feature of the Kepler pipeline that was implemented for K2 processing, starting with C15, is the use of Dynamic Black Correction, or "Dynablack", which is essentially a more sophisticated algorithm to perform the CCD pixel-level calibration that accounts for time varying, instrument-induced artifacts when calibrating the data.
+A new feature of the Kepler pipeline that has been implemented for K2 global reprocessing is the use of Dynamic Black Correction, or "Dynablack", which is essentially a more sophisticated algorithm to perform the CCD pixel-level calibration that accounts for time varying, instrument-induced artifacts when calibrating the data.
 
 Dynablack uses the full-frame images and collateral pixels to provide two main benefits compared to traditional pixel calibration:
 
@@ -26,21 +28,27 @@ Dynablack uses the full-frame images and collateral pixels to provide two main b
 
 * Identify rolling-band artifacts (see [§6.7 of the Instrument Handbook](https://archive.stsci.edu/kepler/manuals/KSCI-19033-002.pdf#page=75)) with flags in the target pixel files.
 
-For the latter case, users can utilize the new RB_LEVEL flags in the FITS files. See [§A.1.1 of the Kepler Data Release 25 Notes](https://archive.stsci.edu/kepler/release_notes/release_notes25/KSCI-19065-002DRN25.pdf#page=11) and [§2.3.2 of the Kepler Archive Manual](https://archive.stsci.edu/kepler/manuals/archive_manual.pdf#page=24) for information on how to interpret and utilize the RB_LEVEL flags.
+For the latter case, users can utilize the new RB_LEVEL flags in the FITS files. See [§A.1.1 of the Kepler Data Release 25 Notes](https://archive.stsci.edu/kepler/release_notes/release_notes25/KSCI-19065-002DRN25.pdf#page=11) and [§2.3.2 of the Kepler Archive Manual](https://archive.stsci.edu/kepler/manuals/archive_manual.pdf#page=24) for information on how to interpret and utilize the RB_LEVEL flags. Users should note that the RB_LEVEL test at the shortest duration (3 hours) is overly sensitive to instrument noise and does not offer a reliable indicator of the presence of rolling band pattern noise. Because the binary "Rolling Band Detected" QUALITY and SAP_QUALITY flags (bits 18, 19) in the target pixel files and light curve files are based on a rolling band detection at any of the test durations, they also do not provide a reliable indicator of the presence of rolling band pattern noise. The RB_LEVEL flags at durations of 6 hours and longer provide the best indication of the presence of rolling band artifacts.
 
+As shown in Figure Major-Proc-Status, Dynablack was never implemented for campaigns prior to C15, but will be implemented during the global reprocessing for all old and new campaigns.
 
-#### Pointing Flags
+<br>
 
-As mentioned in the C14 release notes, a change in the on-board fine point fault logging threshold
-results in additional cadences being flagged as "Spacecraft is not in fine point"
-(QUALITY flag bit #16, decimal=32768). Starting with C15, the pipeline is now ignoring the
-spacecraft not-in-fine-point flag and using the "Spacecraft is in coarse point" flag (QUALITY
-flag bit #3, decimal=4). This flag is set by the project based on the measured pointing error exceeding
-1.5 pixels for 4 or more continuous cadences, or exceeding 2.5 pixels for a single cadence. The pipeline will treat
-these "coarse-point" cadences as "not-in-fine-point" cadences were treated in previous campaigns
-up to and including C14, i.e., there will be calibrated pixels, but light curve data will be gapped
-for the flagged cadences. The project recommends that starting with C15, users look to
-QUALITY flag bit #3 as an indicator of poor spacecraft pointing.
+#### Not in Fine Point Flag
+
+Throughout K2, software on-board the spacecraft would record when it considered itself not in fine point. The pipeline would flag these cadences as "Spacecraft is not in fine point" (QUALITY flag bit #16, decimal=32768) and the data would be gapped in both PA and PDC lightcurves. Starting with C14, a change in the on-board software resulted in additional cadences being flagged as "Spacecraft is not in fine point" (QUALITY flag bit #16, decimal=32768). Especially after this change, but also before, it was noticed that the "Spacecraft is not in fine point" flag was set on cadences that actually contained good data where the spacecraft pointing was acceptable for science observations.
+
+As shown in Figure Major-Proc-Status, the "Spacecraft is not in fine point" flag (QUALITY flag bit #16, decimal=32768) was used for all campaigns prior to C15. Starting with C15 and reprocessed campaigns, it is now ignored in the pipeline. See the next section, "Coarse Pointing Flag", for how cadences with poor pointing are now appropriately handled in the pipeline.
+
+<br>
+
+#### Coarse Pointing Flag
+
+For C15+ and the global reprocessing, the pipeline is now using the "Spacecraft is in coarse point" flag (QUALITY flag bit #3, decimal=4) to identify cadences with significant pointing error. This flag is set by the project based on the measured pointing error (utilizing high-frequency sub-cadence telemetry data) exceeding 1.5 pixels for 4 or more continuous cadences, or exceeding 2.5 pixels for a single cadence. The pipeline will treat these "coarse-point" cadences by gapping them in the PDC lightcurves for the flagged cadences. The project has found that implementing this flag significantly improves the measured precision of the PDC lightcurves, both as a result of eliminating flux outliers due to poor pointing and PDC being able to focus more of its detrending power on correcting broad systematics and not single outliers. The project recommends that starting with C15, users look to QUALITY flag bit #3 as an indicator of poor spacecraft pointing.
+
+As shown in Figure Major-Proc-Status, the coarse point flags were implemented starting with C14 and all new campaigns, and will be implemented for all reprocessed past campaigns.
+
+<br>
 
 #### Cosmic-Ray Threshold
 
@@ -88,31 +96,29 @@ Starting with C15, short-cadence light curves are now produced and available at 
 <div class="thumbnail" style="width: 49%;display: inline-block;">
 <div class="caption">
 <i>Figure C15-SC-Example-1: The Exoplanet Host K2-38 / EPIC 204221263.</i>
+</div>
 <a href="images/release-notes/c15/epic_204221263_zoom1.png">
 <img src="images/release-notes/c15/epic_204221263_zoom1.png" class="img-responsive" alt="The Exoplanet Host K2-38 / EPIC 204221263.">
 </a>
-</div>
 </div>
 
 <div class="thumbnail" style="width: 49%;display: inline-block;">
 <div class="caption">
 <i>Figure C15-SC-Example-2: The AM CVn type Binary HP Lip / EPIC 250105131</i><br>
+</div>
 <a href="images/release-notes/c15/epic_250105131_zoom1.png">
 <img src="images/release-notes/c15/epic_250105131_zoom1.png" class="img-responsive" alt="The AM CVn type Binary HP Lip / EPIC 250105131.">
 </a>
 </div>
-</div>
 
 
 
-</div>
 <div>
- <i>
- The status of major changes planned for the final uniform processing.
+ <i>Figure Major-Proc-Status: The status of major changes planned for the final uniform processing.</i>
  <br>
  <font color="red">Red indicates the final processing setting is *not* yet implemented in currently available data.</font>
- &ensp;
- <font color="blue">Blue indicates the final processing setting has been implemented in currently available data.</font></span>
+ <br>
+ <font color="blue">Blue indicates the final processing setting has been implemented in currently available data.</font>
  </i>
  <a href="images/news/K2-Proc-Status-Major.png"><img class="img-responsive" style="padding:0.5em;" src="images/news/K2-Proc-Status-Major.png" id="k2-proc-status-major" alt="Status of K2 Processing Major Issues">
 </a>
@@ -180,11 +186,11 @@ of this composite image (at the green dashed line).
 <a href="images/release-notes/c13/ffi_raw_ch73_74_c13.png"><img src="images/release-notes/c13/ffi_raw_ch73_74_c13.png" class="img-responsive" alt="C13 FFI image of channels 73 and 74 with Aldebaran.">
 </a>
 </div>
+<div>
 <a href="images/release-notes/c13/ffi_raw_ch73_74_c13_zoom.png">
 <img src="images/release-notes/c13/ffi_raw_ch73_74_c13_zoom.png" class="img-responsive" alt="C13 FFI zoomed image of channels 73 and 74 showing collateral data rows.">
 <a href="images/release-notes/c13/ffi_raw_ch73_74_c13_zoom.png"><img src="images/release-notes/c13/ffi_raw_ch73_74_c13_zoom.png" class="img-responsive" alt="C13 FFI zoomed image of channels 73 and 74 showing collateral data rows.">
 </a>
-</div>
 </div>
 
 <div class="thumbnail">
@@ -201,10 +207,10 @@ values and bimodal behavior during the affected cadences.
 <a href="images/release-notes/c13/c13_ch74_black_for_ms_residual.png"><img src="images/release-notes/c13/c13_ch74_black_for_ms_residual.png" class="img-responsive" alt="C13 channel 74 black model residual for masked smear pixels by cadence number.">
 </a>
 </div>
-</div>
 
 
-#### Scrambled uncertatinties
+
+#### Scrambled uncertainties
 
 #### Momentum dump flag
 
@@ -223,15 +229,13 @@ and C11b missing target lists. The project is investigating options
 for delivering these targets in the future.
 <br>
 
-</div>
+
 <div>
- <i>
- The status of major changes planned for the final uniform processing.
- <br>
- <font color="red">Red indicates the final processing setting is *not* yet implemented in currently available data.</font>
- &ensp;
- <font color="blue">Blue indicates the final processing setting has been implemented in currently available data.</font></span>
- </i>
+<i>Figure Minor-Proc-Status: The status of minor changes planned for the final uniform processing.</i>
+<br>
+<font color="red">Red indicates the final processing setting is *not* yet implemented in currently available data.</font>
+<br>
+<font color="blue">Blue indicates the final processing setting has been implemented in currently available data.</font>
  <a href="images/news/K2-Proc-Status-Minor.png"><img class="img-responsive" style="padding:0.5em;" src="images/news/K2-Proc-Status-Minor.png" id="k2-proc-status-major" alt="Status of K2 Processing Major Issues">
 </a>
 </div>
