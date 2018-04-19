@@ -40,7 +40,7 @@ Throughout K2, software on-board the spacecraft would record when it considered 
 
 As shown in Figure Major-Proc-Status, the "Spacecraft is not in fine point" flag (QUALITY flag bit #16, decimal=32768) was used for all campaigns prior to C15. Starting with C15 and reprocessed campaigns, it is now ignored in the pipeline. See the next section, "Coarse Pointing Flag", for how cadences with poor pointing are now appropriately handled in the pipeline.
 
-<br>
+<br>## Description
 
 #### Coarse Pointing Flag
 
@@ -52,65 +52,22 @@ As shown in Figure Major-Proc-Status, the coarse point flags were implemented st
 
 #### Cosmic-Ray Threshold
 
+The Kepler pipeline employs an algorithm to detect when cosmic rays impact the collateral area of the CCD, used to calibrate the pixel-level data, and correct for the cosmic rays so that the data is properly calibrated. The original Kepler pipeline was not designed to work with significant (> 1 pixel) motion, especially in the presences of very bright objects, which are both common to K2. As a result, it was noticed that the cosmic ray detection algorithm was sometimes falsely triggering, which resulted in an artificial suppression of the collateral data, and thus an under-correction of all pixels in an affected column. The net effect is the presence of bright columns in affected cadences (examples can be seen in the <a href="/k2-data-release-notes.html#k2-campaign-8">C8 data release notes</a> under 'Intermittent Streaks'). This effect was not noticed to be significant until many campaigns had been processed, and varies significantly per campaign and channel.
 
-There are episodic smear correction errors on channel 42 (mod.out 13.2), the channel containing the Uranus supermask. Nearly every long cadence in the supermask appears to contain between 2 and 20 columns which are brightened by 10 to 80 counts. The brightening of a column lasts only for a single cadence, with no obvious patterns as to which columns are affected in a given cadence. Two example cadences which are particularly affected are 119980 and 119982.
+After investigation, the project determined the most effective course of action was to raise the threshold of the collateral cosmic ray detector from 4 sigma to 7 sigma, which struck a balance between minimizing false detections while still detecting and correcting for significant, real cosmic ray events. This should improve photometric precision by reducing the number of flux outliers in the lightcurves.
 
-Preliminary investigation indicates that this streaking is caused by false cosmic ray detections in the smear collateral data. Because we do not see similar streaking in the supermask for IC 1613, located on channel 58, we believe that the poor cosmic ray detector performance is due to the bright signal from Uranus moving across columns and altering the cosmic ray detector's dynamic threshold. When false cosmic rays are removed from the smear signal, the pixel data in that column is under-corrected, resulting in a brightening of that column for a given cadence. The streaks are not in the raw data, so users may wish to do their own smear correction on this channel.
+As shown in Figure Major-Proc-Status, the cosmic ray threshold was set to 4 sigma for C0–C10 and 7 sigma for C11 and all newer campaigns. The threshold will be set to 7 sigma for all new campaigns and reprocessed past campaigns.
 
-The extent of the problem in time and CCD columns can be seen in the figure *C8-Channel 42 Calibrated Smear*. The long cadence data were calibrated in three segments of ~1284 cadences each. The false cosmic ray detections are present in columns where Uranus appeared at any time during the set of cadences being processed. In the figure, the false detections are seen to be confined primarily to the first segment (relative cadence 1-1285, LC number 119907-121191) and third segment (relative cadence 2570-3853, LC number 122476-123759) and to columns above 500. Targets on channel 42 below column 500 should be relatively unaffected by this anomaly.
-
-<div class="thumbnail" style="width: 45%;display: inline-block;">
-<div class="caption">
-<i>Figure C8-Channel-42a: Uranus supermask smear anomaly, Cadence 119980. </i>   
-</div>
-<a href="images/release-notes/c8/c8-channel42-cadence119980.png">
-<img src="images/release-notes/c8/c8-channel42-cadence119980.png" class="img-responsive" alt="Uranus supermask cadence 119980 smear streaks.">
-</a>
-</div>
-
-<div class="thumbnail" style="width: 45%;display: inline-block;">
-<div class="caption">
-<i>Figure C8-Channel-42b: Uranus supermask smear anomaly, Cadence 119982.  </i>
-</div>
-<a href="images/release-notes/c8/c8-channel42-cadence119982.png">
-<img src="images/release-notes/c8/c8-channel42-cadence119982.png" class="img-responsive" alt="Uranus supermask cadence 119982 smear streaks.">
-</a>
-</div>
-
-<div class="thumbnail" style="width: 90%;">
-<div class="caption">
-<i>Figure C8-Channel 42 Calibrated Smear: The smear measurement for channel 42 consists of a row vector with 1100 columns for each of the 3853 long cadences. All of the smear measurements are shown with column number on the x-axis and relative cadence number on the y-axis. Time is increasing downward. The gray scale indicates the smear level in e-/sec, with black indicating higher levels. The retrograde path of Uranus across the columns is clearly visible as a strong signal in the smear. The false cosmic ray detections are visible as white spots (a single column for a single cadence) scattered throughout the right half of the figure. The white vertical streak corresponds to a bad column; the white horizontal streaks are excluded cadences. Dark vertical streaks indicate a bright star somewhere in that column.</i>   
-</div>
-<a href="images/release-notes/c8/c8_calibrated_smear_m13o2.png">
-<img src="images/release-notes/c8/c8_calibrated_smear_m13o2.png" class="img-responsive" alt="Calibrated smear values for channel 42 showing excessive false cosmic ray detections.">
-</a>
-</div>
-
-
+<br>
 
 
 #### Short-Cadence
 
-Starting with C15, short-cadence light curves are now produced and available at MAST, though we strongly caution users that no work was done to adapt the Kepler pipeline's detrending module (PDC), developed for Kepler data, to work well on K2 data. *Thruster firings are especially poorly corrected for most short-cadence targets, and other systematic features may not be corrected well.* See Figure  C15-SC-Example-1 below for an example of remaining systematics in short-cadence data around thruster firings. However, some targets do have adequate detrending in short-cadence, and even in the cases of poor detrending, short-term astrophysical variation can be seen for targets where such astrophysical variation exists. See Figure C15-SC-Example-2 below where the ~18 min periodic variations of the AM CVn type binary HP Lip are readily apparent in the C15 short-cadence light curve. The hope is that producing these short-cadence light curves overall benefits the community compared to not producing them, even if they may only be used for initial inspection of the short-cadence data, which might prompt users to perform their own short-cadence detrending, or better adapt the existing long-cadence [Cotrending Basis Vector (CBV) files](https://archive.stsci.edu/k2/cbv.html) for use in detrending the short-cadence data.
+The Kepler pipeline corrects short-cadence PA lightcurves by interpolating from the long-cadence cotrending basis vectors (CBVs) that are produced as a result of long-cadence PDC. This method was not designed with the significant motion and resulting systematics that arise in K2 data, and as a result does a poor job of detrending K2 short-cadence data. For this reason, beyond an initial inspection based on C2, the project did not attempt to produce short-cadence K2 light curves as part of its processing for C0–C14, as shown in Figure Major-Proc-Status.
 
-<div class="thumbnail" style="width: 49%;display: inline-block;">
-<div class="caption">
-<i>Figure C15-SC-Example-1: The Exoplanet Host K2-38 / EPIC 204221263.</i>
-</div>
-<a href="images/release-notes/c15/epic_204221263_zoom1.png">
-<img src="images/release-notes/c15/epic_204221263_zoom1.png" class="img-responsive" alt="The Exoplanet Host K2-38 / EPIC 204221263.">
-</a>
-</div>
+As part of the global reprocessing effort, the project revisited the prospect of producing short-cadence light curves by doing so for C15, and in consultation with the community, found that despite the overall poor detrending, there was value in having short-cadence light curves available for at least an initial inspection, especially given that currently short-cadence light curves are not produced for most short cadence targets as part of the community-delivered high-level science products. The hope is that producing these short-cadence light curves overall benefits the community compared to not producing them, even if they may only be used for initial inspection of the short-cadence data, which might prompt users to perform their own short-cadence detrending, or better adapt the existing long-cadence [Cotrending Basis Vector (CBV) files](https://archive.stsci.edu/k2/cbv.html) for use in detrending the short-cadence data.
 
-<div class="thumbnail" style="width: 49%;display: inline-block;">
-<div class="caption">
-<i>Figure C15-SC-Example-2: The AM CVn type Binary HP Lip / EPIC 250105131</i><br>
-</div>
-<a href="images/release-notes/c15/epic_250105131_zoom1.png">
-<img src="images/release-notes/c15/epic_250105131_zoom1.png" class="img-responsive" alt="The AM CVn type Binary HP Lip / EPIC 250105131.">
-</a>
-</div>
-
+Starting with C15, as well as for all reprocessed data, short-cadence light curves are now produced and available at MAST, though again we strongly caution users that no work was done to adapt the Kepler pipeline's detrending module (PDC), developed for Kepler data, to work well on K2 data. *Thruster firings are especially poorly corrected for most short-cadence targets, and other systematic features may not be corrected well.* See Figure C15-SC-Example-1 in the <a href="/k2-data-release-notes.html#k2-campaign-15">C15 data release notes</a> (under the section 'Short Cadence Light Curves') for an example of remaining systematics in short-cadence data around thruster firings. However, some targets do have adequate detrending in short-cadence, and even in the cases of poor detrending, short-term astrophysical variation can be seen for targets where such astrophysical variation exists. See Figure C15-SC-Example-2 in the <a href="/k2-data-release-notes.html#k2-campaign-15">C15 data release notes</a> where the ~18 min periodic variations of the AM CVn type binary HP Lip are readily apparent in the C15 short-cadence light curve.
 
 
 <div>
