@@ -12,7 +12,9 @@ All data will be delivered to the [K2 data archive at MAST](http://archive.stsci
 
 ## Changes
 
-### Significant Changes
+We have grouped the list of pipeline changes into two categories: Major and Minor. The Major changes affect the data at a significant level and/or are applicable to the vast majority of campaigns. The minor changes affect the data at a much less significant level and/or are applicable to only a small number of campaigns. At the end of each category we show a graphic that visually demonstrates which campaigns are affected (or will be affected) by each change.
+
+### Major Changes
 
 The changes listed below affect all of the data at a significant level.
 
@@ -69,6 +71,7 @@ As part of the global reprocessing effort, the project revisited the prospect of
 
 Starting with C15, as well as for all reprocessed data, short-cadence light curves are now produced and available at MAST, though again we strongly caution users that no work was done to adapt the Kepler pipeline's detrending module (PDC), developed for Kepler data, to work well on K2 data. *Thruster firings are especially poorly corrected for most short-cadence targets, and other systematic features may not be corrected well.* See Figure C15-SC-Example-1 in the <a href="/k2-data-release-notes.html#k2-campaign-15">C15 data release notes</a> (under the section 'Short Cadence Light Curves') for an example of remaining systematics in short-cadence data around thruster firings. However, some targets do have adequate detrending in short-cadence, and even in the cases of poor detrending, short-term astrophysical variation can be seen for targets where such astrophysical variation exists. See Figure C15-SC-Example-2 in the <a href="/k2-data-release-notes.html#k2-campaign-15">C15 data release notes</a> where the ~18 min periodic variations of the AM CVn type binary HP Lip are readily apparent in the C15 short-cadence light curve.
 
+<br>
 
 <div>
  <i>Figure Major-Proc-Status: The status of major changes planned for the final uniform processing.</i>
@@ -81,99 +84,50 @@ Starting with C15, as well as for all reprocessed data, short-cadence light curv
 </a>
 </div>
 
+<br>
 
 ### Minor Changes
 
 The changes listed below affect only portions of the K2 data and/or at a minor level.
 
-#### C13 Aldeberan
+<br>
+
+#### LDE Parity Error flag
+
+An 'LDE Parity Error' flag is set on-board the spacecraft for all targets when a bright object on that channel bleeds into the serial readout register area of the CCD and results in an out of bounds value in the analog-to-digital converter. Since this was an extremely rare event in Kepler prime, the Kepler pipeline was set to discard all cadences flagged as 'LDE Parity Error' in both the target pixel and lightcurve files for all targets. With K2, there are many bright stars, and bright, moving planets that occur in several campaigns. This results in the 'LDE Parity Error' flag being tripped for multiple cadences in several campaigns. Specifically, 1,237 cadences are flagged in C2 most likely due to the Kp~4 star EPIC 205283834, 128 in C6 most likely due to Spica, 148 in C11 most likely due to Saturn, and between 2–11 cadences in all other campaigns. Inspecting the cadences, the actual data was found to not exhibit any defects, and thus these cadences should ideally not be discarded.
+
+As shown in Figure Minor-Proc-Status, the pipeline was set to discard cadences based on the 'LDE Parity Error' flag for C0, C1, C3, C4, C6, and C8. No ill effects were seen in the other campaigns when the pipeline was set to ignore the flag. Thus, for C15 and all future campaigns, as well as all reprocessing, the pipeline will continue to ignore the flag, which will result in more cadences with good data available to users.
+
+<br>
+
+#### Momentum Dump Flag
+
+A 'Momentum Dump' flag is set on-board the spacecraft for all targets when the spacecraft initiates a momentum dump (a.k.a. a 'Re-Sat'). This happens about every 2 days as part of normal K2 operations to maintain spacecraft pointing with two reaction wheels. During this time, the spacecraft can move up to half a degree within a cadence, which will significantly affect the ability to measure accurate photometry during an affected cadence. The Kepler pipeline is nominally set to discard cadences flagged as 'Momentum Dump' in both the target pixel and lightcurve files.
+
+As shown in Figure Minor-Proc-Status, the pipeline utilized the 'Momentum Dump' flag for C0–C5 and C11–C15. For C6–C10, the project experimented with setting the pipeline to ignore the flag, as there was a possibility that some of these flagged cadences did not have significant motion and might produce accurate photometry. However, upon examination based on the C6–C10 data, the project found that indeed these flagged cadences should be discarded and accurate photometry was not able to be recovered for them. Thus, for C15 and all future campaigns, as well as all reprocessing, the pipeline will discard cadences flagged as 'Momentum Dump' in both the target pixel and lightcurve files. This will result in ~40 less cadences for C6–C10, but in theory improved light curves as PDC will be able to better detrend the lightcurves without have to spend power on correcting flux outliers as a result of the momentum dumps.
+
+<br>
+
+#### C13 Smear Coefficient
+
+In C13, the 1st magnitude star Aldebaran on channel 73 bleeds heavily into the serial register of the CCD, corrupting the first three rows of the masked smear region. While these rows are not used for the smear correction, at times during C13 the saturation spill covered more rows in the masked smear, extending up to row 15 on channel 74 (see figure Aldebaran in the <a href="/k2-data-release-notes.html#k2-campaign-13">C13 data release notes</a> under the section 'Smear Correction Error on Channel 74'). Trailing black rows 7-18 are fit with a linear model to estimate the black (bias) level for the masked smear region. At these times, the trailing black estimate for the masked smear signal was corrupted, resulting in a corrupted smear measurement for the affected cadences. Since the smear signal is subtracted from all the pixels in the channel, all targets on channel 74 were affected for these cadences and resulted in lightcurves that show very significant in baseline flux level for affected cadences. The smear corruption effects were most prominent in the
+first 80 cadences of the campaign and again in the period between cadence 1800-3200 (see Figure Channel 74 Trailing Black in the <a href="/k2-data-release-notes.html#k2-campaign-13">C13 data release notes</a> under the section 'Smear Correction Error on Channel 74'). The net effect is to render the data for targets on channel 74 in C13 nearly useable for science study (without significant work by users).
+
+As shown in Figure Minor-Proc-Status, this effect is unique only to C13. When C13 is reprocessed, the smear coefficients for channel 74 will be manually set to reasonable values for all cadences, thus producing nominal data for all targets on channel 74.
+
+<br>
+
+#### FFI Interpolation Bug
 
 
-The presence of the first magnitude star Aldebaran on channel 73 led to an error in
-the smear correction for channel 74, which shares the same physical CCD (see figure
-Aldebaran).
-The saturated charge from Aldebaran spills over all rows of the image and into the
-serial register of the CCD, corrupting the first three rows of the masked smear region
-in the FFI. While these rows are not used for the smear correction, at times during
-C13 the saturation spill covered more rows in the masked smear, extending up to row 15 on
-channel 74 (see figure Channel 74 Trailing Black). Trailing black rows 7-18 are fit
-with a linear model to estimate the black (bias) level for the masked smear region.
-
-At these times,
-the trailing black estimate for the masked smear signal was corrupted, resulting in a
-corrupted smear measurement for the affected cadences. Since the smear signal is subtracted
-from all the pixels in the channel, all targets on channel 74 were affected for these
-cadences. The impact is somewhat mitigated by background correction, but due to the
-non-linearity correction during calibration, a residual error remains. The effect is
-generally more significant for faint targets; however, users are cautioned
-to estimate the impact on their science of using data from the affected cadences.
-In addition, due to the rapidly changing background estimate, the argabrightening
-detector (see [Kepler Data Characteristics Handbook, Sec 5.8](http://archive.stsci.edu/kepler/manuals/Data_Characteristics.pdf))
-was triggered on channel 74 resulting in data gaps in the light curve files for
-some targets. Users should treat the channel specific argabrightening indicator
-in QUALITY and SAP_QUALITY flags with caution
-(bit 13, decimal=4096).
-
-The smear corruption effects were most prominent in the
-first 80 cadences of the campaign and again in the period between cadence 1800-3200
-(see Figure Channel 74 Trailing Black)
-In order to allow users to select the cadences they wish to exclude, the attached
-csv file <a href="images/release-notes/c13/c13_ch74_black_for_smear_residuals.csv">c13_ch74_black_for_smear_residuals.csv</a>
-contains the residual black level for the masked smear pixels after model fitting for
-each LC.
-The units of the residual signal are ADU/LC/pixel. The cadences with large negative
-residuals (<-200 ADU/LC/pixel) and those showing bimodal behavior are indicative of
-a poor model fit and a corrupted smear correction.
-
-<div class="thumbnail">
-<div class="caption">
-<i>Figure Aldebaran: An image of channels 73 (left) and 74 (right) from the FFI
-ktwo2017079075530-c13_ffi-cal shows the bright star on channel 73 with
-saturation spilling over all rows (x-axis is CCD columns, y-axis is CCD rows).
-In a zoomed image of the first 50 rows of the CCD
-(lower panel) the saturation spill along the serial register of both channels shows
-up as a white bar in rows 1-3. The readout amplifiers
-are located at the lower left corner for channel 73 and lower right corner for
-channel 74. The trailing black signal is measured from virtual columns in the center
-of this composite image (at the green dashed line).
-</i>
-</div>
-<a href="images/release-notes/c13/ffi_raw_ch73_74_c13.png">
-<img src="images/release-notes/c13/ffi_raw_ch73_74_c13.png" class="img-responsive" alt="C13 FFI image of channels 73 and 74 with Aldebaran.">
-<a href="images/release-notes/c13/ffi_raw_ch73_74_c13.png"><img src="images/release-notes/c13/ffi_raw_ch73_74_c13.png" class="img-responsive" alt="C13 FFI image of channels 73 and 74 with Aldebaran.">
-</a>
-</div>
-<div>
-<a href="images/release-notes/c13/ffi_raw_ch73_74_c13_zoom.png">
-<img src="images/release-notes/c13/ffi_raw_ch73_74_c13_zoom.png" class="img-responsive" alt="C13 FFI zoomed image of channels 73 and 74 showing collateral data rows.">
-<a href="images/release-notes/c13/ffi_raw_ch73_74_c13_zoom.png"><img src="images/release-notes/c13/ffi_raw_ch73_74_c13_zoom.png" class="img-responsive" alt="C13 FFI zoomed image of channels 73 and 74 showing collateral data rows.">
-</a>
-</div>
-
-<div class="thumbnail">
-<div class="caption">
-<i>Figure Channel 74 Trailing Black: A time series of the residual trailing
-black level for the masked smear pixels after model fitting shows the effect
-of the saturation from Aldebaran. The trailing black rows used in estimating
-the black correction for the masked smear signal (rows 7:18) show anomalous
-values and bimodal behavior during the affected cadences.
-</i>
-</div>
-<a href="images/release-notes/c13/c13_ch74_black_for_ms_residual.png">
-<img src="images/release-notes/c13/c13_ch74_black_for_ms_residual.png" class="img-responsive" alt="C13 channel 74 black model residual for masked smear pixels by cadence number.">
-<a href="images/release-notes/c13/c13_ch74_black_for_ms_residual.png"><img src="images/release-notes/c13/c13_ch74_black_for_ms_residual.png" class="img-responsive" alt="C13 channel 74 black model residual for masked smear pixels by cadence number.">
-</a>
-</div>
-
-
+<br>
 
 #### Scrambled uncertainties
 
-#### Momentum dump flag
 
-#### LDE parity error
+<br>
 
-#### Exported Targets
+#### Undelivered Targets
 
 Pipeline errors during the process of exporting the light curve (LCV) and
 target pixel (TP) FITS files resulted in targets from both C11a and C11b
@@ -184,6 +138,7 @@ missing targets for C11a</a> (15 are non-custom targets) and
 missing custom-aperture targets for C11b</a>. There is no overlap between the C11a
 and C11b missing target lists. The project is investigating options
 for delivering these targets in the future.
+
 <br>
 
 
