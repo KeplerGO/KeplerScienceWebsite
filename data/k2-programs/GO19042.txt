@@ -9,4 +9,4 @@ CoIs: Laszlo Molnar, Csaba Kiss, Otto Hanyecz (Konkoly Observatory), Thomas Mull
 
 # Targets requested by this program that have been observed (1)
 EPIC,RA,Dec,Kp,InvestigationIDs
-TBC,,,,GO19031_LC|GO19042_LC
+TBC,,,,GO19028_LC|GO19031_LC|GO19042_LC

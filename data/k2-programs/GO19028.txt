@@ -7,14 +7,6 @@ CoIs:
 
 
 
-# Targets requested by this program that have been observed (9)
+# Targets requested by this program that have been observed (1)
 EPIC,RA,Dec,Kp,InvestigationIDs
-SSO_100475,,,,GO19028_LC
-SSO_163731,,,,GO19028_LC
-SSO_175471,,,,GO19028_LC
-SSO_200037,,,,GO19028_LC
-SSO_2013_R3,,,,GO19028_LC
-SSO_23126,,,,GO19028_LC
-SSO_2P_Encke,,,,GO19028_LC
-SSO_60421,,,,GO19028_LC
-SSO_Amphiaraos,,,,GO19028_LC
+TBC,,,,GO19028_LC|GO19031_LC|GO19042_LC
