@@ -24,7 +24,7 @@ The list of pipeline changes have been grouped into two categories: Major and Mi
 
 #### Dynablack
 
-A new feature of the Kepler pipeline that has been implemented for K2 global reprocessing is the use of Dynamic Black Correction, or "Dynablack", which is essentially a more sophisticated algorithm to perform the CCD pixel-level calibration that accounts for time varying, instrument-induced artifacts when calibrating the data.
+An feature of the Kepler pipeline that was utilized during Kepler prime processing, but until now had not been implemented for K2, is the use of Dynamic Black Correction, or "Dynablack", which is essentially a more sophisticated algorithm to perform the CCD pixel-level calibration that accounts for time varying, instrument-induced artifacts when calibrating the data.
 
 Dynablack uses the full-frame images and collateral pixels to provide two main benefits compared to traditional pixel calibration:
 
