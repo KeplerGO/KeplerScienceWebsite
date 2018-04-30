@@ -1,4 +1,4 @@
-Title: K2 Uniform Global Reprocessing Underway
+Title: K2 uniform global reprocessing underway
 Date: 2018-04-27 14:00
 Author: Jeff Coughlin
 
