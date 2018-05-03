@@ -9,7 +9,7 @@ For more information about the Kepler pipeline see the Kepler manuals: <a href="
 
 Information about each specific campaign can be found in the links associated with each data release.
 
-### Data Release 21
+### Data Release 22
 
 * March 2018
 * SOC 9.3
@@ -23,7 +23,7 @@ producing short cadence light curves, correcting bugs in the processing.
 For additional information about the content of this delivery see the previous Release Notes
 below.
 
-Pipeline changes put in place for Data Release 21:
+Pipeline changes put in place for Data Release 22:
 
 1. Dynablack
 

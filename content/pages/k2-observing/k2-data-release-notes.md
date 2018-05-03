@@ -274,7 +274,7 @@ Starting with C15, short-cadence light curves are now produced and available at 
 
 The following is the data release history for C15. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
 
-* <a href="k2-pipeline-release-notes.html#data-release-21">Data Release 21</a>
+* <a href="k2-pipeline-release-notes.html#data-release-22">Data Release 22</a>
 
 <hr>
 
