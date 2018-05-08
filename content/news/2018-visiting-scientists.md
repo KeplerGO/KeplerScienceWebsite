@@ -32,7 +32,7 @@ with respect to several factors, including:
 * contribution of the project to Kepler/K2’s long-term legacy.
 
 <a href="/images/news/visiting-scientist-2.jpg">
-<img class="img-responsive" src="/images/news/visiting-scientist-2.jpg" alt="PRF dither" style="max-width:500px; float: left; padding:2em;"></a>
+<img class="img-responsive" src="images/news/visiting-scientist-2.jpg" alt="Visiting scientist" style="max-width:500px; float: left; padding:2em;"></a>
 
 <a href="/images/news/visiting-scientist-1.jpg">
-<img class="img-responsive" src="/images/news/visiting-scientist-1.jpg" alt="PRF dither pattern" style="max-width:500px; float: left; padding:2em;"></a>
+<img class="img-responsive" src="images/news/visiting-scientist-1.jpg" alt="Visiting scientist" style="max-width:500px; float: left; padding:2em;"></a>
