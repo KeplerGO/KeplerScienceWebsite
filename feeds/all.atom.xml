@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2018-04-27T14:00:00-07:00</updated><entry><title>K2 Uniform Global Reprocessing Underway</title><link href="https://keplerscience.arc.nasa.gov/k2-uniform-global-reprocessing-underway.html" rel="alternate"></link><published>2018-04-27T14:00:00-07:00</published><updated>2018-04-27T14:00:00-07:00</updated><author><name>Jeff Coughlin</name></author><id>tag:keplerscience.arc.nasa.gov,2018-04-27:/k2-uniform-global-reprocessing-underway.html</id><summary type="html">&lt;p&gt;The K2 mission has begun a global reprocessing of the C0–C14 K2 data with an updated, uniform version of the Kepler/K2 pipeline. C15 and later campaigns will be processed with the same pipeline version. This effort should enhance the scientific return of the K2 mission by providing users …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The K2 mission has begun a global reprocessing of the C0–C14 K2 data with an updated, uniform version of the Kepler/K2 pipeline. C15 and later campaigns will be processed with the same pipeline version. This effort should enhance the scientific return of the K2 mission by providing users with a high quality, uniformly processed and documented K2 dataset. This work will be performed on a best-effort basis as long as mission resources are available to do so — there is no guarantee that the Mission will able to reprocess every old campaign. The campaigns have been prioritized by enhanced scientific return as a result of reprocessing. Note that processing and delivery of new campaigns (e.g., C16, C17, etc.) will always be prioritized over reprocessing of older campaigns.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2018-05-08T13:00:00-07:00</updated><entry><title>Call for Kepler/K2 Visiting Scientists</title><link href="https://keplerscience.arc.nasa.gov/call-for-keplerk2-visiting-scientists.html" rel="alternate"></link><published>2018-05-08T13:00:00-07:00</published><updated>2018-05-08T13:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-05-08:/call-for-keplerk2-visiting-scientists.html</id><summary type="html">&lt;p&gt;The Kepler/K2 mission operates a &lt;em&gt;Visiting Scientist Program&lt;/em&gt;
+which enables users of Kepler or K2 data
+to visit the mission headquarters at NASA Ames in California
+for a period of multiple days, weeks, or months.&lt;/p&gt;
+&lt;p&gt;The program gives both junior or senior researchers the opportunity
+to interact closely with …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The Kepler/K2 mission operates a &lt;em&gt;Visiting Scientist Program&lt;/em&gt;
+which enables users of Kepler or K2 data
+to visit the mission headquarters at NASA Ames in California
+for a period of multiple days, weeks, or months.&lt;/p&gt;
+&lt;p&gt;The program gives both junior or senior researchers the opportunity
+to interact closely with Kepler/K2 team members and instrument experts
+for a prolonged period of time.
+Visitors will also have the opportunity to give a seminar at NASA Ames.&lt;/p&gt;
+&lt;p&gt;Interested participants should submit a &amp;lt;2-page proposal
+that includes an outline of the research project, relevant experience,
+and the desired duration and period of the visit.
+Researchers of all career stages may apply.&lt;/p&gt;
+&lt;p&gt;Funds will normally be available
+to support the travel and lodging expenses
+of successful applicants, to be agreed upon acceptance.
+A desk and internet access will also be provided.&lt;/p&gt;
+&lt;p&gt;Proposals may be submitted at any time
+via e-mail to &lt;a href="keplergo@mail.arc.nasa.gov"&gt;keplergo@mail.arc.nasa.gov&lt;/a&gt;.
+Applications will be evaluated on a running basis
+with respect to several factors, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;scientific merit of the proposed project;&lt;/li&gt;
+&lt;li&gt;benefit of having access to Kepler/K2 experts to carry out the project;&lt;/li&gt;
+&lt;li&gt;contribution of the project to Kepler/K2’s long-term legacy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="/images/news/visiting-scientist-2.jpg"&gt;
+&lt;img class="img-responsive" src="/images/news/visiting-scientist-2.jpg" alt="PRF dither" style="max-width:500px; float: left; padding:2em;"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="/images/news/visiting-scientist-1.jpg"&gt;
+&lt;img class="img-responsive" src="/images/news/visiting-scientist-1.jpg" alt="PRF dither pattern" style="max-width:500px; float: left; padding:2em;"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>K2 uniform global reprocessing underway</title><link href="https://keplerscience.arc.nasa.gov/k2-uniform-global-reprocessing-underway.html" rel="alternate"></link><published>2018-04-27T14:00:00-07:00</published><updated>2018-04-27T14:00:00-07:00</updated><author><name>Jeff Coughlin</name></author><id>tag:keplerscience.arc.nasa.gov,2018-04-27:/k2-uniform-global-reprocessing-underway.html</id><summary type="html">&lt;p&gt;The K2 mission has begun a global reprocessing of the C0–C14 K2 data with an updated, uniform version of the Kepler/K2 pipeline. C15 and later campaigns will be processed with the same pipeline version. This effort should enhance the scientific return of the K2 mission by providing users …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The K2 mission has begun a global reprocessing of the C0–C14 K2 data with an updated, uniform version of the Kepler/K2 pipeline. C15 and later campaigns will be processed with the same pipeline version. This effort should enhance the scientific return of the K2 mission by providing users with a high quality, uniformly processed and documented K2 dataset. This work will be performed on a best-effort basis as long as mission resources are available to do so — there is no guarantee that the Mission will able to reprocess every old campaign. The campaigns have been prioritized by enhanced scientific return as a result of reprocessing. Note that processing and delivery of new campaigns (e.g., C16, C17, etc.) will always be prioritized over reprocessing of older campaigns.&lt;/p&gt;
 &lt;p&gt;All data will be delivered to the &lt;a href="http://archive.stsci.edu/k2"&gt;K2 data archive at MAST&lt;/a&gt; as it is reprocessed, where the reprocessed data for a given campaign will replace the older processing when searching for data via &lt;a href="https://archive.stsci.edu/k2/data_search/search.php"&gt;MAST's K2 Data Search and Retrieval page&lt;/a&gt; and any other interfaces. The older data will remain available to users via a subdirectory in the &lt;a href="https://archive.stsci.edu/missions/k2/"&gt;MAST browser interface&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h2 id="changes"&gt;Changes&lt;/h2&gt;
