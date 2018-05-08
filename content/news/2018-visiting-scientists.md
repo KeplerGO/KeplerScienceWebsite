@@ -31,8 +31,8 @@ with respect to several factors, including:
 * benefit of having access to Kepler/K2 experts to carry out the project;
 * contribution of the project to Kepler/K2’s long-term legacy.
 
-<a href="/images/news/visiting-scientist-2.jpg">
+<a href="images/news/visiting-scientist-2.jpg">
 <img class="img-responsive" src="images/news/visiting-scientist-2.jpg" alt="Visiting scientist" style="max-width:500px; float: left; padding:2em;"></a>
 
-<a href="/images/news/visiting-scientist-1.jpg">
+<a href="images/news/visiting-scientist-1.jpg">
 <img class="img-responsive" src="images/news/visiting-scientist-1.jpg" alt="Visiting scientist" style="max-width:500px; float: left; padding:2em;"></a>
