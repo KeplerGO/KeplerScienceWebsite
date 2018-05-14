@@ -58,6 +58,9 @@ if pelican.__version__ >= '3.7.0':
     MARKDOWN = {
         'extension_configs': {
             'markdown.extensions.toc': {},
+            'markdown.extensions.codehilite': {'css_class': 'highlight'},
+            'markdown.extensions.extra': {},
+            'markdown.extensions.meta': {},
         },
     }
 else:
