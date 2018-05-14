@@ -58,7 +58,7 @@ You will also need to ensure that the `pelican`, `markdown`, `beautifulsoup4`,
 and `ghp-import` Python packages are installed,
 e.g. using the pip package installer:
 ```
-$ pip install pelican markdown beautifulsoup4 ghp-import
+$ pip install pelican markdown pygments beautifulsoup4 ghp-import
 ```
 
 Note that if `markdown` is not installed, you will only get a very cryptic warning message (`"No valid files found in content."`) when compiling the website below.
