@@ -2,7 +2,7 @@ Title: New in lightkurve: inspecting pixel data using tpf.interact()
 Date: 2018-05-11 01:00
 Author: Michael Gully-Santiago
 
-The new [`lightkurve`](http://lightkurve.keplerscience.org) Python package
+The new [lightkurve](http://lightkurve.keplerscience.org) Python package
 for Kepler and K2 data analysis, which we [first announced in March](new-kepler-data-analysis-tools-and-tutorials-lightkurve-v10.html),
 contains a new feature: `interact()`.
 
