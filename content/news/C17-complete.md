@@ -19,10 +19,10 @@ For scientific investigations that are not time-critical,
 we recommend that users wait for the calibrated and quality-controlled
 data products to become available in approximately 3 months.  
 
-Meanwhile, K2 Campaign 18 successfully started on Sunday morning, May 13th,
-near midnight UTC. 
+Meanwhile, K2 Campaign 18 successfully started on Sunday morning,
+May 13th, near midnight UTC. 
 Uniquely, Campaign 18 is the third visit to the *K2 legacy field*
-which includes both the M44 (Beehive) and M67 clusters.
+which includes both the M44 (Beehive) and M67 open star clusters.
 Campaign 18 overlaps entirely with C5, and partially with C16,
 providing a dataset with a 3-year baseline and 8-month duty cycle
 towards a Galactic sightline that is located 130 degrees away from the original Kepler field in Cygnus.
