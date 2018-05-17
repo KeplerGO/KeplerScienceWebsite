@@ -305,9 +305,6 @@ This page details the previous, current, and future K2 Campaign fields.
       <td class="text-center">
         <a href="k2-data-release-notes.html#k2-campaign-15"><i class="fa fa-check"></i></a>
       </td>
-      <td class="text-center">
-        
-      </td>
       <td>Upper Sco, GW Lib, HP Lib</td>
     </tr>
     <tr>
