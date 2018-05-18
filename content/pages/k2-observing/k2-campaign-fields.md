@@ -396,46 +396,55 @@ You can learn more about the installation and usage of these tools [on the softw
 
 <div class="row">
   <div class="col-lg-6">
-    <a href="images/k2/k2-c0-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c0-field.png" id="c0"></a>
+    <a href="images/k2/kepler-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/kepler-field.png" id="c0"></a>
   </div>
   <div class="col-lg-6">
-    <a href="images/k2/k2-c1-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c1-field.png" id="c1"></a>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-lg-6">
-    <a href="images/k2/k2-c2-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c2-field.png" id="c2"></a>
-  </div>
-  <div class="col-lg-6">
-    <a href="images/k2/k2-c3-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c3-field.png" id="c3"></a>
+    <a href="images/k2/k2-c1002-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c1002-field.png" id="c1"></a>
   </div>
 </div>
 
 <div class="row">
   <div class="col-lg-6">
-    <a href="images/k2/k2-c4-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c4-field.png" id="c4"></a>
+    <a href="images/k2/k2-c00-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c00-field.png" id="c0"></a>
   </div>
   <div class="col-lg-6">
-    <a href="images/k2/k2-c5-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c5-field.png" id="c5"></a>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-lg-6">
-    <a href="images/k2/k2-c6-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c6-field.png" id="c6"></a>
-  </div>
-  <div class="col-lg-6">
-    <a href="images/k2/k2-c7-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c7-field.png" id="c7"></a>
+    <a href="images/k2/k2-c01-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c01-field.png" id="c1"></a>
   </div>
 </div>
 
 <div class="row">
   <div class="col-lg-6">
-    <a href="images/k2/k2-c8-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c8-field.png" id="c8"></a>
+    <a href="images/k2/k2-c02-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c02-field.png" id="c2"></a>
   </div>
   <div class="col-lg-6">
-    <a href="images/k2/k2-c9-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c9-field.png" id="c9"></a>
+    <a href="images/k2/k2-c03-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c03-field.png" id="c3"></a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-lg-6">
+    <a href="images/k2/k2-c04-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c04-field.png" id="c4"></a>
+  </div>
+  <div class="col-lg-6">
+    <a href="images/k2/k2-c05-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c05-field.png" id="c5"></a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-lg-6">
+    <a href="images/k2/k2-c06-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c06-field.png" id="c6"></a>
+  </div>
+  <div class="col-lg-6">
+    <a href="images/k2/k2-c07-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c07-field.png" id="c7"></a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-lg-6">
+    <a href="images/k2/k2-c08-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c08-field.png" id="c8"></a>
+  </div>
+  <div class="col-lg-6">
+    <a href="images/k2/k2-c09-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c09-field.png" id="c9"></a>
   </div>
 </div>
 
