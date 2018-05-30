@@ -5,31 +5,20 @@ Save_as: supernovae2018/index.html
 
 <img class="img-responsive" style="max-width:60%;" src="../images/k2/k2-c17-field.png" alt="K2 Supernovae Summer 2018 Hack Days">
 
+# [**REGISTRATION FORM**](https://goo.gl/forms/g7ZfeercJm7OnYfI3)
+
+Registration is now open by filling out the form above.
+
 ### Summary
 
-The K2 Mission and STSci/JHU will host a Supernova Hack Fest on July 16-18 at Johns Hopkins University in Baltimore, Maryland.
+The K2 Mission and STSci/JHU will host a Supernova Hack Fest on July 16-18, 2018 at Johns Hopkins University in Baltimore, Maryland.
 
-Since its launch in 2009, the Kepler telescope has been providing high precision photometric time series on over 65,000 galaxies.  The most recent campaigns for which data are available, C16 and C17, monitored 23,000 galaxies with contemporaneous ground-based polychromatic monitoring and spectroscopic followup...
-
-**Scientific motivation**  
-
-- K2 has observed over 65,000 galaxies
-- Chief aim rests in early rise time of observations
-- Identify shock breakout, distinguish among formation mechanisms
-- (Embed YouTube video of SN explosions from JPL)
-- Short-lived events like KSN2015k would have evaded most conventional ground-based transient searches.
-- Applying theory to interpret the early rise in K2 lightcurves
-- Predictions and applications for the wider albeit shallower TESS
+The Kepler telescope continues to deliver extreme precision photometric time series, with over over 65,000 galaxies measured to date.  Dozens of candidate supernovae have already been identified, including [Type Ia supernovae possessing early rise times recorded with unprecedented precision](https://keplerscience.arc.nasa.gov/bright-supernova-discovered-in-k2s-ongoing-campaign-16.html).  The flux time series from pre-outburst to maximum light can identify shock breakout and distinguish among supernova triggering mechanisms.  Recent K2 campaigns 16 and 17 offered the unusual ability to acquire contemporaneous space- and ground- based monitoring, including multiband photometry and spectroscopic classification.  Many transients reside in the Kepler/K2 data, including [fast-evolving luminous transients](http://adsabs.harvard.edu/abs/2018NatAs...2..307R).
 
 
-**Technical motivation**  
+Distinguishing correlated instrumental noise and astrophysical signals remains a challenge to the robust scientific interpretation of supernovae in K2.  **This workshop aims to promote collaboration, tool building, and tool reuse for overcoming shared data analysis challenges.**  Tools may include Kepler/K2 and ancillary data analysis, or application of supernova theory to lightcurves.  We also welcome looking forward to synergies with the NASA TESS mission, which will yield a wider albeit shallower survey of more-nearby galaxies.  
 
-- Dinstinguishing and quantifying correlated instrumental noise and astrophysical signal remains a challenge for ronbust scientific interpretation.
-- Tools for transients and extended objects may differ for those created for point sources and planet searches, adapting these tools may be fruitful.
-- Aim to promote tool reuse
-- As-yet-unidentified transient signals may remain in the lightcurves of campaigns for which contemporaneous ground-based observations were not possible.
-- Assembling and making available complementary ground-based datasets
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/20cxOCcOIP4?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 ### Agenda
@@ -116,13 +105,13 @@ The majority of days will remain unstructured so that participants may self asse
 
 ### Venue
 
-*To be announced*-- Stay tuned!
+The venue will be on the campus of Johns Hopkins University.  Building and room details will be announced shortly.
 
 ### Registration
 
 The conference will be *free*.  While no registration fee will be collected, registration with a research statement is required by filling out the form below:
 
-** LINK **
+[**REGISTRATION FORM**](https://goo.gl/forms/g7ZfeercJm7OnYfI3)
 
 ### Accommodation
 
@@ -130,11 +119,14 @@ The conference will be *free*.  While no registration fee will be collected, reg
 
 ### Organizing Committee
 
-* Armin Rest (STSci)
-* Geert Barentsen (Kepler/K2 Guest Observer Office)
-* Michael Gully-Santiago (Kepler/K2 Guest Observer Office)
-...more
+- Armin Rest (STSci)
+- Geert Barentsen (Kepler/K2 Guest Observer Office)
+- Michael Gully-Santiago (Kepler/K2 Guest Observer Office)
+- *more TBA*
 
 ### Workshop participants
 
-*To be announced*-- Stay tuned!
+- Armin Rest (STSci)
+- Geert Barentsen (Kepler/K2 Guest Observer Office)
+- Michael Gully-Santiago (Kepler/K2 Guest Observer Office)
+- *more TBA*
