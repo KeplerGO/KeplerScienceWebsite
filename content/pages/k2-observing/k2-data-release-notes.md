@@ -2986,6 +2986,8 @@ Data Release 10 updates the short cadence data only. This release corrects the s
 
 # K2 Campaign 2
 
+UPDATED: XXXXX based on reprocessing
+
 <h2>At a glance</h2>
 
 <div class="row">
