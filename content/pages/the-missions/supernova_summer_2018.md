@@ -14,6 +14,8 @@ This is not a traditional scientific conference and there won't be any formal ta
 Instead, the time will be spent in informal discussions and co-working, with the goal of having tangible results by the end of the meeting.
 This project is designed to help build and support the broader community, and we welcome applications from people both inside and outside the existing K2 community.
 
+**The deadline to apply to register is June 28th, 2018. See details below.**
+
 ### Rationale
 
 The Kepler telescope continues to deliver high-precision photometric time series, with over over 65,000 galaxies monitored to date for a range of science cases,
@@ -136,7 +138,7 @@ Demos of the projects will occur on the final hour on Wednesday.
 
 ### Registration
 
-Interested participants should apply to register by filling out the form below.
+Interested participants should **apply to register by June 28th** using the form linked below.
 Researchers from all career stages and backgrounds are encouraged to apply.
 
 [**Apply to register here**](https://goo.gl/forms/g7ZfeercJm7OnYfI3)
@@ -175,5 +177,5 @@ We expect all participants to read and abide by the statements in the [Kepler/K2
 ### Travel Support
 
 The K2 GO office will consider supporting the travel costs of key researchers or students who would otherwise not be able to attend the meeting.
-Requests for travel support must be submitted to [keplergo@mail.arc.nasa.gov](mailto:keplergo@arc.nasa.gov) no later than June 21st, 2018.
+Requests for travel support must be submitted to [keplergo@mail.arc.nasa.gov](mailto:keplergo@arc.nasa.gov) **no later than June 21st, 2018**.
 Requests must be accompanied by a statement detailing the reasons you wish to participate, how you expect to contribute to and benefit from the meeting, and a detailed estimate of the travel costs for which you are seeking support.
