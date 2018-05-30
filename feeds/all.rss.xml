@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Tue, 08 May 2018 13:00:00 -0700</lastBuildDate><item><title>Call for Kepler/K2 Visiting Scientists</title><link>https://keplerscience.arc.nasa.gov/call-for-keplerk2-visiting-scientists.html</link><description>&lt;p&gt;The Kepler/K2 mission operates a &lt;em&gt;Visiting Scientist Program&lt;/em&gt;
+<rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Mon, 14 May 2018 15:30:00 -0700</lastBuildDate><item><title>K2 Campaign 17 completed successfully; Campaign 18 underway</title><link>https://keplerscience.arc.nasa.gov/k2-campaign-17-completed-successfully-campaign-18-underway.html</link><description>&lt;p&gt;Good news! The Kepler spacecraft successfully completed its 
+&lt;a href="k2-campaign-17-science-program-now-available.html"&gt;K2 Campaign 17&lt;/a&gt; last week,
+on May 8th, and the full data set has now been downlinked to Earth.&lt;/p&gt;
+&lt;p&gt;To enable users to make use of the current visibility of the Campaign 17 field
+from the ground, the raw C17 data have …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Mon, 14 May 2018 15:30:00 -0700</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2018-05-14:/k2-campaign-17-completed-successfully-campaign-18-underway.html</guid></item><item><title>K2 Campaign 16 data processing complete</title><link>https://keplerscience.arc.nasa.gov/k2-campaign-16-data-processing-complete.html</link><description>&lt;p&gt;Data processing for K2 Campaign 16 is now complete
+and the pixel files and lightcurves are in the process
+of being shipped to the &lt;a href="http://archive.stsci.edu/k2"&gt;data archive at MAST&lt;/a&gt;.
+We anticipate that the data release will be announced near May 24th.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="k2-approved-programs.html#campaign-16"&gt;target list&lt;/a&gt; featured
+20,647 stars alongside 9,241 …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Mon, 14 May 2018 12:00:00 -0700</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2018-05-14:/k2-campaign-16-data-processing-complete.html</guid></item><item><title>New in lightkurve: inspecting pixel data using tpf.interact()</title><link>https://keplerscience.arc.nasa.gov/new-in-lightkurve-inspecting-pixel-data-using-tpfinteract.html</link><description>&lt;p&gt;The new &lt;a href="http://lightkurve.keplerscience.org"&gt;lightkurve&lt;/a&gt; Python package
+for Kepler and K2 data analysis, which we &lt;a href="new-kepler-data-analysis-tools-and-tutorials-lightkurve-v10.html"&gt;first announced in March&lt;/a&gt;,
+contains a new feature: &lt;code&gt;interact()&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;The tool strives to solve a common stumbling block in Kepler data analysis:
+"&lt;em&gt;I see a blip in my lightcurve.  Is it real or instrumental?&lt;/em&gt;"
+&lt;code&gt;interact()&lt;/code&gt; alleviates the …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Michael Gully-Santiago</dc:creator><pubDate>Fri, 11 May 2018 01:00:00 -0700</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2018-05-11:/new-in-lightkurve-inspecting-pixel-data-using-tpfinteract.html</guid></item><item><title>Call for Kepler/K2 Visiting Scientists</title><link>https://keplerscience.arc.nasa.gov/call-for-keplerk2-visiting-scientists.html</link><description>&lt;p&gt;The Kepler/K2 mission operates a &lt;em&gt;Visiting Scientist Program&lt;/em&gt;
 which enables users of Kepler or K2 data
 to visit the mission headquarters at NASA Ames in California
 for a period of multiple days, weeks, or months.&lt;/p&gt;

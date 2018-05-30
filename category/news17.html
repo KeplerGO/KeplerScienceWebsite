@@ -7,7 +7,7 @@ in August 2015, using pelican-bootstrap and flatly.
 >
 
 <head>
-    <title>Kepler/K2 Dashboard - Kepler &amp; K2 Science Center</title>
+    <title>news - Kepler &amp; K2</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2018-05-08" />
+    <meta name="dc.date.modified" content="2018-05-29" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -31,16 +31,16 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="../images/favicon.png" rel="icon">
 
-<link rel="canonical" href="../pages/keplerk2-dashboard.html">
 
-        <meta name="author" content="Geert Barentsen" />
-        <meta name="description" content="/*.row { width: 1140px !important; }*/ .metric { margin-top: 2em; margin-left: 1em; margin-right: 1em; padding: 0; color: white; } .metric .icon { position: absolute; top: 0px; right: 20px; color: rgba(0,0,0,0.15); font-size: 90px; z-index: 0; } .metric-inner { padding: 1em; padding-bottom: 0.5em; background-color: #3498db; } .metric-inner h3 { font-size: 52px; font-weight: bold; position:relative …" />
+    <meta name="author" content="Geert Barentsen" />
+    <meta name="keywords" content="news" />
 
-    <meta property="og:site_name" content="Kepler &amp; K2" />
-    <meta property="og:type" content="article"/>
-    <meta property="og:title" content="Kepler/K2 Dashboard"/>
-    <meta property="og:url" content="../pages/keplerk2-dashboard.html"/>
-    <meta property="og:description" content="/*.row { width: 1140px !important; }*/ .metric { margin-top: 2em; margin-left: 1em; margin-right: 1em; padding: 0; color: white; } .metric .icon { position: absolute; top: 0px; right: 20px; color: rgba(0,0,0,0.15); font-size: 90px; z-index: 0; } .metric-inner { padding: 1em; padding-bottom: 0.5em; background-color: #3498db; } .metric-inner h3 { font-size: 52px; font-weight: bold; position:relative …" />
+    <!-- Open Graph tags -->
+        <meta property="og:site_name" content="Kepler &amp; K2" />
+        <meta property="og:type" content="website"/>
+        <meta property="og:title" content="Kepler &amp; K2"/>
+        <meta property="og:url" content=".."/>
+        <meta property="og:description" content="Kepler &amp; K2"/>
 
 
     <!-- Why use Helvetica Neue when you can have Lato? -->
@@ -139,160 +139,53 @@ in August 2015, using pelican-bootstrap and flatly.
     <div class="row">
         <div class="col-lg-12">
 
-    <div class="col-sm-12">
-        <section id="content" class="body">
-            <h1 class="entry-title">Kepler/K2 Dashboard</h1>
-            <div class="entry-content">
-                <style>
-/*.row {
-    width: 1140px !important;
-}*/
+            <article>
+                <h2><a href="../two-wheel-engineering-test-data-online.html">Two-wheel engineering test data online</a></h2>
+                <div class="summary"><p>Nine days of two-wheel engineering data have been delivered to the MAST archive and are <a href="https://archive.stsci.edu/missions/k2/eng/">accessible to all interested users within the community</a>. This data was collected between Feb 4-13, 2014, before Campaign 0, and points to a different region of sky to Campaign 0, RA = 359 deg, Dec = -2 …</p>
+                    <a class="btn btn-default btn-xs" href="../two-wheel-engineering-test-data-online.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
 
-.metric {
-    margin-top: 2em;
-    margin-left: 1em;
-    margin-right: 1em;
-    padding: 0;
-    color: white;
-}
-
-.metric .icon {
-    position: absolute;
-    top: 0px;
-    right: 20px;
-    color: rgba(0,0,0,0.15);
-    font-size: 90px;
-    z-index: 0;
-}
-
-.metric-inner {
-    padding: 1em;
-    padding-bottom: 0.5em; 
-    background-color: #3498db; 
-}
-
-.metric-inner h3 {
-    font-size: 52px;
-    font-weight: bold;
-    position:relative;
-    z-index: 10;
-}
-
-.metric-inner p {
-    font-size: 18px;
-    position:relative;
-    z-index: 10;
-}
-
-.metric-bottom {
-    font-size: 12px;
-    padding: 0.2em;
-    padding-left: 1em;
-    padding-right: 1em;
-    background-color: #2980b9;
-}
-</style>
-
-<div class="row">
-<div class="col-xs-3 metric">
-
-  <div class='metric-inner'>
-    <div class="icon"><i class="fa fa-globe" aria-hidden="true"></i></div>            
-    <h3 id='kepler_candidates_count'></h3>
-    <p>Kepler planet candidates</p>
-  </div>
-  <div class='metric-bottom'>
-    <span id='kepler_confirmed_count'></span> Confirmed
-  </div>
-</div>
-
-<div class="col-xs-3 metric">
-  <div class='metric-inner'>   
-    <div class="icon"><i class="fa fa-globe" aria-hidden="true"></i></div>     
-    <h3 id='k2_candidates_count'></h3>
-    <p>K2 planet candidates</p>
-  </div>
-  <div class='metric-bottom'>
-    <span id='k2_confirmed_count'></span> Confirmed
-  </div>
-</div>
-
-</div>
-
-<div class="row">
-<div class="col-md-3 metric">
-  <div class='metric-inner'>
-    <div class="icon"><i class="fa fa-file-text-o" aria-hidden="true"></i></div>            
-    <h3 id='publication_count'></h3>
-    <p>Total publications</p>
-  </div>
-  <div class='metric-bottom'>
-    48% exoplanets, 
-    52% astrophysics
-  </div>
-</div>
-<div class="col-md-3 metric">
-  <div class='metric-inner'>
-    <div class="icon"><i class="fa fa-comment-o" aria-hidden="true"></i></div>            
-    <h3 id='citation_count'></h3>
-    <p>Total citations</p>
-  </div>
-  <div class='metric-bottom'>
-    &nbsp;
-  </div>
-</div>
-</div>
-
-<div class="row">
-<div class="col-md-3 metric">
-  <div class='metric-inner'>
-    <div class="icon"><i class="fa fa-user" aria-hidden="true"></i></div>            
-    <h3 id='author_count'></h3>
-    <p>Unique paper authors</p>
-  </div>
-  <div class='metric-bottom'>
-    <span id='first_author_count'></span> unique first authors
-  </div>
-</div>
-<div class="col-md-3 metric">
-  <div class='metric-inner'>   
-    <div class="icon"><i class="fa fa-twitter" aria-hidden="true"></i></div>     
-    <h3 id='twitter_followers'></h3>
-    <p>Twitter followers</p>
-  </div>
-  <div class='metric-bottom'>
-    For @NASAKepler and @KeplerGO
-  </div>
-</div>
-</div>
-
-<script>
-// We need to wait for jquery to load
-window.addEventListener('load', function() {
-    var url = "kepler-dashboard.json";
-    $.ajax({
-        type: 'GET',
-        dataType: 'json',  //use jsonp data type in order to perform cross domain ajax
-        crossDomain: true,
-        url: url,
-        success: function (resp, textStatus, jqXHR) {
-           $('#kepler_candidates_count').text(resp.planets.kepler_candidates_count.toLocaleString('en-US'));
-           $('#kepler_confirmed_count').text(resp.planets.kepler_confirmed_count.toLocaleString('en-US'));
-           $('#k2_candidates_count').text(resp.planets.k2_candidates_count.toLocaleString('en-US'));
-           $('#k2_confirmed_count').text(resp.planets.k2_confirmed_count.toLocaleString('en-US'));
-           $('#publication_count').text(resp.publications.publication_count.toLocaleString('en-US'));
-           $('#author_count').text(resp.publications.author_count.toLocaleString('en-US'));
-           $('#first_author_count').text(resp.publications.first_author_count.toLocaleString('en-US'));
-           $('#citation_count').text(resp.publications.citation_count.toLocaleString('en-US'));
-           $('#twitter_followers').text(resp.twitter.followers_count.toLocaleString('en-US'));
-        }
-    });
-}, false);
-</script>
-            </div>
-        </section>
-    </div>
-
+        <ul class="pagination">
+                <li class="prev"><a href="../category/news16.html">&laquo;</a>
+                </li>
+                    <li class=""><a
+                            href="../category/news.html">1</a></li>
+                    <li class=""><a
+                            href="../category/news2.html">2</a></li>
+                    <li class=""><a
+                            href="../category/news3.html">3</a></li>
+                    <li class=""><a
+                            href="../category/news4.html">4</a></li>
+                    <li class=""><a
+                            href="../category/news5.html">5</a></li>
+                    <li class=""><a
+                            href="../category/news6.html">6</a></li>
+                    <li class=""><a
+                            href="../category/news7.html">7</a></li>
+                    <li class=""><a
+                            href="../category/news8.html">8</a></li>
+                    <li class=""><a
+                            href="../category/news9.html">9</a></li>
+                    <li class=""><a
+                            href="../category/news10.html">10</a></li>
+                    <li class=""><a
+                            href="../category/news11.html">11</a></li>
+                    <li class=""><a
+                            href="../category/news12.html">12</a></li>
+                    <li class=""><a
+                            href="../category/news13.html">13</a></li>
+                    <li class=""><a
+                            href="../category/news14.html">14</a></li>
+                    <li class=""><a
+                            href="../category/news15.html">15</a></li>
+                    <li class=""><a
+                            href="../category/news16.html">16</a></li>
+                    <li class="active"><a
+                            href="../category/news17.html">17</a></li>
+                <li class="next disabled"><a href="#">&raquo;</a></li>
+        </ul>
         </div>
     </div>
 </div>
@@ -332,7 +225,7 @@ window.addEventListener('load', function() {
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="../images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Tue 08 May 2018
+         Last modified: Mon 14 May 2018
             &middot; Editor: Geert Barentsen &middot; NASA Official: Jessie Dotson
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>

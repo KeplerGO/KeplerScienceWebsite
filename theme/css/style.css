@@ -546,3 +546,11 @@ div.section {
     background-repeat: repeat-x;
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00ecf0f1', endColorstr='#80ecf0f1', GradientType=1);
 }
+
+code {
+    padding: 2px 4px;
+    font-size: 90%;
+    color: #2c3e50;
+    background-color: #ecf0f1;
+    border-radius: 4px;
+}

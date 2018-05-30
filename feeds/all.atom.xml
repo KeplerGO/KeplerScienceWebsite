@@ -1,5 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2018-05-08T13:00:00-07:00</updated><entry><title>Call for Kepler/K2 Visiting Scientists</title><link href="https://keplerscience.arc.nasa.gov/call-for-keplerk2-visiting-scientists.html" rel="alternate"></link><published>2018-05-08T13:00:00-07:00</published><updated>2018-05-08T13:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-05-08:/call-for-keplerk2-visiting-scientists.html</id><summary type="html">&lt;p&gt;The Kepler/K2 mission operates a &lt;em&gt;Visiting Scientist Program&lt;/em&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2018-05-14T15:30:00-07:00</updated><entry><title>K2 Campaign 17 completed successfully; Campaign 18 underway</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-17-completed-successfully-campaign-18-underway.html" rel="alternate"></link><published>2018-05-14T15:30:00-07:00</published><updated>2018-05-14T15:30:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-05-14:/k2-campaign-17-completed-successfully-campaign-18-underway.html</id><summary type="html">&lt;p&gt;Good news! The Kepler spacecraft successfully completed its 
+&lt;a href="k2-campaign-17-science-program-now-available.html"&gt;K2 Campaign 17&lt;/a&gt; last week,
+on May 8th, and the full data set has now been downlinked to Earth.&lt;/p&gt;
+&lt;p&gt;To enable users to make use of the current visibility of the Campaign 17 field
+from the ground, the raw C17 data have …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Good news! The Kepler spacecraft successfully completed its 
+&lt;a href="k2-campaign-17-science-program-now-available.html"&gt;K2 Campaign 17&lt;/a&gt; last week,
+on May 8th, and the full data set has now been downlinked to Earth.&lt;/p&gt;
+&lt;p&gt;To enable users to make use of the current visibility of the Campaign 17 field
+from the ground, the raw C17 data have been made public immediately
+via the &lt;a href="https://archive.stsci.edu/pub/k2/raw_cadence_data/c17/"&gt;K2 data archive at MAST&lt;/a&gt;.
+The Campaign was focused, in part, on supernova science,
+and it is thought that approximately 27 candidate supernova events
+have been captured in the telemetered pixels.&lt;/p&gt;
+&lt;p&gt;The use of the raw, uncalibrated data files requires an intimate understanding
+of their &lt;a href="raw-data-for-k2-campaign-12-and-trappist-1-now-available.html"&gt;format and caveats&lt;/a&gt;.
+For scientific investigations that are not time-critical,
+we recommend that users wait for the calibrated and quality-controlled
+data products to become available in approximately 3 months.  &lt;/p&gt;
+&lt;p&gt;Meanwhile, K2 Campaign 18 successfully started on Sunday morning,
+May 13th, near midnight UTC. 
+Uniquely, Campaign 18 is the third visit to the &lt;em&gt;K2 legacy field&lt;/em&gt;
+which includes both the M44 (Beehive) and M67 open star clusters.
+Campaign 18 overlaps entirely with C5, and partially with C16,
+providing a dataset with a 3-year baseline and 8-month duty cycle
+towards a Galactic sightline that is located 130 degrees away from the original Kepler field in Cygnus.&lt;/p&gt;
+&lt;p&gt;&lt;a href="images/k2/k2-c18-field.png"&gt;&lt;img class="img-responsive" style="max-width:500px;" src="images/k2/k2-c18-field.png" alt="C18 Field"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>K2 Campaign 16 data processing complete</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-16-data-processing-complete.html" rel="alternate"></link><published>2018-05-14T12:00:00-07:00</published><updated>2018-05-14T12:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-05-14:/k2-campaign-16-data-processing-complete.html</id><summary type="html">&lt;p&gt;Data processing for K2 Campaign 16 is now complete
+and the pixel files and lightcurves are in the process
+of being shipped to the &lt;a href="http://archive.stsci.edu/k2"&gt;data archive at MAST&lt;/a&gt;.
+We anticipate that the data release will be announced near May 24th.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="k2-approved-programs.html#campaign-16"&gt;target list&lt;/a&gt; featured
+20,647 stars alongside 9,241 …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Data processing for K2 Campaign 16 is now complete
+and the pixel files and lightcurves are in the process
+of being shipped to the &lt;a href="http://archive.stsci.edu/k2"&gt;data archive at MAST&lt;/a&gt;.
+We anticipate that the data release will be announced near May 24th.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="k2-approved-programs.html#campaign-16"&gt;target list&lt;/a&gt; featured
+20,647 stars alongside 9,241 galaxies for the 
+&lt;a href="supernova-experiment"&gt;supernova experiment&lt;/a&gt;&lt;/b&gt;.
+Highlights included the M44 (Beehive) and M67 clusters, 
+dozens of exoplanets and exoplanet candidates revealed by K2 Campaign 5,
+and many late-type flare stars observed in short cadence.&lt;/p&gt;
+&lt;p&gt;Please keep an eye on our website for an announcement of the release
+and the associated &lt;a href="k2-data-release-notes.html"&gt;data release notes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.nasa.gov/feature/ames/kepler-s-gaze-shifts-toward-new-targets-supernovae-the-beehive-cluster-and-earth"&gt;&lt;img src="/images/news/c16cartoon300dpi-full.jpg" alt="K2 C16 Cartoon"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>New in lightkurve: inspecting pixel data using tpf.interact()</title><link href="https://keplerscience.arc.nasa.gov/new-in-lightkurve-inspecting-pixel-data-using-tpfinteract.html" rel="alternate"></link><published>2018-05-11T01:00:00-07:00</published><updated>2018-05-11T01:00:00-07:00</updated><author><name>Michael Gully-Santiago</name></author><id>tag:keplerscience.arc.nasa.gov,2018-05-11:/new-in-lightkurve-inspecting-pixel-data-using-tpfinteract.html</id><summary type="html">&lt;p&gt;The new &lt;a href="http://lightkurve.keplerscience.org"&gt;lightkurve&lt;/a&gt; Python package
+for Kepler and K2 data analysis, which we &lt;a href="new-kepler-data-analysis-tools-and-tutorials-lightkurve-v10.html"&gt;first announced in March&lt;/a&gt;,
+contains a new feature: &lt;code&gt;interact()&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;The tool strives to solve a common stumbling block in Kepler data analysis:
+"&lt;em&gt;I see a blip in my lightcurve.  Is it real or instrumental?&lt;/em&gt;"
+&lt;code&gt;interact()&lt;/code&gt; alleviates the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The new &lt;a href="http://lightkurve.keplerscience.org"&gt;lightkurve&lt;/a&gt; Python package
+for Kepler and K2 data analysis, which we &lt;a href="new-kepler-data-analysis-tools-and-tutorials-lightkurve-v10.html"&gt;first announced in March&lt;/a&gt;,
+contains a new feature: &lt;code&gt;interact()&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;The tool strives to solve a common stumbling block in Kepler data analysis:
+"&lt;em&gt;I see a blip in my lightcurve.  Is it real or instrumental?&lt;/em&gt;"
+&lt;code&gt;interact()&lt;/code&gt; alleviates the guesswork by providing users with an easy-to-use
+Python notebook widget to interactively inspect the pixel data
+along a lightcurve.&lt;/p&gt;
+&lt;p&gt;A user can move a slider to rifle through cadences,
+while seeing the postage stamp images update in real time.
+A red vertical bar highlights the moment in the lightcurve.
+Mousing-over individual lightcurve points flashes up a hover-over tool tip
+with ancillary metadata about that particular cadence (e.g. quality flags).
+The tool offers many avenues for customization,
+including zooming, panning, and screen stretch. &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=89_sz-oG4VI"&gt;
+    &lt;img class="img-responsive" src="images/news/lightkurve-interact.gif" alt="Lightkurve tpf.interact() tool" style="margin:2em;"&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The command &lt;code&gt;interact()&lt;/code&gt; is a method of the &lt;code&gt;KeplerTargetPixelFile&lt;/code&gt; class,
+meaning that you can simply load in a target pixel file and append &lt;code&gt;.interact()&lt;/code&gt; to the file as follows:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;lightkurve&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;KeplerTargetPixelFile&lt;/span&gt;
+&lt;span class="n"&gt;tpf&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;KeplerTargetPixelFile&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;from_archive&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;target&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;Trappist-1&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;tpf&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;interact&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;You will need to upgrade your installation of &lt;code&gt;lightkurve&lt;/code&gt; to the latest version
+(v1.0b5) for this to work. This can be done via the command line as follows:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ pip install lightkurve --upgrade
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;We invite you to try out &lt;code&gt;interact()&lt;/code&gt; today and &lt;a href="https://github.com/KeplerGO/lightkurve/issues/new"&gt;let us know if you have any problems by opening a GitHub Issue&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A &lt;a href="https://youtu.be/89_sz-oG4VI"&gt;&lt;strong&gt;YouTube screencast&lt;/strong&gt;&lt;/a&gt; and a &lt;a href="http://lightkurve.keplerscience.org/tutorials/1.05-interact-with-lightcurves-and-tpf.html"&gt;tutorial in the documentation&lt;/a&gt; further illustrate the features of the tool.&lt;/p&gt;
+&lt;iframe width="800" height='450' src="https://www.youtube.com/embed/89_sz-oG4VI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</content></entry><entry><title>Call for Kepler/K2 Visiting Scientists</title><link href="https://keplerscience.arc.nasa.gov/call-for-keplerk2-visiting-scientists.html" rel="alternate"></link><published>2018-05-08T13:00:00-07:00</published><updated>2018-05-08T13:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-05-08:/call-for-keplerk2-visiting-scientists.html</id><summary type="html">&lt;p&gt;The Kepler/K2 mission operates a &lt;em&gt;Visiting Scientist Program&lt;/em&gt;
 which enables users of Kepler or K2 data
 to visit the mission headquarters at NASA Ames in California
 for a period of multiple days, weeks, or months.&lt;/p&gt;
@@ -1190,12 +1271,16 @@ All investigators &lt;em&gt;must&lt;/em&gt; update their version of the
 to version 7.0, released on 16 June 2017,
 to take the final field positions into account. &lt;/p&gt;
 &lt;p&gt;K2fov can be updated from the command line using pip:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;pip install K2fov --upgrade --no-deps
-&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;pip install K2fov --upgrade --no-deps
+&lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;The version number of your K2fov installation may be verified
 using the following command:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;python -c "import K2fov; print(K2fov.__version__)"
-&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;python&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;c&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;import K2fov; print(K2fov.__version__)&amp;quot;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;This should return "7.0.0" or higher. If the number is lower,
 or if you see an error message, then your installation of K2fov is outdated.&lt;/p&gt;
 &lt;h3 id="questions"&gt;Questions?&lt;/h3&gt;
@@ -2520,12 +2605,16 @@ All users are nevertheless encouraged to update the
 &lt;a href="software.html#k2fov"&gt;K2fov&lt;/a&gt; target selection tool
 to version 6.2, released on 14 Nov 2016, which includes the change.&lt;/p&gt;
 &lt;p&gt;K2fov can be updated from the command line using pip:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;pip install K2fov --upgrade
-&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;pip install K2fov --upgrade
+&lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;The version number of your K2fov installation may be verified
 using the following command:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;python -c "import K2fov; print(K2fov.__version__)"
-&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;python&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;c&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;import K2fov; print(K2fov.__version__)&amp;quot;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;This must return "6.2.0" or higher. If the number is lower, or if you see an error message, then your installation of K2fov is outdated and must be upgraded. &lt;/p&gt;
 &lt;p&gt;Campaign 16 does not require a change due to the use of a different,
 forward-facing spacecraft configuration.&lt;/p&gt;
@@ -2939,12 +3028,16 @@ All investigators &lt;em&gt;must&lt;/em&gt; update their version of the
 to version 5.1, released on 14 Aug 2016,
 to take the final field positions into account. &lt;/p&gt;
 &lt;p&gt;K2fov can be updated from the command line using pip:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;pip install K2fov --upgrade
-&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;pip install K2fov --upgrade
+&lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;The version number of your K2fov installation may be verified
 using the following command:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;python -c "import K2fov; print(K2fov.__version__)"
-&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;python&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;c&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;import K2fov; print(K2fov.__version__)&amp;quot;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;This should return "5.1.0" or higher. If the number is lower,
 or if you see an error message, then your installation of K2fov is outdated.&lt;/p&gt;
 &lt;h3 id="questions"&gt;Questions?&lt;/h3&gt;
@@ -3593,12 +3686,16 @@ All users are nevertheless encouraged to update the
 &lt;a href="software.html#k2fov"&gt;K2fov&lt;/a&gt; target selection tool
 to version 4.0, which was released on 27 Jan 2016 to include the change.&lt;/p&gt;
 &lt;p&gt;K2fov can be updated from the command line using pip:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;pip install K2fov --upgrade
-&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;pip install K2fov --upgrade
+&lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;The version number of your K2fov installation may be verified
 using the following command:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;python -c "import pkg_resources; print(pkg_resources.require('K2fov')[0].version)"
-&lt;/code&gt;&lt;/pre&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;python&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;c&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;import pkg_resources; print(pkg_resources.require(&amp;#39;K2fov&amp;#39;)[0].version)&amp;quot;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;This should return "4.0.0" or higher.&lt;/p&gt;
 &lt;h3 id="background"&gt;Background&lt;/h3&gt;
 &lt;p&gt;Campaigns 11, 12, and 13 are being rotated slightly to
