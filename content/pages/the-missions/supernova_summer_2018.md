@@ -3,11 +3,15 @@ Save_as: extragalactic2018/index.html
 
 [TOC]
 
-Members of Space Telescope Science Institute and the K2 Mission are hosting an <b>Extragalactic Transient Data Analysis Meeting on July 16-18, 2018</b> at Johns Hopkins University in Baltimore, Maryland.
+Members of Space Telescope Science Institute and the K2 Mission
+are hosting an <b>Extragalactic Transient Data Analysis Meeting
+on July 16-18, 2018</b> at Johns Hopkins University in Baltimore, Maryland.
 
 This meeting, inspired by [Tess Ninja](http://tess.ninja) and the [Gaia Sprints](http://gaia.lol), is designed to bring together a group of people with a common interest in the analysis of extragalactic transients using data from NASA's Kepler and K2 missions.
 
-This meeting is intended to build new collaborations, minimize duplication of effort, and facilitate the development of open-source tools for working with this new dataset. This is not a traditional scientific conference and there won't be any formal talks. Instead, the time will be spent in informal discussions and co-working, with the goal of having tangible results by the end of the meeting.
+This meeting is intended to build new collaborations, minimize duplication of effort, and facilitate the development of open-source tools for working with this new dataset.
+This is not a traditional scientific conference and there won't be any formal talks.
+Instead, the time will be spent in informal discussions and co-working, with the goal of having tangible results by the end of the meeting.
 This project is designed to help build and support the broader community, and we welcome applications from people both inside and outside the existing K2 community.
 
 ### Rationale
@@ -137,8 +141,7 @@ Researchers from all career stages and backgrounds are encouraged to apply.
 
 [**Apply to register here**](https://goo.gl/forms/g7ZfeercJm7OnYfI3)
 
-The conference will be *free*.  While no registration fee will be collected,
-the organizers expect to collect an optional donation for participants who wish coffee and snacks.
+The conference will be *free*.  The organizers expect to make coffee and snacks available for an optional fee.
 
 
 ### Confirmed participants
@@ -167,4 +170,10 @@ unless the participant bringing such assets has the rights to open them or add c
 ### Code of Conduct
 
 We are dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment, abusive behavior, or intimidation of conference participants in any form.
-As such, we follow the [AAS Code of Ethics](https://aas.org/ethics), and expect all participants to read and abide by the statements in the AAS Code of Ethics.
+We expect all participants to read and abide by the statements in the [Kepler/K2 Community Code of Conduct](/code.html).
+
+### Travel Support
+
+The K2 GO office will consider supporting the travel costs of key researchers or students who would otherwise not be able to attend the meeting.
+Requests for travel support must be submitted to [keplergo@mail.arc.nasa.gov](mailto:keplergo@arc.nasa.gov) no later than June 21st, 2018.
+Requests must be accompanied by a statement detailing the reasons you wish to participate, how you expect to contribute to and benefit from the meeting, and a detailed estimate of the travel costs for which you are seeking support.
