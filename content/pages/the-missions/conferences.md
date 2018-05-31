@@ -6,7 +6,12 @@ Save_as: conferences.html
 
 
 <table class="table table-striped table-hover" style="max-width:55em;">
-	Stay tuned for upcoming meetings!
+  <tr>
+    <td style="width: 9em;">July 16-18, 2018</td>
+    <td style="width: 25em;"><a href='extragalactic2018'>K2 Extragalactic Data Analysis Meeting 2018</a></td>
+    <td><a
+    href='extragalactic2018'>website</a>, <a href="https://twitter.com/search?q=%23K2SN">#K2SN tweets</a></td>
+  </tr>
 </table>
 
 
