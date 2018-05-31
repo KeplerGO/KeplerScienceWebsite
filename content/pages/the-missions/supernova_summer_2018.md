@@ -150,7 +150,7 @@ Researchers from all career stages and backgrounds are encouraged to apply.
 
 [**Apply to register here**](https://goo.gl/forms/g7ZfeercJm7OnYfI3)
 
-The conference will be *free*, however confirmed participants will be invited to pay an optional $50 fee to cover coffee and snacks.
+The meeting will be *free*, however confirmed participants will be invited to pay an optional $50 fee to cover coffee and snacks.
 
 ### Confirmed participants
 
