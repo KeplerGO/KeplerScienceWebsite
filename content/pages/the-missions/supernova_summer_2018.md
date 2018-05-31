@@ -154,11 +154,12 @@ The conference will be *free*, however confirmed participants will be invited to
 
 ### Confirmed participants
 
-- Armin Rest (STScI)
 - Geert Barentsen (K2 GO Office)
 - Jessie Dotson (K2 Project Scientist)
+- Peter Garnavich (Notre Dame)
 - Michael Gully-Santiago (K2 GO Office)
 - Daniel Kasen (Berkeley)
+- Armin Rest (STScI)
 - Brad Tucker (ANU)
 
 ### Collaboration Policy
@@ -193,5 +194,6 @@ Requests must be accompanied by a statement detailing the reasons you wish to pa
 - Armin Rest (STScI)
 - Geert Barentsen (K2 GO Office)
 - Jessie Dotson (K2 Project Scientist)
+- Peter Garnavich (Notre Dame)
 - Daniel Kasen (Berkeley)
 - Brad Tucker (ANU)
