@@ -394,7 +394,7 @@ Campaign 16
     </li>
     <li class="list-group-item">
       <i class="fa fa-pencil-square-o fa-margin"></i>
-      Data release notes (awaiting data release)
+      Data release notes (coming soon)
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -402,7 +402,7 @@ Campaign 16
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
-      Target pixel files (awaiting data release)
+      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c16">Target pixel files (MAST)</a>
     </li>
   </ul>
 
@@ -485,7 +485,7 @@ Campaign 15
     </li>
     <li class="list-group-item">
       <i class="fa fa-pencil-square-o fa-margin"></i>
-      Data release notes (coming soon)
+      <a href="k2-data-release-notes.html#k2-campaign-15">Data release notes</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
