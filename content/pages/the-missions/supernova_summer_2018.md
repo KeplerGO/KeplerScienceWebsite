@@ -14,7 +14,7 @@ This is not a traditional scientific conference and there won't be any formal ta
 Instead, the time will be spent in informal discussions and co-working, with the goal of having tangible results by the end of the meeting.
 This project is designed to help build and support the broader community, and we welcome applications from people both inside and outside the existing K2 community.
 
-**The deadline to apply to register is June 28th, 2018. 
+**The deadline to apply to register is June 28th, 2018.
 The maximum number of participants is 25. See details below.**
 
 ### Rationale
@@ -49,7 +49,7 @@ The most nearby hotel is the [Inn at The Colonnade](http://www.colonnadebaltimor
 The majority of days will remain unstructured so that participants may self assemble.
 The first day will begin with a short welcome from STSci/JHU and K2 staff,
 followed by pitches for projects or offers for skill sharing from all participants.
-Each day will begin and end with a short recap from each team describing the previous day's progress.
+Each day will begin and end with a short recap from each team describing progress, stumbling blocks, and the next steps.
 Demos of the projects will occur on the final hour on Wednesday.
 
 <h4 style="font-weight: bold;">Monday, July 16</h4>
