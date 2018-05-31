@@ -14,7 +14,8 @@ This is not a traditional scientific conference and there won't be any formal ta
 Instead, the time will be spent in informal discussions and co-working, with the goal of having tangible results by the end of the meeting.
 This project is designed to help build and support the broader community, and we welcome applications from people both inside and outside the existing K2 community.
 
-**The deadline to apply to register is June 28th, 2018. See details below.**
+**The deadline to apply to register is June 28th, 2018. 
+The maximum number of participants is 25. See details below.**
 
 ### Rationale
 
@@ -36,9 +37,14 @@ which will yield a wider albeit shallower survey of more-nearby galaxies.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B94yHU-e5_c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-### Schedule and location
+### Venue
 
-The venue will be on the campus of Johns Hopkins University.  Building and room details will be announced shortly.
+The meeting will take place in Room 462 of the [Bloomberg Center for Physics and Astronomy](https://goo.gl/maps/fSs7jGmJB4k) at Johns Hopkins University in Baltimore, Maryland.
+
+The most nearby hotel is the [Inn at The Colonnade](http://www.colonnadebaltimore.com), which is located within 5 minutes walking distance from the meeting.
+
+
+### Schedule
 
 The majority of days will remain unstructured so that participants may self assemble.
 The first day will begin with a short welcome from STSci/JHU and K2 staff,
@@ -139,6 +145,7 @@ Demos of the projects will occur on the final hour on Wednesday.
 ### Registration
 
 Interested participants should **apply to register by June 28th** using the form linked below.
+The meeting can accommodate a **maximum of 25 participants**.
 Researchers from all career stages and backgrounds are encouraged to apply.
 
 [**Apply to register here**](https://goo.gl/forms/g7ZfeercJm7OnYfI3)
