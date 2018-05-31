@@ -150,8 +150,7 @@ Researchers from all career stages and backgrounds are encouraged to apply.
 
 [**Apply to register here**](https://goo.gl/forms/g7ZfeercJm7OnYfI3)
 
-The conference will be *free*.  The organizers expect to make coffee and snacks available for an optional fee.
-
+The conference will be *free*, however confirmed participants will be invited to pay an optional $50 fee to cover coffee and snacks.
 
 ### Confirmed participants
 
@@ -159,6 +158,8 @@ The conference will be *free*.  The organizers expect to make coffee and snacks 
 - Geert Barentsen (K2 GO Office)
 - Jessie Dotson (K2 Project Scientist)
 - Michael Gully-Santiago (K2 GO Office)
+- Daniel Kasen (Berkeley)
+- Brad Tucker (ANU)
 
 ### Collaboration Policy
 
@@ -186,3 +187,11 @@ We expect all participants to read and abide by the statements in the [Kepler/K2
 The K2 GO office will consider supporting the travel costs of key researchers or students who would otherwise not be able to attend the meeting.
 Requests for travel support must be submitted to [keplergo@mail.arc.nasa.gov](mailto:keplergo@arc.nasa.gov) **no later than June 21st, 2018**.
 Requests must be accompanied by a statement detailing the reasons you wish to participate, how you expect to contribute to and benefit from the meeting, and a detailed estimate of the travel costs for which you are seeking support.
+
+### SOC
+
+- Armin Rest (STScI)
+- Geert Barentsen (K2 GO Office)
+- Jessie Dotson (K2 Project Scientist)
+- Daniel Kasen (Berkeley)
+- Brad Tucker (ANU)
