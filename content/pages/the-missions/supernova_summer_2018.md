@@ -3,11 +3,11 @@ Save_as: extragalactic2018/index.html
 
 [TOC]
 
-Members of Space Telescope Science Institute and the K2 Mission
+Members of the [Kepler Extra-Galactic Survey](http://www.mso.anu.edu.au/kegs/)
 are hosting an <b>Extragalactic Transient Data Analysis Meeting
 on July 16-18, 2018</b> at Johns Hopkins University in Baltimore, Maryland.
 
-This meeting, inspired by [Tess Ninja](http://tess.ninja) and the [Gaia Sprints](http://gaia.lol), is designed to bring together a group of people with a common interest in the analysis of extragalactic transients using data from NASA's Kepler and K2 missions.
+This hands-on meeting, inspired by [Tess Ninja](http://tess.ninja) and the [Gaia Sprints](http://gaia.lol), is designed to bring together researchers with a common interest in the analysis of extragalactic transients using data from NASA's Kepler and K2 missions.
 
 This meeting is intended to build new collaborations, minimize duplication of effort, and facilitate the development of open-source tools for working with this new dataset.
 This is not a traditional scientific conference and there won't be any formal talks.
@@ -142,26 +142,6 @@ Demos of the projects will occur on the final hour on Wednesday.
 </div>
 
 
-### Registration
-
-Interested participants should **apply to register by June 28th** using the form linked below.
-The meeting can accommodate a **maximum of 25 participants**.
-Researchers from all career stages and backgrounds are encouraged to apply.
-
-[**Apply to register here**](https://goo.gl/forms/g7ZfeercJm7OnYfI3)
-
-The meeting will be *free*, however confirmed participants will be invited to pay an optional $50 fee if they wish to consume coffee and snacks.
-
-### Confirmed participants
-
-- Geert Barentsen (K2 GO Office)
-- Jessie Dotson (K2 Project Scientist)
-- Peter Garnavich (Notre Dame)
-- Michael Gully-Santiago (K2 GO Office)
-- Daniel Kasen (Berkeley)
-- Armin Rest (STScI)
-- Brad Tucker (ANU)
-
 ### Collaboration Policy
 
 To ensure transparency and openness, we have adopted the collaboration policy developed for the [Gaia Sprints](http://gaia.lol).
@@ -183,11 +163,31 @@ unless the participant bringing such assets has the rights to open them or add c
 We are dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment, abusive behavior, or intimidation of conference participants in any form.
 We expect all participants to read and abide by the statements in the [Kepler/K2 Community Code of Conduct](/code.html).
 
+### Registration
+
+Interested participants should **apply to register by June 28th** using the form linked below.
+The meeting can accommodate a **maximum of 25 participants**.
+Researchers from all career stages and backgrounds are encouraged to apply.
+
+[**Apply to register here**](https://goo.gl/forms/g7ZfeercJm7OnYfI3)
+
+The meeting will be *free*, however confirmed participants will be invited to pay an optional $50 fee if they wish to consume coffee and snacks.
+
 ### Travel Support
 
 The K2 GO office will consider supporting the travel costs of key researchers or students who would otherwise not be able to attend the meeting.
-Requests for travel support must be submitted to [keplergo@mail.arc.nasa.gov](mailto:keplergo@arc.nasa.gov) **no later than June 21st, 2018**.
+Requests for travel support must be submitted to [keplergo@mail.arc.nasa.gov](mailto:keplergo@arc.nasa.gov) **no later than June 15th, 2018**.
 Requests must be accompanied by a statement detailing the reasons you wish to participate, how you expect to contribute to and benefit from the meeting, and a detailed estimate of the travel costs for which you are seeking support.
+
+### Confirmed participants
+
+- Geert Barentsen (K2 GO Office)
+- Jessie Dotson (K2 Project Scientist)
+- Peter Garnavich (Notre Dame)
+- Michael Gully-Santiago (K2 GO Office)
+- Daniel Kasen (Berkeley)
+- Armin Rest (STScI)
+- Brad Tucker (ANU)
 
 ### SOC
 
