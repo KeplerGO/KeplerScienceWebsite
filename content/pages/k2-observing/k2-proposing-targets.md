@@ -125,7 +125,7 @@ whether funded or performed under a no-exchange-of-funds arrangement.
 See the ROSES-2018 NRA for more information on these restrictions. 
 
 
-## K2 GO Cycle 7 Phase-2 Solicitation
+## K2 GO Cycle 7 Solicitation
 
 **The call for K2 GO Cycle 7 proposals has been
 [released and made available at NSPIRES](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7b8A2B07C0-F3D9-677F-0C28-F0E8406FC3CD%7d&path=open).**
@@ -145,7 +145,7 @@ from Earth. [The final field positions are posted here](k2-fields.html).**
 
 ### Submission process
 
-Target lists and accompanying scientific justifications for Campaign 20 are requested as part of the Cycle 7 Phase-1 submission by July 19, 2018.
+Target lists and accompanying scientific justifications for Campaign 20 are requested as part of the Cycle 7 Phase-1 submission by **July 19, 2018**.
 Based on the peer review of these Phase-1 proposals,
 a target list will be created and uploaded to the
 <a href="k2-approved-programs.html">K2 approved targets & programs page</a>
@@ -153,11 +153,11 @@ in September 2018.
 
 To request funding to support scientific investigations of targets
 selected for observation in Campaign 20, investigators are
-required to submit Phase-2 proposals through the NSPIRES website by <font color='red'>23:59 Eastern Time on January 17, 2019</font>.
+required to submit Phase-2 proposals through the NSPIRES website by 23:59 Eastern Time on **January 17, 2019**.
 All proposers need to register
 with NSPIRES in order to submit a Phase-2 proposal.
 A Phase-1 submission is not mandatory to qualify for Phase-2,
-however **Phase-2 proposals may only utilize targets which have been included in the Campaign 20 target list (for any program)**.
+however Phase-2 proposals may only utilize targets which have been included in the Campaign 20 target list (for any program).
 
 
 **Detailed instructions for submitting a Phase-2 proposal are as follows:**
