@@ -35,9 +35,9 @@ Proposers must take into account the difference between science
 that can be achieved exclusively using archived K2 and Kepler data 
 and science that requires new observations by K2. 
 The K2 GO program is specific to the case of science 
-requiring new observations (Campaigns 17-18-19 in the case of K2 GO Cycle 6). 
-Funding for archival science is instead provided through the
-Astrophysics Data Analysis Program ([ADAP; e.g. see ROSES-2017 solicitation](https://nspires.nasaprs.com/external/solicitations/summary.do?method=init&solId={9B644CB9-C0A8-8F23-DE92-FA3837D2F0BD}&path=closedPast)). 
+requiring new observations (Campaign 20 in the case of K2 GO Cycle 7). 
+Funding for archival science is instead provided through NASA's
+Astrophysics Data Analysis Program (ADAP). 
 This includes all Kepler data and archived data from K2 Campaigns. All
 proposals to the K2 GO calls therefore must justify 
 the need for new observational data within their program. 
@@ -55,7 +55,7 @@ will be peer-reviewed and will support target selection for the
 campaigns to be observed in Cycle 6. -->
 
 Phase-2 proposals that are submitted via NSPIRES in response
-the K2 GO Cycle 6 call will be evaluated 
+the K2 GO Cycle 7 call will be evaluated 
 with respect to the criteria specified 
 in Section C.2 of the [NASA Guidebook for Proposers](http://www.hq.nasa.gov/office/procurement/nraguidebook/), which are intrinsic merit,
 relevance to the GO solicitation, 
@@ -98,7 +98,7 @@ of campaign data to the public archive
 at [MAST](http://archive.stsci.edu/k2/). 
 Note that there is no exclusive use period associated with any K2 GO data. 
 
-In K2 GO Cycle 6, only Phase-2 proposals are considered for funding.
+In K2 GO Cycle 7, only Phase-2 proposals are considered for funding.
 
 ### Eligibility
 
@@ -122,13 +122,13 @@ In accordance with Public Law 113--76, Division B, Title V, Section 532,
 NASA cannot support bilateral participation, collaboration,
 or coordination with China or any Chinese-owned company or entity,
 whether funded or performed under a no-exchange-of-funds arrangement.
-See Section III(c) of the ROSES-2017 NRA for more information on these restrictions. 
+See the ROSES-2018 NRA for more information on these restrictions. 
 
 
-## K2 GO Cycle 6 Phase-2 Solicitation
+## K2 GO Cycle 7 Phase-2 Solicitation
 
-**The call for K2 GO Cycle 6 proposals has been
-[released and made available at NSPIRES](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={7DC22936-4C6A-44FC-74A3-F0C9248DC9DD}&path=open).**
+**The call for K2 GO Cycle 7 proposals has been
+[released and made available at NSPIRES](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7b8A2B07C0-F3D9-677F-0C28-F0E8406FC3CD%7d&path=open).**
 
 <!--
 Due to the uncertainty in the estimated spacecraft fuel available for the K2 Mission,
@@ -145,24 +145,19 @@ from Earth. [The final field positions are posted here](k2-fields.html).**
 
 ### Submission process
 
-K2 proposal submission for GO Cycle 6, which includes Campaigns 17,
-18, and 19, is a different process than has
-been previously been used due to the uncertainty in the estimated
-spacecraft fuel available.
-
-Target lists and accompanying scientific justifications were due
-as part of a Phase-1 submission in October 2017.
+Target lists and accompanying scientific justifications for Campaign 20 are requested as part of the Cycle 7 Phase-1 submission by July 19, 2018.
 Based on the peer review of these Phase-1 proposals,
-target lists have been created for all three Campaigns and uploaded to the
-<a href="k2-approved-programs.html">K2 approved targets & programs page</a>.
-**Proposals may only utilize targets which appear in the Campaign 17, 18, or 19 target lists.**
+a target list will be created and uploaded to the
+<a href="k2-approved-programs.html">K2 approved targets & programs page</a>
+in September 2018.
 
-To propose for funding to support scientific investigations of targets
-selected for observations in Campaigns 17, 18 and/or 19, investigators are
-required to submit Phase-2 proposals through the NSPIRES website by <font color='red'>23:59 Eastern Time on April 19, 2018</font>.
+To request funding to support scientific investigations of targets
+selected for observation in Campaign 20, investigators are
+required to submit Phase-2 proposals through the NSPIRES website by <font color='red'>23:59 Eastern Time on January 17, 2019</font>.
 All proposers need to register
 with NSPIRES in order to submit a Phase-2 proposal.
-A Phase-1 submission is not mandatory to qualify for Phase-2.
+A Phase-1 submission is not mandatory to qualify for Phase-2,
+however **Phase-2 proposals may only utilize targets which have been included in the Campaign 20 target list (for any program)**.
 
 
 **Detailed instructions for submitting a Phase-2 proposal are as follows:**
@@ -171,28 +166,28 @@ A Phase-1 submission is not mandatory to qualify for Phase-2.
   Evaluation System, NSPIRES,
   [register on the NSPIRES website](https://nspires.nasaprs.com/external/aboutRegistration.do).
 
-2. Familiarize yourself with the NASA Research Announcement (NRA) Research Opportunities in Space and Earth Sciences Announcement 2017 [(ROSES-2017)](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={E757EF32-60E6-76AE-A276-21A1F8BA96BB}&path=open). This document provides an overview of the NRA process and is a compilation of most solicitations within NASA's Science Mission Directorate.
+2. Familiarize yourself with the NASA Research Announcement (NRA) Research Opportunities in Space and Earth Sciences Announcement 2018 (ROSES-2018). This document provides an overview of the NRA process and is a compilation of most solicitations within NASA's Science Mission Directorate.
 
 3. Read the
-  [Cycle 6 K2 Research Announcement](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={7DC22936-4C6A-44FC-74A3-F0C9248DC9DD}&path=open). New
+  [Cycle 7 K2 Research Announcement](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7b8A2B07C0-F3D9-677F-0C28-F0E8406FC3CD%7d&path=open). New
   amendments to the NRA are publicized at NSPIRES. Check this page
   regularly. 
 
 4. [Submit a Phase-2 proposal to NSPIRES](http://nspires.nasaprs.com/external/)
-      by <font color='red'>23:59 Eastern Time on April 19, 2018</font>. 
+      by <font color='red'>23:59 Eastern Time on January 17, 2019</font>. 
 
 5. Submit an electronic copy of the target tables via e-mail to the GO Office
 (**keplergo@mail.arc.nasa.gov**) before the deadline.  You must use the target list table format detailed below.
 
 ### Proposal content
 
-The generic content of the proposal is described in Sec 2.3 of the
+The generic content of the proposal is described in the
 <a
-href="http://www.hq.nasa.gov/office/procurement/nraguidebook/proposer2017.pdf">2017
+href="http://www.hq.nasa.gov/office/procurement/nraguidebook/proposer2018.pdf">2018
 NRA Proposers Guide</a>.
 Page limits and proposal content within the NRA Guide are amended
 within the
-[K2 GO Cycle 6 NRA](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={7DC22936-4C6A-44FC-74A3-F0C9248DC9DD}&path=open)
+[K2 GO Cycle 7 NRA](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7b8A2B07C0-F3D9-677F-0C28-F0E8406FC3CD%7d&path=open)
 and are summarized in the table below. 
 The right-hand column provides page limits for the package elements. Caveats to the page limits are provided as footnotes. **The page limits on this website override the NRA-generic limits within the handbook.**
 
@@ -275,7 +270,7 @@ proposal and should not exceed the page limits as defined below.
 required target table do not count against these four or six page limits, but the
 target table should be truncated in cases where it would cause this specific
 section to exceed 15 pages.<br/>
-<sup>&Dagger;</sup>Investigations that have broadly similar goals and team members to selected Cycle 1, Cycle 2, or Cycle 3 proposals may use up to an additional 0.5 pages to describe progress they have made to delivering value-added community resources, but the Scientific/Technical/Management
+<sup>&Dagger;</sup>Investigations that have broadly similar goals and team members to selected Cycle 1-5 proposals may use up to an additional 0.5 pages to describe progress they have made to delivering value-added community resources, but the Scientific/Technical/Management
     section still must not exceed 15 pages.
 
 Note:
@@ -304,7 +299,7 @@ Note:
 
 ### Target table format
 
-<!--
+
 ### Tools
 
 Pointed observations away from the single stare position of any given field 
@@ -340,18 +335,18 @@ to identify which targets fall upon active silicon.
 Only those targets within the active fields of view should be proposed.
 
 Note that all investigators *must* update their version of 
-K2fov to the latest version (v7.0) to take the final field positions
-of Campaigns 17-18-19 into account. 
+K2fov to the latest version (v8.0) to take the field position
+of Campaign 20 into account. 
 K2fov can be updated from the command line using pip:
 
-    pip install K2fov --upgrade --no-deps
+    pip install K2fov --upgrade
 
 The version number of your K2fov installation may be verified
 using the following command:
 
     python -c "import K2fov; print(K2fov.__version__)"
 
-This must return "7.0.0" or higher. If the number is lower,
+This must return "8.0.0" or higher. If the number is lower,
 or if you see an error message, then your installation of K2fov is outdated
 and must be upgraded.
 Not upgrading K2fov will lead to unobservable targets being selected!
@@ -369,15 +364,16 @@ the Kepler & K2 Science Center to incorporate sources within the observing list.
 Table fields are described below with an example.
 If a proposal includes targets within multiple campaign fields,
 then a separate target table should be prepared for each field.
--->
 
-The targets for K2 Cycle 6 (Campaigns 17-18-19) have already
+<!--
+The targets for K2 Cycle 7 (Campaign 20) have already
 been selected as a result of the peer review of Phase-1 proposals,
 which were due in October 2017.
 **Nevertheless, Phase-2 proposals must be accompanied by a valid target table
 which details the targets a proposed program will analyze.**
 It is the proposer's responsibility to ensure that the table
 only contains pre-selected targets.
+-->
 
 An example of a valid target table is shown in the image below.
 <a href="data/K2/K2-2-propnum-PI.xls">The corresponding .xls file can be downloaded here.</a>
@@ -463,12 +459,11 @@ href="/the-kepler-space-telescope.html#flux-calibration">it
 A blank template target table for insertion into the proposal 
 can be [downloaded here](data/K2/K2-Cnn-PINAME.xls). 
 
-<!--
 Target tables for each campaign are required to be submitted via email
-directly to the Kepler & K2 GO Office for Phase-1 proposals submitted in response to GO Cycle 6.
+directly to the Kepler & K2 GO Office for Phase-1 proposals submitted in response to GO Cycle 7.
 They do not need to be embedded within the text of the proposal.
--->
 
+<!--
 For GO Cycle 6 Phase-2 proposals that are submitted via NSPIRES
 in order to request funding, a target table for each campaign
 must appear in two places:
@@ -491,8 +486,8 @@ href="data/K2/K2-Cnn-PINAME.xls">K2-Cnn-PINAME.xls</a>
     If you plan on submitting a second proposal, use "K2-C17-SMITH-2.xls".
 5.  Attach the renamed spreadsheet to an email and send it to the GO
     Office at **keplergo@mail.arc.nasa.gov** before the proposal deadline.
+-->
 
-<!--
 **Special instructions for moving targets**<br/>
 
 If you plan to submit a proposal for a Solar System (moving) target,
@@ -508,49 +503,28 @@ of your scientific investigation.
 corresponding to both the minimum and ideal observing durations for each target.
 Please get in touch with us at **keplergo@mail.arc.nasa.gov**
 if you require assistance with this.
--->
 
-
-### Campaign 19 DDT targets
-
-A small part of the pixel budget for Campaign 19 remains to
-be allocated by the project
-as Director's Discretionary Targets (DDT),
-which is intended to facilitate observations that address
-scientific topics missed in the review process of Phase-1 proposals.
-More information and deadlines are available
-from the [DDT program page](k2-ddt.html).
-Proposals for targets in Campaign 19 will be reviewed
-on a rolling basis and are due no later than April 12, 2018.
-
-The target lists for Campaigns 17 and 18 as posted on this
-website are final and cannot be revised.
 
 
 ### FAQs  
 
 * **What are the proposal deadlines?**<br/>
-Phase-2 proposals for Cycle 6 are due April 19, 2018 by 23:59 Eastern Time.
+Phase-1 proposals for Cycle 1 are due July 19, 2018 by 23:59 Eastern Time via e-mail to keplergo@mail.arc.nasa.gov.
+Phase-2 proposals for Cycle 7 are due January 17, 2019 by 23:59 Eastern Time via NSPIRES.
 
-  
 * **What are the anticipated dates of the campaigns included in the
 current solicitation?**<br/>
-Campaign 17: 2018 Mar 01 - May 08 <br/>
-Campaign 18: 2018 May 12 - Aug 02 <br/>
-Campaign 19: 2018 Aug 06 - Oct 10 <br/>
+Campaign 20 is scheduled to run from Oct 15, 2018, through Jan 05, 2019.<br/>
 Start and stop dates for all campaigns are approximate, flexible and
 could be overtaken by unanticipated operational events
 or the spacecraft running out of fuel.<br/>
 
-<!--
-* **Where are the fields located on the sky for the campaigns included in the
-current solicitation?**<br/>
+* **Where is the field located on the sky**<br/>
 The pointings for all K2 campaigns can be found on the <a
 href="k2-fields.html">fields page.</a>
 Target lists for each of these fields can be found on the
 <a href="k2-approved-programs.html">K2 approved targets & programs</a> page.
  <br/>
--->
 
 * **Should I submit one proposal or two?**<br/>
   In the interest of efficiency, proposers are requested *NOT* to
@@ -558,30 +532,23 @@ Target lists for each of these fields can be found on the
   the campaigns. If the same science goals are spread across multiple
   campaigns, please provide one science justification and up to three target tables,
   one for each field.<br/>
-  
+
+<!--  
 * **How do I select targets to analyze?**<br/>
 K2 GO Cycle 6 Phase-2 proposals may only use targets that are listed on the
 <a href="k2-approved-programs.html">K2 approved targets & programs</a> page
 for Campaigns 17, 18, or 19.
-
-* **What will happen if Kepler runs out of fuel during Campaign 17, 18, or 19?**<br/>
-We currently expect that all eligible Cycle 6 proposals will be funded, subject to ratification by NASA Headquarters.
+-->
+<!--
+* **What will happen if Kepler runs out of fuel before or during Campaign 20?**<br/>
+We currently expect that all eligible Cycle 7 proposals will be funded.
 Proposers may wish to clarify, as part of their proposal,
 to which degree the scientific objectives can be met using data from
 Campaigns 17 or 18 alone.
+<br/>
+-->
 
-* **What are the coordinates of the M67 superstamp being observed in Campaign 18?**<br/>
-The core the M67 is being observed in Campaign 18 using a 440-by-440px rectangular superstamp bounded by the following (ra, dec) coordinates:
-(132.62127, +11.60638), (132.63373 +12.04799), (133.07230 +11.59396), (133.08535 +12.03555).
 
-<!--
-  In order to avoid inefficiency for proposers, you are encouraged to
-  use the <a href="software.html#k2fov">K2fov tool</a> to
-  determine whether your targets fall upon silicon and propose only
-  those that do. The precision of this tool is a few 4x4 arcsec
-  detector pixels.--> <br/>
-
-<!--
 * **Should I apply for targets that do not fall on silicon?**<br/>
   Please, no. Proposing off-silicon targets is a waste of energy for proposers,
   reviewers and project staff.
@@ -638,4 +605,3 @@ The core the M67 is being observed in Campaign 18 using a 440-by-440px rectangul
  as it is for other targets.
  However, proposers should take note of recommendations when creating the
  [target table for moving targets](k2-proposing-targets.html#target-table).
--->
