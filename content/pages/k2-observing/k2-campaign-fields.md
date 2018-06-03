@@ -275,7 +275,7 @@ This page details the previous, current, and future K2 Campaign fields.
       <td class="text-center">
         <a href="k2-data-release-notes.html#k2-campaign-13"><i class="fa fa-check"></i></a>
       </td>
-      <td>Hyades, Taurus</td>
+      <td>Hyades, Taurus-Auriga</td>
     </tr>
     <tr>
       <td><a href="#c14">14</a></td> 
@@ -309,7 +309,7 @@ This page details the previous, current, and future K2 Campaign fields.
     </tr>
     <tr>
       <td><a href='#c16'>16</a><sup>†</sup></td>
-      <td>2017&nbsp;Dec&nbsp;7</td>
+      <td>2017&nbsp;Dec&nbsp;07</td>
       <td>2018&nbsp;Feb&nbsp;25</td>
       <td>2018&nbsp;May&nbsp;30</td>
       <td>08:54:50</td>
@@ -324,8 +324,8 @@ This page details the previous, current, and future K2 Campaign fields.
     </tr>
     <tr>
       <td><a href='#c17'>17</a><sup>†</sup></td>
-      <td>2018&nbsp;Mar&nbsp;1</td>
-      <td>2018&nbsp;May&nbsp;8</td>
+      <td>2018&nbsp;Mar&nbsp;01</td>
+      <td>2018&nbsp;May&nbsp;08</td>
       <td>2018&nbsp;Aug&#8209;Nov</td>
       <td>13:30:12</td>
       <td>-07:43:16</td>
@@ -340,7 +340,7 @@ This page details the previous, current, and future K2 Campaign fields.
     <tr>
       <td><a href='#c18'>18</a></td>
       <td>2018&nbsp;May&nbsp;12</td>
-      <td>2018&nbsp;Aug&nbsp;2</td>
+      <td>2018&nbsp;Aug&nbsp;02</td>
       <td>2018&nbsp;Nov&#8209;Mar</td>
       <td>08:40:39</td>
       <td>+16:49:40</td>
@@ -354,7 +354,7 @@ This page details the previous, current, and future K2 Campaign fields.
     </tr>
     <tr>
       <td><a href='#c19'>19</a><sup>†</sup></td>
-      <td>2018&nbsp;Aug&nbsp;6</td>
+      <td>2018&nbsp;Aug&nbsp;06</td>
       <td>2018&nbsp;Oct&nbsp;10</td>
       <td>2019&nbsp;Feb&#8209;May</td>
       <td>23:09:02</td>
@@ -367,11 +367,26 @@ This page details the previous, current, and future K2 Campaign fields.
       </td>
       <td>Trappist-1, GJ 9827, Neptune.</td>
     </tr>
+    <tr>
+      <td><a href='#c20'>20</a><sup>†</sup></td>
+      <td>2018&nbsp;Oct&nbsp;15</td>
+      <td>2019&nbsp;Jan&nbsp;05</td>
+      <td>2019&nbsp;May&#8209;Aug</td>
+      <td>04:33:12</td>
+      <td>+22:45:42</td>
+      <td class="text-center">
+        &nbsp;
+      </td>
+      <td class="text-center">
+
+      </td>
+      <td>Taurus-Auriga, Hyades</td>
+    </tr>
   </tdata>
 </table>
 
   <p>
-  <b><sup>†</sup>Note:</b> fields 9, 16, 17, and 19 are forward-facing campaigns, for which simultaneous observations from the ground are possible throughout the duration of the campaign.
+  <b><sup>†</sup>Note:</b> fields 9, 16, 17, 19, and 20 are forward-facing campaigns, for which simultaneous observations from the ground are possible throughout the duration of the campaign.
   </p>
 
   </div>
@@ -493,6 +508,14 @@ You can learn more about the installation and usage of these tools [on the softw
   </div>
 </div>
 
+<div class="row">
+  <div class="col-lg-6">
+    <a href="images/k2/k2-c20-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c20-field.png" id="c20"></a>
+  </div>
+  <div class="col-lg-6">
+
+  </div>
+</div>
 
 <hr/>
 
