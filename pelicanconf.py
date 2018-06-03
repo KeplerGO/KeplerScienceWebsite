@@ -123,27 +123,35 @@ KEY_INFORMATION = (
 IMPORTANT_DATES = (
             ('<b>19 Jul 2018</b>',
              'K2 Campaign 20 target lists due',
-             'https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7b8A2B07C0-F3D9-677F-0C28-F0E8406FC3CD%7d&path=open'),
+             'call-for-k2-go-cycle-7-proposals-for-campaign-20.html'),
             ('<b>6 Aug 2018</b>',
              'K2 Campaign 19 starts',
              'k2-fields.html'),
+            ('<b>15 Oct 2018</b>',
+             'K2 Campaign 20 starts',
+             'k2-fields.html'),
+            ('<b>17 Jan 2019</b>',
+             'K2 Campaign 20 funding proposals due',
+             'https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7b8A2B07C0-F3D9-677F-0C28-F0E8406FC3CD%7d&path=open'),
          )
-
 
 # Defines the "meetings" box on the front page
 MEETINGS = (
             ('<b>3–7 Jun 2018</b><br>'
-             'Kepler/K2 Booth at the AAS232 (Denver)',
+             'Kepler/K2 Booth at AAS232 (Denver)',
              'https://aas.org/meetings/aas232'),
             ('<b>8–13 Jul 2018</b><br>'
-             'TASC4/KASC11 Asteroseismology Meeting',
+             'KASC11 Asteroseismology Meeting (Aarhus)',
              'http://conferences.au.dk/tasc4/'),
             ('<b>15–18 Jul 2018</b><br>'
-             'K2 Extragalactic Data Analysis Meeting',
+             'K2 Extragalactic Data Analysis Meeting (Baltimore)',
              'extragalactic2018'),
             ('<b>29 Jul – 3 Aug 2018</b><br>'
              'ExoPag 18 & Cool Stars 20 (Boston)',
-             'https://coolstars20.github.io')
+             'https://coolstars20.github.io'),
+            ('<b>6–10 Jan 2019</b><br>'
+             'Kepler/K2 Booth at AAS233 (Seattle)',
+             'https://aas.org/meetings/aas232'),
             )
 
 # Defines the "related websites" listing in the footer of all pages
