@@ -1,23 +1,31 @@
 Title: Call for K2 GO Cycle 7 proposals for Campaign 20
-Date: 2099-06-01 17:00
+Date: 2018-06-02 17:00
 Author: Geert Barentsen
 
 The solicitation for K2 Guest Observer Cycle 7 proposals for Campaign 20 
 has been [released and made available via NSPIRES](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7b8A2B07C0-F3D9-677F-0C28-F0E8406FC3CD%7d&path=open).
+This post summarizes the opportunity.
 
-Campaign 20 will revisit the Taurus-Auriga star-forming region in the
-forward-facing mode, enabling simultaneous observations from the ground.
-The field contains a large number of very young stars (<10 Myr)
-and the Campaign will approximately double the number of young stars previously observed by Kepler.
-These new observations will vastly improve the estimation of planet occurence rates at the youngest ages, and also enable young star variability studies over a longer baseline by re-observed stars previously observed in Campaigns 4 (2015) and 13 (2017).
+## Campaign 20
 
+Campaign 20 will revisit the **Taurus-Auriga star-forming region** in the
+forward-facing mode.
+The region contains a large number of very young stars (<10 Myr)
+and the Campaign will approximately double the number of such stars observed by Kepler.
+The field also includes members of the Hyades and Pleiades clusters.
+The observations will improve the estimation of planet occurence rates at the youngest ages, and will enable the baseline of variability studies of young stars to be extended by including targets previously observed in the region during Campaign 4 (2015) and Campaign 13 (2017).
+
+<p>
+<img src="images/k2/k2-c20-field.png" style="max-width: 600px;" alt="Footprint of K2 Campaign 20"/><br/>
+<i>Figure: Footprint of K2 Campaign 20.</i>
+</p>
 
 ## Target and funding selection process
 
 Similar to the selection process executed for K2 GO Cycle 6,
 the solicitation presents a two-phase process:
 
-1. An optional **Phase-1** proposal will enable targets to be
+1. An optional **Phase-1** proposal will enable **targets** to be
 selected for Campaign 20. Phase-1 proposals, including target tables
 and a scientific rationale, are requested by **July 19, 2018**
 and must be submitted via email to keplergo@mail.arc.nasa.gov.
@@ -36,29 +44,29 @@ between $30K and $150K, depending on the number of targets used.
 
 Information about the proposal process, including the scope,
 evaluation criteria, availability of funds, eligibility,
-target selection tools, submission process, and frequently asked questions, is detailed on the [proposal preparation page](/k2-proposing-targets.html).
+target selection tools, submission process, and frequently asked questions, is detailed on our [proposal preparation page](/k2-proposing-targets.html).
 
 
 ### K2fov update required
 
-All investigators *must* update their version of the
+Investigators interested in evaluating the visibility of targets during Campaign 20 must update their version of the
 <a href="software.html#k2fov">K2fov target selection tool</a>
-to version 7.0, released on 16 June 2017,
-to take the final field positions into account. 
+to version 8.0, released on 3 June 2018,
+to take the new field position into account. 
 
 K2fov can be updated from the command line using pip:
 
     pip install K2fov --upgrade
 
-The version number of your K2fov installation may be verified
+The version number of your K2fov installation can be verified
 using the following command:
 
     python -c "import K2fov; print(K2fov.__version__)"
 
-This should return "7.0.0" or higher. If the number is lower,
-or if you see an error message, then your installation of K2fov is outdated.
+The above command should return "8.0.0" or higher. If the number is lower,
+or if you see an error message, then contact us for support.
 
 
 ### Questions?
 
-Questions regarding this call should be sent to <a href="keplergo@mail.arc.nasa.gov">keplergo@mail.arc.nasa.gov</a>.
+Questions regarding this solicitation may be sent to <a href="keplergo@mail.arc.nasa.gov">keplergo@mail.arc.nasa.gov</a>.
