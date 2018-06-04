@@ -12,9 +12,11 @@ This post summarizes the opportunity.
 Campaign 20 will revisit the **Taurus-Auriga star-forming region** in the
 forward-facing mode.
 The region contains a large number of very young stars (<10 Myr)
-and the Campaign will approximately double the number of such stars observed by Kepler.
+and the Campaign will significantly increase the number of such stars observed by Kepler.
 The field also includes members of the Pleiades (&sim;100 Myr) and Hyades (&sim;600 Myr) star clusters.
 The observations will improve the estimation of planet occurence rates as a function of stellar age, and will also enable the baseline of variability studies of young stars to be extended by including targets previously observed during Campaign 4 (2015) and Campaign 13 (2017).
+
+Field 20 also contains a large number of main sequence, post-main sequence, and galaxies to enable a wide array of investigations.
 
 <p>
 <img src="images/k2/k2-c20-field.png" style="max-width: 600px;" alt="Footprint of K2 Campaign 20"/><br/>
