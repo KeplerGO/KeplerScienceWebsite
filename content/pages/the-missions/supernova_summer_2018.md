@@ -181,13 +181,18 @@ Requests must be accompanied by a statement detailing the reasons you wish to pa
 
 ### Confirmed participants
 
+- Patrick Armstrong (ANU)
+- Thomas Barclay (NASA GSFC)
 - Geert Barentsen (K2 GO Office)
 - Jessie Dotson (K2 Project Scientist)
 - Peter Garnavich (Notre Dame)
 - Michael Gully-Santiago (K2 GO Office)
 - Daniel Kasen (Berkeley)
 - Armin Rest (STScI)
+- Ryan Ridden-Harper (ANU)
 - Brad Tucker (ANU)
+- Ashley Villar (Harvard)
+
 
 ### SOC
 
