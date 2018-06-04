@@ -9,7 +9,7 @@ This page details the previous, current, and future K2 Campaign fields.
 
 ## Overview
 
-<a href="images/k2/footprint-all-campaigns.png"><img src="images/k2/footprint-all-campaigns.png" class="img-responsive" alt="K2 campaign fields on the sky"></a>
+<a href="images/k2/footprint-all-campaigns.png"><img src="images/k2/footprint-all-campaigns.png?nocache=1" class="img-responsive" alt="K2 campaign fields on the sky"></a>
 
 <div class="panel panel-primary">
   <div class="panel-heading">
