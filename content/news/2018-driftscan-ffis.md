@@ -1,5 +1,5 @@
-Title: Release of driftscan Full Frame Images
-Date: 2018-06-03 08:00
+Title: Release of Driftscan Full Frame Images
+Date: 2018-06-05 10:00
 Author: Michael Gully-Santiago
 
 The Kepler spacecraft recently executed a short pilot program to demonstrate
