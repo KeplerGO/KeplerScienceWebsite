@@ -10,5 +10,5 @@ Users can now specify a radius and a number of targets in `from_archive` to retu
 A cone search with `from _archive` can be performed either with `KeplerTargetPixelFile.from_archive()` to find target pixel files, or with `KeplerLightCurveFile.from_archive()` to find light curve files.
 
 <center>
-<img src="images/conesearch.png" alt="Cone search with lightkurve" style="width: 75%; height: 75%">
+<img src="images/conesearch.png" alt="Cone search with lightkurve" style="width: 100%; height: 100%">
 </center>
