@@ -14,7 +14,7 @@ towards Earth and the spacecraft rotates around the antenna boresight
 without using fuel.
 In this configuration the field of view drifts at ~0.3-0.5 arcseconds per second,
 i.e. more than during science observations.
-The resulting images are called *driftscan Full Frame Images* (DFFIs).
+The resulting images are called *Driftscan Full Frame Images* (DFFIs).
 The data are expected to facilitate in-situ focal plane characterization and self-calibration,
 ultimately useful for scene modeling and Point Spread Function (PSF) photometry
 in crowded regions like star clusters or in extended objects.

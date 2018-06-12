@@ -16,7 +16,7 @@ and the Campaign will significantly increase the number of such stars observed b
 The field also includes members of the Pleiades (&sim;100 Myr) and Hyades (&sim;600 Myr) star clusters.
 The observations will improve the estimation of planet occurence rates as a function of stellar age, and will also enable the baseline of variability studies of young stars to be extended by including targets previously observed during Campaign 4 (2015) and Campaign 13 (2017).
 
-Field 20 also contains a large number of main sequence, post-main sequence, and galaxies to enable a wide array of investigations.
+Field 20 also contains a large number of main sequence stars, post-main sequence stars, and galaxies to enable a wide array of investigations.
 
 <p>
 <img src="images/k2/k2-c20-field.png" style="max-width: 600px;" alt="Footprint of K2 Campaign 20"/><br/>
@@ -40,8 +40,8 @@ The scientific rationale must not exceed 2 pages for small programs
 then **Phase-2** proposals for **funding** will be due **January 17, 2019**
 via NSPIRES (see Section 7.1.2 of [the solicitation](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=610960/solicitationId=%7B8A2B07C0-F3D9-677F-0C28-F0E8406FC3CD%7D/viewSolicitationDocument=1/D.7%20K2%20Cycle%207%20Final%20Text%20Amend%2014%20final.pdf)).
 Phase-2 proposals are limited to use observations for targets which have
-been selected as part of Phase-1, the selection results of which will
-be published in September 2018.
+been selected as part of Phase-1.
+The target list will be published in September 2018.
 Phase-2 proposals are eligible to receive funding awards
 between $30K and $150K, depending on the number of targets used.
 
