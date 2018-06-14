@@ -23,7 +23,7 @@ For example, [PanSTARRS monitored the entire field every night in two filters](p
 for the purpose of providing early alerts for transients in the field,
 which were made public instantly via the 
 [Transient Name Server](https://wis-tns.weizmann.ac.il).
-The PanSTARRS imaging data is currently being transferred to the data archive at MAST and is expected to become available to the public in the course of July.
+The PanSTARRS imaging data are currently being transferred to the data archive at MAST and are expected to become available to the public in the course of July.
 
 As a reminder: users are strongly encouraged to contact, cite, and collaborate with the teams who proposed the observations, as listed on the [Approved Progams & Targets page](k2-approved-programs.html#campaign-16).
 
