@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2018-05-30" />
+    <meta name="dc.date.modified" content="2018-06-15" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -258,8 +258,8 @@ Headers or other additional columns will cause an execution failure.</p>
 <p><br/></p>
 <p>If instead of checking the targets in a single campaign, you want to understand whether a target is visible in any past or future K2 Campaign, you can use a different tool called <em>K2findCampaigns</em>.</p>
 <p>For example, to verify whether J2000 coordinate (ra, dec) = (269.5, -28.5) degrees is visible at any point during the K2 mission, type:</p>
-<div class="highlight"><pre><span></span>$ K2findCampaigns <span class="m">269</span>.5 -28.5
-Success! The target is on silicon during K2 campaigns <span class="o">[</span><span class="m">9</span><span class="o">]</span>.
+<div class="highlight"><pre><span></span>$ K2findCampaigns 269.5 -28.5
+Success! The target is on silicon during K2 campaigns <span class="o">[</span>9<span class="o">]</span>.
 </pre></div>
 <p>You can also check a list of targets using the alternative command line tool called <em>K2findCampaigns-csv</em>.</p>
 <h3 id="k2ephem">K2ephem</h3>
@@ -293,8 +293,8 @@ positional arguments:
 
 optional arguments:
   -h, --help        show this <span class="nb">help</span> message and <span class="nb">exit</span>
-  --first campaign  First campaign to check <span class="o">(</span>default: <span class="m">0</span><span class="o">)</span>
-  --last campaign   Final campaign to check <span class="o">(</span>default: <span class="m">18</span><span class="o">)</span>
+  --first campaign  First campaign to check <span class="o">(</span>default: 0<span class="o">)</span>
+  --last campaign   Final campaign to check <span class="o">(</span>default: 18<span class="o">)</span>
 </pre></div>
 <h2 id="data-analysis">Data analysis</h2>
 <h3 id="lightkurve">Lightkurve</h3>
@@ -785,7 +785,7 @@ celestial coordinate or Kepler or K2 target is to use the tool KeplerFFI
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Mon 14 May 2018
+         Last modified: Wed 13 June 2018
             &middot; Editor: Geert Barentsen &middot; NASA Official: Jessie Dotson
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
