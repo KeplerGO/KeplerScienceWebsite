@@ -43,7 +43,10 @@ href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon</a>).</b>
 
 ### Local Organizing Committee
 
+* Geert Barentsen, NASA Ames Research Center
 * Knicole Colón, NASA Goddard Space Flight Center
 * Jessie Dotson, NASA Ames Research Center
 * Dawn Gelino, NASA Exoplanet Science Institute
+* Ellen O'Leary, NASA Exoplanet Science Institute
+
  
