@@ -3,8 +3,10 @@ Date: 2018-06-02 17:00
 Author: Geert Barentsen
 Summary: The solicitation for K2 Guest Observer Cycle 7 proposals for Campaign 20 has been [released and made available via NSPIRES](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7b8A2B07C0-F3D9-677F-0C28-F0E8406FC3CD%7d&path=open). Campaign 20 will revisit the Taurus-Auriga star-forming region in the forward-facing mode.
 
-The solicitation for K2 Guest Observer Cycle 7 proposals for Campaign 20 
+The solicitation for K2 Guest Observer Cycle 7 proposals 
 has been [released and made available via NSPIRES](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7b8A2B07C0-F3D9-677F-0C28-F0E8406FC3CD%7d&path=open).
+Owing to the limited amount of spacecraft fuel remaining,
+Cycle 7 is comprised of Campaign 20 only.
 This post summarizes the opportunity.
 
 ## Campaign 20

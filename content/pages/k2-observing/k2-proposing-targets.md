@@ -9,6 +9,11 @@ All targets are proposed by the community
 through the Guest Observer (GO) program. 
 This page details the program and its aims.
 
+<div class="alert alert-info">
+  <strong>Note:</strong> owing to the limited amount of spacecraft fuel remaining,
+  current and future K2 GO opportunities are at risk of fuel running out in the course
+  of 2018 or 2019.
+</div>
 
 ## Guest Observer program
 
