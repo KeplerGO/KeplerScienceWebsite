@@ -148,7 +148,7 @@ MEETINGS = (
              'https://coolstars20.github.io'),
             ('<b>6–10 Jan 2019</b><br>'
              'Kepler/K2 Booth at AAS233 (Seattle)',
-             'https://aas.org/meetings/aas232'),
+             'https://aas.org/meetings/aas233'),
             ('<b>4-8 Mar 2019</b><br>'
              'Kepler & K2 Sci Con V (Glendale)',
              'scicon-2019/index.html')
