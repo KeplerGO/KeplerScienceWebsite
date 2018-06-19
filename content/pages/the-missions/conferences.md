@@ -11,6 +11,13 @@ Save_as: conferences.html
     <td style="width: 25em;"><a href='extragalactic2018'>K2 Extragalactic Data Analysis Meeting 2018</a></td>
     <td><a
     href='extragalactic2018'>website</a>, <a href="https://twitter.com/search?q=%23K2SN">#K2SN tweets</a></td>
+	</tr>
+
+  <tr>
+    <td style="width: 9em;">March 4-8, 2019</td>
+    <td style="width: 25em;"><a href=scicon-2019/index.html>Kepler &amp; K2 SciCon V</a></td>
+    <td><a
+    href=scicon-2019/index.html>website</a>, <a href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon tweets</a></td>
   </tr>
 </table>
 
