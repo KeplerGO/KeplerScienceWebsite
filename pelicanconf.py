@@ -137,9 +137,6 @@ IMPORTANT_DATES = (
 
 # Defines the "meetings" box on the front page
 MEETINGS = (
-            ('<b>3–7 Jun 2018</b><br>'
-             'Kepler/K2 Booth at AAS232 (Denver)',
-             'https://aas.org/meetings/aas232'),
             ('<b>8–13 Jul 2018</b><br>'
              'KASC11 Asteroseismology Meeting (Aarhus)',
              'http://conferences.au.dk/tasc4/'),
@@ -151,7 +148,10 @@ MEETINGS = (
              'https://coolstars20.github.io'),
             ('<b>6–10 Jan 2019</b><br>'
              'Kepler/K2 Booth at AAS233 (Seattle)',
-             'https://aas.org/meetings/aas232'),
+             'https://aas.org/meetings/aas233'),
+            ('<b>4-8 Mar 2019</b><br>'
+             'Kepler & K2 Sci Con V (Glendale)',
+             'scicon-2019/index.html')
             )
 
 # Defines the "related websites" listing in the footer of all pages
