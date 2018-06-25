@@ -107,7 +107,7 @@ Save_as: conferences.html
     <td>Kepler Science Conference I</td>
     <td>
       <a
-    href="http://kepler.nasa.gov/Science/ForScientists/keplerconference/2011sessions/">agenda,
+    href="https://web.archive.org/web/20170321013528/http://kepler.nasa.gov/Science/ForScientists/keplerconference/2011sessions/">agenda,
     slides &amp; video</a>, <a href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon tweets</a>
     </td>
   </tr>
