@@ -8,7 +8,7 @@ CoIs: Chiappini Cristina (Leibniz Institut fur Astrophysik Potsdam AIP -DE), And
 
 
 # Targets requested by this program that have been observed (3)
-EPIC,RA,Dec,Kp,InvestigationIDs
+EPIC,rafloat,decfloat,Kp,InvestigationIDs
 246076435,351.99840,-7.65374,13.89500,GO19018_LC
 246169613,353.22833,-5.64736,14.18000,GO19018_LC|GO19068_LC
 246488420,348.58908,1.75673,14.03200,GO19018_LC|GO19067_LC

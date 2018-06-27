@@ -21,6 +21,14 @@ which amounts to a few per cent of the total targets allocated.
 The exact number of DDTs to be observed largely depends
 on the number of short versus long cadence DDTs approved. 
 
+## Current DDT opportunities
+
+**The DDT proposal deadline for K2 Campaign 19 has passed,
+however the mission is currently soliciting target proposals
+for Campaign 20 as part of the [K2 GO Cycle 7 solicitation](call-for-k2-go-cycle-7-proposals-for-campaign-20.html).**
+
+
+<!--
 ## DDT Proposal Information
 
 A DDT request should consist of <2 pages of text including all
@@ -67,3 +75,4 @@ Note: operational constraints may cause DDT deadlines to shift.
 We recommend verifying the deadlines closer to date.
 
 The fixed location and observing window of the Campaigns are provided [at the field information page](k2-fields.html).
+-->
