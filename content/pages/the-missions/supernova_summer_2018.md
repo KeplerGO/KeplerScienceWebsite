@@ -181,17 +181,21 @@ Requests must be accompanied by a statement detailing the reasons you wish to pa
 
 ### Confirmed participants
 
-- Patrick Armstrong (ANU)
+- Patrick Armstrong (Australian National University)
+- Victoria Ashley Villar (Harvard)
 - Thomas Barclay (NASA GSFC)
-- Geert Barentsen (K2 GO Office)
-- Jessie Dotson (K2 Project Scientist)
-- Peter Garnavich (Notre Dame)
-- Michael Gully-Santiago (K2 GO Office)
-- Daniel Kasen (Berkeley)
+- Geert Barentsen (NASA Kepler/K2)
+- Jessie Dotson (NASA Ames Research Center)
+- Peter Garnavich (University of Notre Dame)
+- Michael Gully-Santiago (NASA Kepler/K2)
+- Daichi Hiramatsu (Las Cumbres Observatory and University of California, Santa Barbara)
+- Daniel Kasen (UC Berkeley)
+- Jackeline Moreno (Drexel University)
+- Gautham Narayan (STScI)
 - Armin Rest (STScI)
-- Ryan Ridden-Harper (ANU)
-- Brad Tucker (ANU)
-- Ashley Villar (Harvard)
+- Gordon Richards (Drexel University)
+- Ryan Ridden-Harper (Australian National University)
+- Ed Shaya (U. of Maryland)
 
 
 ### SOC
