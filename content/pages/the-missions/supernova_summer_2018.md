@@ -42,7 +42,8 @@ which will yield a wider albeit shallower survey of more-nearby galaxies.
 The meeting will take place in Room 462 of the [Bloomberg Center for Physics and Astronomy](https://goo.gl/maps/fSs7jGmJB4k) at Johns Hopkins University in Baltimore, Maryland.
 
 The most nearby hotel is the [Inn at The Colonnade](http://www.colonnadebaltimore.com), which is located within 5 minutes walking distance from the meeting.
-
+**The LOC has secured a discounted rate of $147 + tax per room,
+please use the group code "K2E" to secure this rate.**
 
 ### Schedule
 
