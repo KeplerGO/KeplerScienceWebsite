@@ -15,4 +15,4 @@ This code of conduct applies to all community situations, including conferences,
 
 This statement has been adapted from the Astropy Community Code of Conduct.
 
- If you have concerns, suggestions, or would like to report a violation, please contact Mark D. Messersmith at 650-793-5722 or Jessie Dotson at 650-701-7040.
+ If you have concerns, suggestions, or would like to report a violation, please contact Jessie Dotson at 650-701-7040.
