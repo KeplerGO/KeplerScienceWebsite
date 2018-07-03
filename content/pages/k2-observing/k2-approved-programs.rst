@@ -53,8 +53,36 @@ Campaign 19
     <b>33,863 standard long cadence</b>
     and <b>216 standard short cadence</b> targets
     located towards the constellation of Aquarius.
-    Short cadence highlights include Trappist-1, GJ 9827,
-    and the planet Neptune.
+    The Campaign partially overlaps with Campaigns 3 and 12,
+    while also surveying ~15 deg<sup>2</sup> of previously unstudied sky.
+  </p>
+
+  <p>
+    The target list includes the nearby planet systems <b>TRAPPIST-1</b> and <b>GJ 9827</b>.
+    These systems host some of the most amenable small planets for atmospheric characterization
+    known to date, i.e. TRAPPIST-1 f, GJ 9827 b, and GJ 9827 d.
+    The Hubble Space Telescope is scheduled to observe GJ 9827 b on September 16th and 21st, simultaneously with Kepler, obtaining a transmission spectrum to characterize water abundance in the atmosphere. Kepler will provide a unique photometric context to the Hubble observations for the purpose of constraining astrophysical noise such as star spots and provide precise transit modeling when HST is in Earth occultation.
+  </p>
+
+  <p>
+    Other notable targets include:
+    <ul>
+      <li>
+        <b>Dozens of confirmed and candidate exoplanets</b> previously discovered
+        during K2 Campaigns 3 and 12, including K2-138, the resonant system of
+        five planets <a href="https://www.nasa.gov/feature/jpl/multi-planet-system-found-through-crowdsourcing">discovered by citizen scientists</a>.
+      </li>
+      <li>
+        A large sample of <b>low-mass flare stars</b> and <b>white dwarfs</b>
+        in short cadence.
+      </li>
+      <li>
+        <b>11,501 galaxies</b> are being surveyed for supernovae and other transients.
+      </li>
+      <li>
+        <b>30 Solar System objects</b> are being monitored, including <b>planet Neptune</b> and its moon Triton in short cadence, and comet 2P/Encke in long cadence.
+      </li>
+    </ul>
   </p>
 
   <ul class="list-group">
