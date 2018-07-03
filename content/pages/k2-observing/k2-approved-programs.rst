@@ -27,7 +27,7 @@ All campaigns to date
 .. raw:: html
 
     <p>
-        Campaigns 0 - 17 contain <b>507,931 pixel masks</b> in approved K2 programs.  The target list below was produced from concatenating all campaign-level target lists into a single csv file.  The file contains one additional column indicating the campaign.  This master file will facilitate cross-matching K2 data with other catalogs, and other data mining efforts.
+        Campaigns 0 - 19 contain <b>588,991 pixel masks</b> in approved K2 programs.  The target list below was produced from concatenating all campaign-level target lists into a single csv file.  The file contains one additional column indicating the campaign.  This master file will facilitate cross-matching K2 data with other catalogs, and other data mining efforts.
     </p>
 
   <ul class="list-group">
@@ -150,7 +150,7 @@ Campaign 18
           </li>
         </ul>
       <li>
-        <b>42 confirmed exoplanets from Campaign 5</b>: 
+        <b>42 confirmed exoplanets from Campaign 5</b>:
         K2-34b, 95b, 97b, 98b, 100b, 101b, 102b, 103b, 104b, 105b, 108b,
         114b, 115b, 117bc, 118b, 119b, 120b, 121b, 122b, 123b, 124b, 146b,
         180b, 181b, 182b, 183bcd, 184b, 185b, 187bcde, 188bc,
