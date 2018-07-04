@@ -70,7 +70,8 @@ Campaign 19
       <li>
         <b>Dozens of confirmed and candidate exoplanets</b> previously discovered
         during K2 Campaigns 3 and 12, including K2-138, the resonant system of
-        five planets <a href="https://www.nasa.gov/feature/jpl/multi-planet-system-found-through-crowdsourcing">discovered by citizen scientists</a>.
+        five planets <a href="https://www.nasa.gov/feature/jpl/multi-planet-system-found-through-crowdsourcing">discovered by citizen scientists</a>,
+        and HD 215152, a system <a href="http://adsabs.harvard.edu/abs/2018A&A...614A.133D">known to contain four short-period RV planets</a>.
       </li>
       <li>
         A large sample of <b>low-mass flare stars</b> and <b>white dwarfs</b>
