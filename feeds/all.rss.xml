@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Tue, 19 Jun 2018 09:00:00 -0700</lastBuildDate><item><title>Save the date for Kepler &amp; K2 Science Conference V: March 4-8, 2019</title><link>https://keplerscience.arc.nasa.gov/save-the-date-for-kepler-k2-science-conference-v-march-4-8-2019.html</link><description>&lt;p&gt;The &lt;a href='scicon-2019/index.html'&gt; Kepler &amp;amp; K2 Science Conference V&lt;/a&gt; will take place March 4-8, 2019,
+<rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Wed, 04 Jul 2018 10:00:00 -0700</lastBuildDate><item><title>New in lightkurve: identifying time-variable background noise</title><link>https://keplerscience.arc.nasa.gov/new-in-lightkurve-identifying-time-variable-background-noise.html</link><description>&lt;p&gt;The new &lt;a href="http://lightkurve.keplerscience.org"&gt;lightkurve&lt;/a&gt; open source Python package
+for Kepler and K2 data analysis, which we &lt;a href="new-kepler-data-analysis-tools-and-tutorials-lightkurve-v10.html"&gt;first announced in March&lt;/a&gt;,
+contains a &lt;a href="http://lightkurve.keplerscience.org/tutorials/2.06-identify-rolling-band.html"&gt;new data analysis tutorial&lt;/a&gt; which demonstrates how
+custom aperture photometry can be used to check your target
+for the presence of time-variable background signals.&lt;/p&gt;
+&lt;p&gt;The background flux level of …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Wed, 04 Jul 2018 10:00:00 -0700</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2018-07-04:/new-in-lightkurve-identifying-time-variable-background-noise.html</guid></item><item><title>K2 Campaign 19 science program now available</title><link>https://keplerscience.arc.nasa.gov/k2-campaign-19-science-program-now-available.html</link><description>&lt;p&gt;The science program and target lists for K2 Campaign 19
+have now been posted on the
+&lt;a href="k2-approved-programs.html#campaign-19"&gt;approved targets &amp;amp; programs page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The target list includes
+&lt;b&gt;33,863 standard long cadence&lt;/b&gt;
+and &lt;b&gt;216 standard short cadence&lt;/b&gt; targets
+located towards the constellation of Aquarius.
+The Campaign partially overlaps with Campaigns 3 and 12 …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Mon, 02 Jul 2018 09:00:00 -0700</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2018-07-02:/k2-campaign-19-science-program-now-available.html</guid></item><item><title>Save the date for Kepler &amp; K2 Science Conference V: March 4-8, 2019</title><link>https://keplerscience.arc.nasa.gov/save-the-date-for-kepler-k2-science-conference-v-march-4-8-2019.html</link><description>&lt;p&gt;The &lt;a href='scicon-2019/index.html'&gt;Kepler &amp;amp; K2 Science Conference V&lt;/a&gt;
+will take place March 4-8, 2019,
 in Glendale, California. The Kepler spacecraft launched on March 6,
 2009 aboard a Delta II rocket from Cape Canaveral Air Force Station in
 Florida. This meeting will be a celebration of Kepler's 10 years in

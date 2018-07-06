@@ -1,14 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2018-06-19T09:00:00-07:00</updated><entry><title>Save the date for Kepler &amp; K2 Science Conference V: March 4-8, 2019</title><link href="https://keplerscience.arc.nasa.gov/save-the-date-for-kepler-k2-science-conference-v-march-4-8-2019.html" rel="alternate"></link><published>2018-06-19T09:00:00-07:00</published><updated>2018-06-19T09:00:00-07:00</updated><author><name>Knicole Colon</name></author><id>tag:keplerscience.arc.nasa.gov,2018-06-19:/save-the-date-for-kepler-k2-science-conference-v-march-4-8-2019.html</id><summary type="html">&lt;p&gt;The &lt;a href='scicon-2019/index.html'&gt; Kepler &amp;amp; K2 Science Conference V&lt;/a&gt; will take place March 4-8, 2019,
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2018-07-04T10:00:00-07:00</updated><entry><title>New in lightkurve: identifying time-variable background noise</title><link href="https://keplerscience.arc.nasa.gov/new-in-lightkurve-identifying-time-variable-background-noise.html" rel="alternate"></link><published>2018-07-04T10:00:00-07:00</published><updated>2018-07-04T10:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-07-04:/new-in-lightkurve-identifying-time-variable-background-noise.html</id><summary type="html">&lt;p&gt;The new &lt;a href="http://lightkurve.keplerscience.org"&gt;lightkurve&lt;/a&gt; open source Python package
+for Kepler and K2 data analysis, which we &lt;a href="new-kepler-data-analysis-tools-and-tutorials-lightkurve-v10.html"&gt;first announced in March&lt;/a&gt;,
+contains a &lt;a href="http://lightkurve.keplerscience.org/tutorials/2.06-identify-rolling-band.html"&gt;new data analysis tutorial&lt;/a&gt; which demonstrates how
+custom aperture photometry can be used to check your target
+for the presence of time-variable background signals.&lt;/p&gt;
+&lt;p&gt;The background flux level of …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The new &lt;a href="http://lightkurve.keplerscience.org"&gt;lightkurve&lt;/a&gt; open source Python package
+for Kepler and K2 data analysis, which we &lt;a href="new-kepler-data-analysis-tools-and-tutorials-lightkurve-v10.html"&gt;first announced in March&lt;/a&gt;,
+contains a &lt;a href="http://lightkurve.keplerscience.org/tutorials/2.06-identify-rolling-band.html"&gt;new data analysis tutorial&lt;/a&gt; which demonstrates how
+custom aperture photometry can be used to check your target
+for the presence of time-variable background signals.&lt;/p&gt;
+&lt;p&gt;The background flux level of Kepler pixel data is not static.
+In particular, certain CCD channels occasionally experience the 'rolling band' effect,
+where the background has a strong time varying component of a 'band' moving up the detector.
+You can read more about rolling band in the &lt;a href="https://archive.stsci.edu/kepler/manuals/KSCI-19033-001.pdf"&gt;Kepler Instrument Handbook&lt;/a&gt;.
+An example of the rolling band artifact is shown in the video below.
+You can see the band move through the superstamp at the 2 second mark,
+leaving the bottom of the screen at the 6 second mark.&lt;/p&gt;
+&lt;p&gt;The rolling band artifact is small, up to about 20 counts per pixel.
+However, this can add up for large apertures containing many pixels or for faint, quiet targets.&lt;/p&gt;
+&lt;p&gt;Rolling band can often add spurious signals into your data which look like real astrophysical variability. 
+The best way to spot rolling band is to vary your aperture size
+or make lightcurves of nearby background pixels.
+If the signal strength increases as you increase the number of background pixels in the aperture, the effect is likely to be an additive background component.
+Our &lt;a href="http://lightkurve.keplerscience.org/tutorials/2.06-identify-rolling-band.html"&gt;new data analysis tutorial&lt;/a&gt; demonstrates how lightkurve can be used
+to investigate the presence of the noise in your target of choice.&lt;/p&gt;
+&lt;p style="max-width: 600px;"&gt;
+&lt;img src="images/news/rollingband.gif"&gt;&lt;br&gt;
+&lt;i&gt;Animation of the superstamp obtained for the dwarf galaxy IC1613 during K2 Campaign 8.
+Around the superstamp you can see smaller Target Pixel Files (TPFs) covering single objects of interest.
+You can see a dark band move from the top of the superstamp to the bottom during the movie. This dark band and surrounding artifacts are the so-called "rolling bands".
+&lt;/i&gt;
+&lt;/p&gt;</content></entry><entry><title>K2 Campaign 19 science program now available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-19-science-program-now-available.html" rel="alternate"></link><published>2018-07-02T09:00:00-07:00</published><updated>2018-07-02T09:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-07-02:/k2-campaign-19-science-program-now-available.html</id><summary type="html">&lt;p&gt;The science program and target lists for K2 Campaign 19
+have now been posted on the
+&lt;a href="k2-approved-programs.html#campaign-19"&gt;approved targets &amp;amp; programs page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The target list includes
+&lt;b&gt;33,863 standard long cadence&lt;/b&gt;
+and &lt;b&gt;216 standard short cadence&lt;/b&gt; targets
+located towards the constellation of Aquarius.
+The Campaign partially overlaps with Campaigns 3 and 12 …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The science program and target lists for K2 Campaign 19
+have now been posted on the
+&lt;a href="k2-approved-programs.html#campaign-19"&gt;approved targets &amp;amp; programs page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The target list includes
+&lt;b&gt;33,863 standard long cadence&lt;/b&gt;
+and &lt;b&gt;216 standard short cadence&lt;/b&gt; targets
+located towards the constellation of Aquarius.
+The Campaign partially overlaps with Campaigns 3 and 12,
+while also surveying ~15 deg&lt;sup&gt;2&lt;/sup&gt; of previously unstudied sky.&lt;/p&gt;
+&lt;p&gt;Notable targets include the nearby planet systems &lt;b&gt;TRAPPIST-1&lt;/b&gt; and &lt;b&gt;GJ 9827&lt;/b&gt;.
+These systems host some of the most amenable small planets for atmospheric characterization
+known to date, i.e. TRAPPIST-1 f, GJ 9827 b, and GJ 9827 d.
+The Hubble Space Telescope is scheduled to observe GJ 9827 b on September 16th and 21st, simultaneously with Kepler, obtaining a transmission spectrum to characterize water abundance in the atmosphere. Kepler will provide a unique photometric context to the Hubble observations for the purpose of constraining astrophysical noise such as star spots and provide precise transit modeling when HST is in Earth occultation.&lt;/p&gt;
+&lt;p&gt;Other notable targets include:
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;b&gt;Dozens of confirmed and candidate exoplanets&lt;/b&gt; previously discovered
+    during K2 Campaigns 3 and 12, including K2-138, the resonant system of
+    five planets &lt;a href="https://www.nasa.gov/feature/jpl/multi-planet-system-found-through-crowdsourcing"&gt;discovered by citizen scientists&lt;/a&gt;,
+    and HD 215152, a system &lt;a href="http://adsabs.harvard.edu/abs/2018A&amp;A...614A.133D"&gt;known to contain four short-period RV planets&lt;/a&gt;. 
+  &lt;/li&gt;
+  &lt;li&gt;
+    A large sample of &lt;b&gt;low-mass flare stars&lt;/b&gt; and &lt;b&gt;white dwarfs&lt;/b&gt;
+    in short cadence.
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;b&gt;11,501 galaxies&lt;/b&gt; are being surveyed for supernovae and other transients.
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;b&gt;30 Solar System objects&lt;/b&gt; are being monitored, including &lt;b&gt;planet Neptune&lt;/b&gt; and its moon Triton in short cadence, and comet 2P/Encke in long cadence.
+  &lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;The figure below illustrates the location of the field and its notable targets.&lt;/p&gt;
+&lt;p&gt;&lt;a href="images/k2/k2-c19-field.png"&gt;&lt;img class="img-responsive" style="max-width:500px;" src="images/k2/k2-c19-field.png" alt="C19 Field"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>Save the date for Kepler &amp; K2 Science Conference V: March 4-8, 2019</title><link href="https://keplerscience.arc.nasa.gov/save-the-date-for-kepler-k2-science-conference-v-march-4-8-2019.html" rel="alternate"></link><published>2018-06-19T09:00:00-07:00</published><updated>2018-06-19T09:00:00-07:00</updated><author><name>Knicole Colon</name></author><id>tag:keplerscience.arc.nasa.gov,2018-06-19:/save-the-date-for-kepler-k2-science-conference-v-march-4-8-2019.html</id><summary type="html">&lt;p&gt;The &lt;a href='scicon-2019/index.html'&gt;Kepler &amp;amp; K2 Science Conference V&lt;/a&gt;
+will take place March 4-8, 2019,
 in Glendale, California. The Kepler spacecraft launched on March 6,
 2009 aboard a Delta II rocket from Cape Canaveral Air Force Station in
 Florida. This meeting will be a celebration of Kepler's 10 years in
-space and will …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The &lt;a href='scicon-2019/index.html'&gt; Kepler &amp;amp; K2 Science Conference V&lt;/a&gt; will take place March 4-8, 2019,
+space and will …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The &lt;a href='scicon-2019/index.html'&gt;Kepler &amp;amp; K2 Science Conference V&lt;/a&gt;
+will take place March 4-8, 2019,
 in Glendale, California. The Kepler spacecraft launched on March 6,
 2009 aboard a Delta II rocket from Cape Canaveral Air Force Station in
 Florida. This meeting will be a celebration of Kepler's 10 years in
 space and will serve as a showcase of the bountiful results that have come from both the Kepler
-and K2 missions. Stay tuned for further information!&lt;/p&gt;</content></entry><entry><title>New in lightkurve: saving a lightcurve as a FITS file</title><link href="https://keplerscience.arc.nasa.gov/new-in-lightkurve-saving-a-lightcurve-as-a-fits-file.html" rel="alternate"></link><published>2018-06-13T14:00:00-07:00</published><updated>2018-06-13T14:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-06-13:/new-in-lightkurve-saving-a-lightcurve-as-a-fits-file.html</id><summary type="html">&lt;p&gt;The new &lt;a href="http://lightkurve.keplerscience.org"&gt;lightkurve Python package&lt;/a&gt;
+and K2 missions.&lt;/p&gt;
+&lt;p&gt;The abstract deadline is November 15, 2018.
+For more information, visit the conference website at 
+&lt;a href="https://keplerscience.arc.nasa.gov/scicon-2019"&gt;https://keplerscience.arc.nasa.gov/scicon-2019&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>New in lightkurve: saving a lightcurve as a FITS file</title><link href="https://keplerscience.arc.nasa.gov/new-in-lightkurve-saving-a-lightcurve-as-a-fits-file.html" rel="alternate"></link><published>2018-06-13T14:00:00-07:00</published><updated>2018-06-13T14:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-06-13:/new-in-lightkurve-saving-a-lightcurve-as-a-fits-file.html</id><summary type="html">&lt;p&gt;The new &lt;a href="http://lightkurve.keplerscience.org"&gt;lightkurve Python package&lt;/a&gt;
 for Kepler and K2 data analysis, which we &lt;a href="new-kepler-data-analysis-tools-and-tutorials-lightkurve-v10.html"&gt;first announced in March&lt;/a&gt;,
 contains a new feature: &lt;code&gt;to_fits()&lt;/code&gt;.&lt;/p&gt;
 &lt;p&gt;The feature solves a common use case for authors of custom lightcurves
