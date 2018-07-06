@@ -69,6 +69,10 @@ working order.
 
 <br/>
 
+<img class="img-responsive" style="max-width:100%;" src="images/Kepler-Chan-Mod.jpg">
+
+<br/>
+
 <img class="img-responsive" style="max-width:67%;" src="images/kepler_focalplane1.jpg">
 
 <br/>
