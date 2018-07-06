@@ -34,7 +34,7 @@ Other notable targets include:
     <b>11,501 galaxies</b> are being surveyed for supernovae and other transients.
   </li>
   <li>
-    <b>30 Solar System objects</b> are being monitored, including <b>planet Neptune</b> and its moon Triton in short cadence, and comet 2P/Encke in long cadence.
+    <b>30 Solar System objects</b> are being monitored, including the planet <b>Neptune</b> and its moon Triton in short cadence, and comet 2P/Encke in long cadence.
   </li>
 </ul>
 
