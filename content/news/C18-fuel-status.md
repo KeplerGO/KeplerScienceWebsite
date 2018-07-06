@@ -46,6 +46,16 @@ We do expect to move the Campaign 20 target proposal deadline to August 16th, 20
 
 Not at all!
 We expect that Kepler’s data set will continue to yield discoveries for a decade,
-and that many planets are yet to be discovered.
+and that many planets are yet to be discovered (e.g. <a href="https://arxiv.org/abs/1806.11504">27 new planets were announced just last week</a>).
 NASA will continue to support and fund the analysis of the Kepler and K2 data sets
 beyond the end of spacecraft operations.
+Extrapolating from the success of Kepler's original mission,
+we expect that K2's data set will yield more than 1,000 publications
+over the next years (cf. figure below).
+
+<p style="max-width: 600px;">
+<img src="images/news/k2-publications-prediction-20180705.png">
+<br>
+<i>Figure: extrapolating from the success of the Kepler's scientific productivity (top panel),
+	we expect that more than 1,000 publications will utilize K2 data over the next years (bottom panel).
+</p>
