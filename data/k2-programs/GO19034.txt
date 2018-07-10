@@ -8,5 +8,5 @@ CoIs: Jason Jackiewicz, New Mexico State U., Joyce Guzik, Los Alamos National La
 
 
 # Targets requested by this program that have been observed (1)
-EPIC,rafloat,decfloat,Kp,InvestigationIDs
+EPIC,RA,Dec,Kp,InvestigationIDs
 246421858,344.72052,-0.31594,8.27800,GO19034_LC|GO19051_LC

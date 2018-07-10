@@ -8,5 +8,5 @@ CoIs: Travis Metcalfe (Space Science Institute)
 
 
 # Targets requested by this program that have been observed (1)
-EPIC,rafloat,decfloat,Kp,InvestigationIDs
+EPIC,RA,Dec,Kp,InvestigationIDs
 246374975,349.14682,-1.58652,7.99800,GO19003_LC|GO19026_LC|GO19032_LC|GO19038_LC|GO19043_LC|GO19049_LC|GO19065_LC|GO19066_LC|GO19066_SC

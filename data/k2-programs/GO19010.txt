@@ -8,6 +8,6 @@ CoIs: Michael Carini (Western Kentucky University) Paul Wiita (The College of Ne
 
 
 # Targets requested by this program that have been observed (2)
-EPIC,rafloat,decfloat,Kp,InvestigationIDs
+EPIC,RA,Dec,Kp,InvestigationIDs
 246327456,354.48892,-2.51602,18.31800,GO19010_LC|GO19020_LC|GO19044_LC
 251721269,341.87580,0.00176,17.11000,GO19010_LC|GO19020_LC

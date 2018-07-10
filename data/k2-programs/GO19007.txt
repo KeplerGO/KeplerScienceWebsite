@@ -8,6 +8,6 @@ CoIs: Matt Wood (Texas A&M University-Commerce), Steve Howell (NASA Ames), John 
 
 
 # Targets requested by this program that have been observed (2)
-EPIC,rafloat,decfloat,Kp,InvestigationIDs
+EPIC,RA,Dec,Kp,InvestigationIDs
 246370504,351.46440,-1.67313,18.21700,GO19007_LC|GO19013_LC|GO19007_SC|GO19013_SC
-251813739,345.96515,1.11421,19.10000,GO19007_LC|GO19013_LC|GO19007_SC
+999000000,345.96515,1.11421,19.10000,GO19007_LC|GO19013_LC|GO19007_SC
