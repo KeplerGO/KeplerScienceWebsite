@@ -150,7 +150,7 @@ from Earth. [The final field positions are posted here](k2-fields.html).**
 
 ### Submission process
 
-Target lists and accompanying scientific justifications for Campaign 20 are requested as part of the Cycle 7 Phase-1 submission by **July 19, 2018**.
+Target lists and accompanying scientific justifications for Campaign 20 are requested as part of the Cycle 7 Phase-1 submission by **August 16, 2018**.
 Based on the peer review of these Phase-1 proposals,
 a target list will be created and uploaded to the
 <a href="k2-approved-programs.html">K2 approved targets & programs page</a>
@@ -514,7 +514,7 @@ if you require assistance with this.
 ### FAQs  
 
 * **What are the proposal deadlines?**<br/>
-Phase-1 proposals for Cycle 1 are due July 19, 2018 by 23:59 Eastern Time via e-mail to keplergo@mail.arc.nasa.gov.
+Phase-1 proposals for Cycle 1 are due August 16, 2018 by 23:59 Eastern Time via e-mail to keplergo@mail.arc.nasa.gov.
 Phase-2 proposals for Cycle 7 are due January 17, 2019 by 23:59 Eastern Time via NSPIRES.
 
 * **What are the anticipated dates of the campaigns included in the
