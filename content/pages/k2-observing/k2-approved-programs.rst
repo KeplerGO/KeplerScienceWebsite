@@ -419,7 +419,7 @@ Campaign 16
     </li>
     <li class="list-group-item">
       <i class="fa fa-pencil-square-o fa-margin"></i>
-      Data release notes (coming soon)
+      <a href="k2-data-release-notes.html#k2-campaign-16">Data release notes</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
