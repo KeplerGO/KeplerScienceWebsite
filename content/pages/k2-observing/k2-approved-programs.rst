@@ -126,7 +126,7 @@ Campaign 18
           </li>
         </ul>
       <li>
-        <b>42 confirmed exoplanets from Campaign 5</b>: 
+        <b>42 confirmed exoplanets from Campaign 5</b>:
         K2-34b, 95b, 97b, 98b, 100b, 101b, 102b, 103b, 104b, 105b, 108b,
         114b, 115b, 117bc, 118b, 119b, 120b, 121b, 122b, 123b, 124b, 146b,
         180b, 181b, 182b, 183bcd, 184b, 185b, 187bcde, 188bc,
@@ -1138,7 +1138,7 @@ Campaign 2
     </li>
     <li class="list-group-item">
       <i class="fa fa-cog fa-margin"></i>
-      <a href="/k2-pipeline-release-notes.html#data-release-4">Pipeline: 9.2</a>
+      <a href="/k2-pipeline-release-notes.html#data-release-21">Pipeline: 9.3</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>

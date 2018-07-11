@@ -2986,46 +2986,43 @@ Data Release 10 updates the short cadence data only. This release corrects the s
 
 # K2 Campaign 2
 
-UPDATED: XXXXX based on reprocessing
-
 <h2>At a glance</h2>
 
-<div class="row">
 <div class="col-lg-5">
 
-    <b><i>Pointing</i></b>
-    <ul>
-        <li>RA: 246.1264 degrees</li>
-        <li>Dec: -22.4473 degrees</li>
-        <li>Roll: 171.2284 degrees</li>
-    </ul>
+<b><i>Pointing</i></b>
+<ul>
+<li> RA: 246.1264 degrees</li>
+<li> Dec: -22.4473 degrees</li>
+<li> Roll: 171.2284 degrees</li>
+</ul>
 
-    <b><i>Targets</i></b>
-    <ul>
-        <li>13,399 in long cadence (LC)</li>
-        <li>54 in short cadence (SC)</li>
-        <li>Several custom targets (see below)</li>
-    </ul>
+<b><i>Targets</i></b>
+<ul>
+<li>13,399 in long cadence (LC)</li>
+<li>54 in short cadence (SC)</li>
+<li>Several custom targets (see below)</li>
+</ul>
 
-    <b><i>Full Frame Images (FFI)</i></b>
-    <ul>
-        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2014240042843-c02_ffi-cal.fits">ktwo2014240042843-c02_ffi-cal.fits</a></li>
-        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2014294030900-c02_ffi-cal.fits">ktwo2014294030900-c02_ffi-cal.fits</a></li>
-    </ul>
+<b><i>Full Frame Images (FFI)</i></b>
+<ul>
+<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2014240042843-c02_ffi-cal.fits">ktwo2014240042843-c02_ffi-cal.fits</a></li>
+<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2014294030900-c02_ffi-cal.fits">ktwo2014294030900-c02_ffi-cal.fits</a></li>
+</ul>
 
-    <b><i>First cadence</i></b>
-    <ul>
-        <li>Time: 2014-08-23 18:27:16 UTC</li>
-        <li>Long Cadence Number: 95497</li>
-        <li>Short Cadence Number: 2853370</li>
-    </ul>
+<b><i>First cadence</i></b>
+<ul>
+<li>Time: 2014-08-23 18:27:16 UTC</li>
+<li>Long Cadence Number: 95497</li>
+<li>Short Cadence Number: 2853370</li>
+</ul>
 
-    <b><i>Last cadence</i></b>
-    <ul>
-        <li>Time: 2014-11-10 13:27:43 UTC</li>
-        <li>Long Cadence Number: 99352</li>
-        <li>Short Cadence Number: 2969049</li>
-    </ul>
+<b><i>Last cadence</i></b>
+<ul>
+<li>Time: 2014-11-10 13:27:43 UTC</li>
+<li>Long Cadence Number: 99352</li>
+<li>Short Cadence Number: 2969049</li>
+</ul>
 
 </div>
 
@@ -3033,61 +3030,64 @@ UPDATED: XXXXX based on reprocessing
 
     <div class="thumbnail">
         <div class="caption">
-            <i>Figure: Schematic of Kepler's C2 field-of-view with selected targets shown with purple dots.</i>
+            <i>Figure C2-FOV: Schematic of Kepler's C2 field-of-view with with high profile objects.</i>
         </div>
-        <a href="images/campaign_selected/C2_selected.png">
-            <img src="images/campaign_selected/C2_selected.png" class="img-responsive" alt="C2 field-of-view with selected targets">
+        <a href="images/k2/k2-c02-field.png">
+            <img src="images/k2/k2-c02-field.png" class="img-responsive" alt="C2 field-of-view with high profile objects.">
         </a>
     </div>
 
     <div class="thumbnail">
         <div class="caption">
-            <i>Figure: Distribution of the Kepler magnitudes of observed targets in C2.</i>
+            <i>Figure C2-Mag: Distribution of the Kepler magnitudes of observed targets in C2.  All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-2">GO Programs</a>
+            were selected. </i>
         </div>
         <a href="images/release-notes/c2/C2_lc_kp.png">
             <img src="images/release-notes/c2/C2_lc_kp.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed targets in C2.">
         </a>
     </div>
-
 </div>
 
 </div>
 
 <div class="thumbnail">
     <div class="caption">
-        <i>Figure: Full Frame Image Highlights</i>
+        <i>Figure C2-FFI: Full Frame Image Highlights: A processed FFI image from C2 highlighting several extended source features in the field.</i>
     </div>
     <a href="images/release-notes/c2/K2-new-litho_2015.png">
         <img src="images/release-notes/c2/K2-new-litho_2015.png" class="img-responsive" alt="Campaign 2 Full Frame Image Highlights.">
     </a>
 </div>
 
+<br>
+
 
 <h2>Features and events</h2>
 
 <br>
+
 ***Solar Activity***
 
-During C2 Kepler experienced two energetic particle events of note, likely caused by solar activity. Both events affected all channels as can be seen in the dark current metric plot for the first 26 days of C2 (see below). The first was a broad peak lasting approximately from cadence 95924 -- 96335 (01-Sep-2014 11:51:30 Z [MJD: 56901.4941] to 09-Sep-2014 21:24:55 Z [MJD: 56909.8923]). The second was a stronger more-peaked event lasting approximately from cadence 96357 -- 96551 (10-Sep-2014 17:01:54 Z [56910.7096] to 14-Sep-2014 07:20:35 Z [56914.30596]). At the peak of the 10-Sep-2014 event the average dark current increased by a factor of ~7 over the quiescent level. The GOES x-ray flux plot for this time shows an increased x-ray flux at Earth, though we don't have an independent measure of the exact timing and magnitude at the location of Kepler. The impact to the data will be in the form of increased background level, and increased photometric noise. The impact will be largest for faint targets.
+During C2 Kepler experienced two energetic particle events of note, likely caused by solar activity. Both events affected all channels as can be seen in the dark current metric plot for the first 26 days of C2 (see below). The first was a broad peak lasting approximately from cadence 95924&ndash;96335 (01-Sep-2014 11:51:30 Z [MJD: 56901.4941] to 09-Sep-2014 21:24:55 Z [MJD: 56909.8923]). The second was a stronger more-peaked event lasting approximately from cadence 96357&ndash;96551 (10-Sep-2014 17:01:54 Z [56910.7096] to 14-Sep-2014 07:20:35 Z [56914.30596]). At the peak of the 10-Sep-2014 event the average dark current increased by a factor of ~7 over the quiescent level. The GOES x-ray flux plot for this time shows an increased x-ray flux at Earth, though an independent measure of the exact timing and magnitude at the location of Kepler is not available. The impact to the data will be in the form of increased background level and increased photometric noise &mdash; the impact will be largest for faint targets.
 
-<div class="thumbnail" style="width: 68%;">
+<div class="thumbnail">
     <div class="caption">
-        <i>Figure: Dark Current Metric plotted against time.</i>
+        <i>Figure C20-Dark: The Dark Current Metric plotted against time for C2.</i>
     </div>
     <a href="images/release-notes/c2/c2_dark_current_metric.png">
         <img src="images/release-notes/c2/c2_dark_current_metric.png" class="img-responsive" alt="Dark Current Metric plotted against time.">
     </a>
 </div>
 
-
 <br>
+
 ***Mars***
 
-Mars passed across the field of view between October 1 and October 23. See the figure below for a prediction of where Mars is on the focal plane during Campaign 2. Mars is a bright object which will saturate the CCD. Both its image and its reflection will likely contaminate nearby stars.
+Mars passed across the field of view between October 1 and October 23, 2014. See Figure C2-Mars below for a prediction of where Mars is on the focal plane during Campaign 2. Mars is a bright object that saturates the CCD causing significant bleeding along the columns it falls on as it passes through the field. Both its image and its reflection will likely contaminate nearby stars.
 
-<div class="thumbnail" style="width: 68%;">
+<div class="thumbnail">
     <div class="caption">
-        <i>Figure: Schematic of Kepler's C2 field of view (outlined in blue) with the positions of Mars shown as small red squares.</i>
+        <i>Figure C2-Mars: Schematic of Kepler's C2 field of view (outlined in blue) with the positions of Mars shown as small red squares.</i>
     </div>
     <a href="images/release-notes/c2/f2-fov.png">
         <img src="images/release-notes/c2/f2-fov.png" class="img-responsive" alt="Schematic of Kepler's C2 field of view.">
@@ -3096,6 +3096,7 @@ Mars passed across the field of view between October 1 and October 23. See the f
 
 
 <br>
+
 ***LDE Flags***
 
 During the latter half of C2 we experienced a large number of parity errors coming from the photometer's local detector electronics (LDE). These LDE parity errors can occur when a very bright star saturates and spills charge into the CCD serial readout register, causing an overflow at the input to the analog-to-digital converter. While these errors were rare in Kepler, the very bright stars, or solar system planets, on the focal plane in K2 can cause frequent parity errors. For example, stars on channels 67 and 75 were the source of many of the parity errors during C2. These errors do not affect the quality of data from pixels on the active focal plane.
