@@ -3097,6 +3097,27 @@ Mars passed across the field of view between October 1 and October 23, 2014. See
 
 <br>
 
+
+
+
+
+***Failed to Flag Large Pointing Excursion***
+
+
+
+
+***One Target Without Dynablack in Short-Cadence***
+
+KIC 204241221 is a V = 8.7 A9V star with potentially observable asteroseismic signatures. Due to a bug in the pipeline, Dynablack (see )
+
+KIC 204241221 was run in  SC without Dynablack.
+
+
+
+
+
+
+
 ***LDE Flags***
 
 During the latter half of C2 we experienced a large number of parity errors coming from the photometer's local detector electronics (LDE). These LDE parity errors can occur when a very bright star saturates and spills charge into the CCD serial readout register, causing an overflow at the input to the analog-to-digital converter. While these errors were rare in Kepler, the very bright stars, or solar system planets, on the focal plane in K2 can cause frequent parity errors. For example, stars on channels 67 and 75 were the source of many of the parity errors during C2. These errors do not affect the quality of data from pixels on the active focal plane.
@@ -3104,6 +3125,7 @@ During the latter half of C2 we experienced a large number of parity errors comi
 The LDE parity error triggers a flag (bit 15, decimal=16384) in the QUALITY column of the target pixel files. This flag is set for the majority of cadences in the second half of the campaign.
 
 <br>
+
 ***Attitude Tweak***
 
 The pointing of the spacecraft was adjusted by approximately 10" on 2014-Aug-25, during cadence 95546, in order to ensure that the observed targets were centered in their masks. This event is flagged in the QUALITY column of the target pixel files with bit 1 (decimal=1). The data collected before the tweak may fall close to the edge of the collected mask and some of the object's flux may have been lost. Use these cadences with caution.
