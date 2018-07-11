@@ -16,7 +16,7 @@ the scientific exploitation of the data.
 
 <div class="col-lg-5">
 <p>
-Campaign 16 was flown in the forward velocity vector direction in order to enable simultaneous K2 and ground-based observations of supernovae in the C16 field of view.
+Campaign 16 was flown in the forward velocity vector direction in order to enable simultaneous K2 and ground-based observations of numerous targets (supernovae, variable stars, exoplanets, etc.) in the C16 field of view.
 </p>
 
 <b><i>Pointing</i></b>
@@ -85,41 +85,42 @@ were selected.</i>
 
 ***Earth!***
 
-C16 was a forward velocity vector campaign, so Earth passed through the FOV at the start of the campaign from 
+C16 was a forward velocity vector campaign, so Earth passed through the FOV at the start of the campaign from
 2017-12-07 23:01:18 to 2017-12-11 07:27:11 UTC.
-Earth traversed channel 67 (long cadence numbers 154331 - 154347) channel 82 (LC 154367 - 154431) and 
+Earth traversed channel 67 (long cadence numbers 154331 - 154347) channel 82 (LC 154367 - 154431) and
 channel 83 (LC 154429: 154491). The saturated image of Earth resulted in a series of saturated columns from the core
 of the image and significant scattered light over the entire focal plane, as evidenced by the background flux
 level metric. In addition to the direct image of Earth, there is a optical ghost image on the opposite side of the focal
-plane (channels 2, 3, 19) whose core is near saturation. Users are cautioned to check carefully for interence from 
-Earth in their data from the first three days of the campaign. 
+plane (channels 2, 3, 19) whose core is near saturation. Users are cautioned to check carefully for interference from
+Earth in their data during the first three days of the campaign.
 
-<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="thumbnail" style="width: 100%;display: inline-block;">
 <div class="caption">
-<i>Figure C16 Earth-at-LC: Earth was on the focal planet at the start of C16 on channel 67 
-and then passed through channels 82 and 83 before moving off the focal plane. 
-The saturated image of Earth is seen here passing through the LC target pixel apertures 
+<i>Figure C16 Earth-at-LC: Earth was on the focal planet at the start of C16 on channel 67
+and then passed through channels 82 and 83 before moving off the focal plane.
+The saturated image of Earth is seen here passing through the LC target pixel apertures
 on channel 82 (left) and 83 (right) in just over three days (~160 cadences).
 The saturated columns from the core of the image
 extend over all rows in the channel.</i>   
 </div>
-<video id="pelican-installation" class="video-js vjs-default-skin" controls loop
-preload="auto"  "width="cn = [1%" data-setup="{}">
+<table border="0" cellpadding="5px">
+<tr>
+<td width="75%"><video id="pelican-installation" class="video-js vjs-default-skin" controls loop preload="auto" data-setup="{}">
 <source src="images/release-notes/c16/earth_ch82.mp4" type='video/mp4' alt="Movie of Earth transiting across channel 82 as seen through long cadence target apertures">
-</video>
-<video id="pelican-installation" class="video-js vjs-default-skin" controls loop
-preload="auto"  "width="99%" data-setup="{}">
-<source src="images/release-notes/c16/earth_ch83.mp4" type='video/mp4' alt="Movie of Earth transiting across channel 82 as seen through long cadence target apertures">
-</video>
+</video></td>
+<td width="75%"><video id="pelican-installation" class="video-js vjs-default-skin" controls loop preload="auto" data-setup="{}">
+<source src="images/release-notes/c16/earth_ch83.mp4" type='video/mp4' alt="Movie of Earth transiting across channel 83 as seen through long cadence target apertures">
+</video></td>
+</tr>
 </div>
 
 <div class="thumbnail" style="width: 90%;display: inline-block;">
 <div class="caption">
-<i>Figure C16-Background Metric: the average background level in electrons/second for each channel plotted 
+<i>Figure C16-Background Metric: the average background level in electrons/second for each channel plotted
 against time. The background level shows significant scattered light from Earth in the first three days of the campaign.</i>
 <a href="images/release-notes/c16/c16_background_flux.png">
 <img src="images/release-notes/c16/c16_background_flux.png" class="img-responsive" alt="Background flux
-plotted versus time for each detector channel. Scattered light from Earth is evident in all channels for 
+plotted versus time for each detector channel. Scattered light from Earth is evident in all channels for
 the first three days of C16.">
 </a>
 </div>
@@ -129,32 +130,36 @@ the first three days of C16.">
 
 ***Galaxies***
 
-There are 9,245 galaxies targeted in the C16 field of view, all but three used standard aperture masks. The
+There are 9,245 galaxies targeted in the C16 field of view; all but three used standard aperture masks. The
 three large galaxies were covered with large circular custom masks.
 
-The C16 field of view includes the Beehive cluster (M44) and M67, which was tiled with a series of 20 x 20 pixels tiles 
-for a total of 144,000 pixels. 
+<br>
+
+***Clusters***
+
+The C16 field of view includes the Beehive cluster (M44) and M67. M44 is one of the most nearby open clusters; its members were observed using standard masks.
+M67 was tiled with a series of 20 x 20 pixels tiles for a total of 144,000 pixels.
 
 <br>
 
 ***Supernovae***
 
-The forward velocity vector orientation during C16 allowed for simultaneous ground-based observations of K2 targets and revealed a number of supernovae captured on Kepler's pixels. More details of the supernova campaign can be found
-at the <a href="supernova-experiment/index.html">Supernova Experiment site</a>.
+The forward velocity vector orientation during C16 allowed for simultaneous ground-based observations of K2 targets. Numerous supernovae were observed by Kepler and ground-based observatories.
+More details of the supernova campaign can be found at the <a href="supernova-experiment/index.html">Supernova Experiment site</a>.
 
 <br>
 
 ***Pointing and Roll Performance***
 
 The C16 pointing and roll behavior are well within the limits of that seen
-in other K2 campaigns with no degradation seen due to low fuel levels.
-The pipeline calculated maximum distance between the
+in other K2 campaigns, with no degradation seen due to potentially low fuel levels.
+The pipeline-calculated maximum distance between the
 derived and nominal positions for any target (the "maximum attitude residual", or MAR)
 for C16 is less than 2.3 pixels, well under the 3-pixel limit accommodated by the aperture halos.
 
 As mentioned in the C14 release notes, a change in the on-board fine point fault logging threshold
 results in additional cadences being flagged as "Spacecraft is not in fine point"
-(QUALITY flag bit #16, decimal=32768). As a reminder, the project recommends that starting with C15, 
+(QUALITY flag bit #16, decimal=32768). As a reminder, the project recommends that starting with C15,
 users look to QUALITY flag bit #3 as an accurate indicator of poor spacecraft pointing.
 
 <div class="thumbnail" style="width: 49%;display: inline-block;">
@@ -187,7 +192,7 @@ the lowest seen since C6. It is comparable to that seen in early campaigns with 
 star density (C6, C8, C10), but is well below that seen in C12, also with similar star density.
 While we do not have a definitive cause the for the improved precision, it is likely due to a
 combination of the relatively low star density, the return to more stable pointing (compared to recent
-campaigns), and the updated pipeline version (in-particular the use of the coarse-point flags).
+campaigns), and the updated pipeline version (in-particular the use of the coarse-point flags; see <a href="k2-uniform-global-reprocessing-underway.html">the global reprocessing effort announcement</a> for details).
 
 The magnitude dependence of CDPP and its distribution over the focal
 plane are shown below. Other CDPP benchmarks can be found in the
@@ -216,7 +221,7 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 
 ***SC Target With no PDC Flux***
 
-The target HD 76333 (EPIC 200200727), a nearby high proper-motion F3V star, failed SC export due to it being a custom target and the only target on its channel. The light curve file includes the SAP flux, but the PDC_SAP flux is all zeros
+The target HD 76333 (EPIC 200200727), a nearby high proper-motion F3V star, failed short-cadence PDC processing due to it being a custom target and the only target on its channel. The short-cadence light curve file includes the (nominal and unaffected) SAP flux, but the PDC_SAP flux is all zeros. Note that the long-cadence data for this target is unaffected and is nominal.
 
 <br>
 
