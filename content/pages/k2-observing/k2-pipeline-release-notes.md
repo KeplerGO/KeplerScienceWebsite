@@ -9,6 +9,17 @@ For more information about the Kepler pipeline see the Kepler manuals: <a href="
 
 Information about each specific campaign can be found in the links associated with each data release.
 
+### Data Release 23
+
+* May 2018
+* SOC 9.3
+* Campaigns: [C16](k2-data-release-notes.html#k2-campaign-16)
+
+This is the first delivery of C16. No features of the pipeline or data files have changed from Data Release 22.
+For further information about the content of this delivery see the previous Release Notes below.
+
+<hr>
+
 ### Data Release 22
 
 * March 2018

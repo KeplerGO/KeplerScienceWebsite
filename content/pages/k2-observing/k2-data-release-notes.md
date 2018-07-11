@@ -9,6 +9,232 @@ the scientific exploitation of the data.
 
 <hr>
 
+
+# K2 Campaign 16
+
+<h2>At a glance</h2>
+
+<div class="col-lg-5">
+<p>
+Campaign 16 was flown in the forward velocity vector direction in order to enable simultaneous K2 and ground-based observations of numerous targets (supernovae, variable stars, exoplanets, etc.) in the C16 field of view.
+</p>
+
+<b><i>Pointing</i></b>
+<ul>
+<li> RA:  133.7099689</li>
+<li> Dec:  18.5253931</li>
+<li> Roll:  -15.0605959</li>
+</ul>
+
+<b><i>Targets</i></b>
+<ul>
+<li>  35,643 long cadence (LC) targets, including 9,245 galaxy targets.</li>
+<li>  131 short cadence (SC) targets.</li>
+<li>  20 moving objects were tiled with LC custom strip apertures. 7 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. See the <a href="images/release-notes/c16/kplr2018125112300_c16_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
+</ul>
+
+<b><i>Full Frame Images (FFI)</i></b>
+<ul>
+<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2017344214411-c16_ffi-cal.fits ">ktwo2017344214411-c16_ffi-cal.fits </a> This FFI, collected on 2017-12-10, has the Earth-Moon system in the field of view on channel 83. There is also a prominent optical ghost on channel 3.</li>
+<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2018030100110-c16_ffi-cal.fits">ktwo2018030100110-c16_ffi-cal.fits</a>
+</ul>
+
+<b><i>First cadence</i></b>
+<ul>
+<li>Start Time: 2017-12-07 23:01:18 UTC</li>
+<li>Long Cadence Number: 154331</li>
+<li>Short Cadence Number: 4618390</li>
+</ul>
+
+<b><i>Last cadence</i></b>
+<ul>
+<li>End Time: 2018-02-25 12:39:52 UTC</li>
+<li>Long Cadence Number: 158224</li>
+<li>Short Cadence Number: 4735209</li>
+</ul>
+
+</div>
+
+<div class="col-lg-7">
+
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C16-FOV: Schematic of Kepler's C16 field-of-view with high profile objects. </i>
+</div>
+<a href="images/k2/k2-c16-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c16-field.png" id="c16fov" alt="C16 field of view with highlights showing the Beehive cluster, M67, and the path of the Earth through the field of view.">
+</a>
+</div>
+
+
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C16-Mag: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-16">GO Programs</a>
+were selected.</i>
+</div>
+<a href="images/release-notes/c16/c16_lc_magnitude_distribution.png">
+<img src="images/release-notes/c16/c16_lc_magnitude_distribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed C16 LC targets.">
+</a>
+</div>
+
+</div>
+
+
+<h2>Features and Events</h2>
+
+<br>
+
+***Earth!***
+
+C16 was a forward velocity vector campaign, so Earth passed through the FOV at the start of the campaign from
+2017-12-07 23:01:18 to 2017-12-11 07:27:11 UTC.
+Earth traversed channel 67 (long cadence numbers 154331 - 154347) channel 82 (LC 154367 - 154431) and
+channel 83 (LC 154429: 154491). The saturated image of Earth resulted in a series of saturated columns from the core
+of the image and significant scattered light over the entire focal plane, as evidenced by the background flux
+level metric. In addition to the direct image of Earth, there is a optical ghost image on the opposite side of the focal
+plane (channels 2, 3, 19) whose core is near saturation. Users are cautioned to check carefully for interference from
+Earth in their data during the first three days of the campaign.
+
+<div class="thumbnail" style="width: 100%;display: inline-block;">
+<div class="caption">
+<i>Figure C16 Earth-at-LC: Earth was on the focal planet at the start of C16 on channel 67
+and then passed through channels 82 and 83 before moving off the focal plane.
+The saturated image of Earth is seen here passing through the LC target pixel apertures
+on channel 82 (left) and 83 (right) in just over three days (~160 cadences).
+The saturated columns from the core of the image
+extend over all rows in the channel.</i>   
+</div>
+<table border="0" cellpadding="5px">
+<tr>
+<td width="75%"><video id="pelican-installation" class="video-js vjs-default-skin" controls loop preload="auto" data-setup="{}">
+<source src="images/release-notes/c16/earth_ch82.mp4" type='video/mp4' alt="Movie of Earth transiting across channel 82 as seen through long cadence target apertures">
+</video></td>
+<td width="75%"><video id="pelican-installation" class="video-js vjs-default-skin" controls loop preload="auto" data-setup="{}">
+<source src="images/release-notes/c16/earth_ch83.mp4" type='video/mp4' alt="Movie of Earth transiting across channel 83 as seen through long cadence target apertures">
+</video></td>
+</tr>
+</div>
+
+<div class="thumbnail" style="width: 90%;display: inline-block;">
+<div class="caption">
+<i>Figure C16-Background Metric: the average background level in electrons/second for each channel plotted
+against time. The background level shows significant scattered light from Earth in the first three days of the campaign.</i>
+<a href="images/release-notes/c16/c16_background_flux.png">
+<img src="images/release-notes/c16/c16_background_flux.png" class="img-responsive" alt="Background flux
+plotted versus time for each detector channel. Scattered light from Earth is evident in all channels for
+the first three days of C16.">
+</a>
+</div>
+</div>
+
+<br>
+
+***Galaxies***
+
+There are 9,245 galaxies targeted in the C16 field of view; all but three used standard aperture masks. The
+three large galaxies were covered with large circular custom masks.
+
+<br>
+
+***Clusters***
+
+The C16 field of view includes the Beehive cluster (M44) and M67. M44 is one of the most nearby open clusters; its members were observed using standard masks.
+M67 was tiled with a series of 20 x 20 pixels tiles for a total of 144,000 pixels.
+
+<br>
+
+***Supernovae***
+
+The forward velocity vector orientation during C16 allowed for simultaneous ground-based observations of K2 targets. Numerous supernovae were observed by Kepler and ground-based observatories.
+More details of the supernova campaign can be found at the <a href="supernova-experiment/index.html">Supernova Experiment site</a>.
+
+<br>
+
+***Pointing and Roll Performance***
+
+The C16 pointing and roll behavior are well within the limits of that seen
+in other K2 campaigns, with no degradation seen due to potentially low fuel levels.
+The pipeline-calculated maximum distance between the
+derived and nominal positions for any target (the "maximum attitude residual", or MAR)
+for C16 is less than 2.3 pixels, well under the 3-pixel limit accommodated by the aperture halos.
+
+As mentioned in the C14 release notes, a change in the on-board fine point fault logging threshold
+results in additional cadences being flagged as "Spacecraft is not in fine point"
+(QUALITY flag bit #16, decimal=32768). As a reminder, the project recommends that starting with C15,
+users look to QUALITY flag bit #3 as an accurate indicator of poor spacecraft pointing.
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C16-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C16.</i>
+<a href="images/release-notes/c16/c16_pad_pdq_attitude_roll.png">
+<img src="images/release-notes/c16/c16_pad_pdq_attitude_roll.png" class="img-responsive" alt="Pipeline measured roll error for C16.">
+</a>
+</div>
+</div>
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C16-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C16.</i>
+<a href="images/release-notes/c16/c16_pad_pdq_attitude_mar.png">
+<img src="images/release-notes/c16/c16_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the C16 attitude measured with PAD and PDQ.">
+</a>
+</div>
+</div>
+
+<br>
+
+
+***Light Curve Quality***
+
+As in previous campaigns, the 6-hour spacecraft roll cycle continues
+to dominate the systematic errors in C16 simple aperture photometry light curves.
+The pipeline CDPP 12th magnitude noise benchmark for C16 is
+the lowest seen since C6. It is comparable to that seen in early campaigns with similar
+star density (C6, C8, C10), but is well below that seen in C12, also with similar star density.
+While we do not have a definitive cause the for the improved precision, it is likely due to a
+combination of the relatively low star density, the return to more stable pointing (compared to recent
+campaigns), and the updated pipeline version (in-particular the use of the coarse-point flags; see <a href="k2-uniform-global-reprocessing-underway.html">the global reprocessing effort announcement</a> for details).
+
+The magnitude dependence of CDPP and its distribution over the focal
+plane are shown below. Other CDPP benchmarks can be found in the
+<a href="images/release-notes/c16/c16_bin1.00_sc1.00_CDPP_Summary.png">
+table giving 6.5-hr CDPP as a function of magnitude.</a>
+<br>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C16-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>
+</div>
+<a href="images/release-notes/c16/c16_logg_CDPP_vs_model.png">
+<img src="images/release-notes/c16/c16_logg_CDPP_vs_model.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
+</a>
+</div>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C16-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
+<a href="images/release-notes/c16/c16_dwarf_CDPP_by_mod_out.png">
+<img src="images/release-notes/c16/c16_dwarf_CDPP_by_mod_out.png" class="img-responsive" alt="CDPP per channel for 12th and 14th magnitude dwarfs">
+</a>
+</div>
+</div>
+
+<br>
+
+
+***SC Target With no PDC Flux***
+
+The target HD 76333 (EPIC 200200727), a nearby high proper-motion F3V star, failed short-cadence PDC processing due to it being a custom target and the only target on its channel. The short-cadence light curve file includes the (nominal and unaffected) SAP flux, but the PDC_SAP flux is all zeros. Note that the long-cadence data for this target is unaffected and is nominal.
+
+<br>
+
+<h2>Release History</h2>
+
+The following is the data release history for C16. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
+
+* <a href="k2-pipeline-release-notes.html#data-release-23">Data Release 23</a>
+
+<hr>
+
+
+
 # K2 Campaign 15
 
 <h2>At a glance</h2>
