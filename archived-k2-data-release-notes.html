@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<!--
+Crafted with ♥ by Geert Barentsen, Thomas Barclay & Knicole colon at NASA Ames
+in August 2015, using pelican-bootstrap and flatly.
+-->
+<html lang="en"
+>
+
+<head>
+    <title>K2 Archived Data Release Notes - Kepler &amp; K2 Science Center</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--Custom meta data-->
+
+    <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
+    <meta name="dc.format" content="text/html" />
+    <meta name="dc.date.modified" content="2018-07-11" />
+    <meta name="dc.language" content="en" />
+    <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
+    <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
+    <meta name="dc.audience" content="Astronomers, Astrophysicists, Scientists, Researchers" />
+    <meta name="dc.subject.discipline" content="Astrophysics, Astronomy" />
+    <meta name="orgcode" content="SSA">
+    <meta name="rno" content="Thomas.Barclay">
+    <meta name="content-owner" content="Thomas.Barclay">
+    <meta name="webmaster" content="Thomas.Barclay">
+
+
+    <link href="../images/favicon.png" rel="icon">
+
+<link rel="canonical" href="../pages/k2-archived-data-release-notes.html">
+
+        <meta name="author" content="Geert Barentsen" />
+        <meta name="description" content="This page contains OUT-OF-DATE, archived data release notes for past pipeline processings. Campaigns seen here have been processed with the final version of the K2 pipeline (see news post here) and new, up-to-date release notes corresponding to the newest data are available at the nominal data release note webpage. The …" />
+
+    <meta property="og:site_name" content="Kepler &amp; K2" />
+    <meta property="og:type" content="article"/>
+    <meta property="og:title" content="K2 Archived Data Release Notes"/>
+    <meta property="og:url" content="../pages/k2-archived-data-release-notes.html"/>
+    <meta property="og:description" content="This page contains OUT-OF-DATE, archived data release notes for past pipeline processings. Campaigns seen here have been processed with the final version of the K2 pipeline (see news post here) and new, up-to-date release notes corresponding to the newest data are available at the nominal data release note webpage. The …" />
+
+
+    <!-- Why use Helvetica Neue when you can have Lato? -->
+    <link href="../theme/css/lato.css" rel="stylesheet">
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="../theme/css/bootstrap.flatly.min.css" type="text/css"/>
+    <link href="../theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="../theme/css/exoplanet_archive_icons.css" rel="stylesheet">
+    <link href="../theme/css/mission_icons.css" rel="stylesheet">
+
+    <link href="../theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="../theme/css/style.css" type="text/css"/>
+
+    <link href="../feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Kepler &amp; K2 ATOM Feed"/>
+    <link href="../feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="Kepler &amp; K2 RSS Feed"/>
+
+</head>
+<body>
+
+<!-- Print a warning message that this is not the official site -->
+<div class="container container-wide" style="background-color: #e74c3c; color: white; padding: 1.5em; font-weight: bold;">
+  <div class="container">
+   <i class="fa fa-warning fa-lg fa-margin"></i>
+    This is the development version of the Kepler/K2 science website.
+    For the live website, visit <a href="https://keplerscience.arc.nasa.gov/">keplerscience.arc.nasa.gov</a>
+  </div>
+</div>
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+
+  <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="../" class="navbar-brand">
+<img src="../images/NASA_logo_vector_lg.png" width="32"/> Kepler &amp; K2            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                        <li><a href="../archives.html">News</a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">The missions <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../objectives.html">Objectives</a></li>
+                                <li><a href="../the-kepler-space-telescope.html">Telescope</a></li>
+                                <li><a href="../science.html">Science</a></li>
+                                <li><a href="../publications.html">Publications</a></li>
+                                <li><a href="../conferences.html">Conferences</a></li>
+                                <li><a href="../users-panel.html">Users Panel</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">K2 observing <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../k2-observing.html">Overview</a></li>
+                                <li><a href="../k2-fields.html">Campaign fields</a></li>
+                                <li><a href="../k2-approved-programs.html">Targets &amp; programs</a></li>
+                                <li><a href="../k2-data-release-notes.html">Data release notes</a></li>
+                                <li><a href="../k2-proposing-targets.html">Proposal preparation</a></li>
+                                <li><a href="../k2-ddt.html">Discretionary time</a></li>
+                                <li><a href="../k2-c9.html">C9 Microlensing experiment</a></li>
+                                <li><a href="../supernova-experiment">C16 Supernova experiment</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data analysis <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../data-products.html">Data products</a></li>
+                                <li><a href="../pipeline.html">Pipeline</a></li>
+                                <li><a href="../software.html">Software</a></li>
+                                <li><a href="../community-products.html">Community products</a></li>
+                            </ul>
+                        </li>
+            </ul>
+            
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="../helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
+                </li>
+            </ul>
+            
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+
+    <div class="col-sm-9" data-spy="scroll" data-target="#sidebarCol">
+        <section id="content" class="body">
+            <h1 class="entry-title">K2 Archived Data Release Notes</h1>
+            <div class="entry-content">
+                
+<p>This page contains <em>OUT-OF-DATE</em>, archived data release notes for past pipeline processings. Campaigns seen here have been processed with the final version of the K2 pipeline (<a href="k2-uniform-global-reprocessing-underway.html">see news post here</a>) and new, up-to-date release notes corresponding to the newest data are available <a href="k2-data-release-notes.html#k2-campaign-2">at the nominal data release note webpage</a>.</p>
+<p>The notes below are kept here in case users find a need to use the old, out-of-date processed data, which is still accessible at MAST here: LOCATION TBD</p>
+<h1 id="k2-campaign-2">K2 Campaign 2</h1>
+<h2>At a glance</h2>
+<div class="row">
+<div class="col-lg-5">
+<b><i>Pointing</i></b>
+<ul>
+<li>RA: 246.1264 degrees</li>
+<li>Dec: -22.4473 degrees</li>
+<li>Roll: 171.2284 degrees</li>
+</ul>
+<b><i>Targets</i></b>
+<ul>
+<li>13,399 in long cadence (LC)</li>
+<li>54 in short cadence (SC)</li>
+<li>Several custom targets (see below)</li>
+</ul>
+<b><i>Full Frame Images (FFI)</i></b>
+<ul>
+<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2014240042843-c02_ffi-cal.fits">ktwo2014240042843-c02_ffi-cal.fits</a></li>
+<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2014294030900-c02_ffi-cal.fits">ktwo2014294030900-c02_ffi-cal.fits</a></li>
+</ul>
+<b><i>First cadence</i></b>
+<ul>
+<li>Time: 2014-08-23 18:27:16 UTC</li>
+<li>Long Cadence Number: 95497</li>
+<li>Short Cadence Number: 2853370</li>
+</ul>
+<b><i>Last cadence</i></b>
+<ul>
+<li>Time: 2014-11-10 13:27:43 UTC</li>
+<li>Long Cadence Number: 99352</li>
+<li>Short Cadence Number: 2969049</li>
+</ul>
+</div>
+<div class="col-lg-7">
+<div class="thumbnail">
+<div class="caption">
+<i>Figure: Schematic of Kepler's C2 field-of-view with selected targets shown with purple dots.</i>
+</div>
+<a href="images/campaign_selected/C2_selected.png">
+<img alt="C2 field-of-view with selected targets" class="img-responsive" src="images/campaign_selected/C2_selected.png"/>
+</a>
+</div>
+<div class="thumbnail">
+<div class="caption">
+<i>Figure: Distribution of the Kepler magnitudes of observed targets in C2.</i>
+</div>
+<a href="images/release-notes/c2/C2_lc_kp.png">
+<img alt="Distribution of the Kepler magnitudes of observed targets in C2." class="img-responsive" src="images/release-notes/c2/C2_lc_kp.png"/>
+</a>
+</div>
+</div>
+</div>
+<div class="thumbnail">
+<div class="caption">
+<i>Figure: Full Frame Image Highlights</i>
+</div>
+<a href="images/release-notes/c2/K2-new-litho_2015.png">
+<img alt="Campaign 2 Full Frame Image Highlights." class="img-responsive" src="images/release-notes/c2/K2-new-litho_2015.png"/>
+</a>
+</div>
+<h2>Features and events</h2>
+<p><br/>
+<strong><em>Solar Activity</em></strong></p>
+<p>During C2 Kepler experienced two energetic particle events of note, likely caused by solar activity. Both events affected all channels as can be seen in the dark current metric plot for the first 26 days of C2 (see below). The first was a broad peak lasting approximately from cadence 95924 -- 96335 (01-Sep-2014 11:51:30 Z [MJD: 56901.4941] to 09-Sep-2014 21:24:55 Z [MJD: 56909.8923]). The second was a stronger more-peaked event lasting approximately from cadence 96357 -- 96551 (10-Sep-2014 17:01:54 Z [56910.7096] to 14-Sep-2014 07:20:35 Z [56914.30596]). At the peak of the 10-Sep-2014 event the average dark current increased by a factor of ~7 over the quiescent level. The GOES x-ray flux plot for this time shows an increased x-ray flux at Earth, though we don't have an independent measure of the exact timing and magnitude at the location of Kepler. The impact to the data will be in the form of increased background level, and increased photometric noise. The impact will be largest for faint targets.</p>
+<div class="thumbnail" style="width: 68%;">
+<div class="caption">
+<i>Figure: Dark Current Metric plotted against time.</i>
+</div>
+<a href="images/release-notes/c2/c2_dark_current_metric.png">
+<img alt="Dark Current Metric plotted against time." class="img-responsive" src="images/release-notes/c2/c2_dark_current_metric.png"/>
+</a>
+</div>
+<p><br/>
+<strong><em>Mars</em></strong></p>
+<p>Mars passed across the field of view between October 1 and October 23. See the figure below for a prediction of where Mars is on the focal plane during Campaign 2. Mars is a bright object which will saturate the CCD. Both its image and its reflection will likely contaminate nearby stars.</p>
+<div class="thumbnail" style="width: 68%;">
+<div class="caption">
+<i>Figure: Schematic of Kepler's C2 field of view (outlined in blue) with the positions of Mars shown as small red squares.</i>
+</div>
+<a href="images/release-notes/c2/f2-fov.png">
+<img alt="Schematic of Kepler's C2 field of view." class="img-responsive" src="images/release-notes/c2/f2-fov.png"/>
+</a>
+</div>
+<p><br/>
+<strong><em>LDE Flags</em></strong></p>
+<p>During the latter half of C2 we experienced a large number of parity errors coming from the photometer's local detector electronics (LDE). These LDE parity errors can occur when a very bright star saturates and spills charge into the CCD serial readout register, causing an overflow at the input to the analog-to-digital converter. While these errors were rare in Kepler, the very bright stars, or solar system planets, on the focal plane in K2 can cause frequent parity errors. For example, stars on channels 67 and 75 were the source of many of the parity errors during C2. These errors do not affect the quality of data from pixels on the active focal plane.</p>
+<p>The LDE parity error triggers a flag (bit 15, decimal=16384) in the QUALITY column of the target pixel files. This flag is set for the majority of cadences in the second half of the campaign.</p>
+<p><br/>
+<strong><em>Attitude Tweak</em></strong></p>
+<p>The pointing of the spacecraft was adjusted by approximately 10" on 2014-Aug-25, during cadence 95546, in order to ensure that the observed targets were centered in their masks. This event is flagged in the QUALITY column of the target pixel files with bit 1 (decimal=1). The data collected before the tweak may fall close to the edge of the collected mask and some of the object's flux may have been lost. Use these cadences with caution.
+Note, in Data Release 4, because of an operator error, the tweak is marked on the previous cadence, 95545.</p>
+<p><br/>
+<strong><em>Two Globular Clusters</em></strong></p>
+<p>The clusters M4 and M80 were observed in C2 by collecting all the pixels in 50x50 pixel masks. For M4, 16 of these custom apertures were collected and for M80, 4 were collected. The data files for M4 range from 200004370 -- 200004385. The data files for M80 range from 200004386 -- 200004389. The target pixel files may be found by using the Object Type field on the <a href="http://archive.stsci.edu/k2/data_search/search.php">MAST K2 data search</a> page.</p>
+<p><br/>
+<strong><em>Two Solar System Objects</em></strong></p>
+<p>Comet C/2013 A1 (Siding Spring) was observed by obtaining 2583, 25x1 pixel, masks across module.outputs 2.3, 4.2, 4.3 and 4.4. These apertures were given custom aperture numbers ranging from 200001787 -- 200004369. This target was observed as part of the Guest Observer Programs GO2030 (PI:Kelley) and GO2046 (PI:Lisse).</p>
+<p>The Trans-Neptunian Object (268361) 2007 JJ43 was observed with 661, 11x1 or 13x1 pixel, masks and given custom aperture numbers ranging from 200001126 -- 200001786. This target was observed as part of Guest Observer Program GO2066 (PI:Schwamb).</p>
+<p>These data sets can be found at the <a href="http://archive.stsci.edu/k2/data_search/search.php">MAST</a> by entering the Investigation ID on the search form. The Investigation ID matches the GO Program number that requested the observations.</p>
+<div class="thumbnail" style="width: 68%;">
+<div class="caption">
+<i>Figure: The path (shown in blue) of C/2013 A1 (Siding Spring) runs along modules 2 and 4 during C2.</i>
+</div>
+<a href="images/release-notes/c2/comet-path.png">
+<img alt="Path of comet Siding Spring." class="img-responsive" src="images/release-notes/c2/comet-path.png"/>
+</a>
+</div>
+<div class="thumbnail" style="width: 68%;">
+<div class="caption">
+<i>Figure: The masks selected for mod.out 17.3 are shown in green. Those selected to capture the TNO 2007 JJ43 are shown as a green arc in the lower right-hand corner of this figure.</i>
+</div>
+<a href="images/release-notes/c2/jj43_path.png">
+<img alt="Masks selected to capture TNO 2007 JJ43." class="img-responsive" src="images/release-notes/c2/jj43_path.png"/>
+</a>
+</div>
+<p><br/>
+<strong><em>EPIC Catalog Assignment</em></strong></p>
+<p>For C2, a number of targets were proposed without <a href="https://archive.stsci.edu/k2/epic.pdf">EPIC</a> ID numbers. If a target was observed, it was either 1) given an EPIC ID number from the regular catalog if that target matched a target in the catalog, or 2) assigned a new EPIC ID. We created EPIC ID numbers for 69 targets, ranging from 210282492 -- 210282560.</p>
+<h2>Release History</h2>
+<p>The following is the data release history for this campaign. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.</p>
+<ul>
+<li><a href="k2-pipeline-release-notes.html#data-release-4">Data Release 4</a></li>
+</ul>
+<hr/>
+            </div>
+        </section>
+    </div>
+
+        <nav class="col-sm-3 visible-sm visible-md visible-lg bs-docs-sidebar" id="sidebarCol">
+            <div class="nav nav-stacked fixed" id="mytoc">
+            <div class="toc">
+<ul>
+<li><a href="#k2-campaign-2">K2 Campaign 2</a></li>
+</ul>
+</div>
+            </div>
+        </nav>
+        </div>
+    </div>
+</div>
+
+<div class="container container-wide" style="margin-top: 1.5em;">
+  <footer>
+
+     <div class="container">
+      
+      <!-- Related websites -->  
+      <div class="row">
+        <div class="col-xs-12">
+          <h5><i class="fa fa-external-link"></i><span class="icon-label">Related websites:</span></h5>
+          <a href="http://www.nasa.gov/kepler" target="_blank">
+                  Kepler/K2 News and Media Resources
+              </a>
+          <br/>
+          <a href="http://www.ballaerospace.com/page.jsp?page=72" target="_blank">
+                  Kepler/K2 @ Ball Aerospace
+              </a>
+          <br/>
+          <a href="http://archive.stsci.edu/kepler" target="_blank">
+                  Kepler Data Archive @ MAST
+              </a>
+          <br/>
+          <a href="http://archive.stsci.edu/k2" target="_blank">
+                  K2 Data Archive @ MAST
+              </a>
+          <br/>
+          <a href="http://exoplanetarchive.ipac.caltech.edu" target="_blank">
+                  NASA Exoplanet Archive @ IPAC
+              </a>
+          <br/>
+        </div>
+      </div>
+
+      <!-- NASA logo and notices -->
+      <div class="row" style="margin-top:2em;">
+         <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="../images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
+         Last modified: Wed 11 July 2018
+            &middot; Editor: Geert Barentsen &middot; NASA Official: Jessie Dotson
+            &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
+         <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+    </div>
+
+  </footer>
+</div>
+<script src="../theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="../theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="../theme/js/respond.min.js"></script>
+
+    <script src="../theme/js/bodypadding.js"></script>
+<!-- Analytics scripts -->
+
+
+        <script>
+          $('#mytoc').affix({
+                offset: {
+                  top: 50
+                }
+          });
+          $('body').scrollspy({
+              target: '#sidebarCol',
+              offset: 100
+          });
+
+          // Fix for issue #32:
+          function refreshScrollspy() {
+                $('[data-spy="scroll"]').each(function() {
+                    $(this).scrollspy('refresh');
+                });
+          }
+          $("img").bind('load', refreshScrollspy);
+        </script>
+</body>
+</html>
