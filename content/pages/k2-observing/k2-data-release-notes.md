@@ -2986,6 +2986,8 @@ Data Release 10 updates the short cadence data only. This release corrects the s
 
 # K2 Campaign 2
 
+These release notes are for the C2 data currently available at MAST in the nominal K2 data locations, which have been processed with the final version of the K2 pipeline as part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a>. The original release notes corresponding to the previous version of released C2 data can be found in the <a href="archived-k2-data-release-notes.html#k2-campaign-2">archived data release notes page</a>.
+
 <h2>At a glance</h2>
 
 <div class="col-lg-5">
