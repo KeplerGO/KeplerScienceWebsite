@@ -1163,7 +1163,7 @@ Campaign 2
     </li>
     <li class="list-group-item">
       <i class="fa fa-cog fa-margin"></i>
-      <a href="/k2-pipeline-release-notes.html#data-release-4">Pipeline: 9.2</a>
+      <a href="/k2-pipeline-release-notes.html#data-release-21">Pipeline: 9.3</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>

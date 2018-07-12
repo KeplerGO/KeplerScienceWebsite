@@ -26,25 +26,27 @@ For further information about the content of this delivery see the previous Rele
 * SOC 9.3
 * Campaigns: [C15](k2-data-release-notes.html#k2-campaign-15)
 
-This is the first delivery of C15. There have been some pipeline changes put in place for this
-delivery that are designed to support the uniform reprocessing of all K2 campaigns, which will be explained shortly
-via a news item. The
-changes include activating the dynamic black correction algorithm used during Kepler data processing,
-producing short cadence light curves, correcting bugs in the processing.
-For additional information about the content of this delivery see the previous Release Notes
-below.
+This is the first and final delivery of C15. This delivery utilized the same pipeline version as Data Release 21, i.e., the version being used for C15 and all subsequent campaigns, as well as to reprocess C0&ndash;C14, as part of the the <a href="k2-uniform-global-reprocessing-underway.html">global uniform reprocessing effort</a>.
 
-Pipeline changes put in place for Data Release 22:
-
-1. Dynablack
-
-2. Short Cadence light curves
-
-3. FFI interpolation bug fix
-
-4. Use of coarse point flag for data gapping
+(Please note that data release number 21 was assigned to the C2 reprocessing, and data release number 22 was assigned to the C15 processing, because C2 reprocessing started just before C15 processing &mdash; C15 processing was completed first though, and thus the release date for data release 22 comes before the release date for data release 21.)
 
 <hr>
+
+### Data Release 21
+
+* May 2018
+* SOC 9.3
+* Campaigns: [C2](k2-data-release-notes.html#k2-campaign-2)
+
+This is the delivery of the final processing of C2 as part of the <a href="k2-uniform-global-reprocessing-underway.html">global uniform reprocessing effort</a>.
+
+There have been numerous pipeline changes put in place for this delivery.
+The changes include activating the dynamic black correction algorithm used during Kepler data processing,
+producing short cadence light curves, improved data flagging and cosmic-ray correction, and other various improvements and bug fixes.
+For details about the changes put in place for the global reprocessing effort, please read <a href="k2-uniform-global-reprocessing-underway.html">the associated announcement</a>.
+
+<hr>
+
 
 ### Data Release 20
 
