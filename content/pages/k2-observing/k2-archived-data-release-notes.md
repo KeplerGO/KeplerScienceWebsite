@@ -1,5 +1,5 @@
 Title: K2 Archived Data Release Notes
-Save_as: ./archived-k2-data-release-notes.html
+Save_as: archived-k2-data-release-notes.html
 
 [TOC]
 
