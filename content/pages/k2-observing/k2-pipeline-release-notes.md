@@ -116,11 +116,11 @@ No other features of the data processing have changed.  See below for previous
 updates to the K2 pipeline.
 
 ### Data Release 16
-* pending
+* Not Delivered
 * SOC 9.3
 * Campaigns: C0
 
-The updated release of C0 is pending.
+Data Release 16 was assigned to a reprocessing of C0 that was never delivered to the archives. While it utilized the improvements from each data release below, there was an issue with the cosmic ray correction routine that resulted in worse data quality than what was previously delivered. Thus, the Data Release 16 dataset was not delivered, and a subsequent processing is planned as part of the <a href="k2-uniform-global-reprocessing-underway.html">uniform global reprocessing effort</a> for Fall of 2018.
 
 ### Data Release 15
 * December 2016
@@ -140,14 +140,27 @@ for a description of the content of Type-1 versus Type-2 (nominal) TPFs.  No oth
 * Campaigns: [C1](k2-data-release-notes.html#k2-campaign-1)
 
 This is a re-delivery of C1, including the first delivery of C1 long cadence light curve files.
+Data Release 14 includes long cadence light curves for C1 targets and updates the exported data
+products to include pipeline derived target coordinates and thruster firing flags.
+The C1 FITS target pixel files are also updated to
+Type-2 files. See [Type-1 vs Type-2 TPFs](#type1v2) above and notes under
+[Data Release 5](k2-pipeline-release-notes.html#data-release-5) for more details on Type-2 TPFs.
+This release also corrects the short cadence collateral bug described in the
+[Global Erratum for Kepler Q0-Q17 & K2 C0-C5 Short-Cadence Data, KSCI-19080](http://archive.stsci.edu/kepler/KSCI-19080-002.pdf).
+This release replaces the short cadence data previously delivered to the archive in Data Release 3.
+Specific targets known to have their SC calibration improved by Data Release 14 are identifed
+in the [list of affected targets at the MAST](http://archive.stsci.edu/missions/k2/catalogs/K2_scrambled_short_cadence_collateral_target_list.csv).
+
 No other features of the the data processing have changed. See below for previous updates to the K2 pipeline.
 
+
 ### Data Release 13
-* pending
+* Not Delivered
 * SOC 9.3
 * Campaigns: C2
 
-The updated release of C2 is pending.
+Data Release 13 was assigned to a reprocessing of C2 that was never delivered to the archives. While it utilized the improvements from each data release below, there was an issue with the cosmic ray correction routine that resulted in worse data quality than what was previously delivered. Thus, the Data Release 13 dataset was not delivered, and a subsequent processing (Data Release 21) was performed that both incorporated pipeline improvements and fixed the cosmic ray issue, which was delivered.
+
 
 ### Data Release 12
 * September 2016
@@ -313,6 +326,7 @@ This delivery was made to fix two problems found in the target pixel files deliv
     <li><p>All of the pixels collected for a target are now being calibrated and delivered in the FLUX column of the target pixel files.  Previously the FLUX column had a few pixels filled with zeros (or values from an earlier processing of the data) that should have contained calibrated pixels.  
     </p></li>
 </ul>
+
 
 No other features of the files have changed. For further information about the content of this delivery see the previous Release Notes.
 
