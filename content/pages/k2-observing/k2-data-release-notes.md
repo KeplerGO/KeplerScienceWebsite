@@ -4,8 +4,7 @@ Save_as: k2-data-release-notes.html
 [TOC]
 
 This page details the key features of the K2 data releases,
-including a description of technical issues relevant to
-the scientific exploitation of the data.
+including information on field pointing, target selection, observation times and cadences, processing version, unique observational features of each campaign, significant events that transpired during each campaign, data quality and processing features, and other descriptions of technical issues relevant to the scientific exploitation of the data.
 
 <hr>
 
@@ -85,8 +84,6 @@ were selected.</i>
 
 
 <h2>Features and Events</h2>
-
-<br>
 
 ***Earth!***
 
@@ -187,6 +184,8 @@ users look to QUALITY flag bit #3 as an accurate indicator of poor spacecraft po
 
 <br>
 
+
+<h2>Data Quality and Processing Notes</h2>
 
 ***Light Curve Quality***
 
@@ -305,8 +304,6 @@ were selected.</i>
 
 <h2>Features and Events</h2>
 
-<br>
-
 ***Galaxies and Clusters***
 
 There are 3,485 galaxies targeted in the C15 field of view all of which used standard aperture masks.
@@ -385,6 +382,8 @@ Uses are urged caution in interpreting astrophysical events in observed targets 
 
 
 <br>
+
+<h2>Data Quality and Processing Notes</h2>
 
 ***Light Curve Quality***
 
@@ -568,9 +567,8 @@ Starting with C15, short-cadence light curves are now produced and available at 
 
 </div>
 
-<h2>Features and events</h2>
+<h2>Features and Events</h2>
 
-<br>
 ***Galaxies***
 
 The C14 field of view sits at 53º N Galactic latitude in the North Galactic cap.  There are 14,691 galaxies targeted
@@ -594,6 +592,7 @@ In addition to the many galaxies, a number of <a href ="k2-approved-programs.htm
 were observed during C14, including Wolf 359, a nearby late M-dwarf.
 
 <br>
+
 ***Pointing and Roll Performance***
 
 The C14 pointing and roll behavior are well within the limits of that seen
@@ -635,6 +634,9 @@ implemented it for future processing starting with C15.
 </div>
 
 <br>
+
+<h2>Data Quality and Processing Notes</h2>
+
 ***Light Curve Quality***
 
 As in previous campaigns, the 6-hour spacecraft roll cycle continues
@@ -752,9 +754,8 @@ from C14 having no LCV or TPF files at the archive.
 
 </div>
 
-<h2>Features and events</h2>
+<h2>Features and Events</h2>
 
-<br>
 ***Clusters and Star Forming Regions***
 
 The C13 field of view encompasses part of the Taurus star forming region,
@@ -765,12 +766,14 @@ Hyades star cluster along with the distant clusters
 NGC 1647, NGC 1746, and NGC 1817.
 
 <br>
+
 ***Galaxies***
 
 There are 33 galaxies targeted in the C13 field of view.
 
 
 <br>
+
 ***Pointing and Roll Performance***
 
 The C13 pointing and roll behavior are within the limits of that seen
@@ -809,6 +812,7 @@ evolve in future campaigns.
 </div>
 
 <br>
+
 ***Smear Correction Error on Channel 74***
 
 The presence of the first magnitude star Aldebaran on channel 73 led to an error in
@@ -886,6 +890,9 @@ values and bimodal behavior during the affected cadences.
 </div>
 
 <br>
+
+<h2>Data Quality and Processing Notes</h2>
+
 ***Light Curve Quality***
 
 As in previous campaigns, the 6-hour spacecraft roll cycle continues
@@ -993,9 +1000,8 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 
 </div>
 
-<h2>Features and events</h2>
+<h2>Features and Events</h2>
 
-<br>
 ***Mars***
 
 Mars passed through the focal plane during C12, entering active silicon on module
@@ -1094,12 +1100,14 @@ image and 350 pixels from the direct image of Mars.
 
 
 <br>
+
 ***Galaxies***
 
 There are 2576 galaxies targeted in the high Galactic latitude (-60º) C12 field of view.
 
 
 <br>
+
 ***Pointing and Roll Performance***
 
 The C12 pointing and roll behavior are within the limits of that seen
@@ -1133,6 +1141,7 @@ and remained nominal for the rest of the campaign.
 
 
 <br>
+
 ***Safe Mode and Loss of Engineering Data***
 On 2017-02-01 15:06 UTC the spacecraft entered safe mode. The safe mode was
 likely due to a flight software reset, which has occurred several times during the
@@ -1156,6 +1165,9 @@ thruster firings in the interval from 2017-01-25 08:16 UTC to the start of the
 safe mode at 2017-02-01 15:06 UTC.
 
 <br>
+
+<h2>Data Quality and Processing Notes</h2>
+
 ***Light Curve Quality***
 
 As in previous campaigns, the 6-hour spacecraft roll cycle continues
@@ -1315,7 +1327,7 @@ is evident when comparing the two images.
 
 <br style="clear:both;">
 
-<h2>Features and events</h2>
+<h2>Features and Events</h2>
 
 ***Galactic Bulge***
 
@@ -1471,6 +1483,8 @@ start of the sub-campaign.</i>
 </div>
 
 <br>
+
+<h2>Data Quality and Processing Notes</h2>
 
 ***Light Curve Quality***
 
@@ -1718,7 +1732,7 @@ the second does not.
 
 <br style="clear:both;">
 
-<h2>Features and events</h2>
+<h2>Features and Events</h2>
 
 ***Galaxies***
 
@@ -1726,11 +1740,14 @@ With its high Galactic latitude, Campaign 10 observed 4,977 galaxies,
 over 2,000 more than in C8. Twenty-seven large galaxies were each
 covered using 1,500 pixel custom masks. The extragalactic targets
 include the well-known quasar 3C 273 (EPIC 229151988).
+
 <br>
 
 ***Comet 67P: Churyumov-Gerasimenko***
+
 Comet 67P was observed in C10b from September 7 through September 20 as it crossed
 channels 69 and 70. The comet was observed using 2200 custom aperture tiles.
+
 <br>
 
 ***Segmenting of C10 Data***
@@ -1761,6 +1778,7 @@ The spacecraft attitude was adjusted at 2016-07-13 01:49:21 UTC to correct
 the pointing error, marking the start of C10b.
 
 <br>
+
 **Loss of Module 4**
 
 An additional complication arises in the C10b data due to the loss of
@@ -1779,6 +1797,7 @@ across the gap. Note that PDC corrected fluxes may show inconsistent
 systematic error corrections across the 14-day gap, as the cotrending
 basis vectors can be dominated by systematics present on one side of the gap
 but not the other side.
+
 <br>
 
 
@@ -1814,6 +1833,8 @@ for C10b was well under the 3-pixel limit accommodated by the aperture halos.
 
 <br>
 
+<h2>Data Quality and Processing Notes</h2>
+
 ***Calibrated Target Pixel Files***
 
 This data release consists of calibrated target pixel files (TPFs) and supporting
@@ -1836,6 +1857,7 @@ flags are populated in the FITS quality flag in the C10b Type-2 TPFs.
 
 
 <br>
+
 ***Light Curve Quality***
 
 We consider only the C10b pipeline-generated light curves
@@ -1870,6 +1892,8 @@ CDPP values compare favorably with those from C8 and other nominal K2 campaigns.
 </a>    
 </div>
 </div>
+
+<br>
 
 ***Poor Smear Correction - Bright Stars***
 
@@ -2000,9 +2024,8 @@ and C92, respectively.
 
 <br style="clear:both;">
 
-<h2>Features and events</h2>
+<h2>Features and Events</h2>
 
-<br>
 ***Microlensing Toward the Galactic Bulge***
 
 The <a href="k2-c9.html">C9 campaign</a> was dedicated
@@ -2025,6 +2048,7 @@ such, there were a number of unique aspects to the campaign:
 </div>
 
 <br>
+
 ***Emergency Mode***
 
 Prior to the start of C9a, the spacecraft entered Safemode on 2016-04-07
@@ -2054,6 +2078,8 @@ and C9b data have the nominal 50 msec absolute accuracy, but the two
 sets of cadences have an offset of 4.2 sec relative to each other.
 The C9a data were collected 4.2 seconds later than expected based on
 a uniform cadence interval across C9a and C9b.
+
+<br>
 
 ***Pointing and Roll Performance***
 
@@ -2141,6 +2167,9 @@ normal roll-induced motion.
 
 
 <br>
+
+<h2>Data Quality and Processing Notes</h2>
+
 ***Calibrated Target Pixel Files***
 
 This data release consists of calibrated target pixel files (TPFs) and supporting
@@ -2284,9 +2313,8 @@ are quite large and may cause memory problems when accessed:
 
 </div>
 
-<h2>Features and events</h2>
+<h2>Features and Events</h2>
 
-<br>
 ***Uranus***
 
 Uranus and four of its moons were observed with custom masks during Campaign 8. The path of Uranus was tiled with 245 single column target definitions at long cadence and with nine 9 x 307 trapezoidal masks at short cadence. The moons Caliban, Prospero, Setebos, and Sycorax were observed with separate custom masks. Uranus is the brightest moving object yet observed by K2.
@@ -2301,12 +2329,14 @@ Uranus and four of its moons were observed with custom masks during Campaign 8. 
 
 
 <br>
+
 ***Galaxies***
 
 With its high Galactic latitude, Campaign 8 was ideal for observing galaxies. There were 2750 galaxies targeted, including IC 1613 (Caldwell 51), an irregular dwarf galaxy in the Local Group. IC 1613 was tiled with 48 20 x 20 pixel masks for a total of 19,200 pixels.
 
 
 <br>
+
 ***Roll Drift Returns to _Normal_***
 
 Based on the C7 degraded roll performance, the Mission Operations Center switched back to low-gain antenna LGA1 for spacecraft communication during most of C8. The switch resulted in a return to nominal K2 roll performance and drift rates. The campaign was started using LGA2, as was used in C7, and then starting around 23 Jan 2016 23:50 UTC operations were switched to LGA1. The antenna swap can be seen in the roll drift attitude error.
@@ -2321,10 +2351,14 @@ Based on the C7 degraded roll performance, the Mission Operations Center switche
 
 
 <br>
+
 ***Loss of Fine Point***
 On 2016-02-01 16:40 UTC the spacecraft dropped out of fine point control. Observations continued in coarse point, with much degraded pointing performance, until 2016-02-02 22:27:26 UTC when the spacecraft reacquired fine point during a resat period. This resulted in 29:47:53 of coarse point data collection. These cadences are flagged as "spacecraft is not in fine point" using bit 16 in the data quality flags. The loss of fine point occured following a thruster firing fine tweak that resulted in the spacecraft rolling in the wrong direction. The next tweak was unable to correct the attitude before the loss of fine point fault was triggered, but fine pointing control was restored automatically at the next momentum wheel resaturation. There were several other instances of anomalous thruster firing tweaks in C8, none of which resulted in loss of fine point. Their cause is under investigation.
 
 <br>
+
+<h2>Data Quality and Processing Notes</h2>
+
 ***Light Curve Quality***
 
 The dominant systematic present in K2 simple aperture photometry light curves is a sawtooth shape that is due to the roll of the spacecraft, which is corrected approximately every 6 hours. With the return to more nominal K2 roll performance in C8, we find CDPP values have improved noticeably over those from C7. Below, we examine observed noise levels in the PDC light curves for C8, Data Release 11.
@@ -2468,9 +2502,8 @@ The extent of the problem in time and CCD columns can be seen in the figure *C8-
 
 </div>
 
-<h2>Features and events</h2>
+<h2>Features and Events</h2>
 
-<br>
 ***Pluto***
 
 Pluto, one of the largest trans-Neptunian objects, previously known as the ninth planet in our solar system, was observed during Campaign 7. The path of Pluto was tiled with 1 x n pixel target definitions, where n ranges from 1 to 217. The range of custom aperture numbers for Pluto is 200062954 -- 200062827. The animated gif below shows Pluto as observed by K2.
@@ -2482,12 +2515,14 @@ Pluto, one of the largest trans-Neptunian objects, previously known as the ninth
 
 
 <br>
+
 ***Ruprecht 47***
 
 Ruprecht 47 is an open cluster observed with K2 during Campaign 7.  It was observed using a super-aperture, tiled with 60 51 x 51 masks, totalling 156,060 pixels. The custom aperture numbers range from 200062524 -- 200062583.
 
 
 <br>
+
 ***Increase in Roll Drift***
 
 For C7, an alternate low-gain antenna was active during science data collection. The previously used LGA1 was replaced by LGA2 (see [KIH Figure 2](http://archive.stsci.edu/kepler/manuals/KSCI-19033-001.pdf)), as the latter is slightly better oriented with respect to earth. (This partially compensates for the increasing distance to the spacecraft in its earth-trailing orbit, now at 0.8 AU.)  Since the two antennas are mounted on opposite sides of the spacecraft, this antenna swap produced a change in radiation pressure that placed an additional (unbalanced) torque about the boresight on the spacecraft.  The resulting increase in roll drift is illustrated in Figure *C7-RollDrift*, which compares the drift rates for C4, C6, and C7. Consequently, the maximum excursion of any pixel from its nominal position is significantly larger for C7 than for previous campaigns (see Figure *C7-MAR*).
@@ -2516,6 +2551,7 @@ Given this unanticipated result, LGA1 will be used for C8, C9, and C10, while th
 
 
 <br>
+
 ***Effect of Roll on Photometry***
 
 The unusually large roll motion in C7, combined with an extremely crowded field, had a strong impact on photometry, particularly on targets near the edge of the focal plane. This impact has several components:
@@ -2536,6 +2572,9 @@ The motion polynomials generally did a reasonable job tracking the large roll mo
 In addition to the issues with unusually large roll and crowding, stars selected for observation were unusually distributed in C7, with some channels having many targets and other channels having relatively few targets. The result was that some channels had few target stars in the range of magnitudes used to characterize field motion via motion polynomials. A particularly dramatic example is channel 24.4, where all the targets used to create the motion polynomial for this channel are in one corner, resulting in a very inaccurate motion polynomial. Because motion polynomials are used in the creation of the photometric aperture, photometry for some targets on 24.4 may be particularly poor.
 
 <br>
+
+<h2>Data Quality and Processing Notes</h2>
+
 ***Light Curve Quality***
 
 The dominant systematic present in K2 simple aperture photometry light curves is a sawtooth shape that is due to the roll of the spacecraft approximately every 6 hours. The PDC module of the Kepler Pipeline uses Principle Component Analysis to remove this signal in addition to other systematics. Below, we examine observed noise levels in the PDC light curves for C7, Data Release 9.
@@ -2566,6 +2605,7 @@ firing are gapped.</i>
 </div>
 
 <br>
+
 ***Poor Smear Correction***
 
 There are 4 channels in C7 for which the saturation spill due to very bright stars spans all CCD rows for one or more columns, corrupting both the masked and virtual smear measurements for these columns. In these cases, in order to allow the pipeline calibration to complete, we flag the masked smear as bad and process the data with only the virtual smear. As a result, the smear correction will be poor for the channel/column combinations listed below and will be suspect for the same columns on other outputs on the same module as the indicated channel due to video crosstalk.
@@ -2651,9 +2691,8 @@ There are 4 channels in C7 for which the saturation spill due to very bright sta
     </div>
 </div>
 
-<h2>Features and events</h2>
+<h2>Features and Events</h2>
 
-<br>
 ***Spica***
 
 The star Spica (α Virginis, [EPIC 212573842](http://archive.stsci.edu/k2/epic/search.php?id=212573842&action=Search)) the 15th brightest star in the sky, is on silcon during Campaign 6. As can be seen on the FFI below, Spica is on mod.out 18.3 (channel 63) and its Schmidt-corrector reflection lies on mod.out 8.3. The star bleeds into both smear regions, preventing proper smear correction on columns 805-816 on channel 63.  Also, because of cross-talk, the Spica signal appears on all channels of module 18 at the same row and column position, but to a lesser degree.  For more information on cross-talk, see the [Instrument Handbook](http://archive.stsci.edu/kepler/manuals/KSCI-19033-001.pdf).
@@ -2668,6 +2707,7 @@ The star Spica (α Virginis, [EPIC 212573842](http://archive.stsci.edu/k2/epic/s
 </div>
 
 <br>
+
 ***Observed Trojans***
 
 During Campaign 6, K2 observed 65 Trojan asteroids. Each was tiled with 1 x n pixel target definitions, where n ranges from 1 to 217. The tiled regions for three examples are shown in the figure below.  The range of custom aperture numbers given to the Trojans is 200041889 -- 200061149. A mapping of the minor planet designation numbers to the custom aperture numbers can be <a href="images/release-notes/c6/trojanCustomApertureC6.csv">downloaded here.</a>
@@ -2682,6 +2722,7 @@ During Campaign 6, K2 observed 65 Trojan asteroids. Each was tiled with 1 x n pi
 </div>
 
 <br>
+
 ***Variable Guide Star***
 
 The star on Module 25 used for guiding during C6 was highly variable. No adverse effects of this variability were detected in the data collection or spacecraft operations.  
@@ -2713,6 +2754,8 @@ The star on Module 25 used for guiding during C6 was highly variable. No adverse
 <p>See this [addendum](images/release-notes/c6/var_fgs_kso-391_drnC6_addendum_16040722.pdf) for a thorough description of the pointing and photometric errors induced by the variable guide star in C6.</p>
 
 <br>
+
+<h2>Data Quality and Processing Notes</h2>
 
 ***Light Curve Quality***
 
@@ -2804,9 +2847,8 @@ The dominant systematic present in K2 simple aperture photometry light curves is
 
 </div>
 
-<h2>Features and events</h2>
+<h2>Features and Events</h2>
 
-<br>
 ***M67***
 
 The open cluster M67 was observed by collecting a 400x400 region of sky near the core of the cluster in modules 6.1 and 6.2. See the image below. These data are grouped into 72 custom apertures, each with a 50x50 pixel mask or smaller. Their data are listed by custom aperture number at the MAST in the range 200008644--200008715.
@@ -2821,11 +2863,13 @@ The open cluster M67 was observed by collecting a 400x400 region of sky near the
 </div>
 
 <br>
+
 ***Trans-Neptunian Object***
 
 The Trans-Neptunian Object TNO (126154) 2001 YH140 was observed in Campaign 5 by creating 565 1 x n pixel target definitions (where n ranges from 4 to 21) that cover the path of the TNO. The custom aperture numbers range from 200008716 to 200009280.
 
 <br>
+
 ***Noted Data Anomalies***
 
 Approximately 55.5 days after the start of C5, we note a small (~4000 electrons per cadence) increase in the median dark level that lasts approximately a day. The event is likely caused by a Coronal Mass Ejection, and its size is small compared to other normal variations seen in the dark level. This change in dark level is part of the normal calibration process that occurs in the CAL module.
@@ -2833,6 +2877,9 @@ Approximately 55.5 days after the start of C5, we note a small (~4000 electrons 
 One Argabrightening event was seen in the observed background level approximately 38 days into the campaign and affects a majority of the channels. This event is flagged on bit 13 in the QUALITY column of the light curve and target pixel files for those targets on the affected channels.
 
 <br>
+
+<h2>Data Quality and Processing Notes</h2>
+
 ***Light Curve Quality***
 
 The dominant systematic present in K2 simple aperture photometry light curves is a sawtooth shape that is due to the roll of the spacecraft approximately every 6 hours. The PDC module of the Kepler Pipeline uses Principle Component Analysis to remove this signal in addition to other systematics. Below, we examine observed noise levels in the PDC light curves for C5, Data Release 7.
@@ -2847,14 +2894,6 @@ The dominant systematic present in K2 simple aperture photometry light curves is
         <img src="images/release-notes/c5/K2-C05_logg_CDPP_vs_model.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
     </a>
 </div>
-
-
-<h2>Release History</h2>
-
-The following is the data release history for this campaign. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
-
-* <a href="k2-pipeline-release-notes.html#data-release-10">Data Release 10</a>
-* <a href="k2-pipeline-release-notes.html#data-release-7">Data Release 7</a>
 
 <br>
 
@@ -2931,9 +2970,8 @@ The following is the data release history for this campaign. Follow the link for
 
 </div>
 
-<h2>Features and events</h2>
+<h2>Features and Events</h2>
 
-<br>
 ***Pleiades and Hyades***
 
 One Director's Discretionary Target program (GO4901, PI:White) was approved in Campaign 4 which observes the nine 3–5 mag B-stars and red giants in the Pleiades and Hyades open clusters. The targets were observed using circular pixel masks (20 pixels in radius) that cover the wings of the PSF but not the entire saturation bleed.
@@ -2950,11 +2988,15 @@ The two stars in the Hyades are γ Tau and δ1 Tau. The seven stars in the Pleia
 </div>
 
 <br>
+
 ***Trans-Neptunian Object***
 
 The Trans-Neptunian Object 2002 KY14 was observed in Campaign 4 by creating 1340 masks that cover the path of the TNO. The custom aperture numbers range from 200006425 to 200007764. These observations were taken as part of Guest Observer program GO4110 (PI:Schwamb).
 
 <br>
+
+<h2>Data Quality and Processing Notes</h2>
+
 ***Background Residuals near Pleiades***
 
 Background removal for channels near the Pleiades has larger than normal residuals. These large residuals occur on mod.outs 10.3 and 15.1 through 15.4 due to the background on these channels being dominated by dust clouds near the Pleiades. The rich spatial structure of the Pleiades' dust clouds is poorly captured by the low order (≤ 4) polynomial model used to fit the background flux, with the best fit for these channels being given by a constant. This fit is done for every cadence, and the result is higher than normal background residuals, with residuals as large as 7 times the standard deviation of the background pixel values. (Normal residuals are typically less than the background standard deviation.)
@@ -2964,11 +3006,13 @@ We recommend caution when using light curves or the background model on these ch
 Local background estimates per star may produce higher-quality results. The change in the constant background level on these channels over time is in family with the median background change on other channels
 
 <br>
+
 ***Lightcurves Created with Non-Optimal Apertures***
 
 Due to an incompatibility between K2 roll motion and the determination of photometric optimal apertures, some light curves may be based on apertures that are too small and therefore have more noise than necessary. In particular, there are 887 stellar targets that are particularly suspect; they are listed <a href="/K2/K2drn/C4/C4_reduced_ap_targets.txt">here</a>. The brighter targets in this set may have correct optimal apertures, but stars with Kp > 13 have been shown to have lower photometric precision than non-suspect stars of similar brightness.
 
 <br>
+
 ***Stars Show Lower Than Expected Flux***
 
 The comparison of the measured flux to the flux based on their Kepler magnitudes in the EPIC catalog shows that ≈3,752 stars (23.8% of all stellar targets) are too bright by about a magnitude. The EPIC catalog field Kepflag gives the provenance of the Kepler magnitude estimate by listing the catalog magnitudes used to estimate the Kepler magnitude. Stars with Kepflag = “JHK” or “J” have Kepler magnitudes that are generally overestimated. These stars appear at all magnitudes, but predominantly have EPIC Kepler magnitudes dimmer than 14. The optimal apertures used to generate light curves for these “JHK” or “J” targets may be larger than optimal, reducing their photometric precision.
@@ -2983,6 +3027,7 @@ The comparison of the measured flux to the flux based on their Kepler magnitudes
 </div>
 
 <br>
+
 ***Several Stars Show Higher Than Expected Flux***
 
 There is a group of target stars whose measured flux is more than twice that expected from their EPIC Kepler magnitudes. The figure below shows that these stars fall into spatial groups that are aligned with RA and Dec, rather than focal plane coordinates, strongly indicating that the cause of this anomaly is catalog error. The source of this error is presently unknown and is not correlated with Kepflag values. The optimal apertures used to generate light curves for these targets may be smaller than optimal, reducing their photometric precision.
@@ -2997,11 +3042,13 @@ There is a group of target stars whose measured flux is more than twice that exp
 </div>
 
 <br>
+
 ***Stellar Targets with Negative Lightcurve Values***
 
 Seventy-six stellar targets show negative flux values in their SAP_FLUX light curves, which is somewhat more than normally seen. Most of these are very dim, near background level targets at the edge of the focal plane where K2 roll has the largest impact, so it is not surprising that the roll causes negative flux values after background removal. The bright targets with negative flux values either have isolated negative flux outliers or are on the Pleiades channels, where there are large background residuals due to the constant background model on these channels, see above.
 
 <br>
+
 ***Light Curve Quality***
 
 The dominant systematic present in K2 simple aperture photometry light curves is a sawtooth shape that is due to the roll of the spacecraft approximately every 6 hours. The PDC module of the Kepler Pipeline uses Principle Component Analysis to remove this signal in addition to other systematics. Below, we examine observed trends and noise levels in the PDC light curves for C4, Data Release 6.
@@ -3036,8 +3083,6 @@ The PDC quality flags were populated for some of the SC targets even though ther
 <br>
 
 <hr>
-
-
 
 
 
@@ -3110,19 +3155,29 @@ The PDC quality flags were populated for some of the SC targets even though ther
 
 </div>
 
-<h2>Features and events</h2>
+<h2>Features and Events</h2>
 
-<br>
 ***Neptune***
 
 Neptune moved across the field of view during C3 and K2 observed it in both long and short cadence. Short cadence data were obtained approximately 20 days either side of the stationary point of Neptune. See this time lapse <a href="https://www.youtube.com/watch?v=Tw-q3uM_5_0">movie</a> created by Jason Rowe that clearly shows Neptune and its moons, Titan and Nereid. The custom aperture numbers associated with Neptune are 200004468--200004923. These observations were taken as part of Guest Observer Programs GO3060 (PI:Rowe) and GO3057 (PI:Gaulme).
 
 <br>
+
 ***Trans-Neptunian Object***
 
 The Trans-Neptunian Object (225088) 2007 OR10 was observed with 2 masks and given custom aperture numbers 200004466 and 200004467. This target was observed as part of Guest Observer Program GO3053 (PI:Szabo).
 
 <br>
+
+***Premature End***
+
+Campaign 3 had a nominal duration of 80 days, but an actual duration of only 69.2 days. The campaign ended earlier than expected because the on-board storage filled up faster than anticipated due to unusually poor data compression.
+
+
+<br>
+
+<h2>Data Quality and Processing Notes</h2>
+
 ***Highlights of Pipeline Improvements***
 
 Campaign 3 (Data Release 5) data were the first K2 data processed with the SOC 9.3 pipeline. With this data release comes the higher-level data products. A detailed list of the pipeline developments that accompany this data release is listed on the [pipeline release page](k2-pipeline-release-notes.html#data-release-5). A few highlights are listed here:
@@ -3133,6 +3188,7 @@ Campaign 3 (Data Release 5) data were the first K2 data processed with the SOC 9
 * The FFIs now contain a World Coordinate Solution.
 
 <br>
+
 ***Light Curve Quality***
 
 The dominant systematic present in K2 simple aperture photometry light curves is a sawtooth shape that is due to the roll of the spacecraft approximately every 6 hours. The PDC module of the Kepler Pipeline uses Principle Component Analysis to remove this signal in addition to other systematics. Below, we examine observed trends and noise levels in the PDC light curves for C3 (as measured using Data Release 5).
@@ -3169,20 +3225,14 @@ The short cadence light curves produced by the Kepler pipeline are inadequate fo
 
 
 <br>
+
 ***Reduced Noise from Change in Bandwidth***
 
 The change in bandwidth for pointing control (from 50 to 20 seconds) for C3 resulted in an increase in SNR for short cadence by a factor of roughly 4--9, with the larger improvement seen at the higher frequency end. Note, the bandwidth pointing control parameter was set to 10 seconds for the original Kepler Mission.
 
 <br>
-***Premature End***
-
-Campaign 3 had a nominal duration of 80 days, but an actual duration of only 69.2 days. The campaign ended earlier than expected because the on-board storage filled up faster than anticipated due to unusually poor data compression.
-
-
-<br>
 
 <hr>
-
 
 
 
@@ -3271,7 +3321,7 @@ These release notes are for the C2 data currently available at MAST in the nomin
 <br>
 
 
-<h2>Features and events</h2>
+<h2>Features and Events</h2>
 
 ***Solar Activity***
 
@@ -3346,7 +3396,7 @@ The pointing of the spacecraft was adjusted by approximately 10" on 2014-Aug-25,
 <br>
 
 
-<h2>Pipeline Processing Notes</h2>
+<h2>Data Quality and Processing Notes</h2>
 
 ***Unflagged Large Pointing Excursion Towards Start of Campaign***
 
@@ -3372,7 +3422,9 @@ During the latter half of C2 a large number of 'parity errors' were observed fro
 
 The LDE parity error triggers a flag (bit 15, decimal=16384) in the QUALITY column of the target pixel files. This flag is set for the majority of cadences in the second half of the campaign.
 
-Note that the pipeline does not utilize the LDE parity flag and thus the delivered data is unaffected by this flagging &mdash; it is mentioned here for users who may do their own processing and are recommended that cadences with this flag set are not discarded as they contain good quality data.
+Note that the pipeline does not utilize the LDE parity flag and thus the delivered data is unaffected by this flagging &mdash; it is mentioned here for users who may do their own processing and it is recommended that cadences with this flag set are not discarded as they contain good quality data.
+
+<br>
 
 <hr>
 
@@ -3442,9 +3494,8 @@ Note that the pipeline does not utilize the LDE parity flag and thus the deliver
 </div>
 
 
-<h2>Features and events</h2>
+<h2>Features and Events</h2>
 
-<br>
 ***Operational Considerations***
 
 Campaign 1 (C1) is the first full length observing campaign for K2 where the targets were
@@ -3456,6 +3507,7 @@ The oversized apertures and uncertain compression performance led the project to
 include a mid-campaign break lasting 2.9 days in order to downlink data.
 
 <br>
+
 ***Attitude Tweak***
 
 The attitude of the spacecraft was tweaked by 3.3 pixels at cadence 91433 to better
@@ -3494,6 +3546,7 @@ focal plane columns were affected in this way, so the number of potentially
 affected targets is small.
 
 <br>
+
 ***Trans-Neptunian Object***
 
 A long-cadence custom aperture was constructed in order to collect data on
@@ -3502,6 +3555,7 @@ falls in its 23x22 pixel custom aperture for only about 10 days. This custom
 aperture can be found by searching the MAST for EPIC ID 200001049.
 
 <br>
+
 ***EPIC Catalog Assignment***
 
 For this Campaign, a number of targets were proposed without EPIC IDs.
@@ -3512,6 +3566,9 @@ catalog if that target matched a target in the catalog, or
 from 201000001 to 202059065.
 
 <br>
+
+<h2>Data Quality and Processing Notes</h2>
+
 ***Light Curve Quality***
 
 C1 long cadence light curves have been delivered with [Data Release 14](k2-pipeline-release-notes.html#data-release-14).
@@ -3611,29 +3668,33 @@ Campaign 0 (C0) was implemented as a full-length engineering test to prove that 
 
 </div>
 
-<h2>Features and events</h2>
+<h2>Features and Events</h2>
 
-<br>
 ***Not In Fine Point Data***
 
 The second half of the C0 data is more indicative of the quality of data users should expect from K2. The Kepler spacecraft was not in fine point for the first part of C0, causing large photometric scatter. The data quality is much improved in the second half of the campaign, beginning on cadence 89347 after the safe mode, when compared to the first half of the campaign. See the QUALITY flag (bit 16) to determine when the spacecraft was in fine point.
 
 <br>
+
 ***Safe Mode***
 
 The Kepler Spacecraft was in safe mode between cadences 88198 and 89346. Data is flagged in the QUALITY column with bit 2. The project used this time to fix large attitude errors that were occuring during resaturation events.
 
 <br>
-***Photometric Jitter Caused by Lower Bandwidth***
 
-During the development of the K2 Mission, the number of guide stars per fine-guidance sensor (FGS) was changed from ten (for Kepler) to one (for K2). This change was demanded by the need for increased aperture sizes given the uncertainties in the star-tracker to boresight alignment and the need to acquire an entirely new field-of-view every 80 to 90 days. To compensate for the increased sensor noise and assure that fine-point lock could be achieved, the attitude control bandwidth was decreased from 0.1 Hz (for Kepler) to 0.02 Hz (for K2). This change in bandwidth means that the cross-boresight attitude (i.e., RA and Dec) has a time constant of 50 seconds, comparable to the short-cadence duration. Engineering studies have shown that the photometric precision of the long-cadence data is also compromised by the larger pointing jitter associated with the lower bandwidth. The project has approved a change in bandwidth to 0.05 Hz (20 seconds) starting with Campaign 3.
+***Module 7 Failure***
+
+Prior to the start of C0, on January 21, 2014, the photometer was autonomously powered off by an under voltage fault in the Local Detector Electronics Power Supply. Since that time, module 7 (i.e., channels 17 to 20) has yielded no star data or charge injection signal. The subsequent behavior of this module is very similar to that of module 3 after it failed on January 19, 2010. K2 continues to operate and collect simultaneous data from sources falling upon the remaining 19 detector modules over 105 square degrees. There is no indication of any accelerated degradation on these other modules.
 
 <br>
+
+
 ***Large Pixel Masks***
 
 When planning C0 observations, the pointing performance of K2 was not accurately known. The worst case scenario was that a star at the edge of the focal plane could move as much as 40" from its nominal position. Therefore each star was assigned a large pixel mask by first computing a Kepler-style optimal aperture and then adding 10 rings of pixels to account for a potential 40" pointing offset. During the second half of C0, the pointing performance was excellent and the pointing drifts were no more than 6" for any target star. Care will be needed when performing photometry on C0 data. Simply including all collected pixels for a given target will not create a high signal-to-noise light curve. For tools to help choose your photometric aperture, see for example, <a href="http://keplergo.arc.nasa.gov/PyKE.shtml">PyKE contributed software</a>.
 
 <br>
+
 ***Jupiter's Reflection***
 
 Because K2 points along the ecliptic, its field of view will occasionally contain bright solar system objects. Jupiter was in the K2 field of view during C0 from 2014-03-14 through 2014-05-12, but fell on dead module 3. It creates a bright antipodal ghost on module 23, channel 79, and impacts all the targets observed in this region. See the FFI ktwo2014074233223-c00, extension 79, for an image of the reflection.
@@ -3659,6 +3720,7 @@ While Jupiter was on the focal plane, the background level was increased over it
 </div>
 
 <br>
+
 ***Observations of M35 and NGC 2158***
 
 The open clusters M35 (NGC 2168) and NGC 2158 were observed during this campaign by placing 154 separate 50x50 pixel masks over the densest portion of these two adjacent clusters. Each mask was given a custom aperture number to act as the unique identifier found in the file name. The target pixel files for these clusters have custom aperture numbers ranging from 200,000,811 to 200,000,964.
@@ -3673,21 +3735,27 @@ The open clusters M35 (NGC 2168) and NGC 2158 were observed during this campaign
 </div>
 
 <br>
+
+<h2>Data Quality and Processing Notes</h2>
+
+***Photometric Jitter Caused by Lower Bandwidth***
+
+During the development of the K2 Mission, the number of guide stars per fine-guidance sensor (FGS) was changed from ten (for Kepler) to one (for K2). This change was demanded by the need for increased aperture sizes given the uncertainties in the star-tracker to boresight alignment and the need to acquire an entirely new field-of-view every 80 to 90 days. To compensate for the increased sensor noise and assure that fine-point lock could be achieved, the attitude control bandwidth was decreased from 0.1 Hz (for Kepler) to 0.02 Hz (for K2). This change in bandwidth means that the cross-boresight attitude (i.e., RA and Dec) has a time constant of 50 seconds, comparable to the short-cadence duration. Engineering studies have shown that the photometric precision of the long-cadence data is also compromised by the larger pointing jitter associated with the lower bandwidth. The project has approved a change in bandwidth to 0.05 Hz (20 seconds) starting with Campaign 3.
+
+<br>
+
 ***Channel 10 Black Correction***
 
 The black correction on Channel 10, mod.out 4.2, has problems because a bright star bleeds into the black region. For data release 1, the affected regions of the black are excluded from the fit of the black, so the fit is poorly constrained and we see chatter in the residuals. This mostly affects stars in the last 200 rows of the channel.
 
 <br>
+
 ***Image Artifacts in K2***
 
 The thermal environment is changing more rapidly in K2 than it did for the Kepler Mission. As a result the number of channels with significant rolling band (changes in the black level that are both time and spatial dependent) is larger for K2. The channels observed to be most impacted by rolling band in C0 are 1, 2, 10, 11, 14, 25-28, 36, 44, 58, 62, 74 and 79. Other known image artifacts, such as Moiré patterns and undershoot from bright stars, are also likely to be enhanced in K2 data as compared to Kepler. See the <a href="http://archtest.stsci.edu/kepler/manuals/KSCI-19033-001.pdf">Kepler Instrument Handbook</a>.
 
 <br>
-***Module 7 Failure***
 
-Prior to the start of C0, on January 21, 2014, the photometer was autonomously powered off by an under voltage fault in the Local Detector Electronics Power Supply. Since that time, module 7 (i.e., channels 17 to 20) has yielded no star data or charge injection signal. The subsequent behavior of this module is very similar to that of module 3 after it failed on January 19, 2010. K2 continues to operate and collect simultaneous data from sources falling upon the remaining 19 detector modules over 105 square degrees. There is no indication of any accelerated degradation on these other modules.
-
-<br>
 ***Thruster Firing Flags***
 
 Since the thruster firing flags are not populated in FITS quality flags for the
