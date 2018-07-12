@@ -5,8 +5,15 @@ Save_as: archived-k2-data-release-notes.html
 
 This page contains *OUT-OF-DATE*, archived data release notes for past pipeline processings. Campaigns seen here have been processed with the final version of the K2 pipeline (<a href="k2-uniform-global-reprocessing-underway.html">see news post here</a>) and new, up-to-date release notes corresponding to the newest data are available <a href="k2-data-release-notes.html#k2-campaign-2">at the nominal data release note webpage</a>.
 
-The notes below are kept here in case users find a need to use the old, out-of-date processed data, which is still accessible at MAST here: LOCATION TBD
+The notes below are kept here in case users find a need to use the old, out-of-date processed data, which is still accessible at MAST in these locations for each file type:
+<ul>
+<li>Target Pixel Files: <a href="http://archive.stsci.edu/missions/k2/target_pixel_files/old_release_bundles/">http://archive.stsci.edu/missions/k2/target_pixel_files/old_release_bundles/</a>
+<li>Lightcurves: <a href="http://archive.stsci.edu/missions/k2/lightcurves/old_release_tarfiles/">http://archive.stsci.edu/missions/k2/lightcurves/old_release_tarfiles/</a>
+<li>CBV files: <a href="http://archive.stsci.edu/missions/k2/cbv/old_release_files/">http://archive.stsci.edu/missions/k2/cbv/old_release_files/</a>
+<li>FFIs: <a href="http://archive.stsci.edu/missions/k2/ffi/old_release_files/">http://archive.stsci.edu/missions/k2/ffi/old_release_files/</a>
+</ul>
 
+<br>
 
 # K2 Campaign 2
 
