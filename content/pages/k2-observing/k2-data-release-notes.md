@@ -53,6 +53,11 @@ Campaign 16 was flown in the forward velocity vector direction in order to enabl
 <li>Short Cadence Number: 4735209</li>
 </ul>
 
+<b><i>Most Recent Processing Version</i></b>
+<ul>
+<li> <a href="k2-pipeline-release-notes.html#data-release-23">Data Release 23</a> </li>
+</ul>
+
 </div>
 
 <div class="col-lg-7">
@@ -223,16 +228,9 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 
 The target HD 76333 (EPIC 200200727), a nearby high proper-motion F3V star, failed short-cadence PDC processing due to it being a custom target and the only target on its channel. The short-cadence light curve file includes the (nominal and unaffected) SAP flux, but the PDC_SAP flux is all zeros. Note that the long-cadence data for this target is unaffected and is nominal.
 
-<br>
-
-<h2>Release History</h2>
-
-The following is the data release history for C16. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
-
-* <a href="k2-pipeline-release-notes.html#data-release-23">Data Release 23</a>
-
 <hr>
 
+<br>
 
 
 # K2 Campaign 15
@@ -272,6 +270,11 @@ The following is the data release history for C16. Follow the link for informati
 <li>End Time: 2017-11-19 22:58:27 UTC</li>
 <li>Long Cadence Number: 153449</li>
 <li>Short Cadence Number: 4591959</li>
+</ul>
+
+<b><i>Most Recent Processing Version</i></b>
+<ul>
+<li> <a href="k2-pipeline-release-notes.html#data-release-22">Data Release 22</a> </li>
 </ul>
 
 </div>
@@ -490,19 +493,9 @@ Starting with C15, short-cadence light curves are now produced and available at 
 </div>
 </div>
 
-
+<hr>
 
 <br>
-
-
-
-<h2>Release History</h2>
-
-The following is the data release history for C15. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
-
-* <a href="k2-pipeline-release-notes.html#data-release-22">Data Release 22</a>
-
-<hr>
 
 
 # K2 Campaign 14
@@ -543,6 +536,11 @@ The following is the data release history for C15. Follow the link for informati
 <li>End Time: 2017-08-19 22:11:02 UTC</li>
 <li>Long Cadence Number: 148945</li>
 <li>Short Cadence Number: 4456839</li>
+</ul>
+
+<b><i>Most Recent Processing Version</i></b>
+<ul>
+<li> <a href="k2-pipeline-release-notes.html#data-release-20">Data Release 20</a> </li>
 </ul>
 
 </div>
@@ -672,18 +670,15 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 </div>
 
 <br>
+
 ***Targets Missing from the Archive***
 
 Pipeline errors during the process of exporting the light curve (LCV) and
 target pixel (TP) FITS files resulted in two targets (EPIC IDs 248463890 and 248463977)
 from C14 having no LCV or TPF files at the archive.
+
 <br>
 
-<h2>Release History</h2>
-
-The following is the data release history for C14. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
-
-* <a href="k2-pipeline-release-notes.html#data-release-20">Data Release 20</a>
 
 <hr>
 
@@ -724,6 +719,11 @@ The following is the data release history for C14. Follow the link for informati
 <li>End Time: 2017-05-27 15:44:53 UTC</li>
 <li>Long Cadence Number: 144821</li>
 <li>Short Cadence Number: 4333119</li>
+</ul>
+
+<b><i>Most Recent Processing Version</i></b>
+<ul>
+<li> <a href="k2-pipeline-release-notes.html#data-release-19">Data Release 19</a> </li>
 </ul>
 
 </div>
@@ -920,12 +920,7 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 </div>
 </div>
 
-
-<h2>Release History</h2>
-
-The following is the data release history for C13. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
-
-* <a href="k2-pipeline-release-notes.html#data-release-19">Data Release 19</a>
+<br>
 
 <hr>
 
@@ -967,6 +962,11 @@ The following is the data release history for C13. Follow the link for informati
 <li>End Time: 2017-03-04 18:37:47 UTC</li>
 <li>Long Cadence Number: 140716</li>
 <li>Short Cadence Number: 4209969</li>
+</ul>
+
+<b><i>Most Recent Processing Version</i></b>
+<ul>
+<li> <a href="k2-pipeline-release-notes.html#data-release-18">Data Release 18</a> </li>
 </ul>
 
 </div>
@@ -1193,12 +1193,7 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 </div>
 </div>
 
-
-<h2>Release History</h2>
-
-The following is the data release history for C12. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
-
-* <a href="k2-pipeline-release-notes.html#data-release-18">Data Release 18</a>
+<br>
 
 <hr>
 
@@ -1289,7 +1284,13 @@ is evident when comparing the two images.
 <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2016307123729-c112_ffi-cal.fits">ktwo2016307123729-c112_ffi-cal.fits</a></li>
 </ul>
 
+<b><i>Most Recent Processing Version</i></b>
+<ul>
+<li> <a href="k2-pipeline-release-notes.html#data-release-17">Data Release 17</a> </li>
+</ul>
+
 </div>
+
 
 <div class="col-lg-7">
 
@@ -1593,14 +1594,7 @@ During the last three days of C11b we experienced a large number of parity error
 
 The LDE parity error triggers a flag (bit 15, decimal=16384) in the QUALITY column of the target pixel files. Most of the cadences from long cadence number 136276 (2016-12-4 00:58 UTC) to LC 136426 (2016-12-7 02:32 UTC) have the parity error flag set.
 
-<h2>Release History</h2>
-
-The following is the data release history for C11. Follow the link for
-information about some of the features of the software used to reduce and
-export these data. There will be a new entry each time the data are processed
-for release by the mission.
-
-* <a href="k2-pipeline-release-notes.html#data-release-17">Data Release 17</a>
+<br>
 
 <hr>
 
@@ -1692,6 +1686,11 @@ the second does not.
 <ul>
 <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2016199030108-c102_ffi-cal.fits">ktwo2016199030108-c102_ffi-cal.fits</a></li>
 <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2016240074042-c102_ffi-cal.fits">ktwo2016240074042-c102_ffi-cal.fits</a></li>
+</ul>
+
+<b><i>Most Recent Processing Version</i></b>
+<ul>
+<li> <a href="k2-pipeline-release-notes.html#data-release-15">Data Release 15</a> </li>
 </ul>
 
 </div>
@@ -1887,14 +1886,7 @@ differential velocity aberration, it is likely
 that adjacent columns will be corrupted at some times during the campaign.
 
 
-<h2>Release History</h2>
-
-The following is the data release history for C10. Follow the link for
-information about some of the features of the software used to reduce and
-export these data. There will be a new entry each time the data are processed
-for release by the mission.
-
-* <a href="k2-pipeline-release-notes.html#data-release-15">Data Release 15</a>
+<br>
 
 <hr>
 
@@ -1976,6 +1968,11 @@ and C92, respectively.
 <ul>
 <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2016119231109-c91_ffi-cal.fits">ktwo2016119231109-c91_ffi-cal.fits</a></li>
 <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2016153221424-c92_ffi-cal.fits">ktwo2016153221424-c92_ffi-cal.fits</a></li>
+</ul>
+
+<b><i>Most Recent Processing Version</i></b>
+<ul>
+<li> <a href="k2-pipeline-release-notes.html#data-release-12">Data Release 12</a> </li>
 </ul>
 
 </div>
@@ -2212,14 +2209,7 @@ are quite large and may cause memory problems when accessed:
 <li>ktwo200070438-c92_lpd-targ.fits = 15GB.
 </ul>
 
-<h2>Release History</h2>
-
-The following is the data release history for C9. Follow the link for
-information about some of the features of the software used to reduce and
-export these data. There will be a new entry each time the data are processed
-for release by the mission.
-
-* <a href="k2-pipeline-release-notes.html#data-release-12">Data Release 12</a>
+<br>
 
 <hr>
 
@@ -2263,6 +2253,11 @@ for release by the mission.
 <li>Time: 2016-03-23 06:48:35 UTC</li>
 <li>Long Cadence Number: 123759</li>
 <li>Short Cadence Number: 3701259</li>
+</ul>
+
+<b><i>Most Recent Processing Version</i></b>
+<ul>
+<li> <a href="k2-pipeline-release-notes.html#data-release-11">Data Release 11</a> </li>
 </ul>
 
 </div>
@@ -2398,13 +2393,7 @@ The extent of the problem in time and CCD columns can be seen in the figure *C8-
 </a>
 </div>
 
-
-
-<h2>Release History</h2>
-
-The following is the data release history for C8. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
-
-* <a href="k2-pipeline-release-notes.html#data-release-11">Data Release 11</a>
+<br>
 
 <hr>
 
@@ -2448,6 +2437,11 @@ The following is the data release history for C8. Follow the link for informatio
         <li>Time: 2015-12-26 08:35:28 </li>
         <li>Long Cadence Number: 119456</li>
         <li>Short Cadence Number: 3572169</li>
+    </ul>
+
+    <b><i>Most Recent Processing Version</i></b>
+    <ul>
+    <li> <a href="k2-pipeline-release-notes.html#data-release-9">Data Release 9</a> </li>
     </ul>
 
 </div>
@@ -2584,12 +2578,7 @@ There are 4 channels in C7 for which the saturation spill due to very bright sta
 <li style="list-style-type:none">&emsp;&emsp;67 | 234:242</li>
 </ul>
 
-<h2>Release History</h2>
-
-The following is the data release history for C7. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
-
-* <a href="k2-pipeline-release-notes.html#data-release-9">Data Release 9</a>
-
+<br>
 
 <hr>
 
@@ -2632,6 +2621,11 @@ The following is the data release history for C7. Follow the link for informatio
         <li>Time: 2015-09-30 21:11:29 UTC</li>
         <li>Long Cadence Number: 115224</li>
         <li>Short Cadence Number: 3445209 </li>
+    </ul>
+
+    <b><i>Most Recent Processing Version</i></b>
+    <ul>
+    <li> <a href="k2-pipeline-release-notes.html#data-release-8">Data Release 8</a> </li>
     </ul>
 
 </div>
@@ -2735,13 +2729,7 @@ The dominant systematic present in K2 simple aperture photometry light curves is
     </a>
 </div>
 
-<h2>Release History</h2>
-
-The following is the data release history for C6. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
-
-* <a href="k2-pipeline-release-notes.html#data-release-8">Data Release 8</a>
-
-    * Note: The short cadence data will be released a few weeks after the long cadence data so that a bug fix can be implemented to ensure that the smear correction is properly applied.  Hence, the [Erratum](http://archive.stsci.edu/kepler/KSCI-19080-001.pdf) regarding the long-standing problem with the short cadence smear correction does not apply to the C6 SC data.
+<br>
 
 <hr>
 
@@ -2785,6 +2773,11 @@ The following is the data release history for C6. Follow the link for informatio
         <li>Time: 2015-07-10 22:39:43.571 UTC</li>
         <li>Long Cadence Number: 111214</li>
         <li>Short Cadence Number: 3324909</li>
+    </ul>
+
+    <b><i>Most Recent Processing Version</i></b>
+    <ul>
+    <li> <a href="k2-pipeline-release-notes.html#data-release-10">Data Release 10</a> </li>
     </ul>
 
 </div>
@@ -2864,9 +2857,6 @@ The following is the data release history for this campaign. Follow the link for
 * <a href="k2-pipeline-release-notes.html#data-release-7">Data Release 7</a>
 
 <br>
-***Notes Specific to Data Release 10***
-
-Data Release 10 updates the short cadence data only. This release corrects the short cadence collateral bug described in the <a href="http://archive.stsci.edu/kepler/KSCI-19080-002.pdf">Global Erratum for Kepler Q0-Q17 & K2 C0-C5 Short-Cadence Data, KSCI-19080</a>. This release replaces short cadence data previously delivered to the archive in Data Release 7. Specific targets known to have their calibration improved by Data Release 10 are identifed in the <a href="http://archive.stsci.edu/missions/k2/catalogs/K2_scrambled_short_cadence_collateral_target_list.csv">list of affected targets at the MAST</a>.
 
 <hr>
 
@@ -2910,6 +2900,11 @@ Data Release 10 updates the short cadence data only. This release corrects the s
         <li>Time: 2015-04-20 04:32:47.045 UTC</li>
         <li>Long Cadence Number: 107213</li>
         <li>Short Cadence Number: 3204879</li>
+    </ul>
+
+    <b><i>Most Recent Processing Version</i></b>
+    <ul>
+    <li> <a href="k2-pipeline-release-notes.html#data-release-10">Data Release 10</a> </li>
     </ul>
 
 </div>
@@ -3034,25 +3029,11 @@ The photometric precision is generally better near the center of the focal plane
 </div>
 
 
-<h2>Release History</h2>
-
-The following is the data release history for this campaign. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
-
-* <a href="k2-pipeline-release-notes.html#data-release-10">Data Release 10</a>
-* <a href="k2-pipeline-release-notes.html#data-release-6">Data Release 6</a>
-
-<br>
-***Notes Specific to Data Release 10***
-
-Data Release 10 updates the short cadence data only. This release corrects the short cadence collateral bug described in the <a href="http://archive.stsci.edu/kepler/KSCI-19080-002.pdf">Global Erratum for Kepler Q0-Q17 & K2 C0-C5 Short-Cadence Data, KSCI-19080</a>. This release replaces short cadence data previously delivered to the archive in Data Release 6. Specific targets known to have their calibration improved by Data Release 10 are identifed in the <a href="http://archive.stsci.edu/missions/k2/catalogs/K2_scrambled_short_cadence_collateral_target_list.csv">list of affected targets at the MAST</a>.
-
-***Notes Specific to Data Release 6***
-
-These notes are issues specific to how the data was processed and are likely to change when the data are reprocessed.
-
 *SC PDC Quality Flags*
 
 The PDC quality flags were populated for some of the SC targets even though there are no SC PDC light curves. These flags are: manual exclude (bit 9), SPSD detected (bit 11), and impulsive outlier removed (bit 12). Users may simply ignore these flags.
+
+<br>
 
 <hr>
 
@@ -3098,6 +3079,11 @@ The PDC quality flags were populated for some of the SC targets even though ther
         <li>Time: 2015-01-23 18:37:04.488 UTC</li>
         <li>Long Cadence Number: 102984</li>
         <li>Short Cadence Number: 3078009</li>
+    </ul>
+
+    <b><i>Most Recent Processing Version</i></b>
+    <ul>
+    <li> <a href="k2-pipeline-release-notes.html#data-release-10">Data Release 10</a> </li>
     </ul>
 
 </div>
@@ -3193,17 +3179,7 @@ The change in bandwidth for pointing control (from 50 to 20 seconds) for C3 resu
 Campaign 3 had a nominal duration of 80 days, but an actual duration of only 69.2 days. The campaign ended earlier than expected because the on-board storage filled up faster than anticipated due to unusually poor data compression.
 
 
-<h2>Release History</h2>
-
-The following is the data release history for this campaign. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
-
-* <a href="k2-pipeline-release-notes.html#data-release-10">Data Release 10</a>
-* <a href="k2-pipeline-release-notes.html#data-release-5">Data Release 5</a>
-
 <br>
-***Notes Specific to Data Release 10***
-
-Data Release 10 updates the short cadence data only. This release corrects the short cadence collateral bug described in the <a href="http://archive.stsci.edu/kepler/KSCI-19080-002.pdf">Global Erratum for Kepler Q0-Q17 & K2 C0-C5 Short-Cadence Data, KSCI-19080</a>. This release replaces short cadence data previously delivered to the archive in Data Release 5. Specific targets known to have their calibration improved by Data Release 10 are identifed in the <a href="http://archive.stsci.edu/missions/k2/catalogs/K2_scrambled_short_cadence_collateral_target_list.csv">list of affected targets at the MAST</a>.
 
 <hr>
 
@@ -3252,7 +3228,7 @@ These release notes are for the C2 data currently available at MAST in the nomin
 <li>Short Cadence Number: 2969049</li>
 </ul>
 
-<b><i>Data Release Number</i></b>
+<b><i>Most Recent Processing Version</i></b>
 <ul>
 <li> <a href="k2-pipeline-release-notes.html#data-release-21">Data Release 21</a> </li>
 </ul>
@@ -3443,6 +3419,11 @@ Note that the pipeline does not utilize the LDE parity flag and thus the deliver
         <li>Short Cadence Number: 2849079</li>
     </ul>
 
+    <b><i>Most Recent Processing Version</i></b>
+    <ul>
+    <li> <a href="k2-pipeline-release-notes.html#data-release-14">Data Release 14</a> </li>
+    </ul>
+
 </div>
 
 <div class="col-lg-7">
@@ -3565,26 +3546,7 @@ Other CDPP benchmarks can be found in the
 </div>
 </div>
 
-<h2>Release History</h2>
-
-Data releases used for this campaign are given below. Details on the features of the pipeline software used to reduce and export these data can be found under the pipeline release notes.  There will be a new entry each time the data is released by the mission.
-
-* <a href="k2-pipeline-release-notes.html#data-release-14">Data Release 14</a>
-* <a href="k2-pipeline-release-notes.html#data-release-3">Data Release 3</a>
-
 <br>
-***Notes Specific to Data Release 14***
-
-Data Release 14 includes long cadence light curves for C1 targets and updates the exported data
-products to include pipeline derived target coordinates and thruster firing flags.
-The C1 FITS target pixel files are also updated to
-Type-2 files. See [Type-1 vs Type-2 TPFs](#type1v2) above and notes under
-[Data Release 5](k2-pipeline-release-notes.html#data-release-5) for more details on Type-2 TPFs.
-This release also corrects the short cadence collateral bug described in the
-[Global Erratum for Kepler Q0-Q17 & K2 C0-C5 Short-Cadence Data, KSCI-19080](http://archive.stsci.edu/kepler/KSCI-19080-002.pdf).
-This release replaces the short cadence data previously delivered to the archive in Data Release 3.
-Specific targets known to have their SC calibration improved by Data Release 14 are identifed
-in the [list of affected targets at the MAST](http://archive.stsci.edu/missions/k2/catalogs/K2_scrambled_short_cadence_collateral_target_list.csv).
 
 <hr>
 
@@ -3625,6 +3587,11 @@ Campaign 0 (C0) was implemented as a full-length engineering test to prove that 
         <li>Time: 2014-05-27 16:48:13 UTC</li>
         <li>Long Cadence Number: 91186</li>
         <li>Short Cadence Number: 2724069</li>
+    </ul>
+
+    <b><i>Most Recent Processing Version</i></b>
+    <ul>
+    <li> <a href="k2-pipeline-release-notes.html#data-release-2">Data Release 2</a> </li>
     </ul>
 
 </div>
@@ -3730,31 +3697,8 @@ and short-cadence <a href="http://archive.stsci.edu/missions/k2/thruster_firings
 thruster firing tables for the C0 campaign.
 
 <br>
-***Cropped Calibrated Pixels in Data Release 1***
 
-**The problem described below was corrected in Data Release 2 of the Campaign 0 data. See the DATA_REL keyword in the primary header of the target pixel file to determine which data release you have. We recommend that everyone use the latest release of the data.**
-
-In Data Release 1, for cadences after the Safe Mode (cadence no. 89346), the calibrated data (see the FLUX column in the exported target pixel files) is incorrectly reporting a value of zero for pixels collected near the edge of the aperture. The raw pixels (see the RAW_CNTS column) do not have this issue, so the collected data is properly reported in the target pixel files. An example of the issue is shown in the figure below. The left image is the mask (white indicates a collected pixel), the central image shows the calibrated pixels and the right image contains the raw pixels for one cadence. Those columns and rows that are black in the central image incorrectly have a value of zero, but there is clearly data in the original raw data on the right.
-
-This issue occurs for both the long and short cadence data. It does not appear in the custom apertures, so the calibrated pixels are being exported as expected for these files.
-
-<div class="thumbnail" style="width: 100%;">
-    <div class="caption">
-        <i>Figure: Image of mask (left), calibrated pixels (center) and raw pixels (right) for one cadence of one target.</i>
-    </div>
-    <a href="images/release-notes/c0/mask-issues.png">
-        <img src="images/release-notes/c0/mask-issues.png" class="img-responsive" alt="Image of mask (left), calibrated pixels (center) and raw pixels (right) for one cadence of one target.">
-    </a>
-</div>
-
-<h2>Release History</h2>
-
-The following is the data release history for this campaign. Follow the link for information about some of the features of the software used to reduce and export these data. There will be a new entry each time the data is released by the mission.
-
-* <a href="k2-pipeline-release-notes.html#data-release-2">Data Release 2</a>
-* <a href="k2-pipeline-release-notes.html#data-release-1">Data Release 1</a>
 <hr>
-
 
 
 # Two-wheel Concept Engineering Test
