@@ -21,9 +21,9 @@ Campaign 16 was flown in the forward velocity vector direction in order to enabl
 
 <b><i>Pointing</i></b>
 <ul>
-<li> RA:  133.7099689</li>
-<li> Dec:  18.5253931</li>
-<li> Roll:  -15.0605959</li>
+<li> RA:  133.7099689 degrees</li>
+<li> Dec:  18.5253931 degrees</li>
+<li> Roll:  -15.0605959 degrees</li>
 </ul>
 
 <b><i>Targets</i></b>
@@ -191,7 +191,7 @@ The pipeline CDPP 12th magnitude noise benchmark for C16 is
 the lowest seen since C6. It is comparable to that seen in early campaigns with similar
 star density (C6, C8, C10), but is well below that seen in C12, also with similar star density.
 While we do not have a definitive cause the for the improved precision, it is likely due to a
-combination of the relatively low star density, the return to more stable pointing (compared to recent
+combination of the relat degreesively low star density, the return to more stable pointing (compared to recent
 campaigns), and the updated pipeline version (in-particular the use of the coarse-point flags; see <a href="k2-uniform-global-reprocessing-underway.html">the global reprocessing effort announcement</a> for details).
 
 The magnitude dependence of CDPP and its distribution over the focal
@@ -243,16 +243,16 @@ The following is the data release history for C16. Follow the link for informati
 
 <b><i>Pointing</i></b>
 <ul>
-<li> RA:  233.6175730</li>
-<li> Dec:  -20.0792397</li>
-<li> Roll:  166.7780778</li>
+<li> RA:  233.6175730 degrees</li>
+<li> Dec:  -20.0792397 degrees</li>
+<li> Roll:  166.7780778 degrees</li>
 </ul>
 
 <b><i>Targets</i></b>
 <ul>
 <li>  35,150 long cadence (LC) targets, including 3,485 galaxy targets.</li>
 <li>  118 short cadence (SC) targets.</li>
-<li>  38 moving objects were tiled with LC custom strip apertures. 13 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. See the <a href="images/release-notes/c15/kplr2017355085300_c15_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
+<li>  38 moving objects we degreesre tiled with LC custom strip apertures. 13 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. See the <a href="images/release-notes/c15/kplr2017355085300_c15_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
 </ul>
 
 <b><i>Full Frame Images (FFI)</i></b>
@@ -513,9 +513,9 @@ The following is the data release history for C15. Follow the link for informati
 
 <b><i>Pointing</i></b>
 <ul>
-<li> RA:  160.6824762</li>
-<li> Dec:  6.8509316</li>
-<li> Roll:  158.7573464</li>
+<li> RA:  160.6824762 degrees</li>
+<li> Dec:  6.8509316 degrees</li>
+<li> Roll:  158.7573464 degrees</li>
 </ul>
 
 <b><i>Targets</i></b>
@@ -695,9 +695,9 @@ The following is the data release history for C14. Follow the link for informati
 
 <b><i>Pointing</i></b>
 <ul>
-<li> RA: 72.7971166 </li>
-<li> Dec: 20.7870759 </li>
-<li> Roll: -172.7995758 </li>
+<li> RA: 72.7971166 degrees</li>
+<li> Dec: 20.7870759 degrees</li>
+<li> Roll: -172.7995758 degrees</li>
 </ul>
 
 <b><i>Targets</i></b>
