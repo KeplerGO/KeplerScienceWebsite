@@ -195,7 +195,7 @@ The pipeline CDPP 12th magnitude noise benchmark for C16 is
 the lowest seen since C6. It is comparable to that seen in early campaigns with similar
 star density (C6, C8, C10), but is well below that seen in C12, also with similar star density.
 While we do not have a definitive cause the for the improved precision, it is likely due to a
-combination of the relat degreesively low star density, the return to more stable pointing (compared to recent
+combination of the relatively low star density, the return to more stable pointing (compared to recent
 campaigns), and the updated pipeline version (in-particular the use of the coarse-point flags; see <a href="k2-uniform-global-reprocessing-underway.html">the global reprocessing effort announcement</a> for details).
 
 The magnitude dependence of CDPP and its distribution over the focal
@@ -249,7 +249,7 @@ The target HD 76333 (EPIC 200200727), a nearby high proper-motion F3V star, fail
 <ul>
 <li>  35,150 long cadence (LC) targets, including 3,485 galaxy targets.</li>
 <li>  118 short cadence (SC) targets.</li>
-<li>  38 moving objects we degreesre tiled with LC custom strip apertures. 13 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. See the <a href="images/release-notes/c15/kplr2017355085300_c15_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
+<li>  38 moving objects were tiled with LC custom strip apertures. 13 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. See the <a href="images/release-notes/c15/kplr2017355085300_c15_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
 </ul>
 
 <b><i>Full Frame Images (FFI)</i></b>
