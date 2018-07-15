@@ -419,7 +419,7 @@ Campaign 16
     </li>
     <li class="list-group-item">
       <i class="fa fa-pencil-square-o fa-margin"></i>
-      Data release notes (coming soon)
+      <a href="k2-data-release-notes.html#k2-campaign-16">Data release notes</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -1163,7 +1163,7 @@ Campaign 2
     </li>
     <li class="list-group-item">
       <i class="fa fa-cog fa-margin"></i>
-      <a href="/k2-pipeline-release-notes.html#data-release-4">Pipeline: 9.2</a>
+      <a href="/k2-pipeline-release-notes.html#data-release-21">Pipeline: 9.3</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>

@@ -318,7 +318,7 @@ This page details the previous, current, and future K2 Campaign fields.
         <a href="k2-approved-programs.html#campaign-16"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
-
+        <a href="k2-data-release-notes.html#k2-campaign-16"><i class="fa fa-check"></i></a>
       </td>
       <td>M44 (Beehive), M67, Earth.</td>
     </tr>

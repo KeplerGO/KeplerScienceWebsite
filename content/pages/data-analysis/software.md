@@ -19,7 +19,7 @@ and for analyzing the collected data.
         The lightkurve Python package offers a user-friendly way to analyze astronomical flux time series data, in particular the pixels and lightcurves obtained by NASA’s Kepler, K2, and TESS missions.
     </td>
     <td>
-        <a href="lightkurve.keplerscience.org">lightkurve.keplerscience.org</a>
+        <a href="http://lightkurve.keplerscience.org">lightkurve.keplerscience.org</a>
     </td>
 </tr>
 
@@ -29,7 +29,7 @@ and for analyzing the collected data.
         A suite of command-line tools to inspect target pixel files and extract detrended lightcurves.
     </td>
     <td>
-        <a href="https://pyke.keplerscience.org">pyke.keplerscience.org</a>
+        <a href="http://pyke.keplerscience.org">pyke.keplerscience.org</a>
     </td>
 </tr>
 
@@ -122,7 +122,7 @@ It is important to upgrade frequently to ensure that you are using the most up t
 
 Installing K2fov will automatically add a command line tool to your path called *K2onSilicon*, which takes a list of targets as input and writes a new list that indicates the "silicon status" of each target, i.e. whether or not it falls on one of the detectors of the spacecraft's focal plane.
 
-The simplest thing to do is to have a CSV file with columns "RA_degrees, Dec_degrees, Kepmag". Do not use a header. 
+The simplest thing to do is to have a CSV file with columns "RA_degrees, Dec_degrees, Kepmag". Do not use a header.
 For example, create a file called mytargetlist.csv containing the following rows:
 
     178.19284, 1.01924, 13.2
@@ -562,7 +562,7 @@ curves.  DS9, KeplerFFI, and MAST can be used to inspect full-frame images (FFIs
 ### K2flix
 
 K2flix enables the pixel data to be visualized
-by turning Kepler/K2's Target Pixel Files (TPF) into 
+by turning Kepler/K2's Target Pixel Files (TPF) into
 contrast-stretched animated gifs or MPEG-4 movies.
 K2flix can be used both as a command-line tool or using its Python API.
 The tool is hosted and documented on [GitHub](https://github.com/KeplerGO/k2flix).
