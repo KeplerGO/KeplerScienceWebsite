@@ -58,6 +58,6 @@ we expect that K2's data set will yield more than 1,000 scientific publications 
 <img src="images/news/k2-publications-prediction-20180705.png">
 <br>
 <i>
-Figure: extrapolating from the scientific productivity of Kepler's original mission (top panel), we expect that more than 1,000 publications will utilize K2 data over the coming (bottom panel).
+Figure: extrapolating from the scientific productivity of Kepler's original mission (top panel), we expect that more than 1,000 publications will utilize K2 data over the coming years (bottom panel).
 </i>
 </p>
