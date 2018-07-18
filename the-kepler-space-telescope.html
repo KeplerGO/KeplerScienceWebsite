@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2018-07-11" />
+    <meta name="dc.date.modified" content="2018-07-18" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -171,7 +171,7 @@ Corners are provided in J2000 celestial coordinates for all four seasonal roll r
 <p><br/></p>
 <p>The K2 mission observes a different field every ~80 days.  For
 comparison to the prime Kepler mission field, the field of view of K2 Campaign 10 is shown below
-(note the three dead modules as of August 2016).</p>
+(note the three dead modules as of July 2018).</p>
 <p><br/></p>
 <p><img class="img-responsive" src="images/c10ffi.png" style="max-width:67%;"/></p>
 <p><br/></p>
@@ -184,12 +184,16 @@ bandpass. Each science module is an array of 2200x2048
 pixels. These 21 modules each have 4 output channels, for a total of
 84 channels and 94.6 million active pixels that view the sky, with
 additional masked real pixels and virtual pixels for collection of
-collateral data.  As of August 2016, three of the modules are no longer in
-working order.</p>
+collateral data.  As of July 2018, three of the modules are no longer in
+working order (shown as grayed out in the figure below) — module 3 failed during
+Quarter 4 of the prime Kepler mission, module 7 failed between the Kepler and K2 missions,
+and module 4 failed during K2 Campaign 10.</p>
 <p><br/></p>
 <p><img class="img-responsive" src="images/kepler_CCDarray.jpg" style="max-width:67%;"/></p>
 <p><br/></p>
-<p><img class="img-responsive" src="images/Kepler-Chan-Mod.jpg" style="max-width:100%;"/></p>
+<!--- <img class="img-responsive" style="max-width:50%;" src="images/Kepler-Chan-Mod.jpg"> --->
+<!--- <img class="img-responsive" style="max-width:67%;" src="images/kepler_focal_plane_layout_channels.png"> --->
+<p><img class="img-responsive" src="images/kepler_focal_plane_layout_channels_color.png" style="max-width:67%;"/></p>
 <p><br/></p>
 <p><img class="img-responsive" src="images/kepler_focalplane1.jpg" style="max-width:67%;"/></p>
 <p><br/></p>
@@ -202,7 +206,7 @@ response curve in <a href="data/kepler_response_hires1.txt">hi-res</a> and
 for download. The shape of the bandpass, shown below, was chosen to contain most
 of the optical spectrum. This response curve was
 derived during pre-flight testing and
-represents the laboratory calibration of the Kepler photometer. </p>
+represents the laboratory calibration of the Kepler photometer.</p>
 <p><br/></p>
 <p><img class="img-responsive" src="images/kepler_response1.jpg" style="max-width:97%;"/></p>
 <p><br/></p>
@@ -236,7 +240,7 @@ size of 27 × 27 microns.</p>
 and minimizing noise sources. Users should recognize that
 the optimum focal plane geometry for flux collection will not in
 principle provide the most compact point spread function, as is
-usually desired for imaging experiments. </p>
+usually desired for imaging experiments.</p>
 <p>The Kepler point spread function varies considerably across the focal
 plane due primarily to the Schmidt optics, which provide a large FOV
 approximately 16° in diameter. The Project quantifies the total
@@ -288,7 +292,7 @@ increases to ~11% at the edge of the FOV at 6.94 degrees off-axis. The
 area of sky which is vignetted &lt; 11% is 151.2 square degrees, and the
 sky area imaged onto active pixels with &lt; 11% vignetting is 101 square
 degrees since there are gaps between modules, a gap between the two
-CCDs on each module, and inactive areas on each CCD. </p>
+CCDs on each module, and inactive areas on each CCD.</p>
 <h3 id="backgrounds">Backgrounds</h3>
 <p>Source photometry is affected by both celestial and instrumental
 backgrounds. During nominal science data collection, pixels designated
@@ -309,16 +313,16 @@ ecliptic plane.</li>
 <li>Diffuse scattered starlight, produced by dust in the Galaxy. In the
   fixed field of view for the
   Kepler mission, the Galactic component shows a spatial gradient,
-  increasing at lower Galactic latitudes. </li>
+  increasing at lower Galactic latitudes.</li>
 <li>Unresolved starlight. Given the 4x4 arcsec dimensions of the
   pixels, some light in the aperture arises from faint field stars. As
   with the diffuse Galactic emission, the contribution from unresolved
-  starlight increases with decreasing Galactic latitude. </li>
+  starlight increases with decreasing Galactic latitude.</li>
 <li>Cosmic ray impacts which corrupt individual pixels. The pipeline
    flags and removes cosmic ray events from the pixel counts,
   within the PA pipeline module. Each cosmic ray event is
   replaced with a temporally local average of the pixel's time series
-  without the cosmic ray pixel events. </li>
+  without the cosmic ray pixel events.</li>
 <li>Surrounding sources, i.e. the residual wings of the PSFs produced by nearby
   stars which may overlap the PSF of the target. A correction for contaminating flux in the source aperture
   produced by surrounding sources is applied within the PDC pipeline module - a single valued subtraction, termed the crowding metric. In
@@ -336,7 +340,7 @@ black level), which is removed in the CAL pipeline module, scattered light, unex
 issues discovered during pre-flight characterization of the detectors,
 and some features seen during early flight operations,
 e.g., "Argabrightening", an anomalous full-field illumination. Spatially varying backgrounds produced by the detector
-electronics are fully described in the <a href="data/documentation/KSCI-19033-001.pdf">Kepler Instrument Handbook</a>. </p>
+electronics are fully described in the <a href="data/documentation/KSCI-19033-001.pdf">Kepler Instrument Handbook</a>.</p>
 <p><strong>Measurement and removal</strong></p>
 <p>Kepler constructs a background flux map using a set of target pixels
 specifically assigned for this purpose. Background "targets" are small
@@ -420,7 +424,7 @@ increase linearly until the well depth is reached. Beyond that level,
 charge will bleed into adjacent pixels in the column containing that
 source. However, even when the central pixel is saturated, the target
 aperture can extend along the bleed column, preserving most or all of
-the signal from the source. </p>
+the signal from the source.</p>
 <h3 id="flux-calibration">Flux calibration</h3>
 <p>Each target observed by Kepler or K2 had or has a pre-set observing aperture uploaded to the
 spacecraft. These apertures are defined in terms of the number of
@@ -448,7 +452,7 @@ SDSS g,r using the transformation derived by Smith et al. (2002 ApJ 123,
 2121, Table 7), shown in line 1 and 2 below.  If SDSS g,r values are available, the conditional
 statements in line 3 and 4 below can be used.</p>
 <p>(1) g   =   0.54 B   +   0.46 V   −   0.07 <br/>
-(2) r   =   −0.44 B   +   1.44 V   +   0.12 <br/> 
+(2) r   =   −0.44 B   +   1.44 V   +   0.12 <br/>
 (3) if   ( g − r )   ≤   0.8    then    Kp   =   0.2 g   +   0.8 r <br/>
 (4) if   ( g − r )   &gt;   0.8     then    Kp   =   0.1 g   +   0.9 r <br/></p>
 <p>This expression is accurate to about ±0.2 mag for stars hotter than
@@ -550,11 +554,11 @@ catalog (or catalogs) contain data for that source.  Those catalogs are listed h
 of their positional accuracy.  Additional information can be found in
 the documentation for the KIC and the EPIC.</p>
 <ol>
-<li>Kepler Stellar Classification Program; 50 milliarcseconds, data obtained closer to the Kepler epoch, minimizing proper motion offsets </li>
-<li>Hipparcos; 10 milliarcseconds </li>
-<li>Tycho-2; for V brighter than 8.0; 20 milliarcseconds </li>
-<li>UCAC2; 40 milliarcseconds </li>
-<li>2MASS; 70 milliarcseconds </li>
+<li>Kepler Stellar Classification Program; 50 milliarcseconds, data obtained closer to the Kepler epoch, minimizing proper motion offsets</li>
+<li>Hipparcos; 10 milliarcseconds</li>
+<li>Tycho-2; for V brighter than 8.0; 20 milliarcseconds</li>
+<li>UCAC2; 40 milliarcseconds</li>
+<li>2MASS; 70 milliarcseconds</li>
 <li>USNO-B1.0; 200 milliarcseconds</li>
 </ol>
 <p><strong>Observed astrometry</strong></p>

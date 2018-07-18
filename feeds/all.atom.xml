@@ -14,16 +14,15 @@ All other dates remain unchanged.&lt;/p&gt;
 are now requested by August 16, 2018.
 If the spacecraft health and fuel allow, then Phase-2 proposals will be due January 17, 2019.&lt;/p&gt;
 &lt;p&gt;Questions regarding this change may be sent to 
-&lt;a href="keplergo@mail.arc.nasa.gov"&gt;keplergo@mail.arc.nasa.gov&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><title>Kepler fuel status update &amp; FAQ</title><link href="https://keplerscience.arc.nasa.gov/kepler-fuel-status-update-faq.html" rel="alternate"></link><published>2018-07-05T10:00:00-07:00</published><updated>2018-07-05T10:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-07-05:/kepler-fuel-status-update-faq.html</id><summary type="html">&lt;p&gt;On Monday, July 2nd, prompted by an anomalous drop in fuel pressure,
-the Kepler team paused the science observations for K2 Campaign 18
+&lt;a href="keplergo@mail.arc.nasa.gov"&gt;keplergo@mail.arc.nasa.gov&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><title>Kepler fuel status update &amp; FAQ</title><link href="https://keplerscience.arc.nasa.gov/kepler-fuel-status-update-faq.html" rel="alternate"></link><published>2018-07-05T09:00:00-07:00</published><updated>2018-07-05T09:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-07-05:/kepler-fuel-status-update-faq.html</id><summary type="html">&lt;p&gt;On Monday, July 2nd, prompted by an anomalous drop in fuel pressure,
+the Kepler team paused the science observations for K2 Campaign 18
 and commanded the spacecraft into a no-fuel-use safe mode.
 It will remain in this mode until August 2nd,
 when the Kepler team will use the normally scheduled …&lt;/p&gt;</summary><content type="html">&lt;p&gt;On Monday, July 2nd, prompted by an anomalous drop in fuel pressure,
-the Kepler team paused the science observations for K2 Campaign 18
+the Kepler team paused the science observations for K2 Campaign 18
 and commanded the spacecraft into a no-fuel-use safe mode.
 It will remain in this mode until August 2nd,
-when the Kepler team will use the normally scheduled DSN time
-to downlink the Campaign 18 data.
+when the Kepler team will use the normally scheduled DSN time to downlink the Campaign 18 data.
 This course of action was taken to preserve the 51 days of high-quality Campaign 18 data
 that are currently held on the spacecraft’s solid state recorder.&lt;/p&gt;
 &lt;p&gt;NASA is continuing to prepare for Campaign 19 which is scheduled to begin August 6th.&lt;/p&gt;
@@ -31,27 +30,37 @@ that are currently held on the spacecraft’s solid state recorder.&lt;/p&gt;
 in the &lt;a href="https://www.nasa.gov/kepler/fuel-status-faq"&gt;Kepler Fuel Status FAQ&lt;/a&gt;.
 The extra FAQ below answers questions that are specific to the current and future K2 Campaigns.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Will the quality of Campaign 18 data be affected?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;No, the first 51 days of Campaign 18 have been flawless. The spacecraft performed nominally until the project commanded it into its no-fuel "nap mode" in response to a drop in fuel pressure.&lt;/p&gt;
+&lt;p&gt;No, the first 51 days of Campaign 18 have been flawless.
+The spacecraft performed nominally until the project commanded it
+into its no-fuel "nap mode" in response to a drop in fuel pressure.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;When will Campaign 18 data become available?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The project currently plans to downlink the data between August 2 and 6, 2018. The raw data are expected to become available from the data archive at MAST within a few days thereafter, and the calibrated data products are expected to be released towards Q4 2018.&lt;/p&gt;
+&lt;p&gt;The project currently plans to downlink the data between August 2 and 6, 2018.
+The raw data are expected to become available from the data archive at MAST
+within a few days thereafter,
+and the calibrated data products are expected to be released towards Q4 2018.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Will Campaign 19 continue?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;NASA is continuing to prepare for Campaign 19. If the observed drop in fuel pressure is indicative of the spacecraft running out of fuel, then Campaign 19 may not be completed.&lt;/p&gt;
+&lt;p&gt;NASA is continuing to prepare for Campaign 19.
+If the observed drop in fuel pressure is indicative of the spacecraft running out of fuel,
+then Campaign 19 may not be completed.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Should I still propose targets for Campaign 20?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Yes! NASA will continue to plan for future campaigns until the spacecraft can no longer operate nominally. We expect to move the Campaign 20 target proposal deadline to August 16th, 2018, i.e. beyond the start of Campaign 19.&lt;/p&gt;
+&lt;p&gt;Yes! NASA will continue to plan for future campaigns until the spacecraft can no longer operate nominally.
+We expect to move the Campaign 20 target proposal deadline to August 16th, 2018,
+i.e. beyond the start of Campaign 19.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Does low fuel mark the end of Kepler’s discoveries?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Not at all! We expect that Kepler’s data set will continue to yield discoveries
-for years to come, and that many planets are yet to be discovered
+&lt;p&gt;Not at all!
+We expect that Kepler’s data set will continue to yield discoveries for years to come,
+and that many planets are yet to be discovered
 (e.g. &lt;a href="https://arxiv.org/abs/1806.11504"&gt;27 new planets from Campaign 10 were announced just last week&lt;/a&gt;).
 NASA will continue to support and fund the analysis of the Kepler and K2 data sets
 beyond the end of spacecraft operations.
 Extrapolating from the success of Kepler's original mission,
-we expect that K2's data set will yield more than 1,000 scientific publications
-over the coming years (cf. figure below).&lt;/p&gt;
+we expect that K2's data set will yield more than 1,000 scientific publications over the coming years
+(cf. figure below).&lt;/p&gt;
 &lt;p style="max-width: 600px;"&gt;
 &lt;img src="images/news/k2-publications-prediction-20180705.png"&gt;
 &lt;br&gt;
 &lt;i&gt;
-Figure: extrapolating from the scientific productivity of Kepler's original mission (top panel), we expect that more than 1,000 publications will utilize K2 data over the coming (bottom panel).
+Figure: extrapolating from the scientific productivity of Kepler's original mission (top panel), we expect that more than 1,000 publications will utilize K2 data over the coming years (bottom panel).
 &lt;/i&gt;
 &lt;/p&gt;</content></entry><entry><title>New in lightkurve: identifying time-variable background noise</title><link href="https://keplerscience.arc.nasa.gov/new-in-lightkurve-identifying-time-variable-background-noise.html" rel="alternate"></link><published>2018-07-04T10:00:00-07:00</published><updated>2018-07-04T10:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-07-04:/new-in-lightkurve-identifying-time-variable-background-noise.html</id><summary type="html">&lt;p&gt;The new &lt;a href="http://lightkurve.keplerscience.org"&gt;lightkurve&lt;/a&gt; open source Python package
 for Kepler and K2 data analysis, which we &lt;a href="new-kepler-data-analysis-tools-and-tutorials-lightkurve-v10.html"&gt;first announced in March&lt;/a&gt;,
@@ -120,7 +129,7 @@ The Hubble Space Telescope is scheduled to observe GJ 9827 b on September 16th a
     &lt;b&gt;11,501 galaxies&lt;/b&gt; are being surveyed for supernovae and other transients.
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;b&gt;30 Solar System objects&lt;/b&gt; are being monitored, including &lt;b&gt;planet Neptune&lt;/b&gt; and its moon Triton in short cadence, and comet 2P/Encke in long cadence.
+    &lt;b&gt;30 Solar System objects&lt;/b&gt; are being monitored, including the planet &lt;b&gt;Neptune&lt;/b&gt; and its moon Triton in short cadence, and comet 2P/Encke in long cadence.
   &lt;/li&gt;
 &lt;/ul&gt;&lt;/p&gt;
 &lt;p&gt;The figure below illustrates the location of the field and its notable targets.&lt;/p&gt;
