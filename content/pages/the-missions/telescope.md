@@ -41,7 +41,7 @@ An image of the field of view observed in the Kepler mission is shown below.
 
 The K2 mission observes a different field every ~80 days.  For
 comparison to the prime Kepler mission field, the field of view of K2 Campaign 10 is shown below
-(note the three dead modules as of August 2016).
+(note the three dead modules as of July 2018).
 
 <br/>
 
@@ -60,8 +60,10 @@ bandpass. Each science module is an array of 2200x2048
 pixels. These 21 modules each have 4 output channels, for a total of
 84 channels and 94.6 million active pixels that view the sky, with
 additional masked real pixels and virtual pixels for collection of
-collateral data.  As of August 2016, three of the modules are no longer in
-working order.
+collateral data.  As of July 2018, three of the modules are no longer in
+working order (shown as grayed out in the figure below) &mdash; module 3 failed during
+Quarter 4 of the prime Kepler mission, module 7 failed between the Kepler and K2 missions,
+and module 4 failed during K2 Campaign 10.
 
 <br/>
 
@@ -70,7 +72,8 @@ working order.
 <br/>
 
 <!--- <img class="img-responsive" style="max-width:50%;" src="images/Kepler-Chan-Mod.jpg"> --->
-<img class="img-responsive" style="max-width:67%;" src="images/kepler_focal_plane_layout_channels.png">
+<!--- <img class="img-responsive" style="max-width:67%;" src="images/kepler_focal_plane_layout_channels.png"> --->
+<img class="img-responsive" style="max-width:67%;" src="images/kepler_focal_plane_layout_channels_color.png">
 
 <br/>
 
