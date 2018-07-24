@@ -847,7 +847,7 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 
 ***Short-Cadence Targets With no PDC Flux***
 
-The following four targets failed short-cadence PDC processing due to them being custom targets and the only targets on their channel. The short-cadence light curve files include the (nominal and unaffected) SAP flux, but the PDC_SAP flux is all zeros. Note that the long-cadence data for these targets is unaffected and is nominal.
+The following four targets failed short-cadence PDC processing due to them being custom targets and the only targets on their channel. The short-cadence light curve files include the (nominal and unaffected) SAP flux, but the PDC_SAP flux is all zeros. Note that the long-cadence data for these targets are unaffected and are nominal.
 
 <ul>
 <li>200173880

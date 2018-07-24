@@ -16,7 +16,7 @@ The notes below are kept here in case users find a need to use the old, out-of-d
 <br>
 
 
-# K2 Campaign 13
+# K2 Campaign 13 (**Archived**)
 
 <h2>At a glance</h2>
 
@@ -263,7 +263,7 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 
 <hr>
 
-# K2 Campaign 2
+# K2 Campaign 2 (**Archived**)
 
 <h2>At a glance</h2>
 
