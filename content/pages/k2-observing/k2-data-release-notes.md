@@ -223,7 +223,7 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 <br>
 
 
-***SC Target With no PDC Flux***
+***Short-Cadence Target With no PDC Flux***
 
 The target HD 76333 (EPIC 200200727), a nearby high proper-motion F3V star, failed short-cadence PDC processing due to it being a custom target and the only target on its channel. The short-cadence light curve file includes the (nominal and unaffected) SAP flux, but the PDC_SAP flux is all zeros. Note that the long-cadence data for this target is unaffected and is nominal.
 
@@ -686,6 +686,9 @@ from C14 having no LCV or TPF files at the archive.
 
 # K2 Campaign 13
 
+These release notes are for the C13 data currently available at MAST in the nominal K2 data locations, which have been processed with the final version of the K2 pipeline as part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a>. The original release notes corresponding to the previous version(s) of C13 data can be found in the <a href="archived-k2-data-release-notes.html#k2-campaign-13">archived data release notes page</a>.
+
+
 <h2>At a glance</h2>
 
 <div class="col-lg-5">
@@ -725,23 +728,23 @@ from C14 having no LCV or TPF files at the archive.
 
 <b><i>Most Recent Processing Version</i></b>
 <ul>
-<li> <a href="k2-pipeline-release-notes.html#data-release-19">Data Release 19</a> </li>
+<li> <a href="k2-pipeline-release-notes.html#data-release-24">Data Release 24</a> </li>
 </ul>
 
 </div>
 
 <div class="col-lg-7">
 
-<!---
- <div class="thumbnail">
+
+<div class="thumbnail">
 <div class="caption">
-<i>Figure C13-FOV: Schematic of Kepler's C13 field-of-view with observed targets shown with purple dots. REPLACE WITH UPDATED VERSION, OR REMOVE</i>
+<i>Figure C13-FOV: Schematic of Kepler's C13 field-of-view with high profile objects.</i>
 </div>
-<a href="images/release-notes/c13/C13_selected.png">
-<img src="images/release-notes/c13/c13_selected.png" class="img-responsive" alt="C13 field-of-view with selected targets plotted in purple.">
+<a href="images/k2/k2-c13-field.png">
+<img src="images/k2/k2-c13-field.png" class="img-responsive" alt="C13 field-of-view with selected targets plotted in purple.">
 </a>
 </div>
- --->
+
 
 <div class="thumbnail">
 <div class="caption">
@@ -788,103 +791,21 @@ Two periods of anomalous pointing occur in the final five days
 of the campaign: 18 hours starting at 2017-05-23 12:11:44 UTC
 (cadence numbers 144619-144654), and 6 hours
 starting at 2017-05-25 11:16:28 UTC (cadence numbers 144715-144726).
-These anomalous thruster firing events occurring near the start and end of campaigns
-are suspected to be due to low fuel levels. The flight team is investigating them in
-an effort to understand whether they can be mitigated and how they might
-evolve in future campaigns.
 
 <div class="thumbnail" style="width: 49%;display: inline-block;">
 <div class="caption">
 <i>Figure C13-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C13.</i>   
 </div>
-<a href="images/release-notes/c13/c13_pad_pdq_attitude_roll.png">
-<img src="images/release-notes/c13/c13_pad_pdq_attitude_roll.png" class="img-responsive" alt="Pipeline measured roll error for C13.">
+<a href="images/release-notes/c13/c13_pad_pdq_attitude_roll_reprocessing_drn24.png">
+<img src="images/release-notes/c13/c13_pad_pdq_attitude_roll_reprocessing_drn24.png" class="img-responsive" alt="Pipeline measured roll error for C13.">
 </a>
 </div>
 
 <div class="thumbnail" style="width: 49%;display: inline-block;">
 <div class="caption">
 <i>Figure C13-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C13.</i>
-<a href="images/release-notes/c13/c13_pad_pdq_attitude_mar.png">
-<img src="images/release-notes/c13/c13_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the C13 attitude measured with PAD and PDQ.">
-</a>
-</div>
-</div>
-
-<br>
-
-***Smear Correction Error on Channel 74***
-
-The presence of the first magnitude star Aldebaran on channel 73 led to an error in
-the smear correction for channel 74, which shares the same physical CCD (see figure
-Aldebaran).
-The saturated charge from Aldebaran spills over all rows of the image and into the
-serial register of the CCD, corrupting the first three rows of the masked smear region
-in the FFI. While these rows are not used for the smear correction, at times during
-C13 the saturation spill covered more rows in the masked smear, extending up to row 15 on
-channel 74 (see figure Channel 74 Trailing Black). Trailing black rows 7-18 are fit
-with a linear model to estimate the black (bias) level for the masked smear region.
-
-At these times,
-the trailing black estimate for the masked smear signal was corrupted, resulting in a
-corrupted smear measurement for the affected cadences. Since the smear signal is subtracted
-from all the pixels in the channel, all targets on channel 74 were affected for these
-cadences. The impact is somewhat mitigated by background correction, but due to the
-non-linearity correction during calibration, a residual error remains. The effect is
-generally more significant for faint targets; however, users are cautioned
-to estimate the impact on their science of using data from the affected cadences.
-In addition, due to the rapidly changing background estimate, the argabrightening
-detector (see [Kepler Data Characteristics Handbook, Sec 5.8](http://archive.stsci.edu/kepler/manuals/Data_Characteristics.pdf))
-was triggered on channel 74 resulting in data gaps in the light curve files for
-some targets. Users should treat the channel specific argabrightening indicator
-in QUALITY and SAP_QUALITY flags with caution
-(bit 13, decimal=4096).
-
-The smear corruption effects were most prominent in the
-first 80 cadences of the campaign and again in the period between cadence 1800-3200
-(see Figure Channel 74 Trailing Black)
-In order to allow users to select the cadences they wish to exclude, the attached
-csv file <a href="images/release-notes/c13/c13_ch74_black_for_smear_residuals.csv">c13_ch74_black_for_smear_residuals.csv</a>
-contains the residual black level for the masked smear pixels after model fitting for
-each LC.
-The units of the residual signal are ADU/LC/pixel. The cadences with large negative
-residuals (<-200 ADU/LC/pixel) and those showing bimodal behavior are indicative of
-a poor model fit and a corrupted smear correction.
-
-<div class="thumbnail">
-<div class="caption">
-<i>Figure Aldebaran: An image of channels 73 (left) and 74 (right) from the FFI
-ktwo2017079075530-c13_ffi-cal shows the bright star on channel 73 with
-saturation spilling over all rows (x-axis is CCD columns, y-axis is CCD rows).
-In a zoomed image of the first 50 rows of the CCD
-(lower panel) the saturation spill along the serial register of both channels shows
-up as a white bar in rows 1-3. The readout amplifiers
-are located at the lower left corner for channel 73 and lower right corner for
-channel 74. The trailing black signal is measured from virtual columns in the center
-of this composite image (at the green dashed line).
-</i>
-</div>
-<a href="images/release-notes/c13/ffi_raw_ch73_74_c13.png">
-<img src="images/release-notes/c13/ffi_raw_ch73_74_c13.png" class="img-responsive" alt="C13 FFI image of channels 73 and 74 with Aldebaran.">
-</a>
-</div>
-<a href="images/release-notes/c13/ffi_raw_ch73_74_c13_zoom.png">
-<img src="images/release-notes/c13/ffi_raw_ch73_74_c13_zoom.png" class="img-responsive" alt="C13 FFI zoomed image of channels 73 and 74 showing collateral data rows.">
-</a>
-</div>
-</div>
-
-<div class="thumbnail">
-<div class="caption">
-<i>Figure Channel 74 Trailing Black: A time series of the residual trailing
-black level for the masked smear pixels after model fitting shows the effect
-of the saturation from Aldebaran. The trailing black rows used in estimating
-the black correction for the masked smear signal (rows 7:18) show anomalous
-values and bimodal behavior during the affected cadences.
-</i>
-</div>
-<a href="images/release-notes/c13/c13_ch74_black_for_ms_residual.png">
-<img src="images/release-notes/c13/c13_ch74_black_for_ms_residual.png" class="img-responsive" alt="C13 channel 74 black model residual for masked smear pixels by cadence number.">
+<a href="images/release-notes/c13/c13_pad_pdq_attitude_mar_reprocessing_drn24.png">
+<img src="images/release-notes/c13/c13_pad_pdq_attitude_mar_reprocessing_drn24.png" class="img-responsive" alt="Maximum residual of the C13 attitude measured with PAD and PDQ.">
 </a>
 </div>
 </div>
@@ -893,39 +814,49 @@ values and bimodal behavior during the affected cadences.
 
 <h2>Data Quality and Processing Notes</h2>
 
+
 ***Light Curve Quality***
 
-As in previous campaigns, the 6-hour spacecraft roll cycle continues
-to dominate the systematic
-errors in C13 simple aperture photometry light curves.
-Similar to C12, the pipeline CDPP 12th magnitude noise
-benchmark is 15-20% higher than what was seen in star fields of comparable star
-density (e.g. C4, C5). There is tentative evidence that at least part of this increase
-is due to the anomalous pointing excursions at the beginning and end of the campaign.
-In future campaigns, the processing will exclude such cadences from PDC and from
-the CDPP estimates.
+As in previous campaigns, the 6-hour spacecraft roll cycle continues to dominate the systematic errors in C13 simple aperture photometry light curves.
+The pipeline CDPP 12th magnitude noise benchmark is similar to star fields of comparable star density (e.g., C4, C5, C16).
+
 
 The magnitude dependence of CDPP and its distribution over the focal
 plane are shown below. Other CDPP benchmarks can be found in the
-<a href="images/release-notes/c13/c13_bin1.00_sc1.00_CDPP_Summary_17080715.txt">
+<a href="images/release-notes/c13/c13_bin1.00_sc1.00_CDPP_Summary_reprocessing_drn24.txt">
 table giving 6.5-hr CDPP as a function of magnitude.</a>
 <br>
 <div class="thumbnail" style="width: 90%;">
 <div class="caption">
 <i>Figure C13-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>   
 </div>
-<a href="images/release-notes/c13/c13_logg_CDPP_vs_model.png">
-<img src="images/release-notes/c13/c13_logg_CDPP_vs_model.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
+<a href="images/release-notes/c13/c13_logg_CDPP_vs_model_reprocessing_drn24.png">
+<img src="images/release-notes/c13/c13_logg_CDPP_vs_model_reprocessing_drn24.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
 </a>
 </div>
 <div class="thumbnail" style="width: 90%;">
 <div class="caption">
 <i>Figure C13-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
-<a href="images/release-notes/c13/c13_dwarf_CDPP_by_mod_out.png">
-<img src="images/release-notes/c13/c13_dwarf_CDPP_by_mod_out.png" class="img-responsive" alt="CDPP per channel for 12th magnitude dwarfs">
+<a href="images/release-notes/c13/c13_dwarf_CDPP_by_mod_out_reprocessing_drn24.png">
+<img src="images/release-notes/c13/c13_dwarf_CDPP_by_mod_out_reprocessing_drn24.png" class="img-responsive" alt="CDPP per channel for 12th magnitude dwarfs">
 </a>    
 </div>
 </div>
+
+<br>
+
+***Short-Cadence Targets With no PDC Flux***
+
+The following four targets failed short-cadence PDC processing due to them being custom targets and the only targets on their channel. The short-cadence light curve files include the (nominal and unaffected) SAP flux, but the PDC_SAP flux is all zeros. Note that the long-cadence data for these targets is unaffected and is nominal.
+
+<ul>
+<li>200173880
+<li>200173881
+<li>200173884
+<li>200173885
+</ul>
+
+
 
 <br>
 
