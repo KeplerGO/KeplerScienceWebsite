@@ -7,14 +7,13 @@ Save_as: conferences.html
 
 <table class="table table-striped table-hover" style="max-width:55em;">
   <tr>
-    <td style="width: 9em;">July 16-18, 2018</td>
-    <td style="width: 25em;"><a href='extragalactic2018'>K2 Extragalactic Data Analysis Meeting 2018</a></td>
-    <td><a
-    href='extragalactic2018'>website</a>, <a href="https://twitter.com/search?q=%23K2SN">#K2SN tweets</a></td>
-	</tr>
+    <td style="width: 9em;">Jan 6-10, 2019</td>
+    <td style="width: 25em;">Kepler & K2 Special Sessions at AAS233 in Seattle</td>
+    <td>Details coming soon</td>
+  </tr>
 
   <tr>
-    <td style="width: 9em;">March 4-8, 2019</td>
+    <td style="width: 9em;">Mar 4-8, 2019</td>
     <td style="width: 25em;"><a href=scicon-2019/index.html>Kepler &amp; K2 SciCon V</a></td>
     <td><a
     href=scicon-2019/index.html>website</a>, <a href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon tweets</a></td>
@@ -25,6 +24,12 @@ Save_as: conferences.html
 ## Past meetings
 
 <table class="table table-striped table-hover" style="max-width:55em;">
+  <tr>
+    <td style="width: 9em;">July 16-18, 2018</td>
+    <td style="width: 25em;"><a href='extragalactic2018'>K2 Extragalactic Data Analysis Meeting 2018</a></td>
+    <td><a
+    href='extragalactic2018'>website</a>, <a href="https://twitter.com/search?q=%23K2SN">#K2SN tweets</a></td>
+  </tr>
 
   <tr>
     <td style="width: 9em;">Jan 2018</td>
