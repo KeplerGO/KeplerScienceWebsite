@@ -32,7 +32,7 @@ the solicitation presents a two-phase process:
 
 1. An optional **Phase-1** proposal will enable **targets** to be
 selected for Campaign 20. Phase-1 proposals, including target tables
-and a scientific rationale, are requested by **July 19, 2018**
+and a scientific rationale, are requested by **August 16, 2018**
 and must be submitted via email to keplergo@mail.arc.nasa.gov.
 The scientific rationale must not exceed 2 pages for small programs
 (less than 1000 targets) and 4 pages for large programs
