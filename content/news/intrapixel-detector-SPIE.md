@@ -1,5 +1,5 @@
 Title: Intrapixel responsivity measured on a Kepler flight spare detector
-Date: 2018-07-23 09:00
+Date: 2018-07-31 09:00
 Author: Michael Gully-Santiago
 
 
