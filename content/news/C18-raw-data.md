@@ -1,5 +1,5 @@
 Title: K2 Campaign 18 raw data available
-Date: 2018-08-06 11:00
+Date: 2028-08-06 11:00
 Author: Geert Barentsen
 
 The raw data for K2 Campaign 18 were successfully downlinked
