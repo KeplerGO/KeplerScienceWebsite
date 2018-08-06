@@ -121,9 +121,6 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b>6 Aug 2018</b>',
-             'K2 Campaign 19 starts',
-             'k2-fields.html'),
             ('<b>16 Aug 2018</b>',
              'K2 Campaign 20 target proposals due',
              'call-for-k2-go-cycle-7-proposals-for-campaign-20.html'),
@@ -137,9 +134,6 @@ IMPORTANT_DATES = (
 
 # Defines the "meetings" box on the front page
 MEETINGS = (
-            ('<b>29 Jul – 3 Aug 2018</b><br>'
-             'ExoPag 18 & Cool Stars 20 (Boston)',
-             'https://coolstars20.github.io'),
             ('<b>21–26 Oct 2018</b><br>'
              'Kepler/K2 Booth at DPS50 (Knoxville)',
              'https://aas.org/meetings/dps49'),
