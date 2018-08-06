@@ -1,11 +1,11 @@
 Title: K2 Campaign 17 data processing complete
 Date: 2018-08-06 10:00
-Author: Geert Barentsen
+Author: Jeff Coughlin
 
 Data processing for K2 Campaign 17 is now complete
 and the pixel files and lightcurves are in the process
 of being shipped to the [data archive at MAST](http://archive.stsci.edu/k2).
-We anticipate that the data release will be announced in the second half of August.
+We anticipate that the data release will be announced by next week.
 
 Campaign 17 provided a substantial overlap with Campaign 6,
 offering a longer baseline for stellar activity, asteroseismology, and AGN studies,
