@@ -36,6 +36,13 @@ NASA is continuing to prepare for Campaign 19.
 If the observed drop in fuel pressure is indicative of the spacecraft running out of fuel,
 then Campaign 19 may not be completed.
 
+**Should I continue to use my telescope resources to augment Campaign 19 data?**
+
+Several science programs seek to complement Campaign 19 data
+using simultaneous observations carried out using other telescope facilities.
+The PI's of these programs can phone the Kepler GO office at +1-650-604-2784
+to request guidance as needed.
+
 **Should I still propose targets for Campaign 20?**
 
 Yes! NASA will continue to plan for future campaigns until the spacecraft can no longer operate nominally.
