@@ -1,5 +1,5 @@
 Title: K2 Campaign 20 target proposals are due on August 16th
-Date: 2018-08-09 07:10
+Date: 2028-08-09 07:10
 Author: Geert Barentsen
 
 Target proposals for K2 Campaign 20 continue to be requested by Thursday, August 16, 2018.
@@ -11,12 +11,10 @@ to <a href="mailto:keplergo@mail.arc.nasa.gov">keplergo@mail.arc.nasa.gov</a>
 no later than 23:59 Eastern Time on August 16th.
 Submissions will receive a confirmation of receipt.
 
-**Although Campaign 20 is at risk of not being executed due to Kepler's low fuel status,
-the project does not currently have information that precludes Campaign 20 from taking place.**
-As a result, we strongly encourage the community to submit target tables
-to enable the preparations for Campaign 20 to proceed as normal.
 Detailed information on the solicitation is available in the
 [K2 GO Cycle 7 research announcement (ROSES-2018)](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=610960/solicitationId=%7B8A2B07C0-F3D9-677F-0C28-F0E8406FC3CD%7D/viewSolicitationDocument=1/D.7%20K2%20Cycle%207%20Amend%2019.pdf).
+
+We warn that Campaign 20 is at risk of not being executed due to Kepler's low fuel status.
 
 Campaign 20 will revisit the **Taurus-Auriga star-forming region** in the
 forward-facing mode.
