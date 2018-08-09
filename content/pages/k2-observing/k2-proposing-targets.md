@@ -164,6 +164,28 @@ with NSPIRES in order to submit a Phase-2 proposal.
 A Phase-1 submission is not mandatory to qualify for Phase-2,
 however Phase-2 proposals may only utilize targets which have been included in the Campaign 20 target list (for any program).
 
+**Detailed instructions for submitting a Phase-1 proposal are provided below:**
+
+* Phase-1 will consist of 2 pages of text for small programs (less than 1000 targets) and 4 pages for large programs (1000 targets or more), including all figures, tables, and references, in a PDF file. The text shall be no smaller than 12-point font. 
+
+* The Phase-1 proposal must include a title, team, and summary,
+followed by a body of text which offers a strong scientific justification
+of the target list and explains the long-term legacy value of the proposed targets.
+Large programs must also include a detailed description of the target selection criteria,
+and explain how the target list may be de-scoped if required
+by the spacecraft’s limited on-board storage.
+<b>Proposers are encouraged to use the Phase-1 proposal template
+available [here in Word format](data/K2/k2go7_template.docx)
+and [here in Latex format](data/K2/k2go7_template.tex).</b>
+
+* A separate target table, which does not count toward
+  the 2/4-page limit for the scientific justification, must be prepared in the [format specified here](https://keplerscience.arc.nasa.gov/k2-proposing-targets.html#target-table). **Targets in the list must be ordered by priority.**
+
+* Submit a Phase-1 proposal (one PDF document) and the target
+      table (one spreadsheet) via email directly to the GO Office
+      (**keplergo@mail.arc.nasa.gov**) by
+      <font color='red'>23:59 EDT August 16, 2018</font>. 
+
 
 **Detailed instructions for submitting a Phase-2 proposal are as follows:**
 
