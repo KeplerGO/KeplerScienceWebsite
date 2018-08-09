@@ -89,7 +89,7 @@ Campaign 19
   <ul class="list-group">
     <li class="list-group-item">
       <i class="fa fa-calendar fa-margin"></i>
-      Aug 6, 2018 - Oct 10, 2018
+      TBC
     </li>
     <li class="list-group-item">
       <i class="fa fa-pencil-square-o fa-margin"></i>
@@ -197,7 +197,7 @@ Campaign 18
   <ul class="list-group">
     <li class="list-group-item">
       <i class="fa fa-calendar fa-margin"></i>
-      May 12, 2018 - Aug 2, 2018
+      May 12, 2018 - Jul 2, 2018
     </li>
     <li class="list-group-item">
       <i class="fa fa-pencil-square-o fa-margin"></i>
