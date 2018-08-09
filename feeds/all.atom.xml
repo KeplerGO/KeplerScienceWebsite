@@ -1,5 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2018-07-11T00:00:00-07:00</updated><entry><title>K2 GO Cycle 7 Phase-1 deadline postponed to August 16, 2018</title><link href="https://keplerscience.arc.nasa.gov/k2-go-cycle-7-phase-1-deadline-postponed-to-august-16-2018.html" rel="alternate"></link><published>2018-07-11T00:00:00-07:00</published><updated>2018-07-11T00:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-07-11:/k2-go-cycle-7-phase-1-deadline-postponed-to-august-16-2018.html</id><summary type="html">&lt;p&gt;In response to the &lt;a href="kepler-fuel-status-update-faq.html"&gt;drop in fuel pressure&lt;/a&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2018-08-09T07:10:00-07:00</updated><entry><title>K2 Campaign 20 target proposals are due on August 16th</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-20-target-proposals-are-due-on-august-16th.html" rel="alternate"></link><published>2018-08-09T07:10:00-07:00</published><updated>2018-08-09T07:10:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-08-09:/k2-campaign-20-target-proposals-are-due-on-august-16th.html</id><summary type="html">&lt;p&gt;Target proposals for K2 Campaign 20 continue to be requested by Thursday, August 16, 2018.
+Phase-1 proposals consist of up to 2 pages for small programs (&amp;lt; 1000 targets)
+and up to 4 pages for large programs (1000 targets or more).
+Proposers are encouraged to use the proposal template available &lt;a href="data/K2/k2go7_template.docx"&gt;in …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Target proposals for K2 Campaign 20 continue to be requested by Thursday, August 16, 2018.
+Phase-1 proposals consist of up to 2 pages for small programs (&amp;lt; 1000 targets)
+and up to 4 pages for large programs (1000 targets or more).
+Proposers are encouraged to use the proposal template available &lt;a href="data/K2/k2go7_template.docx"&gt;in Word format&lt;/a&gt; and &lt;a href="data/K2/k2go7_template.tex"&gt;in Latex format&lt;/a&gt;.
+The proposal and accompanying target table must be must be submitted via email
+to &lt;a href="mailto:keplergo@mail.arc.nasa.gov"&gt;keplergo@mail.arc.nasa.gov&lt;/a&gt;
+no later than 23:59 Eastern Time on August 16th.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Although Campaign 20 is at risk of not being executed due to Kepler's low fuel status,
+the project does not currently have information that precludes Campaign 20 from taking place.&lt;/strong&gt;
+As a result, we encourage the community to submit target tables
+to enable the preparations for Campaign 20 to proceed as normal.
+Additional information on preparing a Phase-1 proposal is available
+in Section 7.1.1 of the &lt;a href="https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=610960/solicitationId=%7B8A2B07C0-F3D9-677F-0C28-F0E8406FC3CD%7D/viewSolicitationDocument=1/D.7%20K2%20Cycle%207%20Amend%2019.pdf"&gt;K2 GO Cycle 7 research announcement (ROSES-2018)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Campaign 20 will revisit the &lt;strong&gt;Taurus-Auriga star-forming region&lt;/strong&gt; in the
+forward-facing mode.
+The region contains a large number of very young stars (&amp;lt;10 Myr)
+and the Campaign will significantly increase the number of such stars observed by Kepler.
+The field also includes members of the Pleiades (&amp;sim;100 Myr) and Hyades (&amp;sim;600 Myr) star clusters.&lt;/p&gt;
+&lt;p&gt;
+&lt;img src="images/k2/k2-c20-field.png" style="max-width: 600px;" alt="Footprint of K2 Campaign 20"/&gt;&lt;br/&gt;
+&lt;i&gt;Figure: Footprint of K2 Campaign 20.&lt;/i&gt;
+&lt;/p&gt;</content></entry><entry><title>K2 Campaign 18 downlink successful</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-18-downlink-successful.html" rel="alternate"></link><published>2018-08-09T07:00:00-07:00</published><updated>2018-08-09T07:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-08-09:/k2-campaign-18-downlink-successful.html</id><summary type="html">&lt;p&gt;The Kepler spacecraft has successfully downloaded Campaign 18 data to Earth.
+The raw data are now available for download
+from the &lt;a href="http://archive.stsci.edu/k2"&gt;K2 data archive at MAST&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are monitoring the spacecraft very closely and will provide more information
+when its status has been fully assessed.
+Scientists who are carrying out …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The Kepler spacecraft has successfully downloaded Campaign 18 data to Earth.
+The raw data are now available for download
+from the &lt;a href="http://archive.stsci.edu/k2"&gt;K2 data archive at MAST&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are monitoring the spacecraft very closely and will provide more information
+when its status has been fully assessed.
+Scientists who are carrying out simultaneous observations from the ground
+using other telescope facilities may phone the Kepler GO office at +1-650-604-2784
+to request guidance as needed.&lt;/p&gt;</content></entry><entry><title>K2 Campaign 17 data processing complete</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-17-data-processing-complete.html" rel="alternate"></link><published>2018-08-06T10:00:00-07:00</published><updated>2018-08-06T10:00:00-07:00</updated><author><name>Jeff Coughlin</name></author><id>tag:keplerscience.arc.nasa.gov,2018-08-06:/k2-campaign-17-data-processing-complete.html</id><summary type="html">&lt;p&gt;Data processing for K2 Campaign 17 is now complete
+and the pixel files and lightcurves are in the process
+of being shipped to the &lt;a href="http://archive.stsci.edu/k2"&gt;data archive at MAST&lt;/a&gt;.
+We anticipate that the data release will be announced by next week.&lt;/p&gt;
+&lt;p&gt;Campaign 17 provided a substantial overlap with Campaign 6,
+offering …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Data processing for K2 Campaign 17 is now complete
+and the pixel files and lightcurves are in the process
+of being shipped to the &lt;a href="http://archive.stsci.edu/k2"&gt;data archive at MAST&lt;/a&gt;.
+We anticipate that the data release will be announced by next week.&lt;/p&gt;
+&lt;p&gt;Campaign 17 provided a substantial overlap with Campaign 6,
+offering a longer baseline for stellar activity, asteroseismology, and AGN studies,
+as well as enabling dozens of K2 planet candidates to be revisited.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="k2-approved-programs.html#campaign-17"&gt;target list&lt;/a&gt; featured
+more than 34,000 targets,
+including 3,000+ candidate M dwarf stars,
+10,000+ candidate FGK main-sequence stars,
+and 14,000+ galaxies.
+Notable short cadence targets included dozens of planet systems,
+67 variable white dwarfs, 47 cool flare stars, and 17 bright solar-type stars.&lt;/p&gt;
+&lt;p&gt;Please keep an eye on our website for an announcement of the release
+and the associated &lt;a href="k2-data-release-notes.html"&gt;data release notes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.nasa.gov/image-feature/ames/kepler-shifts-its-view-toward-targets-in-the-constellation-virgo"&gt;&lt;img src="/images/news/c17-cartoon.jpg" alt="K2 C17 Cartoon"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>Intrapixel responsivity measured on a Kepler flight spare detector</title><link href="https://keplerscience.arc.nasa.gov/intrapixel-responsivity-measured-on-a-kepler-flight-spare-detector.html" rel="alternate"></link><published>2018-07-31T09:00:00-07:00</published><updated>2018-07-31T09:00:00-07:00</updated><author><name>Michael Gully-Santiago</name></author><id>tag:keplerscience.arc.nasa.gov,2018-07-31:/intrapixel-responsivity-measured-on-a-kepler-flight-spare-detector.html</id><summary type="html">&lt;p&gt;Researchers have recently characterized the Intra-Pixel Response Function (IPRF) of a Kepler &lt;a href="https://en.wikipedia.org/wiki/Flight_spare"&gt;flight spare&lt;/a&gt; CCD.  Recent &lt;a href="https://www.cis.rit.edu/"&gt;Center for Imaging Science&lt;/a&gt; PhD recipient Dmitry Vorobiev presented the study at the SPIE meeting on Astronomical Telescopes and Instrumentation in Austin, Texas in June 2018.  The &lt;a href="https://arxiv.org/abs/1806.07430"&gt;findings are posted on ArXiV&lt;/a&gt; and will …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Researchers have recently characterized the Intra-Pixel Response Function (IPRF) of a Kepler &lt;a href="https://en.wikipedia.org/wiki/Flight_spare"&gt;flight spare&lt;/a&gt; CCD.  Recent &lt;a href="https://www.cis.rit.edu/"&gt;Center for Imaging Science&lt;/a&gt; PhD recipient Dmitry Vorobiev presented the study at the SPIE meeting on Astronomical Telescopes and Instrumentation in Austin, Texas in June 2018.  The &lt;a href="https://arxiv.org/abs/1806.07430"&gt;findings are posted on ArXiV&lt;/a&gt; and will appear in the upcoming Proceedings of the SPIE.&lt;/p&gt;
+&lt;p&gt;The Intra-Pixel Response Function is the mapping of detector sensitivity within a pixel boundary.  The IPRF imbues significant flux deficits and excesses as spacecraft-induced motion drags celestial photo-centers within a pixel.  These conspicuous instrumental flux changes dominate the variance of K2 aperture photometry.  &lt;a href="http://lightkurve.keplerscience.org/other_software.html#detrending-analysis"&gt;Several detrending algorithms&lt;/a&gt; account for these sawtooth-like artifacts in the flux time series.  The lab-based measurement of the IPRF will enable forward-modeling approaches such as Point Spread Function (PSF) photometry, needed for precision photometry in high stellar density fields.  Alternatively, quantifying this sub-pixel flat field can enhance the fidelity of &lt;a href="https://nksaunders.github.io/files/Example.html"&gt;synthetic K2 photometry&lt;/a&gt;, which can inform the reliability of data-driven heuristic methods.  &lt;/p&gt;
+&lt;p&gt;Mapping of the IPRF from in-situ K2 observations has been &lt;a href="https://arxiv.org/abs/1309.0653"&gt;proposed&lt;/a&gt;.  The new lab-based measurements offer both a clear signal of the characteristic doming structure and its wavelength-dependence.&lt;/p&gt;
+&lt;p style="max-width: 800px;"&gt;
+&lt;img src="images/news/vorobiev_scan_and_profiles.png"&gt;
+&lt;br&gt;
+&lt;i&gt;
+Figure: Wavelength dependence of the Intra-Pixel Response Function from Vorobiev et al. 2018.
+&lt;/i&gt;
+&lt;/p&gt;</content></entry><entry><title>K2 GO Cycle 7 Phase-1 deadline postponed to August 16, 2018</title><link href="https://keplerscience.arc.nasa.gov/k2-go-cycle-7-phase-1-deadline-postponed-to-august-16-2018.html" rel="alternate"></link><published>2018-07-11T00:00:00-07:00</published><updated>2018-07-11T00:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-07-11:/k2-go-cycle-7-phase-1-deadline-postponed-to-august-16-2018.html</id><summary type="html">&lt;p&gt;In response to the &lt;a href="kepler-fuel-status-update-faq.html"&gt;drop in fuel pressure&lt;/a&gt;
 observed during Campaign 18, the K2 Guest Observer Cycle 7 call 
 (cf. &lt;a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7b8A2B07C0-F3D9-677F-0C28-F0E8406FC3CD%7d&amp;amp;path=open"&gt;ROSES D.7 on NSPIRES&lt;/a&gt;)
 has been amended to postpone the Phase-1 deadline from July 19 to August 16, 2018.
@@ -42,6 +108,11 @@ and the calibrated data products are expected to be released towards Q4 2018.&lt
 &lt;p&gt;NASA is continuing to prepare for Campaign 19.
 If the observed drop in fuel pressure is indicative of the spacecraft running out of fuel,
 then Campaign 19 may not be completed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Should I continue to use my telescope resources to augment Campaign 19 data?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Several science programs seek to complement Campaign 19 data
+using simultaneous observations carried out using other telescope facilities.
+The PI's of these programs can phone the Kepler GO office at +1-650-604-2784
+to request guidance as needed.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Should I still propose targets for Campaign 20?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Yes! NASA will continue to plan for future campaigns until the spacecraft can no longer operate nominally.
 We expect to move the Campaign 20 target proposal deadline to August 16th, 2018,
@@ -254,7 +325,7 @@ the solicitation presents a two-phase process:&lt;/p&gt;
 &lt;li&gt;
 &lt;p&gt;An optional &lt;strong&gt;Phase-1&lt;/strong&gt; proposal will enable &lt;strong&gt;targets&lt;/strong&gt; to be
 selected for Campaign 20. Phase-1 proposals, including target tables
-and a scientific rationale, are requested by &lt;strong&gt;July 19, 2018&lt;/strong&gt;
+and a scientific rationale, are requested by &lt;strong&gt;August 16, 2018&lt;/strong&gt;
 and must be submitted via email to keplergo@mail.arc.nasa.gov.
 The scientific rationale must not exceed 2 pages for small programs
 (less than 1000 targets) and 4 pages for large programs
