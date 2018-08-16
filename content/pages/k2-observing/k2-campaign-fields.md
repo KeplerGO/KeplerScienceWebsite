@@ -326,7 +326,7 @@ This page details the previous, current, and future K2 Campaign fields.
       <td><a href='#c17'>17</a><sup>†</sup></td>
       <td>2018&nbsp;Mar&nbsp;01</td>
       <td>2018&nbsp;May&nbsp;08</td>
-      <td>2018&nbsp;Aug&#8209;Nov</td>
+      <td>2018&nbsp;Aug&nbsp;16</td>
       <td>13:30:12</td>
       <td>-07:43:16</td>
       <td class="text-center">
