@@ -5,7 +5,7 @@ Author: Geert Barentsen
 The Kepler/K2 team has recently had two new members join us
 at the Ames Research Center in California: Ken Mighell and Nick Saunders.
 
-Dr Ken Mighell joined us from Kitt Peak National Observatory.
+Dr Ken Mighell joined us from the National Optical Astronomy Observatory.
 His background is in the analysis of CCD photometry for the
 study of stellar populations and Local Group galaxies.
 Ken will be helping the K2 team assess and assure the quality
