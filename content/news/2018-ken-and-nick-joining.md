@@ -1,5 +1,5 @@
 Title: Ken Mighell and Nick Saunders join the K2 team
-Date: 2018-08-24 12:00
+Date: 2018-08-28 09:00
 Author: Geert Barentsen
 
 The Kepler/K2 team has recently had two new members join us
