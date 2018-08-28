@@ -30,6 +30,12 @@ Save_as: helpdesk.html
         Lead K2 Pipeline Processing
     </div>
     <div class="col-sm-4 text-center">
+        <img src="images/faces/jessie.jpg" class="img-circle" style="padding-top:0.5em;"><br>
+        <b>Dr Jessie Dotson</b><br>
+        <b>jessie.dotson@nasa.gov</b><br>
+        Kepler/K2 Project Scientist
+    </div>
+    <div class="col-sm-4 text-center">
         <img src="images/faces/gully.jpg" class="img-circle" style="padding-top:0.5em;"><br>
         <b>Dr Michael Gully-Santiago</b><br>
         <b>michael.a.gully-santiago@nasa.gov</b><br>
