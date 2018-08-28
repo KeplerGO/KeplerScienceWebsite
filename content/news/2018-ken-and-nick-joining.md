@@ -8,7 +8,7 @@ at the Ames Research Center in California: Ken Mighell and Nick Saunders.
 Dr Ken Mighell joined us from the National Optical Astronomy Observatory.
 His background is in the analysis of CCD photometry for the
 study of stellar populations and Local Group galaxies.
-Ken will be helping the K2 team assess and assure the quality
+Ken is currently part of the K2 team responsible for assessing and assuring the quality
 of the [K2 Uniform Global Processing effort](k2-uniform-global-reprocessing-underway.html)
 which is currently underway.
 
