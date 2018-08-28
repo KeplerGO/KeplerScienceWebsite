@@ -13,7 +13,7 @@ of the [K2 Uniform Global Processing effort](k2-uniform-global-reprocessing-unde
 which is currently underway.
 
 Nick Saunders joined us from the University of Washington
-where he recently obtained his Bachelor degrees in both Physics and Literature.
+where he recently obtained his Bachelor degrees in both Astrophysics and Literature.
 During his studies, Nick worked with Prof Rory Barnes and Dr Rodrigo Luger on the
 removal of instrumental noise from Kepler/K2 photometry
 for the study of exoplanets.
