@@ -3,6 +3,8 @@ Save_as: scicon-2019/index.html
 
 [TOC]
 
+<img class="img-responsive" style="max-width:100%;" src="../images/scicon2019-banner.png">
+
 Welcome to the home page of the fifth Kepler & K2 Science Conference! The
 conference will be take place from March 4-8, 2019 in Glendale,
 California. The meeting will be a celebration of Kepler's 10 years in
