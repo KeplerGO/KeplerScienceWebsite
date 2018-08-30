@@ -59,13 +59,18 @@ href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon</a>).</b>
 </table>
 
 ### Registration
+
 There is no registration fee for this conference, however we ask that all attendees register to assist with planning.  Register 
 <a href='https://catcopy.ipac.caltech.edu/ksc2019/registration.php'>here by the Feb. 10, 2019 deadline.
 
+Upon registering, participants can volunteer to judge a poster competition for students and post docs during the conference.  Winners of the competition have the opportunity to give short talks about their results during the second half of the conference.  Judges will rank posters of conference participants who agreed to enter the competition.  
+
 ### Abstract Submission
+
 Abstracts for conference presentations should be submitted
-<a href='https://catcopy.ipac.caltech.edu/ksc2019/abstract.php'>here by the Nov. 15 deadline.  
-Abstracts for poster presentations can continue to be submitted until the late poster only deadline of Jan. 15, 2019.
+<a href='https://catcopy.ipac.caltech.edu/ksc2019/abstract.php'>here by the Nov. 15 deadline, although abstracts for posters can continue to be submitted until the late poster only deadline of Jan. 15, 2019..  
+
+Note that Wednesday afternoon (March 6) is set aside for breakout sessions to enable the community to discuss and work on Kepler/K2 related projects.  We envision these sessions will be more hands on, unconference sessions of broad interest to the community.  Examples of break out sessions include panel discussins, hack activities, work meetings of large collaborations, or tutorials to use data/software products related to Kepler/K2. To submit a proposal for a breakout session, please select this on the abstract submission form.
 
 ### Lodging Information
 
