@@ -58,6 +58,15 @@ href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon</a>).</b>
 	
 </table>
 
+### Registration
+There is no registration fee for this conference, however we ask that all attendees register to assist with planning.  Register 
+<a href='https://catcopy.ipac.caltech.edu/ksc2019/registration.php'>here by the Feb. 10, 2019 deadline.
+
+### Abstract Submission
+Abstracts for conference presentations should be submitted
+<a href='https://catcopy.ipac.caltech.edu/ksc2019/abstract.php'>here by the Nov. 15 deadline.  
+Abstracts for poster presentations can continue to be submitted until the late poster only deadline of Jan. 15, 2019.
+
 ### Lodging Information
 
 The conference hotel is the Hilton Los Angeles North/Glendale & Executive Meeting Ctr located at 100 West Glenoaks Blvd, Glendale, California, 91202. A block of rooms has been reserved for March 2, 2019 - March 9, 2019. The special room rate will be available until February 10, 2019 or until the group block is sold-out, whichever comes first.
