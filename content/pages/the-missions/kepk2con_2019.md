@@ -28,7 +28,7 @@ href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon</a>).</b>
 
   <tr>
     <td style="width: 9em;">November 15, 2018</td>
-    <td style="width: 20em;"> regular deadline to submit abstracts for talks, breakout sessions, and posters </td>
+    <td style="width: 20em;"> regular deadline to submit abstracts for talks, breakout sessions, and poster; deadline to apply for travel support </td>
 	</tr>
 
   <tr>
@@ -36,6 +36,11 @@ href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon</a>).</b>
     <td style="width: 20em;"> conference schedule published </td>
 	</tr>
 
+  <tr>
+    <td style="width: 9em;">January 3, 2019</td>
+    <td style="width: 20em;"> conference forecast deadline </td>
+	</tr>
+	
   <tr>
     <td style="width: 9em;">January 15, 2019</td>
     <td style="width: 20em;"> late deadline to submit abstracts for posters </td>
@@ -65,7 +70,8 @@ connect you with others interested as well.</a>
 
 ### Travel Support
 
-We anticipate supporting travel for local costs (hotel and per diem) for a limited number of students and postdocs. More details coming soon!
+We have limited funding to support local costs (hotel and per diem) for a limited number of students and postdocs. Please complete this 
+<a href='https://docs.google.com/forms/d/15qk9f9hovgSphVGIHUHqpu_NzJ-moA6WCahxGFsDGfk/edit?ts=5b8589cb'>short questionnaire</a> by the Nov. 15 deadline.  Applicants will receive a decision by Dec. 20.
 
 ### Code of Conduct
 
@@ -76,15 +82,24 @@ violation, please contact Jessie Dotson at 650-701-7040.
 
 ### Scientific Organizing Committee
 
-Coming soon!
+* Knicole Colón, NASA Goddard Space Flight Center (co-Chair)
+* JJ Hermes, University of North Carolina at Chapel Hill (co-Chair)
+* Geert Barentsen, NASA Ames Research Center
+* David Ciardi, Caltech/IPAC-NASA Exoplanet Science Institute
+* Jessie Dotson, NASA Ames Research Center
+* Dawn Gelino, Caltech/IPAC-NASA Exoplanet Science Institute
+* Matt Holman, Harvard University
+* Andrew Howard, Caltech
+* Steve Howell, NASA Ames Research Center
+* Armin Rest, Space Telescope Science Institute
 
 ### Local Organizing Committee
 
 * Geert Barentsen, NASA Ames Research Center
 * Knicole Colón, NASA Goddard Space Flight Center
 * Jessie Dotson, NASA Ames Research Center
-* Dawn Gelino, NASA Exoplanet Science Institute
-* Ellen O'Leary, NASA Exoplanet Science Institute
+* Dawn Gelino, Caltech/IPAC-NASA Exoplanet Science Institute
+* Ellen O'Leary, Caltech/IPAC-NASA Exoplanet Science Institute
 
 ### Contact
 
