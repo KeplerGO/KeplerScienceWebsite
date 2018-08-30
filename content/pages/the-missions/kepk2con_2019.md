@@ -80,7 +80,7 @@ connect you with others interested as well.</a>
 ### Travel Support
 
 We have limited funding to support local costs (hotel and per diem) for a limited number of students and postdocs. Please complete this 
-<a href='https://docs.google.com/forms/d/15qk9f9hovgSphVGIHUHqpu_NzJ-moA6WCahxGFsDGfk/edit?ts=5b8589cb'>short questionnaire</a> by the Nov. 15 deadline.  Applicants will receive a decision by Dec. 20.
+<a href='https://docs.google.com/forms/d/15qk9f9hovgSphVGIHUHqpu_NzJ-moA6WCahxGFsDGfk/edit?ts=5b8589cb'>application</a> by the Nov. 15 deadline.  Applicants will receive a decision by Dec. 20.
 
 ### Code of Conduct
 
