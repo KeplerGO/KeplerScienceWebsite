@@ -38,7 +38,7 @@ href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon</a>).</b>
 
   <tr>
     <td style="width: 9em;">January 3, 2019</td>
-    <td style="width: 20em;"> conference forecast deadline </td>
+    <td style="width: 20em;"> conference forecast deadline (NASA participants only)</td>
 	</tr>
 	
   <tr>
@@ -68,7 +68,7 @@ Upon registering, participants can volunteer to judge a poster competition for s
 ### Abstract Submission
 
 Abstracts for conference presentations should be submitted
-<a href='https://catcopy.ipac.caltech.edu/ksc2019/abstract.php'>here by the Nov. 15 deadline, although abstracts for posters can continue to be submitted until the late poster only deadline of Jan. 15, 2019..  
+<a href='https://catcopy.ipac.caltech.edu/ksc2019/abstract.php'>here by the Nov. 15 deadline</a>, although abstracts for posters can continue to be submitted until the late poster only deadline of Jan. 15, 2019..  
 
 Note that Wednesday afternoon (March 6) is set aside for breakout sessions to enable the community to discuss and work on Kepler/K2 related projects.  We envision these sessions will be more hands on, unconference sessions of broad interest to the community.  Examples of break out sessions include panel discussins, hack activities, work meetings of large collaborations, or tutorials to use data/software products related to Kepler/K2. To submit a proposal for a breakout session, please select this on the abstract submission form.
 
@@ -94,6 +94,10 @@ We expect all attendees to agree with and abide by our <a
 href='../code.html'>code of conduct</a>.  Upon registration, attendees will be
 asked to click a box to confirm that they agree with this code.  If you have concerns, suggestions, or would like to report a
 violation, please contact Jessie Dotson at 650-701-7040.
+
+### Participants List
+
+<a href='participants.html'>A list of registered participants can be found here</a>.
 
 ### Scientific Organizing Committee
 
