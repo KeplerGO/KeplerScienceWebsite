@@ -72,16 +72,16 @@ Abstracts for conference presentations should be submitted
 
 Note that Wednesday afternoon (March 6) is set aside for breakout sessions to enable the community to discuss and work on Kepler/K2 related projects.  We envision these sessions will be more hands on, unconference sessions of broad interest to the community.  Examples of break out sessions include panel discussins, hack activities, work meetings of large collaborations, or tutorials to use data/software products related to Kepler/K2. To submit a proposal for a breakout session, please select this on the abstract submission form.
 
-### Lodging and Venue Information
+### Lodging, Parking, and Venue Information
 
-The conference location and hotel is the Hilton Los Angeles North/Glendale & Executive Meeting Ctr located at 100 West Glenoaks Blvd, Glendale, California, 91202. A block of rooms has been reserved for March 2, 2019 - March 9, 2019. The special room rate will be available until February 10, 2019 or until the group block is sold-out, whichever comes first.
+The conference location and hotel is the Hilton Los Angeles North/Glendale & Executive Meeting Ctr located at 100 West Glenoaks Blvd, Glendale, California, 91202. A block of rooms has been reserved for March 2, 2019 - March 9, 2019. The special sleeping room rate includes free wifi and will be available until February 10, 2019 or until the group block is sold-out, whichever comes first.
 <a href='http://www.hilton.com/en/hi/groups/personalized/B/BURHGHF-CALTEC-20190302/index.jhtml'>Rooms in the block can be reserved by following this link</a>.
 
 <a
 href='#contact'>If you are interested in shared housing, please contact us so we can
 connect you with others interested as well.</a>
 
-Self parking is free for this conference.  The rate for valet parking is $19/day.
+Self parking is free for this conference and for overnight guests, includes in/out privileges.  The rate for valet parking is $19/day.  Attendees not staying at the hotel will need to inform the attendant that they are attending the Kepler meeting to get these parking rates.
 
 ### Travel Support
 
