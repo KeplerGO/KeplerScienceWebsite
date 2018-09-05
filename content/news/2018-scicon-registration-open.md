@@ -1,5 +1,5 @@
 Title: Abstracts for Kepler & K2 Science Conference V are due by November 15, 2018
-Date: 2018-09-05 10:00
+Date: 2018-09-05 8:00
 Author: Geert Barentsen
 
 The <a href='scicon-2019/index.html'>Kepler & K2 Science Conference V</a>
@@ -25,6 +25,11 @@ In addition to the abstract submission form,
 a [separate registration form](https://catcopy.ipac.caltech.edu/ksc2019/registration.php) has been opened.
 There is no registration fee for this conference,
 however we ask that all attendees register by February 10, 2019.
+
+We have limited funding to support local costs (hotel and per diem) for a limited number of
+participants who would otherwise be unable to attend the meeting.
+Please complete <a href='https://docs.google.com/forms/d/15qk9f9hovgSphVGIHUHqpu_NzJ-moA6WCahxGFsDGfk/edit?ts=5b8589cb'>this application</a> by the Nov. 15 deadline.
+Applicants will receive a decision by Dec. 20.
 
 Additional details, including information about travel and lodging,
 are available on the [conference home page](/scicon-2019/).
