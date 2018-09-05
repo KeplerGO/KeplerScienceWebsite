@@ -442,7 +442,7 @@ Campaign 15
 
     <p>
         The Campaign 15 target list includes <b>23,279 standard long cadence</b>
-        and <b>119 standard short cadence</b> targets
+        and <b>118 standard short cadence</b> targets
         located towards the constellations of Scorpius.
     </p>
 
