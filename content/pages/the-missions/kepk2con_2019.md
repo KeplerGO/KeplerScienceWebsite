@@ -60,40 +60,47 @@ href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon</a>).</b>
 
 ### Registration
 
-There is no registration fee for this conference, however we ask that all attendees register to assist with planning.  Register 
-<a href='https://catcopy.ipac.caltech.edu/ksc2019/registration.php'>here by the Feb. 10, 2019 deadline.
+There is no registration fee for this conference,
+however we ask that all attendees register to assist with planning.
+Register  <a href='https://catcopy.ipac.caltech.edu/ksc2019/registration.php'>here by the Feb. 10, 2019 deadline</a>.
 
-Upon registering, participants can volunteer to judge a poster competition for students and post docs during the conference.  Winners of the competition have the opportunity to give short talks about their results during the second half of the conference.  Judges will rank posters of conference participants who agreed to enter the competition.  
+Upon registering, participants can volunteer to judge a poster competition for students and post docs during the conference.
+Winners of the competition have the opportunity to give short talks about their results during the second half of the conference.
+Judges will rank posters of conference participants who agreed to enter the competition.  
 
 ### Abstract Submission
 
 Abstracts for conference presentations should be submitted
 <a href='https://catcopy.ipac.caltech.edu/ksc2019/abstract.php'>here by the Nov. 15 deadline</a>, although abstracts for posters can continue to be submitted until the late poster only deadline of Jan. 15, 2019..  
 
-Note that Wednesday afternoon (March 6) is set aside for breakout sessions to enable the community to discuss and work on Kepler/K2 related projects.  We envision these sessions will be more hands on, unconference sessions of broad interest to the community.  Examples of break out sessions include panel discussins, hack activities, work meetings of large collaborations, or tutorials to use data/software products related to Kepler/K2. To submit a proposal for a breakout session, please select this on the abstract submission form.
+Note that Wednesday afternoon (March 6) is set aside for breakout sessions to enable the community to discuss and work on Kepler/K2 related projects.
+We envision these sessions will be more hands on, unconference sessions of broad interest to the community.
+Examples of break out sessions include panel discussions, hack activities, work meetings of large collaborations, or tutorials to use data/software products related to Kepler/K2.
+To submit a proposal for a breakout session, please select this on the abstract submission form.
 
 ### Lodging, Parking, and Venue Information
 
 The conference location and hotel is the Hilton Los Angeles North/Glendale & Executive Meeting Ctr located at 100 West Glenoaks Blvd, Glendale, California, 91202. A block of rooms has been reserved for March 2, 2019 - March 9, 2019. The special sleeping room rate includes free wifi and will be available until February 10, 2019 or until the group block is sold-out, whichever comes first.
 <a href='http://www.hilton.com/en/hi/groups/personalized/B/BURHGHF-CALTEC-20190302/index.jhtml'>Rooms in the block can be reserved by following this link</a>.
 
-<a
-href='#contact'>If you are interested in shared housing, please contact us so we can
+<a href='#contact'>If you are interested in shared housing, please contact us so we can
 connect you with others interested as well.</a>
 
 Self parking is free for this conference and for overnight guests, includes in/out privileges.  The rate for valet parking is $19/day.  Attendees not staying at the hotel will need to inform the attendant that they are attending the Kepler meeting to get these parking rates.
 
 ### Travel Support
 
-We have limited funding to support local costs (hotel and per diem) for a limited number of students and postdocs. Please complete this 
-<a href='https://docs.google.com/forms/d/15qk9f9hovgSphVGIHUHqpu_NzJ-moA6WCahxGFsDGfk/edit?ts=5b8589cb'>application</a> by the Nov. 15 deadline.  Applicants will receive a decision by Dec. 20.
+We have limited funding to support local costs (hotel and per diem) for a limited number of
+participants who would otherwise be unable to attend the meeting.
+Please complete <a href='https://docs.google.com/forms/d/15qk9f9hovgSphVGIHUHqpu_NzJ-moA6WCahxGFsDGfk/edit?ts=5b8589cb'>this application</a> by the Nov. 15 deadline.
+Applicants will receive a decision by Dec. 20.
 
 ### Code of Conduct
 
 We expect all attendees to agree with and abide by our <a
-href='../code.html'>code of conduct</a>.  Upon registration, attendees will be
-asked to click a box to confirm that they agree with this code.  If you have concerns, suggestions, or would like to report a
-violation, please contact Jessie Dotson at 650-701-7040.
+href='../code.html'>code of conduct</a>.
+Upon registration, attendees will be asked to click a box to confirm that they agree with this code.
+If you have concerns, suggestions, or would like to report a violation, please contact Jessie Dotson at 650-701-7040.
 
 ### Participants List
 
@@ -103,6 +110,7 @@ violation, please contact Jessie Dotson at 650-701-7040.
 
 * Knicole Colón, NASA Goddard Space Flight Center (co-Chair)
 * JJ Hermes, University of North Carolina at Chapel Hill (co-Chair)
+* Suzanne Aigrain, University of Oxford
 * Geert Barentsen, NASA Ames Research Center
 * David Ciardi, Caltech/IPAC-NASA Exoplanet Science Institute
 * Jessie Dotson, NASA Ames Research Center
@@ -110,7 +118,10 @@ violation, please contact Jessie Dotson at 650-701-7040.
 * Matt Holman, Harvard University
 * Andrew Howard, Caltech
 * Steve Howell, NASA Ames Research Center
+* Katrien Kolenberg, KU Leuven
+* Savita Mathur, Instituto de Astrofísica de Canarias
 * Armin Rest, Space Telescope Science Institute
+
 
 ### Local Organizing Committee
 
