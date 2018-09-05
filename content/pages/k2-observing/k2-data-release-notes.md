@@ -12,6 +12,28 @@ including information on field pointing, target selection, observation times and
 
 <h2>At a glance</h2>
 
+<div class="col-lg-5">
+<p>
+Campaign 17 was flown in the forward velocity vector direction in order to enable simultaneous K2 and ground-based observations of numerous targets (supernovae, variable stars, exoplanets, etc.) in the C17 field of view.
+</p>
+
+<b><i>Pointing</i></b>
+<ul>
+<li> RA:  202.5496152 degrees</li>
+<li> Dec: -7.7210759 degrees</li>
+<li> Roll:  -20.7870925 degrees</li>
+</ul>
+
+LOOK INTO TARGET NUMBER DISCREPANCY!
+
+<b><i>Targets</i></b>
+<ul>
+<li>  35,643 long cadence (LC) targets, including 9,245 galaxy targets.</li>
+<li>  131 short cadence (SC) targets.</li>
+<li>  20 moving objects were tiled with LC custom strip apertures. 7 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. See the <a href="images/release-notes/c16/kplr2018125112300_c16_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
+</ul>
+
+
 <h2>Features and Events</h2>
 
 <h2>Data Quality and Processing Notes</h2>
@@ -227,7 +249,12 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 <img src="images/release-notes/c16/c16_dwarf_CDPP_by_mod_out.png" class="img-responsive" alt="CDPP per channel for 12th and 14th magnitude dwarfs">
 </a>
 </div>
-</div>
+</div><b><i>Targets</i></b>
+<ul>
+<li>  35,643 long cadence (LC) targets, including 9,245 galaxy targets.</li>
+<li>  131 short cadence (SC) targets.</li>
+<li>  20 moving objects were tiled with LC custom strip apertures. 7 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. See the <a href="images/release-notes/c16/kplr2018125112300_c16_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
+</ul>
 
 <br>
 
