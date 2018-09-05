@@ -1,5 +1,5 @@
 Title: Abstracts for Kepler & K2 Science Conference V are due by November 15, 2018
-Date: 2018-09-04 09:00
+Date: 2018-09-05 10:00
 Author: Geert Barentsen
 
 The <a href='scicon-2019/index.html'>Kepler & K2 Science Conference V</a>
@@ -27,4 +27,4 @@ There is no registration fee for this conference,
 however we ask that all attendees register by February 10, 2019.
 
 Additional details, including information about travel and lodging,
-is available on the [conference home page](/scicon-2019/).
+are available on the [conference home page](/scicon-2019/).

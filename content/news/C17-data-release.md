@@ -22,7 +22,6 @@ As a reminder: users are strongly encouraged to contact, cite, and collaborate
 with the teams who proposed the observations, as listed on the
 [Approved Progams & Targets page](k2-approved-programs.html#campaign-17).
 
-Please keep an eye on our website for an announcement of the release
-and the associated [data release notes](k2-data-release-notes.html).
+Please keep an eye on our website for the associated [data release notes](k2-data-release-notes.html).
 
 <a href="images/k2/k2-c17-field.png"><img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c17-field.png" alt="K2 C17 Field"></a>
