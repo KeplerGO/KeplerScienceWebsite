@@ -9,6 +9,18 @@ For more information about the Kepler pipeline see the Kepler manuals: <a href="
 
 Information about each specific campaign can be found in the links associated with each data release.
 
+### Data Release 26
+
+* September 2018
+* SOC 9.3
+* Campaigns: [C3](k2-data-release-notes.html#k2-campaign-13)
+
+This is the delivery of the expected-to-be final processing of C3 as part of the <a href="k2-uniform-global-reprocessing-underway.html">global uniform reprocessing effort</a>.
+
+No features of the pipeline or data files have changed from Data Release 25 (but there have been numerous changes the last release of C3 data under Data Release 10). For further information about the content of this delivery see the previous Release Notes below and the <a href="k2-uniform-global-reprocessing-underway.html">news post on global reprocessing</a>.
+
+<hr>
+
 ### Data Release 24
 
 * July 2018

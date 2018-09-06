@@ -3019,6 +3019,8 @@ The PDC quality flags were populated for some of the SC targets even though ther
 
 # K2 Campaign 3
 
+These release notes are for the C3 data currently available at MAST in the nominal K2 data locations, which have been processed with the final version of the K2 pipeline as part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a>. The original release notes corresponding to the previous version(s) of C3 data can be found in the <a href="archived-k2-data-release-notes.html#k2-campaign-3">archived data release notes page</a>.
+
 <h2>At a glance</h2>
 
 <div class="col-lg-5">
@@ -3037,6 +3039,7 @@ The PDC quality flags were populated for some of the SC targets even though ther
         <li>Several custom targets (see below)</li>
     </ul>
 
+NEED TO UPDATE FFI TO NEW FILES XXXXXX
     <b><i>Full Frame Images (FFI)</i></b>
     <ul>
         <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2014331202630-c03_ffi-cal.fits">ktwo2014331202630-c03_ffi-cal.fits</a></li>
@@ -3059,7 +3062,7 @@ The PDC quality flags were populated for some of the SC targets even though ther
 
     <b><i>Most Recent Processing Version</i></b>
     <ul>
-    <li> <a href="k2-pipeline-release-notes.html#data-release-10">Data Release 10</a> </li>
+    <li> <a href="k2-pipeline-release-notes.html#data-release-26">Data Release 26</a> </li>
     </ul>
 
 </div>
@@ -3070,8 +3073,8 @@ The PDC quality flags were populated for some of the SC targets even though ther
         <div class="caption">
             <i>Figure: Schematic of Kepler's C3 field-of-view with selected targets shown with purple dots. Note, the use of an incorrect rotation angle in software used by Guest Observers to select targets has resulted in obvious variations in target density across the focal plane.</i>
         </div>
-        <a href="images/campaign_selected/C3_selected.png">
-            <img src="images/campaign_selected/C3_selected.png" class="img-responsive" alt="C3 field-of-view with selected targets">
+        <a href="images/k2/k2-c03-field.png">
+            <img src="images/k2/k2-c03-field.png" class="img-responsive" alt="C3 field-of-view with selected targets">
         </a>
     </div>
 
@@ -3090,7 +3093,15 @@ The PDC quality flags were populated for some of the SC targets even though ther
 
 ***Neptune***
 
-Neptune moved across the field of view during C3 and K2 observed it in both long and short cadence. Short cadence data were obtained approximately 20 days either side of the stationary point of Neptune. See this time lapse <a href="https://www.youtube.com/watch?v=Tw-q3uM_5_0">movie</a> created by Jason Rowe that clearly shows Neptune and its moons, Titan and Nereid. The custom aperture numbers associated with Neptune are 200004468--200004923. These observations were taken as part of Guest Observer Programs GO3060 (PI:Rowe) and GO3057 (PI:Gaulme).
+Neptune moved across the field of view during C3 and K2 observed it in both long and short cadence. Short cadence data were obtained approximately 20 days either side of the stationary point of Neptune. The movie below shows Neptune and its moons, Titan and Nereid, as they move across the detector over approximately 50 days. The custom aperture numbers associated with Neptune are 200004468--200004923. These observations were taken as part of Guest Observer Programs GO3060 (PI:Rowe) and GO3057 (PI:Gaulme).
+
+<div class="thumbnail">
+<video width="100%" id="pelican-installation" class="video-js vjs-default-skin" controls loop preload="auto" data-setup="{}">
+<source src="images/release-notes/c3/k2-neptune-c3.mp4" type='video/mp4' alt="Movie of Neptune in C3">
+</video>
+</div>
+
+
 
 <br>
 
@@ -3109,20 +3120,11 @@ Campaign 3 had a nominal duration of 80 days, but an actual duration of only 69.
 
 <h2>Data Quality and Processing Notes</h2>
 
-***Highlights of Pipeline Improvements***
-
-Campaign 3 (Data Release 5) data were the first K2 data processed with the SOC 9.3 pipeline. With this data release comes the higher-level data products. A detailed list of the pipeline developments that accompany this data release is listed on the [pipeline release page](k2-pipeline-release-notes.html#data-release-5). A few highlights are listed here:
-
-* Quality flags now indicate which cadences were obtained during thruster firings.
-* Background pixels were observerd and used to model the background level across the field of view. The calibrated pixels available in the target pixel files now have this background level removed.
-* Simple Aperture Photometry (SAP_FLUX) and cotrended (PDCSAP_FLUX) light curves are available for long cadence data.
-* The FFIs now contain a World Coordinate Solution.
-
-<br>
-
 ***Light Curve Quality***
 
-The dominant systematic present in K2 simple aperture photometry light curves is a sawtooth shape that is due to the roll of the spacecraft approximately every 6 hours. The PDC module of the Kepler Pipeline uses Principle Component Analysis to remove this signal in addition to other systematics. Below, we examine observed trends and noise levels in the PDC light curves for C3 (as measured using Data Release 5).
+The dominant systematic present in K2 simple aperture photometry light curves is a sawtooth shape that is due to the roll of the spacecraft approximately every 6 hours. The PDC module of the Kepler Pipeline uses Principle Component Analysis to remove this signal in addition to other systematics. Below, we examine observed trends and noise levels in the PDC light curves for C3 (as measured using Data Release 26).
+
+NEED TO REPLACE FIGURES BELOW WITH VERSIONS FROM REPROC DAWG
 
 <div class="thumbnail" style="width: 68%;">
     <div class="caption">
