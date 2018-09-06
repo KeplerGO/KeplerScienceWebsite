@@ -26,14 +26,10 @@ Campaign 17 was flown in the forward velocity vector direction in order to enabl
 
 <b><i>Targets</i></b>
 <ul>
-<li>  46,302 long cadence (LC) targets, including X,XXX galaxy targets.</li>
+<li>  46,302 long cadence (LC) targets, including 14,314 galaxy targets.</li>
 <li>  179 short cadence (SC) targets.</li>
-<li>  24 moving objects were tiled with LC custom strip apertures. 6 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. See the <a href="images/release-notes/c17/kplrxxxxxxxxxxxxx_c17_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
+<li>  24 moving objects were tiled with LC custom strip apertures. 6 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. See the <a href="images/release-notes/c17/kplr2018190145900_c17_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
 </ul>
-
-<br>
-TO-DO: CREATE CSV FILE FOR C17 CAF. JEFFC DOES NOT UNDERSTAND HOW/WHERE THIS GETS GENERATED? SOMEBODY'S CODE FROM THE DELIVERED TXT FILE?
-<br>
 
 <b><i>Full Frame Images (FFI)</i></b>
 <ul>
@@ -88,7 +84,7 @@ were selected.</i>
 
 ***Galaxies***
 
-There are X,XXX galaxies targeted in the C17 field of view; all but eight used standard aperture masks. The eight large galaxies were covered with large circular custom masks. The very large number of galaxies observed was due in part to the K2 Supernova Experiment (see below).
+There are 14,314 galaxies targeted in the C17 field of view; all but eight used standard aperture masks. The eight large galaxies were covered with large circular custom masks. The very large number of galaxies observed was due in part to the K2 Supernova Experiment (see below).
 
 <br>
 
@@ -100,11 +96,11 @@ The forward velocity vector orientation during C17 allowed for simultaneous grou
 
 ***Spica***
 
-The first magnitude star Spica fell on channel 48 for the entirety of campaign 17. Spica's optical ghost (due to reflection off the telescope's Schmidt corrector plate) is seen on the opposite side of the focal plane on channel 40. As can be seen in the FFI images below, the light from both Spica and its ghost cover a large portion of channels 48 and 40. Users with targets near Spica or its ghost are encouraged to take this into account when interpreting the observations or if performing their own data reduction.
+The first magnitude star Spica fell on channel 48 for the entirety of campaign 17. Spica's optical ghost (due to reflection off the telescope's Schmidt corrector plate) is seen on the opposite side of the focal plane on channel 40. (See <a href="/images/kepler_focal_plane_layout_channels_color.png">this schematic of the Kepler detector layout</a> for the positions of channels 40 and 48.) As can be seen in the FFI images below, the light from both Spica and its ghost cover a large portion of channels 48 and 40. As well Spica bleeds along its central columns, resulting in poor CCD calibration along those columns. Users with targets near Spica or its ghost are encouraged to take this information into account when interpreting observations of those targets, or if performing their own data reduction.
 
 <div class="thumbnail" style="width: 49%;display: inline-block;">
 <div class="caption">
-<i>Figure C17-Spica: Spica as seen in an FFI on channel 48.</i>
+<i>Figure C17-Spica: Spica as seen in an FFI on channel 48. The central columns are saturated along the entire detector, resulting in poor CCD calibration for those columns, thus causing them to appear dark.</i>
 <a href="images/release-notes/c17/c17_spica.png">
 <img src="images/release-notes/c17/c17_spica.png" class="img-responsive" alt="Spica as seen in an FFI on channel 48.">
 </a>
@@ -113,7 +109,7 @@ The first magnitude star Spica fell on channel 48 for the entirety of campaign 1
 
 <div class="thumbnail" style="width: 49%;display: inline-block;">
 <div class="caption">
-<i>Figure C17-Spica-Ghost: the ghost image of Spica as seen in an FFI on channel 40.</i>
+<i>Figure C17-Spica-Ghost: the ghost image of Spica as seen in an FFI on channel 40 due to reflection off the Schmidt corrector plate. The ghost is equidistant and opposite the field of view center from Spica.</i>
 <a href="images/release-notes/c17/c17_spica_ghost.png">
 <img src="images/release-notes/c17/c17_spica_ghost.png" class="img-responsive" alt="the ghost image of Spica as seen in an FFI on channel 40.">
 </a>
@@ -155,10 +151,41 @@ users look to QUALITY flag bit #3 as an accurate indicator of poor spacecraft po
 
 <br>
 
-
-
-
 <h2>Data Quality and Processing Notes</h2>
+
+***Light Curve Quality***
+
+As in previous campaigns, the 6-hour spacecraft roll cycle continues
+to dominate the systematic errors in C17 simple aperture photometry light curves.
+The pipeline CDPP 12th magnitude noise benchmark for C17 is
+the lowest seen since C6 and the third-lowest overall (just higher than C6 and C5) at the time of this processing.
+The improved precision compared to most other campaigns is likely due to a combination of lower star density,
+stable pointing (compared to most other campaigns), and the updated pipeline version (in-particular the use of the coarse-point flags; see <a href="k2-uniform-global-reprocessing-underway.html">the global reprocessing effort announcement</a> for details).
+
+The magnitude dependence of CDPP and its distribution over the focal plane are shown below. Other CDPP benchmarks can be found in the
+<a href="images/release-notes/c17/c17_bin1.00_sc1.00_CDPP_Summary_18051614.txt">
+table giving 6.5-hr CDPP as a function of magnitude.</a>
+<br>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C17-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>
+</div>
+<a href="images/release-notes/c17/c17_logg_CDPP_vs_model.png">
+<img src="images/release-notes/c17/c17_logg_CDPP_vs_model.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
+</a>
+</div>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C17-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
+<a href="images/release-notes/c17/c17_dwarf_CDPP_by_mod_out.png">
+<img src="images/release-notes/c17/c17_dwarf_CDPP_by_mod_out.png" class="img-responsive" alt="CDPP per channel for 12th and 14th magnitude dwarfs">
+</a>
+</div>
+
+
+<hr>
+
+<br>
 
 
 
@@ -371,12 +398,7 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 <img src="images/release-notes/c16/c16_dwarf_CDPP_by_mod_out.png" class="img-responsive" alt="CDPP per channel for 12th and 14th magnitude dwarfs">
 </a>
 </div>
-</div><b><i>Targets</i></b>
-<ul>
-<li>  35,643 long cadence (LC) targets, including 9,245 galaxy targets.</li>
-<li>  131 short cadence (SC) targets.</li>
-<li>  20 moving objects were tiled with LC custom strip apertures. 7 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. See the <a href="images/release-notes/c16/kplr2018125112300_c16_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
-</ul>
+</div>
 
 <br>
 
