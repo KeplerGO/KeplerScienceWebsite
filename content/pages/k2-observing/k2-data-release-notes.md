@@ -24,17 +24,139 @@ Campaign 17 was flown in the forward velocity vector direction in order to enabl
 <li> Roll:  -20.7870925 degrees</li>
 </ul>
 
-LOOK INTO TARGET NUMBER DISCREPANCY!
-
 <b><i>Targets</i></b>
 <ul>
-<li>  35,643 long cadence (LC) targets, including 9,245 galaxy targets.</li>
-<li>  131 short cadence (SC) targets.</li>
-<li>  20 moving objects were tiled with LC custom strip apertures. 7 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. See the <a href="images/release-notes/c16/kplr2018125112300_c16_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
+<li>  46,302 long cadence (LC) targets, including X,XXX galaxy targets.</li>
+<li>  179 short cadence (SC) targets.</li>
+<li>  24 moving objects were tiled with LC custom strip apertures. 6 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. See the <a href="images/release-notes/c17/kplrxxxxxxxxxxxxx_c17_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
 </ul>
 
+<br>
+TO-DO: CREATE CSV FILE FOR C17 CAF. JEFFC DOES NOT UNDERSTAND HOW/WHERE THIS GETS GENERATED? SOMEBODY'S CODE FROM THE DELIVERED TXT FILE?
+<br>
+
+<b><i>Full Frame Images (FFI)</i></b>
+<ul>
+<li><a href="https://archive.stsci.edu/missions/k2/ffi/ktwo2018073065336-c17_ffi-cal.fits">ktwo2018073065336-c17_ffi-cal.fits</a>
+<li><a href="https://archive.stsci.edu/missions/k2/ffi/ktwo2018112122825-c17_ffi-cal.fits">ktwo2018112122825-c17_ffi-cal.fits</a>
+</ul>
+
+<b><i>First cadence</i></b>
+<ul>
+<li>Start Time: 2018-03-02 00:33:12 UTC</li>
+<li>Long Cadence Number: 158445</li>
+<li>Short Cadence Number: 4741810</li>
+</ul>
+
+<b><i>Last cadence</i></b>
+<ul>
+<li>End Time: 2018-05-08 02:33:28 UTC</li>
+<li>Long Cadence Number: 161727</li>
+<li>Short Cadence Number: 4840299</li>
+</ul>
+
+<b><i>Most Recent Processing Version</i></b>
+<ul>
+<li> <a href="k2-pipeline-release-notes.html#data-release-25">Data Release 25</a> </li>
+</ul>
+
+</div>
+
+<div class="col-lg-7">
+
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C17-FOV: Schematic of Kepler's C17 field-of-view with high profile objects. </i>
+</div>
+<a href="images/k2/k2-c17-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c17-field.png" id="c17fov" alt="C17 field of view with highlights showing numerous supernovae detected during campaign 17 and the first magnitude star Spica.">
+</a>
+</div>
+
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C17-Mag: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-17">GO Programs</a>
+were selected.</i>
+</div>
+<a href="images/release-notes/c17/c17_lc_magnitude_distribution.png">
+<img src="images/release-notes/c17/c17_lc_magnitude_distribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed C17 LC targets.">
+</a>
+</div>
+
+</div>
 
 <h2>Features and Events</h2>
+
+***Galaxies***
+
+There are X,XXX galaxies targeted in the C17 field of view; all but eight used standard aperture masks. The eight large galaxies were covered with large circular custom masks. The very large number of galaxies observed was due in part to the K2 Supernova Experiment (see below).
+
+<br>
+
+***Supernovae***
+
+The forward velocity vector orientation during C17 allowed for simultaneous ground-based observations of K2 targets. As shown in Figure C17-FOV, numerous supernovae were observed by Kepler and ground-based observatories during C17. More details of the supernova campaign can be found at the <a href="supernova-experiment/index.html">Supernova Experiment site</a>.
+
+<br>
+
+***Spica***
+
+The first magnitude star Spica fell on channel 48 for the entirety of campaign 17. Spica's optical ghost (due to reflection off the telescope's Schmidt corrector plate) is seen on the opposite side of the focal plane on channel 40. As can be seen in the FFI images below, the light from both Spica and its ghost cover a large portion of channels 48 and 40. Users with targets near Spica or its ghost are encouraged to take this into account when interpreting the observations or if performing their own data reduction.
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C17-Spica: Spica as seen in an FFI on channel 48.</i>
+<a href="images/release-notes/c17/c17_spica.png">
+<img src="images/release-notes/c17/c17_spica.png" class="img-responsive" alt="Spica as seen in an FFI on channel 48.">
+</a>
+</div>
+</div>
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C17-Spica-Ghost: the ghost image of Spica as seen in an FFI on channel 40.</i>
+<a href="images/release-notes/c17/c17_spica_ghost.png">
+<img src="images/release-notes/c17/c17_spica_ghost.png" class="img-responsive" alt="the ghost image of Spica as seen in an FFI on channel 40.">
+</a>
+</div>
+</div>
+
+<br>
+
+***Pointing and Roll Performance***
+
+The C17 pointing and roll behavior are well within the limits of that seen
+in other K2 campaigns, with no degradation seen due to potentially low fuel levels.
+The pipeline-calculated maximum distance between the
+derived and nominal positions for any target (the "maximum attitude residual", or MAR)
+for C17 is less than 2.0 pixels, well under the 3-pixel limit accommodated by the aperture halos.
+
+As mentioned in the C14 release notes, a change in the on-board fine point fault logging threshold
+results in additional cadences being flagged as "Spacecraft is not in fine point"
+(QUALITY flag bit #16, decimal=32768). As a reminder, the project recommends that starting with C15,
+users look to QUALITY flag bit #3 as an accurate indicator of poor spacecraft pointing.
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C17-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C17.</i>
+<a href="images/release-notes/c17/c17_pad_pdq_attitude_roll.png">
+<img src="images/release-notes/c17/c17_pad_pdq_attitude_roll.png" class="img-responsive" alt="Pipeline measured roll error for C17.">
+</a>
+</div>
+</div>
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C17-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C17.</i>
+<a href="images/release-notes/c17/c17_pad_pdq_attitude_mar.png">
+<img src="images/release-notes/c17/c17_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the C17 attitude measured with PAD and PDQ.">
+</a>
+</div>
+</div>
+
+<br>
+
+
+
 
 <h2>Data Quality and Processing Notes</h2>
 
