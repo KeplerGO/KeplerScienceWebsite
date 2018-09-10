@@ -1,31 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2018-08-09T07:10:00-07:00</updated><entry><title>K2 Campaign 20 target proposals are due on August 16th</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-20-target-proposals-are-due-on-august-16th.html" rel="alternate"></link><published>2018-08-09T07:10:00-07:00</published><updated>2018-08-09T07:10:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-08-09:/k2-campaign-20-target-proposals-are-due-on-august-16th.html</id><summary type="html">&lt;p&gt;Target proposals for K2 Campaign 20 continue to be requested by Thursday, August 16, 2018.
-Phase-1 proposals consist of up to 2 pages of text for small programs (&amp;lt; 1000 targets)
-and up to 4 pages for large programs (1000 targets or more).
-Proposers are encouraged to use the proposal template …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Target proposals for K2 Campaign 20 continue to be requested by Thursday, August 16, 2018.
-Phase-1 proposals consist of up to 2 pages of text for small programs (&amp;lt; 1000 targets)
-and up to 4 pages for large programs (1000 targets or more).
-Proposers are encouraged to use the proposal template available &lt;a href="data/K2/k2go7_template.docx"&gt;in Word format&lt;/a&gt; and &lt;a href="data/K2/k2go7_template.tex"&gt;in Latex format&lt;/a&gt;.
-The proposal and accompanying target table must be must be submitted via email
-to &lt;a href="mailto:keplergo@mail.arc.nasa.gov"&gt;keplergo@mail.arc.nasa.gov&lt;/a&gt;
-no later than 23:59 Eastern Time on August 16th.
-Submissions will receive a confirmation of receipt.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Although Campaign 20 is at risk of not being executed due to Kepler's low fuel status,
-the project does not currently have information that precludes Campaign 20 from taking place.&lt;/strong&gt;
-As a result, we strongly encourage the community to submit target tables
-to enable the preparations for Campaign 20 to proceed as normal.
-Detailed information on the solicitation is available in the
-&lt;a href="https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=610960/solicitationId=%7B8A2B07C0-F3D9-677F-0C28-F0E8406FC3CD%7D/viewSolicitationDocument=1/D.7%20K2%20Cycle%207%20Amend%2019.pdf"&gt;K2 GO Cycle 7 research announcement (ROSES-2018)&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Campaign 20 will revisit the &lt;strong&gt;Taurus-Auriga star-forming region&lt;/strong&gt; in the
-forward-facing mode.
-The region contains a large number of very young stars (&amp;lt;10 Myr)
-and the Campaign will significantly increase the number of such stars observed by Kepler.
-The field also includes members of the Pleiades (&amp;sim;100 Myr) and Hyades (&amp;sim;600 Myr) star clusters,
-alongside other populations of stars and galaxies.&lt;/p&gt;
-&lt;p&gt;
-&lt;img src="images/k2/k2-c20-field.png" style="max-width: 600px;" alt="Footprint of K2 Campaign 20"/&gt;&lt;br/&gt;
-&lt;i&gt;Figure: Footprint of K2 Campaign 20.&lt;/i&gt;
-&lt;/p&gt;</content></entry><entry><title>K2 Campaign 18 downlink successful</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-18-downlink-successful.html" rel="alternate"></link><published>2018-08-09T07:00:00-07:00</published><updated>2018-08-09T07:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-08-09:/k2-campaign-18-downlink-successful.html</id><summary type="html">&lt;p&gt;The Kepler spacecraft has successfully downloaded Campaign 18 data to Earth.
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2018-09-05T08:00:00-07:00</updated><entry><title>Abstracts for Kepler &amp; K2 Science Conference V are due by November 15, 2018</title><link href="https://keplerscience.arc.nasa.gov/abstracts-for-kepler-k2-science-conference-v-are-due-by-november-15-2018.html" rel="alternate"></link><published>2018-09-05T08:00:00-07:00</published><updated>2018-09-05T08:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-09-05:/abstracts-for-kepler-k2-science-conference-v-are-due-by-november-15-2018.html</id><summary type="html">&lt;p&gt;The &lt;a href='scicon-2019/index.html'&gt;Kepler &amp;amp; K2 Science Conference V&lt;/a&gt;
+will take place March 4-8, 2019, in Glendale, California.
+The meeting will be a celebration of Kepler's 10 years in space
+and will serve as a showcase of the bountiful results that continue to come
+from both the Kepler and K2 missions.&lt;/p&gt;
+&lt;p&gt;Abstracts for …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The &lt;a href='scicon-2019/index.html'&gt;Kepler &amp;amp; K2 Science Conference V&lt;/a&gt;
+will take place March 4-8, 2019, in Glendale, California.
+The meeting will be a celebration of Kepler's 10 years in space
+and will serve as a showcase of the bountiful results that continue to come
+from both the Kepler and K2 missions.&lt;/p&gt;
+&lt;p&gt;Abstracts for conference presentations can now be submitted through the
+&lt;a href="https://catcopy.ipac.caltech.edu/ksc2019/abstract.php"&gt;abstract submission form&lt;/a&gt;.
+Participants may submit multiple abstracts to propose talks, posters, or breakout sessions.
+&lt;strong&gt;The regular abstract deadline is November 15, 2018.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Note that the Wednesday afternoon of the meeting (March 6) is set aside for breakout sessions
+to enable the community to discuss and work on Kepler/K2 related projects.
+We envision these sessions will be more hands on, unconference sessions
+of broad interest to the community.
+Examples of break out sessions include panel discussions, hack activities,
+work meetings of large collaborations, or tutorials to use data/software products related to Kepler/K2.
+To submit a proposal for a breakout session, please select this option on the abstract submission form.&lt;/p&gt;
+&lt;p&gt;In addition to the abstract submission form,
+a &lt;a href="https://catcopy.ipac.caltech.edu/ksc2019/registration.php"&gt;separate registration form&lt;/a&gt; has been opened.
+There is no registration fee for this conference,
+however we ask that all attendees register by February 10, 2019.&lt;/p&gt;
+&lt;p&gt;We have limited funding to support local costs (hotel and per diem) for a limited number of
+participants who would otherwise be unable to attend the meeting.
+Please complete &lt;a href='https://docs.google.com/forms/d/15qk9f9hovgSphVGIHUHqpu_NzJ-moA6WCahxGFsDGfk/edit?ts=5b8589cb'&gt;this application&lt;/a&gt; by the Nov. 15 deadline.
+Applicants will receive a decision by Dec. 20.&lt;/p&gt;
+&lt;p&gt;Additional details, including information about travel and lodging,
+are available on the &lt;a href="/scicon-2019/"&gt;conference home page&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><title>K2 Campaign 19 status update</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-19-status-update.html" rel="alternate"></link><published>2018-09-05T07:00:00-07:00</published><updated>2018-09-05T07:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-09-05:/k2-campaign-19-status-update.html</id><summary type="html">&lt;p&gt;The Kepler spacecraft began collecting science data on Aug. 29 for its 19th observation campaign.
+However, after being roused from sleep mode the spacecraft’s configuration has been modified due to unusual behavior exhibited by one of the thrusters.
+Preliminary indications are that the telescope’s pointing performance may be …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The Kepler spacecraft began collecting science data on Aug. 29 for its 19th observation campaign.
+However, after being roused from sleep mode the spacecraft’s configuration has been modified due to unusual behavior exhibited by one of the thrusters.
+Preliminary indications are that the telescope’s pointing performance may be somewhat degraded.
+It remains unclear how much fuel remains;
+NASA continues to monitor the health and performance of the spacecraft.&lt;/p&gt;
+&lt;p&gt;Several science programs seek to complement Campaign 19 data using simultaneous observations carried out using other telescope facilities.
+The PI's of these programs can phone the Kepler GO office at +1-650-604-2784
+to request guidance as needed.&lt;/p&gt;</content></entry><entry><title>Ken Mighell and Nick Saunders join the K2 team</title><link href="https://keplerscience.arc.nasa.gov/ken-mighell-and-nick-saunders-join-the-k2-team.html" rel="alternate"></link><published>2018-08-28T09:00:00-07:00</published><updated>2018-08-28T09:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-08-28:/ken-mighell-and-nick-saunders-join-the-k2-team.html</id><summary type="html">&lt;p&gt;The Kepler/K2 team has recently had two new members join us
+at the Ames Research Center in California: Ken Mighell and Nick Saunders.&lt;/p&gt;
+&lt;p&gt;Dr Ken Mighell joined us from the National Optical Astronomy Observatory.
+His background is in the analysis of CCD photometry for the
+study of stellar populations …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The Kepler/K2 team has recently had two new members join us
+at the Ames Research Center in California: Ken Mighell and Nick Saunders.&lt;/p&gt;
+&lt;p&gt;Dr Ken Mighell joined us from the National Optical Astronomy Observatory.
+His background is in the analysis of CCD photometry for the
+study of stellar populations and Local Group galaxies.
+Ken is currently part of the K2 team responsible for assessing and assuring the quality
+of the &lt;a href="k2-uniform-global-reprocessing-underway.html"&gt;K2 Uniform Global Processing effort&lt;/a&gt;
+which is currently underway.&lt;/p&gt;
+&lt;p&gt;Nick Saunders joined us from the University of Washington
+where he recently obtained his Bachelor degrees in both Astrophysics and Literature.
+During his studies, Nick worked with Prof Rory Barnes and Dr Rodrigo Luger on the
+removal of instrumental noise from Kepler/K2 photometry
+for the study of exoplanets.
+Nick will be continuing this work during his pre-doctoral gap year
+in support of the &lt;a href="https://lightkurve.keplerscience.org"&gt;Lightkurve data analysis package&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><title>K2 Campaign 17 processed data available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-17-processed-data-available.html" rel="alternate"></link><published>2018-08-16T08:00:00-07:00</published><updated>2018-08-16T08:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-08-16:/k2-campaign-17-processed-data-available.html</id><summary type="html">&lt;p&gt;The pipeline-processed data for K2 Campaign 17
+are now available for download
+from the &lt;a href="http://archive.stsci.edu/k2"&gt;K2 data archive at MAST&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Campaign 17 provided a substantial overlap with Campaign 6,
+offering a longer baseline for stellar activity, asteroseismology, and AGN studies,
+as well as enabling dozens of K2 planet candidates to be …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The pipeline-processed data for K2 Campaign 17
+are now available for download
+from the &lt;a href="http://archive.stsci.edu/k2"&gt;K2 data archive at MAST&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Campaign 17 provided a substantial overlap with Campaign 6,
+offering a longer baseline for stellar activity, asteroseismology, and AGN studies,
+as well as enabling dozens of K2 planet candidates to be revisited.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="k2-approved-programs.html#campaign-17"&gt;target list&lt;/a&gt; featured
+more than 34,000 targets,
+including 3,000+ candidate M dwarf stars,
+10,000+ candidate FGK main-sequence stars,
+and 14,000+ galaxies.
+Notable short cadence targets included dozens of planet systems,
+67 variable white dwarfs, 47 cool flare stars, and 17 bright solar-type stars.&lt;/p&gt;
+&lt;p&gt;As a reminder: users are strongly encouraged to contact, cite, and collaborate
+with the teams who proposed the observations, as listed on the
+&lt;a href="k2-approved-programs.html#campaign-17"&gt;Approved Progams &amp;amp; Targets page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Please keep an eye on our website for the associated &lt;a href="k2-data-release-notes.html"&gt;data release notes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="images/k2/k2-c17-field.png"&gt;&lt;img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c17-field.png" alt="K2 C17 Field"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>Lodging for Kepler &amp; K2 SciCon V available now</title><link href="https://keplerscience.arc.nasa.gov/lodging-for-kepler-k2-scicon-v-available-now.html" rel="alternate"></link><published>2018-08-10T12:00:00-07:00</published><updated>2018-08-10T12:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-08-10:/lodging-for-kepler-k2-scicon-v-available-now.html</id><summary type="html">&lt;p&gt;The &lt;a href='scicon-2019/index.html'&gt;Kepler &amp;amp; K2 Science Conference V&lt;/a&gt;
+will take place March 4-8, 2019, in Glendale, California.
+The meeting will be a celebration of Kepler's 10 years in space
+and will serve as a showcase of the bountiful results that continue to come
+from both the Kepler and K2 missions.&lt;/p&gt;
+&lt;p&gt;Lodging can …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The &lt;a href='scicon-2019/index.html'&gt;Kepler &amp;amp; K2 Science Conference V&lt;/a&gt;
+will take place March 4-8, 2019, in Glendale, California.
+The meeting will be a celebration of Kepler's 10 years in space
+and will serve as a showcase of the bountiful results that continue to come
+from both the Kepler and K2 missions.&lt;/p&gt;
+&lt;p&gt;Lodging can now be reserved.
+The conference hotel is the Hilton Los Angeles North/Glendale
+located at 100 West Glenoaks Blvd, Glendale, California, 91202.
+A block of rooms has been reserved for March 2, 2019 - March 9, 2019.
+The special room rate will be available until February 10, 2019 or until the group block is sold-out, whichever comes first.&lt;/p&gt;
+&lt;p&gt;Rooms in the block &lt;a href='http://www.hilton.com/en/hi/groups/personalized/B/BURHGHF-CALTEC-20190302/index.jhtml'&gt;can be reserved by following this link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you are interested in shared housing, please contact the LOC at &lt;a href="mailto:keplerscicon@ipac.caltech.edu"&gt;keplerscicon@ipac.caltech.edu&lt;/a&gt;
+so that we can connect you with others interested as well.&lt;/p&gt;</content></entry><entry><title>K2 Campaign 18 downlink successful</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-18-downlink-successful.html" rel="alternate"></link><published>2018-08-09T07:00:00-07:00</published><updated>2018-08-09T07:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-08-09:/k2-campaign-18-downlink-successful.html</id><summary type="html">&lt;p&gt;The Kepler spacecraft has successfully downloaded Campaign 18 data to Earth.
 The raw data are now available for download
 from the &lt;a href="http://archive.stsci.edu/k2"&gt;K2 data archive at MAST&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;We are monitoring the spacecraft very closely and will provide more information
