@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 23 conference participants is below (last update: September 6, 2018).
+The current list of 25 conference participants is below (last update: September 6, 2018).
 
 * Robert Baker, Wildwood School
 * Geert Barentsen, NASA Ames
@@ -22,7 +22,9 @@ The current list of 23 conference participants is below (last update: September 
 * Eric Mamajek, JPL/NASA
 * Tannaz Oskui, CSULA/UCLA
 * Andreas Quirrenbach, Univ. Heidelberg
+* Gilda Sankalp, Univ. of Florida
 * Kendra Short, NASA/JPL
 * Karl Stapelfeldt, JPL/Caltech/NASA
 * Keivan Stassun, Vanderbilt University
+* Martin Still, NASA
 * Johanna Teske, Carnegie Observatories	
