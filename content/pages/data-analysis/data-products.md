@@ -292,8 +292,7 @@ exist)
 * Thruster firings for Campaign 1 and Campaign 2
 * Published K2 exoplanets
 
-The
-[K2 mission page at NExScI](http://exoplanetarchive.ipac.caltech.edu/docs/K2Mission.html)
+The [K2 mission page at NExScI](http://exoplanetarchive.ipac.caltech.edu/docs/K2Mission.html)
 contains an interactive table of K2 targets and also details the instructions for
 requesting a K2 number for new planets discovered in the K2 data.
 
@@ -308,8 +307,9 @@ associated with them.
 
 Note that K2 long cadence (30-min) images are available for each Campaign.
 Light curves produced by the Project Office are available for most
-Campaigns, excluding 0, 2, and 9.  Short cadence (1-min) images are also available for each
-Campaign, but no light curves are provided.
+Campaigns, excluding 0 and 9 as of August 2018.  Short cadence (1-min) images are also available for each
+Campaign, and short cadence light curves are produced for campaigns processed or re-processed since the
+start of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a>.
 
 The relevant data release and pipeline notes
 for each Campaign are also linked in the table below.  The pipeline release
@@ -497,6 +497,50 @@ which detail deviations from the pipeline used for Kepler.
      <td><a href="/k2-pipeline-release-notes.html#data-release-19">PRN</a></td>
      </tr>
 
+      <tr>
+      <td>C14</td>
+      <td>5</td>
+      <td>2017 Jun 1</td>
+      <td>2017 Aug 19</td>
+      <td>2017 Nov 27</td>
+      <td><a
+      href="k2-data-release-notes.html#k2-campaign-14">DRN</a></td>
+     <td><a href="/k2-pipeline-release-notes.html#data-release-20">PRN</a></td>
+     </tr>
+
+      <tr>
+      <td>C15</td>
+      <td>5</td>
+      <td>2017 Aug 23</td>
+      <td>2017 Nov 19</td>
+      <td>2018 Mar 14</td>
+      <td><a
+      href="k2-data-release-notes.html#k2-campaign-15">DRN</a></td>
+     <td><a href="/k2-pipeline-release-notes.html#data-release-22">PRN</a></td>
+     </tr>
+
+      <tr>
+      <td>C16</td>
+      <td>5</td>
+      <td>2017 Dec 7</td>
+      <td>2018 Feb 25</td>
+      <td>2018 May 30</td>
+      <td><a
+      href="k2-data-release-notes.html#k2-campaign-16">DRN</a></td>
+     <td><a href="/k2-pipeline-release-notes.html#data-release-23">PRN</a></td>
+     </tr>
+
+     <tr>
+     <td>C17</td>
+     <td>6</td>
+     <td>2018 Mar 2</td>
+     <td>2018 May 8</td>
+     <td>2018 Aug 16</td>
+     <td><a
+     href="k2-data-release-notes.html#k2-campaign-17">DRN</a></td>
+    <td><a href="/k2-pipeline-release-notes.html#data-release-25">PRN</a></td>
+    </tr>
+
 </tdata>
 </table>
 
@@ -608,8 +652,8 @@ time series.
 
 The light curve file format is defined in section 2.3.1 of the [Kepler Archive
 Manual](http://archive.stsci.edu/kepler/manuals/archive_manual.pdf). Light
-curves are available for all quarters of Kepler data, but are only
-available (from the Project Office) for Campaign 3 and later for K2.
+curves are available for all quarters of Kepler data, and as of August 2018, are
+available (from the Project Office) for all K2 campaigns besides C0 and C9.
 
 ### Collateral data
 
