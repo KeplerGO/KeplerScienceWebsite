@@ -1,8 +1,9 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 32 conference participants is below (last update: September 6, 2018).
+The current list of 38 conference participants is below (last update: September 6, 2018).
 
+* Anya Biferno, JPL/NASA
 * Robert Baker, Wildwood School
 * Thomas Barclay, NASA Goddard Space Flight Center
 * Geert Barentsen, NASA Ames
@@ -10,6 +11,7 @@ The current list of 32 conference participants is below (last update: September 
 * Sylvie Bernstein, McGill University
 * Gary Blackwood, NASA/JPL
 * Tabetha Boyajian, LSU
+* Pat Brennan, JPL/NASA
 * Alma Ceja, University of California, Riverside
 * Jeffrey Coughlin, SETI Institute/NASA Ames
 * Trevor David, JPL
@@ -19,6 +21,8 @@ The current list of 32 conference participants is below (last update: September 
 * Kevin Hardegree-Ullman, Caltech/IPAC-NExScI
 * Christina Hedges, Kepler/K2 Guest Observers Office	
 * Andrew Howard, Caltech	
+* Steve Howell, NASA Ames Research Center
+* Randall Jackson, JPL/NASA
 * Irina Kitiashvili, NASA Ames Research Center/BAERI
 * Veselin Kostov, NASA/SETI Institute	
 * Elizabeth Landau, JPL/NASA
@@ -27,6 +31,8 @@ The current list of 32 conference participants is below (last update: September 
 * Andreas Quirrenbach, Univ. Heidelberg
 * Luisa Rebull, Caltech/IPAC-IRSA
 * Ryan Ridden-Harper, Australian National University
+* Thalia Rivera, JPL/NASA
+* Arielle Samuelson, JPL/NASA
 * Gilda Sankalp, Univ. of Florida
 * Kendra Short, NASA/JPL
 * Raghubar Singh, Indian Institute of Astrophysics
