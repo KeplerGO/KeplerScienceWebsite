@@ -3039,11 +3039,10 @@ These release notes are for the C3 data currently available at MAST in the nomin
         <li>Several custom targets (see below)</li>
     </ul>
 
-NEED TO UPDATE FFI TO NEW FILES XXXXXX
     <b><i>Full Frame Images (FFI)</i></b>
     <ul>
-        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2014331202630-c03_ffi-cal.fits">ktwo2014331202630-c03_ffi-cal.fits</a></li>
-        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2015008010551-c03_ffi-cal.fits">ktwo2015008010551-c03_ffi-cal.fits</a></li>
+        <li><a href="https://archive.stsci.edu/missions/k2/ffi/ktwo2014331202630-c03_ffi-cal.fits">ktwo2014331202630-c03_ffi-cal.fits</a></li>
+        <li><a href="https://archive.stsci.edu/missions/k2/ffi/ktwo2015008010551-c03_ffi-cal.fits">ktwo2015008010551-c03_ffi-cal.fits</a></li>
     </ul>
 
     <b><i>First cadence</i></b>
@@ -3093,7 +3092,7 @@ NEED TO UPDATE FFI TO NEW FILES XXXXXX
 
 ***Neptune***
 
-Neptune moved across the field of view during C3 and K2 observed it in both long and short cadence. Short cadence data were obtained approximately 20 days either side of the stationary point of Neptune. The movie below shows Neptune and its moons, Titan and Nereid, as they move across the detector over approximately 50 days. The custom aperture numbers associated with Neptune are 200004468--200004923. These observations were taken as part of Guest Observer Programs GO3060 (PI:Rowe) and GO3057 (PI:Gaulme).
+Neptune moved across the field of view during C3 and K2 observed it in both long and short cadence. Short cadence data were obtained approximately 20 days either side of the stationary point of Neptune. The movie below shows Neptune and its moons, Triton and Nereid, as they move across the detector over approximately 50 days. The custom aperture numbers associated with Neptune are 200004468--200004923. These observations were taken as part of Guest Observer Programs GO3060 (PI:Rowe) and GO3057 (PI:Gaulme).
 
 <div class="thumbnail">
 <video width="100%" id="pelican-installation" class="video-js vjs-default-skin" controls loop preload="auto" data-setup="{}">
