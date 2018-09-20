@@ -333,7 +333,7 @@ This page details the previous, current, and future K2 Campaign fields.
         <a href="k2-approved-programs.html#campaign-17"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
-
+        <a href="k2-data-release-notes.html#k2-campaign-17"><i class="fa fa-check"></i></a>
       </td>
       <td>Galaxies.</td>
     </tr>
@@ -354,7 +354,7 @@ This page details the previous, current, and future K2 Campaign fields.
     </tr>
     <tr>
       <td><a href='#c19'>19</a><sup>†</sup></td>
-      <td>TBC</td>
+      <td>2018&nbsp;Aug&nbsp;29</td>
       <td>2018&nbsp;Oct&nbsp;10</td>
       <td>2019&nbsp;Feb&#8209;May</td>
       <td>23:09:02</td>
