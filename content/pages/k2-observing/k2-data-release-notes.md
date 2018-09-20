@@ -3019,7 +3019,7 @@ The PDC quality flags were populated for some of the SC targets even though ther
 
 # K2 Campaign 3
 
-These release notes are for the C3 data currently available at MAST in the nominal K2 data locations, which have been processed with the final version of the K2 pipeline as part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a>. The original release notes corresponding to the previous version(s) of C3 data can be found in the <a href="archived-k2-data-release-notes.html#k2-campaign-3">archived data release notes page</a>.
+These release notes are for the C3 data currently available at MAST (Data Release 26) in the nominal K2 data locations, which have been processed with the final version of the K2 pipeline as part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a>. The original release notes corresponding to the previous version(s) of C3 data (Data Releases 5 and 10) can be found in the <a href="archived-k2-data-release-notes.html#k2-campaign-3">archived data release notes page</a>.
 
 <h2>At a glance</h2>
 
@@ -3070,7 +3070,7 @@ These release notes are for the C3 data currently available at MAST in the nomin
 
     <div class="thumbnail">
         <div class="caption">
-            <i>Figure: Schematic of Kepler's C3 field-of-view with selected targets shown with purple dots. Note, the use of an incorrect rotation angle in software used by Guest Observers to select targets has resulted in obvious variations in target density across the focal plane.</i>
+            <i>Figure: Figure C3-FOV: Schematic of Kepler's C3 field-of-view with high profile objects.</i>
         </div>
         <a href="images/k2/k2-c03-field.png">
             <img src="images/k2/k2-c03-field.png" class="img-responsive" alt="C3 field-of-view with selected targets">
@@ -3092,14 +3092,13 @@ These release notes are for the C3 data currently available at MAST in the nomin
 
 ***Neptune***
 
-Neptune moved across the field of view during C3 and K2 observed it in both long and short cadence. Short cadence data were obtained approximately 20 days either side of the stationary point of Neptune. The movie below shows Neptune and its moons, Triton and Nereid, as they move across the detector over approximately 50 days. The custom aperture numbers associated with Neptune are 200004468--200004923. These observations were taken as part of Guest Observer Programs GO3060 (PI:Rowe) and GO3057 (PI:Gaulme).
+Neptune moved across the field of view during C3 and K2 observed it in both long and short cadence. Short cadence data were obtained approximately 20 days on each side of the stationary point of Neptune. The movie below shows Neptune and its moons, Triton and Nereid, as they move across the detector over approximately 50 days. Note that Neptune saturates the detector, which results in the observed spikes in the column direction as Neptune moves across the detector. The custom aperture numbers associated with Neptune are 200004468--200004923. These observations were taken as part of Guest Observer Programs GO3060 (PI:Rowe) and GO3057 (PI:Gaulme).
 
 <div class="thumbnail">
 <video width="100%" id="pelican-installation" class="video-js vjs-default-skin" controls loop preload="auto" data-setup="{}">
 <source src="images/release-notes/c3/k2-neptune-c3.mp4" type='video/mp4' alt="Movie of Neptune in C3">
 </video>
 </div>
-
 
 
 <br>
@@ -3112,7 +3111,25 @@ The Trans-Neptunian Object (225088) 2007 OR10 was observed with 2 masks and give
 
 ***Premature End***
 
-Campaign 3 had a nominal duration of 80 days, but an actual duration of only 69.2 days. The campaign ended earlier than expected because the on-board storage filled up faster than anticipated due to unusually poor data compression.
+Campaign 3 had a nominal duration of 80 days, but an actual duration of 69.2 days. The campaign ended earlier than expected because the on-board storage filled up faster than anticipated due to poorer than expected data compression.
+
+<br>
+
+***Aperture Halos***
+
+In order to ensure that the flux from each target is adequately captured in the presence of the K2 roll motion, for C3, 3-pixel halos were included around each target in the center half of the field of view, and 4-pixel halos around each target in the outer half of the field of view, as shown below. In comparison, many later campaigns were flown with only 2- and 3-pixel halos.
+
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C3-Halos: The number of halo pixels that were placed around each target in campaign 3 to account for K2 roll motion. Targets farther from the center of the focal plane have more halos due to experiencing greater motion due to the spacecraft roll.</i>
+</div>
+<a href="images/release-notes/c3/c3_halo_assignment.png">
+<img src="images/release-notes/c3/c3_halo_assignment.png" class="img-responsive" alt="Number of halo pixels around each target in C3">
+</a>
+</div>
+
+
+<br>
 
 
 <br>
@@ -3121,16 +3138,14 @@ Campaign 3 had a nominal duration of 80 days, but an actual duration of only 69.
 
 ***Light Curve Quality***
 
-As in previous campaigns, the 6-hour spacecraft roll cycle continues
-to dominate the systematic errors in C16 simple aperture photometry light curves.
-The pipeline CDPP 12th magnitude noise benchmark for C3 (DR26) is
-comparable to that seen in other campaigns with similar
-star density.
+As in other campaigns, the 6-hour spacecraft roll cycle dominates the systematic errors in C3 simple aperture photometry light curves.
+The pipeline CDPP 12th magnitude noise benchmark for C3 (DR26) is comparable to that seen in other campaigns with similar star density.
 
 The magnitude dependence of CDPP and its distribution over the focal
 plane are shown below. Other CDPP benchmarks can be found in the
 <a href="images/release-notes/c3/c3_bin1.00_sc1.00_CDPP_Summary_18081817.txt">
 table giving 6.5-hr CDPP as a function of magnitude.</a>
+
 <br>
 <div class="thumbnail" style="width: 90%;">
 <div class="caption">
@@ -3140,13 +3155,14 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 <img src="images/release-notes/c3/cdpp_vs_mag_dr26.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
 </a>
 </div>
+
 <div class="thumbnail" style="width: 90%;">
 <div class="caption">
 <i>Figure C3-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
+</div>
 <a href="images/release-notes/c3/c3_dwarf_CDPP_by_mod_out_dr26.png">
 <img src="images/release-notes/c3/c3_dwarf_CDPP_by_mod_out_dr26.png" class="img-responsive" alt="CDPP per channel for 12th and 14th magnitude dwarfs">
 </a>
-</div>
 </div>
 
 
