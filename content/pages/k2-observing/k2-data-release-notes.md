@@ -3121,46 +3121,34 @@ Campaign 3 had a nominal duration of 80 days, but an actual duration of only 69.
 
 ***Light Curve Quality***
 
-The dominant systematic present in K2 simple aperture photometry light curves is a sawtooth shape that is due to the roll of the spacecraft approximately every 6 hours. The PDC module of the Kepler Pipeline uses Principle Component Analysis to remove this signal in addition to other systematics. Below, we examine observed trends and noise levels in the PDC light curves for C3 (as measured using Data Release 26).
+As in previous campaigns, the 6-hour spacecraft roll cycle continues
+to dominate the systematic errors in C16 simple aperture photometry light curves.
+The pipeline CDPP 12th magnitude noise benchmark for C3 (DR26) is
+comparable to that seen in other campaigns with similar
+star density.
 
-NEED TO REPLACE FIGURES BELOW WITH VERSIONS FROM REPROC DAWG
-
-<div class="thumbnail" style="width: 68%;">
-    <div class="caption">
-        <i>Figure: CDPP measured for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP but often show a residual sawtooth. All cadences flagged as having definite thruster firings are gapped.</i>
-    </div>
-    <a href="images/release-notes/c3/cdpp_vs_mag.png">
-        <img src="images/release-notes/c3/cdpp_vs_mag.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude">
-    </a>
-</div>
-
-<div class="thumbnail" style="width: 68%;">
-    <div class="caption">
-        <i>Figure: The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. This figure shows the 10th percentile CDPP of the 12th magnitude targets across the focal plane. The better performance near the center is evident.</i>
-    </div>
-    <a href="images/release-notes/c3/tenth_prctile_cdpp.png">
-        <img src="images/release-notes/c3/tenth_prctile_cdpp.png" class="img-responsive" alt="10th percentile CDPP of the 12th magnitude targets across the focal plane">
-    </a>
-</div>
-
-<div class="thumbnail" style="width: 68%;">
-    <div class="caption">
-        <i>Figure: Tests show that stellar signals are well preserved out to a period of about 20 days. However sometimes the stellar signals are partially masked by residual sawtooth.
-</i>
-    </div>
-    <a href="images/release-notes/c3/amplitude_study_1_6379_amp.png">
-        <img src="images/release-notes/c3/amplitude_study_1_6379_amp.png" class="img-responsive" alt="Tests show that stellar signals are well preserved out to a period of about 20 days.">
-    </a>
-</div>
-
-The short cadence light curves produced by the Kepler pipeline are inadequate for scientific research and are not being released at this time.
-
-
+The magnitude dependence of CDPP and its distribution over the focal
+plane are shown below. Other CDPP benchmarks can be found in the
+<a href="images/release-notes/c3/c3_bin1.00_sc1.00_CDPP_Summary_18081817.txt">
+table giving 6.5-hr CDPP as a function of magnitude.</a>
 <br>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C3-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>
+</div>
+<a href="images/release-notes/c3/cdpp_vs_mag_dr26.png">
+<img src="images/release-notes/c3/cdpp_vs_mag_dr26.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
+</a>
+</div>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C3-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
+<a href="images/release-notes/c3/c3_dwarf_CDPP_by_mod_out_dr26.png">
+<img src="images/release-notes/c3/c3_dwarf_CDPP_by_mod_out_dr26.png" class="img-responsive" alt="CDPP per channel for 12th and 14th magnitude dwarfs">
+</a>
+</div>
+</div>
 
-***Reduced Noise from Change in Bandwidth***
-
-The change in bandwidth for pointing control (from 50 to 20 seconds) for C3 resulted in an increase in SNR for short cadence by a factor of roughly 4--9, with the larger improvement seen at the higher frequency end. Note, the bandwidth pointing control parameter was set to 10 seconds for the original Kepler Mission.
 
 <br>
 
