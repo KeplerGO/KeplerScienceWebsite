@@ -1,0 +1,26 @@
+# Summary of K2 Program GO20003
+
+Title: Dynamical activity in Algol-type interacting binary systems
+
+PI: Peters, Geraldine J. (University of Southern California)
+CoIs: Robert E. Wilson (University of Florida)
+
+K2 observations of interacting binaries of the Algol type are proposed for Campaign 20 to study the dynamics of the mass transfer process. Models of each light curve, computed from the Wilson-Devinney program, will yield not only the stellar parameters but also parameters for accretion hot spots and magnetic spots on the secondary. Two of the targets (AP Tau and V1352 Tau) were observed during K2 C13. Short cadence observations are requested of V1352 Tau, an Algol with a period of 6.9 days that displays a prominent (radial) pulsation signature. The phase dependence of the pulsation and its variability from cycle-to-cycle will be studied, as well as long-term variability since C13 data are available.
+
+# Targets requested by this program that have been observed (15)
+EPIC,RA,Dec,Kp,InvestigationIDs
+200263331, , , , GO20001|GO20003|GO20016|GO20022|GO20024|HR_1471-LC-BRIGHT_STAR_DISC
+210784722, 67.627226, 19.636921, 11.357, GO20003_LC|GO20027_LC
+210969614, 61.292223, 22.496697, 11.206, GO20001_LC|GO20003_LC|GO20908_LC
+211193772, 62.743521, 26.306, 13.603, GO20001_LC|GO20003_LC
+247315097, 69.565958, 20.684723, 5.966, GO20001_LC|GO20003_LC|GO20016_LC|GO20022_LC|GO20024_LC|GO20903_LC
+247371398, 74.435112, 21.164546, 13.036, GO20003_LC|GO20908_LC
+247511742, 76.184147, 22.285674, 10.709, GO20003_LC|GO20908_LC
+247745384, 75.566223, 24.029163, 9.144, GO20003_LC|GO20020_LC|GO20022_LC
+247805533, 74.130222, 24.446751, 12.356, GO20001_LC|GO20003_LC|GO20908_LC|GO20003_SC
+247812536, 74.719816, 24.495713, 8.564, GO20003_LC|GO20022_LC|GO20903_LC|GO20908_LC
+248139290, 73.686306, 26.924256, 12.535, GO20001_LC|GO20003_LC|GO20908_LC
+248224646, 74.205702, 27.718509, 12.057, GO20003_LC|GO20027_LC
+248241854, 73.991527, 27.89124, 10.501, GO20001_LC|GO20003_LC|GO20908_LC
+248269940, 68.557554, 28.193626, 12.609, GO20003_LC
+248288588, 69.886027, 28.409057, 14.306, GO20001_LC|GO20003_LC|GO20908_LC

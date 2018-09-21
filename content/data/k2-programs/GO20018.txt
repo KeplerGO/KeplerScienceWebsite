@@ -1,0 +1,12 @@
+# Summary of K2 Program GO20018
+
+Title: A Potential Benchmark Eclipsing Binary Star
+
+PI: Pepper, J. (Lehigh University)
+CoIs: M. Johnson, J. Labadie-Bartz, X. Yao, R. Siverd
+
+We have identified an unusual eclipsing binary star system observable in C20, and we wish to obtain a highly precise light curve from K2 in order to derive fundamental stellar parameters and explore the variability properties of the system. The binary system has a low-mass primary star with the possibility of mass transfer and signs of youth.
+
+# Targets requested by this program that have been observed (1)
+EPIC,RA,Dec,Kp,InvestigationIDs
+247590385, 72.221231, 22.890309, 12.007, GO20018_LC|GO20027_LC|GO20908_LC
