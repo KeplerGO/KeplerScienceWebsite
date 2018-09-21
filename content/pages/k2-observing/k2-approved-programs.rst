@@ -49,11 +49,20 @@ Campaign 20
 .. raw:: html
 
   <p>
-  Campaign 20 will revisit the <b>Taurus-Auriga star-forming region</b> in the forward-facing mode. The region contains a large number of very young stars (<10 Myr) and the Campaign will significantly increase the number of such stars observed by Kepler. The field also includes members of the Pleiades (∼100 Myr) and Hyades (∼600 Myr) star clusters. The observations will improve the estimation of planet occurence rates as a function of stellar age, and will also enable the baseline of variability studies of young stars to be extended by including targets previously observed during Campaign 4 (2015) and Campaign 13 (2017).
+    The Campaign 20 target list includes
+    <b>14,789 standard long cadence</b>
+    and <b>210 standard short cadence</b> targets
+    located towards the constellation of Taurus.
+    The Campaign partially overlaps with Campaigns 4 and 13,
+    while also surveying 20 deg<sup>2</sup> of previously unstudied sky.
   </p>
 
   <p>
-  Field 20 also contains a large number of main sequence stars, post-main sequence stars, and galaxies to enable a wide array of investigations.
+    Campaign 20 will revisit the <b>Taurus-Auriga star-forming region</b> in the forward-facing mode. The region contains a large number of very young stars (<10 Myr) and the Campaign will significantly increase the number of such stars observed by Kepler. The field also includes members of the Pleiades (∼100 Myr) and Hyades (∼600 Myr) star clusters. The observations will improve the estimation of planet occurence rates as a function of stellar age, and will also enable the baseline of variability studies of young stars to be extended by including targets previously observed during Campaign 4 (2015) and Campaign 13 (2017).
+  </p>
+
+  <p>
+    The target list also contains a large number of main sequence stars, white dwarfs, flare stars, brown dwarfs, solar analogs, and classical variables which will enable a wide array of investigations.
   </p>
 
   <ul class="list-group">

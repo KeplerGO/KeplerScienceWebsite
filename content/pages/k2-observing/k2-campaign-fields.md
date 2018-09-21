@@ -375,12 +375,16 @@ This page details the previous, current, and future K2 Campaign fields.
       <td>04:33:12</td>
       <td>+22:45:42</td>
       <td class="text-center">
-        &nbsp;
+        <a href="k2-approved-programs.html#campaign-20"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
 
       </td>
       <td>Taurus-Auriga, Hyades</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td colspan="8">To be announced soon, subject to spacecraft status.</td>
     </tr>
   </tdata>
 </table>
