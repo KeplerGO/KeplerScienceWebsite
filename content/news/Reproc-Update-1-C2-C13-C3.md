@@ -1,5 +1,5 @@
 Title: K2 Campaigns 2, 3, and 13 Reprocessed
-Date: 2018-08-22 10:00
+Date: 2018-09-24 10:00
 Author: Jeff Coughlin
 
 Data processing for K2 Campaign 17 is now complete
