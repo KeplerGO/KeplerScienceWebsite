@@ -263,6 +263,156 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 
 <hr>
 
+
+# K2 Campaign 3  (**Archived**)
+
+<h2>At a glance</h2>
+
+<div class="col-lg-5">
+
+    <b><i>Pointing</i></b>
+    <ul>
+        <li>RA: 336.66534641439 degrees</li>
+        <li>Dec: -11.096663792177 degrees</li>
+        <li>Roll: -158.494818065985 degrees</li>
+    </ul>
+
+    <b><i>Targets</i></b>
+    <ul>
+        <li>16,375 in long cadence (LC)</li>
+        <li>55 in short cadence (SC)</li>
+        <li>Several custom targets (see below)</li>
+    </ul>
+
+    <b><i>Full Frame Images (FFI)</i></b>
+    <ul>
+        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2014331202630-c03_ffi-cal.fits">ktwo2014331202630-c03_ffi-cal.fits</a></li>
+        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2015008010551-c03_ffi-cal.fits">ktwo2015008010551-c03_ffi-cal.fits</a></li>
+    </ul>
+
+    <b><i>First cadence</i></b>
+    <ul>
+        <li>Time: 2014-11-15 14:06:05.515 UTC</li>
+        <li>Long Cadence Number: 99599</li>
+        <li>Short Cadence Number: 2976430</li>
+    </ul>
+
+    <b><i>Last cadence</i></b>
+    <ul>
+        <li>Time: 2015-01-23 18:37:04.488 UTC</li>
+        <li>Long Cadence Number: 102984</li>
+        <li>Short Cadence Number: 3078009</li>
+    </ul>
+
+    <b><i>Most Recent Processing Version</i></b>
+    <ul>
+    <li> <a href="k2-pipeline-release-notes.html#data-release-10">Data Release 10</a> </li>
+    </ul>
+
+</div>
+
+<div class="col-lg-7">
+
+    <div class="thumbnail">
+        <div class="caption">
+            <i>Figure: Schematic of Kepler's C3 field-of-view with selected targets shown with purple dots. Note, the use of an incorrect rotation angle in software used by Guest Observers to select targets has resulted in obvious variations in target density across the focal plane.</i>
+        </div>
+        <a href="images/campaign_selected/C3_selected.png">
+            <img src="images/campaign_selected/C3_selected.png" class="img-responsive" alt="C3 field-of-view with selected targets">
+        </a>
+    </div>
+
+    <div class="thumbnail">
+        <div class="caption">
+            <i>Figure: Distribution of the Kepler magnitudes of observed targets in C3. The bimodality is due to the large Guest Observer programs selected for C3.</i>
+        </div>
+        <a href="images/release-notes/c3/magnitudeDist.png">
+            <img src="images/release-notes/c3/magnitudeDist.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed targets in C3.">
+        </a>
+    </div>
+
+</div>
+
+<h2>Features and Events</h2>
+
+***Neptune***
+
+Neptune moved across the field of view during C3 and K2 observed it in both long and short cadence. Short cadence data were obtained approximately 20 days either side of the stationary point of Neptune. See this time lapse <a href="https://www.youtube.com/watch?v=Tw-q3uM_5_0">movie</a> created by Jason Rowe that clearly shows Neptune and its moons, Triton and Nereid. The custom aperture numbers associated with Neptune are 200004468--200004923. These observations were taken as part of Guest Observer Programs GO3060 (PI:Rowe) and GO3057 (PI:Gaulme).
+
+<br>
+
+***Trans-Neptunian Object***
+
+The Trans-Neptunian Object (225088) 2007 OR10 was observed with 2 masks and given custom aperture numbers 200004466 and 200004467. This target was observed as part of Guest Observer Program GO3053 (PI:Szabo).
+
+<br>
+
+***Premature End***
+
+Campaign 3 had a nominal duration of 80 days, but an actual duration of only 69.2 days. The campaign ended earlier than expected because the on-board storage filled up faster than anticipated due to unusually poor data compression.
+
+
+<br>
+
+<h2>Data Quality and Processing Notes</h2>
+
+***Highlights of Pipeline Improvements***
+
+Campaign 3 (Data Release 5) data were the first K2 data processed with the SOC 9.3 pipeline. With this data release comes the higher-level data products. A detailed list of the pipeline developments that accompany this data release is listed on the [pipeline release page](k2-pipeline-release-notes.html#data-release-5). A few highlights are listed here:
+
+* Quality flags now indicate which cadences were obtained during thruster firings.
+* Background pixels were observerd and used to model the background level across the field of view. The calibrated pixels available in the target pixel files now have this background level removed.
+* Simple Aperture Photometry (SAP_FLUX) and cotrended (PDCSAP_FLUX) light curves are available for long cadence data.
+* The FFIs now contain a World Coordinate Solution.
+
+<br>
+
+***Light Curve Quality***
+
+The dominant systematic present in K2 simple aperture photometry light curves is a sawtooth shape that is due to the roll of the spacecraft approximately every 6 hours. The PDC module of the Kepler Pipeline uses Principle Component Analysis to remove this signal in addition to other systematics. Below, we examine observed trends and noise levels in the PDC light curves for C3 (as measured using Data Release 5).
+
+<div class="thumbnail" style="width: 68%;">
+    <div class="caption">
+        <i>Figure: CDPP measured for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP but often show a residual sawtooth. All cadences flagged as having definite thruster firings are gapped.</i>
+    </div>
+    <a href="images/release-notes/c3/cdpp_vs_mag.png">
+        <img src="images/release-notes/c3/cdpp_vs_mag.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude">
+    </a>
+</div>
+
+<div class="thumbnail" style="width: 68%;">
+    <div class="caption">
+        <i>Figure: The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. This figure shows the 10th percentile CDPP of the 12th magnitude targets across the focal plane. The better performance near the center is evident.</i>
+    </div>
+    <a href="images/release-notes/c3/tenth_prctile_cdpp.png">
+        <img src="images/release-notes/c3/tenth_prctile_cdpp.png" class="img-responsive" alt="10th percentile CDPP of the 12th magnitude targets across the focal plane">
+    </a>
+</div>
+
+<div class="thumbnail" style="width: 68%;">
+    <div class="caption">
+        <i>Figure: Tests show that stellar signals are well preserved out to a period of about 20 days. However sometimes the stellar signals are partially masked by residual sawtooth.
+</i>
+    </div>
+    <a href="images/release-notes/c3/amplitude_study_1_6379_amp.png">
+        <img src="images/release-notes/c3/amplitude_study_1_6379_amp.png" class="img-responsive" alt="Tests show that stellar signals are well preserved out to a period of about 20 days.">
+    </a>
+</div>
+
+The short cadence light curves produced by the Kepler pipeline are inadequate for scientific research and are not being released at this time.
+
+
+<br>
+
+***Reduced Noise from Change in Bandwidth***
+
+The change in bandwidth for pointing control (from 50 to 20 seconds) for C3 resulted in an increase in SNR for short cadence by a factor of roughly 4--9, with the larger improvement seen at the higher frequency end. Note, the bandwidth pointing control parameter was set to 10 seconds for the original Kepler Mission.
+
+<br>
+
+<hr>
+
+
 # K2 Campaign 2 (**Archived**)
 
 <h2>At a glance</h2>

@@ -121,12 +121,9 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b>16 Aug 2018</b>',
-             'K2 Campaign 20 target proposals due',
-             'call-for-k2-go-cycle-7-proposals-for-campaign-20.html'),
-            ('<b>15 Oct 2018</b>',
-             'K2 Campaign 20 starts',
-             'k2-fields.html'),
+            ('<b>15 Nov 2018</b>',
+             'Abstracts due for Kepler & K2 SciCon V',
+             'scicon-2019/index.html'),
             ('<b>17 Jan 2019</b>',
              'K2 Campaign 20 funding proposals due',
              'https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7b8A2B07C0-F3D9-677F-0C28-F0E8406FC3CD%7d&path=open'),
@@ -135,10 +132,13 @@ IMPORTANT_DATES = (
 # Defines the "meetings" box on the front page
 MEETINGS = (
             ('<b>21–26 Oct 2018</b><br>'
-             'Kepler/K2 Booth at DPS50 (Knoxville)',
+             'Kepler/K2 Booth at #DPS50 (Knoxville)',
              'https://aas.org/meetings/dps49'),
             ('<b>6–10 Jan 2019</b><br>'
-             'Kepler/K2 Sessions at AAS233 (Seattle)',
+             'Kepler/K2 booth at #AAS233 (Seattle)',
+             'https://aas.org/meetings/aas233'),
+            ('<b>10 Jan 2019</b><br>'
+             'Kepler/K2 Special Session at #AAS233',
              'https://aas.org/meetings/aas233'),
             ('<b>4-8 Mar 2019</b><br>'
              'Kepler & K2 Sci Con V (Glendale)',

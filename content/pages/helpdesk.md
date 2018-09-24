@@ -1,46 +1,67 @@
-Title: Kepler/K2 Helpdesk
+Title: Kepler/K2 Science Helpdesk
 Save_as: helpdesk.html
 
 <div class="row">
     <div class="col-sm-4 text-center">
         <img src="images/faces/geert.jpg" class="img-circle" style="padding-top:0.5em;"><br>
         <b>Dr Geert Barentsen</b><br>
+        <b>geert.barentsen@nasa.gov</b><br>
         Guest Observer Office Director
-    </div>
-    <div class="col-sm-4 text-center">
-        <img src="images/faces/gully.jpg" class="img-circle" style="padding-top:0.5em;"><br>
-        <b>Dr Michael Gully-Santiago</b><br>
-        Lead Data Science Support<br>
-        Lead Supernova Experiment Support
     </div>
     <div class="col-sm-4 text-center">
         <img src="images/faces/annmarie.jpg" class="img-circle" style="padding-top:0.5em;"><br>
         <b>Dr Ann Marie Cody</b><br>
+        <b>annmarie.cody@nasa.gov</b><br>
         High Level Science Product Manager<br>
         Lead Cluster Science Support
     </div>
     <div class="col-sm-4 text-center">
-        <img src="images/faces/christina.jpg" class="img-circle" style="padding-top:0.5em;"><br>
-        <b>Dr Christina Hedges</b><br>
-        Lead Exoplanet Support<br>
-        Lead Asteroseismology Support
-    </div>
-    <div class="col-sm-4 text-center">
-        <img src="images/faces/ze.jpg" class="img-circle" style="padding-top:0.5em;"><br>
-        <b>Zé Vinícius</b><br>
-        Lead PyKE Developer<br>
-        Lead PSF Photometry Support
-    </div>
-    <div class="col-sm-4 text-center">
         <img src="images/faces/knicole.jpg" class="img-circle" style="padding-top:0.5em;"><br>
         <b>Dr Knicole Colón</b><br>
+        <b>knicole.colon@nasa.gov</b><br>
         DDT Program Manager<br/>
         Users' Panel Manager
     </div>
     <div class="col-sm-4 text-center">
         <img src="images/faces/jeff.jpg" class="img-circle" style="padding-top:0.5em;"><br>
         <b>Dr Jeff Coughlin</b><br>
-        K2 Science Office Director
+        <b>jeffrey.l.coughlin@nasa.gov</b><br>
+        Science Office Director<br/>
+        Lead K2 Pipeline Processing
+    </div>
+    <div class="col-sm-4 text-center">
+        <img src="images/faces/jessie.jpg" class="img-circle" style="padding-top:0.5em;"><br>
+        <b>Dr Jessie Dotson</b><br>
+        <b>jessie.dotson@nasa.gov</b><br>
+        Kepler/K2 Project Scientist
+    </div>
+    <div class="col-sm-4 text-center">
+        <img src="images/faces/gully.jpg" class="img-circle" style="padding-top:0.5em;"><br>
+        <b>Dr Michael Gully-Santiago</b><br>
+        <b>michael.a.gully-santiago@nasa.gov</b><br>
+        Lead Data Science Support<br>
+        Lead Supernova Experiment Support
+    </div>
+    <div class="col-sm-4 text-center">
+        <img src="images/faces/christina.jpg" class="img-circle" style="padding-top:0.5em;"><br>
+        <b>Dr Christina Hedges</b><br>
+        <b>christina.l.hedges@nasa.gov</b><br>
+        Lead Exoplanet Support<br>
+        Lead Asteroseismology Support
+    </div>
+    <div class="col-sm-4 text-center">
+        <img src="images/faces/ken.jpg" class="img-circle" style="padding-top:0.5em;"><br>
+        <b>Dr Ken Mighell</b><br>
+        <b>kenneth.j.mighell@nasa.gov</b><br>
+        K2 Pipeline Processing<br>
+        K2 Quality Control expert
+    </div>
+    <div class="col-sm-4 text-center">
+        <img src="images/faces/nick.jpg" class="img-circle" style="padding-top:0.5em;"><br>
+        <b>Mr Nick Saunders</b><br>
+        <b>nicholas.k.saunders@nasa.gov</b><br>
+        Lead Systematics Removal Expert<br>
+        Deputy Lead Exoplanet Support
     </div>
 </div>
 

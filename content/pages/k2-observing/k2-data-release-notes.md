@@ -8,6 +8,186 @@ including information on field pointing, target selection, observation times and
 
 <hr>
 
+# K2 Campaign 17
+
+<h2>At a glance</h2>
+
+<div class="col-lg-5">
+<p>
+Campaign 17 was flown in the forward velocity vector direction in order to enable simultaneous K2 and ground-based observations of numerous targets (supernovae, variable stars, exoplanets, etc.) in the C17 field of view.
+</p>
+
+<b><i>Pointing</i></b>
+<ul>
+<li> RA:  202.5496152 degrees</li>
+<li> Dec: -7.7210759 degrees</li>
+<li> Roll:  -20.7870925 degrees</li>
+</ul>
+
+<b><i>Targets</i></b>
+<ul>
+<li>  46,302 long cadence (LC) targets, including 14,314 galaxy targets.</li>
+<li>  179 short cadence (SC) targets.</li>
+<li>  24 moving objects were tiled with LC custom strip apertures. 6 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. See the <a href="images/release-notes/c17/kplr2018190145900_c17_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
+</ul>
+
+<b><i>Full Frame Images (FFI)</i></b>
+<ul>
+<li><a href="https://archive.stsci.edu/missions/k2/ffi/ktwo2018073065336-c17_ffi-cal.fits">ktwo2018073065336-c17_ffi-cal.fits</a>
+<li><a href="https://archive.stsci.edu/missions/k2/ffi/ktwo2018112122825-c17_ffi-cal.fits">ktwo2018112122825-c17_ffi-cal.fits</a>
+</ul>
+
+<b><i>First cadence</i></b>
+<ul>
+<li>Start Time: 2018-03-02 00:33:12 UTC</li>
+<li>Long Cadence Number: 158445</li>
+<li>Short Cadence Number: 4741810</li>
+</ul>
+
+<b><i>Last cadence</i></b>
+<ul>
+<li>End Time: 2018-05-08 02:33:28 UTC</li>
+<li>Long Cadence Number: 161727</li>
+<li>Short Cadence Number: 4840299</li>
+</ul>
+
+<b><i>Most Recent Processing Version</i></b>
+<ul>
+<li> <a href="k2-pipeline-release-notes.html#data-release-25">Data Release 25</a> </li>
+</ul>
+
+</div>
+
+<div class="col-lg-7">
+
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C17-FOV: Schematic of Kepler's C17 field-of-view with high profile objects. </i>
+</div>
+<a href="images/k2/k2-c17-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c17-field.png" id="c17fov" alt="C17 field of view with highlights showing numerous supernovae detected during campaign 17 and the first magnitude star Spica.">
+</a>
+</div>
+
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C17-Mag: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-17">GO Programs</a>
+were selected.</i>
+</div>
+<a href="images/release-notes/c17/c17_lc_magnitude_distribution.png">
+<img src="images/release-notes/c17/c17_lc_magnitude_distribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed C17 LC targets.">
+</a>
+</div>
+
+</div>
+
+<h2>Features and Events</h2>
+
+***Galaxies***
+
+There are 14,314 galaxies targeted in the C17 field of view; all but eight used standard aperture masks. The eight large galaxies were covered with large circular custom masks. The very large number of galaxies observed was due in part to the K2 Supernova Experiment (see below).
+
+<br>
+
+***Supernovae***
+
+The forward velocity vector orientation during C17 allowed for simultaneous ground-based observations of K2 targets. As shown in Figure C17-FOV, numerous supernovae were observed by Kepler and ground-based observatories during C17. More details of the supernova campaign can be found at the <a href="supernova-experiment/index.html">Supernova Experiment site</a>.
+
+<br>
+
+***Spica***
+
+The first magnitude star Spica fell on channel 48 for the entirety of campaign 17. Spica's optical ghost (due to reflection off the telescope's Schmidt corrector plate) is seen on the opposite side of the focal plane on channel 40. (See <a href="images/kepler_focal_plane_layout_channels_color.png">this schematic of the Kepler detector layout</a> for the positions of channels 40 and 48.) As can be seen in the FFI images below, the light from both Spica and its ghost cover a large portion of channels 48 and 40. As well Spica bleeds along its central columns, resulting in poor CCD calibration along those columns. Users with targets near Spica or its ghost are encouraged to take this information into account when interpreting observations of those targets, or if performing their own data reduction.
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C17-Spica: Spica as seen in an FFI on channel 48. The central columns are saturated along the entire detector, resulting in poor CCD calibration for those columns, thus causing them to appear dark.</i>
+<a href="images/release-notes/c17/c17_spica.png">
+<img src="images/release-notes/c17/c17_spica.png" class="img-responsive" alt="Spica as seen in an FFI on channel 48.">
+</a>
+</div>
+</div>
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C17-Spica-Ghost: the ghost image of Spica as seen in an FFI on channel 40 due to reflection off the Schmidt corrector plate. The ghost is equidistant and opposite the field of view center from Spica.</i>
+<a href="images/release-notes/c17/c17_spica_ghost.png">
+<img src="images/release-notes/c17/c17_spica_ghost.png" class="img-responsive" alt="the ghost image of Spica as seen in an FFI on channel 40.">
+</a>
+</div>
+</div>
+
+<br>
+
+***Pointing and Roll Performance***
+
+The C17 pointing and roll behavior are well within the limits of that seen
+in other K2 campaigns, with no degradation seen due to potentially low fuel levels.
+The pipeline-calculated maximum distance between the
+derived and nominal positions for any target (the "maximum attitude residual", or MAR)
+for C17 is less than 2.0 pixels, well under the 3-pixel limit accommodated by the aperture halos.
+
+As mentioned in the C14 release notes, a change in the on-board fine point fault logging threshold
+results in additional cadences being flagged as "Spacecraft is not in fine point"
+(QUALITY flag bit #16, decimal=32768). As a reminder, the project recommends that starting with C15,
+users look to QUALITY flag bit #3 as an accurate indicator of poor spacecraft pointing.
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C17-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C17.</i>
+<a href="images/release-notes/c17/c17_pad_pdq_attitude_roll.png">
+<img src="images/release-notes/c17/c17_pad_pdq_attitude_roll.png" class="img-responsive" alt="Pipeline measured roll error for C17.">
+</a>
+</div>
+</div>
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C17-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C17.</i>
+<a href="images/release-notes/c17/c17_pad_pdq_attitude_mar.png">
+<img src="images/release-notes/c17/c17_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the C17 attitude measured with PAD and PDQ.">
+</a>
+</div>
+</div>
+
+<br>
+
+<h2>Data Quality and Processing Notes</h2>
+
+***Light Curve Quality***
+
+As in previous campaigns, the 6-hour spacecraft roll cycle continues
+to dominate the systematic errors in C17 simple aperture photometry light curves.
+The pipeline CDPP 12th magnitude noise benchmark for C17 is
+the lowest seen since C6 and the third-lowest overall (just higher than C6 and C5) at the time of this processing.
+The improved precision compared to most other campaigns is likely due to a combination of lower star density,
+stable pointing (compared to most other campaigns), and the updated pipeline version (in-particular the use of the coarse-point flags; see <a href="k2-uniform-global-reprocessing-underway.html">the global reprocessing effort announcement</a> for details).
+
+The magnitude dependence of CDPP and its distribution over the focal plane are shown below. Other CDPP benchmarks can be found in the
+<a href="images/release-notes/c17/c17_bin1.00_sc1.00_CDPP_Summary_18051614.txt">
+table giving 6.5-hr CDPP as a function of magnitude.</a>
+<br>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C17-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>
+</div>
+<a href="images/release-notes/c17/c17_logg_CDPP_vs_model.png">
+<img src="images/release-notes/c17/c17_logg_CDPP_vs_model.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
+</a>
+</div>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C17-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
+<a href="images/release-notes/c17/c17_dwarf_CDPP_by_mod_out.png">
+<img src="images/release-notes/c17/c17_dwarf_CDPP_by_mod_out.png" class="img-responsive" alt="CDPP per channel for 12th and 14th magnitude dwarfs">
+</a>
+</div>
+
+
+<hr>
+
+<br>
+
+
 
 # K2 Campaign 16
 
@@ -3019,6 +3199,8 @@ The PDC quality flags were populated for some of the SC targets even though ther
 
 # K2 Campaign 3
 
+These release notes are for the C3 data currently available at MAST (Data Release 26) in the nominal K2 data locations, which have been processed with the final version of the K2 pipeline as part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a>. The original release notes corresponding to the previous version(s) of C3 data (Data Releases 5 and 10) can be found in the <a href="archived-k2-data-release-notes.html#k2-campaign-3">archived data release notes page</a>.
+
 <h2>At a glance</h2>
 
 <div class="col-lg-5">
@@ -3039,8 +3221,8 @@ The PDC quality flags were populated for some of the SC targets even though ther
 
     <b><i>Full Frame Images (FFI)</i></b>
     <ul>
-        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2014331202630-c03_ffi-cal.fits">ktwo2014331202630-c03_ffi-cal.fits</a></li>
-        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2015008010551-c03_ffi-cal.fits">ktwo2015008010551-c03_ffi-cal.fits</a></li>
+        <li><a href="https://archive.stsci.edu/missions/k2/ffi/ktwo2014331202630-c03_ffi-cal.fits">ktwo2014331202630-c03_ffi-cal.fits</a></li>
+        <li><a href="https://archive.stsci.edu/missions/k2/ffi/ktwo2015008010551-c03_ffi-cal.fits">ktwo2015008010551-c03_ffi-cal.fits</a></li>
     </ul>
 
     <b><i>First cadence</i></b>
@@ -3059,7 +3241,7 @@ The PDC quality flags were populated for some of the SC targets even though ther
 
     <b><i>Most Recent Processing Version</i></b>
     <ul>
-    <li> <a href="k2-pipeline-release-notes.html#data-release-10">Data Release 10</a> </li>
+    <li> <a href="k2-pipeline-release-notes.html#data-release-26">Data Release 26</a> </li>
     </ul>
 
 </div>
@@ -3068,10 +3250,10 @@ The PDC quality flags were populated for some of the SC targets even though ther
 
     <div class="thumbnail">
         <div class="caption">
-            <i>Figure: Schematic of Kepler's C3 field-of-view with selected targets shown with purple dots. Note, the use of an incorrect rotation angle in software used by Guest Observers to select targets has resulted in obvious variations in target density across the focal plane.</i>
+            <i>Figure: Figure C3-FOV: Schematic of Kepler's C3 field-of-view with high profile objects.</i>
         </div>
-        <a href="images/campaign_selected/C3_selected.png">
-            <img src="images/campaign_selected/C3_selected.png" class="img-responsive" alt="C3 field-of-view with selected targets">
+        <a href="images/k2/k2-c03-field.png">
+            <img src="images/k2/k2-c03-field.png" class="img-responsive" alt="C3 field-of-view with selected targets">
         </a>
     </div>
 
@@ -3090,7 +3272,14 @@ The PDC quality flags were populated for some of the SC targets even though ther
 
 ***Neptune***
 
-Neptune moved across the field of view during C3 and K2 observed it in both long and short cadence. Short cadence data were obtained approximately 20 days either side of the stationary point of Neptune. See this time lapse <a href="https://www.youtube.com/watch?v=Tw-q3uM_5_0">movie</a> created by Jason Rowe that clearly shows Neptune and its moons, Titan and Nereid. The custom aperture numbers associated with Neptune are 200004468--200004923. These observations were taken as part of Guest Observer Programs GO3060 (PI:Rowe) and GO3057 (PI:Gaulme).
+Neptune moved across the field of view during C3 and K2 observed it in both long and short cadence. Short cadence data were obtained approximately 20 days on each side of the stationary point of Neptune. The movie below shows Neptune and its moons, Triton and Nereid, as they move across the detector over approximately 50 days. Note that Neptune saturates the detector, which results in the observed spikes in the column direction as Neptune moves across the detector. The custom aperture numbers associated with Neptune are 200004468--200004923. These observations were taken as part of Guest Observer Programs GO3060 (PI:Rowe) and GO3057 (PI:Gaulme).
+
+<div class="thumbnail">
+<video width="100%" id="pelican-installation" class="video-js vjs-default-skin" controls loop preload="auto" data-setup="{}">
+<source src="images/release-notes/c3/k2-neptune-c3.mp4" type='video/mp4' alt="Movie of Neptune in C3">
+</video>
+</div>
+
 
 <br>
 
@@ -3102,64 +3291,60 @@ The Trans-Neptunian Object (225088) 2007 OR10 was observed with 2 masks and give
 
 ***Premature End***
 
-Campaign 3 had a nominal duration of 80 days, but an actual duration of only 69.2 days. The campaign ended earlier than expected because the on-board storage filled up faster than anticipated due to unusually poor data compression.
+Campaign 3 had a nominal duration of 80 days, but an actual duration of 69.2 days. The campaign ended earlier than expected because the on-board storage filled up faster than anticipated due to poorer than expected data compression.
+
+<br>
+
+***Aperture Halos***
+
+In order to ensure that the flux from each target is adequately captured in the presence of the K2 roll motion, for C3, 3-pixel halos were included around each target in the center half of the field of view, and 4-pixel halos around each target in the outer half of the field of view, as shown below. In comparison, many later campaigns were flown with only 2- and 3-pixel halos.
+
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C3-Halos: The number of halo pixels that were placed around each target in campaign 3 to account for K2 roll motion. Targets farther from the center of the focal plane have more halos due to experiencing greater motion due to the spacecraft roll.</i>
+</div>
+<a href="images/release-notes/c3/c3_halo_assignment.png">
+<img src="images/release-notes/c3/c3_halo_assignment.png" class="img-responsive" alt="Number of halo pixels around each target in C3">
+</a>
+</div>
+
+
+<br>
 
 
 <br>
 
 <h2>Data Quality and Processing Notes</h2>
 
-***Highlights of Pipeline Improvements***
-
-Campaign 3 (Data Release 5) data were the first K2 data processed with the SOC 9.3 pipeline. With this data release comes the higher-level data products. A detailed list of the pipeline developments that accompany this data release is listed on the [pipeline release page](k2-pipeline-release-notes.html#data-release-5). A few highlights are listed here:
-
-* Quality flags now indicate which cadences were obtained during thruster firings.
-* Background pixels were observerd and used to model the background level across the field of view. The calibrated pixels available in the target pixel files now have this background level removed.
-* Simple Aperture Photometry (SAP_FLUX) and cotrended (PDCSAP_FLUX) light curves are available for long cadence data.
-* The FFIs now contain a World Coordinate Solution.
-
-<br>
-
 ***Light Curve Quality***
 
-The dominant systematic present in K2 simple aperture photometry light curves is a sawtooth shape that is due to the roll of the spacecraft approximately every 6 hours. The PDC module of the Kepler Pipeline uses Principle Component Analysis to remove this signal in addition to other systematics. Below, we examine observed trends and noise levels in the PDC light curves for C3 (as measured using Data Release 5).
+As in other campaigns, the 6-hour spacecraft roll cycle dominates the systematic errors in C3 simple aperture photometry light curves.
+The pipeline CDPP 12th magnitude noise benchmark for C3 (DR26) is comparable to that seen in other campaigns with similar star density.
 
-<div class="thumbnail" style="width: 68%;">
-    <div class="caption">
-        <i>Figure: CDPP measured for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP but often show a residual sawtooth. All cadences flagged as having definite thruster firings are gapped.</i>
-    </div>
-    <a href="images/release-notes/c3/cdpp_vs_mag.png">
-        <img src="images/release-notes/c3/cdpp_vs_mag.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude">
-    </a>
-</div>
-
-<div class="thumbnail" style="width: 68%;">
-    <div class="caption">
-        <i>Figure: The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. This figure shows the 10th percentile CDPP of the 12th magnitude targets across the focal plane. The better performance near the center is evident.</i>
-    </div>
-    <a href="images/release-notes/c3/tenth_prctile_cdpp.png">
-        <img src="images/release-notes/c3/tenth_prctile_cdpp.png" class="img-responsive" alt="10th percentile CDPP of the 12th magnitude targets across the focal plane">
-    </a>
-</div>
-
-<div class="thumbnail" style="width: 68%;">
-    <div class="caption">
-        <i>Figure: Tests show that stellar signals are well preserved out to a period of about 20 days. However sometimes the stellar signals are partially masked by residual sawtooth.
-</i>
-    </div>
-    <a href="images/release-notes/c3/amplitude_study_1_6379_amp.png">
-        <img src="images/release-notes/c3/amplitude_study_1_6379_amp.png" class="img-responsive" alt="Tests show that stellar signals are well preserved out to a period of about 20 days.">
-    </a>
-</div>
-
-The short cadence light curves produced by the Kepler pipeline are inadequate for scientific research and are not being released at this time.
-
+The magnitude dependence of CDPP and its distribution over the focal
+plane are shown below. Other CDPP benchmarks can be found in the
+<a href="images/release-notes/c3/c3_bin1.00_sc1.00_CDPP_Summary_18081817.txt">
+table giving 6.5-hr CDPP as a function of magnitude.</a>
 
 <br>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C3-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>
+</div>
+<a href="images/release-notes/c3/cdpp_vs_mag_dr26.png">
+<img src="images/release-notes/c3/cdpp_vs_mag_dr26.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
+</a>
+</div>
 
-***Reduced Noise from Change in Bandwidth***
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C3-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
+</div>
+<a href="images/release-notes/c3/c3_dwarf_CDPP_by_mod_out_dr26.png">
+<img src="images/release-notes/c3/c3_dwarf_CDPP_by_mod_out_dr26.png" class="img-responsive" alt="CDPP per channel for 12th and 14th magnitude dwarfs">
+</a>
+</div>
 
-The change in bandwidth for pointing control (from 50 to 20 seconds) for C3 resulted in an increase in SNR for short cadence by a factor of roughly 4--9, with the larger improvement seen at the higher frequency end. Note, the bandwidth pointing control parameter was set to 10 seconds for the original Kepler Mission.
 
 <br>
 

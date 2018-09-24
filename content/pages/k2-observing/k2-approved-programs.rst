@@ -44,6 +44,51 @@ All campaigns to date
 
 -----------
 
+Campaign 20
+-----------
+.. raw:: html
+
+  <p>
+    The Campaign 20 target list includes
+    <b>14,789 standard long cadence</b>
+    and <b>210 standard short cadence</b> targets
+    located towards the constellation of Taurus.
+    The Campaign partially overlaps with Campaigns 4 and 13,
+    while also surveying 20 deg<sup>2</sup> of previously unstudied sky.
+  </p>
+
+  <p>
+    Campaign 20 will revisit the <b>Taurus-Auriga star-forming region</b> in the forward-facing mode. The region contains a large number of very young stars (<10 Myr) and the Campaign will significantly increase the number of such stars observed by Kepler. The field also includes members of the Pleiades (∼100 Myr) and Hyades (∼600 Myr) star clusters. The observations will improve the estimation of planet occurence rates as a function of stellar age, and will also enable the baseline of variability studies of young stars to be extended by including targets previously observed during Campaign 4 (2015) and Campaign 13 (2017).
+  </p>
+
+  <p>
+    The target list also contains a large number of main sequence stars, white dwarfs, flare stars, brown dwarfs, solar analogs, and classical variables which will enable a wide array of investigations.
+  </p>
+
+  <ul class="list-group">
+    <li class="list-group-item">
+      <i class="fa fa-calendar fa-margin"></i>
+      Oct 15, 2018 - Jan 5, 2019
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-pencil-square-o fa-margin"></i>
+      Data release notes (awaiting data release)
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-download fa-margin"></i>
+      <a href="data/campaigns/c20/K2Campaign20targets.csv">Target list (csv)</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-external-link fa-margin"></i>
+      Target pixel files (awaiting data release)
+    </li>
+  </ul>
+
+.. include:: approved-programs/c20.html
+
+
+-----------
+
 Campaign 19
 -----------
 .. raw:: html
@@ -89,7 +134,7 @@ Campaign 19
   <ul class="list-group">
     <li class="list-group-item">
       <i class="fa fa-calendar fa-margin"></i>
-      Aug 6, 2018 - Oct 10, 2018
+      TBC
     </li>
     <li class="list-group-item">
       <i class="fa fa-pencil-square-o fa-margin"></i>
@@ -197,7 +242,7 @@ Campaign 18
   <ul class="list-group">
     <li class="list-group-item">
       <i class="fa fa-calendar fa-margin"></i>
-      May 12, 2018 - Aug 2, 2018
+      May 12, 2018 - Jul 2, 2018
     </li>
     <li class="list-group-item">
       <i class="fa fa-pencil-square-o fa-margin"></i>
@@ -318,7 +363,7 @@ Campaign 17
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
-      Target pixel files (awaiting data release)
+      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c17">Target pixel files (MAST)</a>
     </li>
   </ul>
 
@@ -442,7 +487,7 @@ Campaign 15
 
     <p>
         The Campaign 15 target list includes <b>23,279 standard long cadence</b>
-        and <b>119 standard short cadence</b> targets
+        and <b>118 standard short cadence</b> targets
         located towards the constellations of Scorpius.
     </p>
 
