@@ -1,0 +1,17 @@
+# Summary of K2 Program GO20015
+
+Title: Searching Wide subdwarf B Binary Systems Using the Light Time Delay Method
+
+PI: Otani, T. (Embry-Riddle Aeronautical University)
+CoIs: T. Oswalt
+
+We propose to observe two subdwarf B stars to determine orbital solutions for binary and/or substellar companions to the host stars using the light-time delay in pulsation times. Subdwarf B (sdB) stars are post main sequence core helium burning objects, located in the extreme horizontal branch (EHB) part of the H-R diagram. They comprise a substantial fraction of the luminosity of the UV-bright components of spiral galaxy bulges and elliptical galaxies. Understanding their origin is essential to modeling stellar populations in our own and other galaxies. Such stars have experienced mass loss at the end of the red giant branch phase (Bonanno et al. 2003), in which the hydrogen envelope is lost, leaving a helium core with a very thin inert hydrogen rich envelope. However, the formation mechanism of sdB stars, i.e. why they lose their hydrogen envelopes, is a matter of current debate. Plausible sdB formation channels include common-envelope (CE) ejection (Paczynski 1976; Han et al. 2002), stable Roche-lobe overflow (RLOF; Han et al. 2000, 2002), and binary white-dwarf (WD) merger (Webbing 1984). Among these, the CE channel results in short period binary systems (< 10 days) and the RLOF channel results long period binary systems. About 150 short-period sdB systems were studied (Kawka et al. 2015; Kupfer 2015, and references therein). However, orbital solutions for only 12 sdB in wide binary systems have been obtained so far (Vos et al. 2017; Otani et al. 2018). More wide binary orbital solutions are needed to constrain the RLOF channel for sdB.
+
+The most common method to find the orbital solutions of binaries is the radial velocity method. However, for sdB stars with stable pulsations, the pulsation timing method can be used to find the orbital solutions for binary systems (this is particularly useful for long period binaries). A companion can be detected from the periodic change in pulse arrival times as the star’s reflex motion is manifested by the changing distance and light travel time along the line of sight. The search is sensitive enough to detect Jovian planets (Silvotti et al. 2014). PI Otani and Co-I Oswalt obtaind an orbital solution for a wide binary system with an sdB star, EC 20117-4014 (Otani et al. 2018).
+
+We propose short cadence observations of two sdB stars with K2 Campaign 20. Our objective of this study is to find orbital solutions for binary and substellar companions to sdB stars using timing method. This research will provide us more examples of sdB binaries, and it will help us to search the detail of sdB formation mechanism.
+
+# Targets requested by this program that have been observed (2)
+EPIC,RA,Dec,Kp,InvestigationIDs
+246901153, 69.942822, 16.764441, 15.697, GO20005_LC|GO20015_LC|GO20005_SC|GO20015_SC
+246980092, 72.773607, 17.530337, 15.739, GO20015_LC|GO20015_SC

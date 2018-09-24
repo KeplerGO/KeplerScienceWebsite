@@ -1,0 +1,14 @@
+# Summary of K2 Program GO20017
+
+Title: Are Binary Young Stars Behaving?
+
+PI: Manara, C. (European Southern Observatory)
+CoIs: 
+
+K2 has revealed previously unknown behavior of the light curves of young pre-main-sequence stars, including dips, burst, irregular variability. The origin of many of these behaviors is still unknown. This program, targeting the primary component of three known binary systems never observed with K2 and currently being investigated with ALMA, will make the link between the behavior of stars in binary systems with the properties of their disks.
+
+# Targets requested by this program that have been observed (3)
+EPIC,RA,Dec,Kp,InvestigationIDs
+247014982, 68.414003, 17.864526, 13.302, GO20002_LC|GO20017_LC|GO20021_LC|GO20026_LC|GO20029_LC|GO20903_LC|GO20905_LC|GO20017_SC
+248009353, 68.178394, 25.875366, 11.645, GO20002_LC|GO20017_LC|GO20021_LC|GO20026_LC|GO20907_LC|GO20908_LC|GO20017_SC
+248096015, 67.423154, 26.549489, 11.467, GO20002_LC|GO20017_LC|GO20021_LC|GO20026_LC|GO20033_LC|GO20902_LC|GO20903_LC|GO20907_LC|GO20908_LC|GO20017_SC

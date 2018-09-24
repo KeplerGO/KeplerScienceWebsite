@@ -1,0 +1,24 @@
+# Summary of K2 Program GO20028
+
+Title: Traversing the Substellar Boundary with K2
+
+PI: Ward-Duong, K. (Amherst)
+CoIs: M. Peterson, K. Follette, S. Edwards, M. Eiben, L. Komarova
+
+We propose to obtain long-cadence K2 observations of 13 very low-mass Taurus members, including the lowest-mass stars (M <= 0.35 Msolar) and brown dwarfs. The targets include 10 objects which have not been targeted in previous observations with K2, and provide critical measurements at the substellar boundary. The targets will inform recently reported spin-mass relationships bridging planetary and stellar populations. The requested observations will be coupled with an on-going, dedicated ground-based photometric monitoring program in the VRI+Halpha bands with the WIYN 0.9m/Half-Degree Imager (HDI). K2 will provide uninterrupted high-precision monitoring complementary to the cadence of the ground-based data, the latter of which is sensitive to ~few day rotation rates but not longer-term variability corresponding to spot growth and recession, dimming events from circumstellar material, and/or longer-term periodicity. Two objects revisited from K2 Campaign 13 will also provide a baseline to determine if/how lightcurve morphologies evolve over the course of 1.5 year timescales. The proposed observations will be synthesized with available NIR to sub-mm observations to trace disk environments and explore the interplay between brown dwarf-disk interactions and the evolution of substellar angular momentum.
+
+# Targets requested by this program that have been observed (13)
+EPIC,RA,Dec,Kp,InvestigationIDs
+210698143, 67.81579, 18.335302, 14.677, GO20021_LC|GO20026_LC|GO20028_LC|GO20029_LC|GO20905_LC
+210699801, 67.990804, 18.360528, 12.484, GO20002_LC|GO20021_LC|GO20026_LC|GO20027_LC|GO20028_LC|GO20029_LC|GO20907_LC|GO20908_LC
+251878097, 64.742242, 28.206524, 17.374, GO20008_LC|GO20011_LC|GO20021_LC|GO20026_LC|GO20028_LC
+251878748, 64.456474, 28.225515, 16.322, GO20008_LC|GO20021_LC|GO20026_LC|GO20028_LC
+251880359, 64.629668, 28.274716, 13.936, GO20002_LC|GO20014_LC|GO20021_LC|GO20026_LC|GO20028_LC|GO20903_LC|GO20907_LC
+251880614, 64.631665, 28.282961, 13.978, GO20014_LC|GO20021_LC|GO20026_LC|GO20028_LC|GO20903_LC|GO20908_LC
+251882176, 64.754609, 28.328346, 12.215, GO20008_LC|GO20021_LC|GO20026_LC|GO20028_LC
+251883807, 64.75823, 28.375891, 17.973, GO20008_LC|GO20014_LC|GO20021_LC|GO20026_LC|GO20028_LC
+251885939, 64.533186, 28.434361, 16.389, GO20008_LC|GO20021_LC|GO20026_LC|GO20028_LC|GO20907_LC
+251886798, 64.897722, 28.456058, 13.492, GO20008_LC|GO20021_LC|GO20026_LC|GO20028_LC|GO20907_LC|GO20908_LC
+251887683, 64.571277, 28.478312, 14.289, GO20008_LC|GO20021_LC|GO20026_LC|GO20028_LC
+251888245, 64.803386, 28.492495, 13.365, GO20021_LC|GO20026_LC|GO20028_LC
+251888277, 64.456936, 28.493422, 12.646, GO20021_LC|GO20026_LC|GO20027_LC|GO20028_LC|GO20908_LC

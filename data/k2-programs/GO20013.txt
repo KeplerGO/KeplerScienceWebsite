@@ -1,0 +1,22 @@
+# Summary of K2 Program GO20013
+
+Title: Developing Predictors of Radial Velocity Jitter From K2 Light Curves
+
+PI: Bastienne, F. (Penn State U)
+CoIs: J. Luhn, J. Wright
+
+We propose to use the high-precision light curves from the K2 mission with archival radial velocity (RV) jitter and activity measurements to (1) develop an empirical relation between RV jitter and light curve variations, following the methodology developed by Bastien et al. (2014) and (2) determine the dependency of the relation on age, spectral type, and magnetic activity. These relations will prove useful for RV follow-up of existing transiting exoplanet candidates and for predicting which stars without transiting planets make good RV targets. We will use them to identify targets that have low levels of RV jitter and use them to uncover the physical causes of RV jitter, which will help optimize the use of upcoming RV facilities like NASA’s NEID spectrograph.
+
+# Targets requested by this program that have been observed (11)
+EPIC,RA,Dec,Kp,InvestigationIDs
+200263347, , , , GO20009|GO20011|GO20013|GO20016|GO20023|GO20024|39_TAURI-SC-BRIGHT_STAR_DISC
+210585085, 66.667173, 16.7469, 8.512, GO20009_LC|GO20011_LC|GO20013_LC|GO20027_LC|GO20030_LC
+210690735, 67.516651, 18.230399, 10.389, GO20002_LC|GO20013_LC|GO20021_LC|GO20026_LC|GO20908_LC
+210899260, 65.843041, 21.379097, 9.518, GO20009_LC|GO20011_LC|GO20013_LC|GO20027_LC|GO20030_LC
+210938993, 61.334409, 22.008902, 5.775, GO20009_LC|GO20011_LC|GO20013_LC|GO20016_LC|GO20023_LC|GO20024_LC
+247104409, 70.755959, 18.711648, 9.516, GO20011_LC|GO20013_LC|GO20903_LC|GO20905_LC
+247340158, 70.328568, 20.901513, 10.102, GO20011_LC|GO20013_LC
+247520207, 69.824111, 22.350905, 11.488, GO20002_LC|GO20013_LC|GO20021_LC|GO20026_LC|GO20029_LC|GO20902_LC|GO20908_LC|GO20029_SC
+247766447, 73.341853, 24.177365, 8.357, GO20009_LC|GO20013_LC
+251832625, 63.697105, 26.774006, 12.889, GO20002_LC|GO20013_LC|GO20021_LC|GO20026_LC|GO20903_LC|GO20907_LC|GO20908_LC
+251833275, 63.699432, 26.803066, 12.736, GO20002_LC|GO20013_LC|GO20021_LC|GO20026_LC|GO20903_LC|GO20907_LC|GO20908_LC

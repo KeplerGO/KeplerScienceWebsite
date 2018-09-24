@@ -1,0 +1,12 @@
+# Summary of K2 Program GO20910
+
+Title: Short-cadence observations in C20 of ASASSN-16pm, the first eclipsing polar visible to Kepler
+
+PI: Littlefield, Colin (University of Notre Dame)
+CoIs: Peter Garnavich
+
+We request director’s discretionary time in Campaign 20 for short-cadence (SC) observations of ASASSN-16pm — the first eclipsing polar to be visible to Kepler. Unlike nearly every other cataclysmic variable star (CV) observed by Kepler, ASASSN-16pm is a polar, meaning that it is an interacting binary featuring an accreting white dwarf (WD) with a magnetic field so strong that it prevents the formation of an accretion disk, synchronizing the WD’s rotational period to the binary orbital period. The accretion flow is channeled along the WD’s magnetic field lines until it slams into a small accretion region near one of the WD’s magnetic poles. ASASSN-16pm has the distinction of being the only K2 -observable polar in which the companion star (mostly likely an M-dwarf) eclipses the WD.
+
+# Targets requested by this program that have been observed (1)
+EPIC,RA,Dec,Kp,InvestigationIDs
+200263349, , , , GO20910_SC|CUSTOM_ASASSN_16PM
