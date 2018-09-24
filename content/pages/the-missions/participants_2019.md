@@ -16,7 +16,7 @@ The current list of 46 conference participants is below (last update: September 
 * Knicole Colon, NASA Goddard Space Flight Center
 * Jeffrey Coughlin, SETI Institute/NASA Ames
 * Trevor David, JPL
-* Georgios Dimitriadis, University of California, Santa Cruz0
+* Georgios Dimitriadis, University of California, Santa Cruz
 * Jessie Dotson, NASA Ames Research Center
 * Maura Fujieh, NASA Ames Research Center
 * Sankalp Gilda, Institute for Astronomy, University of Hawaii
