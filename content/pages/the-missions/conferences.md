@@ -8,8 +8,8 @@ Save_as: conferences.html
 <table class="table table-striped table-hover" style="max-width:55em;">
   <tr>
     <td style="width: 9em;">Jan 6-10, 2019</td>
-    <td style="width: 25em;">Kepler & K2 Special Sessions at AAS233 in Seattle</td>
-    <td>Details coming soon</td>
+    <td style="width: 25em;"><a href="two-kepler-special-sessions-at-the-winter-aas.html">Kepler & K2 Special Sessions at AAS233 in Seattle</a></td>
+    <td><a href="two-kepler-special-sessions-at-the-winter-aas.html">schedule</a></td>
   </tr>
 
   <tr>

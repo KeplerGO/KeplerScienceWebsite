@@ -135,11 +135,11 @@ MEETINGS = (
              'Kepler/K2 Booth at #DPS50 (Knoxville)',
              'https://aas.org/meetings/dps49'),
             ('<b>6–10 Jan 2019</b><br>'
-             'Kepler/K2 booth at #AAS233 (Seattle)',
+             'Kepler/K2 Booth at #AAS233',
              'https://aas.org/meetings/aas233'),
             ('<b>10 Jan 2019</b><br>'
-             'Kepler/K2 Special Session at #AAS233',
-             'https://aas.org/meetings/aas233'),
+             'Kepler/K2 Special Session at #AAS233'
+             'two-kepler-special-sessions-at-the-winter-aas.html')
             ('<b>4-8 Mar 2019</b><br>'
              'Kepler & K2 Sci Con V (Glendale)',
              'scicon-2019/index.html')
