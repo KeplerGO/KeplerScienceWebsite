@@ -86,7 +86,9 @@ The conference location and hotel is the Hilton Los Angeles North/Glendale & Exe
 <a href='#contact'>If you are interested in shared housing, please contact us so we can
 connect you with others interested as well.</a>
 
-Self parking is free for this conference and for overnight guests, includes in/out privileges.  The rate for valet parking is $19/day.  Attendees not staying at the hotel will need to inform the attendant that they are attending the Kepler meeting to get these parking rates.
+For Attendees Staying at the Hotel: Self parking is free for this conference and includes in/out privileges.  
+For Attendees Not Staying at the Hotel (Day Guests): Self parking is still free.  Just inform the attendant that you are attending the Kepler meeting.
+Everyone: If you wish to use valet parking, the rate is $19/day.
 
 ### Travel Support
 
