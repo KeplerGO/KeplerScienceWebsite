@@ -37,14 +37,14 @@ AAS Special Session, Tuesday Jan 8, 2019.
 
  - 10:00am — “Overview of the Kepler/K2 Supernova Experiment” — <i>Jessie Dotson, Kepler/K2 Project Scientist</i>
  - 10:10am — Transients observed by the first Kepler Mission:
-    - “Type II Plateau Supernovae with K2/Kepler” — <i>Peter Garnavich, Notre Dame</i> (5 min)
-    - “A Fast-Evolving, Luminous Transient Discovered by K2/Kepler” — <i>Armin Rest, STScI</i> (5 min)
+    - “Type II Plateau Supernovae with K2/Kepler” — <i>Peter Garnavich, Notre Dame</i>
+    - “A Fast-Evolving, Luminous Transient Discovered by K2/Kepler” — <i>Armin Rest, STScI</i>
  - 10:20am — “A Tidal Disruption Event in a Seyfert 2 Observed with K2” — <i>Ed Shaya, UMD</i>
  - 10:30am — “Searching for Binary Companions in Kepler Type Ia SNe” — <i>Ashley Villar, CfA</i>
  - 10:40am — K2 supernova SN 2018oh:
-    - “K2 Observations of SN 2018oh Reveal a Two-Component Rising Light Curve for a Type Ia Supernova” — <i>Georgios Dimitriadis, UC Santa Cruz</i> (7 min)
-    - "Seeing Double: ASASSN-18bt Exhibits a double-power-law Rise in the Early-Time K2 Light Curve" — <i>Ben Shappee, IfA</i> (7 min)
-    - “Constraints on the ejecta parameters of SN 2018oh from photometry” — <i>Wenxiong Li, Tsinghua University</i> (6 min)
+    - “K2 Observations of SN 2018oh Reveal a Two-Component Rising Light Curve for a Type Ia Supernova” — <i>Georgios Dimitriadis, UC Santa Cruz</i>
+    - "Seeing Double: ASASSN-18bt Exhibits a double-power-law Rise in the Early-Time K2 Light Curve" — <i>Ben Shappee, IfA</i>
+    - “Constraints on the ejecta parameters of SN 2018oh from photometry” — <i>Wenxiong Li, Tsinghua University</i>
  - 11:00am — “Learning about SN Ia progenitors with SN 2018agk” — <i>Gautham Narayan, STScI</i>
  - 11:10am — “The K2 Light curve of SN 2018adg” — <i>Maria Drout, Toronto</i>
  - 11:20am — "The K2 Background Survey and a new WZ Sge star in K2" — <i>Ryan Ridden-Harper, ANU</i>
