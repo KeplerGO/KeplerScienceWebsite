@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 50 conference participants is below (last update: September 27, 2018).
+The current list of 51 conference participants is below (last update: September 28, 2018).
 
 * Robert Baker, Wildwood School
 * Thomas Barclay, NASA Goddard Space Flight Center
@@ -38,6 +38,7 @@ The current list of 50 conference participants is below (last update: September 
 * Eric Mamajek, JPL/NASA
 * Tannaz Oskui, CSULA/UCLA
 * Enric Palle, Instituto de Astrofisica de Canarias
+* Geraldine Peters, University of Southern California
 * Andreas Quirrenbach, Univ. Heidelberg
 * Luisa Rebull, Caltech/IPAC-IRSA
 * Ryan Ridden-Harper, Australian National University
