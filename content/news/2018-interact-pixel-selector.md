@@ -10,7 +10,7 @@ What's new is the ability to click on individual pixels in the target pixel file
 The lightcurve on the lefthand side of the plot instantaneously re-renders a lightcurve by adding the flux across all the demarcated pixels.
 A user may hold *shift* and mouse-click to select many pixels in sequence, or may click and drag a box to select a box of pixels.  Pixels may be *de*-selected by clicking a pixel while holding *shift*.
 
-The animation below demonstrates how this tool may be used to identify the background Eclipsing Binary near the false positive planet candidate KOI-6.
+The animation below demonstrates how this tool may be used to identify the background Eclipsing Binary near the false positive planet candidate KOI 6.01.
 
 <p>
 <img class="img-responsive" src="images/news/20180925_interact_EB_contam.gif" alt="New Lightkurve tpf.interact() tool" style="max-width:800px;">
