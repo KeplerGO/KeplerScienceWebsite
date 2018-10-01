@@ -18,8 +18,8 @@ directorate.*
 
 The Guest Observer office curates a list of scientific publications
 pertaining to Kepler and K2.
-The database contains 2888 publications,
-of which 2565 are peer-reviewed.
+The database contains 2918 publications,
+of which 2574 are peer-reviewed.
 It demonstrates the important impact of Kepler/K2 data
 on astronomical research.
 
@@ -38,7 +38,7 @@ You also can mine the database yourself by accessing a spreadsheet of the public
 If you spot an error, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/KeplerGO/kpub">GitHub repository</a> of the database.
 
-Last update: 12 Sep 2018.
+Last update: 01 Oct 2018.
 
 <hr/>
 
@@ -46,9 +46,9 @@ Last update: 12 Sep 2018.
 
 The graph below shows the number of publications as a function
 of year and mission.
-The publication count for Kepler is 2412
-while that of K2 is 476.
-The number of refereed papers is 2158 for Kepler and 407 for K2.
+The publication count for Kepler is 2428
+while that of K2 is 490.
+The number of refereed papers is 2164 for Kepler and 410 for K2.
 
 [![Publication rate by mission and year](/images/kpub/kpub-publication-rate-without-extrapolation.png)](/images/kpub/kpub-publication-rate-without-extrapolation.png)
 
@@ -58,9 +58,9 @@ The number of refereed papers is 2158 for Kepler and 407 for K2.
 
 Both Kepler and K2 data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 1366 works relate to exoplanets
+While 1382 works relate to exoplanets
 (47%),
-a total of 1522
+a total of 1536
 pertain to other areas of astrophysics
 (53%).
 
@@ -73,7 +73,7 @@ The graph below details the breakdown of K2 papers by science topic.
 ## Most-cited publications
 
 Kepler/K2 publications have cumulatively been cited
-81156 times.
+81161 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -173,9 +173,9 @@ Buchhave, Lars A., Latham, David W., Johansen, Anders, et al.
 [2012Natur.486..375B](http://adsabs.harvard.edu/abs/2012Natur.486..375B)
 <span class="badge">326 citations</span>
 
-20. ARCHITECTURE OF KEPLER'S MULTI-TRANSITING SYSTEMS. II. NEW INVESTIGATIONS WITH TWICE AS MANY CANDIDATES  
-Fabrycky, Daniel C., Lissauer, Jack J., Ragozzine, Darin, et al.    
-[2014ApJ...790..146F](http://adsabs.harvard.edu/abs/2014ApJ...790..146F)
+20. OBLIQUITIES OF HOT JUPITER HOST STARS: EVIDENCE FOR TIDAL INTERACTIONS AND PRIMORDIAL MISALIGNMENTS  
+Albrecht, Simon, Winn, Joshua N., Johnson, John A., et al.    
+[2012ApJ...757...18A](http://adsabs.harvard.edu/abs/2012ApJ...757...18A)
 <span class="badge">312 citations</span>
 <hr/>
 
@@ -193,7 +193,7 @@ within the last 90 days.
 ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 4878 unique author names.
+by a total of 4905 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
 
@@ -205,184 +205,188 @@ Here we list the most-active authors, defined as those with six or more first-au
 
  * Kjurkchieva, D (15 publications)
 
- * Borucki, W (13 publications)
-
  * Kane, S (13 publications)
 
  * Murphy, S (13 publications)
 
- * Steffen, J (12 publications)
+ * Scaringi, S (13 publications)
 
- * Jenkins, J (12 publications)
+ * Borucki, W (13 publications)
 
  * Huber, D (12 publications)
 
- * Scaringi, S (12 publications)
-
- * Stello, D (12 publications)
+ * Steffen, J (12 publications)
 
  * Rappaport, S (12 publications)
 
- * Baran, A (11 publications)
+ * Stello, D (12 publications)
 
- * Beck, P (11 publications)
-
- * Armstrong, D (11 publications)
+ * Jenkins, J (12 publications)
 
  * Vanderburg, A (11 publications)
 
- * Van Eylen, V (10 publications)
+ * Armstrong, D (11 publications)
 
- * Corsaro, E (10 publications)
+ * Beck, P (11 publications)
+
+ * Baran, A (11 publications)
 
  * Petigura, E (10 publications)
 
- * Hekker, S (10 publications)
+ * Van Eylen, V (10 publications)
 
- * Mosser, B (10 publications)
+ * Hekker, S (10 publications)
 
  * Molnar, L (10 publications)
 
- * Gaidos, E (10 publications)
-
  * Wang, J (10 publications)
 
- * Silva Aguirre, V (9 publications)
+ * Mosser, B (10 publications)
 
- * Campante, T (9 publications)
+ * Gaidos, E (10 publications)
+
+ * Corsaro, E (10 publications)
 
  * Chaplin, W (9 publications)
 
+ * Silva Aguirre, V (9 publications)
+
+ * Lee, J (9 publications)
+
+ * Hermes, J (9 publications)
+
  * Mann, A (9 publications)
 
- * Zhu, W (9 publications)
+ * Campante, T (9 publications)
+
+ * Plachy, E (9 publications)
+
+ * Mathur, S (9 publications)
+
+ * Heller, R (9 publications)
 
  * Santerne, A (9 publications)
+
+ * Zhu, W (9 publications)
 
  * Metcalfe, T (9 publications)
 
  * Molenda-Zakowicz, J (9 publications)
 
- * Lee, J (9 publications)
-
- * Heller, R (9 publications)
-
  * Ramsay, G (9 publications)
-
- * Hermes, J (9 publications)
-
- * Mathur, S (9 publications)
-
- * Sanchis-Ojeda, R (8 publications)
-
- * David, T (8 publications)
-
- * Guzik, J (8 publications)
-
- * Ostensen, R (8 publications)
-
- * Christiansen, J (8 publications)
-
- * Lillo-Box, J (8 publications)
-
- * Hirano, T (8 publications)
-
- * Plachy, E (8 publications)
-
- * Dressing, C (8 publications)
 
  * Kato, T (8 publications)
 
  * Lund, M (8 publications)
 
- * Mocnik, T (7 publications)
+ * Sanchis-Ojeda, R (8 publications)
 
- * Masuda, K (7 publications)
+ * Ostensen, R (8 publications)
 
- * Wang, S (7 publications)
+ * Dressing, C (8 publications)
+
+ * Morris, B (8 publications)
+
+ * Lillo-Box, J (8 publications)
+
+ * David, T (8 publications)
+
+ * Hirano, T (8 publications)
+
+ * Guzik, J (8 publications)
+
+ * Christiansen, J (8 publications)
 
  * Howell, S (7 publications)
 
- * Shporer, A (7 publications)
-
  * Gilliland, R (7 publications)
 
- * Salabert, D (7 publications)
+ * Mocnik, T (7 publications)
 
- * Hippke, M (7 publications)
-
- * Reed, M (7 publications)
-
- * Tkachenko, A (7 publications)
-
- * Dawson, R (7 publications)
-
- * Almenara, J (7 publications)
-
- * Morris, B (7 publications)
-
- * Lopez, E (7 publications)
+ * Wang, S (7 publications)
 
  * Davenport, J (7 publications)
 
+ * Salabert, D (7 publications)
+
+ * Reed, M (7 publications)
+
+ * Dawson, R (7 publications)
+
+ * Hippke, M (7 publications)
+
+ * Shporer, A (7 publications)
+
+ * Dai, F (7 publications)
+
+ * Almenara, J (7 publications)
+
+ * Lopez, E (7 publications)
+
  * Karoff, C (7 publications)
+
+ * Masuda, K (7 publications)
+
+ * Tkachenko, A (7 publications)
 
  * Montet, B (7 publications)
 
- * Szabo, R (6 publications)
-
- * Demory, B (6 publications)
-
- * Dong, Y (6 publications)
-
- * Chatterjee, S (6 publications)
-
- * Faigler, S (6 publications)
-
- * Muirhead, P (6 publications)
-
- * Benomar, O (6 publications)
-
- * Lissauer, J (6 publications)
-
- * Morton, T (6 publications)
-
- * White, T (6 publications)
-
- * Batalha, N (6 publications)
-
- * Buldgen, G (6 publications)
-
  * Johnson, J (6 publications)
-
- * Dai, F (6 publications)
-
- * Papics, P (6 publications)
-
- * Barclay, T (6 publications)
-
- * Zeng, L (6 publications)
-
- * Fuller, J (6 publications)
 
  * Katsova, M (6 publications)
 
- * Ziegler, C (6 publications)
+ * Demory, B (6 publications)
 
- * Kallinger, T (6 publications)
-
- * Gizis, J (6 publications)
-
- * Garcia, R (6 publications)
-
- * Nielsen, M (6 publications)
-
- * Basri, G (6 publications)
+ * Batalha, N (6 publications)
 
  * Miglio, A (6 publications)
 
+ * Muirhead, P (6 publications)
+
+ * Barclay, T (6 publications)
+
+ * Dong, Y (6 publications)
+
+ * Basri, G (6 publications)
+
+ * Lissauer, J (6 publications)
+
+ * Gizis, J (6 publications)
+
+ * Kallinger, T (6 publications)
+
  * Koch, D (6 publications)
+
+ * Benomar, O (6 publications)
+
+ * Owen, J (6 publications)
+
+ * Zeng, L (6 publications)
+
+ * Ziegler, C (6 publications)
+
+ * Morton, T (6 publications)
+
+ * Papics, P (6 publications)
 
  * Arkhypov, O (6 publications)
 
- * Owen, J (6 publications)
+ * Colon, K (6 publications)
+
+ * Chatterjee, S (6 publications)
+
+ * Borkovits, T (6 publications)
+
+ * White, T (6 publications)
+
+ * Faigler, S (6 publications)
+
+ * Buldgen, G (6 publications)
+
+ * Nielsen, M (6 publications)
+
+ * Szabo, R (6 publications)
+
+ * Fuller, J (6 publications)
+
+ * Garcia, R (6 publications)
