@@ -1,5 +1,5 @@
 Title: K2 Campaign 19 ended to downlink data
-Date: 2018-09-30 10:00
+Date: 2018-10-01 09:30
 Author: Geert Barentsen
 
 Kepler's latest observing campaign, K2 Campaign 19, started on August 29 after
