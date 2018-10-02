@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<!--
+Crafted with ♥ by Geert Barentsen, Thomas Barclay & Knicole colon at NASA Ames
+in August 2015, using pelican-bootstrap and flatly.
+-->
+<html lang="en"
+>
+
+<head>
+    <title>New in Lightkurve: interactively selecting pixel aperture masks - Kepler &amp; K2</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--Custom meta data-->
+
+    <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
+    <meta name="dc.format" content="text/html" />
+    <meta name="dc.date.modified" content="2018-10-01" />
+    <meta name="dc.language" content="en" />
+    <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
+    <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
+    <meta name="dc.audience" content="Astronomers, Astrophysicists, Scientists, Researchers" />
+    <meta name="dc.subject.discipline" content="Astrophysics, Astronomy" />
+    <meta name="orgcode" content="SSA">
+    <meta name="rno" content="Thomas.Barclay">
+    <meta name="content-owner" content="Thomas.Barclay">
+    <meta name="webmaster" content="Thomas.Barclay">
+
+
+    <link href="./images/favicon.png" rel="icon">
+
+<link rel="canonical" href="./new-in-lightkurve-interactively-selecting-pixel-aperture-masks.html">
+
+        <meta name="author" content="Michael Gully-Santiago" />
+        <meta name="description" content="Kepler data analyses often begin with establishing which pixels your target of interest occupied, and to what extent artifacts or background signals affect those pixels. The Kepler/K2 in-house toolkit, Lightkurve, offers a new mechanism to witness — in real time — the differential impact of aperture mask pixel selection on the …" />
+
+        <meta property="og:site_name" content="Kepler &amp; K2" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="New in Lightkurve: interactively selecting pixel aperture masks"/>
+        <meta property="og:url" content="./new-in-lightkurve-interactively-selecting-pixel-aperture-masks.html"/>
+        <meta property="og:description" content="Kepler data analyses often begin with establishing which pixels your target of interest occupied, and to what extent artifacts or background signals affect those pixels. The Kepler/K2 in-house toolkit, Lightkurve, offers a new mechanism to witness — in real time — the differential impact of aperture mask pixel selection on the …"/>
+        <meta property="article:published_time" content="2018-09-28" />
+            <meta property="article:section" content="news" />
+            <meta property="article:author" content="Michael Gully-Santiago" />
+
+
+    <!-- Why use Helvetica Neue when you can have Lato? -->
+    <link href="./theme/css/lato.css" rel="stylesheet">
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="./theme/css/bootstrap.flatly.min.css" type="text/css"/>
+    <link href="./theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="./theme/css/exoplanet_archive_icons.css" rel="stylesheet">
+    <link href="./theme/css/mission_icons.css" rel="stylesheet">
+
+    <link href="./theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="./theme/css/style.css" type="text/css"/>
+
+    <link href="./feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Kepler &amp; K2 ATOM Feed"/>
+    <link href="./feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="Kepler &amp; K2 RSS Feed"/>
+
+</head>
+<body>
+
+<!-- Print a warning message that this is not the official site -->
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+
+  <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="./" class="navbar-brand">
+<img src="./images/NASA_logo_vector_lg.png" width="32"/> Kepler &amp; K2            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                        <li><a href="./archives.html">News</a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">The missions <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./objectives.html">Objectives</a></li>
+                                <li><a href="./the-kepler-space-telescope.html">Telescope</a></li>
+                                <li><a href="./science.html">Science</a></li>
+                                <li><a href="./publications.html">Publications</a></li>
+                                <li><a href="./conferences.html">Conferences</a></li>
+                                <li><a href="./users-panel.html">Users Panel</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">K2 observing <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./k2-observing.html">Overview</a></li>
+                                <li><a href="./k2-fields.html">Campaign fields</a></li>
+                                <li><a href="./k2-approved-programs.html">Targets &amp; programs</a></li>
+                                <li><a href="./k2-data-release-notes.html">Data release notes</a></li>
+                                <li><a href="./k2-proposing-targets.html">Proposal preparation</a></li>
+                                <li><a href="./k2-ddt.html">Discretionary time</a></li>
+                                <li><a href="./k2-c9.html">C9 Microlensing experiment</a></li>
+                                <li><a href="./supernova-experiment">C16 Supernova experiment</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data analysis <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="./data-products.html">Data products</a></li>
+                                <li><a href="./pipeline.html">Pipeline</a></li>
+                                <li><a href="./software.html">Software</a></li>
+                                <li><a href="./community-products.html">Community products</a></li>
+                            </ul>
+                        </li>
+            </ul>
+            
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="./helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
+                </li>
+            </ul>
+            
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+
+    <section id="content">
+        <article>
+            <header >
+                <h1>
+                    <a href="./new-in-lightkurve-interactively-selecting-pixel-aperture-masks.html"
+                       rel="bookmark"
+                       title="Permalink to New in Lightkurve: interactively selecting pixel aperture masks">
+                        New in Lightkurve: interactively selecting pixel aperture masks
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+<p style="margin-bottom: 1.5em;">
+    <span class="published categories-timestamp">
+        News article posted on
+        <time datetime="2018-09-28T16:00:00-07:00"> 28 Sep 2018</time>
+    
+
+
+            by <a href="./author/michael-gully-santiago.html">Michael Gully-Santiago</a>
+
+
+
+    
+
+    </span>
+</p><!-- /.post-info -->                <p>Kepler data analyses often begin with establishing which pixels your target of interest occupied, and to what extent artifacts or background signals affect those pixels.
+The Kepler/K2 in-house toolkit, <a href="http://lightkurve.keplerscience.org/">Lightkurve</a>, offers a new mechanism to witness — in real time — the differential impact of aperture mask pixel selection on the delivered lightcurve.</p>
+<p>The new tool extends the functionality of the existing <code>.interact()</code> tool <a href="https://keplerscience.arc.nasa.gov/new-in-lightkurve-inspecting-pixel-data-using-tpfinteract.html">first introduced in May</a>.
+What's new is the ability to click on individual pixels in the target pixel file window. 
+The lightcurve on the lefthand side of the plot instantaneously re-renders a lightcurve by adding the flux across all the demarcated pixels.
+A user may hold <em>shift</em> and mouse-click to select many pixels in sequence, or may click and drag a box to select a box of pixels.  Pixels may be <em>de</em>-selected by clicking a pixel while holding <em>shift</em>.</p>
+<p>The animation below demonstrates how this tool may be used to identify the background Eclipsing Binary near the false positive planet candidate KOI 6.01.</p>
+<p>
+<img class="img-responsive" src="images/news/20180925_interact_EB_contam.gif" alt="New Lightkurve tpf.interact() tool" style="max-width:800px;">
+</p>
+
+<p>The seemingly mundane choice of aperture photometry pixels embodies a deep phenomenon in statistics, the so-called <a href="https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff">bias-variance tradeoff</a>.  On one hand, we desire to collect all of a target's photons with a large aperture: more signal is good.  On the other hand, we wish to limit the penalty of adding detector read noise and background signals: more noise is bad.  The balance is struck by selecting a problem-specific <em>optimal aperture mask</em>.  <a href="https://keplerscience.arc.nasa.gov/pipeline.html">The Kepler Pipeline</a> provides a mask optimized for finding planets in the near-motion-free Kepler prime data.  It is this ostensibly optimal mask that appears in <code>.interact()</code> by default.</p>
+<p>The choice of mask became even more problem-specific in the K2 mission, with its heightened spacecraft-induced image motion. Apertures that were considered optimal in the Kepler prime mission often underperform in K2.  The interact tool can profoundly help K2 users diagnose and mitigate instrumental artifacts.</p>
+<h3 id="usage">Usage</h3>
+<p>The <code>.interact()</code> tool can be called from a Jupyter notebook as follows:</p>
+<div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">lightkurve</span> <span class="kn">import</span> <span class="n">KeplerTargetPixelFile</span>
+<span class="n">tpf</span> <span class="o">=</span> <span class="n">KeplerTargetPixelFile</span><span class="o">.</span><span class="n">from_archive</span><span class="p">(</span><span class="n">target</span><span class="o">=</span><span class="s2">&quot;Trappist-1&quot;</span><span class="p">)</span>
+<span class="n">tpf</span><span class="o">.</span><span class="n">interact</span><span class="p">()</span>
+</pre></div>
+
+
+<p>You will need to upgrade your installation of <code>lightkurve</code> to the latest version (v1.0b17) for this to work. This can be done via the command line as follows:</p>
+<div class="highlight"><pre><span></span>$ pip install lightkurve --upgrade
+</pre></div>
+
+
+<p>Please consult the <a href="http://lightkurve.keplerscience.org">Lightkurve documentation</a> for more information.
+The documentation includes <a href="http://lightkurve.keplerscience.org/tutorials/1.05-interact-with-lightcurves-and-tpf.html">a tutorial on the interact() tool</a>.</p>
+            </div>
+            <!-- /.entry-content -->
+        </article>
+    </section>
+
+        </div>
+    </div>
+</div>
+
+<div class="container container-wide" style="margin-top: 1.5em;">
+  <footer>
+
+     <div class="container">
+      
+      <!-- Related websites -->  
+      <div class="row">
+        <div class="col-xs-12">
+          <h5><i class="fa fa-external-link"></i><span class="icon-label">Related websites:</span></h5>
+          <a href="http://www.nasa.gov/kepler" target="_blank">
+                  Kepler/K2 News and Media Resources
+              </a>
+          <br/>
+          <a href="http://www.ballaerospace.com/page.jsp?page=72" target="_blank">
+                  Kepler/K2 @ Ball Aerospace
+              </a>
+          <br/>
+          <a href="http://archive.stsci.edu/kepler" target="_blank">
+                  Kepler Data Archive @ MAST
+              </a>
+          <br/>
+          <a href="http://archive.stsci.edu/k2" target="_blank">
+                  K2 Data Archive @ MAST
+              </a>
+          <br/>
+          <a href="http://exoplanetarchive.ipac.caltech.edu" target="_blank">
+                  NASA Exoplanet Archive @ IPAC
+              </a>
+          <br/>
+        </div>
+      </div>
+
+      <!-- NASA logo and notices -->
+      <div class="row" style="margin-top:2em;">
+         <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
+         Last modified: Fri 28 September 2018
+            &middot; Editor: Geert Barentsen &middot; NASA Official: Jessie Dotson
+            &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
+         <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+    </div>
+
+  </footer>
+</div>
+<script src="./theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="./theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="./theme/js/respond.min.js"></script>
+
+    <script src="./theme/js/bodypadding.js"></script>
+<!-- Analytics scripts -->
+
+
+</body>
+</html>

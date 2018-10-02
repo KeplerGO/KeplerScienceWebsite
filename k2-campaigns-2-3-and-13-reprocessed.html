@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2018-09-24" />
+    <meta name="dc.date.modified" content="2018-10-02" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -34,14 +34,14 @@ in August 2015, using pelican-bootstrap and flatly.
 <link rel="canonical" href="./k2-campaigns-2-3-and-13-reprocessed.html">
 
         <meta name="author" content="Jeff Coughlin" />
-        <meta name="description" content="A few months ago we announced that we were undertaking an effort to reprocess campaigns 0–14 using the same version of the pipeline used for campaign 15 and subsequent campaigns. This version introduced several new features, such as more sophisticated pixel calibration, better identification of spacecraft pointing, improved cosmic …" />
+        <meta name="description" content="A few months ago we announced that we were undertaking an effort to reprocess campaigns 0–14 using the same version of the Kepler/K2 pipeline used for campaign 15 and subsequent campaigns. This version introduced several new features and improvements, such as more sophisticated pixel calibration, better identification of …" />
 
         <meta property="og:site_name" content="Kepler &amp; K2" />
         <meta property="og:type" content="article"/>
         <meta property="og:title" content="K2 Campaigns 2, 3, and 13 Reprocessed"/>
         <meta property="og:url" content="./k2-campaigns-2-3-and-13-reprocessed.html"/>
-        <meta property="og:description" content="A few months ago we announced that we were undertaking an effort to reprocess campaigns 0–14 using the same version of the pipeline used for campaign 15 and subsequent campaigns. This version introduced several new features, such as more sophisticated pixel calibration, better identification of spacecraft pointing, improved cosmic …"/>
-        <meta property="article:published_time" content="2018-09-24" />
+        <meta property="og:description" content="A few months ago we announced that we were undertaking an effort to reprocess campaigns 0–14 using the same version of the Kepler/K2 pipeline used for campaign 15 and subsequent campaigns. This version introduced several new features and improvements, such as more sophisticated pixel calibration, better identification of …"/>
+        <meta property="article:published_time" content="2018-10-01" />
             <meta property="article:section" content="news" />
             <meta property="article:author" content="Jeff Coughlin" />
 
@@ -66,6 +66,13 @@ in August 2015, using pelican-bootstrap and flatly.
 <body>
 
 <!-- Print a warning message that this is not the official site -->
+<div class="container container-wide" style="background-color: #e74c3c; color: white; padding: 1.5em; font-weight: bold;">
+  <div class="container">
+   <i class="fa fa-warning fa-lg fa-margin"></i>
+    This is the development version of the Kepler/K2 science website.
+    For the live website, visit <a href="https://keplerscience.arc.nasa.gov/">keplerscience.arc.nasa.gov</a>
+  </div>
+</div>
 
 <div class="navbar navbar-default navbar-fixed-top" role="navigation">
 
@@ -150,7 +157,7 @@ in August 2015, using pelican-bootstrap and flatly.
 <p style="margin-bottom: 1.5em;">
     <span class="published categories-timestamp">
         News article posted on
-        <time datetime="2018-09-24T10:00:00-07:00"> 24 Sep 2018</time>
+        <time datetime="2018-10-01T10:00:00-07:00"> 01 Oct 2018</time>
     
 
 
@@ -161,33 +168,79 @@ in August 2015, using pelican-bootstrap and flatly.
     
 
     </span>
-</p><!-- /.post-info -->                <p>A few months ago we announced that we were undertaking an effort to reprocess campaigns 0&ndash;14 using the same version of the pipeline used for campaign 15 and subsequent campaigns. This version introduced several new features, such as more sophisticated pixel calibration, better identification of spacecraft pointing, improved cosmic ray correction, and production of short-cadence lightcurves, as well as several other minor improvements. Please see the <a href="k2-uniform-global-reprocessing-underway.html"> associated news post</a> for details on each feature.</p>
-<p>Reprocessed data and release notes from campaigns 2, 3, and 13 are now available. The newest data are available via the regular <a href="https://archive.stsci.edu/k2/">K2 data download interfaces and locations at the MAST archive</a>, while the older data has been kept available via the <a href="https://archive.stsci.edu/missions/k2/">MAST browser interface</a> (e.g., <a href="https://archive.stsci.edu/missions/k2/target_pixel_files/old_release_bundles/">here</a> for tarballs of the old TPF files and <a href="https://archive.stsci.edu/missions/k2/lightcurves/old_release_tarfiles/">here</a> for tarballs of the old lightcurves files, if previously produced). The data release notes have been updated for each reprocessed campaign, available at the nominal <a href="k2-data-release-notes.html">K2 Data Release Notes page</a>; links to the old version of the release notes are also provided for posterity.</p>
-<p>Below we highlight just some of the improvements that are likely to be of interest to users.</p>
-<p><br></p>
-<div class="thumbnail" style="width: 100%;display: inline-block;">
+</p><!-- /.post-info -->                <p>A few months ago <a href="k2-uniform-global-reprocessing-underway.html">we announced</a> that we were undertaking an effort to reprocess campaigns 0&ndash;14 using the same version of the Kepler/K2 pipeline used for campaign 15 and subsequent campaigns. This version introduced several new features and improvements, such as more sophisticated pixel calibration, better identification of spacecraft pointing, improved cosmic ray correction, and production of short-cadence lightcurves, along with several other minor improvements. Please see the <a href="k2-uniform-global-reprocessing-underway.html">associated news post</a> for details on each feature.</p>
+<p>Reprocessed data and release notes from campaigns 2, 3, and 13 have been made available over the past few months. The newest data are available via the usual <a href="https://archive.stsci.edu/k2/">K2 data download interfaces at the MAST archive</a>; the older data has been kept available via the <a href="https://archive.stsci.edu/missions/k2/">MAST browser interface</a> (e.g., <a href="https://archive.stsci.edu/missions/k2/target_pixel_files/old_release_bundles/">here</a> for tarballs of the old TPF files and <a href="https://archive.stsci.edu/missions/k2/lightcurves/old_release_tarfiles/">here</a> for tarballs of the old lightcurves files, if previously produced). The data release notes have been updated for each reprocessed campaign, available at the nominal <a href="k2-data-release-notes.html">K2 Data Release Notes page</a>; links to the old version of the release notes are also provided for posterity.</p>
+<p>In the two figures below, we show the current status of major and minor new features and improvements as a result of the reprocessing effort. Below those, we highlight a few examples of these improvements and new features from C2, C3, and C13 that are likely to be of interest to users.</p>
+<div class="thumbnail" style="width: 90%; display: inline-block;">
 <div class="caption">
-<i>Figure C3R-SC-RR-Lyr-Var: the C3 short-cadence PDC lightcurve of the RR Lyr type variable EPIC 206003187.<br>Left: a 10-day segment with data near thruster firings shown in red. <p align="right">Right: the phased short-cadence lightcurve after removing cadences near thruster firings.</p> Credit: Dr. Ken Mighell</i>
+<i>The status of major pipeline improvements for each campaign as of October 1, 2018. Blue check marks are improvements added a result of the global uniform reprocessing effort.</i>
 </div>
-<img src="images/news/C3R-RRLyr-EPIC0206003187-Unphased-Uncleaned.png" width="56%" align="left"  class="img-responsive" alt="Spica as seen in an FFI on channel 48.">
-
-<img src="images/news/C3R-RRLyr-EPIC0206003187-Phased-Cleaned.png"     width="42%" align="right" class="img-responsive" alt="Spica as seen in an FFI on channel 48.">
-</a>
+<img style="text-align: center" src="images/news/reproc-status-1-major.png" width="100%" align="center"  class="img-responsive">
 </div>
 
-<p><br></p>
-<p><br></p>
-<div>
-  <i id="cow">Figure Major-Proc-Status: The status of major pipeline features for each campaign as of September 24, 2018. Blue check marks are features added a result of the global uniform reprocessing effort.</i>
-  </i>
-  <a href="images/news/reproc-status-1-major.png"><img class="img-responsive" style="padding:0.5em;" src="images/news/reproc-status-1-major.png" id="k2-proc-status-major" alt="Status of K2 Processing Major Issues"> </a>
+<div class="thumbnail" style="width: 90%; display: inline-block;">
+<div class="caption">
+<i>The status of minor pipeline improvements for each campaign  as of October 1, 2018. Blue check marks are improvements added a result of the global uniform reprocessing effort.</i>
+</div>
+<img style="text-align: center" src="images/news/reproc-status-1-minor.png" width="100%" align="center"  class="img-responsive">
 </div>
 
 <p><br></p>
-<div>
-  <i id="cow">Figure Minor-Proc-Status: The status of minor pipeline features for each campaign  as of September 24, 2018. Blue check marks are features added a result of the global uniform reprocessing effort.</i>
-  </i>
-  <a href="images/news/reproc-status-1-minor.png"><img class="img-responsive" style="padding:0.5em;" src="images/news/reproc-status-1-minor.png" id="k2-proc-status-minor" alt="Status of K2 Processing Minor Issues"> </a>
+<p>Notable changes to the data from campaigns 2, 3, and 13:</p>
+<ul>
+<li>
+<p>In the original C2 processing, lightcurves were not produced, and TPFs were "Type-1", which had poor WCS information and other limitations compared to the "Type-2" TPFs that were produced in later campaigns. (For details on the difference between Type-1 and Type-2 TPFs, see <a href="https://archive.stsci.edu/k2/manuals/k2_handbook.pdf#page=15">section 2.4 of the K2 Handbook</a>.) As a result of reprocessing, Type-2 TPFs, lightcurves (both long- and short-cadence), and cotrending basis vectors (CBVs) are now available for C2.</p>
+</li>
+<li>
+<p>One of the major improvements from the global reprocessing is the use of an algorithm called "Dynablack", which is essentially a more sophisticated way to perform the CCD pixel-level calibration that accounts for time-varying, instrument-induced artifacts in the pixel data. One benefit of Dynablack is that is is able to correct crosstalk from the fine guidance sensors, resulting in much better background correction for certain channels. As shown below, for channel 41 in the original C2 processing, the old CCD calibration method resulted in varying background level as a function of position on the CCD. In the reprocessing, the use of Dynablack resulted in a significantly better correction and more uniform background levels.</p>
+</li>
+</ul>
+<div class="thumbnail" style="width: 80%; display: inline-block;">
+<div class="caption">
+<i>The residuals in the background correction fit as a function of row position on the CCD. <b>Left:</b> The original C2 processing. <b>Right:</b>The same figure from the C2 reprocessing. (Note the different y-axis scale between the two figures.)</i>
+</div>
+<img style="text-align: center" src="images/news/c2-dynablack-correction.png" width="100%" align="center"  class="img-responsive">
+</div>
+
+<p><br></p>
+<ul>
+<li>As part of the reprocessing, we are now producing short-cadence lightcurves for all objects that were observed in short-cadence mode. We note that no work was able to be done to adapt the detrending method used for Kepler short-cadence lightcurves to those from K2, and thus on a whole they are expected to be of varying quality. However, we are producing them with the expectation that at least some objects will be of high quality, and/or their existence will spurn more detailed investigation. Below we show the short-cadence PDC lightcurve for EPIC 206003187, an RR Lyrae-type variable observed in C3. While there are still residual systematics near thruster-firing events, simply removing those points near thruster firing events results in a well-detrended phased light curve with a clearly visible <a href="https://en.wikipedia.org/wiki/Blazhko_effect">Blazhko effect</a>.</li>
+</ul>
+<div class="thumbnail" style="width: 56%; display: inline-block;">
+<div class="caption">
+<i>A 10-day segment of the RR Lyrae-type variable EPIC 206003187, observed in C3, with data near thruster firings shown in red. <span style="float:right;"><small>Credit: Dr. Ken Mighell</small></span> </i>
+</div>
+<img src="images/news/C3R-RRLyr-EPIC0206003187-Unphased-Uncleaned.png" width="100%" align="left"  class="img-responsive">
+</div>
+
+<div class="thumbnail" style="width: 42%;display: inline-block;">
+<div class="caption">
+<i>The phased, short-cadence PDC lightcurve of EPIC 206003187 after removing cadences near thruster firings. <span style="float:right;"><small>Credit: Dr. Ken Mighell</small></span> </i>
+</div>
+<img src="images/news/C3R-RRLyr-EPIC0206003187-Phased-Cleaned.png" width="100%" align="left"  class="img-responsive">
+</div>
+
+<p><br></p>
+<ul>
+<li>While examining the results of the C3 reprocessing we found that several thousand targets had significantly different optimal photometric apertures compared to the original processing. There appears to have been either a bug or configuration error in the original C3 processing that affected these targets; the reprocessed apertures appear correct, and upon subsequent examination we do not find this bug to have affected any other campaign. We show an example below for EPIC 206393582 where the pixels comprising the optimal aperture are identified via a transparent gray overlay. In the original processing, the optimal aperture was a single pixel to the right of the target, which is clearly wrong; in the reprocessing the optimal aperture is 4 pixels centered on the target. This was an unanticipated benefit of performing the global uniform reprocessing.</li>
+</ul>
+<div class="thumbnail" style="width: 80%; display: inline-block;">
+<div class="caption">
+<i>A target-pixel file image of EPIC 206393582 from the original processing (left) and reprocessing (right) with the optimal aperture pixels identified via transparent gray overlay. <span style="float:right;"><small>Credit: Dr. Steve Bryson</small></span> </i>
+</div>
+<img src="images/news/c3-206393582-old-ap.png" width="48%" align="left"  class="img-responsive">
+<img src="images/news/c3-206393582-new-ap.png" width="48%" align="right"  class="img-responsive">
+</div>
+
+<p><br></p>
+<ul>
+<li>In the original processing of C13, the presence of the first magnitude star Aldebaran on channel 73 led to a time-varying error in the smear correction for channel 74, which shares the same physical CCD (<a href="http://localhost:8000/images/kepler_focal_plane_layout_channels_color.png">see the Kepler CCD layout</a>). As a result, every target on channel 74 had time-varying background levels, and the resulting lightcurves showed a "chattering" effect of significant point-to-point changes in flux (see <a href="http://localhost:8000/archived-k2-data-release-notes.html#k2-campaign-13-archived">the old C13 data release notes</a> for details). Below we show an example target from channel 74, EPIC 246810163, a hot star with apparent astrophysical variability. As can be seen on the left, the "chattering" effect is visible in both the background flux and resulting lightcurve for this target. When reprocessing, an update to the smear correction routine was able to significantly better account for the flux bleed from Aldebaran, and thus result in a nominal, smoothly time-varying background flux and thus significantly better lightcurve.</li>
+</ul>
+<div class="thumbnail" style="width: 80%;display: inline-block;">
+<div class="caption">
+<i><b>Left column:</b> Data for target EPIC 246810163 from the original C13 processing. <b>Right column:</b> Data for target EPIC 246810163 from the C13 reprocessing. <b>Top row</b>: The background flux level over the entire timespan of C13. <b>Bottom row</b>: The long-cadence PDC lightcurve of EPIC 246810163 over a time-span of ~10 days. <span style="float:right;"><small>Credit: Dr. Ken Mighell</small></span> </i>
+</div>
+<img align="center" src="images/news/c13-chattering-fixed.png" width="100%" align="middle"  class="img-responsive">
 </div>
             </div>
             <!-- /.entry-content -->
@@ -233,7 +286,7 @@ in August 2015, using pelican-bootstrap and flatly.
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Mon 24 September 2018
+         Last modified: Mon 01 October 2018
             &middot; Editor: Geert Barentsen &middot; NASA Official: Jessie Dotson
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
