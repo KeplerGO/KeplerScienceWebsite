@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2018-10-01T10:00:00-07:00</updated><entry><title>K2 Campaigns 2, 3, and 13 Reprocessed</title><link href="https://keplerscience.arc.nasa.gov/k2-campaigns-2-3-and-13-reprocessed.html" rel="alternate"></link><published>2018-10-01T10:00:00-07:00</published><updated>2018-10-01T10:00:00-07:00</updated><author><name>Jeff Coughlin</name></author><id>tag:keplerscience.arc.nasa.gov,2018-10-01:/k2-campaigns-2-3-and-13-reprocessed.html</id><summary type="html">&lt;p&gt;A few months ago &lt;a href="k2-uniform-global-reprocessing-underway.html"&gt;we announced&lt;/a&gt; that we were undertaking an effort to reprocess campaigns 0&amp;ndash;14 using the same version of the Kepler/K2 pipeline used for campaign 15 and subsequent campaigns. This version introduced several new features and improvements, such as more sophisticated pixel calibration, better identification of …&lt;/p&gt;</summary><content type="html">&lt;p&gt;A few months ago &lt;a href="k2-uniform-global-reprocessing-underway.html"&gt;we announced&lt;/a&gt; that we were undertaking an effort to reprocess campaigns 0&amp;ndash;14 using the same version of the Kepler/K2 pipeline used for campaign 15 and subsequent campaigns. This version introduced several new features and improvements, such as more sophisticated pixel calibration, better identification of spacecraft pointing, improved cosmic ray correction, and production of short-cadence lightcurves, along with several other minor improvements. Please see the &lt;a href="k2-uniform-global-reprocessing-underway.html"&gt;associated news post&lt;/a&gt; for details on each feature.&lt;/p&gt;
-&lt;p&gt;Reprocessed data and release notes from campaigns 2, 3, and 13 have been made available over the past few months. The newest data are available via the usual &lt;a href="https://archive.stsci.edu/k2/"&gt;K2 data download interfaces at the MAST archive&lt;/a&gt;; the older data has been kept available via the &lt;a href="https://archive.stsci.edu/missions/k2/"&gt;MAST browser interface&lt;/a&gt; (e.g., &lt;a href="https://archive.stsci.edu/missions/k2/target_pixel_files/old_release_bundles/"&gt;here&lt;/a&gt; for tarballs of the old TPF files and &lt;a href="https://archive.stsci.edu/missions/k2/lightcurves/old_release_tarfiles/"&gt;here&lt;/a&gt; for tarballs of the old lightcurves files, if previously produced). The data release notes have been updated for each reprocessed campaign, available at the nominal &lt;a href="k2-data-release-notes.html"&gt;K2 Data Release Notes page&lt;/a&gt;; links to the old version of the release notes are also provided for posterity.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2018-10-03T16:00:00-07:00</updated><entry><title>K2 Campaigns 2, 3, and 13 reprocessed</title><link href="https://keplerscience.arc.nasa.gov/k2-campaigns-2-3-and-13-reprocessed.html" rel="alternate"></link><published>2018-10-03T16:00:00-07:00</published><updated>2018-10-03T16:00:00-07:00</updated><author><name>Jeff Coughlin</name></author><id>tag:keplerscience.arc.nasa.gov,2018-10-03:/k2-campaigns-2-3-and-13-reprocessed.html</id><summary type="html">&lt;p&gt;A few months ago &lt;a href="k2-uniform-global-reprocessing-underway.html"&gt;we announced&lt;/a&gt; that we were undertaking an effort to reprocess campaigns 0&amp;ndash;14 using the same version of the Kepler/K2 pipeline used for C15 and subsequent campaigns. This version introduced several new features and improvements, such as more sophisticated pixel calibration, better identification of spacecraft …&lt;/p&gt;</summary><content type="html">&lt;p&gt;A few months ago &lt;a href="k2-uniform-global-reprocessing-underway.html"&gt;we announced&lt;/a&gt; that we were undertaking an effort to reprocess campaigns 0&amp;ndash;14 using the same version of the Kepler/K2 pipeline used for C15 and subsequent campaigns. This version introduced several new features and improvements, such as more sophisticated pixel calibration, better identification of spacecraft pointing, improved cosmic ray correction, and production of short-cadence lightcurves, along with several other minor improvements. Please see the &lt;a href="k2-uniform-global-reprocessing-underway.html"&gt;associated news post&lt;/a&gt; for details on each feature.&lt;/p&gt;
+&lt;p&gt;Reprocessed data and release notes from campaigns 2, 3, and 13 have been made available over the past few months. The newest data are available via the usual &lt;a href="https://archive.stsci.edu/k2/"&gt;K2 data download interfaces at the MAST archive&lt;/a&gt;; the older data has been kept available via the &lt;a href="https://archive.stsci.edu/missions/k2/"&gt;MAST browser interface&lt;/a&gt; (e.g., &lt;a href="https://archive.stsci.edu/missions/k2/target_pixel_files/old_release_bundles/"&gt;here&lt;/a&gt; for tarballs of the old target pixel files (TPFs) and &lt;a href="https://archive.stsci.edu/missions/k2/lightcurves/old_release_tarfiles/"&gt;here&lt;/a&gt; for tarballs of the old lightcurve files, if previously produced). The data release notes have been updated for each reprocessed campaign, available at the nominal &lt;a href="k2-data-release-notes.html"&gt;K2 Data Release Notes page&lt;/a&gt;; links to the old version of the release notes are also provided for posterity.&lt;/p&gt;
 &lt;p&gt;In the two figures below, we show the current status of major and minor new features and improvements as a result of the reprocessing effort. Below those, we highlight a few examples of these improvements and new features from C2, C3, and C13 that are likely to be of interest to users.&lt;/p&gt;
+&lt;p&gt;The next reprocessed campaign to be delivered will be C0, currently expected in November, followed by C11 and then C1 &amp;mdash; see &lt;a href="k2-uniform-global-reprocessing-underway.html"&gt;this post&lt;/a&gt; for the expected processing order of additional campaigns. (Note that the reprocessing activity does not impact the regular deliveries of newly obtained data, e.g., C18, currently expected in early November.)&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;div class="thumbnail" style="width: 90%; display: inline-block;"&gt;
 &lt;div class="caption"&gt;
-&lt;i&gt;The status of major pipeline improvements for each campaign as of October 1, 2018. Blue check marks are improvements added a result of the global uniform reprocessing effort.&lt;/i&gt;
+&lt;i&gt;The status of major processing features for each campaign as of October 3, 2018. Check marks indicate that the feature is present in the currently available data for that campaign. Blue check marks are features/improvements added a result of the global uniform reprocessing effort.&lt;/i&gt;
 &lt;/div&gt;
 &lt;img style="text-align: center" src="images/news/reproc-status-1-major.png" width="100%" align="center"  class="img-responsive"&gt;
 &lt;/div&gt;
 
 &lt;div class="thumbnail" style="width: 90%; display: inline-block;"&gt;
 &lt;div class="caption"&gt;
-&lt;i&gt;The status of minor pipeline improvements for each campaign  as of October 1, 2018. Blue check marks are improvements added a result of the global uniform reprocessing effort.&lt;/i&gt;
+&lt;i&gt;The status of minor processing features for each campaign  as of October 3, 2018. Check marks indicate that the feature is present in the currently available data for that campaign. Blue check marks are features/improvements added a result of the global uniform reprocessing effort.&lt;/i&gt;
 &lt;/div&gt;
 &lt;img style="text-align: center" src="images/news/reproc-status-1-minor.png" width="100%" align="center"  class="img-responsive"&gt;
 &lt;/div&gt;
@@ -23,7 +25,7 @@
 &lt;p&gt;In the original C2 processing, lightcurves were not produced, and TPFs were "Type-1", which had poor WCS information and other limitations compared to the "Type-2" TPFs that were produced in later campaigns. (For details on the difference between Type-1 and Type-2 TPFs, see &lt;a href="https://archive.stsci.edu/k2/manuals/k2_handbook.pdf#page=15"&gt;section 2.4 of the K2 Handbook&lt;/a&gt;.) As a result of reprocessing, Type-2 TPFs, lightcurves (both long- and short-cadence), and cotrending basis vectors (CBVs) are now available for C2.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;One of the major improvements from the global reprocessing is the use of an algorithm called "Dynablack", which is essentially a more sophisticated way to perform the CCD pixel-level calibration that accounts for time-varying, instrument-induced artifacts in the pixel data. One benefit of Dynablack is that is is able to correct crosstalk from the fine guidance sensors, resulting in much better background correction for certain channels. As shown below, for channel 41 in the original C2 processing, the old CCD calibration method resulted in varying background level as a function of position on the CCD. In the reprocessing, the use of Dynablack resulted in a significantly better correction and more uniform background levels.&lt;/p&gt;
+&lt;p&gt;One of the major improvements from the global reprocessing is the use of an algorithm called "Dynablack", which is essentially a more sophisticated way to perform the CCD pixel-level calibration that accounts for time-varying, instrument-induced artifacts in the pixel data. One benefit of Dynablack is that it is able to correct crosstalk from the fine guidance sensors, resulting in improved background correction for certain channels. As shown below, for channel 41 in the original C2 processing, the old CCD calibration method resulted in varying background level as a function of position on the CCD. In the reprocessing, the use of Dynablack resulted in a significantly better correction and more uniform background levels.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class="thumbnail" style="width: 80%; display: inline-block;"&gt;
@@ -35,7 +37,7 @@
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;As part of the reprocessing, we are now producing short-cadence lightcurves for all objects that were observed in short-cadence mode. We note that no work was able to be done to adapt the detrending method used for Kepler short-cadence lightcurves to those from K2, and thus on a whole they are expected to be of varying quality. However, we are producing them with the expectation that at least some objects will be of high quality, and/or their existence will spurn more detailed investigation. Below we show the short-cadence PDC lightcurve for EPIC 206003187, an RR Lyrae-type variable observed in C3. While there are still residual systematics near thruster-firing events, simply removing those points near thruster firing events results in a well-detrended phased light curve with a clearly visible &lt;a href="https://en.wikipedia.org/wiki/Blazhko_effect"&gt;Blazhko effect&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;As part of the reprocessing, we are now producing short-cadence lightcurves for all objects that were observed in short-cadence mode. We note that the detrending method used to produce the short-cadence PDC lightcurves, which was developed to work on Kepler data, is not optimal for K2 data, and thus they are expected to be of varying quality. However, we are producing them with the expectation that at least some objects will be of high quality, and/or their existence will spurn more detailed investigation. Below we show the short-cadence PDC lightcurve for EPIC 206003187, an RR Lyrae-type variable observed in C3. While there are still residual systematics near thruster-firing events, simply removing those points near thruster firing events results in a well-detrended phased lightcurve with a clearly visible &lt;a href="https://en.wikipedia.org/wiki/Blazhko_effect"&gt;Blazhko effect&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class="thumbnail" style="width: 56%; display: inline-block;"&gt;
 &lt;div class="caption"&gt;
@@ -53,11 +55,11 @@
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;While examining the results of the C3 reprocessing we found that several thousand targets had significantly different optimal photometric apertures compared to the original processing. There appears to have been either a bug or configuration error in the original C3 processing that affected these targets; the reprocessed apertures appear correct, and upon subsequent examination we do not find this bug to have affected any other campaign. We show an example below for EPIC 206393582 where the pixels comprising the optimal aperture are identified via a transparent gray overlay. In the original processing, the optimal aperture was a single pixel to the right of the target, which is clearly wrong; in the reprocessing the optimal aperture is 4 pixels centered on the target. This was an unanticipated benefit of performing the global uniform reprocessing.&lt;/li&gt;
+&lt;li&gt;While examining the results of the C3 reprocessing we found that several thousand targets had significantly different optimal photometric apertures compared to the original processing. There appears to have been either a bug or configuration error in the original C3 processing that affected these targets; the reprocessed apertures appear correct, and upon subsequent examination we do not find this bug to have affected any other campaign. We show an example below for EPIC 206393582 where the pixels comprising the optimal aperture are identified via a transparent purple overlay. In the original processing, the optimal aperture was a single pixel to the right of the target, which is clearly wrong &amp;mdash; in the reprocessing the optimal aperture is 4 pixels centered on the target. This was an unanticipated benefit of performing the global uniform reprocessing.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class="thumbnail" style="width: 80%; display: inline-block;"&gt;
 &lt;div class="caption"&gt;
-&lt;i&gt;A target-pixel file image of EPIC 206393582 from the original processing (left) and reprocessing (right) with the optimal aperture pixels identified via transparent gray overlay. &lt;span style="float:right;"&gt;&lt;small&gt;Credit: Dr. Steve Bryson&lt;/small&gt;&lt;/span&gt; &lt;/i&gt;
+&lt;i&gt;A target-pixel file image of EPIC 206393582 from the original processing (left) and reprocessing (right) with the optimal aperture pixels identified via transparent purple overlay. &lt;span style="float:right;"&gt;&lt;small&gt;Credit: Dr. Steve Bryson&lt;/small&gt;&lt;/span&gt; &lt;/i&gt;
 &lt;/div&gt;
 &lt;img src="images/news/c3-206393582-old-ap.png" width="48%" align="left"  class="img-responsive"&gt;
 &lt;img src="images/news/c3-206393582-new-ap.png" width="48%" align="right"  class="img-responsive"&gt;
@@ -65,14 +67,97 @@
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;In the original processing of C13, the presence of the first magnitude star Aldebaran on channel 73 led to a time-varying error in the smear correction for channel 74, which shares the same physical CCD (&lt;a href="http://localhost:8000/images/kepler_focal_plane_layout_channels_color.png"&gt;see the Kepler CCD layout&lt;/a&gt;). As a result, every target on channel 74 had time-varying background levels, and the resulting lightcurves showed a "chattering" effect of significant point-to-point changes in flux (see &lt;a href="http://localhost:8000/archived-k2-data-release-notes.html#k2-campaign-13-archived"&gt;the old C13 data release notes&lt;/a&gt; for details). Below we show an example target from channel 74, EPIC 246810163, a hot star with apparent astrophysical variability. As can be seen on the left, the "chattering" effect is visible in both the background flux and resulting lightcurve for this target. When reprocessing, an update to the smear correction routine was able to significantly better account for the flux bleed from Aldebaran, and thus result in a nominal, smoothly time-varying background flux and thus significantly better lightcurve.&lt;/li&gt;
+&lt;li&gt;In the original processing of C13, the presence of the first magnitude star Aldebaran on channel 73 led to a time-varying error in the smear correction for channel 74, which shares the same physical CCD (&lt;a href="http://localhost:8000/images/kepler_focal_plane_layout_channels_color.png"&gt;see the Kepler CCD layout&lt;/a&gt;). As a result, every target on channel 74 had time-varying background levels, and the resulting lightcurves showed a "chattering" effect of significant point-to-point changes in flux (see &lt;a href="http://localhost:8000/archived-k2-data-release-notes.html#k2-campaign-13-archived"&gt;the old C13 data release notes&lt;/a&gt; for details). Below we show an example target from channel 74, EPIC 246810163, a hot star with apparent astrophysical variability. As can be seen on the left, the "chattering" effect is visible in both the background flux and resulting lightcurve for this target. When reprocessing, an update to the smear correction routine was able to significantly better account for the flux bleed from Aldebaran &amp;mdash; this resulted in a nominal, smoothly time-varying background flux and thus significantly better lightcurve.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class="thumbnail" style="width: 80%;display: inline-block;"&gt;
 &lt;div class="caption"&gt;
-&lt;i&gt;&lt;b&gt;Left column:&lt;/b&gt; Data for target EPIC 246810163 from the original C13 processing. &lt;b&gt;Right column:&lt;/b&gt; Data for target EPIC 246810163 from the C13 reprocessing. &lt;b&gt;Top row&lt;/b&gt;: The background flux level over the entire timespan of C13. &lt;b&gt;Bottom row&lt;/b&gt;: The long-cadence PDC lightcurve of EPIC 246810163 over a time-span of ~10 days. &lt;span style="float:right;"&gt;&lt;small&gt;Credit: Dr. Ken Mighell&lt;/small&gt;&lt;/span&gt; &lt;/i&gt;
+&lt;i&gt;&lt;b&gt;Left column:&lt;/b&gt; Data for EPIC 246810163 from the original C13 processing. &lt;b&gt;Right column:&lt;/b&gt; Data for EPIC 246810163 from the C13 reprocessing. &lt;b&gt;Top row&lt;/b&gt;: The background flux level over the entire timespan of C13. &lt;b&gt;Bottom row&lt;/b&gt;: The long-cadence PDC lightcurve of EPIC 246810163 over a time-span of ~10 days. &lt;span style="float:right;"&gt;&lt;small&gt;Credit: Dr. Ken Mighell&lt;/small&gt;&lt;/span&gt; &lt;/i&gt;
 &lt;/div&gt;
 &lt;img align="center" src="images/news/c13-chattering-fixed.png" width="100%" align="middle"  class="img-responsive"&gt;
-&lt;/div&gt;</content></entry><entry><title>K2 Campaign 20 science program now available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-20-science-program-now-available.html" rel="alternate"></link><published>2018-09-20T09:00:00-07:00</published><updated>2018-09-20T09:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-09-20:/k2-campaign-20-science-program-now-available.html</id><summary type="html">&lt;p&gt;The science program and target lists for K2 Campaign 20 (Oct 15, 2018 - Jan 5, 2019) have now been posted on the
+&lt;/div&gt;</content></entry><entry><title>K2 Campaign 19 ended to downlink data</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-19-ended-to-downlink-data.html" rel="alternate"></link><published>2018-10-01T09:30:00-07:00</published><updated>2018-10-01T09:30:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-10-01:/k2-campaign-19-ended-to-downlink-data.html</id><summary type="html">&lt;p&gt;Kepler's latest observing campaign, K2 Campaign 19, started on August 29 after
+the spacecraft's configuration had been &lt;a href="k2-campaign-19-status-update.html"&gt;modified in order to adapt to a change
+in thruster performance&lt;/a&gt;.
+Since then, the spacecraft has been collecting data for the Campaign's
+&lt;a href="k2-campaign-19-science-program-now-available.html"&gt;33,000 targets&lt;/a&gt;,
+including the well-known planet systems TRAPPIST-1 and GJ …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Kepler's latest observing campaign, K2 Campaign 19, started on August 29 after
+the spacecraft's configuration had been &lt;a href="k2-campaign-19-status-update.html"&gt;modified in order to adapt to a change
+in thruster performance&lt;/a&gt;.
+Since then, the spacecraft has been collecting data for the Campaign's
+&lt;a href="k2-campaign-19-science-program-now-available.html"&gt;33,000 targets&lt;/a&gt;,
+including the well-known planet systems TRAPPIST-1 and GJ 9827.&lt;/p&gt;
+&lt;p&gt;During a recent Deep Space Network (DSN) contact, the Kepler team received data
+showing that the spacecraft’s ability to point precisely has degraded.
+In order to preserve the high-value science data collected so far,
+the Kepler team has placed the spacecraft in its stable, no-fuel-use "nap mode"
+on September 26. &lt;/p&gt;
+&lt;p&gt;During Kepler’s allotted DSN time, scheduled to begin October 10,
+the Kepler team will transmit the science data home.
+Due to uncertainties about the remaining available fuel,
+there is no guarantee that we will be able to download the science data.
+If successful the Kepler team will attempt to start K2 Campaign 20
+with the remaining fuel. &lt;/p&gt;
+&lt;h3 id="frequenty-asked-questions"&gt;Frequenty Asked Questions&lt;/h3&gt;
+&lt;p&gt;General questions related to Kepler’s low fuel state have previously been answered
+in the &lt;a href="https://www.nasa.gov/kepler/fuel-status-faq"&gt;Kepler Fuel Status FAQ&lt;/a&gt;.
+The extra FAQ below answers questions that are specific to
+the current and future K2 Campaigns.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Will the quality of Campaign 19 data be affected?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Preliminary indications are that the telescope’s pointing performance
+may be degraded during some portions of Campaign 19.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;When will Campaign 19 data become available?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The project currently plans to downlink the data between October 10 and 15, 2018.
+If we are able to downlink the data successfully, the raw data are expected
+to become available from the data archive at MAST within a few days thereafter.
+Since the pointing performance has degraded, it’s unclear whether we’ll be able
+to provide calibrated data products and what timeline might be required for processing.
+Our current estimates are no earlier than January 2019.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Will Campaign 20 continue?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;NASA anticipates that the spacecraft will soon run out of fuel,
+but it remains unclear how much remains.
+NASA’s goal is to collect and downlink as much science data as possible
+while the spacecraft remains viable.
+If the Campaign 19 data downlink is successful, the Kepler team will attempt Campaign 20. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Should I continue to use my telescope resources to augment Campaign 19 and 20 data?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Several science programs seek to complement Campaigns 19 and 20
+using simultaneous observations carried out using ground-based telescope facilities.
+The PI's of these programs can phone the Kepler GO office at +1-650-604-2784
+to request up-to-date guidance as needed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Does low fuel mark the end of Kepler’s discoveries?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Not at all! We expect that Kepler’s data set will continue to yield discoveries
+for years to come, and that many planets are yet to be discovered.
+NASA will continue to support and fund the analysis of the Kepler and K2 data sets
+beyond the end of spacecraft operations.&lt;/p&gt;</content></entry><entry><title>New in Lightkurve: interactively selecting pixel aperture masks</title><link href="https://keplerscience.arc.nasa.gov/new-in-lightkurve-interactively-selecting-pixel-aperture-masks.html" rel="alternate"></link><published>2018-09-28T16:00:00-07:00</published><updated>2018-09-28T16:00:00-07:00</updated><author><name>Michael Gully-Santiago</name></author><id>tag:keplerscience.arc.nasa.gov,2018-09-28:/new-in-lightkurve-interactively-selecting-pixel-aperture-masks.html</id><summary type="html">&lt;p&gt;Kepler data analyses often begin with establishing which pixels your target of interest occupied, and to what extent artifacts or background signals affect those pixels.
+The Kepler/K2 in-house toolkit, &lt;a href="http://lightkurve.keplerscience.org/"&gt;Lightkurve&lt;/a&gt;, offers a new mechanism to witness — in real time — the differential impact of aperture mask pixel selection on the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Kepler data analyses often begin with establishing which pixels your target of interest occupied, and to what extent artifacts or background signals affect those pixels.
+The Kepler/K2 in-house toolkit, &lt;a href="http://lightkurve.keplerscience.org/"&gt;Lightkurve&lt;/a&gt;, offers a new mechanism to witness — in real time — the differential impact of aperture mask pixel selection on the delivered lightcurve.&lt;/p&gt;
+&lt;p&gt;The new tool extends the functionality of the existing &lt;code&gt;.interact()&lt;/code&gt; tool &lt;a href="https://keplerscience.arc.nasa.gov/new-in-lightkurve-inspecting-pixel-data-using-tpfinteract.html"&gt;first introduced in May&lt;/a&gt;.
+What's new is the ability to click on individual pixels in the target pixel file window. 
+The lightcurve on the lefthand side of the plot instantaneously re-renders a lightcurve by adding the flux across all the demarcated pixels.
+A user may hold &lt;em&gt;shift&lt;/em&gt; and mouse-click to select many pixels in sequence, or may click and drag a box to select a box of pixels.  Pixels may be &lt;em&gt;de&lt;/em&gt;-selected by clicking a pixel while holding &lt;em&gt;shift&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The animation below demonstrates how this tool may be used to identify the background Eclipsing Binary near the false positive planet candidate KOI 6.01.&lt;/p&gt;
+&lt;p&gt;
+&lt;img class="img-responsive" src="images/news/20180925_interact_EB_contam.gif" alt="New Lightkurve tpf.interact() tool" style="max-width:800px;"&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The seemingly mundane choice of aperture photometry pixels embodies a deep phenomenon in statistics, the so-called &lt;a href="https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff"&gt;bias-variance tradeoff&lt;/a&gt;.  On one hand, we desire to collect all of a target's photons with a large aperture: more signal is good.  On the other hand, we wish to limit the penalty of adding detector read noise and background signals: more noise is bad.  The balance is struck by selecting a problem-specific &lt;em&gt;optimal aperture mask&lt;/em&gt;.  &lt;a href="https://keplerscience.arc.nasa.gov/pipeline.html"&gt;The Kepler Pipeline&lt;/a&gt; provides a mask optimized for finding planets in the near-motion-free Kepler prime data.  It is this ostensibly optimal mask that appears in &lt;code&gt;.interact()&lt;/code&gt; by default.&lt;/p&gt;
+&lt;p&gt;The choice of mask became even more problem-specific in the K2 mission, with its heightened spacecraft-induced image motion. Apertures that were considered optimal in the Kepler prime mission often underperform in K2.  The interact tool can profoundly help K2 users diagnose and mitigate instrumental artifacts.&lt;/p&gt;
+&lt;h3 id="usage"&gt;Usage&lt;/h3&gt;
+&lt;p&gt;The &lt;code&gt;.interact()&lt;/code&gt; tool can be called from a Jupyter notebook as follows:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;lightkurve&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;KeplerTargetPixelFile&lt;/span&gt;
+&lt;span class="n"&gt;tpf&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;KeplerTargetPixelFile&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;from_archive&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;target&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;Trappist-1&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;tpf&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;interact&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;You will need to upgrade your installation of &lt;code&gt;lightkurve&lt;/code&gt; to the latest version (v1.0b17) for this to work. This can be done via the command line as follows:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ pip install lightkurve --upgrade
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Please consult the &lt;a href="http://lightkurve.keplerscience.org"&gt;Lightkurve documentation&lt;/a&gt; for more information.
+The documentation includes &lt;a href="http://lightkurve.keplerscience.org/tutorials/1.05-interact-with-lightcurves-and-tpf.html"&gt;a tutorial on the interact() tool&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><title>Release of Pan-STARRS C16 and C17 time series photometry</title><link href="https://keplerscience.arc.nasa.gov/release-of-pan-starrs-c16-and-c17-time-series-photometry.html" rel="alternate"></link><published>2018-09-26T09:00:00-07:00</published><updated>2018-09-26T09:00:00-07:00</updated><author><name>Michael Gully-Santiago</name></author><id>tag:keplerscience.arc.nasa.gov,2018-09-26:/release-of-pan-starrs-c16-and-c17-time-series-photometry.html</id><summary type="html">&lt;p&gt;The Panoramic Survey Telescope and Rapid Response System (Pan-STARRS) observed the K2 Campaign 16 and 17 fields contemporaneously from the ground with its wide field imager.  All the images from these Pan-STARRS data are available as a &lt;a href="https://archive.stsci.edu/prepds/k2sne/"&gt;new High Level Science Product&lt;/a&gt; at the Mikulski Archive for Space Telescopes (MAST …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The Panoramic Survey Telescope and Rapid Response System (Pan-STARRS) observed the K2 Campaign 16 and 17 fields contemporaneously from the ground with its wide field imager.  All the images from these Pan-STARRS data are available as a &lt;a href="https://archive.stsci.edu/prepds/k2sne/"&gt;new High Level Science Product&lt;/a&gt; at the Mikulski Archive for Space Telescopes (MAST).  The Pan-STARRS data include sparse &lt;em&gt;griz&lt;/em&gt; time-series photometry of the entire 115 square degree K2 field of view, acquired in 7 square degree mosaics.  The number of time samples ranges from about 4 to 35, depending on the band and campaign, spaced over the approximately 80 day campaigns.  K2 Project Scientist Jessie Dotson and collaborators have also published &lt;a href="http://iopscience.iop.org/article/10.3847/2515-5172/aae371"&gt;a new AAS Research Note&lt;/a&gt; describing the motivation for contemporaneous observations, date ranges, per-band photometric cadences, and field center positions.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://archive.stsci.edu/prepds/k2sne/"&gt;&lt;img class="img-responsive" style="max-width:450px; float:left; padding:1em;" src="images/news/projections_c16.png" alt="C16 Pan-STARRS Field"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://archive.stsci.edu/prepds/k2sne/"&gt;&lt;img class="img-responsive" style="max-width:450px; padding:1em;" src="images/news/projections_c17.png" alt="C17 Pan-STARRS Field"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The observations have already been useful for identifying and characterizing transient phenomena such as supernovae.  The C16 field also includes the star clusters M44 and M67, for which polychromatic photometry can assess stellar activity and starspot physical properties for example.  The imaging data is available from the &lt;a href="https://archive.stsci.edu/prepds/k2sne/"&gt;HLSP webpage&lt;/a&gt; at MAST, which also provides an &lt;a href="https://ps1images.stsci.edu/cgi-bin/hlspcutouts"&gt;image cutout tool&lt;/a&gt; for extracting user-defined thumbnail images, and an &lt;a href="https://github.com/spacetelescope/MAST-API-Notebooks/tree/master/HLSP/K2SNE/"&gt;example Jupyter notebook&lt;/a&gt; which shows how the data can be accessed programmatically using the Application Programming Interface (API).&lt;/p&gt;</content></entry><entry><title>K2 Campaign 20 science program now available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-20-science-program-now-available.html" rel="alternate"></link><published>2018-09-20T09:00:00-07:00</published><updated>2018-09-20T09:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-09-20:/k2-campaign-20-science-program-now-available.html</id><summary type="html">&lt;p&gt;The science program and target lists for K2 Campaign 20 (Oct 15, 2018 - Jan 5, 2019) have now been posted on the
 &lt;a href="k2-approved-programs.html#campaign-20"&gt;approved targets &amp;amp; programs page&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The target list includes
 &lt;b&gt;14,789 standard long cadence&lt;/b&gt;
@@ -90,21 +175,21 @@ while also surveying 20 deg&lt;sup&gt;2&lt;/sup&gt; of previously unstudied sky.
 &lt;p&gt;The target list also contains a large number of main sequence stars, white dwarfs, flare stars, brown dwarfs, solar analogs, and classical variables which will enable a wide array of investigations.&lt;/p&gt;
 &lt;p&gt;The figure below illustrates the location of the field and its notable targets.
 The red dots mark the location of cluster members.&lt;/p&gt;
-&lt;p&gt;&lt;a href="images/k2/k2-c20-field.png"&gt;&lt;img class="img-responsive" style="max-width:500px;" src="images/k2/k2-c20-field.png" alt="C20 Field"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>Submit your abstract to the Kepler/K2 Special Session at the Winter AAS</title><link href="https://keplerscience.arc.nasa.gov/submit-your-abstract-to-the-keplerk2-special-session-at-the-winter-aas.html" rel="alternate"></link><published>2018-09-17T09:00:00-07:00</published><updated>2018-09-17T09:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-09-17:/submit-your-abstract-to-the-keplerk2-special-session-at-the-winter-aas.html</id><summary type="html">&lt;p&gt;The Kepler/K2 Mission is convening a special session at the
-&lt;a href="https://aas.org/meetings/aas233"&gt;233rd meeting of the American Astronomical Society (AAS)&lt;/a&gt;, which is being held in Seattle in January.&lt;/p&gt;
-&lt;p&gt;The session is titled &lt;b&gt;"Kepler and K2's 500,000 high-precision lightcurves: prospects for future discoveries"&lt;/b&gt; and will look forward to the future discoveries …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The Kepler/K2 Mission is convening a special session at the
-&lt;a href="https://aas.org/meetings/aas233"&gt;233rd meeting of the American Astronomical Society (AAS)&lt;/a&gt;, which is being held in Seattle in January.&lt;/p&gt;
-&lt;p&gt;The session is titled &lt;b&gt;"Kepler and K2's 500,000 high-precision lightcurves: prospects for future discoveries"&lt;/b&gt; and will look forward to the future discoveries expected from Kepler's large and unprecedented data set, discuss new and emerging uses of the data, and discuss new software tools and novel analysis methods.&lt;/p&gt;
-&lt;p&gt;The session will be held on &lt;b&gt;Thursday, January 10th at 2:00pm&lt;/b&gt;,
-and will consist of invited talks, a panel discussion,
+&lt;p&gt;&lt;a href="images/k2/k2-c20-field.png"&gt;&lt;img class="img-responsive" style="max-width:500px;" src="images/k2/k2-c20-field.png" alt="C20 Field"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>Two Kepler Special Sessions at the Winter AAS</title><link href="https://keplerscience.arc.nasa.gov/two-kepler-special-sessions-at-the-winter-aas.html" rel="alternate"></link><published>2018-09-17T09:00:00-07:00</published><updated>2018-09-17T09:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-09-17:/two-kepler-special-sessions-at-the-winter-aas.html</id><summary type="html">&lt;p&gt;The &lt;a href="https://aas.org/meetings/aas233"&gt;233rd meeting of the American Astronomical Society (AAS)&lt;/a&gt;, which is being held in Seattle in January, will feature two Special Sessions dedicated to Kepler and K2.&lt;/p&gt;
+&lt;p&gt;The first session, titled &lt;b&gt;"Kepler and K2's 500,000 high-precision lightcurves: prospects for future discoveries"&lt;/b&gt; will look forward to the future discoveries expected …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The &lt;a href="https://aas.org/meetings/aas233"&gt;233rd meeting of the American Astronomical Society (AAS)&lt;/a&gt;, which is being held in Seattle in January, will feature two Special Sessions dedicated to Kepler and K2.&lt;/p&gt;
+&lt;p&gt;The first session, titled &lt;b&gt;"Kepler and K2's 500,000 high-precision lightcurves: prospects for future discoveries"&lt;/b&gt; will look forward to the future discoveries expected from Kepler's large and unprecedented data set, discuss new and emerging uses of the data, and discuss new software tools and novel analysis methods. The session will be held on &lt;b&gt;Thursday, January 10th at 2pm&lt;/b&gt;, and will consist of invited talks, a panel discussion,
 and contributed posters.&lt;/p&gt;
+&lt;p&gt;The second session, titled &lt;b&gt;"First Results from the Kepler/K2 Supernova Experiment"&lt;/b&gt;, will feature new results from the diverse set of extragalactic transients which have recently been observed by Kepler.
+This session will take place on &lt;b&gt;Tuesday, January 8th at 10am&lt;/b&gt;.&lt;/p&gt;
 &lt;p&gt;Abstract submission is now open for contributed posters, 
 and we encourage everyone to submit an abstract to present
 the potential of future discoveries using Kepler and K2 data.
 Abstracts are due 3 October 2018 via the &lt;a href="http://aas.org/meetings/aas233/abstracts"&gt;standard AAS abstract submission system&lt;/a&gt; (select the option "Special Sessions Accepting Posters" in Step 3 of your submission).
-Researchers who prefer to present a talk at the conference are encouraged
-to select the "Contributed Oral session" option instead in this step.&lt;/p&gt;
-&lt;p&gt;The talk schedule is as follows:&lt;/p&gt;
+Researchers who prefer to present a talk are encouraged
+to select the "Contributed Oral session" option instead.&lt;/p&gt;
+&lt;p&gt;The talk schedules are listed below.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Kepler and K2's 500,000 high-precision lightcurves: prospects for future discoveries&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;
+AAS Special Session, Thursday Jan 10, 2019.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;2:00pm — “Kepler and K2's 500,000 lightcurves” — &lt;i&gt;Jessie Dotson, NASA Ames&lt;/i&gt;&lt;/li&gt;
 &lt;li&gt;2:10pm — “Are there more planets left in the Kepler and K2 data?” — &lt;i&gt;Christina Hedges, Kepler/K2 GO Office&lt;/i&gt;&lt;/li&gt;
@@ -114,6 +199,27 @@ to select the "Contributed Oral session" option instead in this step.&lt;/p&gt;
 &lt;li&gt;2:50pm — “How can new data analysis methods get more out of Kepler/K2 data” — &lt;i&gt;Dan Foreman-Mackey, Flatiron Institute's Center for Computational Astrophysics&lt;/i&gt;&lt;/li&gt;
 &lt;li&gt;3:00pm — “How can machine learning contribute to mining Kepler / K2 data?” — &lt;i&gt;Megan Ansdell, UC Berkeley&lt;/i&gt;&lt;/li&gt;
 &lt;li&gt;3:10pm — Panel discussion.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;First Results from the Kepler/K2 Supernova Experiment&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;
+AAS Special Session, Tuesday Jan 8, 2019.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;10:00am — “Overview of the Kepler/K2 Supernova Experiment” — &lt;i&gt;Jessie Dotson, Kepler/K2 Project Scientist&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;10:10am — Transients observed by the first Kepler Mission:&lt;ul&gt;
+&lt;li&gt;“Type II Plateau Supernovae with K2/Kepler” — &lt;i&gt;Peter Garnavich, Notre Dame&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;“A Fast-Evolving, Luminous Transient Discovered by K2/Kepler” — &lt;i&gt;Armin Rest, STScI&lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;10:20am — “A Tidal Disruption Event in a Seyfert 2 Observed with K2” — &lt;i&gt;Ed Shaya, UMD&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;10:30am — “Searching for Binary Companions in Kepler Type Ia SNe” — &lt;i&gt;Ashley Villar, CfA&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;10:40am — K2 supernova SN 2018oh:&lt;ul&gt;
+&lt;li&gt;“K2 Observations of SN 2018oh Reveal a Two-Component Rising Light Curve for a Type Ia Supernova” — &lt;i&gt;Georgios Dimitriadis, UC Santa Cruz&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;"Seeing Double: ASASSN-18bt Exhibits a double-power-law Rise in the Early-Time K2 Light Curve" — &lt;i&gt;Ben Shappee, IfA&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;“Constraints on the ejecta parameters of SN 2018oh from photometry” — &lt;i&gt;Wenxiong Li, Tsinghua University&lt;/i&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;11:00am — “Learning about SN Ia progenitors with SN 2018agk” — &lt;i&gt;Gautham Narayan, STScI&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;11:10am — “The K2 Light curve of SN 2018adg” — &lt;i&gt;Maria Drout, Toronto&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;11:20am — "The K2 Background Survey and a new WZ Sge star in K2" — &lt;i&gt;Ryan Ridden-Harper, ANU&lt;/i&gt;&lt;/li&gt;
 &lt;/ul&gt;</content></entry><entry><title>K2 Campaign 17 data release notes available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-17-data-release-notes-available.html" rel="alternate"></link><published>2018-09-11T08:00:00-07:00</published><updated>2018-09-11T08:00:00-07:00</updated><author><name>Jeff Coughlin</name></author><id>tag:keplerscience.arc.nasa.gov,2018-09-11:/k2-campaign-17-data-release-notes-available.html</id><summary type="html">&lt;p&gt;The &lt;a href="/k2-data-release-notes.html#k2-campaign-17"&gt;data release notes for K2 Campaign 17&lt;/a&gt; are now available online.
 We encourage all users to review the notes.&lt;/p&gt;</summary><content type="html">&lt;p&gt;The &lt;a href="/k2-data-release-notes.html#k2-campaign-17"&gt;data release notes for K2 Campaign 17&lt;/a&gt; are now available online.
 We encourage all users to review the notes.&lt;/p&gt;</content></entry><entry><title>Abstracts for Kepler &amp; K2 Science Conference V are due by November 15, 2018</title><link href="https://keplerscience.arc.nasa.gov/abstracts-for-kepler-k2-science-conference-v-are-due-by-november-15-2018.html" rel="alternate"></link><published>2018-09-05T08:00:00-07:00</published><updated>2018-09-05T08:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-09-05:/abstracts-for-kepler-k2-science-conference-v-are-due-by-november-15-2018.html</id><summary type="html">&lt;p&gt;The &lt;a href='scicon-2019/index.html'&gt;Kepler &amp;amp; K2 Science Conference V&lt;/a&gt;
