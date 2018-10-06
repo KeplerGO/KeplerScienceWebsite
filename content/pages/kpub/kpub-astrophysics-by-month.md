@@ -59,6 +59,10 @@ Farr, Will M., Pope, Benjamin J. S., Davies, Guy R., et al.
 Dai, Zhibin, Szkody, Paula, Kennedy, Mark, et al.    
 2018, refereed ([2018AJ....156..153D](http://adsabs.harvard.edu/abs/2018AJ....156..153D))  
 
+8. [BINARY ASTEROSEISMIC MODELLING: ISOCHRONE-CLOUD METHODOLOGY AND APPLICATION TO KEPLER GRAVITY-MODE PULSATORS](http://adsabs.harvard.edu/abs/2018arXiv181000780J)  
+Johnston, C., Tkachenko, A., Aerts, C., et al.    
+2018, pre-print ([2018arXiv181000780J](http://adsabs.harvard.edu/abs/2018arXiv181000780J))  
+
 
 2018-09
 -------
@@ -162,6 +166,10 @@ Pál, András, Molnár, László, Kiss, Csaba
 25. [INFLUENCE OF METALLICITY ON THE NEAR-SURFACE EFFECT ON OSCILLATION FREQUENCIES](http://adsabs.harvard.edu/abs/2018arXiv180908904M)  
 Manchon, L., Belkacem, K., Samadi, R., et al.    
 2018, pre-print ([2018arXiv180908904M](http://adsabs.harvard.edu/abs/2018arXiv180908904M))  
+
+26. [AN IMPROVED ORBITAL PERIOD FOR GY CANCRI BASED ON TWO K2 CAMPAIGNS](http://adsabs.harvard.edu/abs/2018arXiv181000006C)  
+Canizares, Luis Alberto, Garnavich, Peter, Littlefield, Colin, et al.    
+2018, pre-print ([2018arXiv181000006C](http://adsabs.harvard.edu/abs/2018arXiv181000006C))  
 
 
 2018-08

@@ -143,6 +143,10 @@ Dai, Fei, Masuda, Kento, Winn, Joshua N.
 Becker, Juliette C., Vanderburg, Andrew, Rodriguez, Joseph E., et al.    
 2018, pre-print ([2018arXiv180910688B](http://adsabs.harvard.edu/abs/2018arXiv180910688B))  
 
+22. [AN IMPROVED ORBITAL PERIOD FOR GY CANCRI BASED ON TWO K2 CAMPAIGNS](http://adsabs.harvard.edu/abs/2018arXiv181000006C)  
+Canizares, Luis Alberto, Garnavich, Peter, Littlefield, Colin, et al.    
+2018, pre-print ([2018arXiv181000006C](http://adsabs.harvard.edu/abs/2018arXiv181000006C))  
+
 
 2018-08
 -------

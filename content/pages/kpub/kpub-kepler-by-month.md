@@ -63,6 +63,10 @@ Brady, Madison T., Petigura, Erik A., Knutson, Heather A., et al.
 Zhang, X. B., Fu, J. N., Luo, C. Q., et al.    
 2018,  ([2018ApJ...865..115Z](http://adsabs.harvard.edu/abs/2018ApJ...865..115Z))  
 
+12. [BINARY ASTEROSEISMIC MODELLING: ISOCHRONE-CLOUD METHODOLOGY AND APPLICATION TO KEPLER GRAVITY-MODE PULSATORS](http://adsabs.harvard.edu/abs/2018arXiv181000780J)  
+Johnston, C., Tkachenko, A., Aerts, C., et al.    
+2018, pre-print ([2018arXiv181000780J](http://adsabs.harvard.edu/abs/2018arXiv181000780J))  
+
 
 2018-09
 -------
