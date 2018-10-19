@@ -83,7 +83,7 @@ upload: html-live
 	  	echo "Press Ctrl-C to go back, or any other key to continue the upload."; \
 	  read $foo; \
 	fi
-	rsync -rvPzc --cvs-exclude $(OUTPUTDIR)/ $(KEPLERWEB_USER)@$(KEPLERWEB_HOST):$(KEPLERWEB_DIR)
+	rsync -rvPzc --cvs-exclude -e "ssh -I $(OPENSC_DIR)" $(OUTPUTDIR)/ $(KEPLERWEB_USER)@$(KEPLERWEB_HOST):$(KEPLERWEB_DIR)
 
 github: html-dev
 	ghp-import -m "Generate dev site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
