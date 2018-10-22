@@ -85,14 +85,12 @@ upload: html-live
 	fi
 	rsync -rvPzc --cvs-exclude -e "ssh -I $(OPENSC_DIR)" $(OUTPUTDIR)/ $(KEPLERWEB_USER)@$(KEPLERWEB_HOST):$(KEPLERWEB_DIR)
 
+upload-mac: html-live
+	rsync -rvPzc --cvs-exclude -e "ssh -o PKCS11Provider=/usr/lib/ssh-keychain.dylib" $(OUTPUTDIR)/ $(KEPLERWEB_USER)@$(KEPLERWEB_HOST):$(KEPLERWEB_DIR)
+
 github: html-dev
 	ghp-import -m "Generate dev site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH)
-
-#Make live is deprecated, use make upload instead
-#live:
-	#ghp-import -m "Generate live site" -b $(GITHUB_LIVE_BRANCH) $(OUTPUTDIR)
-	#git push origin $(GITHUB_LIVE_BRANCH)
 
 kpub:
 	cd content/pages/kpub; \
