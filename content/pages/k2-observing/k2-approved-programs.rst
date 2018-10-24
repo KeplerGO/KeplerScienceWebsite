@@ -246,7 +246,7 @@ Campaign 18
     </li>
     <li class="list-group-item">
       <i class="fa fa-pencil-square-o fa-margin"></i>
-      Data release notes (awaiting data release)
+      Data release notes (coming soon)
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -254,7 +254,7 @@ Campaign 18
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
-      Target pixel files (awaiting data release)
+      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c18">Target pixel files (MAST)</a>
     </li>
   </ul>
 
