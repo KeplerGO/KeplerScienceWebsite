@@ -6,7 +6,7 @@ The pipeline-processed data for K2 Campaign 18
 are now available for download
 from the [K2 data archive at MAST](http://archive.stsci.edu/k2).
 
-Campaign 18 saw Kepler's third visit to the **K2 Legacy Field** in the constellation of Cancer,
+Campaign 18 saw Kepler's third visit to the ***K2 Legacy Field*** in the constellation of Cancer,
 which contains the benchmark star clusters M44 and M67.
 This field has now been observed during three Campaigns (5, 16, 18) across a 3-year baseline and 8-month duty cycle.
 
