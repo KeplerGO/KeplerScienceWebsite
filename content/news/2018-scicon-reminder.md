@@ -1,4 +1,4 @@
-Title: Abstracts & travel support requests for Kepler & K2 SciCon V are due in two weeks
+Title: Abstracts & travel support requests for Kepler SciCon V are due in two weeks
 Date: 2018-10-29 15:00
 Author: Geert Barentsen
 
