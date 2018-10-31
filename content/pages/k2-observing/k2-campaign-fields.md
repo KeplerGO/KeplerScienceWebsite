@@ -367,30 +367,11 @@ This page details the previous, current, and future K2 Campaign fields.
       </td>
       <td>Trappist-1, GJ 9827, Neptune.</td>
     </tr>
-    <tr>
-      <td><a href='#c20'>20</a><sup>†</sup></td>
-      <td>2018&nbsp;Oct&nbsp;15</td>
-      <td>2019&nbsp;Jan&nbsp;05</td>
-      <td>2019&nbsp;May&#8209;Aug</td>
-      <td>04:33:12</td>
-      <td>+22:45:42</td>
-      <td class="text-center">
-        <a href="k2-approved-programs.html#campaign-20"><i class="fa fa-check"></i></a>
-      </td>
-      <td class="text-center">
-
-      </td>
-      <td>Taurus-Auriga, Hyades</td>
-    </tr>
-    <tr>
-      <td>21</td>
-      <td colspan="8">To be announced soon, subject to spacecraft status.</td>
-    </tr>
   </tdata>
 </table>
 
   <p>
-  <b><sup>†</sup>Note:</b> fields 9, 16, 17, 19, and 20 are forward-facing campaigns, for which simultaneous observations from the ground are possible throughout the duration of the campaign.
+  <b><sup>†</sup>Note:</b> fields 9, 16, 17, and 19 are forward-facing campaigns, for which simultaneous observations from the ground are possible throughout the duration of the campaign.
   </p>
 
   </div>
@@ -509,15 +490,6 @@ You can learn more about the installation and usage of these tools [on the softw
   </div>
   <div class="col-lg-6">
     <a href="images/k2/k2-c19-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c19-field.png" id="c19"></a>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-lg-6">
-    <a href="images/k2/k2-c20-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c20-field.png" id="c20"></a>
-  </div>
-  <div class="col-lg-6">
-
   </div>
 </div>
 
