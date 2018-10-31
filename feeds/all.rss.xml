@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Tue, 16 Oct 2018 10:00:00 -0700</lastBuildDate><item><title>K2 Campaign 19 raw data available</title><link>https://keplerscience.arc.nasa.gov/k2-campaign-19-raw-data-available.html</link><description>&lt;p&gt;The Kepler spacecraft has successfully downloaded Campaign 19 data to Earth.
-To enable users to make use of the current visibility of the Campaign 19 field
-from the ground, the raw cadence data files have been made public immediately
-via the &lt;a href="http://archive.stsci.edu/missions/k2/raw_cadence_data/"&gt;K2 data archive at MAST&lt;/a&gt;. &lt;/p&gt;
-&lt;p&gt;The use of the …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geert Barentsen</dc:creator><pubDate>Tue, 16 Oct 2018 10:00:00 -0700</pubDate><guid isPermaLink="false">tag:keplerscience.arc.nasa.gov,2018-10-16:/k2-campaign-19-raw-data-available.html</guid></item><item><title>K2 Campaign 18 data processing complete</title><link>https://keplerscience.arc.nasa.gov/k2-campaign-18-data-processing-complete.html</link><description>&lt;p&gt;Data processing for K2 Campaign 18 is now complete
+<rss version="2.0"><channel><title>Kepler &amp; K2</title><link>https://keplerscience.arc.nasa.gov/</link><description></description><lastBuildDate>Fri, 05 Oct 2018 07:00:00 -0700</lastBuildDate><item><title>K2 Campaign 18 data processing complete</title><link>https://keplerscience.arc.nasa.gov/k2-campaign-18-data-processing-complete.html</link><description>&lt;p&gt;Data processing for K2 Campaign 18 is now complete
 and the pixel files and lightcurves are in the process
 of being shipped to the &lt;a href="http://archive.stsci.edu/k2"&gt;data archive at MAST&lt;/a&gt;.
 We anticipate that the data release will be announced before the end of the month.&lt;/p&gt;

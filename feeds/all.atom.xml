@@ -1,30 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2018-10-16T10:00:00-07:00</updated><entry><title>K2 Campaign 19 raw data available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-19-raw-data-available.html" rel="alternate"></link><published>2018-10-16T10:00:00-07:00</published><updated>2018-10-16T10:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-10-16:/k2-campaign-19-raw-data-available.html</id><summary type="html">&lt;p&gt;The Kepler spacecraft has successfully downloaded Campaign 19 data to Earth.
-To enable users to make use of the current visibility of the Campaign 19 field
-from the ground, the raw cadence data files have been made public immediately
-via the &lt;a href="http://archive.stsci.edu/missions/k2/raw_cadence_data/"&gt;K2 data archive at MAST&lt;/a&gt;. &lt;/p&gt;
-&lt;p&gt;The use of the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The Kepler spacecraft has successfully downloaded Campaign 19 data to Earth.
-To enable users to make use of the current visibility of the Campaign 19 field
-from the ground, the raw cadence data files have been made public immediately
-via the &lt;a href="http://archive.stsci.edu/missions/k2/raw_cadence_data/"&gt;K2 data archive at MAST&lt;/a&gt;. &lt;/p&gt;
-&lt;p&gt;The use of the raw, uncalibrated data files requires an intimate understanding
-of their format and caveats (see the &lt;a href="https://github.com/KeplerGO/kadenza"&gt;kadenza tool&lt;/a&gt;).
-For scientific investigations that are not time-critical,
-we recommend that users wait for the calibrated and quality-controlled
-data products to become available in approximately 3 months.&lt;/p&gt;
-&lt;p&gt;Campaign 19 included TRAPPIST-1.
-Uncalibrated Target Pixel Files for this planet system have been created using 
-&lt;a href="https://github.com/KeplerGO/kadenza"&gt;kadenza&lt;/a&gt; and are available
-via &lt;a href="http://doi.org/10.5281/zenodo.1464260"&gt;DOI 10.5281/zenodo.1464259&lt;/a&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Long cadence: &lt;a href="https://zenodo.org/record/1464260/files/k2c19-trappist1-lc-raw-tpf.fits.gz"&gt;k2c19-trappist1-lc-raw-tpf.fits.gz&lt;/a&gt; (1 MB)&lt;/li&gt;
-&lt;li&gt;Short cadence: &lt;a href="https://zenodo.org/record/1464260/files/k2c19-trappist1-sc-raw-tpf.fits.gz"&gt;k2c19-trappist1-sc-raw-tpf.fits.gz&lt;/a&gt; (25 MB)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The Campaign 19 data are shorter and somewhat less stable than previous K2 Campaigns.
-Owing to Kepler's low fuel pressure, the &lt;a href="k2-campaign-19-status-update.html"&gt;spacecraft's configuration had to be modified&lt;/a&gt; at the start of Campaign 19 to compensate for the unusual behavior exhibited by one of the thrusters.
-The Campaign started collecting data on Aug 30, achieved its nominal
-pointing on Sep 7, and was ended on Sep 26 in response to 
-a &lt;a href="k2-campaign-19-ended-to-downlink-data.html"&gt;further degradation in the spacecraft's pointing performance&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><title>K2 Campaign 18 data processing complete</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-18-data-processing-complete.html" rel="alternate"></link><published>2018-10-05T07:00:00-07:00</published><updated>2018-10-05T07:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-10-05:/k2-campaign-18-data-processing-complete.html</id><summary type="html">&lt;p&gt;Data processing for K2 Campaign 18 is now complete
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2018-10-05T07:00:00-07:00</updated><entry><title>K2 Campaign 18 data processing complete</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-18-data-processing-complete.html" rel="alternate"></link><published>2018-10-05T07:00:00-07:00</published><updated>2018-10-05T07:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-10-05:/k2-campaign-18-data-processing-complete.html</id><summary type="html">&lt;p&gt;Data processing for K2 Campaign 18 is now complete
 and the pixel files and lightcurves are in the process
 of being shipped to the &lt;a href="http://archive.stsci.edu/k2"&gt;data archive at MAST&lt;/a&gt;.
 We anticipate that the data release will be announced before the end of the month.&lt;/p&gt;

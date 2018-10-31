@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2018-10-19" />
+    <meta name="dc.date.modified" content="2018-10-31" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -147,6 +147,129 @@ in August 2015, using pelican-bootstrap and flatly.
 <p>This page details the key features of the K2 data releases,
 including information on field pointing, target selection, observation times and cadences, processing version, unique observational features of each campaign, significant events that transpired during each campaign, data quality and processing features, and other descriptions of technical issues relevant to the scientific exploitation of the data.</p>
 <hr/>
+<h1 id="k2-campaign-18">K2 Campaign 18</h1>
+<h2>At a glance</h2>
+<div class="col-lg-5">
+<b><i>Pointing</i></b>
+<ul>
+<li> RA: 130.1610170 degrees</li>
+<li> Dec: 16.8278629  degrees</li>
+<li> Roll: 165.8977388 degrees</li>
+</ul>
+<b><i>Targets</i></b>
+<ul>
+<li>  36,971 long cadence (LC) targets, including 2,193 galaxy targets.</li>
+<li>  237 short cadence (SC) targets.</li>
+<li>  27 moving objects were tiled with LC custom strip apertures. 11 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. See the <a href="images/release-notes/c18/kplr2018254082100_c18_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
+</ul>
+<b><i>Full Frame Images (FFI)</i></b>
+<ul>
+<li><a href="https://archive.stsci.edu/missions/k2/ffi/ktwo2018143080022-c18_ffi-cal.fits">ktwo2018143080022-c18_ffi-cal.fits</a>
+</li></ul>
+<b><i>First cadence</i></b>
+<ul>
+<li>Start Time: 2018-05-13 00:44:43 UTC</li>
+<li>Long Cadence Number: 161969</li>
+<li>Short Cadence Number: 4847530</li>
+</ul>
+<b><i>Last cadence</i></b>
+<ul>
+<li>End Time: 2018-07-02 21:51:26 UTC</li>
+<li>Long Cadence Number: 164458</li>
+<li>Short Cadence Number: 4922215</li>
+</ul>
+<b><i>Most Recent Processing Version</i></b>
+<ul>
+<li> <a href="k2-pipeline-release-notes.html#data-release-27">Data Release 27</a> </li>
+</ul>
+</div>
+<div class="col-lg-7">
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C18-FOV: Schematic of Kepler's C18 field-of-view with high profile objects. </i>
+</div>
+<a href="images/k2/k2-c18-field.png"><img alt="C18 field of view with highlights, such as the Beehive and M67 clusters, and the path of the asteroid Apophis." class="img-responsive" id="c18fov" src="images/k2/k2-c18-field.png" style="padding:0.5em;"/>
+</a>
+</div>
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C18-Mag: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-18">GO Programs</a>
+were selected.</i>
+</div>
+<a href="images/release-notes/c18/c18_lc_magnitude_distribution.png">
+<img alt="Distribution of the Kepler magnitudes of observed C18 LC targets." class="img-responsive" src="images/release-notes/c18/c18_lc_magnitude_distribution.png"/>
+</a>
+</div>
+</div>
+<h2>Features and Events</h2>
+<p><strong><em>Overlap with C5 and C16</em></strong></p>
+<p>The C18 field is almost identical to that observed during Campaign 5, and overlaps substantially with Campaign 16. Many targets observed in C18 were also observed in C5 and C16, establishing a 3 year temporal baseline with an 8 month duty cycle that provides unique science opportunities.</p>
+<p><br/></p>
+<p><strong><em>Galaxies</em></strong></p>
+<p>There are 2,193 galaxies targeted in the C18 field of view; all but five used standard aperture masks. The five large galaxies were covered with 35-pixel diameter large circular custom masks.</p>
+<p><br/></p>
+<p><strong><em>Clusters</em></strong></p>
+<p>The C18 field of view includes the Beehive cluster (M44) and M67. M44 is one of the most nearby open clusters; its members were observed using standard masks.
+M67 was tiled with a series of 441 20 x 20 pixel tiles for a total of 176,400 pixels.</p>
+<p><br/></p>
+<p><strong><em>Solar System Objects</em></strong></p>
+<p>The C18 field of view includes 22 comets and trojan Asteroids, 9 faint Trans-Neptunian Objects, and the formerly potentially hazardous asteroid <a href="https://en.wikipedia.org/wiki/99942_Apophis">99942 Apophis</a>, all observed in long cadence.</p>
+<p><br/></p>
+<p><strong><em>Pointing and Roll Performance</em></strong></p>
+<p>The C18 pointing and roll behavior are well within the limits of that seen in other K2 campaigns, with no degradation seen due to potentially low fuel levels.
+The pipeline-calculated maximum distance between the derived and nominal positions for any target (the "maximum attitude residual", or MAR)
+for C18 is less than 1.9 pixels for nearly the entire campaign, well under the 3-pixel limit accommodated by the aperture halos.</p>
+<p>The exception is about a dozen long cadences just prior to BKJD 3432 / MJD 58264.5, where the pointing temporarily exceeded 4 pixels, as clearly seen in the plots below. Users are encouraged to discard long cadences 162613 – 162627 (short cadences 4866897 – 4867246) due to this pointing excursion. These cadences are flagged using QUALITY flag bit #3. Similarly, while not visible in the plots below, the very last long cadence of the campaign, 164458 (short cadences 4922216 – 4922230) had a very large pointing excursion and are also flagged using QUALITY flag bit #3.</p>
+<p>As mentioned in the C14 release notes, a change in the on-board fine point fault logging threshold
+results in additional cadences being flagged as "Spacecraft is not in fine point"
+(QUALITY flag bit #16, decimal=32768). As a reminder, the project recommends that starting with C15,
+users look to QUALITY flag bit #3 as an accurate indicator of poor spacecraft pointing.</p>
+<div class="thumbnail" style="width: 50%;display: inline-block;">
+<div class="caption">
+<i>Figure C18-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C18.</i>
+<a href="images/release-notes/c18/c18_pad_pdq_attitude_roll.png">
+<img alt="Pipeline measured roll error for C18." class="img-responsive" src="images/release-notes/c18/c18_pad_pdq_attitude_roll.png"/>
+</a>
+</div>
+</div>
+<div class="thumbnail" style="width: 48%;display: inline-block;">
+<div class="caption">
+<i>Figure C18-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C18.</i>
+<a href="images/release-notes/c18/c18_pad_pdq_attitude_mar.png">
+<img alt="Maximum residual of the C18 attitude measured with PAD and PDQ." class="img-responsive" src="images/release-notes/c18/c18_pad_pdq_attitude_mar.png"/>
+</a>
+</div>
+</div>
+<p><br/></p>
+<h2>Data Quality and Processing Notes</h2>
+<p><strong><em>Light Curve Quality</em></strong></p>
+<p>As in previous campaigns, the 6-hour spacecraft roll cycle continues
+to dominate the systematic errors in C18 simple aperture photometry light curves.
+The pipeline CDPP 12th magnitude noise benchmark for C18 is
+the second-lowest ever seen (just higher C5) at the time of this processing.
+The improved precision compared to most other campaigns is likely due to a combination of lower star density,
+stable pointing (compared to most other campaigns), and the updated pipeline version (in-particular the use of the coarse-point flags; see <a href="k2-uniform-global-reprocessing-underway.html">the global reprocessing effort announcement</a> for details).</p>
+<p>The magnitude dependence of CDPP and its distribution over the focal plane are shown below. Other CDPP benchmarks can be found in the
+<a href="images/release-notes/c18/c18_bin1.00_sc1.00_CDPP_Summary_18051614.txt">
+table giving 6.5-hr CDPP as a function of magnitude.</a>
+<br/>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C18-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>
+</div>
+<a href="images/release-notes/c18/c18_logg_CDPP_vs_model.png">
+<img alt="CDPP measured for all targets as a function of Kepler magnitude." class="img-responsive" src="images/release-notes/c18/c18_logg_CDPP_vs_model.png"/>
+</a>
+</div>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C18-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
+<a href="images/release-notes/c18/c18_dwarf_CDPP_by_mod_out.png">
+<img alt="CDPP per channel for 12th and 14th magnitude dwarfs" class="img-responsive" src="images/release-notes/c18/c18_dwarf_CDPP_by_mod_out.png"/>
+</a>
+</div></div></p>
+<hr/>
+<p><br/></p>
 <h1 id="k2-campaign-17">K2 Campaign 17</h1>
 <h2>At a glance</h2>
 <div class="col-lg-5">
@@ -3172,6 +3295,7 @@ document.write(document.lastModified);
             <div class="nav nav-stacked fixed" id="mytoc">
             <div class="toc">
 <ul>
+<li><a href="#k2-campaign-18">K2 Campaign 18</a></li>
 <li><a href="#k2-campaign-17">K2 Campaign 17</a></li>
 <li><a href="#k2-campaign-16">K2 Campaign 16</a></li>
 <li><a href="#k2-campaign-15">K2 Campaign 15</a></li>
@@ -3234,7 +3358,7 @@ document.write(document.lastModified);
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Tue 16 October 2018
+         Last modified: Fri 05 October 2018
             &middot; Editor: Geert Barentsen &middot; NASA Official: Jessie Dotson
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
