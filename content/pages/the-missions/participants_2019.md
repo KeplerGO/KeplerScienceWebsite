@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 57 conference participants is below (last update: Oct. 4, 2018).
+The current list of 68 conference participants is below (last update: Oct. 30, 2018).
 
 * Robert Baker, Wildwood School
 * Thomas Barclay, NASA Goddard Space Flight Center
@@ -20,12 +20,16 @@ The current list of 57 conference participants is below (last update: Oct. 4, 20
 * Trevor David, JPL
 * Georgios Dimitriadis, University of California, Santa Cruz
 * Jessie Dotson, NASA Ames Research Center
+* Joann Eisberg, Chaffey College
 * Maura Fujieh, NASA Ames Research Center
 * Malcolm Fridlund, Leiden Observatory and Chalmers University of Technology
+* Eric Gaidos, University of Hawaii at Manoa
 * Sankalp Gilda, Institute for Astronomy, University of Hawaii
 * Hader Haghighipour, Institute for Astronomy, University of Hawaii
 * Kevin Hardegree-Ullman, Caltech/IPAC-NExScI
+* Artie Hatzes, Thuringia State University
 * Christina Hedges, Kepler/K2 Guest Observers Office	
+* Calen Henderson, Caltech/IPAC
 * JJ Hermes, University of North Carolina/Boston University	
 * Michelle Hill, University of California, Riverside	
 * Andrew Howard, Caltech	
@@ -37,26 +41,33 @@ The current list of 57 conference participants is below (last update: Oct. 4, 20
 * Pierre-Olivier Lagage, CEA-Paris-Saclay University
 * Elizabeth Landau, JPL/NASA
 * William Latter, NASA HQ
+* Jack Lissauer, NASA Ames
 * Eric Mamajek, JPL/NASA
+* Michele Montgomery, University of Central Florida
 * Tannaz Oskui, CSULA/UCLA
 * Enric Palle, Instituto de Astrofisica de Canarias
 * Rishi Paudel, University of Delaware
 * Mario Perez, NASA HQ
+* Carina Persson, Chalmers Institute of Technology
 * Geraldine Peters, University of Southern California
 * Elisa Quintana, NASA Goddard Space Flight Center
 * Andreas Quirrenbach, Univ. Heidelberg
 * Luisa Rebull, Caltech/IPAC-IRSA
 * Ryan Ridden-Harper, Australian National University
 * Thalia Rivera, JPL/NASA
+* Vanessa Rivodo Rodriguez, University of Central Florida
 * Lee Rosenthal, Caltech
 * Arielle Samuelson, JPL/NASA
 * Alexandre Santiago Castelari, SETI: Space Quest
 * Nicholas Saunders, Kepler/K2 Guest Observer Office, NASA Ames
 * Kendra Short, NASA/JPL
 * Raghubar Singh, Indian Institute of Astrophysics
+* Melinda Soares, Princeton University
 * Karl Stapelfeldt, JPL/Caltech/NASA
 * Keivan Stassun, Vanderbilt University
 * Dennis Stello, UNSW Sydney
 * Martin Still, NASA
 * Johanna Teske, Carnegie Observatories	
+* Andrew Vanderburg, University of Texas at Austin
 * Ann Wehrle, Space Science Institute
+* Rob Wittenmyer, University of Southern Queensland
