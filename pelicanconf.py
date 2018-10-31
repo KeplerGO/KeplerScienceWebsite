@@ -124,9 +124,6 @@ IMPORTANT_DATES = (
             ('<b>15 Nov 2018</b>',
              'Abstracts due for Kepler & K2 SciCon V',
              'scicon-2019/index.html'),
-            ('<b>17 Jan 2019</b>',
-             'K2 Campaign 20 funding proposals due',
-             'https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7b8A2B07C0-F3D9-677F-0C28-F0E8406FC3CD%7d&path=open'),
          )
 
 # Defines the "meetings" box on the front page
