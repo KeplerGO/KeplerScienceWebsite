@@ -97,7 +97,6 @@ MENUITEMS = (
             ('Targets &amp; programs', 'k2-approved-programs.html'),
             ('Data release notes', 'k2-data-release-notes.html'),
             ('Proposal preparation', 'k2-proposing-targets.html'),
-            ('Discretionary time', 'k2-ddt.html'),
             ('C9 Microlensing experiment', 'k2-c9.html'),
             ('C16 Supernova experiment', 'supernova-experiment'),
             )
@@ -114,7 +113,6 @@ MENUITEMS = (
 # Defines the "key information" box on the front page
 KEY_INFORMATION = (
             ('K2: Campaign fields', 'k2-fields.html'),
-            ('K2: Proposing targets', 'k2-proposing-targets.html'),
             ('K2: Observed programs', 'k2-approved-programs.html'),
             ('Kepler/K2: Data products', 'data-products.html'),
             )

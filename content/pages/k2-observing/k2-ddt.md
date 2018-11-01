@@ -23,7 +23,7 @@ on the number of short versus long cadence DDTs approved.
 
 ## Current DDT opportunities
 
-Stay tuned for future DDT opportunities.
+There are no current DDT opportunities.
 
 
 <!--
