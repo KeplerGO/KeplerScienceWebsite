@@ -22,12 +22,12 @@ should be consulted for more comprehensive notes for each Campaign.
 
 -----------
 
-All campaigns to date
-----------------------
+All K2 Campaigns
+----------------
 .. raw:: html
 
     <p>
-        Campaigns 0 - 19 contain <b>588,991 pixel masks</b> in approved K2 programs.  The target list below was produced from concatenating all campaign-level target lists into a single csv file.  The file contains one additional column indicating the campaign.  This master file will facilitate cross-matching K2 data with other catalogs, and other data mining efforts.
+        K2 Campaigns 0 - 19 contain <b>588,991 pixel masks</b> in approved K2 programs.  The target list below was produced from concatenating all campaign-level target lists into a single csv file.  The file contains one additional column indicating the campaign.  This master file will facilitate cross-matching K2 data with other catalogs, and other data mining efforts.
     </p>
 
   <ul class="list-group">
@@ -40,51 +40,6 @@ All campaigns to date
       <a href="data/GO_all_campaigns_to_date.csv">Target list (csv)</a>
     </li>
   </ul>
-
-
------------
-
-Campaign 20
------------
-.. raw:: html
-
-  <p>
-    The Campaign 20 target list includes
-    <b>14,789 standard long cadence</b>
-    and <b>210 standard short cadence</b> targets
-    located towards the constellation of Taurus.
-    The Campaign partially overlaps with Campaigns 4 and 13,
-    while also surveying 20 deg<sup>2</sup> of previously unstudied sky.
-  </p>
-
-  <p>
-    Campaign 20 will revisit the <b>Taurus-Auriga star-forming region</b> in the forward-facing mode. The region contains a large number of very young stars (<10 Myr) and the Campaign will significantly increase the number of such stars observed by Kepler. The field also includes members of the Pleiades (∼100 Myr) and Hyades (∼600 Myr) star clusters. The observations will improve the estimation of planet occurence rates as a function of stellar age, and will also enable the baseline of variability studies of young stars to be extended by including targets previously observed during Campaign 4 (2015) and Campaign 13 (2017).
-  </p>
-
-  <p>
-    The target list also contains a large number of main sequence stars, white dwarfs, flare stars, brown dwarfs, solar analogs, and classical variables which will enable a wide array of investigations.
-  </p>
-
-  <ul class="list-group">
-    <li class="list-group-item">
-      <i class="fa fa-calendar fa-margin"></i>
-      Oct 15, 2018 - Jan 5, 2019
-    </li>
-    <li class="list-group-item">
-      <i class="fa fa-pencil-square-o fa-margin"></i>
-      Data release notes (awaiting data release)
-    </li>
-    <li class="list-group-item">
-      <i class="fa fa-download fa-margin"></i>
-      <a href="data/campaigns/c20/K2Campaign20targets.csv">Target list (csv)</a>
-    </li>
-    <li class="list-group-item">
-      <i class="fa fa-external-link fa-margin"></i>
-      Target pixel files (awaiting data release)
-    </li>
-  </ul>
-
-.. include:: approved-programs/c20.html
 
 
 -----------
