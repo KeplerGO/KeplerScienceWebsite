@@ -36,7 +36,7 @@ below.
 * [Kepler Data Processing Handbook](https://archive.stsci.edu/kepler/manuals/KSCI-19081-002-KDPH.pdf)
 * [Kepler Data Release Notes](data-products.html#kepler-data-release-notes)
 <br/>
-* [K2 Ecliptic Plane Input Catalog (EPIC)](https://archive.stsci.edu/k2/epic.pdf)
+* [K2 Ecliptic Plane Input Catalog (EPIC)](https://archive.stsci.edu/k2/manuals/epic.pdf)
 * [K2 Data Release Notes](data-products.html#k2-data-release-notes)
 * [K2 Handbook](http://archive.stsci.edu/k2/manuals/k2_handbook.pdf)
 
