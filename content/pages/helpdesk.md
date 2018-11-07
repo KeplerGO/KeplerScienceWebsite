@@ -1,6 +1,7 @@
 Title: Kepler/K2 Science Helpdesk
 Save_as: helpdesk.html
 
+<!-- Avoid showing names or faces to avoid making anyone feel unappreciated.
 <div class="row">
     <div class="col-sm-4 text-center">
         <img src="images/faces/geert.jpg" class="img-circle" style="padding-top:0.5em;"><br>
@@ -64,6 +65,7 @@ Save_as: helpdesk.html
         Deputy Lead Exoplanet Support
     </div>
 </div>
+-->
 
 ### E-mail
 
