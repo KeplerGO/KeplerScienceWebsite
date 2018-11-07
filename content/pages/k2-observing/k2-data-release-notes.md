@@ -103,6 +103,12 @@ The C18 field of view includes 22 comets and trojan Asteroids, 9 faint Trans-Nep
 
 <br>
 
+***Early End to Campaign 18***
+
+Due to indications that the spacecraft fuel tank was running very low ~50 days into Campaign 18, [collection of science data was terminated on July 2, 2018](https://www.nasa.gov/feature/ames/nasa-s-kepler-spacecraft-pauses-science-observations-to-download-science-data) and the spacecraft was put in a hibernation-like state until the data was downloaded at the regularly scheduled time in early August. As a result, only one FFI was collected.
+
+<br>
+
 ***Pointing and Roll Performance***
 
 The C18 pointing and roll behavior are well within the limits of that seen in other K2 campaigns, with no degradation seen due to potentially low fuel levels.
@@ -148,7 +154,7 @@ The improved precision compared to most other campaigns is likely due to a combi
 stable pointing (compared to most other campaigns), and the updated pipeline version (in-particular the use of the coarse-point flags; see <a href="k2-uniform-global-reprocessing-underway.html">the global reprocessing effort announcement</a> for details).
 
 The magnitude dependence of CDPP and its distribution over the focal plane are shown below. Other CDPP benchmarks can be found in the
-<a href="images/release-notes/c18/c18_bin1.00_sc1.00_CDPP_Summary_18051614.txt">
+<a href="images/release-notes/c18/c18_bin1.00_sc1.00_CDPP_Summary_18101501.txt">
 table giving 6.5-hr CDPP as a function of magnitude.</a>
 <br>
 <div class="thumbnail" style="width: 90%;">
