@@ -1,5 +1,177 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2018-10-05T07:00:00-07:00</updated><entry><title>K2 Campaign 18 data processing complete</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-18-data-processing-complete.html" rel="alternate"></link><published>2018-10-05T07:00:00-07:00</published><updated>2018-10-05T07:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-10-05:/k2-campaign-18-data-processing-complete.html</id><summary type="html">&lt;p&gt;Data processing for K2 Campaign 18 is now complete
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Kepler &amp; K2</title><link href="https://keplerscience.arc.nasa.gov/" rel="alternate"></link><link href="https://keplerscience.arc.nasa.gov/feeds/all.atom.xml" rel="self"></link><id>https://keplerscience.arc.nasa.gov/</id><updated>2018-11-07T12:00:00-08:00</updated><entry><title>K2 Campaign 18 data release notes available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-18-data-release-notes-available.html" rel="alternate"></link><published>2018-11-07T12:00:00-08:00</published><updated>2018-11-07T12:00:00-08:00</updated><author><name>Jeff Coughlin</name></author><id>tag:keplerscience.arc.nasa.gov,2018-11-07:/k2-campaign-18-data-release-notes-available.html</id><summary type="html">&lt;p&gt;The &lt;a href="/k2-data-release-notes.html#k2-campaign-18"&gt;data release notes for K2 Campaign 18&lt;/a&gt; are now available online.
+We encourage all users to review the notes.&lt;/p&gt;</summary><content type="html">&lt;p&gt;The &lt;a href="/k2-data-release-notes.html#k2-campaign-18"&gt;data release notes for K2 Campaign 18&lt;/a&gt; are now available online.
+We encourage all users to review the notes.&lt;/p&gt;</content></entry><entry><title>New white paper: Scientific Opportunities with Kepler &amp; K2 Archive Data</title><link href="https://keplerscience.arc.nasa.gov/new-white-paper-scientific-opportunities-with-kepler-k2-archive-data.html" rel="alternate"></link><published>2018-10-29T22:00:00-07:00</published><updated>2018-10-29T22:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-10-29:/new-white-paper-scientific-opportunities-with-kepler-k2-archive-data.html</id><summary type="html">&lt;p&gt;The Kepler and K2 missions have provided an unprecedented data set with a precision and duration that will not be rivaled for decades. Even though the data has already contributed to nearly 2,500 scientific publications so far, the scientific community continues to extract new discoveries from the archive data …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The Kepler and K2 missions have provided an unprecedented data set with a precision and duration that will not be rivaled for decades. Even though the data has already contributed to nearly 2,500 scientific publications so far, the scientific community continues to extract new discoveries from the archive data every day.&lt;/p&gt;
+&lt;p&gt;To help new users understand where there may be important scientific gains left to be made in analyzing Kepler data, and to encourage the continued use of the archives, we have prepared a &lt;a href="https://github.com/KeplerGO/ScientificOpportunities/raw/master/paper/paper.pdf"&gt;white paper&lt;/a&gt; which discusses a non-exhaustive list of 21 important data analysis projects which can be executed using the public data that are readily available in the archives today. Each project contains a link to an issue on the &lt;a href="https://github.com/KeplerGO/ScientificOpportunities"&gt;GitHub repository of the white paper&lt;/a&gt; where we invite researchers to discuss their ideas or progress towards resolving the challenge.&lt;/p&gt;
+&lt;p&gt;The studies discussed in the paper show that many of Kepler's contributions still lie ahead of us, owing to the emergence of complementary new data sets, novel data analysis methods, and advances in computing power.&lt;/p&gt;
+&lt;h4 id="click-here-to-access-the-white-paper"&gt;&lt;i class="fa fa-file fa-lg" style="margin-top:0.5em; margin-bottom:0.5em;"&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;a href="https://github.com/KeplerGO/ScientificOpportunities/raw/master/paper/paper.pdf"&gt;Click here to access the white paper.&lt;/a&gt;&lt;/h4&gt;</content></entry><entry><title>New in Lightkurve: the Periodogram class</title><link href="https://keplerscience.arc.nasa.gov/new-in-lightkurve-the-periodogram-class.html" rel="alternate"></link><published>2018-10-29T19:00:00-07:00</published><updated>2018-10-29T19:00:00-07:00</updated><author><name>Christina Hedges</name></author><id>tag:keplerscience.arc.nasa.gov,2018-10-29:/new-in-lightkurve-the-periodogram-class.html</id><summary type="html">&lt;p&gt;This month in &lt;a href="https://docs.lightkurve.org"&gt;Lightkurve&lt;/a&gt;, we have added a Periodogram class, which provides a quick and easy way to create Lomb-Scargle periodograms from LightCurve objects.&lt;/p&gt;
+&lt;p&gt;Periodograms can be used to find stellar rotation rates, or the oscillation and pulsation frequencies of stars. They are commonly used in asteroseismology to identify oscillation …&lt;/p&gt;</summary><content type="html">&lt;p&gt;This month in &lt;a href="https://docs.lightkurve.org"&gt;Lightkurve&lt;/a&gt;, we have added a Periodogram class, which provides a quick and easy way to create Lomb-Scargle periodograms from LightCurve objects.&lt;/p&gt;
+&lt;p&gt;Periodograms can be used to find stellar rotation rates, or the oscillation and pulsation frequencies of stars. They are commonly used in asteroseismology to identify oscillation modes, which can be used to calculate the density of stars. &lt;/p&gt;
+&lt;p&gt;Below is a quick demonstration of how you can easily obtain the data from the data archive at MAST, create a periodogram, and inspect the oscillation modes of a red giant star in just three lines of Python.&lt;/p&gt;
+&lt;p&gt;
+&lt;img class="img-responsive" src="images/news/toperiodogram.gif" alt="New Lightkurve periodogram class" style="max-width:800px;"&gt;
+&lt;/p&gt;
+
+&lt;h3 id="usage"&gt;Usage&lt;/h3&gt;
+&lt;p&gt;To download a light curve from MAST and create a Periodogram object named &lt;code&gt;pg&lt;/code&gt;, you can use the following syntax:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="kn"&gt;from&lt;/span&gt; &lt;span class="nn"&gt;lightkurve&lt;/span&gt; &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="n"&gt;search_lightcurvefile&lt;/span&gt;
+&lt;span class="n"&gt;lcf&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;search_lightcurvefile&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;201691589&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;download&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;span class="n"&gt;lc&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;lcf&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;PDCSAP_FLUX&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;remove_nans&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;span class="n"&gt;pg&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;lc&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;to_periodogram&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Periodograms have several useful functions including plotting, smoothing, and binning. You can interact with them much the same way you interact with other Lightkurve objects.  For example you can use the following syntax to plot a smoothed Lomb-Scargle periodogram.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="n"&gt;pg&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;smooth&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;plot&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;The full documentation of the periodogram feature &lt;a href="https://docs.lightkurve.org/api/lightkurve.lightcurve.LightCurve.html#lightkurve.lightcurve.LightCurve.to_periodogram"&gt;is available here&lt;/a&gt;.  This new feature is the work of Kepler visiting scientist &lt;a href="https://twitter.com/asteronomer"&gt;Oliver Hall&lt;/a&gt; and summer intern Johnny Zhang.&lt;/p&gt;
+&lt;p&gt;You will need to upgrade your installation of Lightkurve to the latest version (v1.0b21) for this to work. This can be done via the command line as follows:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$ pip install lightkurve --upgrade
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Please consult the &lt;a href="https://docs.lightkurve.org"&gt;Lightkurve documentation&lt;/a&gt; for more information.
+The documentation includes &lt;a href="https://docs.lightkurve.org/tutorials/1.06-using-the-periodogram-class.html"&gt;a new tutorial on the Periodogram class&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><title>Abstracts &amp; travel support requests for Kepler SciCon V are due in two weeks</title><link href="https://keplerscience.arc.nasa.gov/abstracts-travel-support-requests-for-kepler-scicon-v-are-due-in-two-weeks.html" rel="alternate"></link><published>2018-10-29T15:00:00-07:00</published><updated>2018-10-29T15:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-10-29:/abstracts-travel-support-requests-for-kepler-scicon-v-are-due-in-two-weeks.html</id><summary type="html">&lt;p&gt;The &lt;a href='scicon-2019/index.html'&gt;Kepler &amp;amp; K2 Science Conference V&lt;/a&gt;
+will take place March 4-8, 2019, in Glendale, California.
+The meeting will be a celebration of Kepler's 10 years in space
+and will serve as a showcase of the bountiful results that continue to come
+from both the Kepler and K2 missions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstracts for …&lt;/strong&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;The &lt;a href='scicon-2019/index.html'&gt;Kepler &amp;amp; K2 Science Conference V&lt;/a&gt;
+will take place March 4-8, 2019, in Glendale, California.
+The meeting will be a celebration of Kepler's 10 years in space
+and will serve as a showcase of the bountiful results that continue to come
+from both the Kepler and K2 missions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstracts for presentations, proposals for breakout sessions, and requests for travel support are due by November 15, 2018.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Abstracts can be submitted through the
+&lt;a href="https://catcopy.ipac.caltech.edu/ksc2019/abstract.php"&gt;abstract submission form&lt;/a&gt;. Participants may submit multiple abstracts.&lt;/p&gt;
+&lt;p&gt;We have limited funding to support local costs (hotel and per diem) for a limited number of
+participants who would otherwise be unable to attend the meeting.
+Please complete &lt;a href='https://docs.google.com/forms/d/15qk9f9hovgSphVGIHUHqpu_NzJ-moA6WCahxGFsDGfk/edit?ts=5b8589cb'&gt;this application&lt;/a&gt; by the Nov. 15 deadline.
+Applicants will receive a decision by Dec. 20.&lt;/p&gt;
+&lt;p&gt;Note that the Wednesday afternoon of the meeting (March 6) is set aside for breakout sessions
+to enable the community to discuss and work on Kepler/K2 related projects.
+We envision these sessions will be more hands on, unconference sessions
+of broad interest to the community.
+Examples of break out sessions include panel discussions, hack activities,
+work meetings of large collaborations, or tutorials to use data/software products related to Kepler/K2.
+To submit a proposal for a breakout session, please select this option on the abstract submission form.&lt;/p&gt;
+&lt;p&gt;Additional details, including information about travel and lodging,
+are available on the &lt;a href="/scicon-2019/"&gt;conference home page&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><title>K2 Campaign 18 processed data available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-18-processed-data-available.html" rel="alternate"></link><published>2018-10-24T14:00:00-07:00</published><updated>2018-10-24T14:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-10-24:/k2-campaign-18-processed-data-available.html</id><summary type="html">&lt;p&gt;The pipeline-processed data for K2 Campaign 18
+are now available for download
+from the &lt;a href="http://archive.stsci.edu/k2"&gt;K2 data archive at MAST&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Campaign 18 saw Kepler's third visit to the &lt;strong&gt;&lt;em&gt;K2 Legacy Field&lt;/em&gt;&lt;/strong&gt; in the constellation of Cancer,
+which contains the benchmark star clusters M44 and M67.
+This field has now been observed …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The pipeline-processed data for K2 Campaign 18
+are now available for download
+from the &lt;a href="http://archive.stsci.edu/k2"&gt;K2 data archive at MAST&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Campaign 18 saw Kepler's third visit to the &lt;strong&gt;&lt;em&gt;K2 Legacy Field&lt;/em&gt;&lt;/strong&gt; in the constellation of Cancer,
+which contains the benchmark star clusters M44 and M67.
+This field has now been observed during three Campaigns (5, 16, 18) across a 3-year baseline and 8-month duty cycle.&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;
+The target list contained
+20,929 standard long cadence
+and 234 standard short cadence targets,
+including:
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;b&gt;Two open star clusters&lt;/b&gt;:
+        &lt;ul&gt;
+          &lt;li&gt;
+            &lt;b&gt;M44&lt;/b&gt; is one of the most nearby open star clusters
+            and is known to contain at least six confirmed planets
+            (K2-95b, K2-100b, K2-101b, K2-102b, K2-103b, K2-104b).
+            Its members were observed using standard masks.
+          &lt;/li&gt;
+          &lt;li&gt;
+            &lt;b&gt;M67&lt;/b&gt; is the benchmark star cluster
+            with solar-like age and metallicity.
+            Hundreds of stars in the cluster core were observed
+            using 121 unique 40x40-pixel long cadence aperture masks
+            which created a contiguous 440x440 pixel region.
+            In addition, hundreds of members in the outskirts
+            were observed using standard masks,
+            and more than 40 targets were observed
+            using short cadence masks.
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;li&gt;
+        &lt;b&gt;42 confirmed exoplanets from Campaign 5&lt;/b&gt;:
+        K2-34b, 95b, 97b, 98b, 100b, 101b, 102b, 103b, 104b, 105b, 108b,
+        114b, 115b, 117bc, 118b, 119b, 120b, 121b, 122b, 123b, 124b, 146b,
+        180b, 181b, 182b, 183bcd, 184b, 185b, 187bcde, 188bc,
+        and HIP 41378 bcdef.
+        Most noteworthy, the HIP 41378 system is a bright F-type dwarf (V=9)
+        shown by Campaign 5 to host at least five planets.
+        The majority of these confirmed planet systems are being observed
+        in short cadence.
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;b&gt;Dozens of unconfirmed planet candidates&lt;/b&gt; from Campaign 5
+        were re-observed, the majority in long cadence.
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;b&gt;60 low-mass flare stars&lt;/b&gt; and &lt;b&gt;59 variable white dwarfs&lt;/b&gt;
+        were observed in short cadence.
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;b&gt;13 very bright stars&lt;/b&gt; were observed
+        using custom circular masks, including
+        &lt;a href="https://en.wikipedia.org/wiki/Zeta_Cancri"&gt;ζ Cancri&lt;/a&gt;
+        and 25 Cancri in short cadence,
+        and  η, γ, X, 21, 29, 49, 50, and 60 Cancri in long cadence.
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;b&gt;OJ 287&lt;/b&gt; is a well-studied bright galaxy (V=15) which is
+        thought to show lightcurve variations due to a &lt;b&gt;binary supermassive black hole&lt;/b&gt; at its center.  It was observed in short cadence.
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;b&gt;37 Solar System objects&lt;/b&gt; including
+        22 comets and trojan Asteroids,
+        9 faint Trans-Neptunian Objects, and the
+        &lt;b&gt;&lt;a href="https://en.wikipedia.org/wiki/99942_Apophis"&gt;
+        potentially hazardous asteroid 99942 Apophis&lt;/a&gt;&lt;/b&gt;
+        were observed in long cadence.
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;The figure below illustrates the location of the field and its notable targets.&lt;/p&gt;
+&lt;p&gt;Users of the data are strongly encouraged to contact, cite, and collaborate
+with the teams who proposed the observations, as listed on the
+&lt;a href="k2-approved-programs.html#campaign-18"&gt;Approved Progams &amp;amp; Targets page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Please keep an eye on our website for the associated &lt;a href="k2-data-release-notes.html"&gt;data release notes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="images/k2/k2-c18-field.png"&gt;&lt;img class="img-responsive" style="max-width:600px;" src="images/k2/k2-c18-field.png" alt="K2 C18 Field"&gt;&lt;/a&gt;&lt;/p&gt;</content></entry><entry><title>Kepler spacecraft update</title><link href="https://keplerscience.arc.nasa.gov/kepler-spacecraft-update.html" rel="alternate"></link><published>2018-10-23T18:00:00-07:00</published><updated>2018-10-23T18:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-10-23:/kepler-spacecraft-update.html</id><summary type="html">&lt;p&gt;Following a successful return of data from K2 Campaign 19,
+the Kepler team commanded the spacecraft into position to begin collecting data for Campaign 20.&lt;/p&gt;
+&lt;p&gt;On Friday October 19, during a regularly scheduled spacecraft contact using NASA’s Deep Space Network, the team learned that the spacecraft had paused Campaign …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Following a successful return of data from K2 Campaign 19,
+the Kepler team commanded the spacecraft into position to begin collecting data for Campaign 20.&lt;/p&gt;
+&lt;p&gt;On Friday October 19, during a regularly scheduled spacecraft contact using NASA’s Deep Space Network, the team learned that the spacecraft had paused Campaign 20 and transitioned to its no-fuel-use sleep mode.&lt;/p&gt;
+&lt;p&gt;The Kepler team is currently assessing the cause and evaluating possible next steps.&lt;/p&gt;</content></entry><entry><title>K2 Campaign 19 raw data available</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-19-raw-data-available.html" rel="alternate"></link><published>2018-10-16T10:00:00-07:00</published><updated>2018-10-16T10:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-10-16:/k2-campaign-19-raw-data-available.html</id><summary type="html">&lt;p&gt;The Kepler spacecraft has successfully downloaded Campaign 19 data to Earth.
+To enable users to make use of the current visibility of the Campaign 19 field
+from the ground, the raw cadence data files have been made public immediately
+via the &lt;a href="http://archive.stsci.edu/missions/k2/raw_cadence_data/"&gt;K2 data archive at MAST&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;The use of the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The Kepler spacecraft has successfully downloaded Campaign 19 data to Earth.
+To enable users to make use of the current visibility of the Campaign 19 field
+from the ground, the raw cadence data files have been made public immediately
+via the &lt;a href="http://archive.stsci.edu/missions/k2/raw_cadence_data/"&gt;K2 data archive at MAST&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;The use of the raw, uncalibrated data files requires an intimate understanding
+of their format and caveats (see the &lt;a href="https://github.com/KeplerGO/kadenza"&gt;kadenza tool&lt;/a&gt;).
+For scientific investigations that are not time-critical,
+we recommend that users wait for the calibrated and quality-controlled
+data products to become available in approximately 3 months.&lt;/p&gt;
+&lt;p&gt;Campaign 19 included TRAPPIST-1.
+Uncalibrated Target Pixel Files for this planet system have been created using 
+&lt;a href="https://github.com/KeplerGO/kadenza"&gt;kadenza&lt;/a&gt; and are available
+via &lt;a href="http://doi.org/10.5281/zenodo.1464260"&gt;DOI 10.5281/zenodo.1464259&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Long cadence: &lt;a href="https://zenodo.org/record/1464260/files/k2c19-trappist1-lc-raw-tpf.fits.gz"&gt;k2c19-trappist1-lc-raw-tpf.fits.gz&lt;/a&gt; (1 MB)&lt;/li&gt;
+&lt;li&gt;Short cadence: &lt;a href="https://zenodo.org/record/1464260/files/k2c19-trappist1-sc-raw-tpf.fits.gz"&gt;k2c19-trappist1-sc-raw-tpf.fits.gz&lt;/a&gt; (25 MB)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The Campaign 19 data are shorter and somewhat less stable than previous K2 Campaigns.
+Owing to Kepler's low fuel pressure, the &lt;a href="k2-campaign-19-status-update.html"&gt;spacecraft's configuration had to be modified&lt;/a&gt; at the start of Campaign 19 to compensate for the unusual behavior exhibited by one of the thrusters.
+The Campaign started collecting data on Aug 30, achieved its nominal
+pointing on Sep 7, and was ended on Sep 26 in response to 
+a &lt;a href="k2-campaign-19-ended-to-downlink-data.html"&gt;further degradation in the spacecraft's pointing performance&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><title>K2 Campaign 18 data processing complete</title><link href="https://keplerscience.arc.nasa.gov/k2-campaign-18-data-processing-complete.html" rel="alternate"></link><published>2018-10-05T07:00:00-07:00</published><updated>2018-10-05T07:00:00-07:00</updated><author><name>Geert Barentsen</name></author><id>tag:keplerscience.arc.nasa.gov,2018-10-05:/k2-campaign-18-data-processing-complete.html</id><summary type="html">&lt;p&gt;Data processing for K2 Campaign 18 is now complete
 and the pixel files and lightcurves are in the process
 of being shipped to the &lt;a href="http://archive.stsci.edu/k2"&gt;data archive at MAST&lt;/a&gt;.
 We anticipate that the data release will be announced before the end of the month.&lt;/p&gt;
