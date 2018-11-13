@@ -108,6 +108,26 @@ If you have concerns, suggestions, or would like to report a violation, please c
 
 <a href='participants.html'>A list of registered participants can be found here</a>.
 
+### Invited Speakers
+
+* Ruth Angus, American Museum of Natural History / Flatiron Institute / Columbia University
+* Sarah Ballard, Massachusetts Institute of Technology
+* Bill Borucki, NASA Ames Research Center
+* Jessie Christiansen, NASA Exoplanet Science Institute
+* Sébastien Deheuvels, Research Institute in Astrophysics and Planetology (IRAP Toulouse)
+* Courtney Dressing, University of California, Berkeley
+* Peter Garnavich, University of Notre Dame
+* Patrick Gaulme, Max Planck Institute for Solar System Research
+* Chris Lintott, Oxford University
+* Mia Lundkvist, Aarhus University
+* Andrew Mann, University of North Carolina at Chapel Hill
+* Katelynn McCalmont, Ball Aerospace
+* Marc Pinsonneault, The Ohio State University
+* Krista Lynne Smith, Stanford University
+* Andrew Vanderburg, University of Texas at Austin
+* Lauren Weiss, University of Hawaii, Manoa
+
+
 ### Scientific Organizing Committee
 
 * Knicole Colón, NASA Goddard Space Flight Center (co-Chair)
