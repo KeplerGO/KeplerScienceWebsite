@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 140 conference participants is below (last update: Nov. 15, 2018).
+The current list of 141 conference participants is below (last update: Nov. 15, 2018).
 
 * Robert Baker, Wildwood School
 * Thomas Barclay, NASA Goddard Space Flight Center
@@ -140,6 +140,7 @@ The current list of 140 conference participants is below (last update: Nov. 15, 
 * Mark Wells, Penn State Unversity and Villanova
 * Rob Wittenmyer, University of Southern Queensland
 * Padma Yanamandra-Fisher, Space Science Institute
+* Mitchell Yenawine, San Diego State University
 * Shangjia Zhang, University of Nevada, Las Vegas
 * Wei Zhu, Canadian Institute for Theoretical Astrophysics
 * Jon Zink, UCLA
