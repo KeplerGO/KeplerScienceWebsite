@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 141 conference participants is below (last update: Nov. 15, 2018).
+The current list of 159 conference participants is below (last update: Nov. 16, 2018).
 
 * Robert Baker, Wildwood School
 * Thomas Barclay, NASA Goddard Space Flight Center
