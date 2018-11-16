@@ -9,6 +9,7 @@ The current list of 141 conference participants is below (last update: Nov. 15, 
 * Thomas Beatty, University of Arizona
 * Charles Beichman, Caltech/IPAC-NExScI
 * Othman Benomar, NYU Abu Dhabi
+* David Berardo, Massachusetts Institute of Technology
 * Sylvie Bernstein, McGill University
 * Anya Biferno, JPL/NASA
 * Gary Blackwood, NASA/JPL
@@ -16,6 +17,8 @@ The current list of 141 conference participants is below (last update: Nov. 15, 
 * Tabetha Boyajian, LSU
 * Pat Brennan, JPL/NASA
 * Sebastiano Calchi Novati, Caltech/IPAC
+* Matteo Cantiello, Flatiron Institute
+* Kenneth Carpenter, NASA Goddard Space Flight Center
 * Barbara Castanheira, Baylor University
 * Jonathan Chauwa, Berea College
 * Alma Ceja, University of California, Riverside
@@ -25,11 +28,13 @@ The current list of 141 conference participants is below (last update: Nov. 15, 
 * Lorenzo S. Colombo, Universita degli Studi de Padova
 * Knicole Colon, NASA Goddard Space Flight Center
 * Jeffrey Coughlin, SETI Institute/NASA Ames
+* Katia Cunha, Steward Observatory, University of Arizona
 * Jason Curtis, Columbia University
 * Fei Dai, MIT
 * Paul Dalba, UC Riverside
 * Trevor David, JPL
 * Bartlomiej Debski, Astronomical Observatory of the Jagiellonian University
+* Atirath Dhara, West Windsor Plainsboro High School South
 * Georgios Dimitriadis, University of California, Santa Cruz
 * Jessie Dotson, NASA Ames Research Center
 * Gerry Doyle, Armagh Observatory and Planetarium
@@ -49,6 +54,7 @@ The current list of 141 conference participants is below (last update: Nov. 15, 
 * Sankalp Gilda, Institute for Astronomy, University of Hawaii
 * Pierre Gratia, Northwestern University
 * Michael Gully-Santiago, Kepler/K2 Guest Observer Office
+* Akash Gupta, UCLA
 * Hader Haghighipour, Institute for Astronomy, University of Hawaii
 * Kevin Hardegree-Ullman, Caltech/IPAC-NExScI
 * Yasuhiro Hasegawa, JPL/Caltech
@@ -69,13 +75,17 @@ The current list of 141 conference participants is below (last update: Nov. 15, 
 * Irina Kitiashvili, NASA Ames Research Center/BAERI
 * Alexander Kosovichen, New Jersey Institute of Technology
 * Veselin Kostov, NASA/SETI Institute	
+* Ethan Kruse, NASA Goddard Space Flight Center
 * Daryll LaCourse, PlanetHunters.org
 * Pierre-Olivier Lagage, CEA-Paris-Saclay University
 * Elizabeth Landau, JPL/NASA
+* David Latham, Harvard-Smithsonian Center for Astrophysics
 * William Latter, NASA HQ
+* Min Li, University of Nevada, Las Vegas
 * Charles Lillie, Lillie Consulting LLC
 * Jorge Lillo-Box, European Southern Observatory
 * Jack Lissauer, NASA Ames
+* Colin Littlefield, University of Notre Dame
 * Mia Sloth Lundkvist, Aarhus University
 * Eric Mamajek, JPL/NASA
 * Marima Mambondiumwe, Berea College
@@ -86,6 +96,7 @@ The current list of 141 conference participants is below (last update: Nov. 15, 
 * Michele Montgomery, University of Central Florida
 * Claire Moutou, CFHT
 * Przemek Mroz, Warsaw University Observatory
+* Gijs Mulders, University of Chicago
 * Simon Murphy, University of Sydney
 * Kosuke Namekata, Kyoto University
 * Domenico Nardiello, Universita' degli Studi de Padova
@@ -113,14 +124,18 @@ The current list of 141 conference participants is below (last update: Nov. 15, 
 * Vanessa Rivodo Rodriguez, University of Central Florida
 * James Rogers, Imperial College London
 * Lee Rosenthal, Caltech
+* Jason Rowe, Bishop's University
 * Ryan Rubenzahl, Caltech
 * Arielle Samuelson, JPL/NASA
 * Alexandre Santiago Castelari, SETI: Space Quest
 * Nicholas Saunders, Kepler/K2 Guest Observer Office, NASA Ames
 * Everett Schlawin, University of Arizona
 * Ellianna Schwab Abrahams, University of California, Berkeley
+* Christopher Shallue, Google Brain
+* Edward Shaya, University of Maryland
 * Kendra Short, NASA/JPL
 * Raghubar Singh, Indian Institute of Astrophysics
+* Verne Smith, NOAO
 * Melinda Soares, Princeton University
 * Quentin Socia, San Diego State University
 * Karl Stapelfeldt, JPL/Caltech/NASA
@@ -134,10 +149,13 @@ The current list of 141 conference participants is below (last update: Nov. 15, 
 * Gagik Tovmassian, Institute of Astronomy, UNAM
 * Otto Trust, Mabarara University of Science and Technology
 * Andrew Vanderburg, University of Texas at Austin
+* Shreyas Vissapragada, Caltech
 * Gordon Walker, University of British Columbia
+* Sharon Xuesong Wang, Carnegie DTM
 * Ann Wehrle, Space Science Institute
 * Lauren Weiss, University of Hawaii
 * Mark Wells, Penn State Unversity and Villanova
+* Timothy White, Australian National University
 * Rob Wittenmyer, University of Southern Queensland
 * Padma Yanamandra-Fisher, Space Science Institute
 * Mitchell Yenawine, San Diego State University
