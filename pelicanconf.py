@@ -119,8 +119,8 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b>15 Nov 2018</b>',
-             'Abstracts due for Kepler & K2 SciCon V',
+            ('<b>15 Jan 2019</b>',
+             'Poster deadline for Kepler & K2 SciCon V',
              'scicon-2019/index.html'),
          )
 
