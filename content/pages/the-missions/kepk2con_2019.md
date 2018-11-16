@@ -70,13 +70,12 @@ Judges will rank posters of conference participants who agreed to enter the comp
 
 ### Abstract Submission
 
-Abstracts for conference presentations should be submitted
-<a href='https://catcopy.ipac.caltech.edu/ksc2019/abstract.php'>here by the Nov. 15 deadline</a>, although abstracts for posters can continue to be submitted until the late poster only deadline of Jan. 15, 2019..  
+Abstracts for posters only can be submitted here
+<a href='https://catcopy.ipac.caltech.edu/ksc2019/abstract.php'>here by the Nov. 15 deadline</a> until the late poster only deadline of Jan. 15, 2019..  Abstracts for oral presentations and breakout sessions were due by the Nov. 15 deadline.  
 
 Note that Wednesday afternoon (March 6) is set aside for breakout sessions to enable the community to discuss and work on Kepler/K2 related projects.
 We envision these sessions will be more hands on, unconference sessions of broad interest to the community.
 Examples of break out sessions include panel discussions, hack activities, work meetings of large collaborations, or tutorials to use data/software products related to Kepler/K2.
-To submit a proposal for a breakout session, please select this on the abstract submission form.
 
 ### Lodging, Parking, and Venue Information
 
@@ -93,9 +92,7 @@ Everyone: If you wish to use valet parking, the rate is $19/day.
 ### Travel Support
 
 We have limited funding to support local costs (hotel and per diem) for a limited number of
-participants who would otherwise be unable to attend the meeting.
-Please complete <a href='https://docs.google.com/forms/d/15qk9f9hovgSphVGIHUHqpu_NzJ-moA6WCahxGFsDGfk/edit?ts=5b8589cb'>this application</a> by the Nov. 15 deadline.
-Applicants will receive a decision by Dec. 20.
+participants who would otherwise be unable to attend the meeting.  Applications for travel support were due on Nov. 15 and are no longer being accepted.  Applicants will receive a decision by Dec. 20.
 
 ### Code of Conduct
 
