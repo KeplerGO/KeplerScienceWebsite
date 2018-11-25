@@ -79,6 +79,8 @@ Examples of break out sessions include panel discussions, hack activities, work 
 
 ### Lodging, Parking, and Venue Information
 
+NOTE: Some conference registrants have reported receiving phone calls from the hotel asking for dates and other information.  This is a scam and you should not respond!  All registrants wishing to stay at the Glendale Hilton must make their reservations themselves; you will not receive a phone call asking for this information!
+
 The conference location and hotel is the Hilton Los Angeles North/Glendale & Executive Meeting Ctr located at 100 West Glenoaks Blvd, Glendale, California, 91202. A block of rooms has been reserved for March 2, 2019 - March 9, 2019. The special sleeping room rate includes free wifi and will be available until February 10, 2019 or until the group block is sold-out, whichever comes first.
 <a href='http://www.hilton.com/en/hi/groups/personalized/B/BURHGHF-CALTEC-20190302/index.jhtml'>Rooms in the block can be reserved by following this link</a>.
 
