@@ -3899,7 +3899,12 @@ Other CDPP benchmarks can be found in the
 
 # K2 Campaign 0
 
+These release notes are for the C0 data currently available at MAST in the nominal K2 data locations, which have been processed with the final version of the K2 pipeline as part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a>. The original release notes corresponding to the previous version(s) of C0 data can be found in the <a href="archived-k2-data-release-notes.html#k2-campaign-0">archived data release notes page</a>.
+
+
 Campaign 0 (C0) was implemented as a full-length engineering test to prove that K2 was a viable mission. It observed sources "at risk" from a community-provided target list.
+
+
 
 <h2>At a glance</h2>
 
