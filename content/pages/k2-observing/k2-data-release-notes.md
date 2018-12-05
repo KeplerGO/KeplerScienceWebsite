@@ -3901,14 +3901,11 @@ Other CDPP benchmarks can be found in the
 
 These release notes are for the C0 data currently available at MAST in the nominal K2 data locations, which have been processed with the final version of the K2 pipeline as part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a>. The original release notes corresponding to the previous version(s) of C0 data can be found in the <a href="archived-k2-data-release-notes.html#k2-campaign-0">archived data release notes page</a>.
 
-
 Campaign 0 (C0) was implemented as a full-length engineering test to prove that K2 was a viable mission. It observed sources "at risk" from a community-provided target list.
-
 
 
 <h2>At a glance</h2>
 
-<div class="row">
 <div class="col-lg-5">
 
     <b><i>Pointing</i></b>
@@ -3918,7 +3915,14 @@ Campaign 0 (C0) was implemented as a full-length engineering test to prove that 
         <li>Roll: 177.4754730 degrees</li>
     </ul>
 
-    <b><i>Full Frame Images (FFI)</i></b>
+    <b><i>Targets</i></b>
+    <ul>
+        <li>XXXXX in long cadence (LC)</li>
+        <li>XXXXXX in short cadence (SC)</li>
+        <li>CHECK THIS Several custom targets (see below)</li>
+    </ul>
+
+    <b><i>Full Frame Images (FFI) NEED TO UPDATE!</i></b>
     <ul>
         <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2014070234206-c00_ffi-cal.fits">ktwo2014070234206-c00_ffi-cal.fits</a></li>
         <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2014074233223-c00_ffi-cal.fits">ktwo2014074233223-c00_ffi-cal.fits</a></li>
@@ -3941,7 +3945,7 @@ Campaign 0 (C0) was implemented as a full-length engineering test to prove that 
 
     <b><i>Most Recent Processing Version</i></b>
     <ul>
-    <li> <a href="k2-pipeline-release-notes.html#data-release-2">Data Release 2</a> </li>
+    <li> <a href="k2-pipeline-release-notes.html#data-release-28">Data Release 28</a> </li>
     </ul>
 
 </div>
@@ -3950,10 +3954,10 @@ Campaign 0 (C0) was implemented as a full-length engineering test to prove that 
 
     <div class="thumbnail">
         <div class="caption">
-            <i>Figure: Schematic of Kepler's C0 field-of-view with selected targets shown with purple dots.</i>
+            <i>Figure C0-FOV: Schematic of Kepler's C0 field-of-view with high profile objects.</i>
         </div>
-        <a href="images/campaign_selected/C0_selected.png">
-            <img src="images/campaign_selected/C0_selected.png" class="img-responsive" alt="C0 field-of-view">
+        <a href="images/k2/k2-c00-field.png">
+            <img src="images/k2/k2-c00-field.png" class="img-responsive" alt="C0 field-of-view with high profile objects.">
         </a>
     </div>
 
