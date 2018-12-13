@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 167 conference participants is below (last update: Nov. 16, 2018).
+The current list of 171 conference participants is below (last update: Nov. 16, 2018).
 
 * David Ardila, JPL
 * Robert Baker, Wildwood School
@@ -94,8 +94,10 @@ The current list of 167 conference participants is below (last update: Nov. 16, 
 * Marima Mambondiumwe, Berea College
 * Andrew Mann, University of North Carolina at Chapel Hill
 * Cintia Fernanda Martinez, Observatorio Nacional
+* Savita Mathur, Instituto de Astrofisica de Canarias
 * Katelynn McCalmont-Everton, Ball Aerospace
 * Bertrand Mennesson, JPL
+* Paul Mooney, Intune.Network
 * Benjamin Montet, University of Chicago
 * Michele Montgomery, University of Central Florida
 * Claire Moutou, CFHT
@@ -145,6 +147,7 @@ The current list of 167 conference participants is below (last update: Nov. 16, 
 * Quentin Socia, San Diego State University
 * Karl Stapelfeldt, JPL/Caltech/NASA
 * Keivan Stassun, Vanderbilt University
+* John Stauffer, Spitzer Science Center
 * Jason Steffen, University of Nevada, Las Vegas
 * Dennis Stello, UNSW Sydney
 * Martin Still, NASA
@@ -158,6 +161,7 @@ The current list of 167 conference participants is below (last update: Nov. 16, 
 * Andrew Vanderburg, University of Texas at Austin
 * Shreyas Vissapragada, Caltech
 * Gordon Walker, University of British Columbia
+* Nan Wang, DeepMacro LLC
 * Sharon Xuesong Wang, Carnegie DTM
 * Ann Wehrle, Space Science Institute
 * Lauren Weiss, University of Hawaii
