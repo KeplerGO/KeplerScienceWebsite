@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 171 conference participants is below (last update: Nov. 16, 2018).
+The current list of 173 conference participants is below (last update: Nov. 16, 2018).
 
 * David Ardila, JPL
 * Robert Baker, Wildwood School
@@ -53,6 +53,7 @@ The current list of 171 conference participants is below (last update: Nov. 16, 
 * Rafael A. Garcia, CEA Saclay
 * Moses Gbondo, Berea College
 * Dawn Gelino, IPAC/Caltech-NExScI
+* Ryan George, University of Southern California
 * Sankalp Gilda, Institute for Astronomy, University of Hawaii
 * Pierre Gratia, Northwestern University
 * Michael Gully-Santiago, Kepler/K2 Guest Observer Office
@@ -124,6 +125,7 @@ The current list of 171 conference participants is below (last update: Nov. 16, 
 * Elisa Quintana, NASA Goddard Space Flight Center
 * Andreas Quirrenbach, Univ. Heidelberg
 * Gavin Ramsay, Armagh Observatory
+* Rabeea Rasheed, ABNP
 * Luisa Rebull, Caltech/IPAC-IRSA
 * David Rice, University of Nevada, Las Vegas
 * Ryan Ridden-Harper, Australian National University
