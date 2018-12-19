@@ -4081,11 +4081,10 @@ The open clusters M35 (NGC 2168) and NGC 2158 were observed during this campaign
 
 ***Dynablack Turned Off***
 
-One of the new features in data processed as part of the
-
-
+One of the new features in data processed as part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a> is the use of Dynablack, a more sophisticated algorithm to perform the pixel-level calibration, which also flags cadences that are likely affected by the presence of rolling bands. However, due to the large amount of coarse point data, combined with the ~24 day data gap due to safe mode, the Dynablack module did not have enough high-quality data to run. Thus for this data release, the pixel-level calibrations were performed with the standard CAL module, and there are no rolling band flags in the delivered FITS files.
 
 <br>
+
 
 ***PDC Only Run On Last ~37 Days***
 
@@ -4100,8 +4099,7 @@ Similarly, the cotrending basis vector (CBV) file for C0 ()[ktwo-c00-d28_lcbv.fi
 
 ***No ARP Files Available***
 
-Since the necessary pixels were not collected in C0, note there are no artifact removal pixel (ARP) files available for C0 (see   [S2.3.8 of the Kepler Archive Manual](https://archive.stsci.edu/kepler/manuals/archive_manual.pdf#page=51)).
-
+Since the necessary pixels were not collected in C0, note there are no artifact removal pixel (ARP) files available for C0 (see [S2.3.8 of the Kepler Archive Manual](https://archive.stsci.edu/kepler/manuals/archive_manual.pdf#page=51)).
 
 <br>
 
@@ -4110,20 +4108,54 @@ Since the necessary pixels were not collected in C0, note there are no artifact 
 
 
 
-202073036
-202073415
-202071446 202073152
-202060164 202072962 202073290 202072982
-202073354 202065132 202065134 202065136
-202065123 202065125 202065119 202065120
-202065129 202065131 202065133 202065121
-202065126 202065118 202065117 202065115
-202065130 202065135 202065122 202065124
-202065128 202065116 202073323 202073125
-202073136 202073099 202071440 202071448
-202072947 202071443 202072959 202073364
-202073377 202060421 202071450 202071445
-202060813 202060210 202073360
+202060164<br>
+202060210<br>
+202060421<br>
+202060813<br>
+202065115<br>
+202065116<br>
+202065117<br>
+202065118<br>
+202065119<br>
+202065120<br>
+202065121<br>
+202065122<br>
+202065123<br>
+202065124<br>
+202065125<br>
+202065126<br>
+202065128<br>
+202065129<br>
+202065130<br>
+202065131<br>
+202065132<br>
+202065133<br>
+202065134<br>
+202065135<br>
+202065136<br>
+202071440<br>
+202071443<br>
+202071445<br>
+202071446<br>
+202071448<br>
+202071450<br>
+202072947<br>
+202072959<br>
+202072962<br>
+202072982<br>
+202073036<br>
+202073099<br>
+202073125<br>
+202073136<br>
+202073152<br>
+202073290<br>
+202073323<br>
+202073354<br>
+202073360<br>
+202073364<br>
+202073377<br>
+202073415<br>
+
 
 <br>
 
