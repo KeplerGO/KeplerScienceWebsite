@@ -3979,12 +3979,15 @@ Campaign 0 (C0) was implemented as a full-length engineering test to prove that 
 
 <h2>Features and Events</h2>
 
+***Large Pixel Masks***
+
+When planning C0 observations, the pointing performance of K2 was not yet accurately known. The worst case scenario was that a star at the edge of the focal plane could move as much as 40" from its nominal position. Therefore each star was assigned a large pixel mask by first computing a Kepler-style optimal aperture and then adding 10 rings of pixels to account for a potential 40" pointing offset. (Later campaigns only added 2 &ndash; 4 rings of pixels.) Care will be needed when performing photometry on C0 data &mdash; simply including all collected pixels for a given target will not create a high signal-to-noise light curve. For tools to help choose your photometric aperture, see for example the [lightkurve Python package](https://docs.lightkurve.org) and [PyKE software tool suite](http://pyke.keplerscience.org).
+
+<br>
+
 ***Pointing and Roll Performance***
 
-<!-----The C0 pointing and roll behavior are well within the limits of that seen in other K2 campaigns, with no degradation seen due to potentially low fuel levels.------->
-
-C0 was the first full-length campaign observed by K2, and as such experienced testing and refinement of the telescope control systems during the campaign. The first ~18 days of pointing experienced a mixture of fine and coarse point, at which point the telescope was put into safe mode for ~24 days to adjust the pointing control. The spacecraft then resumed observation, experiencing just over a day of coase point, followed by ~37 days of fine point. Figure C0-Pointing shows this by plotting the observed motion at the edge of the field of view in science pixels versus cadence.
-
+C0 was the first full-length campaign observed by K2, and as such testing and refinement of the telescope control systems occurred during the campaign. The first ~18 days of observations had a mixture of fine and coarse pointing, at the end of which the telescope was put into safe mode for ~24 days to adjust the pointing control systems. The spacecraft then resumed observations, experiencing just over a day of coarse point, followed by ~37 days of fine point. Figure C0-Pointing shows the pointing history over the campaign by plotting the observed motion at the edge of the field of view in science pixels versus cadence.
 
 <div class="thumbnail" style="width: 100%;display: inline-block;">
 <div class="caption">
@@ -3995,17 +3998,13 @@ C0 was the first full-length campaign observed by K2, and as such experienced te
 </div>
 </div>
 
-Based on the pointing history, and known complications in processing data with large coarse pointing regions and data gaps, *while the entire C0 cadence range was processed by CAL and PA, only long cadences 89407 &ndash; 91186 (and the corresponding short cadence range 2670670 &ndash; 2724069) were processed by PDC.* This correponds to the ~37 days of fine point data at the end of the campaign.
+Based on the pointing history, and known complications in processing data with large coarse pointing regions and data gaps, **while the entire C0 cadence range was processed by CAL (pixel calibration) and PA (simple aperture lightcurves), only long cadences 89407 &ndash; 91186 (and the corresponding short cadence range 2670670 &ndash; 2724069) were processed by PDC (systematic detrended lightcurves).** This corresponds to the ~37 days of fine point data at the end of the campaign.
+
+During these ~37 days, examining Figure C0-MAR, the pipeline-calculated maximum distance between the derived and nominal positions for any target (the "maximum attitude residual", or MAR)
+for C18 is less than 2.1 pixels, substantially under the 10-pixel limit accommodated by the aperture halos. (Note that long cadences 89407 &ndash; 89410 are flagged using QUALITY flag bit #3 to indicate significant pointing excursions, despite the spacecraft technically being in fine point, and users may wish to discard them.)
 
 
-
-The pipeline-calculated maximum distance between the derived and nominal positions for any target (the "maximum attitude residual", or MAR)
-for C18 is less than 1.9 pixels for nearly the entire campaign, well under the 3-pixel limit accommodated by the aperture halos.
-
-The exception is about a dozen long cadences just prior to BKJD 3432 / MJD 58264.5, where the pointing temporarily exceeded 4 pixels, as clearly seen in the plots below. Users are encouraged to discard long cadences 162613 &ndash; 162627 (short cadences 4866897 &ndash; 4867246) due to this pointing excursion. These cadences are flagged using QUALITY flag bit #3. Similarly, while not visible in the plots below, the very last long cadence of the campaign, 164458 (short cadences 4922216 &ndash; 4922230) had a very large pointing excursion and are also flagged using QUALITY flag bit #3.
-
-
-<div class="thumbnail" style="width: 50%;display: inline-block;">
+<div class="thumbnail" style="width: 48.75%;display: inline-block;">
 <div class="caption">
 <i>Figure C0-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C0.</i>
 <a href="images/release-notes/c0/c0_pad_pdq_attitude_roll.png">
@@ -4014,7 +4013,7 @@ The exception is about a dozen long cadences just prior to BKJD 3432 / MJD 58264
 </div>
 </div>
 
-<div class="thumbnail" style="width: 48%;display: inline-block;">
+<div class="thumbnail" style="width: 49.25%;display: inline-block;">
 <div class="caption">
 <i>Figure C0-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C0.</i>
 <a href="images/release-notes/c0/c0_pad_pdq_attitude_mar.png">
@@ -4026,47 +4025,29 @@ The exception is about a dozen long cadences just prior to BKJD 3432 / MJD 58264
 <br>
 
 
-***Not In Fine Point Data***
+***No Data for Modules 3 and 7***
 
-The second half of the C0 data is more indicative of the quality of data users should expect from K2. The Kepler spacecraft was not in fine point for the first part of C0, causing large photometric scatter. The data quality is much improved in the second half of the campaign, beginning on cadence 89347 after the safe mode, when compared to the first half of the campaign. See the QUALITY flag (bit 16) to determine when the spacecraft was in fine point.
-
-<br>
-
-***Safe Mode***
-
-The Kepler Spacecraft was in safe mode between cadences 88198 and 89346. Data is flagged in the QUALITY column with bit 2. The project used this time to fix large attitude errors that were occurring during resaturation events.
+Prior to the start of C0, on January 21, 2014, the photometer was autonomously powered off by an under voltage fault in the Local Detector Electronics Power Supply. Since that time, module 7 (i.e., channels 17 to 20; see [this graphic](https://keplerscience.arc.nasa.gov/images/kepler_focal_plane_layout_channels_color.png)) has yielded no star data or charge injection signal. The subsequent behavior of this module is very similar to that of module 3 after it failed on January 19, 2010. Thus, there is no data for targets falling modules 3 or 7 for Campaign 0 or subsequent campaigns.
 
 <br>
 
-***Module 7 Failure***
-
-Prior to the start of C0, on January 21, 2014, the photometer was autonomously powered off by an under voltage fault in the Local Detector Electronics Power Supply. Since that time, module 7 (i.e., channels 17 to 20) has yielded no star data or charge injection signal. The subsequent behavior of this module is very similar to that of module 3 after it failed on January 19, 2010. K2 continues to operate and collect simultaneous data from sources falling upon the remaining 19 detector modules over 105 square degrees. There is no indication of any accelerated degradation on these other modules.
-
-<br>
-
-
-***Large Pixel Masks***
-
-When planning C0 observations, the pointing performance of K2 was not accurately known. The worst case scenario was that a star at the edge of the focal plane could move as much as 40" from its nominal position. Therefore each star was assigned a large pixel mask by first computing a Kepler-style optimal aperture and then adding 10 rings of pixels to account for a potential 40" pointing offset. During the second half of C0, the pointing performance was excellent and the pointing drifts were no more than 6" for any target star. Care will be needed when performing photometry on C0 data. Simply including all collected pixels for a given target will not create a high signal-to-noise light curve. For tools to help choose your photometric aperture, see for example, <a href="http://keplergo.arc.nasa.gov/PyKE.shtml">PyKE contributed software</a>.
-
-<br>
 
 ***Jupiter's Reflection***
 
-Because K2 points along the ecliptic, its field of view will occasionally contain bright solar system objects. Jupiter was in the K2 field of view during C0 from 2014-03-14 through 2014-05-12, but fell on dead module 3. It creates a bright antipodal ghost on module 23, channel 79, and impacts all the targets observed in this region. See the FFI ktwo2014074233223-c00, extension 79, for an image of the reflection.
+Jupiter was in the K2 field of view during C0 from 2014-03-14 through 2014-05-12, but fell on the dead module 3. It creates a bright antipodal ghost on module 23, channel 79, and impacts all the targets observed in this region. See the FFI ktwo2014074233223-c00, extension 79, for an image of the reflection.
 
-While Jupiter was on the focal plane, the background level was increased over its nominal value for nearly half the channels, with the largest impact seen in channels 53 -- 84. In addition, as Jupiter moved on and off the focal plane, a specular reflection lasting approximately 6 hours was seen in these channels. The relative background levels as measured in the smear signal from channel 83 are shown below as Jupiter enters the focal plane (near cadence no. 87525) and leaves the focal plane (cadence no. 90375). The specular bump resulted in an increase in background level of 25-30% for the affected channels, while the quasi-static background increase for the time Jupiter was on the focal plane was 3-5%.
+While Jupiter was on the focal plane, the background level was increased over its nominal value for nearly half the channels, with the largest impact seen in channels 53 &ndash; 84. In addition, as Jupiter moved on and off the focal plane, a specular reflection lasting approximately 6 hours was seen in these channels. The relative background levels as measured in the smear signal from channel 83 are shown below as Jupiter enters the focal plane (near cadence no. 87525) and leaves the focal plane (cadence no. 90375). The specular bump resulted in an increase in background level of 25 &ndash; 30% for the affected channels, while the quasi-static background increase for the time Jupiter was on the focal plane was 3 &ndash; 5%.
 
-<div class="thumbnail" style="width: 68%;">
+<div class="thumbnail" style="width: 49%;display: inline-block;">
     <div class="caption">
-        <i>Figure: FFI showing the reflection of Jupiter as seen on channel 79.</i>
+        <i>Figure: Part of an FFI showing the reflection of Jupiter as seen on channel 79.</i>
     </div>
     <a href="images/release-notes/c0/Jupiter-ghost3.png">
         <img src="images/release-notes/c0/Jupiter-ghost3.png" class="img-responsive" alt="FFI showing the reflection of Jupiter as seen on channel 79.">
     </a>
 </div>
 
-<div class="thumbnail" style="width: 68%;">
+<div class="thumbnail" style="width: 49%;display: inline-block;">
     <div class="caption">
         <i>Figure: The background level on channel 83 as Jupiter enters (left) and leaves (right) the focal plane.</i>
     </div>
@@ -4075,13 +4056,14 @@ While Jupiter was on the focal plane, the background level was increased over it
     </a>
 </div>
 
+
 <br>
 
 ***Observations of M35 and NGC 2158***
 
 The open clusters M35 (NGC 2168) and NGC 2158 were observed during this campaign by placing 154 separate 50x50 pixel masks over the densest portion of these two adjacent clusters. Each mask was given a custom aperture number to act as the unique identifier found in the file name. The target pixel files for these clusters have custom aperture numbers ranging from 200,000,811 to 200,000,964.
 
-<div class="thumbnail" style="width: 68%;">
+<div class="thumbnail" style="width: 50%; display: inline-block;">
     <div class="caption">
         <i>Figure: Individual masks when tiled together cover the field of view containing M35 and NGC 2158.</i>
     </div>
@@ -4099,27 +4081,38 @@ The open clusters M35 (NGC 2168) and NGC 2158 were observed during this campaign
 
 ***Dynablack Turned Off***
 
-Dynablack was turned off.
+One of the new features in data processed as part of the
+
+
 
 <br>
 
 ***PDC Only Run On Last ~37 Days***
 
-Based on the pointing history, and known complications in processing data with large coarse pointing regions and data gaps, *while the entire C0 cadence range was processed by CAL and PA, only long cadences 89407 &ndash; 91186 (and the corresponding short cadence range 2670670 &ndash; 2724069) were processed by PDC.* This corresponds to the ~37 days of fine point data at the end of the campaign.
+We re-iterate that, based on the pointing history and known complications in processing data with large coarse pointing regions and data gaps, **while the entire C0 cadence range was processed by CAL (pixel calibration) and PA (simple aperture lightcurves), only long cadences 89407 &ndash; 91186 (and the corresponding short cadence range 2670670 &ndash; 2724069) were processed by PDC (systematic detrended lightcurves).** This corresponds to the ~37 days of fine point data at the end of the campaign.
+
+As a result, lightcurve files (\*llc.fits and \*slc.fits) will have valid SAP_FLUX values for most cadences throughout the entire time span of C0 when observations were taken. PDCSAP_FLUX values however will be 0 or NaN for cadences prior to 89407.
+
+Similarly, the cotrending basis vector (CBV) file for C0 ()[ktwo-c00-d28_lcbv.fits](https://archive.stsci.edu/missions/k2/cbv/ktwo-c00-d28_lcbv.fits)) will only have data for cadences 89407 &ndash; 91186.
 
 <br>
 
 
-***No ARP Exports***
+***No ARP Files Available***
 
---- Note no ARP exports cause no ARP pixels
+Since the necessary pixels were not collected in C0, note there are no artifact removal pixel (ARP) files available for C0 (see   [S2.3.8 of the Kepler Archive Manual](https://archive.stsci.edu/kepler/manuals/archive_manual.pdf#page=51)).
+
 
 <br>
 
 
 ***Targets With Missing Lightcurves***
 
-202073036 202073415 202071446 202073152
+
+
+202073036
+202073415
+202071446 202073152
 202060164 202072962 202073290 202072982
 202073354 202065132 202065134 202065136
 202065123 202065125 202065119 202065120
