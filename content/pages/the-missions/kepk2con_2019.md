@@ -100,13 +100,13 @@ Judges will rank posters of conference participants who agreed to enter the comp
 
  <tr>
   <td style="min-width:10em;">08:30-09:00</td>
- <td style="min-width:14em;">Bill Borucki (NASA Ames) </td>
+ <td style="min-width:14em;">Bill Borucki <b><i>invited</i></b> (NASA Ames) </td>
   <td style="max-width:20em;">History of the Kepler Mission</td>
 </tr>
 
  <tr>
   <td style="min-width:10em;">09:00-09:30</td>
-  <td style="min-width:14em;">Katelynn McCalmont (Ball Aerospace) </td>
+  <td style="min-width:14em;">Katelynn McCalmont <b><i>invited</i></b> (Ball Aerospace) </td>
   <td style="max-width:20em;">Flying the Kepler Spacecraft's Second Mission: K2 Operations</td>
 </tr>
 
@@ -142,7 +142,7 @@ Judges will rank posters of conference participants who agreed to enter the comp
   
  <tr>
   <td>10:30-11:00</td>
-  <td> Mia Lundkvist <b><i>invited</b></i> (Aarhus University)</td>
+  <td> Mia Lundkvist <b><i>invited</i></b> (Aarhus University)</td>
   <td> Asteroseismology of Exoplanet Host Stars from the Kepler/K2 missions</td>
 </tr>
 
@@ -171,7 +171,7 @@ Judges will rank posters of conference participants who agreed to enter the comp
   </tr>
 
  <tr>
-  <td>12:00-1:30</td>
+  <td>12:00-13:30</td>
   <td><font color="orange">Lunch</font></td>
   <td></td>
   </tr>
@@ -244,7 +244,7 @@ Judges will rank posters of conference participants who agreed to enter the comp
   
  <tr>
   <td>15:30-16:00</td>
-  <td>Courtney Dressing <b><i>invited</b></i> (UC Berkeley)</td>
+  <td>Courtney Dressing <b><i>invited</i></b> (UC Berkeley)</td>
   <td>Probing the Frequency of Planetary Systems with Kepler and K2</td>
 </tr>
 
@@ -310,7 +310,7 @@ Judges will rank posters of conference participants who agreed to enter the comp
   
  <tr>
   <td style="min-width:10em;">08:30-09:00</td>
-  <td style="min-width:14em;">Sarah Ballard <b><i>invited</b></i> (MIT) </td>
+  <td style="min-width:14em;">Sarah Ballard <b><i>invited</i></b> (MIT) </td>
   <td style="max-width:20em;">Lessons from the Multi-planet Systems</td>
 </tr>
 
@@ -357,7 +357,7 @@ Judges will rank posters of conference participants who agreed to enter the comp
   
  <tr>
   <td>10:30-10:45</td>
-  <td>Andrew Vanderburg <b><i>invited</b></i> (Caltech/IPAC-NExScI</td>
+  <td>Andrew Vanderburg <b><i>invited</i></b> (Caltech/IPAC-NExScI</td>
   <td>Benchmark Exoplanet Systems Discovered by the K2 Mission</td>
 </tr>
 
@@ -386,7 +386,7 @@ Judges will rank posters of conference participants who agreed to enter the comp
   </tr>
 
  <tr>
-  <td>12:00-1:30</td>
+  <td>12:00-13:30</td>
   <td><font color="orange">Lunch</font></td>
   <td></td>
   </tr>
@@ -417,7 +417,7 @@ Judges will rank posters of conference participants who agreed to enter the comp
 
  <tr>
   <td>14:00-14:30</td>
-  <td>Krista Lynne Smith <b><i>invited</b></i> (Stanford University)</td>
+  <td>Krista Lynne Smith <b><i>invited</i></b> (Stanford University)</td>
   <td>Kepler/K2 and Active Galactic Nuclei: New Insights into Accretion and High Energy Phenomena</td>
   </tr>
 
@@ -453,7 +453,7 @@ Judges will rank posters of conference participants who agreed to enter the comp
   
  <tr>
   <td>15:30-16:00</td>
-  <td>Peter Garnavich <b><i>invited</b></i> (University of Notre Dame) </td>
+  <td>Peter Garnavich <b><i>invited</i></b> (University of Notre Dame) </td>
   <td>Better Understanding Supernovae from Kepler/K2 Observations</td>
 </tr>
 
@@ -471,13 +471,6 @@ Judges will rank posters of conference participants who agreed to enter the comp
 
  <tr>
   <td>16:30-16:45</td>
- <td> Marc Pinsonneault </td>
-  <td> Asteroseismology and Spectroscopy for a Large Sample of Kepler Dwarfs and Subgiants </td>
-  <td><a href="https://ac.arc.nasa.gov/pkt6oqfszpqn/" class="btn btn-primary btn-xs"><i class="fa fa-video-camera fa-margin"></i>
-  </tr>
-
- <tr>
-  <td>16:45-17:00</td>
   <td>Edward Shaya (University of Maryland)</td>
   <td>A Tidal Disruption Event in a Seyfert 2 Observed with K2</td>
   </tr>
@@ -491,7 +484,7 @@ Judges will rank posters of conference participants who agreed to enter the comp
  <tr>
   <td>17:00-18:30</td>
   <td></td>
-  <td>Poster Session I</td>
+  <td><b><i>Poster Session I</i></b></td>
   </tr>
 
   </tdata>
@@ -530,7 +523,7 @@ Judges will rank posters of conference participants who agreed to enter the comp
   
  <tr>
   <td style="min-width:10em;">08:30-09:00</td>
-  <td style="min-width:14em;"> Marc Pinsonneault <b><i>invited</b></i> (Ohio State University)</td>
+  <td style="min-width:14em;">Marc Pinsonneault <b><i>invited</i></b> (Ohio State University)</td>
   <td style="max-width:20em;">Galactic Archeology with Kepler and K2</td>
 </tr>
 
@@ -602,12 +595,12 @@ Judges will rank posters of conference participants who agreed to enter the comp
 
 <tr>
   <td>11:30-12:00</td>
-  <td>Chris Lintott (University of Oxford)</td>
+  <td>Chris Lintott <b><i>invited</i></b> (University of Oxford)</td>
   <td>Citizen Science with Kepler and K2</td>
   </tr>
 
  <tr>
-  <td>12:00-1:30</td>
+  <td>12:00-13:30</td>
   <td><font color="orange">Lunch</font></td>
   <td></td>
   </tr>
@@ -615,13 +608,11 @@ Judges will rank posters of conference participants who agreed to enter the comp
   </tdata>
 <tdata>
 
-<thead>
 <tr>
   <td> <b><i></i></b> </td>
   <td><b><i> </i></b></td>
   <td><b><i>Simultaneous Breakout Sessions I </i></b></td>
 </tr>
-</thead>
   
  <tr>
   <td>13:30-15:00</td>
@@ -647,12 +638,14 @@ Judges will rank posters of conference participants who agreed to enter the comp
   <td></td>
   </tr>
 
+  </tdata>
+<tdata>
+
 <tr>
   <td> <b><i></i></b> </td>
   <td><b><i> </i></b></td>
   <td><b><i>Simultaneous Breakout Sessions II </i></b></td>
 </tr>
-</thead>
   
  <tr>
   <td>15:30-17:00</td>
@@ -707,7 +700,7 @@ Judges will rank posters of conference participants who agreed to enter the comp
   
  <tr>
   <td style="min-width:10em;">08:30-09:00</td>
- <td style="min-width:14em;">Ruth Angus <b><i>invited</b></i> (AMNH and The Flatiron Institute)</td>
+ <td style="min-width:14em;">Ruth Angus <b><i>invited</i></b> (AMNH and The Flatiron Institute)</td>
   <td style="max-width:20em;">The Kepler Revolution: Stellar Rotation and Activity in Clusters and the Field</td>
 </tr>
 
@@ -755,7 +748,7 @@ Judges will rank posters of conference participants who agreed to enter the comp
   
  <tr>
   <td>10:30-11:00</td>
-  <td>Andrew Mann <b><i>invited</b></i> (UNC Chapel Hill)</td>
+  <td>Andrew Mann <b><i>invited</i></b> (UNC Chapel Hill)</td>
   <td>Tracing Planetary Evolution with K2</td>
 </tr>
 
@@ -784,7 +777,7 @@ Judges will rank posters of conference participants who agreed to enter the comp
   </tr>
 
  <tr>
-  <td>12:00-1:30</td>
+  <td>12:00-13:30</td>
   <td><font color="orange">Lunch</font></td>
   <td></td>
   </tr>
@@ -803,7 +796,7 @@ Judges will rank posters of conference participants who agreed to enter the comp
   
  <tr>
   <td>13:30-14:00</td>
- <td>Patrick Gaulme <b><i>invited</b></i> (Max Planck Institut fur Sonnensystemforschung)</td>
+ <td>Patrick Gaulme <b><i>invited</i></b> (Max Planck Institut fur Sonnensystemforschung)</td>
   <td>Asteroseismology, Red Giants, and Eclipsing Binaries</td>
 </tr>
 
@@ -851,7 +844,7 @@ Judges will rank posters of conference participants who agreed to enter the comp
   
  <tr>
   <td>15:30-16:00</td>
-  <td>Lauren Weiss <b><i>invited</b></i> (University of Hawaii)</td>
+  <td>Lauren Weiss <b><i>invited</i></b> (University of Hawaii)</td>
   <td>Planetary System Architectures and Dynamics</td>
 </tr>
 
@@ -882,7 +875,7 @@ Judges will rank posters of conference participants who agreed to enter the comp
  <tr>
   <td>17:00-18:30</td>
   <td></td>
-  <td>Poster Session II</td>
+  <td><b><i>Poster Session II</i></b></td>
   </tr>
 
   </tdata>
@@ -921,7 +914,7 @@ Judges will rank posters of conference participants who agreed to enter the comp
   
  <tr>
   <td style="min-width:10em;">08:30-09:00</td>
-  <td style="min-width:14em;">Sebastian Deheuvels (IRAP Toulouse)</td>
+  <td style="min-width:14em;">Sebastian Deheuvels  <b><i>invited</i></b> (IRAP Toulouse)</td>
   <td style="max-width:20em;">Monitoring the Internal Rotation of Stars Along Their Evolution with Kepler</td>
 </tr>
 
@@ -1006,7 +999,7 @@ Judges will rank posters of conference participants who agreed to enter the comp
   </tr>
 
  <tr>
-  <td>12:00-1:30</td>
+  <td>12:00-13:30</td>
   <td><font color="orange">Lunch</font></td>
   <td></td>
   </tr>
@@ -1059,7 +1052,7 @@ Judges will rank posters of conference participants who agreed to enter the comp
 
  <tr>
   <td>14:30-15:00</td>
-  <td>Jessie Christiansen (Caltech/IPAC-NExScI) </td>
+  <td>Jessie Christiansen <b><i>invited</i></b> (Caltech/IPAC-NExScI) </td>
   <td>Reflections</td>
   </tr>
   
@@ -1067,7 +1060,11 @@ Judges will rank posters of conference participants who agreed to enter the comp
 
 </table>
 
+  </div>
+</div>
+
 ### Presenter Information
+
 We encourage all presenters to use color-blind friendly figures in their talk and poster presentations. Resources to produce color-blind friendly presentations include this website and this website.
 
 ### Talks
