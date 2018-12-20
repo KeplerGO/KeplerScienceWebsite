@@ -490,7 +490,7 @@ Planet Parameters: Towards Precise Transit Ephemerides for the Benchmark System 
 
  <tr>
   <td>16:00-16:15</td>
-  <td>Georgios Dimitiadis (UC Santa Cruz)</td>
+  <td>Georgios Dimitriadis (UC Santa Cruz)</td>
   <td>K2 Observations of SN 2018oh Reveal a Two-Component Rising Light Curve for a Type Ia Supernova</td>
 </tr>
 
