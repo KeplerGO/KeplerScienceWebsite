@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2018-12-20" />
+    <meta name="dc.date.modified" content="2018-12-19" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -66,13 +66,6 @@ in August 2015, using pelican-bootstrap and flatly.
 <body>
 
 <!-- Print a warning message that this is not the official site -->
-<div class="container container-wide" style="background-color: #e74c3c; color: white; padding: 1.5em; font-weight: bold;">
-  <div class="container">
-   <i class="fa fa-warning fa-lg fa-margin"></i>
-    This is the development version of the Kepler/K2 science website.
-    For the live website, visit <a href="https://keplerscience.arc.nasa.gov/">keplerscience.arc.nasa.gov</a>
-  </div>
-</div>
 
 <div class="navbar navbar-default navbar-fixed-top" role="navigation">
 
@@ -210,12 +203,16 @@ All investigators <em>must</em> update their version of the
 to version 7.0, released on 16 June 2017,
 to take the final field positions into account. </p>
 <p>K2fov can be updated from the command line using pip:</p>
-<pre><code>pip install K2fov --upgrade --no-deps
-</code></pre>
+<div class="highlight"><pre><span></span>pip install K2fov --upgrade --no-deps
+</pre></div>
+
+
 <p>The version number of your K2fov installation may be verified
 using the following command:</p>
-<pre><code>python -c "import K2fov; print(K2fov.__version__)"
-</code></pre>
+<div class="highlight"><pre><span></span><span class="n">python</span> <span class="o">-</span><span class="n">c</span> <span class="s2">&quot;import K2fov; print(K2fov.__version__)&quot;</span>
+</pre></div>
+
+
 <p>This should return "7.0.0" or higher. If the number is lower,
 or if you see an error message, then your installation of K2fov is outdated.</p>
 <h3 id="questions">Questions?</h3>
