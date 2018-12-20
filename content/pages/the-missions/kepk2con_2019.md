@@ -68,9 +68,25 @@ Upon registering, participants can volunteer to judge a poster competition for s
 Winners of the competition have the opportunity to give short talks about their results during the second half of the conference.
 Judges will rank posters of conference participants who agreed to enter the competition.  
 
+### Abstract Submission
+
+Abstracts for posters only can be submitted 
+<a href='https://catcopy.ipac.caltech.edu/ksc2019/abstract.php'>here
+until the late poster only deadline of Jan. 15, 2019</a>.  Abstracts for oral presentations and breakout sessions were due by the Nov. 15 deadline.  
+
+Note that Wednesday afternoon (March 6) is set aside for breakout sessions to enable the community to discuss and work on Kepler/K2 related projects.
+We envision these sessions will be more hands on, unconference sessions of broad interest to the community.
+Examples of breakout sessions include panel discussions, hack activities, work meetings of large collaborations, or tutorials to use data/software products related to Kepler/K2.
+
 ### Conference Agenda
 
-<a href="../data/KeplerK2SciConIV_Program_v3_online.pdf"><i class="fa fa-download fa-margin"></i> Download the conference program in PDF format.</a>
+<b> <a href="../data/Kepler-K2-Science-Program-With-Abstracts-v1.pdf"><i class="fa
+fa-download fa-margin"></i> Download the complete conference program
+(all talks and posters, with abstracts) in PDF format.</a> </b>
+
+<b> <a href="../data/Kepler-K2-Science-Program-Without-Abstracts-v1.pdf"><i class="fa
+fa-download fa-margin"></i> Download the complete conference program
+(all talks and posters, without abstracts) in PDF format.</a> </b>
 
 <div class="panel panel-primary" style="max-width:74em;">
   <div class="panel-heading">
@@ -90,6 +106,14 @@ Judges will rank posters of conference participants who agreed to enter the comp
 
 <tdata>
 
+
+
+ <tr>
+  <td style="width:8em;">08:00-08:30</td>
+ <td style="width:14em;"><font color="orange">Registration</font> </td>
+  <td style="width:20em;"></td>
+</tr>
+
 <thead>
 <tr>
   <td> <b><i> </i></b> </td>
@@ -99,15 +123,16 @@ Judges will rank posters of conference participants who agreed to enter the comp
 </thead>
 
  <tr>
-  <td style="min-width:10em;">08:30-09:00</td>
- <td style="min-width:14em;">Bill Borucki <b><i>invited</i></b> (NASA Ames) </td>
-  <td style="max-width:20em;">History of the Kepler Mission</td>
+  <td style="width:8em;">08:30-09:00</td>
+ <td style="width:14em;">Bill Borucki (NASA Ames) </td>
+  <td style="width:20em;">History of the Kepler Mission
+  (<b><i>invited</i></b>) </td>
 </tr>
 
  <tr>
-  <td style="min-width:10em;">09:00-09:30</td>
-  <td style="min-width:14em;">Katelynn McCalmont <b><i>invited</i></b> (Ball Aerospace) </td>
-  <td style="max-width:20em;">Flying the Kepler Spacecraft's Second Mission: K2 Operations</td>
+  <td>09:00-09:30</td>
+  <td>Katelynn McCalmont (Ball Aerospace) </td>
+  <td>Flying the Kepler Spacecraft's Second Mission: K2 Operations (<b><i>invited</i></b>)</td>
 </tr>
 
  <tr>
@@ -142,8 +167,9 @@ Judges will rank posters of conference participants who agreed to enter the comp
   
  <tr>
   <td>10:30-11:00</td>
-  <td> Mia Lundkvist <b><i>invited</i></b> (Aarhus University)</td>
-  <td> Asteroseismology of Exoplanet Host Stars from the Kepler/K2 missions</td>
+  <td> Mia Lundkvist (Aarhus University)</td>
+  <td> Asteroseismology of Exoplanet Host Stars from the Kepler/K2
+  missions (<b><i>invited</i></b>)</td>
 </tr>
 
  <tr>
@@ -155,7 +181,9 @@ Judges will rank posters of conference participants who agreed to enter the comp
  <tr>
   <td>11:15-11:30</td>
   <td> Hilke Schlichting (UCLA)  </td>
-  <td>Observational Signatures of the Core-Powered Mass-Loss Mechanism</td>
+  <td>Observational Signatures of the Core-Powered 
+Mass-Loss Mechanism: The Radius Valley as a Function of Stellar Mass
+</td>
 </tr>
 
  <tr>
@@ -244,8 +272,8 @@ Judges will rank posters of conference participants who agreed to enter the comp
   
  <tr>
   <td>15:30-16:00</td>
-  <td>Courtney Dressing <b><i>invited</i></b> (UC Berkeley)</td>
-  <td>Probing the Frequency of Planetary Systems with Kepler and K2</td>
+  <td>Courtney Dressing (UC Berkeley)</td>
+  <td>Probing the Frequency of Planetary Systems with Kepler and K2 (<b><i>invited</i></b>)</td>
 </tr>
 
  <tr>
@@ -257,7 +285,7 @@ Judges will rank posters of conference participants who agreed to enter the comp
  <tr>
   <td>16:15-16:30</td>
   <td>Timothy Morton (University of Florida)</td>
-  <td>The Probabilistic Validation Revolution</td>
+  <td>The Probabilistic Validation Revolution: How Kepler Forced a Paradigm Shift in How We Treat Transiting Planet Candidates</td>
 </tr>
 
  <tr>
@@ -309,9 +337,9 @@ Judges will rank posters of conference participants who agreed to enter the comp
 </thead>
   
  <tr>
-  <td style="min-width:10em;">08:30-09:00</td>
-  <td style="min-width:14em;">Sarah Ballard <b><i>invited</i></b> (MIT) </td>
-  <td style="max-width:20em;">Lessons from the Multi-planet Systems</td>
+  <td style="width:8em;">08:30-09:00</td>
+  <td style="width:14em;">Sarah Ballard (MIT) </td>
+  <td style="width:20em;">Lessons from the Multi-planet Systems (<b><i>invited</i></b>)</td>
 </tr>
 
  <tr>
@@ -357,14 +385,16 @@ Judges will rank posters of conference participants who agreed to enter the comp
   
  <tr>
   <td>10:30-10:45</td>
-  <td>Andrew Vanderburg <b><i>invited</i></b> (Caltech/IPAC-NExScI</td>
-  <td>Benchmark Exoplanet Systems Discovered by the K2 Mission</td>
+  <td>Andrew Vanderburg (Caltech/IPAC-NExScI</td>
+  <td>Benchmark Exoplanet Systems Discovered by the K2 Mission (<b><i>invited</i></b>)</td>
 </tr>
 
  <tr>
   <td>10:45-11:00</td>
   <td>Juliette Becker (University of Michigan)</td>
-  <td>Dynamically Determining Observationally Ill-Constrained Planet Parameters</td>
+  <td>Dynamically Determining Observationally Ill-Constrained 
+Planet Parameters: Towards Precise Transit Ephemerides for the Benchmark System HIP 41378
+</td>
   </tr>
 
  <tr>
@@ -406,19 +436,20 @@ Judges will rank posters of conference participants who agreed to enter the comp
  <tr>
   <td>13:30-13:45</td>
   <td>Domenico Nardiello (Universita degli Studi de Padova)</td>
-  <td>High-precision Photometry of Stars in K2 Crowded Fields: A PSF-based Approach to K2 Data</td>
+  <td>High-precision Photometry of Stars in K2 Crowded Fields - A PSF-based Approach to K2 Data</td>
   </tr>
 
  <tr>
   <td>13:45-14:00</td>
-  <td>Sebastiano Calchi Novati</td>
+  <td>Sebastiano Calchi Novati (Caltech/IPAC)</td>
   <td>An Isolated Microlens Observed from K2, Spitzer, and Earth</td>
 </tr>
 
  <tr>
   <td>14:00-14:30</td>
-  <td>Krista Lynne Smith <b><i>invited</i></b> (Stanford University)</td>
-  <td>Kepler/K2 and Active Galactic Nuclei: New Insights into Accretion and High Energy Phenomena</td>
+  <td>Krista Lynne Smith (Stanford University)</td>
+  <td>Kepler/K2 and Active Galactic Nuclei: New Insights into
+  Accretion and High Energy Phenomena (<b><i>invited</i></b>)</td>
   </tr>
 
  <tr>
@@ -453,8 +484,8 @@ Judges will rank posters of conference participants who agreed to enter the comp
   
  <tr>
   <td>15:30-16:00</td>
-  <td>Peter Garnavich <b><i>invited</i></b> (University of Notre Dame) </td>
-  <td>Better Understanding Supernovae from Kepler/K2 Observations</td>
+  <td>Peter Garnavich (University of Notre Dame) </td>
+  <td>Better Understanding Supernovae from Kepler/K2 Observations (<b><i>invited</i></b>)</td>
 </tr>
 
  <tr>
@@ -522,15 +553,15 @@ Judges will rank posters of conference participants who agreed to enter the comp
 </thead>
   
  <tr>
-  <td style="min-width:10em;">08:30-09:00</td>
-  <td style="min-width:14em;">Marc Pinsonneault <b><i>invited</i></b> (Ohio State University)</td>
-  <td style="max-width:20em;">Galactic Archeology with Kepler and K2</td>
+  <td style="width:8em;">08:30-09:00</td>
+  <td style="width:14em;">Marc Pinsonneault (Ohio State University)</td>
+  <td style="width:20em;">Galactic Archeology with Kepler and K2 (<b><i>invited</i></b>)</td>
 </tr>
 
  <tr>
   <td>09:00-09:15</td>
   <td>Dennis Stello (University of New South Wales)</td>
-  <td>The K2 Galactic Archaeology Program</td>
+  <td>The K2 Galactic Archaeology Program: revealing the jigsaw puzzle one campaign at a time</td>
 </tr>
 
  <tr>
@@ -595,8 +626,8 @@ Judges will rank posters of conference participants who agreed to enter the comp
 
 <tr>
   <td>11:30-12:00</td>
-  <td>Chris Lintott <b><i>invited</i></b> (University of Oxford)</td>
-  <td>Citizen Science with Kepler and K2</td>
+  <td>Chris Lintott (University of Oxford)</td>
+  <td>Citizen Science with Kepler and K2 (<b><i>invited</i></b>)</td>
   </tr>
 
  <tr>
@@ -623,7 +654,9 @@ Judges will rank posters of conference participants who agreed to enter the comp
  <tr>
   <td>13:30-15:00</td>
   <td>Geert Barentsen (NASA Ames) and Christina Hedges (NASA Ames)</td>
-  <td>Lightkurve Tutorials and Consulting</td>
+  <td>The Lightkurve package for Kepler & TESS 
+data analysis: tutorials and consulting breakout 
+</td>
 </tr>
 
  <tr>
@@ -699,9 +732,10 @@ Judges will rank posters of conference participants who agreed to enter the comp
 </thead>
   
  <tr>
-  <td style="min-width:10em;">08:30-09:00</td>
- <td style="min-width:14em;">Ruth Angus <b><i>invited</i></b> (AMNH and The Flatiron Institute)</td>
-  <td style="max-width:20em;">The Kepler Revolution: Stellar Rotation and Activity in Clusters and the Field</td>
+  <td style="width:8em;">08:30-09:00</td>
+ <td style="width:14em;">Ruth Angus (AMNH and The Flatiron Institute)</td>
+  <td style="width:20em;">The Kepler Revolution: Stellar Rotation and
+  Activity in Clusters and the Field (<b><i>invited</i></b>)</td>
 </tr>
 
  <tr>
@@ -725,7 +759,8 @@ Judges will rank posters of conference participants who agreed to enter the comp
  <tr>
   <td>09:45-10:00</td>
   <td>Joshua Reding (UNC Chapel Hill)</td>
-  <td>The Most Rapidly Rotating Isolated White Dwarf</td>
+  <td>The Confluence of Hardware Failures That Lead to the Discovery of the Most Rapidly Rotating Isolated White Dwarf
+</td>
   </tr>
 
  <tr>
@@ -748,8 +783,8 @@ Judges will rank posters of conference participants who agreed to enter the comp
   
  <tr>
   <td>10:30-11:00</td>
-  <td>Andrew Mann <b><i>invited</i></b> (UNC Chapel Hill)</td>
-  <td>Tracing Planetary Evolution with K2</td>
+  <td>Andrew Mann (UNC Chapel Hill)</td>
+  <td>Tracing Planetary Evolution with K2 (<b><i>invited</i></b>)</td>
 </tr>
 
  <tr>
@@ -796,8 +831,9 @@ Judges will rank posters of conference participants who agreed to enter the comp
   
  <tr>
   <td>13:30-14:00</td>
- <td>Patrick Gaulme <b><i>invited</i></b> (Max Planck Institut fur Sonnensystemforschung)</td>
-  <td>Asteroseismology, Red Giants, and Eclipsing Binaries</td>
+ <td>Patrick Gaulme (Max Planck Institut fur Sonnensystemforschung)</td>
+  <td>Asteroseismology, Red Giants, and Eclipsing Binaries
+  (<b><i>invited</i></b>) </td>
 </tr>
 
  <tr>
@@ -844,14 +880,15 @@ Judges will rank posters of conference participants who agreed to enter the comp
   
  <tr>
   <td>15:30-16:00</td>
-  <td>Lauren Weiss <b><i>invited</i></b> (University of Hawaii)</td>
-  <td>Planetary System Architectures and Dynamics</td>
+  <td>Lauren Weiss (University of Hawaii)</td>
+  <td>Planetary System Architectures and Dynamics  (<b><i>invited</i></b>) </td>
 </tr>
 
  <tr>
   <td>16:00-16:15</td>
   <td>Jack Lissauer (NASA Ames)</td>
-  <td>Architecture and Dynamics of Kepler’s Multi-Transiting Planet Systems</td>
+  <td>Architecture and Dynamics of Kepler’s Multi-Transiting Planet Systems: Comprehensive Investigation Using All Four Years of Kepler Mission Data
+</td>
 </tr>
 
  <tr>
@@ -913,9 +950,10 @@ Judges will rank posters of conference participants who agreed to enter the comp
 </thead>
   
  <tr>
-  <td style="min-width:10em;">08:30-09:00</td>
-  <td style="min-width:14em;">Sebastian Deheuvels  <b><i>invited</i></b> (IRAP Toulouse)</td>
-  <td style="max-width:20em;">Monitoring the Internal Rotation of Stars Along Their Evolution with Kepler</td>
+  <td style="width:8em;">08:30-09:00</td>
+  <td style="width:14em;">Sebastian Deheuvels (IRAP Toulouse)</td>
+  <td style="width:20em;">Monitoring the Internal Rotation of Stars
+  Along Their Evolution with Kepler  (<b><i>invited</i></b>) </td>
 </tr>
 
  <tr>
@@ -1045,15 +1083,15 @@ Judges will rank posters of conference participants who agreed to enter the comp
 </tr>
 
  <tr>
-  <td>14:30-15:00</td>
+  <td>14:30-14:45</td>
   <td>George Ricker (MIT) </td>
   <td>The TESS Mission: Current Status and Future Plans</td>
   </tr>
 
  <tr>
-  <td>14:30-15:00</td>
-  <td>Jessie Christiansen <b><i>invited</i></b> (Caltech/IPAC-NExScI) </td>
-  <td>Reflections</td>
+  <td>14:45-15:15</td>
+  <td>Jessie Christiansen (Caltech/IPAC-NExScI) </td>
+  <td>Reflections  (<b><i>invited</i></b>) </td>
   </tr>
   
   </tdata>
@@ -1063,17 +1101,17 @@ Judges will rank posters of conference participants who agreed to enter the comp
   </div>
 </div>
 
-### Presenter Information
+#### Presenter Information
 
-We encourage all presenters to use color-blind friendly figures in their talk and poster presentations. Resources to produce color-blind friendly presentations include this website and this website.
+We encourage all presenters to use color-blind friendly figures in their talk and poster presentations. Resources to produce color-blind friendly presentations include [this website](http://colororacle.org/index.html).
 
-### Talks
+#### Talks
 
 The length for invited talks is 25 minutes + 5 minutes for questions, and contributed talks have 12 minutes + 3 minutes for questions.
 
 Note that the projectors can handle both 16:9 and 4:3 format. Presenters should provide their presentations no later than during the break prior to the session in which the talk is being given.
 
-### Posters
+#### Posters
 
 All posters must be approved by the SOC – no late or extra posters are allowed due to space limitations.
 
@@ -1085,18 +1123,10 @@ Each author is responsible for mounting his/her material prior to the opening of
 
 If you are not planning on taking your poster with you at the end of the conference, please put it in a blue recycling bin in the corner of the room prior to your departure. The Kepler/K2 mission will not assume responsibility for materials left behind.
 
-### Poster Competition
+#### Poster Competition
 
 Registration for the poster competition for graduate students and postdocs will open at the registration desk on Monday morning. Each participant should mark their poster with a sticker which will be provided at the registration desk. Competition winners will be notified on Wednesday evening and will present a 5+2 min talk immediately after lunch on Friday.
 
-### Abstract Submission
-
-Abstracts for posters only can be submitted here
-<a href='https://catcopy.ipac.caltech.edu/ksc2019/abstract.php'>here by the Nov. 15 deadline</a> until the late poster only deadline of Jan. 15, 2019..  Abstracts for oral presentations and breakout sessions were due by the Nov. 15 deadline.  
-
-Note that Wednesday afternoon (March 6) is set aside for breakout sessions to enable the community to discuss and work on Kepler/K2 related projects.
-We envision these sessions will be more hands on, unconference sessions of broad interest to the community.
-Examples of break out sessions include panel discussions, hack activities, work meetings of large collaborations, or tutorials to use data/software products related to Kepler/K2.
 
 ### Lodging, Parking, and Venue Information
 
@@ -1106,10 +1136,16 @@ The conference location and hotel is the Hilton Los Angeles North/Glendale & Exe
 <a href='http://www.hilton.com/en/hi/groups/personalized/B/BURHGHF-CALTEC-20190302/index.jhtml'>Rooms in the block can be reserved by following this link</a>.
 
 <a href='#contact'>If you are interested in shared housing, please contact us so we can
-connect you with others interested as well.</a>
+connect you with others interested as well.</a> You can also indicate
+interest upon registering for the meeting.
 
-For Attendees Staying at the Hotel: Self parking is free for this conference and includes in/out privileges.  
-For Attendees Not Staying at the Hotel (Day Guests): Self parking is still free.  Just inform the attendant that you are attending the Kepler meeting.
+For Attendees Staying at the Hotel: Self parking is free for this
+conference and includes in/out privileges.  </n>
+
+For Attendees Not Staying at the Hotel (Day Guests): Self parking is
+still free.  Just inform the attendant that you are attending the
+Kepler meeting. </n>
+
 Everyone: If you wish to use valet parking, the rate is $19/day.
 
 ### Travel Support
