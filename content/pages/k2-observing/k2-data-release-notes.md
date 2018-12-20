@@ -3926,12 +3926,14 @@ Campaign 0 (C0) was implemented as a full-length engineering test to prove that 
         <li>Several custom targets (see below)</li>
     </ul>
 
-    <b><i>Full Frame Images (FFI) NEED TO UPDATE ONCE LIVE!</i></b>
+    <b><i>Full Frame Images (FFI)</i></b>
     <ul>
         <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2014070234206-c00_ffi-cal.fits">ktwo2014070234206-c00_ffi-cal.fits</a></li>
-        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2014074233223-c00_ffi-cal.fits">ktwo2014074233223-c00_ffi-cal.fits</a></li>
-        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2014110010101-c00_ffi-cal.fits">ktwo2014110010101-c00_ffi-cal.fits</a></li>
+        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2014074233223-c00_ffi-cal.fits">ktwo2014074233223-c00_ffi-cal.fits</a><sup>†</sup></li>
+        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2014110010101-c00_ffi-cal.fits">ktwo2014110010101-c00_ffi-cal.fits</a><sup>†</sup></li>
     </ul>
+
+<sup>†</sup>Taken while the telescope was in coarse point.<br><br>
 
     <b><i>First cadence</i></b>
     <ul>
@@ -3952,13 +3954,14 @@ Campaign 0 (C0) was implemented as a full-length engineering test to prove that 
     <li> <a href="k2-pipeline-release-notes.html#data-release-28">Data Release 28</a> </li>
     </ul>
 
+
 </div>
 
 <div class="col-lg-7">
 
     <div class="thumbnail">
         <div class="caption">
-            <i>Figure C0-FOV: Schematic of Kepler's C0 field-of-view with high profile objects.</i>
+            <i>Figure C0-FOV: Schematic of Kepler's C0 field-of-view with high profile objects shown.</i>
         </div>
         <a href="images/k2/k2-c00-field.png">
             <img src="images/k2/k2-c00-field.png" class="img-responsive" alt="C0 field-of-view with high profile objects.">
@@ -4061,7 +4064,7 @@ While Jupiter was on the focal plane, the background level was increased over it
 
 ***Observations of M35 and NGC 2158***
 
-The open clusters M35 (NGC 2168) and NGC 2158 were observed during this campaign by placing 154 separate 50x50 pixel masks over the densest portion of these two adjacent clusters. Each mask was given a custom aperture number to act as the unique identifier found in the file name. The target pixel files for these clusters have custom aperture numbers ranging from 200,000,811 to 200,000,964.
+The open clusters M35 (NGC 2168) and NGC 2158 were observed during this campaign by placing 154 separate 50x50 pixel masks over the densest portion of these two adjacent clusters. Each mask was given a custom aperture number to act as the unique identifier found in the file name. The target pixel files for these clusters have custom aperture numbers ranging from 200000811 to 200000964.
 
 <div class="thumbnail" style="width: 50%; display: inline-block;">
     <div class="caption">
@@ -4081,14 +4084,14 @@ The open clusters M35 (NGC 2168) and NGC 2158 were observed during this campaign
 
 ***Dynablack Turned Off***
 
-One of the new features in data processed as part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a> is the use of Dynablack, a more sophisticated algorithm to perform the pixel-level calibration, which also flags cadences that are likely affected by the presence of rolling bands. However, due to the large amount of coarse point data, combined with the ~24 day data gap due to safe mode, the Dynablack module did not have enough high-quality data to run. Thus for this data release, the pixel-level calibrations were performed with the standard CAL module, and there are no rolling band flags in the delivered FITS files.
+One of the new features in data processed as part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a> is the use of Dynablack, a more sophisticated algorithm to perform the pixel-level calibration, which also flags cadences that are likely affected by the presence of rolling bands. However, due to the large amount of coarse point data, combined with the ~24 day data gap due to the safe mode event, the Dynablack module did not have enough high-quality data to be able to run. Thus for this data release, the pixel-level calibrations were performed with the standard CAL module, and there are no rolling band flags in the delivered FITS files.
 
 <br>
 
 
 ***PDC Only Run On Last ~37 Days***
 
-We re-iterate that, based on the pointing history and known complications in processing data with large coarse pointing regions and data gaps, **while the entire C0 cadence range was processed by CAL (pixel calibration) and PA (simple aperture lightcurves), only long cadences 89407 &ndash; 91186 (and the corresponding short cadence range 2670670 &ndash; 2724069) were processed by PDC (systematic detrended lightcurves).** This corresponds to the ~37 days of fine point data at the end of the campaign.
+Based on the pointing history and known complications in processing data with large coarse pointing regions and data gaps, **while the entire C0 cadence range was processed by CAL (pixel calibration) and PA (simple aperture lightcurves), only long cadences 89407 &ndash; 91186 (and the corresponding short cadence range 2670670 &ndash; 2724069) were processed by PDC (systematic detrended lightcurves).** This corresponds to the ~37 days of fine point data at the end of the campaign.
 
 As a result, lightcurve files (\*llc.fits and \*slc.fits) will have valid SAP_FLUX values for most cadences throughout the entire time span of C0 when observations were taken. PDCSAP_FLUX values however will be 0 or NaN for cadences prior to 89407.
 
@@ -4104,107 +4107,42 @@ Since the necessary pixels were not collected in C0, note there are no artifact 
 <br>
 
 
-***Targets With Missing Lightcurves***
+***48 Targets Without Lightcurves***
+
+The following 48 targets do not have associated lightcurve files, because the pipeline was unable to find a suitable photometric aperture for these targets. In general they are non-standard targets, such as clusters or very bright objects, or there is no significant flux at the target position. Users are encouraged to create their own lightcurves for these objects from the existing target pixel files using software such as see [lightkurve Python package](https://docs.lightkurve.org) or [PyKE software tool suite](http://pyke.keplerscience.org).
 
 
-
-202060164<br>
-202060210<br>
-202060421<br>
-202060813<br>
-202065115<br>
-202065116<br>
-202065117<br>
-202065118<br>
-202065119<br>
-202065120<br>
-202065121<br>
-202065122<br>
-202065123<br>
-202065124<br>
-202065125<br>
-202065126<br>
-202065128<br>
-202065129<br>
-202065130<br>
-202065131<br>
-202065132<br>
-202065133<br>
-202065134<br>
-202065135<br>
-202065136<br>
-202071440<br>
-202071443<br>
-202071445<br>
-202071446<br>
-202071448<br>
-202071450<br>
-202072947<br>
-202072959<br>
-202072962<br>
-202072982<br>
-202073036<br>
-202073099<br>
-202073125<br>
-202073136<br>
-202073152<br>
-202073290<br>
-202073323<br>
-202073354<br>
-202073360<br>
-202073364<br>
-202073377<br>
-202073415<br>
-
+202060164&emsp;&emsp;202060210&emsp;&emsp;202060421&emsp;&emsp;202060813&emsp;&emsp;202065115&emsp;&emsp;202065116<br>
+202065117&emsp;&emsp;202065118&emsp;&emsp;202065119&emsp;&emsp;202065120&emsp;&emsp;202065121&emsp;&emsp;202065122<br>
+202065123&emsp;&emsp;202065124&emsp;&emsp;202065125&emsp;&emsp;202065126&emsp;&emsp;202065127&emsp;&emsp;202065128<br>
+202065129&emsp;&emsp;202065130&emsp;&emsp;202065131&emsp;&emsp;202065132&emsp;&emsp;202065133&emsp;&emsp;202065134<br>
+202065135&emsp;&emsp;202065136&emsp;&emsp;202071440&emsp;&emsp;202071443&emsp;&emsp;202071445&emsp;&emsp;202071446<br>
+202071448&emsp;&emsp;202071450&emsp;&emsp;202072947&emsp;&emsp;202072959&emsp;&emsp;202072962&emsp;&emsp;202072982<br>
+202073036&emsp;&emsp;202073099&emsp;&emsp;202073125&emsp;&emsp;202073136&emsp;&emsp;202073152&emsp;&emsp;202073290<br>
+202073323&emsp;&emsp;202073354&emsp;&emsp;202073360&emsp;&emsp;202073364&emsp;&emsp;202073377&emsp;&emsp;202073415<br>
 
 <br>
 
 
-***Channels With Poor WCS Info***
+***Degraded WCS Information***
 
+Due the smaller number of targets, and large pixel-stamp size, in C0 compared to other fields, overall the World Coordinate System (WCS) solution for most channels is not as high-quality as other campaigns. Users should be especially cautious of the WCS information for the following channels (module.output) in C0, which may be inaccurate by up to several pixels / tens of arcseconds: 2 (2.2), 10 (4.2), 28 (9.4), 42 (13.2), 45 (14.1), 49 (15.1), 51 (15.3), 52 (15.4), and 62 (18.2).
 
-
- - List channels that have bad WCS, and give general warning that it’s not great everyone else.
---- Result of poor centroids
---- Mod.Out = 2.2, 4.2, 9.4, 13.2, 14.1 15.1, 15.3, 15.4, 18.2
-
-
-***Degraded WCS for FFIs***
-
---- Note degraded WCS for FFIs, esp. 3rd.
-
-Maybe combine with above sectoin
+The reduced WCS quality compared to other campaigns also applies to the full frame images (FFIs). Notably, the third FFI (https://archive.stsci.edu/missions/k2/ffi/ktwo2014110010101-c00_ffi-cal.fits) has an inaccurate WCS that is off by several pixels / tens of arcseconds. Should users require a more accurate WCS, it is recommended to use the WCS info from the previous CO processing ([DR2](https://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-2); [https://archive.stsci.edu/missions/k2/ffi/old_release_files/ktwo2014110010101-c00_ffi-cal.fits](https://archive.stsci.edu/missions/k2/ffi/old_release_files/ktwo2014110010101-c00_ffi-cal.fits)), which was produced using [astrometry.net](http://astrometry.net/summary.html).
 
 <br>
 
 
-***Potentially Poor Apertures in Channel 14.1***
+***Potentially Poor Apertures in Channel 45 (14.1)***
 
-- Note 14.1 specifically also could have bad apertures due to PA-COA (and poor WCS).
-
-<br>
-
-
-***Channel 10 Black Correction***
-
-The black correction on Channel 10, mod.out 4.2, has problems because a bright star bleeds into the black region. For data release 1, the affected regions of the black are excluded from the fit of the black, so the fit is poorly constrained and we see chatter in the residuals. This mostly affects stars in the last 200 rows of the channel.
+A significant number of targets on channel 45 had sub-optimal apertures selected by the pipeline, and as a result the lightcurve quality will be poorer than other channels. Users with targets on this channel are encouraged to inspect the aperture selected by the pipeline (using the target pixel files) before using the lightcurves for science, and/or select a custom aperture and produce new lightcurves using tools such as the [lightkurve Python package](https://docs.lightkurve.org) or [PyKE software tool suite](http://pyke.keplerscience.org).
 
 <br>
-
-
-***Image Artifacts in K2***
-
-The thermal environment is changing more rapidly in K2 than it did for the Kepler Mission. As a result the number of channels with significant rolling band (changes in the black level that are both time and spatial dependent) is larger for K2. The channels observed to be most impacted by rolling band in C0 are 1, 2, 10, 11, 14, 25-28, 36, 44, 58, 62, 74 and 79. Other known image artifacts, such as Moiré patterns and undershoot from bright stars, are also likely to be enhanced in K2 data as compared to Kepler. See the <a href="http://archtest.stsci.edu/kepler/manuals/KSCI-19033-001.pdf">Kepler Instrument Handbook</a>.
-
-<br>
-
-
-
 
 
 ***Light Curve Quality***
 
-The 6-hour spacecraft roll cycle dominates the systematic errors in C0 simple aperture photometry light curves. The pipline CDPP 12th magnitude noise benchmark for C0 is unavailable at the time of this writing, but will added when available.
+The 6-hour spacecraft roll cycle dominates the systematic errors in C0 simple aperture photometry light curves. The pipeline CDPP 12th magnitude noise benchmark for C0 is unavailable at the time of this writing, but will added when available. In general PDCSAP_FLUX photometric quality (produced only for the last ~37 days of the campaign) should be comparable to later campaigns.
 
 <hr>
 
