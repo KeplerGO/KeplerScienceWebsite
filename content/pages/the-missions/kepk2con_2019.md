@@ -1115,7 +1115,7 @@ Note that the projectors can handle both 16:9 and 4:3 format. Presenters should 
 
 All posters must be approved by the SOC – no late or extra posters are allowed due to space limitations.
 
-Posters should be no larger than 42'' x 42'' (106 cm x 106 cm). Poster numbers will be placed in the upper corner of each poster board. This number corresponds to the number assigned to each poster as given in the conference agenda.
+Posters should be no larger than 42'' x 42'' (106 cm x 106 cm). Poster numbers will be placed in the upper corner of each poster board. Poster numbers will be assigned after January 15, 2019, the final deadline to submit poster abstracts. 
 
 All posters will be up for the entire duration of the meeting. Posters can be mounted starting at 8:00 AM PST on Monday, March 4 and should be taken down by 4:00 PM PST Friday, March 8.
 
