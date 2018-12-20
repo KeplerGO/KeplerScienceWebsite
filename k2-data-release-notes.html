@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2018-12-19" />
+    <meta name="dc.date.modified" content="2018-12-20" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -63,6 +63,13 @@ in August 2015, using pelican-bootstrap and flatly.
 <body>
 
 <!-- Print a warning message that this is not the official site -->
+<div class="container container-wide" style="background-color: #e74c3c; color: white; padding: 1.5em; font-weight: bold;">
+  <div class="container">
+   <i class="fa fa-warning fa-lg fa-margin"></i>
+    This is the development version of the Kepler/K2 science website.
+    For the live website, visit <a href="https://keplerscience.arc.nasa.gov/">keplerscience.arc.nasa.gov</a>
+  </div>
+</div>
 
 <div class="navbar navbar-default navbar-fixed-top" role="navigation">
 
@@ -3300,7 +3307,7 @@ for C18 is less than 2.1 pixels, substantially under the 10-pixel limit accommod
 <p><br/></p>
 <p><strong><em>Degraded WCS Information</em></strong></p>
 <p>Due the smaller number of targets, and large pixel-stamp size, in C0 compared to other fields, overall the World Coordinate System (WCS) solution for most channels is not as high-quality as other campaigns. Users should be especially cautious of the WCS information for the following channels (module.output) in C0, which may be inaccurate by up to several pixels / tens of arcseconds: 2 (2.2), 10 (4.2), 28 (9.4), 42 (13.2), 45 (14.1), 49 (15.1), 51 (15.3), 52 (15.4), and 62 (18.2).</p>
-<p>The reduced WCS quality compared to other campaigns also applies to the full frame images (FFIs). Notably, the third FFI (https://archive.stsci.edu/missions/k2/ffi/ktwo2014110010101-c00_ffi-cal.fits) has an inaccurate WCS that is off by several pixels / tens of arcseconds. Should users require a more accurate WCS, it is recommended to use the WCS info from the previous CO processing (<a href="https://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-2">DR2</a>; <a href="https://archive.stsci.edu/missions/k2/ffi/old_release_files/ktwo2014110010101-c00_ffi-cal.fits">https://archive.stsci.edu/missions/k2/ffi/old_release_files/ktwo2014110010101-c00_ffi-cal.fits</a>), which was produced using <a href="http://astrometry.net/summary.html">astrometry.net</a>.</p>
+<p>The reduced WCS quality compared to other campaigns also applies to the full frame images (FFIs). Notably, the third FFI (https://archive.stsci.edu/missions/k2/ffi/ktwo2014110010101-c00_ffi-cal.fits) has an inaccurate WCS that is off by several pixels / tens of arcseconds. Should users require a more accurate WCS, it is recommended to use the WCS info from the previous CO processing (<a href="https://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-2">DR2</a>; <a href="https://archive.stsci.edu/missions/k2/ffi/old_release_files/ktwo2014110010101-c00_ffi-cal.fits">https://archive.stsci.edu/missions/k2/ffi/old_release_files/ktwo2014110010101-c00_ffi-cal.fits</a>), which was produced using <a href="http://nova.astrometry.net">astrometry.net</a>.</p>
 <p><br/></p>
 <p><strong><em>Potentially Poor Apertures in Channel 45 (14.1)</em></strong></p>
 <p>A significant number of targets on channel 45 had sub-optimal apertures selected by the pipeline, and as a result the lightcurve quality will be poorer than other channels. Users with targets on this channel are encouraged to inspect the aperture selected by the pipeline (using the target pixel files) before using the lightcurves for science, and/or select a custom aperture and produce new lightcurves using tools such as the <a href="https://docs.lightkurve.org">lightkurve Python package</a> or <a href="http://pyke.keplerscience.org">PyKE software tool suite</a>.</p>
