@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 173 conference participants is below (last update: Nov. 16, 2018).
+The current list of 176 conference participants is below (last update: Nov. 16, 2018).
 
 * David Ardila, JPL
 * Robert Baker, Wildwood School
@@ -18,6 +18,7 @@ The current list of 173 conference participants is below (last update: Nov. 16, 
 * Dominic Bowman, KU Leuven
 * Tabetha Boyajian, LSU
 * Pat Brennan, JPL/NASA
+* Lisa Bugnet, CEA Saclay
 * Sebastiano Calchi Novati, Caltech/IPAC
 * Matteo Cantiello, Flatiron Institute
 * Kenneth Carpenter, NASA Goddard Space Flight Center
@@ -76,6 +77,7 @@ The current list of 173 conference participants is below (last update: Nov. 16, 
 * Stephanie Itumba, Berea College
 * Randall Jackson, JPL/NASA
 * Adil Hakeem Khan, Nation College of Engineering and Technology, India
+* Lochan Khanal, Tribhuvan University
 * Irina Kitiashvili, NASA Ames Research Center/BAERI
 * Alexander Kosovichen, New Jersey Institute of Technology
 * Veselin Kostov, NASA/SETI Institute	
@@ -124,6 +126,7 @@ The current list of 173 conference participants is below (last update: Nov. 16, 
 * Andrej Prsa, Villanova University
 * Elisa Quintana, NASA Goddard Space Flight Center
 * Andreas Quirrenbach, Univ. Heidelberg
+* Rayna, Rampalli, Columbia University
 * Gavin Ramsay, Armagh Observatory
 * Rabeea Rasheed, ABNP
 * Luisa Rebull, Caltech/IPAC-IRSA
