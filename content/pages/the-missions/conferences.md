@@ -18,6 +18,13 @@ Save_as: conferences.html
     <td><a
     href=scicon-2019/index.html>website</a>, <a href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon tweets</a></td>
   </tr>
+
+  <tr>
+    <td style="width: 9em;">TBD</td>
+    <td style="width: 25em;"><a href=precision-stellar-activity/index.html>Precision Stellar Activity Workshop</a></td>
+    <td>Planning phase</td>
+  </tr>
+
 </table>
 
 
@@ -50,7 +57,7 @@ Save_as: conferences.html
     <td style="width: 25em;">K2 Supernova Cosmology Workshop</td>
     <td><a href='supernova-experiment/#k2-supernova-workshop'>website</a>, <a href="https://twitter.com/search?q=%23K2SN">#K2SN tweets</a></td>
 	</tr>
-	
+
   <tr>
     <td style="width: 9em;">Jan 2017</td>
     <td style="width: 25em;">K2/TESS Special Session at AAS 229th Meeting</td>
@@ -74,7 +81,7 @@ Save_as: conferences.html
     href="/k2-special-session-at-aas227-on-5-jan-2016.html">schedule</a>,
     <a href="https://twitter.com/search?q=%23AAS227">#AAS227 tweets</a></td>
 	</tr>
-	
+
   <tr>
     <td style="width: 9em;">Nov 2015</td>
     <td style="width: 20em;">K2 Science Conference</td>
@@ -87,7 +94,7 @@ Save_as: conferences.html
     <td><a href="/KeplerHackWeek/">website</a>, <a href="https://twitter.com/search?q=%23KeplerHack">#KeplerHack tweets</a>
     </td>
 	</tr>
-	
+
   <tr>
     <td style="width: 9em;">May 2015</td>
     <td style="width: 20em;">K2 Microlensing Workshop</td>
@@ -118,6 +125,3 @@ Save_as: conferences.html
   </tr>
 
 </table>
-
-
-
