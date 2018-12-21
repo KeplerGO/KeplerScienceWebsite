@@ -59,7 +59,7 @@ The current list of 176 conference participants is below (last update: Nov. 16, 
 * Pierre Gratia, Northwestern University
 * Michael Gully-Santiago, Kepler/K2 Guest Observer Office
 * Akash Gupta, UCLA
-* Hader Haghighipour, Institute for Astronomy, University of Hawaii
+* Nader Haghighipour, Institute for Astronomy, University of Hawaii
 * Kevin Hardegree-Ullman, Caltech/IPAC-NExScI
 * Yasuhiro Hasegawa, JPL/Caltech
 * Artie Hatzes, Thuringia State University
