@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 176 conference participants is below (last update: Nov. 16, 2018).
+The current list of 181 conference participants is below (last update: Nov. 16, 2018).
 
 * David Ardila, JPL
 * Robert Baker, Wildwood School
@@ -66,7 +66,8 @@ The current list of 176 conference participants is below (last update: Nov. 16, 
 * Christina Hedges, Kepler/K2 Guest Observers Office	
 * Calen Henderson, Caltech/IPAC
 * JJ Hermes, University of North Carolina/Boston University	
-* Michelle Hill, University of California, Riverside	
+* Michelle Hill, University of California, Riverside
+* Matthew Holman, Harvard-Smithsonian Center for Astrophysics
 * Jonti Horner, University of Southern Queensland
 * Andrew Howard, Caltech	
 * Steve Howell, NASA Ames Research Center
@@ -81,6 +82,7 @@ The current list of 176 conference participants is below (last update: Nov. 16, 
 * Irina Kitiashvili, NASA Ames Research Center/BAERI
 * Alexander Kosovichen, New Jersey Institute of Technology
 * Veselin Kostov, NASA/SETI Institute	
+* Adam Kraus, UT Austin
 * Ethan Kruse, NASA Goddard Space Flight Center
 * Daryll LaCourse, PlanetHunters.org
 * Pierre-Olivier Lagage, CEA-Paris-Saclay University
@@ -142,6 +144,7 @@ The current list of 176 conference participants is below (last update: Nov. 16, 
 * Alexandre Santiago Castelari, SETI: Space Quest
 * Nicholas Saunders, Kepler/K2 Guest Observer Office, NASA Ames
 * Everett Schlawin, University of Arizona
+* Hilke Schlichting, UCLA
 * Ellianna Schwab Abrahams, University of California, Berkeley
 * Christopher Shallue, Google Brain
 * Edward Shaya, University of Maryland
@@ -156,6 +159,7 @@ The current list of 176 conference participants is below (last update: Nov. 16, 
 * Jason Steffen, University of Nevada, Las Vegas
 * Dennis Stello, UNSW Sydney
 * Martin Still, NASA
+* Paula Szkody, University of Washington
 * Johanna Teske, Carnegie Observatories	
 * Alexander Thompson, University of Dallas
 * Addisu Tigabu, University of Debrecen
@@ -163,6 +167,7 @@ The current list of 176 conference participants is below (last update: Nov. 16, 
 * Gagik Tovmassian, Institute of Astronomy, UNAM
 * Otto Trust, Mabarara University of Science and Technology
 * Steve Unwin, Caltech/JPL
+* Vincent Van Eylen, Princeton University
 * Andrew Vanderburg, University of Texas at Austin
 * Shreyas Vissapragada, Caltech
 * Gordon Walker, University of British Columbia
