@@ -384,13 +384,13 @@ Mass-Loss Mechanism: The Radius Valley as a Function of Stellar Mass
 </thead>
   
  <tr>
-  <td>10:30-10:45</td>
+  <td>10:30-11:00</td>
   <td>Andrew Vanderburg (Caltech/IPAC-NExScI</td>
   <td>Benchmark Exoplanet Systems Discovered by the K2 Mission (<b><i>invited</i></b>)</td>
 </tr>
 
  <tr>
-  <td>10:45-11:00</td>
+  <td>11:00-11:15</td>
   <td>Juliette Becker (University of Michigan)</td>
   <td>Dynamically Determining Observationally Ill-Constrained 
 Planet Parameters: Towards Precise Transit Ephemerides for the Benchmark System HIP 41378
