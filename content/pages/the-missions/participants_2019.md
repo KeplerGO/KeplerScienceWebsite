@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 186 conference participants is below (last update: Nov. 16, 2018).
+The current list of 186 conference participants is below (last update: Jan. 2, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * David Ardila, JPL
