@@ -801,7 +801,7 @@ data analysis: tutorials and consulting breakout
 
  <tr>
   <td>11:30-11:45</td>
-  <td>Laura Venuti (Cornell Center for Astrophysics and Planetary Science)</td>
+  <td>Laura Venuti (NPP Fellow, NASA Ames Research Center)</td>
   <td>A Dynamical View of Star-disk Interaction Processes in the Lagoon Nebula with Kepler/K2</td>  
   </tr>
 
