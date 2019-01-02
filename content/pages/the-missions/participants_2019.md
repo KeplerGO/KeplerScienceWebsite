@@ -1,13 +1,15 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 181 conference participants is below (last update: Nov. 16, 2018).
+The current list of 186 conference participants is below (last update: Nov. 16, 2018).
 
+* Kiran Adhikari, Tribhuvan University
 * David Ardila, JPL
 * Robert Baker, Wildwood School
 * Thomas Barclay, NASA Goddard Space Flight Center
 * Geert Barentsen, NASA Ames
 * Thomas Beatty, University of Arizona
+* Juliette Becker, Unviersity of Michigan
 * Charles Beichman, Caltech/IPAC-NExScI
 * Othman Benomar, NYU Abu Dhabi
 * David Berardo, Massachusetts Institute of Technology
@@ -49,6 +51,7 @@ The current list of 181 conference participants is below (last update: Nov. 16, 
 * Andrea Fortier, University of Bern
 * Malcolm Fridlund, Leiden Observatory and Chalmers University of Technology
 * Maura Fujieh, NASA Ames Research Center
+* Jim Fuller, Caltech
 * Elise Furlan, Caltech/IPAC-NExScI
 * Eric Gaidos, University of Hawaii at Manoa
 * Rafael A. Garcia, CEA Saclay
@@ -166,9 +169,11 @@ The current list of 181 conference participants is below (last update: Nov. 16, 
 * Guillermo Torres, Harvard-Smithsonian Center for Astrophysics
 * Gagik Tovmassian, Institute of Astronomy, UNAM
 * Otto Trust, Mabarara University of Science and Technology
+* Christopher Tylor, University of Southern Queensland
 * Steve Unwin, Caltech/JPL
 * Vincent Van Eylen, Princeton University
 * Andrew Vanderburg, University of Texas at Austin
+* Laura Venuti, NASA Ames Research Center
 * Shreyas Vissapragada, Caltech
 * Gordon Walker, University of British Columbia
 * Nan Wang, DeepMacro LLC
