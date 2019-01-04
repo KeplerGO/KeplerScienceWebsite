@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 186 conference participants is below (last update: Jan. 2, 2019).
+The current list of 185 conference participants is below (last update: Jan. 2, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * David Ardila, JPL
@@ -18,7 +18,6 @@ The current list of 186 conference participants is below (last update: Jan. 2, 2
 * Anya Biferno, JPL/NASA
 * Gary Blackwood, NASA/JPL
 * Dominic Bowman, KU Leuven
-* Tabetha Boyajian, LSU
 * Pat Brennan, JPL/NASA
 * Lisa Bugnet, CEA Saclay
 * Sebastiano Calchi Novati, Caltech/IPAC
