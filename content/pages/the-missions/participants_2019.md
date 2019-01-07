@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 187 conference participants is below (last update: Jan. 2, 2019).
+The current list of 193 conference participants is below (last update: Jan. 7, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * David Ardila, JPL
@@ -13,6 +13,7 @@ The current list of 187 conference participants is below (last update: Jan. 2, 2
 * Charles Beichman, Caltech/IPAC-NExScI
 * Othman Benomar, NYU Abu Dhabi
 * David Berardo, Massachusetts Institute of Technology
+* Travis Berger, University of Hawaii at Manoa
 * Sylvie Bernstein, McGill University
 * Allyson Bieryla, Harvard-Smithsonian Center for Astrophysics
 * Anya Biferno, JPL/NASA
@@ -68,6 +69,7 @@ The current list of 187 conference participants is below (last update: Jan. 2, 2
 * Artie Hatzes, Thuringia State University
 * Christina Hedges, Kepler/K2 Guest Observers Office	
 * Calen Henderson, Caltech/IPAC
+* Miranda Herman, University of Toronto
 * JJ Hermes, University of North Carolina/Boston University	
 * Michelle Hill, University of California, Riverside
 * Matthew Holman, Harvard-Smithsonian Center for Astrophysics
@@ -92,6 +94,7 @@ The current list of 187 conference participants is below (last update: Jan. 2, 2
 * Elizabeth Landau, JPL/NASA
 * David Latham, Harvard-Smithsonian Center for Astrophysics
 * William Latter, NASA HQ
+* Emily Leiner, Northwestern University
 * Min Li, University of Nevada, Las Vegas
 * Charles Lillie, Lillie Consulting LLC
 * Jorge Lillo-Box, European Southern Observatory
@@ -103,6 +106,7 @@ The current list of 187 conference participants is below (last update: Jan. 2, 2
 * Andrew Mann, University of North Carolina at Chapel Hill
 * Cintia Fernanda Martinez, Observatorio Nacional
 * Savita Mathur, Instituto de Astrofisica de Canarias
+* Andrew Mayo, UC Berkeley
 * Katelynn McCalmont-Everton, Ball Aerospace
 * Bertrand Mennesson, JPL
 * Paul Mooney, Intune.Network
@@ -150,6 +154,8 @@ The current list of 187 conference participants is below (last update: Jan. 2, 2
 * Everett Schlawin, University of Arizona
 * Hilke Schlichting, UCLA
 * Ellianna Schwab Abrahams, University of California, Berkeley
+* Nic Scott, NASA ARC/BAERI
+* Marko Sestovic, Centre for Space and Habitability, University of Bern
 * Christopher Shallue, Google Brain
 * Edward Shaya, University of Maryland
 * Kendra Short, NASA/JPL
