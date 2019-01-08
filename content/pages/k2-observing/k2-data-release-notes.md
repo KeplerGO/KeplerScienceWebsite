@@ -4095,7 +4095,7 @@ Based on the pointing history and known complications in processing data with la
 
 As a result, lightcurve files (\*llc.fits and \*slc.fits) will have valid SAP_FLUX values for most cadences throughout the entire time span of C0 when observations were taken. PDCSAP_FLUX values however will be 0 or NaN for cadences prior to 89407.
 
-Similarly, the cotrending basis vector (CBV) file for C0 ()[ktwo-c00-d28_lcbv.fits](https://archive.stsci.edu/missions/k2/cbv/ktwo-c00-d28_lcbv.fits)) will only have data for cadences 89407 &ndash; 91186.
+Similarly, the cotrending basis vector (CBV) file for C0 ([ktwo-c00-d28_lcbv.fits](https://archive.stsci.edu/missions/k2/cbv/ktwo-c00-d28_lcbv.fits)) will only have data for cadences 89407 &ndash; 91186.
 
 <br>
 
