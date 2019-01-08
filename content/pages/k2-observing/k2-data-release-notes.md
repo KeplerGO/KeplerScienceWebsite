@@ -66,7 +66,7 @@ including information on field pointing, target selection, observation times and
 
 <div class="thumbnail">
 <div class="caption">
-<i>Figure C18-Mag: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-18">GO Programs</a>
+<i>Figure C18-Mag: Distribution of the Kepler magnitudes of observed LC targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-18">GO Programs</a>
 were selected.</i>
 </div>
 <a href="images/release-notes/c18/c18_lc_magnitude_distribution.png">
@@ -242,7 +242,7 @@ Campaign 17 was flown in the forward velocity vector direction in order to enabl
 
 <div class="thumbnail">
 <div class="caption">
-<i>Figure C17-Mag: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-17">GO Programs</a>
+<i>Figure C17-Mag: Distribution of the Kepler magnitudes of observed LC targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-17">GO Programs</a>
 were selected.</i>
 </div>
 <a href="images/release-notes/c17/c17_lc_magnitude_distribution.png">
@@ -424,7 +424,7 @@ Campaign 16 was flown in the forward velocity vector direction in order to enabl
 
 <div class="thumbnail">
 <div class="caption">
-<i>Figure C16-Mag: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-16">GO Programs</a>
+<i>Figure C16-Mag: Distribution of the Kepler magnitudes of observed LC targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-16">GO Programs</a>
 were selected.</i>
 </div>
 <a href="images/release-notes/c16/c16_lc_magnitude_distribution.png">
@@ -643,7 +643,7 @@ The target HD 76333 (EPIC 200200727), a nearby high proper-motion F3V star, fail
 
 <div class="thumbnail">
 <div class="caption">
-<i>Figure C15-Mag: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-15">GO Programs</a>
+<i>Figure C15-Mag: Distribution of the Kepler magnitudes of observed LC targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-15">GO Programs</a>
 were selected.</i>
 </div>
 <a href="images/release-notes/c15/c15_lc_magnitude_distribution.png">
@@ -910,7 +910,7 @@ Starting with C15, short-cadence light curves are now produced and available at 
 
 <div class="thumbnail">
 <div class="caption">
-<i>Figure C14-Mag: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href ="k2-approved-programs.html#campaign-14">GO Programs</a> were selected. The peak in the distribution at faint magnitudes is due to the large number of faint galaxies targeted.</i>
+<i>Figure C14-Mag: Distribution of the Kepler magnitudes of observed LC targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href ="k2-approved-programs.html#campaign-14">GO Programs</a> were selected. The peak in the distribution at faint magnitudes is due to the large number of faint galaxies targeted.</i>
 </div>
 <a href="images/release-notes/c14/c14_lc_magnitude_distribution.png">
 <img src="images/release-notes/c14/c14_lc_magnitude_distribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets.">
@@ -1100,7 +1100,7 @@ These release notes are for the C13 data currently available at MAST in the nomi
 
 <div class="thumbnail">
 <div class="caption">
-<i>Figure C13-Mag: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href ="k2-approved-programs.html#campaign-13">GO Programs</a> were selected.</i>
+<i>Figure C13-Mag: Distribution of the Kepler magnitudes of observed LC targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href ="k2-approved-programs.html#campaign-13">GO Programs</a> were selected.</i>
 </div>
 <a href="images/release-notes/c13/c13_lc_magnitude_distribution.png">
 <img src="images/release-notes/c13/c13_lc_magnitude_distribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets.">
@@ -1274,7 +1274,7 @@ The following four targets failed short-cadence PDC processing due to them being
 
 <div class="thumbnail">
 <div class="caption">
-<i>Figure C12-Mag: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href ="k2-approved-programs.html#campaign-12">GO Programs</a> were selected.</i>
+<i>Figure C12-Mag: Distribution of the Kepler magnitudes of observed LC targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href ="k2-approved-programs.html#campaign-12">GO Programs</a> were selected.</i>
 </div>
 <a href="images/release-notes/c12/c12_lc_magnitude_distribution.png">
 <img src="images/release-notes/c12/c12_lc_magnitude_distribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets.">
@@ -1599,10 +1599,10 @@ is evident when comparing the two images.
 </div>
 <div class="thumbnail">
 <div class="caption">
-<i>Figure C11-Mag: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The distribution is due to the <a href="k2-approved-programs.html#campaign-11">GO  programs</a> that were selected.</i>
+<i>Figure C11-Mag: Distribution of the Kepler magnitudes of observed LC targets. All targets are chosen by guest observers. The distribution is due to the <a href="k2-approved-programs.html#campaign-11">GO  programs</a> that were selected.</i>
 </div>
 <a href="images/release-notes/c10/c10LcMagDistribution.png">
-<img src="images/release-notes/c10/c10LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed C11 targets.">
+<img src="images/release-notes/c10/c10LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed C11 LC targets.">
 </a>
 </div>
 
@@ -2004,10 +2004,10 @@ the second does not.
 </div>
 <div class="thumbnail">
 <div class="caption">
-<i>Figure C10-Mag: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The distribution is due to the <a href="k2-approved-programs.html#campaign-10">GO  programs</a> that were selected.</i>
+<i>Figure C10-Mag: Distribution of the Kepler magnitudes of observed LC targets. All targets are chosen by guest observers. The distribution is due to the <a href="k2-approved-programs.html#campaign-10">GO  programs</a> that were selected.</i>
 </div>
 <a href="images/release-notes/c10/c10LcMagDistribution.png">
-<img src="images/release-notes/c10/c10LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed C10 targets.">
+<img src="images/release-notes/c10/c10LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed C10 LC targets.">
 </a>
 </div>
 
@@ -2296,10 +2296,10 @@ and C92, respectively.
 </div>
 <div class="thumbnail">
 <div class="caption">
-<i>Figure C9-Mag: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The distribution is due to the <a href="k2-approved-programs.html#campaign-9">GO  programs</a> that were selected. Note that the small number of targets is due to the fact that the majority of pixels were in the microlensing super apertures.</i>
+<i>Figure C9-Mag: Distribution of the Kepler magnitudes of observed LC targets. All targets are chosen by guest observers. The distribution is due to the <a href="k2-approved-programs.html#campaign-9">GO  programs</a> that were selected. Note that the small number of targets is due to the fact that the majority of pixels were in the microlensing super apertures.</i>
 </div>
 <a href="images/release-notes/c9/c9LcMagDistribution.png">
-<img src="images/release-notes/c9/c9LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed targets.">
+<img src="images/release-notes/c9/c9LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets.">
 </a>
 </div>
 
@@ -2587,10 +2587,10 @@ are quite large and may cause memory problems when accessed:
 
 <div class="thumbnail">
 <div class="caption">
-<i>Figure C8-Mag: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-8">GO  programs</a> were selected.</i>
+<i>Figure C8-Mag: Distribution of the Kepler magnitudes of observed LC targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-8">GO  programs</a> were selected.</i>
 </div>
 <a href="images/release-notes/c8/c8LcMagDistribution.png">
-<img src="images/release-notes/c8/c8LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed targets.">
+<img src="images/release-notes/c8/c8LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets.">
 </a>
 </div>
 
@@ -2776,10 +2776,10 @@ The extent of the problem in time and CCD columns can be seen in the figure *C8-
 
     <div class="thumbnail">
         <div class="caption">
-            <i>Figure C7-Mag: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-7">GO  programs</a> were selected.</i>
+            <i>Figure C7-Mag: Distribution of the Kepler magnitudes of observed LC targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-7">GO  programs</a> were selected.</i>
         </div>
         <a href="images/release-notes/c7/c7LcMagDistribution.png">
-            <img src="images/release-notes/c7/c7LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed targets.">
+            <img src="images/release-notes/c7/c7LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets.">
         </a>
     </div>
 
@@ -2966,10 +2966,10 @@ There are 4 channels in C7 for which the saturation spill due to very bright sta
 
     <div class="thumbnail">
         <div class="caption">
-            <i>Figure: Distribution of the Kepler magnitudes of observed targets. All targets are chosen by guest observers. The bimodality is due to how the largest <a href="k2-approved-programs.html#campaign-6">GO  programs</a> were selected.</i>
+            <i>Figure: Distribution of the Kepler magnitudes of observed LC targets. All targets are chosen by guest observers. The bimodality is due to how the largest <a href="k2-approved-programs.html#campaign-6">GO  programs</a> were selected.</i>
         </div>
         <a href="images/release-notes/c6/c6LcMagDistribution.png">
-            <img src="images/release-notes/c6/c6LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed targets.">
+            <img src="images/release-notes/c6/c6LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets.">
         </a>
     </div>
 </div>
@@ -3121,10 +3121,10 @@ The dominant systematic present in K2 simple aperture photometry light curves is
 
     <div class="thumbnail">
         <div class="caption">
-            <i>Figure: Distribution of the Kepler magnitudes of observed targets in C5. All targets are chosen by Guest Observers. The bimodality is due to how the largest <a href="k2-approved-programs.html#campaign-5">Guest Observer programs</a> were selected.</i>
+            <i>Figure: Distribution of the Kepler magnitudes of observed LC targets in C5. All targets are chosen by Guest Observers. The bimodality is due to how the largest <a href="k2-approved-programs.html#campaign-5">Guest Observer programs</a> were selected.</i>
         </div>
         <a href="images/release-notes/c5/C5LcMagDistribution.png">
-            <img src="images/release-notes/c5/C5LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed targets in C5.">
+            <img src="images/release-notes/c5/C5LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets in C5.">
         </a>
     </div>
 
@@ -3244,10 +3244,10 @@ The dominant systematic present in K2 simple aperture photometry light curves is
 
     <div class="thumbnail">
         <div class="caption">
-            <i>Figure: Distribution of the Kepler magnitudes of observed targets in C4. All targets are chosen by Guest Observers. The bimodality is due to how the largest Guest Observer programs were selected for C4.</i>
+            <i>Figure: Distribution of the Kepler magnitudes of observed LC targets in C4. All targets are chosen by Guest Observers. The bimodality is due to how the largest Guest Observer programs were selected for C4.</i>
         </div>
         <a href="images/release-notes/c4/C4_lcDistribution.png">
-            <img src="images/release-notes/c4/C4_lcDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed targets in C4.">
+            <img src="images/release-notes/c4/C4_lcDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets in C4.">
         </a>
     </div>
 
@@ -3431,10 +3431,10 @@ These release notes are for the C3 data currently available at MAST (Data Releas
 
     <div class="thumbnail">
         <div class="caption">
-            <i>Figure: Distribution of the Kepler magnitudes of observed targets in C3. The bimodality is due to the large Guest Observer programs selected for C3.</i>
+            <i>Figure: Distribution of the Kepler magnitudes of observed LC targets in C3. The bimodality is due to the large Guest Observer programs selected for C3.</i>
         </div>
         <a href="images/release-notes/c3/magnitudeDist.png">
-            <img src="images/release-notes/c3/magnitudeDist.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed targets in C3.">
+            <img src="images/release-notes/c3/magnitudeDist.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets in C3.">
         </a>
     </div>
 
@@ -3528,6 +3528,7 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 
 These release notes are for the C2 data currently available at MAST in the nominal K2 data locations, which have been processed with the final version of the K2 pipeline as part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a>. The original release notes corresponding to the previous version(s) of C2 data can be found in the <a href="archived-k2-data-release-notes.html#k2-campaign-2">archived data release notes page</a>.
 
+
 <h2>At a glance</h2>
 
 <div class="col-lg-5">
@@ -3586,16 +3587,19 @@ These release notes are for the C2 data currently available at MAST in the nomin
 
     <div class="thumbnail">
         <div class="caption">
-            <i>Figure C2-Mag: Distribution of the Kepler magnitudes of observed targets in C2.  All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-2">GO Programs</a>
+            <i>Figure C2-Mag: Distribution of the Kepler magnitudes of observed LC targets in C2.  All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-2">GO Programs</a>
             were selected. </i>
         </div>
-        <a href="images/release-notes/c2/C2_lc_kp.png">
+        <a href="images/release-notes/c2/c2_lc_magnitude_distribution.png">
+            <img src="images/release-notes/c2/c2_lc_magnitude_distribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets in C2.">
+<!---        <a href="images/release-notes/c2/C2_lc_kp.png">
             <img src="images/release-notes/c2/C2_lc_kp.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed targets in C2.">
+--->
         </a>
     </div>
-</div>
 
 </div>
+
 
 <div class="thumbnail">
     <div class="caption">
@@ -3899,11 +3903,13 @@ Other CDPP benchmarks can be found in the
 
 # K2 Campaign 0
 
+These release notes are for the C0 data currently available at MAST in the nominal K2 data locations, which have been processed with the final version of the K2 pipeline as part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a>. The original release notes corresponding to the previous version(s) of C0 data can be found in the <a href="archived-k2-data-release-notes.html#k2-campaign-0">archived data release notes page</a>.
+
 Campaign 0 (C0) was implemented as a full-length engineering test to prove that K2 was a viable mission. It observed sources "at risk" from a community-provided target list.
+
 
 <h2>At a glance</h2>
 
-<div class="row">
 <div class="col-lg-5">
 
     <b><i>Pointing</i></b>
@@ -3913,12 +3919,21 @@ Campaign 0 (C0) was implemented as a full-length engineering test to prove that 
         <li>Roll: 177.4754730 degrees</li>
     </ul>
 
+    <b><i>Targets</i></b>
+    <ul>
+        <li>7,902 in long cadence (LC)</li>
+        <li>13 in short cadence (SC)</li>
+        <li>Several custom targets (see below)</li>
+    </ul>
+
     <b><i>Full Frame Images (FFI)</i></b>
     <ul>
         <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2014070234206-c00_ffi-cal.fits">ktwo2014070234206-c00_ffi-cal.fits</a></li>
-        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2014074233223-c00_ffi-cal.fits">ktwo2014074233223-c00_ffi-cal.fits</a></li>
-        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2014110010101-c00_ffi-cal.fits">ktwo2014110010101-c00_ffi-cal.fits</a></li>
+        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2014074233223-c00_ffi-cal.fits">ktwo2014074233223-c00_ffi-cal.fits</a><sup>†</sup></li>
+        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2014110010101-c00_ffi-cal.fits">ktwo2014110010101-c00_ffi-cal.fits</a><sup>†</sup></li>
     </ul>
+
+<sup>†</sup>Taken while the telescope was in coarse point.<br><br>
 
     <b><i>First cadence</i></b>
     <ul>
@@ -3936,8 +3951,9 @@ Campaign 0 (C0) was implemented as a full-length engineering test to prove that 
 
     <b><i>Most Recent Processing Version</i></b>
     <ul>
-    <li> <a href="k2-pipeline-release-notes.html#data-release-2">Data Release 2</a> </li>
+    <li> <a href="k2-pipeline-release-notes.html#data-release-28">Data Release 28</a> </li>
     </ul>
+
 
 </div>
 
@@ -3945,60 +3961,96 @@ Campaign 0 (C0) was implemented as a full-length engineering test to prove that 
 
     <div class="thumbnail">
         <div class="caption">
-            <i>Figure: Schematic of Kepler's C0 field-of-view with selected targets shown with purple dots.</i>
+            <i>Figure C0-FOV: Schematic of Kepler's C0 field-of-view with high profile objects shown.</i>
         </div>
-        <a href="images/campaign_selected/C0_selected.png">
-            <img src="images/campaign_selected/C0_selected.png" class="img-responsive" alt="C0 field-of-view">
+        <a href="images/k2/k2-c00-field.png">
+            <img src="images/k2/k2-c00-field.png" class="img-responsive" alt="C0 field-of-view with high profile objects.">
+        </a>
+    </div>
+
+    <div class="thumbnail">
+        <div class="caption">
+            <i>Figure C0-Mag: Distribution of the Kepler magnitudes of observed LC targets in C0.  All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-0">GO Programs</a>
+            were selected. </i>
+        </div>
+        <a href="images/release-notes/c0/c0_lc_magnitude_distribution.png">
+            <img src="images/release-notes/c0/c0_lc_magnitude_distribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets in C0.">
         </a>
     </div>
 
 </div>
 
-</div>
-
 <h2>Features and Events</h2>
-
-***Not In Fine Point Data***
-
-The second half of the C0 data is more indicative of the quality of data users should expect from K2. The Kepler spacecraft was not in fine point for the first part of C0, causing large photometric scatter. The data quality is much improved in the second half of the campaign, beginning on cadence 89347 after the safe mode, when compared to the first half of the campaign. See the QUALITY flag (bit 16) to determine when the spacecraft was in fine point.
-
-<br>
-
-***Safe Mode***
-
-The Kepler Spacecraft was in safe mode between cadences 88198 and 89346. Data is flagged in the QUALITY column with bit 2. The project used this time to fix large attitude errors that were occuring during resaturation events.
-
-<br>
-
-***Module 7 Failure***
-
-Prior to the start of C0, on January 21, 2014, the photometer was autonomously powered off by an under voltage fault in the Local Detector Electronics Power Supply. Since that time, module 7 (i.e., channels 17 to 20) has yielded no star data or charge injection signal. The subsequent behavior of this module is very similar to that of module 3 after it failed on January 19, 2010. K2 continues to operate and collect simultaneous data from sources falling upon the remaining 19 detector modules over 105 square degrees. There is no indication of any accelerated degradation on these other modules.
-
-<br>
-
 
 ***Large Pixel Masks***
 
-When planning C0 observations, the pointing performance of K2 was not accurately known. The worst case scenario was that a star at the edge of the focal plane could move as much as 40" from its nominal position. Therefore each star was assigned a large pixel mask by first computing a Kepler-style optimal aperture and then adding 10 rings of pixels to account for a potential 40" pointing offset. During the second half of C0, the pointing performance was excellent and the pointing drifts were no more than 6" for any target star. Care will be needed when performing photometry on C0 data. Simply including all collected pixels for a given target will not create a high signal-to-noise light curve. For tools to help choose your photometric aperture, see for example, <a href="http://keplergo.arc.nasa.gov/PyKE.shtml">PyKE contributed software</a>.
+When planning C0 observations, the pointing performance of K2 was not yet accurately known. The worst case scenario was that a star at the edge of the focal plane could move as much as 40" from its nominal position. Therefore each star was assigned a large pixel mask by first computing a Kepler-style optimal aperture and then adding 10 rings of pixels to account for a potential 40" pointing offset. (Later campaigns only added 2 &ndash; 4 rings of pixels.) Care will be needed when performing photometry on C0 data &mdash; simply including all collected pixels for a given target will not create a high signal-to-noise light curve. For tools to help choose your photometric aperture, see for example the [lightkurve Python package](https://docs.lightkurve.org) and [PyKE software tool suite](http://pyke.keplerscience.org).
 
 <br>
 
+***Pointing and Roll Performance***
+
+C0 was the first full-length campaign observed by K2, and as such testing and refinement of the telescope control systems occurred during the campaign. The first ~18 days of observations had a mixture of fine and coarse pointing, at the end of which the telescope was put into safe mode for ~24 days to adjust the pointing control systems. The spacecraft then resumed observations, experiencing just over a day of coarse point, followed by ~37 days of fine point. Figure C0-Pointing shows the pointing history over the campaign by plotting the observed motion at the edge of the field of view in science pixels versus cadence.
+
+<div class="thumbnail" style="width: 100%;display: inline-block;">
+<div class="caption">
+<i>Figure C0-Pointing: the observed amount of motion in pixels at the edge of field during C0.</i>
+<a href="images/release-notes/c0/c0-entire-pointing.png">
+<img src="images/release-notes/c0/c0-entire-pointing.png" class="img-responsive" alt="Pixels of motion at field edge during C0.">
+</a>
+</div>
+</div>
+
+Based on the pointing history, and known complications in processing data with large coarse pointing regions and data gaps, **while the entire C0 cadence range was processed by CAL (pixel calibration) and PA (simple aperture lightcurves), only long cadences 89407 &ndash; 91186 (and the corresponding short cadence range 2670670 &ndash; 2724069) were processed by PDC (systematic detrended lightcurves).** This corresponds to the ~37 days of fine point data at the end of the campaign.
+
+During these ~37 days, examining Figure C0-MAR, the pipeline-calculated maximum distance between the derived and nominal positions for any target (the "maximum attitude residual", or MAR)
+for C18 is less than 2.1 pixels, substantially under the 10-pixel limit accommodated by the aperture halos. (Note that long cadences 89407 &ndash; 89410 are flagged using QUALITY flag bit #3 to indicate significant pointing excursions, despite the spacecraft technically being in fine point, and users may wish to discard them.)
+
+
+<div class="thumbnail" style="width: 48.75%;display: inline-block;">
+<div class="caption">
+<i>Figure C0-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C0.</i>
+<a href="images/release-notes/c0/c0_pad_pdq_attitude_roll.png">
+<img src="images/release-notes/c0/c0_pad_pdq_attitude_roll.png" class="img-responsive" alt="Pipeline measured roll error for C0.">
+</a>
+</div>
+</div>
+
+<div class="thumbnail" style="width: 49.25%;display: inline-block;">
+<div class="caption">
+<i>Figure C0-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C0.</i>
+<a href="images/release-notes/c0/c0_pad_pdq_attitude_mar.png">
+<img src="images/release-notes/c0/c0_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the C0 attitude measured with PAD and PDQ.">
+</a>
+</div>
+</div>
+
+<br>
+
+
+***No Data for Modules 3 and 7***
+
+Prior to the start of C0, on January 21, 2014, the photometer was autonomously powered off by an under voltage fault in the Local Detector Electronics Power Supply. Since that time, module 7 (i.e., channels 17 to 20; see [this graphic](https://keplerscience.arc.nasa.gov/images/kepler_focal_plane_layout_channels_color.png)) has yielded no star data or charge injection signal. The subsequent behavior of this module is very similar to that of module 3 after it failed on January 19, 2010. Thus, there is no data for targets falling modules 3 or 7 for Campaign 0 or subsequent campaigns.
+
+<br>
+
+
 ***Jupiter's Reflection***
 
-Because K2 points along the ecliptic, its field of view will occasionally contain bright solar system objects. Jupiter was in the K2 field of view during C0 from 2014-03-14 through 2014-05-12, but fell on dead module 3. It creates a bright antipodal ghost on module 23, channel 79, and impacts all the targets observed in this region. See the FFI ktwo2014074233223-c00, extension 79, for an image of the reflection.
+Jupiter was in the K2 field of view during C0 from 2014-03-14 through 2014-05-12, but fell on the dead module 3. It creates a bright antipodal ghost on module 23, channel 79, and impacts all the targets observed in this region. See the FFI ktwo2014074233223-c00, extension 79, for an image of the reflection.
 
-While Jupiter was on the focal plane, the background level was increased over its nominal value for nearly half the channels, with the largest impact seen in channels 53 -- 84. In addition, as Jupiter moved on and off the focal plane, a specular reflection lasting approximately 6 hours was seen in these channels. The relative background levels as measured in the smear signal from channel 83 are shown below as Jupiter enters the focal plane (near cadence no. 87525) and leaves the focal plane (cadence no. 90375). The specular bump resulted in an increase in background level of 25-30% for the affected channels, while the quasi-static background increase for the time Jupiter was on the focal plane was 3-5%.
+While Jupiter was on the focal plane, the background level was increased over its nominal value for nearly half the channels, with the largest impact seen in channels 53 &ndash; 84. In addition, as Jupiter moved on and off the focal plane, a specular reflection lasting approximately 6 hours was seen in these channels. The relative background levels as measured in the smear signal from channel 83 are shown below as Jupiter enters the focal plane (near cadence no. 87525) and leaves the focal plane (cadence no. 90375). The specular bump resulted in an increase in background level of 25 &ndash; 30% for the affected channels, while the quasi-static background increase for the time Jupiter was on the focal plane was 3 &ndash; 5%.
 
-<div class="thumbnail" style="width: 68%;">
+<div class="thumbnail" style="width: 49%;display: inline-block;">
     <div class="caption">
-        <i>Figure: FFI showing the reflection of Jupiter as seen on channel 79.</i>
+        <i>Figure: Part of an FFI showing the reflection of Jupiter as seen on channel 79.</i>
     </div>
     <a href="images/release-notes/c0/Jupiter-ghost3.png">
         <img src="images/release-notes/c0/Jupiter-ghost3.png" class="img-responsive" alt="FFI showing the reflection of Jupiter as seen on channel 79.">
     </a>
 </div>
 
-<div class="thumbnail" style="width: 68%;">
+<div class="thumbnail" style="width: 49%;display: inline-block;">
     <div class="caption">
         <i>Figure: The background level on channel 83 as Jupiter enters (left) and leaves (right) the focal plane.</i>
     </div>
@@ -4007,13 +4059,14 @@ While Jupiter was on the focal plane, the background level was increased over it
     </a>
 </div>
 
+
 <br>
 
 ***Observations of M35 and NGC 2158***
 
-The open clusters M35 (NGC 2168) and NGC 2158 were observed during this campaign by placing 154 separate 50x50 pixel masks over the densest portion of these two adjacent clusters. Each mask was given a custom aperture number to act as the unique identifier found in the file name. The target pixel files for these clusters have custom aperture numbers ranging from 200,000,811 to 200,000,964.
+The open clusters M35 (NGC 2168) and NGC 2158 were observed during this campaign by placing 154 separate 50x50 pixel masks over the densest portion of these two adjacent clusters. Each mask was given a custom aperture number to act as the unique identifier found in the file name. The target pixel files for these clusters have custom aperture numbers ranging from 200000811 to 200000964.
 
-<div class="thumbnail" style="width: 68%;">
+<div class="thumbnail" style="width: 50%; display: inline-block;">
     <div class="caption">
         <i>Figure: Individual masks when tiled together cover the field of view containing M35 and NGC 2158.</i>
     </div>
@@ -4024,35 +4077,72 @@ The open clusters M35 (NGC 2168) and NGC 2158 were observed during this campaign
 
 <br>
 
+
 <h2>Data Quality and Processing Notes</h2>
 
-***Photometric Jitter Caused by Lower Bandwidth***
+<!--- Consider talking about CR correction before/after --->
 
-During the development of the K2 Mission, the number of guide stars per fine-guidance sensor (FGS) was changed from ten (for Kepler) to one (for K2). This change was demanded by the need for increased aperture sizes given the uncertainties in the star-tracker to boresight alignment and the need to acquire an entirely new field-of-view every 80 to 90 days. To compensate for the increased sensor noise and assure that fine-point lock could be achieved, the attitude control bandwidth was decreased from 0.1 Hz (for Kepler) to 0.02 Hz (for K2). This change in bandwidth means that the cross-boresight attitude (i.e., RA and Dec) has a time constant of 50 seconds, comparable to the short-cadence duration. Engineering studies have shown that the photometric precision of the long-cadence data is also compromised by the larger pointing jitter associated with the lower bandwidth. The project has approved a change in bandwidth to 0.05 Hz (20 seconds) starting with Campaign 3.
+***Dynablack Turned Off***
 
-<br>
-
-***Channel 10 Black Correction***
-
-The black correction on Channel 10, mod.out 4.2, has problems because a bright star bleeds into the black region. For data release 1, the affected regions of the black are excluded from the fit of the black, so the fit is poorly constrained and we see chatter in the residuals. This mostly affects stars in the last 200 rows of the channel.
+One of the new features in data processed as part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a> is the use of Dynablack, a more sophisticated algorithm to perform the pixel-level calibration, which also flags cadences that are likely affected by the presence of rolling bands. However, due to the large amount of coarse point data, combined with the ~24 day data gap due to the safe mode event, the Dynablack module did not have enough high-quality data to be able to run. Thus for this data release, the pixel-level calibrations were performed with the standard CAL module, and there are no rolling band flags in the delivered FITS files.
 
 <br>
 
-***Image Artifacts in K2***
 
-The thermal environment is changing more rapidly in K2 than it did for the Kepler Mission. As a result the number of channels with significant rolling band (changes in the black level that are both time and spatial dependent) is larger for K2. The channels observed to be most impacted by rolling band in C0 are 1, 2, 10, 11, 14, 25-28, 36, 44, 58, 62, 74 and 79. Other known image artifacts, such as Moiré patterns and undershoot from bright stars, are also likely to be enhanced in K2 data as compared to Kepler. See the <a href="http://archtest.stsci.edu/kepler/manuals/KSCI-19033-001.pdf">Kepler Instrument Handbook</a>.
+***PDC Only Run On Last ~37 Days***
+
+Based on the pointing history and known complications in processing data with large coarse pointing regions and data gaps, **while the entire C0 cadence range was processed by CAL (pixel calibration) and PA (simple aperture lightcurves), only long cadences 89407 &ndash; 91186 (and the corresponding short cadence range 2670670 &ndash; 2724069) were processed by PDC (systematic detrended lightcurves).** This corresponds to the ~37 days of fine point data at the end of the campaign.
+
+As a result, lightcurve files (\*llc.fits and \*slc.fits) will have valid SAP_FLUX values for most cadences throughout the entire time span of C0 when observations were taken. PDCSAP_FLUX values however will be 0 or NaN for cadences prior to 89407.
+
+Similarly, the cotrending basis vector (CBV) file for C0 ()[ktwo-c00-d28_lcbv.fits](https://archive.stsci.edu/missions/k2/cbv/ktwo-c00-d28_lcbv.fits)) will only have data for cadences 89407 &ndash; 91186.
+
+<br>
+
+
+***No ARP Files Available***
+
+Since the necessary pixels were not collected in C0, note there are no artifact removal pixel (ARP) files available for C0 (see [S2.3.8 of the Kepler Archive Manual](https://archive.stsci.edu/kepler/manuals/archive_manual.pdf#page=51)).
 
 <br>
 
-***Thruster Firing Flags***
 
-Since the thruster firing flags are not populated in FITS quality flags for the
-C0 Type-1 TPFs, they are delivered as separate
-long-cadence <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c0_lc.csv">(thruster_firing_flags_c0_lc.csv)</a>
-and short-cadence <a href="http://archive.stsci.edu/missions/k2/thruster_firings/thruster_firing_flags_c0_sc.csv">(thruster_firing_flags_c0_sc.csv)</a>
-thruster firing tables for the C0 campaign.
+***48 Targets Without Lightcurves***
+
+The following 48 targets do not have associated lightcurve files, because the pipeline was unable to find a suitable photometric aperture for these targets. In general they are non-standard targets, such as clusters or very bright objects, or there is no significant flux at the target position. Users are encouraged to create their own lightcurves for these objects from the existing target pixel files using software such as see [lightkurve Python package](https://docs.lightkurve.org) or [PyKE software tool suite](http://pyke.keplerscience.org).
+
+
+202060164&emsp;&emsp;202060210&emsp;&emsp;202060421&emsp;&emsp;202060813&emsp;&emsp;202065115&emsp;&emsp;202065116<br>
+202065117&emsp;&emsp;202065118&emsp;&emsp;202065119&emsp;&emsp;202065120&emsp;&emsp;202065121&emsp;&emsp;202065122<br>
+202065123&emsp;&emsp;202065124&emsp;&emsp;202065125&emsp;&emsp;202065126&emsp;&emsp;202065127&emsp;&emsp;202065128<br>
+202065129&emsp;&emsp;202065130&emsp;&emsp;202065131&emsp;&emsp;202065132&emsp;&emsp;202065133&emsp;&emsp;202065134<br>
+202065135&emsp;&emsp;202065136&emsp;&emsp;202071440&emsp;&emsp;202071443&emsp;&emsp;202071445&emsp;&emsp;202071446<br>
+202071448&emsp;&emsp;202071450&emsp;&emsp;202072947&emsp;&emsp;202072959&emsp;&emsp;202072962&emsp;&emsp;202072982<br>
+202073036&emsp;&emsp;202073099&emsp;&emsp;202073125&emsp;&emsp;202073136&emsp;&emsp;202073152&emsp;&emsp;202073290<br>
+202073323&emsp;&emsp;202073354&emsp;&emsp;202073360&emsp;&emsp;202073364&emsp;&emsp;202073377&emsp;&emsp;202073415<br>
 
 <br>
+
+
+***Degraded WCS Information***
+
+Due the smaller number of targets, and large pixel-stamp size, in C0 compared to other fields, overall the World Coordinate System (WCS) solution for most channels is not as high-quality as other campaigns. Users should be especially cautious of the WCS information for the following channels (module.output) in C0, which may be inaccurate by up to several pixels / tens of arcseconds: 2 (2.2), 10 (4.2), 28 (9.4), 42 (13.2), 45 (14.1), 49 (15.1), 51 (15.3), 52 (15.4), and 62 (18.2).
+
+The reduced WCS quality compared to other campaigns also applies to the full frame images (FFIs). Notably, the third FFI [https://archive.stsci.edu/missions/k2/ffi/ktwo2014110010101-c00_ffi-cal.fits](https://archive.stsci.edu/missions/k2/ffi/ktwo2014110010101-c00_ffi-cal.fits) has an inaccurate WCS that is off by several pixels / tens of arcseconds. Should users require a more accurate WCS, it is recommended to use the WCS info from the previous CO processing ([DR2](https://keplerscience.arc.nasa.gov/k2-pipeline-release-notes.html#data-release-2); [https://archive.stsci.edu/missions/k2/ffi/old_release_files/ktwo2014110010101-c00_ffi-cal.fits](https://archive.stsci.edu/missions/k2/ffi/old_release_files/ktwo2014110010101-c00_ffi-cal.fits)), which was produced using [astrometry.net](http://nova.astrometry.net).
+
+<br>
+
+
+***Potentially Poor Apertures in Channel 45 (14.1)***
+
+A significant number of targets on channel 45 had sub-optimal apertures selected by the pipeline, and as a result the lightcurve quality will be poorer than other channels. Users with targets on this channel are encouraged to inspect the aperture selected by the pipeline (using the target pixel files) before using the lightcurves for science, and/or select a custom aperture and produce new lightcurves using tools such as the [lightkurve Python package](https://docs.lightkurve.org) or [PyKE software tool suite](http://pyke.keplerscience.org).
+
+<br>
+
+
+***Light Curve Quality***
+
+The 6-hour spacecraft roll cycle dominates the systematic errors in C0 simple aperture photometry light curves. The pipeline CDPP 12th magnitude noise benchmark for C0 is unavailable at the time of this writing, but will added when available. In general PDCSAP_FLUX photometric quality (produced only for the last ~37 days of the campaign) should be comparable to later campaigns.
 
 <hr>
 
