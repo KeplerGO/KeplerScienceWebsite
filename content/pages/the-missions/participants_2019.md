@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 193 conference participants is below (last update: Jan. 7, 2019).
+The current list of 197 conference participants is below (last update: Jan. 10, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * David Ardila, JPL
@@ -60,6 +60,7 @@ The current list of 193 conference participants is below (last update: Jan. 7, 2
 * Dawn Gelino, IPAC/Caltech-NExScI
 * Ryan George, University of Southern California
 * Sankalp Gilda, Institute for Astronomy, University of Hawaii
+* Natalie Gosnell, Colorado College
 * Pierre Gratia, Northwestern University
 * Michael Gully-Santiago, Kepler/K2 Guest Observer Office
 * Akash Gupta, UCLA
@@ -81,6 +82,7 @@ The current list of 193 conference participants is below (last update: Jan. 7, 2
 * Daniel Huber, University of Hawaii
 * Nicole Itumba, Berea College
 * Stephanie Itumba, Berea College
+* Howard Isaacson, UC Berkeley
 * Randall Jackson, JPL/NASA
 * Adil Hakeem Khan, Nation College of Engineering and Technology, India
 * Lochan Khanal, Tribhuvan University
@@ -117,7 +119,6 @@ The current list of 193 conference participants is below (last update: Jan. 7, 2
 * Gijs Mulders, University of Chicago
 * Simon Murphy, University of Sydney
 * Kosuke Namekata, Kyoto University
-* Domenico Nardiello, Universita' degli Studi de Padova
 * James Neff, National Science Foundation
 * Richard Nelson, Queen Mary University of London
 * Srinitha Nimmakayala, Universidad Complutense de Madrid
@@ -168,6 +169,7 @@ The current list of 193 conference participants is below (last update: Jan. 7, 2
 * John Stauffer, Spitzer Science Center
 * Jason Steffen, University of Nevada, Las Vegas
 * Dennis Stello, UNSW Sydney
+* Beate Stelzer, Universitaet Tuebingen
 * Martin Still, NASA
 * Paula Szkody, University of Washington
 * Johanna Teske, Carnegie Observatories	
@@ -191,8 +193,10 @@ The current list of 193 conference participants is below (last update: Jan. 7, 2
 * William Welsh, San Diego State Unversity
 * Timothy White, Australian National University
 * Rob Wittenmyer, University of Southern Queensland
+* Angie Wolfgang, Penn State University
 * Padma Yanamandra-Fisher, Space Science Institute
 * Mitchell Yenawine, San Diego State University
+* Lin Yi, JPL
 * Shangjia Zhang, University of Nevada, Las Vegas
 * Wei Zhu, Canadian Institute for Theoretical Astrophysics
 * Jon Zink, UCLA
