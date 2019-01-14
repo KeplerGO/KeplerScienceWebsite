@@ -1,11 +1,12 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 201 conference participants is below (last update: Jan. 14, 2019).
+The current list of 202 conference participants is below (last update: Jan. 14, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * David Ardila, JPL
 * Robert Baker, Wildwood School
+* Chaise Ballotti, Florida Gulf Coast University
 * Thomas Barclay, NASA Goddard Space Flight Center
 * Geert Barentsen, NASA Ames
 * Thomas Beatty, University of Arizona
