@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 197 conference participants is below (last update: Jan. 10, 2019).
+The current list of 201 conference participants is below (last update: Jan. 14, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * David Ardila, JPL
@@ -21,6 +21,7 @@ The current list of 197 conference participants is below (last update: Jan. 10, 
 * Dominic Bowman, KU Leuven
 * Pat Brennan, JPL/NASA
 * Lisa Bugnet, CEA Saclay
+* Derek Buzasi, Florida Gulf Coast University
 * Sebastiano Calchi Novati, Caltech/IPAC
 * Matteo Cantiello, Flatiron Institute
 * Kenneth Carpenter, NASA Goddard Space Flight Center
@@ -31,14 +32,15 @@ The current list of 197 conference participants is below (last update: Jan. 10, 
 * Ashley Chontos, Institute for Astronomy, University of Hawaii
 * David Ciardi, Caltech/IPAC-NExScI
 * Ann Marie Cody, NASA Ames
-* Lorenzo S. Colombo, Universita degli Studi de Padova
 * Knicole Colon, NASA Goddard Space Flight Center
+* Kyle Conroy, Villanova University
 * Jeffrey Coughlin, SETI Institute/NASA Ames
 * Katia Cunha, Steward Observatory, University of Arizona
 * Jason Curtis, Columbia University
 * Fei Dai, MIT
 * Paul Dalba, UC Riverside
 * Trevor David, JPL
+* Tansu Daylan, MIT
 * Bartlomiej Debski, Astronomical Observatory of the Jagiellonian University
 * Atirath Dhara, West Windsor Plainsboro High School South
 * Georgios Dimitriadis, University of California, Santa Cruz
@@ -59,6 +61,7 @@ The current list of 197 conference participants is below (last update: Jan. 10, 
 * Moses Gbondo, Berea College
 * Dawn Gelino, IPAC/Caltech-NExScI
 * Ryan George, University of Southern California
+* Iskra Georgieva, Chalmers University of Technology
 * Sankalp Gilda, Institute for Astronomy, University of Hawaii
 * Natalie Gosnell, Colorado College
 * Pierre Gratia, Northwestern University
@@ -87,6 +90,7 @@ The current list of 197 conference participants is below (last update: Jan. 10, 
 * Adil Hakeem Khan, Nation College of Engineering and Technology, India
 * Lochan Khanal, Tribhuvan University
 * Irina Kitiashvili, NASA Ames Research Center/BAERI
+* Molly Kosiarek, UC Santa Cruz
 * Alexander Kosovichen, New Jersey Institute of Technology
 * Veselin Kostov, NASA/SETI Institute	
 * Adam Kraus, UT Austin
