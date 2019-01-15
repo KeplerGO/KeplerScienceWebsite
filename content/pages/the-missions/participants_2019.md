@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 203 conference participants is below (last update: Jan. 15, 2019).
+The current list of 208 conference participants is below (last update: Jan. 15, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * David Ardila, JPL
@@ -27,6 +27,7 @@ The current list of 203 conference participants is below (last update: Jan. 15, 
 * Matteo Cantiello, Flatiron Institute
 * Kenneth Carpenter, NASA Goddard Space Flight Center
 * Barbara Castanheira, Baylor University
+* Alexandre Castelari, SETI: Space Quest
 * Heon-Young Chang, Kyungpook National University
 * Jonathan Chauwa, Berea College
 * Alma Ceja, University of California, Riverside
@@ -49,6 +50,7 @@ The current list of 203 conference participants is below (last update: Jan. 15, 
 * Gerry Doyle, Armagh Observatory and Planetarium
 * Lauren Doyle, Armagh Observatory and Planetarium
 * Joann Eisberg, Chaffey College
+* Raissa Estrela, JPL/Caltech
 * Eric Feigelson, Penn State University
 * Tara Fetherolf, Unversity of California, Riverside
 * Dan Foreman-Mackey, Flatiron Institute
@@ -88,6 +90,7 @@ The current list of 203 conference participants is below (last update: Jan. 15, 
 * Stephanie Itumba, Berea College
 * Howard Isaacson, UC Berkeley
 * Randall Jackson, JPL/NASA
+* Daniel Jontoff-Hutter, University of the Pacific
 * Adil Hakeem Khan, Nation College of Engineering and Technology, India
 * Lochan Khanal, Tribhuvan University
 * Irina Kitiashvili, NASA Ames Research Center/BAERI
@@ -145,6 +148,7 @@ The current list of 203 conference participants is below (last update: Jan. 15, 
 * Gavin Ramsay, Armagh Observatory
 * Rabeea Rasheed, ABNP
 * Luisa Rebull, Caltech/IPAC-IRSA
+* Armin Rest, STScI
 * David Rice, University of Nevada, Las Vegas
 * Ryan Ridden-Harper, Australian National University
 * Thalia Rivera, JPL/NASA
@@ -186,6 +190,7 @@ The current list of 203 conference participants is below (last update: Jan. 15, 
 * Otto Trust, Mabarara University of Science and Technology
 * Christopher Tylor, University of Southern Queensland
 * Steve Unwin, Caltech/JPL
+* Adriana Valio, CRAAM-Mackenzie University
 * Vincent Van Eylen, Princeton University
 * Andrew Vanderburg, University of Texas at Austin
 * Laura Venuti, NASA Ames Research Center
