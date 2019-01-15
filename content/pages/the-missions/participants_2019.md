@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 202 conference participants is below (last update: Jan. 14, 2019).
+The current list of 203 conference participants is below (last update: Jan. 15, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * David Ardila, JPL
@@ -169,6 +169,7 @@ The current list of 202 conference participants is below (last update: Jan. 14, 
 * Verne Smith, NOAO
 * Melinda Soares, Princeton University
 * Quentin Socia, San Diego State University
+* David Soderblom, Space Telescope Science Institute
 * Karl Stapelfeldt, JPL/Caltech/NASA
 * Keivan Stassun, Vanderbilt University
 * John Stauffer, Spitzer Science Center
