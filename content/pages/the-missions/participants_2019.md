@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 208 conference participants is below (last update: Jan. 15, 2019).
+The current list of 209 conference participants is below (last update: Jan. 15, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * David Ardila, JPL
@@ -119,6 +119,7 @@ The current list of 208 conference participants is below (last update: Jan. 15, 
 * Andrew Mayo, UC Berkeley
 * Katelynn McCalmont-Everton, Ball Aerospace
 * Bertrand Mennesson, JPL
+* Teo Mocnik, UC Riverside
 * Paul Mooney, Intune.Network
 * Benjamin Montet, University of Chicago
 * Michele Montgomery, University of Central Florida
