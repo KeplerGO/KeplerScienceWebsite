@@ -119,19 +119,13 @@ KEY_INFORMATION = (
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b>15 Jan 2019</b>',
-             'Poster deadline for Kepler & K2 SciCon V',
-             'scicon-2019/index.html'),
          )
 
 # Defines the "meetings" box on the front page
 MEETINGS = (
-            ('<b>6–10 Jan 2019</b><br>'
-             'Kepler/K2 Booth at #AAS233',
-             'https://aas.org/meetings/aas233'),
-            ('<b>10 Jan 2019</b><br>'
-             'Kepler/K2 Special Session at #AAS233',
-             'two-kepler-special-sessions-at-the-winter-aas.html'),
+            ('<b>11-14 Feb 2019</b><br>'
+             'TESS Data Workshop (Baltimore)',
+             'http://www.stsci.edu/institute/conference/tess'),
             ('<b>4-8 Mar 2019</b><br>'
              'Kepler & K2 Sci Con V (Glendale)',
              'scicon-2019/index.html')

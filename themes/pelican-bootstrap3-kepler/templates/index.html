@@ -148,6 +148,7 @@
 </div>
 
 <!-- Important dates panel -->
+{% if IMPORTANT_DATES|length > 1 %}
 <div class="panel panel-default">
   <div class="panel-heading">
     <h4 class="panel-title"><i class="fa fa-calendar fa-lg"></i><span class="icon-label">Important dates</span></h4>
@@ -165,8 +166,10 @@
     </ul>
   </div>
 </div>
+{% endif %}
 
 <!-- Upcoming Meetings panel -->
+{% if MEETINGS|length > 1 %}
 <div class="panel panel-default">
   <div class="panel-heading">
     <h4 class="panel-title"><i class="fa fa-group fa-lg"></i><span class="icon-label">Upcoming meetings</span></h4>
@@ -187,6 +190,7 @@
     </ul>
   </div>
 </div>
+{% endif %}
 
 <!-- Dashboard -->
 <!--
