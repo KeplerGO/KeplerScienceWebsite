@@ -435,8 +435,8 @@ Planet Parameters: Towards Precise Transit Ephemerides for the Benchmark System 
   
  <tr>
   <td>13:30-13:45</td>
-  <td>Domenico Nardiello (Universita degli Studi de Padova)</td>
-  <td>High-precision Photometry of Stars in K2 Crowded Fields - A PSF-based Approach to K2 Data</td>
+  <td>Rodrigo Luger (Flatiron Institute)</td>
+  <td>Gradient-based Inference Techniques for Exoplanet Light Curves</td>
   </tr>
 
  <tr>
