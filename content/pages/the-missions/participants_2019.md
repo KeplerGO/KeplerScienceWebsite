@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 210 conference participants is below (last update: Jan. 15, 2019).
+The current list of 213 conference participants is below (last update: Jan. 17, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * David Ardila, JPL
@@ -68,7 +68,9 @@ The current list of 210 conference participants is below (last update: Jan. 15, 
 * Iskra Georgieva, Chalmers University of Technology
 * Sankalp Gilda, Institute for Astronomy, University of Hawaii
 * Natalie Gosnell, Colorado College
+* Erica Gonzales, University of California, Santa Cruz
 * Pierre Gratia, Northwestern University
+* Samuel Grunblatt, University of Hawaii
 * Michael Gully-Santiago, Kepler/K2 Guest Observer Office
 * Akash Gupta, UCLA
 * Nader Haghighipour, Institute for Astronomy, University of Hawaii
@@ -120,6 +122,7 @@ The current list of 210 conference participants is below (last update: Jan. 15, 
 * Andrew Mayo, UC Berkeley
 * Katelynn McCalmont-Everton, Ball Aerospace
 * Bertrand Mennesson, JPL
+* Sarah Millholland, Yale University
 * Teo Mocnik, UC Riverside
 * Paul Mooney, Intune.Network
 * Benjamin Montet, University of Chicago
