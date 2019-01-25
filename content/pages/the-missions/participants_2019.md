@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 215 conference participants is below (last update: Jan. 18, 2019).
+The current list of 220 conference participants is below (last update: Jan. 25, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * David Ardila, JPL
@@ -52,6 +52,7 @@ The current list of 215 conference participants is below (last update: Jan. 18, 
 * Gerry Doyle, Armagh Observatory and Planetarium
 * Lauren Doyle, Armagh Observatory and Planetarium
 * Joann Eisberg, Chaffey College
+* Michael Endl, University of Texas at Austin
 * Raissa Estrela, JPL/Caltech
 * Eric Feigelson, Penn State University
 * Tara Fetherolf, Unversity of California, Riverside
@@ -94,7 +95,8 @@ The current list of 215 conference participants is below (last update: Jan. 18, 
 * Stephanie Itumba, Berea College
 * Howard Isaacson, UC Berkeley
 * Randall Jackson, JPL/NASA
-* Daniel Jontoff-Hutter, University of the Pacific
+* Daniel Jontof-Hutter, University of the Pacific
+* Stephen Kane, University of California, Riverside
 * Adil Hakeem Khan, Nation College of Engineering and Technology, India
 * Lochan Khanal, Tribhuvan University
 * Irina Kitiashvili, NASA Ames Research Center/BAERI
@@ -110,6 +112,7 @@ The current list of 215 conference participants is below (last update: Jan. 18, 
 * William Latter, NASA HQ
 * Emily Leiner, Northwestern University
 * Min Li, University of Nevada, Las Vegas
+* Zhexing Li, University of California, Riverside
 * Charles Lillie, Lillie Consulting LLC
 * Jorge Lillo-Box, European Southern Observatory
 * Jack Lissauer, NASA Ames
@@ -145,6 +148,7 @@ The current list of 215 conference participants is below (last update: Jan. 18, 
 * Mario Perez, NASA HQ
 * Carina Persson, Chalmers Institute of Technology
 * Geraldine Peters, University of Southern California
+* Larissa Polanco, 
 * Sanson Poon, Queen Mary University of London
 * Benjamin Pope, New York University
 * Franklin Potter, University of California, Irvine (retired)
@@ -182,6 +186,7 @@ The current list of 215 conference participants is below (last update: Jan. 18, 
 * Quentin Socia, San Diego State University
 * David Soderblom, Space Telescope Science Institute
 * Karl Stapelfeldt, JPL/Caltech/NASA
+* Sumner Starrfield, Arizona State University
 * Keivan Stassun, Vanderbilt University
 * John Stauffer, Spitzer Science Center
 * Jason Steffen, University of Nevada, Las Vegas
