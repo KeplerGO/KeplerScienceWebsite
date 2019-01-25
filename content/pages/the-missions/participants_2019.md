@@ -207,7 +207,7 @@ The current list of 215 conference participants is below (last update: Jan. 18, 
 * Sharon Xuesong Wang, Carnegie DTM
 * Ann Wehrle, Space Science Institute
 * Lauren Weiss, University of Hawaii
-* Mark Wells, Penn State Unversity and Villanova
+* Mark Wells, Pennsylvania State Unversity and Villanova University
 * William Welsh, San Diego State Unversity
 * Timothy White, Australian National University
 * Rob Wittenmyer, University of Southern Queensland
