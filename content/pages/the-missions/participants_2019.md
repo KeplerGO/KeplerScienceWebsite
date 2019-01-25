@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 220 conference participants is below (last update: Jan. 25, 2019).
+The current list of 221 conference participants is below (last update: Jan. 25, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * David Ardila, JPL
@@ -43,6 +43,7 @@ The current list of 220 conference participants is below (last update: Jan. 25, 
 * Jason Curtis, Columbia University
 * Fei Dai, MIT
 * Paul Dalba, UC Riverside
+* Lisa Dang, McGill University
 * Trevor David, JPL
 * Tansu Daylan, MIT
 * Bartlomiej Debski, Astronomical Observatory of the Jagiellonian University
