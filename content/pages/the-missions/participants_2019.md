@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 224 conference participants is below (last update: Jan. 28, 2019).
+The current list of 225 conference participants is below (last update: Jan. 28, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * David Ardila, JPL
@@ -57,6 +57,7 @@ The current list of 224 conference participants is below (last update: Jan. 28, 
 * Raissa Estrela, JPL/Caltech
 * Eric Feigelson, Penn State University
 * Tara Fetherolf, Unversity of California, Riverside
+* Jordan Fleming, Unversity of California, Berkeley
 * Dan Foreman-Mackey, Flatiron Institute
 * Andrea Fortier, University of Bern
 * Malcolm Fridlund, Leiden Observatory and Chalmers University of Technology
