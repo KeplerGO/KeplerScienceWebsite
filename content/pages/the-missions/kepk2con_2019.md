@@ -656,7 +656,7 @@ Planet Parameters: Towards Precise Transit Ephemerides for the Benchmark System 
  <tr>
   <td>13:30-15:00</td>
   <td>Sharon Xuesong Wang (Carnegie DTM)</td>
-  <td>Data Hack for RVxK2 
+  <td>Data Hack for RVxK2: Battling Stellar Jitter with Simultaneous K2 Photometry and RVs 
 </td>
 </tr>
 
