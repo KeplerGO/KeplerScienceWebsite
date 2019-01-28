@@ -10,7 +10,7 @@ conference will be take place from March 4-8, 2019 in Glendale,
 California. The meeting will be a celebration of Kepler's 10 years in
 space. 
 
-January 26 Update: At this time the preparations for the conference continue as planned.  We do not currently expect that the recent government shutdown will require the conference to be postponed, but will notify participants if the situation changes.
+January 28 Update: At this time the preparations for the conference continue as planned.  We do not currently expect that the recent government shutdown will require the conference to be postponed, but will notify participants if the situation changes.
 
 <div>
 <img border="1" src='../images/twitter.png' width="30" height="30" style="float: left;">
@@ -44,7 +44,7 @@ href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon</a>).</b>
 	</tr>
 	
   <tr>
-    <td style="width: 9em;">January 15, 2019</td>
+    <td style="width: 9em;">February 5, 2019 (delayed due to government shutdown)</td>
     <td style="width: 20em;"> late deadline to submit abstracts for posters </td>
 	</tr>
 
@@ -111,7 +111,7 @@ fa-download fa-margin"></i> Download the complete conference program
 
 
  <tr>
-  <td style="width:8em;">08:00-08:30</td>
+  <td style="width:8em;">07:30-08:30</td>
  <td style="width:14em;"><font color="orange">Registration</font> </td>
   <td style="width:20em;"></td>
 </tr>
@@ -119,7 +119,7 @@ fa-download fa-margin"></i> Download the complete conference program
 <thead>
 <tr>
   <td> <b><i> </i></b> </td>
-  <td> <b><i>  </i></b> </td>
+  <td> <b><i>Session Chair: Dawn Gelino (Caltech/IPAC-NExScI)</i></b> </td>
   <td><b><i>Session 1: Kepler/K2 Mission History and Future</i></b></td>
 </tr>
 </thead>
@@ -162,7 +162,7 @@ fa-download fa-margin"></i> Download the complete conference program
 <thead>
 <tr>
   <td> <b><i>  </i></b> </td>
-  <td><b><i>  </i></b></td>
+  <td><b><i>Session Chair: Dan Huber (University of Hawaii)</i></b></td>
   <td><b><i>Session 2: Precise Stellar and Planetary Radii </i></b></td>
 </tr>
 </thead>
@@ -213,7 +213,7 @@ Mass-Loss Mechanism: The Radius Valley as a Function of Stellar Mass
 <thead>
 <tr>
   <td> <b><i>  </i></b> </td>
-  <td><b><i>  </i></b></td>
+  <td><b><i>Session Chair: David Ciardi (Caltech/IPAC-NExScI)  </i></b></td>
   <td><b><i>Session 3: Stellar Magnetism and Activity</i></b></td>
 </tr>
 </thead>
@@ -267,7 +267,7 @@ Mass-Loss Mechanism: The Radius Valley as a Function of Stellar Mass
 <thead>
 <tr>
   <td> <b><i>  </i></b> </td>
-  <td><b><i>  </i></b></td>
+  <td><b><i>Sessin Chair:   </i></b></td>
   <td><b><i>Session 4: Exoplanet Occurrence Rates</i></b></td>
 </tr>
 </thead>
@@ -333,7 +333,7 @@ Mass-Loss Mechanism: The Radius Valley as a Function of Stellar Mass
 <thead>
 <tr>
   <td> <b><i>  </i></b> </td>
-  <td><b><i>  </i></b></td>
+  <td><b><i>Session Chair: Courtney Dressing (UC Berkeley)</i></b></td>
   <td><b><i>Session 1: Kepler Benchmark Systems</i></b></td>
 </tr>
 </thead>
@@ -430,7 +430,7 @@ Planet Parameters: Towards Precise Transit Ephemerides for the Benchmark System 
 <thead>
 <tr>
   <td> <b><i>  </i></b> </td>
-  <td><b><i> </i></b></td>
+  <td><b><i>Session Chair: Steve Howell (NASA Ames) </i></b></td>
   <td><b><i>Session 3: Microlensing and Accretion Physics</i></b></td>
 </tr>
 </thead>
@@ -479,7 +479,7 @@ Planet Parameters: Towards Precise Transit Ephemerides for the Benchmark System 
 <thead>
 <tr>
   <td> <b><i>  </i></b> </td>
-  <td><b><i>  </i></b></td>
+  <td><b><i>Session Chair: Michael Gully-Santiago (NASA Ames)</i></b></td>
   <td><b><i>Session 4: Extragalactic Science</i></b></td>
 </tr>
 </thead>
@@ -549,7 +549,7 @@ Planet Parameters: Towards Precise Transit Ephemerides for the Benchmark System 
 <thead>
 <tr>
   <td> <b><i>  </i></b> </td>
-  <td><b><i> </i></b></td>
+  <td><b><i>Session Chair: Katrien Kolenberg (KU Leuven) </i></b></td>
   <td><b><i>Session 1: Galactic Archaeology</i></b></td>
 </tr>
 </thead>
@@ -597,7 +597,7 @@ Planet Parameters: Towards Precise Transit Ephemerides for the Benchmark System 
 <thead>
 <tr>
   <td> <b><i>  </i></b> </td>
-  <td><b><i>   </i></b></td>
+  <td><b><i>Session Chair: Andrew Howard (Caltech) </i></b></td>
   <td><b><i>Session 2: Binaries, Exoplanets, and Citizen Science</i></b></td>
 </tr>
 </thead>
@@ -655,9 +655,15 @@ Planet Parameters: Towards Precise Transit Ephemerides for the Benchmark System 
 
  <tr>
   <td>13:30-15:00</td>
+  <td>Sharon Xuesong Wang (Carnegie DTM)</td>
+  <td>Data Hack for RVxK2 
+</td>
+</tr>
+
+ <tr>
+  <td>13:30-15:00</td>
   <td>Geert Barentsen (NASA Ames) and Christina Hedges (NASA Ames)</td>
-  <td>The Lightkurve package for Kepler & TESS 
-data analysis: tutorials and consulting breakout 
+  <td>The Lightkurve package for Kepler & TESS data analysis: tutorials and consulting breakout 
 </td>
 </tr>
 
@@ -696,6 +702,13 @@ data analysis: tutorials and consulting breakout
 
  <tr>
   <td>15:30-17:00</td>
+  <td>Tom Barclay (Univ. of Maryland)</td>
+  <td>Community Data Products and Early Science from the TESS Mission
+
+</tr>
+
+<tr>
+  <td>15:30-17:00</td>
   <td>Lee Rosenthal (Caltech)</td>
   <td>RadVel: The Radial Velocity Fitting Toolkit</td>
 </tr>
@@ -728,7 +741,7 @@ data analysis: tutorials and consulting breakout
 <thead>
 <tr>
   <td> <b><i> </i></b> </td>
-  <td><b><i>  </i></b></td>
+  <td><b><i>Session Chair: Ann Marie Cody (NASA Ames)</i></b></td>
   <td><b><i>Session 1: Stellar Rotation and Gyrochronology</i></b></td>
 </tr>
 </thead>
@@ -778,7 +791,7 @@ data analysis: tutorials and consulting breakout
 <thead>
 <tr>
   <td> <b><i>  </i></b> </td>
-  <td><b><i>   </i></b></td>
+  <td><b><i>Session Chair: Matthew Holman (Harvard-Smithsonian CfA)</i></b></td>
   <td><b><i>Session 2: Exoplanets Over Time</i></b></td>
 </tr>
 </thead>
@@ -826,7 +839,7 @@ data analysis: tutorials and consulting breakout
 <thead>
 <tr>
   <td> <b><i>  </i></b> </td>
-  <td><b><i>  </i></b></td>
+  <td><b><i>Session Chair: Savita Mathur (Instituto de Astrofisica de Canarias)</i></b></td>
   <td><b><i>Session 3: Fundamental Stellar Parameters</i></b></td>
 </tr>
 </thead>
@@ -875,7 +888,7 @@ data analysis: tutorials and consulting breakout
 <thead>
 <tr>
   <td> <b><i>  </i></b> </td>
-  <td><b><i>  </i></b></td>
+  <td><b><i> Session Chair: Eric Mamajek (JPL/NASA) </i></b></td>
   <td><b><i>Session 4: Planetary Architectures</i></b></td>
 </tr>
 </thead>
@@ -946,7 +959,7 @@ data analysis: tutorials and consulting breakout
 <thead>
 <tr>
   <td> <b><i>  </i></b> </td>
-  <td><b><i>  </i></b></td>
+  <td><b><i>Session Chair: Dennis Stello (UNSW Sydney)</i></b></td>
   <td><b><i>Session 1: Internal Rotation and Asteroseismology</i></b></td>
 </tr>
 </thead>
@@ -995,7 +1008,7 @@ data analysis: tutorials and consulting breakout
 <thead>
 <tr>
   <td> <b><i>  </i></b> </td>
-  <td><b><i>  </i></b></td>
+  <td><b><i>Session Chair: Christina Hedges (Kepler/K2 Guest Observers Office)  </i></b></td>
   <td><b><i>Session 2: Kepler/K2 Follow-Up Programs</i></b></td>
 </tr>
 </thead>
@@ -1061,7 +1074,7 @@ data analysis: tutorials and consulting breakout
 <thead>
 <tr>
   <td> <b><i>  </i></b> </td>
-  <td><b><i>  </i></b></td>
+  <td><b><i> Session Chair: Tom Barclay (Univ. of Maryland) </i></b></td>
   <td><b><i>Session 3: Solar System Science, Other Missions, and Reflections</i></b></td>
 </tr>
 </thead>
@@ -1117,7 +1130,7 @@ Note that the projectors can handle both 16:9 and 4:3 format. Presenters should 
 
 All posters must be approved by the SOC – no late or extra posters are allowed due to space limitations.
 
-Posters should be no larger than 42'' x 42'' (106 cm x 106 cm). Poster numbers will be placed in the upper corner of each poster board. Poster numbers will be assigned after January 15, 2019, the final deadline to submit poster abstracts. 
+Posters should be no larger than 42'' x 42'' (106 cm x 106 cm). Poster numbers will be placed in the upper corner of each poster board. Poster numbers will be assigned after February 5, 2019, the final deadline to submit poster abstracts. 
 
 All posters will be up for the entire duration of the meeting. Posters can be mounted starting at 8:00 AM PST on Monday, March 4 and should be taken down by 4:00 PM PST Friday, March 8.
 
