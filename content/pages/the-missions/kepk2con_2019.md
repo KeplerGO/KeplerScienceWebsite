@@ -791,7 +791,7 @@ Planet Parameters: Towards Precise Transit Ephemerides for the Benchmark System 
 <thead>
 <tr>
   <td> <b><i>  </i></b> </td>
-  <td><b><i>Session Chair: Matthew Holman (Harvard-Smithsonian CfA)</i></b></td>
+  <td><b><i>Session Chair: Matthew Holman (Harvard University)</i></b></td>
   <td><b><i>Session 2: Exoplanets Over Time</i></b></td>
 </tr>
 </thead>
