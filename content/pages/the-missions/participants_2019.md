@@ -86,7 +86,7 @@ The current list of 224 conference participants is below (last update: Jan. 28, 
 * Miranda Herman, University of Toronto
 * JJ Hermes, University of North Carolina/Boston University	
 * Michelle Hill, University of California, Riverside
-* Matthew Holman, Harvard-Smithsonian Center for Astrophysics
+* Matthew Holman, Harvard University
 * Jonti Horner, University of Southern Queensland
 * Andrew Howard, Caltech	
 * Steve Howell, NASA Ames Research Center
