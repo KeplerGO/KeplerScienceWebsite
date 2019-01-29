@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 237 conference participants is below (last update: Jan. 29, 2019).
+The current list of 253 conference participants is below (last update: Jan. 29, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * Ruth Angus, AMNH
@@ -63,6 +63,7 @@ The current list of 237 conference participants is below (last update: Jan. 29, 
 * Lauren Doyle, Armagh Observatory and Planetarium
 * Courtney Dressing, Unversity of California, Berkeley
 * Joann Eisberg, Chaffey College
+* Barbara Endl, Baylor University
 * Michael Endl, University of Texas at Austin
 * Raissa Estrela, JPL/Caltech
 * Eric Feigelson, Penn State University
@@ -73,6 +74,7 @@ The current list of 237 conference participants is below (last update: Jan. 29, 
 * Malcolm Fridlund, Leiden Observatory and Chalmers University of Technology
 * Maura Fujieh, NASA Ames Research Center
 * Jim Fuller, Caltech
+* BJ Fulton, Caltech/IPAC-NExScI
 * Elise Furlan, Caltech/IPAC-NExScI
 * Eric Gaidos, University of Hawaii at Manoa
 * Abhinav Ganesh, California Institute of Technology
@@ -86,6 +88,7 @@ The current list of 237 conference participants is below (last update: Jan. 29, 
 * Natalie Gosnell, Colorado College
 * Erica Gonzales, University of California, Santa Cruz
 * Pierre Gratia, Northwestern University
+* Michael Greklek-McKeon, University of Maryland, College Park
 * Samuel Grunblatt, University of Hawaii
 * Michael Gully-Santiago, Kepler/K2 Guest Observer Office
 * Akash Gupta, UCLA
@@ -96,9 +99,11 @@ The current list of 237 conference participants is below (last update: Jan. 29, 
 * Christina Hedges, Kepler/K2 Guest Observers Office	
 * Calen Henderson, Caltech/IPAC
 * Miranda Herman, University of Toronto
-* JJ Hermes, University of North Carolina/Boston University	
+* JJ Hermes, Boston University	
+* Nicole Hess, Southern Connecticut State University
 * Michelle Hill, University of California, Riverside
 * Matthew Holman, Harvard University
+* Thomas Holoien, Carnegie Observatories
 * Jonti Horner, University of Southern Queensland
 * Andrew Howard, Caltech	
 * Steve Howell, NASA Ames Research Center
@@ -130,6 +135,7 @@ The current list of 237 conference participants is below (last update: Jan. 29, 
 * Zhexing Li, University of California, Riverside
 * Charles Lillie, Lillie Consulting LLC
 * Jorge Lillo-Box, European Southern Observatory
+* Chris Lintott, University of Oxford
 * Jack Lissauer, NASA Ames
 * Colin Littlefield, University of Notre Dame
 * Rodrigo Luger, Flatiron Institute
@@ -139,6 +145,7 @@ The current list of 237 conference participants is below (last update: Jan. 29, 
 * Andrew Mann, University of North Carolina at Chapel Hill
 * Cintia Fernanda Martinez, Observatorio Nacional
 * Savita Mathur, Instituto de Astrofisica de Canarias
+* Rachel Matson, NASA Ames
 * Andrew Mayo, UC Berkeley
 * Katelynn McCalmont-Everton, Ball Aerospace
 * Bertrand Mennesson, JPL
@@ -164,7 +171,9 @@ The current list of 237 conference participants is below (last update: Jan. 29, 
 * Mario Perez, NASA HQ
 * Carina Persson, Chalmers Institute of Technology
 * Geraldine Peters, University of Southern California
-* Larissa Polanco, 
+* Erik Petigura, Caltech
+* Marc Pinsonneault, Ohio State University
+* Radek Poleski, Ohio State University
 * Sanson Poon, Queen Mary University of London
 * Benjamin Pope, New York University
 * Franklin Potter, University of California, Irvine (retired)
@@ -175,19 +184,23 @@ The current list of 237 conference participants is below (last update: Jan. 29, 
 * Gavin Ramsay, Armagh Observatory
 * Rabeea Rasheed, ABNP
 * Luisa Rebull, Caltech/IPAC-IRSA
+* Joshua Reding, University of North Carolina at Chapel Hill
 * Armin Rest, STScI
 * David Rice, University of Nevada, Las Vegas
+* George Ricker, MIT
 * Ryan Ridden-Harper, Australian National University
 * Thalia Rivera, JPL/NASA
 * Vanessa Rivodo Rodriguez, University of Central Florida
 * Aaron Rizzuto, University of Texas, Austin
 * Kai Rodenbeck, Institute for Astrophysics Göttingen
+* Joey Rodriguez, Harvard Smithsonian Center for Astronomy
 * James Rogers, Imperial College London
 * Lee Rosenthal, Caltech
 * Jason Rowe, Bishop's University
 * Ryan Rubenzahl, Caltech
 * Arielle Samuelson, JPL/NASA
 * Alexandre Santiago Castelari, SETI: Space Quest
+* Angela Santos, Space Science Institute
 * Nicholas Saunders, Kepler/K2 Guest Observer Office, NASA Ames
 * Everett Schlawin, University of Arizona
 * Hilke Schlichting, UCLA
@@ -198,6 +211,7 @@ The current list of 237 conference participants is below (last update: Jan. 29, 
 * Edward Shaya, University of Maryland
 * Kendra Short, NASA/JPL
 * Raghubar Singh, Indian Institute of Astrophysics
+* Krista Smith, Stanford University
 * Verne Smith, NOAO
 * Melinda Soares, Princeton University
 * Quentin Socia, San Diego State University
@@ -210,6 +224,7 @@ The current list of 237 conference participants is below (last update: Jan. 29, 
 * Dennis Stello, UNSW Sydney
 * Beate Stelzer, Universitaet Tuebingen
 * Martin Still, NASA
+* Peter Swanton, Australian National University
 * Paula Szkody, University of Washington
 * Johanna Teske, Carnegie Observatories	
 * Alexander Thompson, University of Dallas
@@ -240,3 +255,4 @@ The current list of 237 conference participants is below (last update: Jan. 29, 
 * Shangjia Zhang, University of Nevada, Las Vegas
 * Wei Zhu, Canadian Institute for Theoretical Astrophysics
 * Jon Zink, UCLA
+* Joel Zinn, Ohio State University
