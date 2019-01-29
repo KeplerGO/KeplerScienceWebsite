@@ -1,12 +1,13 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 227 conference participants is below (last update: Jan. 28, 2019).
+The current list of 237 conference participants is below (last update: Jan. 29, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * Ruth Angus, AMNH
 * David Ardila, JPL
 * Robert Baker, Wildwood School
+* Sarah Ballard, Massachusetts Institute of Technology
 * Chaise Ballotti, Florida Gulf Coast University
 * Thomas Barclay, NASA Goddard Space Flight Center
 * Geert Barentsen, NASA Ames
@@ -21,11 +22,13 @@ The current list of 227 conference participants is below (last update: Jan. 28, 
 * Anya Biferno, JPL/NASA
 * Gary Blackwood, NASA/JPL
 * John Boisvert, UNLV
+* Bill Borucki, NASA Ames
 * Dominic Bowman, KU Leuven
 * Pat Brennan, JPL/NASA
 * Lisa Bugnet, CEA Saclay
 * Derek Buzasi, Florida Gulf Coast University
 * Sebastiano Calchi Novati, Caltech/IPAC
+* Douglas Caldwell, SETI Institute
 * Matteo Cantiello, Flatiron Institute
 * Theron Carmichael, Harvard University
 * Kenneth Carpenter, NASA Goddard Space Flight Center
@@ -36,11 +39,13 @@ The current list of 227 conference participants is below (last update: Jan. 28, 
 * Alma Ceja, University of California, Riverside
 * Anna Childs, University of Nevada, Las Vegas
 * Ashley Chontos, Institute for Astronomy, University of Hawaii
+* Jessie Christiansen, IPAC/Caltech-NExScI
 * David Ciardi, Caltech/IPAC-NExScI
 * Ann Marie Cody, NASA Ames
 * Knicole Colon, NASA Goddard Space Flight Center
 * Kyle Conroy, Villanova University
 * Jeffrey Coughlin, SETI Institute/NASA Ames
+* Ian Crossfield, MIT
 * Katia Cunha, Steward Observatory, University of Arizona
 * Jason Curtis, Columbia University
 * Fei Dai, MIT
@@ -50,10 +55,13 @@ The current list of 227 conference participants is below (last update: Jan. 28, 
 * Tansu Daylan, MIT
 * Bartlomiej Debski, Astronomical Observatory of the Jagiellonian University
 * Atirath Dhara, West Windsor Plainsboro High School South
+* Shashank Dholakia, Unversity of California, Berkeley
+* Shishir Dholakia, Unversity of California, Berkeley
 * Georgios Dimitriadis, University of California, Santa Cruz
 * Jessie Dotson, NASA Ames Research Center
 * Gerry Doyle, Armagh Observatory and Planetarium
 * Lauren Doyle, Armagh Observatory and Planetarium
+* Courtney Dressing, Unversity of California, Berkeley
 * Joann Eisberg, Chaffey College
 * Michael Endl, University of Texas at Austin
 * Raissa Estrela, JPL/Caltech
@@ -67,6 +75,7 @@ The current list of 227 conference participants is below (last update: Jan. 28, 
 * Jim Fuller, Caltech
 * Elise Furlan, Caltech/IPAC-NExScI
 * Eric Gaidos, University of Hawaii at Manoa
+* Abhinav Ganesh, California Institute of Technology
 * Rafael A. Garcia, CEA Saclay
 * Patrick Gaulme, Max Planck Insitute for Solar System Research
 * Moses Gbondo, Berea College
@@ -123,6 +132,7 @@ The current list of 227 conference participants is below (last update: Jan. 28, 
 * Jorge Lillo-Box, European Southern Observatory
 * Jack Lissauer, NASA Ames
 * Colin Littlefield, University of Notre Dame
+* Rodrigo Luger, Flatiron Institute
 * Mia Sloth Lundkvist, Aarhus University
 * Eric Mamajek, JPL/NASA
 * Marima Mambondiumwe, Berea College
