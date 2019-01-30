@@ -662,7 +662,7 @@ Planet Parameters: Towards Precise Transit Ephemerides for the Benchmark System 
 
  <tr>
   <td>13:30-15:00</td>
-  <td>Geert Barentsen (NASA Ames) and Christina Hedges (NASA Ames)</td>
+  <td>Christina Hedges (NASA Ames)</td>
   <td>The Lightkurve package for Kepler & TESS data analysis: tutorials and consulting breakout 
 </td>
 </tr>
