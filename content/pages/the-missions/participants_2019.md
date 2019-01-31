@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 253 conference participants is below (last update: Jan. 29, 2019).
+The current list of 255 conference participants is below (last update: Jan. 29, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * Ruth Angus, AMNH
@@ -41,6 +41,7 @@ The current list of 253 conference participants is below (last update: Jan. 29, 
 * Ashley Chontos, Institute for Astronomy, University of Hawaii
 * Jessie Christiansen, IPAC/Caltech-NExScI
 * David Ciardi, Caltech/IPAC-NExScI
+* Bruce Clarke, SETI Institute/NASA Ames
 * Ann Marie Cody, NASA Ames
 * Knicole Colon, NASA Goddard Space Flight Center
 * Kyle Conroy, Villanova University
@@ -149,6 +150,7 @@ The current list of 253 conference participants is below (last update: Jan. 29, 
 * Andrew Mayo, UC Berkeley
 * Katelynn McCalmont-Everton, Ball Aerospace
 * Bertrand Mennesson, JPL
+* Kenneth Mighell, NOAO
 * Basil Miller, Henderson State University
 * Sarah Millholland, Yale University
 * Teo Mocnik, UC Riverside
