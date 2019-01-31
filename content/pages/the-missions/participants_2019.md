@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 255 conference participants is below (last update: Jan. 29, 2019).
+The current list of 256 conference participants is below (last update: Jan. 29, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * Ruth Angus, AMNH
@@ -235,6 +235,7 @@ The current list of 255 conference participants is below (last update: Jan. 29, 
 * Gagik Tovmassian, Institute of Astronomy, UNAM
 * Otto Trust, Mabarara University of Science and Technology
 * Christopher Tylor, University of Southern Queensland
+* Kamal Uddin, NASA Ames
 * Steve Unwin, Caltech/JPL
 * Adriana Valio, CRAAM-Mackenzie University
 * Vincent Van Eylen, Princeton University
