@@ -74,7 +74,7 @@ Judges will rank posters of conference participants who agreed to enter the comp
 
 Abstracts for posters only can be submitted 
 <a href='https://catcopy.ipac.caltech.edu/ksc2019/abstract.php'>here
-until the late poster only deadline of Jan. 15, 2019</a>.  Abstracts for oral presentations and breakout sessions were due by the Nov. 15 deadline.  
+until the late poster only deadline of Feb. 5, 2019</a>.  Abstracts for oral presentations and breakout sessions were due by the Nov. 15 deadline.  
 
 Note that Wednesday afternoon (March 6) is set aside for breakout sessions to enable the community to discuss and work on Kepler/K2 related projects.
 We envision these sessions will be more hands on, unconference sessions of broad interest to the community.
