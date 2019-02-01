@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 256 conference participants is below (last update: Jan. 29, 2019).
+The current list of 259 conference participants is below (last update: Jan. 29, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * Ruth Angus, AMNH
@@ -63,6 +63,7 @@ The current list of 256 conference participants is below (last update: Jan. 29, 
 * Gerry Doyle, Armagh Observatory and Planetarium
 * Lauren Doyle, Armagh Observatory and Planetarium
 * Courtney Dressing, Unversity of California, Berkeley
+* Rajesh Kumar Dubey, Institute of Advanced Physics
 * Joann Eisberg, Chaffey College
 * Barbara Endl, Baylor University
 * Michael Endl, University of Texas at Austin
@@ -227,8 +228,10 @@ The current list of 256 conference participants is below (last update: Jan. 29, 
 * Beate Stelzer, Universitaet Tuebingen
 * Martin Still, NASA
 * Peter Swanton, Australian National University
+* Robert Szabo, MTA CSFK, Konkoly Observatory
 * Paula Szkody, University of Washington
 * Johanna Teske, Carnegie Observatories	
+* Pa Chia Thao, UNC Chapel Hill
 * Alexander Thompson, University of Dallas
 * Addisu Tigabu, University of Debrecen
 * Guillermo Torres, Harvard-Smithsonian Center for Astrophysics
