@@ -60,6 +60,13 @@ href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon</a>).</b>
 	
 </table>
 
+### Breakout Sessions
+
+Wednesday afternoon will be devoted to breakout sessions, descriptions of which can be found 
+<a href='breakouts.html'>here</a>.
+
+Note that some strongly suggest downloading software and data before the session since wifi during the conference is not designed for large data downloads.  You will be able to sign up for the breakout sessions at registration.</p>
+
 ### Registration
 
 There is no registration fee for this conference,
