@@ -274,7 +274,7 @@ Mass-Loss Mechanism: The Radius Valley as a Function of Stellar Mass
 <thead>
 <tr>
   <td> <b><i>  </i></b> </td>
-  <td><b><i>Sessin Chair:   </i></b></td>
+  <td><b><i>Session Chair:   </i></b></td>
   <td><b><i>Session 4: Exoplanet Occurrence Rates</i></b></td>
 </tr>
 </thead>
@@ -387,7 +387,7 @@ Mass-Loss Mechanism: The Radius Valley as a Function of Stellar Mass
 <thead>
 <tr>
   <td> <b><i>  </i></b> </td>
-  <td><b><i>  </i></b></td>
+  <td><b><i>Session Chair: Jessie Dotson (NASA Ames)</i></b></td>
   <td><b><i>Session 2: K2 Benchmark Systems</i></b></td>
 </tr>
 </thead>
@@ -1209,7 +1209,7 @@ If you have concerns, suggestions, or would like to report a violation, please c
 ### Scientific Organizing Committee
 
 * Knicole Colón, NASA Goddard Space Flight Center (co-Chair)
-* JJ Hermes, University of North Carolina at Chapel Hill (co-Chair)
+* JJ Hermes, Boston University (co-Chair)
 * Suzanne Aigrain, University of Oxford
 * Geert Barentsen, NASA Ames Research Center
 * David Ciardi, Caltech/IPAC-NASA Exoplanet Science Institute
