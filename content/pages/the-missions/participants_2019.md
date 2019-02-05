@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 259 conference participants is below (last update: Feb. 5, 2019).
+The current list of 258 conference participants is below (last update: Feb. 5, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * Ruth Angus, AMNH
@@ -15,7 +15,6 @@ The current list of 259 conference participants is below (last update: Feb. 5, 2
 * Thomas Beatty, University of Arizona
 * Juliette Becker, Unviersity of Michigan
 * Charles Beichman, Caltech/IPAC-NExScI
-* Othman Benomar, NYU Abu Dhabi
 * Travis Berger, University of Hawaii at Manoa
 * Sylvie Bernstein, McGill University
 * Allyson Bieryla, Harvard-Smithsonian Center for Astrophysics
