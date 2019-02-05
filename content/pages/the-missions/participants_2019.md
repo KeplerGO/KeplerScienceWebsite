@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 260 conference participants is below (last update: Feb. 4, 2019).
+The current list of 259 conference participants is below (last update: Feb. 5, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * Ruth Angus, AMNH
@@ -166,7 +166,6 @@ The current list of 260 conference participants is below (last update: Feb. 4, 2
 * Richard Nelson, Queen Mary University of London
 * Srinitha Nimmakayala, Universidad Complutense de Madrid
 * Richard Olenick, University of Dallas
-* Jacob Oloketuyi, Yunnan Astronomical Observatories, Chinese Academy of Sciences
 * Tannaz Oskui, CSULA/UCLA
 * Enric Palle, Instituto de Astrofisica de Canarias
 * Rishi Paudel, University of Delaware
