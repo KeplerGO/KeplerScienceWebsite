@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 260 conference participants is below (last update: Jan. 29, 2019).
+The current list of 260 conference participants is below (last update: Feb. 4, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * Ruth Angus, AMNH
