@@ -48,7 +48,7 @@ Descriptions of all the Wednesday afternoon breakout sessions are included below
 </tr>
 <tr>
 <td style="width: 20em;"><a href="#barclay">Community Data Products and Early Science from the TESS Mission</a></td>
-<td style="width: 12em;">Tom Barclay (Univ. of Maryland)</td>
+<td style="width: 12em;">Tom Barclay (Univ. of Maryland) & Knicole Colon (NASA GSFC) </td>
 <td style="width: 9em;">Room: </td>
 </tr>
 <tr>
@@ -91,7 +91,7 @@ Descriptions of all the Wednesday afternoon breakout sessions are included below
 <p><b>Attendee needs:</b> </p>
 <h3 id="barclay">Community Data Products and Early Science from the TESS Mission</h3>
 <p>Since beginning science operations in July 2018, TESS is poised to provide a wealth of data on a wide variety of astrophysical objects, ranging from solar system bodies to exoplanets to stars to galaxies. We will provide an overview and update on data products and toolkits available for use by the broader community to enable TESS data analysis. These products and toolkits are supported by both active members of the community and the TESS Guest Investigator Program Office. We will also highlight early science results produced by the community, based on the first few months of TESS data.</p>
-<p><b>Attendee needs:</b> </p>
+<p><b>Attendee needs:</b> none </p>
 <h3 id="rosenthal">RadVel: The Radial Velocity Fitting Toolkit</h3>
 <p>This tutorial will demonstrate the use of the RadVel Python package to characterize Keplerian orbits of transit-detected planetary systems with radial velocity (RV) data. RadVel can model multi-planet, multi-instrument datasets, while incorporating constraints such as transit ephemerides and secondary eclipse times. It includes several built-in Gaussian process kernels for the treatment of stellar activity, and employs MCMC and Bayesian modeling techniques to precisely determine the posterior distributions of planetary properties. Demonstrations will include how to use RadVel in conjunction with RV, Kepler, and K2 data, to better characterize the masses and orbits of transiting planets. An associated software package, rvsearch, will also be introduced.  Rvsearch is currently under development and can be used for blind RV planet detection in conjunction with RadVel. Rvsearch combines the Bayesian methods and Keplerian fitting tools of RadVel with a periodogram-based algorithm to search for planets in RV datasets, iteratively accepting potential planetary signals until they fail to surpass an empirically calculated threshold for goodness-of-fit. To learn more about RadVel, visit radvel.readthedocs.io.</p>
 <p><b>Attendee needs:</b> laptop</p>

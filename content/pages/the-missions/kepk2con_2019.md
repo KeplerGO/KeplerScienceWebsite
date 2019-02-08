@@ -60,13 +60,6 @@ href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon</a>).</b>
 	
 </table>
 
-### Breakout Sessions
-
-Wednesday afternoon will be devoted to breakout sessions, descriptions of which can be found 
-<a href='breakouts.html'>here</a>.
-
-Note that some strongly suggest downloading software and data before the session since wifi during the conference is not designed for large data downloads.  You will be able to sign up for the breakout sessions at registration.</p>
-
 ### Registration
 
 There is no registration fee for this conference,
@@ -87,13 +80,23 @@ Note that Wednesday afternoon (March 6) is set aside for breakout sessions to en
 We envision these sessions will be more hands on, unconference sessions of broad interest to the community.
 Examples of breakout sessions include panel discussions, hack activities, work meetings of large collaborations, or tutorials to use data/software products related to Kepler/K2.
 
+### Breakout Sessions
+
+Wednesday afternoon will be devoted to breakout sessions, descriptions of which can be found 
+<a href='breakouts.html'>here</a>.
+
+Note that some strongly suggest downloading software and data before the session since wifi during the conference is not designed for large data downloads.  You will be able to sign up for the breakout sessions at registration.</p>
+
 ### Conference Agenda
 
-<b> <a href="../data/Kepler-K2-Science-Program-With-Abstracts-v1.pdf"><i class="fa
+<b> <a href="../data/Kepler-K2-Science-Program-Block-v2.pdf"><i class="fa
+fa-download fa-margin"></i> Download the block schedule of the conference program in PDF format.</a> </b>
+
+<b> <a href="../data/Kepler-K2-Science-Program-With-Abstracts-v2.pdf"><i class="fa
 fa-download fa-margin"></i> Download the complete conference program
 (all talks and posters, with abstracts) in PDF format.</a> </b>
 
-<b> <a href="../data/Kepler-K2-Science-Program-Without-Abstracts-v1.pdf"><i class="fa
+<b> <a href="../data/Kepler-K2-Science-Program-Without-Abstracts-v2.pdf"><i class="fa
 fa-download fa-margin"></i> Download the complete conference program
 (all talks and posters, without abstracts) in PDF format.</a> </b>
 
@@ -274,7 +277,7 @@ Mass-Loss Mechanism: The Radius Valley as a Function of Stellar Mass
 <thead>
 <tr>
   <td> <b><i>  </i></b> </td>
-  <td><b><i>Session Chair:   </i></b></td>
+  <td><b><i>Session Chair: Jessie Christiansen (Caltech/IPAC-NExScI) </i></b></td>
   <td><b><i>Session 4: Exoplanet Occurrence Rates</i></b></td>
 </tr>
 </thead>
@@ -438,7 +441,7 @@ Planet Parameters: Towards Precise Transit Ephemerides for the Benchmark System 
 <tr>
   <td> <b><i>  </i></b> </td>
   <td><b><i>Session Chair: Steve Howell (NASA Ames) </i></b></td>
-  <td><b><i>Session 3: Microlensing and Accretion Physics</i></b></td>
+  <td><b><i>Session 3: Methods, Microlensing, and Accretion Physics</i></b></td>
 </tr>
 </thead>
   
