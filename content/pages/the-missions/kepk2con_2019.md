@@ -10,7 +10,7 @@ conference will be take place from March 4-8, 2019 in Glendale,
 California. The meeting will be a celebration of Kepler's 10 years in
 space. 
 
-January 28 Update: At this time the preparations for the conference continue as planned.  We do not currently expect that the recent government shutdown will require the conference to be postponed, but will notify participants if the situation changes.
+<b>February 11 Update</b>: At this time the preparations for the conference continue as planned. We do not currently expect that a government shutdown will require the conference to be postponed, but will notify participants if the situation changes.
 
 <div>
 <img border="1" src='../images/twitter.png' width="30" height="30" style="float: left;">
