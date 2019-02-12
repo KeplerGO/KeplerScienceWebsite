@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 261 conference participants is below (last update: Feb. 12, 2019).
+The current list of 260 conference participants is below (last update: Feb. 12, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * Ruth Angus, AMNH
@@ -123,7 +123,6 @@ The current list of 261 conference participants is below (last update: Feb. 12, 
 * Lochan Khanal, Tribhuvan University
 * Irina Kitiashvili, NASA Ames Research Center/BAERI
 * Katrien Kolenberg, KU Leuven
-* Molly Kosiarek, UC Santa Cruz
 * Alexander Kosovichen, New Jersey Institute of Technology
 * Veselin Kostov, NASA/SETI Institute	
 * Adam Kraus, UT Austin
