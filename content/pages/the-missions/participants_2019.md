@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 258 conference participants is below (last update: Feb. 5, 2019).
+The current list of 261 conference participants is below (last update: Feb. 12, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * Ruth Angus, AMNH
@@ -23,6 +23,7 @@ The current list of 258 conference participants is below (last update: Feb. 5, 2
 * John Boisvert, UNLV
 * Bill Borucki, NASA Ames
 * Dominic Bowman, KU Leuven
+* Padi Boyd, NASA GSFC
 * Pat Brennan, JPL/NASA
 * Lisa Bugnet, CEA Saclay
 * Derek Buzasi, Florida Gulf Coast University
@@ -117,6 +118,7 @@ The current list of 258 conference participants is below (last update: Feb. 5, 2
 * Randall Jackson, JPL/NASA
 * Daniel Jontof-Hutter, University of the Pacific
 * Stephen Kane, University of California, Riverside
+* Steven Kawaler, Iowa State University
 * Adil Hakeem Khan, Nation College of Engineering and Technology, India
 * Lochan Khanal, Tribhuvan University
 * Irina Kitiashvili, NASA Ames Research Center/BAERI
@@ -177,6 +179,7 @@ The current list of 258 conference participants is below (last update: Feb. 5, 2
 * Sanson Poon, Queen Mary University of London
 * Benjamin Pope, New York University
 * Franklin Potter, University of California, Irvine (retired)
+* Heather Preston, Calusa Nature Center & Planetarium
 * Andrej Prsa, Villanova University
 * Elisa Quintana, NASA Goddard Space Flight Center
 * Andreas Quirrenbach, Univ. Heidelberg
@@ -208,6 +211,7 @@ The current list of 258 conference participants is below (last update: Feb. 5, 2
 * Nic Scott, NASA ARC/BAERI
 * Marko Sestovic, Centre for Space and Habitability, University of Bern
 * Christopher Shallue, Google Brain
+* Shambhu Bhandari Sharma, Tribhuvan University - Golden Gate International College
 * Edward Shaya, University of Maryland
 * Kendra Short, NASA/JPL
 * Raghubar Singh, Indian Institute of Astrophysics
@@ -244,7 +248,6 @@ The current list of 258 conference participants is below (last update: Feb. 5, 2
 * Andrew Vanderburg, University of Texas at Austin
 * Laura Venuti, NASA Ames Research Center
 * Shreyas Vissapragada, Caltech
-* Gordon Walker, University of British Columbia
 * Nan Wang, DeepMacro LLC
 * Sharon Xuesong Wang, Carnegie DTM
 * Ann Wehrle, Space Science Institute
