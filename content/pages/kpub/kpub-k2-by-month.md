@@ -4,10 +4,34 @@ Save_as: kpub-k2-by-month.html
 [TOC]
 
 
+2019-04
+-------
+
+1. [STAR-DISC (MIS-)ALIGNMENT IN RHO OPH AND UPPER SCO: INSIGHTS FROM SPATIALLY RESOLVED DISC SYSTEMS WITH K2 ROTATION PERIODS](http://adsabs.harvard.edu/abs/2019MNRAS.484.1926D)  
+Davies, Claire L.    
+2019, refereed ([2019MNRAS.484.1926D](http://adsabs.harvard.edu/abs/2019MNRAS.484.1926D))  
+
+2. [MASSES AND RADII FOR THE THREE SUPER-EARTHS ORBITING GJ 9827, AND IMPLICATIONS FOR THE COMPOSITION OF SMALL EXOPLANETS](http://adsabs.harvard.edu/abs/2019MNRAS.484.3731R)  
+Rice, K., Malavolta, L., Mayo, A., et al.    
+2019, refereed ([2019MNRAS.484.3731R](http://adsabs.harvard.edu/abs/2019MNRAS.484.3731R))  
+
+3. [K2-290: A WARM JUPITER AND A MINI-NEPTUNE IN A TRIPLE-STAR SYSTEM](http://adsabs.harvard.edu/abs/2019MNRAS.484.3522H)  
+Hjorth, M., Justesen, A. B., Hirano, T., et al.    
+2019, refereed ([2019MNRAS.484.3522H](http://adsabs.harvard.edu/abs/2019MNRAS.484.3522H))  
+
+
 2019-03
 -------
 
-1. [THE LITTLE DIPPERS: TRANSITS OF STAR-GRAZING EXOCOMETS?](http://adsabs.harvard.edu/abs/2019MNRAS.483.3579A)  
+1. [K2-264: A TRANSITING MULTIPLANET SYSTEM IN THE PRAESEPE OPEN CLUSTER](http://adsabs.harvard.edu/abs/2019MNRAS.484....8L)  
+Livingston, John H., Dai, Fei, Hirano, Teruyuki, et al.    
+2019, refereed ([2019MNRAS.484....8L](http://adsabs.harvard.edu/abs/2019MNRAS.484....8L))  
+
+2. [K2-287 B: AN ECCENTRIC WARM SATURN TRANSITING A G-DWARF](http://adsabs.harvard.edu/abs/2019AJ....157..100J)  
+Jordán, Andrés, Brahm, Rafael, Espinoza, Néstor, et al.    
+2019, refereed ([2019AJ....157..100J](http://adsabs.harvard.edu/abs/2019AJ....157..100J))  
+
+3. [THE LITTLE DIPPERS: TRANSITS OF STAR-GRAZING EXOCOMETS?](http://adsabs.harvard.edu/abs/2019MNRAS.483.3579A)  
 Ansdell, M., Gaidos, E., Jacobs, T. L., et al.    
 2019, refereed ([2019MNRAS.483.3579A](http://adsabs.harvard.edu/abs/2019MNRAS.483.3579A))  
 
@@ -15,85 +39,133 @@ Ansdell, M., Gaidos, E., Jacobs, T. L., et al.
 2019-02
 -------
 
-1. [K2-288BB: A SMALL TEMPERATE PLANET IN A LOW-MASS BINARY SYSTEM DISCOVERED BY CITIZEN SCIENTISTS](http://adsabs.harvard.edu/abs/2019AJ....157...40F)  
-Feinstein, Adina D., Schlieder, Joshua E., Livingston, John H., et al.    
-2019, refereed ([2019AJ....157...40F](http://adsabs.harvard.edu/abs/2019AJ....157...40F))  
-
-2. [EVIDENCE FOR MASS ACCRETION DRIVEN BY SPIRAL SHOCKS ONTO THE WHITE DWARF IN SDSS J123813.73-033933.0](http://adsabs.harvard.edu/abs/2019MNRAS.483.1080P)  
-Pala, A. F., Gänsicke, B. T., Marsh, T. R., et al.    
-2019, refereed ([2019MNRAS.483.1080P](http://adsabs.harvard.edu/abs/2019MNRAS.483.1080P))  
-
-3. [A SEARCH FOR RADIUS INFLATION AMONG ACTIVE M-DWARFS IN PRAESEPE](http://adsabs.harvard.edu/abs/2019MNRAS.483.1125J)  
-Jackson, R. J., Jeffries, R. D., Deliyannis, Constantine P., et al.    
-2019, refereed ([2019MNRAS.483.1125J](http://adsabs.harvard.edu/abs/2019MNRAS.483.1125J))  
-
-4. [T TAURI STARS IN THE SUPERWASP AND NSVS SURVEYS](http://adsabs.harvard.edu/abs/2019MNRAS.483.1642H)  
+1. [T TAURI STARS IN THE SUPERWASP AND NSVS SURVEYS](http://adsabs.harvard.edu/abs/2019MNRAS.483.1642H)  
 Hambálek, Ä½, VaÅko, M., Paunzen, E., et al.    
 2019, refereed ([2019MNRAS.483.1642H](http://adsabs.harvard.edu/abs/2019MNRAS.483.1642H))  
 
-5. [PHOTODYNAMICAL ANALYSIS OF THE TRIPLY ECLIPSING HIERARCHICAL TRIPLE SYSTEM EPIC 249432662](http://adsabs.harvard.edu/abs/2019MNRAS.483.1934B)  
+2. [FLARES IN OPEN CLUSTERS WITH K2 . I. M 45 (PLEIADES), M 44 (PRAESEPE), AND M 67](http://adsabs.harvard.edu/abs/2019A&A...622A.133I)  
+Ilin, Ekaterina, Schmidt, Sarah J., Davenport, James R. A., et al.    
+2019, refereed ([2019A&A...622A.133I](http://adsabs.harvard.edu/abs/2019A&A...622A.133I))  
+
+3. [K2-288BB: A SMALL TEMPERATE PLANET IN A LOW-MASS BINARY SYSTEM DISCOVERED BY CITIZEN SCIENTISTS](http://adsabs.harvard.edu/abs/2019AJ....157...40F)  
+Feinstein, Adina D., Schlieder, Joshua E., Livingston, John H., et al.    
+2019, refereed ([2019AJ....157...40F](http://adsabs.harvard.edu/abs/2019AJ....157...40F))  
+
+4. [KILLING PLANET CANDIDATES WITH EVEREST](http://adsabs.harvard.edu/abs/2019AJ....157...77G)  
+Greklek-McKeon, Michael, Deming, Drake    
+2019, refereed ([2019AJ....157...77G](http://adsabs.harvard.edu/abs/2019AJ....157...77G))  
+
+5. [EVIDENCE FOR MASS ACCRETION DRIVEN BY SPIRAL SHOCKS ONTO THE WHITE DWARF IN SDSS J123813.73-033933.0](http://adsabs.harvard.edu/abs/2019MNRAS.483.1080P)  
+Pala, A. F., Gänsicke, B. T., Marsh, T. R., et al.    
+2019, refereed ([2019MNRAS.483.1080P](http://adsabs.harvard.edu/abs/2019MNRAS.483.1080P))  
+
+6. [A SEARCH FOR RADIUS INFLATION AMONG ACTIVE M-DWARFS IN PRAESEPE](http://adsabs.harvard.edu/abs/2019MNRAS.483.1125J)  
+Jackson, R. J., Jeffries, R. D., Deliyannis, Constantine P., et al.    
+2019, refereed ([2019MNRAS.483.1125J](http://adsabs.harvard.edu/abs/2019MNRAS.483.1125J))  
+
+7. [PHOTODYNAMICAL ANALYSIS OF THE TRIPLY ECLIPSING HIERARCHICAL TRIPLE SYSTEM EPIC 249432662](http://adsabs.harvard.edu/abs/2019MNRAS.483.1934B)  
 Borkovits, T., Rappaport, S., Kaye, T., et al.    
 2019, refereed ([2019MNRAS.483.1934B](http://adsabs.harvard.edu/abs/2019MNRAS.483.1934B))  
 
-6. [K2-161B: A LOW-DENSITY SUPER-NEPTUNE ON AN ECCENTRIC ORBIT](http://adsabs.harvard.edu/abs/2019MNRAS.483.1970B)  
+8. [K2-161B: A LOW-DENSITY SUPER-NEPTUNE ON AN ECCENTRIC ORBIT](http://adsabs.harvard.edu/abs/2019MNRAS.483.1970B)  
 Brahm, R., Espinoza, N., Rabus, M., et al.    
 2019, refereed ([2019MNRAS.483.1970B](http://adsabs.harvard.edu/abs/2019MNRAS.483.1970B))  
 
-7. [TWO P-MODE-DOMINATED SUBDWARF B PULSATORS IN BINARIES WITH F-STAR COMPANIONS OBSERVED WITH K2](http://adsabs.harvard.edu/abs/2019MNRAS.483.2282R)  
+9. [TWO P-MODE-DOMINATED SUBDWARF B PULSATORS IN BINARIES WITH F-STAR COMPANIONS OBSERVED WITH K2](http://adsabs.harvard.edu/abs/2019MNRAS.483.2282R)  
 Reed, M. D., Telting, J. H., Ketzer, L., et al.    
 2019, refereed ([2019MNRAS.483.2282R](http://adsabs.harvard.edu/abs/2019MNRAS.483.2282R))  
+
+10. [SO CLOSE, SO DIFFERENT: CHARACTERIZATION OF THE K2-36 PLANETARY SYSTEM WITH HARPS-N](http://adsabs.harvard.edu/abs/2019arXiv190201881D)  
+Damasso, M., Zeng, L., Malavolta, L., et al.    
+2019, not refereed ([2019arXiv190201881D](http://adsabs.harvard.edu/abs/2019arXiv190201881D))  
+
+11. [K2-288BB: A SMALL TEMPERATE PLANET IN A LOW-MASS BINARY SYSTEM DISCOVERED BY CITIZEN SCIENTISTS](http://adsabs.harvard.edu/abs/2019arXiv190202789F)  
+Feinstein, Adina D., Schlieder, Joshua E., Livingston, John H., et al.    
+2019,  ([2019arXiv190202789F](http://adsabs.harvard.edu/abs/2019arXiv190202789F))  
 
 
 2019-01
 -------
 
-1. [CONFIRMATION OF THE RADIAL VELOCITY SUPER-EARTH K2-18C WITH HARPS AND CARMENES](http://adsabs.harvard.edu/abs/2019A&A...621A..49C)  
+1. [CARMENES INPUT CATALOGUE OF M DWARFS. IV. NEW ROTATION PERIODS FROM PHOTOMETRIC TIME SERIES](http://adsabs.harvard.edu/abs/2019A&A...621A.126D)  
+Díez Alonso, E., Caballero, J. A., Montes, D., et al.    
+2019, refereed ([2019A&A...621A.126D](http://adsabs.harvard.edu/abs/2019A&A...621A.126D))  
+
+2. [CONFIRMATION OF THE RADIAL VELOCITY SUPER-EARTH K2-18C WITH HARPS AND CARMENES](http://adsabs.harvard.edu/abs/2019A&A...621A..49C)  
 Cloutier, R., Astudillo-Defru, N., Doyon, R., et al.    
 2019, refereed ([2019A&A...621A..49C](http://adsabs.harvard.edu/abs/2019A&A...621A..49C))  
 
-2. [PHOTOMETRIC AND SPECTROSCOPIC PROPERTIES OF TYPE IA SUPERNOVA 2018OH WITH EARLY EXCESS EMISSION FROM THE KEPLER 2 OBSERVATIONS](http://adsabs.harvard.edu/abs/2019ApJ...870...12L)  
-Li, W., Wang, X., Vinkó, J., et al.    
-2019, refereed ([2019ApJ...870...12L](http://adsabs.harvard.edu/abs/2019ApJ...870...12L))  
-
-3. [K2 OBSERVATIONS OF SN 2018OH REVEAL A TWO-COMPONENT RISING LIGHT CURVE FOR A TYPE IA SUPERNOVA](http://adsabs.harvard.edu/abs/2019ApJ...870L...1D)  
-Dimitriadis, G., Foley, R. J., Rest, A., et al.    
-2019, refereed ([2019ApJ...870L...1D](http://adsabs.harvard.edu/abs/2019ApJ...870L...1D))  
-
-4. [NEBULAR SPECTROSCOPY OF KEPLER’S BRIGHTEST SUPERNOVA](http://adsabs.harvard.edu/abs/2019ApJ...870L..14D)  
-Dimitriadis, G., Rojas-Bravo, C., Kilpatrick, C. D., et al.    
-2019, refereed ([2019ApJ...870L..14D](http://adsabs.harvard.edu/abs/2019ApJ...870L..14D))  
-
-5. [THE ECLIPSING Δ SCUTI STAR EPIC 245932119](http://adsabs.harvard.edu/abs/2019AJ....157...17L)  
+3. [THE ECLIPSING Δ SCUTI STAR EPIC 245932119](http://adsabs.harvard.edu/abs/2019AJ....157...17L)  
 Lee, Jae Woo, Hong, Kyeongsoo, Kristiansen, Martti H.    
 2019, refereed ([2019AJ....157...17L](http://adsabs.harvard.edu/abs/2019AJ....157...17L))  
 
-6. [A DISCRETE SET OF POSSIBLE TRANSIT EPHEMERIDES FOR TWO LONG-PERIOD GAS GIANTS ORBITING HIP 41378](http://adsabs.harvard.edu/abs/2019AJ....157...19B)  
+4. [A DISCRETE SET OF POSSIBLE TRANSIT EPHEMERIDES FOR TWO LONG-PERIOD GAS GIANTS ORBITING HIP 41378](http://adsabs.harvard.edu/abs/2019AJ....157...19B)  
 Becker, Juliette C., Vanderburg, Andrew, Rodriguez, Joseph E., et al.    
 2019, refereed ([2019AJ....157...19B](http://adsabs.harvard.edu/abs/2019AJ....157...19B))  
 
-7. [SEEING DOUBLE: ASASSN-18BT EXHIBITS A TWO-COMPONENT RISE IN THE EARLY-TIME K2 LIGHT CURVE](http://adsabs.harvard.edu/abs/2019ApJ...870...13S)  
+5. [PHOTOMETRIC AND SPECTROSCOPIC PROPERTIES OF TYPE IA SUPERNOVA 2018OH WITH EARLY EXCESS EMISSION FROM THE KEPLER 2 OBSERVATIONS](http://adsabs.harvard.edu/abs/2019ApJ...870...12L)  
+Li, W., Wang, X., Vinkó, J., et al.    
+2019, refereed ([2019ApJ...870...12L](http://adsabs.harvard.edu/abs/2019ApJ...870...12L))  
+
+6. [SEEING DOUBLE: ASASSN-18BT EXHIBITS A TWO-COMPONENT RISE IN THE EARLY-TIME K2 LIGHT CURVE](http://adsabs.harvard.edu/abs/2019ApJ...870...13S)  
 Shappee, B. J., Holoien, T. W. -S., Drout, M. R., et al.    
 2019, refereed ([2019ApJ...870...13S](http://adsabs.harvard.edu/abs/2019ApJ...870...13S))  
+
+7. [K2 OBSERVATIONS OF SN 2018OH REVEAL A TWO-COMPONENT RISING LIGHT CURVE FOR A TYPE IA SUPERNOVA](http://adsabs.harvard.edu/abs/2019ApJ...870L...1D)  
+Dimitriadis, G., Foley, R. J., Rest, A., et al.    
+2019, refereed ([2019ApJ...870L...1D](http://adsabs.harvard.edu/abs/2019ApJ...870L...1D))  
 
 8. [ULTRALOW-AMPLITUDE RR LYRAE STARS IN M4](http://adsabs.harvard.edu/abs/2019ApJ...870L...7W)  
 Wallace, Joshua J., Hartman, Joel D., Bakos, Gáspár Á., et al.    
 2019, refereed ([2019ApJ...870L...7W](http://adsabs.harvard.edu/abs/2019ApJ...870L...7W))  
 
-9. [TIME-RESOLVED SPECTROSCOPY OF DUST AND GAS FROM EXTRASOLAR PLANETESIMALS ORBITING WD 1145+017](http://adsabs.harvard.edu/abs/2019MNRAS.482..999K)  
+9. [NEBULAR SPECTROSCOPY OF KEPLER’S BRIGHTEST SUPERNOVA](http://adsabs.harvard.edu/abs/2019ApJ...870L..14D)  
+Dimitriadis, G., Rojas-Bravo, C., Kilpatrick, C. D., et al.    
+2019, refereed ([2019ApJ...870L..14D](http://adsabs.harvard.edu/abs/2019ApJ...870L..14D))  
+
+10. [TIME-RESOLVED SPECTROSCOPY OF DUST AND GAS FROM EXTRASOLAR PLANETESIMALS ORBITING WD 1145+017](http://adsabs.harvard.edu/abs/2019MNRAS.482..999K)  
 Karjalainen, Marie, de Mooij, Ernst J. W., Karjalainen, Raine, et al.    
 2019, refereed ([2019MNRAS.482..999K](http://adsabs.harvard.edu/abs/2019MNRAS.482..999K))  
 
-10. [K2-140B AND K2-180B - CHARACTERIZATION OF A HOT JUPITER AND A MINI-NEPTUNE FROM THE K2 MISSION](http://adsabs.harvard.edu/abs/2019MNRAS.482.1807K)  
+11. [K2-140B AND K2-180B - CHARACTERIZATION OF A HOT JUPITER AND A MINI-NEPTUNE FROM THE K2 MISSION](http://adsabs.harvard.edu/abs/2019MNRAS.482.1807K)  
 Korth, J., Csizmadia, Sz, Gandolfi, D., et al.    
 2019, refereed ([2019MNRAS.482.1807K](http://adsabs.harvard.edu/abs/2019MNRAS.482.1807K))  
 
-11. [STAR-DISC (MIS-)ALIGNMENT IN RHO OPH AND UPPER SCO: INSIGHTS FROM SPATIALLY RESOLVED DISC SYSTEMS WITH K2 ROTATION PERIODS](http://adsabs.harvard.edu/abs/2019MNRAS.tmp...66D)  
-Davies, Claire L.    
-2019, refereed ([2019MNRAS.tmp...66D](http://adsabs.harvard.edu/abs/2019MNRAS.tmp...66D))  
+12. [A TRANSITING HOT JUPITER CANDIDATE TOWARD THE GALACTIC CENTER IDENTIFIED IN THE KEPLER/K2 CAMPAIGN 9 MICROLENSING SURVEY](http://adsabs.harvard.edu/abs/2019RNAAS...3a..18H)  
+Hedges, Christina, Saunders, Nicholas, Coughlin, Jeffrey L., et al.    
+2019, not refereed ([2019RNAAS...3a..18H](http://adsabs.harvard.edu/abs/2019RNAAS...3a..18H))  
 
-12. [A TRANSITING SUPER-EARTH CLOSE TO THE INNER EDGE OF THE HABITABLE ZONE OF AN M0 DWARF STAR](http://adsabs.harvard.edu/abs/2019arXiv190104739A)  
-Alonso, E. Díez, Hernández, J. I. González, Toledo-Padrón, B., et al.    
-2019,  ([2019arXiv190104739A](http://adsabs.harvard.edu/abs/2019arXiv190104739A))  
+13. [HUNDREDS MORE PLANETS AWAIT DISCOVERY IN KEPLER'S K2 DATA SET](http://adsabs.harvard.edu/abs/2019RNAAS...3a..23D)  
+Dotson, Jessie L., Barentsen, Geert, Hedges, Christina, et al.    
+2019, not refereed ([2019RNAAS...3a..23D](http://adsabs.harvard.edu/abs/2019RNAAS...3a..23D))  
+
+14. [TRANSIT LEAST SQUARES: OPTIMIZED TRANSIT DETECTION ALGORITHM TO SEARCH FOR PERIODIC TRANSITS OF SMALL PLANETS](http://adsabs.harvard.edu/abs/2019arXiv190102015H)  
+Hippke, Michael, Heller, René    
+2019, not refereed ([2019arXiv190102015H](http://adsabs.harvard.edu/abs/2019arXiv190102015H))  
+
+15. [KILLING PLANET CANDIDATES WITH EVEREST](http://adsabs.harvard.edu/abs/2019arXiv190102017G)  
+Greklek-McKeon, Michael, Deming, Drake    
+2019, not refereed ([2019arXiv190102017G](http://adsabs.harvard.edu/abs/2019arXiv190102017G))  
+
+16. [THE ROTATION-DISK CONNECTION IN YOUNG BROWN DWARFS: STRONG EVIDENCE FOR EARLY ROTATIONAL BRAKING](http://adsabs.harvard.edu/abs/2019arXiv190105523M)  
+Moore, Keavin, Scholz, Aleks, Jayawardhana, Ray    
+2019, not refereed ([2019arXiv190105523M](http://adsabs.harvard.edu/abs/2019arXiv190105523M))  
+
+17. [AGE DETERMINATION IN UPPER SCORPIUS WITH ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2019arXiv190105532D)  
+David, Trevor J., Hillenbrand, Lynne A., Gillen, Edward, et al.    
+2019, not refereed ([2019arXiv190105532D](http://adsabs.harvard.edu/abs/2019arXiv190105532D))  
+
+18. [SPITZER TRANSIT FOLLOW-UP OF PLANET CANDIDATES FROM THE K2 MISSION](http://adsabs.harvard.edu/abs/2019arXiv190105855L)  
+Livingston, John H., Crossfield, Ian J. M., Werner, Michael W., et al.    
+2019, not refereed ([2019arXiv190105855L](http://adsabs.harvard.edu/abs/2019arXiv190105855L))  
+
+19. [ASTEROSEISMOLOGY OF THE HYADES RED GIANT AND PLANET HOST EPSILON TAU](http://adsabs.harvard.edu/abs/2019arXiv190106187A)  
+Arentoft, Torben, Grundahl, Frank, White, Timothy R., et al.    
+2019, not refereed ([2019arXiv190106187A](http://adsabs.harvard.edu/abs/2019arXiv190106187A))  
+
+20. [DISCOVERY AND VETTING OF EXOPLANETS I: BENCHMARKING K2 VETTING TOOLS](http://adsabs.harvard.edu/abs/2019arXiv190107459K)  
+Kostov, Veselin B., Mullally, Susan E., Quintana, Elisa V., et al.    
+2019, not refereed ([2019arXiv190107459K](http://adsabs.harvard.edu/abs/2019arXiv190107459K))  
 
 
 2018-12
@@ -147,11 +219,7 @@ Mortier, A., Bonomo, A. S., Rajpaul, V. M., et al.
 Baran, A. S., Østensen, R. H., Telting, J. H., et al.    
 2018, refereed ([2018MNRAS.481.2721B](http://adsabs.harvard.edu/abs/2018MNRAS.481.2721B))  
 
-13. [K2-264: A TRANSITING MULTI-PLANET SYSTEM IN THE PRAESEPE OPEN CLUSTER](http://adsabs.harvard.edu/abs/2018MNRAS.tmp.3278L)  
-Livingston, John H., Dai, Fei, Hirano, Teruyuki, et al.    
-2018, refereed ([2018MNRAS.tmp.3278L](http://adsabs.harvard.edu/abs/2018MNRAS.tmp.3278L))  
-
-14. [A TRANSITING SUPER-EARTH CLOSE TO THE INNER EDGE OF THE HABITABLE ZONE OF AN M0 DWARF STAR](http://adsabs.harvard.edu/abs/2018MNRAS.tmp.3305D)  
+13. [A TRANSITING SUPER-EARTH CLOSE TO THE INNER EDGE OF THE HABITABLE ZONE OF AN M0 DWARF STAR](http://adsabs.harvard.edu/abs/2018MNRAS.tmp.3305D)  
 Díez Alonso, E., González Hernández, J. I., Toledo-Padrón, B., et al.    
 2018, refereed ([2018MNRAS.tmp.3305D](http://adsabs.harvard.edu/abs/2018MNRAS.tmp.3305D))  
 
@@ -235,15 +303,11 @@ Cody, Ann Marie, Barentsen, Geert, Hedges, Christina, et al.
 Doyle, Lauren, Ramsay, Gavin, Doyle, John G.    
 2018, not refereed ([2018arXiv181106594D](http://adsabs.harvard.edu/abs/2018arXiv181106594D))  
 
-20. [T TAURI STARS IN THE SUPERWASP AND NSVS SURVEYS](http://adsabs.harvard.edu/abs/2018arXiv181108655H)  
-Hambálek, Ľubomír, Vaňko, Martin, Paunzen, Ernst, et al.    
-2018, not refereed ([2018arXiv181108655H](http://adsabs.harvard.edu/abs/2018arXiv181108655H))  
-
-21. [SEARCH FOR EXOPLANETARY TRANSITS IN THE GALACTIC BULGE](http://adsabs.harvard.edu/abs/2018arXiv181109174C)  
+20. [SEARCH FOR EXOPLANETARY TRANSITS IN THE GALACTIC BULGE](http://adsabs.harvard.edu/abs/2018arXiv181109174C)  
 Cortes, C. C., Minniti, D., Villanova, S.    
 2018, not refereed ([2018arXiv181109174C](http://adsabs.harvard.edu/abs/2018arXiv181109174C))  
 
-22. [NO STRIPPED COMPANION MATERIAL IN THE NEBULAR SPECTRUM OF THE "TWO-COMPONENT" TYPE IA SUPERNOVA ASASSN-18BT](http://adsabs.harvard.edu/abs/2018arXiv181109635T)  
+21. [NO STRIPPED COMPANION MATERIAL IN THE NEBULAR SPECTRUM OF THE "TWO-COMPONENT" TYPE IA SUPERNOVA ASASSN-18BT](http://adsabs.harvard.edu/abs/2018arXiv181109635T)  
 Tucker, M. A., Shappee, B. J., Wisniewski, J. P.    
 2018, not refereed ([2018arXiv181109635T](http://adsabs.harvard.edu/abs/2018arXiv181109635T))  
 
@@ -327,15 +391,11 @@ Cañizares, Luis Alberto, Garnavich, Peter, Littlefield, Colin, et al.
 Barclay, Thomas, Barentsen, Geert    
 2018, not refereed ([2018RNAAS...2d.192B](http://adsabs.harvard.edu/abs/2018RNAAS...2d.192B))  
 
-20. [CARMENES INPUT CATALOGUE OF M DWARFS IV. NEW ROTATION PERIODS FROM PHOTOMETRIC TIME SERIES](http://adsabs.harvard.edu/abs/2018arXiv181003338D)  
-Diez Alonso, E., Caballero, J. A., Montes, D., et al.    
-2018, not refereed ([2018arXiv181003338D](http://adsabs.harvard.edu/abs/2018arXiv181003338D))  
-
-21. [KEPLER'S DISCOVERIES WILL CONTINUE: 21 IMPORTANT SCIENTIFIC OPPORTUNITIES WITH KEPLER &AMP; K2 ARCHIVE DATA](http://adsabs.harvard.edu/abs/2018arXiv181012554B)  
+20. [KEPLER'S DISCOVERIES WILL CONTINUE: 21 IMPORTANT SCIENTIFIC OPPORTUNITIES WITH KEPLER &AMP; K2 ARCHIVE DATA](http://adsabs.harvard.edu/abs/2018arXiv181012554B)  
 Barentsen, Geert, Hedges, Christina, Saunders, Nicholas, et al.    
 2018, not refereed ([2018arXiv181012554B](http://adsabs.harvard.edu/abs/2018arXiv181012554B))  
 
-22. [2MASS J10274572+0629104: THE VERY SHORT PERIOD YOUNG M6 DWARF BINARY SYSTEM IDENTIFIED IN K2 DATA](http://adsabs.harvard.edu/abs/2018arXiv181013026P)  
+21. [2MASS J10274572+0629104: THE VERY SHORT PERIOD YOUNG M6 DWARF BINARY SYSTEM IDENTIFIED IN K2 DATA](http://adsabs.harvard.edu/abs/2018arXiv181013026P)  
 Paudel, Rishi R., Gizis, John E., Burgasser, Adam J., et al.    
 2018, not refereed ([2018arXiv181013026P](http://adsabs.harvard.edu/abs/2018arXiv181013026P))  
 
@@ -759,10 +819,6 @@ Louie, Dana R., Deming, Drake, Albert, Loic, et al.
 Guinan, Edward F., Engle, Scott G.    
 2018, not refereed ([2018RNAAS...2b...1G](http://adsabs.harvard.edu/abs/2018RNAAS...2b...1G))  
 
-15. [BUILDING A LARGE SOLAR ANALOG SAMPLE USING K2](http://adsabs.harvard.edu/abs/2018arXiv180405833B)  
-Buzasi, Derek L.    
-2018, not refereed ([2018arXiv180405833B](http://adsabs.harvard.edu/abs/2018arXiv180405833B))  
-
 
 2018-03
 -------
@@ -890,6 +946,10 @@ Cody, Ann Marie, Barentsen, Geert, Hedges, Christina, et al.
 13. [SINGLE TRANSITS AND ECLIPSES OBSERVED BY K2](http://adsabs.harvard.edu/abs/2018RNAAS...2a..28L)  
 LaCourse, Daryll M., Jacobs, Thomas Lee    
 2018, not refereed ([2018RNAAS...2a..28L](http://adsabs.harvard.edu/abs/2018RNAAS...2a..28L))  
+
+14. [BUILDING A LARGE SOLAR ANALOG SAMPLE USING K2](http://adsabs.harvard.edu/abs/2018IAUS..340..233B)  
+Buzasi, Derek L.    
+2018, not refereed ([2018IAUS..340..233B](http://adsabs.harvard.edu/abs/2018IAUS..340..233B))  
 
 
 2018-01
