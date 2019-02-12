@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2019-02-07" />
+    <meta name="dc.date.modified" content="2019-02-12" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -34,13 +34,13 @@ in August 2015, using pelican-bootstrap and flatly.
 <link rel="canonical" href="./pages/k2-campaign-fields.html">
 
         <meta name="author" content="Geert Barentsen" />
-        <meta name="description" content="Each K2 Campaign has a duration of approximately 80 days and remains fixed upon a single boresight position. This page details the previous, current, and future K2 Campaign fields. Overview Field dates and positions Field Start Stop Dataavailable RA Dec Targetlist Releasenotes Comments E 2014 Feb 04 ..." />
+        <meta name="description" content="Each K2 Campaign has a duration of approximately 80 days and remains fixed upon a single boresight position. This page details the previous, current, and future K2 Campaign fields. Overview Field dates and positions Field Start Stop Dataavailable RA Dec Targetlist Releasenotes Comments E 2014 Feb 04 …" />
 
     <meta property="og:site_name" content="Kepler &amp; K2" />
     <meta property="og:type" content="article"/>
     <meta property="og:title" content="K2 Campaign fields"/>
     <meta property="og:url" content="./pages/k2-campaign-fields.html"/>
-    <meta property="og:description" content="Each K2 Campaign has a duration of approximately 80 days and remains fixed upon a single boresight position. This page details the previous, current, and future K2 Campaign fields. Overview Field dates and positions Field Start Stop Dataavailable RA Dec Targetlist Releasenotes Comments E 2014 Feb 04 ..." />
+    <meta property="og:description" content="Each K2 Campaign has a duration of approximately 80 days and remains fixed upon a single boresight position. This page details the previous, current, and future K2 Campaign fields. Overview Field dates and positions Field Start Stop Dataavailable RA Dec Targetlist Releasenotes Comments E 2014 Feb 04 …" />
 
 
     <!-- Why use Helvetica Neue when you can have Lato? -->
@@ -159,11 +159,11 @@ This page details the previous, current, and future K2 Campaign fields.</p>
 <th style="vertical-align: middle;">Field</th>
 <th style="vertical-align: middle;">Start</th>
 <th style="vertical-align: middle;">Stop</th>
-<th style="vertical-align: middle;">Data<br>available</br></th>
+<th style="vertical-align: middle;">Data<br/>available</th>
 <th style="vertical-align: middle;">RA</th>
 <th style="vertical-align: middle;">Dec</th>
-<th class="text-center" style="vertical-align: middle;">Target<br>list</br></th>
-<th class="text-center" style="vertical-align: middle;">Release<br>notes</br></th>
+<th class="text-center" style="vertical-align: middle;">Target<br/>list</th>
+<th class="text-center" style="vertical-align: middle;">Release<br/>notes</th>
 <th style="vertical-align: middle;">Comments</th>
 </tr>
 </thead>
@@ -602,23 +602,23 @@ The JSON files also provide galactic coordinates.</p>
 <li><a href="https://github.com/KeplerGO/K2FootprintFiles/raw/master/json/k2-footprint.json">k2-footprint.json</a></li>
 <li><a href="https://github.com/KeplerGO/K2FootprintFiles/raw/master/csv/k2-footprint.csv">k2-footprint.csv</a></li>
 </ul>
-<p><br/>
-<strong><em>Usage of the JSON files</em></strong></p>
+<p><br>
+<strong><em>Usage of the JSON files</em></strong></br></p>
 <p>Files in the JSON format can easily be read into a Python script using the
 standard <em>json</em> module. For example:</p>
-<pre><code>import json
-footprint_dictionary = json.load(open("k2-footprint.json"))
-</code></pre>
+<div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">json</span>
+<span class="n">footprint_dictionary</span> <span class="o">=</span> <span class="n">json</span><span class="o">.</span><span class="n">load</span><span class="p">(</span><span class="nb">open</span><span class="p">(</span><span class="s2">"k2-footprint.json"</span><span class="p">))</span>
+</pre></div>
 <p>The dictionary obtained in this way may then be used to 
 plot the position of a CCD channel on the sky.
 For example, the position of channel #10 in Campaign 13
 can be visualised as follows:</p>
-<pre><code>import matplotlib.pyplot as pl
-mychannel = footprint_dictionary["c13"]["channels"]["10"]
-pl.plot(mychannel["corners_ra"] + mychannel["corners_ra"][:1],
-        mychannel["corners_dec"] + mychannel["corners_dec"][:1])
-pl.show()
-</code></pre>
+<div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="kn">as</span> <span class="nn">pl</span>
+<span class="n">mychannel</span> <span class="o">=</span> <span class="n">footprint_dictionary</span><span class="p">[</span><span class="s2">"c13"</span><span class="p">][</span><span class="s2">"channels"</span><span class="p">][</span><span class="s2">"10"</span><span class="p">]</span>
+<span class="n">pl</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">mychannel</span><span class="p">[</span><span class="s2">"corners_ra"</span><span class="p">]</span> <span class="o">+</span> <span class="n">mychannel</span><span class="p">[</span><span class="s2">"corners_ra"</span><span class="p">][:</span><span class="mi">1</span><span class="p">],</span>
+        <span class="n">mychannel</span><span class="p">[</span><span class="s2">"corners_dec"</span><span class="p">]</span> <span class="o">+</span> <span class="n">mychannel</span><span class="p">[</span><span class="s2">"corners_dec"</span><span class="p">][:</span><span class="mi">1</span><span class="p">])</span>
+<span class="n">pl</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+</pre></div>
 <p>Beware however that a plot obtained in this way approximates channel edges
 as straight lines in the 2D-projected sky.</p>
 <h3 id="moc-format">MOC format</h3>

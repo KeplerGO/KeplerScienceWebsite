@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2019-02-07" />
+    <meta name="dc.date.modified" content="2019-02-12" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -34,13 +34,13 @@ in August 2015, using pelican-bootstrap and flatly.
 <link rel="canonical" href="./new-in-lightkurve-the-periodogram-class.html">
 
         <meta name="author" content="Christina Hedges" />
-        <meta name="description" content="This month in Lightkurve, we have added a Periodogram class, which provides a quick and easy way to create Lomb-Scargle periodograms from LightCurve objects. Periodograms can be used to find stellar rotation rates, or the oscillation and pulsation frequencies of stars. They are commonly used in asteroseismology to identify oscillation ..." />
+        <meta name="description" content="This month in Lightkurve, we have added a Periodogram class, which provides a quick and easy way to create Lomb-Scargle periodograms from LightCurve objects. Periodograms can be used to find stellar rotation rates, or the oscillation and pulsation frequencies of stars. They are commonly used in asteroseismology to identify oscillation …" />
 
         <meta property="og:site_name" content="Kepler &amp; K2" />
         <meta property="og:type" content="article"/>
         <meta property="og:title" content="New in Lightkurve: the Periodogram class"/>
         <meta property="og:url" content="./new-in-lightkurve-the-periodogram-class.html"/>
-        <meta property="og:description" content="This month in Lightkurve, we have added a Periodogram class, which provides a quick and easy way to create Lomb-Scargle periodograms from LightCurve objects. Periodograms can be used to find stellar rotation rates, or the oscillation and pulsation frequencies of stars. They are commonly used in asteroseismology to identify oscillation ..."/>
+        <meta property="og:description" content="This month in Lightkurve, we have added a Periodogram class, which provides a quick and easy way to create Lomb-Scargle periodograms from LightCurve objects. Periodograms can be used to find stellar rotation rates, or the oscillation and pulsation frequencies of stars. They are commonly used in asteroseismology to identify oscillation …"/>
         <meta property="article:published_time" content="2018-10-29" />
             <meta property="article:section" content="news" />
             <meta property="article:author" content="Christina Hedges" />
@@ -176,17 +176,24 @@ in August 2015, using pelican-bootstrap and flatly.
 
 <h3 id="usage">Usage</h3>
 <p>To download a light curve from MAST and create a Periodogram object named <code>pg</code>, you can use the following syntax:</p>
-<p><code>python
-from lightkurve import search_lightcurvefile
-lcf = search_lightcurvefile('201691589').download()
-lc = lcf.PDCSAP_FLUX.remove_nans()
-pg = lc.to_periodogram()</code></p>
+<div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">lightkurve</span> <span class="kn">import</span> <span class="n">search_lightcurvefile</span>
+<span class="n">lcf</span> <span class="o">=</span> <span class="n">search_lightcurvefile</span><span class="p">(</span><span class="s1">&#39;201691589&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">download</span><span class="p">()</span>
+<span class="n">lc</span> <span class="o">=</span> <span class="n">lcf</span><span class="o">.</span><span class="n">PDCSAP_FLUX</span><span class="o">.</span><span class="n">remove_nans</span><span class="p">()</span>
+<span class="n">pg</span> <span class="o">=</span> <span class="n">lc</span><span class="o">.</span><span class="n">to_periodogram</span><span class="p">()</span>
+</pre></div>
+
+
 <p>Periodograms have several useful functions including plotting, smoothing, and binning. You can interact with them much the same way you interact with other Lightkurve objects.  For example you can use the following syntax to plot a smoothed Lomb-Scargle periodogram.</p>
-<p><code>python
-pg.smooth().plot()</code></p>
+<div class="highlight"><pre><span></span><span class="n">pg</span><span class="o">.</span><span class="n">smooth</span><span class="p">()</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
+</pre></div>
+
+
 <p>The full documentation of the periodogram feature <a href="https://docs.lightkurve.org/api/lightkurve.lightcurve.LightCurve.html#lightkurve.lightcurve.LightCurve.to_periodogram">is available here</a>.  This new feature is the work of Kepler visiting scientist <a href="https://twitter.com/asteronomer">Oliver Hall</a> and summer intern Johnny Zhang.</p>
 <p>You will need to upgrade your installation of Lightkurve to the latest version (v1.0b21) for this to work. This can be done via the command line as follows:</p>
-<p><code>$ pip install lightkurve --upgrade</code></p>
+<div class="highlight"><pre><span></span>$ pip install lightkurve --upgrade
+</pre></div>
+
+
 <p>Please consult the <a href="https://docs.lightkurve.org">Lightkurve documentation</a> for more information.
 The documentation includes <a href="https://docs.lightkurve.org/tutorials/1.06-using-the-periodogram-class.html">a new tutorial on the Periodogram class</a>.</p>
             </div>
