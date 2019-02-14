@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 270 conference participants is below (last update: Feb. 14, 2019).
+The current list of 271 conference participants is below (last update: Feb. 14, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * Ruth Angus, AMNH
@@ -163,6 +163,7 @@ The current list of 270 conference participants is below (last update: Feb. 14, 
 * Teo Mocnik, UC Riverside
 * Paul Mooney, Intune.Network
 * Michele Montgomery, University of Central Florida
+* Tim Morton, University of Florida
 * Claire Moutou, CFHT
 * Przemek Mroz, Warsaw University Observatory
 * Gijs Mulders, University of Chicago
