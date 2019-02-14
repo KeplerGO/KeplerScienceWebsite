@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 260 conference participants is below (last update: Feb. 12, 2019).
+The current list of 270 conference participants is below (last update: Feb. 14, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * Ruth Angus, AMNH
@@ -25,6 +25,7 @@ The current list of 260 conference participants is below (last update: Feb. 12, 
 * Dominic Bowman, KU Leuven
 * Padi Boyd, NASA GSFC
 * Pat Brennan, JPL/NASA
+* Steve Bryson, NASA Ames Research Center
 * Lisa Bugnet, CEA Saclay
 * Derek Buzasi, Florida Gulf Coast University
 * Sebastiano Calchi Novati, Caltech/IPAC
@@ -37,6 +38,7 @@ The current list of 260 conference participants is below (last update: Feb. 12, 
 * Heon-Young Chang, Kyungpook National University
 * Jonathan Chauwa, Berea College
 * Alma Ceja, University of California, Riverside
+* Heon-Young Chang, Kyungpook National University
 * Anna Childs, University of Nevada, Las Vegas
 * Ashley Chontos, Institute for Astronomy, University of Hawaii
 * Jessie Christiansen, IPAC/Caltech-NExScI
@@ -87,14 +89,15 @@ The current list of 260 conference participants is below (last update: Feb. 12, 
 * Ryan George, University of Southern California
 * Iskra Georgieva, Chalmers University of Technology
 * Sankalp Gilda, Institute for Astronomy, University of Hawaii
-* Natalie Gosnell, Colorado College
 * Erica Gonzales, University of California, Santa Cruz
+* Natalie Gosnell, Colorado College
 * Pierre Gratia, Northwestern University
 * Michael Greklek-McKeon, University of Maryland, College Park
 * Samuel Grunblatt, University of Hawaii
 * Michael Gully-Santiago, Kepler/K2 Guest Observer Office
 * Akash Gupta, UCLA
 * Nader Haghighipour, Institute for Astronomy, University of Hawaii
+* Aaron Hamann, University of Chicago
 * Kevin Hardegree-Ullman, Caltech/IPAC-NExScI
 * Yasuhiro Hasegawa, JPL/Caltech
 * Artie Hatzes, Thuringia State University
@@ -115,6 +118,7 @@ The current list of 260 conference participants is below (last update: Feb. 12, 
 * Nicole Itumba, Berea College
 * Stephanie Itumba, Berea College
 * Howard Isaacson, UC Berkeley
+* Kate Isaack, ESTEC 
 * Randall Jackson, JPL/NASA
 * Daniel Jontof-Hutter, University of the Pacific
 * Stephen Kane, University of California, Riverside
@@ -122,8 +126,9 @@ The current list of 260 conference participants is below (last update: Feb. 12, 
 * Adil Hakeem Khan, Nation College of Engineering and Technology, India
 * Lochan Khanal, Tribhuvan University
 * Irina Kitiashvili, NASA Ames Research Center/BAERI
+* Hans Kjeldsen, Aarhus University
 * Katrien Kolenberg, KU Leuven
-* Alexander Kosovichen, New Jersey Institute of Technology
+* Alexander Kosovichev, New Jersey Institute of Technology
 * Veselin Kostov, NASA/SETI Institute	
 * Adam Kraus, UT Austin
 * Ethan Kruse, NASA Goddard Space Flight Center
@@ -139,6 +144,7 @@ The current list of 260 conference participants is below (last update: Feb. 12, 
 * Jorge Lillo-Box, European Southern Observatory
 * Chris Lintott, University of Oxford
 * Jack Lissauer, NASA Ames
+* Carey Lisse, Johns Hopkins University - Applied Physics Lab
 * Colin Littlefield, University of Notre Dame
 * Rodrigo Luger, Flatiron Institute
 * Mia Sloth Lundkvist, Aarhus University
@@ -167,6 +173,7 @@ The current list of 260 conference participants is below (last update: Feb. 12, 
 * Srinitha Nimmakayala, Universidad Complutense de Madrid
 * Richard Olenick, University of Dallas
 * Tannaz Oskui, CSULA/UCLA
+* James Owen, Imperial College London
 * Enric Palle, Instituto de Astrofisica de Canarias
 * Rishi Paudel, University of Delaware
 * Mario Perez, NASA HQ
@@ -232,6 +239,7 @@ The current list of 260 conference participants is below (last update: Feb. 12, 
 * Robert Szabo, MTA CSFK, Konkoly Observatory
 * Paula Szkody, University of Washington
 * Don Tarquin, USC/LAUSD
+* Stuart Taylor, Participation Worldscope/Okapi Architecture
 * Johanna Teske, Carnegie Observatories	
 * Pa Chia Thao, UNC Chapel Hill
 * Alexander Thompson, University of Dallas
@@ -244,11 +252,13 @@ The current list of 260 conference participants is below (last update: Feb. 12, 
 * Steve Unwin, Caltech/JPL
 * Adriana Valio, CRAAM-Mackenzie University
 * Vincent Van Eylen, Princeton University
+* Zach Vanderbosch, University of Texas at Austin
 * Andrew Vanderburg, University of Texas at Austin
 * Laura Venuti, NASA Ames Research Center
 * Shreyas Vissapragada, Caltech
 * Nan Wang, DeepMacro LLC
 * Sharon Xuesong Wang, Carnegie DTM
+* Songhu Wang, Yale
 * Ann Wehrle, Space Science Institute
 * Lauren Weiss, University of Hawaii
 * Mark Wells, Pennsylvania State Unversity and Villanova University
