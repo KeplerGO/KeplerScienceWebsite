@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 271 conference participants is below (last update: Feb. 14, 2019).
+The current list of 274 conference participants is below (last update: Feb. 15, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * Ruth Angus, AMNH
@@ -109,6 +109,7 @@ The current list of 271 conference participants is below (last update: Feb. 14, 
 * Michelle Hill, University of California, Riverside
 * Matthew Holman, Harvard University
 * Thomas Holoien, Carnegie Observatories
+* Elliott Horch, Southern Connecticut State University
 * Jonti Horner, University of Southern Queensland
 * Andrew Howard, Caltech	
 * Steve Howell, NASA Ames Research Center
@@ -120,6 +121,7 @@ The current list of 271 conference participants is below (last update: Feb. 14, 
 * Howard Isaacson, UC Berkeley
 * Kate Isaack, ESTEC 
 * Randall Jackson, JPL/NASA
+* Jon Jenkins, NASA Ames
 * Daniel Jontof-Hutter, University of the Pacific
 * Stephen Kane, University of California, Riverside
 * Steven Kawaler, Iowa State University
@@ -172,6 +174,7 @@ The current list of 271 conference participants is below (last update: Feb. 14, 
 * James Neff, National Science Foundation
 * Richard Nelson, Queen Mary University of London
 * Srinitha Nimmakayala, Universidad Complutense de Madrid
+* Ryan Oelkers, Vanderbilt
 * Richard Olenick, University of Dallas
 * Tannaz Oskui, CSULA/UCLA
 * James Owen, Imperial College London
@@ -190,7 +193,7 @@ The current list of 271 conference participants is below (last update: Feb. 14, 
 * Andrej Prsa, Villanova University
 * Elisa Quintana, NASA Goddard Space Flight Center
 * Andreas Quirrenbach, Univ. Heidelberg
-* Rayna, Rampalli, Columbia University
+* Rayna Rampalli, Columbia University
 * Gavin Ramsay, Armagh Observatory
 * Rabeea Rasheed, ABNP
 * Luisa Rebull, Caltech/IPAC-IRSA
