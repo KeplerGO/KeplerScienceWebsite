@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 275 conference participants is below (last update: Feb. 15, 2019).
+The current list of 274 conference participants is below (last update: Feb. 15, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * Ruth Angus, AMNH
@@ -35,10 +35,9 @@ The current list of 275 conference participants is below (last update: Feb. 15, 
 * Kenneth Carpenter, NASA Goddard Space Flight Center
 * Barbara Castanheira, Baylor University
 * Alexandre Castelari, SETI: Space Quest
-* Heon-Young Chang, Kyungpook National University
-* Jonathan Chauwa, Berea College
 * Alma Ceja, University of California, Riverside
 * Heon-Young Chang, Kyungpook National University
+* Jonathan Chauwa, Berea College
 * Anna Childs, University of Nevada, Las Vegas
 * Ashley Chontos, Institute for Astronomy, University of Hawaii
 * Jessie Christiansen, IPAC/Caltech-NExScI
