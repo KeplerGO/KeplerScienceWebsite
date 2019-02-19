@@ -103,7 +103,7 @@ Descriptions of all the Wednesday afternoon breakout sessions are included below
     </ul>
   <li> 
     install Jupyter notebooks, including the R kernel, from the Python anaconda system.  Check that the R kernel is working. This step is optional, as the session can be conducted from an interactive R console.  
-    </ul>    
+    </ol>
 <h3 id="cody">A Crowded Field Photometry Challenge</h3>
 <p>Kepler is known for its exoplanet discoveries and exquisite variable time series of many different types of stars. Hundreds of thousands of light curves are available from the mission’s pipeline as well as from community teams. Much of the data analysis to date has focused on moderately bright, isolated stars. Precise light curves remain to be extracted from fainter, more crowded targets that exist in star clusters, as well as the galactic bulge. Precision photometry for these objects is challenging, but achievable. To enable breakthrough progress of crowded field photometry, we are organizing a challenge in which participants will be provided in advance with a set of images from K2’s Campaign 9 fields. The goal will be for several teams to produce precision time series photometry on a small set of prespecified variable targets, using methods of their choosing. The breakout session will start with an introductory overview of the problem and potential science (20 mins). Next, a summary will be presented of the participating teams’ results, followed by a group discussion on the merits of the different techniques. To secure the success of the breakout, we will be providing the community with tutorial and data challenge materials ahead of the meeting.</p>
 <p><b>Attendee needs:</b> </p>
