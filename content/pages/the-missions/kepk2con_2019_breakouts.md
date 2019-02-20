@@ -61,7 +61,8 @@ Descriptions of all the Wednesday afternoon breakout sessions are included below
 
 ## Breakout summaries
 
-<h3 id="soderblom">Opportunities and Limitations of the Cluster Data from Kepler/K2 presented by David Soderblom</h3>
+<h3 id="soderblom">Opportunities and Limitations of the Cluster Data from Kepler/K2</h3>
+<h4> presented by David Soderblom</h4>
 <p> By providing significant samples of stars of the same age and composition, clusters are fundamental to astrophysics. Kepler and K2 have added greatly to our knowledge of stellar evolution, stellar behavior, and the nature of the clusters themselves. This breakout session will bring together researchers who have worked on clusters with Kepler/K2 or who want to understand better the opportunities that have not yet been explored. A panel will be assembled of people who have worked on Kepler/K2 for the Pleiades, Praesepe, Hyades, M67, star-forming regions, the 4 Kepler-field clusters and so on. Questions to be addressed include:</p>
 <ul>
   <li>How well have Kepler/K2 observed the clusters in the fields observed? Aspects include completeness relative to known members; brightness and mass ranges; confusion issues.</li>
