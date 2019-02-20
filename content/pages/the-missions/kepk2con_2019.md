@@ -1153,7 +1153,16 @@ If you are not planning on taking your poster with you at the end of the confere
 Registration for the poster competition for graduate students and postdocs will open at the registration desk on Monday morning. Each participant should mark their poster with a sticker which will be provided at the registration desk. Competition winners will be notified on Wednesday evening and will present a 5+2 min talk immediately after lunch on Friday.
 
 
-### Lodging, Parking, and Venue Information
+### Lodging, Parking, Venue and Food Information
+
+Coffee: Per NASA regulations, there is no registration fee for this conference and therefore, we do not have the funds to provide coffee or other refreshments during conference.  However, the hotel will offer a cash-only coffee and light snack service each morning from 8:30-10:30 am in the foyer outside the main conference room.  Prices for this service are listed
+<a href='here.', 'coffee_prices.pdf'>
+There is also a Coffee Bean and Tea Leaf, open from 5 am - 10 pm each day, at 101 E. Glenoaks Blvd., diagonally across the street from the hotel.  
+
+Food: The Hilton is near many restaurants and grocery stores which are listed on this 
+<a href='Local Map', 'Glendale_Local_Map.pdf'> 
+and 
+<a href='Restaurant Guide', 'Glendale_Restaurant_Guide.pdf'> 
 
 NOTE: Some conference registrants have reported receiving phone calls from the hotel asking for dates and other information.  This is a scam and you should not respond!  All registrants wishing to stay at the Glendale Hilton must make their reservations themselves; you will not receive a phone call asking for this information!
 
@@ -1165,11 +1174,9 @@ connect you with others interested as well.</a> You can also indicate
 interest upon registering for the meeting.
 
 For Attendees Staying at the Hotel: Self parking is free for this
-conference and includes in/out privileges.  </n>
+conference and includes in/out privileges.  When you check in, please tell the hotel that you have a car. </n>
 
-For Attendees Not Staying at the Hotel (Day Guests): Self parking is
-still free.  Just inform the attendant that you are attending the
-Kepler meeting. </n>
+For Attendees Not Staying at the Hotel (Day Guests): Self parking is still free.  Just inform the attendant that you are attending the Caltech/Kepler meeting. </n>
 
 Everyone: If you wish to use valet parking, the rate is $19/day.
 
