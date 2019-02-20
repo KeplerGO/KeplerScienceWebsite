@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 274 conference participants is below (last update: Feb. 15, 2019).
+The current list of 275 conference participants is below (last update: Feb. 15, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * Ruth Angus, AMNH
@@ -101,7 +101,8 @@ The current list of 274 conference participants is below (last update: Feb. 15, 
 * Kevin Hardegree-Ullman, Caltech/IPAC-NExScI
 * Yasuhiro Hasegawa, JPL/Caltech
 * Artie Hatzes, Thuringia State University
-* Christina Hedges, Kepler/K2 Guest Observers Office	
+* Christina Hedges, Kepler/K2 Guest Observers Office
+* George Helou, Caltech/IPAC
 * Calen Henderson, Caltech/IPAC
 * Miranda Herman, University of Toronto
 * JJ Hermes, Boston University	
