@@ -89,16 +89,15 @@ Note that some strongly suggest downloading software and data before the session
 
 ### Conference Agenda
 
-<b> <a href="../data/Kepler-K2-Science-Program-Block-v2.pdf"><i class="fa
-fa-download fa-margin"></i> Download the block schedule of the conference program in PDF format.</a> </b>
+<b> <a href="../data/Kepler-K2-Science-Program-Block-v3.pdf"><i class="fa
+fa-download fa-margin"></i> Download the block schedule of talks at the conference in PDF format.</a> </b>
 
-<b> <a href="../data/Kepler-K2-Science-Program-With-Abstracts-v2.pdf"><i class="fa
+<b> <a href="../data/Kepler-K2-Science-Posters-v3.pdf"><i class="fa
+fa-download fa-margin"></i> Download the list of posters at the conference in PDF format.</a> </b>
+
+<b> <a href="../data/Kepler-K2-Science-Program-With-Abstracts-v3.pdf"><i class="fa
 fa-download fa-margin"></i> Download the complete conference program
 (all talks and posters, with abstracts) in PDF format.</a> </b>
-
-<b> <a href="../data/Kepler-K2-Science-Program-Without-Abstracts-v2.pdf"><i class="fa
-fa-download fa-margin"></i> Download the complete conference program
-(all talks and posters, without abstracts) in PDF format.</a> </b>
 
 <div class="panel panel-primary" style="max-width:74em;">
   <div class="panel-heading">
