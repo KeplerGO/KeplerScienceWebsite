@@ -1160,7 +1160,7 @@ There is also a Coffee Bean and Tea Leaf, open from 5 am - 10 pm each day, at 10
 Food: The Hilton is near many restaurants and grocery stores which are listed on this 
 <a href="../data/Glendale_Local_Map.pdf">Local Map</a>
 and this
-<a href="../data/lendale_Restaurant_Guide.pdf">Restaurant Guide</a>
+<a href="../data/Glendale_Restaurant_Guide.pdf">Restaurant Guide</a>
 
 NOTE: Some conference registrants have reported receiving phone calls from the hotel asking for dates and other information.  This is a scam and you should not respond!  All registrants wishing to stay at the Glendale Hilton must make their reservations themselves; you will not receive a phone call asking for this information!
 
