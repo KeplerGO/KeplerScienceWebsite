@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 275 conference participants is below (last update: Feb. 15, 2019).
+The current list of 280 conference participants is below (last update: Feb. 15, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * Ruth Angus, AMNH
@@ -56,6 +56,7 @@ The current list of 275 conference participants is below (last update: Feb. 15, 
 * Trevor David, JPL
 * Tansu Daylan, MIT
 * Bartlomiej Debski, Astronomical Observatory of the Jagiellonian University
+* Sebastian Deheuvels, IRAP Toulouse
 * Atirath Dhara, West Windsor Plainsboro High School South
 * Shashank Dholakia, Unversity of California, Berkeley
 * Shishir Dholakia, Unversity of California, Berkeley
@@ -83,6 +84,7 @@ The current list of 275 conference participants is below (last update: Feb. 15, 
 * Eric Gaidos, University of Hawaii at Manoa
 * Abhinav Ganesh, California Institute of Technology
 * Rafael A. Garcia, CEA Saclay
+* Peter Garnavich, University of Notre Dame
 * Patrick Gaulme, Max Planck Insitute for Solar System Research
 * Moses Gbondo, Berea College
 * Dawn Gelino, IPAC/Caltech-NExScI
@@ -179,6 +181,7 @@ The current list of 275 conference participants is below (last update: Feb. 15, 
 * Richard Olenick, University of Dallas
 * Tannaz Oskui, CSULA/UCLA
 * James Owen, Imperial College London
+* Andras Pal, Konkoly Observatory
 * Enric Palle, Instituto de Astrofisica de Canarias
 * Rishi Paudel, University of Delaware
 * Mario Perez, NASA HQ
@@ -194,6 +197,7 @@ The current list of 275 conference participants is below (last update: Feb. 15, 
 * Andrej Prsa, Villanova University
 * Elisa Quintana, NASA Goddard Space Flight Center
 * Andreas Quirrenbach, Univ. Heidelberg
+* Darin Ragozzine, Brigham Young University
 * Rayna Rampalli, Columbia University
 * Gavin Ramsay, Armagh Observatory
 * Rabeea Rasheed, ABNP
@@ -274,6 +278,7 @@ The current list of 275 conference participants is below (last update: Feb. 15, 
 * Padma Yanamandra-Fisher, Space Science Institute
 * Mitchell Yenawine, San Diego State University
 * Lin Yi, JPL
+* Jie Yu, University of Sydney
 * Shangjia Zhang, University of Nevada, Las Vegas
 * Wei Zhu, Canadian Institute for Theoretical Astrophysics
 * Jon Zink, UCLA
