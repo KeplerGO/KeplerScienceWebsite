@@ -1,7 +1,7 @@
 Title: Kepler & K2 SciCon V Participants
 Save_as: scicon-2019/participants.html
 
-The current list of 280 conference participants is below (last update: Feb. 15, 2019).
+The current list of 282 conference participants is below (last update: Feb. 15, 2019).
 
 * Kiran Adhikari, Tribhuvan University
 * Ruth Angus, AMNH
@@ -70,6 +70,7 @@ The current list of 280 conference participants is below (last update: Feb. 15, 
 * Barbara Endl, Baylor University
 * Michael Endl, University of Texas at Austin
 * Raissa Estrela, JPL/Caltech
+* Barbara Falkowski, Glendale Community College
 * Eric Feigelson, Penn State University
 * Tara Fetherolf, Unversity of California, Riverside
 * Jordan Fleming, Unversity of California, Berkeley
@@ -136,6 +137,7 @@ The current list of 280 conference participants is below (last update: Feb. 15, 
 * Alexander Kosovichev, New Jersey Institute of Technology
 * Veselin Kostov, NASA/SETI Institute	
 * Adam Kraus, UT Austin
+* Jennifer Krestow, Glendale Community College
 * Ethan Kruse, NASA Goddard Space Flight Center
 * Daryll LaCourse, PlanetHunters.org
 * Pierre-Olivier Lagage, CEA-Paris-Saclay University
