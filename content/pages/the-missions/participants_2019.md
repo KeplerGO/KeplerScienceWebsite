@@ -262,6 +262,7 @@ The current list of 282 conference participants is below (last update: Feb. 15, 
 * Kamal Uddin, NASA Ames
 * Steve Unwin, Caltech/JPL
 * Adriana Valio, CRAAM-Mackenzie University
+* Julian van Eyken, Caltech/IPAC-NExScI
 * Vincent Van Eylen, Princeton University
 * Zach Vanderbosch, University of Texas at Austin
 * Andrew Vanderburg, University of Texas at Austin
