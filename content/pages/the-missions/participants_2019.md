@@ -164,7 +164,7 @@ The current list of 282 conference participants is below (last update: Feb. 15, 
 * Andrew Mayo, UC Berkeley
 * Katelynn McCalmont-Everton, Ball Aerospace
 * Bertrand Mennesson, JPL
-* Kenneth Mighell, NOAO
+* Kenneth Mighell, SETI/NASA Ames
 * Basil Miller, Henderson State University
 * Sarah Millholland, Yale University
 * Teo Mocnik, UC Riverside
