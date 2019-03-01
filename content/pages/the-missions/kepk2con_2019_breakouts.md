@@ -48,7 +48,7 @@ Descriptions of all the Wednesday afternoon breakout sessions are included below
 </tr>
 <tr>
 <td style="width: 20em;"><a href="#barclay">Community Data Products and Early Science from the TESS Mission</a></td>
-<td style="width: 12em;">Tom Barclay (Univ. of Maryland) & Knicole Colon (NASA GSFC) </td>
+<td style="width: 12em;">Tom Barclay (NASA GSFC/UMBC) & Knicole Colon (NASA GSFC) </td>
 <td style="width: 9em;">Room: tbd</td>
 </tr>
 <tr>
@@ -119,7 +119,18 @@ Descriptions of all the Wednesday afternoon breakout sessions are included below
 <p><b>Attendee needs:</b> a laptop to try demos</p>
 <h3 id="barclay">Community Data Products and Early Science from the TESS Mission</h3>
   <h4> presented by Tom Barclay and Knicole Colon</h4>
-<p>Since beginning science operations in July 2018, TESS is poised to provide a wealth of data on a wide variety of astrophysical objects, ranging from solar system bodies to exoplanets to stars to galaxies. We will provide an overview and update on data products and toolkits available for use by the broader community to enable TESS data analysis. These products and toolkits are supported by both active members of the community and the TESS Guest Investigator Program Office. We will also highlight early science results produced by the community, based on the first few months of TESS data.</p>
+  <p>Since beginning science operations in July 2018, TESS is poised to provide a wealth of data on a wide variety of astrophysical objects, ranging from solar system bodies to exoplanets to stars to galaxies. We will provide an overview and update on data products and toolkits available for use by the broader community to enable TESS data analysis. These products and toolkits are supported by both active members of the community and the TESS Guest Investigator Program Office. We will also highlight early science results produced by the community, based on the first few months of TESS data.</p>
+
+<p> The complete schedule of speakers for this session is below: </p>
+
+<ul>
+  <li>Knicole Colon (NASA GSFC) - TESS GI Program Update</li>
+  <li>Scott Fleming (MAST) - A Review Of Seven Ways To Search and Interact With TESS Data At MAST </li>
+  <li>Lizhou Sha (MIT) - The MIT Quick Look Pipeline for TESS Full Frame Images: Performance and Early Results</li>
+  <li>Ryan Oelkers (Vanderbilt University) - Light Curves, Variability Statistics, and Interactive Visualization for All Stars in TESS Full Frame Images</li>
+  <li>Veselin Kostov (NASA GSFC/SETI Institute) - TESS-ting DAVE</li>
+</ul>
+   
 <p><b>Attendee needs:</b> none </p>
 <h3 id="rosenthal">RadVel: The Radial Velocity Fitting Toolkit</h3>
   <h4> presented by Lee Rosenthal </h4>

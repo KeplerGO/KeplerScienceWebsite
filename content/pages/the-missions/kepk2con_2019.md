@@ -89,7 +89,7 @@ Note that some strongly suggest downloading software and data before the session
 
 ### Conference Agenda
 
-<b> <a href="../data/Kepler-K2-Science-Program-Block-v3.pdf"><i class="fa
+<b> <a href="../data/Kepler-K2-Science-Program-Block-v4.pdf"><i class="fa
 fa-download fa-margin"></i> Download the block schedule of talks at the conference in PDF format.</a> </b>
 
 <b> <a href="../data/Kepler-K2-Science-Posters-v3.pdf"><i class="fa
@@ -389,7 +389,7 @@ Mass-Loss Mechanism: The Radius Valley as a Function of Stellar Mass
 <thead>
 <tr>
   <td> <b><i>  </i></b> </td>
-  <td><b><i>Session Chair: Jessie Dotson (NASA Ames)</i></b></td>
+  <td><b><i>Session Chair: Matthew Holman (Harvard University)</i></b></td>
   <td><b><i>Session 2: K2 Benchmark Systems</i></b></td>
 </tr>
 </thead>
@@ -711,7 +711,7 @@ Planet Parameters: Towards Precise Transit Ephemerides for the Benchmark System 
 
  <tr>
   <td>15:30-17:00</td>
-  <td>Tom Barclay (Univ. of Maryland)</td>
+  <td>Tom Barclay (NASA GSFC/UMBC) / Knicole Colon (NASA GSFC) </td>
   <td>Community Data Products and Early Science from the TESS Mission
 
 </tr>
@@ -800,7 +800,7 @@ Planet Parameters: Towards Precise Transit Ephemerides for the Benchmark System 
 <thead>
 <tr>
   <td> <b><i>  </i></b> </td>
-  <td><b><i>Session Chair: Matthew Holman (Harvard University)</i></b></td>
+  <td><b><i>Session Chair: Jessie Dotson (NASA Ames)</i></b></td>
   <td><b><i>Session 2: Exoplanets Over Time</i></b></td>
 </tr>
 </thead>
