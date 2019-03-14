@@ -3106,7 +3106,7 @@ These release notes are for the C5 data currently available at MAST (Data Releas
 
     <b><i>Most Recent Processing Version</i></b>
     <ul>
-    <li> <a href="k2-pipeline-release-notes.html#data-release-10">Data Release 10</a> </li>
+    <li> <a href="k2-pipeline-release-notes.html#data-release-31">Data Release 31</a> </li>
     </ul>
 
 </div>
@@ -3115,10 +3115,10 @@ These release notes are for the C5 data currently available at MAST (Data Releas
 
     <div class="thumbnail">
         <div class="caption">
-            <i>Figure: Schematic of Kepler's C5 field-of-view with observed targets shown with purple dots.</i>
-        </div>
-        <a href="images/campaign_selected/C5_selected.png">
-            <img src="images/campaign_selected/C5_selected.png" class="img-responsive" alt="C5 field-of-view with selected targets">
+        <i>Figure: Figure C5-FOV: Schematic of Kepler's C5 field-of-view with high profile objects.</i>
+    </div>
+    <a href="images/k2/k2-c05-field.png">
+        <img src="images/k2/k2-c05-field.png" class="img-responsive" alt="C5 field-of-view with selected targets">
         </a>
     </div>
 
@@ -3168,6 +3168,36 @@ One Argabrightening event was seen in the observed background level approximatel
 
 ***Light Curve Quality***
 
+As in other campaigns, the 6-hour spacecraft roll cycle dominates the systematic errors in C5 simple aperture photometry light curves.
+The pipeline CDPP 12th magnitude noise benchmark for C5 (DR31) is comparable to that seen in other campaigns with similar star density.
+
+The magnitude dependence of CDPP and its distribution over the focal
+plane are shown below. Other CDPP benchmarks can be found in the
+<a href="images/release-notes/c5/c5_bin1.00_sc1.00_CDPP_Summary_19021916.txt">
+table giving 6.5-hr CDPP as a function of magnitude.</a>
+
+<br>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C5-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>
+</div>
+<a href="images/release-notes/c5/cdpp_vs_mag_dr31.png">
+<img src="images/release-notes/c5/cdpp_vs_mag_dr31.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
+</a>
+</div>
+
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C5-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
+</div>
+<a href="images/release-notes/c5/c5_dwarf_CDPP_by_mod_out_dr31.png">
+<img src="images/release-notes/c5/c5_dwarf_CDPP_by_mod_out_dr31.png" class="img-responsive" alt="CDPP per channel for 12th and 14th magnitude dwarfs">
+</a>
+</div>
+
+
+<!--
+
 The dominant systematic present in K2 simple aperture photometry light curves is a sawtooth shape that is due to the roll of the spacecraft approximately every 6 hours. The PDC module of the Kepler Pipeline uses Principle Component Analysis to remove this signal in addition to other systematics. Below, we examine observed noise levels in the PDC light curves for C5, Data Release 7.
 
 <a href="images/release-notes/c5/K2-C05_CDPP_Summary.txt">Table giving 6.5-hr CDPP as a function of magnitude.</a>
@@ -3180,6 +3210,7 @@ The dominant systematic present in K2 simple aperture photometry light curves is
         <img src="images/release-notes/c5/K2-C05_logg_CDPP_vs_model.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
     </a>
 </div>
+-->
 
 <br>
 
