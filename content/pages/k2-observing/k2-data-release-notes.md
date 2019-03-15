@@ -3109,6 +3109,17 @@ These release notes are for the C5 data currently available at MAST (Data Releas
     <li> <a href="k2-pipeline-release-notes.html#data-release-31">Data Release 31</a> </li>
     </ul>
 
+<br>
+
+    <div class="thumbnail">
+        <div class="caption">
+            <i>Figure C5-Mag: Distribution of the Kepler magnitudes of observed LC targets in C5. All targets are chosen by Guest Observers. The bimodality is due to how the largest <a href="k2-approved-programs.html#campaign-5">Guest Observer programs</a> were selected.</i>
+        </div>
+        <a href="images/release-notes/c5/C5LcMagDistribution.png">
+            <img src="images/release-notes/c5/C5LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets in C5.">
+        </a>
+    </div>
+
 </div>
 
 <div class="col-lg-7">
@@ -3122,37 +3133,51 @@ These release notes are for the C5 data currently available at MAST (Data Releas
         </a>
     </div>
 
+
     <div class="thumbnail">
         <div class="caption">
-            <i>Figure: Distribution of the Kepler magnitudes of observed LC targets in C5. All targets are chosen by Guest Observers. The bimodality is due to how the largest <a href="k2-approved-programs.html#campaign-5">Guest Observer programs</a> were selected.</i>
-        </div>
-        <a href="images/release-notes/c5/C5LcMagDistribution.png">
-            <img src="images/release-notes/c5/C5LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets in C5.">
+        <i>Figure: Figure C5-FFI: A full frame image (FFI) taken during C5, with a flux scaling designed to highlight features of interest.</i>
+    </div>
+    <a href="images/release-notes/c5/C5R-FFI.png">
+        <img src="images/release-notes/c5/C5R-FFI.png" class="img-responsive" alt="A C5 FFI">
         </a>
     </div>
 
 </div>
 
+<br>
+
 <h2>Features and Events</h2>
 
 ***M67***
 
-The open cluster M67 was observed by collecting a 400x400 region of sky near the core of the cluster in modules 6.1 and 6.2. See the image below. These data are grouped into 72 custom apertures, each with a 50x50 pixel mask or smaller. Their data are listed by custom aperture number at the MAST in the range 200008644--200008715.
+The open cluster M67 was observed by collecting a 400x400 region of sky near the core of the cluster in modules 6.1 and 6.2. See Figures M67-Tile and M67-FFI below. These data are grouped into 72 custom apertures, each with a 50x50 pixel mask or smaller. Their data are listed by custom aperture number at the MAST in the range 200008644&ndash;200008715.
 
-<div class="thumbnail" style="width: 68%;">
+<div class="thumbnail" style="width: 100%;">
     <div class="caption">
-        <i>Figure: The tiling of the M67 open cluster is shown in green on mod.outs 6.1 and 6.2 of C5.</i>
+        <i>Figure M67-Tile: The tiling of the M67 open cluster is shown in green on mod.outs 6.1 and 6.2 of C5.</i>
     </div>
     <a href="images/release-notes/c5/M67Tiling.png">
         <img src="images/release-notes/c5/M67Tiling.png" class="img-responsive" alt="The tiling of the M67 open cluster is shown in green on mod.outs 6.1 and 6.2 of C5.">
     </a>
 </div>
 
+<div class="thumbnail" style="width: 100%;">
+    <div class="caption">
+        <i>Figure M67-FFI: The FFI image of M67 during C5, oriented to match Figure M67-Tile above and scaled to highlight features of interest.</i>
+    </div>
+    <a href="images/release-notes/c5/C5R-M67.png">
+        <img src="images/release-notes/c5/C5R-M67.png" class="img-responsive" alt="The FFI of the two channels that M67 spans during C5.">
+    </a>
+</div>
+
+
+
 <br>
 
 ***Trans-Neptunian Object***
 
-The Trans-Neptunian Object TNO (126154) 2001 YH140 was observed in Campaign 5 by creating 565 1 x n pixel target definitions (where n ranges from 4 to 21) that cover the path of the TNO. The custom aperture numbers range from 200008716 to 200009280.
+The Trans-Neptunian Object TNO (126154) 2001 YH140 was observed in Campaign 5 by creating 565 1xn pixel target definitions (where n ranges from 4 to 21) that cover the path of the TNO. The custom aperture numbers range from 200008716 to 200009280.
 
 <br>
 
@@ -3186,14 +3211,7 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 </a>
 </div>
 
-<div class="thumbnail" style="width: 90%;">
-<div class="caption">
-<i>Figure C5-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
-</div>
-<a href="images/release-notes/c5/c5_dwarf_CDPP_by_mod_out_dr31.png">
-<img src="images/release-notes/c5/c5_dwarf_CDPP_by_mod_out_dr31.png" class="img-responsive" alt="CDPP per channel for 12th and 14th magnitude dwarfs">
-</a>
-</div>
+
 
 
 <!--
@@ -3465,7 +3483,7 @@ These release notes are for the C3 data currently available at MAST (Data Releas
 
     <div class="thumbnail">
         <div class="caption">
-            <i>Figure: Distribution of the Kepler magnitudes of observed LC targets in C3. The bimodality is due to the large Guest Observer programs selected for C3.</i>
+            <i>Figure C3-Mag: Distribution of the Kepler magnitudes of observed LC targets in C3. The bimodality is due to the large Guest Observer programs selected for C3.</i>
         </div>
         <a href="images/release-notes/c3/magnitudeDist.png">
             <img src="images/release-notes/c3/magnitudeDist.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets in C3.">
