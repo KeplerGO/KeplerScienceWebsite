@@ -676,7 +676,7 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td>13:30-15:00</td>
   <td>Eric Feigelson (Penn State University)</td>
-  <td>Finding Planets in Kepler Lightcurves with R</td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Breakout-Feigelson.pdf">Finding Planets in Kepler Lightcurves with R</a></td>
 </tr>
 
  <tr>
