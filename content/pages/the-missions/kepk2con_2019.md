@@ -295,7 +295,7 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td>16:15-16:30</td>
   <td>Timothy Morton (University of Florida)</td>
-  <td>The Probabilistic Validation Revolution: How Kepler Forced a Paradigm Shift in How We Treat Transiting Planet Candidates</td>
+  <td><a href="http://slides.com/timmorton/kepler2019">The Probabilistic Validation Revolution: How Kepler Forced a Paradigm Shift in How We Treat Transiting Planet Candidates</a></td>
 </tr>
 
  <tr>
@@ -569,7 +569,7 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td>09:00-09:15</td>
   <td>Dennis Stello (University of New South Wales)</td>
-  <td>The K2 Galactic Archaeology Program: revealing the jigsaw puzzle one campaign at a time</td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Wed-am-Stello.pdf">The K2 Galactic Archaeology Program: revealing the jigsaw puzzle one campaign at a time</td>
 </tr>
 
  <tr>
