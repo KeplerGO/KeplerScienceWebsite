@@ -136,14 +136,14 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td style="width:8em;">08:30-09:00</td>
  <td style="width:14em;">Bill Borucki (NASA Ames) </td>
-  <td style="width:20em;"><a href="talks/KeplerSciConV-Mon-am-Borucki.pdf">History of the Kepler Mission</a>
+  <td style="width:20em;"><a href="../data/KepSciConV/KeplerSciConV-Mon-am-Borucki.pdf">History of the Kepler Mission</a>
   (<b><i>invited</i></b>)</td>
 </tr>
 
  <tr>
   <td>09:00-09:30</td>
   <td>Katelynn McCalmont (Ball Aerospace) </td>
-  <td><a href="talks/KeplerSciConV-Mon-am-McCalmont-Everton.pdf">Flying the Kepler Spacecraft's Second Mission: K2 Operations</a> (<b><i>invited</i></b>)</td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Mon-am-McCalmont-Everton.pdf">Flying the Kepler Spacecraft's Second Mission: K2 Operations</a> (<b><i>invited</i></b>)</td>
 </tr>
 
  <tr>
@@ -155,7 +155,7 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td>09:45-10:00</td>
   <td> Geert Barentsen (NASA Ames)</td>
-  <td><a href="talks/KeplerSciConV-Mon-am-Barentsen.pdf">Kepler's Discoveries Will Continue: 21 Scientific Opportunities with Kepler & K2 Archive Data</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Mon-am-Barentsen.pdf">Kepler's Discoveries Will Continue: 21 Scientific Opportunities with Kepler & K2 Archive Data</a></td>
   </tr>
 
  <tr>
@@ -179,33 +179,33 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td>10:30-11:00</td>
   <td> Mia Lundkvist (Aarhus University)</td>
-  <td><a href="talks/KeplerSciConV-Mon-am-Lundkvist.pdf">Asteroseismology of Exoplanet Host Stars from the Kepler/K2
+  <td><a href="../data/KepSciConV/KeplerSciConV-Mon-am-Lundkvist.pdf">Asteroseismology of Exoplanet Host Stars from the Kepler/K2
   missions</a> (<b><i>invited</i></b>)</td>
 </tr>
 
  <tr>
   <td>11:00-11:15</td>
   <td>Vincent Van Eylen (Princeton University) </td>
-  <td><a href="talks/KeplerSciConV-Mon-am-VanEylen.pdf">Understanding Planet Formation through Asteroseismology</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Mon-am-VanEylen.pdf">Understanding Planet Formation through Asteroseismology</a></td>
 </tr>
 
  <tr>
   <td>11:15-11:30</td>
   <td> Hilke Schlichting (UCLA)  </td>
-  <td><a href="talks/KeplerSciConV-Mon-am-Schlichting.pdf">Observational Signatures of the Core-Powered Mass-Loss Mechanism: The Radius Valley as a Function of Stellar Mass</a>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Mon-am-Schlichting.pdf">Observational Signatures of the Core-Powered Mass-Loss Mechanism: The Radius Valley as a Function of Stellar Mass</a>
 </td>
 </tr>
 
  <tr>
   <td>11:30-11:45</td>
   <td> Travis Berger (University of Hawaii)  </td>
-  <td><a href="talks/KeplerSciConV-Mon-am-Berger.pdf">Precise Characterization of Kepler Stars and Planets Using Gaia DR2</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Mon-am-Berger.pdf">Precise Characterization of Kepler Stars and Planets Using Gaia DR2</a></td>
   </tr>
   
    <tr>
   <td>11:45-12:00</td>
   <td> Benjamin Fulton (Caltech/IPAC-NExScI)</td>
-  <td><a href="talks/KeplerSciConV-Mon-am-Fulton.pdf">Revisiting the Radius Gap in the Era of Gaia</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Mon-am-Fulton.pdf">Revisiting the Radius Gap in the Era of Gaia</a></td>
   </tr>
 
  <tr>
@@ -229,37 +229,37 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td>13:30-13:45</td>
   <td>Matteo Cantiello (Flatiron Institute)</td>
-  <td><a href="talks/KeplerSciConV-Mon-pm-Cantiello.pdf">Internal Magnetic Fields Asteroseismology: Kepler's Legacy and TESS's Opportunities</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Mon-pm-Cantiello.pdf">Internal Magnetic Fields Asteroseismology: Kepler's Legacy and TESS's Opportunities</a></td>
 </tr>
 
  <tr>
   <td>13:45-14:00</td>
   <td>Angela Santos (Space Science Institute)</td>
-  <td><a href="talks/KeplerSciConV-Mon-pm-Santos.pdf">Seismic Signatures of Magnetic Activity in Solar-type Stars Observed by Kepler</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Mon-pm-Santos.pdf">Seismic Signatures of Magnetic Activity in Solar-type Stars Observed by Kepler</a></td>
 </tr>
 
  <tr>
   <td>14:00-14:15</td>
   <td>Ellianna Schwab Abrahams (UC Berkeley)</td>
-  <td><a href="talks/KeplerSciConV-Mon-pm-Schwab.pdf">The Fundamental and Magnetic Characteristics of M Dwarfs in the Kepler Field</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Mon-pm-Schwab.pdf">The Fundamental and Magnetic Characteristics of M Dwarfs in the Kepler Field</a></td>
 </tr>
 
  <tr>
   <td>14:15-14:30</td>
   <td>Michael Gully-Santiago (NASA Ames)</td>
-  <td><a href="talks/KeplerSciConV-Mon-pm-Gully-Santiago.pdf">K2 Constraints on Stellar Surface Inhomogeneities and their Systematic Bias of Transit-derived Exoplanet Densities</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Mon-pm-Gully-Santiago.pdf">K2 Constraints on Stellar Surface Inhomogeneities and their Systematic Bias of Transit-derived Exoplanet Densities</a></td>
   </tr>
 
  <tr>
   <td>14:30-14:45</td>
   <td>Sharon Xuesong Wang (Carnegie DTM)</td>
-  <td><a href="talks/KeplerSciConV-Mon-pm-Wang.pdf">RVxK2: Using Simultaneous Kepler Photometry to Mitigate Stellar Jitter</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Mon-pm-Wang.pdf">RVxK2: Using Simultaneous Kepler Photometry to Mitigate Stellar Jitter</a></td>
   </tr>
 
  <tr>
   <td>14:45-15:00</td>
   <td>Lisa Bugnet (CEA Saclay)</td>
-  <td><a href="talks/KeplerSciConV-Mon-pm-Bugnet.pdf">FliPer: A Powerful Tool to Detect and Characterise Solar-like Pulsators</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Mon-pm-Bugnet.pdf">FliPer: A Powerful Tool to Detect and Characterise Solar-like Pulsators</a></td>
   </tr>
 
  <tr>
@@ -283,13 +283,13 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td>15:30-16:00</td>
   <td>Courtney Dressing (UC Berkeley)</td>
-  <td><a href="talks/KeplerSciConV-Mon-pm-Dressing.pdf">Probing the Frequency of Planetary Systems with Kepler and K2</a> (<b><i>invited</i></b>)</td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Mon-pm-Dressing.pdf">Probing the Frequency of Planetary Systems with Kepler and K2</a> (<b><i>invited</i></b>)</td>
 </tr>
 
  <tr>
   <td>16:00-16:15</td>
   <td>Gijs Mulders (University of Chicago)</td>
-  <td><a href="talks/KeplerSciConV-Mon-pm-Mulders.pdf">Exoplanet Population Synthesis in the Era of Large Exoplanets Surveys</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Mon-pm-Mulders.pdf">Exoplanet Population Synthesis in the Era of Large Exoplanets Surveys</a></td>
 </tr>
 
  <tr>
@@ -301,13 +301,13 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td>16:30-16:45</td>
   <td>Marko Sestovic (University of Bern)</td>
-  <td><a href="talks/KeplerSciConV-Mon-pm-Sestovic.pdf">The Occurence Rate of Planets Around Ultracool Dwarfs</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Mon-pm-Sestovic.pdf">The Occurence Rate of Planets Around Ultracool Dwarfs</a></td>
   </tr>
 
  <tr>
   <td>16:45-17:00</td>
   <td>Christina Hedges (NASA Ames) </td>
-  <td><a href="talks/KeplerSciConV-Mon-pm-Hedges.pdf">Are There Any More Planets in the Kepler/K2 Data?</a>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Mon-pm-Hedges.pdf">Are There Any More Planets in the Kepler/K2 Data?</a>
   </tr>
   
   </tdata>
@@ -349,31 +349,31 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td style="width:8em;">08:30-09:00</td>
   <td style="width:14em;">Sarah Ballard (MIT) </td>
-  <td style="width:20em;"><a href="talks/KeplerSciConV-Tues-am-Ballard.pdf">Lessons from the Multi-planet Systems</a> (<b><i>invited</i></b>)</td>
+  <td style="width:20em;"><a href="../data/KepSciConV/KeplerSciConV-Tues-am-Ballard.pdf">Lessons from the Multi-planet Systems</a> (<b><i>invited</i></b>)</td>
 </tr>
 
  <tr>
   <td>09:00-09:15</td>
   <td>Christopher Shallue (Google Brain)</td>
-  <td><a href="talks/KeplerSciConV-Tues-am-Shallue.pdf">Can Deep Learning Help Find Earth Analogues?</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Tues-am-Shallue.pdf">Can Deep Learning Help Find Earth Analogues?</a></td>
 </tr>
 
  <tr>
   <td>09:15-09:30</td>
   <td>Michelle Hill (UC Riverside)</td>
-  <td><a href="talks/KeplerSciConV-Tues-am-Hill.pdf">Exploring Kepler Giant Planets in the Habitable Zone</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Tues-am-Hill.pdf">Exploring Kepler Giant Planets in the Habitable Zone</a></td>
 </tr>
 
  <tr>
   <td>09:30-09:45</td>
   <td>Kai Rodenbeck (Institute for Astrophysics, Gottingen)</td>
-  <td><a href="talks/KeplerSciConV-Tues-pm-Rodenbeck.pdf">Revisiting the Exomoon Candidate Signal Around Kepler-1625 b</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Tues-pm-Rodenbeck.pdf">Revisiting the Exomoon Candidate Signal Around Kepler-1625 b</a></td>
   </tr>
 
 <tr>
   <td>09:45-10:00</td>
   <td>Ashley Chontos (University of Hawaii)</td>
-  <td><a href="talks/KeplerSciConV-Tues-am-Chontos.pdf">The Curious Case of KOI-4: Confirming Kepler’s First Exoplanet</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Tues-am-Chontos.pdf">The Curious Case of KOI-4: Confirming Kepler’s First Exoplanet</a></td>
   </tr>
 
  <tr>
@@ -396,32 +396,32 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td>10:30-11:00</td>
   <td>Andrew Vanderburg (Caltech/IPAC-NExScI</td>
-  <td><a href="talks/KeplerSciConV-Tues-am-Vanderburg.pdf">Benchmark Exoplanet Systems Discovered by the K2 Mission</a> (<b><i>invited</i></b>)</td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Tues-am-Vanderburg.pdf">Benchmark Exoplanet Systems Discovered by the K2 Mission</a> (<b><i>invited</i></b>)</td>
 </tr>
 
  <tr>
   <td>11:00-11:15</td>
   <td>Juliette Becker (University of Michigan)</td>
-  <td><a href="talks/KeplerSciConV-Tues-am-Becker.pdf">Dynamically Determining Observationally Ill-Constrained Planet Parameters: Towards Precise Transit Ephemerides for the Benchmark System HIP 41378</a>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Tues-am-Becker.pdf">Dynamically Determining Observationally Ill-Constrained Planet Parameters: Towards Precise Transit Ephemerides for the Benchmark System HIP 41378</a>
 </td>
   </tr>
 
  <tr>
   <td>11:15-11:30</td>
   <td>Kevin Hardegree-Ullman (Caltech/IPAC-NExScI)</td>
-  <td><a href="talks/KeplerSciConV-Tues-am-Hardegree-Ullman.pdf">Space Telescope Synergy: Spitzer Follow-up of K2 Targets</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Tues-am-Hardegree-Ullman.pdf">Space Telescope Synergy: Spitzer Follow-up of K2 Targets</a></td>
   </tr>
 
  <tr>
   <td>11:30-11:45</td>
   <td>Joey Rodriguez (Harvard-Smithsonian CfA)</td>
-  <td><a href="talks/KeplerSciConV-Tues-am-Rodriguez.pdf">K2-266: A Compact Multi-Planet System With A Planet That Is "Way Out of Line"</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Tues-am-Rodriguez.pdf">K2-266: A Compact Multi-Planet System With A Planet That Is "Way Out of Line"</a></td>
   </tr>
 
  <tr>
   <td>11:45-12:00</td>
   <td>Fei Dai (MIT)</td>
-  <td><a href="talks/KeplerSciConV-Tues-am-Dai.pdf">New Perspective on the Ultra-short-period Planets</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Tues-am-Dai.pdf">New Perspective on the Ultra-short-period Planets</a></td>
   </tr>
 
  <tr>
@@ -445,7 +445,7 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td>13:30-13:45</td>
   <td>Rodrigo Luger (Flatiron Institute)</td>
-  <td><a href="talks/KeplerSciConV-Tues-pm-Luger.pdf">Gradient-based Inference Techniques for Exoplanet Light Curves</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Tues-pm-Luger.pdf">Gradient-based Inference Techniques for Exoplanet Light Curves</a></td>
   </tr>
 
  <tr>
@@ -457,19 +457,19 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td>14:00-14:30</td>
   <td>Krista Lynne Smith (Stanford University)</td>
-  <td><a href="talks/KeplerSciConV-Tues-pm-Smith.pdf">Kepler/K2 and Active Galactic Nuclei: New Insights into Accretion and High Energy Phenomena</a> (<b><i>invited</i></b>)</td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Tues-pm-Smith.pdf">Kepler/K2 and Active Galactic Nuclei: New Insights into Accretion and High Energy Phenomena</a> (<b><i>invited</i></b>)</td>
   </tr>
 
  <tr>
   <td>14:30-14:45</td>
   <td>Paula Szkody (University of Washington)</td>
-  <td><a href="talks/KeplerSciConV-Tues-pm-Szkody.pdf">Insights into Accretion in Cataclysmic Variables Gleaned from Kepler</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Tues-pm-Szkody.pdf">Insights into Accretion in Cataclysmic Variables Gleaned from Kepler</a></td>
   </tr>
 
  <tr>
   <td>14:45-15:00</td>
   <td>Ryan Ridden-Harper (Australian National University)</td>
-  <td><a href="talks/KeplerSciConV-Tues-pm-Ridden-Harper.pdf">Hunting Transients in K2 with the K2: Background Survey</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Tues-pm-Ridden-Harper.pdf">Hunting Transients in K2 with the K2: Background Survey</a></td>
   </tr>
 
  <tr>
@@ -493,31 +493,31 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td>15:30-16:00</td>
   <td>Peter Garnavich (University of Notre Dame) </td>
-  <td><a href="talks/KeplerSciConV-Tues-pm-Garnavich.pdf">Better Understanding Supernovae from Kepler/K2 Observations</a> (<b><i>invited</i></b>)</td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Tues-pm-Garnavich.pdf">Better Understanding Supernovae from Kepler/K2 Observations</a> (<b><i>invited</i></b>)</td>
 </tr>
 
  <tr>
   <td>16:00-16:15</td>
   <td>Georgios Dimitriadis (UC Santa Cruz)</td>
-  <td><a href="talks/KeplerSciConV-Tues-pm-Dimitriadis.pdf">K2 Observations of SN 2018oh Reveal a Two-Component Rising Light Curve for a Type Ia Supernova</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Tues-pm-Dimitriadis.pdf">K2 Observations of SN 2018oh Reveal a Two-Component Rising Light Curve for a Type Ia Supernova</a></td>
 </tr>
 
  <tr>
   <td>16:15-16:30</td>
   <td>Thomas Holoien (Carnegie Observatories)</td>
-  <td><a href="talks/KeplerSciConV-Tues-pm-Holoien.pdf">ASASSN-18bt: Evidence for Nickle on the Surface of a Type Ia Supernova Found by the Rising K2 Light Curve</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Tues-pm-Holoien.pdf">ASASSN-18bt: Evidence for Nickle on the Surface of a Type Ia Supernova Found by the Rising K2 Light Curve</a></td>
 </tr>
 
  <tr>
   <td>16:30-16:45</td>
   <td>Edward Shaya (University of Maryland)</td>
-  <td><a href="talks/KeplerSciConV-Tues-pm-Shaya.pdf">A Tidal Disruption Event in a Seyfert 2 Observed with K2</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Tues-pm-Shaya.pdf">A Tidal Disruption Event in a Seyfert 2 Observed with K2</a></td>
   </tr>
 
  <tr>
   <td>16:45-17:00</td>
   <td>Armin Rest (STScI)</td>
-  <td><a href="talks/KeplerSciConV-Tues-pm-Rest.pdf">A Fast-Evolving, Luminous Transient Discovered by K2/Kepler</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Tues-pm-Rest.pdf">A Fast-Evolving, Luminous Transient Discovered by K2/Kepler</a></td>
   </tr>
 
  <tr>
@@ -563,7 +563,7 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td style="width:8em;">08:30-09:00</td>
   <td style="width:14em;">Marc Pinsonneault (Ohio State University)</td>
-  <td style="width:20em;"><a href="talks/KeplerSciConV-Wed-am-Pinsonneault.pdf">Galactic Archeology with Kepler and K2</a> (<b><i>invited</i></b>)</td>
+  <td style="width:20em;"><a href="../data/KepSciConV/KeplerSciConV-Wed-am-Pinsonneault.pdf">Galactic Archeology with Kepler and K2</a> (<b><i>invited</i></b>)</td>
 </tr>
 
  <tr>
@@ -575,19 +575,19 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td>09:15-09:30</td>
   <td>Jie Yu (University of Sydney)</td>
-  <td><a href="talks/KeplerSciConV-Wed-am-Yu.pdf">Ensemble Asteroseismology of 20,000 Oscillating Red Giants Observed by Kepler</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Wed-am-Yu.pdf">Ensemble Asteroseismology of 20,000 Oscillating Red Giants Observed by Kepler</a></td>
 </tr>
 
  <tr>
   <td>09:30-09:45</td>
   <td>Rafael Garcia (CEA Saclay)</td>
-  <td><a href="talks/KeplerSciConV-Wed-am-Garcia.pdf">A Comprehensive Full Kepler Red Giant Legacy Catalog</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Wed-am-Garcia.pdf">A Comprehensive Full Kepler Red Giant Legacy Catalog</a></td>
  </tr>
 
 <tr>
   <td>09:45-10:00</td>
   <td>Daniel Huber (University of Hawaii)</td>
-  <td><a href="talks/KeplerSciConV-Wed-am-Huber.pdf">An Asteroseismic Age for the Galactic Halo Measured with Distant Kepler Giants</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Wed-am-Huber.pdf">An Asteroseismic Age for the Galactic Halo Measured with Distant Kepler Giants</a></td>
   </tr>
 
  <tr>
@@ -611,25 +611,25 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td>10:30-10:45</td>
   <td>Adam Kraus (UT Austin) </td>
-  <td><a href="talks/KeplerSciConV-Wed-am-Kraus.pdf">The Perilous Lives of Planets in Binary Star Systems</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Wed-am-Kraus.pdf">The Perilous Lives of Planets in Binary Star Systems</a></td>
 </tr>
 
  <tr>
   <td>10:45-11:00</td>
   <td>Rachel Matson (NASA Ames)</td>
-  <td><a href="talks/KeplerSciConV-Wed-am-Matson.pdf">Detecting Unresolved Binaries in Exoplanet Transit Surveys with Speckle Imaging</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Wed-am-Matson.pdf">Detecting Unresolved Binaries in Exoplanet Transit Surveys with Speckle Imaging</a></td>
 </tr>
 
  <tr>
   <td>11:00-11:15</td>
   <td>Nicole Hess (Southern Connecticut State University)</td>
-  <td><a href="talks/KeplerSciConV-Wed-am-Hess.pdf">Identifying Bound Stellar Companions to Kepler Exoplanet Host Stars With Speckle Imaging</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Wed-am-Hess.pdf">Identifying Bound Stellar Companions to Kepler Exoplanet Host Stars With Speckle Imaging</a></td>
 </tr>
 
  <tr>
   <td>11:15-11:30</td>
   <td>Wei Zhu (Canadian Institute of Theoretical Astrophysics)</td>
-  <td><a href="talks/KeplerSciConV-Wed-am-Zhu.pdf">Many Kepler Planets have Distant Companions</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Wed-am-Zhu.pdf">Many Kepler Planets have Distant Companions</a></td>
   </tr>
 
 <tr>
@@ -755,31 +755,31 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td style="width:8em;">08:30-09:00</td>
  <td style="width:14em;">Ruth Angus (AMNH and The Flatiron Institute)</td>
-  <td style="width:20em;"><a href="talks/KeplerSciConV-Thur-am-Angus.pdf">The Kepler Revolution: Stellar Rotation and Activity in Clusters and the Field</a> (<b><i>invited</i></b>)</td>
+  <td style="width:20em;"><a href="../data/KepSciConV/KeplerSciConV-Thur-am-Angus.pdf">The Kepler Revolution: Stellar Rotation and Activity in Clusters and the Field</a> (<b><i>invited</i></b>)</td>
 </tr>
 
  <tr>
   <td>09:00-09:15</td>
   <td>Jason Curtis (Columbia University)</td>
-  <td><a href="talks/KeplerSciConV-Thur-am-Curtis.pdf">Building Precision Stellar Clocks with Kepler and Gaia</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Thur-am-Curtis.pdf">Building Precision Stellar Clocks with Kepler and Gaia</a></td>
 </tr>
 
  <tr>
   <td>09:15-09:30</td>
   <td>Beate Stelzer (University of Tuebingen)</td>
-  <td><a href="talks/KeplerSciConV-Thur-am-Stelzer.pdf">The Rotation-activity-age Relation of M Dwarfs in the Era of Kepler and K2</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Thur-am-Stelzer.pdf">The Rotation-activity-age Relation of M Dwarfs in the Era of Kepler and K2</a></td>
 </tr>
 
  <tr>
   <td>09:30-09:45</td>
   <td>Lauren Doyle (Armagh Observatory and Planetarium)</td>
-  <td><a href="talks/KeplerSciConV-Thur-am-Doyle.pdf">The Rotational Phase Distribution of Stellar Flares on M dwarfs</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Thur-am-Doyle.pdf">The Rotational Phase Distribution of Stellar Flares on M dwarfs</a></td>
   </tr>
 
  <tr>
   <td>09:45-10:00</td>
   <td>Joshua Reding (UNC Chapel Hill)</td>
-  <td><a href="talks/KeplerSciConV-Wed-pm-Reding.pdf">The Confluence of Hardware Failures That Lead to the Discovery of the Most Rapidly Rotating Isolated White Dwarf</a>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Wed-pm-Reding.pdf">The Confluence of Hardware Failures That Lead to the Discovery of the Most Rapidly Rotating Isolated White Dwarf</a>
 </td>
   </tr>
 
@@ -804,31 +804,31 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td>10:30-11:00</td>
   <td>Andrew Mann (UNC Chapel Hill)</td>
-  <td><a href="talks/KeplerSciConV-Thur-am-Mann.pdf">Tracing Planetary Evolution with K2</a> (<b><i>invited</i></b>)</td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Thur-am-Mann.pdf">Tracing Planetary Evolution with K2</a> (<b><i>invited</i></b>)</td>
 </tr>
 
  <tr>
   <td>11:00-11:15</td>
   <td>Ann Marie Cody (BAERI/NASA Ames)</td>
-  <td><a href="talks/KeplerSciConV-Thur-am-Cody.pdf">Young Stars in the Time Domain: The View with Kepler</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Thur-am-Cody.pdf">Young Stars in the Time Domain: The View with Kepler</a></td>
 </tr>
 
  <tr>
   <td>11:15-11:30</td>
   <td>Eric Gaidos (University of Hawaii)</td>
-  <td><a href="talks/KeplerSciConV-Thur-am-Gaidos.pdf">What Orbits a Mysterious Young "Dipper" Star in Taurus?</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Thur-am-Gaidos.pdf">What Orbits a Mysterious Young "Dipper" Star in Taurus?</a></td>
   </tr>
 
  <tr>
   <td>11:30-11:45</td>
   <td>Laura Venuti (NPP Fellow, NASA Ames Research Center)</td>
-  <td><a href="talks/KeplerSciConV-Thur-am-Venuti.pdf">A Dynamical View of Star-disk Interaction Processes in the Lagoon Nebula with Kepler/K2</a></td>  
+  <td><a href="../data/KepSciConV/KeplerSciConV-Thur-am-Venuti.pdf">A Dynamical View of Star-disk Interaction Processes in the Lagoon Nebula with Kepler/K2</a></td>  
   </tr>
 
  <tr>
   <td>11:45-12:00</td>
   <td>Samuel Grunblatt (University of Hawaii)</td>
-  <td><a href="talks/KeplerSciConV-Thur-am-Grunblatt.pdf">Planetary Archaeology: Exploring the Planet Population of Evolved Stars</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Thur-am-Grunblatt.pdf">Planetary Archaeology: Exploring the Planet Population of Evolved Stars</a></td>
   </tr>
 
  <tr>
@@ -852,19 +852,19 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td>13:30-14:00</td>
  <td>Patrick Gaulme (Max Planck Institut fur Sonnensystemforschung)</td>
-  <td><a href="talks/KeplerSciConV-Thur-pm-Gaulme.pdf">Asteroseismology, Red Giants, and Eclipsing Binaries</a> (<b><i>invited</i></b>) </td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Thur-pm-Gaulme.pdf">Asteroseismology, Red Giants, and Eclipsing Binaries</a> (<b><i>invited</i></b>) </td>
 </tr>
 
  <tr>
   <td>14:00-14:15</td>
   <td>Timothy White (Australian National University)</td>
-  <td><a href="talks/KeplerSciConV-Thur-pm-White.pdf">Testing Asteroseismic Ages of Red Giants with the Hyades</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Thur-pm-White.pdf">Testing Asteroseismic Ages of Red Giants with the Hyades</a></td>
 </tr>
 
  <tr>
   <td>14:15-14:30</td>
   <td>Benjamin Pope (New York University)</td>
-  <td><a href="https://benjaminpope.github.io/talks/kepscicon/kepscicon.html">Naked-Eye Stars in Kepler and K2</a></td>
+  <td><a href="https://benjaminpope.github.io/../data/KepSciConV/kepscicon/kepscicon.html">Naked-Eye Stars in Kepler and K2</a></td>
 </tr>
 
  <tr>
@@ -876,7 +876,7 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td>14:45-15:00</td>
   <td>Simon Murphy (University of Sydney)</td>
-  <td><a href="talks/KeplerSciConV-Thur-pm-Murphy.pdf">Pulsating Stars in Binaries</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Thur-pm-Murphy.pdf">Pulsating Stars in Binaries</a></td>
   </tr>
 
  <tr>
@@ -900,7 +900,7 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td>15:30-16:00</td>
   <td>Lauren Weiss (University of Hawaii)</td>
-  <td><a href="talks/KeplerSciConV-Thur-pm-Weiss.pdf">Planetary System Architectures and Dynamics</a> (<b><i>invited</i></b>) </td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Thur-pm-Weiss.pdf">Planetary System Architectures and Dynamics</a> (<b><i>invited</i></b>) </td>
 </tr>
 
  <tr>
@@ -913,19 +913,19 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td>16:15-16:30</td>
   <td>Darin Ragozzine (Brigham Young University)</td>
-  <td><a href="talks/KeplerSciConV-Thur-pm-Ragozzine.pdf">Getting More Out of Information-rich Kepler Multis That Show TTVs</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Thur-pm-Ragozzine.pdf">Getting More Out of Information-rich Kepler Multis That Show TTVs</a></td>
 </tr>
 
  <tr>
   <td>16:30-16:45</td>
   <td>Sarah Millholland (Yale University)</td>
-  <td><a href="talks/KeplerSciConV-Thur-pm-Millholland.pdf">Obliquity Tides and their Role in Understanding the Kepler Planet Period Ratio Distribution</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Thur-pm-Millholland.pdf">Obliquity Tides and their Role in Understanding the Kepler Planet Period Ratio Distribution</a></td>
   </tr>
 
  <tr>
   <td>16:45-17:00</td>
   <td>Miranda Herman (University of Toronto)</td>
-  <td><a href="talks/KeplerSciConV-Thur-pm-Herman.pdf">Revisiting the Long-Period Transiting Planets from Kepler</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Thur-pm-Herman.pdf">Revisiting the Long-Period Transiting Planets from Kepler</a></td>
   </tr>
 
  <tr>
@@ -971,31 +971,31 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td style="width:8em;">08:30-09:00</td>
   <td style="width:14em;">Sebastian Deheuvels (IRAP Toulouse)</td>
-  <td style="width:20em;"><a href="talks/KeplerSciConV-Fri-am-Deheuvels.pdf">Monitoring the Internal Rotation of Stars Along Their Evolution with Kepler</a> (<b><i>invited</i></b>) </td>
+  <td style="width:20em;"><a href="../data/KepSciConV/KeplerSciConV-Fri-am-Deheuvels.pdf">Monitoring the Internal Rotation of Stars Along Their Evolution with Kepler</a> (<b><i>invited</i></b>) </td>
 </tr>
 
  <tr>
   <td>09:00-09:15</td>
   <td>Jim Fuller (Caltech)</td>
-  <td><a href="talks/KeplerSciConV-Fri-am-Fuller.pdf">A Solution to the Slow Spins of Stellar Cores</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Fri-am-Fuller.pdf">A Solution to the Slow Spins of Stellar Cores</a></td>
 </tr>
 
  <tr>
   <td>09:15-09:30</td>
   <td>Barbara Endl (Baylor University)</td>
-  <td><a href="talks/KeplerSciConV-Fri-am-Endl.pdf">Asteroseismology of White Dwarfs Observed by Kepler and K2</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Fri-am-Endl.pdf">Asteroseismology of White Dwarfs Observed by Kepler and K2</a></td>
 </tr>
 
  <tr>
   <td>09:30-09:45</td>
   <td>Roberto Szabo (MTA CSFK, Konkoly Observatory)</td>
-  <td><a href="talks/KeplerSciConV-Fri-am-Szabo.pdf">Classical Pulsating Variables in the Kepler/K2 Era</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Fri-am-Szabo.pdf">Classical Pulsating Variables in the Kepler/K2 Era</a></td>
   </tr>
 
  <tr>
   <td>09:45-10:00</td>
   <td>Katrien Kolenberg (KU Leuven, University of Antwerp)</td>
-  <td><a href="talks/KeplerSciConV-Fri-am-Kolenberg.pdf">RR Lyr: An Old Friend in a New Light, with Kepler</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Fri-am-Kolenberg.pdf">RR Lyr: An Old Friend in a New Light, with Kepler</a></td>
   </tr>
 
  <tr>
@@ -1019,33 +1019,33 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td>10:30-10:45</td>
   <td>David Ciardi (Caltech/IPAC-NExScI)</td>
-  <td><a href="talks/KeplerSciConV-Fri-am-Ciardi.pdf">The Legacy of Kepler and K2: The Follow-up Observation Programs</a>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Fri-am-Ciardi.pdf">The Legacy of Kepler and K2: The Follow-up Observation Programs</a>
   </td>
 </tr>
 
  <tr>
   <td>10:45-11:00</td>
   <td>David Latham (Harvard-Smithsonian CfA) </td>
-  <td><a href="talks/KeplerSciConV-Fri-am-Latham.pdf">Contributions from HARPS-N to the Mass-Radius Diagram for Kepler/K2 Planets</a> 
+  <td><a href="../data/KepSciConV/KeplerSciConV-Fri-am-Latham.pdf">Contributions from HARPS-N to the Mass-Radius Diagram for Kepler/K2 Planets</a> 
   </td>
 </tr>
 
  <tr>
   <td>11:00-11:15</td>
   <td>Erik Petigura (Caltech)</td>
-  <td><a href="talks/KeplerSciConV-Fri-am-Petigura.pdf">Metal-rich Stars Host a Greater Diversity of Planets</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Fri-am-Petigura.pdf">Metal-rich Stars Host a Greater Diversity of Planets</a></td>
 </tr>
 
  <tr>
   <td>11:15-11:30</td>
   <td>Cintia Fernanda Martinez (Observatorio Nacional)</td>
-  <td><a href="talks/KeplerSciConV-Fri-am-Martinez.pdf">An Independent Spectroscopic Analysis of the California-Kepler Survey Sample: A Slope in the Small Planet Radius Gap</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Fri-am-Martinez.pdf">An Independent Spectroscopic Analysis of the California-Kepler Survey Sample: A Slope in the Small Planet Radius Gap</a></td>
   </tr>
 
  <tr>
   <td>11:30-11:45</td>
   <td>Eric Mamajek (NASA JPL/Caltech)</td>
-  <td><a href="talks/KeplerSciConV-Fri-am-Mamajek.pdf">Small (In)temperate Planets: A Closer Look at Habitable Zone Terrestrial-sized Planet Candidates</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Fri-am-Mamajek.pdf">Small (In)temperate Planets: A Closer Look at Habitable Zone Terrestrial-sized Planet Candidates</a></td>
   </tr>
 
  <tr>
@@ -1085,19 +1085,19 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td>13:45-14:00</td>
   <td>Andras Pal (Konkoly Observatory)</td>
-  <td><a href="talks/KeplerSciConV-Fri-pm-Pal.pdf">New Results with K2 in Solar System Exploration</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Fri-pm-Pal.pdf">New Results with K2 in Solar System Exploration</a></td>
 </tr>
 
  <tr>
   <td>14:00-14:15</td>
   <td>Jessie Dotson (NASA Ames)</td>
-  <td><a href="talks/KeplerSciConV-Fri-pm-Dotson.pdf">Observations of Solar System Objects with K2</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Fri-pm-Dotson.pdf">Observations of Solar System Objects with K2</a></td>
 </tr>
 
  <tr>
   <td>14:15-14:30</td>
   <td>Andrea Fortier (University of Bern)</td>
-  <td><a href="talks/KeplerSciConV-Fri-pm-Fortier.pdf">The CHEOPS Mission</a></td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Fri-pm-Fortier.pdf">The CHEOPS Mission</a></td>
 </tr>
 
  <tr>
@@ -1109,7 +1109,7 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td>14:45-15:15</td>
   <td>Jessie Christiansen (Caltech/IPAC-NExScI) </td>
-  <td><a href="talks/KeplerSciConV-Fri-pm-Christiansen.pdf">Reflections</a> (<b><i>invited</i></b>) </td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Fri-pm-Christiansen.pdf">Reflections</a> (<b><i>invited</i></b>) </td>
   </tr>
   
   </tdata>
