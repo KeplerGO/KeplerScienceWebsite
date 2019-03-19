@@ -1112,6 +1112,12 @@ fa-download fa-margin"></i> Download the complete conference program
   <td><a href="../data/KepSciConV/KeplerSciConV-Fri-pm-Christiansen.pdf">Reflections</a> (<b><i>invited</i></b>) </td>
   </tr>
   
+ <tr>
+  <td>15:15</td>
+  <td>Jessie Christiansen, Padi Boyd, Katrien Kolenberg, Tim Morton, Stephen Bryson, Angie Wolfgang, and the Endl family.</td>
+  <td><a href="https://www.youtube.com/watch?v=SN7TxbnbDcQ">Kepler tribute song</a> (YouTube video)</td>
+  </tr>
+
   </tdata>
 
 </table>
