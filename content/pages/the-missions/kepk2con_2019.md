@@ -1051,7 +1051,7 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td>11:30-11:45</td>
   <td>Ian Crossfield (MIT)</td>
-  <td>Atmospheric Characterization of Kepler/K2 Planets</td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Fri-am-Crossfield.pdf">Atmospheric Characterization of Kepler/K2 Planets</a></td>
   </tr>
 
  <tr>
