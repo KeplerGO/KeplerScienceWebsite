@@ -636,7 +636,7 @@ fa-download fa-margin"></i> Download the complete conference program
 <tr>
   <td>11:30-12:00</td>
   <td>Chris Lintott (University of Oxford)</td>
-  <td>Citizen Science with Kepler and K2 (<b><i>invited</i></b>)</td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Wed-am-Lintott.pdf">Citizen Science with Kepler and K2</a> (<b><i>invited</i></b>)</td>
   </tr>
 
  <tr>
