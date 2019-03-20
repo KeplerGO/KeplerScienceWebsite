@@ -192,7 +192,8 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td>11:15-11:30</td>
   <td> Hilke Schlichting (UCLA)  </td>
-  <td><a href="../data/KepSciConV/KeplerSciConV-Mon-am-Schlichting.pdf">Observational Signatures of the Core-Powered Mass-Loss Mechanism: The Radius Valley as a Function of Stellar Mass</a>
+<!-- <td><a href="../data/KepSciConV/KeplerSciConV-Mon-am-Schlichting.pdf">Observational Signatures of the Core-Powered Mass-Loss Mechanism: The Radius Valley as a Function of Stellar Mass</a>) -->
+  <td>Observational Signatures of the Core-Powered Mass-Loss Mechanism: The Radius Valley as a Function of Stellar Mass
 </td>
 </tr>
 
