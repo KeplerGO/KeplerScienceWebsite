@@ -19,7 +19,7 @@ href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon</a>).</b>
 <div style="clear: both;"></div>
 </div>
 
-### Important Dates 
+## Important Dates 
 
 <table class="table table-striped table-hover" style="max-width:55em;">
 
@@ -80,16 +80,17 @@ until the late poster only deadline of Feb. 5, 2019</a>.  Abstracts for oral pre
 Note that Wednesday afternoon (March 6) is set aside for breakout sessions to enable the community to discuss and work on Kepler/K2 related projects.
 We envision these sessions will be more hands on, unconference sessions of broad interest to the community.
 Examples of breakout sessions include panel discussions, hack activities, work meetings of large collaborations, or tutorials to use data/software products related to Kepler/K2.
---->
 
-### Breakout Sessions
+## Breakout Sessions
 
 Wednesday afternoon will be devoted to breakout sessions, descriptions of which can be found 
 <a href='breakouts.html'>here</a>.
 
 Note that some strongly suggest downloading software and data before the session since wifi during the conference is not designed for large data downloads.  You will be able to sign up for the breakout sessions at registration.</p>
 
-### Conference Agenda
+--->
+
+## Conference Agenda
 
 <b> <a href="../data/Kepler-K2-Science-Program-Block-v4.pdf"><i class="fa
 fa-download fa-margin"></i> Download the block schedule of talks at the conference in PDF format.</a> </b>
@@ -100,6 +101,8 @@ fa-download fa-margin"></i> Download the list of posters at the conference in PD
 <b> <a href="../data/Kepler-K2-Science-Program-With-Abstracts-v3.pdf"><i class="fa
 fa-download fa-margin"></i> Download the complete conference program
 (all talks and posters, with abstracts) in PDF format.</a> </b>
+
+### Talks
 
 <div class="panel panel-primary" style="max-width:74em;">
   <div class="panel-heading">
@@ -118,8 +121,6 @@ fa-download fa-margin"></i> Download the complete conference program
 </thead>
 
 <tdata>
-
-
 
  <tr>
   <td style="width:8em;">07:30-08:30</td>
@@ -1129,6 +1130,18 @@ fa-download fa-margin"></i> Download the complete conference program
 </div>
 
 
+### Posters
+
+* <a href="../data/KepSciConV/KeplerSciConV-Poster-Coughlin-1.pdf">The K2 Mission Global Uniform Reprocessing Effort</a>
+<br>— Jeffrey Coughlin for the Kepler/K2 Team
+* <a href="../data/KepSciConV/KeplerSciConV-Poster-Coughlin-2.pdf">Lessons Learned and Fascinating Finds From a Uniform Vetting of Conflicted KOIs</a>
+<br>— Jeffrey Coughlin for the Kepler/K2 Team
+* <a href="../data/KepSciConV/KeplerSciConV-Poster-Howell.pdf">High-Resolution Imaging Time-Series Transit Observations of Kepler-13AB</a>
+<br>— Steve B. Howell, Nic Scott, Rachel Matson, Andrew Stephens, David Ciardi
+* <a href="../data/KepSciConV/KeplerSciConV-Poster-Karps.pdf">AutoRegressive Planet Search: A new statistical approach to exoplanet transit detection</a>
+<br>— Gabriel A. Caceres, Eric D. Feigelson, and the KARPS Collaboration
+
+
 <!---
 #### Presenter Information
 
@@ -1190,18 +1203,18 @@ participants who would otherwise be unable to attend the meeting.  Applications 
 
 --->
 
-### Code of Conduct
+## Code of Conduct
 
 We expect all attendees to agree with and abide by our <a
 href='../code.html'>code of conduct</a>.
 Upon registration, attendees will be asked to click a box to confirm that they agree with this code.
 If you have concerns, suggestions, or would like to report a violation, please contact Jessie Dotson at 650-701-7040.
 
-### Participants List
+## Participants List
 
 <a href='participants.html'>A list of registered participants can be found here</a>.
 
-### Invited Speakers
+## Invited Speakers
 
 * Ruth Angus, American Museum of Natural History / Flatiron Institute / Columbia University
 * Sarah Ballard, Massachusetts Institute of Technology
@@ -1221,7 +1234,7 @@ If you have concerns, suggestions, or would like to report a violation, please c
 * Lauren Weiss, University of Hawaii, Manoa
 
 
-### Scientific Organizing Committee
+## Scientific Organizing Committee
 
 * Knicole Colón, NASA Goddard Space Flight Center (co-Chair)
 * JJ Hermes, Boston University (co-Chair)
@@ -1238,7 +1251,7 @@ If you have concerns, suggestions, or would like to report a violation, please c
 * Armin Rest, Space Telescope Science Institute
 
 
-### Local Organizing Committee
+## Local Organizing Committee
 
 * Geert Barentsen, NASA Ames Research Center
 * Knicole Colón, NASA Goddard Space Flight Center
@@ -1246,7 +1259,7 @@ If you have concerns, suggestions, or would like to report a violation, please c
 * Dawn Gelino, Caltech/IPAC-NASA Exoplanet Science Institute
 * Ellen O'Leary, Caltech/IPAC-NASA Exoplanet Science Institute
 
-### Contact
+## Contact
 
 If you have questions regarding the conference, please send an email to [keplerscicon@ipac.caltech.edu](mailto:keplerscicon@ipac.caltech.edu).
 
