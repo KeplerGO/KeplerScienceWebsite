@@ -44,7 +44,7 @@ including information on field pointing, target selection, observation times and
 <ul>
 <li>End Time: 2018-07-02 21:51:26 UTC</li>
 <li>Long Cadence Number: 164458</li>
-<li>Short Cadence Number: 4922215</li>
+<li>Short Cadence Number: 4922229</li>
 </ul>
 
 <b><i>Most Recent Processing Version</i></b>
