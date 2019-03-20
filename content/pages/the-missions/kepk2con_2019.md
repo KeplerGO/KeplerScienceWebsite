@@ -1132,14 +1132,20 @@ fa-download fa-margin"></i> Download the complete conference program
 
 ### Posters
 
+All poster presenters are invited to e-mail a PDF copy of their poster to <a href="mailto:keplergo@mail.arc.nasa.gov">keplergo@mail.arc.nasa.gov</a>
+for inclusion in the list below.
+
+* <a href="../data/KepSciConV/KeplerSciConV-Poster-Karps.pdf">AutoRegressive Planet Search: A new statistical approach to exoplanet transit detection</a>
+<br>— Gabriel A. Caceres, Eric D. Feigelson, and the KARPS Collaboration
+* <a href="../data/KepSciConV/KeplerSciConV-Poster-Colon.pdf">Sharing is Caring: Identification of Targets Observed by both K2 and TESS</a>
+<br>— Knicole Colón
 * <a href="../data/KepSciConV/KeplerSciConV-Poster-Coughlin-1.pdf">The K2 Mission Global Uniform Reprocessing Effort</a>
 <br>— Jeffrey Coughlin for the Kepler/K2 Team
 * <a href="../data/KepSciConV/KeplerSciConV-Poster-Coughlin-2.pdf">Lessons Learned and Fascinating Finds From a Uniform Vetting of Conflicted KOIs</a>
 <br>— Jeffrey Coughlin for the Kepler/K2 Team
 * <a href="../data/KepSciConV/KeplerSciConV-Poster-Howell.pdf">High-Resolution Imaging Time-Series Transit Observations of Kepler-13AB</a>
 <br>— Steve B. Howell, Nic Scott, Rachel Matson, Andrew Stephens, David Ciardi
-* <a href="../data/KepSciConV/KeplerSciConV-Poster-Karps.pdf">AutoRegressive Planet Search: A new statistical approach to exoplanet transit detection</a>
-<br>— Gabriel A. Caceres, Eric D. Feigelson, and the KARPS Collaboration
+
 
 
 <!---
