@@ -60,6 +60,7 @@ href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon</a>).</b>
 	
 </table>
 
+<!---
 ### Registration
 
 There is no registration fee for this conference,
@@ -79,6 +80,7 @@ until the late poster only deadline of Feb. 5, 2019</a>.  Abstracts for oral pre
 Note that Wednesday afternoon (March 6) is set aside for breakout sessions to enable the community to discuss and work on Kepler/K2 related projects.
 We envision these sessions will be more hands on, unconference sessions of broad interest to the community.
 Examples of breakout sessions include panel discussions, hack activities, work meetings of large collaborations, or tutorials to use data/software products related to Kepler/K2.
+--->
 
 ### Breakout Sessions
 
@@ -780,7 +782,7 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td>09:45-10:00</td>
   <td>Joshua Reding (UNC Chapel Hill)</td>
-  <td><a href="../data/KepSciConV/KeplerSciConV-Wed-pm-Reding.pdf">The Confluence of Hardware Failures That Lead to the Discovery of the Most Rapidly Rotating Isolated White Dwarf</a>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Wed-pm-Reding.pdf">The Confluence of Hardware Failures That Led to the Discovery of the Most Rapidly Rotating Isolated White Dwarf</a>
 </td>
   </tr>
 
@@ -1126,6 +1128,8 @@ fa-download fa-margin"></i> Download the complete conference program
   </div>
 </div>
 
+
+<!---
 #### Presenter Information
 
 We encourage all presenters to use color-blind friendly figures in their talk and poster presentations. Resources to produce color-blind friendly presentations include [this website](http://colororacle.org/index.html).
@@ -1183,6 +1187,8 @@ Everyone: If you wish to use valet parking, the rate is $19/day.
 
 We have limited funding to support local costs (hotel and per diem) for a limited number of
 participants who would otherwise be unable to attend the meeting.  Applications for travel support were due on Nov. 15 and are no longer being accepted.  Applicants will receive a decision by Dec. 20.
+
+--->
 
 ### Code of Conduct
 
