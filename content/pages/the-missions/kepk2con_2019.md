@@ -1107,7 +1107,7 @@ fa-download fa-margin"></i> Download the complete conference program
  <tr>
   <td>14:30-14:45</td>
   <td>George Ricker (MIT) </td>
-  <td>The TESS Mission: Current Status and Future Plans</td>
+  <td><a href="../data/KepSciConV/KeplerSciConV-Fri-pm-Ricker.pdf">The TESS Mission: Current Status and Future Plans</a></td>
   </tr>
 
  <tr>
@@ -1145,6 +1145,9 @@ for inclusion in the list below.
 <br>— Jeffrey Coughlin for the Kepler/K2 Team
 * <a href="../data/KepSciConV/KeplerSciConV-Poster-Howell.pdf">High-Resolution Imaging Time-Series Transit Observations of Kepler-13AB</a>
 <br>— Steve B. Howell, Nic Scott, Rachel Matson, Andrew Stephens, David Ciardi
+* <a href="../data/KepSciConV/KeplerSciConV-Poster-Mighell.pdf">Kepler K2 Cadence Events: A Data Visualization and Manipulation Tool to Improve the Scientific Return of Light Curve Files and Target Pixel Files from the Kepler, K2, and TESS Missions</a>
+<br>— Kenneth Mighell, Jeffrey Coughlin 
+
 
 
 
