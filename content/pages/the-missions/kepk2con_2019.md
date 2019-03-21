@@ -138,7 +138,7 @@ fa-download fa-margin"></i> Download the complete conference program
 
  <tr>
   <td style="width:8em;">08:30-09:00</td>
- <td style="width:14em;">Bill Borucki (NASA Ames) </td>
+ <td style="width:14em;">William Borucki (NASA Ames) </td>
   <td style="width:20em;"><a href="../data/KepSciConV/KeplerSciConV-Mon-am-Borucki.pdf">History of the Kepler Mission</a>
   (<b><i>invited</i></b>)</td>
 </tr>
@@ -1224,7 +1224,7 @@ If you have concerns, suggestions, or would like to report a violation, please c
 
 * Ruth Angus, American Museum of Natural History / Flatiron Institute / Columbia University
 * Sarah Ballard, Massachusetts Institute of Technology
-* Bill Borucki, NASA Ames Research Center
+* William Borucki, NASA Ames Research Center
 * Jessie Christiansen, NASA Exoplanet Science Institute
 * Sébastien Deheuvels, Research Institute in Astrophysics and Planetology (IRAP Toulouse)
 * Courtney Dressing, University of California, Berkeley
