@@ -173,6 +173,12 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 </a>
 </div>
 
+<br>
+
+***Target With Incomplete FITS Header: EPIC 200233235***
+
+The custom target EPIC 200233235 is missing centroid information and values for the following FITS headers in its target pixel and lightcurve files: RA_OBJ, DEC_OBJ, 1CRVL4, 2CRVL4, 1CRVL5, 2CRVL5, 1CRVL6, 2CRVL6, 1CRVL7, 2CRVL7, 1CRVL8, 2CRVL8, 1CRVL9, 2CRVL9, EXPOSURE, TELAPSE, LIVETIME, TSTART, TSTOP, CRVAL1, and CRVAL2. This was a custom target for which the entire 20x20 pixel stamp was selected as the aperture by the pipeline. As a result there were no background pixels available to compute the centroid information, and thus the values for the listed FITS headers. This issue appears unique to this custom target and no other targets are affected. Users wanting to analyze this target are encourage to create their own lightcurve using software such as the [lightkurve Python package](https://docs.lightkurve.org) or [PyKE software tool suite](http://pyke.keplerscience.org).
+
 
 <hr>
 
