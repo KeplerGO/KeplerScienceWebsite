@@ -1146,6 +1146,8 @@ for inclusion in the list below.
 <br>— Jeffrey Coughlin et al.
 * <a href="../data/KepSciConV/KeplerSciConV-Poster-Coughlin-2.pdf">Lessons Learned and Fascinating Finds From a Uniform Vetting of Conflicted KOIs</a>
 <br>— Jeffrey Coughlin et al.
+* <a href="../data/KepSciConV/KeplerSciConV-Poster-Curtis.pdf">K2-231 b: A sub-Neptune exoplanet transiting a solar twin in Ruprecht 147</a>
+<br>— Jason L. Curtis et al.
 * <a href="../data/KepSciConV/KeplerSciConV-Poster-Howell.pdf">High-Resolution Imaging Time-Series Transit Observations of Kepler-13AB</a>
 <br>— Steve B. Howell et al.
 * <a href="../data/KepSciConV/KeplerSciConV-Poster-Huang.pdf">Revisiting the mass-radius relation of super Earth with new ice EOS measurement</a>
@@ -1154,6 +1156,9 @@ for inclusion in the list below.
 <br>— Kenneth Mighell et al.
 * <a href="../data/KepSciConV/KeplerSciConV-Poster-Rice.pdf">The Effect of Differentiated Collisions on the Interiors of Terrestrial Planets</a>
 <br>— David R. Rice et al.
+* <a href="../data/KepSciConV/KeplerSciConV-Poster-Steffen.pdf">Sculpting System Architectures with Dynamical Instability</a>
+<br>— Jason H. Steffen et al.
+
 
 
 <!---
