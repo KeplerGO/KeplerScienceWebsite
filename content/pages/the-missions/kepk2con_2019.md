@@ -1148,6 +1148,8 @@ for inclusion in the list below.
 <br>— Jeffrey Coughlin et al.
 * <a href="../data/KepSciConV/KeplerSciConV-Poster-Curtis.pdf">K2-231 b: A sub-Neptune exoplanet transiting a solar twin in Ruprecht 147</a>
 <br>— Jason L. Curtis et al.
+* <a href="../data/KepSciConV/KeplerSciConV-Poster-Fetherolf.pdf">Stellar Properties of KIC 8736245: A Sub-Synchronous Kepler Eclipsing Binary with a Solar-type Star Leaving the Main Sequence</a>
+<br>— Tara Fetherolf et al.
 * <a href="../data/KepSciConV/KeplerSciConV-Poster-Howell.pdf">High-Resolution Imaging Time-Series Transit Observations of Kepler-13AB</a>
 <br>— Steve B. Howell et al.
 * <a href="../data/KepSciConV/KeplerSciConV-Poster-Huang.pdf">Revisiting the mass-radius relation of super Earth with new ice EOS measurement</a>
