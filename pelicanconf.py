@@ -122,6 +122,8 @@ IMPORTANT_DATES = (
          )
 
 # Defines the "meetings" box on the front page
+MEETINGS = ()
+"""
 MEETINGS = (
             ('<b>11-14 Feb 2019</b><br>'
              'TESS Data Workshop (Baltimore)',
@@ -130,6 +132,7 @@ MEETINGS = (
              'Kepler & K2 Sci Con V (Glendale)',
              'scicon-2019/index.html')
             )
+"""
 
 # Defines the "related websites" listing in the footer of all pages
 RELATEDSITES = (
