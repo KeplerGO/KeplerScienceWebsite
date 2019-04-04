@@ -1156,6 +1156,8 @@ for inclusion in the list below.
 <br>— Chenliang Huang et al.
 * <a href="../data/KepSciConV/KeplerSciConV-Poster-Mighell.pdf">Kepler K2 Cadence Events: A Data Visualization and Manipulation Tool to Improve the Scientific Return of Light Curve Files and Target Pixel Files from the Kepler, K2, and TESS Missions</a>
 <br>— Kenneth Mighell et al.
+* <a href="../data/KepSciConV/KeplerSciConV-Poster-Poon.pdf">Formation of Kepler compact multi-systems by dynamical instabilities and giant impacts</a>
+<br>— Sanson T. S. Poon et al.
 * <a href="../data/KepSciConV/KeplerSciConV-Poster-Rice.pdf">The Effect of Differentiated Collisions on the Interiors of Terrestrial Planets</a>
 <br>— David R. Rice et al.
 * <a href="../data/KepSciConV/KeplerSciConV-Poster-Steffen.pdf">Sculpting System Architectures with Dynamical Instability</a>
