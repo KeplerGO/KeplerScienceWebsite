@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2019-03-18" />
+    <meta name="dc.date.modified" content="2019-04-03" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -175,7 +175,7 @@ including information on field pointing, target selection, observation times and
 <ul>
 <li>End Time: 2018-07-02 21:51:26 UTC</li>
 <li>Long Cadence Number: 164458</li>
-<li>Short Cadence Number: 4922215</li>
+<li>Short Cadence Number: 4922229</li>
 </ul>
 <b><i>Most Recent Processing Version</i></b>
 <ul>
@@ -270,6 +270,9 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 <img alt="CDPP per channel for 12th and 14th magnitude dwarfs" class="img-responsive" src="images/release-notes/c18/c18_dwarf_CDPP_by_mod_out.png"/>
 </a>
 </div></div></p>
+<p><br/></p>
+<p><strong><em>Target With Incomplete FITS Header: EPIC 200233235</em></strong></p>
+<p>The custom target EPIC 200233235 is missing centroid information and values for the following FITS headers in its target pixel and lightcurve files: RA_OBJ, DEC_OBJ, 1CRVL4, 2CRVL4, 1CRVL5, 2CRVL5, 1CRVL6, 2CRVL6, 1CRVL7, 2CRVL7, 1CRVL8, 2CRVL8, 1CRVL9, 2CRVL9, EXPOSURE, TELAPSE, LIVETIME, TSTART, TSTOP, CRVAL1, and CRVAL2. This was a custom target for which the entire 20x20 pixel stamp was selected as the aperture by the pipeline. As a result there were no background pixels available to compute the centroid information, and thus the values for the listed FITS headers. This issue appears unique to this custom target and no other targets are affected. Users wanting to analyze this target are encourage to create their own lightcurve using software such as the <a href="https://docs.lightkurve.org">lightkurve Python package</a> or <a href="http://pyke.keplerscience.org">PyKE software tool suite</a>.</p>
 <hr/>
 <p><br/></p>
 <h1 id="k2-campaign-17">K2 Campaign 17</h1>
@@ -3038,6 +3041,31 @@ table giving 6.5-hr CDPP as a function of magnitude.</a></p>
 <p>The pointing of the spacecraft was adjusted by approximately 10" on 2014-Aug-25, during cadence 95546, in order to ensure that the observed targets were centered in their masks. This event is flagged in the QUALITY column of the target pixel files with bit 1 (decimal=1). The data collected before the tweak may fall close to the edge of the collected mask and some of the object's flux may have been lost. Users are warned to use these cadences with caution.</p>
 <p><br/></p>
 <h2>Data Quality and Processing Notes</h2>
+<p><strong><em>Light Curve Quality</em></strong></p>
+<p>The dominant noise contributors in the C2 data are the saw-tooth roll signal inherent in
+K2 data and an increased (compared to Kepler and later K2 campaigns) cross-boresight pointing motion
+due to the lower bandwidth for the attitude determination and control system (ADCS)
+used in K2 campaigns C0, C1, and C2. The low ADCS bandwidth was particularly
+problematic for short cadence data, as it meant that the spacecraft pointing errors are on the
+same time scale as the short-cadence exposure time, so that the pointing induced noise is correlated from
+cadence to cadence. See notes under <a href="#k2-campaign-0">C0</a> for details.</p>
+<p>Analysis of the light curve quality reveals that long cadence CDPP values for dwarf stars are ~70%
+higher than values from subsequent campaigns. This is likely due to the low ADCS bandwidth, Mars traversing the focal plane, and the
+unflagged large pointing excursion towards the start of the campaign (see next section).
+The magnitude dependence of CDPP and its distribution over the focal plane are shown below. Other CDPP benchmarks can be found in the
+<a href="images/release-notes/c2/c2_bin1.00_sc1.00_CDPP_Summary_18050517.txt">
+table giving 6.5-hr CDPP as a function of magnitude.</a></p>
+<p><br/>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C2-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>
+</div>
+<a href="images/release-notes/c2/cdpp_vs_mag_dr21.png">
+<img alt="CDPP measured for all targets as a function of Kepler magnitude." class="img-responsive" src="images/release-notes/c2/cdpp_vs_mag_dr21.png"/>
+</a>
+</div></p>
+<p><br/></p>
+<hr/>
 <p><strong><em>Unflagged Large Pointing Excursion Towards Start of Campaign</em></strong></p>
 <p>As part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a>, cadences are no longer automatically gapped based on the "Spacecraft is not in fine point" (QUALITY flag bit #16, decimal=32768) flag. Instead, the Kepler/K2 Science Office sets the "Spacecraft is in coarse point" flag (QUALITY flag bit #3, decimal=4) flag based on inspection of the actual pointing data for the campaign using high-frequency sub-cadence telemetry. For C2, the spacecraft was technically in 'coarse point' for LC cadences 95687–95696, which are early on in the campaign. However, the pointing was stable to ~2 pixels during this time period, which given the large size of the collected pixel-stamps for each target in C2 (3–4 pixels in a 'halo' around every target were collected), the decision was made to not set the "Spacecraft is in coarse point" flag (QUALITY flag bit #3, decimal=4) for these cadences.</p>
 <p>While the targets did remain on downloaded pixels during this cadence range, a significant fraction of their flux came in and out of the pipeline-computed optimal photometric apertures. For the PA and PDC lightcurves, this results in some significant outliers during this cadence range, including some negative flux values. Consequently the CDPP (a measure of the detrended lightcurve scatter) is higher due both to the outliers themselves, and the PDC module likely wasting some of its 'detrending power' on trying to correct outliers instead of broader systematic features.</p>
@@ -3351,6 +3379,9 @@ for C18 is less than 2.1 pixels, substantially under the 10-pixel limit accommod
 <p><strong><em>Potentially Poor Apertures in Channel 45 (14.1)</em></strong></p>
 <p>A significant number of targets on channel 45 had sub-optimal apertures selected by the pipeline, and as a result the lightcurve quality will be poorer than other channels. Users with targets on this channel are encouraged to inspect the aperture selected by the pipeline (using the target pixel files) before using the lightcurves for science, and/or select a custom aperture and produce new lightcurves using tools such as the <a href="https://docs.lightkurve.org">lightkurve Python package</a> or <a href="http://pyke.keplerscience.org">PyKE software tool suite</a>.</p>
 <p><br/></p>
+<p><strong><em>Increased Photometric Jitter Caused by Lower ADCS Bandwidth</em></strong></p>
+<p>For the K2 Mission, only one guide star was observed for each fine-guidance sensor. (Kepler had ten per sensor.) This change was demanded by the need for increased aperture sizes given the uncertainties in the star-tracker to boresight alignment, and the need to acquire an entirely new field-of-view every 80 to 90 days. To compensate for the increased sensor noise and assure that fine-point lock could be achieved, the attitude determination and control system (ADCS) bandwidth for K2 was set to 0.02 Hz for C0, C1, and C2. (Kepler used 0.1 Hz.) This low bandwidth meant that the cross-boresight attitude (i.e., RA and Dec) had a time constant of 50 seconds, which is comparable to the short-cadence duration of 58.89 seconds. As a result, pointing-induced noise is correlated from cadence to cadence for short-cadence observations, resulting in significantly increased photometric jitter for short-cadence lightcurves. It is likely that long-cadence lightcurves also have a slightly increased photometric jitter due to the low ADCS bandwith. Starting with C3, the ADCS bandwidth was increased to 0.05 Hz (20 seconds) to mitigate this effect.</p>
+<p><br/></p>
 <p><strong><em>Light Curve Quality</em></strong></p>
 <p>The 6-hour spacecraft roll cycle dominates the systematic errors in C0 simple aperture photometry light curves. The pipeline CDPP 12th magnitude noise benchmark for C0 is unavailable at the time of this writing, but will added when available. In general PDCSAP_FLUX photometric quality (produced only for the last ~37 days of the campaign) should be comparable to later campaigns.</p>
 <hr/>
@@ -3456,7 +3487,7 @@ document.write(document.lastModified);
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Mon 18 March 2019
+         Last modified: Wed 27 March 2019
             &middot; Editor: Geert Barentsen &middot; NASA Official: Jessie Dotson
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
