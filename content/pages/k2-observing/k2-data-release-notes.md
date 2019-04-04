@@ -3751,17 +3751,18 @@ The pointing of the spacecraft was adjusted by approximately 10" on 2014-Aug-25,
 ***Light Curve Quality***
 
 The dominant noise contributors in the C2 data are the saw-tooth roll signal inherent in
-K2 data and an increased (over Kepler and later K2 campaigns) cross-boresight pointing motion
+K2 data and an increased (compared to Kepler and later K2 campaigns) cross-boresight pointing motion
 due to the lower bandwidth for the attitude determination and control system (ADCS)
 used in K2 campaigns C0, C1, and C2. The low ADCS bandwidth was particularly
 problematic for short cadence data, as it meant that the spacecraft pointing errors are on the
-same time scale as the SC exposure, so that the pointing induced noise is correlated from
+same time scale as the short-cadence exposure time, so that the pointing induced noise is correlated from
 cadence to cadence. See notes under [C0](#k2-campaign-0) for details.
 
-Analysis of the light curve quality reveals that long cadence CDPP values for dwarf stars are
-in family with the values from subsequent campaigns. The magnitude dependence of CDPP and its distribution over the focal
-plane are shown below. Other CDPP benchmarks can be found in the
-<a href="images/release-notes/c2/c2_bin1.00_sc1.00_CDPP_Summary_18021515.txt">
+Analysis of the light curve quality reveals that long cadence CDPP values for dwarf stars are ~70%
+higher than values from subsequent campaigns. This is likely due to the low ADCS bandwidth, Mars traversing the focal plane, and the
+unflagged large pointing excursion towards the start of the campaign (see next section).
+The magnitude dependence of CDPP and its distribution over the focal plane are shown below. Other CDPP benchmarks can be found in the
+<a href="images/release-notes/c2/c2_bin1.00_sc1.00_CDPP_Summary_18050517.txt">
 table giving 6.5-hr CDPP as a function of magnitude.</a>
 
 <br>
