@@ -3777,9 +3777,6 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 
 <br>
 
-<hr>
-
-
 
 ***Unflagged Large Pointing Excursion Towards Start of Campaign***
 
