@@ -16,10 +16,10 @@ and for analyzing the collected data.
 <tr>
     <td><a href="/software.html#lightkurve">lightkurve</a></td>
     <td>
-        The lightkurve Python package offers a user-friendly way to analyze astronomical flux time series data, in particular the pixels and lightcurves obtained by NASA’s Kepler, K2, and TESS missions.
+        The Lightkurve Python package offers a user-friendly way to analyze the pixels and light curves obtained by NASA’s Kepler, K2, and TESS missions.
     </td>
     <td>
-        <a href="http://lightkurve.keplerscience.org">lightkurve.keplerscience.org</a>
+        <a href="https://keplerscience.arc.nasa.gov/lightkurve">https://keplerscience.arc.nasa.gov/lightkurve</a>
     </td>
 </tr>
 
@@ -91,7 +91,7 @@ and for analyzing the collected data.
 
 Members of the community have made a range of tools available.
 A non-exhaustive list of community tools is available on
-the ["Other software" page](http://lightkurve.keplerscience.org/other_software.html) on documentation website of the [lightkurve package](http://lightkurve.keplerscience.org).
+the ["Other software" page](https://docs.lightkurve.org/about/other_software.html) on the documentation website of the [Lightkurve package](https://docs.lightkurve.org).
 
 
 
@@ -208,7 +208,7 @@ Or you can type *K2ephem --help* to see the detailed usage instructions:
 
 ### Lightkurve
 
-Documentation website: [lightkurve.keplerscience.org](http://lightkurve.keplerscience.org).
+Documentation website: [docs.lightkurve.org](https://docs.lightkurve.org).
 
 The lightkurve Python package offers a user-friendly way to analyze astronomical flux time series data, in particular the pixels and lightcurves obtained by NASA’s Kepler, K2, and TESS missions.
 
@@ -216,7 +216,7 @@ This package aims to lower the barrier for both students, astronomers, and citiz
 
 Lightkurve is an open source community project.
 The development [takes place on GitHub](https://github.com/KeplerGO/lightkurve)
-and everyone is [invited to contribute](http://lightkurve.keplerscience.org/contributing.html).
+and everyone is [invited to contribute](http://docs.lightkurve.org/about/contributing.html).
 
 ### PyKE
 
