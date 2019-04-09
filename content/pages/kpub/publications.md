@@ -38,7 +38,7 @@ You also can mine the database yourself by accessing a spreadsheet of the public
 If you spot an error, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/KeplerGO/kpub">GitHub repository</a> of the database.
 
-Last update: 03 Apr 2019.
+Last update: 09 Apr 2019.
 
 <hr/>
 
