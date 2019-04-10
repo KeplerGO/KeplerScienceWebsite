@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2019-04-03" />
+    <meta name="dc.date.modified" content="2019-04-10" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -3065,7 +3065,6 @@ table giving 6.5-hr CDPP as a function of magnitude.</a></p>
 </a>
 </div></p>
 <p><br/></p>
-<hr/>
 <p><strong><em>Unflagged Large Pointing Excursion Towards Start of Campaign</em></strong></p>
 <p>As part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a>, cadences are no longer automatically gapped based on the "Spacecraft is not in fine point" (QUALITY flag bit #16, decimal=32768) flag. Instead, the Kepler/K2 Science Office sets the "Spacecraft is in coarse point" flag (QUALITY flag bit #3, decimal=4) flag based on inspection of the actual pointing data for the campaign using high-frequency sub-cadence telemetry. For C2, the spacecraft was technically in 'coarse point' for LC cadences 95687–95696, which are early on in the campaign. However, the pointing was stable to ~2 pixels during this time period, which given the large size of the collected pixel-stamps for each target in C2 (3–4 pixels in a 'halo' around every target were collected), the decision was made to not set the "Spacecraft is in coarse point" flag (QUALITY flag bit #3, decimal=4) for these cadences.</p>
 <p>While the targets did remain on downloaded pixels during this cadence range, a significant fraction of their flux came in and out of the pipeline-computed optimal photometric apertures. For the PA and PDC lightcurves, this results in some significant outliers during this cadence range, including some negative flux values. Consequently the CDPP (a measure of the detrended lightcurve scatter) is higher due both to the outliers themselves, and the PDC module likely wasting some of its 'detrending power' on trying to correct outliers instead of broader systematic features.</p>
