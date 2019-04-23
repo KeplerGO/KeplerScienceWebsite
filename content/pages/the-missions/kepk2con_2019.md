@@ -1138,6 +1138,8 @@ for inclusion in the list below.
 
 * <a href="../data/KepSciConV/KeplerSciConV-Poster-Bryson.pdf">Bayesian Computation of Kepler DR25 Vetting Completeness and Reliability</a>
 <br>— Steve Bryson et al.
+* <a href="../data/KepSciConV/KeplerSciConV-Poster-Buzasi.pdf">An Unprecedented Asteroseismic Data Set for the Oscillating Massive Star Spica</a>
+<br>— Derek Buzasi et al.
 * <a href="../data/KepSciConV/KeplerSciConV-Poster-Karps.pdf">AutoRegressive Planet Search: A new statistical approach to exoplanet transit detection</a>
 <br>— Gabriel A. Caceres et al.
 * <a href="../data/KepSciConV/KeplerSciConV-Poster-Colon.pdf">Sharing is Caring: Identification of Targets Observed by both K2 and TESS</a>
