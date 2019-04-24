@@ -29,7 +29,7 @@ and for analyzing the collected data.
         A suite of command-line tools to inspect target pixel files and extract detrended lightcurves.
     </td>
     <td>
-        <a href="http://pyke.keplerscience.org">pyke.keplerscience.org</a>
+        <a href="https://github.com/nasa/Kepler-PyKE">github.com/nasa/Kepler-PyKE</a>
     </td>
 </tr>
 
@@ -219,8 +219,6 @@ The development [takes place on GitHub](https://github.com/KeplerGO/lightkurve)
 and everyone is [invited to contribute](http://docs.lightkurve.org/about/contributing.html).
 
 ### PyKE
-
-Documentation website: [pyke.keplerscience.org](http://pyke.keplerscience.org).
 
 PyKE is a suite of command-line tools developed to reduce and
 analyze Kepler and K2 light curves, TPFs, and FFIs. PyKE tools provide the
