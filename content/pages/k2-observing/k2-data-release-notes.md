@@ -156,7 +156,9 @@ stable pointing (compared to most other campaigns), and the updated pipeline ver
 The magnitude dependence of CDPP and its distribution over the focal plane are shown below. Other CDPP benchmarks can be found in the
 <a href="images/release-notes/c18/c18_bin1.00_sc1.00_CDPP_Summary_18101501.txt">
 table giving 6.5-hr CDPP as a function of magnitude.</a>
+
 <br>
+
 <div class="thumbnail" style="width: 90%;">
 <div class="caption">
 <i>Figure C18-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>
@@ -165,12 +167,15 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 <img src="images/release-notes/c18/c18_logg_CDPP_vs_model.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
 </a>
 </div>
+</div>
+
 <div class="thumbnail" style="width: 90%;">
 <div class="caption">
 <i>Figure C18-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
 <a href="images/release-notes/c18/c18_dwarf_CDPP_by_mod_out.png">
 <img src="images/release-notes/c18/c18_dwarf_CDPP_by_mod_out.png" class="img-responsive" alt="CDPP per channel for 12th and 14th magnitude dwarfs">
 </a>
+</div>
 </div>
 
 <br>
@@ -1515,8 +1520,7 @@ The larger than expected roll motion seen at the start of the campaign meant
 that the targets would be rolling out of their pixel apertures by the end of the
 campaign. The excess roll motion was corrected twenty-three days into the campaign
 by applying a -0.32º roll offset. The size of this correction meant
-that new target aperture definitions
-had to be used for the second part of the campaign.
+that new target aperture definitions had to be used for the second part of the campaign.
 The two segments, colloquially called C11a and C11b, are identified in the
 archive products as C111 and C112, respectively.
 </p>
@@ -1624,12 +1628,13 @@ is evident when comparing the two images.
         </a>
     </div>
 
+<br>
+
   </div>
 
 </div>
 
 <br>
-
 
 
 <h2>Features and Events</h2>
@@ -1638,20 +1643,20 @@ is evident when comparing the two images.
 
 The C11 field of view is the densest star field for which pipeline light curves have been created.
 The average density of stars with magnitude 11.5 < Kp < 14.5 over the field of view is
-6959 stars/deg^2. Detector channels covering the galactic bulge have densities as high
-as 25,000 stars/deg^2. For comparison the average density of stars in this magnitude range
-for the Kepler field of view is 900 stars/deg^2. As a result of the high star density, many
+6,959 stars/deg<sup>2</sup>. Detector channels covering the galactic bulge have densities as high
+as 25,000 stars/deg<sup>2</sup>. For comparison the average density of stars in this magnitude range
+for the Kepler field of view is 900 stars/deg<sup>2</sup>. As a result of the high star density, many
 of the pipeline algorithms are operating outside of their design range. Users are cautioned
 to treat the pipeline background, centroid, and aperture photometry results with care, especially
 on channels covering the Galactic Bulge.
 
 <div class="thumbnail" style="width: 75%;">
   <div class="caption">
-  <i>Figure C11-StarDensity: The average density of stars with 11.5 < Kp < 14.5 for each channel. As shown by the legend, the density ranges from a few thousand to over 20,000 stars/deg^2. The galactic plane passes through modules 2 and 6. The numbers indicate the detector module and output number.</i>
+  <i>Figure C11-StarDensity: The average density of stars with 11.5 < Kp < 14.5 for each channel. As shown by the legend, the density ranges from a few thousand to over 20,000 stars/deg<sup>2</sup>. The galactic plane passes through modules 2 and 6. The numbers indicate the detector module and output number.</i>
   </div>
   <a href="images/release-notes/c11/k2_c11_star_density.jpg">
     <img src="images/release-notes/c11/k2_c11_star_density.jpg" class="img-responsive" alt="C11 star
-    density ranges from a few thousand to over 20000 stars/deg^2.">
+    density ranges from a few thousand to over 20000 stars/deg<sup>2</sup>.">
   </a>
 </div>
 
@@ -1671,7 +1676,14 @@ were tiled with custom aperture masks.
 
 ***Custom targets***
 
-72 Custom targets include 64 Solar System moving objects tiled with multiple apertures, featuring Titan and Enceladus, 9 bright stars covered with disk apertures to capture the PSF wings, 22 late microlensing targets, and 5 galaxy targets. See the <a href="images/release-notes/c11/ktwoc111_caf.csv">C11a csv file</a> and <a href="images/release-notes/c11/ktwoc112_caf.csv">C11b csv file</a> to map the Solar system object custom aperture numbers to the target names.</li>
+Many custom targets were selected, composed of:
+
+* 64 Solar System moving objects tiled with multiple apertures, featuring Titan and Enceladus
+* 9 bright stars covered with disk apertures to capture the PSF wings
+* 22 late microlensing targets
+* 5 galaxy targets
+
+See the <a href="images/release-notes/c11/ktwoc111_caf.csv">C11a csv file</a> and <a href="images/release-notes/c11/ktwoc112_caf.csv">C11b csv file</a> to map the Solar system object custom aperture numbers to the target names.
 
 <br>
 
@@ -1682,83 +1694,58 @@ The spacecraft attitude was adjusted by -0.32º in roll on 2016-10-21 to correct
 the initial roll-offset error. Because this attitude offset was large enough to
 require new target pixel apertures, the C11 data were processed through the
 pipeline in two separate parts:
-<ul>
-<li>the first 23 days of data, dubbed C11a  
-<li>the remaining 48 days of the campaign, dubbed C11b.
-</ul>
+
+* C11a: the first 23 days of the campaign
+* C11b: the remaining 48 days of the campaign
+
 The C11a files are found in the archive under Campaign number 111. The C11b
 files have Campaign number 112. A search for Campaign 11 will return both sets of files.
-Users should take care when combining data from C11a and C11b for targets. Because the
-targets have changed pixels -and in some cases detectors- there is no guarantee that the
-C11a and C11b fluxes will match in absolute value, or even slope across the C11a-C11b boundary.
-The C11a and C11b data may need to be treated as coming from two separate campaigns.
-The figures below give some examples of the behavior of SAP flux over C11.
+Users should take care when combining data from C11a and C11b. Because the
+targets have changed pixels &mdash; and in some cases detectors &mdash; there is no guarantee that the C11a and C11b fluxes will match in absolute value, or even slope across the C11a&ndash;C11b boundary. The C11a and C11b data likely need to be treated as coming from two separate campaigns. The figures below give some examples of the behavior of SAP flux over C11.
 
 In some cases, the updated C11b target apertures extended off the edge of the active
 CCD and included rows of collateral smear, or columns of collateral black data. These
 collateral data are evident in the TPFs and should not be used when doing photometry on
 the target.
-<div class="caption">
-<i>Figure C11 SAP Flux: The C11a (red) and C11b (blue) SAP flux for four sample targets.
-Because of the change of target pixel apertures between C11a and C11b, the fluxes can
-differ in absolute value and in behavior with the K2 roll motion.</i>   
-</div>
-<div class="thumbnail" style="width: 49%;display: inline-block;">
-<a href="images/release-notes/c11/epic221115664.png">
-<img src="images/release-notes/c11/epic221115664.png" class="img-responsive" alt="C11 SAP flux for EPIC-221115664.">
-</a>
-</div>
-<div class="thumbnail" style="width: 49%;display: inline-block;">
-<a href="images/release-notes/c11/epic221326895.png">
-<img src="images/release-notes/c11/epic221326895.png" class="img-responsive" alt="C11 SAP flux for EPIC-221326895.">
-</a>
-</div>
-<br>
-<div class="thumbnail" style="width: 49%;display: inline-block;">
-<a href="images/release-notes/c11/epic221391462.png">
-<img src="images/release-notes/c11/epic221391462.png" class="img-responsive" alt="C11 SAP flux for EPIC-221391462.">
-</a>
-</div>
-<div class="thumbnail" style="width: 49%;display: inline-block;">
-<a href="images/release-notes/c11/epic221597630.png">
-<img src="images/release-notes/c11/epic221597630.png" class="img-responsive" alt="C11 SAP flux for EPIC-221597630.">
-</a>
-</div>
 
+<div class="thumbnail" style="width: 100%;">
+    <div class="caption">
+        <i>Figure C11 SAP Flux: The C11a (red) and C11b (blue) SAP flux for four sample targets.
+        Because of the change of target pixel apertures between C11a and C11b, the fluxes can
+        differ in absolute value and in behavior with the K2 roll motion.</i>
+    </div>
+    <a href="images/release-notes/c11/c11_stiched_examples.png">
+        <img src="images/release-notes/c11/c11_stiched_examples.png" class="img-responsive" alt="C11 SAP flux for EPICs 221115664, 221326895, 221391462, and 221597630.">
+    </a>
+</div>
 
 <br>
 
 ***Pointing and Roll Performance***
 
-The C11a and C11b pointing and
-roll behavior are within the limits of that seen in other K2 campaigns.
-The pipeline calculated maximum distance between the
+The C11a and C11b pointing and roll behavior are within the limits of that seen in other K2 campaigns. The pipeline calculated maximum distance between the
 derived and nominal positions for any target (the "maximum attitude residual", or MAR)
-for C11 is well under the 3-pixel limit accommodated by the aperture halos.  
+for C11 never exceeds 2.2 pixels &mdash; well under the 3-pixel limit accommodated by the aperture halos. See Figures C11a-MAR and C11b-MAR.
+
 The C11a attitude error started at a relatively high value and large roll amplitude,
 due in part to the initial roll offset error. The negative going roll offsets
 along with the large negative roll rate at the start of C11a indicated that,
 without correction, the roll would have been unacceptably large in the 6-hours
 between thruster firing windows by the end of the campaign. The large roll would have
 caused targets at the edge of the focal plane to roll out of their apertures.
-The roll offset was corrected during the gap starting
-around 2016-10-16 seen in the C11-Pointing History figure, resulting in a roll profile
-for C11b that is more typical of past campaigns.
-Similarly, the C11a maximum attitude residual was
-somewhat high -though well within the aperture limits- while the C11b
-starting maximum attitude
-residual was more typical of K2 behavior.
+The roll offset was corrected during the gap starting around 2016-10-16 seen in Figure C11-Pointing-History, resulting in a roll profile for C11b that is more typical of past campaigns. Similarly, the C11a maximum attitude residual was somewhat high &mdash; though well within the aperture limits &mdash; while the C11b starting maximum attitude residual was more typical of K2 behavior.
 
 There was a smaller related change in roll behavior during C11a when the spacecraft
 X-band communications were switched from low gain antenna 2(LGA-2) to LGA-1. The
 antenna switch resulted in different thermal torque on the spacecraft and somewhat
 mitigated the initial C11a roll pointing error. The improvement is most evident in the
-roll rate at a solar elongation angle of -35º (top right panel below), but can be
-seen in the roll error at around 2016-10-02 (top left panel below).
+roll rate at a solar elongation angle of -35º (see Figure C11-Roll-Rate), but can be
+seen in the roll error at around 2016-10-02 (see Figure C11-Pointing-History).
 
-<div class="thumbnail" style="width: 45%;display: inline-block;">
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
 <div class="caption">
-<i>Figure C11-Pointing History: pointing performance for C11 was consistent with that of previous campaigns. The C11a-C11b transition occured at the gap around 2016-10-16.</i>
+<i>Figure C11-Pointing-History: the pointing performance for C11 was consistent with that of previous campaigns. The C11a&ndash;C11b transition occurred at the gap around 2016-10-16.</i>
 </div>
 <a href="images/release-notes/c11/c11_roll_error.png">
 <img src="images/release-notes/c11/c11_roll_error.png" class="img-responsive" alt="Roll amplitude for C11 matched that of previous campaigns."></a>
@@ -1767,7 +1754,7 @@ seen in the roll error at around 2016-10-02 (top left panel below).
 
 <div class="thumbnail" style="width: 49%;display: inline-block;">
 <div class="caption">
-<i>Figure C11-Roll Rate: the C11 roll rate as a function of solar elevation angle
+<i>Figure C11-Roll-Rate: the C11 roll rate as a function of solar elevation angle
 clearly shows the impact of the roll offset error (C3 is shown here for comparison). The large
 negative roll rate during C11a was corrected with the roll offset change in C11b.</i>
 <a href="images/release-notes/c11/c11_roll_rate.jpg">
@@ -1778,19 +1765,36 @@ negative roll rate during C11a was corrected with the roll offset change in C11b
 
 <div class="thumbnail" style="width: 49%;display: inline-block;">
 <div class="caption">
-<i>Figure C11a-MAR: The maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C11a.</i>
-<a href="images/release-notes/c11/c11a_pad_pdq_attitude_mar.png">
-<img src="images/release-notes/c11/c11a_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the C11a attitude measured with PAD and PDQ.">
+<i>Figure C11a-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C11a.</i>
+<a href="images/release-notes/c11/C11a-Roll.png">
+<img src="images/release-notes/c11/C11a-Roll.png" class="img-responsive" alt="Pipeline measured roll error for C11a.">
 </a>
 </div>
 </div>
 
 <div class="thumbnail" style="width: 49%;display: inline-block;">
 <div class="caption">
-<i>Figure C11b-MAR: The maximum attitude residual for C11b shows the pointing improvement at the
-start of the sub-campaign.</i>
-<a href="images/release-notes/c11/c11b_pad_pdq_attitude_mar.png">
-<img src="images/release-notes/c11/c11b_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the attitude measured with PAD and PDQ.">
+<i>Figure C11b-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C11b. Note an atypically large pointing excursion at day 26.</i>
+<a href="images/release-notes/c11/C11b-Roll.png">
+<img src="images/release-notes/c11/C11b-Roll.png" class="img-responsive" alt="Pipeline measured roll error for C11b.">
+</a>
+</div>
+</div>
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C11a-MAR: The maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C11a.</i>
+<a href="images/release-notes/c11/C11a-Mar.png">
+<img src="images/release-notes/c11/C11a-Mar.png" class="img-responsive" alt="Maximum residual of the C11a attitude measured with PAD and PDQ.">
+</a>
+</div>
+</div>
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C11b-MAR: The maximum distance between PAD and the nominal position plotted against time for C11b. Note the pointing the pointing improvement at the start of the sub-campaign.</i>
+<a href="images/release-notes/c11/C11b-Mar.png">
+<img src="images/release-notes/c11/C11b-Mar.png" class="img-responsive" alt="Maximum residual of the C11b attitude measured with PAD and PDQ.">
 </a>
 </div>
 </div>
@@ -1801,55 +1805,59 @@ start of the sub-campaign.</i>
 
 ***Light Curve Quality***
 
-We consider the C11a and C11b pipeline-generated light curves separately
-for noise analysis and comparison with previous campaigns.
-As in previous campaigns, the 6-hour spacecraft roll cycle
-continues to dominate the systematic
+We consider the C11a and C11b pipeline-generated light curves separately for noise analysis and comparison with previous campaigns.
+As in previous campaigns, the 6-hour spacecraft roll cycle continues to dominate the systematic
 errors in C11 simple aperture photometry light curves.
 
 The magnitude dependence of CDPP and its distribution over the focal plane
 are shown below. Other CDPP benchmarks can be found in the
-<a href="images/release-notes/c11/c11a_bin1.00_sc1.00_CDPP_Summary_17042811.txt">
+<a href="images/release-notes/c11/c11a_bin1.00_sc1.00_CDPP_Summary_19032701.txt">
 table giving C11a 6.5-hr CDPP as a function of magnitude</a> and
-<a href="images/release-notes/c11/c11b_bin1.00_sc1.00_CDPP_Summary_17051815.txt">
+<a href="images/release-notes/c11/c11b_bin1.00_sc1.00_CDPP_Summary_19032702.txt">
 the C11b 6.5-hr CDPP table.</a>
-The stellar properties
-for each target, available from the
-<a href="http://archive.stsci.edu/k2/epic/search.php">EPIC catalog</a>,
-were used to distinguish dwarf and giant stars. The C11
-CDPP values are in family with C7, the next most crowded K2 FOV for which
-pipeline light curves were generated.
+
+The stellar properties for each target, available from the <a href="http://archive.stsci.edu/k2/epic/search.php">EPIC catalog</a>,
+were used to distinguish dwarf and giant stars. The C11 CDPP values are in family with C7, the next most crowded K2 FOV for which pipeline light curves were generated.
+
 <br>
 
+<div class="thumbnail" style="width: 90%;">
 <div class="caption">
-<i>Figure C11-CDPP: 6.5-hr CDPP measurements for C11a targets (left) and C11b targets (right) as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>   
+<i>Figure C11a-CDPP: 6.5-hr CDPP measurements for C11a targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth.</i>   
 </div>
-<div class="thumbnail" style="width: 49%;display: inline-block;">
-<a href="images/release-notes/c11/c11a_logg_CDPP_vs_model.png">
-<img src="images/release-notes/c11/c11a_logg_CDPP_vs_model.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
+<a href="images/release-notes/c11/c11Ra_logg_CDPP_vs_model.png">
+<img src="images/release-notes/c11/c11Ra_logg_CDPP_vs_model.png" class="img-responsive" alt="CDPP measured for all C11a targets as a function of Kepler magnitude.">
 </a>
 </div>
 
-<div class="thumbnail" style="width: 49%;display: inline-block;">
-<a href="images/release-notes/c11/c11b_logg_CDPP_vs_model.png">
-<img src="images/release-notes/c11/c11b_logg_CDPP_vs_model.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C11b-CDPP: 6.5-hr CDPP measurements for C11b targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth.</i>   
+</div>
+<a href="images/release-notes/c11/c11Rb_logg_CDPP_vs_model.png">
+<img src="images/release-notes/c11/c11Rb_logg_CDPP_vs_model.png" class="img-responsive" alt="CDPP measured for all C11b targets as a function of Kepler magnitude.">
 </a>
 </div>
 
+<div class="thumbnail" style="width: 90%;">
 <div class="caption">
-<i>Figure C11-CDPP Focal Plane: 6.5-hr CDPP for C11a (left) and C11b (right) dwarf targets across the focal plane. Panels show the 10th percentile (left) and median (right) CDPP metric for all dwarf targets in the 12th (top) and 14th (bottom) magnitude range. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
+<i>Figure C11a-CDPP Focal Plane: 6.5-hr CDPP for C11a dwarf targets across the focal plane. Panels show the 10th percentile (left) and median (right) CDPP metric for all dwarf targets in the 12th (top) and 14th (bottom) magnitude range. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
 </div>
-<div class="thumbnail" style="width: 49%;display: inline-block;">
-<a href="images/release-notes/c11/c11a_dwarf_CDPP_by_channel.png">
-<img src="images/release-notes/c11/c11a_dwarf_CDPP_by_channel.png" class="img-responsive" alt="CDPP per channel for all 12th magnitude stars">
+<a href="images/release-notes/c11/c11Ra_dwarf_CDPP_by_channel.png">
+<img src="images/release-notes/c11/c11Ra_dwarf_CDPP_by_channel.png" class="img-responsive" alt="C11a CDPP per channel for all 12th magnitude stars">
 </a>    
 </div>
 
-<div class="thumbnail" style="width: 49%;display: inline-block;">
-<a href="images/release-notes/c11/c11b_dwarf_CDPP_by_mod_out.png">
-<img src="images/release-notes/c11/c11b_dwarf_CDPP_by_mod_out.png" class="img-responsive" alt="CDPP per channel for all 12th magnitude stars">
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C11b-CDPP Focal Plane: 6.5-hr CDPP for C11b dwarf targets across the focal plane. Panels show the 10th percentile (left) and median (right) CDPP metric for all dwarf targets in the 12th (top) and 14th (bottom) magnitude range. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
+</div>
+<a href="images/release-notes/c11/c11Rb_dwarf_CDPP_by_channel.png">
+<img src="images/release-notes/c11/c11Rb_dwarf_CDPP_by_channel.png" class="img-responsive" alt="C11b CDPP per channel for all 12th magnitude stars">
 </a>    
 </div>
+
+<br>
 
 ***Targets Missing from the Archive***
 
@@ -1862,6 +1870,7 @@ missing targets for C11a</a> (15 are non-custom targets) and
 missing custom-aperture targets for C11b</a>. There is no overlap between the C11a
 and C11b missing target lists. The project is investigating options
 for delivering these targets in the future.
+
 <br>
 
 ***Poor Smear Correction - Bright Stars***
@@ -1913,17 +1922,18 @@ columns for C11a and C11b</i>
 <td class="tg-baqh">154-158</td>
 </tr>
 </table>
+
 <br>
 
 ***LDE Flags***
 
-During the last three days of C11b we experienced a large number of parity errors coming from the photometer's local detector electronics (LDE). These LDE parity errors can occur when a very bright object saturates and spills charge into the CCD serial readout register, causing an overflow at the input to the analog-to-digital converter. The LDE parity errors were likely caused by the image of Saturn on the focal plane. These errors do not affect the quality of data from pixels on the active focal plane.
+During the last three days of C11b the detector experienced a large number of parity errors coming from the photometer's local detector electronics (LDE). These LDE parity errors can occur when a very bright object saturates and spills charge into the CCD serial readout register, causing an overflow at the input to the analog-to-digital converter. The LDE parity errors were likely caused by the image of Saturn on the focal plane. These errors do not affect the quality of data from pixels on the active focal plane, and the pipeline as run in this most recent processing does not discard data based on this flag.
 
 The LDE parity error triggers a flag (bit 15, decimal=16384) in the QUALITY column of the target pixel files. Most of the cadences from long cadence number 136276 (2016-12-4 00:58 UTC) to LC 136426 (2016-12-7 02:32 UTC) have the parity error flag set.
 
-<br>
-
 <hr>
+
+<br>
 
 
 # K2 Campaign 10

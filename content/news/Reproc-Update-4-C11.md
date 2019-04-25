@@ -12,6 +12,7 @@ Reprocessed data and release notes from campaign 11 are now available &mdash; 0,
 <item> The missing targets exported XXXXXX
 </li>
 
+148 LDE pairty error cadences
 
 The reprocessing priority of the remaining campaigns is C1, C6, C4, C7, C8, C10, C12, C14, C9.
 
