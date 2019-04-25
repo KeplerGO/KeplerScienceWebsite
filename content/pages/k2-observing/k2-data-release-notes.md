@@ -1501,6 +1501,9 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 
 # K2 Campaign 11
 
+These release notes are for the C11 data currently available at MAST (Data Release 30) in the nominal K2 data locations, which have been processed with the final version of the K2 pipeline as part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a>. The original release notes corresponding to the previous version(s) of C11 data (Data Release 17) can be found in the <a href="archived-k2-data-release-notes.html#k2-campaign-11">archived data release notes page</a>.
+
+
 <h2>At a glance</h2>
 
 <div class="col-lg-5">
@@ -1514,7 +1517,7 @@ campaign. The excess roll motion was corrected twenty-three days into the campai
 by applying a -0.32º roll offset. The size of this correction meant
 that new target aperture definitions
 had to be used for the second part of the campaign.
-The two segments are identified in the
+The two segments, colloquially called C11a and C11b, are identified in the
 archive products as C111 and C112, respectively.
 </p>
 
@@ -1537,6 +1540,24 @@ archive products as C111 and C112, respectively.
 <li>delta-RA: 0.0 degrees</li>
 <li>delta-Dec: 0.0 degrees</li>
 <li>delta-Roll: -0.32 degrees</li>
+</ul>
+
+<b><i>C11 Targets</i></b>
+<ul>
+<li> 32884 (32580 in C11b) in long cadence (LC)</li>
+<li> 67 (66 in C11b) in short cadence (SC)</li>
+<li> 72 Custom targets (see below)
+<li> No new targets were added for C11b. Because of the change in pointing, 304 long cadence targets and 1 short cadence target fell off active silicon and thus were dropped in C11b.
+</ul>
+
+<b><i>Full Frame Images (FFI)</i></b>
+<p>
+The two C11 FFIs were taken at the C11a and C11b pointings respectively. The -0.32 degree roll offset
+is evident when comparing the two images.
+</p>
+<ul>
+<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2016279022810-c111_ffi-cal.fits">ktwo2016279022810-c111_ffi-cal.fits</a></li>
+<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2016307123729-c112_ffi-cal.fits">ktwo2016307123729-c112_ffi-cal.fits</a></li>
 </ul>
 
 <b><i>C11a First cadence</i></b>
@@ -1567,54 +1588,49 @@ archive products as C111 and C112, respectively.
 <li>Short Cadence Number: 4082559</li>
 </ul>
 
-<b><i>C11 Targets</i></b>
-<ul>
-<li> 32884 (32580 in C11b) in long cadence (LC)</li>
-<li> 67 (66 in C11b) in short cadence (SC)</li>
-<li> 72 Custom targets include 64 Solar System moving objects tiled with multiple apertures, featuring Titan and Enceladus, 9 bright stars covered with disk apertures to capture the PSF wings, 22 late microlensing targets, and 5 galaxy targets. See the <a href="images/release-notes/c11/ktwoc111_caf.csv">C11a csv file</a> and <a href="images/release-notes/c11/ktwoc112_caf.csv">C11b csv file</a> to map the Solar system object custom aperture numbers to the target names.</li>
-<li> No new targets were added for C11b. Because of the change in roll attitude, the positions of all the target apertures on the focal plane were changed, causing some targets to move to a different detector channel and some to fall off active silicon. 304 long cadence targets and 1 short cadence target were dropped in C11b.
-</ul>
-
-<b><i>Full Frame Images (FFI)</i></b>
-<p>
-The two C11 FFIs were taken at the C11a and C11b pointings respectively. The -0.32 degree roll offset
-is evident when comparing the two images.
-</p>
-<ul>
-<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2016279022810-c111_ffi-cal.fits">ktwo2016279022810-c111_ffi-cal.fits</a></li>
-<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2016307123729-c112_ffi-cal.fits">ktwo2016307123729-c112_ffi-cal.fits</a></li>
-</ul>
-
 <b><i>Most Recent Processing Version</i></b>
 <ul>
-<li> <a href="k2-pipeline-release-notes.html#data-release-17">Data Release 17</a> </li>
+<li> <a href="k2-pipeline-release-notes.html#data-release-30">Data Release 30</a> </li>
 </ul>
 
 </div>
-
 
 <div class="col-lg-7">
 
-<div class="thumbnail">
-<div class="caption">
-<i>Figure C11-FOV: Schematic of Kepler's C11 field-of-view with observed targets shown with purple dots. The galactic plane passes through modules 2 and 6.</i>
-</div>
-<a href="images/release-notes/c11/C11_selected.png">
-<img src="images/release-notes/c11/C11_selected.png" class="img-responsive" alt="C11 field-of-view with selected targets plotted in purple. The galactic plane passes through modules 2 and 6.">
-</a>
-</div>
-<div class="thumbnail">
-<div class="caption">
-<i>Figure C11-Mag: Distribution of the Kepler magnitudes of observed LC targets. All targets are chosen by guest observers. The distribution is due to the <a href="k2-approved-programs.html#campaign-11">GO  programs</a> that were selected.</i>
-</div>
-<a href="images/release-notes/c10/c10LcMagDistribution.png">
-<img src="images/release-notes/c10/c10LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed C11 LC targets.">
-</a>
-</div>
+    <div class="thumbnail">
+        <div class="caption">
+        <i>Figure: Figure C11-FOV: Schematic of Kepler's C11 field-of-view with high profile objects.</i>
+    </div>
+    <a href="images/k2/k2-c11-field.png">
+        <img src="images/k2/k2-c11-field.png" class="img-responsive" alt="C11 field-of-view with selected targets">
+        </a>
+    </div>
+
+    <div class="thumbnail">
+        <div class="caption">
+        <i>Figure: Figure C11-FFI: A full frame image (FFI) taken during C11a, with a flux scaling designed to highlight features of interest.</i>
+    </div>
+    <a href="images/release-notes/c11/C11aR-FFI.png">
+        <img src="images/release-notes/c11/C11aR-FFI.png" class="img-responsive" alt="The C11a FFI">
+        </a>
+    </div>
+
+    <div class="thumbnail">
+        <div class="caption">
+            <i>Figure C11-Mag: Distribution of the Kepler magnitudes of observed LC targets in C11. All targets are chosen by Guest Observers. The bimodality is due to how the largest <a href="k2-approved-programs.html#campaign-11">Guest Observer programs</a> were selected.</i>
+        </div>
+        <a href="images/release-notes/c11/C11MagDist.png">
+            <img src="images/release-notes/c11/C11MagDist.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets in C11.">
+        </a>
+    </div>
+
+  </div>
 
 </div>
 
-<br style="clear:both;">
+<br>
+
+
 
 <h2>Features and Events</h2>
 
@@ -1628,19 +1644,19 @@ for the Kepler field of view is 900 stars/deg^2. As a result of the high star de
 of the pipeline algorithms are operating outside of their design range. Users are cautioned
 to treat the pipeline background, centroid, and aperture photometry results with care, especially
 on channels covering the Galactic Bulge.
-<div class="thumbnail">
-<div class="caption">
-<i>Figure C11-Star Density: The average density of stars with 11.5 < Kp < 14.5 for each channel
-ranges from a few thousand to over 20,000 stars/deg^2.  The galactic plane passes through
-modules 2 and 6. The numbers indicate the detector module and output number.</i>
-</div>
-<a href="images/release-notes/c11/k2_c11_star_density.jpg">
-<img src="images/release-notes/c11/k2_c11_star_density.jpg" class="img-responsive" alt="C11 star
-density ranges from a few thousand to over 20000 stars/deg^2.">
-</a>
+
+<div class="thumbnail" style="width: 75%;">
+  <div class="caption">
+  <i>Figure C11-StarDensity: The average density of stars with 11.5 < Kp < 14.5 for each channel. As shown by the legend, the density ranges from a few thousand to over 20,000 stars/deg^2. The galactic plane passes through modules 2 and 6. The numbers indicate the detector module and output number.</i>
+  </div>
+  <a href="images/release-notes/c11/k2_c11_star_density.jpg">
+    <img src="images/release-notes/c11/k2_c11_star_density.jpg" class="img-responsive" alt="C11 star
+    density ranges from a few thousand to over 20000 stars/deg^2.">
+  </a>
 </div>
 
 <br>
+
 
 ***Saturn***
 
@@ -1651,6 +1667,14 @@ regularly passed through Saturn's saturated charge spill columns. Both Titan and
 were tiled with custom aperture masks.
 
 <br>
+
+
+***Custom targets***
+
+72 Custom targets include 64 Solar System moving objects tiled with multiple apertures, featuring Titan and Enceladus, 9 bright stars covered with disk apertures to capture the PSF wings, 22 late microlensing targets, and 5 galaxy targets. See the <a href="images/release-notes/c11/ktwoc111_caf.csv">C11a csv file</a> and <a href="images/release-notes/c11/ktwoc112_caf.csv">C11b csv file</a> to map the Solar system object custom aperture numbers to the target names.</li>
+
+<br>
+
 
 ***Attitude Offset and Segmenting of C11 Data***
 
@@ -3356,7 +3380,7 @@ Due to an incompatibility between K2 roll motion and the determination of photom
 
 ***Stars Show Lower Than Expected Flux***
 
-The comparison of the measured flux to the flux based on their Kepler magnitudes in the EPIC catalog shows that ≈3,752 stars (23.8% of all stellar targets) are too bright by about a magnitude. The EPIC catalog field Kepflag gives the provenance of the Kepler magnitude estimate by listing the catalog magnitudes used to estimate the Kepler magnitude. Stars with Kepflag = “JHK” or “J” have Kepler magnitudes that are generally overestimated. These stars appear at all magnitudes, but predominantly have EPIC Kepler magnitudes dimmer than 14. The optimal apertures used to generate light curves for these “JHK” or “J” targets may be larger than optimal, reducing their photometric precision.
+The comparison of the meured flux to the flux based on their Kepler magnitudes in the EPIC catalog shows that ≈3,752 stars (23.8% of all stellar targets) are too bright by about a magnitude. The EPIC catalog field Kepflag gives the provenance of the Kepler magnitude estimate by listing the catalog magnitudes used to estimate the Kepler magnitude. Stars with Kepflag = “JHK” or “J” have Kepler magnitudes that are generally overestimated. These stars appear at all magnitudes, but predominantly have EPIC Kepler magnitudes dimmer than 14. The optimal apertures used to generate light curves for these “JHK” or “J” targets may be larger than optimal, reducing their photometric precision.
 
 <div class="thumbnail" style="width: 100%;">
     <div class="caption">
@@ -3489,7 +3513,7 @@ These release notes are for the C3 data currently available at MAST (Data Releas
 
     <div class="thumbnail">
         <div class="caption">
-            <i>Figure C3-Mag: Distribution of the Kepler magnitudes of observed LC targets in C3. The bimodality is due to the large Guest Observer programs selected for C3.</i>
+              <i>Figure C3-Mag: Distribution of the Kepler magnitudes of observed LC targets in C3. The bimodality is due to the large Guest Observer programs selected for C3.</i>
         </div>
         <a href="images/release-notes/c3/magnitudeDist.png">
             <img src="images/release-notes/c3/magnitudeDist.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets in C3.">
@@ -3562,7 +3586,7 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 <i>Figure C3-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>
 </div>
 <a href="images/release-notes/c3/cdpp_vs_mag_dr26.png">
-<img src="images/release-notes/c3/cdpp_vs_mag_dr26.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
+<img src="images/release-notes/c3/cdpp_vs_mag_dr26.png" class="img-responsive" alt="CDPP measured for all targets as a nction of Kepler magnitude.">
 </a>
 </div>
 
@@ -3943,7 +3967,7 @@ If a target was observed, it was either 1) given an EPIC ID from the regular
 catalog if that target matched a target in the catalog, or
 2) assigned a new EPIC ID. We created EPIC IDs for 28 targets, ranging from
 210282464 to 210282491. The remaining C1 targets have EPIC IDs ranging
-from 201000001 to 202059065.
+from 20100000001 to 202059065.
 
 <br>
 
@@ -4205,7 +4229,7 @@ The following 48 targets do not have associated lightcurve files, because the pi
 202065117&emsp;&emsp;202065118&emsp;&emsp;202065119&emsp;&emsp;202065120&emsp;&emsp;202065121&emsp;&emsp;202065122<br>
 202065123&emsp;&emsp;202065124&emsp;&emsp;202065125&emsp;&emsp;202065126&emsp;&emsp;202065127&emsp;&emsp;202065128<br>
 202065129&emsp;&emsp;202065130&emsp;&emsp;202065131&emsp;&emsp;202065132&emsp;&emsp;202065133&emsp;&emsp;202065134<br>
-202065135&emsp;&emsp;202065136&emsp;&emsp;202071440&emsp;&emsp;202071443&emsp;&emsp;202071445&emsp;&emsp;202071446<br>
+202065135&emsp;&sp;202065136&emsp;&emsp;202071440&emsp;&emsp;202071443&emsp;&emsp;202071445&emsp;&emsp;202071446<br>
 202071448&emsp;&emsp;202071450&emsp;&emsp;202072947&emsp;&emsp;202072959&emsp;&emsp;202072962&emsp;&emsp;202072982<br>
 202073036&emsp;&emsp;202073099&emsp;&emsp;202073125&emsp;&emsp;202073136&emsp;&emsp;202073152&emsp;&emsp;202073290<br>
 202073323&emsp;&emsp;202073354&emsp;&emsp;202073360&emsp;&emsp;202073364&emsp;&emsp;202073377&emsp;&emsp;202073415<br>
@@ -4243,7 +4267,7 @@ The 6-hour spacecraft roll cycle dominates the systematic errors in C0 simple ap
 <hr>
 
 
-# Two-wheel Concept Engineering Test
+# Two-wheel Concept Engineering Testst
 
 
 <h2>At a glance</h2>
