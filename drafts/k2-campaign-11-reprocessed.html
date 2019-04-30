@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<!--
+Crafted with ♥ by Geert Barentsen, Thomas Barclay & Knicole colon at NASA Ames
+in August 2015, using pelican-bootstrap and flatly.
+-->
+<html lang="en"
+>
+
+<head>
+    <title>K2 Campaign 11 reprocessed - Kepler &amp; K2</title>
+    <!-- Using the latest rendering mode for IE -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--Custom meta data-->
+
+    <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
+    <meta name="dc.format" content="text/html" />
+    <meta name="dc.date.modified" content="2019-04-10" />
+    <meta name="dc.language" content="en" />
+    <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
+    <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
+    <meta name="dc.audience" content="Astronomers, Astrophysicists, Scientists, Researchers" />
+    <meta name="dc.subject.discipline" content="Astrophysics, Astronomy" />
+    <meta name="orgcode" content="SSA">
+    <meta name="rno" content="Thomas.Barclay">
+    <meta name="content-owner" content="Thomas.Barclay">
+    <meta name="webmaster" content="Thomas.Barclay">
+
+
+    <link href="../images/favicon.png" rel="icon">
+
+<link rel="canonical" href="../drafts/k2-campaign-11-reprocessed.html">
+
+        <meta name="author" content="Jeff Coughlin" />
+        <meta name="description" content="Earlier this year we announced that we were undertaking an effort to reprocess campaigns 0–14 using the same version of the Kepler/K2 pipeline used for C15 and subsequent campaigns. This version introduced several new features and improvements, such as more sophisticated pixel calibration, better identification of spacecraft pointing …" />
+
+        <meta property="og:site_name" content="Kepler &amp; K2" />
+        <meta property="og:type" content="article"/>
+        <meta property="og:title" content="K2 Campaign 11 reprocessed"/>
+        <meta property="og:url" content="../drafts/k2-campaign-11-reprocessed.html"/>
+        <meta property="og:description" content="Earlier this year we announced that we were undertaking an effort to reprocess campaigns 0–14 using the same version of the Kepler/K2 pipeline used for C15 and subsequent campaigns. This version introduced several new features and improvements, such as more sophisticated pixel calibration, better identification of spacecraft pointing …"/>
+        <meta property="article:published_time" content="2019-04-15" />
+            <meta property="article:section" content="news" />
+            <meta property="article:author" content="Jeff Coughlin" />
+
+
+    <!-- Why use Helvetica Neue when you can have Lato? -->
+    <link href="../theme/css/lato.css" rel="stylesheet">
+
+    <!-- Bootstrap -->
+        <link rel="stylesheet" href="../theme/css/bootstrap.flatly.min.css" type="text/css"/>
+    <link href="../theme/css/font-awesome.min.css" rel="stylesheet">
+
+    <link href="../theme/css/exoplanet_archive_icons.css" rel="stylesheet">
+    <link href="../theme/css/mission_icons.css" rel="stylesheet">
+
+    <link href="../theme/css/pygments/native.css" rel="stylesheet">
+    <link rel="stylesheet" href="../theme/css/style.css" type="text/css"/>
+
+    <link href="../feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Kepler &amp; K2 ATOM Feed"/>
+    <link href="../feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="Kepler &amp; K2 RSS Feed"/>
+
+</head>
+<body>
+
+<!-- Print a warning message that this is not the official site -->
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+
+  <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="../" class="navbar-brand">
+<img src="../images/NASA_logo_vector_lg.png" width="32"/> Kepler &amp; K2            </a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                        <li><a href="../archives.html">News</a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">The missions <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../objectives.html">Objectives</a></li>
+                                <li><a href="../the-kepler-space-telescope.html">Telescope</a></li>
+                                <li><a href="../science.html">Science</a></li>
+                                <li><a href="../publications.html">Publications</a></li>
+                                <li><a href="../conferences.html">Conferences</a></li>
+                                <li><a href="../users-panel.html">Users Panel</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">K2 observing <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../k2-observing.html">Overview</a></li>
+                                <li><a href="../k2-fields.html">Campaign fields</a></li>
+                                <li><a href="../k2-approved-programs.html">Targets &amp; programs</a></li>
+                                <li><a href="../k2-data-release-notes.html">Data release notes</a></li>
+                                <li><a href="../k2-proposing-targets.html">Proposal preparation</a></li>
+                                <li><a href="../k2-c9.html">C9 Microlensing experiment</a></li>
+                                <li><a href="../supernova-experiment">C16 Supernova experiment</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Data analysis <b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="../data-products.html">Data products</a></li>
+                                <li><a href="../pipeline.html">Pipeline</a></li>
+                                <li><a href="../software.html">Software</a></li>
+                                <li><a href="../community-products.html">Community products</a></li>
+                            </ul>
+                        </li>
+            </ul>
+            
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="../helpdesk.html"><i class="fa fa-info-circle fa-lg"></i> Helpdesk</a>
+                </li>
+            </ul>
+            
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+</div> <!-- /.navbar -->
+<!-- Banner -->
+<!-- End Banner -->
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+
+    <section id="content">
+        <article>
+            <header >
+                <h1>
+                    <a href="../drafts/k2-campaign-11-reprocessed.html"
+                       rel="bookmark"
+                       title="Permalink to K2 Campaign 11 reprocessed">
+                        K2 Campaign 11 reprocessed
+                    </a>
+                </h1>
+            </header>
+            <div class="entry-content">
+<p style="margin-bottom: 1.5em;">
+    <span class="published categories-timestamp">
+        News article posted on
+        <time datetime="2019-04-15T09:00:00-07:00"> 15 Apr 2019</time>
+    
+
+
+            by <a href="../author/jeff-coughlin.html">Jeff Coughlin</a>
+
+
+
+    
+
+    </span>
+</p><!-- /.post-info -->                <p>Earlier this year <a href="k2-uniform-global-reprocessing-underway.html">we announced</a> that we were undertaking an effort to reprocess campaigns 0&ndash;14 using the same version of the Kepler/K2 pipeline used for C15 and subsequent campaigns. This version introduced several new features and improvements, such as more sophisticated pixel calibration, better identification of spacecraft pointing, improved cosmic ray correction, and production of short-cadence lightcurves, along with several other minor improvements. Please see the <a href="k2-uniform-global-reprocessing-underway.html">associated news post</a> for details on each feature.</p>
+<p>Reprocessed data and release notes from campaign 11 are now available &mdash; 0, 2, 3, 5, and 13 were made available previously (see processing status figure below). The newest data are available via the usual <a href="https://archive.stsci.edu/k2/">K2 data download interfaces at the MAST archive</a>; the older data has been kept available via the <a href="https://archive.stsci.edu/missions/k2/">MAST browser interface</a> (e.g., <a href="https://archive.stsci.edu/missions/k2/target_pixel_files/old_release_bundles/">here</a> for tarballs of the old target pixel files (TPFs) and <a href="https://archive.stsci.edu/missions/k2/lightcurves/old_release_tarfiles/">here</a> for tarballs of the old lightcurve files, if previously produced). The data release notes have been updated for each reprocessed campaign, available at the nominal <a href="k2-data-release-notes.html">K2 Data Release Notes page</a>; links to the old version of the release notes are also provided for posterity.</p>
+<p><strong>As always, users are highly encouraged to read the updated <a href="k2-data-release-notes.html#k2-campaign-11">C11 Data Release Notes</a>.</strong> Some notable improvements with the C11 reprocessing include:</p>
+<li>
+<item> The missing targets exported XXXXXX
+</li>
+
+<p>The reprocessing priority of the remaining campaigns is C1, C6, C4, C7, C8, C10, C12, C14, C9.</p>
+<p><br></p>
+<div class="thumbnail" style="width: 90%; display: inline-block;">
+<div class="caption">
+<i>The status of major processing features for each campaign as of April 15, 2019. Check marks indicate that the feature is present in the currently available data for that campaign. Blue check marks are features/improvements added a result of the global uniform reprocessing effort.</i>
+</div>
+<img style="text-align: center" src="images/news/reproc-status-4-major.png" width="100%" align="center"  class="img-responsive">
+</div>
+
+<div class="thumbnail" style="width: 90%; display: inline-block;">
+<div class="caption">
+<i>The status of minor processing features for each campaign  as of April 15, 2019. Check marks indicate that the feature is present in the currently available data for that campaign. Blue check marks are features/improvements added a result of the global uniform reprocessing effort.</i>
+</div>
+<img style="text-align: center" src="images/news/reproc-status-4-minor.png" width="100%" align="center"  class="img-responsive">
+</div>
+            </div>
+            <!-- /.entry-content -->
+        </article>
+    </section>
+
+        </div>
+    </div>
+</div>
+
+<div class="container container-wide" style="margin-top: 1.5em;">
+  <footer>
+
+     <div class="container">
+      
+      <!-- Related websites -->  
+      <div class="row">
+        <div class="col-xs-12">
+          <h5><i class="fa fa-external-link"></i><span class="icon-label">Related websites:</span></h5>
+          <a href="http://www.nasa.gov/kepler" target="_blank">
+                  Kepler/K2 News and Media Resources
+              </a>
+          <br/>
+          <a href="http://www.ballaerospace.com/page.jsp?page=72" target="_blank">
+                  Kepler/K2 @ Ball Aerospace
+              </a>
+          <br/>
+          <a href="http://archive.stsci.edu/kepler" target="_blank">
+                  Kepler Data Archive @ MAST
+              </a>
+          <br/>
+          <a href="http://archive.stsci.edu/k2" target="_blank">
+                  K2 Data Archive @ MAST
+              </a>
+          <br/>
+          <a href="http://exoplanetarchive.ipac.caltech.edu" target="_blank">
+                  NASA Exoplanet Archive @ IPAC
+              </a>
+          <br/>
+        </div>
+      </div>
+
+      <!-- NASA logo and notices -->
+      <div class="row" style="margin-top:2em;">
+         <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="../images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
+         Last modified: Mon 15 April 2019
+            &middot; Editor: Geert Barentsen &middot; NASA Official: Jessie Dotson
+            &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
+         <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+    </div>
+
+  </footer>
+</div>
+<script src="../theme/js/jquery.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="../theme/js/bootstrap.min.js"></script>
+
+<!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+<script src="../theme/js/respond.min.js"></script>
+
+    <script src="../theme/js/bodypadding.js"></script>
+<!-- Analytics scripts -->
+
+
+</body>
+</html>
