@@ -1652,7 +1652,7 @@ on channels covering the Galactic Bulge.
 
 <div class="thumbnail" style="width: 75%;">
   <div class="caption">
-  <i>Figure C11-StarDensity: The average density of stars with 11.5 < Kp < 14.5 for each channel. As shown by the legend, the density ranges from a few thousand to over 20,000 stars/deg<sup>2</sup>. The galactic plane passes through modules 2 and 6. The numbers indicate the detector module and output number.</i>
+  <i>Figure C11-StarDensity: The average density of stars with 11.5 < Kp < 14.5 for each channel. As shown by the legend, the density ranges from a few thousand to over 20,000 stars/deg<sup>2</sup>. The galactic plane passes through modules 2 and 6 for the detector layout). The numbers indicate the detector module and output number (see figures on <a href="the-kepler-space-telescope.html">the telescope overview page</a> for more images describing the detector layout).</i>
   </div>
   <a href="images/release-notes/c11/k2_c11_star_density.jpg">
     <img src="images/release-notes/c11/k2_c11_star_density.jpg" class="img-responsive" alt="C11 star
@@ -1859,17 +1859,27 @@ were used to distinguish dwarf and giant stars. The C11 CDPP values are in famil
 
 <br>
 
-***Targets Missing from the Archive***
 
-Pipeline errors during the process of exporting the light curve (LCV) and
-target pixel (TP) FITS files resulted in targets from both C11a and C11b
-having no LCV or TP files at the archive.
-There are <a href="images/release-notes/c11/c11a_missing_export_target_epic_ids.txt">194
-missing targets for C11a</a> (15 are non-custom targets) and
-<a href="images/release-notes/c11/c11b_missing_export_target_epic_ids.txt">3
-missing custom-aperture targets for C11b</a>. There is no overlap between the C11a
-and C11b missing target lists. The project is investigating options
-for delivering these targets in the future.
+***Targets With Incomplete FITS Header***
+
+There are 13 custom targets (see list below) that are missing centroid information and values for the following FITS headers in thier target pixel and lightcurve files: RA_OBJ, DEC_OBJ, 1CRVL4, 2CRVL4, 1CRVL5, 2CRVL5, 1CRVL6, 2CRVL6, 1CRVL7, 2CRVL7, 1CRVL8, 2CRVL8, 1CRVL9, 2CRVL9, EXPOSURE, TELAPSE, LIVETIME, TSTART, TSTOP, CRVAL1, and CRVAL2. This situation typically for a very small fraction of custom targets, where the entire pixel stamp is erroneously selected as the aperture. As a result there are no background pixels available to compute the centroid information, and thus the values for the listed FITS headers. Users wanting to analyze this target are encouraged to create their own lightcurve using software such as the [lightkurve Python package](https://docs.lightkurve.org) or [PyKE software tool suite](http://pyke.keplerscience.org).
+
+The list of the affected 13 are:
+<ul>
+<li>200108002
+<li>200109390
+<li>200109391
+<li>200111995
+<li>200112045
+<li>200112066
+<li>200117957
+<li>200121136
+<li>200121176
+<li>200121179
+<li>200122458
+<li>200124751
+<li>200125354
+</ul>
 
 <br>
 
@@ -1898,7 +1908,7 @@ are given below.
 </style>
 <table class="tg">
 <div class="caption">
-<i>Channels with corrupt smear measurments due to saturating stars on the specified
+<i>Channels with corrupt smear measurements due to saturating stars on the specified
 columns for C11a and C11b</i>
 </div>
 <tr>
@@ -1927,7 +1937,7 @@ columns for C11a and C11b</i>
 
 ***LDE Flags***
 
-During the last three days of C11b the detector experienced a large number of parity errors coming from the photometer's local detector electronics (LDE). These LDE parity errors can occur when a very bright object saturates and spills charge into the CCD serial readout register, causing an overflow at the input to the analog-to-digital converter. The LDE parity errors were likely caused by the image of Saturn on the focal plane. These errors do not affect the quality of data from pixels on the active focal plane, and the pipeline as run in this most recent processing does not discard data based on this flag.
+During the last three days of C11b the detector experienced a large number of parity errors coming from the photometer's local detector electronics (LDE). These LDE parity errors can occur when a very bright object saturates and spills charge into the CCD serial readout register, causing an overflow at the input to the analog-to-digital converter. The LDE parity errors were likely caused by the image of Saturn on the focal plane. These errors do not affect the quality of data from pixels on the active focal plane, and the pipeline as run in this most recent processing does ***not*** discard data based on this flag.
 
 The LDE parity error triggers a flag (bit 15, decimal=16384) in the QUALITY column of the target pixel files. Most of the cadences from long cadence number 136276 (2016-12-4 00:58 UTC) to LC 136426 (2016-12-7 02:32 UTC) have the parity error flag set.
 
