@@ -12,6 +12,10 @@ The next reprocessed campaign to be delivered will be C0, currently expected in 
 
 <br>
 
+Questions/Comments?  Please e-mail [Jeff Coughlin](mailto:jeffrey.l.coughlin@nasa.gov).
+
+<br>
+
 <div class="thumbnail" style="width: 90%; display: inline-block;">
 <div class="caption">
 <i>The status of major processing features for each campaign as of October 3, 2018. Check marks indicate that the feature is present in the currently available data for that campaign. Blue check marks are features/improvements added a result of the global uniform reprocessing effort.</i>
