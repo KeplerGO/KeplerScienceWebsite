@@ -1862,9 +1862,11 @@ were used to distinguish dwarf and giant stars. The C11 CDPP values are in famil
 
 ***Targets With Incomplete FITS Header***
 
-There are 13 custom targets (see list below) that are missing centroid information and values for the following FITS headers in thier target pixel and lightcurve files: RA_OBJ, DEC_OBJ, 1CRVL4, 2CRVL4, 1CRVL5, 2CRVL5, 1CRVL6, 2CRVL6, 1CRVL7, 2CRVL7, 1CRVL8, 2CRVL8, 1CRVL9, 2CRVL9, EXPOSURE, TELAPSE, LIVETIME, TSTART, TSTOP, CRVAL1, and CRVAL2. This situation typically for a very small fraction of custom targets, where the entire pixel stamp is erroneously selected as the aperture. As a result there are no background pixels available to compute the centroid information, and thus the values for the listed FITS headers. Users wanting to analyze this target are encouraged to create their own lightcurve using software such as the [lightkurve Python package](https://docs.lightkurve.org) or [PyKE software tool suite](http://pyke.keplerscience.org).
+There are 13 custom targets in C11a and 3 in C11b (see list below) that are missing centroid information and values for the following FITS headers in thier target pixel and lightcurve files: RA_OBJ, DEC_OBJ, 1CRVL4, 2CRVL4, 1CRVL5, 2CRVL5, 1CRVL6, 2CRVL6, 1CRVL7, 2CRVL7, 1CRVL8, 2CRVL8, 1CRVL9, 2CRVL9, EXPOSURE, TELAPSE, LIVETIME, TSTART, TSTOP, CRVAL1, and CRVAL2. This situation typically for a very small fraction of custom targets, where the entire pixel stamp is erroneously selected as the aperture. As a result there are no background pixels available to compute the centroid information, and thus the values for the listed FITS headers. Users wanting to analyze this target are encouraged to create their own lightcurve using software such as the [lightkurve Python package](https://docs.lightkurve.org) or [PyKE software tool suite](http://pyke.keplerscience.org).
 
 The list of the affected 13 are:
+
+C11a
 <ul>
 <li>200108002
 <li>200109390
@@ -1879,6 +1881,13 @@ The list of the affected 13 are:
 <li>200122458
 <li>200124751
 <li>200125354
+</ul>
+<br>
+C11b
+<ul>
+<li>200134507
+<li>200136321
+<li>200129342
 </ul>
 
 <br>
