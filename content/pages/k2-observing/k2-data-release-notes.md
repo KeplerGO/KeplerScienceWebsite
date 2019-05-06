@@ -10,6 +10,79 @@ including information on field pointing, target selection, observation times and
 
 # K2 Campaign 19
 
+<h2>At a glance</h2>
+
+<div class="col-lg-5">
+
+<b><i>Pointing</i></b>
+<ul>
+<li> RA: 347.2590265 degrees</li>
+<li> Dec: -4.2027029 degrees</li>
+<li> Roll: 22.8818335 degrees</li>
+</ul>
+
+<b><i>Targets</i></b>
+<ul>
+<li>  44,224 long cadence (LC) targets, including 11,495 galaxy targets.</li>
+<li>  222 short cadence (SC) targets.</li>
+<li>  31 moving objects (including Neptune) were tiled with LC custom strip apertures. 15 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. 6 large galaxies were assigned 35-pixel diameter LC apertures. See the <a href="images/release-notes/c19/kplr2018316185300_c19_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
+</ul>
+
+<b><i>Full Frame Images (FFI)</i></b>
+<ul>
+<li><a href="https://archive.stsci.edu/missions/k2/ffi/kplr2018268151041-c19_ffi-orig.fits">kplr2018268151041-c19_ffi-orig.fits</a>
+<li><a href="https://archive.stsci.edu/missions/k2/ffi/kplr2018249002316-c19_ffi-orig.fits">kplr2018249002316-c19_ffi-orig.fits</a>
+</ul>
+
+<b><i>First cadence</i></b>
+<ul>
+<li>Start Time: 2018-05-13 00:44:43 UTC</li>
+<li>Long Cadence Number: 167333</li>
+<li>Short Cadence Number: 5008450</li>
+</ul>
+
+<b><i>Last cadence</i></b>
+<ul>
+<li>End Time: 2018-07-02 21:51:26 UTC</li>
+<li>Long Cadence Number: 168623<sup>†</sup></li>
+<li>Short Cadence Number: 5047179</li>
+</ul>
+
+<sup>†</sup>The last collected cadence was 168624, but was discarded due to data quality issues.<br><br>
+
+<b><i>Most Recent Processing Version</i></b>
+<ul>
+<li> <a href="k2-pipeline-release-notes.html#data-release-29">Data Release 29</a> </li>
+</ul>
+
+</div>
+
+<div class="col-lg-7">
+
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C19-FOV: Schematic of Kepler's C19 field-of-view with high profile objects. </i>
+</div>
+<a href="images/k2/k2-c19-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c19-field.png" id="c19fov" alt="C19 field of view with highlights, such as known planet hosts and the path of Neptune and 2P Encke.">
+</a>
+</div>
+
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C19-Mag: Distribution of the Kepler magnitudes of observed LC targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-19">GO Programs</a>
+were selected.</i>
+</div>
+<a href="images/release-notes/c19/c19_lc_magnitude_distribution.png">
+<img src="images/release-notes/c19/c19_lc_magnitude_distribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed C19 LC targets.">
+</a>
+</div>
+
+</div>
+
+
+
+
+
 <hr>
 
 <br>
