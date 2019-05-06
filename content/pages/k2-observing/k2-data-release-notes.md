@@ -40,7 +40,7 @@ including information on field pointing, target selection, observation times and
 <li>Long Cadence Number: 167333</li>
 <li>Short Cadence Number: 5008450</li>
 </ul>
-
+NEED TO UPDATE TIMESTAMPS!!!!
 <b><i>Last cadence</i></b>
 <ul>
 <li>End Time: 2018-07-02 21:51:26 UTC</li>
@@ -55,6 +55,16 @@ including information on field pointing, target selection, observation times and
 <li> <a href="k2-pipeline-release-notes.html#data-release-29">Data Release 29</a> </li>
 </ul>
 
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C19-Mag: Distribution of the Kepler magnitudes of observed LC targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-19">GO Programs</a>
+were selected.</i>
+</div>
+<a href="images/release-notes/c19/c19_lc_magnitude_distribution.png">
+<img src="images/release-notes/c19/c19_lc_magnitude_distribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed C19 LC targets.">
+</a>
+</div>
+
 </div>
 
 <div class="col-lg-7">
@@ -68,19 +78,97 @@ including information on field pointing, target selection, observation times and
 </div>
 
 <div class="thumbnail">
-<div class="caption">
-<i>Figure C19-Mag: Distribution of the Kepler magnitudes of observed LC targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-19">GO Programs</a>
-were selected.</i>
+    <div class="caption">
+    <i>Figure: Figure C19-FFI: A gif of the two full frame images (FFIs) taken during C19, with a flux scaling designed to highlight features of interest.</i>
 </div>
-<a href="images/release-notes/c19/c19_lc_magnitude_distribution.png">
-<img src="images/release-notes/c19/c19_lc_magnitude_distribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed C19 LC targets.">
+<a href="images/release-notes/c9/C19-FFIs.gif">
+    <img src="images/release-notes/c19/C19-FFIs.gif" class="img-responsive" alt="The C19 FFIs">
+    </a>
+</div>
+
+</div>
+
+
+
+<h2>Features and Events</h2>
+
+***Overlap with C3 and C12***
+
+The C19 field significantly overlaps with Campaign 12 and partially with Campaign 3. Many targets observed in C19 were also observed in C3 and/or C12,thus establishing a several year temporal baseline that provides unique science opportunities.
+
+<br>
+
+***Galaxies***
+
+There are 11,495 galaxies targeted in the C19 field of view; all but six used standard aperture masks. The six large galaxies were covered with 35-pixel diameter large circular custom masks.
+
+<br>
+
+***Solar System Objects***
+
+The C19 field of view includes 31 moving objects composed of 9 Asteroids, 20 faint Trans-Neptunian Objects, the planet Neptune, and the periodic comet [2P/Encke](https://en.wikipedia.org/wiki/Comet_Encke), all observed in long cadence.
+
+Neptune was also observed in short cadence approximately 20 days on each side of the stationary point of Neptune. Just as when Neptune was observed in [Campaign 3](k2-approved-programs.html#campaign-3), Neptune is expected to saturate the detector, resulting in spikes in the column direction as Neptune moves across the detector. The custom aperture numbers associated with Neptune are 200262135&ndash;200262467 for long cadence and 200262489&mdash;200262493 for short cadence. These observations were taken as part of Guest Observer Programs GO19009 (PI:Garcıa-Munoz), GO19061 (PI:Trafton), and GO19069 (PI:Smith).
+
+<br>
+
+***Erratic Pointing Due to Fuel Exhaustion and End of Flight***
+
+Due to an anomalous drop in fuel pressure, the Kepler team [paused the science observations for K2 Campaign 18](kepler-fuel-status-update-faq.html) about 50 days into the campaign and then a month later [successfully downloaded the C18 data](k2-campaign-18-downlink-successful.html). At the start of Campaign 19 the spacecraft configuration was [modified in order to adapt to a change in thruster performance](k2-campaign-19-status-update.html). Observations for C19 were collected for a about a month, at which point the Kepler team received data showing that the spacecraft no longer had sufficient remaining fuel to point precisely enough to gather useful scientific data, and [observations were again paused](k2-campaign-19-ended-to-downlink-data.html) and then later [successfully downloaded](k2-campaign-19-raw-data-available.html).
+
+
+<div class="thumbnail" style="width: 100%;">
+<div class="caption">
+<i>Figure C19-Pointing: C19 Pointing history. </i>
+</div>
+<a href="images/release-notes/c19/c19_pointing_history.png">
+<img src="images/release-notes/c19/c19_pointing_history.png" class="img-responsive" alt="The pointing history for C19">
 </a>
 </div>
-
 </div>
 
 
+Mark FFIs on plot
 
+<br>
+
+***Pointing and Roll Performance***
+
+The C18 pointing and roll behavior are well within the limits of that seen in other K2 campaigns, with no degradation seen due to potentially low fuel levels.
+The pipeline-calculated maximum distance between the derived and nominal positions for any target (the "maximum attitude residual", or MAR)
+for C18 is less than 1.9 pixels for nearly the entire campaign, well under the 3-pixel limit accommodated by the aperture halos.
+
+The exception is about a dozen long cadences just prior to BKJD 3432 / MJD 58264.5, where the pointing temporarily exceeded 4 pixels, as clearly seen in the plots below. Users are encouraged to discard long cadences 162613 &ndash; 162627 (short cadences 4866897 &ndash; 4867246) due to this pointing excursion. These cadences are flagged using QUALITY flag bit #3. Similarly, while not visible in the plots below, the very last long cadence of the campaign, 164458 (short cadences 4922216 &ndash; 4922230) had a very large pointing excursion and are also flagged using QUALITY flag bit #3.
+
+As mentioned in the C14 release notes, a change in the on-board fine point fault logging threshold
+results in additional cadences being flagged as "Spacecraft is not in fine point"
+(QUALITY flag bit #16, decimal=32768). As a reminder, the project recommends that starting with C15,
+users look to QUALITY flag bit #3 as an accurate indicator of poor spacecraft pointing.
+
+<div class="thumbnail" style="width: 50%;display: inline-block;">
+<div class="caption">
+<i>Figure C18-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C18.</i>
+<a href="images/release-notes/c18/c18_pad_pdq_attitude_roll.png">
+<img src="images/release-notes/c18/c18_pad_pdq_attitude_roll.png" class="img-responsive" alt="Pipeline measured roll error for C18.">
+</a>
+</div>
+</div>
+
+<div class="thumbnail" style="width: 48%;display: inline-block;">
+<div class="caption">
+<i>Figure C18-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C18.</i>
+<a href="images/release-notes/c18/c18_pad_pdq_attitude_mar.png">
+<img src="images/release-notes/c18/c18_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the C18 attitude measured with PAD and PDQ.">
+</a>
+</div>
+</div>
+
+<br>
+
+
+
+
+KSOC-5239 details the common issue that we couldn't get a short-cadence lightcurve for a SC target when there are no non-custom SC targets on a channel. In this case it was KIC 200147465.
 
 
 <hr>
