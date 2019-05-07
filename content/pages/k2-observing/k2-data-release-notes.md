@@ -36,14 +36,14 @@ including information on field pointing, target selection, observation times and
 
 <b><i>First cadence</i></b>
 <ul>
-<li>Start Time: 2018-05-13 00:44:43 UTC</li>
+<li>Start Time: 2018-08-30 15:17:05 UTC</li>
 <li>Long Cadence Number: 167333</li>
 <li>Short Cadence Number: 5008450</li>
 </ul>
 NEED TO UPDATE TIMESTAMPS!!!!
 <b><i>Last cadence</i></b>
 <ul>
-<li>End Time: 2018-07-02 21:51:26 UTC</li>
+<li>End Time: 2018-09-26 00:23:59 UTC</li>
 <li>Long Cadence Number: 168623<sup>†</sup></li>
 <li>Short Cadence Number: 5047179</li>
 </ul>
@@ -114,8 +114,9 @@ Neptune was also observed in short cadence approximately 20 days on each side of
 
 ***Erratic Pointing Due to Fuel Exhaustion and End of Flight***
 
-Due to an anomalous drop in fuel pressure, the Kepler team [paused the science observations for K2 Campaign 18](kepler-fuel-status-update-faq.html) about 50 days into the campaign and then a month later [successfully downloaded the C18 data](k2-campaign-18-downlink-successful.html). At the start of Campaign 19 the spacecraft configuration was [modified in order to adapt to a change in thruster performance](k2-campaign-19-status-update.html). Observations for C19 were collected for a about a month, at which point the Kepler team received data showing that the spacecraft no longer had sufficient remaining fuel to point precisely enough to gather useful scientific data, and [observations were again paused](k2-campaign-19-ended-to-downlink-data.html) and then later [successfully downloaded](k2-campaign-19-raw-data-available.html).
+Due to an anomalous drop in fuel pressure, the Kepler team [paused the science observations for K2 Campaign 18](kepler-fuel-status-update-faq.html) about 50 days into the campaign and then a month later [successfully downloaded the C18 data](k2-campaign-18-downlink-successful.html). At the start of Campaign 19 the spacecraft configuration was [modified in order to adapt to a change in thruster performance](k2-campaign-19-status-update.html) due to the low fuel pressure. Observations for C19 were collected for about a month, at which point the Kepler team received data showing that the spacecraft no longer had sufficient remaining fuel to point precisely enough to gather useful scientific data, and [observations were again paused](k2-campaign-19-ended-to-downlink-data.html) and then later [successfully downloaded](k2-campaign-19-raw-data-available.html). While [an attempt was made to start Campaign 20](kepler-spacecraft-update.html), without sufficient fuel [end-of-flight was declared the spacecraft retired] (https://www.nasa.gov/press-release/nasa-retires-kepler-space-telescope-passes-planet-hunting-torch). Thus Campaign 19 is the final campaign for which scientific data is available.
 
+Figure C19-Pointing shows the pointing performance of the spacecraft over the duration of Campaign 19 via the observed deviation of targets from their expected location as a function of long cadence number &mdash; the blue line shows the deviation affecting all targets from displacement of the spacecraft boresight, while the red line shows the maximum deviation at the edge of the field of view due to the roll angle. As can be seen, for the first ~8.5 days, from long cadence 167333&ndash;167742 (short cadences 5008450&ndash;5020749), the spacecraft boresight had significant deviation from nominal, and a result nearly all targets were completely outside their observed pixel stamps &mdash; it is not expected that useable photometric data can be obtained for this time region for the pre-selected Campagin 19 targets. From long cadence 167743&ndash;168097 (short cadences 5020750&ndash;5031399) the pointing due to boresight and roll was nominal compared to other K2 campaigns, and thus this ~7 day region should provide nominal K2 data. From long cadence 168098&ndash;168623 (short cadence 5031400&ndash;5047179) the boresight and roll fluctuated erratically &mdash; the 'well-behaved' portions of this ~11 day should provide useable photometric data for most targets with careful analysis.
 
 <div class="thumbnail" style="width: 100%;">
 <div class="caption">
@@ -128,17 +129,15 @@ Due to an anomalous drop in fuel pressure, the Kepler team [paused the science o
 </div>
 
 
-Mark FFIs on plot
-
 <br>
 
 ***Pointing and Roll Performance***
 
-The C18 pointing and roll behavior are well within the limits of that seen in other K2 campaigns, with no degradation seen due to potentially low fuel levels.
-The pipeline-calculated maximum distance between the derived and nominal positions for any target (the "maximum attitude residual", or MAR)
-for C18 is less than 1.9 pixels for nearly the entire campaign, well under the 3-pixel limit accommodated by the aperture halos.
+Examining only the central ~7 days of continuously nominal pointing (long cadences 167743&ndash;168097; short cadences 5020750&ndash;5031399), the C19 pointing and roll behavior are higher than other K2 campaigns. The pipeline-calculated maximum distance between the derived and nominal positions for any target (the "maximum attitude residual", or MAR) for C19 in this time period is under 4.0 pixels, and under 3.5 for most of the ~7 day duration &mdash; given the 3-pixel limit accommodated by the aperture halos this eans most targets are expected to remain in their apertures during this ~7 day duration, but targets close to the edge of the field-of-view may have significant flux fall outside thier observed apertures.
 
-The exception is about a dozen long cadences just prior to BKJD 3432 / MJD 58264.5, where the pointing temporarily exceeded 4 pixels, as clearly seen in the plots below. Users are encouraged to discard long cadences 162613 &ndash; 162627 (short cadences 4866897 &ndash; 4867246) due to this pointing excursion. These cadences are flagged using QUALITY flag bit #3. Similarly, while not visible in the plots below, the very last long cadence of the campaign, 164458 (short cadences 4922216 &ndash; 4922230) had a very large pointing excursion and are also flagged using QUALITY flag bit #3.
+
+
+Users are encouraged to discard long cadences 162613 &ndash; 162627 (short cadences 4866897 &ndash; 4867246) due to this pointing excursion. These cadences are flagged using QUALITY flag bit #3. Similarly, while not visible in the plots below, the very last long cadence of the campaign, 164458 (short cadences 4922216 &ndash; 4922230) had a very large pointing excursion and are also flagged using QUALITY flag bit #3.
 
 As mentioned in the C14 release notes, a change in the on-board fine point fault logging threshold
 results in additional cadences being flagged as "Spacecraft is not in fine point"
@@ -147,24 +146,59 @@ users look to QUALITY flag bit #3 as an accurate indicator of poor spacecraft po
 
 <div class="thumbnail" style="width: 50%;display: inline-block;">
 <div class="caption">
-<i>Figure C18-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C18.</i>
-<a href="images/release-notes/c18/c18_pad_pdq_attitude_roll.png">
-<img src="images/release-notes/c18/c18_pad_pdq_attitude_roll.png" class="img-responsive" alt="Pipeline measured roll error for C18.">
+<i>Figure C19-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C19.</i>
+<a href="images/release-notes/c19/c19_pad_pdq_attitude_roll.png">
+<img src="images/release-notes/c19/c19_pad_pdq_attitude_roll.png" class="img-responsive" alt="Pipeline measured roll error for C19.">
 </a>
 </div>
 </div>
 
 <div class="thumbnail" style="width: 48%;display: inline-block;">
 <div class="caption">
-<i>Figure C18-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C18.</i>
-<a href="images/release-notes/c18/c18_pad_pdq_attitude_mar.png">
-<img src="images/release-notes/c18/c18_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the C18 attitude measured with PAD and PDQ.">
+<i>Figure C19-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C19.</i>
+<a href="images/release-notes/c19/c19_pad_pdq_attitude_mar.png">
+<img src="images/release-notes/c19/c19_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the C19 attitude measured with PAD and PDQ.">
 </a>
 </div>
 </div>
 
 <br>
 
+
+
+
+
+After investigation and discussion, we'll go with 167333-168623 for CAL and PA.
+
+---This is the full cadence range, except for the very last cadence, 168624, which has severe issues due to a pointing event occurring during exposure.
+
+---The first ~10 days do not have targets in their designated apertures, but may yield valuable data for users, and should cause no ill effects with new parameter settings (Dynablack off and ignore k2GapIfNotFinePntData=true).
+
+---The last ~100 cadences show excess roll motion, but we confirmed cross-boresight is stable until the second-to-last cadence (168623), and thus will provide valuable data for many targets, especially those towards center of FoV, like Trappist-1, and any PA-COA issues should be mitigated with new parameter k2GapIfNotFinePntData=true.
+
+---This range selection results in 167978 being the middle cadence, which is a good cadence (no pointing anomalies evident, Trappist-1 image looks great), as is +/-1 cadences from it.
+
+
+-The corresponding short cadence range is 5008450--5047179.
+
+--- I.e., the exposure start time of the first short cadence, 5008450, is the same as the first long cadence, 167333, and the exposure finish time of the final short cadence, 5047179, is the same as the final long cadence, 168623.
+
+--- 5008450 + 30*(168623 - 167333) + 29 = 5047179
+
+PDC and PPA ranges will remain:
+
+167743 -- 168097 for long cadence
+and
+5020750 -- 5031399 for short cadence
+
+corresponding to the central ~7 days of stable pointing. (We expect issues with PDC should the range be extended to include the intermittent data gaps due to pointing excursions toward the end of the campaign.) '
+
+
+
+
+
+DATE-OBS= '2018-09-07T23:51:40.093Z' / TSTART as UTC calendar date              
+DATE-END= '2018-09-23T02:45:42.877Z' / TSTOP as UTC calendar date      
 
 
 
