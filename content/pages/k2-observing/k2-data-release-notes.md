@@ -90,6 +90,8 @@ were selected.</i>
 
 <br>
 
+<br>
+
 <h2>Features and Events</h2>
 
 ***Overlap with C3, C12, and the Engineering Test Run***
@@ -114,9 +116,9 @@ See the <a href="images/release-notes/c19/kplr2018316185300_c19_caf.csv">csv fil
 
 Due to an anomalous drop in fuel pressure, the Kepler team [paused the science observations for K2 Campaign 18](kepler-fuel-status-update-faq.html) about 50 days into the campaign and then a month later [successfully downloaded the C18 data](k2-campaign-18-downlink-successful.html). At the start of Campaign 19 the spacecraft configuration was [modified in order to adapt to a change in thruster performance](k2-campaign-19-status-update.html) due to the low fuel pressure. Observations for C19 were collected for about a month, at which point the Kepler team received data showing that the spacecraft no longer had sufficient remaining fuel to point precisely enough to gather useful scientific data, and [observations were again paused](k2-campaign-19-ended-to-downlink-data.html) and then later [successfully downloaded](k2-campaign-19-raw-data-available.html). While [an attempt was made to start Campaign 20](kepler-spacecraft-update.html), without sufficient fuel [end-of-flight was declared the spacecraft retired](https://www.nasa.gov/press-release/nasa-retires-kepler-space-telescope-passes-planet-hunting-torch). Thus Campaign 19 is the final campaign for which scientific data is available.
 
-Figure C19-Pointing-1 shows the pointing performance of the spacecraft over the duration of Campaign 19 via the observed deviation of targets from their expected location as a function of long cadence number &mdash; the blue line shows the deviation affecting all targets from displacement of the spacecraft boresight, while the red line shows the maximum deviation at the edge of the field of view due to the roll angle. Figure C19-Pointing-2 similarly shows the combined motion of a target at the edge of the field of view in science pixels, as well as some important flags. Note that neither FFI was captured while in Fine Point and have noticeably different pointings (see Figure C19-FFI above).
+Figure C19-Pointing-1 shows the pointing performance of the spacecraft over the duration of Campaign 19 via the observed deviation of targets from their expected location as a function of long cadence number &mdash; the blue line shows the deviation affecting all targets from displacement of the spacecraft boresight, while the red line shows the maximum deviation at the edge of the field of view due to the roll angle. Figure C19-Pointing-2 similarly shows the combined motion of a target at the edge of the field of view in science pixels, as well as some important data quality flags. Note that neither FFI was captured while in Fine Point and have noticeably different pointings (see Figure C19-FFI above).
 
-As can be seen in these figures, for the first ~8.5 days, from long cadence 167333&ndash;167742 (short cadences 5008450&ndash;5020749), the spacecraft boresight was significantly off-nominal, and as a result nearly all targets were completely outside their observed pixel stamps, which had only 2- or 3-pixel halos &mdash; it is not expected that useable photometric data can be obtained for this time region for the pre-selected Campagin 19 targets. From long cadence 167743&ndash;168097 (short cadences 5020750&ndash;5031399) the pointing due to boresight and roll was nominal compared to other K2 campaigns, and thus this ~7 day region should provide nominal K2 data. From long cadence 168098&ndash;168623 (short cadence 5031400&ndash;5047179) the boresight and roll fluctuated erratically &mdash; the 'well-behaved' portions of this ~11 day should provide useable photometric data for most targets with careful analysis.
+As can be seen in these figures, for the first ~8.5 days (long cadences 167333&ndash;167742; short cadences 5008450&ndash;5020749), the spacecraft boresight was significantly off-nominal, and as a result nearly all targets were completely outside their observed pixel stamps, which had only 2- or 3-pixel halos &mdash; it is not expected that useable photometric data can be obtained for this time region for the pre-selected Campagin 19 targets. For the next ~7 days (long cadences 167743&ndash;168097; short cadences 5020750&ndash;5031399) the pointing due to boresight and roll was nominal compared to other K2 campaigns, and thus this ~7 day region should provide K2 data of quality comparable to other campaigns. For the final ~11 days (long cadences 168098&ndash;168623; short cadences 5031400&ndash;5047179) the boresight and roll fluctuated erratically &mdash; the 'well-behaved' portions of this timespan should provide useable photometric data for most targets, though careful analysis is encouraged.
 
 
 <div class="thumbnail" style="width: 100%;">
@@ -147,7 +149,7 @@ Examining only the central ~7 days of continuously nominal pointing (long cadenc
 
 <div class="thumbnail" style="width: 49%;display: inline-block;">
 <div class="caption">
-<i>Figure C19-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C19.</i>
+<i>Figure C19-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for the central ~7 days of C19.</i>
 <a href="images/release-notes/c19/c19_pad_pdq_attitude_roll.png">
 <img src="images/release-notes/c19/c19_pad_pdq_attitude_roll.png" class="img-responsive" alt="Pipeline measured roll error for C19.">
 </a>
@@ -156,7 +158,7 @@ Examining only the central ~7 days of continuously nominal pointing (long cadenc
 
 <div class="thumbnail" style="width: 49%;display: inline-block;">
 <div class="caption">
-<i>Figure C19-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C19.</i>
+<i>Figure C19-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for the central ~7 days C19.</i>
 <a href="images/release-notes/c19/c19_pad_pdq_attitude_mar.png">
 <img src="images/release-notes/c19/c19_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the C19 attitude measured with PAD and PDQ.">
 </a>
@@ -176,17 +178,24 @@ In order to successfully process this unique campaign with the Kepler pipeline, 
 
 <li> The final long cadence observed by the spacecraft (168624) and the corresponding short cadences (5047180&ndash;5047209) were discarded due to data quality issues.<br>
 
+<br>
+
 <li> For the rest of the campaign (long cadences 167333&ndash;168623 and short cadences 5008450&ndash;5047179), instead of the "Dynablack" calibration method that has been used for all other campaigns processed as part of the <a href="k2-uniform-global-reprocessing-underway.html">global uniform reprocessing effort</a>, the simpler CAL method was used to calibrate pixels, due to the short duration of the observations. Rolling band flags (see the <a href="k2-uniform-global-reprocessing-underway.html">news post on global reprocessing</a>) were still able to be computed and provided.<br>
+
+<br>
 
 <li> When producing the raw / simple aperture (PA) lightcurves, unlike all other campaigns processed as part of the <a href="k2-uniform-global-reprocessing-underway.html">global uniform reprocessing effort</a>, cadences marked as "Spacecraft is not in fine point" (QUALITY flag bit #16, decimal=32768) were discarded. This is illustrated in Figure C19-Pointing-2.<br>
 
+<br>
+
 <li> When producing the systematic-corrected (PDC) lightcurves, the cadence range was restricted to the central ~7 days of continuously stable pointing (long cadences 167743&ndash;168097 and short cadences 5020750&ndash;5031399). This is illustrated in Figure C19-Pointing-1. The corresponding time range is 2018-09-08 00:24:52 UTC to 2018-09-15 06:32:00 UTC.<br>
+
 
 </ul>
 
-As a result, users will have calibrated pixels for nearly the entire campaign, raw / simple aperture lightcurves (PA or SAP_FLUX) for the last ~2/3 of the campaign during times when the spacecraft was in fine point, and systematic-corrected lightcurves (PDC or PDCSAP_FLUX) for the central ~7 days of continuously good pointing.
+As a result, users will have calibrated pixels for nearly the entire campaign, raw / simple aperture lightcurves (called PA or SAP_FLUX) for the last ~2/3 of the campaign during times when the spacecraft was in fine point, and systematic-corrected lightcurves (called PDC or PDCSAP_FLUX) for the central ~7 days of continuously good pointing.
 
-Users producing their own lightcurves will likely want to make use of the "Spacecraft is not in fine point" (QUALITY flag bit #16, decimal=32768) and/or "Spacecraft is in coarse point" (QUALITY flag bit #3, decimal=4) to remove cadences with significant pointing deviations from nominal, while accounting for the location of their target on the focal plane (and thus observed motion due to spacecraft roll) and aperture size.
+Users producing their own lightcurves will likely want to make use of the "Spacecraft is not in fine point" (QUALITY flag bit #16, decimal=32768) and "Spacecraft is in coarse point" (QUALITY flag bit #3, decimal=4) to remove cadences with significant pointing deviations from nominal, while accounting for the location of their target on the focal plane (and thus observed motion due to spacecraft roll) and aperture size.
 
 <br>
 
@@ -194,9 +203,9 @@ Users producing their own lightcurves will likely want to make use of the "Space
 ***Light Curve Quality***
 
 Examining only the central ~7 days of continuously nominal pointing (long cadences 167743&ndash;168097; short cadences 5020750&ndash;5031399), the 6-hour spacecraft roll cycle dominates the systematic errors in the C19 simple aperture photometry light curves, similar to other campaigns.
-The pipeline CDPP 12th magnitude noise benchmark for C19 is technically the lowest of any campaign observed to-date &mdash; however, it is not necessarily correct to compare it to other campaigns, as there is only ~7 days of data analyzed here, compared to other campaigns that normally have ~50&ndash;80 days. It is likely that the PDC module is over-fitting the data to some extent. Users are cautioned that astrophysical variations, particularly those of long (~several days or more) period may be artificially suppressed in the PDCSAP_FLUX data. Users can examine the cotrending basis vectors to check and see if they contain data trends that resemble astrophysical signals of interest.
+The pipeline CDPP 12th magnitude noise benchmark for C19 is technically the lowest of any campaign observed to-date &mdash; however, it is not necessarily correct to compare it to other campaigns, as there is only ~7 days of data analyzed here, compared to other campaigns that normally have ~50&ndash;80 days. It is likely that the PDC module is over-fitting the data to some extent. Users are cautioned that astrophysical variations, particularly those of long (~several days or more) period may be artificially suppressed in the PDCSAP_FLUX data. Users can examine the C19 [cotrending basis vectors](https://archive.stsci.edu/missions/k2/cbv/) to check and see if they contain data trends that resemble astrophysical signals of interest.
 
-The magnitude dependence of CDPP for the central ~7 days, and its distribution over the focal plane, are shown below. Other CDPP benchmarks can be found in the
+The magnitude dependence of CDPP for the central ~7 days, and its distribution over the focal plane, are shown below in Figure C19-CDPP. Other CDPP benchmarks can be found in the
 <a href="images/release-notes/c19/c19_bin1.00_sc1.00_CDPP_Summary_19040216.txt">
 table giving 6.5-hr CDPP as a function of magnitude.</a>
 
