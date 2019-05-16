@@ -8,6 +8,233 @@ including information on field pointing, target selection, observation times and
 
 <hr>
 
+# K2 Campaign 19
+
+<h2>At a glance</h2>
+
+<div class="col-lg-5">
+
+<b><i>Pointing</i></b>
+<ul>
+<li> RA: 347.2590265 degrees</li>
+<li> Dec: -4.2027029 degrees</li>
+<li> Roll: 22.8818335 degrees</li>
+</ul>
+
+<b><i>Targets</i></b>
+<ul>
+<li>  44,224 long cadence (LC) targets, including 11,495 galaxy targets.</li>
+<li>  222 short cadence (SC) targets.</li>
+<li>  31 moving objects (including Neptune) were tiled with LC custom strip apertures (see below for details).</li>
+</ul>
+
+<b><i>Full Frame Images (FFI)</i></b>
+<ul>
+<li><a href="https://archive.stsci.edu/missions/k2/ffi/kplr2018268151041-c19_ffi-orig.fits">kplr2018268151041-c19_ffi-orig.fits</a>
+<li><a href="https://archive.stsci.edu/missions/k2/ffi/kplr2018249002316-c19_ffi-orig.fits">kplr2018249002316-c19_ffi-orig.fits</a>
+</ul>
+
+<b><i>First cadence</i></b>
+<ul>
+<li>Start Time: 2018-08-30 15:17:05 UTC</li>
+<li>Long Cadence Number: 167333</li>
+<li>Short Cadence Number: 5008450</li>
+</ul>
+
+<b><i>Last cadence<sup>†</sup></i></b>
+<ul>
+<li>End Time: 2018-09-26 00:23:59 UTC</li>
+<li>Long Cadence Number: 168623</li>
+<li>Short Cadence Number: 5047179</li>
+</ul>
+
+<sup>†</sup>The last collected long cadence was 168624 (and corresponding short cadences 5047180&ndash;5047209), but were discarded in processing due to quality issues.<br><br>
+
+<b><i>Most Recent Processing Version</i></b>
+<ul>
+<li> <a href="k2-pipeline-release-notes.html#data-release-29">Data Release 29</a> </li>
+</ul>
+
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C19-Mag: Distribution of the Kepler magnitudes of observed LC targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-19">GO Programs</a>
+were selected.</i>
+</div>
+<a href="images/release-notes/c19/c19_lc_magnitude_distribution.png">
+<img src="images/release-notes/c19/c19_lc_magnitude_distribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed C19 LC targets.">
+</a>
+</div>
+
+</div>
+
+<div class="col-lg-7">
+
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C19-FOV: Schematic of Kepler's C19 field-of-view with high profile objects. </i>
+</div>
+<a href="images/k2/k2-c19-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c19-field.png" id="c19fov" alt="C19 field of view with highlights, such as known planet hosts and the path of Neptune and 2P Encke.">
+</a>
+</div>
+
+<div class="thumbnail">
+    <div class="caption">
+    <i>Figure: Figure C19-FFI: A gif of the two full frame images (FFIs) taken during C19, with a flux scaling designed to highlight features of interest.</i>
+</div>
+<a href="images/release-notes/c9/C19-FFIs.gif">
+    <img src="images/release-notes/c19/C19-FFIs.gif" class="img-responsive" alt="The C19 FFIs">
+    </a>
+</div>
+
+</div>
+
+<br>
+
+<br>
+
+<h2>Features and Events</h2>
+
+***Overlap with C3, C12, and the Engineering Test Run***
+
+As shown in Figure C19-FOV, C19 field significantly overlaps with Campaign 12 and the Engineering Test Run, and partially overlaps with Campaign 3. Many targets observed in C19 were also observed in C3 and/or C12, thus establishing a several year temporal baseline that provides unique science opportunities.
+
+<br>
+
+***Custom Targets***
+
+There were 11,495 galaxies targeted in the C19 field of view; all but six used standard aperture masks. The six large galaxies were covered with 35-pixel diameter large circular custom masks.
+
+There were 15 bright stars that were assigned 24-pixel diameter LC disk apertures to capture the wings of the point spread function.
+
+The C19 field of view includes 31 moving objects composed of 9 Asteroids, 20 faint Trans-Neptunian Objects, the planet Neptune, and the periodic comet [2P/Encke](https://en.wikipedia.org/wiki/Comet_Encke), all observed in long cadence. Neptune was also observed in short cadence approximately 20 days on each side of the stationary point of Neptune. Just as when Neptune was observed in [Campaign 3](k2-approved-programs.html#campaign-3), Neptune is expected to saturate the detector, resulting in spikes in the column direction as Neptune moves across the detector. The custom aperture numbers associated with Neptune are 200262135&ndash;200262467 for long cadence and 200262489&mdash;200262493 for short cadence. These observations were taken as part of Guest Observer Programs GO19009 (PI:Garcıa-Munoz), GO19061 (PI:Trafton), and GO19069 (PI:Smith).
+
+See the <a href="images/release-notes/c19/kplr2018316185300_c19_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.
+
+<br>
+
+***Erratic Pointing Due to Fuel Exhaustion***
+
+Due to an anomalous drop in fuel pressure, the Kepler team [paused the science observations for K2 Campaign 18](kepler-fuel-status-update-faq.html) about 50 days into the campaign and then a month later [successfully downloaded the C18 data](k2-campaign-18-downlink-successful.html). At the start of Campaign 19 the spacecraft configuration was [modified in order to adapt to a change in thruster performance](k2-campaign-19-status-update.html) due to the low fuel pressure. Observations for C19 were collected for about a month, at which point the Kepler team received data showing that the spacecraft no longer had sufficient remaining fuel to point precisely enough to gather useful scientific data, and [observations were again paused](k2-campaign-19-ended-to-downlink-data.html) and then later [successfully downloaded](k2-campaign-19-raw-data-available.html). While [an attempt was made to start Campaign 20](kepler-spacecraft-update.html), without sufficient fuel [end-of-flight was declared and the spacecraft was retired](https://www.nasa.gov/press-release/nasa-retires-kepler-space-telescope-passes-planet-hunting-torch). Thus Campaign 19 is the final campaign for which scientific data is available.
+
+Figure C19-Pointing-1 shows the pointing performance of the spacecraft over the duration of Campaign 19 via the observed deviation of targets from their expected location as a function of long cadence number &mdash; the blue line shows the deviation affecting all targets from displacement of the spacecraft boresight, while the red line shows the maximum deviation at the edge of the field of view due to the roll angle. Figure C19-Pointing-2 similarly shows the combined motion of a target at the edge of the field of view in science pixels, as well as some important data quality flags. Note that neither FFI was captured while in Fine Point and have noticeably different pointings (see Figure C19-FFI above).
+
+As can be seen in these figures, for the first ~8.5 days (long cadences 167333&ndash;167742; short cadences 5008450&ndash;5020749), the spacecraft boresight was significantly off-nominal, and as a result nearly all targets were completely outside their observed pixel stamps, which had only 2- or 3-pixel halos &mdash; it is not expected that useable photometric data can be obtained for this time region for the pre-selected Campagin 19 targets. For the next ~7 days (long cadences 167743&ndash;168097; short cadences 5020750&ndash;5031399) the pointing due to boresight and roll was nominal compared to other K2 campaigns, and thus this ~7 day region should provide K2 data of quality comparable to other campaigns. For the final ~11 days (long cadences 168098&ndash;168623; short cadences 5031400&ndash;5047179) the boresight and roll fluctuated erratically &mdash; the 'well-behaved' portions of this timespan should provide useable photometric data for most targets, though careful analysis is encouraged.
+
+
+<div class="thumbnail" style="width: 100%;">
+<div class="caption">
+<i>Figure C19-Pointing-1: The C19 pointing history, shown by the motion of the boresight and the roll motion at the edge in science pixels.</i>
+</div>
+<a href="images/release-notes/c19/c19_pointing_history.png">
+<img src="images/release-notes/c19/c19_pointing_history.png" class="img-responsive" alt="The pointing history for C19">
+</a>
+</div>
+</div>
+
+<div class="thumbnail" style="width: 100%;">
+<div class="caption">
+<i>Figure C19-Poining-2: The C19 pointing history, shown by the motion of experienced by a target at the edge of the field of view in science pixels.</i>
+</div>
+<a href="images/release-notes/c19/c19_pointing_flags.png">
+<img src="images/release-notes/c19/c19_pointing_flags.png" class="img-responsive" alt="The pointing-related flags for C19">
+</a>
+</div>
+</div>
+
+<br>
+
+***Pointing and Roll Performance During the Central ~7 days***
+
+Examining only the central ~7 days of continuously nominal pointing (long cadences 167743&ndash;168097; short cadences 5020750&ndash;5031399), the C19 pointing and roll behavior are very well behaved compared to most other K2 campaigns. The pipeline-calculated maximum distance between the derived and nominal positions for any target (the "maximum attitude residual", or MAR) for C19 in this time period is under 1.5 pixels, well under the 3-pixel limit accommodated by the aperture halos.
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C19-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for the central ~7 days of C19.</i>
+<a href="images/release-notes/c19/c19_pad_pdq_attitude_roll.png">
+<img src="images/release-notes/c19/c19_pad_pdq_attitude_roll.png" class="img-responsive" alt="Pipeline measured roll error for C19.">
+</a>
+</div>
+</div>
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C19-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for the central ~7 days C19.</i>
+<a href="images/release-notes/c19/c19_pad_pdq_attitude_mar.png">
+<img src="images/release-notes/c19/c19_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the C19 attitude measured with PAD and PDQ.">
+</a>
+</div>
+</div>
+
+<br>
+
+
+<h2>Data Quality and Processing Notes</h2>
+
+***Special Processing Parameters***
+
+In order to successfully process this unique campaign with the Kepler pipeline, and produce useful data of sufficient quality, the following approach was taken:
+
+<ul>
+
+<li> The final long cadence observed by the spacecraft (168624) and the corresponding short cadences (5047180&ndash;5047209) were discarded due to data quality issues.<br>
+
+<br>
+
+<li> For the rest of the campaign (long cadences 167333&ndash;168623 and short cadences 5008450&ndash;5047179), instead of the "Dynablack" calibration method that has been used for all other campaigns processed as part of the <a href="k2-uniform-global-reprocessing-underway.html">global uniform reprocessing effort</a>, the simpler CAL method was used to calibrate pixels, due to the short duration of the observations. Rolling band flags (see the <a href="k2-uniform-global-reprocessing-underway.html">news post on global reprocessing</a>) were still able to be computed and provided.<br>
+
+<br>
+
+<li> When producing the raw / simple aperture (PA) lightcurves, unlike all other campaigns processed as part of the <a href="k2-uniform-global-reprocessing-underway.html">global uniform reprocessing effort</a>, cadences marked as "Spacecraft is not in fine point" (QUALITY flag bit #16, decimal=32768) were discarded. This is illustrated in Figure C19-Pointing-2.<br>
+
+<br>
+
+<li> When producing the systematic-corrected (PDC) lightcurves, the cadence range was restricted to the central ~7 days of continuously stable pointing (long cadences 167743&ndash;168097 and short cadences 5020750&ndash;5031399). This is illustrated in Figure C19-Pointing-1. The corresponding time range is 2018-09-08 00:24:52 UTC to 2018-09-15 06:32:00 UTC.<br>
+
+
+</ul>
+
+As a result, users will have calibrated pixels for nearly the entire campaign, raw / simple aperture lightcurves (called PA or SAP_FLUX) for the last ~2/3 of the campaign during times when the spacecraft was in fine point, and systematic-corrected lightcurves (called PDC or PDCSAP_FLUX) for the central ~7 days of continuously good pointing.
+
+Users producing their own lightcurves will likely want to make use of the "Spacecraft is not in fine point" (QUALITY flag bit #16, decimal=32768) and "Spacecraft is in coarse point" (QUALITY flag bit #3, decimal=4) to remove cadences with significant pointing deviations from nominal, while accounting for the location of their target on the focal plane (and thus observed motion due to spacecraft roll) and aperture size.
+
+<br>
+
+
+***Light Curve Quality***
+
+Examining only the central ~7 days of continuously nominal pointing (long cadences 167743&ndash;168097; short cadences 5020750&ndash;5031399), the 6-hour spacecraft roll cycle dominates the systematic errors in the C19 simple aperture photometry light curves, similar to other campaigns.
+The pipeline CDPP 12th magnitude noise benchmark for C19 is technically the lowest of any campaign observed to-date &mdash; however, it is not necessarily correct to compare it to other campaigns, as there is only ~7 days of data analyzed here, compared to other campaigns that normally have ~50&ndash;80 days. It is likely that the PDC module is over-fitting the data to some extent. Users are cautioned that astrophysical variations, particularly those of long (~several days or more) period may be artificially suppressed in the PDCSAP_FLUX data. Users can examine the C19 [cotrending basis vectors](https://archive.stsci.edu/missions/k2/cbv/) to check and see if they contain data trends that resemble astrophysical signals of interest.
+
+The magnitude dependence of CDPP for the central ~7 days, and its distribution over the focal plane, are shown below in Figure C19-CDPP. Other CDPP benchmarks can be found in the
+<a href="images/release-notes/c19/c19_bin1.00_sc1.00_CDPP_Summary_19040216.txt">
+table giving 6.5-hr CDPP as a function of magnitude.</a>
+
+<br>
+
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C19-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>
+</div>
+<a href="images/release-notes/c19/c19_logg_CDPP_vs_model.png">
+<img src="images/release-notes/c19/c19_logg_CDPP_vs_model.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
+</a>
+</div>
+</div>
+
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C19-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
+<a href="images/release-notes/c19/c19_dwarf_CDPP_by_mod_out.png">
+<img src="images/release-notes/c19/c19_dwarf_CDPP_by_mod_out.png" class="img-responsive" alt="CDPP per channel for 12th and 14th magnitude dwarfs">
+</a>
+</div>
+</div>
+
+
+<hr>
+
+<br>
+
 # K2 Campaign 18
 
 <h2>At a glance</h2>
@@ -1859,6 +2086,11 @@ were used to distinguish dwarf and giant stars. The C11 CDPP values are in famil
 
 <br>
 
+***Short-Cadence Target With no PDC Flux***
+
+The target EPIC 200147465 (36 Ophiuchi; a bright, nearby triple star system) failed short-cadence PDC processing due to it being a custom target and the only target on its channel. The short-cadence light curve file includes the (nominal and unaffected) SAP flux, but the PDC_SAP flux is all zeros. Note that the long-cadence data for this target is unaffected and is nominal.
+
+<br>
 
 ***Targets With Incomplete FITS Header***
 
@@ -4296,7 +4528,7 @@ The 6-hour spacecraft roll cycle dominates the systematic errors in C0 simple ap
 <hr>
 
 
-# Two-wheel Concept Engineering Testst
+# Two-wheel Concept Engineering Test
 
 
 <h2>At a glance</h2>
