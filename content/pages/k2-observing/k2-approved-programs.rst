@@ -89,11 +89,11 @@ Campaign 19
   <ul class="list-group">
     <li class="list-group-item">
       <i class="fa fa-calendar fa-margin"></i>
-      TBC
+      Aug 29, 2018 - Sep 26, 2018
     </li>
     <li class="list-group-item">
       <i class="fa fa-pencil-square-o fa-margin"></i>
-      Data release notes (awaiting data release)
+      <a href="k2-data-release-notes.html#k2-campaign-19">Data release notes</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -101,7 +101,7 @@ Campaign 19
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
-      Target pixel files (awaiting data release)
+      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c19">Target pixel files (MAST)</a>
     </li>
   </ul>
 
@@ -201,7 +201,7 @@ Campaign 18
     </li>
     <li class="list-group-item">
       <i class="fa fa-pencil-square-o fa-margin"></i>
-      Data release notes (coming soon)
+      <a href="k2-data-release-notes.html#k2-campaign-18">Data release notes</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -310,7 +310,7 @@ Campaign 17
     </li>
     <li class="list-group-item">
       <i class="fa fa-pencil-square-o fa-margin"></i>
-      Data release notes (awaiting data release)
+      <a href="k2-data-release-notes.html#k2-campaign-17">Data release notes</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
