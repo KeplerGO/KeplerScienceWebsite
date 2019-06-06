@@ -1108,6 +1108,187 @@ The following is the data release history for this campaign. Follow the link for
 
 
 
+
+# K2 Campaign 1 (**Archived**)
+
+<h2>At a glance</h2>
+
+<div class="row">
+<div class="col-lg-5">
+
+    <b><i>Pointing</i></b>
+    <ul>
+        <li>RA: 173.939610 degrees</li>
+        <li>Dec: 1.4172989 degrees</li>
+        <li>Roll: 157.641206 degrees</li>
+    </ul>
+
+    <b><i>C1 Targets</i></b>
+    <ul>
+    <li>  21,732 in long cadence (LC)</li>
+    <li>  56 in short cadence (SC)</li>
+<li>  1 custom target was selected in C1: TNO 2002 GV31, which was assigned EPIC ID 200001049</li>
+    </ul>
+
+    <b><i>Full Frame Images (FFI)</i></b>
+    <ul>
+        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2014157010055-c01_ffi-cal.fits">ktwo2014157010055-c01_ffi-cal.fits</a></li>
+        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2014203150825-c01_ffi-cal.fits">ktwo2014203150825-c01_ffi-cal.fits</a></li>
+    </ul>
+
+    <b><i>First cadence</i></b>
+    <ul>
+        <li>Time: 2014-05-30 15:54:44 UTC</li>
+        <li>Long Cadence Number: 91332</li>
+        <li>Short Cadence Number: 2728420</li>
+    </ul>
+
+    <b><i>Last cadence</i></b>
+    <ul>
+        <li>Time: 2014-08-20 20:19:37 UTC</li>
+        <li>Long Cadence Number: 95353</li>
+        <li>Short Cadence Number: 2849079</li>
+    </ul>
+
+    <b><i>Most Recent Processing Version</i></b>
+    <ul>
+    <li> <a href="k2-pipeline-release-notes.html#data-release-14">Data Release 14</a> </li>
+    </ul>
+
+</div>
+
+<div class="col-lg-7">
+
+    <div class="thumbnail">
+        <div class="caption">
+            <i>Figure: Schematic of Kepler's C1 field-of-view with selected targets shown with purple dots.</i>
+        </div>
+        <a href="images/campaign_selected/C1_selected.png">
+            <img src="images/campaign_selected/C1_selected.png" class="img-responsive" alt="C1 field-of-view with selected targets">
+        </a>
+    </div>
+
+</div>
+
+</div>
+
+
+<h2>Features and Events</h2>
+
+***Operational Considerations***
+
+Campaign 1 (C1) is the first full length observing campaign for K2 where the targets were
+selected by peer review. The project was uncertain of the pointing precision and compression
+efficiency that could be achieved in early K2 operations and took steps to miminimize the risk
+of losing science data. In order to
+allow for the potential of coarse point operations, all target apertures included six halo rings.
+The oversized apertures and uncertain compression performance led the project to
+include a mid-campaign break lasting 2.9 days in order to downlink data.
+
+<br>
+
+***Attitude Tweak***
+
+The attitude of the spacecraft was tweaked by 3.3 pixels at cadence 91433 to better
+position the targets in the centers of their apertures. All cadences in the first
+2 days of C1 prior to this event have the first bit in the QUALITY column set
+(integer value = 1) to indicate that they were taken prior to the tweak.
+
+When creating light curves, the pipeline uses PA-COA to determine the optimal photometric
+aperture that maximizes the signal-to-noise ratio for each target over the full
+campaign. This static optimal aperture is determined from a robust average of
+the achieved pointing, so relatively short segments of off-nominal pointing
+tend to be excluded from the aperture calculation. In the case of C1, the optimal
+apertures generally do not contain the target star in the pre-attitude tweak
+cadences. Accordingly, the SAP-Flux and PDC-Flux values found in the light curve
+files are gapped for the pre-tweak cadences (where the QUALITY flag=1). In
+addition, neither background flux (FLUX_BKG, FLUX_BKG_ERR) nor motion
+polynomial values (POS_CORR1, POS_CORR2) were computed for the
+pre-tweak cadences.
+
+Because of the large C1 apertures, the TPFs do fully contain the target in
+the full set of pixels collected from the spacecraft. However, for the
+pre-tweak cadences incorrect
+background flux values were subtracted from the TPF pixel fluxes given
+in the FLUX column of the TPF. Users wishing to recover photometry from these
+cadences should add the per-cadence pixel background values (TPF column FLUX_BKG)
+back into the pixel flux values and then compute their own background levels.
+The position offset columns (POS_CORR1, POS_CORR2) should likewise be ignored
+for these cadences.
+
+Finally, in the pre-tweak cadences a small number of targets may have incorrect
+smear calibrations due to bright saturating stars spilling charge into the
+detector smear regions. Such affects are flagged and excluded from smear calibration
+for the post-tweak cadences, but the pre-tweak positions of the bright stars
+were not used to flag bad smear corrections. Only about 0.2% of the
+focal plane columns were affected in this way, so the number of potentially
+affected targets is small.
+
+<br>
+
+***Trans-Neptunian Object***
+
+A long-cadence custom aperture was constructed in order to collect data on
+trans-Neptunian Object 2002 GV31. Note, this target is very faint (V=22) and
+falls in its 23x22 pixel custom aperture for only about 10 days. This custom
+aperture can be found by searching the MAST for EPIC ID 200001049.
+
+<br>
+
+***EPIC Catalog Assignment***
+
+For this Campaign, a number of targets were proposed without EPIC IDs.
+If a target was observed, it was either 1) given an EPIC ID from the regular
+catalog if that target matched a target in the catalog, or
+2) assigned a new EPIC ID. We created EPIC IDs for 28 targets, ranging from
+210282464 to 210282491. The remaining C1 targets have EPIC IDs ranging
+from 20100000001 to 202059065.
+
+<br>
+
+
+<h2>Data Quality and Processing Notes</h2>
+
+***Light Curve Quality***
+
+C1 long cadence light curves have been delivered with [Data Release 14](k2-pipeline-release-notes.html#data-release-14).
+The dominant noise contributors in the C1 data are the saw-tooth roll signal inherent in
+K2 data and an increased (over Kepler and later K2 campaigns) cross-boresight pointing motion
+due to the lower bandwidth for the attitude determination and control system (ADCS)
+used in K2 campaigns C0, C1, and C2. The low ADCS bandwidth was particularly
+problematic for short cadence data, as it meant that the spacecraft pointing errors are on the
+same time scale as the SC exposure, so that the pointing induced noise is correlated from
+cadence to cadence. See notes under [C0](#k2-campaign-0) for details.
+
+Analysis of the light curve quality reveals that long cadence CDPP values for dwarf stars are
+in family with the values from subsequent campaigns.
+The magnitude dependence of CDPP and its distribution over the focal plane are shown below.
+Other CDPP benchmarks can be found in the
+[table giving 6.5-hr CDPP as a function of magnitude](images/release-notes/c1/K2-C1_CDPP_Summary_16102111.txt).
+<br>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C1-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>   
+</div>
+<a href="images/release-notes/c1/K2-C1_logg_CDPP_vs_model.png">
+<img src="images/release-notes/c1/K2-C1_logg_CDPP_vs_model.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
+</a>
+</div>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C1-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
+<a href="images/release-notes/c1/K2-C1_dwarf__CDPP_by_mod_out.jpg">
+<img src="images/release-notes/c1/K2-C1_dwarf__CDPP_by_mod_out.jpg" class="img-responsive" alt="CDPP per channel for 12th magnitude dwarfs">
+</a>    
+</div>
+</div>
+
+<br>
+
+<hr>
+
+
+
 # K2 Campaign 0 (**Archived**)
 
 Campaign 0 (C0) was implemented as a full-length engineering test to prove that K2 was a viable mission. It observed sources "at risk" from a community-provided target list.
