@@ -4138,21 +4138,42 @@ Note that the pipeline does not utilize the LDE parity flag and thus the deliver
 
     <b><i>Most Recent Processing Version</i></b>
     <ul>
-    <li> <a href="k2-pipeline-release-notes.html#data-release-14">Data Release 14</a> </li>
+    <li> <a href="k2-pipeline-release-notes.html#data-release-32">Data Release 32</a> </li>
     </ul>
+
+
+    <br>
+
+    <div class="thumbnail">
+        <div class="caption">
+            <i>Figure C1-Mag: Distribution of the Kepler magnitudes of observed LC targets in C1. All targets are chosen by Guest Observers. The bimodality is due to how the largest <a href="k2-approved-programs.html#campaign-1">Guest Observer programs</a> were selected.</i>
+        </div>
+        <a href="images/release-notes/c1/C1LcMagDistribution.png">
+            <img src="images/release-notes/c1/C1LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets in C1.">
+        </a>
+    </div>
 
 </div>
 
 <div class="col-lg-7">
 
-    <div class="thumbnail">
-        <div class="caption">
-            <i>Figure: Schematic of Kepler's C1 field-of-view with selected targets shown with purple dots.</i>
-        </div>
-        <a href="images/campaign_selected/C1_selected.png">
-            <img src="images/campaign_selected/C1_selected.png" class="img-responsive" alt="C1 field-of-view with selected targets">
-        </a>
-    </div>
+<div class="thumbnail">
+    <div class="caption">
+    <i>Figure: Figure C1-FOV: Schematic of Kepler's C1 field-of-view with high profile objects.</i>
+</div>
+<a href="images/k2/k2-c01-field.png">
+    <img src="images/k2/k2-c01-field.png" class="img-responsive" alt="C1 field-of-view with selected targets">
+    </a>
+</div>
+
+<div class="thumbnail">
+    <div class="caption">
+    <i>Figure: Figure C1-FFI: A full frame image (FFI) taken during C1, with a flux scaling designed to highlight features of interest.</i>
+</div>
+<a href="images/release-notes/c1/C1R-FFI.png">
+    <img src="images/release-notes/c1/C1R-FFI.png" class="img-responsive" alt="A C1 FFI">
+    </a>
+</div>
 
 </div>
 
@@ -4163,13 +4184,12 @@ Note that the pipeline does not utilize the LDE parity flag and thus the deliver
 
 ***Operational Considerations***
 
-Campaign 1 (C1) is the first full length observing campaign for K2 where the targets were
+Campaign 1 (C1) was the first full length observing campaign for K2 where the targets were
 selected by peer review. The project was uncertain of the pointing precision and compression
 efficiency that could be achieved in early K2 operations and took steps to miminimize the risk
-of losing science data. In order to
-allow for the potential of coarse point operations, all target apertures included six halo rings.
+of losing science data. In order to allow for the potential of coarse point operations, all target apertures included six halo rings.
 The oversized apertures and uncertain compression performance led the project to
-include a mid-campaign break lasting 2.9 days in order to downlink data.
+include a mid-campaign break lasting 2.9 days (long cadences 93281&ndash;93420) in order to downlink data.
 
 <br>
 
