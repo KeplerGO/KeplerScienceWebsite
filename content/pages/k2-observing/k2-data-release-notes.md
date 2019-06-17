@@ -4268,7 +4268,7 @@ cadence to cadence. See notes under [C0](#k2-campaign-0) for details.
 
 The magnitude dependence of CDPP and its distribution over the focal
 plane are shown below. Other CDPP benchmarks can be found in the
-<a href="images/release-notes/c1/c1_bin1.00_sc1.00_CDPP_Summary_18081817.txt">
+<a href="images/release-notes/c1/c1_bin1.00_sc1.00_CDPP_Summary_19051201.txt">
 table giving 6.5-hr CDPP as a function of magnitude.</a>
 
 <br>
