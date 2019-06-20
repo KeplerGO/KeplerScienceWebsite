@@ -1,5 +1,5 @@
 Title: K2 Campaign 1 reprocessed
-Date: 2019-06-17 08:00
+Date: 2019-06-20 08:00
 Author: Jeff Coughlin
 
 A year ago [we announced](k2-uniform-global-reprocessing-underway.html) that we were undertaking an effort to reprocess campaigns 0&ndash;14 using the same version of the Kepler/K2 pipeline used for C15 and subsequent campaigns. This version introduced several new features and improvements, such as more sophisticated pixel calibration, better identification of spacecraft pointing, improved cosmic ray correction, and production of short-cadence lightcurves, along with several other minor improvements. Please see the [associated news post](k2-uniform-global-reprocessing-underway.html) for details on each feature.
