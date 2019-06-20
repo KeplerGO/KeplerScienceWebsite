@@ -3847,7 +3847,7 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 <i>Figure C3-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>
 </div>
 <a href="images/release-notes/c3/cdpp_vs_mag_dr26.png">
-<img src="images/release-notes/c3/cdpp_vs_mag_dr26.png" class="img-responsive" alt="CDPP measured for all targets as a nction of Kepler magnitude.">
+<img src="images/release-notes/c3/cdpp_vs_mag_dr26.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
 </a>
 </div>
 
@@ -4097,6 +4097,8 @@ Note that the pipeline does not utilize the LDE parity flag and thus the deliver
 
 # K2 Campaign 1
 
+These release notes are for the C1 data currently available at MAST (Data Release 32) in the nominal K2 data locations, which have been processed with the final version of the K2 pipeline as part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a>. The original release notes corresponding to the previous version(s) of C1 data (Data Releases 3 and 14) can be found in the <a href="archived-k2-data-release-notes.html#k2-campaign-1">archived data release notes page</a>.
+
 <h2>At a glance</h2>
 
 <div class="row">
@@ -4138,21 +4140,42 @@ Note that the pipeline does not utilize the LDE parity flag and thus the deliver
 
     <b><i>Most Recent Processing Version</i></b>
     <ul>
-    <li> <a href="k2-pipeline-release-notes.html#data-release-14">Data Release 14</a> </li>
+    <li> <a href="k2-pipeline-release-notes.html#data-release-32">Data Release 32</a> </li>
     </ul>
+
+
+    <br>
+
+    <div class="thumbnail">
+        <div class="caption">
+            <i>Figure C1-Mag: Distribution of the Kepler magnitudes of observed LC targets in C1. All targets are chosen by Guest Observers. The shape is due to how the largest <a href="k2-approved-programs.html#campaign-1">Guest Observer programs</a> were selected.</i>
+        </div>
+        <a href="images/release-notes/c1/C1LcMagDistribution.png">
+            <img src="images/release-notes/c1/C1LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets in C1.">
+        </a>
+    </div>
 
 </div>
 
 <div class="col-lg-7">
 
-    <div class="thumbnail">
-        <div class="caption">
-            <i>Figure: Schematic of Kepler's C1 field-of-view with selected targets shown with purple dots.</i>
-        </div>
-        <a href="images/campaign_selected/C1_selected.png">
-            <img src="images/campaign_selected/C1_selected.png" class="img-responsive" alt="C1 field-of-view with selected targets">
-        </a>
-    </div>
+<div class="thumbnail">
+    <div class="caption">
+    <i>Figure: Figure C1-FOV: Schematic of Kepler's C1 field-of-view with high profile objects.</i>
+</div>
+<a href="images/k2/k2-c01-field.png">
+    <img src="images/k2/k2-c01-field.png" class="img-responsive" alt="C1 field-of-view with selected targets">
+    </a>
+</div>
+
+<div class="thumbnail">
+    <div class="caption">
+    <i>Figure: Figure C1-FFI: A full frame image (FFI) taken during C1, with a flux scaling designed to highlight features of interest.</i>
+</div>
+<a href="images/release-notes/c1/C1R-FFI.png">
+    <img src="images/release-notes/c1/C1R-FFI.png" class="img-responsive" alt="A C1 FFI">
+    </a>
+</div>
 
 </div>
 
@@ -4163,13 +4186,12 @@ Note that the pipeline does not utilize the LDE parity flag and thus the deliver
 
 ***Operational Considerations***
 
-Campaign 1 (C1) is the first full length observing campaign for K2 where the targets were
+Campaign 1 (C1) was the first full length observing campaign for K2 where the targets were
 selected by peer review. The project was uncertain of the pointing precision and compression
 efficiency that could be achieved in early K2 operations and took steps to miminimize the risk
-of losing science data. In order to
-allow for the potential of coarse point operations, all target apertures included six halo rings.
+of losing science data. In order to allow for the potential of coarse point operations, all target apertures included six halo rings.
 The oversized apertures and uncertain compression performance led the project to
-include a mid-campaign break lasting 2.9 days in order to downlink data.
+include a mid-campaign break lasting 2.9 days (long cadences 93281&ndash;93420) in order to downlink data.
 
 <br>
 
@@ -4177,7 +4199,7 @@ include a mid-campaign break lasting 2.9 days in order to downlink data.
 
 The attitude of the spacecraft was tweaked by 3.3 pixels at cadence 91433 to better
 position the targets in the centers of their apertures. All cadences in the first
-2 days of C1 prior to this event have the first bit in the QUALITY column set
+2 days of C1 prior to this event (long cadences 91332&mdash;91433) have the first bit in the QUALITY column set
 (integer value = 1) to indicate that they were taken prior to the tweak.
 
 When creating light curves, the pipeline uses PA-COA to determine the optimal photometric
@@ -4187,28 +4209,26 @@ the achieved pointing, so relatively short segments of off-nominal pointing
 tend to be excluded from the aperture calculation. In the case of C1, the optimal
 apertures generally do not contain the target star in the pre-attitude tweak
 cadences. Accordingly, the SAP-Flux and PDC-Flux values found in the light curve
-files are gapped for the pre-tweak cadences (where the QUALITY flag=1). In
+files are gapped for the pre-tweak cadences (long cadences 91332&mdash;91433, where the QUALITY flag=1). In
 addition, neither background flux (FLUX_BKG, FLUX_BKG_ERR) nor motion
 polynomial values (POS_CORR1, POS_CORR2) were computed for the
 pre-tweak cadences.
 
-Because of the large C1 apertures, the TPFs do fully contain the target in
-the full set of pixels collected from the spacecraft. However, for the
-pre-tweak cadences incorrect
-background flux values were subtracted from the TPF pixel fluxes given
+Because of the large C1 apertures (with six halos) the TPFs **do** fully contain the target in the pre-attitude tweak cadences.
+However, due to the offset, incorrect background flux values are subtracted from the TPF pixel fluxes given
 in the FLUX column of the TPF. Users wishing to recover photometry from these
 cadences should add the per-cadence pixel background values (TPF column FLUX_BKG)
 back into the pixel flux values and then compute their own background levels.
 The position offset columns (POS_CORR1, POS_CORR2) should likewise be ignored
-for these cadences.
+for these pre-tweak cadences.
 
 Finally, in the pre-tweak cadences a small number of targets may have incorrect
 smear calibrations due to bright saturating stars spilling charge into the
-detector smear regions. Such affects are flagged and excluded from smear calibration
+detector smear regions. Such effects are flagged and excluded from smear calibration
 for the post-tweak cadences, but the pre-tweak positions of the bright stars
 were not used to flag bad smear corrections. Only about 0.2% of the
 focal plane columns were affected in this way, so the number of potentially
-affected targets is small.
+affected targets is very small.
 
 <br>
 
@@ -4226,7 +4246,7 @@ aperture can be found by searching the MAST for EPIC ID 200001049.
 For this Campaign, a number of targets were proposed without EPIC IDs.
 If a target was observed, it was either 1) given an EPIC ID from the regular
 catalog if that target matched a target in the catalog, or
-2) assigned a new EPIC ID. We created EPIC IDs for 28 targets, ranging from
+2) assigned a new EPIC ID. EPIC IDs were created for 28 targets, ranging from
 210282464 to 210282491. The remaining C1 targets have EPIC IDs ranging
 from 20100000001 to 202059065.
 
@@ -4237,7 +4257,6 @@ from 20100000001 to 202059065.
 
 ***Light Curve Quality***
 
-C1 long cadence light curves have been delivered with [Data Release 14](k2-pipeline-release-notes.html#data-release-14).
 The dominant noise contributors in the C1 data are the saw-tooth roll signal inherent in
 K2 data and an increased (over Kepler and later K2 campaigns) cross-boresight pointing motion
 due to the lower bandwidth for the attitude determination and control system (ADCS)
@@ -4246,27 +4265,29 @@ problematic for short cadence data, as it meant that the spacecraft pointing err
 same time scale as the SC exposure, so that the pointing induced noise is correlated from
 cadence to cadence. See notes under [C0](#k2-campaign-0) for details.
 
-Analysis of the light curve quality reveals that long cadence CDPP values for dwarf stars are
-in family with the values from subsequent campaigns.
-The magnitude dependence of CDPP and its distribution over the focal plane are shown below.
-Other CDPP benchmarks can be found in the
-[table giving 6.5-hr CDPP as a function of magnitude](images/release-notes/c1/K2-C1_CDPP_Summary_16102111.txt).
+
+The magnitude dependence of CDPP and its distribution over the focal
+plane are shown below. Other CDPP benchmarks can be found in the
+<a href="images/release-notes/c1/c1_bin1.00_sc1.00_CDPP_Summary_19051201.txt">
+table giving 6.5-hr CDPP as a function of magnitude.</a>
+
 <br>
 <div class="thumbnail" style="width: 90%;">
 <div class="caption">
-<i>Figure C1-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>   
+<i>Figure C1-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>
 </div>
-<a href="images/release-notes/c1/K2-C1_logg_CDPP_vs_model.png">
-<img src="images/release-notes/c1/K2-C1_logg_CDPP_vs_model.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
+<a href="images/release-notes/c1/cdpp_vs_mag_dr32.png">
+<img src="images/release-notes/c1/cdpp_vs_mag_dr32.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
 </a>
 </div>
+
 <div class="thumbnail" style="width: 90%;">
 <div class="caption">
-<i>Figure C1-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
-<a href="images/release-notes/c1/K2-C1_dwarf__CDPP_by_mod_out.jpg">
-<img src="images/release-notes/c1/K2-C1_dwarf__CDPP_by_mod_out.jpg" class="img-responsive" alt="CDPP per channel for 12th magnitude dwarfs">
-</a>    
+<i>Figure C1-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
 </div>
+<a href="images/release-notes/c1/c1_dwarf_CDPP_by_mod_out_dr32.png">
+<img src="images/release-notes/c1/c1_dwarf_CDPP_by_mod_out_dr32.png" class="img-responsive" alt="CDPP per channel for 12th and 14th magnitude dwarfs">
+</a>
 </div>
 
 <br>
