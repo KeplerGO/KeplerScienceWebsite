@@ -4544,7 +4544,33 @@ For the K2 Mission, only one guide star was observed for each fine-guidance sens
 
 ***Light Curve Quality***
 
-The 6-hour spacecraft roll cycle dominates the systematic errors in C0 simple aperture photometry light curves. The pipeline CDPP 12th magnitude noise benchmark for C0 is unavailable at the time of this writing, but will added when available. In general PDCSAP_FLUX photometric quality (produced only for the last ~37 days of the campaign) should be comparable to later campaigns.
+The 6-hour spacecraft roll cycle dominates the systematic errors in C0 simple aperture photometry light curves. In general the PDCSAP_FLUX photometric quality (produced only for the last ~37 days of the campaign) is comparable to later campaigns.
+
+The magnitude dependence of CDPP and its distribution over the focal
+plane are shown below. Other CDPP benchmarks can be found in the
+<a href="images/release-notes/c0/c0_bin1.00_sc1.00_CDPP_Summary_19052401.txt">
+table giving 6.5-hr CDPP as a function of magnitude.</a>
+
+<br>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C0-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>
+</div>
+<a href="images/release-notes/c0/cdpp_vs_mag_dr28.png">
+<img src="images/release-notes/c0/cdpp_vs_mag_dr28.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
+</a>
+</div>
+
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C0-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
+</div>
+<a href="images/release-notes/c0/c0_dwarf_CDPP_by_mod_out_dr28.png">
+<img src="images/release-notes/c0/c0_dwarf_CDPP_by_mod_out_dr28.png" class="img-responsive" alt="CDPP per channel for 12th and 14th magnitude dwarfs">
+</a>
+</div>
+
+<br>
 
 <hr>
 
