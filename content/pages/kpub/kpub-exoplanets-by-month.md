@@ -4,96 +4,144 @@ Save_as: kpub-exoplanets-by-month.html
 [TOC]
 
 
+2019-08
+-------
+
+1. [VALIDATION OF A TEMPERATE FOURTH PLANET IN THE K2-133 MULTIPLANET SYSTEM](http://adsabs.harvard.edu/abs/2019MNRAS.487.1865W)  
+Wells, R., Poppenhaeger, K., Watson, C. A.    
+2019, refereed ([2019MNRAS.487.1865W](http://adsabs.harvard.edu/abs/2019MNRAS.487.1865W))  
+
+2. [INSTABILITIES IN MULTIPLANET CIRCUMBINARY SYSTEMS](http://adsabs.harvard.edu/abs/2019MNRAS.487.3288S)  
+Sutherland, Adam P., Kratter, Kaitlin M.    
+2019, refereed ([2019MNRAS.487.3288S](http://adsabs.harvard.edu/abs/2019MNRAS.487.3288S))  
+
+
 2019-07
 -------
 
-1. [FORMATION OF SHORT-PERIOD PLANETS BY DISC MIGRATION](http://adsabs.harvard.edu/abs/2019MNRAS.486.3874C)  
+1. [COULD THERE BE AN UNDETECTED INNER PLANET NEAR THE STABILITY LIMIT IN KEPLER-1647?](http://adsabs.harvard.edu/abs/2019AJ....158....8H)  
+Hong, Ziqian, Quarles, Billy, Li, Gongjie, et al.    
+2019, refereed ([2019AJ....158....8H](http://adsabs.harvard.edu/abs/2019AJ....158....8H))  
+
+2. [FORMATION OF SHORT-PERIOD PLANETS BY DISC MIGRATION](http://adsabs.harvard.edu/abs/2019MNRAS.486.3874C)  
 Carrera, Daniel, Ford, Eric B., Izidoro, Andre    
 2019, refereed ([2019MNRAS.486.3874C](http://adsabs.harvard.edu/abs/2019MNRAS.486.3874C))  
 
-2. [THE ACCELERATING ROTATION OF THE MAGNETIC HE-WEAK STAR HD 142990](http://adsabs.harvard.edu/abs/2019MNRAS.486.5558S)  
+3. [THE ACCELERATING ROTATION OF THE MAGNETIC HE-WEAK STAR HD 142990](http://adsabs.harvard.edu/abs/2019MNRAS.486.5558S)  
 Shultz, M., Rivinius, Th, Das, B., et al.    
 2019, refereed ([2019MNRAS.486.5558S](http://adsabs.harvard.edu/abs/2019MNRAS.486.5558S))  
+
+4. [CHASING STAR-PLANET MAGNETIC INTERACTIONS: THE CASE OF KEPLER-78](http://adsabs.harvard.edu/abs/2019arXiv190701020S)  
+Strugarek, A., Brun, A. S., Donati, J. -F., et al.    
+2019, not refereed ([2019arXiv190701020S](http://adsabs.harvard.edu/abs/2019arXiv190701020S))  
+
+5. [ON THE PATTERNS OBSERVED IN KEPLER MULTI-PLANET SYSTEMS](http://adsabs.harvard.edu/abs/2019arXiv190702074Z)  
+Zhu, Wei    
+2019, not refereed ([2019arXiv190702074Z](http://adsabs.harvard.edu/abs/2019arXiv190702074Z))  
 
 
 2019-06
 -------
 
-1. [OBSERVATIONS OF THE KEPLER FIELD WITH TESS: PREDICTIONS FOR PLANET YIELD AND OBSERVABLE FEATURES](http://adsabs.harvard.edu/abs/2019AJ....157..235C)  
-Christ, Callista N., Montet, Benjamin T., Fabrycky, Daniel C.    
-2019, refereed ([2019AJ....157..235C](http://adsabs.harvard.edu/abs/2019AJ....157..235C))  
+1. [STELLAR ACTIVITY AND ROTATION OF THE PLANET HOST KEPLER-17 FROM LONG-TERM SPACE-BORNE PHOTOMETRY](http://adsabs.harvard.edu/abs/2019A&A...626A..38L)  
+Lanza, A. F., Netto, Y., Bonomo, A. S., et al.    
+2019, refereed ([2019A&A...626A..38L](http://adsabs.harvard.edu/abs/2019A&A...626A..38L))  
 
 2. [TRANSITING PLANETS NEAR THE SNOW LINE FROM KEPLER. I. CATALOG](http://adsabs.harvard.edu/abs/2019AJ....157..218K)  
 Kawahara, Hajime, Masuda, Kento    
 2019, refereed ([2019AJ....157..218K](http://adsabs.harvard.edu/abs/2019AJ....157..218K))  
 
-3. [VARIABILITY IN THE ATMOSPHERE OF THE HOT JUPITER KEPLER-76B](http://adsabs.harvard.edu/abs/2019AJ....157..239J)  
+3. [OBSERVATIONS OF THE KEPLER FIELD WITH TESS: PREDICTIONS FOR PLANET YIELD AND OBSERVABLE FEATURES](http://adsabs.harvard.edu/abs/2019AJ....157..235C)  
+Christ, Callista N., Montet, Benjamin T., Fabrycky, Daniel C.    
+2019, refereed ([2019AJ....157..235C](http://adsabs.harvard.edu/abs/2019AJ....157..235C))  
+
+4. [VARIABILITY IN THE ATMOSPHERE OF THE HOT JUPITER KEPLER-76B](http://adsabs.harvard.edu/abs/2019AJ....157..239J)  
 Jackson, Brian, Adams, Elisabeth, Sandidge, Wesley, et al.    
 2019, refereed ([2019AJ....157..239J](http://adsabs.harvard.edu/abs/2019AJ....157..239J))  
 
-4. [NO EVIDENCE FOR LUNAR TRANSIT IN NEW ANALYSIS OF HUBBLE SPACE TELESCOPE OBSERVATIONS OF THE KEPLER-1625 SYSTEM](http://adsabs.harvard.edu/abs/2019ApJ...877L..15K)  
+5. [NO EVIDENCE FOR LUNAR TRANSIT IN NEW ANALYSIS OF HUBBLE SPACE TELESCOPE OBSERVATIONS OF THE KEPLER-1625 SYSTEM](http://adsabs.harvard.edu/abs/2019ApJ...877L..15K)  
 Kreidberg, Laura, Luger, Rodrigo, Bedell, Megan    
 2019, refereed ([2019ApJ...877L..15K](http://adsabs.harvard.edu/abs/2019ApJ...877L..15K))  
 
-5. [SEARCH FOR EXOPLANETARY TRANSITS IN THE GALACTIC BULGE](http://adsabs.harvard.edu/abs/2019MNRAS.485.4502C)  
+6. [SEARCH FOR EXOPLANETARY TRANSITS IN THE GALACTIC BULGE](http://adsabs.harvard.edu/abs/2019MNRAS.485.4502C)  
 Cortés, C. C., Minniti, D., Villanova, S.    
 2019, refereed ([2019MNRAS.485.4502C](http://adsabs.harvard.edu/abs/2019MNRAS.485.4502C))  
 
-6. [TWO SUPER-EARTHS IN THE 3:2 MMR AROUND KOI-1599](http://adsabs.harvard.edu/abs/2019MNRAS.485.4601P)  
+7. [TWO SUPER-EARTHS IN THE 3:2 MMR AROUND KOI-1599](http://adsabs.harvard.edu/abs/2019MNRAS.485.4601P)  
 Panichi, F., Migaszewski, C., Goździewski, K.    
 2019, refereed ([2019MNRAS.485.4601P](http://adsabs.harvard.edu/abs/2019MNRAS.485.4601P))  
 
-7. [THE WEIRD DETECTOR: FLAGGING PERIODIC, COHERENT SIGNALS OF ARBITRARY SHAPE IN TIME-SERIES PHOTOMETRY](http://adsabs.harvard.edu/abs/2019MNRAS.485.5498W)  
+8. [THE WEIRD DETECTOR: FLAGGING PERIODIC, COHERENT SIGNALS OF ARBITRARY SHAPE IN TIME-SERIES PHOTOMETRY](http://adsabs.harvard.edu/abs/2019MNRAS.485.5498W)  
 Wheeler, Adam, Kipping, David    
 2019, refereed ([2019MNRAS.485.5498W](http://adsabs.harvard.edu/abs/2019MNRAS.485.5498W))  
 
-8. [ATMOSPHERIC MASS-LOSS FROM HIGH-VELOCITY GIANT IMPACTS](http://adsabs.harvard.edu/abs/2019MNRAS.486.2780Y)  
+9. [ATMOSPHERIC MASS-LOSS FROM HIGH-VELOCITY GIANT IMPACTS](http://adsabs.harvard.edu/abs/2019MNRAS.486.2780Y)  
 Yalinewich, Almog, Schlichting, Hilke    
 2019, refereed ([2019MNRAS.486.2780Y](http://adsabs.harvard.edu/abs/2019MNRAS.486.2780Y))  
 
-9. [INSTABILITIES IN MULTI-PLANET CIRCUMBINARY SYSTEMS](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.1437S)  
-Sutherland, Adam P., Kratter, Kaitlin M.    
-2019, refereed ([2019MNRAS.tmp.1437S](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.1437S))  
+10. [A PAIR OF TEMPERATE SUB-NEPTUNES TRANSITING THE STAR EPIC 212737443](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.1567H)  
+Herath, Mahesh, Hinse, Tobias C., Livingston, John H., et al.    
+2019, refereed ([2019MNRAS.tmp.1567H](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.1567H))  
 
-10. [DETECTING EXOPLANET TRANSITS THROUGH MACHINE-LEARNING TECHNIQUES WITH CONVOLUTIONAL NEURAL NETWORKS](http://adsabs.harvard.edu/abs/2019PASP..131f4502C)  
+11. [DETECTING EXOPLANET TRANSITS THROUGH MACHINE-LEARNING TECHNIQUES WITH CONVOLUTIONAL NEURAL NETWORKS](http://adsabs.harvard.edu/abs/2019PASP..131f4502C)  
 Chintarungruangchai, Pattana, Jiang, Ing-Guey    
 2019, refereed ([2019PASP..131f4502C](http://adsabs.harvard.edu/abs/2019PASP..131f4502C))  
 
-11. [WOTAN: COMPREHENSIVE TIME-SERIES DE-TRENDING IN PYTHON](http://adsabs.harvard.edu/abs/2019arXiv190600966H)  
+12. [WOTAN: COMPREHENSIVE TIME-SERIES DE-TRENDING IN PYTHON](http://adsabs.harvard.edu/abs/2019arXiv190600966H)  
 Hippke, Michael, David, Trevor J., Mulders, Gijs D., et al.    
 2019, not refereed ([2019arXiv190600966H](http://adsabs.harvard.edu/abs/2019arXiv190600966H))  
 
-12. [DEALING WITH $\DELTA$-SCUTI VARIABLES: TRANSIT LIGHT CURVE ANALYSIS OF PLANETS ORBITING RAPIDLY-ROTATING, SEISMICALLY ACTIVE A/F STARS](http://adsabs.harvard.edu/abs/2019arXiv190601029A)  
+13. [DEALING WITH $\DELTA$-SCUTI VARIABLES: TRANSIT LIGHT CURVE ANALYSIS OF PLANETS ORBITING RAPIDLY-ROTATING, SEISMICALLY ACTIVE A/F STARS](http://adsabs.harvard.edu/abs/2019arXiv190601029A)  
 Ahlers, John P., Barnes, Jason W., Myers, Samuel A.    
 2019, not refereed ([2019arXiv190601029A](http://adsabs.harvard.edu/abs/2019arXiv190601029A))  
 
-13. [SMALL PLANETS IN THE GALACTIC CONTEXT: HOST STAR KINEMATICS, IRON, AND $\ALPHA$ ELEMENT ENHANCEMENT](http://adsabs.harvard.edu/abs/2019arXiv190601982B)  
+14. [SMALL PLANETS IN THE GALACTIC CONTEXT: HOST STAR KINEMATICS, IRON, AND $\ALPHA$ ELEMENT ENHANCEMENT](http://adsabs.harvard.edu/abs/2019arXiv190601982B)  
 Bashi, Dolev, Zucker, Shay    
 2019, not refereed ([2019arXiv190601982B](http://adsabs.harvard.edu/abs/2019arXiv190601982B))  
 
-14. [A HOT SATURN NEAR (BUT UNASSOCIATED WITH) THE OPEN CLUSTER NGC 1817](http://adsabs.harvard.edu/abs/2019arXiv190602395R)  
+15. [A HOT SATURN NEAR (BUT UNASSOCIATED WITH) THE OPEN CLUSTER NGC 1817](http://adsabs.harvard.edu/abs/2019arXiv190602395R)  
 Rampalli, Rayna, Vanderburg, Andrew, Bieryla, Allyson, et al.    
 2019, not refereed ([2019arXiv190602395R](http://adsabs.harvard.edu/abs/2019arXiv190602395R))  
 
-15. [NOT GONE WITH THE WIND: PLANET OCCURRENCE IS INDEPENDENT OF STELLAR GALACTOCENTRIC VELOCITY](http://adsabs.harvard.edu/abs/2019arXiv190602663M)  
+16. [NOT GONE WITH THE WIND: PLANET OCCURRENCE IS INDEPENDENT OF STELLAR GALACTOCENTRIC VELOCITY](http://adsabs.harvard.edu/abs/2019arXiv190602663M)  
 McTier, Moiya, Kipping, David    
 2019, not refereed ([2019arXiv190602663M](http://adsabs.harvard.edu/abs/2019arXiv190602663M))  
 
-16. [ANALYSIS OF PUTATIVE EXOPLANETARY SIGNATURES FOUND IN LIGHT CURVES OF TWO SDBV STARS OBSERVED BY KEPLER](http://adsabs.harvard.edu/abs/2019arXiv190603321B)  
+17. [ANALYSIS OF PUTATIVE EXOPLANETARY SIGNATURES FOUND IN LIGHT CURVES OF TWO SDBV STARS OBSERVED BY KEPLER](http://adsabs.harvard.edu/abs/2019arXiv190603321B)  
 Blokesz, A., Krzesinski, J., Kedziora-Chudczer, L.    
 2019, not refereed ([2019arXiv190603321B](http://adsabs.harvard.edu/abs/2019arXiv190603321B))  
 
-17. [A PROBABILISTIC APPROACH TO KEPLER COMPLETENESS AND RELIABILITY FOR EXOPLANET OCCURRENCE RATES](http://adsabs.harvard.edu/abs/2019arXiv190603575B)  
+18. [A PROBABILISTIC APPROACH TO KEPLER COMPLETENESS AND RELIABILITY FOR EXOPLANET OCCURRENCE RATES](http://adsabs.harvard.edu/abs/2019arXiv190603575B)  
 Bryson, Steve, Coughlin, Jeffrey, Batalha, Natalie M., et al.    
 2019, not refereed ([2019arXiv190603575B](http://adsabs.harvard.edu/abs/2019arXiv190603575B))  
 
-18. [FREQUENCY OF PLANETS ORBITING M DWARFS IN THE SOLAR NEIGHBOURHOOD](http://adsabs.harvard.edu/abs/2019arXiv190604644T)  
+19. [GROWTH MODEL INTERPRETATION OF PLANET SIZE DISTRIBUTION](http://adsabs.harvard.edu/abs/2019arXiv190604253Z)  
+Zeng, Li, Jacobsen, Stein B., Sasselov, Dimitar D., et al.    
+2019, not refereed ([2019arXiv190604253Z](http://adsabs.harvard.edu/abs/2019arXiv190604253Z))  
+
+20. [FREQUENCY OF PLANETS ORBITING M DWARFS IN THE SOLAR NEIGHBOURHOOD](http://adsabs.harvard.edu/abs/2019arXiv190604644T)  
 Tuomi, M., Jones, H. R. A., Anglada-Escudé, G., et al.    
 2019, not refereed ([2019arXiv190604644T](http://adsabs.harvard.edu/abs/2019arXiv190604644T))  
 
-19. [A SELF-CONSISTENT WEAK FRICTION MODEL FOR THE TIDAL EVOLUTION OF CIRCUMBINARY PLANETS](http://adsabs.harvard.edu/abs/2019arXiv190605195Z)  
+21. [A SELF-CONSISTENT WEAK FRICTION MODEL FOR THE TIDAL EVOLUTION OF CIRCUMBINARY PLANETS](http://adsabs.harvard.edu/abs/2019arXiv190605195Z)  
 Zoppetti, F. A., Beaugé, C., Leiva, A. M., et al.    
 2019, not refereed ([2019arXiv190605195Z](http://adsabs.harvard.edu/abs/2019arXiv190605195Z))  
+
+22. [SEARCH FOR GAS FROM THE DISINTEGRATING ROCKY EXOPLANET K2-22B](http://adsabs.harvard.edu/abs/2019arXiv190608795R)  
+Ridden-Harper, A. R., Snellen, I. A. G., Keller, C. U., et al.    
+2019, not refereed ([2019arXiv190608795R](http://adsabs.harvard.edu/abs/2019arXiv190608795R))  
+
+23. [THE RANDOM TRANSITER -- EPIC 249706694/HD 139139](http://adsabs.harvard.edu/abs/2019arXiv190611268R)  
+Rappaport, S., Vanderburg, A., Kristiansen, M. H., et al.    
+2019, not refereed ([2019arXiv190611268R](http://adsabs.harvard.edu/abs/2019arXiv190611268R))  
+
+24. [A GAP IN THE MASS DISTRIBUTION FOR WARM NEPTUNE AND TERRESTRIAL PLANETS](http://adsabs.harvard.edu/abs/2019arXiv190611865A)  
+Armstrong, David J., Meru, Farzana, Bayliss, Daniel, et al.    
+2019, not refereed ([2019arXiv190611865A](http://adsabs.harvard.edu/abs/2019arXiv190611865A))  
+
+25. [CLOSE-IN SUB-NEPTUNES REVEAL THE PAST ROTATION HISTORY OF THEIR HOST STARS: ATMOSPHERIC EVOLUTION OF PLANETS IN THE HD3167 AND K2-32 PLANETARY SYSTEMS](http://adsabs.harvard.edu/abs/2019arXiv190612153K)  
+Kubyshkina, Daria, Cubillos, Patricio, Fossati, Luca, et al.    
+2019, not refereed ([2019arXiv190612153K](http://adsabs.harvard.edu/abs/2019arXiv190612153K))  
 
 
 2019-05
@@ -147,29 +195,29 @@ McDonald, George D., Kreidberg, Laura, Lopez, Eric
 Kawashima, Yui, Hu, Renyu, Ikoma, Masahiro    
 2019, refereed ([2019ApJ...876L...5K](http://adsabs.harvard.edu/abs/2019ApJ...876L...5K))  
 
-13. [ANALYSIS OF EXOPLANETARY SYSTEM WASP-118](http://adsabs.harvard.edu/abs/2019CoSka..49..349G)  
+13. [WIDE-ORBIT EXOPLANET DEMOGRAPHICS](http://adsabs.harvard.edu/abs/2019BAAS...51c.505B)  
+Bennett, David, Akeson, Rachel, Alibert, Yann, et al.    
+2019, not refereed ([2019BAAS...51c.505B](http://adsabs.harvard.edu/abs/2019BAAS...51c.505B))  
+
+14. [ANALYSIS OF EXOPLANETARY SYSTEM WASP-118](http://adsabs.harvard.edu/abs/2019CoSka..49..349G)  
 Gajdoš, P., Vaňko, M., Parimucha, Š., et al.    
 2019, refereed ([2019CoSka..49..349G](http://adsabs.harvard.edu/abs/2019CoSka..49..349G))  
 
-14. [ANALYSIS OF KOI 2700B: THE SECOND EXOPLANET WITH A COMET-LIKE DUSTY TAIL. AN IMPROVED TAIL MODEL](http://adsabs.harvard.edu/abs/2019CoSka..49..352G)  
+15. [ANALYSIS OF KOI 2700B: THE SECOND EXOPLANET WITH A COMET-LIKE DUSTY TAIL. AN IMPROVED TAIL MODEL](http://adsabs.harvard.edu/abs/2019CoSka..49..352G)  
 Garai, Z.    
 2019, refereed ([2019CoSka..49..352G](http://adsabs.harvard.edu/abs/2019CoSka..49..352G))  
 
-15. [WASP-92, WASP-93, AND WASP-118: TRANSIT TIMING VARIATIONS AND LONG-TERM STABILITY OF THE SYSTEMS](http://adsabs.harvard.edu/abs/2019MNRAS.485.3580G)  
+16. [WASP-92, WASP-93, AND WASP-118: TRANSIT TIMING VARIATIONS AND LONG-TERM STABILITY OF THE SYSTEMS](http://adsabs.harvard.edu/abs/2019MNRAS.485.3580G)  
 Gajdoš, Pavol, Vaňko, Martin, Jakubík, Marián, et al.    
 2019, refereed ([2019MNRAS.485.3580G](http://adsabs.harvard.edu/abs/2019MNRAS.485.3580G))  
 
-16. [MONITORING OF THE D DOUBLET OF NEUTRAL SODIUM DURING TRANSITS OF TWO `EVAPORATING' PLANETS](http://adsabs.harvard.edu/abs/2019MNRAS.485.3876G)  
+17. [MONITORING OF THE D DOUBLET OF NEUTRAL SODIUM DURING TRANSITS OF TWO `EVAPORATING' PLANETS](http://adsabs.harvard.edu/abs/2019MNRAS.485.3876G)  
 Gaidos, E., Hirano, T., Ansdell, M.    
 2019, refereed ([2019MNRAS.485.3876G](http://adsabs.harvard.edu/abs/2019MNRAS.485.3876G))  
 
-17. [PLANETARY MAGNETISM AS A PARAMETER IN EXOPLANET HABITABILITY](http://adsabs.harvard.edu/abs/2019MNRAS.485.3999M)  
+18. [PLANETARY MAGNETISM AS A PARAMETER IN EXOPLANET HABITABILITY](http://adsabs.harvard.edu/abs/2019MNRAS.485.3999M)  
 McIntyre, Sarah R. N., Lineweaver, Charles H., Ireland, Michael J.    
 2019, refereed ([2019MNRAS.485.3999M](http://adsabs.harvard.edu/abs/2019MNRAS.485.3999M))  
-
-18. [VALIDATION OF A TEMPERATE FOURTH PLANET IN THE K2-133 MULTI-PLANET SYSTEM](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.1275W)  
-Wells, R., Poppenhaeger, K., Watson, C. A.    
-2019, refereed ([2019MNRAS.tmp.1275W](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.1275W))  
 
 19. [THE BINARY MASS RATIOS OF CIRCUMBINARY PLANET HOSTS](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.1361M)  
 Martin, David V.    
@@ -179,63 +227,59 @@ Martin, David V.
 Rowden, Pamela M.    
 2019, refereed ([2019PhDT........11R](http://adsabs.harvard.edu/abs/2019PhDT........11R))  
 
-21. [WIDE-ORBIT EXOPLANET DEMOGRAPHICS](http://adsabs.harvard.edu/abs/2019BAAS...51c.505B)  
-Bennett, David, Akeson, Rachel, Alibert, Yann, et al.    
-2019, not refereed ([2019BAAS...51c.505B](http://adsabs.harvard.edu/abs/2019BAAS...51c.505B))  
-
-22. [A COMPARISON OF THE DIFFUSER METHOD VERSUS THE DEFOCUS METHOD FOR PERFORMING HIGH-PRECISION PHOTOMETRY WITH SMALL TELESCOPE SYSTEMS](http://adsabs.harvard.edu/abs/2019arXiv190502790H)  
+21. [A COMPARISON OF THE DIFFUSER METHOD VERSUS THE DEFOCUS METHOD FOR PERFORMING HIGH-PRECISION PHOTOMETRY WITH SMALL TELESCOPE SYSTEMS](http://adsabs.harvard.edu/abs/2019arXiv190502790H)  
 Hubbell, Gerald R., Billard, Barton D., Conti, Dennis M., et al.    
 2019, not refereed ([2019arXiv190502790H](http://adsabs.harvard.edu/abs/2019arXiv190502790H))  
 
-23. [AUTOREGRESSIVE PLANET SEARCH: FEASIBILITY STUDY FOR IRREGULAR TIME SERIES](http://adsabs.harvard.edu/abs/2019arXiv190503766S)  
+22. [AUTOREGRESSIVE PLANET SEARCH: FEASIBILITY STUDY FOR IRREGULAR TIME SERIES](http://adsabs.harvard.edu/abs/2019arXiv190503766S)  
 Stuhr, Andrew M., Feigelson, Eric D., Caceres, Gabriel A., et al.    
 2019, not refereed ([2019arXiv190503766S](http://adsabs.harvard.edu/abs/2019arXiv190503766S))  
 
-24. [HOW TO FIND A PLANET FROM TRANSIT VARIATIONS](http://adsabs.harvard.edu/abs/2019arXiv190504262N)  
+23. [HOW TO FIND A PLANET FROM TRANSIT VARIATIONS](http://adsabs.harvard.edu/abs/2019arXiv190504262N)  
 Nesvorny, David    
 2019, not refereed ([2019arXiv190504262N](http://adsabs.harvard.edu/abs/2019arXiv190504262N))  
 
-25. [DISCOVERY OF THE FIRST EARTH-SIZED PLANETS ORBITING A STAR OTHER THAN OUR SUN IN THE KEPLER-20 SYSTEM](http://adsabs.harvard.edu/abs/2019arXiv190504309T)  
+24. [DISCOVERY OF THE FIRST EARTH-SIZED PLANETS ORBITING A STAR OTHER THAN OUR SUN IN THE KEPLER-20 SYSTEM](http://adsabs.harvard.edu/abs/2019arXiv190504309T)  
 Torres, Guillermo, Fressin, Francois    
 2019, not refereed ([2019arXiv190504309T](http://adsabs.harvard.edu/abs/2019arXiv190504309T))  
 
-26. [KEPLER-9: THE FIRST MULTI-TRANSITING SYSTEM AND THE FIRST TRANSIT TIMING VARIATIONS](http://adsabs.harvard.edu/abs/2019arXiv190504426R)  
+25. [KEPLER-9: THE FIRST MULTI-TRANSITING SYSTEM AND THE FIRST TRANSIT TIMING VARIATIONS](http://adsabs.harvard.edu/abs/2019arXiv190504426R)  
 Ragozzine, Darin, Holman, Matthew J.    
 2019, not refereed ([2019arXiv190504426R](http://adsabs.harvard.edu/abs/2019arXiv190504426R))  
 
-27. [THE DISCOVERY AND LEGACY OF KEPLER'S MULTI-TRANSITING PLANETARY SYSTEMS](http://adsabs.harvard.edu/abs/2019arXiv190504659S)  
+26. [THE DISCOVERY AND LEGACY OF KEPLER'S MULTI-TRANSITING PLANETARY SYSTEMS](http://adsabs.harvard.edu/abs/2019arXiv190504659S)  
 Steffen, Jason H., Lissauer, Jack J.    
 2019, not refereed ([2019arXiv190504659S](http://adsabs.harvard.edu/abs/2019arXiv190504659S))  
 
-28. [DISCOVERY AND CHARACTERIZATION OF KEPLER-36B](http://adsabs.harvard.edu/abs/2019arXiv190505229A)  
+27. [DISCOVERY AND CHARACTERIZATION OF KEPLER-36B](http://adsabs.harvard.edu/abs/2019arXiv190505229A)  
 Agol, Eric, Carter, Joshua A.    
 2019, not refereed ([2019arXiv190505229A](http://adsabs.harvard.edu/abs/2019arXiv190505229A))  
 
-29. [KEPLER-62F: KEPLER'S FIRST SMALL PLANET IN THE HABITABLE ZONE, BUT IS IT REAL?](http://adsabs.harvard.edu/abs/2019arXiv190505719B)  
+28. [KEPLER-62F: KEPLER'S FIRST SMALL PLANET IN THE HABITABLE ZONE, BUT IS IT REAL?](http://adsabs.harvard.edu/abs/2019arXiv190505719B)  
 Borucki, William, Thompson, Susan E., Agol, Eric, et al.    
 2019, not refereed ([2019arXiv190505719B](http://adsabs.harvard.edu/abs/2019arXiv190505719B))  
 
-30. [KEPLER PLANET OCCURRENCE RATES FOR MID-TYPE M DWARFS AS A FUNCTION OF SPECTRAL TYPE](http://adsabs.harvard.edu/abs/2019arXiv190505900H)  
+29. [KEPLER PLANET OCCURRENCE RATES FOR MID-TYPE M DWARFS AS A FUNCTION OF SPECTRAL TYPE](http://adsabs.harvard.edu/abs/2019arXiv190505900H)  
 Hardegree-Ullman, Kevin K., Cushing, Michael C., Muirhead, Philip S., et al.    
 2019, not refereed ([2019arXiv190505900H](http://adsabs.harvard.edu/abs/2019arXiv190505900H))  
 
-31. [THE EXOPLANET POPULATION OBSERVATION SIMULATOR. II - POPULATION SYNTHESIS IN THE ERA OF KEPLER](http://adsabs.harvard.edu/abs/2019arXiv190508804M)  
+30. [THE EXOPLANET POPULATION OBSERVATION SIMULATOR. II - POPULATION SYNTHESIS IN THE ERA OF KEPLER](http://adsabs.harvard.edu/abs/2019arXiv190508804M)  
 Mulders, Gijs D., Mordasini, Christoph, Pascucci, Ilaria, et al.    
 2019, not refereed ([2019arXiv190508804M](http://adsabs.harvard.edu/abs/2019arXiv190508804M))  
 
-32. [TRANSIT LEAST-SQUARES SURVEY - II. DISCOVERY AND VALIDATION OF 17 NEW SUB- TO SUPER-EARTH-SIZED PLANETS IN MULTI-PLANET SYSTEMS FROM K2](http://adsabs.harvard.edu/abs/2019arXiv190509038H)  
+31. [TRANSIT LEAST-SQUARES SURVEY - II. DISCOVERY AND VALIDATION OF 17 NEW SUB- TO SUPER-EARTH-SIZED PLANETS IN MULTI-PLANET SYSTEMS FROM K2](http://adsabs.harvard.edu/abs/2019arXiv190509038H)  
 Heller, René, Hippke, Michael, Rodenbeck, Kai    
 2019, not refereed ([2019arXiv190509038H](http://adsabs.harvard.edu/abs/2019arXiv190509038H))  
 
-33. [AUTOREGRESSIVE PLANET SEARCH: APPLICATION TO THE KEPLER MISSION](http://adsabs.harvard.edu/abs/2019arXiv190509852C)  
+32. [AUTOREGRESSIVE PLANET SEARCH: APPLICATION TO THE KEPLER MISSION](http://adsabs.harvard.edu/abs/2019arXiv190509852C)  
 Caceres, Gabriel A., Feigelson, Eric D., Jogesh Babu, G., et al.    
 2019, not refereed ([2019arXiv190509852C](http://adsabs.harvard.edu/abs/2019arXiv190509852C))  
 
-34. [DISTINGUISHING POLAR AND CO-PLANAR CIRCUMBINARY EXOPLANETS BY ECLIPSING TIMING VARIATIONS](http://adsabs.harvard.edu/abs/2019arXiv190510179Z)  
+33. [DISTINGUISHING POLAR AND CO-PLANAR CIRCUMBINARY EXOPLANETS BY ECLIPSING TIMING VARIATIONS](http://adsabs.harvard.edu/abs/2019arXiv190510179Z)  
 Zhang, Zhanbo, Fabrycky, Daniel C.    
 2019, not refereed ([2019arXiv190510179Z](http://adsabs.harvard.edu/abs/2019arXiv190510179Z))  
 
-35. [CHARACTERIZING K2 CANDIDATE PLANETARY SYSTEMS ORBITING LOW-MASS STARS IV: UPDATED PROPERTIES FOR 86 COOL DWARFS OBSERVED DURING CAMPAIGNS 1-17](http://adsabs.harvard.edu/abs/2019arXiv190511457D)  
+34. [CHARACTERIZING K2 CANDIDATE PLANETARY SYSTEMS ORBITING LOW-MASS STARS IV: UPDATED PROPERTIES FOR 86 COOL DWARFS OBSERVED DURING CAMPAIGNS 1-17](http://adsabs.harvard.edu/abs/2019arXiv190511457D)  
 Dressing, Courtney D., Hardegree-Ullman, Kevin, Schlieder, Joshua E., et al.    
 2019, not refereed ([2019arXiv190511457D](http://adsabs.harvard.edu/abs/2019arXiv190511457D))  
 
@@ -315,19 +359,11 @@ Gajdoš, Pavol, Vaňko, Martin, Pribulla, Theodor, et al.
 Xu, Wenrui, Fabrycky, Daniel    
 2019, not refereed ([2019arXiv190402290X](http://adsabs.harvard.edu/abs/2019arXiv190402290X))  
 
-19. [STELLAR ACTIVITY AND ROTATION OF THE PLANET HOST KEPLER-17 FROM LONG-TERM SPACE-BORNE PHOTOMETRY](http://adsabs.harvard.edu/abs/2019arXiv190404489L)  
-Lanza, A. F., Netto, Y., Bonomo, A. S., et al.    
-2019, not refereed ([2019arXiv190404489L](http://adsabs.harvard.edu/abs/2019arXiv190404489L))  
-
-20. [COULD THERE BE AN UNDETECTED INNER PLANET NEAR THE STABILITY LIMIT IN KEPLER-1647?](http://adsabs.harvard.edu/abs/2019arXiv190407929H)  
-Hong, Ziqian, Quarles, Billy, Li, Gongjie, et al.    
-2019, not refereed ([2019arXiv190407929H](http://adsabs.harvard.edu/abs/2019arXiv190407929H))  
-
-21. [SHALLOW ULTRAVIOLET TRANSITS OF WD 1145+017](http://adsabs.harvard.edu/abs/2019arXiv190410896X)  
+19. [SHALLOW ULTRAVIOLET TRANSITS OF WD 1145+017](http://adsabs.harvard.edu/abs/2019arXiv190410896X)  
 Xu, Siyi, Hallakoun, Na'ama, Gary, Bruce, et al.    
 2019, not refereed ([2019arXiv190410896X](http://adsabs.harvard.edu/abs/2019arXiv190410896X))  
 
-22. [LOOSE ENDS FOR THE EXOMOON CANDIDATE HOST KEPLER-1625B](http://adsabs.harvard.edu/abs/2019arXiv190411896T)  
+20. [LOOSE ENDS FOR THE EXOMOON CANDIDATE HOST KEPLER-1625B](http://adsabs.harvard.edu/abs/2019arXiv190411896T)  
 Teachey, Alex, Kipping, David, Burke, Christopher J., et al.    
 2019, not refereed ([2019arXiv190411896T](http://adsabs.harvard.edu/abs/2019arXiv190411896T))  
 
@@ -715,13 +751,13 @@ Hamers, Adrian S., Cai, Maxwell X., Roa, Javier, et al.
 Johnson, M. C., Dai, F., Justesen, A. B., et al.    
 2018, refereed ([2018MNRAS.481..596J](http://adsabs.harvard.edu/abs/2018MNRAS.481..596J))  
 
-20. [PLANET OCCURRENCE RATE DENSITY MODELS INCLUDING STELLAR EFFECTIVE TEMPERATURE](http://adsabs.harvard.edu/abs/2018PASP..130k4403G)  
-Garrett, Daniel, Savransky, Dmitry, Belikov, Rus    
-2018, refereed ([2018PASP..130k4403G](http://adsabs.harvard.edu/abs/2018PASP..130k4403G))  
-
-21. [KEPLER-78 AND THE ULTRA-SHORT-PERIOD PLANETS](http://adsabs.harvard.edu/abs/2018NewAR..83...37W)  
+20. [KEPLER-78 AND THE ULTRA-SHORT-PERIOD PLANETS](http://adsabs.harvard.edu/abs/2018NewAR..83...37W)  
 Winn, Joshua N., Sanchis-Ojeda, Roberto, Rappaport, Saul    
 2018, refereed ([2018NewAR..83...37W](http://adsabs.harvard.edu/abs/2018NewAR..83...37W))  
+
+21. [PLANET OCCURRENCE RATE DENSITY MODELS INCLUDING STELLAR EFFECTIVE TEMPERATURE](http://adsabs.harvard.edu/abs/2018PASP..130k4403G)  
+Garrett, Daniel, Savransky, Dmitry, Belikov, Rus    
+2018, refereed ([2018PASP..130k4403G](http://adsabs.harvard.edu/abs/2018PASP..130k4403G))  
 
 22. [PREDICTING EXOPLANETS MASS AND RADIUS: A NONPARAMETRIC APPROACH](http://adsabs.harvard.edu/abs/2018arXiv181102324N)  
 Ning, Bo, Wolfgang, Angie, Ghosh, Sujit    
@@ -739,61 +775,61 @@ Aitta, A.
 2018-10
 -------
 
-1. [HOW FORMATION TIME-SCALES AFFECT THE PERIOD DEPENDENCE OF THE TRANSITION BETWEEN ROCKY SUPER-EARTHS AND GASEOUS SUB-NEPTUNESAND IMPLICATIONS FOR Η<SUB>⊕</SUB>](http://adsabs.harvard.edu/abs/2018MNRAS.479.5303L)  
-Lopez, Eric D., Rice, Ken    
-2018, refereed ([2018MNRAS.479.5303L](http://adsabs.harvard.edu/abs/2018MNRAS.479.5303L))  
-
-2. [A NEW METHOD TO COMPUTE LIMB-DARKENING COEFFICIENTS FOR STELLAR ATMOSPHERE MODELS WITH SPHERICAL SYMMETRY: THE SPACE MISSIONS TESS, KEPLER, COROT, AND MOST](http://adsabs.harvard.edu/abs/2018A&A...618A..20C)  
+1. [A NEW METHOD TO COMPUTE LIMB-DARKENING COEFFICIENTS FOR STELLAR ATMOSPHERE MODELS WITH SPHERICAL SYMMETRY: THE SPACE MISSIONS TESS, KEPLER, COROT, AND MOST](http://adsabs.harvard.edu/abs/2018A&A...618A..20C)  
 Claret, Antonio    
 2018, refereed ([2018A&A...618A..20C](http://adsabs.harvard.edu/abs/2018A&A...618A..20C))  
 
-3. [SUPER-EARTH OF 8 M<SUB>⊕</SUB> IN A 2.2-DAY ORBIT AROUND THE K5V STAR K2-216](http://adsabs.harvard.edu/abs/2018A&A...618A..33P)  
+2. [SUPER-EARTH OF 8 M<SUB>⊕</SUB> IN A 2.2-DAY ORBIT AROUND THE K5V STAR K2-216](http://adsabs.harvard.edu/abs/2018A&A...618A..33P)  
 Persson, C. M., Fridlund, M., Barragán, O., et al.    
 2018, refereed ([2018A&A...618A..33P](http://adsabs.harvard.edu/abs/2018A&A...618A..33P))  
 
-4. [KEPLER OBJECT OF INTEREST NETWORK. II. PHOTODYNAMICAL MODELLING OF KEPLER-9 OVER 8 YEARS OF TRANSIT OBSERVATIONS](http://adsabs.harvard.edu/abs/2018A&A...618A..41F)  
+3. [KEPLER OBJECT OF INTEREST NETWORK. II. PHOTODYNAMICAL MODELLING OF KEPLER-9 OVER 8 YEARS OF TRANSIT OBSERVATIONS](http://adsabs.harvard.edu/abs/2018A&A...618A..41F)  
 Freudenthal, J., von Essen, C., Dreizler, S., et al.    
 2018, refereed ([2018A&A...618A..41F](http://adsabs.harvard.edu/abs/2018A&A...618A..41F))  
 
-5. [CHROMATIC TRANSIT LIGHT CURVES OF DISINTEGRATING ROCKY PLANETS](http://adsabs.harvard.edu/abs/2018A&A...618A..97R)  
+4. [CHROMATIC TRANSIT LIGHT CURVES OF DISINTEGRATING ROCKY PLANETS](http://adsabs.harvard.edu/abs/2018A&A...618A..97R)  
 Ridden-Harper, A. R., Keller, C. U., Min, M., et al.    
 2018, refereed ([2018A&A...618A..97R](http://adsabs.harvard.edu/abs/2018A&A...618A..97R))  
 
-6. [MASS DETERMINATION OF THE 1:3:5 NEAR-RESONANT PLANETS TRANSITING GJ 9827 (K2-135)](http://adsabs.harvard.edu/abs/2018A&A...618A.116P)  
+5. [MASS DETERMINATION OF THE 1:3:5 NEAR-RESONANT PLANETS TRANSITING GJ 9827 (K2-135)](http://adsabs.harvard.edu/abs/2018A&A...618A.116P)  
 Prieto-Arranz, J., Palle, E., Gandolfi, D., et al.    
 2018, refereed ([2018A&A...618A.116P](http://adsabs.harvard.edu/abs/2018A&A...618A.116P))  
 
-7. [KEPLER-1656B: A DENSE SUB-SATURN WITH AN EXTREME ECCENTRICITY](http://adsabs.harvard.edu/abs/2018AJ....156..147B)  
+6. [KEPLER-1656B: A DENSE SUB-SATURN WITH AN EXTREME ECCENTRICITY](http://adsabs.harvard.edu/abs/2018AJ....156..147B)  
 Brady, Madison T., Petigura, Erik A., Knutson, Heather A., et al.    
 2018, refereed ([2018AJ....156..147B](http://adsabs.harvard.edu/abs/2018AJ....156..147B))  
 
-8. [INFERRING THE COMPOSITION OF DISINTEGRATING PLANET INTERIORS FROM DUST TAILS WITH FUTURE JAMES WEBB SPACE TELESCOPE OBSERVATIONS](http://adsabs.harvard.edu/abs/2018AJ....156..173B)  
+7. [INFERRING THE COMPOSITION OF DISINTEGRATING PLANET INTERIORS FROM DUST TAILS WITH FUTURE JAMES WEBB SPACE TELESCOPE OBSERVATIONS](http://adsabs.harvard.edu/abs/2018AJ....156..173B)  
 Bodman, Eva H. L., Wright, Jason T., Desch, Steven J., et al.    
 2018, refereed ([2018AJ....156..173B](http://adsabs.harvard.edu/abs/2018AJ....156..173B))  
 
-9. [THE NEAR-INFRARED TRANSMISSION SPECTRA OF TRAPPIST-1 PLANETS B, C, D, E, F, AND G AND STELLAR CONTAMINATION IN MULTI-EPOCH TRANSIT SPECTRA](http://adsabs.harvard.edu/abs/2018AJ....156..178Z)  
+8. [THE NEAR-INFRARED TRANSMISSION SPECTRA OF TRAPPIST-1 PLANETS B, C, D, E, F, AND G AND STELLAR CONTAMINATION IN MULTI-EPOCH TRANSIT SPECTRA](http://adsabs.harvard.edu/abs/2018AJ....156..178Z)  
 Zhang, Zhanbo, Zhou, Yifan, Rackham, Benjamin V., et al.    
 2018, refereed ([2018AJ....156..178Z](http://adsabs.harvard.edu/abs/2018AJ....156..178Z))  
 
-10. [K2 TARGETS OBSERVED WITH SPHERE/VLT: AN M4-7 DWARF COMPANION RESOLVED AROUND EPIC 206011496](http://adsabs.harvard.edu/abs/2018AJ....156..182L)  
+9. [K2 TARGETS OBSERVED WITH SPHERE/VLT: AN M4-7 DWARF COMPANION RESOLVED AROUND EPIC 206011496](http://adsabs.harvard.edu/abs/2018AJ....156..182L)  
 Ligi, Roxanne, Demangeon, Olivier, Barros, Susana, et al.    
 2018, refereed ([2018AJ....156..182L](http://adsabs.harvard.edu/abs/2018AJ....156..182L))  
 
-11. [REVISED RADII OF KEPLER STARS AND PLANETS USING GAIA DATA RELEASE 2](http://adsabs.harvard.edu/abs/2018ApJ...866...99B)  
+10. [REVISED RADII OF KEPLER STARS AND PLANETS USING GAIA DATA RELEASE 2](http://adsabs.harvard.edu/abs/2018ApJ...866...99B)  
 Berger, Travis A., Huber, Daniel, Gaidos, Eric, et al.    
 2018, refereed ([2018ApJ...866...99B](http://adsabs.harvard.edu/abs/2018ApJ...866...99B))  
 
-12. [IDENTIFYING INFLATED SUPER-EARTHS AND PHOTO-EVAPORATED CORES](http://adsabs.harvard.edu/abs/2018ApJ...866..104C)  
+11. [IDENTIFYING INFLATED SUPER-EARTHS AND PHOTO-EVAPORATED CORES](http://adsabs.harvard.edu/abs/2018ApJ...866..104C)  
 Carrera, Daniel, Ford, Eric B., Izidoro, Andre, et al.    
 2018, refereed ([2018ApJ...866..104C](http://adsabs.harvard.edu/abs/2018ApJ...866..104C))  
 
-13. [A DEEP RADIO LIMIT FOR THE TRAPPIST-1 SYSTEM](http://adsabs.harvard.edu/abs/2018ApJ...866..155P)  
+12. [A DEEP RADIO LIMIT FOR THE TRAPPIST-1 SYSTEM](http://adsabs.harvard.edu/abs/2018ApJ...866..155P)  
 Pineda, J. Sebastian, Hallinan, Gregg    
 2018, refereed ([2018ApJ...866..155P](http://adsabs.harvard.edu/abs/2018ApJ...866..155P))  
 
-14. [A NEW AB INITIO EQUATION OF STATE OF HCP-FE AND ITS IMPLICATION ON THE INTERIOR STRUCTURE AND MASS-RADIUS RELATIONS OF ROCKY SUPER-EARTHS](http://adsabs.harvard.edu/abs/2018Icar..313...61H)  
+13. [A NEW AB INITIO EQUATION OF STATE OF HCP-FE AND ITS IMPLICATION ON THE INTERIOR STRUCTURE AND MASS-RADIUS RELATIONS OF ROCKY SUPER-EARTHS](http://adsabs.harvard.edu/abs/2018Icar..313...61H)  
 Hakim, Kaustubh, Rivoldini, Attilio, Van Hoolst, Tim, et al.    
 2018, refereed ([2018Icar..313...61H](http://adsabs.harvard.edu/abs/2018Icar..313...61H))  
+
+14. [HOW FORMATION TIME-SCALES AFFECT THE PERIOD DEPENDENCE OF THE TRANSITION BETWEEN ROCKY SUPER-EARTHS AND GASEOUS SUB-NEPTUNESAND IMPLICATIONS FOR Η<SUB>⊕</SUB>](http://adsabs.harvard.edu/abs/2018MNRAS.479.5303L)  
+Lopez, Eric D., Rice, Ken    
+2018, refereed ([2018MNRAS.479.5303L](http://adsabs.harvard.edu/abs/2018MNRAS.479.5303L))  
 
 15. [SURVIVAL FUNCTION ANALYSIS OF PLANET SIZE DISTRIBUTION WITH GAIA DATA RELEASE 2 UPDATES](http://adsabs.harvard.edu/abs/2018MNRAS.479.5567Z)  
 Zeng, Li, Jacobsen, Stein B., Sasselov, Dimitar D., et al.    
