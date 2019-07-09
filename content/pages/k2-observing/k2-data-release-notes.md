@@ -4504,7 +4504,7 @@ Since the necessary pixels were not collected in C0, note there are no artifact 
 
 ***48 Targets Without Lightcurves***
 
-The following 48 targets do not have associated lightcurve files, because the pipeline was unable to find a suitable photometric aperture for these targets. In general they are non-standard targets, such as clusters or very bright objects, or there is no significant flux at the target position. Users are encouraged to create their own lightcurves for these objects from the existing target pixel files using software such as see [lightkurve Python package](https://docs.lightkurve.org) or [PyKE software tool suite](http://pyke.keplerscience.org).
+The following 48 targets do not have associated lightcurve files, because the pipeline was unable to find a suitable photometric aperture for these targets. In general they are non-standard targets, such as clusters or very bright objects, or there is no significant flux at the target position. Users are encouraged to create their own lightcurves for these objects from the existing target pixel files using software such as [lightkurve Python package](https://docs.lightkurve.org), [PyKE software tool suite](http://pyke.keplerscience.org), or [other packages](software.html). 
 
 
 202060164&emsp;&emsp;202060210&emsp;&emsp;202060421&emsp;&emsp;202060813&emsp;&emsp;202065115&emsp;&emsp;202065116<br>

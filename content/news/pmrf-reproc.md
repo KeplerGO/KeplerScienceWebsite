@@ -1,67 +1,37 @@
-Title: Incorrect pixel-level calibration of some C2R, C3R, and C5R short-cadence targets
-Date: 2019-07-05 12:00
-Author: Jeff Coughlin
+Title: Incorrect pixel-level calibration of short-cadence TPFs for some C2R, C3R, and C5R targets
+Date: 2019-07-09 10:00
+Author: Jeff Coughlin and Geert Barentsen
 
+PUT ONE SENTENCE DESCRIPTION OF ISSUE.
 
-<!--- Old Text --->
+SUBSECTION TITLES
 
-A K2 Guest Observer notified the Kepler Science Center in November 2015
-of a puzzling difference between the short- and long-cadence
-calibrated pixel data for a specific K2 target.
+- What is it?
 
-After investigation, the problem was traced to an accounting error
-for the short-cadence collateral smear data.
-Under some conditions, these data are passed incorrectly
-between the spacecraft and the ground, causing smear values to be
-assigned to the wrong columns within a target’s aperture.
+MAKE CLEAR IT IMPACTS THE CALIBRATED DATA, NOT THE RAW DATA
 
-In these cases, the pipeline’s pixel-level calibration routine
-applies an erroneous smear correction.
+Previously [we announced](problem-with-kepler-and-k2-short-cadence-pixel-calibration.html) that some targets in Kepler and early (C0--C5) K2 campaigns had their short-cadence data incorrectly calibrated. Specifically, due to an ambiguous technical specification describing the Pixel Mapping Reference File (PMRF), the collateral smear data correction, used to correct for the effects of Kepler’s shutterless readout, was sometimes applied to the wrong target when calibrating the short-cadence pixel-level data. This can result in an additive effect on individual pixels, as well as a time-varying signal. (See [§2.6.3 of the Kepler Instrument Handbook](https://archive.stsci.edu/files/live/sites/mast/files/home/missions-and-data/kepler/_documents/KSCI-19033-002-instrument-hb.pdf#page=25) and [§5.3.7 of the Kepler Data Processing Handbook](https://archive.stsci.edu/files/live/sites/mast/files/home/missions-and-data/kepler/_documents/KSCI-19081-002-KDPH.pdf#page=120) for detailed descriptions of smear correction.) Note that the long-cadence data for these or other targets was *not* affected.
 
+The incorrect calibration was documented (see [KSCI-19080-002.pdf](data/documentation/KSCI-19080-002.pdf)), including a list of the short-cadence targets that could have possibly been affected by the error at any level. New versions of the PMRF files were generated that conformed to a unified technical specification, and correctly processed short-cadence target pixel files were later delivered for C1 and C3--C5.  CLAIRFY KSCI + SEPARATE LIST (point to below).
 
-### Impact
+As part of the K2 [global uniform reprocessing effort](k2-uniform-global-reprocessing-underway.html) the mission set up a second computing cluster to be able to process two campaigns simultaneously. Unfortunately, a misconfiguration in the setup of this second cluster resulted in the original PMRF files being used for the recently reprocessed C2, C3, and C5 data. This resulted again in the incorrect calibration of the short-cadence target pixel files (TPFs) of select targets in C2, C3, and C5. Of the 474 short-cadence target files among these three campaigns, from the investigation documented in [KSCI-19080-002.pdf](data/documentation/KSCI-19080-002.pdf) we know that 175 are possibly affected at any level, and ~25% of those 175 targets are affected at a non-negligible level.
 
-The issue has been present since launch and affects both the target pixel
-files and the light curves of approximately
-half of all short-cadence targets in all releases to date,
-i.e. Kepler Data Releases 1-24 and K2 Data Releases for Campaigns 0-5.
-A list of all the affected targets is attached below.
-The long cadence data for these or other targets is *not* affected.
+What can I do?
 
-Since the smear signal is often small compared to the target signal,
-the effect is negligible for many targets.
-However, the smear signal is scene-dependent,
-so time-varying signals can be introduced into an affected target
-by the other stars falling on the same CCD column.
+We further investigated the impact to individual targets by comparing the short- and long-cadence TPFs and lightcurves. In general, when thirty short-cadence exposures are summed to match the corresponding long-cadence exposure, it should result in nearly identical fluxes &mdash; when it does not, that is a good indication that there is likely a discrepancy in the pixel-level calibration. Some minor differences will occur due to slight variations in how the short- and long-cadence pixels are calibrated; large differences likely indicate the PMRF issue, especially when an anomalously bright or dark column is seen in the short-cadence TPF. We computed the standard deviation of the difference between the short-cadence lightcurve (summed every thirty short cadences) and the long-cadence lightcurves, and list the value for each of the possibly affected targets below. Users are encouraged to check if their target shows a large deviation and thus might be affected at a significant level.
 
-To assess the impact on affected targets,
-users should inspect the calibrated target pixels
-(see Section 2.3.2 of the [Kepler Archive Manual](https://archive.stsci.edu/kepler/manuals/archive_manual.pdf)).
-An improperly corrected smear signal may show up as an anomalously bright,
-or dark, column in the calibrated target pixel image.
-Comparison of the short-cadence pixel image with the long-cadence pixel image
-(which is not affected by this problem)
-can be used to estimate the magnitude of any contaminating signal.
+ENCOURAGE USERS TO CHEKC TARGET REGARDLESS OF METRIC, and USE OLD PROC.
 
+In addition, we are providing plots for each target to aid in visually diagnosing significantly affected targets. The plots show the short- and long-cadence lightcuves and their differences, which visually shows the size of the signal due to the PMRF issue compared to the lightcurve. In addition, we summed up every 30 short-cadence pixel-level images and computed the difference to the corresponding long-cadence image. The plots also show the median of these differenced images, which will show bright or dark vertical stripes when the target is affected. The amplitude of this image is also helpful in diagnosing the severity of the impact on each target.
 
-### Solution
+NOTE NEPTUNE C3
 
-The Kepler pipeline has been amended to ensure that the
-correct smear data is used at all times.
-All affected data will be corrected as follows:
+INCLUDE FIG 1 FROM KSCI.
 
- * All upcoming K2 data releases will be corrected from the start,
- beginning with Campaign 6. (The release of C6 short cadence data will be delayed by approximately two weeks as a result.)
- * Reprocessing of K2 Campaigns 0-5 will occur over the coming months. The expected release dates will be listed here when known.
- * Data from the prime Kepler mission will be corrected as part of the scheduled reprocessing with pipeline release 9.3 (DR25). Corrected target pixel files are expected to be available in Summer 2016.
+List of possibly affected C2, C3, and C5 targets: XXXXX.csv
+Short- vs long-cadence analysis for all C2, C3, and C5 targets: YYYYYY.txt
+Plots of each target:  /dir/dir/
 
+Users whose C3 or C5 targets are significantly impacted by the incorrect calibration are recommended to use the previous processing (Data Release 10) of C3 and C5, available at MAST as individual FITS files[in this directory for C3](https://archive.stsci.edu/missions/k2/target_pixel_files/old_release_bundles/c3/c3_old_release_files/) and [in this directory](https://archive.stsci.edu/missions/k2/target_pixel_files/old_release_bundles/c5/c5_old_release_files/) for C5. NOTE PREV C2 PROC ALSO AFFECTED, SO NO NON-AFFECTED FILES AVAILBLBE FOR C2.
 
-###  More information
-
-The project has released an erratum document describing the issue and
-its impact in more detail.
-The document is accompanied by a list of all the affected targets:
-
-* [KSCI-19080-002.pdf](data/documentation/KSCI-19080-002.pdf) (Erratum document containing a detailed description of the problem; updated 23 March 2016.)
-* [kepler_bad_short_cadence_target_list.csv](data/documentation/kepler_bad_short_cadence_target_list.csv)
-* [k2_bad_short_cadence_target_list.csv](data/documentation/k2_bad_short_cadence_target_list.csv)
+<!---The mission is currently exploring possible options to produce correct short-cadence TPFs for affected C2 targets. --->
