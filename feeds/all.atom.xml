@@ -14,7 +14,7 @@
 &lt;p&gt;Links:&lt;/p&gt;
 &lt;p&gt;&lt;a href="/data/documentation/k2_reproc_c2_c3_c5_bad_short_cadence_target_list.csv"&gt;List of all possibly affected C2, C3, and C5 targets&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="/data/documentation/k2_reproc_c2_c3_c5_short_long_lightcurve_diff_std.csv"&gt;Short- vs long-cadence difference analysis for possibly affected C2, C3, and C5 targets&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="/images/news/pmrf/"&gt;Click here for diagnostic plots of all C2, C3, and C5 targets&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="/images/news/pmrf/"&gt;Diagnostic plots of all C2, C3, and C5 targets&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h3 id="what-should-users-do-if-their-target-is-impacted"&gt;What should users do if their target is impacted?&lt;/h3&gt;
 &lt;p&gt;We recommend that users whose C3 or C5 targets are impacted use the previous processing (Data Release 10) of C3 and C5, available at MAST as individual FITS files &lt;a href="https://archive.stsci.edu/missions/k2/target_pixel_files/old_release_bundles/c3/c3_old_release_files/"&gt;in this directory for C3&lt;/a&gt; and &lt;a href="https://archive.stsci.edu/missions/k2/target_pixel_files/old_release_bundles/c5/c5_old_release_files/"&gt;in this directory&lt;/a&gt; for C5. Note that the previous processing of C2 (&lt;a href="k2-pipeline-release-notes.html#data-release-4"&gt;Data Release 4&lt;/a&gt; was also affected, and thus no non-affected files currently exist for C2.&lt;/p&gt;
