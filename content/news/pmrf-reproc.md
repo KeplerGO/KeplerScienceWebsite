@@ -34,7 +34,7 @@ Links:
 
 ### What should users do if their target is impacted?
 
-Users whose C3 or C5 targets are impacted by the incorrect calibration are recommended to use the previous processing (Data Release 10) of C3 and C5, available at MAST as individual FITS files[in this directory for C3](https://archive.stsci.edu/missions/k2/target_pixel_files/old_release_bundles/c3/c3_old_release_files/) and [in this directory](https://archive.stsci.edu/missions/k2/target_pixel_files/old_release_bundles/c5/c5_old_release_files/) for C5. Note that the previous processing of C2 (<a href="k2-pipeline-release-notes.html#data-release-4">Data Release 4</a> was also affected, and thus no non-affected files currently exist for C2.
+Users whose C3 or C5 targets are impacted by the incorrect calibration are recommended to use the previous processing (Data Release 10) of C3 and C5, available at MAST as individual FITS files [in this directory for C3](https://archive.stsci.edu/missions/k2/target_pixel_files/old_release_bundles/c3/c3_old_release_files/) and [in this directory](https://archive.stsci.edu/missions/k2/target_pixel_files/old_release_bundles/c5/c5_old_release_files/) for C5. Note that the previous processing of C2 (<a href="k2-pipeline-release-notes.html#data-release-4">Data Release 4</a> was also affected, and thus no non-affected files currently exist for C2.
 
 <br>
 
