@@ -28,7 +28,7 @@ Links:
 
 [Short- vs long-cadence difference analysis for possibly affected C2, C3, and C5 targets](/data/documentation/k2_reproc_c2_c3_c5_short_long_lightcurve_diff_std.csv)
 
-[Click here for diagnostic plots of all C2, C3, and C5 targets](/images/news/pmrf/)
+[Diagnostic plots of all C2, C3, and C5 targets](/images/news/pmrf/)
 
 <br>
 
