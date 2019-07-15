@@ -34,7 +34,7 @@ Links:
 
 ### What should users do if their target is impacted?
 
-We recommend that users whose C3 or C5 targets are impacted use the previous processing (Data Release 10) of C3 and C5, available at MAST as individual FITS files [in this directory for C3](https://archive.stsci.edu/missions/k2/target_pixel_files/old_release_bundles/c3/c3_old_release_files/) and [in this directory](https://archive.stsci.edu/missions/k2/target_pixel_files/old_release_bundles/c5/c5_old_release_files/) for C5. Note that the previous processing of C2 (<a href="k2-pipeline-release-notes.html#data-release-4">Data Release 4</a> was also affected, and thus no non-affected files currently exist for C2.
+We recommend that users whose C3 or C5 targets are impacted use the previous processing (Data Release 10) of C3 and C5, available at MAST as individual FITS files [in this directory for C3](https://archive.stsci.edu/missions/k2/target_pixel_files/old_release_bundles/c3/c3_old_release_files/) and [in this directory](https://archive.stsci.edu/missions/k2/target_pixel_files/old_release_bundles/c5/c5_old_release_files/) for C5. Note that these directories follow the usual MAST K2 directory structure of /XXXX00000/YY000/, where the EPIC ID is XXXXYYZZZ (e.g., data for EPIC 211934173 can be found under /211900000/34000/). Also note that the previous processing of C2 (<a href="k2-pipeline-release-notes.html#data-release-4">Data Release 4</a>) was also affected, and thus no non-affected files currently exist for C2.
 
 <br>
 
