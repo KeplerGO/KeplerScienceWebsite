@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2019-06-17" />
+    <meta name="dc.date.modified" content="2019-07-14" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -2852,6 +2852,21 @@ table giving 6.5-hr CDPP as a function of magnitude.</a></p>
 <img alt="CDPP measured for all targets as a function of Kepler magnitude." class="img-responsive" src="images/release-notes/c5/cdpp_vs_mag_dr31.png"/>
 </a>
 </div></p>
+<p><br/></p>
+<p><strong><em>Incorrect pixel-level calibration of some short-cadence TPFs</em></strong></p>
+<p>Due to a processing error in <a href="k2-pipeline-release-notes.html#data-release-31">Data Release 31</a>, there are 74 C5 short-cadence targets that had incorrect calibration of their short-cadence pixel-level data. (Long cadence data is unaffected.) The list of affected C5 targets is below. Although it is estimated that only ~25% of them are affected at a non-negligible level, users are strongly encouraged to examine their target, if it is on the list below, to check the severity level and evaluate potential science impact. For a more detailed description of this issue, along with per-target diagnostics and a link to short-cadence TPFs from a previous processing that was not affected by this error, <a href="incorrect-pixel-level-calibration-of-short-cadence-tpfs-for-some-c2r-c3r-and-c5r-targets.html">please read this news post</a>.</p>
+<p>211383343  211401610  211403555  211407836  211408116  211408138  211408522<br/>
+211408990  211409011  211409345  211409348  211409376  211409644  211410664<br/>
+211410931  211412077  211412252  211414203  211416577  211417812  211427749<br/>
+211429653  211480655  211529191  211565467  211569404  211596649  211623711<br/>
+211630249  211642294  211686003  211696659  211708181  211730342  211765471<br/>
+211779126  211808853  211846489  211888384  211892034  211902739  211909987<br/>
+211912407  211916015  211918335  211918500  211920612  211927867  211929178<br/>
+211931736  211934173  211936827  211948678  211950227  211950703  211951863<br/>
+211952381  211954226  211954550  211957988  211972627  211975006  211979334<br/>
+211980170  211980688  211988287  211992776  211995547  212001099  212100422<br/>
+212104541  212160442  212173112  228682517</p>
+<p><br/></p>
 <!--
 
 The dominant systematic present in K2 simple aperture photometry light curves is a sawtooth shape that is due to the roll of the spacecraft approximately every 6 hours. The PDC module of the Kepler Pipeline uses Principle Component Analysis to remove this signal in addition to other systematics. Below, we examine observed noise levels in the PDC light curves for C5, Data Release 7.
@@ -2867,7 +2882,6 @@ The dominant systematic present in K2 simple aperture photometry light curves is
     </a>
 </div>
 -->
-<p><br/></p>
 <hr/>
 <h1 id="k2-campaign-4">K2 Campaign 4</h1>
 <h2>At a glance</h2>
@@ -3107,6 +3121,18 @@ table giving 6.5-hr CDPP as a function of magnitude.</a></p>
 </a>
 </div>
 <p><br/></p>
+<p><strong><em>Incorrect pixel-level calibration of some short-cadence TPFs</em></strong></p>
+<p>Due to a processing error in <a href="k2-pipeline-release-notes.html#data-release-26">Data Release 26</a>, there are 57 C3 short-cadence targets that had incorrect calibration of their short-cadence pixel-level data. (Long cadence data is unaffected.) The list of affected C3 targets is below. Although it is estimated that only ~25% of them are affected at a non-negligible level, users are strongly encouraged to examine their target, if it is on the list below, to check the severity level and evaluate potential science impact. For a more detailed description of this issue, along with per-target diagnostics and a link to short-cadence TPFs from a previous processing that was not affected by this error, <a href="incorrect-pixel-level-calibration-of-short-cadence-tpfs-for-some-c2r-c3r-and-c5r-targets.html">please read this news post</a>.</p>
+<p>200004841  200004843  200004844  200004845  200004846  200004847  200004848<br/>
+200004849  200004851  205917956  205924248  205962429  205967173  205974115<br/>
+205979004  205982900  205995584  205997466  206003187  206009487  206020725<br/>
+206053352  206054604  206064678  206064711  206070413  206078331  206085353<br/>
+206088888  206094605  206103150  206107253  206108325  206135809  206154641<br/>
+206167112  206169988  206180842  206183149  206184719  206189170  206189649<br/>
+206201061  206225297  206245055  206262336  206270336  206289686  206289767<br/>
+206292760  206359447  206368174  206371648  206445085  206453540  206496452<br/>
+206535752</p>
+<p><br/></p>
 <hr/>
 <h1 id="k2-campaign-2">K2 Campaign 2</h1>
 <p>These release notes are for the C2 data currently available at MAST in the nominal K2 data locations, which have been processed with the final version of the K2 pipeline as part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a>. The original release notes corresponding to the previous version(s) of C2 data can be found in the <a href="archived-k2-data-release-notes.html#k2-campaign-2">archived data release notes page</a>.</p>
@@ -3256,6 +3282,16 @@ table giving 6.5-hr CDPP as a function of magnitude.</a></p>
 <p>As part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a>, cadences are no longer automatically gapped based on the "Spacecraft is not in fine point" (QUALITY flag bit #16, decimal=32768) flag. Instead, the Kepler/K2 Science Office sets the "Spacecraft is in coarse point" flag (QUALITY flag bit #3, decimal=4) flag based on inspection of the actual pointing data for the campaign using high-frequency sub-cadence telemetry. For C2, the spacecraft was technically in 'coarse point' for LC cadences 95687–95696, which are early on in the campaign. However, the pointing was stable to ~2 pixels during this time period, which given the large size of the collected pixel-stamps for each target in C2 (3–4 pixels in a 'halo' around every target were collected), the decision was made to not set the "Spacecraft is in coarse point" flag (QUALITY flag bit #3, decimal=4) for these cadences.</p>
 <p>While the targets did remain on downloaded pixels during this cadence range, a significant fraction of their flux came in and out of the pipeline-computed optimal photometric apertures. For the PA and PDC lightcurves, this results in some significant outliers during this cadence range, including some negative flux values. Consequently the CDPP (a measure of the detrended lightcurve scatter) is higher due both to the outliers themselves, and the PDC module likely wasting some of its 'detrending power' on trying to correct outliers instead of broader systematic features.</p>
 <p>If users are utilizing the PA or PDC lightcurves, it is recommended that they discard the cadences in this range. However, if users are producing their own light curves, as long as their own photometric apertures are sufficiently large to capture each target's flux given the extra motion, or if their light-curve production/detrending technique utilizes all the pixels in the image, then these cadences should still be usable and result in good data.</p>
+<p><br/></p>
+<p><strong><em>Incorrect pixel-level calibration of some short-cadence TPFs</em></strong></p>
+<p>Due to a processing error in <a href="k2-pipeline-release-notes.html#data-release-21">Data Release 21</a>, there are 44 C2 short-cadence targets that had incorrect calibration of their short-cadence pixel-level data. (Long cadence data is unaffected.) The list of affected C2 targets is below. Although it is estimated that only ~25% of them are affected at a non-negligible level, users are strongly encouraged to examine their target, if it is on the list below, to check the severity level and evaluate potential science impact. For a more detailed description of this issue, along with per-target diagnostics, <a href="incorrect-pixel-level-calibration-of-short-cadence-tpfs-for-some-c2r-c3r-and-c5r-targets.html">please read this news post</a>.</p>
+<p>202717132  203092367  203393495  203514293  203633963  203734535  203761347<br/>
+203770817  203836090  203889365  203907143  203927020  203937317  204141790<br/>
+204226766  204241221  204296786  204313397  204356572  204371831  204372172<br/>
+204399980  204490599  204494885  204506777  204506926  204514548  204550630<br/>
+204595607  204624076  204638251  204662993  204819556  204926239  204951731<br/>
+204959839  204987685  205010433  205089975  205204563  205211890  205311975<br/>
+205467732  205703810</p>
 <p><br/></p>
 <p><strong><em>KIC 204241221 Short-Cadence Dynablack Bug</em></strong></p>
 <p>KIC 204241221 is a V=8.7, A9V star with potentially observable asteroseismic signatures. Due to a bug in the K2 pipeline, Dynablack (<a href="k2-uniform-global-reprocessing-underway.html">see news post here</a>) was not run on the short-cadence pixel-level data for this target — the pipeline defaulted to the original CAL module. (Note that the long-cadence data did have Dynablack successfully run for this target.) The end result is minor, namely that the short-cadence TPF and lightcurve files for 204241221 will not have the benefits of Dynablack, e.g., the correction of potential cross-talk from the fine guidance sensors and rolling-band flags.</p>
@@ -3561,12 +3597,12 @@ for C18 is less than 2.1 pixels, substantially under the 10-pixel limit accommod
 <p>Since the necessary pixels were not collected in C0, note there are no artifact removal pixel (ARP) files available for C0 (see <a href="https://archive.stsci.edu/kepler/manuals/archive_manual.pdf#page=51">S2.3.8 of the Kepler Archive Manual</a>).</p>
 <p><br/></p>
 <p><strong><em>48 Targets Without Lightcurves</em></strong></p>
-<p>The following 48 targets do not have associated lightcurve files, because the pipeline was unable to find a suitable photometric aperture for these targets. In general they are non-standard targets, such as clusters or very bright objects, or there is no significant flux at the target position. Users are encouraged to create their own lightcurves for these objects from the existing target pixel files using software such as see <a href="https://docs.lightkurve.org">lightkurve Python package</a> or <a href="http://pyke.keplerscience.org">PyKE software tool suite</a>.</p>
+<p>The following 48 targets do not have associated lightcurve files, because the pipeline was unable to find a suitable photometric aperture for these targets. In general they are non-standard targets, such as clusters or very bright objects, or there is no significant flux at the target position. Users are encouraged to create their own lightcurves for these objects from the existing target pixel files using software such as <a href="https://docs.lightkurve.org">lightkurve Python package</a>, <a href="http://pyke.keplerscience.org">PyKE software tool suite</a>, or <a href="software.html">other packages</a>.</p>
 <p>202060164  202060210  202060421  202060813  202065115  202065116<br/>
 202065117  202065118  202065119  202065120  202065121  202065122<br/>
 202065123  202065124  202065125  202065126  202065127  202065128<br/>
 202065129  202065130  202065131  202065132  202065133  202065134<br/>
-202065135 &amp;sp202065136  202071440  202071443  202071445  202071446<br/>
+202065135  202065136  202071440  202071443  202071445  202071446<br/>
 202071448  202071450  202072947  202072959  202072962  202072982<br/>
 202073036  202073099  202073125  202073136  202073152  202073290<br/>
 202073323  202073354  202073360  202073364  202073377  202073415<br/></p>
@@ -3582,7 +3618,29 @@ for C18 is less than 2.1 pixels, substantially under the 10-pixel limit accommod
 <p>For the K2 Mission, only one guide star was observed for each fine-guidance sensor. (Kepler had ten per sensor.) This change was demanded by the need for increased aperture sizes given the uncertainties in the star-tracker to boresight alignment, and the need to acquire an entirely new field-of-view every 80 to 90 days. To compensate for the increased sensor noise and assure that fine-point lock could be achieved, the attitude determination and control system (ADCS) bandwidth for K2 was set to 0.02 Hz for C0, C1, and C2. (Kepler used 0.1 Hz.) This low bandwidth meant that the cross-boresight attitude (i.e., RA and Dec) had a time constant of 50 seconds, which is comparable to the short-cadence duration of 58.89 seconds. As a result, pointing-induced noise is correlated from cadence to cadence for short-cadence observations, resulting in significantly increased photometric jitter for short-cadence lightcurves. It is likely that long-cadence lightcurves also have a slightly increased photometric jitter due to the low ADCS bandwith. Starting with C3, the ADCS bandwidth was increased to 0.05 Hz (20 seconds) to mitigate this effect.</p>
 <p><br/></p>
 <p><strong><em>Light Curve Quality</em></strong></p>
-<p>The 6-hour spacecraft roll cycle dominates the systematic errors in C0 simple aperture photometry light curves. The pipeline CDPP 12th magnitude noise benchmark for C0 is unavailable at the time of this writing, but will added when available. In general PDCSAP_FLUX photometric quality (produced only for the last ~37 days of the campaign) should be comparable to later campaigns.</p>
+<p>The 6-hour spacecraft roll cycle dominates the systematic errors in C0 simple aperture photometry light curves. In general the PDCSAP_FLUX photometric quality (produced only for the last ~37 days of the campaign) is comparable to later campaigns.</p>
+<p>The magnitude dependence of CDPP and its distribution over the focal
+plane are shown below. Other CDPP benchmarks can be found in the
+<a href="images/release-notes/c0/c0_bin1.00_sc1.00_CDPP_Summary_19052401.txt">
+table giving 6.5-hr CDPP as a function of magnitude.</a></p>
+<p><br/>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C0-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>
+</div>
+<a href="images/release-notes/c0/cdpp_vs_mag_dr28.png">
+<img alt="CDPP measured for all targets as a function of Kepler magnitude." class="img-responsive" src="images/release-notes/c0/cdpp_vs_mag_dr28.png"/>
+</a>
+</div></p>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C0-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
+</div>
+<a href="images/release-notes/c0/c0_dwarf_CDPP_by_mod_out_dr28.png">
+<img alt="CDPP per channel for 12th and 14th magnitude dwarfs" class="img-responsive" src="images/release-notes/c0/c0_dwarf_CDPP_by_mod_out_dr28.png"/>
+</a>
+</div>
+<p><br/></p>
 <hr/>
 <h1 id="two-wheel-concept-engineering-test">Two-wheel Concept Engineering Test</h1>
 <h2>At a glance</h2>
@@ -3687,7 +3745,7 @@ document.write(document.lastModified);
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Mon 17 June 2019
+         Last modified: Sun 14 July 2019
             &middot; Editor: Geert Barentsen &middot; NASA Official: Jessie Dotson
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
