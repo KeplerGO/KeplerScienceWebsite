@@ -12,8 +12,6 @@ The incorrect calibration was documented via [KSCI-19080-002.pdf](data/documenta
 
 As part of the K2 [global uniform reprocessing effort](k2-uniform-global-reprocessing-underway.html) the mission set up a second computing cluster to be able to process two campaigns simultaneously. Unfortunately, a misconfiguration in the setup of this second cluster resulted in the original PMRF files being used for the recently reprocessed C2, C3, and C5 data. This resulted again in the incorrect calibration of the short-cadence target pixel files (TPFs) of select targets in C2, C3, and C5. No other campaigns were affected. Of the 474 short-cadence target files among these three campaigns, from the investigation documented in [KSCI-19080-002.pdf](data/documentation/KSCI-19080-002.pdf) we know that 175 are possibly affected at any level, and ~25% of those 175 targets are affected at a non-negligible level. [Click here to get the list of the 175 affected targets.](/data/documentation/k2_reproc_c2_c3_c5_bad_short_cadence_target_list.csv)
 
-
-
 <br>
 
 ### What should users do if their target is impacted?
@@ -28,9 +26,13 @@ The previous processing of C2 (<a href="k2-pipeline-release-notes.html#data-rele
 
 We further investigated the impact to individual targets by comparing the short- and long-cadence TPFs and lightcurves. In general, when thirty short-cadence exposures are summed to match the corresponding long-cadence exposure, it should result in nearly identical fluxes &mdash; when it does not, that is a good indication that there is likely a discrepancy in the short- vs long-cadence pixel-level calibration. Some differences will naturally occur due to slight variations in how the short- and long-cadence pixels are calibrated, but for most targets, large differences likely indicate the PMRF issue. This is especially true when an anomalously bright or dark column is seen in the short-cadence TPF (e.g., see the example of 211934173 below). We computed the standard deviation (in ppm) of the difference between the short-cadence lightcurve (summed every thirty short cadences) and the long-cadence lightcurve for each target in C2, C3, and C5. [Click here for the list of values for each possibly affected target](/data/documentation/k2_reproc_c2_c3_c5_short_long_lightcurve_diff_std.csv). (Note that for 4 targets the metric was unable to be computed.)
 
-In addition, we are providing plots for each target to aid in visually diagnosing significantly affected targets. The plots show the short- and long-cadence lightcuves and their differences, which visually demonstrates the size of the signal due to the PMRF issue compared to the lightcurve. In addition, we summed up every 30 short-cadence pixel-level images and computed the difference to the corresponding long-cadence image. The plots also show the median of these differenced images, which will reveal bright or dark vertical stripes when the target is affected. The amplitude of this difference image, compared to the overall flux of the object, is also helpful in diagnosing the severity of the impact on each target on a desired scientific investigation. [Clik here for diagnostic plots of all C2, C3, and C5 targets](/images/news/pmrf/).
+In addition, we are providing plots for each target to aid in visually diagnosing significantly affected targets. The plots show the short- and long-cadence lightcuves and their differences, which visually demonstrates the size of the signal due to the PMRF issue compared to the lightcurve. In addition, we summed up every 30 short-cadence pixel-level images and computed the difference to the corresponding long-cadence image. The plots also show the median of these differenced images, which will reveal bright or dark vertical stripes when the target is affected. The amplitude of this difference image, compared to the overall flux of the object, is also helpful in diagnosing the severity of the impact on each target on a desired scientific investigation. [Click here for diagnostic plots of all C2, C3, and C5 targets](/images/news/pmrf/).
 
 Users are encouraged to check the long- vs short-cadence difference metric, as well as the individual plots, for all possibly affected targets to gauge the possible scientific impact. Note that 9 of the 161 one-pixel wide strips used to observe Neptune in C3 are affected.
+
+<br>
+
+If users have any questions about the data or provided plots/analysis, please contact [the Kepler/K2 helpdesk](https://keplerscience.arc.nasa.gov/helpdesk.html) at keplergo@mail.arc.nasa.gov.
 
 <br>
 
