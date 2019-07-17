@@ -1,5 +1,5 @@
 Title: Incorrect pixel-level calibration of short-cadence TPFs for some C2R, C3R, and C5R targets
-Date: 2019-07-14 12:00
+Date: 2019-07-16 17:00
 Author: Jeff Coughlin and Geert Barentsen
 
 There is an issue that affects the calibrated data in some of the the short-cadence target-pixel files (and resulting short-cadence lightcurves) for the most recent C2, C3, and C5 deliveries (Data Releases 21, 26, and 31).
