@@ -4,7 +4,7 @@ Author: Jeff Coughlin and Geert Barentsen
 
 There is an issue that affects the calibrated data in some of the the short-cadence target-pixel files (and resulting short-cadence lightcurves) for the most recent C2, C3, and C5 deliveries (Data Releases 21, 26, and 31).
 
-### What is it?
+<u> ** What is it? ** </u>
 
 Previously [we announced](problem-with-kepler-and-k2-short-cadence-pixel-calibration.html) that the short-cadence data for some targets in Kepler and early (C0&ndash;C5) K2 campaigns were incorrectly calibrated. Specifically, due to an ambiguous technical specification describing the Pixel Mapping Reference File (PMRF), the collateral smear data correction, used to correct for the effects of Kepler’s shutterless readout, was sometimes applied to the wrong target when calibrating the short-cadence pixel-level data. This can result in an additive effect on individual pixels, as well as a time-varying signal, visible as vertical stripes in the short-cadence images, as shown in the figures at the bottom of the page. (See [§2.6.3 of the Kepler Instrument Handbook](https://archive.stsci.edu/files/live/sites/mast/files/home/missions-and-data/kepler/_documents/KSCI-19033-002-instrument-hb.pdf#page=25) and [§5.3.7 of the Kepler Data Processing Handbook](https://archive.stsci.edu/files/live/sites/mast/files/home/missions-and-data/kepler/_documents/KSCI-19081-002-KDPH.pdf#page=120) for detailed descriptions of smear correction.) Note that the long-cadence data for these or other targets was *not* affected.
 
@@ -14,7 +14,7 @@ As part of the K2 [global uniform reprocessing effort](k2-uniform-global-reproce
 
 <br>
 
-### What should users do if their target is impacted?
+<u> ** What should users do if their target is impacted? ** </u>
 
 We recommend that users whose C3 or C5 targets are impacted (at any level) use the previous processing (Data Release 10) of C3 and C5, available at MAST as individual FITS files [in this directory for C3](https://archive.stsci.edu/missions/k2/target_pixel_files/old_release_bundles/c3/c3_old_release_files/) and [in this directory for C5](https://archive.stsci.edu/missions/k2/target_pixel_files/old_release_bundles/c5/c5_old_release_files/). Note that these directories follow the usual MAST K2 directory structure of /XXXX00000/YY000/, where the EPIC ID is XXXXYYZZZ (e.g., data for EPIC 211934173 can be found under /211900000/34000/).
 
@@ -22,7 +22,7 @@ The previous processing of C2 (<a href="k2-pipeline-release-notes.html#data-rele
 
 <br>
 
-### Which targets are most impacted and what do they look like?
+<u> ** Which targets are most impacted and what do they look like? ** </u>
 
 We further investigated the impact to individual targets by comparing the short- and long-cadence TPFs and lightcurves. In general, when thirty short-cadence exposures are summed to match the corresponding long-cadence exposure, it should result in nearly identical fluxes &mdash; when it does not, that is a good indication that there is likely a discrepancy in the short- vs long-cadence pixel-level calibration. Some differences will naturally occur due to slight variations in how the short- and long-cadence pixels are calibrated, but for most targets, large differences likely indicate the PMRF issue. This is especially true when an anomalously bright or dark column is seen in the short-cadence TPF (e.g., see the example of 211934173 below). We computed the standard deviation (in ppm) of the difference between the short-cadence lightcurve (summed every thirty short cadences) and the long-cadence lightcurve for each target in C2, C3, and C5. [Click here for the list of values for each possibly affected target](/data/documentation/k2_reproc_c2_c3_c5_short_long_lightcurve_diff_std.csv). (Note that for 4 targets the metric was unable to be computed.)
 
@@ -32,7 +32,7 @@ Users are encouraged to check the long- vs short-cadence difference metric, as w
 
 <br>
 
-**If users have any questions about the data or the provided plots/analysis, please contact [the Kepler/K2 helpdesk](https://keplerscience.arc.nasa.gov/helpdesk.html) at keplergo@mail.arc.nasa.gov.**
+**If users have any questions about the data or the provided plots/analysis, please contact [the Kepler/K2 helpdesk](https://keplerscience.arc.nasa.gov/helpdesk.html) at <keplergo@mail.arc.nasa.gov>.**
 
 <br>
 
