@@ -1404,7 +1404,6 @@ starting at 2017-05-25 11:16:28 UTC (cadence numbers 144715-144726).
 
 <h2>Data Quality and Processing Notes</h2>
 
-
 ***Light Curve Quality***
 
 As in previous campaigns, the 6-hour spacecraft roll cycle continues to dominate the systematic errors in C13 simple aperture photometry light curves.
@@ -3502,7 +3501,25 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 </a>
 </div>
 
+<br>
 
+***Incorrect pixel-level calibration of some short-cadence TPFs***
+
+Due to a processing error in <a href="k2-pipeline-release-notes.html#data-release-31">Data Release 31</a>, there are 74 C5 short-cadence targets that had incorrect calibration of their short-cadence pixel-level data. (Long cadence data is unaffected.) The list of affected C5 targets is below. Although it is estimated that only ~25% of them are affected at a non-negligible level, users are strongly encouraged to examine their target, if it is on the list below, to check the severity level and evaluate potential science impact. For a more detailed description of this issue, along with per-target diagnostics and a link to short-cadence TPFs from a previous processing that was not affected by this error, [please read this news post](incorrect-pixel-level-calibration-of-short-cadence-tpfs-for-some-c2r-c3r-and-c5r-targets.html).
+
+211383343&emsp;&emsp;211401610&emsp;&emsp;211403555&emsp;&emsp;211407836&emsp;&emsp;211408116&emsp;&emsp;211408138&emsp;&emsp;211408522<br>
+211408990&emsp;&emsp;211409011&emsp;&emsp;211409345&emsp;&emsp;211409348&emsp;&emsp;211409376&emsp;&emsp;211409644&emsp;&emsp;211410664<br>
+211410931&emsp;&emsp;211412077&emsp;&emsp;211412252&emsp;&emsp;211414203&emsp;&emsp;211416577&emsp;&emsp;211417812&emsp;&emsp;211427749<br>
+211429653&emsp;&emsp;211480655&emsp;&emsp;211529191&emsp;&emsp;211565467&emsp;&emsp;211569404&emsp;&emsp;211596649&emsp;&emsp;211623711<br>
+211630249&emsp;&emsp;211642294&emsp;&emsp;211686003&emsp;&emsp;211696659&emsp;&emsp;211708181&emsp;&emsp;211730342&emsp;&emsp;211765471<br>
+211779126&emsp;&emsp;211808853&emsp;&emsp;211846489&emsp;&emsp;211888384&emsp;&emsp;211892034&emsp;&emsp;211902739&emsp;&emsp;211909987<br>
+211912407&emsp;&emsp;211916015&emsp;&emsp;211918335&emsp;&emsp;211918500&emsp;&emsp;211920612&emsp;&emsp;211927867&emsp;&emsp;211929178<br>
+211931736&emsp;&emsp;211934173&emsp;&emsp;211936827&emsp;&emsp;211948678&emsp;&emsp;211950227&emsp;&emsp;211950703&emsp;&emsp;211951863<br>
+211952381&emsp;&emsp;211954226&emsp;&emsp;211954550&emsp;&emsp;211957988&emsp;&emsp;211972627&emsp;&emsp;211975006&emsp;&emsp;211979334<br>
+211980170&emsp;&emsp;211980688&emsp;&emsp;211988287&emsp;&emsp;211992776&emsp;&emsp;211995547&emsp;&emsp;212001099&emsp;&emsp;212100422<br>
+212104541&emsp;&emsp;212160442&emsp;&emsp;212173112&emsp;&emsp;228682517
+
+<br>
 
 
 <!--
@@ -3521,7 +3538,7 @@ The dominant systematic present in K2 simple aperture photometry light curves is
 </div>
 -->
 
-<br>
+
 
 <hr>
 
@@ -3860,11 +3877,25 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 </a>
 </div>
 
+<br>
+
+***Incorrect pixel-level calibration of some short-cadence TPFs***
+
+Due to a processing error in <a href="k2-pipeline-release-notes.html#data-release-26">Data Release 26</a>, there are 57 C3 short-cadence targets that had incorrect calibration of their short-cadence pixel-level data. (Long cadence data is unaffected.) The list of affected C3 targets is below. Although it is estimated that only ~25% of them are affected at a non-negligible level, users are strongly encouraged to examine their target, if it is on the list below, to check the severity level and evaluate potential science impact. For a more detailed description of this issue, along with per-target diagnostics and a link to short-cadence TPFs from a previous processing that was not affected by this error, [please read this news post](incorrect-pixel-level-calibration-of-short-cadence-tpfs-for-some-c2r-c3r-and-c5r-targets.html).
+
+200004841&emsp;&emsp;200004843&emsp;&emsp;200004844&emsp;&emsp;200004845&emsp;&emsp;200004846&emsp;&emsp;200004847&emsp;&emsp;200004848<br>
+200004849&emsp;&emsp;200004851&emsp;&emsp;205917956&emsp;&emsp;205924248&emsp;&emsp;205962429&emsp;&emsp;205967173&emsp;&emsp;205974115<br>
+205979004&emsp;&emsp;205982900&emsp;&emsp;205995584&emsp;&emsp;205997466&emsp;&emsp;206003187&emsp;&emsp;206009487&emsp;&emsp;206020725<br>
+206053352&emsp;&emsp;206054604&emsp;&emsp;206064678&emsp;&emsp;206064711&emsp;&emsp;206070413&emsp;&emsp;206078331&emsp;&emsp;206085353<br>
+206088888&emsp;&emsp;206094605&emsp;&emsp;206103150&emsp;&emsp;206107253&emsp;&emsp;206108325&emsp;&emsp;206135809&emsp;&emsp;206154641<br>
+206167112&emsp;&emsp;206169988&emsp;&emsp;206180842&emsp;&emsp;206183149&emsp;&emsp;206184719&emsp;&emsp;206189170&emsp;&emsp;206189649<br>
+206201061&emsp;&emsp;206225297&emsp;&emsp;206245055&emsp;&emsp;206262336&emsp;&emsp;206270336&emsp;&emsp;206289686&emsp;&emsp;206289767<br>
+206292760&emsp;&emsp;206359447&emsp;&emsp;206368174&emsp;&emsp;206371648&emsp;&emsp;206445085&emsp;&emsp;206453540&emsp;&emsp;206496452<br>
+206535752
 
 <br>
 
 <hr>
-
 
 
 # K2 Campaign 2
@@ -4073,6 +4104,19 @@ If users are utilizing the PA or PDC lightcurves, it is recommended that they di
 
 <br>
 
+***Incorrect pixel-level calibration of some short-cadence TPFs***
+
+Due to a processing error in <a href="k2-pipeline-release-notes.html#data-release-21">Data Release 21</a>, there are 44 C2 short-cadence targets that had incorrect calibration of their short-cadence pixel-level data. (Long cadence data is unaffected.) The list of affected C2 targets is below. Although it is estimated that only ~25% of them are affected at a non-negligible level, users are strongly encouraged to examine their target, if it is on the list below, to check the severity level and evaluate potential science impact. For a more detailed description of this issue, along with per-target diagnostics, [please read this news post](incorrect-pixel-level-calibration-of-short-cadence-tpfs-for-some-c2r-c3r-and-c5r-targets.html).
+
+202717132&emsp;&emsp;203092367&emsp;&emsp;203393495&emsp;&emsp;203514293&emsp;&emsp;203633963&emsp;&emsp;203734535&emsp;&emsp;203761347<br>
+203770817&emsp;&emsp;203836090&emsp;&emsp;203889365&emsp;&emsp;203907143&emsp;&emsp;203927020&emsp;&emsp;203937317&emsp;&emsp;204141790<br>
+204226766&emsp;&emsp;204241221&emsp;&emsp;204296786&emsp;&emsp;204313397&emsp;&emsp;204356572&emsp;&emsp;204371831&emsp;&emsp;204372172<br>
+204399980&emsp;&emsp;204490599&emsp;&emsp;204494885&emsp;&emsp;204506777&emsp;&emsp;204506926&emsp;&emsp;204514548&emsp;&emsp;204550630<br>
+204595607&emsp;&emsp;204624076&emsp;&emsp;204638251&emsp;&emsp;204662993&emsp;&emsp;204819556&emsp;&emsp;204926239&emsp;&emsp;204951731<br>
+204959839&emsp;&emsp;204987685&emsp;&emsp;205010433&emsp;&emsp;205089975&emsp;&emsp;205204563&emsp;&emsp;205211890&emsp;&emsp;205311975<br>
+205467732&emsp;&emsp;205703810
+
+<br>
 
 ***KIC 204241221 Short-Cadence Dynablack Bug***
 
@@ -4504,7 +4548,7 @@ Since the necessary pixels were not collected in C0, note there are no artifact 
 
 ***48 Targets Without Lightcurves***
 
-The following 48 targets do not have associated lightcurve files, because the pipeline was unable to find a suitable photometric aperture for these targets. In general they are non-standard targets, such as clusters or very bright objects, or there is no significant flux at the target position. Users are encouraged to create their own lightcurves for these objects from the existing target pixel files using software such as see [lightkurve Python package](https://docs.lightkurve.org) or [PyKE software tool suite](http://pyke.keplerscience.org).
+The following 48 targets do not have associated lightcurve files, because the pipeline was unable to find a suitable photometric aperture for these targets. In general they are non-standard targets, such as clusters or very bright objects, or there is no significant flux at the target position. Users are encouraged to create their own lightcurves for these objects from the existing target pixel files using software such as [lightkurve Python package](https://docs.lightkurve.org), [PyKE software tool suite](http://pyke.keplerscience.org), or [other packages](software.html).
 
 
 202060164&emsp;&emsp;202060210&emsp;&emsp;202060421&emsp;&emsp;202060813&emsp;&emsp;202065115&emsp;&emsp;202065116<br>
