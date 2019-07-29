@@ -1,27 +1,14 @@
-Title: Kepler/K2 software tools
+Title: Kepler/K2 community software tools
 Save_as: software.html
 
 [TOC]
 
 ## Overview
 
-<h4>GO Office tools</h4>
-
-Below is a list of software tools created by the Kepler/K2 Guest
-Observer Office for use in preparing for Kepler and K2 observations
-and for analyzing the collected data.
+Below is a list of software tools created by the community for use in preparing for Kepler and K2 observations
+and for analyzing the collected data.  Note that these tools are not official NASA software products (with the exception of PyKE).
 
 <table class="table table-striped table-hover" style="max-width:50em;">
-
-<tr>
-    <td><a href="/software.html#lightkurve">lightkurve</a></td>
-    <td>
-        The Lightkurve Python package offers a user-friendly way to analyze the pixels and light curves obtained by NASA’s Kepler, K2, and TESS missions.
-    </td>
-    <td>
-        <a href="https://keplerscience.arc.nasa.gov/lightkurve">https://keplerscience.arc.nasa.gov/lightkurve</a>
-    </td>
-</tr>
 
 <tr>
     <td><a href="/software.html#pyke">PyKE</a></td>
@@ -30,6 +17,16 @@ and for analyzing the collected data.
     </td>
     <td>
         <a href="https://github.com/nasa/Kepler-PyKE">github.com/nasa/Kepler-PyKE</a>
+    </td>
+</tr>
+
+<tr>
+    <td><a href="/software.html#lightkurve">Lightkurve</a></td>
+    <td>
+        The Lightkurve Python package offers a user-friendly way to analyze the pixels and light curves obtained by Kepler, K2, and TESS.
+    </td>
+    <td>
+         <a href="https://github.com/KeplerGO/lightkurve">github.com/KeplerGO/lightkurve</a>
     </td>
 </tr>
 
@@ -87,11 +84,9 @@ and for analyzing the collected data.
 </table>
 
 
-<h4>Community-contributed tools</h4>
-
-Members of the community have made a range of tools available.
-A non-exhaustive list of community tools is available on
-the ["Other software" page](https://docs.lightkurve.org/about/other_software.html) on the documentation website of the [Lightkurve package](https://docs.lightkurve.org).
+A non-exhaustive list of additional community tools is available on
+the ["Other software" page](https://docs.lightkurve.org/about/other_software.html) on the documentation website
+of the [Lightkurve package](https://docs.lightkurve.org).
 
 
 
@@ -210,7 +205,7 @@ Or you can type *K2ephem --help* to see the detailed usage instructions:
 
 Documentation website: [docs.lightkurve.org](https://docs.lightkurve.org).
 
-The lightkurve Python package offers a user-friendly way to analyze astronomical flux time series data, in particular the pixels and lightcurves obtained by NASA’s Kepler, K2, and TESS missions.
+The lightkurve Python package offers a user-friendly way to analyze astronomical flux time series data, in particular the pixels and lightcurves obtained by Kepler, K2, and TESS.
 
 This package aims to lower the barrier for both students, astronomers, and citizen scientists interested in analyzing Kepler and TESS space telescope data. It does this by providing high-quality building blocks and tutorials which enable both hand-tailored data analyses and advanced automated pipelines.
 
