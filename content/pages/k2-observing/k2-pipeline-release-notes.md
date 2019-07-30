@@ -9,6 +9,18 @@ For more information about the Kepler pipeline see the Kepler manuals: <a href="
 
 Information about each specific campaign can be found in the links associated with each data release.
 
+### Data Release 33
+
+* July 2019
+* SOC 9.3
+* Campaigns: [C4](k2-data-release-notes.html#k2-campaign-4)
+
+This is the delivery of the expected-to-be final processing of C4 as part of the <a href="k2-uniform-global-reprocessing-underway.html">global uniform reprocessing effort</a>.
+
+No features of the pipeline or data files have changed from Data Release 32 (but there have been numerous changes the last release of C4 data under Data Releases 6 and 10). For further information about the content of this delivery see the previous Release Notes below and the <a href="k2-uniform-global-reprocessing-underway.html">news post on global reprocessing</a>.
+
+<hr>
+
 ### Data Release 32
 
 * June 2019
@@ -29,7 +41,7 @@ No features of the pipeline or data files have changed from Data Release 31 (but
 
 This is the delivery of the expected-to-be final processing of C5 as part of the <a href="k2-uniform-global-reprocessing-underway.html">global uniform reprocessing effort</a>.
 
-No features of the pipeline or data files have changed from Data Release 30 (but there have been numerous changes the last release of C5 data under Data Release 10). For further information about the content of this delivery see the previous Release Notes below and the <a href="k2-uniform-global-reprocessing-underway.html">news post on global reprocessing</a>.
+No features of the pipeline or data files have changed from Data Release 30 (but there have been numerous changes the last release of C5 data under Data Releases 7 and 10). For further information about the content of this delivery see the previous Release Notes below and the <a href="k2-uniform-global-reprocessing-underway.html">news post on global reprocessing</a>.
 
 <hr>
 
@@ -87,7 +99,7 @@ For further information about the content of this delivery see the previous Rele
 
 This is the delivery of the expected-to-be final processing of C3 as part of the <a href="k2-uniform-global-reprocessing-underway.html">global uniform reprocessing effort</a>.
 
-No features of the pipeline or data files have changed from Data Release 25 (but there have been numerous changes the last release of C3 data under Data Release 10). For further information about the content of this delivery see the previous Release Notes below and the <a href="k2-uniform-global-reprocessing-underway.html">news post on global reprocessing</a>.
+No features of the pipeline or data files have changed from Data Release 25 (but there have been numerous changes the last release of C3 data under Data Releases 5 and 10). For further information about the content of this delivery see the previous Release Notes below and the <a href="k2-uniform-global-reprocessing-underway.html">news post on global reprocessing</a>.
 
 <hr>
 
