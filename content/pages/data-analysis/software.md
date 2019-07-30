@@ -6,7 +6,7 @@ Save_as: software.html
 ## Overview
 
 Below is a list of software tools created by the community for use in preparing for Kepler and K2 observations
-and for analyzing the collected data.  Note that these tools are not official NASA software products (with the exception of PyKE).
+and for analyzing the collected data.  <b>Note that these tools are not official NASA software products (with the exception of PyKE).</b>
 
 <table class="table table-striped table-hover" style="max-width:50em;">
 
@@ -26,7 +26,6 @@ and for analyzing the collected data.  Note that these tools are not official NA
         The Lightkurve Python package offers a user-friendly way to analyze the pixels and light curves obtained by Kepler, K2, and TESS.
     </td>
     <td>
-         <a href="https://github.com/KeplerGO/lightkurve">github.com/KeplerGO/lightkurve</a>
     </td>
 </tr>
 
@@ -37,7 +36,6 @@ and for analyzing the collected data.  Note that these tools are not official NA
         of a K2 campaign.
     </td>
     <td>
-        <a href="https://github.com/KeplerGO/K2fov">github.com/KeplerGO/K2fov</a>
     </td>
 </tr>
 
@@ -48,7 +46,6 @@ and for analyzing the collected data.  Note that these tools are not official NA
         falls within the field of view of any K2 campaign.
     </td>
     <td>
-        <a href="https://github.com/KeplerGO/K2ephem">github.com/KeplerGO/K2ephem</a>
     </td>
 </tr>
 
@@ -58,7 +55,6 @@ and for analyzing the collected data.  Note that these tools are not official NA
         Converts target pixel files into movies or animated gifs for quick and easy pixel data inspection.
     </td>
     <td>
-        <a href="https://github.com/KeplerGO/k2flix">github.com/KeplerGO/k2flix</a>
     </td>
 </tr>
 
@@ -68,7 +64,6 @@ and for analyzing the collected data.  Note that these tools are not official NA
         Combines target pixel files into wide-field images.
     </td>
     <td>
-        <a href="https://github.com/KeplerGO/k2mosaic">github.com/KeplerGO/k2mosaic</a>
     </td>
 </tr>
 
@@ -77,7 +72,6 @@ and for analyzing the collected data.  Note that these tools are not official NA
     <td>
         Converts raw cadence data from the Kepler spacecraft into astronomer-friendly FITS files.</td>
     <td>
-        <a href="https://github.com/KeplerGO/kadenza">github.com/KeplerGO/kadenza</a>
     </td>
 </tr>
 
