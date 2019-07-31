@@ -3546,7 +3546,7 @@ The dominant systematic present in K2 simple aperture photometry light curves is
 
 # K2 Campaign 4
 
-These release notes are for the C1 data currently available at MAST (Data Release 33) in the nominal K2 data locations, which have been processed with the final version of the K2 pipeline as part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a>. The original release notes corresponding to the previous version(s) of C4 data (Data Releases 6 and 10) can be found in the <a href="archived-k2-data-release-notes.html#k2-campaign-4">archived data release notes page</a>.
+These release notes are for the C4 data currently available at MAST (Data Release 33) in the nominal K2 data locations, which have been processed with the final version of the K2 pipeline as part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a>. The original release notes corresponding to the previous versions of C4 data (Data Releases 6 and 10) can be found in the <a href="archived-k2-data-release-notes.html#k2-campaign-4">archived data release notes page</a>.
 
 <h2>At a glance</h2>
 
@@ -3638,11 +3638,11 @@ The Pleidaes and Hyades are notable features in Campaign 4, and include several 
 
 One Director's Discretionary Target program (GO4901, PI:White) was approved in Campaign 4 which observes the nine 3&ndash;5 mag B-stars and red giants in the Pleiades and Hyades open clusters. The targets were observed using circular pixel masks (20 pixels in radius) that cover the wings of the PSF but not the entire saturation bleed.
 
-The two stars in the Hyades are γ Tau and δ1 Tau. The seven stars in the Pleiades are: Alcyone (η Tau), Atlas (27 Tau), Electra (17 Tau), Maia (20 Tau), Merope (23 Tau), Taygeta (19 Tau) and Pleione (28 Tau). These stars are all listed in the EPIC; however, their data are listed by custom aperture number at the MAST in the range 200007765&ndash;200007773.
+The two stars in the Hyades are γ Tau and δ1 Tau. The seven stars in the Pleiades are: Alcyone (η Tau), Atlas (27 Tau), Electra (17 Tau), Maia (20 Tau), Merope (23 Tau), Taygeta (19 Tau) and Pleione (28 Tau). These stars are all listed in the EPIC, however their data are listed by custom aperture number at the MAST in the range 200007765&ndash;200007773.
 
-Figures C4-Pleiades and C4-Pleiades-Inv show FFIs of module 15, which covers the Pleiades cluster.
+The Figures C4-Pleiades and C4-Pleiades-Inv below show an FFI of module 15, which covers the Pleiades cluster, in two different flux scalings.
 
-<div class="thumbnail" style="width: 68%;display: inline-block;">
+<div class="thumbnail" style="width: 65%;display: inline-block;">
     <div class="caption">
         <i>Figure C4-Pleiades: The Pleiades open cluster as seen on module 15 of the K2 C4 FFI.</i>
     </div>
@@ -3651,7 +3651,7 @@ Figures C4-Pleiades and C4-Pleiades-Inv show FFIs of module 15, which covers the
     </a>
 </div>
 
-<div class="thumbnail" style="width: 30%;display: inline-block;">
+<div class="thumbnail" style="width: 34%;display: inline-block;">
     <div class="caption">
         <i>Figure C4-Pleiades-Inv: A flux scaling of the C4 module 15 FFI that matches Figure C4-FFI.</i>
     </div>
@@ -3665,14 +3665,14 @@ Figures C4-Pleiades and C4-Pleiades-Inv show FFIs of module 15, which covers the
 
 ***Trans-Neptunian Object***
 
-The Trans-Neptunian Object 2002 KY14 was observed in Campaign 4 by creating 1340 masks that cover the path of the TNO. The custom aperture numbers range from 200006425 to 200007764. These observations were taken as part of Guest Observer program GO4110 (PI:Schwamb).
+The Trans-Neptunian Object 2002 KY14 was observed in Campaign 4 by creating 1340 masks that cover the path of the TNO. The custom aperture numbers range from 200006425&ndash;200007764. These observations were taken as part of Guest Observer program GO4110 (PI:Schwamb).
 
 <br>
 
 
 <h2>Data Quality and Processing Notes</h2>
 
-***Non-Optimal Background Correction near Pleiades***
+***Non-Optimal Background Correction near the Pleiades***
 
 Background removal for channels near the Pleiades has larger than normal residuals. These large residuals occur on mod.outs 10.3 and 15.1 through 15.4 due to the background on these channels being dominated by dust clouds near the Pleiades. The rich spatial structure of the Pleiades' dust clouds is poorly captured by the low order (≤ 4) polynomial model used to fit the background flux, with the best fit for these channels being given by a constant. This fit is done for every cadence, and the result is higher than normal background residuals, with residuals as large as 7 times the standard deviation of the background pixel values. (Normal residuals are typically less than the background standard deviation.)
 
@@ -3685,7 +3685,7 @@ Local background estimates per star may produce higher-quality results. The chan
 
 ***Large Number of Saturated Stars***
 
-Due to the Hyades and Pleiades clusters, there is a large number of bright stars that saturate the detector in Campaign 4 compared to other campaigns. Users are cautioned to ensure that their target(s) are not affected by these bright, bleeding stars prior to analysis. Figure C4-Chan15 highlights the number and extent of bleed trails on channel 52. Figure C4-Sat-Example shows an example of a typical target that is severly affected by the bleed from a bright star on the same column &mdash; examining a target's target pixel in this manner will reveal if it is affected directly by a bright stars' bleed.
+Due to the Hyades and Pleiades clusters, there is a large number of bright stars that saturate the detector in Campaign 4. Users are cautioned to ensure that their target(s) are not affected by these bright, bleeding stars prior to analysis. For example, Figure C4-Chan15 highlights the number and extent of bleed trails on channel 52. Figure C4-Sat-Example shows an example of a typical target that is severely affected by the bleed from a bright star on the same column &mdash; examining a target's TPF image in this manner will reveal if it is affected directly by a bright stars' bleed.
 
 <div class="thumbnail" style="width: 41%;display: inline-block;">
     <div class="caption">
@@ -3710,9 +3710,9 @@ Due to the Hyades and Pleiades clusters, there is a large number of bright stars
 
 ***Poor Smear Correction on Channel 25, Column 777***
 
-The bright (Kp=5.775), nearby (55.2 ly) solar-like star 39 Tauri was observed in campaign 4. It saturates the smear calibration columns, and thus smear correction for column 777, and possibly neighboring columns, is not optimal. Caution is encouraged when analyzing other targets on this column as a result of the saturation and poor calibration, especially those at lower row numbers.
+The very bright (Kp=5.775), nearby (55.2 ly) solar-like star 39 Tauri was observed in Campaign 4. It it so bright that it saturates the smear calibration columns, and thus smear correction for column 777, and possibly neighboring columns, is not optimal. Caution is encouraged when analyzing other targets on this column as a result of the saturation and poor calibration, especially those at lower row numbers.
 
-39 Tauri was only observed with a typical 4-halo aperture (instead of a dedicated disk as is more typical for bright stars), and thus analysis of 39 Tauri itself will require extra attention.
+39 Tauri was only observed with a typical 4-halo aperture (instead of a dedicated disk as is more typical for bright stars). Thus, any analysis of 39 Tauri itself will be more challenging compared to analysis of other bright stars with dedicated disks.
 
 <br>
 
@@ -3723,10 +3723,10 @@ There is a group of target stars whose measured flux is more than twice that exp
 
 <div class="thumbnail" style="width: 68%;">
     <div class="caption">
-        <i>Figure: all C4 target stars plotted in celestial coordinates, colored by their Kepler magnitude inferred from their observed flux minus their Kepler magnitude from the EPIC catalog. There are two square-like regions and a line of blue markers, indicating stars whose inferred Kepler magnitude is about a magnitude smaller than their catalog magnitude, indicating that these stars are about a magnitude brighter than expected. The randomly distributed red markers are consistent with the population of Kepflag = “JHK” or “J” stars whose brightness is overestimated.</i>
+        <i>Figure C4-HighFlux-Stars: All C4 target stars plotted in celestial coordinates, colored by their Kepler magnitude inferred from their observed flux minus their Kepler magnitude from the EPIC catalog. There are two square-like regions and a line of blue markers, indicating stars whose inferred Kepler magnitude is about a magnitude smaller than their catalog magnitude, indicating that these stars are about a magnitude brighter than expected.</i>
     </div>
     <a href="images/release-notes/c4/C4radecKepMag-dr33.png">
-        <img src="images/release-notes/c4/C4radecKepMag-dr33.png" class="img-responsive" alt="all C4 target stars plotted in celestial coordinates, colored by their Kepler magnitude inferred from their observed flux minus their Kepler magnitude from the EPIC catalog">
+        <img src="images/release-notes/c4/C4radecKepMag-dr33.png" class="img-responsive" alt="All C4 target stars plotted in celestial coordinates, colored by their Kepler magnitude inferred from their observed flux minus their Kepler magnitude from the EPIC catalog.">
     </a>
 </div>
 
@@ -3735,11 +3735,11 @@ There is a group of target stars whose measured flux is more than twice that exp
 
 ***Stars Show Lower Than Expected Flux***
 
-The comparison of the measured flux to the flux based on their Kepler magnitudes in the EPIC catalog shows that ≈3,752 stars (23.8% of all stellar targets) are too bright by about a magnitude. The EPIC catalog field Kepflag gives the provenance of the Kepler magnitude estimate by listing the catalog magnitudes used to estimate the Kepler magnitude. Stars with Kepflag = “JHK” or “J” have Kepler magnitudes that are generally overestimated. These stars appear at all magnitudes, but predominantly have EPIC Kepler magnitudes dimmer than 14. The optimal apertures used to generate light curves for these “JHK” or “J” targets may be larger than optimal, reducing their photometric precision.
+The comparison of the measured flux to the flux based on their Kepler magnitudes in the EPIC catalog shows that ~3,752 stars (23.8% of all stellar targets) are too bright by about a magnitude. The EPIC catalog field Kepflag gives the provenance of the Kepler magnitude estimate by listing the catalog magnitudes used to estimate the Kepler magnitude. Stars with Kepflag = “JHK” or “J” have Kepler magnitudes that are generally overestimated. These stars appear at all magnitudes, but predominantly have EPIC Kepler magnitudes dimmer than 14. The optimal apertures used to generate light curves for these “JHK” or “J” targets may be larger than optimal, reducing their photometric precision.
 
 <div class="thumbnail" style="width: 100%;">
     <div class="caption">
-        <i>Figure: histograms of the relative flux for C4 stellar targets. Left: the relative flux distribution of stellar targets with EPIC Kepflag values of “gri” or “BV”, showing that their measured flux is consistent with the expected flux. Right: the relative flux distribution of stellar targets with EPIC Kepflag values of “JHK” or “J”, showing that the observed flux is less than half the expected flux.</i>
+        <i>Figure-LowFlux-Stars: Histograms of the relative flux for C4 stellar targets. Left: the relative flux distribution of stellar targets with EPIC Kepflag values of “gri” or “BV”, showing that their measured flux is consistent with the expected flux. Right: The relative flux distribution of stellar targets with EPIC Kepflag values of “JHK” or “J”, showing that the observed flux is less than half the expected flux.</i>
     </div>
     <a href="images/release-notes/c4/lowfluxJband.png">
         <img src="images/release-notes/c4/lowfluxJband.png" class="img-responsive" alt="histograms of the relative flux for C4 stellar targets">
@@ -3782,6 +3782,7 @@ the roll error does increase towards the end of the campaign and may result in i
 </div>
 </div>
 
+<br>
 
 ***Light Curve Quality***
 
@@ -3811,7 +3812,6 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 <img src="images/release-notes/c4/c4_dwarf_CDPP_by_mod_out_dr33.png" class="img-responsive" alt="CDPP per channel for 12th and 14th magnitude dwarfs">
 </a>
 </div>
-
 
 <br>
 
