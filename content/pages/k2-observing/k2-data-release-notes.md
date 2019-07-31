@@ -3756,6 +3756,33 @@ Seventy-four stellar targets show negative flux values in their SAP_FLUX light c
 <br>
 
 
+***Pointing and Roll Performance***
+
+The C4 pointing and roll behavior are well within the limits of that seen
+in other K2 campaigns. The pipeline-calculated maximum distance between the
+derived and nominal positions for any target (the "maximum attitude residual", or MAR)
+for C4 is less than 2 pixels, well under the 4-pixel limit accommodated by the C4 aperture halos. Users should note that, while within limits,
+the roll error does increase towards the end of the campaign and may result in increased photometric noise.
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C4-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C4.</i>
+<a href="images/release-notes/c4/c4_pad_pdq_attitude_roll.png">
+<img src="images/release-notes/c4/c4_pad_pdq_attitude_roll.png" class="img-responsive" alt="Pipeline measured roll error for C4.">
+</a>
+</div>
+</div>
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C4-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C4.</i>
+<a href="images/release-notes/c4/c4_pad_pdq_attitude_mar.png">
+<img src="images/release-notes/c4/c4_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the C4 attitude measured with PAD and PDQ.">
+</a>
+</div>
+</div>
+
+
 ***Light Curve Quality***
 
 As in other campaigns, the 6-hour spacecraft roll cycle dominates the systematic errors in C4 simple aperture photometry light curves.
@@ -3775,6 +3802,16 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 <img src="images/release-notes/c4/cdpp_vs_mag_dr33.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
 </a>
 </div>
+
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C4-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
+</div>
+<a href="images/release-notes/c4/c4_dwarf_CDPP_by_mod_out_dr33.png">
+<img src="images/release-notes/c4/c4_dwarf_CDPP_by_mod_out_dr33.png" class="img-responsive" alt="CDPP per channel for 12th and 14th magnitude dwarfs">
+</a>
+</div>
+
 
 <br>
 
