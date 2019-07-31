@@ -3546,8 +3546,11 @@ The dominant systematic present in K2 simple aperture photometry light curves is
 
 # K2 Campaign 4
 
+These release notes are for the C1 data currently available at MAST (Data Release 33) in the nominal K2 data locations, which have been processed with the final version of the K2 pipeline as part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a>. The original release notes corresponding to the previous version(s) of C4 data (Data Releases 6 and 10) can be found in the <a href="archived-k2-data-release-notes.html#k2-campaign-4">archived data release notes page</a>.
+
 <h2>At a glance</h2>
 
+<div class="row">
 <div class="col-lg-5">
 
     <b><i>Pointing</i></b>
@@ -3557,7 +3560,7 @@ The dominant systematic present in K2 simple aperture photometry light curves is
         <li>Roll: -167.6992793 degrees</li>
     </ul>
 
-    <b><i>Targets</i></b>
+    <b><i>C4 Targets</i></b>
     <ul>
         <li>15,847 in long cadence (LC)</li>
         <li>122 in short cadence (SC)</li>
@@ -3586,25 +3589,14 @@ The dominant systematic present in K2 simple aperture photometry light curves is
 
     <b><i>Most Recent Processing Version</i></b>
     <ul>
-    <li> <a href="k2-pipeline-release-notes.html#data-release-10">Data Release 10</a> </li>
+    <li> <a href="k2-pipeline-release-notes.html#data-release-33">Data Release 33</a> </li>
     </ul>
 
-</div>
-
-<div class="col-lg-7">
+    <br>
 
     <div class="thumbnail">
         <div class="caption">
-            <i>Figure: C4 field-of-view with selected targets shown as purple dots.</i>
-        </div>
-        <a href="images/campaign_selected/C4_selected.png">
-            <img src="images/campaign_selected/C4_selected.png" class="img-responsive" alt="C4 field-of-view with selected targets">
-        </a>
-    </div>
-
-    <div class="thumbnail">
-        <div class="caption">
-            <i>Figure: Distribution of the Kepler magnitudes of observed LC targets in C4. All targets are chosen by Guest Observers. The bimodality is due to how the largest Guest Observer programs were selected for C4.</i>
+            <i>Figure C4-Mag: Distribution of the Kepler magnitudes of observed LC targets in C4. All targets are chosen by Guest Observers. The shape is due to how the largest <a href="k2-approved-programs.html#campaign-4">Guest Observer programs</a> were selected.</i>
         </div>
         <a href="images/release-notes/c4/C4_lcDistribution.png">
             <img src="images/release-notes/c4/C4_lcDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets in C4.">
@@ -3613,13 +3605,38 @@ The dominant systematic present in K2 simple aperture photometry light curves is
 
 </div>
 
+<div class="col-lg-7">
+
+<div class="thumbnail">
+  <div class="caption">
+    <i>Figure: Figure C4-FOV: Schematic of Kepler's C4 field-of-view with high profile objects.</i>
+  </div>
+  <a href="images/k2/k2-c04-field.png">
+    <img src="images/k2/k2-c04-field.png" class="img-responsive" alt="C4 field-of-view with selected targets">
+  </a>
+</div>
+
+<div class="thumbnail">
+  <div class="caption">
+    <i>Figure: Figure C4-FFI: A full frame image (FFI) taken during C4, with a flux scaling designed to highlight features of interest.</i>
+  </div>
+  <a href="images/release-notes/c4/C4R-FFI.png">
+    <img src="images/release-notes/c4/C4R-FFI.png" class="img-responsive" alt="A C4 FFI">
+  </a>
+</div>
+
+</div>
+
+</div>
+
+
 <h2>Features and Events</h2>
 
 ***Pleiades and Hyades***
 
-One Director's Discretionary Target program (GO4901, PI:White) was approved in Campaign 4 which observes the nine 3–5 mag B-stars and red giants in the Pleiades and Hyades open clusters. The targets were observed using circular pixel masks (20 pixels in radius) that cover the wings of the PSF but not the entire saturation bleed.
+One Director's Discretionary Target program (GO4901, PI:White) was approved in Campaign 4 which observes the nine 3&ndash;5 mag B-stars and red giants in the Pleiades and Hyades open clusters. The targets were observed using circular pixel masks (20 pixels in radius) that cover the wings of the PSF but not the entire saturation bleed.
 
-The two stars in the Hyades are γ Tau and δ1 Tau. The seven stars in the Pleiades are: Alcyone (η Tau), Atlas (27 Tau), Electra (17 Tau), Maia (20 Tau), Merope (23 Tau), Taygeta (19 Tau) and Pleione (28 Tau). These stars are all listed in the EPIC; however, their data are listed by custom aperture number at the MAST in the range 200007765--200007773.
+The two stars in the Hyades are γ Tau and δ1 Tau. The seven stars in the Pleiades are: Alcyone (η Tau), Atlas (27 Tau), Electra (17 Tau), Maia (20 Tau), Merope (23 Tau), Taygeta (19 Tau) and Pleione (28 Tau). These stars are all listed in the EPIC; however, their data are listed by custom aperture number at the MAST in the range 200007765&ndash;200007773.
 
 <div class="thumbnail" style="width: 68%;">
     <div class="caption">
@@ -4186,7 +4203,6 @@ These release notes are for the C1 data currently available at MAST (Data Releas
     <ul>
     <li> <a href="k2-pipeline-release-notes.html#data-release-32">Data Release 32</a> </li>
     </ul>
-
 
     <br>
 
