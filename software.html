@@ -7,7 +7,7 @@ in August 2015, using pelican-bootstrap and flatly.
 >
 
 <head>
-    <title>Kepler/K2 software tools - Kepler &amp; K2 Science Center</title>
+    <title>Kepler/K2 community software tools - Kepler &amp; K2 Science Center</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2019-07-16" />
+    <meta name="dc.date.modified" content="2019-07-31" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -31,16 +31,16 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <link href="./images/favicon.png" rel="icon">
 
-<link rel="canonical" href="./pages/keplerk2-software-tools.html">
+<link rel="canonical" href="./pages/keplerk2-community-software-tools.html">
 
         <meta name="author" content="Geert Barentsen" />
-        <meta name="description" content="Overview GO Office tools Below is a list of software tools created by the Kepler/K2 Guest Observer Office for use in preparing for Kepler and K2 observations and for analyzing the collected data. lightkurve The Lightkurve Python package offers a user-friendly way to analyze the pixels and light curves …" />
+        <meta name="description" content="Overview Below is a list of software tools created by the community for use in preparing for Kepler and K2 observations and for analyzing the collected data. Note that these tools are not official NASA software products (with the exception of PyKE). PyKE A suite of command-line tools to inspect …" />
 
     <meta property="og:site_name" content="Kepler &amp; K2" />
     <meta property="og:type" content="article"/>
-    <meta property="og:title" content="Kepler/K2 software tools"/>
-    <meta property="og:url" content="./pages/keplerk2-software-tools.html"/>
-    <meta property="og:description" content="Overview GO Office tools Below is a list of software tools created by the Kepler/K2 Guest Observer Office for use in preparing for Kepler and K2 observations and for analyzing the collected data. lightkurve The Lightkurve Python package offers a user-friendly way to analyze the pixels and light curves …" />
+    <meta property="og:title" content="Kepler/K2 community software tools"/>
+    <meta property="og:url" content="./pages/keplerk2-community-software-tools.html"/>
+    <meta property="og:description" content="Overview Below is a list of software tools created by the community for use in preparing for Kepler and K2 observations and for analyzing the collected data. Note that these tools are not official NASA software products (with the exception of PyKE). PyKE A suite of command-line tools to inspect …" />
 
 
     <!-- Why use Helvetica Neue when you can have Lato? -->
@@ -140,24 +140,13 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <div class="col-sm-9" data-spy="scroll" data-target="#sidebarCol">
         <section id="content" class="body">
-            <h1 class="entry-title">Kepler/K2 software tools</h1>
+            <h1 class="entry-title">Kepler/K2 community software tools</h1>
             <div class="entry-content">
                 
 <h2 id="overview">Overview</h2>
-<h4>GO Office tools</h4>
-<p>Below is a list of software tools created by the Kepler/K2 Guest
-Observer Office for use in preparing for Kepler and K2 observations
-and for analyzing the collected data.</p>
+<p>Below is a list of software tools created by the community for use in preparing for Kepler and K2 observations
+and for analyzing the collected data.  Note that these tools are not official NASA software products (with the exception of PyKE).</p>
 <table class="table table-striped table-hover" style="max-width:50em;">
-<tr>
-<td><a href="/software.html#lightkurve">lightkurve</a></td>
-<td>
-        The Lightkurve Python package offers a user-friendly way to analyze the pixels and light curves obtained by NASA’s Kepler, K2, and TESS missions.
-    </td>
-<td>
-<a href="https://keplerscience.arc.nasa.gov/lightkurve">https://keplerscience.arc.nasa.gov/lightkurve</a>
-</td>
-</tr>
 <tr>
 <td><a href="/software.html#pyke">PyKE</a></td>
 <td>
@@ -165,6 +154,15 @@ and for analyzing the collected data.</p>
     </td>
 <td>
 <a href="https://github.com/nasa/Kepler-PyKE">github.com/nasa/Kepler-PyKE</a>
+</td>
+</tr>
+<tr>
+<td><a href="/software.html#lightkurve">Lightkurve</a></td>
+<td>
+        The Lightkurve Python package offers a user-friendly way to analyze the pixels and light curves obtained by Kepler, K2, and TESS.
+    </td>
+<td>
+<a href="https://github.com/KeplerGO/lightkurve">github.com/KeplerGO/lightkurve</a>
 </td>
 </tr>
 <tr>
@@ -214,10 +212,9 @@ and for analyzing the collected data.</p>
 </td>
 </tr>
 </table>
-<h4>Community-contributed tools</h4>
-<p>Members of the community have made a range of tools available.
-A non-exhaustive list of community tools is available on
-the <a href="https://docs.lightkurve.org/about/other_software.html">"Other software" page</a> on the documentation website of the <a href="https://docs.lightkurve.org">Lightkurve package</a>.</p>
+<p>A non-exhaustive list of additional community tools is available on
+the <a href="https://docs.lightkurve.org/about/other_software.html">"Other software" page</a> on the documentation website
+of the <a href="https://docs.lightkurve.org">Lightkurve package</a>.</p>
 <h2 id="observation-planning">Observation planning</h2>
 <h3 id="k2fov">K2fov</h3>
 <p>K2fov is a Python package that allows users to check whether a target falls within the field of view of K2.</p>
@@ -298,7 +295,7 @@ optional arguments:
 <h2 id="data-analysis">Data analysis</h2>
 <h3 id="lightkurve">Lightkurve</h3>
 <p>Documentation website: <a href="https://docs.lightkurve.org">docs.lightkurve.org</a>.</p>
-<p>The lightkurve Python package offers a user-friendly way to analyze astronomical flux time series data, in particular the pixels and lightcurves obtained by NASA’s Kepler, K2, and TESS missions.</p>
+<p>The lightkurve Python package offers a user-friendly way to analyze astronomical flux time series data, in particular the pixels and lightcurves obtained by Kepler, K2, and TESS.</p>
 <p>This package aims to lower the barrier for both students, astronomers, and citizen scientists interested in analyzing Kepler and TESS space telescope data. It does this by providing high-quality building blocks and tutorials which enable both hand-tailored data analyses and advanced automated pipelines.</p>
 <p>Lightkurve is an open source community project.
 The development <a href="https://github.com/KeplerGO/lightkurve">takes place on GitHub</a>
@@ -783,7 +780,7 @@ celestial coordinate or Kepler or K2 target is to use the tool KeplerFFI
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Tue 16 July 2019
+         Last modified: Wed 31 July 2019
             &middot; Editor: Geert Barentsen &middot; NASA Official: Jessie Dotson
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
