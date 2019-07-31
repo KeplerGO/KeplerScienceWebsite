@@ -11,9 +11,10 @@ Reprocessed data and release notes from campaign 4 are now available &mdash; 0&n
 <ul>
 <li> Improved pixel-level calibration, especially for channels affected by FGS crosstalk, and spacecraft pointing outlier detection.
 <li> Production of short-cadence lightcurves (122 targets), which previously did not exist.
+<li> Improved photometric apertures for over 800 targets.
 </ul>
 
-The reprocessing priority of the remaining campaigns is C7, C6, C8, C10, C12, C14, C9.
+The reprocessing priority of the remaining campaigns is C6, C7, C8, C10, C12, C14, C9.
 
 <br>
 
