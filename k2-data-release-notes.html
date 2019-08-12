@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2019-07-31" />
+    <meta name="dc.date.modified" content="2019-08-12" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -2979,7 +2979,7 @@ The dominant systematic present in K2 simple aperture photometry light curves is
 <h2>Data Quality and Processing Notes</h2>
 <p><strong><em>Non-Optimal Background Correction near the Pleiades</em></strong></p>
 <p>Background removal for channels near the Pleiades has larger than normal residuals. These large residuals occur on mod.outs 10.3 and 15.1 through 15.4 due to the background on these channels being dominated by dust clouds near the Pleiades. The rich spatial structure of the Pleiades' dust clouds is poorly captured by the low order (≤ 4) polynomial model used to fit the background flux, with the best fit for these channels being given by a constant. This fit is done for every cadence, and the result is higher than normal background residuals, with residuals as large as 7 times the standard deviation of the background pixel values. (Normal residuals are typically less than the background standard deviation.)</p>
-<p>We recommend caution when using light curves or the background model on these channels. Note that the FLUX column of the target pixel files contains calibrated pixels with the background subtracted. The amount of background that was subtracted per pixel can be found in the <a href="/K2/pipelineReleaseNotes.shtml#dr5">FLUX_BKG column</a> and restored, if desired.</p>
+<p>We recommend caution when using light curves or the background model on these channels. Note that the FLUX column of the target pixel files contains calibrated pixels with the background subtracted. The amount of background that was subtracted per pixel can be found in the FLUX_BKG column and restored, if desired.</p>
 <p>Local background estimates per star may produce higher-quality results. The change in the constant background level on these channels over time is in family with the median background change on other channels.</p>
 <p><br/></p>
 <p><strong><em>Large Number of Saturated Stars</em></strong></p>
@@ -3812,7 +3812,7 @@ document.write(document.lastModified);
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Wed 31 July 2019
+         Last modified: Mon 12 August 2019
             &middot; Editor: Geert Barentsen &middot; NASA Official: Jessie Dotson
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
