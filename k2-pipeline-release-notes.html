@@ -17,7 +17,7 @@ in August 2015, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - Kepler/K2 Guest Observer Program" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2019-08-15" />
+    <meta name="dc.date.modified" content="2019-09-06" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Kepler Guest Observers" />
     <meta name="dc.identifier" content="http://keplergo.arc.nasa.gov" />
@@ -146,6 +146,15 @@ in August 2015, using pelican-bootstrap and flatly.
 <p>Below are notes on the features of the software used to process the K2 data. Any changes to the pipeline that directly impact the data quality or format are listed for each data release. Any change impacts all subsequent data releases unless stated otherwise.</p>
 <p>For more information about the Kepler pipeline see the Kepler manuals: <a href="http://archive.stsci.edu/kepler/manuals/KSCI-19081-001_Data_Processing_Handbook.pdf">Data Processing Handbook</a> and <a href="http://archive.stsci.edu/kepler/manuals/archive_manual.pdf">Archive Manual.</a></p>
 <p>Information about each specific campaign can be found in the links associated with each data release.</p>
+<h3 id="data-release-34">Data Release 34</h3>
+<ul>
+<li>September 2019</li>
+<li>SOC 9.3</li>
+<li>Campaigns: <a href="k2-data-release-notes.html#k2-campaign-2-sc">C2</a></li>
+</ul>
+<p>This is a delivery of C2 short-cadence target pixel files produced for researchers who have targets that were affected by the <a href="incorrect-pixel-level-calibration-of-short-cadence-tpfs-for-some-c2r-c3r-and-c5r-targets.html">incorrect pixel-level calibration for some short-cadence C2 targets</a>. This data comes from a processing of C2 that used a version of the pipeline nearly identical to that used for C14 (<a href="k2-pipeline-release-notes.html#data-release-20">Data Release 20</a>) — it was never previously released as C2 was slated to be reprocessed with the final version of the pipeline as part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a>. However, this processing of C2 has correctly calibrated short-cadence target pixel files.</p>
+<p>The only significant difference in pipeline settings for this release, compared to the final C2 processing (<a href="k2-pipeline-release-notes.html#data-release-21">Data Release 21</a>), is that Dynablack was not used. Thus, these short-cadence TPFs, in addition to using the less sophisticated pixel-calibration method, will not have rolling band flags in the FITS files.</p>
+<hr/>
 <h3 id="data-release-33">Data Release 33</h3>
 <ul>
 <li>July 2019</li>
@@ -543,6 +552,7 @@ document.write(document.lastModified);
             <div class="nav nav-stacked fixed" id="mytoc">
             <div class="toc">
 <ul>
+<li><a href="#data-release-34">Data Release 34</a></li>
 <li><a href="#data-release-33">Data Release 33</a></li>
 <li><a href="#data-release-32">Data Release 32</a></li>
 <li><a href="#data-release-31">Data Release 31</a></li>
@@ -620,7 +630,7 @@ document.write(document.lastModified);
       <!-- NASA logo and notices -->
       <div class="row" style="margin-top:2em;">
          <div class="col-md-10"> <a href="http://www.nasa.gov/"><img src="./images/NASA_logo_vector_lg.png" width="30" alt="NASA Logo"></a> 
-         Last modified: Thu 15 August 2019
+         Last modified: Fri 06 September 2019
             &middot; Editor: Geert Barentsen &middot; NASA Official: Jessie Dotson
             &middot; <a href="http://www.nasa.gov/about/highlights/HP_Privacy.html">Privacy Policy and Important Notices</a><p></p>         </div>
          <div class="col-md-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
