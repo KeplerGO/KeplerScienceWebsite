@@ -1,4 +1,4 @@
-Title: Corrected C2 Short-Cadence TPFs Released
+Title: Corrected C2 short-cadence TPFs released
 Date: 2019-09-06 12:00
 Author: Jeff Coughlin
 
