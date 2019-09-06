@@ -9,6 +9,21 @@ For more information about the Kepler pipeline see the Kepler manuals: <a href="
 
 Information about each specific campaign can be found in the links associated with each data release.
 
+
+### Data Release 34
+
+* September 2019
+* SOC 9.3
+* Campaigns: [C2](k2-data-release-notes.html#k2-campaign-2-sc)
+
+This is a delivery of C2 short-cadence target pixel files produced for researchers who have targets that were affected by the [incorrect pixel-level calibration for some short-cadence C2 targets](incorrect-pixel-level-calibration-of-short-cadence-tpfs-for-some-c2r-c3r-and-c5r-targets.html). This data comes from a processing of C2 that used a version of the pipeline nearly identical to that used for C14 ([Data Release 20](k2-pipeline-release-notes.html#data-release-20)) &mdash; it was never previously released as C2 was slated to be reprocessed with the final version of the pipeline as part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a>. However, this processing of C2 has correctly calibrated short-cadence target pixel files.
+
+The only significant difference in pipeline settings for this release, compared to the final C2 processing ([Data Release 21](k2-pipeline-release-notes.html#data-release-21)), is that Dynablack was not used. Thus, these short-cadence TPFs, in addition to using the less sophisticated pixel-calibration method, will not have rolling band flags in the FITS files.
+
+<hr>
+
+
+
 ### Data Release 33
 
 * July 2019
