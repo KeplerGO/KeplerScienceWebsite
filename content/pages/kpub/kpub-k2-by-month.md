@@ -11,17 +11,37 @@ Save_as: kpub-k2-by-month.html
 Çokluk, K. A., Koçak, D., Içli, T., et al.    
 2019, refereed ([2019MNRAS.488.4520C](http://adsabs.harvard.edu/abs/2019MNRAS.488.4520C))  
 
+2. [SIMULATING RADIAL VELOCITY OBSERVATIONS OF TRAPPIST-1 WITH SPIROU](http://adsabs.harvard.edu/abs/2019MNRAS.488.5114K)  
+Klein, Baptiste, Donati, J. -F.    
+2019, refereed ([2019MNRAS.488.5114K](http://adsabs.harvard.edu/abs/2019MNRAS.488.5114K))  
+
 
 2019-09
 -------
 
-1. [TWO TEMPERATE SUB-NEPTUNES TRANSITING THE STAR EPIC 212737443](http://adsabs.harvard.edu/abs/2019MNRAS.488..536H)  
+1. [ADAPTIVE ELLIPTICAL APERTURE PHOTOMETRY: A SOFTWARE PACKAGE FOR HIGH-CADENCE GROUND-BASED PHOTOMETRY. I. APPLICATION TO RAPID OSCILLATORS OBSERVED FROM SAAO](http://adsabs.harvard.edu/abs/2019A&A...629A..21B)  
+Bowman, Dominic M., Holdsworth, Daniel L.    
+2019, refereed ([2019A&A...629A..21B](http://adsabs.harvard.edu/abs/2019A&A...629A..21B))  
+
+2. [K2-146: DISCOVERY OF PLANET C, PRECISE MASSES FROM TRANSIT TIMING, AND OBSERVED PRECESSION](http://adsabs.harvard.edu/abs/2019AJ....158..133H)  
+Hamann, Aaron, Montet, Benjamin T., Fabrycky, Daniel C., et al.    
+2019, refereed ([2019AJ....158..133H](http://adsabs.harvard.edu/abs/2019AJ....158..133H))  
+
+3. [TWO TEMPERATE SUB-NEPTUNES TRANSITING THE STAR EPIC 212737443](http://adsabs.harvard.edu/abs/2019MNRAS.488..536H)  
 Herath, Mahesh, Hinse, Tobias C., Livingston, John H., et al.    
 2019, refereed ([2019MNRAS.488..536H](http://adsabs.harvard.edu/abs/2019MNRAS.488..536H))  
 
-2. [THE RANDOM TRANSITER - EPIC 249706694/HD 139139](http://adsabs.harvard.edu/abs/2019MNRAS.488.2455R)  
+4. [THE RANDOM TRANSITER - EPIC 249706694/HD 139139](http://adsabs.harvard.edu/abs/2019MNRAS.488.2455R)  
 Rappaport, S., Vanderburg, A., Kristiansen, M. H., et al.    
 2019, refereed ([2019MNRAS.488.2455R](http://adsabs.harvard.edu/abs/2019MNRAS.488.2455R))  
+
+5. [EXTENDED APERTURE PHOTOMETRY OF K2 RR LYRAE STARS](http://adsabs.harvard.edu/abs/2019arXiv190900446P)  
+Plachy, Emese, Molnár, László, Bódi, Attila, et al.    
+2019, not refereed ([2019arXiv190900446P](http://adsabs.harvard.edu/abs/2019arXiv190900446P))  
+
+6. [WATER VAPOR ON THE HABITABLE-ZONE EXOPLANET K2-18B](http://adsabs.harvard.edu/abs/2019arXiv190904642B)  
+Benneke, Björn, Wong, Ian, Piaulet, Caroline, et al.    
+2019, not refereed ([2019arXiv190904642B](http://adsabs.harvard.edu/abs/2019arXiv190904642B))  
 
 
 2019-08
@@ -95,25 +115,37 @@ Baran, A. S., Telting, J. H., Jeffery, C. S., et al.
 Silvotti, R., Uzundag, M., Baran, A. S., et al.    
 2019, refereed ([2019MNRAS.tmp.2166S](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.2166S))  
 
-18. [K-MEANS APERTURE OPTIMIZATION APPLIED TO KEPLER K2 TIME SERIES PHOTOMETRY OF TITAN](http://adsabs.harvard.edu/abs/2019PASP..131h4505P)  
+18. [NEW Β CEP PULSATORS DISCOVERED WITH K2 SPACE PHOTOMETRY](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.2182B)  
+Burssens, S., Bowman, D. M., Aerts, C., et al.    
+2019, refereed ([2019MNRAS.tmp.2182B](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.2182B))  
+
+19. [OBSERVATIONAL PROPERTIES OF THERMONUCLEAR SUPERNOVAE](http://adsabs.harvard.edu/abs/2019NatAs...3..706J)  
+Jha, Saurabh W., Maguire, Kate, Sullivan, Mark    
+2019, refereed ([2019NatAs...3..706J](http://adsabs.harvard.edu/abs/2019NatAs...3..706J))  
+
+20. [K-MEANS APERTURE OPTIMIZATION APPLIED TO KEPLER K2 TIME SERIES PHOTOMETRY OF TITAN](http://adsabs.harvard.edu/abs/2019PASP..131h4505P)  
 Parker, Alex H., Hörst, Sarah M., Ryan, Erin L., et al.    
 2019, refereed ([2019PASP..131h4505P](http://adsabs.harvard.edu/abs/2019PASP..131h4505P))  
 
-19. [A SEARCH FOR VARIABLE STARS IN THE GLOBULAR CLUSTER M4 WITH K2](http://adsabs.harvard.edu/abs/2019arXiv190802373W)  
+21. [EPIC 202843107: A CLOSE ECLIPSING BINARY CONTAINING A Δ SCUTI VARIABLE](http://adsabs.harvard.edu/abs/2019RAA....19..112O)  
+Ou, Jian-Wen, Yang, Ming, Zhou, Ji-Lin    
+2019, refereed ([2019RAA....19..112O](http://adsabs.harvard.edu/abs/2019RAA....19..112O))  
+
+22. [A SEARCH FOR VARIABLE STARS IN THE GLOBULAR CLUSTER M4 WITH K2](http://adsabs.harvard.edu/abs/2019arXiv190802373W)  
 Wallace, Joshua J., Hartman, Joel D., Bakos, Gaspar A., et al.    
 2019, not refereed ([2019arXiv190802373W](http://adsabs.harvard.edu/abs/2019arXiv190802373W))  
 
-20. [NEW $\BETA$ CEP PULSATORS DISCOVERED WITH K2 SPACE PHOTOMETRY](http://adsabs.harvard.edu/abs/2019arXiv190802836B)  
-Burssens, S., Bowman, D. M., Aerts, C., et al.    
-2019, not refereed ([2019arXiv190802836B](http://adsabs.harvard.edu/abs/2019arXiv190802836B))  
-
-21. [HOMOGENEOUS ANALYSIS OF HOT EARTHS: MASSES, SIZES, AND COMPOSITIONS](http://adsabs.harvard.edu/abs/2019arXiv190806299D)  
+23. [HOMOGENEOUS ANALYSIS OF HOT EARTHS: MASSES, SIZES, AND COMPOSITIONS](http://adsabs.harvard.edu/abs/2019arXiv190806299D)  
 Dai, Fei, Masuda, Kento, Winn, Joshua N., et al.    
 2019, not refereed ([2019arXiv190806299D](http://adsabs.harvard.edu/abs/2019arXiv190806299D))  
 
-22. [THE K2 BRIGHT STAR SURVEY I: METHODOLOGY AND DATA RELEASE](http://adsabs.harvard.edu/abs/2019arXiv190806981P)  
+24. [THE K2 BRIGHT STAR SURVEY I: METHODOLOGY AND DATA RELEASE](http://adsabs.harvard.edu/abs/2019arXiv190806981P)  
 Pope, Benjamin J. S., White, Timothy R., Farr, Will M., et al.    
 2019, not refereed ([2019arXiv190806981P](http://adsabs.harvard.edu/abs/2019arXiv190806981P))  
+
+25. [ESTIMATION OF SINGLY-TRANSITING K2 PLANET PERIODS WITH GAIA PARALLAXES](http://adsabs.harvard.edu/abs/2019arXiv190808548S)  
+Sandford, Emily, Espinoza, Néstor, Brahm, Rafael, et al.    
+2019, not refereed ([2019arXiv190808548S](http://adsabs.harvard.edu/abs/2019arXiv190808548S))  
 
 
 2019-07
@@ -167,23 +199,15 @@ Paudel, R. R., Gizis, J. E., Burgasser, A. J., et al.
 Shultz, M., Rivinius, Th, Das, B., et al.    
 2019, refereed ([2019MNRAS.486.5558S](http://adsabs.harvard.edu/abs/2019MNRAS.486.5558S))  
 
-13. [SIMULATING RADIAL VELOCITY OBSERVATIONS OF TRAPPIST-1 WITH SPIROU](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.1885K)  
-Klein, Baptiste, Donati, J. -F.    
-2019, refereed ([2019MNRAS.tmp.1885K](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.1885K))  
-
-14. [A SUBSTELLAR COMPANION TO A HOT STAR IN K2'S CAMPAIGN 0 FIELD](http://adsabs.harvard.edu/abs/2019arXiv190706662D)  
+13. [A SUBSTELLAR COMPANION TO A HOT STAR IN K2'S CAMPAIGN 0 FIELD](http://adsabs.harvard.edu/abs/2019arXiv190706662D)  
 Dholakia, S., Dholakia, S., Cody, Ann Marie, et al.    
 2019, not refereed ([2019arXiv190706662D](http://adsabs.harvard.edu/abs/2019arXiv190706662D))  
 
-15. [K2-146: DISCOVERY OF PLANET C, PRECISE MASSES FROM TRANSIT TIMING, AND OBSERVED PRECESSION](http://adsabs.harvard.edu/abs/2019arXiv190710620H)  
-Hamann, Aaron, Montet, Benjamin T., Fabrycky, Daniel C., et al.    
-2019, not refereed ([2019arXiv190710620H](http://adsabs.harvard.edu/abs/2019arXiv190710620H))  
-
-16. [DETECTION OF HUNDREDS OF NEW PLANET CANDIDATES AND ECLIPSING BINARIES IN K2 CAMPAIGNS 0-8](http://adsabs.harvard.edu/abs/2019arXiv190710806K)  
+14. [DETECTION OF HUNDREDS OF NEW PLANET CANDIDATES AND ECLIPSING BINARIES IN K2 CAMPAIGNS 0-8](http://adsabs.harvard.edu/abs/2019arXiv190710806K)  
 Kruse, Ethan, Agol, Eric, Luger, Rodrigo, et al.    
 2019, not refereed ([2019arXiv190710806K](http://adsabs.harvard.edu/abs/2019arXiv190710806K))  
 
-17. [IT TAKES TWO PLANETS IN RESONANCE TO TANGO AROUND K2-146](http://adsabs.harvard.edu/abs/2019arXiv190711141L)  
+15. [IT TAKES TWO PLANETS IN RESONANCE TO TANGO AROUND K2-146](http://adsabs.harvard.edu/abs/2019arXiv190711141L)  
 Lam, Kristine W. F., Korth, Judith, Masuda, Kento, et al.    
 2019, not refereed ([2019arXiv190711141L](http://adsabs.harvard.edu/abs/2019arXiv190711141L))  
 
@@ -379,10 +403,6 @@ Ansdell, M., Gaidos, E., Jacobs, T. L., et al.
 Livingston, John H., Dai, Fei, Hirano, Teruyuki, et al.    
 2019, refereed ([2019MNRAS.484....8L](http://adsabs.harvard.edu/abs/2019MNRAS.484....8L))  
 
-12. [EPIC 202843107 : A CLOSE ECLIPSING BINARY CONTAINING A {\DELTA} SCUTI VARIABLE](http://adsabs.harvard.edu/abs/2019arXiv190307846O)  
-Ou, Jian-Wen, Yang, Ming, Zhou, Ji-Lin    
-2019, not refereed ([2019arXiv190307846O](http://adsabs.harvard.edu/abs/2019arXiv190307846O))  
-
 
 2019-02
 -------
@@ -499,13 +519,13 @@ Karjalainen, Marie, de Mooij, Ernst J. W., Karjalainen, Raine, et al.
 Korth, J., Csizmadia, Sz, Gandolfi, D., et al.    
 2019, refereed ([2019MNRAS.482.1807K](http://adsabs.harvard.edu/abs/2019MNRAS.482.1807K))  
 
-13. [A TRANSITING HOT JUPITER CANDIDATE TOWARD THE GALACTIC CENTER IDENTIFIED IN THE KEPLER/K2 CAMPAIGN 9 MICROLENSING SURVEY](http://adsabs.harvard.edu/abs/2019RNAAS...3a..18H)  
+13. [A TRANSITING HOT JUPITER CANDIDATE TOWARD THE GALACTIC CENTER IDENTIFIED IN THE KEPLER/K2 CAMPAIGN 9 MICROLENSING SURVEY](http://adsabs.harvard.edu/abs/2019RNAAS...3...18H)  
 Hedges, Christina, Saunders, Nicholas, Coughlin, Jeffrey L., et al.    
-2019, not refereed ([2019RNAAS...3a..18H](http://adsabs.harvard.edu/abs/2019RNAAS...3a..18H))  
+2019, not refereed ([2019RNAAS...3...18H](http://adsabs.harvard.edu/abs/2019RNAAS...3...18H))  
 
-14. [HUNDREDS MORE PLANETS AWAIT DISCOVERY IN KEPLER'S K2 DATA SET](http://adsabs.harvard.edu/abs/2019RNAAS...3a..23D)  
+14. [HUNDREDS MORE PLANETS AWAIT DISCOVERY IN KEPLER'S K2 DATA SET](http://adsabs.harvard.edu/abs/2019RNAAS...3...23D)  
 Dotson, Jessie L., Barentsen, Geert, Hedges, Christina, et al.    
-2019, not refereed ([2019RNAAS...3a..23D](http://adsabs.harvard.edu/abs/2019RNAAS...3a..23D))  
+2019, not refereed ([2019RNAAS...3...23D](http://adsabs.harvard.edu/abs/2019RNAAS...3...23D))  
 
 15. [KILLING PLANET CANDIDATES WITH EVEREST](http://adsabs.harvard.edu/abs/2019arXiv190102017G)  
 Greklek-McKeon, Michael, Deming, Drake    
@@ -643,9 +663,9 @@ Izquierdo, Paula, Rodríguez-Gil, Pablo, Gänsicke, Boris T., et al.
 Pál, András, Molnár, László, Kiss, Csaba    
 2018, refereed ([2018PASP..130k4503P](http://adsabs.harvard.edu/abs/2018PASP..130k4503P))  
 
-18. [A CATALOG OF 29 OPEN CLUSTERS AND ASSOCIATIONS OBSERVED BY THE KEPLER AND K2 MISSIONS](http://adsabs.harvard.edu/abs/2018RNAAS...2d.199C)  
+18. [A CATALOG OF 29 OPEN CLUSTERS AND ASSOCIATIONS OBSERVED BY THE KEPLER AND K2 MISSIONS](http://adsabs.harvard.edu/abs/2018RNAAS...2..199C)  
 Cody, Ann Marie, Barentsen, Geert, Hedges, Christina, et al.    
-2018, not refereed ([2018RNAAS...2d.199C](http://adsabs.harvard.edu/abs/2018RNAAS...2d.199C))  
+2018, not refereed ([2018RNAAS...2..199C](http://adsabs.harvard.edu/abs/2018RNAAS...2..199C))  
 
 
 2018-10
@@ -719,17 +739,17 @@ Zang, Weicheng, Penny, Matthew T., Zhu, Wei, et al.
 Barragan, Oscar    
 2018, refereed ([2018PhDT.......152B](http://adsabs.harvard.edu/abs/2018PhDT.......152B))  
 
-18. [NO OPTIMAL SFF MOTION DETRENDING PARAMETERS FOR RED GIANT ASTEROSEISMOLOGY IN K2](http://adsabs.harvard.edu/abs/2018RNAAS...2d.182Z)  
+18. [NO OPTIMAL SFF MOTION DETRENDING PARAMETERS FOR RED GIANT ASTEROSEISMOLOGY IN K2](http://adsabs.harvard.edu/abs/2018RNAAS...2..182Z)  
 Zhang, Johnny, Hedges, Christina, Barentsen, Geert    
-2018, not refereed ([2018RNAAS...2d.182Z](http://adsabs.harvard.edu/abs/2018RNAAS...2d.182Z))  
+2018, not refereed ([2018RNAAS...2..182Z](http://adsabs.harvard.edu/abs/2018RNAAS...2..182Z))  
 
-19. [AN IMPROVED ORBITAL PERIOD FOR GY CANCRI BASED ON TWO K2 CAMPAIGNS](http://adsabs.harvard.edu/abs/2018RNAAS...2d.184C)  
+19. [AN IMPROVED ORBITAL PERIOD FOR GY CANCRI BASED ON TWO K2 CAMPAIGNS](http://adsabs.harvard.edu/abs/2018RNAAS...2..184C)  
 Cañizares, Luis Alberto, Garnavich, Peter, Littlefield, Colin, et al.    
-2018, not refereed ([2018RNAAS...2d.184C](http://adsabs.harvard.edu/abs/2018RNAAS...2d.184C))  
+2018, not refereed ([2018RNAAS...2..184C](http://adsabs.harvard.edu/abs/2018RNAAS...2..184C))  
 
-20. [A CATALOG OF STARS OBSERVED SIMULTANEOUSLY BY KEPLER AND TESS](http://adsabs.harvard.edu/abs/2018RNAAS...2d.192B)  
+20. [A CATALOG OF STARS OBSERVED SIMULTANEOUSLY BY KEPLER AND TESS](http://adsabs.harvard.edu/abs/2018RNAAS...2..192B)  
 Barclay, Thomas, Barentsen, Geert    
-2018, not refereed ([2018RNAAS...2d.192B](http://adsabs.harvard.edu/abs/2018RNAAS...2d.192B))  
+2018, not refereed ([2018RNAAS...2..192B](http://adsabs.harvard.edu/abs/2018RNAAS...2..192B))  
 
 21. [KEPLER'S DISCOVERIES WILL CONTINUE: 21 IMPORTANT SCIENTIFIC OPPORTUNITIES WITH KEPLER &AMP; K2 ARCHIVE DATA](http://adsabs.harvard.edu/abs/2018arXiv181012554B)  
 Barentsen, Geert, Hedges, Christina, Saunders, Nicholas, et al.    
@@ -767,9 +787,9 @@ Tokovinin, Andrei, Briceño, Cesar
 Dai, Fei, Masuda, Kento, Winn, Joshua N.    
 2018, refereed ([2018ApJ...864L..38D](http://adsabs.harvard.edu/abs/2018ApJ...864L..38D))  
 
-8. [THE MYSTERY OF THE INVISIBLE BROWN DWARF COMPANION TO THE ECLIPSING BINARY V471 TAURI—ANALYSIS OF 45 YEARS OF ECLIPSE TIMINGS INCLUDING K2](http://adsabs.harvard.edu/abs/2018RNAAS...2c.179M)  
+8. [THE MYSTERY OF THE INVISIBLE BROWN DWARF COMPANION TO THE ECLIPSING BINARY V471 TAURI—ANALYSIS OF 45 YEARS OF ECLIPSE TIMINGS INCLUDING K2](http://adsabs.harvard.edu/abs/2018RNAAS...2..179M)  
 Marchioni, Lucas, Guinan, Edward F., Engle, Scott G., et al.    
-2018, not refereed ([2018RNAAS...2c.179M](http://adsabs.harvard.edu/abs/2018RNAAS...2c.179M))  
+2018, not refereed ([2018RNAAS...2..179M](http://adsabs.harvard.edu/abs/2018RNAAS...2..179M))  
 
 
 2018-08
@@ -1111,9 +1131,9 @@ Giles, H. A. C., Bayliss, D., Espinoza, N., et al.
 Louie, Dana R., Deming, Drake, Albert, Loic, et al.    
 2018, refereed ([2018PASP..130d4401L](http://adsabs.harvard.edu/abs/2018PASP..130d4401L))  
 
-13. [NEW PERSPECTIVES OF OUR NEARBY RED DWARF NEIGHBOR WOLF 359 FROM THE KEPLER K2 MISSION](http://adsabs.harvard.edu/abs/2018RNAAS...2b...1G)  
+13. [NEW PERSPECTIVES OF OUR NEARBY RED DWARF NEIGHBOR WOLF 359 FROM THE KEPLER K2 MISSION](http://adsabs.harvard.edu/abs/2018RNAAS...2....1G)  
 Guinan, Edward F., Engle, Scott G.    
-2018, not refereed ([2018RNAAS...2b...1G](http://adsabs.harvard.edu/abs/2018RNAAS...2b...1G))  
+2018, not refereed ([2018RNAAS...2....1G](http://adsabs.harvard.edu/abs/2018RNAAS...2....1G))  
 
 
 2018-03
@@ -1239,17 +1259,17 @@ Rappaport, S., Gary, B. L., Vanderburg, A., et al.
 Farihi, J., Fossati, L., Wheatley, P. J., et al.    
 2018, refereed ([2018MNRAS.474..947F](http://adsabs.harvard.edu/abs/2018MNRAS.474..947F))  
 
-12. [EPHEMERIS REFINEMENT OF A HOT JUPITER K2-140B](http://adsabs.harvard.edu/abs/2018RNAAS...2a..22M)  
+12. [EPHEMERIS REFINEMENT OF A HOT JUPITER K2-140B](http://adsabs.harvard.edu/abs/2018RNAAS...2...22M)  
 Močnik, T., Hellier, C., Anderson, D. R.    
-2018, not refereed ([2018RNAAS...2a..22M](http://adsabs.harvard.edu/abs/2018RNAAS...2a..22M))  
+2018, not refereed ([2018RNAAS...2...22M](http://adsabs.harvard.edu/abs/2018RNAAS...2...22M))  
 
-13. [K2SUPERSTAMP: THE RELEASE OF CALIBRATED MOSAICS FOR THE KEPLER/K2 MISSION](http://adsabs.harvard.edu/abs/2018RNAAS...2a..25C)  
+13. [K2SUPERSTAMP: THE RELEASE OF CALIBRATED MOSAICS FOR THE KEPLER/K2 MISSION](http://adsabs.harvard.edu/abs/2018RNAAS...2Q..25C)  
 Cody, Ann Marie, Barentsen, Geert, Hedges, Christina, et al.    
-2018, not refereed ([2018RNAAS...2a..25C](http://adsabs.harvard.edu/abs/2018RNAAS...2a..25C))  
+2018, not refereed ([2018RNAAS...2Q..25C](http://adsabs.harvard.edu/abs/2018RNAAS...2Q..25C))  
 
-14. [SINGLE TRANSITS AND ECLIPSES OBSERVED BY K2](http://adsabs.harvard.edu/abs/2018RNAAS...2a..28L)  
+14. [SINGLE TRANSITS AND ECLIPSES OBSERVED BY K2](http://adsabs.harvard.edu/abs/2018RNAAS...2...28L)  
 LaCourse, Daryll M., Jacobs, Thomas Lee    
-2018, not refereed ([2018RNAAS...2a..28L](http://adsabs.harvard.edu/abs/2018RNAAS...2a..28L))  
+2018, not refereed ([2018RNAAS...2...28L](http://adsabs.harvard.edu/abs/2018RNAAS...2...28L))  
 
 
 2018-01
@@ -1375,9 +1395,9 @@ North, Thomas S. H., Campante, Tiago L., Miglio, Andxsrea, et al.
 Jeffery, C. Simon, Neelamkodan, Naslim, Woolf, Vincent M., et al.    
 2017, refereed ([2017OAst...26..202J](http://adsabs.harvard.edu/abs/2017OAst...26..202J))  
 
-14. [LINEAR MODELS FOR SYSTEMATICS AND NUISANCES](http://adsabs.harvard.edu/abs/2017RNAAS...1a...7L)  
+14. [LINEAR MODELS FOR SYSTEMATICS AND NUISANCES](http://adsabs.harvard.edu/abs/2017RNAAS...1....7L)  
 Luger, Rodrigo, Foreman-Mackey, Daniel, Hogg, David W.    
-2017, not refereed ([2017RNAAS...1a...7L](http://adsabs.harvard.edu/abs/2017RNAAS...1a...7L))  
+2017, not refereed ([2017RNAAS...1....7L](http://adsabs.harvard.edu/abs/2017RNAAS...1....7L))  
 
 15. [FLIPER: CHECKING THE RELIABILITY OF GLOBAL SEISMIC PARAMETERS FROM AUTOMATIC PIPELINES](http://adsabs.harvard.edu/abs/2017sf2a.conf...85B)  
 Bugnet, L., García, R. A., Davies, G. R., et al.    
