@@ -21,11 +21,11 @@ including information on field pointing, target selection, observation times and
 <li> Roll: 22.8818335 degrees</li>
 </ul>
 
-<b><i>Targets</i></b>
+<b><i>Targets With Data Available at MAST</i></b>
 <ul>
-<li>  44,224 long cadence (LC) targets, including 11,495 galaxy targets.</li>
-<li>  222 short cadence (SC) targets.</li>
-<li>  31 moving objects (including Neptune) were tiled with LC custom strip apertures (see below for details).</li>
+<li>44,152 EPIC IDs in long cadence (LC).</li>
+<li>222 EPIC IDs in short cadence (LC).</li>
+<li>31 moving objects (including Neptune) were tiled with LC custom strip apertures (see below for details).</li>
 </ul>
 
 <b><i>Full Frame Images (FFI)</i></b>
@@ -248,11 +248,11 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 <li> Roll: 165.8977388 degrees</li>
 </ul>
 
-<b><i>Targets</i></b>
+<b><i>Targets With Data Available at MAST</i></b>
 <ul>
-<li>  36,971 long cadence (LC) targets, including 2,193 galaxy targets.</li>
-<li>  237 short cadence (SC) targets.</li>
-<li>  27 moving objects were tiled with LC custom strip apertures. 11 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. See the <a href="images/release-notes/c18/kplr2018254082100_c18_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
+<li>36,909 EPIC IDs in long cadence (LC).</li>
+<li>237 EPIC IDs in short cadence (LC).</li>
+<li>27 moving objects were tiled with LC custom strip apertures. 11 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. See the <a href="images/release-notes/c18/kplr2018254082100_c18_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
 </ul>
 
 <b><i>Full Frame Images (FFI)</i></b>
@@ -434,11 +434,11 @@ Campaign 17 was flown in the forward velocity vector direction in order to enabl
 <li> Roll:  -20.7870925 degrees</li>
 </ul>
 
-<b><i>Targets</i></b>
+<b><i>Targets With Data Available at MAST</i></b>
 <ul>
-<li>  46,302 long cadence (LC) targets, including 14,314 galaxy targets.</li>
-<li>  179 short cadence (SC) targets.</li>
-<li>  24 moving objects were tiled with LC custom strip apertures. 6 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. See the <a href="images/release-notes/c17/kplr2018190145900_c17_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
+<li>46,230 EPIC IDs in long cadence (LC).</li>
+<li>179 EPIC IDs in short cadence (LC).</li>
+<li>24 moving objects were tiled with LC custom strip apertures. 6 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. See the <a href="images/release-notes/c17/kplr2018190145900_c17_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
 </ul>
 
 <b><i>Full Frame Images (FFI)</i></b>
@@ -615,11 +615,11 @@ Campaign 16 was flown in the forward velocity vector direction in order to enabl
 <li> Roll:  -15.0605959 degrees</li>
 </ul>
 
-<b><i>Targets</i></b>
+<b><i>Targets With Data Available at MAST</i></b>
 <ul>
-<li>  35,643 long cadence (LC) targets, including 9,245 galaxy targets.</li>
-<li>  131 short cadence (SC) targets.</li>
-<li>  20 moving objects were tiled with LC custom strip apertures. 7 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. See the <a href="images/release-notes/c16/kplr2018125112300_c16_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
+<li>35,571 EPIC IDs in long cadence (LC).</li>
+<li>131 EPIC IDs in short cadence (LC).</li>
+<li>20 moving objects were tiled with LC custom strip apertures. 7 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. See the <a href="images/release-notes/c16/kplr2018125112300_c16_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
 </ul>
 
 <b><i>Full Frame Images (FFI)</i></b>
@@ -835,11 +835,11 @@ The target HD 76333 (EPIC 200200727), a nearby high proper-motion F3V star, fail
 <li> Roll:  166.7780778 degrees</li>
 </ul>
 
-<b><i>Targets</i></b>
+<b><i>Targets With Data Available at MAST</i></b>
 <ul>
-<li>  35,150 long cadence (LC) targets, including 3,485 galaxy targets.</li>
-<li>  118 short cadence (SC) targets.</li>
-<li>  38 moving objects were tiled with LC custom strip apertures. 13 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. See the <a href="images/release-notes/c15/kplr2017355085300_c15_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
+<li>35,078 EPIC IDs in long cadence (LC).</li>
+<li>118 EPIC IDs in short cadence (LC).</li>
+<li>38 moving objects were tiled with LC custom strip apertures. 13 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. See the <a href="images/release-notes/c15/kplr2017355085300_c15_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
 </ul>
 
 <b><i>Full Frame Images (FFI)</i></b>
@@ -1100,11 +1100,11 @@ Starting with C15, short-cadence light curves are now produced and available at 
 <li> Roll:  158.7573464 degrees</li>
 </ul>
 
-<b><i>Targets</i></b>
+<b><i>Targets With Data Available at MAST</i></b>
 <ul>
-<li>  39,098 long cadence (LC) targets, including 14,691 galaxy targets</li>
-<li>  147 short cadence (SC) targets, with 163 target definitions</li>
-<li>  42 moving objects were tiled with LC custom strip apertures. 7 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. See the <a href="images/release-notes/c14/ktwoc14_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
+<li>39,024 EPIC IDs in long cadence (LC).</li>
+<li>147 EPIC IDs in short cadence (LC).</li>
+<li>42 moving objects were tiled with LC custom strip apertures. 7 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. See the <a href="images/release-notes/c14/ktwoc14_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
 </ul>
 
 <b><i>Full Frame Images (FFI)</i></b>
@@ -1290,11 +1290,11 @@ These release notes are for the C13 data currently available at MAST in the nomi
 <li> Roll: -172.7995758 degrees</li>
 </ul>
 
-<b><i>Targets</i></b>
+<b><i>Targets With Data Available at MAST</i></b>
 <ul>
-<li> 26,242 long cadence (LC) targets, including 21,434 standard LC stellar (or point-like) targets</li>
-<li> 118 short cadence (SC) targets, with 144 target definitions</li>
-<li> 15 moving objects were tiled with LC custom strip apertures. 33 bright stars, including Aldebaran, were assigned 40-pixel diameter LC disk apertures to capture the point spread function wings. Nine bright Hyades cluster stars were assigned 24-pixel diameter SC disk apertures. See the <a href="images/release-notes/c13/ktwoc13_caf.csv">csv file that maps</a> the custom aperture number to the target name.</li>
+<li>26,170 EPIC IDs in long cadence (LC).</li>
+<li>118 EPIC IDs in short cadence (LC).</li>
+<li>15 moving objects were tiled with LC custom strip apertures. 33 bright stars, including Aldebaran, were assigned 40-pixel diameter LC disk apertures to capture the point spread function wings. Nine bright Hyades cluster stars were assigned 24-pixel diameter SC disk apertures. See the <a href="images/release-notes/c13/ktwoc13_caf.csv">csv file that maps</a> the custom aperture number to the target name.</li>
 </ul>
 
 <b><i>Full Frame Image (FFI)</i></b>
@@ -1464,11 +1464,11 @@ The following four targets failed short-cadence PDC processing due to them being
 <li>Roll: -156.8808419 degrees</li>
 </ul>
 
-<b><i>Targets</i></b>
+<b><i>Targets With Data Available at MAST</i></b>
 <ul>
-<li> 29,221 standard long cadence (LC) stellar targets, with 46,113 total target definitions</li>
-<li> 141 short cadence (SC) stellar targets, with 249 target definitions</li>
-<li> 42 unique LC custom targets were selected, along with two SC custom target apertures for Chiron and Trappist-1. See the <a href="images/release-notes/c12/ktwoc12_caf.csv">csv file that maps</a> the custom aperture number to the target name.</li>
+<li>45,951 EPIC IDs in long cadence (LC).</li>
+<li>234 EPIC IDs in short cadence (LC).</li>
+<li>42 unique LC custom targets were selected, along with two SC custom target apertures for Chiron and Trappist-1. See the <a href="images/release-notes/c12/ktwoc12_caf.csv">csv file that maps</a> the custom aperture number to the target name.</li>
 </ul>
 
 <b><i>Full Frame Images (FFI)</i></b>
@@ -1772,12 +1772,19 @@ archive products as C111 and C112, respectively.
 <li>delta-Roll: -0.32 degrees</li>
 </ul>
 
-<b><i>C11 Targets</i></b>
+<b><i>C11a Targets With Data Available at MAST</i></b>
 <ul>
-<li> 32884 (32580 in C11b) in long cadence (LC)</li>
-<li> 67 (66 in C11b) in short cadence (SC)</li>
-<li> 72 Custom targets (see below)
-<li> No new targets were added for C11b. Because of the change in pointing, 304 long cadence targets and 1 short cadence target fell off active silicon and thus were dropped in C11b.
+<li>32,812 EPIC IDs in long cadence (LC).</li>
+<li>67 EPIC IDs in short cadence (LC).</li>
+<li>72 Custom targets (see below).</li>
+</ul>
+
+<b><i>C11b Targets With Data Available at MAST</i></b>
+<ul>
+<li>32,508 EPIC IDs in long cadence (LC).</li>
+<li>66 EPIC IDs in short cadence (LC).</li>
+<li>72 Custom targets (see below).</li>
+<li>No new targets were added for C11b. Because of the change in pointing, 304 long cadence targets and 1 short cadence target fell off active silicon and thus were dropped in C11b.</li>
 </ul>
 
 <b><i>Full Frame Images (FFI)</i></b>
@@ -2213,6 +2220,24 @@ The C10a offset from the desired pointing (nominal - measured) was
 <li>delta-Roll: -8.00606815 arcsec</li>
 </ul>
 
+<b><i>Targets With Data Available at MAST</i></b>
+<ul>
+<li>41,531 EPIC IDs in long cadence (LC).</li>
+<li>138 EPIC IDs in short cadence (LC).</li>
+<li>Custom targets include 16 Solar System moving objects tiled with multiple apertures, 8 bright stars covered with disk apertures to capture the PSF wings, and 27 large galaxies. See the <a href="images/release-notes/c10/ktwoc10_caf.csv">csv file that maps</a> the Solar system object custom aperture numbers to the target names.</li>
+</ul>
+
+<b><i>Full Frame Images (FFI)</i></b>
+<p>
+Both C10 FFIs were taken at the C10b pointing.
+The first includes data from module~4,
+the second does not.
+</p>
+<ul>
+<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2016199030108-c102_ffi-cal.fits">ktwo2016199030108-c102_ffi-cal.fits</a></li>
+<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2016240074042-c102_ffi-cal.fits">ktwo2016240074042-c102_ffi-cal.fits</a></li>
+</ul>
+
 <b><i>C10a First cadence</i></b>
 <ul>
 <li>Time: 2016-07-06 19:45:29 UTC</li>
@@ -2226,8 +2251,6 @@ The C10a offset from the desired pointing (nominal - measured) was
 <li>Long Cadence Number: 129230</li>
 <li>Short Cadence Number: 3865389</li>
 </ul>
-
-<br>
 
 <b><i>C10b First cadence</i></b>
 <ul>
@@ -2255,24 +2278,6 @@ The C10a offset from the desired pointing (nominal - measured) was
 <li>Time: 2016-09-20 04:52:03 UTC</li>
 <li>Long Cadence Number: 132614</li>
 <li>Short Cadence Number: 3966909</li>
-</ul>
-
-<b><i>C10 Targets</i></b>
-<ul>
-<li>  41,607 in long cadence (LC)</li>
-<li>  138 in short cadence (SC)</li>
-<li>  Custom targets include 16 Solar System moving objects tiled with multiple apertures, 8 bright stars covered with disk apertures to capture the PSF wings, and 27 large galaxies. See the <a href="images/release-notes/c10/ktwoc10_caf.csv">csv file that maps</a> the Solar system object custom aperture numbers to the target names.</li>
-</ul>
-
-<b><i>Full Frame Images (FFI)</i></b>
-<p>
-Both C10 FFIs were taken at the C10b pointing.
-The first includes data from module~4,
-the second does not.
-</p>
-<ul>
-<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2016199030108-c102_ffi-cal.fits">ktwo2016199030108-c102_ffi-cal.fits</a></li>
-<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2016240074042-c102_ffi-cal.fits">ktwo2016240074042-c102_ffi-cal.fits</a></li>
 </ul>
 
 <b><i>Most Recent Processing Version</i></b>
@@ -2510,11 +2515,31 @@ and C92, respectively.
 <li>Roll: 0.4673417 degrees</li>
 </ul>
 
-<b><i>C9a Targets</i></b>
+<b><i>C9b Pointing</i></b>
 <ul>
-<li>3,481 in long cadence (LC)</li>
-<li>12 in short cadence (SC)</li>
+<li>RA: 270.3543824 degrees</li>
+<li>Dec: -21.7804700 degrees</li>
+<li>Roll: 0.4673417 degrees</li>
+</ul>
+
+<b><i>C9a Targets With Data Available at MAST</i></b>
+<ul>
+<li>3,417 EPIC IDs in long cadence (LC)</li>
+<li>12 EPIC IDs in short cadence (SC)</li>
 <li>76 unique custom targets were selected in C9. Three million of the total 3.3 million C9 target pixels were used to construct microlensing super apertures on 5 channels around the Galactic bulge. See the <a href="images/release-notes/c9/ktwoc91_caf.csv">csv file that maps</a> the custom aperture number to the target name.</li>
+</ul>
+
+<b><i>C9b Targets With Data Available at MAST</i></b>
+<ul>
+<li>3,550 EPIC IDs in long cadence (LC)</li>
+<li>13 EPIC IDs in short cadence (SC)</li>
+<li>132 additional long-cadence  microlensing targets and 1 short-cadence target were added to the C9a target list for C9b. See the <a href="images/release-notes/c9/ktwoc92_caf.csv">csv file that maps</a> the custom aperture number to the target name.</li>
+</ul>
+
+<b><i>Full Frame Images (FFI)</i></b>
+<ul>
+<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2016119231109-c91_ffi-cal.fits">ktwo2016119231109-c91_ffi-cal.fits</a></li>
+<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2016153221424-c92_ffi-cal.fits">ktwo2016153221424-c92_ffi-cal.fits</a></li>
 </ul>
 
 <b><i>C9a First cadence</i></b>
@@ -2531,22 +2556,6 @@ and C92, respectively.
 <li>Short Cadence Number: 3784449</li>
 </ul>
 
-<br>
-
-<b><i>C9b Pointing</i></b>
-<ul>
-<li>RA: 270.3543824 degrees</li>
-<li>Dec: -21.7804700 degrees</li>
-<li>Roll: 0.4673417 degrees</li>
-</ul>
-
-<b><i>C9b Targets</i></b>
-<ul>
-<li>3,614 in long cadence (LC)</li>
-<li>13 in short cadence (SC)</li>
-<li>132 additional long-cadence  microlensing targets and 1 short-cadence target were added to the C9a target list for C9b. See the <a href="images/release-notes/c9/ktwoc92_caf.csv">csv file that maps</a> the custom aperture number to the target name.</li>
-</ul>
-
 <b><i>C9b First cadence</i></b>
 <ul>
 <li>Time: 2016-05-22 14:58:45 UTC</li>
@@ -2561,11 +2570,6 @@ and C92, respectively.
 <li>Short Cadence Number: 3850509 </li>
 </ul>
 
-<b><i>Full Frame Images (FFI)</i></b>
-<ul>
-<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2016119231109-c91_ffi-cal.fits">ktwo2016119231109-c91_ffi-cal.fits</a></li>
-<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2016153221424-c92_ffi-cal.fits">ktwo2016153221424-c92_ffi-cal.fits</a></li>
-</ul>
 
 <b><i>Most Recent Processing Version</i></b>
 <ul>
@@ -2830,10 +2834,10 @@ are quite large and may cause memory problems when accessed:
 <li>Roll: -157.3538761 degrees</li>
 </ul>
 
-<b><i>Targets</i></b>
+<b><i>Targets With Data Available at MAST</i></b>
 <ul>
-<li> 24,187 in long cadence (LC)</li>
-<li> 55 in short cadence (SC) including Uranus</li>
+<li>29,939 EPIC IDs in long cadence (LC).</li>
+<li>63 EPIC IDs in short cadence (LC).</li>
 <li>26 unique LC custom targets were selected. See the <a href="images/release-notes/c8/ktwoc08_caf.csv">csv file that maps</a> the custom aperture number to the target name.</li>
 </ul>
 
@@ -3019,10 +3023,10 @@ The extent of the problem in time and CCD columns can be seen in the figure *C8-
         <li>Roll: -172.78037532 degrees</li>
     </ul>
 
-    <b><i>Targets</i></b>
+    <b><i>Targets With Data Available at MAST</i></b>
     <ul>
-        <li> 13,469 in long cadence (LC)</li>
-        <li> 72 in short cadence (SC)</li>
+        <li>15,085 EPIC IDs in long cadence (LC).</li>
+        <li>72 EPIC IDs in short cadence (LC).</li>
         <li>Several custom targets were selected. See the <a href="images/release-notes/c7/ktwoc07_caf.csv">csv file that maps</a> the custom aperture number to the target name.</li>
     </ul>
 
@@ -3209,10 +3213,10 @@ There are 4 channels in C7 for which the saturation spill due to very bright sta
         <li>Roll: 159.6356000 degrees</li>
     </ul>
 
-    <b><i>Targets</i></b>
+    <b><i>Targets With Data Available at MAST</i></b>
     <ul>
-        <li> 28,289 in long cadence (LC)</li>
-        <li> 84 in short cadence (SC)</li>
+        <li>47,550 EPIC IDs in long cadence (LC).</li>
+        <li>84 EPIC IDs in short cadence (LC).</li>
         <li>Several custom targets (see below)</li>
     </ul>
 
@@ -3367,10 +3371,10 @@ These release notes are for the C5 data currently available at MAST (Data Releas
         <li>Roll: 166.0591297 degrees</li>
     </ul>
 
-    <b><i>Targets</i></b>
+    <b><i>Targets With Data Available at MAST</i></b>
     <ul>
-        <li>25,850 in long cadence (LC)</li>
-        <li>204 in short cadence (SC)</li>
+        <li>25,774 EPIC IDs in long cadence (LC).</li>
+        <li>204 EPIC IDs in short cadence (LC).</li>
         <li>Several custom targets (see below)</li>
     </ul>
 
@@ -3560,10 +3564,10 @@ These release notes are for the C4 data currently available at MAST (Data Releas
         <li>Roll: -167.6992793 degrees</li>
     </ul>
 
-    <b><i>C4 Targets</i></b>
+    <b><i>Targets With Data Available at MAST</i></b>
     <ul>
-        <li>15,847 in long cadence (LC)</li>
-        <li>122 in short cadence (SC)</li>
+        <li>15,847 EPIC IDs in long cadence (LC).</li>
+        <li>122 EPIC IDs in short cadence (LC).</li>
         <li>Several custom targets (see below)</li>
     </ul>
 
@@ -3834,10 +3838,10 @@ These release notes are for the C3 data currently available at MAST (Data Releas
         <li>Roll: -158.494818065985 degrees</li>
     </ul>
 
-    <b><i>Targets</i></b>
+    <b><i>Targets With Data Available at MAST</i></b>
     <ul>
-        <li>16,375 in long cadence (LC)</li>
-        <li>55 in short cadence (SC)</li>
+        <li>16,833 EPIC IDs in long cadence (LC).</li>
+        <li>216 EPIC IDs in short cadence (LC).</li>
         <li>Several custom targets (see below)</li>
     </ul>
 
@@ -4004,10 +4008,10 @@ These release notes are for the C2 data currently available at MAST in the nomin
 <li> Roll: 171.2284 degrees</li>
 </ul>
 
-<b><i>Targets</i></b>
+<b><i>Targets With Data Available at MAST</i></b>
 <ul>
-<li>13,399 in long cadence (LC)</li>
-<li>54 in short cadence (SC)</li>
+<li>16,665 EPIC IDs in long cadence (LC).</li>
+<li>54 EPIC IDs in short cadence (LC).</li>
 <li>Several custom targets (see below)</li>
 </ul>
 
@@ -4245,11 +4249,11 @@ These release notes are for the C1 data currently available at MAST (Data Releas
         <li>Roll: 157.641206 degrees</li>
     </ul>
 
-    <b><i>C1 Targets</i></b>
+    <b><i>Targets With Data Available at MAST</i></b>
     <ul>
-    <li>  21,732 in long cadence (LC)</li>
-    <li>  56 in short cadence (SC)</li>
-<li>  1 custom target was selected in C1: TNO 2002 GV31, which was assigned EPIC ID 200001049</li>
+    <li>21,647 EPIC IDs in long cadence (LC).</li>
+    <li>56 EPIC IDs in short cadence (LC).</li>
+    <li>1 custom target was selected in C1: TNO 2002 GV31, which was assigned EPIC ID 200001049</li>
     </ul>
 
     <b><i>Full Frame Images (FFI)</i></b>
@@ -4447,10 +4451,10 @@ Campaign 0 (C0) was implemented as a full-length engineering test to prove that 
         <li>Roll: 177.4754730 degrees</li>
     </ul>
 
-    <b><i>Targets</i></b>
+    <b><i>Targets With Data Available at MAST</i></b>
     <ul>
-        <li>7,902 in long cadence (LC)</li>
-        <li>13 in short cadence (SC)</li>
+        <li>7,902 EPIC IDs in long cadence (LC).</li>
+        <li>13 EPIC IDs in short cadence (LC).</li>
         <li>Several custom targets (see below)</li>
     </ul>
 
