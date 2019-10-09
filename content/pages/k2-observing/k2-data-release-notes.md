@@ -3202,8 +3202,12 @@ There are 4 channels in C7 for which the saturation spill due to very bright sta
 
 # K2 Campaign 6
 
+These release notes are for the C6 data currently available at MAST (Data Release 35) in the nominal K2 data locations, which have been processed with the final version of the K2 pipeline as part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a>. The original release notes corresponding to the previous versions of C6 data (Data Release 8) can be found in the <a href="archived-k2-data-release-notes.html#k2-campaign-6">archived data release notes page</a>.
+
+
 <h2>At a glance</h2>
 
+<div class="row">
 <div class="col-lg-5">
 
     <b><i>Pointing</i></b>
@@ -3242,31 +3246,48 @@ There are 4 channels in C7 for which the saturation spill due to very bright sta
 
     <b><i>Most Recent Processing Version</i></b>
     <ul>
-    <li> <a href="k2-pipeline-release-notes.html#data-release-8">Data Release 8</a> </li>
+    <li> <a href="k2-pipeline-release-notes.html#data-release-35">Data Release 35</a> </li>
     </ul>
+
+    <br>
+
+    <div class="thumbnail">
+        <div class="caption">
+            <i>Figure C6-Mag: Distribution of the Kepler magnitudes of observed LC targets in C6. All targets are chosen by Guest Observers. The shape is due to how the largest <a href="k2-approved-programs.html#campaign-6">Guest Observer programs</a> were selected.</i>
+        </div>
+        <a href="images/release-notes/c6/c6LcMagDistribution.png">
+            <img src="images/release-notes/c6/c6LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets in C6.">
+        </a>
+    </div>
 
 </div>
 
 <div class="col-lg-7">
 
-    <div class="thumbnail">
-        <div class="caption">
-            <i>Figure: Schematic of Kepler's C6 field-of-view with observed targets shown with purple dots.</i>
-        </div>
-        <a href="images/campaign_selected/C6_selected.png">
-            <img src="images/campaign_selected/C6_selected.png" class="img-responsive" alt="C6 field-of-view with selected targets">
-        </a>
-    </div>
-
-    <div class="thumbnail">
-        <div class="caption">
-            <i>Figure: Distribution of the Kepler magnitudes of observed LC targets. All targets are chosen by guest observers. The bimodality is due to how the largest <a href="k2-approved-programs.html#campaign-6">GO  programs</a> were selected.</i>
-        </div>
-        <a href="images/release-notes/c6/c6LcMagDistribution.png">
-            <img src="images/release-notes/c6/c6LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets.">
-        </a>
-    </div>
+<div class="thumbnail">
+  <div class="caption">
+    <i>Figure: Figure C6-FOV: Schematic of Kepler's C6 field-of-view with high profile objects.</i>
+  </div>
+  <a href="images/k2/k2-c06-field.png">
+    <img src="images/k2/k2-c06-field.png" class="img-responsive" alt="C6 field-of-view with selected targets">
+  </a>
 </div>
+
+<div class="thumbnail">
+  <div class="caption">
+    <i>Figure: Figure C6-FFI: A full frame image (FFI) taken during C6, with a flux scaling designed to highlight features of interest.</i>
+  </div>
+  <a href="images/release-notes/c6/C6R-FFI.png">
+    <img src="images/release-notes/c6/C6R-FFI.png" class="img-responsive" alt="A C6 FFI">
+  </a>
+</div>
+
+</div>
+
+</div>
+
+
+
 
 <h2>Features and Events</h2>
 
@@ -3336,18 +3357,34 @@ The star on Module 25 used for guiding during C6 was highly variable. No adverse
 
 ***Light Curve Quality***
 
-The dominant systematic present in K2 simple aperture photometry light curves is a sawtooth shape that is due to the roll of the spacecraft approximately every 6 hours. The PDC module of the Kepler Pipeline uses Principle Component Analysis to remove this signal in addition to other systematics. Below, we examine observed noise levels in the PDC light curves for C6, Data Release 8.
 
-<a href="images/release-notes/c6/K2-C06_bin1.00_sc1.00_CDPP_Summary.txt">Table giving 6.5-hr CDPP as a function of magnitude.</a>
+As in other campaigns, the 6-hour spacecraft roll cycle dominates the systematic errors in C6 simple aperture photometry light curves.
+The pipeline CDPP 12th magnitude noise benchmark for C6 (DR35) is comparable to that seen in other campaigns with similar star density.
 
-<div class="thumbnail" style="width: 70%;">
-    <div class="caption">
-    <i>Figure C6-CDPP: CDPP measured for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. Also, the photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. <a href="images/release-notes/c6/K2-C6_dwarf__CDPP_by_mod_out.eps">See here for CDPP as a function of position on the focal plane.</a> All cadences coincident with a definite thruster firing are gapped.</i>
-    </div>
-    <a href="images/release-notes/c6/K2-C06_logg_CDPP_vs_model.png">
-        <img src="images/release-notes/c6/K2-C6_logg_CDPP_vs_model.png " class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
-    </a>
+The magnitude dependence of CDPP and its distribution over the focal
+plane are shown below. Other CDPP benchmarks can be found in the
+<a href="images/release-notes/c6/c6_bin1.00_sc1.00_CDPP_Summary_19091816.txt">
+table giving 6.5-hr CDPP as a function of magnitude.</a>
+
+<br>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C6-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>
 </div>
+<a href="images/release-notes/c6/cdpp_vs_mag_dr35.png">
+<img src="images/release-notes/c6/cdpp_vs_mag_dr35.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
+</a>
+</div>
+
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C6-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
+</div>
+<a href="images/release-notes/c6/c6_dwarf_CDPP_by_mod_out_dr35.png">
+<img src="images/release-notes/c6/c6_dwarf_CDPP_by_mod_out_dr35.png" class="img-responsive" alt="CDPP per channel for 12th and 14th magnitude dwarfs">
+</a>
+</div>
+
 
 <br>
 
