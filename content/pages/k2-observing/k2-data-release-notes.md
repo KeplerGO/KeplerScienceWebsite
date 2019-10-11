@@ -3293,8 +3293,9 @@ These release notes are for the C6 data currently available at MAST (Data Releas
 
 ***Spica***
 
-The star Spica (α Virginis, [EPIC 212573842](http://archive.stsci.edu/k2/epic/search.php?id=212573842&action=Search)) the 15th brightest star in the sky, is on silcon during Campaign 6. As can be seen on the FFI below, Spica is on mod.out 18.3 (channel 63) and its Schmidt-corrector reflection lies on mod.out 8.3. The star bleeds into both smear regions, preventing proper smear correction on columns 805-816 on channel 63.  Also, because of cross-talk, the Spica signal appears on all channels of module 18 at the same row and column position, but to a lesser degree.  For more information on cross-talk, see the [Instrument Handbook](http://archive.stsci.edu/kepler/manuals/KSCI-19033-001.pdf).
+The star Spica (α Virginis, [EPIC 212573842](http://archive.stsci.edu/k2/epic/search.php?id=212573842&action=Search)), the 15th brightest star in the sky, is on silcon during Campaign 6. As can be seen on the FFI above, Spica is on mod.out 18.3 (channel 63) and its Schmidt-corrector reflection lies on mod.out 8.3. The star bleeds into both smear regions, preventing proper smear correction on columns 805&ndash;816 on channel 63.  Also, because of cross-talk, the Spica signal appears on all channels of module 18 at the same row and column position, but to a lesser degree.  For more information on cross-talk, see the [Instrument Handbook](https://archive.stsci.edu/kepler/manuals/KSCI-19033-002.pdf).
 
+<!--
 <div class="thumbnail" style="width: 52%;">
     <div class="caption">
         <i>Figure: The FFI taken during Campaign 6 showing the bright star Spica and its reflection.</i>
@@ -3303,12 +3304,13 @@ The star Spica (α Virginis, [EPIC 212573842](http://archive.stsci.edu/k2/epic/s
         <img src="images/release-notes/c6/spica.png" class="img-responsive" alt="The FFI taken during Campaign 6 showing the bright star Spica and its reflection.">
     </a>
 </div>
+-->
 
 <br>
 
 ***Observed Trojans***
 
-During Campaign 6, K2 observed 65 Trojan asteroids. Each was tiled with 1 x n pixel target definitions, where n ranges from 1 to 217. The tiled regions for three examples are shown in the figure below.  The range of custom aperture numbers given to the Trojans is 200041889 -- 200061149. A mapping of the minor planet designation numbers to the custom aperture numbers can be <a href="images/release-notes/c6/trojanCustomApertureC6.csv">downloaded here.</a>
+During Campaign 6, K2 observed 65 Trojan asteroids. Each was tiled with 1 x n pixel target definitions, where n ranges from 1 to 217. The tiled regions for three examples are shown in the figure below.  The range of custom aperture numbers given to the Trojans is 200041889 &ndash 200061149. A mapping of the minor planet designation numbers to the custom aperture numbers can be <a href="images/release-notes/c6/trojanCustomApertureC6.csv">downloaded here.</a>
 
 <div class="thumbnail" style="width: 52%;">
     <div class="caption">
@@ -3323,40 +3325,33 @@ During Campaign 6, K2 observed 65 Trojan asteroids. Each was tiled with 1 x n pi
 
 ***Variable Guide Star***
 
-The star on Module 25 used for guiding during C6 was highly variable. No adverse effects of this variability were detected in the data collection or spacecraft operations.  
+The star on Module 25 used for guiding during C6 was highly variable, appearing to be a contact binary with a period of 14.5 hours and a depth of approximately 40 percent. A signal with the same period and phase is seen in a large number of long cadence, PDC light curves with an amplitude as large as 0.1 per cent. Please see the folded light curve and normalized BLS spectra below, and [read this document](images/release-notes/c6/var_fgs_kso-391_drnC6_addendum_16040722.pdf), written for the previous processing release, for a detailed explanation. In short, the variable guide star caused periodic pointing errors of &#177;10 mas in RA and Dec, resulting in photometric variations in all targets and PDC cotrending basis vectors.  Note that we expect the current data release (35) to be affected in the same way as the previous data release (8).
 
-****Update -- February 18, 2016****
-<p> The signal seen in the guide star on module 25 appears to be that of a contact binary with a period of 14.5 hours and a depth of approximately 40 percent. A signal with the same period and phase is seen in a large number of long cadence, PDC, light curves with an amplitude as large as 0.1 per cent.  See the folded light curve, and normalized BLS spectra below.  The mechanism by which this signal is propagating into the K2 data is still under investigation.
+To help users understand and mitigate the effects of this guide star, we make available the <a href="images/release-notes/c6/C6fgsFlux-mod25.csv">module 25 guide star fluxes</a> in a csv file.  [This data can also be found as part of the K2 Fine guidance sensor delivery](https://keplerscience.arc.nasa.gov/final-release-of-k2-high-cadence-guide-star-photometry.html).  The guide star was selected from the USNO catalog and has an RA of 200.6867 degrees, Dec of -6.0353 degrees, and R magnitude of 9.51.
 
-<p>To help users understand and mitigate the effects of this guide star, we make available the <a href="images/release-notes/c6/C6fgsFlux-mod25.csv"> module 25 guide star fluxes </a> in a csv file.  The guide star was selected from the USNO catalog and has an RA of 200.6867 degrees, Dec of -6.0353 degrees, and R magnitude of 9.51. </p>
-
-<div class="thumbnail" style="width: 56%;">
+<div class="thumbnail" style="width: 49%;display: inline-block;">
     <div class="caption">
-<i>Figure C6-GuideStar: The folded light curve of one long cadence target (top) and the module 25 guide star (bottom). Both are folded at a period of 0.6046 days, the approximate period of the guide star.  
+<i>Figure C6-GuideStar: The folded light curve of one long cadence target (top) and the module 25 guide star (bottom). Both are folded at a period of 0.6046 days, the approximate period of the variability of the guide star.
 </i></div>
     <a href="images/release-notes/c6/fgsCompareC6to212668671.png">
         <img src="images/release-notes/c6/fgsCompareC6to212668671.png" class="img-responsive" alt="The folded light curve of the guide star and an example C6 LC target.">
     </a>
 </div>
 
-<div class="thumbnail" style="width: 56%;">
+<div class="thumbnail" style="width: 49%;display: inline-block;">
     <div class="caption">
-<i>Figure C6-BLS: The normalized BLS (box-least squares) spectra for 400 long cadence targets on channel 42, sorted by magnitude (with the brightest at the top).  The 14.5-hour period and a series of peaks every ~7 hours show-up as yellow vertical lines on this figure. The majority of targets on this channel have a significant signal at this period.   
+<i>Figure C6-BLS: The normalized BLS (box-least squares) spectra for 400 long cadence targets on channel 42, sorted by magnitude (with the brightest at the top).  The 14.5-hour period and a series of peaks every ~7 hours show-up as yellow vertical lines on this figure. The majority of targets on this channel have a significant signal at this period.
 </i></div>
     <a href="images/release-notes/c6/ch42blsSpectrumC6.png">
         <img src="images/release-notes/c6/ch42blsSpectrumC6.png" class="img-responsive" alt="The Bls spectrum for 400 targets on channel 42.">
     </a>
 </div>
 
-****Update -- April 2016****
-<p>See this [addendum](images/release-notes/c6/var_fgs_kso-391_drnC6_addendum_16040722.pdf) for a thorough description of the pointing and photometric errors induced by the variable guide star in C6.</p>
-
 <br>
 
 <h2>Data Quality and Processing Notes</h2>
 
 ***Light Curve Quality***
-
 
 As in other campaigns, the 6-hour spacecraft roll cycle dominates the systematic errors in C6 simple aperture photometry light curves.
 The pipeline CDPP 12th magnitude noise benchmark for C6 (DR35) is comparable to that seen in other campaigns with similar star density.
