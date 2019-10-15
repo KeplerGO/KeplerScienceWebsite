@@ -3226,7 +3226,7 @@ These release notes are for the C6 data currently available at MAST (Data Releas
 
     <b><i>Full Frame Images (FFI)</i></b>
     <ul>
-        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo22015207050529-c06_ffi-cal.fits">ktwo2015207050529-c06_ffi-cal.fits</a></li>
+        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2015207050529-c06_ffi-cal.fits">ktwo2015207050529-c06_ffi-cal.fits</a></li>
         <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2015246104018-c06_ffi-cal.fits">ktwo2015246104018-c06_ffi-cal.fits</a></li>
     </ul>
 
@@ -3293,24 +3293,13 @@ These release notes are for the C6 data currently available at MAST (Data Releas
 
 ***Spica***
 
-The star Spica (α Virginis, [EPIC 212573842](http://archive.stsci.edu/k2/epic/search.php?id=212573842&action=Search)), the 15th brightest star in the sky, is on silcon during Campaign 6. As can be seen on the FFI above, Spica is on mod.out 18.3 (channel 63) and its Schmidt-corrector reflection lies on mod.out 8.3. The star bleeds into both smear regions, preventing proper smear correction on columns 805&ndash;816 on channel 63.  Also, because of cross-talk, the Spica signal appears on all channels of module 18 at the same row and column position, but to a lesser degree.  For more information on cross-talk, see the [Instrument Handbook](https://archive.stsci.edu/kepler/manuals/KSCI-19033-002.pdf).
-
-<!--
-<div class="thumbnail" style="width: 52%;">
-    <div class="caption">
-        <i>Figure: The FFI taken during Campaign 6 showing the bright star Spica and its reflection.</i>
-    </div>
-    <a href="images/release-notes/c6/spica.png">
-        <img src="images/release-notes/c6/spica.png" class="img-responsive" alt="The FFI taken during Campaign 6 showing the bright star Spica and its reflection.">
-    </a>
-</div>
--->
+The star Spica (α Virginis, [EPIC 212573842](http://archive.stsci.edu/k2/epic/search.php?id=212573842&action=Search)), the 15th brightest star in the sky, is on silcon during Campaign 6. As can be seen on the FFI above, Spica is on mod.out 18.3 (channel 63) and its Schmidt-corrector reflection lies on mod.out 8.3. (See [this image](/images/kepler_focal_plane_layout_channels_color.png) for the module/channel layout.) The star bleeds into both smear regions, preventing proper smear correction on columns 805&ndash;816 on channel 63.  Also, because of cross-talk, the Spica signal appears on all channels of module 18 at the same row and column position, but to a lesser degree.  For more information on cross-talk, see the [Instrument Handbook](https://archive.stsci.edu/kepler/manuals/KSCI-19033-002.pdf).
 
 <br>
 
 ***Observed Trojans***
 
-During Campaign 6, K2 observed 65 Trojan asteroids. Each was tiled with 1 x n pixel target definitions, where n ranges from 1 to 217. The tiled regions for three examples are shown in the figure below.  The range of custom aperture numbers given to the Trojans is 200041889 &ndash 200061149. A mapping of the minor planet designation numbers to the custom aperture numbers can be <a href="images/release-notes/c6/trojanCustomApertureC6.csv">downloaded here.</a>
+During Campaign 6, K2 observed 65 Trojan asteroids. Each was tiled with 1 x n pixel target definitions, where n ranges from 1 to 217. The tiled regions for three examples are shown in the figure below.  The range of custom aperture numbers given to the Trojans is 200041889 &ndash; 200061149. A mapping of the minor planet designation numbers to the custom aperture numbers can be <a href="images/release-notes/c6/trojanCustomApertureC6.csv">downloaded here.</a>
 
 <div class="thumbnail" style="width: 52%;">
     <div class="caption">
@@ -3330,24 +3319,59 @@ The star on Module 25 used for guiding during C6 was highly variable, appearing 
 To help users understand and mitigate the effects of this guide star, we make available the <a href="images/release-notes/c6/C6fgsFlux-mod25.csv">module 25 guide star fluxes</a> in a csv file.  [This data can also be found as part of the K2 Fine guidance sensor delivery](https://keplerscience.arc.nasa.gov/final-release-of-k2-high-cadence-guide-star-photometry.html).  The guide star was selected from the USNO catalog and has an RA of 200.6867 degrees, Dec of -6.0353 degrees, and R magnitude of 9.51.
 
 <div class="thumbnail" style="width: 49%;display: inline-block;">
-    <div class="caption">
-<i>Figure C6-GuideStar: The folded light curve of one long cadence target (top) and the module 25 guide star (bottom). Both are folded at a period of 0.6046 days, the approximate period of the variability of the guide star.
-</i></div>
-    <a href="images/release-notes/c6/fgsCompareC6to212668671.png">
-        <img src="images/release-notes/c6/fgsCompareC6to212668671.png" class="img-responsive" alt="The folded light curve of the guide star and an example C6 LC target.">
-    </a>
+  <div class="caption">
+    <i>
+    Figure C6-GuideStar: The folded light curve of one long cadence target (top) and the module 25 guide star (bottom). Both are folded at a period of 0.6046 days, the approximate period of the variability of the guide star.
+    </i>
+  </div>
+  <a href="images/release-notes/c6/fgsCompareC6to212668671.png">
+    <img src="images/release-notes/c6/fgsCompareC6to212668671.png" class="img-responsive" alt="The folded light curve of the guide star and an example C6 LC target.">
+  </a>
 </div>
 
 <div class="thumbnail" style="width: 49%;display: inline-block;">
-    <div class="caption">
-<i>Figure C6-BLS: The normalized BLS (box-least squares) spectra for 400 long cadence targets on channel 42, sorted by magnitude (with the brightest at the top).  The 14.5-hour period and a series of peaks every ~7 hours show-up as yellow vertical lines on this figure. The majority of targets on this channel have a significant signal at this period.
-</i></div>
-    <a href="images/release-notes/c6/ch42blsSpectrumC6.png">
-        <img src="images/release-notes/c6/ch42blsSpectrumC6.png" class="img-responsive" alt="The Bls spectrum for 400 targets on channel 42.">
-    </a>
+  <div class="caption">
+    <i>
+    Figure C6-BLS: The normalized BLS (box-least squares) spectra for 400 long cadence targets on channel 42, sorted by magnitude (with the brightest at the top).  The 14.5-hour period and a series of peaks every ~7 hours show-up as yellow vertical lines on this figure. The majority of targets on this channel have a significant signal at this period.
+    </i>
+  </div>
+  <a href="images/release-notes/c6/ch42blsSpectrumC6.png">
+    <img src="images/release-notes/c6/ch42blsSpectrumC6.png" class="img-responsive" alt="The Bls spectrum for 400 targets on channel 42.">
+  </a>
 </div>
 
 <br>
+
+***Pointing and Roll Performance***
+
+The C6 pointing and roll behavior are well within the limits of that seen in other K2 campaigns. The pipeline-calculated maximum distance between the derived and nominal positions for any target (the "maximum attitude residual", or MAR) for C6 is less than 2.2 pixels for nearly the entire campaign, well under the 3-pixel limit accommodated by the C6 aperture halos.
+
+Users should note a significant ~6.5-hour pointing excursion that occurred just after mid-campaign, which encompasses long cadences 113663 &ndash; 113676 (short cadences 3398351 &ndash; 3398711).  While these cadences are gapped in the delivered PDC lightcurve data, they are intentionally not gapped in the PA lightcurve data.
+
+<div class="thumbnail" style="width: 49%; display: inline-block;">
+  <div class="caption">
+    <i>
+    Figure C6-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C6.
+    </i>
+  </div>
+  <a href="images/release-notes/c6/c6_pad_pdq_attitude_roll.png">
+    <img src="images/release-notes/c6/c6_pad_pdq_attitude_roll.png" class="img-responsive" alt="Pipeline measured roll error for C6.">
+  </a>
+</div>
+
+<div class="thumbnail" style="width: 49%; display: inline-block;">
+  <div class="caption">
+    <i>
+    Figure C6-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C6.
+    </i>
+  </div>
+  <a href="images/release-notes/c6/c6_pad_pdq_attitude_mar.png">
+    <img src="images/release-notes/c6/c6_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the C6 attitude measured with PAD and PDQ.">
+  </a>
+</div>
+
+<br>
+
 
 <h2>Data Quality and Processing Notes</h2>
 
@@ -3381,10 +3405,15 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 </div>
 
 
+***Missing PDC Data for Short-Cadence Lightcurves***
+
+Due to a processing bug, in this data release there is no PDC (PDCSAP_FLUX) data for all short-cadence lightcurves starting with short cadence 3345210 until the end of the campaign, i.e., the last ~86% of the PDCSAP_FLUX values are NaN.  This bug only affected this campaign and only the short-cadence PDC data &mdash; the long-cadence data is unaffected, and the PA (SAP_FLUX) lightcurve data for short-cadence is unaffected.
+
+Users of the short-cadence lightcurve data are encouraged to do their own detrending, starting with the PA (SAP_FLUX) photometric data.  For example, see [https://docs.lightkurve.org/api/correctors.html#module-lightkurve.correctors](https://docs.lightkurve.org/api/correctors.html#module-lightkurve.correctors).
+
 <br>
 
 <hr>
-
 
 
 # K2 Campaign 5
@@ -3705,6 +3734,34 @@ The Trans-Neptunian Object 2002 KY14 was observed in Campaign 4 by creating 1340
 
 <br>
 
+***Pointing and Roll Performance***
+
+The C4 pointing and roll behavior are well within the limits of that seen
+in other K2 campaigns. The pipeline-calculated maximum distance between the
+derived and nominal positions for any target (the "maximum attitude residual", or MAR)
+for C4 is less than 2 pixels, well under the 4-pixel limit accommodated by the C4 aperture halos. Users should note that, while within limits,
+the roll error does increase towards the end of the campaign and may result in increased photometric noise.
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C4-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C4.</i>
+<a href="images/release-notes/c4/c4_pad_pdq_attitude_roll.png">
+<img src="images/release-notes/c4/c4_pad_pdq_attitude_roll.png" class="img-responsive" alt="Pipeline measured roll error for C4.">
+</a>
+</div>
+</div>
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C4-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C4.</i>
+<a href="images/release-notes/c4/c4_pad_pdq_attitude_mar.png">
+<img src="images/release-notes/c4/c4_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the C4 attitude measured with PAD and PDQ.">
+</a>
+</div>
+</div>
+
+<br>
+
 
 <h2>Data Quality and Processing Notes</h2>
 
@@ -3791,34 +3848,6 @@ Seventy-four stellar targets show negative flux values in their SAP_FLUX light c
 
 <br>
 
-
-***Pointing and Roll Performance***
-
-The C4 pointing and roll behavior are well within the limits of that seen
-in other K2 campaigns. The pipeline-calculated maximum distance between the
-derived and nominal positions for any target (the "maximum attitude residual", or MAR)
-for C4 is less than 2 pixels, well under the 4-pixel limit accommodated by the C4 aperture halos. Users should note that, while within limits,
-the roll error does increase towards the end of the campaign and may result in increased photometric noise.
-
-<div class="thumbnail" style="width: 49%;display: inline-block;">
-<div class="caption">
-<i>Figure C4-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C4.</i>
-<a href="images/release-notes/c4/c4_pad_pdq_attitude_roll.png">
-<img src="images/release-notes/c4/c4_pad_pdq_attitude_roll.png" class="img-responsive" alt="Pipeline measured roll error for C4.">
-</a>
-</div>
-</div>
-
-<div class="thumbnail" style="width: 49%;display: inline-block;">
-<div class="caption">
-<i>Figure C4-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C4.</i>
-<a href="images/release-notes/c4/c4_pad_pdq_attitude_mar.png">
-<img src="images/release-notes/c4/c4_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the C4 attitude measured with PAD and PDQ.">
-</a>
-</div>
-</div>
-
-<br>
 
 ***Light Curve Quality***
 
