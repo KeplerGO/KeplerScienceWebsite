@@ -3202,8 +3202,12 @@ There are 4 channels in C7 for which the saturation spill due to very bright sta
 
 # K2 Campaign 6
 
+These release notes are for the C6 data currently available at MAST (Data Release 35) in the nominal K2 data locations, which have been processed with the final version of the K2 pipeline as part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a>. The original release notes corresponding to the previous versions of C6 data (Data Release 8) can be found in the <a href="archived-k2-data-release-notes.html#k2-campaign-6">archived data release notes page</a>.
+
+
 <h2>At a glance</h2>
 
+<div class="row">
 <div class="col-lg-5">
 
     <b><i>Pointing</i></b>
@@ -3222,7 +3226,7 @@ There are 4 channels in C7 for which the saturation spill due to very bright sta
 
     <b><i>Full Frame Images (FFI)</i></b>
     <ul>
-        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo22015207050529-c06_ffi-cal.fits">ktwo2015207050529-c06_ffi-cal.fits</a></li>
+        <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2015207050529-c06_ffi-cal.fits">ktwo2015207050529-c06_ffi-cal.fits</a></li>
         <li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2015246104018-c06_ffi-cal.fits">ktwo2015246104018-c06_ffi-cal.fits</a></li>
     </ul>
 
@@ -3242,52 +3246,60 @@ There are 4 channels in C7 for which the saturation spill due to very bright sta
 
     <b><i>Most Recent Processing Version</i></b>
     <ul>
-    <li> <a href="k2-pipeline-release-notes.html#data-release-8">Data Release 8</a> </li>
+    <li> <a href="k2-pipeline-release-notes.html#data-release-35">Data Release 35</a> </li>
     </ul>
+
+    <br>
+
+    <div class="thumbnail">
+        <div class="caption">
+            <i>Figure C6-Mag: Distribution of the Kepler magnitudes of observed LC targets in C6. All targets are chosen by Guest Observers. The shape is due to how the largest <a href="k2-approved-programs.html#campaign-6">Guest Observer programs</a> were selected.</i>
+        </div>
+        <a href="images/release-notes/c6/c6LcMagDistribution.png">
+            <img src="images/release-notes/c6/c6LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets in C6.">
+        </a>
+    </div>
 
 </div>
 
 <div class="col-lg-7">
 
-    <div class="thumbnail">
-        <div class="caption">
-            <i>Figure: Schematic of Kepler's C6 field-of-view with observed targets shown with purple dots.</i>
-        </div>
-        <a href="images/campaign_selected/C6_selected.png">
-            <img src="images/campaign_selected/C6_selected.png" class="img-responsive" alt="C6 field-of-view with selected targets">
-        </a>
-    </div>
-
-    <div class="thumbnail">
-        <div class="caption">
-            <i>Figure: Distribution of the Kepler magnitudes of observed LC targets. All targets are chosen by guest observers. The bimodality is due to how the largest <a href="k2-approved-programs.html#campaign-6">GO  programs</a> were selected.</i>
-        </div>
-        <a href="images/release-notes/c6/c6LcMagDistribution.png">
-            <img src="images/release-notes/c6/c6LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets.">
-        </a>
-    </div>
+<div class="thumbnail">
+  <div class="caption">
+    <i>Figure: Figure C6-FOV: Schematic of Kepler's C6 field-of-view with high profile objects.</i>
+  </div>
+  <a href="images/k2/k2-c06-field.png">
+    <img src="images/k2/k2-c06-field.png" class="img-responsive" alt="C6 field-of-view with selected targets">
+  </a>
 </div>
+
+<div class="thumbnail">
+  <div class="caption">
+    <i>Figure: Figure C6-FFI: A full frame image (FFI) taken during C6, with a flux scaling designed to highlight features of interest.</i>
+  </div>
+  <a href="images/release-notes/c6/C6R-FFI.png">
+    <img src="images/release-notes/c6/C6R-FFI.png" class="img-responsive" alt="A C6 FFI">
+  </a>
+</div>
+
+</div>
+
+</div>
+
+
+
 
 <h2>Features and Events</h2>
 
 ***Spica***
 
-The star Spica (α Virginis, [EPIC 212573842](http://archive.stsci.edu/k2/epic/search.php?id=212573842&action=Search)) the 15th brightest star in the sky, is on silcon during Campaign 6. As can be seen on the FFI below, Spica is on mod.out 18.3 (channel 63) and its Schmidt-corrector reflection lies on mod.out 8.3. The star bleeds into both smear regions, preventing proper smear correction on columns 805-816 on channel 63.  Also, because of cross-talk, the Spica signal appears on all channels of module 18 at the same row and column position, but to a lesser degree.  For more information on cross-talk, see the [Instrument Handbook](http://archive.stsci.edu/kepler/manuals/KSCI-19033-001.pdf).
-
-<div class="thumbnail" style="width: 52%;">
-    <div class="caption">
-        <i>Figure: The FFI taken during Campaign 6 showing the bright star Spica and its reflection.</i>
-    </div>
-    <a href="images/release-notes/c6/spica.png">
-        <img src="images/release-notes/c6/spica.png" class="img-responsive" alt="The FFI taken during Campaign 6 showing the bright star Spica and its reflection.">
-    </a>
-</div>
+The star Spica (α Virginis, [EPIC 212573842](http://archive.stsci.edu/k2/epic/search.php?id=212573842&action=Search)), the 15th brightest star in the sky, is on silcon during Campaign 6. As can be seen on the FFI above, Spica is on mod.out 18.3 (channel 63) and its Schmidt-corrector reflection lies on mod.out 8.3. (See [this image](/images/kepler_focal_plane_layout_channels_color.png) for the module/channel layout.) The star bleeds into both smear regions, preventing proper smear correction on columns 805&ndash;816 on channel 63.  Also, because of cross-talk, the Spica signal appears on all channels of module 18 at the same row and column position, but to a lesser degree.  For more information on cross-talk, see the [Instrument Handbook](https://archive.stsci.edu/kepler/manuals/KSCI-19033-002.pdf).
 
 <br>
 
 ***Observed Trojans***
 
-During Campaign 6, K2 observed 65 Trojan asteroids. Each was tiled with 1 x n pixel target definitions, where n ranges from 1 to 217. The tiled regions for three examples are shown in the figure below.  The range of custom aperture numbers given to the Trojans is 200041889 -- 200061149. A mapping of the minor planet designation numbers to the custom aperture numbers can be <a href="images/release-notes/c6/trojanCustomApertureC6.csv">downloaded here.</a>
+During Campaign 6, K2 observed 65 Trojan asteroids. Each was tiled with 1 x n pixel target definitions, where n ranges from 1 to 217. The tiled regions for three examples are shown in the figure below.  The range of custom aperture numbers given to the Trojans is 200041889 &ndash; 200061149. A mapping of the minor planet designation numbers to the custom aperture numbers can be <a href="images/release-notes/c6/trojanCustomApertureC6.csv">downloaded here.</a>
 
 <div class="thumbnail" style="width: 52%;">
     <div class="caption">
@@ -3302,57 +3314,106 @@ During Campaign 6, K2 observed 65 Trojan asteroids. Each was tiled with 1 x n pi
 
 ***Variable Guide Star***
 
-The star on Module 25 used for guiding during C6 was highly variable. No adverse effects of this variability were detected in the data collection or spacecraft operations.  
+The star on Module 25 used for guiding during C6 was highly variable, appearing to be a contact binary with a period of 14.5 hours and a depth of approximately 40 percent. A signal with the same period and phase is seen in a large number of long cadence, PDC light curves with an amplitude as large as 0.1 per cent. Please see the folded light curve and normalized BLS spectra below, and [read this document](images/release-notes/c6/var_fgs_kso-391_drnC6_addendum_16040722.pdf), written for the previous processing release, for a detailed explanation. In short, the variable guide star caused periodic pointing errors of &#177;10 mas in RA and Dec, resulting in photometric variations in all targets and PDC cotrending basis vectors.  Note that we expect the current data release (35) to be affected in the same way as the previous data release (8).
 
-****Update -- February 18, 2016****
-<p> The signal seen in the guide star on module 25 appears to be that of a contact binary with a period of 14.5 hours and a depth of approximately 40 percent. A signal with the same period and phase is seen in a large number of long cadence, PDC, light curves with an amplitude as large as 0.1 per cent.  See the folded light curve, and normalized BLS spectra below.  The mechanism by which this signal is propagating into the K2 data is still under investigation.
+To help users understand and mitigate the effects of this guide star, we make available the <a href="images/release-notes/c6/C6fgsFlux-mod25.csv">module 25 guide star fluxes</a> in a csv file.  [This data can also be found as part of the K2 Fine guidance sensor delivery](https://keplerscience.arc.nasa.gov/final-release-of-k2-high-cadence-guide-star-photometry.html).  The guide star was selected from the USNO catalog and has an RA of 200.6867 degrees, Dec of -6.0353 degrees, and R magnitude of 9.51.
 
-<p>To help users understand and mitigate the effects of this guide star, we make available the <a href="images/release-notes/c6/C6fgsFlux-mod25.csv"> module 25 guide star fluxes </a> in a csv file.  The guide star was selected from the USNO catalog and has an RA of 200.6867 degrees, Dec of -6.0353 degrees, and R magnitude of 9.51. </p>
-
-<div class="thumbnail" style="width: 56%;">
-    <div class="caption">
-<i>Figure C6-GuideStar: The folded light curve of one long cadence target (top) and the module 25 guide star (bottom). Both are folded at a period of 0.6046 days, the approximate period of the guide star.  
-</i></div>
-    <a href="images/release-notes/c6/fgsCompareC6to212668671.png">
-        <img src="images/release-notes/c6/fgsCompareC6to212668671.png" class="img-responsive" alt="The folded light curve of the guide star and an example C6 LC target.">
-    </a>
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+  <div class="caption">
+    <i>
+    Figure C6-GuideStar: The folded light curve of one long cadence target (top) and the module 25 guide star (bottom). Both are folded at a period of 0.6046 days, the approximate period of the variability of the guide star.
+    </i>
+  </div>
+  <a href="images/release-notes/c6/fgsCompareC6to212668671.png">
+    <img src="images/release-notes/c6/fgsCompareC6to212668671.png" class="img-responsive" alt="The folded light curve of the guide star and an example C6 LC target.">
+  </a>
 </div>
 
-<div class="thumbnail" style="width: 56%;">
-    <div class="caption">
-<i>Figure C6-BLS: The normalized BLS (box-least squares) spectra for 400 long cadence targets on channel 42, sorted by magnitude (with the brightest at the top).  The 14.5-hour period and a series of peaks every ~7 hours show-up as yellow vertical lines on this figure. The majority of targets on this channel have a significant signal at this period.   
-</i></div>
-    <a href="images/release-notes/c6/ch42blsSpectrumC6.png">
-        <img src="images/release-notes/c6/ch42blsSpectrumC6.png" class="img-responsive" alt="The Bls spectrum for 400 targets on channel 42.">
-    </a>
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+  <div class="caption">
+    <i>
+    Figure C6-BLS: The normalized BLS (box-least squares) spectra for 400 long cadence targets on channel 42, sorted by magnitude (with the brightest at the top).  The 14.5-hour period and a series of peaks every ~7 hours show-up as yellow vertical lines on this figure. The majority of targets on this channel have a significant signal at this period.
+    </i>
+  </div>
+  <a href="images/release-notes/c6/ch42blsSpectrumC6.png">
+    <img src="images/release-notes/c6/ch42blsSpectrumC6.png" class="img-responsive" alt="The Bls spectrum for 400 targets on channel 42.">
+  </a>
 </div>
-
-****Update -- April 2016****
-<p>See this [addendum](images/release-notes/c6/var_fgs_kso-391_drnC6_addendum_16040722.pdf) for a thorough description of the pointing and photometric errors induced by the variable guide star in C6.</p>
 
 <br>
+
+***Pointing and Roll Performance***
+
+The C6 pointing and roll behavior are well within the limits of that seen in other K2 campaigns. The pipeline-calculated maximum distance between the derived and nominal positions for any target (the "maximum attitude residual", or MAR) for C6 is less than 2.2 pixels for nearly the entire campaign, well under the 3-pixel limit accommodated by the C6 aperture halos.
+
+Users should note a significant ~6.5-hour pointing excursion that occurred just after mid-campaign, which encompasses long cadences 113663 &ndash; 113676 (short cadences 3398351 &ndash; 3398711).  While these cadences are gapped in the delivered PDC lightcurve data, they are intentionally not gapped in the PA lightcurve data.
+
+<div class="thumbnail" style="width: 49%; display: inline-block;">
+  <div class="caption">
+    <i>
+    Figure C6-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C6.
+    </i>
+  </div>
+  <a href="images/release-notes/c6/c6_pad_pdq_attitude_roll.png">
+    <img src="images/release-notes/c6/c6_pad_pdq_attitude_roll.png" class="img-responsive" alt="Pipeline measured roll error for C6.">
+  </a>
+</div>
+
+<div class="thumbnail" style="width: 49%; display: inline-block;">
+  <div class="caption">
+    <i>
+    Figure C6-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C6.
+    </i>
+  </div>
+  <a href="images/release-notes/c6/c6_pad_pdq_attitude_mar.png">
+    <img src="images/release-notes/c6/c6_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the C6 attitude measured with PAD and PDQ.">
+  </a>
+</div>
+
+<br>
+
 
 <h2>Data Quality and Processing Notes</h2>
 
 ***Light Curve Quality***
 
-The dominant systematic present in K2 simple aperture photometry light curves is a sawtooth shape that is due to the roll of the spacecraft approximately every 6 hours. The PDC module of the Kepler Pipeline uses Principle Component Analysis to remove this signal in addition to other systematics. Below, we examine observed noise levels in the PDC light curves for C6, Data Release 8.
+As in other campaigns, the 6-hour spacecraft roll cycle dominates the systematic errors in C6 simple aperture photometry light curves.
+The pipeline CDPP 12th magnitude noise benchmark for C6 (DR35) is comparable to that seen in other campaigns with similar star density.
 
-<a href="images/release-notes/c6/K2-C06_bin1.00_sc1.00_CDPP_Summary.txt">Table giving 6.5-hr CDPP as a function of magnitude.</a>
+The magnitude dependence of CDPP and its distribution over the focal
+plane are shown below. Other CDPP benchmarks can be found in the
+<a href="images/release-notes/c6/c6_bin1.00_sc1.00_CDPP_Summary_19091816.txt">
+table giving 6.5-hr CDPP as a function of magnitude.</a>
 
-<div class="thumbnail" style="width: 70%;">
-    <div class="caption">
-    <i>Figure C6-CDPP: CDPP measured for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. Also, the photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. <a href="images/release-notes/c6/K2-C6_dwarf__CDPP_by_mod_out.eps">See here for CDPP as a function of position on the focal plane.</a> All cadences coincident with a definite thruster firing are gapped.</i>
-    </div>
-    <a href="images/release-notes/c6/K2-C06_logg_CDPP_vs_model.png">
-        <img src="images/release-notes/c6/K2-C6_logg_CDPP_vs_model.png " class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
-    </a>
+<br>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C6-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>
 </div>
+<a href="images/release-notes/c6/cdpp_vs_mag_dr35.png">
+<img src="images/release-notes/c6/cdpp_vs_mag_dr35.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
+</a>
+</div>
+
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C6-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
+</div>
+<a href="images/release-notes/c6/c6_dwarf_CDPP_by_mod_out_dr35.png">
+<img src="images/release-notes/c6/c6_dwarf_CDPP_by_mod_out_dr35.png" class="img-responsive" alt="CDPP per channel for 12th and 14th magnitude dwarfs">
+</a>
+</div>
+
+
+***Missing PDC Data for Short-Cadence Lightcurves***
+
+Due to a processing bug, in this data release there is no PDC (PDCSAP_FLUX) data for all short-cadence lightcurves starting with short cadence 3345210 until the end of the campaign, i.e., the last ~86% of the PDCSAP_FLUX values are NaN.  This bug only affected this campaign and only the short-cadence PDC data &mdash; the long-cadence data is unaffected, and the PA (SAP_FLUX) lightcurve data for short-cadence is unaffected.
+
+Users of the short-cadence lightcurve data are encouraged to do their own detrending, starting with the PA (SAP_FLUX) photometric data.  For example, see [https://docs.lightkurve.org/api/correctors.html#module-lightkurve.correctors](https://docs.lightkurve.org/api/correctors.html#module-lightkurve.correctors).
 
 <br>
 
 <hr>
-
 
 
 # K2 Campaign 5
@@ -3673,6 +3734,34 @@ The Trans-Neptunian Object 2002 KY14 was observed in Campaign 4 by creating 1340
 
 <br>
 
+***Pointing and Roll Performance***
+
+The C4 pointing and roll behavior are well within the limits of that seen
+in other K2 campaigns. The pipeline-calculated maximum distance between the
+derived and nominal positions for any target (the "maximum attitude residual", or MAR)
+for C4 is less than 2 pixels, well under the 4-pixel limit accommodated by the C4 aperture halos. Users should note that, while within limits,
+the roll error does increase towards the end of the campaign and may result in increased photometric noise.
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C4-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C4.</i>
+<a href="images/release-notes/c4/c4_pad_pdq_attitude_roll.png">
+<img src="images/release-notes/c4/c4_pad_pdq_attitude_roll.png" class="img-responsive" alt="Pipeline measured roll error for C4.">
+</a>
+</div>
+</div>
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C4-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C4.</i>
+<a href="images/release-notes/c4/c4_pad_pdq_attitude_mar.png">
+<img src="images/release-notes/c4/c4_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the C4 attitude measured with PAD and PDQ.">
+</a>
+</div>
+</div>
+
+<br>
+
 
 <h2>Data Quality and Processing Notes</h2>
 
@@ -3759,34 +3848,6 @@ Seventy-four stellar targets show negative flux values in their SAP_FLUX light c
 
 <br>
 
-
-***Pointing and Roll Performance***
-
-The C4 pointing and roll behavior are well within the limits of that seen
-in other K2 campaigns. The pipeline-calculated maximum distance between the
-derived and nominal positions for any target (the "maximum attitude residual", or MAR)
-for C4 is less than 2 pixels, well under the 4-pixel limit accommodated by the C4 aperture halos. Users should note that, while within limits,
-the roll error does increase towards the end of the campaign and may result in increased photometric noise.
-
-<div class="thumbnail" style="width: 49%;display: inline-block;">
-<div class="caption">
-<i>Figure C4-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C4.</i>
-<a href="images/release-notes/c4/c4_pad_pdq_attitude_roll.png">
-<img src="images/release-notes/c4/c4_pad_pdq_attitude_roll.png" class="img-responsive" alt="Pipeline measured roll error for C4.">
-</a>
-</div>
-</div>
-
-<div class="thumbnail" style="width: 49%;display: inline-block;">
-<div class="caption">
-<i>Figure C4-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C4.</i>
-<a href="images/release-notes/c4/c4_pad_pdq_attitude_mar.png">
-<img src="images/release-notes/c4/c4_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the C4 attitude measured with PAD and PDQ.">
-</a>
-</div>
-</div>
-
-<br>
 
 ***Light Curve Quality***
 
