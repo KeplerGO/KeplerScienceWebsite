@@ -3118,7 +3118,7 @@ Ruprecht 47 is an open cluster observed with K2 during Campaign 7.  It was obser
 
 For the first ~30 hours of the campaign, the telescope was in coarse point &mdash; one of the guide stars was brighter than expected, preventing fine point lock, and an update to the fine guidance sensor was issued to accommodate the higher signal count. The span of coarse point is long cadences 115414 &ndash; 115474 (corresponding short cadences 3450880 &ndash; 3452680. See Figure C7-MAR below.
 
-The C7 roll behavior is worse than typically seen in other K2 campaigns. For C7, an alternate low-gain antenna was active during science data collection. The previously used LGA1 was replaced by LGA2 (see [Figure 2 of the Kepler Instrument Handbook](http://archive.stsci.edu/kepler/manuals/KSCI-19033-002.pdf)), as the latter was slightly better oriented with respect to earth. (This partially compensated for the increasing distance to the spacecraft in its earth-trailing orbit, then at 0.8 AU.)  Since the two antennas are mounted on opposite sides of the spacecraft, this antenna swap produced a change in radiation pressure that placed an additional (unbalanced) torque about the boresight on the spacecraft.  The resulting increase in roll drift is illustrated in Figure C7-RollDrift, which compares the drift rates for C4, C6, and C7.
+The C7 roll behavior is worse than typically seen in other K2 campaigns. For C7, an alternate low-gain antenna was active during science data collection. The previously used LGA1 was replaced by LGA2 (see [Figure 2 of the Kepler Instrument Handbook](http://archive.stsci.edu/kepler/manuals/KSCI-19033-002.pdf)), as the latter was slightly better oriented with respect to earth. (This partially compensated for the increasing distance to the spacecraft in its Earth-trailing orbit, then at 0.8 AU.)  Since the two antennas are mounted on opposite sides of the spacecraft, this antenna swap produced a change in radiation pressure that placed an additional (unbalanced) torque about the boresight on the spacecraft.  The resulting increase in roll drift is illustrated in Figure C7-RollDrift, which compares the drift rates for C4, C6, and C7.
 
 <div class="thumbnail" style="width: 50%;display: inline-block;">
   <div class="caption">
@@ -3129,7 +3129,7 @@ The C7 roll behavior is worse than typically seen in other K2 campaigns. For C7,
   </a>
 </div>
 
-As a result of this increased roll drift (see Figure C7-Roll-Error), the maximum excursion of any pixel from its nominal position is significantly larger for C7 than for previous campaigns. The pipeline-calculated maximum distance between the derived and nominal positions for any target (the "maximum attitude residual", or MAR) for C7 is as large as 3.4 pixels, as shown in Figure C7-MAR &mdash; most campaigns have a MAR of ~2. As described below, since target apertures were designed with a maximum 3-pixel halo, this results in lost light for some targets.
+As a result of this increased roll drift (see Figure C7-Roll-Error), the maximum excursion of any pixel from its nominal position is significantly larger for C7 than for other campaigns. The pipeline-calculated maximum distance between the derived and nominal positions for any target (the "maximum attitude residual", or MAR) for C7 is as large as 3.4 pixels, as shown in Figure C7-MAR &mdash; most campaigns have a MAR of ~2. As described below, since target apertures were designed with a maximum 3-pixel halo, this results in lost light for some targets.
 
 <div class="thumbnail" style="width: 49%; display: inline-block;">
   <div class="caption">
@@ -3161,13 +3161,13 @@ As a result of this increased roll drift (see Figure C7-Roll-Error), the maximum
 
 ***Light Curve Quality***
 
-For the first ~30 hours of the campaign when the spacecraft was in coarse point, most stars are expected to be significantly outside of their optimal aperture.  While the raw light curve (PA / SAP_FLUX) is processed and provided in the lightcurve FITS files for these cadences, the data was excluded from the PDC detrending module in order to improve performance across the cmapaign, and thus there is no PDC_SAPFLUX values in the provided lightcurve FITS files.  Users wishing to attempt to utilize these ~30 days of coarse point should also note that the black level in the target-pixel files will be off by a constant value compared to the rest of the campaign &mdash; subtraction or addition of a flux constant will likely be required if combining with data from the rest of the campaign.
+For the first ~30 hours of the campaign when the spacecraft was in coarse point, most stars are expected to be significantly outside of their optimal aperture.  While the raw light curve (PA / SAP_FLUX) is processed and provided in the lightcurve FITS files for these cadences, the data was excluded from the PDC detrending module in order to improve performance across the campaign, and thus there is no PDC_SAPFLUX values in the provided lightcurve FITS files.  Users wishing to attempt to utilize these ~30 days of coarse point should also note that the black level in the target-pixel files will be off by a constant value compared to the rest of the campaign &mdash; subtraction or addition of a flux constant will likely be required if combining with data from the rest of the campaign.
 
 As in other campaigns, the 6-hour spacecraft roll cycle dominates the systematic errors in C7 simple aperture photometry light curves.  The unusually large roll motion in C7, combined with an extremely crowded field, had a particularly strong impact on photometry compared to other campaigns, especially for targets near the edge of the focal plane &mdash; such targets have lower photometric precision.  Also, background estimates based on background polynomials were strongly polluted by stars rolling in and out of the background apertures. This is especially true for channels near the edge of the focal plane (more roll) and near the Galactic plane (more stars). As a result, the background is strongly over-corrected, with short-time background variations strongly correlated with roll motion. These background variations have been subtracted from all pixels on the channel.
 
 Despite the extra roll motion, the motion polynomials generally did a reasonable job tracking the large roll motion, and this enabled the computation of photometric apertures that significantly reduced the impact of roll motion in many cases. In other cases though, the roll motion was too large for the recovery of high-quality photometry using the standard pipeline processing.  As part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a> the spacecraft telemetry was used to identify pointing outliers and remove associated cadences from the PDC detrending module.  This resulted in significantly better common basis vectors and PDC detrended lightcurves (PDC_SAPFLUX) than the previous processing.  
 
-While the <a href="archived-k2-data-release-notes.html#k2-campaign-7">previous processing</a> resulted in a CDPP dwarf 12th magnitude noise benchmark that was increased by ~30% compared to the median value for all campaigns, as a result of reprocessing the benchmark is only ~15% higher.  The magnitude dependence of CDPP and its distribution over the focal plane are shown below. Other CDPP benchmarks can be found in the
+While the <a href="archived-k2-data-release-notes.html#k2-campaign-7">previous processing</a> resulted in a CDPP dwarf 12th magnitude noise benchmark that was increased by ~30% compared to the median value for all campaigns, as a result of reprocessing the benchmark is only ~15% higher, i.e., now within the normal range of campaign-to-campaign variation.  The magnitude dependence of CDPP and its distribution over the focal plane are shown below. Other CDPP benchmarks can be found in the
 <a href="images/release-notes/c7/c7_bin1.00_sc1.00_CDPP_Summary_19100123.txt">
 table giving 6.5-hr CDPP as a function of magnitude.</a>
 
@@ -3190,9 +3190,9 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 </a>
 </div>
 
-In addition to the issues with unusually large roll and crowding, stars selected for observation were unusually distributed in C7, with some channels having many targets and other channels having relatively few targets (see Figure C7-FOV-Targets). The result was that some channels had few target stars in the range of magnitudes used to characterize field motion via motion polynomials. A particularly dramatic example is channel 24.4, where all the targets used to create the motion polynomial for this channel are in one corner, resulting in a very inaccurate motion polynomial.  Because motion polynomials are used in the creation of the photometric aperture, photometry for some targets on Mod.Out 24.4 and 12.3 may be particularly poor.
+In addition to the issues with unusually large roll and crowding, stars selected for observation were unusually distributed in C7, with some channels having many targets and other channels having relatively few targets (see Figure C7-FOV-Targets). The result was that some channels had few target stars in the range of magnitudes used to characterize field motion via motion polynomials. A particularly dramatic example is channel 24.4, where all the targets used to create the motion polynomial for this channel are in one corner, resulting in a very inaccurate motion polynomial.  Because motion polynomials are used in the creation of the photometric aperture, photometry for some targets on Mod.Out 24.4, and to a lesser extent 12.3, may be particularly poor.
 
-<div class="thumbnail">
+<div class="thumbnail"  style="width: 90%;">
   <div class="caption">
     <i>Figure C7-FOV-Targets: Schematic of Kepler's C7 field-of-view with observed targets shown with purple dots.</i>
   </div>
@@ -3205,15 +3205,16 @@ In addition to the issues with unusually large roll and crowding, stars selected
 
 ***Poor Smear Correction***
 
-There are 4 channels in C7 for which the saturation spill due to very bright stars spans all CCD rows for one or more columns, corrupting both the masked and virtual smear measurements for these columns. In these cases, in order to allow the pipeline calibration to complete, we flag the masked smear as bad and process the data with only the virtual smear. As a result, the smear correction will be poor for the channel/column combinations listed below and will be suspect for the same columns on other outputs on the same module as the indicated channel due to video crosstalk.
+There are 4 channels in C7 for which the saturation spill due to very bright stars spans all CCD rows for one or more columns, corrupting both the masked and virtual smear measurements for these columns. In these cases, in order to allow the pipeline calibration to complete, we flag the masked smear as bad and process the data with only the virtual smear. As a result, the smear correction will be poor for the channel/column combinations listed below, and will be suspect for the same columns on other outputs on the same module as the indicated channel due to video crosstalk.
 
-<ul>
-<li style="list-style-type:none">Channel | Columns</li>
-<li style="list-style-type:none">&emsp;&emsp;45 | 685:691</li>
-<li style="list-style-type:none">&emsp;&emsp;53 | 42:51</li>
-<li style="list-style-type:none">&emsp;&emsp;65 | 819:828</li>
-<li style="list-style-type:none">&emsp;&emsp;67 | 234:242</li>
-</ul>
+<table>
+<tr><th>Channel&emsp;</th><th>Columns</th></tr>
+<tr><td>45</td><td>685:691</td></tr>
+<tr><td>53</td><td>42:51</td></tr>
+<tr><td>65</td><td>819:828</td></tr>
+<tr><td>67</td><td>234:242</td></tr>
+</table>
+
 
 <br>
 
