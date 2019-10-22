@@ -3012,6 +3012,9 @@ The extent of the problem in time and CCD columns can be seen in the figure *C8-
 
 # K2 Campaign 7
 
+These release notes are for the C7 data currently available at MAST (Data Release 36) in the nominal K2 data locations, which have been processed with the final version of the K2 pipeline as part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a>. The original release notes corresponding to the previous versions of C7 data (Data Release 9) can be found in the <a href="archived-k2-data-release-notes.html#k2-campaign-7">archived data release notes page</a>.
+
+
 <h2>At a glance</h2>
 
 <div class="col-lg-5">
@@ -3052,30 +3055,43 @@ The extent of the problem in time and CCD columns can be seen in the figure *C8-
 
     <b><i>Most Recent Processing Version</i></b>
     <ul>
-    <li> <a href="k2-pipeline-release-notes.html#data-release-9">Data Release 9</a> </li>
+    <li> <a href="k2-pipeline-release-notes.html#data-release-36">Data Release 36</a> </li>
     </ul>
+
+    <br>
+
+    <div class="thumbnail">
+        <div class="caption">
+            <i>Figure C7-Mag: Distribution of the Kepler magnitudes of observed LC targets in C7. All targets are chosen by Guest Observers. The shape is due to how the largest <a href="k2-approved-programs.html#campaign-7">Guest Observer programs</a> were selected.</i>
+        </div>
+        <a href="images/release-notes/c7/c7LcMagDistribution.png">
+            <img src="images/release-notes/c7/c7LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets in C7.">
+        </a>
+    </div>
 
 </div>
 
 <div class="col-lg-7">
 
-    <div class="thumbnail">
-        <div class="caption">
-            <i>Figure C7-FOV: Schematic of Kepler's C7 field-of-view with observed targets shown with purple dots.</i>
-        </div>
-        <a href="images/release-notes/c7/C7_selected.png">
-            <img src="images/release-notes/c7/C7_selected.png" class="img-responsive" alt="C7 field-of-view with selected targets plotted in purple.">
-        </a>
-    </div>
+<div class="thumbnail">
+  <div class="caption">
+    <i>Figure: Figure C7-FOV: Schematic of Kepler's C7 field-of-view with high profile objects.</i>
+  </div>
+  <a href="images/k2/k2-c07-field.png">
+    <img src="images/k2/k2-c07-field.png" class="img-responsive" alt="C6 field-of-view with selected targets">
+  </a>
+</div>
 
-    <div class="thumbnail">
-        <div class="caption">
-            <i>Figure C7-Mag: Distribution of the Kepler magnitudes of observed LC targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-7">GO  programs</a> were selected.</i>
-        </div>
-        <a href="images/release-notes/c7/c7LcMagDistribution.png">
-            <img src="images/release-notes/c7/c7LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets.">
-        </a>
-    </div>
+<div class="thumbnail">
+  <div class="caption">
+    <i>Figure: Figure C7-FFI: A full frame image (FFI) taken during C7, with a flux scaling designed to highlight features of interest.</i>
+  </div>
+  <a href="images/release-notes/c7/C7R-FFI.png">
+    <img src="images/release-notes/c7/C7R-FFI.png" class="img-responsive" alt="A C7 FFI">
+  </a>
+</div>
+
+</div>
 
 </div>
 
@@ -3083,117 +3099,122 @@ The extent of the problem in time and CCD columns can be seen in the figure *C8-
 
 ***Pluto***
 
-Pluto, one of the largest trans-Neptunian objects, previously known as the ninth planet in our solar system, was observed during Campaign 7. The path of Pluto was tiled with 1 x n pixel target definitions, where n ranges from 1 to 217. The range of custom aperture numbers for Pluto is 200062954 -- 200062827. The animated gif below shows Pluto as observed by K2.
+Pluto, a dwarf planet in the Kuiper belt, and one of the largest trans-Neptunian objects, was observed during Campaign 7. The path of Pluto was tiled with 1 x n pixel target definitions, where n ranges from 1 to 217. The range of custom aperture numbers for Pluto is 200062954 &ndash; 200062827. The animated gif below shows Pluto as observed by K2.
 <div class"thumbnail" style="width:65%;">
     <div class="caption"><i>Figure C7-Pluto: An animated gif of a portion of the custom apertures that contain Pluto during C7. </i>
     </div>
     <a href="images/release-notes/c7/k2c7-pluto.gif"><img src="images/release-notes/c7/k2c7-pluto.gif" class="img-responsive" alt="Movie of Pluto moving through the K2 field of view."></a>
 </div>
 
-
 <br>
 
 ***Ruprecht 47***
 
-Ruprecht 47 is an open cluster observed with K2 during Campaign 7.  It was observed using a super-aperture, tiled with 60 51 x 51 masks, totalling 156,060 pixels. The custom aperture numbers range from 200062524 -- 200062583.
-
+Ruprecht 47 is an open cluster observed with K2 during Campaign 7.  It was observed using a super-aperture, tiled with 60 51 x 51 masks, totaling 156,060 pixels. The custom aperture numbers range from 200062524 &ndash; 200062583.
 
 <br>
 
-***Increase in Roll Drift***
+***Pointing and Roll Performance***
 
-For C7, an alternate low-gain antenna was active during science data collection. The previously used LGA1 was replaced by LGA2 (see [KIH Figure 2](http://archive.stsci.edu/kepler/manuals/KSCI-19033-001.pdf)), as the latter is slightly better oriented with respect to earth. (This partially compensates for the increasing distance to the spacecraft in its earth-trailing orbit, now at 0.8 AU.)  Since the two antennas are mounted on opposite sides of the spacecraft, this antenna swap produced a change in radiation pressure that placed an additional (unbalanced) torque about the boresight on the spacecraft.  The resulting increase in roll drift is illustrated in Figure *C7-RollDrift*, which compares the drift rates for C4, C6, and C7. Consequently, the maximum excursion of any pixel from its nominal position is significantly larger for C7 than for previous campaigns (see Figure *C7-MAR*).
+For the first ~30 hours of the campaign, the telescope was in coarse point &mdash; one of the guide stars was brighter than expected, preventing fine point lock, and an update to the fine guidance sensor was issued to accommodate the higher signal count. The span of coarse point is long cadences 115414 &ndash; 115474 (corresponding short cadences 3450880 &ndash; 3452680. See Figure C7-MAR below.
 
-<div class="thumbnail" style="width: 45%;display: inline-block;">
-    <div class="caption">
-    <i>Figure C7-Roll Drift: The roll of the Kepler spacecraft around the boresight during campaigns 4, 6 and 7. The C7 drift rate is significantly out of family, being negative throughout the entire campaign.</i>   
-    </div>
-    <a href="images/release-notes/c7/c7-rolldrift.png">
-        <img src="images/release-notes/c7/c7-rolldrift.png" class="img-responsive" alt="Roll Drift for C7 is larger than it was for C4 and C6.">
-    </a>
+The C7 roll behavior is worse than typically seen in other K2 campaigns. For C7, an alternate low-gain antenna was active during science data collection. The previously used LGA1 was replaced by LGA2 (see [Figure 2 of the Kepler Instrument Handbook](http://archive.stsci.edu/kepler/manuals/KSCI-19033-002.pdf)), as the latter was slightly better oriented with respect to earth. (This partially compensated for the increasing distance to the spacecraft in its Earth-trailing orbit, then at 0.8 AU.)  Since the two antennas are mounted on opposite sides of the spacecraft, this antenna swap produced a change in radiation pressure that placed an additional (unbalanced) torque about the boresight on the spacecraft.  The resulting increase in roll drift is illustrated in Figure C7-RollDrift, which compares the drift rates for C4, C6, and C7.
+
+<div class="thumbnail" style="width: 50%;display: inline-block;">
+  <div class="caption">
+    <i>Figure C7-Roll Drift: The roll of the Kepler spacecraft around the boresight during campaigns 4, 6 and 7. The C7 drift rate is significantly out of family, being negative throughout the entire campaign.</i>
+  </div>
+  <a href="images/release-notes/c7/c7-rolldrift.png">
+    <img src="images/release-notes/c7/c7-rolldrift.png" class="img-responsive" alt="Roll Drift for C7 is larger than it was for C4 and C6.">
+  </a>
 </div>
 
-<div class="thumbnail" style="width: 49%;display: inline-block;">
-    <div class="caption">
-    <i>Figure C7-MAR: The maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C7.  </i>
-    <a href="images/release-notes/c7/c7-mar.png">
-        <img src="images/release-notes/c7/c7-mar.png" class="img-responsive" alt="Maximum residual of the attitude measured with PAD and PDQ.">
-    </a>
+As a result of this increased roll drift (see Figure C7-Roll-Error), the maximum excursion of any pixel from its nominal position is significantly larger for C7 than for other campaigns. The pipeline-calculated maximum distance between the derived and nominal positions for any target (the "maximum attitude residual", or MAR) for C7 is as large as 3.4 pixels, as shown in Figure C7-MAR &mdash; most campaigns have a MAR of ~2. As described below, since target apertures were designed with a maximum 3-pixel halo, this results in lost light for some targets.
 
-    </div>
+<div class="thumbnail" style="width: 49%; display: inline-block;">
+  <div class="caption">
+    <i>
+    Figure C7-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C7.
+    </i>
+  </div>
+  <a href="images/release-notes/c7/c7_pad_pdq_attitude_roll.png">
+    <img src="images/release-notes/c7/c7_pad_pdq_attitude_roll.png" class="img-responsive" alt="Pipeline measured roll error for C7.">
+  </a>
 </div>
 
-
-Given this unanticipated result, LGA1 will be used for C8, C9, and C10, while the fields of view for C11, C12, and C13 were tweaked by 0.12° – 0.16° (<a href="/minor-changes-in-the-fields-of-campaigns-11-12-and-13.html">see GO blog</a>) so that a subsequent return to LGA2 should have no adverse effects on data quality.
-
-
-<br>
-
-***Effect of Roll on Photometry***
-
-The unusually large roll motion in C7, combined with an extremely crowded field, had a strong impact on photometry, particularly on targets near the edge of the focal plane. This impact has several components:
-<ul>
-<li>
-In some cases target stars came close to the edge of their aperture masks. In such cases the photometric precision will be low.
-</li>
-<li>
-Background estimates based on background polynomials were strongly polluted by stars rolling in and out of the background apertures. This is especially true for channels near the edge of the focal plane (more roll) and near the Galactic plane (more stars). As a result, the background is strongly over-corrected, with short-time background variations strongly correlated with roll motion. These background variations have been subtracted from all pixels on the channel.
-</li>
-<li>
-The peaks of the roll motion in the background pixels were often incorrectly identified as cosmic rays and removed. The resulting change in background is minor in magnitude, but potentially diminishes the correlation between background variations and roll motion.
-</li>
-</ul>
-
-The motion polynomials generally did a reasonable job tracking the large roll motion, and this enabled the computation of photometric apertures that significantly reduced the impact of roll motion in many cases. In other cases, however, the roll motion was too large for the recovery of high-quality photometry using the standard pipeline processing.
-
-In addition to the issues with unusually large roll and crowding, stars selected for observation were unusually distributed in C7, with some channels having many targets and other channels having relatively few targets. The result was that some channels had few target stars in the range of magnitudes used to characterize field motion via motion polynomials. A particularly dramatic example is channel 24.4, where all the targets used to create the motion polynomial for this channel are in one corner, resulting in a very inaccurate motion polynomial. Because motion polynomials are used in the creation of the photometric aperture, photometry for some targets on 24.4 may be particularly poor.
+<div class="thumbnail" style="width: 49%; display: inline-block;">
+  <div class="caption">
+    <i>
+    Figure C7-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C7.
+    </i>
+  </div>
+  <a href="images/release-notes/c7/c7_pad_pdq_attitude_mar.png">
+    <img src="images/release-notes/c7/c7_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the C7 attitude measured with PAD and PDQ.">
+  </a>
+</div>
 
 <br>
+
+
 
 <h2>Data Quality and Processing Notes</h2>
 
 ***Light Curve Quality***
 
-The dominant systematic present in K2 simple aperture photometry light curves is a sawtooth shape that is due to the roll of the spacecraft approximately every 6 hours. The PDC module of the Kepler Pipeline uses Principle Component Analysis to remove this signal in addition to other systematics. Below, we examine observed noise levels in the PDC light curves for C7, Data Release 9.
+For the first ~30 hours of the campaign when the spacecraft was in coarse point, most stars are expected to be significantly outside of their optimal aperture.  While the raw light curve (PA / SAP_FLUX) is processed and provided in the lightcurve FITS files for these cadences, the data was excluded from the PDC detrending module in order to improve performance across the campaign, and thus there is no PDC_SAPFLUX values in the provided lightcurve FITS files.  Users wishing to attempt to utilize these ~30 days of coarse point should also note that the black level in the target-pixel files will be off by a constant value compared to the rest of the campaign &mdash; subtraction or addition of a flux constant will likely be required if combining with data from the rest of the campaign.
 
-Since two halos were used for targets near the center of the focal plane and three halos were used for targets around the periphery, the requisite pixels were captured, but the increased roll motion has severely challenged the data processing pipeline’s ability to perform high-precision photometry. Analysis of the light curve quality reveals that CDPP values are increased by roughly 35% above the benchmark value (tenth percentile of 12th magnitude dwarfs) compared to C4-C6.
+As in other campaigns, the 6-hour spacecraft roll cycle dominates the systematic errors in C7 simple aperture photometry light curves.  The unusually large roll motion in C7, combined with an extremely crowded field, had a particularly strong impact on photometry compared to other campaigns, especially for targets near the edge of the focal plane &mdash; such targets have lower photometric precision.  Also, background estimates based on background polynomials were strongly polluted by stars rolling in and out of the background apertures. This is especially true for channels near the edge of the focal plane (more roll) and near the Galactic plane (more stars). As a result, the background is strongly over-corrected, with short-time background variations strongly correlated with roll motion. These background variations have been subtracted from all pixels on the channel.
 
-<a href="images/release-notes/c7/C7_bin1.00_sc1.00_CDPP_Summary_16033014.txt">Table giving 6.5-hr CDPP as a function of magnitude.</a>
+Despite the extra roll motion, the motion polynomials generally did a reasonable job tracking the large roll motion, and this enabled the computation of photometric apertures that significantly reduced the impact of roll motion in many cases. In other cases though, the roll motion was too large for the recovery of high-quality photometry using the standard pipeline processing.  As part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a> the spacecraft telemetry was used to identify pointing outliers and remove associated cadences from the PDC detrending module.  This resulted in significantly better common basis vectors and PDC detrended lightcurves (PDC_SAPFLUX) than the previous processing.  
+
+While the <a href="archived-k2-data-release-notes.html#k2-campaign-7">previous processing</a> resulted in a CDPP dwarf 12th magnitude noise benchmark that was increased by ~30% compared to the median value for all campaigns, as a result of reprocessing the benchmark is only ~15% higher, i.e., now within the normal range of campaign-to-campaign variation.  The magnitude dependence of CDPP and its distribution over the focal plane are shown below. Other CDPP benchmarks can be found in the
+<a href="images/release-notes/c7/c7_bin1.00_sc1.00_CDPP_Summary_19100123.txt">
+table giving 6.5-hr CDPP as a function of magnitude.</a>
+
 <br>
-<div class="thumbnail" style="width: 70%;">
-    <div class="caption">
-    <i>Figure C7-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>   
-    </div>
-    <a href="images/release-notes/c7/C7_logg_CDPP_vs_model.png">
-        <img src="images/release-notes/c7/C7_logg_CDPP_vs_model.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
-    </a>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C7-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>
 </div>
-<div class="thumbnail" style="width: 80%;">
-    <div class="caption">
-    <i>Figure C7-CDPPFocalPlane: 6.5-hr CDPP measured as a function of position on
-the focal plane for 12th and 14th magnitude dwarf stars. The photometric precision
-is generally better near the center of the focal plane where the variations in roll
-angle produce less pixel motion. All cadences coincident with a definite thruster
-firing are gapped.</i>
-    <a href="images/release-notes/c7/C7_dwarf__CDPP_by_mod_out.png">
-        <img src="images/release-notes/c7/C7_dwarf__CDPP_by_mod_out.png" class="img-responsive" alt="CDPP per channel for 12th magnitude dwarfs">
-    </a>    
-    </div>
+<a href="images/release-notes/c7/cdpp_vs_mag_dr36.png">
+<img src="images/release-notes/c7/cdpp_vs_mag_dr36.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
+</a>
+</div>
+
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C7-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
+</div>
+<a href="images/release-notes/c7/c7_dwarf_CDPP_by_mod_out_dr36.png">
+<img src="images/release-notes/c7/c7_dwarf_CDPP_by_mod_out_dr36.png" class="img-responsive" alt="CDPP per channel for 12th and 14th magnitude dwarfs">
+</a>
+</div>
+
+In addition to the issues with unusually large roll and crowding, stars selected for observation were unusually distributed in C7, with some channels having many targets and other channels having relatively few targets (see Figure C7-FOV-Targets). The result was that some channels had few target stars in the range of magnitudes used to characterize field motion via motion polynomials. A particularly dramatic example is channel 24.4, where all the targets used to create the motion polynomial for this channel are in one corner, resulting in a very inaccurate motion polynomial.  Because motion polynomials are used in the creation of the photometric aperture, photometry for some targets on Mod.Out 24.4, and to a lesser extent 12.3, may be particularly poor.
+
+<div class="thumbnail"  style="width: 90%;">
+  <div class="caption">
+    <i>Figure C7-FOV-Targets: Schematic of Kepler's C7 field-of-view with observed targets shown with purple dots.</i>
+  </div>
+  <a href="images/release-notes/c7/C7_selected.png">
+    <img src="images/release-notes/c7/C7_selected.png" class="img-responsive" alt="C7 field-of-view with selected targets plotted in purple.">
+  </a>
 </div>
 
 <br>
 
 ***Poor Smear Correction***
 
-There are 4 channels in C7 for which the saturation spill due to very bright stars spans all CCD rows for one or more columns, corrupting both the masked and virtual smear measurements for these columns. In these cases, in order to allow the pipeline calibration to complete, we flag the masked smear as bad and process the data with only the virtual smear. As a result, the smear correction will be poor for the channel/column combinations listed below and will be suspect for the same columns on other outputs on the same module as the indicated channel due to video crosstalk.
+There are 4 channels in C7 for which the saturation spill due to very bright stars spans all CCD rows for one or more columns, corrupting both the masked and virtual smear measurements for these columns. In these cases, in order to allow the pipeline calibration to complete, we flag the masked smear as bad and process the data with only the virtual smear. As a result, the smear correction will be poor for the channel/column combinations listed below, and will be suspect for the same columns on other outputs on the same module as the indicated channel due to video crosstalk.
 
-<ul>
-<li style="list-style-type:none">Channel | Columns</li>
-<li style="list-style-type:none">&emsp;&emsp;45 | 685:691</li>
-<li style="list-style-type:none">&emsp;&emsp;53 | 42:51</li>
-<li style="list-style-type:none">&emsp;&emsp;65 | 819:828</li>
-<li style="list-style-type:none">&emsp;&emsp;67 | 234:242</li>
-</ul>
+<table>
+<tr><th>Channel&emsp;</th><th>Columns</th></tr>
+<tr><td>45</td><td>685:691</td></tr>
+<tr><td>53</td><td>42:51</td></tr>
+<tr><td>65</td><td>819:828</td></tr>
+<tr><td>67</td><td>234:242</td></tr>
+</table>
+
 
 <br>
 
@@ -3285,7 +3306,6 @@ These release notes are for the C6 data currently available at MAST (Data Releas
 </div>
 
 </div>
-
 
 
 
