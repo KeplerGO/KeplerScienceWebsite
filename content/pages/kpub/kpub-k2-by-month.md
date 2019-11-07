@@ -7,13 +7,41 @@ Save_as: kpub-k2-by-month.html
 2019-11
 -------
 
-1. [HIGH-DEGREE GRAVITY MODES IN THE SINGLE SDB STAR HD 4539](http://adsabs.harvard.edu/abs/2019MNRAS.489.4791S)  
+1. [EXOPLANET CHARACTERISATION IN THE LONGEST KNOWN RESONANT CHAIN: THE K2-138 SYSTEM SEEN BY HARPS](http://adsabs.harvard.edu/abs/2019A&A...631A..90L)  
+Lopez, T. A., Barros, S. C. C., Santerne, A., et al.    
+2019, refereed ([2019A&A...631A..90L](http://adsabs.harvard.edu/abs/2019A&A...631A..90L))  
+
+2. [TESS ASTEROSEISMOLOGY OF THE KNOWN RED-GIANT HOST STARS HD 212771 AND HD 203949](http://adsabs.harvard.edu/abs/2019ApJ...885...31C)  
+Campante, Tiago L., Corsaro, Enrico, Lund, Mikkel N., et al.    
+2019, refereed ([2019ApJ...885...31C](http://adsabs.harvard.edu/abs/2019ApJ...885...31C))  
+
+3. [FOUR NEWBORN PLANETS TRANSITING THE YOUNG SOLAR ANALOG V1298 TAU](http://adsabs.harvard.edu/abs/2019ApJ...885L..12D)  
+David, Trevor J., Petigura, Erik A., Luger, Rodrigo, et al.    
+2019, refereed ([2019ApJ...885L..12D](http://adsabs.harvard.edu/abs/2019ApJ...885L..12D))  
+
+4. [ESTIMATION OF SINGLY TRANSITING K2 PLANET PERIODS WITH GAIA PARALLAXES](http://adsabs.harvard.edu/abs/2019MNRAS.489.3149S)  
+Sandford, Emily, Espinoza, Néstor, Brahm, Rafael, et al.    
+2019, refereed ([2019MNRAS.489.3149S](http://adsabs.harvard.edu/abs/2019MNRAS.489.3149S))  
+
+5. [HIGH-DEGREE GRAVITY MODES IN THE SINGLE SDB STAR HD 4539](http://adsabs.harvard.edu/abs/2019MNRAS.489.4791S)  
 Silvotti, R., Uzundag, M., Baran, A. S., et al.    
 2019, refereed ([2019MNRAS.489.4791S](http://adsabs.harvard.edu/abs/2019MNRAS.489.4791S))  
 
-2. [ESTIMATION OF SINGLY TRANSITING K2 PLANET PERIODS WITH GAIA PARALLAXES](http://adsabs.harvard.edu/abs/2019MNRAS.489.3149S)  
-Sandford, Emily, Espinoza, Néstor, Brahm, Rafael, et al.    
-2019, refereed ([2019MNRAS.489.3149S](http://adsabs.harvard.edu/abs/2019MNRAS.489.3149S))  
+6. [A TRANSITING SUPER-EARTH CLOSE TO THE INNER EDGE OF THE HABITABLE ZONE OF AN M0 DWARF STAR](http://adsabs.harvard.edu/abs/2019MNRAS.489.5928D)  
+Díez Alonso, E., González Hernández, J. I., Toledo-Padrón, B., et al.    
+2019, refereed ([2019MNRAS.489.5928D](http://adsabs.harvard.edu/abs/2019MNRAS.489.5928D))  
+
+7. [RADIAL VELOCITY CONFIRMATION OF K2-100B: A YOUNG, HIGHLY IRRADIATED, AND LOW-DENSITY TRANSITING HOT NEPTUNE](http://adsabs.harvard.edu/abs/2019MNRAS.490..698B)  
+Barragán, O., Aigrain, S., Kubyshkina, D., et al.    
+2019, refereed ([2019MNRAS.490..698B](http://adsabs.harvard.edu/abs/2019MNRAS.490..698B))  
+
+8. [A SUBSTELLAR COMPANION TO A HOT STAR IN K2'S CAMPAIGN 0 FIELD](http://adsabs.harvard.edu/abs/2019PASP..131k4402D)  
+Dholakia, S., Dholakia, S., Cody, Ann Marie, et al.    
+2019, refereed ([2019PASP..131k4402D](http://adsabs.harvard.edu/abs/2019PASP..131k4402D))  
+
+9. [A CATALOG OF PERIODIC VARIABLES IN OPEN CLUSTERS M35 AND NGC 2158](http://adsabs.harvard.edu/abs/2019arXiv191100832S)  
+Soares-Furtado, M., Hartman, J. D., Bhatti, W., et al.    
+2019, not refereed ([2019arXiv191100832S](http://adsabs.harvard.edu/abs/2019arXiv191100832S))  
 
 
 2019-10
@@ -27,21 +55,61 @@ Rodríguez Martínez, Romy, Ballard, Sarah, Mayo, Andrew, et al.
 Hippke, Michael, David, Trevor J., Mulders, Gijs D., et al.    
 2019, refereed ([2019AJ....158..143H](http://adsabs.harvard.edu/abs/2019AJ....158..143H))  
 
-3. [ABSOLUTE PROPERTIES OF RU CNC REVISITED: AN ACTIVE RS CVN-TYPE ECLIPSING BINARY WITH RED GIANT BRANCH AND MAIN-SEQUENCE COMPONENTS](http://adsabs.harvard.edu/abs/2019MNRAS.488.4520C)  
+3. [THE BAYESIAN ASTEROSEISMOLOGY DATA MODELING PIPELINE AND ITS APPLICATION TO K2 DATA](http://adsabs.harvard.edu/abs/2019ApJ...884..107Z)  
+Zinn, Joel C., Stello, Dennis, Huber, Daniel, et al.    
+2019, refereed ([2019ApJ...884..107Z](http://adsabs.harvard.edu/abs/2019ApJ...884..107Z))  
+
+4. [EXTENDED APERTURE PHOTOMETRY OF K2 RR LYRAE STARS](http://adsabs.harvard.edu/abs/2019ApJS..244...32P)  
+Plachy, Emese, Molnár, László, Bódi, Attila, et al.    
+2019, refereed ([2019ApJS..244...32P](http://adsabs.harvard.edu/abs/2019ApJS..244...32P))  
+
+5. [MAGNETIC ACTIVITIES ON ACTIVE SOLAR-TYPE STARS](http://adsabs.harvard.edu/abs/2019BSRSL..88..182K)  
+Karmakar, S., Pandey, J. C., Naik, S., et al.    
+2019, refereed ([2019BSRSL..88..182K](http://adsabs.harvard.edu/abs/2019BSRSL..88..182K))  
+
+6. [ABSOLUTE PROPERTIES OF RU CNC REVISITED: AN ACTIVE RS CVN-TYPE ECLIPSING BINARY WITH RED GIANT BRANCH AND MAIN-SEQUENCE COMPONENTS](http://adsabs.harvard.edu/abs/2019MNRAS.488.4520C)  
 Çokluk, K. A., Koçak, D., Içli, T., et al.    
 2019, refereed ([2019MNRAS.488.4520C](http://adsabs.harvard.edu/abs/2019MNRAS.488.4520C))  
 
-4. [SIMULATING RADIAL VELOCITY OBSERVATIONS OF TRAPPIST-1 WITH SPIROU](http://adsabs.harvard.edu/abs/2019MNRAS.488.5114K)  
+7. [SIMULATING RADIAL VELOCITY OBSERVATIONS OF TRAPPIST-1 WITH SPIROU](http://adsabs.harvard.edu/abs/2019MNRAS.488.5114K)  
 Klein, Baptiste, Donati, J. -F.    
 2019, refereed ([2019MNRAS.488.5114K](http://adsabs.harvard.edu/abs/2019MNRAS.488.5114K))  
 
-5. [NEW Β CEP PULSATORS DISCOVERED WITH K2 SPACE PHOTOMETRY](http://adsabs.harvard.edu/abs/2019MNRAS.489.1304B)  
+8. [NEW Β CEP PULSATORS DISCOVERED WITH K2 SPACE PHOTOMETRY](http://adsabs.harvard.edu/abs/2019MNRAS.489.1304B)  
 Burssens, S., Bowman, D. M., Aerts, C., et al.    
 2019, refereed ([2019MNRAS.489.1304B](http://adsabs.harvard.edu/abs/2019MNRAS.489.1304B))  
 
-6. [K2 OBSERVATIONS OF THE SDBV + DM/BD BINARIES PHL 457 AND EQ PSC](http://adsabs.harvard.edu/abs/2019MNRAS.489.1556B)  
+9. [K2 OBSERVATIONS OF THE SDBV + DM/BD BINARIES PHL 457 AND EQ PSC](http://adsabs.harvard.edu/abs/2019MNRAS.489.1556B)  
 Baran, A. S., Telting, J. H., Jeffery, C. S., et al.    
 2019, refereed ([2019MNRAS.489.1556B](http://adsabs.harvard.edu/abs/2019MNRAS.489.1556B))  
+
+10. [THE K2-HERMES SURVEY: AGE AND METALLICITY OF THE THICK DISC](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.2471S)  
+Sharma, Sanjib, Stello, Dennis, Bland-Hawthorn, Joss, et al.    
+2019, refereed ([2019MNRAS.tmp.2471S](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.2471S))  
+
+11. [DISCOVERY OF A NEW WZ SAGITTAE TYPE CATACLYSMIC VARIABLE IN THE KEPLER/K2 DATA](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.2531R)  
+Ridden-Harper, R., Tucker, B. E., Garnavich, P., et al.    
+2019, refereed ([2019MNRAS.tmp.2531R](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.2531R))  
+
+12. [LOW-FREQUENCY VARIABILITY IN MASSIVE STARS: CORE GENERATION OR SURFACE PHENOMENON?](http://adsabs.harvard.edu/abs/2019arXiv191001643L)  
+Lecoanet, Daniel, Cantiello, Matteo, Quataert, Eliot, et al.    
+2019, not refereed ([2019arXiv191001643L](http://adsabs.harvard.edu/abs/2019arXiv191001643L))  
+
+13. [FOUR NEWBORN PLANETS TRANSITING THE YOUNG SOLAR ANALOG V1298 TAU](http://adsabs.harvard.edu/abs/2019arXiv191004563D)  
+David, Trevor J., Petigura, Erik A., Luger, Rodrigo, et al.    
+2019, not refereed ([2019arXiv191004563D](http://adsabs.harvard.edu/abs/2019arXiv191004563D))  
+
+14. [GIANT PLANET OCCURRENCE WITHIN 0.2 AU OF LOW-LUMINOSITY RED GIANT BRANCH STARS WITH K2](http://adsabs.harvard.edu/abs/2019arXiv191005346G)  
+Grunblatt, Samuel K., Huber, Daniel, Gaidos, Eric, et al.    
+2019, not refereed ([2019arXiv191005346G](http://adsabs.harvard.edu/abs/2019arXiv191005346G))  
+
+15. [LCTOOLS: A WINDOWS-BASED SOFTWARE SYSTEM FOR FINDING AND RECORDING SIGNALS IN LIGHTCURVES FROM NASA SPACE MISSIONS](http://adsabs.harvard.edu/abs/2019arXiv191008034S)  
+Schmitt, Allan R., Hartman, Joel D., Kipping, David M.    
+2019, not refereed ([2019arXiv191008034S](http://adsabs.harvard.edu/abs/2019arXiv191008034S))  
+
+16. [K2-19B AND C ARE IN A 3:2 COMMENSURABILITY BUT OUT OF RESONANCE: A CHALLENGE TO PLANET ASSEMBLY BY CONVERGENT MIGRATION](http://adsabs.harvard.edu/abs/2019arXiv191012899P)  
+Petigura, Erik A., Livingston, John, Batygin, Konstantin, et al.    
+2019, not refereed ([2019arXiv191012899P](http://adsabs.harvard.edu/abs/2019arXiv191012899P))  
 
 
 2019-09
@@ -79,45 +147,25 @@ Rappaport, S., Vanderburg, A., Kristiansen, M. H., et al.
 Eidam, Jéssica M., Andrade, Laerte, Emilio, Marcelo, et al.    
 2019, refereed ([2019MNRAS.tmp.2198E](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.2198E))  
 
-9. [RADIAL VELOCITY CONFIRMATION OF K2-100B: A YOUNG, HIGHLY IRRADIATED, AND LOW DENSITY TRANSITING HOT NEPTUNE](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.2212B)  
-Barragán, O., Aigrain, S., Kubyshkina, D., et al.    
-2019, refereed ([2019MNRAS.tmp.2212B](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.2212B))  
-
-10. [WATER VAPOUR IN THE ATMOSPHERE OF THE HABITABLE-ZONE EIGHT-EARTH-MASS PLANET K2-18 B](http://adsabs.harvard.edu/abs/2019NatAs.tmp..438T)  
-Tsiaras, Angelos, Waldmann, Ingo P., Tinetti, Giovanna, et al.    
-2019, refereed ([2019NatAs.tmp..438T](http://adsabs.harvard.edu/abs/2019NatAs.tmp..438T))  
-
-11. [WATER VAPOUR IN THE ATMOSPHERE OF THE HABITABLE-ZONE EIGHT-EARTH-MASS PLANET K2-18 B](http://adsabs.harvard.edu/abs/2019NatAs.tmp..451T)  
+9. [WATER VAPOUR IN THE ATMOSPHERE OF THE HABITABLE-ZONE EIGHT-EARTH-MASS PLANET K2-18 B](http://adsabs.harvard.edu/abs/2019NatAs.tmp..451T)  
 Tsiaras, Angelos, Waldmann, Ingo P., Tinetti, Giovanna, et al.    
 2019, refereed ([2019NatAs.tmp..451T](http://adsabs.harvard.edu/abs/2019NatAs.tmp..451T))  
 
-12. [EXTENDED APERTURE PHOTOMETRY OF K2 RR LYRAE STARS](http://adsabs.harvard.edu/abs/2019arXiv190900446P)  
-Plachy, Emese, Molnár, László, Bódi, Attila, et al.    
-2019, not refereed ([2019arXiv190900446P](http://adsabs.harvard.edu/abs/2019arXiv190900446P))  
+10. [WHAT IS TRANSITING HD 139139?](http://adsabs.harvard.edu/abs/2019RNAAS...3..141S)  
+Schneider, Jean    
+2019, not refereed ([2019RNAAS...3..141S](http://adsabs.harvard.edu/abs/2019RNAAS...3..141S))  
 
-13. [WATER VAPOR ON THE HABITABLE-ZONE EXOPLANET K2-18B](http://adsabs.harvard.edu/abs/2019arXiv190904642B)  
+11. [WATER VAPOR ON THE HABITABLE-ZONE EXOPLANET K2-18B](http://adsabs.harvard.edu/abs/2019arXiv190904642B)  
 Benneke, Björn, Wong, Ian, Piaulet, Caroline, et al.    
 2019, not refereed ([2019arXiv190904642B](http://adsabs.harvard.edu/abs/2019arXiv190904642B))  
 
-14. [TESS ASTEROSEISMOLOGY OF THE KNOWN RED-GIANT HOST STARS HD 212771 AND HD 203949](http://adsabs.harvard.edu/abs/2019arXiv190905961C)  
+12. [TESS ASTEROSEISMOLOGY OF THE KNOWN RED-GIANT HOST STARS HD 212771 AND HD 203949](http://adsabs.harvard.edu/abs/2019arXiv190905961C)  
 Campante, Tiago L., Corsaro, Enrico, Lund, Mikkel N., et al.    
 2019, not refereed ([2019arXiv190905961C](http://adsabs.harvard.edu/abs/2019arXiv190905961C))  
 
-15. [THE BAYESIAN ASTEROSEISMOLOGY DATA MODELING PIPELINE AND ITS APPLICATION TO $\IT K2$ DATA](http://adsabs.harvard.edu/abs/2019arXiv190911927Z)  
-Zinn, Joel C., Stello, Dennis, Huber, Daniel, et al.    
-2019, not refereed ([2019arXiv190911927Z](http://adsabs.harvard.edu/abs/2019arXiv190911927Z))  
-
-16. [EXOPLANET CHARACTERISATION IN THE LONGEST KNOWN RESONANT CHAIN: THE K2-138 SYSTEM SEEN BY HARPS](http://adsabs.harvard.edu/abs/2019arXiv190913527L)  
+13. [EXOPLANET CHARACTERISATION IN THE LONGEST KNOWN RESONANT CHAIN: THE K2-138 SYSTEM SEEN BY HARPS](http://adsabs.harvard.edu/abs/2019arXiv190913527L)  
 Lopez, T. A., Barros, S. C. C., Santerne, A., et al.    
 2019, not refereed ([2019arXiv190913527L](http://adsabs.harvard.edu/abs/2019arXiv190913527L))  
-
-17. [WHAT IS TRANSITING HD 139139 ?](http://adsabs.harvard.edu/abs/2019arXiv191002846S)  
-Schneider, Jean    
-2019, not refereed ([2019arXiv191002846S](http://adsabs.harvard.edu/abs/2019arXiv191002846S))  
-
-18. [WHAT IS TRANSITING HD 139139?](http://adsabs.harvard.edu/abs/2019RNAAS...3..141S)  
-Schneider, Jean    
-2019, not refereed ([2019RNAAS...3..141S](http://adsabs.harvard.edu/abs/2019RNAAS...3..141S))  
 
 
 2019-08
@@ -251,11 +299,7 @@ Paudel, R. R., Gizis, J. E., Burgasser, A. J., et al.
 Shultz, M., Rivinius, Th, Das, B., et al.    
 2019, refereed ([2019MNRAS.486.5558S](http://adsabs.harvard.edu/abs/2019MNRAS.486.5558S))  
 
-13. [A SUBSTELLAR COMPANION TO A HOT STAR IN K2'S CAMPAIGN 0 FIELD](http://adsabs.harvard.edu/abs/2019arXiv190706662D)  
-Dholakia, S., Dholakia, S., Cody, Ann Marie, et al.    
-2019, not refereed ([2019arXiv190706662D](http://adsabs.harvard.edu/abs/2019arXiv190706662D))  
-
-14. [IT TAKES TWO PLANETS IN RESONANCE TO TANGO AROUND K2-146](http://adsabs.harvard.edu/abs/2019arXiv190711141L)  
+13. [IT TAKES TWO PLANETS IN RESONANCE TO TANGO AROUND K2-146](http://adsabs.harvard.edu/abs/2019arXiv190711141L)  
 Lam, Kristine W. F., Korth, Judith, Masuda, Kento, et al.    
 2019, not refereed ([2019arXiv190711141L](http://adsabs.harvard.edu/abs/2019arXiv190711141L))  
 
@@ -391,11 +435,7 @@ Hjorth, M., Justesen, A. B., Hirano, T., et al.
 Rice, K., Malavolta, L., Mayo, A., et al.    
 2019, refereed ([2019MNRAS.484.3731R](http://adsabs.harvard.edu/abs/2019MNRAS.484.3731R))  
 
-5. [THE K2-HERMES SURVEY: AGE AND METALLICITY OF THE THICK DISC](http://adsabs.harvard.edu/abs/2019arXiv190412444S)  
-Sharma, Sanjib, Stello, Dennis, Bland-Hawthorn, Joss, et al.    
-2019, not refereed ([2019arXiv190412444S](http://adsabs.harvard.edu/abs/2019arXiv190412444S))  
-
-6. [NEW LIGHT ON THE GAIA DR2 PARALLAX ZERO-POINT: INFLUENCE OF THE ASTEROSEISMIC APPROACH, IN AND BEYOND THE KEPLER FIELD](http://adsabs.harvard.edu/abs/2019gaia.confE..13K)  
+5. [NEW LIGHT ON THE GAIA DR2 PARALLAX ZERO-POINT: INFLUENCE OF THE ASTEROSEISMIC APPROACH, IN AND BEYOND THE KEPLER FIELD](http://adsabs.harvard.edu/abs/2019gaia.confE..13K)  
 Khan, Saniya, Miglio, Andrea, Mosser, Benoît, et al.    
 2019, not refereed ([2019gaia.confE..13K](http://adsabs.harvard.edu/abs/2019gaia.confE..13K))  
 
