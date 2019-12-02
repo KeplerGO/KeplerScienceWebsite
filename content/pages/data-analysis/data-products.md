@@ -103,7 +103,7 @@ stored in files that span a month.
 
 [All Kepler data release notes can be found at MAST](https://archive.stsci.edu/kepler/data_release.html).
 
-<table class="table table-striped table-hover" style="max-width:40em;">
+<table class="table table-striped table-hover" style="max-width:50em;">
   <thead>
     <tr>
       <th>Quarter</th>
@@ -321,12 +321,13 @@ which detail deviations from the pipeline used for Kepler.
   <thead>
     <tr>
     <th>Campaign</th>
-	<th>GO cycle</th>
-	<th>Start</th>
-	<th>Stop</th>
-      <th>Archive date</th>
-      <th>Release note</th>
-	  <th>Pipeline note</th>
+	<th>GO Cycle</th>
+	<th>Observation Start Date</th>
+	<th>Observation Stop Date</th>
+      <th>Archive Date of First Processing</th>
+      <th>Archive Date of Latest Processing</th>
+      <th>Data Release Note</th>
+	  <th>Pipeline Release Note</th>
     </tr>
   </thead>
 
@@ -335,34 +336,37 @@ which detail deviations from the pipeline used for Kepler.
       <tr>
       <td>C0</td>
 	  <td>N/A</td>
-	  <td>2014 Mar 08</td>
-	  <td>2014 May 27</td>
+	     <td>2014 Mar 08</td>
+	     <td>2014 May 27</td>
       <td>2014 Sep 08</td>
+      <td>2019 Jan 08</td>
       <td><a
       href="k2-data-release-notes.html#k2-campaign-0">DRN</a></td>
-	  <td><a href="/k2-pipeline-release-notes.html#data-release-2">PRN</a></td>
+	  <td><a href="/k2-pipeline-release-notes.html#data-release-28">PRN</a></td>
       </tr>
 
       <tr>
       <td>C1</td>
 	  <td>N/A</td>
-	  <td>2014 May 30</td>
-	  <td>2014 Aug 21</td>
+	     <td>2014 May 30</td>
+	     <td>2014 Aug 21</td>
       <td>2014 Dec 23</td>
+      <td>2019 Jun 20</td>
       <td><a
       href="k2-data-release-notes.html#k2-campaign-1">DRN</a></td>
-	  	  <td><a href="/k2-pipeline-release-notes.html#data-release-14">PRN</a></td>
+	  	  <td><a href="/k2-pipeline-release-notes.html#data-release-32">PRN</a></td>
       </tr>
 
       <tr>
       <td>C2</td>
   	  <td>N/A</td>
-	  <td>2014 Aug 23</td>
+	     <td>2014 Aug 23</td>
       <td>2014 Nov 13</td>
       <td>2015 Mar 16</td>
+      <td>2018 Oct 3</td>
       <td><a
       href="k2-data-release-notes.html#k2-campaign-2">DRN</a></td>
-	  	  <td><a href="/k2-pipeline-release-notes.html#data-release-4">PRN</a></td>
+	  	  <td><a href="/k2-pipeline-release-notes.html#data-release-21">PRN</a></td>
       </tr>
 
       <tr>
@@ -371,20 +375,22 @@ which detail deviations from the pipeline used for Kepler.
       <td>2014 Nov 14</td>
       <td>2015 Feb 03</td>
       <td>2015 Jul 17</td>
+      <td>2018 Oct 3</td>
 	  <td><a
       href="k2-data-release-notes.html#k2-campaign-3">DRN</a></td>
-	  	  <td><a href="/k2-pipeline-release-notes.html#data-release-5">PRN</a></td>
+	  	  <td><a href="/k2-pipeline-release-notes.html#data-release-26">PRN</a></td>
       </tr>
 
       <tr>
       <td>C4</td>
   	  <td>1</td>
-	  <td>2015 Feb 07</td>
-	  <td>2015 Apr 23</td>
+	     <td>2015 Feb 07</td>
+	     <td>2015 Apr 23</td>
       <td>2015 Sep 04</td>
+      <td>2019 Jul 31</td>
       <td><a
       href="k2-data-release-notes.html#k2-campaign-4">DRN</a></td>
-	  <td><a href="/k2-pipeline-release-notes.html#data-release-6">PRN</a></td>
+	  <td><a href="/k2-pipeline-release-notes.html#data-release-33">PRN</a></td>
       </tr>
 
       <tr>
@@ -393,9 +399,10 @@ which detail deviations from the pipeline used for Kepler.
       <td>2015 Apr 27</td>
       <td>2015 Jul 10</td>
       <td>2015 Oct 29</td>
+      <td>2019 Mar 18</td>
       <td><a
       href="k2-data-release-notes.html#k2-campaign-5">DRN</a></td>
-     <td><a href="/k2-pipeline-release-notes.html#data-release-7">PRN</a></td>
+     <td><a href="/k2-pipeline-release-notes.html#data-release-31">PRN</a></td>
      </tr>
 
       <tr>
@@ -404,9 +411,10 @@ which detail deviations from the pipeline used for Kepler.
       <td>2015 Jul 14</td>
       <td>2015 Sep 30</td>
       <td>2016 Feb 08</td>
+      <td>2019 Oct 22</td>
       <td><a
       href="k2-data-release-notes.html#k2-campaign-6">DRN</a></td>
-     <td><a href="/k2-pipeline-release-notes.html#data-release-8">PRN</a></td>
+     <td><a href="/k2-pipeline-release-notes.html#data-release-35">PRN</a></td>
       </tr>
 
       <tr>
@@ -415,9 +423,10 @@ which detail deviations from the pipeline used for Kepler.
       <td>2015 Oct 04</td>
       <td>2015 Dec 26</td>
       <td>2016 Apr 22</td>
+      <td>2019 Oct 22</td>
       <td><a
       href="k2-data-release-notes.html#k2-campaign-7">DRN</a></td>
-     <td><a href="/k2-pipeline-release-notes.html#data-release-9">PRN</a></td>
+     <td><a href="/k2-pipeline-release-notes.html#data-release-36">PRN</a></td>
      </tr>
 
       <tr>
@@ -425,6 +434,7 @@ which detail deviations from the pipeline used for Kepler.
       <td>3</td>
       <td>2016 Jan 03</td>
       <td>2016 Mar 23</td>
+      <td>2016 Jul 04</td>
       <td>2016 Jul 04</td>
       <td><a
       href="k2-data-release-notes.html#k2-campaign-8">DRN</a></td>
@@ -437,6 +447,7 @@ which detail deviations from the pipeline used for Kepler.
       <td>2016 Apr 22</td>
       <td>2016 May 18</td>
       <td>2016 Oct 05</td>
+      <td>2016 Oct 05</td>
       <td><a
       href="k2-data-release-notes.html#k2-campaign-9">DRN</a></td>
      <td><a href="/k2-pipeline-release-notes.html#data-release-12">PRN</a></td>
@@ -447,6 +458,7 @@ which detail deviations from the pipeline used for Kepler.
       <td>3</td>
       <td>2016 May 22</td>
       <td>2016 Jul 02</td>
+      <td>2016 Oct 05</td>
       <td>2016 Oct 05</td>
       <td><a
       href="k2-data-release-notes.html#k2-campaign-9">DRN</a></td>
@@ -459,6 +471,7 @@ which detail deviations from the pipeline used for Kepler.
       <td>2016 Jul 06</td>
       <td>2016 Sep 20</td>
       <td>2016 Dec 20</td>
+      <td>2016 Dec 20</td>
       <td><a
       href="k2-data-release-notes.html#k2-campaign-10">DRN</a></td>
      <td><a href="/k2-pipeline-release-notes.html#data-release-15">PRN</a></td>
@@ -470,9 +483,10 @@ which detail deviations from the pipeline used for Kepler.
       <td>2016 Sep 24</td>
       <td>2016 Dec 8</td>
       <td>2017 Jun 30</td>
+      <td>2019 Apr 29</td>
       <td><a
       href="k2-data-release-notes.html#k2-campaign-11">DRN</a></td>
-     <td><a href="/k2-pipeline-release-notes.html#data-release-17">PRN</a></td>
+     <td><a href="/k2-pipeline-release-notes.html#data-release-30">PRN</a></td>
      </tr>
 
       <tr>
@@ -480,6 +494,7 @@ which detail deviations from the pipeline used for Kepler.
       <td>4</td>
       <td>2016 Dec 15</td>
       <td>2017 Mar 4</td>
+      <td>2017 Jul 31</td>
       <td>2017 Jul 31</td>
       <td><a
       href="k2-data-release-notes.html#k2-campaign-12">DRN</a></td>
@@ -492,9 +507,10 @@ which detail deviations from the pipeline used for Kepler.
       <td>2017 Mar 8</td>
       <td>2017 May 27</td>
       <td>2017 Aug 28</td>
+      <td>2018 Oct 3</td>
       <td><a
       href="k2-data-release-notes.html#k2-campaign-13">DRN</a></td>
-     <td><a href="/k2-pipeline-release-notes.html#data-release-19">PRN</a></td>
+     <td><a href="/k2-pipeline-release-notes.html#data-release-24">PRN</a></td>
      </tr>
 
       <tr>
@@ -502,6 +518,7 @@ which detail deviations from the pipeline used for Kepler.
       <td>5</td>
       <td>2017 Jun 1</td>
       <td>2017 Aug 19</td>
+      <td>2017 Nov 27</td>
       <td>2017 Nov 27</td>
       <td><a
       href="k2-data-release-notes.html#k2-campaign-14">DRN</a></td>
@@ -514,6 +531,7 @@ which detail deviations from the pipeline used for Kepler.
       <td>2017 Aug 23</td>
       <td>2017 Nov 19</td>
       <td>2018 Mar 14</td>
+      <td>2018 Mar 14</td>
       <td><a
       href="k2-data-release-notes.html#k2-campaign-15">DRN</a></td>
      <td><a href="/k2-pipeline-release-notes.html#data-release-22">PRN</a></td>
@@ -524,6 +542,7 @@ which detail deviations from the pipeline used for Kepler.
       <td>5</td>
       <td>2017 Dec 7</td>
       <td>2018 Feb 25</td>
+      <td>2018 May 30</td>
       <td>2018 May 30</td>
       <td><a
       href="k2-data-release-notes.html#k2-campaign-16">DRN</a></td>
@@ -536,9 +555,34 @@ which detail deviations from the pipeline used for Kepler.
      <td>2018 Mar 2</td>
      <td>2018 May 8</td>
      <td>2018 Aug 16</td>
+     <td>2018 Aug 16</td>
      <td><a
      href="k2-data-release-notes.html#k2-campaign-17">DRN</a></td>
     <td><a href="/k2-pipeline-release-notes.html#data-release-25">PRN</a></td>
+    </tr>
+
+     <tr>
+     <td>C18</td>
+     <td>6</td>
+     <td>2018 May 13</td>
+     <td>2018 July 2</td>
+     <td>2018 Oct 24</td>
+     <td>2018 Oct 24</td>
+     <td><a
+     href="k2-data-release-notes.html#k2-campaign-18">DRN</a></td>
+    <td><a href="/k2-pipeline-release-notes.html#data-release-27">PRN</a></td>
+    </tr>
+
+     <tr>
+     <td>C19</td>
+     <td>6</td>
+     <td>2018 Aug 30</td>
+     <td>2018 Sept 26</td>
+     <td>2019 May 8</td>
+     <td>2019 May 8</td>
+     <td><a
+     href="k2-data-release-notes.html#k2-campaign-19">DRN</a></td>
+    <td><a href="/k2-pipeline-release-notes.html#data-release-29">PRN</a></td>
     </tr>
 
 </tdata>
