@@ -4,56 +4,140 @@ Save_as: kpub-astrophysics-by-month.html
 [TOC]
 
 
+2020-02
+-------
+
+1. [UPDATED PULSATION PERIOD RELATIONS OF Γ DOR-TYPE STARS IN ECLIPSING BINARIES: THE CASE OF KIC 2557430](http://adsabs.harvard.edu/abs/2020MNRAS.491.5980H)  
+Hoyman, Barıș, Çakırlı, Ömür, Özdarcan, Orkun    
+2020, refereed ([2020MNRAS.491.5980H](http://adsabs.harvard.edu/abs/2020MNRAS.491.5980H))  
+
+2. [PHOTOMETRIC ROTATION PERIODS FOR 107 M DWARFS FROM THE APACHE SURVEY](http://adsabs.harvard.edu/abs/2020MNRAS.491.5216G)  
+Giacobbe, P., Benedetto, M., Damasso, M., et al.    
+2020, refereed ([2020MNRAS.491.5216G](http://adsabs.harvard.edu/abs/2020MNRAS.491.5216G))  
+
+
 2020-01
 -------
 
-1. [PHOTOMETRY AND SPECTROSCOPY OF MASSIVE STARS OBSERVED DURING K2 CAMPAIGN 8](http://adsabs.harvard.edu/abs/2020MNRAS.491..302E)  
+1. [THE FULL KEPLER PHASE CURVE OF THE ECLIPSING HOT WHITE DWARF BINARY SYSTEM KOI-964](http://adsabs.harvard.edu/abs/2020AJ....159...29W)  
+Wong, Ian, Shporer, Avi, Becker, Juliette C., et al.    
+2020, refereed ([2020AJ....159...29W](http://adsabs.harvard.edu/abs/2020AJ....159...29W))  
+
+2. [ABSOLUTE PROPERTIES OF THE ECLIPSING Γ DOR STAR V404 LYRAE](http://adsabs.harvard.edu/abs/2020AJ....159...24L)  
+Lee, Jae Woo, Hong, Kyeongsoo, Koo, Jae-Rim, et al.    
+2020, refereed ([2020AJ....159...24L](http://adsabs.harvard.edu/abs/2020AJ....159...24L))  
+
+3. [CHEMICAL MIXING IN LOW MASS STARS. I. ROTATION AGAINST ATOMIC DIFFUSION INCLUDING RADIATIVE ACCELERATION](http://adsabs.harvard.edu/abs/2020A&A...633A..23D)  
+Deal, M., Goupil, M. -J., Marques, J. P., et al.    
+2020, refereed ([2020A&A...633A..23D](http://adsabs.harvard.edu/abs/2020A&A...633A..23D))  
+
+4. [CHEMICAL EVOLUTION IN THE MILKY WAY: ROTATION-BASED AGES FOR APOGEE-KEPLER COOL DWARF STARS](http://adsabs.harvard.edu/abs/2020ApJ...888...43C)  
+Claytor, Zachary R., van Saders, Jennifer L., Santos, Ângela R. G., et al.    
+2020, refereed ([2020ApJ...888...43C](http://adsabs.harvard.edu/abs/2020ApJ...888...43C))  
+
+5. [TIME-RESOLVED PHOTOMETRY OF THE YOUNG DIPPER RX J1604.3-2130A. UNVEILING THE STRUCTURE AND MASS TRANSPORT THROUGH THE INNERMOST DISK](http://adsabs.harvard.edu/abs/2020A&A...633A..37S)  
+Sicilia-Aguilar, A., Manara, C. F., de Boer, J., et al.    
+2020, refereed ([2020A&A...633A..37S](http://adsabs.harvard.edu/abs/2020A&A...633A..37S))  
+
+6. [CONCERNING THE LI-RICH STATUS OF KIC 9821622: A KEPLER FIELD RGB STAR REPORTED AS A LI-RICH GIANT](http://adsabs.harvard.edu/abs/2020MNRAS.491.3838S)  
+Singh, Raghubar, Bharat Kumar, Yerra, Reddy, Bacham E., et al.    
+2020, refereed ([2020MNRAS.491.3838S](http://adsabs.harvard.edu/abs/2020MNRAS.491.3838S))  
+
+7. [ROBO-AO KEPLER ASTEROSEISMIC SURVEY. II. DO STELLAR COMPANIONS INHIBIT STELLAR OSCILLATIONS?](http://adsabs.harvard.edu/abs/2020ApJ...888...34S)  
+Schonhut-Stasik, Jessica, Huber, Daniel, Baranec, Christoph, et al.    
+2020, refereed ([2020ApJ...888...34S](http://adsabs.harvard.edu/abs/2020ApJ...888...34S))  
+
+8. [PHOTOMETRY AND SPECTROSCOPY OF MASSIVE STARS OBSERVED DURING K2 CAMPAIGN 8](http://adsabs.harvard.edu/abs/2020MNRAS.491..302E)  
 Eidam, Jéssica M., Andrade, Laerte, Emilio, Marcelo, et al.    
 2020, refereed ([2020MNRAS.491..302E](http://adsabs.harvard.edu/abs/2020MNRAS.491..302E))  
+
+9. [A $5/4$ COMMENSURABILITY OF KIC 5773205, THE SMALLEST ECLIPSING RED DWARF DETECTED BY THE KEPLER MISSION](http://adsabs.harvard.edu/abs/2020arXiv200100239M)  
+Makarov, Valeri V., Goldin, Alexey    
+2020, not refereed ([2020arXiv200100239M](http://adsabs.harvard.edu/abs/2020arXiv200100239M))  
+
+10. [VARIABILITY IN THE MASSIVE OPEN CLUSTER NGC 1817 FROM K2: A RICH POPULATION OF ASTEROSEISMIC RED CLUMP, ECLIPSING BINARY, AND MAIN SEQUENCE PULSATING STARS](http://adsabs.harvard.edu/abs/2020arXiv200101839S)  
+Sandquist, Eric L., Stello, Dennis, Arentoft, Torben, et al.    
+2020, not refereed ([2020arXiv200101839S](http://adsabs.harvard.edu/abs/2020arXiv200101839S))  
+
+11. [EFFECT OF METALLICITY ON THE DETECTABILITY OF ROTATIONAL PERIODS IN SOLAR-LIKE STARS](http://adsabs.harvard.edu/abs/2020arXiv200101934W)  
+Witzke, V., Reinhold, T., Shapiro, A. I., et al.    
+2020, not refereed ([2020arXiv200101934W](http://adsabs.harvard.edu/abs/2020arXiv200101934W))  
+
+12. [COMPLEX VARIABILITY OF KEPLER AGN REVEALED BY RECURRENCE ANALYSIS](http://adsabs.harvard.edu/abs/2020arXiv200102800P)  
+Phillipson, R. A., Boyd, P. T., Smale, A. P., et al.    
+2020, not refereed ([2020arXiv200102800P](http://adsabs.harvard.edu/abs/2020arXiv200102800P))  
 
 
 2019-12
 -------
 
-1. [ASTEROSEISMIC CONSTRAINTS ON THE COSMIC-TIME VARIATION OF THE GRAVITATIONAL CONSTANT FROM AN ANCIENT MAIN-SEQUENCE STAR](http://adsabs.harvard.edu/abs/2019ApJ...887L...1B)  
+1. [ECLIPSING BINARIES IN THE OPEN CLUSTER RUPRECHT 147. II. EPIC 219568666](http://adsabs.harvard.edu/abs/2019ApJ...887..109T)  
+Torres, Guillermo, Vanderburg, Andrew, Curtis, Jason L., et al.    
+2019, refereed ([2019ApJ...887..109T](http://adsabs.harvard.edu/abs/2019ApJ...887..109T))  
+
+2. [CORE─ENVELOPE COUPLING IN INTERMEDIATE-MASS CORE-HELIUM BURNING STARS](http://adsabs.harvard.edu/abs/2019ApJ...887..203T)  
+Tayar, Jamie, Beck, Paul G., Pinsonneault, Marc H., et al.    
+2019, refereed ([2019ApJ...887..203T](http://adsabs.harvard.edu/abs/2019ApJ...887..203T))  
+
+3. [ASTEROSEISMIC CONSTRAINTS ON THE COSMIC-TIME VARIATION OF THE GRAVITATIONAL CONSTANT FROM AN ANCIENT MAIN-SEQUENCE STAR](http://adsabs.harvard.edu/abs/2019ApJ...887L...1B)  
 Bellinger, Earl Patrick, Christensen-Dalsgaard, Jørgen    
 2019, refereed ([2019ApJ...887L...1B](http://adsabs.harvard.edu/abs/2019ApJ...887L...1B))  
 
-2. [THE K2 GALACTIC CAPS PROJECT - GOING BEYOND THE KEPLER FIELD AND AGEING THE GALACTIC DISC](http://adsabs.harvard.edu/abs/2019MNRAS.490.4465R)  
+4. [LBT/PEPSI SPECTROPOLARIMETRY OF A MAGNETIC MORPHOLOGY SHIFT IN OLD SOLAR-TYPE STARS](http://adsabs.harvard.edu/abs/2019ApJ...887L..38M)  
+Metcalfe, T. S., Kochukhov, O., Ilyin, I. V., et al.    
+2019, refereed ([2019ApJ...887L..38M](http://adsabs.harvard.edu/abs/2019ApJ...887L..38M))  
+
+5. [UY URSAE MAJORIS: AN A-SUBTYPE W UMA SYSTEM WITH A VERY LARGE FILL-OUT FACTOR AND AN EXTREME MASS RATIO](http://adsabs.harvard.edu/abs/2019JASS...36..265K)  
+Kim, Chun-Hwey, Song, Mi-Hwa, Park, Jang-Ho, et al.    
+2019, refereed ([2019JASS...36..265K](http://adsabs.harvard.edu/abs/2019JASS...36..265K))  
+
+6. [MULTI-FILTER PHOTOMETRIC ANALYSIS OF W URSAE MAJORIS (W UMA) TYPE ECLIPSING BINARY STARS KID 11405559 AND V342 BOO](http://adsabs.harvard.edu/abs/2019JAVSO..47..186A)  
+Akiba, T., Neugarten, A., Ortmann, C., et al.    
+2019, refereed ([2019JAVSO..47..186A](http://adsabs.harvard.edu/abs/2019JAVSO..47..186A))  
+
+7. [FLARE STARS: A SHORT REVIEW (ABSTRACT)](http://adsabs.harvard.edu/abs/2019JAVSO..47..282D)  
+Dzombeta, K., Percy, J. R.    
+2019, refereed ([2019JAVSO..47..282D](http://adsabs.harvard.edu/abs/2019JAVSO..47..282D))  
+
+8. [THE K2 GALACTIC CAPS PROJECT - GOING BEYOND THE KEPLER FIELD AND AGEING THE GALACTIC DISC](http://adsabs.harvard.edu/abs/2019MNRAS.490.4465R)  
 Rendle, B. M., Miglio, A., Chiappini, C., et al.    
 2019, refereed ([2019MNRAS.490.4465R](http://adsabs.harvard.edu/abs/2019MNRAS.490.4465R))  
 
-3. [THE K2-HERMES SURVEY: AGE AND METALLICITY OF THE THICK DISC](http://adsabs.harvard.edu/abs/2019MNRAS.490.5335S)  
+9. [THE K2-HERMES SURVEY: AGE AND METALLICITY OF THE THICK DISC](http://adsabs.harvard.edu/abs/2019MNRAS.490.5335S)  
 Sharma, Sanjib, Stello, Dennis, Bland-Hawthorn, Joss, et al.    
 2019, refereed ([2019MNRAS.490.5335S](http://adsabs.harvard.edu/abs/2019MNRAS.490.5335S))  
 
-4. [DISCOVERY OF A NEW WZ SAGITTAE-TYPE CATACLYSMIC VARIABLE IN THE KEPLER/K2 DATA](http://adsabs.harvard.edu/abs/2019MNRAS.490.5551R)  
+10. [DISCOVERY OF A NEW WZ SAGITTAE-TYPE CATACLYSMIC VARIABLE IN THE KEPLER/K2 DATA](http://adsabs.harvard.edu/abs/2019MNRAS.490.5551R)  
 Ridden-Harper, R., Tucker, B. E., Garnavich, P., et al.    
 2019, refereed ([2019MNRAS.490.5551R](http://adsabs.harvard.edu/abs/2019MNRAS.490.5551R))  
 
-5. [PHOTOMETRIC ROTATION PERIODS FOR 107 M DWARFS FROM THE APACHE SURVEY](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.3006G)  
-Giacobbe, P., Benedetto, M., Damasso, M., et al.    
-2019, refereed ([2019MNRAS.tmp.3006G](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.3006G))  
+11. [THE PERFORMANCE OF PHOTOMETRIC REVERBERATION MAPPING AT HIGH REDSHIFT AND THE RELIABILITY OF DAMPED RANDOM WALK MODELS](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.3203R)  
+Read, S. C., Smith, D. J. B., Jarvis, M. J., et al.    
+2019, refereed ([2019MNRAS.tmp.3203R](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.3203R))  
 
-6. [ACCRETION OF A GIANT PLANET ONTO A WHITE DWARF STAR](http://adsabs.harvard.edu/abs/2019Natur.576...61G)  
+12. [ACCRETION OF A GIANT PLANET ONTO A WHITE DWARF STAR](http://adsabs.harvard.edu/abs/2019Natur.576...61G)  
 Gänsicke, Boris T., Schreiber, Matthias R., Toloza, Odette, et al.    
 2019, refereed ([2019Natur.576...61G](http://adsabs.harvard.edu/abs/2019Natur.576...61G))  
 
-7. [TESTING STELLAR OPACITIES USING ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2019arXiv191200409D)  
+13. [TESTING STELLAR OPACITIES USING ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2019arXiv191200409D)  
 Daszynska-Daszkiewicz, Jadwiga, Walczak, Przemyslaw, Pamyatnykh, Alosha, et al.    
 2019, not refereed ([2019arXiv191200409D](http://adsabs.harvard.edu/abs/2019arXiv191200409D))  
 
-8. [R-MODE OSCILLATIONS IN ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2019arXiv191200705S)  
+14. [R-MODE OSCILLATIONS IN ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2019arXiv191200705S)  
 Saio, Hideyuki    
 2019, not refereed ([2019arXiv191200705S](http://adsabs.harvard.edu/abs/2019arXiv191200705S))  
 
-9. [LBT/PEPSI SPECTROPOLARIMETRY OF A MAGNETIC MORPHOLOGY SHIFT IN OLD SOLAR-TYPE STARS](http://adsabs.harvard.edu/abs/2019arXiv191201186M)  
-Metcalfe, Travis S., Kochukhov, Oleg, Ilyin, Ilya V., et al.    
-2019, not refereed ([2019arXiv191201186M](http://adsabs.harvard.edu/abs/2019arXiv191201186M))  
-
-10. [KIC 8840638: A NEW ECLIPSING BINARY CONSISTING OF A $\DELTA$ SCUTI STAR WITH MULTIPERIODIC PULSATIONS](http://adsabs.harvard.edu/abs/2019arXiv191204167Y)  
+15. [KIC 8840638: A NEW ECLIPSING BINARY CONSISTING OF A $\DELTA$ SCUTI STAR WITH MULTIPERIODIC PULSATIONS](http://adsabs.harvard.edu/abs/2019arXiv191204167Y)  
 Yang, Tao-Zhi, Liu, Junhui, Zuo, Zhaoyu    
 2019, not refereed ([2019arXiv191204167Y](http://adsabs.harvard.edu/abs/2019arXiv191204167Y))  
+
+16. [PROBING THE INTERIOR PHYSICS OF STARS THROUGH ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2019arXiv191212300A)  
+Aerts, C.    
+2019, not refereed ([2019arXiv191212300A](http://adsabs.harvard.edu/abs/2019arXiv191212300A))  
+
+17. [WHAT PHYSICS IS MISSING IN THEORETICAL MODELS OF HIGH-MASS STARS: NEW INSIGHTS FROM ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2019arXiv191212653B)  
+Bowman, D. M.    
+2019, not refereed ([2019arXiv191212653B](http://adsabs.harvard.edu/abs/2019arXiv191212653B))  
 
 
 2019-11
@@ -135,57 +219,29 @@ Nichols-Fleming, Fiona, Blackman, Eric G.
 Hoyman, Barıș, Çakırlı, Ömür, Özdarcan, Orkun    
 2019, refereed ([2019MNRAS.tmp.2892H](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.2892H))  
 
-20. [UPDATED PULSATION PERIOD RELATIONS OF Γ DOR TYPE STARS IN ECLIPSING BINARIES: THE CASE OF KIC 2557430](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.2957H)  
-Hoyman, Barıș, Cccedil, akırlı, Ömür, et al.    
-2019, refereed ([2019MNRAS.tmp.2957H](http://adsabs.harvard.edu/abs/2019MNRAS.tmp.2957H))  
-
-21. [A CATALOG OF PERIODIC VARIABLES IN OPEN CLUSTERS M35 AND NGC 2158](http://adsabs.harvard.edu/abs/2019arXiv191100832S)  
+20. [A CATALOG OF PERIODIC VARIABLES IN OPEN CLUSTERS M35 AND NGC 2158](http://adsabs.harvard.edu/abs/2019arXiv191100832S)  
 Soares-Furtado, M., Hartman, J. D., Bhatti, W., et al.    
 2019, not refereed ([2019arXiv191100832S](http://adsabs.harvard.edu/abs/2019arXiv191100832S))  
 
-22. [ECLIPSING BINARIES IN THE OPEN CLUSTER RUPRECHT 147. II: EPIC 219568666](http://adsabs.harvard.edu/abs/2019arXiv191102579T)  
-Torres, Guillermo, Vanderburg, Andrew, Curtis, Jason L., et al.    
-2019, not refereed ([2019arXiv191102579T](http://adsabs.harvard.edu/abs/2019arXiv191102579T))  
-
-23. [A DETECTION METRIC DESIGNED FOR O'CONNELL EFFECT ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2019arXiv191103543J)  
-Johnston, Kyle B., Haber, Rana, Caballero-Nieves, Saida M., et al.    
-2019, not refereed ([2019arXiv191103543J](http://adsabs.harvard.edu/abs/2019arXiv191103543J))  
-
-24. [CHEMICAL EVOLUTION IN THE MILKY WAY: ROTATION-BASED AGES FOR APOGEE-KEPLER COOL DWARF STARS](http://adsabs.harvard.edu/abs/2019arXiv191104518C)  
-Claytor, Zachary R., van Saders, Jennifer L., Santos, Angela R. G., et al.    
-2019, not refereed ([2019arXiv191104518C](http://adsabs.harvard.edu/abs/2019arXiv191104518C))  
-
-25. [TIME-RESOLVED PHOTOMETRY OF THE YOUNG DIPPER RX J1604.3-2130A: UNVEILING THE STRUCTURE AND MASS TRANSPORT THROUGH THE INNERMOST DISK](http://adsabs.harvard.edu/abs/2019arXiv191104938S)  
-Sicilia-Aguilar, A., Manara, C. F., de Boer, J., et al.    
-2019, not refereed ([2019arXiv191104938S](http://adsabs.harvard.edu/abs/2019arXiv191104938S))  
-
-26. [INFLUENCE OF STRUCTURAL DISCONTINUITIES PRESENT IN THE CORE OF RED-GIANT STARS ON THE OBSERVED MIXED-MODE PATTERN AND CHARACTERIZATION OF THEIR PROPERTIES](http://adsabs.harvard.edu/abs/2019arXiv191105175V)  
+21. [INFLUENCE OF STRUCTURAL DISCONTINUITIES PRESENT IN THE CORE OF RED-GIANT STARS ON THE OBSERVED MIXED-MODE PATTERN AND CHARACTERIZATION OF THEIR PROPERTIES](http://adsabs.harvard.edu/abs/2019arXiv191105175V)  
 Vrard, Mathieu, Cunha, Margarida S.    
 2019, not refereed ([2019arXiv191105175V](http://adsabs.harvard.edu/abs/2019arXiv191105175V))  
 
-27. [CONCERNING LI-RICH STATUS OF KIC~9821622: A KEPLER FIELD RGB STAR REPORTED AS LI-RICH GIANT](http://adsabs.harvard.edu/abs/2019arXiv191105243S)  
-Singh, Raghubar, Yerra, Bharat Kumar, Reddy, Bacham E., et al.    
-2019, not refereed ([2019arXiv191105243S](http://adsabs.harvard.edu/abs/2019arXiv191105243S))  
-
-28. [STELLAR MAGNETIC ACTIVITY AND "BUTTERFLY DIAGRAM" OF KEPLER-63](http://adsabs.harvard.edu/abs/2019arXiv191108661N)  
+22. [STELLAR MAGNETIC ACTIVITY AND "BUTTERFLY DIAGRAM" OF KEPLER-63](http://adsabs.harvard.edu/abs/2019arXiv191108661N)  
 Netto, Yuri, Valio, Adriana    
 2019, not refereed ([2019arXiv191108661N](http://adsabs.harvard.edu/abs/2019arXiv191108661N))  
 
-29. [TIDALLY EXCITED OSCILLATIONS IN HEARTBEAT BINARY STARS: PULSATION PHASES AND MODE IDENTIFICATION](http://adsabs.harvard.edu/abs/2019arXiv191108687G)  
+23. [TIDALLY EXCITED OSCILLATIONS IN HEARTBEAT BINARY STARS: PULSATION PHASES AND MODE IDENTIFICATION](http://adsabs.harvard.edu/abs/2019arXiv191108687G)  
 Guo, Zhao, Shporer, Avi, Hambleton, Kelly, et al.    
 2019, not refereed ([2019arXiv191108687G](http://adsabs.harvard.edu/abs/2019arXiv191108687G))  
 
-30. [FLARES OF M-STARS IN UPPER SCORPIUS REGION AND FLARES AND CMES OF THE ACTIVE M-STAR AD LEO](http://adsabs.harvard.edu/abs/2019arXiv191109922G)  
+24. [FLARES OF M-STARS IN UPPER SCORPIUS REGION AND FLARES AND CMES OF THE ACTIVE M-STAR AD LEO](http://adsabs.harvard.edu/abs/2019arXiv191109922G)  
 Guenther, E. W., Woeckel, D., Muheki, P.    
 2019, not refereed ([2019arXiv191109922G](http://adsabs.harvard.edu/abs/2019arXiv191109922G))  
 
-31. [CYCLE TIMES OF EARLY M DWARF STARS: MEAN FIELD MODELS VERSUS OBSERVATIONS](http://adsabs.harvard.edu/abs/2019arXiv191113094K)  
+25. [CYCLE TIMES OF EARLY M DWARF STARS: MEAN FIELD MODELS VERSUS OBSERVATIONS](http://adsabs.harvard.edu/abs/2019arXiv191113094K)  
 Küker, Manfred, Rüdiger, Günther, Oláh, Katalin, et al.    
 2019, not refereed ([2019arXiv191113094K](http://adsabs.harvard.edu/abs/2019arXiv191113094K))  
-
-32. [PHOTOMETRIC ROTATION PERIODS FOR 107 M DWARFS FROM THE APACHE SURVEY](http://adsabs.harvard.edu/abs/2019arXiv191113113G)  
-Giacobbe, P., Benedetto, M., Damasso, M., et al.    
-2019, not refereed ([2019arXiv191113113G](http://adsabs.harvard.edu/abs/2019arXiv191113113G))  
 
 
 2019-10
@@ -303,41 +359,25 @@ Hendriks, L., Aerts, C.
 Robnik, Jakob, Seljak, Uroš    
 2019, not refereed ([2019arXiv191001167R](http://adsabs.harvard.edu/abs/2019arXiv191001167R))  
 
-29. [LOW-FREQUENCY VARIABILITY IN MASSIVE STARS: CORE GENERATION OR SURFACE PHENOMENON?](http://adsabs.harvard.edu/abs/2019arXiv191001643L)  
-Lecoanet, Daniel, Cantiello, Matteo, Quataert, Eliot, et al.    
-2019, not refereed ([2019arXiv191001643L](http://adsabs.harvard.edu/abs/2019arXiv191001643L))  
-
-30. [ROBO-AO KEPLER ASTEROSEISMIC SURVEY. II. DO STELLAR COMPANIONS INHIBIT STELLAR OSCILLATIONS?](http://adsabs.harvard.edu/abs/2019arXiv191003803S)  
+29. [ROBO-AO KEPLER ASTEROSEISMIC SURVEY. II. DO STELLAR COMPANIONS INHIBIT STELLAR OSCILLATIONS?](http://adsabs.harvard.edu/abs/2019arXiv191003803S)  
 Schonhut-Stasik, Jessica, Huber, Daniel, Baranec, Christoph, et al.    
 2019, not refereed ([2019arXiv191003803S](http://adsabs.harvard.edu/abs/2019arXiv191003803S))  
 
-31. [SPIKEY: A SEARCH FOR LENSING FLARES FROM SMBH BINARIES](http://adsabs.harvard.edu/abs/2019arXiv191005348H)  
+30. [SPIKEY: A SEARCH FOR LENSING FLARES FROM SMBH BINARIES](http://adsabs.harvard.edu/abs/2019arXiv191005348H)  
 Hu, Betty X., D'Orazio, Daniel J., Haiman, Zoltan, et al.    
 2019, not refereed ([2019arXiv191005348H](http://adsabs.harvard.edu/abs/2019arXiv191005348H))  
 
-32. [LCTOOLS: A WINDOWS-BASED SOFTWARE SYSTEM FOR FINDING AND RECORDING SIGNALS IN LIGHTCURVES FROM NASA SPACE MISSIONS](http://adsabs.harvard.edu/abs/2019arXiv191008034S)  
+31. [LCTOOLS: A WINDOWS-BASED SOFTWARE SYSTEM FOR FINDING AND RECORDING SIGNALS IN LIGHTCURVES FROM NASA SPACE MISSIONS](http://adsabs.harvard.edu/abs/2019arXiv191008034S)  
 Schmitt, Allan R., Hartman, Joel D., Kipping, David M.    
 2019, not refereed ([2019arXiv191008034S](http://adsabs.harvard.edu/abs/2019arXiv191008034S))  
 
-33. [THE FULL $\MATHIT{KEPLER}$ PHASE CURVE OF THE ECLIPSING HOT WHITE DWARF BINARY SYSTEM KOI-964](http://adsabs.harvard.edu/abs/2019arXiv191008524W)  
-Wong, Ian, Shporer, Avi, Becker, Juliette C., et al.    
-2019, not refereed ([2019arXiv191008524W](http://adsabs.harvard.edu/abs/2019arXiv191008524W))  
-
-34. [ABSOLUTE PROPERTIES OF THE ECLIPSING $\GAMMA$ DOR STAR V404 LYRAE](http://adsabs.harvard.edu/abs/2019arXiv191009097L)  
-Lee, Jae Woo, Hong, Kyeongsoo, Koo, Jae-Rim, et al.    
-2019, not refereed ([2019arXiv191009097L](http://adsabs.harvard.edu/abs/2019arXiv191009097L))  
-
-35. [SEISMIC PROBE OF TRANSPORT PROCESSES IN RED GIANTS](http://adsabs.harvard.edu/abs/2019arXiv191009361G)  
+32. [SEISMIC PROBE OF TRANSPORT PROCESSES IN RED GIANTS](http://adsabs.harvard.edu/abs/2019arXiv191009361G)  
 Goupil, MarieJo    
 2019, not refereed ([2019arXiv191009361G](http://adsabs.harvard.edu/abs/2019arXiv191009361G))  
 
-36. [COUPLING 1D STELLAR EVOLUTION WITH 3D-HYDRODYNAMICAL SIMULATIONS ON-THE-FLY II: STELLAR EVOLUTION AND ASTEROSEISMIC APPLICATIONS](http://adsabs.harvard.edu/abs/2019arXiv191010163R)  
+33. [COUPLING 1D STELLAR EVOLUTION WITH 3D-HYDRODYNAMICAL SIMULATIONS ON-THE-FLY II: STELLAR EVOLUTION AND ASTEROSEISMIC APPLICATIONS](http://adsabs.harvard.edu/abs/2019arXiv191010163R)  
 Rørsted Mosumgaard, Jakob, Christ Sølvsten Jørgensen, Andreas, Weiss, Achim, et al.    
 2019, not refereed ([2019arXiv191010163R](http://adsabs.harvard.edu/abs/2019arXiv191010163R))  
-
-37. [CHEMICAL MIXING IN LOW MASS STARS: I. ROTATION AGAINST ATOMIC DIFFUSION INCLUDING RADIATIVE ACCELERATIONS](http://adsabs.harvard.edu/abs/2019arXiv191014335D)  
-Deal, M., Goupil, M-J., Marques, J. P., et al.    
-2019, not refereed ([2019arXiv191014335D](http://adsabs.harvard.edu/abs/2019arXiv191014335D))  
 
 
 2019-09
@@ -419,23 +459,11 @@ de Freitas, D. B., Nepomuceno, M. M. F., Cordeiro, J. G., et al.
 Schneider, Jean    
 2019, not refereed ([2019RNAAS...3..141S](http://adsabs.harvard.edu/abs/2019RNAAS...3..141S))  
 
-20. [DETERMINATION OF STARSPOT COVERING FRACTION AS A FUNCTION OF STELLAR AGE FROM OBSERVATIONAL DATA](http://adsabs.harvard.edu/abs/2019arXiv190903183N)  
-Nichols-Fleming, Fiona, Blackman, Eric G.    
-2019, not refereed ([2019arXiv190903183N](http://adsabs.harvard.edu/abs/2019arXiv190903183N))  
-
-21. [KIC 4142768: AN EVOLVED GAMMA DORADUS/DELTA SCUTI HYBRID PULSATING ECLIPSING BINARY WITH TIDALLY EXCITED OSCILLATIONS](http://adsabs.harvard.edu/abs/2019arXiv190903908G)  
-Guo, Zhao, Fuller, Jim, Shporer, Avi, et al.    
-2019, not refereed ([2019arXiv190903908G](http://adsabs.harvard.edu/abs/2019arXiv190903908G))  
-
-22. [ASTEROSEISMIC CONSTRAINTS ON THE COSMIC-TIME VARIATION OF THE GRAVITATIONAL CONSTANT FROM AN ANCIENT MAIN-SEQUENCE STAR](http://adsabs.harvard.edu/abs/2019arXiv190906378B)  
-Bellinger, Earl Patrick, Christensen-Dalsgaard, Jørgen    
-2019, not refereed ([2019arXiv190906378B](http://adsabs.harvard.edu/abs/2019arXiv190906378B))  
-
-23. [ASTEROSEISMOLOGY AS A NEW WINDOW TO STATISTICS OF BINARIES](http://adsabs.harvard.edu/abs/2019arXiv190907595S)  
+20. [ASTEROSEISMOLOGY AS A NEW WINDOW TO STATISTICS OF BINARIES](http://adsabs.harvard.edu/abs/2019arXiv190907595S)  
 Shibahashi, Hiromoto, Murphy, Simon J.    
 2019, not refereed ([2019arXiv190907595S](http://adsabs.harvard.edu/abs/2019arXiv190907595S))  
 
-24. [DIRECT MEASUREMENT OF THE KEPLER SPACE TELESCOPE CCD'S INTRA-PIXEL RESPONSE FUNCTION](http://adsabs.harvard.edu/abs/2019arXiv190912248V)  
+21. [DIRECT MEASUREMENT OF THE KEPLER SPACE TELESCOPE CCD'S INTRA-PIXEL RESPONSE FUNCTION](http://adsabs.harvard.edu/abs/2019arXiv190912248V)  
 Vorobiev, Dmitry, Irwin, Alexis, Ninkov, Zoran, et al.    
 2019, not refereed ([2019arXiv190912248V](http://adsabs.harvard.edu/abs/2019arXiv190912248V))  
 
@@ -542,14 +570,6 @@ Ou, Jian-Wen, Yang, Ming, Zhou, Ji-Lin
 25. [HAYDN -- HIGH-PRECISION ASTEROSEISMOLOGY OF DENSE STELLAR FIELDS (ESA VOYAGE 2050 WHITE PAPER)](http://adsabs.harvard.edu/abs/2019arXiv190805129M)  
 Miglio, Andrea, Girardi, Leo, Grundahl, Frank, et al.    
 2019, not refereed ([2019arXiv190805129M](http://adsabs.harvard.edu/abs/2019arXiv190805129M))  
-
-26. [SYSTEMATIC SEARCH FOR STELLAR PULSATORS IN THE ECLIPSING BINARIES OBSERVED BY KEPLER](http://adsabs.harvard.edu/abs/2019arXiv190806773G)  
-Gaulme, Patrick, Guzik, Joyce A.    
-2019, not refereed ([2019arXiv190806773G](http://adsabs.harvard.edu/abs/2019arXiv190806773G))  
-
-27. [ON THE HIERARCHICAL TRIPLE NATURE OF THE FORMER RED NOVA PRECURSOR CANDIDATE KIC 9832227](http://adsabs.harvard.edu/abs/2019arXiv190900255K)  
-Kovacs, Geza, Hartman, Joel D., Bakos, Gaspar A.    
-2019, not refereed ([2019arXiv190900255K](http://adsabs.harvard.edu/abs/2019arXiv190900255K))  
 
 
 2019-07
@@ -731,23 +751,19 @@ Giles, H. A. C.
 Kgoadi, Refilwe, Engelbrecht, Chris, Whittingham, Ian, et al.    
 2019, not refereed ([2019arXiv190606628K](http://adsabs.harvard.edu/abs/2019arXiv190606628K))  
 
-21. [THE K2 GALACTIC CAPS PROJECT -- GOING BEYOND THE \TEXTIT{KEPLER} FIELD AND AGEING THE GALACTIC DISC](http://adsabs.harvard.edu/abs/2019arXiv190607489R)  
-Rendle, B. M., Miglio, A., Chiappini, C., et al.    
-2019, not refereed ([2019arXiv190607489R](http://adsabs.harvard.edu/abs/2019arXiv190607489R))  
-
-22. [EXOPLANETS AND UNIVERSITY-INDUSTRY COLLABORATION](http://adsabs.harvard.edu/abs/2019arXiv190608777B)  
+21. [EXOPLANETS AND UNIVERSITY-INDUSTRY COLLABORATION](http://adsabs.harvard.edu/abs/2019arXiv190608777B)  
 Banks, T., Budding, E.    
 2019, not refereed ([2019arXiv190608777B](http://adsabs.harvard.edu/abs/2019arXiv190608777B))  
 
-23. [RELEASE NOTE: MASSIVE PEAK BAGGING OF RED GIANTS IN THE KEPLER FIELD](http://adsabs.harvard.edu/abs/2019arXiv190609428K)  
+22. [RELEASE NOTE: MASSIVE PEAK BAGGING OF RED GIANTS IN THE KEPLER FIELD](http://adsabs.harvard.edu/abs/2019arXiv190609428K)  
 Kallinger, T.    
 2019, not refereed ([2019arXiv190609428K](http://adsabs.harvard.edu/abs/2019arXiv190609428K))  
 
-24. [DETERMINING SURFACE ROTATION PERIODS OF SOLAR-LIKE STARS OBSERVED BY THE KEPLER MISSION USING MACHINE LEARNING TECHNIQUES](http://adsabs.harvard.edu/abs/2019arXiv190609609B)  
+23. [DETERMINING SURFACE ROTATION PERIODS OF SOLAR-LIKE STARS OBSERVED BY THE KEPLER MISSION USING MACHINE LEARNING TECHNIQUES](http://adsabs.harvard.edu/abs/2019arXiv190609609B)  
 Breton, S. N., Bugnet, L., Santos, A. R. G., et al.    
 2019, not refereed ([2019arXiv190609609B](http://adsabs.harvard.edu/abs/2019arXiv190609609B))  
 
-25. [AUTOMATIC CLASSIFICATION OF K2 PULSATING STARS USING MACHINE LEARNING TECHNIQUES](http://adsabs.harvard.edu/abs/2019arXiv190609611L)  
+24. [AUTOMATIC CLASSIFICATION OF K2 PULSATING STARS USING MACHINE LEARNING TECHNIQUES](http://adsabs.harvard.edu/abs/2019arXiv190609611L)  
 Le Saux, A., Bugnet, L., Mathur, S., et al.    
 2019, not refereed ([2019arXiv190609611L](http://adsabs.harvard.edu/abs/2019arXiv190609611L))  
 
@@ -830,10 +846,6 @@ Enez, Şeyda, Dal, Hasan Ali
 19. [RADIAL VELOCITY MEASUREMENTS FROM LAMOST MEDIUM-RESOLUTION SPECTROSCOPIC OBSERVATIONS: A POINTING TOWARDS THE KEPLER FIELD](http://adsabs.harvard.edu/abs/2019RAA....19...75L)  
 Liu, Nian, Fu, Jian-Ning, Zong, Weikai, et al.    
 2019, refereed ([2019RAA....19...75L](http://adsabs.harvard.edu/abs/2019RAA....19...75L))  
-
-20. [MAGNETIC ACTIVITIES ON ACTIVE SOLAR-TYPE STARS](http://adsabs.harvard.edu/abs/2019arXiv190513512K)  
-Karmakar, Subhajeet, Pandey, Jeewan C., Naik, Sachindra, et al.    
-2019, not refereed ([2019arXiv190513512K](http://adsabs.harvard.edu/abs/2019arXiv190513512K))  
 
 
 2019-04
@@ -1155,9 +1167,17 @@ Dupret, Marc-Antoine
 Sargsyan, V. V., Lenske, H., Adamian, G. G., et al.    
 2019, refereed ([2019IJMPE..2850044S](http://adsabs.harvard.edu/abs/2019IJMPE..2850044S))  
 
-23. [A STUDY OF THE WHITE LIGHT FLARE RATES OF M AND L DWARFS](http://adsabs.harvard.edu/abs/2019PhDT........51P)  
+23. [ACCURATE RED GIANT DISTANCES AND RADII WITH ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2019PhDT........41Z)  
+Zinn, Joel Coyle    
+2019, refereed ([2019PhDT........41Z](http://adsabs.harvard.edu/abs/2019PhDT........41Z))  
+
+24. [A STUDY OF THE WHITE LIGHT FLARE RATES OF M AND L DWARFS](http://adsabs.harvard.edu/abs/2019PhDT........51P)  
 Paudel, Rishi    
 2019, refereed ([2019PhDT........51P](http://adsabs.harvard.edu/abs/2019PhDT........51P))  
+
+25. [THE OPTICAL VARIABILITY OF ACTIVE GALACTIC NUCLEI: A PROBE OF BLACK HOLE PHYSICS](http://adsabs.harvard.edu/abs/2019PhDT.......151M)  
+Moreno, Jackeline    
+2019, refereed ([2019PhDT.......151M](http://adsabs.harvard.edu/abs/2019PhDT.......151M))  
 
 
 2018-12
@@ -1603,19 +1623,15 @@ Borkovits, T., Albrecht, S., Rappaport, S., et al.
 Stefansson, Gudmundur, Mahadevan, Suvrath, Wisniewski, John, et al.    
 2018, not refereed ([2018SPIE10702E..50S](http://adsabs.harvard.edu/abs/2018SPIE10702E..50S))  
 
-26. [INVERSE PROBLEMS IN ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2018arXiv180806649B)  
-Bellinger, Earl Patrick    
-2018, not refereed ([2018arXiv180806649B](http://adsabs.harvard.edu/abs/2018arXiv180806649B))  
-
-27. [DECIPHERING THE SURPRISING VARIABILITY OF A-TYPE STARS REVEALED BY KEPLER](http://adsabs.harvard.edu/abs/2018pas8.conf..141S)  
+26. [DECIPHERING THE SURPRISING VARIABILITY OF A-TYPE STARS REVEALED BY KEPLER](http://adsabs.harvard.edu/abs/2018pas8.conf..141S)  
 Sikora, James, Wade, Gregg A., Rowe, Jason    
 2018, not refereed ([2018pas8.conf..141S](http://adsabs.harvard.edu/abs/2018pas8.conf..141S))  
 
-28. [TESTING THE PHOTOMETRIC STABILITY OF BRITE-CONSTELLATION](http://adsabs.harvard.edu/abs/2018pas8.conf..170K)  
+27. [TESTING THE PHOTOMETRIC STABILITY OF BRITE-CONSTELLATION](http://adsabs.harvard.edu/abs/2018pas8.conf..170K)  
 Kallinger, Thomas, Weiss, Werner W.    
 2018, not refereed ([2018pas8.conf..170K](http://adsabs.harvard.edu/abs/2018pas8.conf..170K))  
 
-29. [PULSATING WHITE DWARF STARS AND ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2018tjae.conf...13C)  
+28. [PULSATING WHITE DWARF STARS AND ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2018tjae.conf...13C)  
 Córsico, A. H.    
 2018, not refereed ([2018tjae.conf...13C](http://adsabs.harvard.edu/abs/2018tjae.conf...13C))  
 
