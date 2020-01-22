@@ -2195,6 +2195,8 @@ The LDE parity error triggers a flag (bit 15, decimal=16384) in the QUALITY colu
 
 # K2 Campaign 10
 
+These release notes are for the C10 data currently available at MAST (Data Release 37) in the nominal K2 data locations, which have been processed with the final version of the K2 pipeline as part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a>. The original release notes corresponding to the previous versions of C10 data (Data Release 15) can be found in the <a href="archived-k2-data-release-notes.html#k2-campaign-10">archived data release notes page</a>.
+
 <h2>At a glance</h2>
 
 <div class="col-lg-5">
@@ -2285,30 +2287,48 @@ the second does not.
 <li> <a href="k2-pipeline-release-notes.html#data-release-15">Data Release 15</a> </li>
 </ul>
 
+
+
 </div>
 
 <div class="col-lg-7">
 
 <div class="thumbnail">
-<div class="caption">
-<i>Figure C10-FOV: Schematic of Kepler's C10 field-of-view with observed targets shown with purple dots. Note that module 4, centered near RA = 193º, Dec = -2º, failed seven days into C10b, so targets on channels 9--12 have truncated data sets.</i>
+  <div class="caption">
+    <i>Figure: Figure C10-FOV: Schematic of Kepler's C10 field-of-view with high profile objects.</i>
+  </div>
+  <a href="images/k2/k2-c10-field.png">
+    <img src="images/k2/k2-c10-field.png" class="img-responsive" alt="C10 field-of-view with selected targets">
+  </a>
 </div>
-<a href="images/release-notes/c10/c10_selected.png">
-<img src="images/release-notes/c10/c10_selected.png" class="img-responsive" alt="C10 field-of-view with selected targets plotted in purple.">
-</a>
-</div>
+
 <div class="thumbnail">
-<div class="caption">
-<i>Figure C10-Mag: Distribution of the Kepler magnitudes of observed LC targets. All targets are chosen by guest observers. The distribution is due to the <a href="k2-approved-programs.html#campaign-10">GO  programs</a> that were selected.</i>
+  <div class="caption">
+    <i>Figure: Figure C10-FFI: A full frame image (FFI) taken during C10 (before the failure of Mod 4), with a flux scaling designed to highlight features of interest.</i>
+  </div>
+  <a href="images/release-notes/c10/C10R-FFI.png">
+    <img src="images/release-notes/c10/C10R-FFI.png" class="img-responsive" alt="A C10 FFI">
+  </a>
 </div>
-<a href="images/release-notes/c10/c10LcMagDistribution.png">
-<img src="images/release-notes/c10/c10LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed C10 LC targets.">
-</a>
-</div>
+
+    <div class="thumbnail">
+        <div class="caption">
+            <i>Figure C10-Mag: Distribution of the Kepler magnitudes of observed LC targets in C10. All targets are chosen by Guest Observers. The shape is due to how the largest <a href="k2-approved-programs.html#campaign-10">Guest Observer programs</a> were selected.</i>
+        </div>
+        <a href="images/release-notes/c10/c10LcMagDistribution.png">
+            <img src="images/release-notes/c10/c10LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets in C10.">
+        </a>
+    </div>
 
 </div>
 
-<br style="clear:both;">
+</div>
+
+<!--
+Figure C10-FOV: Schematic of Kepler's C10 field-of-view with observed targets shown with purple dots. Note that module 4, centered near RA = 193º, Dec = -2º, failed seven days into C10b, so targets on channels 9--12 have truncated data sets.
+-->
+
+
 
 <h2>Features and Events</h2>
 
@@ -2823,6 +2843,9 @@ are quite large and may cause memory problems when accessed:
 
 # K2 Campaign 8
 
+These release notes are for the C8 data currently available at MAST (Data Release 38) in the nominal K2 data locations, which have been processed with the final version of the K2 pipeline as part of the <a href="k2-uniform-global-reprocessing-underway.html">K2 global uniform reprocessing effort</a>. The original release notes corresponding to the previous versions of C8 data (Data Release 11) can be found in the <a href="archived-k2-data-release-notes.html#k2-campaign-8">archived data release notes page</a>.
+
+
 <h2>At a glance</h2>
 
 <div class="col-lg-5">
@@ -2863,29 +2886,45 @@ are quite large and may cause memory problems when accessed:
 
 <b><i>Most Recent Processing Version</i></b>
 <ul>
-<li> <a href="k2-pipeline-release-notes.html#data-release-11">Data Release 11</a> </li>
+<li> <a href="k2-pipeline-release-notes.html#data-release-11">Data Release 38</a> </li>
 </ul>
 
+
+    <br>
+
+    <div class="thumbnail">
+        <div class="caption">
+            <i>Figure C8-Mag: Distribution of the Kepler magnitudes of observed LC targets in C8. All targets are chosen by Guest Observers. The shape is due to how the largest <a href="k2-approved-programs.html#campaign-8">Guest Observer programs</a> were selected.</i>
+        </div>
+        <a href="images/release-notes/c8/c8LcMagDistribution.png">
+            <img src="images/release-notes/c8/c8LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets in C8.">
+        </a>
+    </div>
+
 </div>
+
+
 
 <div class="col-lg-7">
 
 <div class="thumbnail">
-<div class="caption">
-<i>Figure C8-FOV: Schematic of Kepler's C8 field-of-view with observed targets shown with purple dots.</i>
-</div>
-<a href="images/release-notes/c8/C8_selected.png">
-<img src="images/release-notes/c8/C8_selected.png" class="img-responsive" alt="C8 field-of-view with selected targets plotted in purple.">
-</a>
+  <div class="caption">
+    <i>Figure: Figure C8-FOV: Schematic of Kepler's C8 field-of-view with high profile objects.</i>
+  </div>
+  <a href="images/k2/k2-c08-field.png">
+    <img src="images/k2/k2-c08-field.png" class="img-responsive" alt="C8 field-of-view with selected targets">
+  </a>
 </div>
 
 <div class="thumbnail">
-<div class="caption">
-<i>Figure C8-Mag: Distribution of the Kepler magnitudes of observed LC targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href="k2-approved-programs.html#campaign-8">GO  programs</a> were selected.</i>
+  <div class="caption">
+    <i>Figure: Figure C8-FFI: A full frame image (FFI) taken during C8, with a flux scaling designed to highlight features of interest.</i>
+  </div>
+  <a href="images/release-notes/c8/C8R-FFI.png">
+    <img src="images/release-notes/c8/C8R-FFI.png" class="img-responsive" alt="A C8 FFI">
+  </a>
 </div>
-<a href="images/release-notes/c8/c8LcMagDistribution.png">
-<img src="images/release-notes/c8/c8LcMagDistribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets.">
-</a>
+
 </div>
 
 </div>
@@ -3078,7 +3117,7 @@ These release notes are for the C7 data currently available at MAST (Data Releas
     <i>Figure: Figure C7-FOV: Schematic of Kepler's C7 field-of-view with high profile objects.</i>
   </div>
   <a href="images/k2/k2-c07-field.png">
-    <img src="images/k2/k2-c07-field.png" class="img-responsive" alt="C6 field-of-view with selected targets">
+    <img src="images/k2/k2-c07-field.png" class="img-responsive" alt="C7 field-of-view with selected targets">
   </a>
 </div>
 
