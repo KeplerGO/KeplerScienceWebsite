@@ -2092,7 +2092,7 @@ were used to distinguish dwarf and giant stars. The C11 CDPP values are in famil
 
 <br>
 
-***Short-Cadence Target With no PDC Flux***
+***Short-Cadence Target With No PDC Flux***
 
 The target EPIC 200147465 (36 Ophiuchi; a bright, nearby triple star system) failed short-cadence PDC processing due to it being a custom target and the only target on its channel. The short-cadence light curve file includes the (nominal and unaffected) SAP flux, but the PDC_SAP flux is all zeros. Note that the long-cadence data for this target is unaffected and is nominal.
 
@@ -2351,12 +2351,17 @@ channels 69 and 70. The comet was observed using 2200 custom aperture tiles.
 ***Segmenting of C10 Data***
 
 The C10 data were processed through the pipeline in two separate sets:
+
 <ul>
 <li>The first six days of data, dubbed C10a, were collected with a pointing error of 3.5 pixels from the nominal field-of-view, so they were only processed through CAL to make Type 1 target pixel files and collateral data files.
+<br>
 <li>The remainder of the campaign, dubbed C10b, was processed through the entire photometry pipeline, creating Type 2 target pixel files, long-cadence light curves, and collateral data files.
 </ul>
+
 The C10a files are found in the archive under Campaign number 101, and the C10b
 files have Campaign number 102. A search for Campaign 10 will return both sets of files.
+
+<br>
 
 **Attitude Offset in C10a**
 
@@ -2933,29 +2938,44 @@ These release notes are for the C8 data currently available at MAST (Data Releas
 
 ***Uranus***
 
-Uranus and four of its moons were observed with custom masks during Campaign 8. The path of Uranus was tiled with 245 single column target definitions at long cadence and with nine 9 x 307 trapezoidal masks at short cadence. The moons Caliban, Prospero, Setebos, and Sycorax were observed with separate custom masks. Uranus is the brightest moving object yet observed by K2.
-
-
-<!-- The animated gif below shows Pluto as observed by K2.
-<div class"thumbnail" style="width:65%;">
-<div class="caption"><i>Figure C7-Pluto: An animated gif of a portion of the custom apertures that contain Pluto during C7. </i>
-</div>
-<a href="images/release-notes/c7/k2c7-pluto.gif"><img src="images/release-notes/c7/k2c7-pluto.gif" class="img-responsive" alt="Movie of Pluto moving through the K2 field of view."></a>
-</div> -->
-
+Uranus and four of its moons were observed with custom masks during Campaign 8. The path of Uranus was tiled with 245 single column target definitions at long cadence and with nine 9 x 307 trapezoidal masks at short cadence. The moons Caliban, Prospero, Setebos, and Sycorax were observed with separate custom masks.  Uranus is one of the brightest moving objects observed by K2.
 
 <br>
 
 ***Galaxies***
 
-With its high Galactic latitude, Campaign 8 was ideal for observing galaxies. There were 2750 galaxies targeted, including IC 1613 (Caldwell 51), an irregular dwarf galaxy in the Local Group. IC 1613 was tiled with 48 20 x 20 pixel masks for a total of 19,200 pixels.
-
+With its high Galactic latitude, Campaign 8 was ideal for observing galaxies. There were 2750 galaxies targeted, including IC 1613 (Caldwell 51), an irregular dwarf galaxy in the Local Group.  IC 1613 was tiled with 48 20 x 20 pixel masks for a total of 19,200 pixels.
 
 <br>
 
-***Roll Drift Returns to _Normal_***
+***Pointing and Roll Performance***
 
-Based on the C7 degraded roll performance, the Mission Operations Center switched back to low-gain antenna LGA1 for spacecraft communication during most of C8. The switch resulted in a return to nominal K2 roll performance and drift rates. The campaign was started using LGA2, as was used in C7, and then starting around 23 Jan 2016 23:50 UTC operations were switched to LGA1. The antenna swap can be seen in the roll drift attitude error.
+Based on the C7 degraded roll performance, the Mission Operations Center switched back to low-gain antenna LGA1 for spacecraft communication during most of C8. The switch resulted in a return to nominal K2 roll performance and drift rates. The campaign was started using LGA2, as was used in C7, and then starting around 23 Jan 2016 23:50 UTC (MJD 57410.99) operations were switched to LGA1. The antenna swap can be seen in the roll drift attitude error.
+
+On 2016-02-01 16:40 UTC (MJD	57419.69) the spacecraft dropped out of fine point control. Observations continued in coarse point, with much degraded pointing performance, until 2016-02-02 22:27 UTC (MJD 57420.94) when the spacecraft reacquired fine point during a resat period. This resulted in 29 hours and 48 minutes of coarse point data collection. These cadences (121284&mdash;121344) are flagged as both "spacecraft is not in fine point" (QUALITY flag bit #16, decimal=32768) and "spacecraft is in coarse point" flag (QUALITY flag bit #3, decimal=4).  The loss of fine point occurred following a thruster firing fine tweak that resulted in the spacecraft rolling in the wrong direction. The next tweak was unable to correct the attitude before the loss of fine point fault was triggered, but fine pointing control was restored automatically at the next momentum wheel resaturation. There were several other instances of anomalous thruster firing tweaks in C8, none of which resulted in loss of fine point.
+
+<div class="thumbnail" style="width: 49%; display: inline-block;">
+  <div class="caption">
+    <i>
+    Figure C8-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C8.
+    </i>
+  </div>
+  <a href="images/release-notes/c8/c8_pad_pdq_attitude_roll.png">
+    <img src="images/release-notes/c8/c8_pad_pdq_attitude_roll.png" class="img-responsive" alt="Pipeline measured roll error for C8.">
+  </a>
+</div>
+
+<div class="thumbnail" style="width: 49%; display: inline-block;">
+  <div class="caption">
+    <i>
+    Figure C8-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C8.
+    </i>
+  </div>
+  <a href="images/release-notes/c8/c8_pad_pdq_attitude_mar.png">
+    <img src="images/release-notes/c8/c8_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the C8 attitude measured with PAD and PDQ.">
+  </a>
+</div>
+
 
 <div class="thumbnail" style="width: 90%">
  <div class="caption">
@@ -2968,47 +2988,61 @@ Based on the C7 degraded roll performance, the Mission Operations Center switche
 
 <br>
 
-***Loss of Fine Point***
-On 2016-02-01 16:40 UTC the spacecraft dropped out of fine point control. Observations continued in coarse point, with much degraded pointing performance, until 2016-02-02 22:27:26 UTC when the spacecraft reacquired fine point during a resat period. This resulted in 29:47:53 of coarse point data collection. These cadences are flagged as "spacecraft is not in fine point" using bit 16 in the data quality flags. The loss of fine point occured following a thruster firing fine tweak that resulted in the spacecraft rolling in the wrong direction. The next tweak was unable to correct the attitude before the loss of fine point fault was triggered, but fine pointing control was restored automatically at the next momentum wheel resaturation. There were several other instances of anomalous thruster firing tweaks in C8, none of which resulted in loss of fine point. Their cause is under investigation.
-
-<br>
-
 <h2>Data Quality and Processing Notes</h2>
 
 ***Light Curve Quality***
 
-The dominant systematic present in K2 simple aperture photometry light curves is a sawtooth shape that is due to the roll of the spacecraft, which is corrected approximately every 6 hours. With the return to more nominal K2 roll performance in C8, we find CDPP values have improved noticeably over those from C7. Below, we examine observed noise levels in the PDC light curves for C8, Data Release 11.
+As in other campaigns, the 6-hour spacecraft roll cycle dominates the systematic errors in C8 simple aperture photometry light curves.
+The pipeline CDPP 12th magnitude noise benchmark for C8 (DR38) is comparable to that seen in other campaigns with similar star density.
 
-Analysis of the light curve quality reveals that CDPP values are decreased by roughly 20% from C7, from 59.2 ppm in C7 to 47.0 ppm in C8, as measured by the tenth percentile of 12th magnitude dwarfs. The values are comparable to those from C4-C6.
+The magnitude dependence of CDPP and its distribution over the focal
+plane are shown below. Other CDPP benchmarks can be found in the
+<a href="images/release-notes/c8/c8_bin1.00_sc1.00_CDPP_Summary_19121101.txt">
+table giving 6.5-hr CDPP as a function of magnitude.</a>
 
-The magnitude dependence of CDPP and its distribution over the focal plane are shown below. Other CDPP benchmarks can be found in the <a href="images/release-notes/c8/C8_bin1.00_sc1.00_CDPP_Summary_16052411.txt">table giving 6.5-hr CDPP as a function of magnitude.</a>
 <br>
 <div class="thumbnail" style="width: 90%;">
 <div class="caption">
-<i>Figure C8-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>   
+<i>Figure C8-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>
 </div>
-<a href="images/release-notes/c8/C8_logg_CDPP_vs_model.png">
-<img src="images/release-notes/c8/C8_logg_CDPP_vs_model.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
+<a href="images/release-notes/c8/cdpp_vs_mag_dr38.png">
+<img src="images/release-notes/c8/cdpp_vs_mag_dr38.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
 </a>
 </div>
+
 <div class="thumbnail" style="width: 90%;">
 <div class="caption">
 <i>Figure C8-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
-<a href="images/release-notes/c8/C8_dwarf__CDPP_by_mod_out.png">
-<img src="images/release-notes/c8/C8_dwarf__CDPP_by_mod_out.png" class="img-responsive" alt="CDPP per channel for 12th magnitude dwarfs">
-</a>    
 </div>
+<a href="images/release-notes/c8/c8_dwarf_CDPP_by_mod_out_dr38.png">
+<img src="images/release-notes/c8/c8_dwarf_CDPP_by_mod_out_dr38.png" class="img-responsive" alt="CDPP per channel for 12th and 14th magnitude dwarfs">
+</a>
 </div>
 
-***Poor Smear Correction***
 
-*Bright Stars*
+<br>
 
-There are 2 channels in C8 for which the saturation spill due to very bright stars corrupts both the masked and virtual smear measurements for one or more columns. The affected channels are 23 (columns 500-507 and 1055-1059) and channel 45 (columns 162-166). In these cases, in order to allow the pipeline calibration to complete, we flag the masked smear as bad and process the data with only the virtual smear. As a result, the smear correction will be poor for the channel/column combinations listed above and will be suspect for the same columns on other outputs of the same module due to video crosstalk.
+***Short-Cadence Targets With no PDC Flux***
 
-We identified 5 individual targets whose light curves are clearly affected by the poor smear correction: EPIC-220519545 and 220549392 (ch 23); EPIC-220530070 and 220539101 (ch 45), and EPIC-220566642 (ch 48). During this smear investigation, we identified one additional target, EPIC-220498268 on channel 65, that is within the saturation spill of a very bright star and has a similarly corrupted light curve.
+The following nine targets failed short-cadence PDC processing due to them being custom targets and the only targets on their channel. The short-cadence light curve files include the (nominal and unaffected) SAP flux, but the PDC_SAP flux is all zeros. Note that the long-cadence data for these targets are unaffected and are nominal.
 
-*Intermittent Streaks*
+<ul>
+<li>200068647
+<li>200068648
+<li>200068649
+<li>200068650
+<li>200068651
+<li>200068652
+<li>200068653
+<li>200068654
+<li>200068655
+</ul>
+
+<br>
+
+
+
+***Poor Smear Correction on Channel 42***
 
 There are episodic smear correction errors on channel 42 (mod.out 13.2), the channel containing the Uranus supermask. Nearly every long cadence in the supermask appears to contain between 2 and 20 columns which are brightened by 10 to 80 counts. The brightening of a column lasts only for a single cadence, with no obvious patterns as to which columns are affected in a given cadence. Two example cadences which are particularly affected are 119980 and 119982.
 

@@ -668,7 +668,7 @@ The LDE parity error triggers a flag (bit 15, decimal=16384) in the QUALITY colu
 
 
 
-# K2 Campaign 10
+# K2 Campaign 10  (**Archived**)
 
 <h2>At a glance</h2>
 
@@ -969,7 +969,7 @@ that adjacent columns will be corrupted at some times during the campaign.
 
 
 
-# K2 Campaign 8
+# K2 Campaign 8 (**Archived**)
 
 <h2>At a glance</h2>
 
