@@ -3055,7 +3055,7 @@ Preliminary investigation indicated that the streaking was caused by false cosmi
 
 For the final processing of C8 (data relase 38), as for all reprocessed campaigns, the detection threshold of the cosmic ray detector was increased (see the <a href="k2-uniform-global-reprocessing-underway.html">news post on global reprocessing</a>).  While this did reduce the number of false cosmic ray detections for nearly all campaigns and channels, it did not appear to help for channel 42 in C8.  In fact, the situation appears worse for channel 42 in C8 for DR38 than DR11.  The maximum value of the smear offsets appear to range up to 60 counts in DR38, compared to 20 counts in DR11, and with perhaps a higher frequency of occurrence (see Figures C8-Ch42-DR11-Smear and C8-Ch42-DR38-Smear below.)  While the exact cause of the worsening of the false cosmic ray flagging is not yet known, possibilities include the use of Dynablack as well as processing the entire campaign through the CAL module of the pipeline at once for DR38, whereas Dynablack was not used for DR11 and CAL was run in three separate time chunks &mdash; regardless, the root cause remains Uranus' bright, moving signal.
 
-Just as was advised for DR11, for DR38, since the streaks are not in the raw data, users may wish to do their own smear correction on this channel.
+Just as was advised for DR11, for DR38, since the streaks are not in the raw data, users may wish to do their own smear correction on this channel, or at least use the data release 11 version of the files [available here](https://archive.stsci.edu/missions/k2/target_pixel_files/old_release_bundles/c8/).
 
 <div class="thumbnail" style="width: 45%;display: inline-block;">
 <div class="caption">
