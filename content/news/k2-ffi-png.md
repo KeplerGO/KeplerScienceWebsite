@@ -12,7 +12,7 @@ The PNGs can be found at [https://archive.stsci.edu/missions/k2/ffi/png/](https:
 
 * Per-Chanel<sup>†</sup>: Found in the "ch" subdirectory, there is one PNG for each channel of each FFI of each K2 campaign.
 
-Users are encouraged to consult these PNGs to potentially provide broader spatial context to the observations of individual objects.  Some examples are provided below.
+Users are encouraged to consult these PNGs to potentially provide broader spatial context to the observations of individual objects.  Some examples are provided below, along with a figure showing the module and channel layout of the detector.
 
 <sup>†</sup><sub>Note that channels/modules that were inoperable when the image was taken will appear blank, but are still included for completeness.</sub>
 
@@ -27,7 +27,7 @@ Users are encouraged to consult these PNGs to potentially provide broader spatia
 
 <div class="thumbnail" style="width: 45%; display: inline-block;">
 <div class="caption">
-<i>The PNG for module 5 of a C5 FFI, which contains the Beehive Cluster.</i>
+<i>The PNG for module 14 of a C5 FFI, which contains the Beehive Cluster.</i>
 </div>
 <img style="text-align: center" src="images/news/ktwo2015127093352-c05_ffi-cal_mod14.png" width="100%" align="center" class="img-responsive">
 </div>
@@ -37,4 +37,11 @@ Users are encouraged to consult these PNGs to potentially provide broader spatia
 <i>The PNG for channel 45 of a C9 FFI, which has the galactic center in the corner.</i>
 </div>
 <img style="text-align: center" src="images/news/ktwo2016153221424-c92_ffi-cal_ch45.png" width="100%" align="center" class="img-responsive">
+</div>
+
+<div class="thumbnail" style="width: 45%; display: inline-block;">
+<div class="caption">
+<i>The layout of the Kepler detector.</i>
+</div>
+<img style="text-align: center" src="images/kepler_focal_plane_layout_channels_color.png" width="100%" align="center" class="img-responsive">
 </div>
