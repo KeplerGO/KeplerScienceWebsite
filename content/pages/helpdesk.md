@@ -1,5 +1,37 @@
-Title: Kepler/K2 Science Helpdesk
+Title: Kepler/K2 Help
 Save_as: helpdesk.html
+
+User support and news updates have transitioned to the NASA Astrophysics archives that host Kepler and K2 data &mdash; the Mikulski Archive for Space Telescopes (MAST) and the NASA Exoplanet Science Institute (NExScI).  Below are ways to contact them to receive help with Kepler and K2 data, as well as receive updates from each archive and where to find useful information.  All user support has been transitioned to the archives.
+
+<br>
+
+<u><b>Resources at MAST</b></u>  
+Helpdesk: [https://stsci.service-now.com/mast](https://stsci.service-now.com/mast)  
+E-mail: [archive@stsci.edu](mailto:archive@stsci.edu)  
+Kepler Homepage:  [https://archive.stsci.edu/missions-and-data/kepler](https://archive.stsci.edu/missions-and-data/kepler)  
+K2 Homepage: [https://archive.stsci.edu/missions-and-data/k2](https://archive.stsci.edu/missions-and-data/k2)  
+
+<br>
+
+<u><b>Resources at NExScI</b></u>  
+Exoplanet Archive Helpdesk: [https://exoplanetarchive.ipac.caltech.edu/cgi-bin/Helpdesk/nph-genTicketForm](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/Helpdesk/nph-genTicketForm)  
+General NExScI Helpdesk: [http://nexsci.caltech.edu/cgi-bin/helpdesk/helpdesk.cgi](http://nexsci.caltech.edu/cgi-bin/helpdesk/helpdesk.cgi)  
+ExoFOP Support: [exofop-support@ipac.caltech.edu](mailto:exofop-support@ipac.caltech.edu)  
+
+<br>
+
+<u><b>News sources at MAST</b></u>  
+Newsfeed: [https://archive.stsci.edu/news](https://archive.stsci.edu/news)  
+MAST Accounts: Create a [MyST Account](https://proper.stsci.edu/proper/authentication/auth) to manage subscriptions.  
+Twitter: [@MAST_News](https://twitter.com/MAST_News)
+
+<br>
+
+<u><b>News sources at NExScI</b></u>  
+Newsfeed: [https://exoplanetarchive.ipac.caltech.edu/docs/exonews_archive.html](https://exoplanetarchive.ipac.caltech.edu/docs/exonews_archive.html)  
+Newsletter: [https://lists.ipac.caltech.edu/mailman/listinfo/exoplanet-announce](https://lists.ipac.caltech.edu/mailman/listinfo/exoplanet-announce)  
+Twitter: [@NASAExoArchive](https://twitter.com/NASAExoArchive)
+
 
 <!-- Avoid showing names or faces to avoid making anyone feel unappreciated.
 <div class="row">
@@ -67,6 +99,8 @@ Save_as: helpdesk.html
 </div>
 -->
 
+<!-- Save old info
+
 ### E-mail
 
 You can contact the Guest Observer Office at [keplergo@mail.arc.nasa.gov](mailto:keplergo@mail.arc.nasa.gov) for advice and information on:
@@ -93,3 +127,5 @@ questions about the missions as well as how to retrieve and analyze
 the data.  The FAQ archives on the original Kepler/K2 website can be accessed
 [here for Kepler](/FAQ.shtml) and
 [here for K2](/K2/FAQ.shtml).
+
+-->
