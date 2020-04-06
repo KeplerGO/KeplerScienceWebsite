@@ -1208,8 +1208,8 @@ implemented it for future processing starting with C15.
 <div class="thumbnail" style="width: 49%;display: inline-block;">
 <div class="caption">
 <i>Figure C14-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C14.</i>
-<a href="images/release-notes/c14/c14_pad_pdq_attitude_roll.png">
-<img src="images/release-notes/c14/c14_pad_pdq_attitude_roll.png" class="img-responsive" alt="Pipeline measured roll error for C14.">
+<a href="images/release-notes/c14/c14_pad_pdq_attitude_roll_dr40.png">
+<img src="images/release-notes/c14/c14_pad_pdq_attitude_roll_dr40.png" class="img-responsive" alt="Pipeline measured roll error for C14.">
 </a>
 </div>
 </div>
@@ -1217,8 +1217,8 @@ implemented it for future processing starting with C15.
 <div class="thumbnail" style="width: 49%;display: inline-block;">
 <div class="caption">
 <i>Figure C14-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C14.</i>
-<a href="images/release-notes/c14/c14_pad_pdq_attitude_mar.png">
-<img src="images/release-notes/c14/c14_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the C14 attitude measured with PAD and PDQ.">
+<a href="images/release-notes/c14/c14_pad_pdq_attitude_mar_dr40.png">
+<img src="images/release-notes/c14/c14_pad_pdq_attitude_mar_dr40.png" class="img-responsive" alt="Maximum residual of the C14 attitude measured with PAD and PDQ.">
 </a>
 </div>
 </div>
@@ -1241,22 +1241,22 @@ campaigns).
 
 The magnitude dependence of CDPP and its distribution over the focal
 plane are shown below. Other CDPP benchmarks can be found in the
-<a href="images/release-notes/c14/c14_bin1.00_sc1.00_CDPP_Summary_17100214.txt">
+<a href="images/release-notes/c14/c14_bin1.00_sc1.00_CDPP_Summary_20031320.txt">
 table giving 6.5-hr CDPP as a function of magnitude.</a>
 <br>
 <div class="thumbnail" style="width: 90%;">
 <div class="caption">
 <i>Figure C14-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>
 </div>
-<a href="images/release-notes/c14/c14_logg_CDPP_vs_model.png">
-<img src="images/release-notes/c14/c14_logg_CDPP_vs_model.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
+<a href="images/release-notes/c14/c14_logg_CDPP_vs_model_dr40.png">
+<img src="images/release-notes/c14/c14_logg_CDPP_vs_model_dr40.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
 </a>
 </div>
 <div class="thumbnail" style="width: 90%;">
 <div class="caption">
 <i>Figure C14-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
-<a href="images/release-notes/c14/c14_cdpp_benchmark_fov.png">
-<img src="images/release-notes/c14/c14_cdpp_benchmark_fov.png" class="img-responsive" alt="CDPP per channel for 12th magnitude dwarfs">
+<a href="images/release-notes/c14/c14_dwarf_CDPP_by_mod_out_dr40.png">
+<img src="images/release-notes/c14/c14_dwarf_CDPP_by_mod_out_dr40.png" class="img-responsive" alt="CDPP per channel for 12th magnitude dwarfs">
 </a>
 </div>
 </div>
@@ -1645,16 +1645,16 @@ and remained nominal for the rest of the campaign.
 <div class="caption">
 <i>Figure C12-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C12.</i>   
 </div>
-<a href="images/release-notes/c12/c12_pad_pdq_attitude_roll.png">
-<img src="images/release-notes/c12/c12_pad_pdq_attitude_roll.png" class="img-responsive" alt="Pipeline measured roll error for C12.">
+<a href="images/release-notes/c12/c12_pad_pdq_attitude_roll_dr39.png">
+<img src="images/release-notes/c12/c12_pad_pdq_attitude_roll_dr39.png" class="img-responsive" alt="Pipeline measured roll error for C12.">
 </a>
 </div>
 
 <div class="thumbnail" style="width: 49%;display: inline-block;">
 <div class="caption">
 <i>Figure C12-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C12.</i>
-<a href="images/release-notes/c12/c12_pad_pdq_attitude_mar.png">
-<img src="images/release-notes/c12/c12_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the C12 attitude measured with PAD and PDQ.">
+<a href="images/release-notes/c12/c12_pad_pdq_attitude_mar_dr39.png">
+<img src="images/release-notes/c12/c12_pad_pdq_attitude_mar_dr39.png" class="img-responsive" alt="Maximum residual of the C12 attitude measured with PAD and PDQ.">
 </a>
 </div>
 </div>
@@ -1705,22 +1705,22 @@ to a spacecraft, or a pipeline processing change.
 
 The magnitude dependence of CDPP and its distribution over the focal
 plane are shown below. Other CDPP benchmarks can be found in the
-<a href="images/release-notes/c12/c12_bin1.00_sc1.00_CDPP_Summary_17070516.txt">
+<a href="images/release-notes/c12/c12_bin1.00_sc1.00_CDPP_Summary_20031318.txt">
 table giving 6.5-hr CDPP as a function of magnitude.</a>
 <br>
 <div class="thumbnail" style="width: 90%;">
 <div class="caption">
 <i>Figure C12-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>   
 </div>
-<a href="images/release-notes/c12/c12_logg_CDPP_vs_model.png">
-<img src="images/release-notes/c12/c12_logg_CDPP_vs_model.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
+<a href="images/release-notes/c12/c12_logg_CDPP_vs_model_dr39.png">
+<img src="images/release-notes/c12/c12_logg_CDPP_vs_model_dr39.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
 </a>
 </div>
 <div class="thumbnail" style="width: 90%;">
 <div class="caption">
 <i>Figure C12-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
-<a href="images/release-notes/c12/c12_dwarf_CDPP_by_mod_out.png">
-<img src="images/release-notes/c12/c12_dwarf_CDPP_by_mod_out.png" class="img-responsive" alt="CDPP per channel for 12th magnitude dwarfs">
+<a href="images/release-notes/c12/c12_dwarf_CDPP_by_mod_out_dr39.png">
+<img src="images/release-notes/c12/c12_dwarf_CDPP_by_mod_out_dr39.png" class="img-responsive" alt="CDPP per channel for 12th magnitude dwarfs">
 </a>    
 </div>
 </div>

@@ -15,6 +15,193 @@ The notes below are kept here in case users find a need to use the old, out-of-d
 
 <br>
 
+# K2 Campaign 14 (**Archived**)
+
+<h2>At a glance</h2>
+
+<div class="col-lg-5">
+
+<b><i>Pointing</i></b>
+<ul>
+<li> RA:  160.6824762 degrees</li>
+<li> Dec:  6.8509316 degrees</li>
+<li> Roll:  158.7573464 degrees</li>
+</ul>
+
+<b><i>Targets With Data Available at MAST</i></b>
+<ul>
+<li>39,024 EPIC IDs in long cadence (LC).</li>
+<li>147 EPIC IDs in short cadence (LC).</li>
+<li>42 moving objects were tiled with LC custom strip apertures. 7 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. See the <a href="images/release-notes/c14/ktwoc14_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
+</ul>
+
+<b><i>Full Frame Images (FFI)</i></b>
+<ul>
+<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2017162122209-c14_ffi-cal.fits">ktwo2017162122209-c14_ffi-cal.fits</a></li>
+<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2017203170143-c14_ffi-cal.fits">ktwo2017203170143-c14_ffi-cal.fits</a></li>
+</ul>
+
+<b><i>First cadence</i></b>
+<ul>
+<li>Start Time: 2017-06-01 05:06:29 UTC</li>
+<li>Long Cadence Number: 145045</li>
+<li>Short Cadence Number: 4339810</li>
+</ul>
+
+<b><i>Last cadence</i></b>
+<ul>
+<li>End Time: 2017-08-19 22:11:02 UTC</li>
+<li>Long Cadence Number: 148945</li>
+<li>Short Cadence Number: 4456839</li>
+</ul>
+
+<b><i>Most Recent Processing Version</i></b>
+<ul>
+<li> <a href="k2-pipeline-release-notes.html#data-release-20">Data Release 20</a> </li>
+</ul>
+
+</div>
+
+<div class="col-lg-7">
+
+
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C14-FOV: Schematic of Kepler's C14 field-of-view with high profile objects. </i>
+</div>
+ <a href="images/k2/k2-c14-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c14-field.png" id="c14fov" alt="C14 field of view with highlighted clusters M95, M96, M101 and nearby star Wolf 359, future site of a prominent battle between the UFP and the Borg Collective in Stardate 2367.">
+</a>
+</div>
+
+
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C14-Mag: Distribution of the Kepler magnitudes of observed LC targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href ="k2-approved-programs.html#campaign-14">GO Programs</a> were selected. The peak in the distribution at faint magnitudes is due to the large number of faint galaxies targeted.</i>
+</div>
+<a href="images/release-notes/c14/c14_lc_magnitude_distribution.png">
+<img src="images/release-notes/c14/c14_lc_magnitude_distribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets.">
+</a>
+</div>
+
+</div>
+
+<h2>Features and Events</h2>
+
+***Galaxies***
+
+The C14 field of view sits at 53º N Galactic latitude in the North Galactic cap.  There are 14,691 galaxies targeted
+in the C14 field of view. 47 of the Galaxies with radii > 40 arcseconds were covered with large circular masks.
+Twelve galaxies were covered with 15x15 pixel square masks. Six galaxies (M95, M96, M105, NGC3384,
+NGC3423, NGC3412) were covered by 40x40 pixel square masks consisting of 16 tiles of 10x10 pixel sub-masks.
+The <a href="images/release-notes/c14/ktwoc14_caf.csv">custom aperture file</a> gives the custom EPIC ID for
+each of these masks. *This mapping file has changed format with this release and now includes more information.* The
+six columns, which are populated according to target type are:
+
+1. custom KepId
+2. target type: 1 = star, or quasi-stellar object with an EPIC ID, 2 = engineering data (not used here), 3 = open
+cluster or other large patch of the sky with no individual object, 4 = a central object, but with no EPIC ID,
+5 = Solar System object
+3. the EPIC number, if it exists
+4. RA of the center of the sky patch (type 3), or center of the extended object (type 4)
+5. Declination of the center of the sky patch (type 3), or center of the extended object (type 4)
+6. Object name
+
+In addition to the many galaxies, a number of <a href ="k2-approved-programs.html#campaign-14">notable targets</a>
+were observed during C14, including Wolf 359, a nearby late M-dwarf.
+
+<br>
+
+***Pointing and Roll Performance***
+
+The C14 pointing and roll behavior are well within the limits of that seen
+in other K2 campaigns for the majority of the campaign.
+The pipeline calculated maximum distance between the
+derived and nominal positions for any target (the "maximum attitude residual", or MAR)
+for C14 is less than 2 pixels, well under the 3-pixel limit accommodated by the aperture halos.
+There were far fewer anomalous thruster firing events in C14 than were seen in recent campaigns.
+
+In order to give the flight system engineers an advanced warning of degradation in the pointing
+as fuel runs low, the on-board fine point fault logging threshold was lowered from ~103 arcseconds
+(0.0005 radians) to ~62 arcseconds (0.0003 radians) on 2017-07-14, mid-way through C14. While
+this change does not affect pointing performance, it did have the unintended effect of flagging
+more cadences as "Spacecraft is not in fine point" (QUALITY flag bit #16, decimal=32768), which
+the pipeline then gaps. The result of this threshold change is that there are 129 long cadences gapped
+as not-in-fine-point in C14 versus 48 in C13, with the majority of these falling in the second half of C14,
+after the threshold change. The not-in-fine-point cadences have calibrated pixels in the archive TPFs,
+but no flux values in the light curve files.
+
+The project has identified a workaround for the flagging resulting from this changed threshold and has
+implemented it for future processing starting with C15.
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C14-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C14.</i>
+<a href="images/release-notes/c14/c14_pad_pdq_attitude_roll.png">
+<img src="images/release-notes/c14/c14_pad_pdq_attitude_roll.png" class="img-responsive" alt="Pipeline measured roll error for C14.">
+</a>
+</div>
+</div>
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C14-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C14.</i>
+<a href="images/release-notes/c14/c14_pad_pdq_attitude_mar.png">
+<img src="images/release-notes/c14/c14_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the C14 attitude measured with PAD and PDQ.">
+</a>
+</div>
+</div>
+
+<br>
+
+<h2>Data Quality and Processing Notes</h2>
+
+***Light Curve Quality***
+
+As in previous campaigns, the 6-hour spacecraft roll cycle continues
+to dominate the systematic
+errors in C14 simple aperture photometry light curves.
+The pipeline CDPP 12th magnitude noise benchmark for C14 is
+the lowest seen since C6. It is comparable to that seen in early campaigns with similar
+star density (C6, C8, C10), but is well below that seen in C12, also with similar star density.
+We do not have a definitive cause the for the improved precision, but it could be in part due
+to the relatively low star density and the return to more stable pointing (compared to recent
+campaigns).
+
+The magnitude dependence of CDPP and its distribution over the focal
+plane are shown below. Other CDPP benchmarks can be found in the
+<a href="images/release-notes/c14/c14_bin1.00_sc1.00_CDPP_Summary_17100214.txt">
+table giving 6.5-hr CDPP as a function of magnitude.</a>
+<br>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C14-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>
+</div>
+<a href="images/release-notes/c14/c14_logg_CDPP_vs_model.png">
+<img src="images/release-notes/c14/c14_logg_CDPP_vs_model.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
+</a>
+</div>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C14-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
+<a href="images/release-notes/c14/c14_cdpp_benchmark_fov.png">
+<img src="images/release-notes/c14/c14_cdpp_benchmark_fov.png" class="img-responsive" alt="CDPP per channel for 12th magnitude dwarfs">
+</a>
+</div>
+</div>
+
+<br>
+
+***Targets Missing from the Archive***
+
+Pipeline errors during the process of exporting the light curve (LCV) and
+target pixel (TP) FITS files resulted in two targets (EPIC IDs 248463890 and 248463977)
+from C14 having no LCV or TPF files at the archive.
+
+<br>
+
+
+<hr>
+
 
 # K2 Campaign 13 (**Archived**)
 
@@ -262,6 +449,286 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 <br>
 
 <hr>
+
+
+# K2 Campaign 12 (**Archived**)
+
+<h2>At a glance</h2>
+
+<div class="col-lg-5">
+
+<b><i>Pointing</i></b>
+<ul>
+<li>RA: 351.6588124 degrees</li>
+<li>Dec: -5.1023328 degrees</li>
+<li>Roll: -156.8808419 degrees</li>
+</ul>
+
+<b><i>Targets With Data Available at MAST</i></b>
+<ul>
+<li>45,951 EPIC IDs in long cadence (LC).</li>
+<li>234 EPIC IDs in short cadence (LC).</li>
+<li>42 unique LC custom targets were selected, along with two SC custom target apertures for Chiron and Trappist-1. See the <a href="images/release-notes/c12/ktwoc12_caf.csv">csv file that maps</a> the custom aperture number to the target name.</li>
+</ul>
+
+<b><i>Full Frame Images (FFI)</i></b>
+<ul>
+<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2016361035629-c12_ffi-cal.fits">ktwo2016361035629-c12_ffi-cal.fits</a></li>
+<li><a href="https://archive.stsci.edu/pub/k2/ffi/ktwo2017032102633-c12_ffi-cal.fits">ktwo2017032102633-c12_ffi-cal.fits</a></li>
+</ul>
+
+<b><i>First cadence</i></b>
+<ul>
+<li>Start Time: 2016-12-15 20:40:49 UTC</li>
+<li>Long Cadence Number:136855</li>
+<li>Short Cadence Number: 4094110 </li>
+</ul>
+
+<b><i>Last cadence</i></b>
+<ul>
+<li>End Time: 2017-03-04 18:37:47 UTC</li>
+<li>Long Cadence Number: 140716</li>
+<li>Short Cadence Number: 4209969</li>
+</ul>
+
+<b><i>Most Recent Processing Version</i></b>
+<ul>
+<li> <a href="k2-pipeline-release-notes.html#data-release-18">Data Release 18</a> </li>
+</ul>
+
+</div>
+
+<div class="col-lg-7">
+
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C12-FOV: Schematic of Kepler's C12 field-of-view with observed targets shown with purple dots.</i>
+</div>
+<a href="images/release-notes/c12/C12_selected.png">
+<img src="images/release-notes/c12/C12_selected.png" class="img-responsive" alt="C12 field-of-view with selected targets plotted in purple.">
+</a>
+</div>
+
+<div class="thumbnail">
+<div class="caption">
+<i>Figure C12-Mag: Distribution of the Kepler magnitudes of observed LC targets. All targets are chosen by guest observers. The distribution is due to how the largest <a href ="k2-approved-programs.html#campaign-12">GO Programs</a> were selected.</i>
+</div>
+<a href="images/release-notes/c12/c12_lc_magnitude_distribution.png">
+<img src="images/release-notes/c12/c12_lc_magnitude_distribution.png" class="img-responsive" alt="Distribution of the Kepler magnitudes of observed LC targets.">
+</a>
+</div>
+
+</div>
+
+<h2>Features and Events</h2>
+
+***Mars***
+
+Mars passed through the focal plane during C12, entering active silicon on module
+24 output 3 (channel 83) on 2017-01-16 (relative cadence index 1550) and
+moving off of module 3 output 4 (dead channel 8) on 2017-02-09
+(relative cadence index 2728). The movie *C12-Mars-at-LC* below shows the
+direct image of Mars passing over channel 83.
+With an average visual magnitude of V ~ -0.2,
+the image of Mars is highly saturated, introduces
+significant scattered light, and creates a
+video crosstalk signal in each of the other three channels of the module on
+which it falls. In addition, there is a ghost
+image of Mars caused by reflection off of the field-flattener lens and CCD then
+off of the Schmidt correcter and back to the focal plane. This ghost image
+appears approximately on the opposite side of the boresight from the direct
+Mars image. An example of the direct image with crosstalk and the ghost image
+is shown in the figures below (*C12-Module-8 Mars FFI Image*,
+*C12-Channel-62 Mars Ghost Image*) taken from the second FFI:
+ktwo2017032102633-c12_ffi-cal.fits.
+
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C12-Mars-at-LC: Mars entered the focal plane on channel 83 and is
+seen here passing through the LC target pixel apertures on this channel in
+just over two days (105 cadences).
+The saturated columns from the core of the image
+extend over all rows in the channel.</i>   
+</div>
+<video id="pelican-installation" class="video-js vjs-default-skin" controls loop
+preload="auto"  "width="99%"
+data-setup="{}">
+<source src="images/release-notes/c12/ch83_Mars_movie_c12.mp4" type='video/mp4' alt="Movie of Mars transiting across channel 83 as seen through long cadence target apertures">
+</video>
+</div>
+
+<div class="thumbnail" style="width: 47%;display: inline-block;">
+<div class="caption">
+<i>Figure C12-Module-8 Mars FFI Image: the impact of the direct image of Mars from the field-flattener lens ghosts, diffraction spikes, saturated columns, and video crosstalk signals are evident in this stretched image from the calibrated FFI ktwo2017032102633-c12_ffi-cal.fits.</i>   
+</div>
+<a href="images/release-notes/c12/c12_ffi2_mod8.png">
+<img src="images/release-notes/c12/c12_ffi2_mod8.png" class="img-responsive" alt="Module-8 Mars direct image, scattered light, and crosstalk">
+</a>
+</div>
+
+<div class="thumbnail" style="width: 43%;display: inline-block;">
+<div class="caption">
+<i>Figure C12-Channel-62 Mars Ghost Image: the large spatial extent and complex structure of the Schmidt corrector ghost image of Mars is striking in this stretched image from the calibrated FFI ktwo2017032102633-c12_ffi-cal.fits.</i>
+</div>
+<a href="images/release-notes/c12/c12_ffi2_mod18.png">
+<img src="images/release-notes/c12/c12_ffi2_mod18.png" class="img-responsive" alt="Module-18 Schmidt corrector ghost image of Mars.">
+</a>
+</div>
+
+
+A more quantitative understanding of
+the signals from Mars can be gained from the raw flux profiles below of
+Mars and its ghost image, taken from the same FFI. The profile shows a
+slice through the direct image for a rough guide to the
+azimuthally-averaged part of the image. Note that the saturation
+spills across all CCD rows for the central columns of the Mars image
+and the diffraction spikes extend over multiple channels.
+Spikes in the profile plot are caused by
+stray stars. Users should also note that the median rate of motion of
+Mars is 11 pixels per Long Cadence.
+
+
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C12 Mars Flux Profile: </i>   
+</div>
+<a href="images/release-notes/c12/c12_mars_and_ghost_profile.png">
+<img src="images/release-notes/c12/c12_mars_and_ghost_profile.png" class="img-responsive" alt="Flux distribution profile for Mars direct image and Mars Schmidt corrector ghost image.">
+</a>
+</div>
+
+
+For users wishing to have a better idea when Mars may have affected the data from
+particular targets, pipe-delimited text files for the path of Mars
+<a href="images/release-notes/c12/c12_mars_direct.txt">c12_mars_direct.txt</a>
+and its ghost <a href="images/release-notes/c12/c12_mars_ghost.txt">
+c12_mars_ghost.txt</a> during the middle of C12 have been generated using the
+<a href="https://ssd.jpl.nasa.gov/?horizons">JPL Horizons website</a>.
+The location of Mars was calculated from the Kepler-o-centric (NAIF Id = -227)
+RA and DEC. The location of Mars and its ghost in the FFI are in the
+headers of the respective files.
+
+The location of the ghost was calculated by rotating the
+RA and DEC of Mars around the boresight by 180 degrees and is approximate due to
+variations of the CCD and field-flattener lens positions and orientations
+from the ideal focal plane. Based on the FFI and the long cadence pixel data,
+the ghost can vary in position by up to ~100 pixels from the locations given in
+the table. Given this variation and the large size of the ghost image,
+users might be advised to use caution if their target is within
+200 pixels from the (predicted) ghost
+image and 350 pixels from the direct image of Mars.  
+
+
+<br>
+
+***Galaxies***
+
+There are 2576 galaxies targeted in the high Galactic latitude (-60º) C12 field of view.
+
+
+<br>
+
+***Pointing and Roll Performance***
+
+The C12 pointing and roll behavior are within the limits of that seen
+in other K2 campaigns for the majority of the campaign.
+The pipeline calculated maximum distance between the
+derived and nominal positions for any target (the "maximum attitude residual", or MAR)
+for C12 is well under the 3-pixel limit accommodated by the aperture halos,
+except for one 6-hour period starting at 2017-03-03 19:05:24 near the end
+of the campaign. Cadence numbers 140670-140681 have a roll error of more than
+-50 arcseconds, though roll performance returned to normal at the
+subsequent thruster firing
+and remained nominal for the rest of the campaign.
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C12-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C12.</i>   
+</div>
+<a href="images/release-notes/c12/c12_pad_pdq_attitude_roll.png">
+<img src="images/release-notes/c12/c12_pad_pdq_attitude_roll.png" class="img-responsive" alt="Pipeline measured roll error for C12.">
+</a>
+</div>
+
+<div class="thumbnail" style="width: 49%;display: inline-block;">
+<div class="caption">
+<i>Figure C12-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C12.</i>
+<a href="images/release-notes/c12/c12_pad_pdq_attitude_mar.png">
+<img src="images/release-notes/c12/c12_pad_pdq_attitude_mar.png" class="img-responsive" alt="Maximum residual of the C12 attitude measured with PAD and PDQ.">
+</a>
+</div>
+</div>
+
+
+<br>
+
+***Safe Mode and Loss of Engineering Data***
+On 2017-02-01 15:06 UTC the spacecraft entered safe mode. The safe mode was
+likely due to a flight software reset, which has occurred several times during the
+Kepler/K2 mission. The recovery from this safe mode was routine and the spacecraft
+resumed science data collection at 2017-02-06 20:47 UTC. The total time lost to this
+safe mode was 5.3 days.
+
+In order to minimize the science data loss, the project decided not to downlink
+stored engineering data during during the safe mode recovery. This decision resulted
+in the loss of ~10 days of engineering data, starting 2017-01-25 08:16 UTC and
+extending into the safe mode. No stored science data were lost. The engineering
+data includes the thruster firing data, so there is no thruster firing
+information from the spacecraft for this time period. In order to fill in the
+thruster firing information in the archive data files, we used the short cadence
+pointing history to detect likely thruster firings during the data gap. If the
+thruster firing could be unambiguously identified within a SC interval, a thruster
+firing was flagged in the QUALITY and SAP_QUALITY fields (bit 21). If the thruster
+firing appeared to span SC intervals, both intervals would be flagged with a
+possible thruster firing (bit 20). Users should be alert to possible missed
+thruster firings in the interval from 2017-01-25 08:16 UTC to the start of the
+safe mode at 2017-02-01 15:06 UTC.
+
+<br>
+
+<h2>Data Quality and Processing Notes</h2>
+
+***Light Curve Quality***
+
+As in previous campaigns, the 6-hour spacecraft roll cycle continues
+to dominate the systematic
+errors in C12 simple aperture photometry light curves. In spite of the sparse
+nature of the C12 field of view, the pipeline CDPP 12th magnitude noise
+benchmark is 20% higher than what was seen in star fields of comparable star
+density (55 ppm in C12 vs 42 ppm in C6 and 47 ppm in C8). The passage of Mars
+most significantly affected CDPP on the channels with the
+direct and ghost images; however, excluding these channels does not lower
+the 12th magnitude CDPP benchmark value. The project is investigating this
+performance change to better understand the change in CDPP as a function
+of magnitude, position, color, etc., and to see if it can be traced
+to a spacecraft, or a pipeline processing change.
+
+The magnitude dependence of CDPP and its distribution over the focal
+plane are shown below. Other CDPP benchmarks can be found in the
+<a href="images/release-notes/c12/c12_bin1.00_sc1.00_CDPP_Summary_17070516.txt">
+table giving 6.5-hr CDPP as a function of magnitude.</a>
+<br>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C12-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>   
+</div>
+<a href="images/release-notes/c12/c12_logg_CDPP_vs_model.png">
+<img src="images/release-notes/c12/c12_logg_CDPP_vs_model.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
+</a>
+</div>
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C12-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
+<a href="images/release-notes/c12/c12_dwarf_CDPP_by_mod_out.png">
+<img src="images/release-notes/c12/c12_dwarf_CDPP_by_mod_out.png" class="img-responsive" alt="CDPP per channel for 12th magnitude dwarfs">
+</a>    
+</div>
+</div>
+
+<br>
+
+<hr>
+
 
 
 # K2 Campaign 11 (**Archived**)
