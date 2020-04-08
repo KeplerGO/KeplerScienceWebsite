@@ -409,7 +409,7 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 
 ***Target With Incomplete FITS Header: EPIC 200233235***
 
-The custom target EPIC 200233235 is missing centroid information and values for the following FITS headers in its target pixel and lightcurve files: RA_OBJ, DEC_OBJ, 1CRVL4, 2CRVL4, 1CRVL5, 2CRVL5, 1CRVL6, 2CRVL6, 1CRVL7, 2CRVL7, 1CRVL8, 2CRVL8, 1CRVL9, 2CRVL9, EXPOSURE, TELAPSE, LIVETIME, TSTART, TSTOP, CRVAL1, and CRVAL2. This was a custom target for which the entire 20x20 pixel stamp was selected as the aperture by the pipeline. As a result there were no background pixels available to compute the centroid information, and thus the values for the listed FITS headers. This issue appears unique to this custom target and no other targets are affected. Users wanting to analyze this target are encourage to create their own lightcurve using software such as the [lightkurve Python package](https://docs.lightkurve.org) or [PyKE software tool suite](http://pyke.keplerscience.org).
+The custom target EPIC 200233235 is missing centroid information and values for the following FITS headers in its target pixel and lightcurve files: RA_OBJ, DEC_OBJ, 1CRVL4, 2CRVL4, 1CRVL5, 2CRVL5, 1CRVL6, 2CRVL6, 1CRVL7, 2CRVL7, 1CRVL8, 2CRVL8, 1CRVL9, 2CRVL9, EXPOSURE, TELAPSE, LIVETIME, TSTART, TSTOP, CRVAL1, and CRVAL2. This was a custom target for which the entire 20x20 pixel stamp was selected as the aperture by the pipeline. As a result there were no background pixels available to compute the centroid information, and thus the values for the listed FITS headers. This issue appears unique to this custom target and no other targets are affected. Users wanting to analyze this target are encourage to create their own lightcurve using software such as the [lightkurve Python package](https://docs.lightkurve.org), [PyKE software tool suite](http://pyke.keplerscience.org), or [other packages](https://archive.stsci.edu/missions-and-data/kepler/related-software-1).
 
 
 <hr>
@@ -1176,22 +1176,12 @@ These release notes are for the C14 data currently available at MAST (Data Relea
 
 ***Galaxies***
 
-The C14 field of view sits at 53º N Galactic latitude in the North Galactic cap.  There are 14,691 galaxies targeted
-in the C14 field of view. 47 of the Galaxies with radii > 40 arcseconds were covered with large circular masks.
-Twelve galaxies were covered with 15x15 pixel square masks. Six galaxies (M95, M96, M105, NGC3384,
+The C14 field of view sits at 53&deg; N Galactic latitude in the North Galactic cap.  There are 14,691 galaxies targeted
+in the C14 field of view.  47 of the Galaxies with radii > 40 arcseconds were covered with large circular masks.
+Twelve galaxies were covered with 15x15 pixel square masks.  Six galaxies (M95, M96, M105, NGC3384,
 NGC3423, NGC3412) were covered by 40x40 pixel square masks consisting of 16 tiles of 10x10 pixel sub-masks.
-The <a href="images/release-notes/c14/ktwoc14_caf.csv">custom aperture file</a> gives the custom EPIC ID for
-each of these masks. *This mapping file has changed format with this release and now includes more information.* The
-six columns, which are populated according to target type are:
 
-1. custom KepId
-2. target type: 1 = star, or quasi-stellar object with an EPIC ID, 2 = engineering data (not used here), 3 = open
-cluster or other large patch of the sky with no individual object, 4 = a central object, but with no EPIC ID,
-5 = Solar System object
-3. the EPIC number, if it exists
-4. RA of the center of the sky patch (type 3), or center of the extended object (type 4)
-5. Declination of the center of the sky patch (type 3), or center of the extended object (type 4)
-6. Object name
+The MAST [K2 Data Search and Retreival Page](http://dx.doi.org/10.17909/t9-6zdf-eh42) has an option to select data by Object Type, including a section for Galaxies, which includes all the large galaxies mentioned above.  The corresponding custom EPIC IDs for the masks can also be found in the [custom aperture file](http://dx.doi.org/10.17909/t9-dw50-3e97) hosted at MAST.
 
 In addition to the many galaxies, a number of <a href ="k2-approved-programs.html#campaign-14">notable targets</a>
 were observed during C14, including Wolf 359, a nearby late M-dwarf.
@@ -1200,43 +1190,29 @@ were observed during C14, including Wolf 359, a nearby late M-dwarf.
 
 ***Pointing and Roll Performance***
 
-The C14 pointing and roll behavior are well within the limits of that seen
-in other K2 campaigns for the majority of the campaign.
+The C14 pointing and roll behavior are well within the limits of that seen in other K2 campaigns for the majority of the campaign.
 The pipeline calculated maximum distance between the
-derived and nominal positions for any target (the "maximum attitude residual", or MAR)
-for C14 is less than 2 pixels, well under the 3-pixel limit accommodated by the aperture halos.
-There were far fewer anomalous thruster firing events in C14 than were seen in recent campaigns.
-
-In order to give the flight system engineers an advanced warning of degradation in the pointing
-as fuel runs low, the on-board fine point fault logging threshold was lowered from ~103 arcseconds
-(0.0005 radians) to ~62 arcseconds (0.0003 radians) on 2017-07-14, mid-way through C14. While
-this change does not affect pointing performance, it did have the unintended effect of flagging
-more cadences as "Spacecraft is not in fine point" (QUALITY flag bit #16, decimal=32768), which
-the pipeline then gaps. The result of this threshold change is that there are 129 long cadences gapped
-as not-in-fine-point in C14 versus 48 in C13, with the majority of these falling in the second half of C14,
-after the threshold change. The not-in-fine-point cadences have calibrated pixels in the archive TPFs,
-but no flux values in the light curve files.
-
-The project has identified a workaround for the flagging resulting from this changed threshold and has
-implemented it for future processing starting with C15.
+derived and nominal positions for any target (the "maximum attitude residual", or MAR) for C14 is less than 1.8 pixels, well under the 3-pixel limit accommodated by the aperture halos.  There were far fewer anomalous thruster firing events in C14 than were seen in other campaigns.
 
 <div class="thumbnail" style="width: 49%;display: inline-block;">
 <div class="caption">
 <i>Figure C14-Roll-Error: the roll-error between the photometrically derived attitude (PAD) and the nominal pointing plotted against time for C14.</i>
+</div>
 <a href="images/release-notes/c14/c14_pad_pdq_attitude_roll_dr40.png">
 <img src="images/release-notes/c14/c14_pad_pdq_attitude_roll_dr40.png" class="img-responsive" alt="Pipeline measured roll error for C14.">
 </a>
 </div>
-</div>
+
 
 <div class="thumbnail" style="width: 49%;display: inline-block;">
 <div class="caption">
 <i>Figure C14-MAR: the maximum distance between the photometrically derived attitude (PAD) and the nominal position plotted against time for C14.</i>
+</div>
 <a href="images/release-notes/c14/c14_pad_pdq_attitude_mar_dr40.png">
 <img src="images/release-notes/c14/c14_pad_pdq_attitude_mar_dr40.png" class="img-responsive" alt="Maximum residual of the C14 attitude measured with PAD and PDQ.">
 </a>
 </div>
-</div>
+
 
 <br>
 
@@ -1244,21 +1220,16 @@ implemented it for future processing starting with C15.
 
 ***Light Curve Quality***
 
-As in previous campaigns, the 6-hour spacecraft roll cycle continues
-to dominate the systematic
-errors in C14 simple aperture photometry light curves.
-The pipeline CDPP 12th magnitude noise benchmark for C14 is
-the lowest seen since C6. It is comparable to that seen in early campaigns with similar
-star density (C6, C8, C10), but is well below that seen in C12, also with similar star density.
-We do not have a definitive cause the for the improved precision, but it could be in part due
-to the relatively low star density and the return to more stable pointing (compared to recent
-campaigns).
+As in other campaigns, the 6-hour spacecraft roll cycle dominates the systematic errors in C14 simple aperture photometry light curves.
+The pipeline CDPP 12th magnitude noise benchmark for C14 (DR40) is comparable to that seen in other campaigns with similar star density.
 
 The magnitude dependence of CDPP and its distribution over the focal
 plane are shown below. Other CDPP benchmarks can be found in the
 <a href="images/release-notes/c14/c14_bin1.00_sc1.00_CDPP_Summary_20031320.txt">
 table giving 6.5-hr CDPP as a function of magnitude.</a>
+
 <br>
+
 <div class="thumbnail" style="width: 90%;">
 <div class="caption">
 <i>Figure C14-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>
@@ -1267,6 +1238,7 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 <img src="images/release-notes/c14/c14_logg_CDPP_vs_model_dr40.png" class="img-responsive" alt="CDPP measured for all targets as a function of Kepler magnitude.">
 </a>
 </div>
+
 <div class="thumbnail" style="width: 90%;">
 <div class="caption">
 <i>Figure C14-CDPP FocalPlane: 6.5-hr CDPP measured as a function of position on the focal plane, for 12th and 14th magnitude dwarf stars. The photometric precision is generally better near the center of the focal plane where the variations in roll angle produce less pixel motion. All cadences coincident with a definite thruster firing are gapped.</i>
@@ -1278,11 +1250,33 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 
 <br>
 
-***Targets Missing from the Archive***
+***No Lightcurve Files for Wolf 359***
 
-Pipeline errors during the process of exporting the light curve (LCV) and
-target pixel (TP) FITS files resulted in two targets (EPIC IDs 248463890 and 248463977)
-from C14 having no LCV or TPF files at the archive.
+Due to an error in pipeline configuration for the data release 40 processing, the proper motion of Wolf 359 (~4.7 arcseconds/yr, or >1 Kepler pixel per year) was not taken into account.  As a result, there was no optimal aperture generated for the target, and thus no long- or short-cadence lightcurve files were produced.  The target pixel files, aside from not having any pixels identified as belonging to an optimal aperture, were not affected.
+
+Users are encouraged to create their own lightcurves for this object from target pixel files using software such as the [lightkurve Python package](https://docs.lightkurve.org), [PyKE software tool suite](http://pyke.keplerscience.org), or [other packages](https://archive.stsci.edu/missions-and-data/kepler/related-software-1).
+
+<br>
+
+***Improper Smear Correction for Channel 74***
+
+For data release 40, channel 74 in campaign 14 had an improper smear correction that results in an additive effect at the pixel-level, with two step-wise discontinuities.
+
+The cause of this improper correction appears to be unexpected behavior from the Dynablack pixel-level calibration algorithim (<a href="k2-uniform-global-reprocessing-underway.html">see news post here</a>) that was used for data release 40.  Outliers unique to this channel and campaign caused Dynablack to improperly bias-correct the smear calibration region, which in turn led to an improper smear correction for the entire channel.
+
+As shown in Figure C14-DR40-Smear, this results in an additive effect of ~5E4 electrons per cadence per pixel, with a step discontinuity at cadences ~510 and ~2600 (MJD ~57905 and ~57958) of an extra ~1.5E4 electrons per cadence per pixel.  The discontinuities correspond to when the spacecraft crossed the roll pointing zero-points.  This effect is for every pixel in channel 74.  As it is an additive effect, only faint targets should be significantly affected, depending on the number of pixels used for the photometric aperture relative to the target's flux.  Users are cautioned to be aware of this effect when interpreting any signals for their science.
+
+Note that, at some level, this effect influences the creation of the CBVs for all channels in the same PDC unit of work as channel 74 (channels 73&ndash;84).  If the CBVs have this signal present, then all PDC lightcurves for all targets on those channels could have it present.  However, inspection of PDC lightcurves on these channels did not reveal any significantly visible effect, and thus users should not have to worry about this signal being present in lightcurves for channels other than 74.
+
+<div class="thumbnail" style="width: 90%;">
+<div class="caption">
+<i>Figure C14-DR40-Smear: The measured smear signal per-channel for Campaign 14, Data Release 40.  The smear correction for channel 74 is noticeably out of family, off by ~5E4 electrons per cadence per pixel, with a step discontinuity at cadences ~510 and ~2600 (MJD ~57905 and ~57958) of an extra ~1.5E4 electrons per cadence per pixel, when the spacecraft crossed the roll zero-points.</i>
+<a href="images/release-notes/c14/C14R-PAD-Smear-Level.png">
+<img src="images/release-notes/c14/C14R-PAD-Smear-Level.png" class="img-responsive" alt="Smear level per channel for C14 DR40">
+</a>
+</div>
+</div>
+
 
 <br>
 
@@ -2109,7 +2103,7 @@ The target EPIC 200147465 (36 Ophiuchi; a bright, nearby triple star system) fai
 
 ***Targets With Incomplete FITS Header***
 
-There are 13 custom targets in C11a and 3 in C11b (see list below) that are missing centroid information and values for the following FITS headers in thier target pixel and lightcurve files: RA_OBJ, DEC_OBJ, 1CRVL4, 2CRVL4, 1CRVL5, 2CRVL5, 1CRVL6, 2CRVL6, 1CRVL7, 2CRVL7, 1CRVL8, 2CRVL8, 1CRVL9, 2CRVL9, EXPOSURE, TELAPSE, LIVETIME, TSTART, TSTOP, CRVAL1, and CRVAL2. This situation typically for a very small fraction of custom targets, where the entire pixel stamp is erroneously selected as the aperture. As a result there are no background pixels available to compute the centroid information, and thus the values for the listed FITS headers. Users wanting to analyze this target are encouraged to create their own lightcurve using software such as the [lightkurve Python package](https://docs.lightkurve.org) or [PyKE software tool suite](http://pyke.keplerscience.org).
+There are 13 custom targets in C11a and 3 in C11b (see list below) that are missing centroid information and values for the following FITS headers in thier target pixel and lightcurve files: RA_OBJ, DEC_OBJ, 1CRVL4, 2CRVL4, 1CRVL5, 2CRVL5, 1CRVL6, 2CRVL6, 1CRVL7, 2CRVL7, 1CRVL8, 2CRVL8, 1CRVL9, 2CRVL9, EXPOSURE, TELAPSE, LIVETIME, TSTART, TSTOP, CRVAL1, and CRVAL2. This situation typically for a very small fraction of custom targets, where the entire pixel stamp is erroneously selected as the aperture. As a result there are no background pixels available to compute the centroid information, and thus the values for the listed FITS headers. Users wanting to analyze this target are encouraged to create their own lightcurve using software such as the [lightkurve Python package](https://docs.lightkurve.org), [PyKE software tool suite](http://pyke.keplerscience.org), or [other packages](https://archive.stsci.edu/missions-and-data/kepler/related-software-1).
 
 The list of the affected targets are:
 
@@ -3018,6 +3012,7 @@ plane are shown below. Other CDPP benchmarks can be found in the
 table giving 6.5-hr CDPP as a function of magnitude.</a>
 
 <br>
+
 <div class="thumbnail" style="width: 90%;">
 <div class="caption">
 <i>Figure C8-CDPP: 6.5-hr CDPP measurements for all targets as a function of Kepler magnitude. Dim targets have poorer overall photometric precision than bright targets, but can look better because the residual sawtooth falls below the noise floor. The saturated targets tend to have the lowest CDPP, but often show a residual sawtooth. </i>
@@ -4695,7 +4690,7 @@ Campaign 0 (C0) was implemented as a full-length engineering test to prove that 
 
 ***Large Pixel Masks***
 
-When planning C0 observations, the pointing performance of K2 was not yet accurately known. The worst case scenario was that a star at the edge of the focal plane could move as much as 40" from its nominal position. Therefore each star was assigned a large pixel mask by first computing a Kepler-style optimal aperture and then adding 10 rings of pixels to account for a potential 40" pointing offset. (Later campaigns only added 2 &ndash; 4 rings of pixels.) Care will be needed when performing photometry on C0 data &mdash; simply including all collected pixels for a given target will not create a high signal-to-noise light curve. For tools to help choose your photometric aperture, see for example the [lightkurve Python package](https://docs.lightkurve.org) and [PyKE software tool suite](http://pyke.keplerscience.org).
+When planning C0 observations, the pointing performance of K2 was not yet accurately known. The worst case scenario was that a star at the edge of the focal plane could move as much as 40" from its nominal position. Therefore each star was assigned a large pixel mask by first computing a Kepler-style optimal aperture and then adding 10 rings of pixels to account for a potential 40" pointing offset. (Later campaigns only added 2 &ndash; 4 rings of pixels.) Care will be needed when performing photometry on C0 data &mdash; simply including all collected pixels for a given target will not create a high signal-to-noise light curve. For tools to help choose your photometric aperture, see for example the [lightkurve Python package](https://docs.lightkurve.org), [PyKE software tool suite](http://pyke.keplerscience.org), or [other packages](https://archive.stsci.edu/missions-and-data/kepler/related-software-1).
 
 <br>
 
@@ -4820,7 +4815,7 @@ Since the necessary pixels were not collected in C0, note there are no artifact 
 
 ***48 Targets Without Lightcurves***
 
-The following 48 targets do not have associated lightcurve files, because the pipeline was unable to find a suitable photometric aperture for these targets. In general they are non-standard targets, such as clusters or very bright objects, or there is no significant flux at the target position. Users are encouraged to create their own lightcurves for these objects from the existing target pixel files using software such as [lightkurve Python package](https://docs.lightkurve.org), [PyKE software tool suite](http://pyke.keplerscience.org), or [other packages](software.html).
+The following 48 targets do not have associated lightcurve files, because the pipeline was unable to find a suitable photometric aperture for these targets. In general they are non-standard targets, such as clusters or very bright objects, or there is no significant flux at the target position. Users are encouraged to create their own lightcurves for these objects from the existing target pixel files using software such as [lightkurve Python package](https://docs.lightkurve.org), [PyKE software tool suite](http://pyke.keplerscience.org), or [other packages](https://archive.stsci.edu/missions-and-data/kepler/related-software-1).
 
 
 202060164&emsp;&emsp;202060210&emsp;&emsp;202060421&emsp;&emsp;202060813&emsp;&emsp;202065115&emsp;&emsp;202065116<br>
@@ -4846,7 +4841,7 @@ The reduced WCS quality compared to other campaigns also applies to the full fra
 
 ***Potentially Poor Apertures in Channel 45 (14.1)***
 
-A significant number of targets on channel 45 had sub-optimal apertures selected by the pipeline, and as a result the lightcurve quality will be poorer than other channels. Users with targets on this channel are encouraged to inspect the aperture selected by the pipeline (using the target pixel files) before using the lightcurves for science, and/or select a custom aperture and produce new lightcurves using tools such as the [lightkurve Python package](https://docs.lightkurve.org) or [PyKE software tool suite](http://pyke.keplerscience.org).
+A significant number of targets on channel 45 had sub-optimal apertures selected by the pipeline, and as a result the lightcurve quality will be poorer than other channels. Users with targets on this channel are encouraged to inspect the aperture selected by the pipeline (using the target pixel files) before using the lightcurves for science, and/or select a custom aperture and produce new lightcurves using tools such as the [lightkurve Python package](https://docs.lightkurve.org), [PyKE software tool suite](http://pyke.keplerscience.org), or [other packages](https://archive.stsci.edu/missions-and-data/kepler/related-software-1).
 
 <br>
 
