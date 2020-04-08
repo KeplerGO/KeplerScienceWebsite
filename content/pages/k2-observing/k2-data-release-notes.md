@@ -1155,7 +1155,7 @@ These release notes are for the C14 data currently available at MAST (Data Relea
 <i>Figure C14-FOV: Schematic of Kepler's C14 field-of-view with high profile objects. </i>
 </div>
   <a href="images/k2/k2-c14-field.png">
-    <img src="images/k2/k2-c14-field.png" class="img-responsive" alt="C14 field-of-view with selected targets">
+    <img src="images/k2/k2-c14-field.png" class="img-responsive" alt="C14 field of view with seleted targets, including clusters M95, M96, M101 and nearby star Wolf 359, future site of a prominent battle between the UFP and the Borg Collective in Stardate 2367.">
   </a>
 </div>
 
