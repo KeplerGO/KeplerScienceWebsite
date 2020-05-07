@@ -1104,7 +1104,7 @@ These release notes are for the C14 data currently available at MAST (Data Relea
 
 <b><i>Targets With Data Available at MAST</i></b>
 <ul>
-<li>39,024 EPIC IDs in long cadence (LC).</li>
+<li>39,026 EPIC IDs in long cadence (LC).</li>
 <li>147 EPIC IDs in short cadence (LC).</li>
 <li>42 moving objects were tiled with LC custom strip apertures. 7 bright stars were assigned 24-pixel diameter LC disk apertures to capture the point spread function wings. See the <a href="images/release-notes/c14/ktwoc14_caf.csv">csv file that maps</a> the custom aperture number to the target name to find the apertures for a specific target.</li>
 </ul>
@@ -4710,7 +4710,7 @@ C0 was the first full-length campaign observed by K2, and as such testing and re
 Based on the pointing history, and known complications in processing data with large coarse pointing regions and data gaps, **while the entire C0 cadence range was processed by CAL (pixel calibration) and PA (simple aperture lightcurves), only long cadences 89407 &ndash; 91186 (and the corresponding short cadence range 2670670 &ndash; 2724069) were processed by PDC (systematic detrended lightcurves).** This corresponds to the ~37 days of fine point data at the end of the campaign.
 
 During these ~37 days, examining Figure C0-MAR, the pipeline-calculated maximum distance between the derived and nominal positions for any target (the "maximum attitude residual", or MAR)
-for C18 is less than 2.1 pixels, substantially under the 10-pixel limit accommodated by the aperture halos. (Note that long cadences 89407 &ndash; 89410 are flagged using QUALITY flag bit #3 to indicate significant pointing excursions, despite the spacecraft technically being in fine point, and users may wish to discard them.)
+for C0 is less than 2.1 pixels, substantially under the 10-pixel limit accommodated by the aperture halos. (Note that long cadences 89407 &ndash; 89410 are flagged using QUALITY flag bit #3 to indicate significant pointing excursions, despite the spacecraft technically being in fine point, and users may wish to discard them.)
 
 
 <div class="thumbnail" style="width: 48.75%;display: inline-block;">
