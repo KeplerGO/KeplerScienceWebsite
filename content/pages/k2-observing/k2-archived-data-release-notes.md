@@ -199,6 +199,14 @@ from C14 having no LCV or TPF files at the archive.
 
 <br>
 
+***Missing CDPP Values for 50% of Non-Custom Targets***
+
+The Kepler/K2 pipeline computes values for the Combined Differential Photometric Precision (CDPP; Christiansen et al. 2012) for the lightcurves it produces for non-custom targets.  In K2, the CDPP was computed for 3, 6, and 12 hour durations &mdash; CDPP is effectively a measure of the noise level of a lightcurve on those timescales.  Normally these three CDPP values are given in the FITS header of the target pixel and lightcurve FITS files as CDPP3_0, CDPP6_0, and CDPP12_0.
+
+For this data release, due to a combination of a pipeline bug and setting in how the FITS files were created, 50% of non-custom targets have blank values for their CDPP values in both their target-pixel and lightcurve FITS files. (Note that custom targets never have CDPP computed.)
+
+
+<br>
 
 <hr>
 

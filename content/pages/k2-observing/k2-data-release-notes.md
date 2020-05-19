@@ -230,6 +230,14 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 </div>
 </div>
 
+<br>
+
+***Missing CDPP Values for 50% of Non-Custom Targets***
+
+The Kepler/K2 pipeline computes values for the Combined Differential Photometric Precision (CDPP; Christiansen et al. 2012) for the lightcurves it produces for non-custom targets.  In K2, the CDPP was computed for 3, 6, and 12 hour durations &mdash; CDPP is effectively a measure of the noise level of a lightcurve on those timescales.  Normally these three CDPP values are given in the FITS header of the target pixel and lightcurve FITS files as CDPP3_0, CDPP6_0, and CDPP12_0.
+
+For this data release, due to a combination of a pipeline bug and setting in how the FITS files were created, 50% of non-custom targets have blank values for their CDPP values in both their target-pixel and lightcurve FITS files. (Note that custom targets never have CDPP computed.)
+
 
 <hr>
 
@@ -410,6 +418,14 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 ***Target With Incomplete FITS Header: EPIC 200233235***
 
 The custom target EPIC 200233235 is missing centroid information and values for the following FITS headers in its target pixel and lightcurve files: RA_OBJ, DEC_OBJ, 1CRVL4, 2CRVL4, 1CRVL5, 2CRVL5, 1CRVL6, 2CRVL6, 1CRVL7, 2CRVL7, 1CRVL8, 2CRVL8, 1CRVL9, 2CRVL9, EXPOSURE, TELAPSE, LIVETIME, TSTART, TSTOP, CRVAL1, and CRVAL2. This was a custom target for which the entire 20x20 pixel stamp was selected as the aperture by the pipeline. As a result there were no background pixels available to compute the centroid information, and thus the values for the listed FITS headers. This issue appears unique to this custom target and no other targets are affected. Users wanting to analyze this target are encourage to create their own lightcurve using software such as the [lightkurve Python package](https://docs.lightkurve.org), [PyKE software tool suite](http://pyke.keplerscience.org), or [other packages](https://archive.stsci.edu/missions-and-data/kepler/related-software-1).
+
+<br>
+
+***Missing CDPP Values for 50% of Non-Custom Targets***
+
+The Kepler/K2 pipeline computes values for the Combined Differential Photometric Precision (CDPP; Christiansen et al. 2012) for the lightcurves it produces for non-custom targets.  In K2, the CDPP was computed for 3, 6, and 12 hour durations &mdash; CDPP is effectively a measure of the noise level of a lightcurve on those timescales.  Normally these three CDPP values are given in the FITS header of the target pixel and lightcurve FITS files as CDPP3_0, CDPP6_0, and CDPP12_0.
+
+For this data release, due to a combination of a pipeline bug and setting in how the FITS files were created, 50% of non-custom targets have blank values for their CDPP values in both their target-pixel and lightcurve FITS files. (Note that custom targets never have CDPP computed.)
 
 
 <hr>
@@ -592,6 +608,14 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 </a>
 </div>
 
+<br>
+
+***Missing CDPP Values for 50% of Non-Custom Targets***
+
+The Kepler/K2 pipeline computes values for the Combined Differential Photometric Precision (CDPP; Christiansen et al. 2012) for the lightcurves it produces for non-custom targets.  In K2, the CDPP was computed for 3, 6, and 12 hour durations &mdash; CDPP is effectively a measure of the noise level of a lightcurve on those timescales.  Normally these three CDPP values are given in the FITS header of the target pixel and lightcurve FITS files as CDPP3_0, CDPP6_0, and CDPP12_0.
+
+For this data release, due to a combination of a pipeline bug and setting in how the FITS files were created, 50% of non-custom targets have blank values for their CDPP values in both their target-pixel and lightcurve FITS files. (Note that custom targets never have CDPP computed.)
+
 
 <hr>
 
@@ -688,7 +712,7 @@ Earth in their data during the first three days of the campaign.
 
 <div class="thumbnail" style="width: 100%;display: inline-block;">
 <div class="caption">
-<i>Figure C16 Earth-at-LC: Earth was on the focal planet at the start of C16 on channel 67
+<i>Figure C16 Earth-at-LC: Earth was on the focal plane at the start of C16 on channel 67
 and then passed through channels 82 and 83 before moving off the focal plane.
 The saturated image of Earth is seen here passing through the LC target pixel apertures
 on channel 82 (left) and 83 (right) in just over three days (~160 cadences).
@@ -816,6 +840,15 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 ***Short-Cadence Target With no PDC Flux***
 
 The target HD 76333 (EPIC 200200727), a nearby high proper-motion F3V star, failed short-cadence PDC processing due to it being a custom target and the only target on its channel. The short-cadence light curve file includes the (nominal and unaffected) SAP flux, but the PDC_SAP flux is all zeros. Note that the long-cadence data for this target is unaffected and is nominal.
+
+<br>
+
+***Missing CDPP Values for 50% of Non-Custom Targets***
+
+The Kepler/K2 pipeline computes values for the Combined Differential Photometric Precision (CDPP; Christiansen et al. 2012) for the lightcurves it produces for non-custom targets.  In K2, the CDPP was computed for 3, 6, and 12 hour durations &mdash; CDPP is effectively a measure of the noise level of a lightcurve on those timescales.  Normally these three CDPP values are given in the FITS header of the target pixel and lightcurve FITS files as CDPP3_0, CDPP6_0, and CDPP12_0.
+
+For this data release, due to a combination of a pipeline bug and setting in how the FITS files were created, 50% of non-custom targets have blank values for their CDPP values in both their target-pixel and lightcurve FITS files. (Note that custom targets never have CDPP computed.)
+
 
 <hr>
 
@@ -1081,6 +1114,15 @@ Starting with C15, short-cadence light curves are now produced and available at 
 </a>
 </div>
 </div>
+
+<br>
+
+***Missing CDPP Values for 50% of Non-Custom Targets***
+
+The Kepler/K2 pipeline computes values for the Combined Differential Photometric Precision (CDPP; Christiansen et al. 2012) for the lightcurves it produces for non-custom targets.  In K2, the CDPP was computed for 3, 6, and 12 hour durations &mdash; CDPP is effectively a measure of the noise level of a lightcurve on those timescales.  Normally these three CDPP values are given in the FITS header of the target pixel and lightcurve FITS files as CDPP3_0, CDPP6_0, and CDPP12_0.
+
+For this data release, due to a combination of a pipeline bug and setting in how the FITS files were created, 50% of non-custom targets have blank values for their CDPP values in both their target-pixel and lightcurve FITS files. (Note that custom targets never have CDPP computed.)
+
 
 <hr>
 
@@ -1454,6 +1496,13 @@ The following four targets failed short-cadence PDC processing due to them being
 <li>200173885
 </ul>
 
+<br>
+
+***Missing CDPP Values for 50% of Non-Custom Targets***
+
+The Kepler/K2 pipeline computes values for the Combined Differential Photometric Precision (CDPP; Christiansen et al. 2012) for the lightcurves it produces for non-custom targets.  In K2, the CDPP was computed for 3, 6, and 12 hour durations &mdash; CDPP is effectively a measure of the noise level of a lightcurve on those timescales.  Normally these three CDPP values are given in the FITS header of the target pixel and lightcurve FITS files as CDPP3_0, CDPP6_0, and CDPP12_0.
+
+For this data release, due to a combination of a pipeline bug and setting in how the FITS files were created, 50% of non-custom targets have blank values for their CDPP values in both their target-pixel and lightcurve FITS files. (Note that custom targets never have CDPP computed.)
 
 
 <br>
@@ -2190,6 +2239,15 @@ columns for C11a and C11b</i>
 During the last three days of C11b the detector experienced a large number of parity errors coming from the photometer's local detector electronics (LDE). These LDE parity errors can occur when a very bright object saturates and spills charge into the CCD serial readout register, causing an overflow at the input to the analog-to-digital converter. The LDE parity errors were likely caused by the image of Saturn on the focal plane. These errors do not affect the quality of data from pixels on the active focal plane, and the pipeline as run in this most recent processing does ***not*** discard data based on this flag.
 
 The LDE parity error triggers a flag (bit 15, decimal=16384) in the QUALITY column of the target pixel files. Most of the cadences from long cadence number 136276 (2016-12-4 00:58 UTC) to LC 136426 (2016-12-7 02:32 UTC) have the parity error flag set.
+
+<br>
+
+***Missing CDPP Values for 50% of Non-Custom Targets***
+
+The Kepler/K2 pipeline computes values for the Combined Differential Photometric Precision (CDPP; Christiansen et al. 2012) for the lightcurves it produces for non-custom targets.  In K2, the CDPP was computed for 3, 6, and 12 hour durations &mdash; CDPP is effectively a measure of the noise level of a lightcurve on those timescales.  Normally these three CDPP values are given in the FITS header of the target pixel and lightcurve FITS files as CDPP3_0, CDPP6_0, and CDPP12_0.
+
+For this data release, due to a combination of a pipeline bug and setting in how the FITS files were created, 50% of non-custom targets have blank values for their CDPP values in both their target-pixel and lightcurve FITS files. (Note that custom targets never have CDPP computed.)
+
 
 <hr>
 
@@ -3699,6 +3757,15 @@ Due to a processing error in <a href="k2-pipeline-release-notes.html#data-releas
 
 <br>
 
+***Missing CDPP Values for 50% of Non-Custom Targets***
+
+The Kepler/K2 pipeline computes values for the Combined Differential Photometric Precision (CDPP; Christiansen et al. 2012) for the lightcurves it produces for non-custom targets.  In K2, the CDPP was computed for 3, 6, and 12 hour durations &mdash; CDPP is effectively a measure of the noise level of a lightcurve on those timescales.  Normally these three CDPP values are given in the FITS header of the target pixel and lightcurve FITS files as CDPP3_0, CDPP6_0, and CDPP12_0.
+
+For this data release, due to a combination of a pipeline bug and setting in how the FITS files were created, 50% of non-custom targets have blank values for their CDPP values in both their target-pixel and lightcurve FITS files. (Note that custom targets never have CDPP computed.)
+
+
+<br>
+
 
 <!--
 
@@ -4163,6 +4230,15 @@ Due to a processing error in <a href="k2-pipeline-release-notes.html#data-releas
 
 <br>
 
+***Missing CDPP Values for 50% of Non-Custom Targets***
+
+The Kepler/K2 pipeline computes values for the Combined Differential Photometric Precision (CDPP; Christiansen et al. 2012) for the lightcurves it produces for non-custom targets.  In K2, the CDPP was computed for 3, 6, and 12 hour durations &mdash; CDPP is effectively a measure of the noise level of a lightcurve on those timescales.  Normally these three CDPP values are given in the FITS header of the target pixel and lightcurve FITS files as CDPP3_0, CDPP6_0, and CDPP12_0.
+
+For this data release, due to a combination of a pipeline bug and setting in how the FITS files were created, 50% of non-custom targets have blank values for their CDPP values in both their target-pixel and lightcurve FITS files. (Note that custom targets never have CDPP computed.)
+
+
+<br>
+
 <hr>
 
 
@@ -4400,6 +4476,15 @@ During the latter half of C2 a large number of 'parity errors' were observed fro
 The LDE parity error triggers a flag (bit 15, decimal=16384) in the QUALITY column of the target pixel files. This flag is set for the majority of cadences in the second half of the campaign.
 
 Note that the pipeline does not utilize the LDE parity flag and thus the delivered data is unaffected by this flagging &mdash; it is mentioned here for users who may do their own processing and it is recommended that cadences with this flag set are not discarded as they contain good quality data.
+
+<br>
+
+***Missing CDPP Values for 50% of Non-Custom Targets***
+
+The Kepler/K2 pipeline computes values for the Combined Differential Photometric Precision (CDPP; Christiansen et al. 2012) for the lightcurves it produces for non-custom targets.  In K2, the CDPP was computed for 3, 6, and 12 hour durations &mdash; CDPP is effectively a measure of the noise level of a lightcurve on those timescales.  Normally these three CDPP values are given in the FITS header of the target pixel and lightcurve FITS files as CDPP3_0, CDPP6_0, and CDPP12_0.
+
+For this data release, due to a combination of a pipeline bug and setting in how the FITS files were created, 50% of non-custom targets have blank values for their CDPP values in both their target-pixel and lightcurve FITS files. (Note that custom targets never have CDPP computed.)
+
 
 <br>
 
@@ -4880,6 +4965,15 @@ table giving 6.5-hr CDPP as a function of magnitude.</a>
 <img src="images/release-notes/c0/c0_dwarf_CDPP_by_mod_out_dr28.png" class="img-responsive" alt="CDPP per channel for 12th and 14th magnitude dwarfs">
 </a>
 </div>
+
+<br>
+
+***Missing CDPP Values for 50% of Non-Custom Targets***
+
+The Kepler/K2 pipeline computes values for the Combined Differential Photometric Precision (CDPP; Christiansen et al. 2012) for the lightcurves it produces for non-custom targets.  In K2, the CDPP was computed for 3, 6, and 12 hour durations &mdash; CDPP is effectively a measure of the noise level of a lightcurve on those timescales.  Normally these three CDPP values are given in the FITS header of the target pixel and lightcurve FITS files as CDPP3_0, CDPP6_0, and CDPP12_0.
+
+For this data release, due to a combination of a pipeline bug and setting in how the FITS files were created, 50% of non-custom targets have blank values for their CDPP values in both their target-pixel and lightcurve FITS files. (Note that custom targets never have CDPP computed.)
+
 
 <br>
 
