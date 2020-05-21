@@ -2781,6 +2781,13 @@ Other CDPP benchmarks can be found in the
 
 <br>
 
+***FFI Interpolation Bug***
+
+This data release was affected by a minor bug in the pipeline, which was then corrected for subsequent data releases.  When a K2 campaign has more than one Full-Frame Image, the Kepler pipeline interpolates data between those FFIs, and extrapolates before and after each, to account for variations over time when calibrating the pixel-level data.  A bug was discovered where FFIs from later campaigns were used to interpolate for calibration of the current campaign.  This bug affected the pixel-level data, and thus lightcurves as well.  Since there are usually two FFIs per campaign, taken ~1/3 and ~2/3 the way through a given campaign, for the last ~1/3 of a campaign the interpolation was between the last FFI of the current campaign and the first FFI of the next campaign (which has, by definition, a different field-of-view).  Thus, the latest cadences of the campaign are affected the most by this bug.  The exact impact of the effect is not known, but is thought to be small given that the FFI data are only used to supplement the undershoot correction (see §6.6 of the [Kepler Instrument Handbook](http://dx.doi.org/10.17909/t9-2btd-va80)) in calibration and the interpolation will weight the FFI values towards the correct campaign.
+
+
+<br>
+
 <hr>
 
 
