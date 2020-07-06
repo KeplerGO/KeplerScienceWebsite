@@ -4,6 +4,26 @@ Save_as: kpub-astrophysics-by-month.html
 [TOC]
 
 
+2020-07
+-------
+
+1. [LIGHT CURVES OF TEN CENTAURS FROM K2 MEASUREMENTS](http://adsabs.harvard.edu/abs/2020Icar..34513721M)  
+Marton, Gábor, Kiss, Csaba, Molnár, László, et al.    
+2020, refereed ([2020Icar..34513721M](http://adsabs.harvard.edu/abs/2020Icar..34513721M))  
+
+2. [UNDERSTANDING THE ROTATIONAL VARIABILITY OF K2 TARGETS. HGMN STAR KIC 250152017 AND BLUE HORIZONTAL BRANCH STAR KIC 249660366](http://adsabs.harvard.edu/abs/2020A&A...639A...8K)  
+Krtička, J., Kawka, A., Mikulášek, Z., et al.    
+2020, refereed ([2020A&A...639A...8K](http://adsabs.harvard.edu/abs/2020A&A...639A...8K))  
+
+3. [BEYOND GAIA: ASTEROSEISMIC DISTANCES OF M GIANTS USING GROUND-BASED TRANSIENT SURVEYS](http://adsabs.harvard.edu/abs/2020AJ....160...18A)  
+Auge, Connor, Huber, Daniel, Heinze, Aren, et al.    
+2020, refereed ([2020AJ....160...18A](http://adsabs.harvard.edu/abs/2020AJ....160...18A))  
+
+4. [10 YEARS OF STELLAR ACTIVITY FOR GJ 1243](http://adsabs.harvard.edu/abs/2020AJ....160...36D)  
+Davenport, James. R. A., Mendoza, Guadalupe Tovar, Hawley, Suzanne L.    
+2020, refereed ([2020AJ....160...36D](http://adsabs.harvard.edu/abs/2020AJ....160...36D))  
+
+
 2020-06
 -------
 
@@ -42,6 +62,58 @@ Scholz, Aleks, Froebrich, Dirk, Muzic, Koraljka, et al.
 9. [STAR FORMATION TIMESCALES OF THE HALO POPULATIONS FROM ASTEROSEISMOLOGY AND CHEMICAL ABUNDANCES](http://adsabs.harvard.edu/abs/2020arXiv200603619M)  
 Matsuno, Tadafumi, Aoki, Wako, Casagrande, Luca, et al.    
 2020, not refereed ([2020arXiv200603619M](http://adsabs.harvard.edu/abs/2020arXiv200603619M))  
+
+10. [RELATION OF X-RAY ACTIVITY AND ROTATION IN M DWARFS AND PREDICTED TIME-EVOLUTION OF THE X-RAY LUMINOSITY](http://adsabs.harvard.edu/abs/2020A&A...638A..20M)  
+Magaudda, E., Stelzer, B., Covey, K. R., et al.    
+2020, refereed ([2020A&A...638A..20M](http://adsabs.harvard.edu/abs/2020A&A...638A..20M))  
+
+11. [KIC 8975515: A FAST-ROTATING (Γ DOR - Δ SCT) HYBRID STAR WITH ROSSBY MODES AND A SLOWER Δ SCT COMPANION IN A LONG-PERIOD ORBIT](http://adsabs.harvard.edu/abs/2020A&A...638A..57S)  
+Samadi-Ghadim, A., Lampens, P., Jassur, D. M., et al.    
+2020, refereed ([2020A&A...638A..57S](http://adsabs.harvard.edu/abs/2020A&A...638A..57S))  
+
+12. [K2: BACKGROUND SURVEY -- THE SEARCH FOR UNDISCOVERED TRANSIENTS IN KEPLER/K2 DATA](http://adsabs.harvard.edu/abs/2020arXiv200615045R)  
+Ridden-Harper, R., Tucker, B. E., Gully-Santiago, M., et al.    
+2020, not refereed ([2020arXiv200615045R](http://adsabs.harvard.edu/abs/2020arXiv200615045R))  
+
+13. [TIDAL ASTEROSEISMOLOGY: POSSIBLE EVIDENCE OF NONLINEAR MODE COUPLING IN AN EQUILIBRIUM STATE IN KEPLER ECLIPSING BINARY KIC 3230227](http://adsabs.harvard.edu/abs/2020ApJ...896..161G)  
+Guo, Zhao    
+2020, refereed ([2020ApJ...896..161G](http://adsabs.harvard.edu/abs/2020ApJ...896..161G))  
+
+14. [ROTATION OF KEPLER FIELD DWARFS AND SUB GIANTS: SPECTROSCOPIC $V \SIN I$ FROM APOGEE](http://adsabs.harvard.edu/abs/2020arXiv200614642S)  
+Simonian, Gregory V. A., Pinsonneault, Marc H., Terndrup, Donald M., et al.    
+2020, not refereed ([2020arXiv200614642S](http://adsabs.harvard.edu/abs/2020arXiv200614642S))  
+
+15. [WHITE-DWARF ASTEROSEISMOLOGY WITH THE KEPLER SPACE TELESCOPE](http://adsabs.harvard.edu/abs/2020arXiv200604955C)  
+Córsico, Alejandro H.    
+2020, not refereed ([2020arXiv200604955C](http://adsabs.harvard.edu/abs/2020arXiv200604955C))  
+
+16. [ROTATION OF SOLAR ANALOGS CROSS-MATCHING KEPLER AND GAIA DR2](http://adsabs.harvard.edu/abs/2020arXiv200606204D)  
+do Nascimento, Jose-Dias, Jr, de Almeida, Leandro, Nunes Velloso, Eduardo, et al.    
+2020, not refereed ([2020arXiv200606204D](http://adsabs.harvard.edu/abs/2020arXiv200606204D))  
+
+17. [EVRYSCOPE AND K2 CONSTRAINTS ON TRAPPIST-1 SUPERFLARE OCCURRENCE AND PLANETARY HABITABILITY](http://adsabs.harvard.edu/abs/2020arXiv200614712G)  
+Glazier, Amy L., Howard, Ward S., Corbett, Hank, et al.    
+2020, not refereed ([2020arXiv200614712G](http://adsabs.harvard.edu/abs/2020arXiv200614712G))  
+
+18. [ECLIPSING BINARIES IN THE OPEN CLUSTER RUPRECHT 147. III. THE TRIPLE SYSTEM EPIC 219552514 AT THE MAIN-SEQUENCE TURNOFF](http://adsabs.harvard.edu/abs/2020ApJ...896..162T)  
+Torres, Guillermo, Vanderburg, Andrew, Curtis, Jason L., et al.    
+2020, refereed ([2020ApJ...896..162T](http://adsabs.harvard.edu/abs/2020ApJ...896..162T))  
+
+19. [COMPREHENSIVE PHOTOMETRIC INVESTIGATION OF AN ACTIVE EARLY K-TYPE CONTACT SYSTEM -- IL CNC](http://adsabs.harvard.edu/abs/2020arXiv200612711L)  
+Liu, N. -P., Sarotsakuchai, T., Rattanasoon, S., et al.    
+2020, not refereed ([2020arXiv200612711L](http://adsabs.harvard.edu/abs/2020arXiv200612711L))  
+
+20. [FIRST EVIDENCE OF INERTIAL MODES IN $\GAMMA$ DORADUS STARS: THE CORE ROTATION REVEALED](http://adsabs.harvard.edu/abs/2020arXiv200609404O)  
+Ouazzani, R-M., Lignières, F., Dupret, M-A., et al.    
+2020, not refereed ([2020arXiv200609404O](http://adsabs.harvard.edu/abs/2020arXiv200609404O))  
+
+21. [ALTERNATION OF THE FLICKERING MORPHOLOGY BETWEEN THE HIGH AND LOW STATE IN MV LYR](http://adsabs.harvard.edu/abs/2020arXiv200616010D)  
+Dobrotka, A., Negoro, H., Konopka, P.    
+2020, not refereed ([2020arXiv200616010D](http://adsabs.harvard.edu/abs/2020arXiv200616010D))  
+
+22. [UNVEILING THE STRUCTURE AND DYNAMICS OF RED GIANTS WITH ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2020arXiv200614643B)  
+Basu, Sarbani, Hekker, Saskia    
+2020, not refereed ([2020arXiv200614643B](http://adsabs.harvard.edu/abs/2020arXiv200614643B))  
 
 
 2020-05

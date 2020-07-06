@@ -4,6 +4,30 @@ Save_as: kpub-kepler-by-month.html
 [TOC]
 
 
+2020-07
+-------
+
+1. [SENSITIVITY ANALYSES OF EXOPLANET OCCURRENCE RATES FROM KEPLER AND GAIA](http://adsabs.harvard.edu/abs/2020AJ....160...16S)  
+Shabram, Megan I., Batalha, Natalie, Thompson, Susan E., et al.    
+2020, refereed ([2020AJ....160...16S](http://adsabs.harvard.edu/abs/2020AJ....160...16S))  
+
+2. [NEAR MEAN MOTION RESONANCE OF TERRESTRIAL PLANET PAIR INDUCED BY GIANT PLANET: APPLICATION TO KEPLER-68 SYSTEM](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.2014P)  
+Pan, Mengrui, Wang, Su, Ji, Jianghui    
+2020, refereed ([2020MNRAS.tmp.2014P](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.2014P))  
+
+3. [BEYOND GAIA: ASTEROSEISMIC DISTANCES OF M GIANTS USING GROUND-BASED TRANSIENT SURVEYS](http://adsabs.harvard.edu/abs/2020AJ....160...18A)  
+Auge, Connor, Huber, Daniel, Heinze, Aren, et al.    
+2020, refereed ([2020AJ....160...18A](http://adsabs.harvard.edu/abs/2020AJ....160...18A))  
+
+4. [10 YEARS OF STELLAR ACTIVITY FOR GJ 1243](http://adsabs.harvard.edu/abs/2020AJ....160...36D)  
+Davenport, James. R. A., Mendoza, Guadalupe Tovar, Hawley, Suzanne L.    
+2020, refereed ([2020AJ....160...36D](http://adsabs.harvard.edu/abs/2020AJ....160...36D))  
+
+5. [IMPACT OF TIDES ON THE POTENTIAL FOR EXOPLANETS TO HOST EXOMOONS](http://adsabs.harvard.edu/abs/2020arXiv200701487T)  
+Tokadjian, Armen, Piro, Anthony L.    
+2020, not refereed ([2020arXiv200701487T](http://adsabs.harvard.edu/abs/2020arXiv200701487T))  
+
+
 2020-06
 -------
 
@@ -66,6 +90,66 @@ Huang, Yang, Schonrich, Ralph, Zhang, Huawei, et al.
 15. [STAR FORMATION TIMESCALES OF THE HALO POPULATIONS FROM ASTEROSEISMOLOGY AND CHEMICAL ABUNDANCES](http://adsabs.harvard.edu/abs/2020arXiv200603619M)  
 Matsuno, Tadafumi, Aoki, Wako, Casagrande, Luca, et al.    
 2020, not refereed ([2020arXiv200603619M](http://adsabs.harvard.edu/abs/2020arXiv200603619M))  
+
+16. [KIC 8975515: A FAST-ROTATING (Γ DOR - Δ SCT) HYBRID STAR WITH ROSSBY MODES AND A SLOWER Δ SCT COMPANION IN A LONG-PERIOD ORBIT](http://adsabs.harvard.edu/abs/2020A&A...638A..57S)  
+Samadi-Ghadim, A., Lampens, P., Jassur, D. M., et al.    
+2020, refereed ([2020A&A...638A..57S](http://adsabs.harvard.edu/abs/2020A&A...638A..57S))  
+
+17. [TRANSIT LEAST-SQUARES SURVEY. III. A 1.9 R<SUB>⊕</SUB> TRANSIT CANDIDATE IN THE HABITABLE ZONE OF KEPLER-160 AND A NONTRANSITING PLANET CHARACTERIZED BY TRANSIT-TIMING VARIATIONS](http://adsabs.harvard.edu/abs/2020A&A...638A..10H)  
+Heller, René, Hippke, Michael, Freudenthal, Jantje, et al.    
+2020, refereed ([2020A&A...638A..10H](http://adsabs.harvard.edu/abs/2020A&A...638A..10H))  
+
+18. [EXOMOON CANDIDATES FROM TRANSIT TIMING VARIATIONS: SIX KEPLER SYSTEMS WITH TTVS EXPLAINABLE BY PHOTOMETRICALLY UNSEEN EXOMOONS](http://adsabs.harvard.edu/abs/2020arXiv200612997F)  
+Fox, Chris, Wiegert, Paul    
+2020, not refereed ([2020arXiv200612997F](http://adsabs.harvard.edu/abs/2020arXiv200612997F))  
+
+19. [TIDAL ASTEROSEISMOLOGY: POSSIBLE EVIDENCE OF NONLINEAR MODE COUPLING IN AN EQUILIBRIUM STATE IN KEPLER ECLIPSING BINARY KIC 3230227](http://adsabs.harvard.edu/abs/2020ApJ...896..161G)  
+Guo, Zhao    
+2020, refereed ([2020ApJ...896..161G](http://adsabs.harvard.edu/abs/2020ApJ...896..161G))  
+
+20. [ROTATION OF KEPLER FIELD DWARFS AND SUB GIANTS: SPECTROSCOPIC $V \SIN I$ FROM APOGEE](http://adsabs.harvard.edu/abs/2020arXiv200614642S)  
+Simonian, Gregory V. A., Pinsonneault, Marc H., Terndrup, Donald M., et al.    
+2020, not refereed ([2020arXiv200614642S](http://adsabs.harvard.edu/abs/2020arXiv200614642S))  
+
+21. [WHITE-DWARF ASTEROSEISMOLOGY WITH THE KEPLER SPACE TELESCOPE](http://adsabs.harvard.edu/abs/2020arXiv200604955C)  
+Córsico, Alejandro H.    
+2020, not refereed ([2020arXiv200604955C](http://adsabs.harvard.edu/abs/2020arXiv200604955C))  
+
+22. [ROTATION OF SOLAR ANALOGS CROSS-MATCHING KEPLER AND GAIA DR2](http://adsabs.harvard.edu/abs/2020arXiv200606204D)  
+do Nascimento, Jose-Dias, Jr, de Almeida, Leandro, Nunes Velloso, Eduardo, et al.    
+2020, not refereed ([2020arXiv200606204D](http://adsabs.harvard.edu/abs/2020arXiv200606204D))  
+
+23. [RELIABILITY CORRECTION IS KEY FOR ROBUST KEPLER OCCURRENCE RATES](http://adsabs.harvard.edu/abs/2020arXiv200615719B)  
+Bryson, Steve, Coughlin, Jeffrey L., Kunimoto, Michelle, et al.    
+2020, not refereed ([2020arXiv200615719B](http://adsabs.harvard.edu/abs/2020arXiv200615719B))  
+
+24. [TWO VIEWS OF THE RADIUS GAP AND THE ROLE OF LIGHT CURVE FITTING](http://adsabs.harvard.edu/abs/2020arXiv200615649P)  
+Petigura, Erik A.    
+2020, not refereed ([2020arXiv200615649P](http://adsabs.harvard.edu/abs/2020arXiv200615649P))  
+
+25. [FIRST EVIDENCE OF INERTIAL MODES IN $\GAMMA$ DORADUS STARS: THE CORE ROTATION REVEALED](http://adsabs.harvard.edu/abs/2020arXiv200609404O)  
+Ouazzani, R-M., Lignières, F., Dupret, M-A., et al.    
+2020, not refereed ([2020arXiv200609404O](http://adsabs.harvard.edu/abs/2020arXiv200609404O))  
+
+26. [EXOMOON INDICATORS IN HIGH-PRECISION TRANSIT LIGHT CURVES](http://adsabs.harvard.edu/abs/2020A&A...638A..43R)  
+Rodenbeck, Kai, Heller, René, Gizon, Laurent    
+2020, refereed ([2020A&A...638A..43R](http://adsabs.harvard.edu/abs/2020A&A...638A..43R))  
+
+27. [ALTERNATION OF THE FLICKERING MORPHOLOGY BETWEEN THE HIGH AND LOW STATE IN MV LYR](http://adsabs.harvard.edu/abs/2020arXiv200616010D)  
+Dobrotka, A., Negoro, H., Konopka, P.    
+2020, not refereed ([2020arXiv200616010D](http://adsabs.harvard.edu/abs/2020arXiv200616010D))  
+
+28. [UNRESOLVED BINARY EXOPLANET HOST STARS FIT AS SINGLE STARS: EFFECTS ON THE STELLAR PARAMETERS](http://adsabs.harvard.edu/abs/2020arXiv200606528F)  
+Furlan, E., Howell, S. B.    
+2020, not refereed ([2020arXiv200606528F](http://adsabs.harvard.edu/abs/2020arXiv200606528F))  
+
+29. [UNVEILING THE STRUCTURE AND DYNAMICS OF RED GIANTS WITH ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2020arXiv200614643B)  
+Basu, Sarbani, Hekker, Saskia    
+2020, not refereed ([2020arXiv200614643B](http://adsabs.harvard.edu/abs/2020arXiv200614643B))  
+
+30. [COMPARING APPROXIMATE BAYESIAN COMPUTATION WITH THE POISSON-LIKELIHOOD METHOD FOR EXOPLANET OCCURRENCE RATES](http://adsabs.harvard.edu/abs/2020arXiv200609667K)  
+Kunimoto, Michelle, Bryson, Steve    
+2020, not refereed ([2020arXiv200609667K](http://adsabs.harvard.edu/abs/2020arXiv200609667K))  
 
 
 2020-05

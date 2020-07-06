@@ -7,539 +7,619 @@ Save_as: kpub-kepler.html
 2020
 ----
 
-1. [A PROBABILISTIC APPROACH TO KEPLER COMPLETENESS AND RELIABILITY FOR EXOPLANET OCCURRENCE RATES](http://adsabs.harvard.edu/abs/2020AJ....159..279B)  
+1. [SENSITIVITY ANALYSES OF EXOPLANET OCCURRENCE RATES FROM KEPLER AND GAIA](http://adsabs.harvard.edu/abs/2020AJ....160...16S)  
+Shabram, Megan I., Batalha, Natalie, Thompson, Susan E., et al.    
+2020, refereed ([2020AJ....160...16S](http://adsabs.harvard.edu/abs/2020AJ....160...16S))  
+
+2. [NEAR MEAN MOTION RESONANCE OF TERRESTRIAL PLANET PAIR INDUCED BY GIANT PLANET: APPLICATION TO KEPLER-68 SYSTEM](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.2014P)  
+Pan, Mengrui, Wang, Su, Ji, Jianghui    
+2020, refereed ([2020MNRAS.tmp.2014P](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.2014P))  
+
+3. [BEYOND GAIA: ASTEROSEISMIC DISTANCES OF M GIANTS USING GROUND-BASED TRANSIENT SURVEYS](http://adsabs.harvard.edu/abs/2020AJ....160...18A)  
+Auge, Connor, Huber, Daniel, Heinze, Aren, et al.    
+2020, refereed ([2020AJ....160...18A](http://adsabs.harvard.edu/abs/2020AJ....160...18A))  
+
+4. [10 YEARS OF STELLAR ACTIVITY FOR GJ 1243](http://adsabs.harvard.edu/abs/2020AJ....160...36D)  
+Davenport, James. R. A., Mendoza, Guadalupe Tovar, Hawley, Suzanne L.    
+2020, refereed ([2020AJ....160...36D](http://adsabs.harvard.edu/abs/2020AJ....160...36D))  
+
+5. [IMPACT OF TIDES ON THE POTENTIAL FOR EXOPLANETS TO HOST EXOMOONS](http://adsabs.harvard.edu/abs/2020arXiv200701487T)  
+Tokadjian, Armen, Piro, Anthony L.    
+2020, not refereed ([2020arXiv200701487T](http://adsabs.harvard.edu/abs/2020arXiv200701487T))  
+
+6. [A PROBABILISTIC APPROACH TO KEPLER COMPLETENESS AND RELIABILITY FOR EXOPLANET OCCURRENCE RATES](http://adsabs.harvard.edu/abs/2020AJ....159..279B)  
 Bryson, S., Coughlin, J., Batalha, N. M., et al.    
 2020, refereed ([2020AJ....159..279B](http://adsabs.harvard.edu/abs/2020AJ....159..279B))  
 
-2. [CALIFORNIA-KEPLER SURVEY. IX. REVISITING THE MINIMUM-MASS EXTRASOLAR NEBULA WITH PRECISE STELLAR PARAMETERS](http://adsabs.harvard.edu/abs/2020AJ....159..247D)  
+7. [CALIFORNIA-KEPLER SURVEY. IX. REVISITING THE MINIMUM-MASS EXTRASOLAR NEBULA WITH PRECISE STELLAR PARAMETERS](http://adsabs.harvard.edu/abs/2020AJ....159..247D)  
 Dai, Fei, Winn, Joshua N., Schlaufman, Kevin, et al.    
 2020, refereed ([2020AJ....159..247D](http://adsabs.harvard.edu/abs/2020AJ....159..247D))  
 
-3. [SEARCHING THE ENTIRETY OF KEPLER DATA. II. OCCURRENCE RATE ESTIMATES FOR FGK STARS](http://adsabs.harvard.edu/abs/2020AJ....159..248K)  
+8. [SEARCHING THE ENTIRETY OF KEPLER DATA. II. OCCURRENCE RATE ESTIMATES FOR FGK STARS](http://adsabs.harvard.edu/abs/2020AJ....159..248K)  
 Kunimoto, Michelle, Matthews, Jaymie M.    
 2020, refereed ([2020AJ....159..248K](http://adsabs.harvard.edu/abs/2020AJ....159..248K))  
 
-4. [ORBITAL STABILITY OF EXOMOONS AND SUBMOONS WITH APPLICATIONS TO KEPLER 1625B-I](http://adsabs.harvard.edu/abs/2020AJ....159..260R)  
+9. [ORBITAL STABILITY OF EXOMOONS AND SUBMOONS WITH APPLICATIONS TO KEPLER 1625B-I](http://adsabs.harvard.edu/abs/2020AJ....159..260R)  
 Rosario-Franco, Marialis, Quarles, Billy, Musielak, Zdzislaw E., et al.    
 2020, refereed ([2020AJ....159..260R](http://adsabs.harvard.edu/abs/2020AJ....159..260R))  
 
-5. [THE GAIA-KEPLER STELLAR PROPERTIES CATALOG. I. HOMOGENEOUS FUNDAMENTAL PROPERTIES FOR 186,301 KEPLER STARS](http://adsabs.harvard.edu/abs/2020AJ....159..280B)  
+10. [THE GAIA-KEPLER STELLAR PROPERTIES CATALOG. I. HOMOGENEOUS FUNDAMENTAL PROPERTIES FOR 186,301 KEPLER STARS](http://adsabs.harvard.edu/abs/2020AJ....159..280B)  
 Berger, Travis A., Huber, Daniel, van Saders, Jennifer L., et al.    
 2020, refereed ([2020AJ....159..280B](http://adsabs.harvard.edu/abs/2020AJ....159..280B))  
 
-6. [AN INFORMATION THEORETIC FRAMEWORK FOR CLASSIFYING EXOPLANETARY SYSTEM ARCHITECTURES](http://adsabs.harvard.edu/abs/2020AJ....159..281G)  
+11. [AN INFORMATION THEORETIC FRAMEWORK FOR CLASSIFYING EXOPLANETARY SYSTEM ARCHITECTURES](http://adsabs.harvard.edu/abs/2020AJ....159..281G)  
 Gilbert, Gregory J., Fabrycky, Daniel C.    
 2020, refereed ([2020AJ....159..281G](http://adsabs.harvard.edu/abs/2020AJ....159..281G))  
 
-7. [BAYESIAN METHODS FOR JOINT EXOPLANET TRANSIT DETECTION AND SYSTEMATIC NOISE CHARACTERIZATION](http://adsabs.harvard.edu/abs/2020AJ....159..283T)  
+12. [BAYESIAN METHODS FOR JOINT EXOPLANET TRANSIT DETECTION AND SYSTEMATIC NOISE CHARACTERIZATION](http://adsabs.harvard.edu/abs/2020AJ....159..283T)  
 Taaki, Jamila S., Kamalabadi, Farzad, Kemball, Athol J.    
 2020, refereed ([2020AJ....159..283T](http://adsabs.harvard.edu/abs/2020AJ....159..283T))  
 
-8. [TOWARD COMPLETE CHARACTERIZATION: PROSPECTS FOR DIRECTLY IMAGING TRANSITING EXOPLANETS](http://adsabs.harvard.edu/abs/2020AJ....159..286S)  
+13. [TOWARD COMPLETE CHARACTERIZATION: PROSPECTS FOR DIRECTLY IMAGING TRANSITING EXOPLANETS](http://adsabs.harvard.edu/abs/2020AJ....159..286S)  
 Stark, Christopher C., Dressing, Courtney, Dulz, Shannon, et al.    
 2020, refereed ([2020AJ....159..286S](http://adsabs.harvard.edu/abs/2020AJ....159..286S))  
 
-9. [A PRE-MAIN-SEQUENCE Γ DOR-Δ SCT HYBRID WITH EXTREMELY SLOW INTERNAL ROTATION IN A SHORT-PERIOD ECLIPSING BINARY KIC 9850387 REVEALED BY ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2020ApJ...895..124Z)  
+14. [A PRE-MAIN-SEQUENCE Γ DOR-Δ SCT HYBRID WITH EXTREMELY SLOW INTERNAL ROTATION IN A SHORT-PERIOD ECLIPSING BINARY KIC 9850387 REVEALED BY ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2020ApJ...895..124Z)  
 Zhang, Xiaobin, Chen, Xinghao, Zhang, Haotong, et al.    
 2020, refereed ([2020ApJ...895..124Z](http://adsabs.harvard.edu/abs/2020ApJ...895..124Z))  
 
-10. [KIC 10736223: AN ALGOL-TYPE ECLIPSING BINARY THAT HAS JUST UNDERGONE THE RAPID MASS-TRANSFER STAGE](http://adsabs.harvard.edu/abs/2020ApJ...895..136C)  
+15. [KIC 10736223: AN ALGOL-TYPE ECLIPSING BINARY THAT HAS JUST UNDERGONE THE RAPID MASS-TRANSFER STAGE](http://adsabs.harvard.edu/abs/2020ApJ...895..136C)  
 Chen, Xinghao, Zhang, Xiaobin, Li, Yan, et al.    
 2020, refereed ([2020ApJ...895..136C](http://adsabs.harvard.edu/abs/2020ApJ...895..136C))  
 
-11. [THE DEPENDENCE OF THE MASS DISTRIBUTION OF EXOPLANETS ON THE SPECTRAL CLASS OF HOST STARS](http://adsabs.harvard.edu/abs/2020SoSyR..54..175A)  
+16. [THE DEPENDENCE OF THE MASS DISTRIBUTION OF EXOPLANETS ON THE SPECTRAL CLASS OF HOST STARS](http://adsabs.harvard.edu/abs/2020SoSyR..54..175A)  
 Ananyeva, V. I., Ivanova, A. E., Venkstern, A. A., et al.    
 2020, refereed ([2020SoSyR..54..175A](http://adsabs.harvard.edu/abs/2020SoSyR..54..175A))  
 
-12. [CHRONOLOGICALLY DATING THE EARLY ASSEMBLY OF THE MILKY WAY](http://adsabs.harvard.edu/abs/2020arXiv200601783M)  
+17. [CHRONOLOGICALLY DATING THE EARLY ASSEMBLY OF THE MILKY WAY](http://adsabs.harvard.edu/abs/2020arXiv200601783M)  
 Montalbán, Josefina, Mackereth, John Ted, Miglio, Andrea, et al.    
 2020, not refereed ([2020arXiv200601783M](http://adsabs.harvard.edu/abs/2020arXiv200601783M))  
 
-13. [TRANSIT LEAST-SQUARES SURVEY -- III. A $1.9\,R_\OPLUS$ TRANSIT CANDIDATE IN THE HABITABLE ZONE OF KEPLER-160 AND A NONTRANSITING PLANET CHARACTERIZED BY TRANSIT-TIMING VARIATIONS](http://adsabs.harvard.edu/abs/2020arXiv200602123H)  
+18. [TRANSIT LEAST-SQUARES SURVEY -- III. A $1.9\,R_\OPLUS$ TRANSIT CANDIDATE IN THE HABITABLE ZONE OF KEPLER-160 AND A NONTRANSITING PLANET CHARACTERIZED BY TRANSIT-TIMING VARIATIONS](http://adsabs.harvard.edu/abs/2020arXiv200602123H)  
 Heller, René, Hippke, Michael, Freudenthal, Jantje, et al.    
 2020, not refereed ([2020arXiv200602123H](http://adsabs.harvard.edu/abs/2020arXiv200602123H))  
 
-14. [MAPPING THE GALACTIC DISK WITH THE LAMOST AND GAIA RED CLUMP SAMPLE: I: PRECISE DISTANCES, MASSES, AGES AND 3D VELOCITIES OF $\SIM$ 140000 RED CLUMP STARS](http://adsabs.harvard.edu/abs/2020arXiv200602686H)  
+19. [MAPPING THE GALACTIC DISK WITH THE LAMOST AND GAIA RED CLUMP SAMPLE: I: PRECISE DISTANCES, MASSES, AGES AND 3D VELOCITIES OF $\SIM$ 140000 RED CLUMP STARS](http://adsabs.harvard.edu/abs/2020arXiv200602686H)  
 Huang, Yang, Schonrich, Ralph, Zhang, Huawei, et al.    
 2020, not refereed ([2020arXiv200602686H](http://adsabs.harvard.edu/abs/2020arXiv200602686H))  
 
-15. [STAR FORMATION TIMESCALES OF THE HALO POPULATIONS FROM ASTEROSEISMOLOGY AND CHEMICAL ABUNDANCES](http://adsabs.harvard.edu/abs/2020arXiv200603619M)  
+20. [STAR FORMATION TIMESCALES OF THE HALO POPULATIONS FROM ASTEROSEISMOLOGY AND CHEMICAL ABUNDANCES](http://adsabs.harvard.edu/abs/2020arXiv200603619M)  
 Matsuno, Tadafumi, Aoki, Wako, Casagrande, Luca, et al.    
 2020, not refereed ([2020arXiv200603619M](http://adsabs.harvard.edu/abs/2020arXiv200603619M))  
 
-16. [SPIKEY: SELF-LENSING FLARES FROM ECCENTRIC SMBH BINARIES](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1426H)  
+21. [KIC 8975515: A FAST-ROTATING (Γ DOR - Δ SCT) HYBRID STAR WITH ROSSBY MODES AND A SLOWER Δ SCT COMPANION IN A LONG-PERIOD ORBIT](http://adsabs.harvard.edu/abs/2020A&A...638A..57S)  
+Samadi-Ghadim, A., Lampens, P., Jassur, D. M., et al.    
+2020, refereed ([2020A&A...638A..57S](http://adsabs.harvard.edu/abs/2020A&A...638A..57S))  
+
+22. [TRANSIT LEAST-SQUARES SURVEY. III. A 1.9 R<SUB>⊕</SUB> TRANSIT CANDIDATE IN THE HABITABLE ZONE OF KEPLER-160 AND A NONTRANSITING PLANET CHARACTERIZED BY TRANSIT-TIMING VARIATIONS](http://adsabs.harvard.edu/abs/2020A&A...638A..10H)  
+Heller, René, Hippke, Michael, Freudenthal, Jantje, et al.    
+2020, refereed ([2020A&A...638A..10H](http://adsabs.harvard.edu/abs/2020A&A...638A..10H))  
+
+23. [EXOMOON CANDIDATES FROM TRANSIT TIMING VARIATIONS: SIX KEPLER SYSTEMS WITH TTVS EXPLAINABLE BY PHOTOMETRICALLY UNSEEN EXOMOONS](http://adsabs.harvard.edu/abs/2020arXiv200612997F)  
+Fox, Chris, Wiegert, Paul    
+2020, not refereed ([2020arXiv200612997F](http://adsabs.harvard.edu/abs/2020arXiv200612997F))  
+
+24. [TIDAL ASTEROSEISMOLOGY: POSSIBLE EVIDENCE OF NONLINEAR MODE COUPLING IN AN EQUILIBRIUM STATE IN KEPLER ECLIPSING BINARY KIC 3230227](http://adsabs.harvard.edu/abs/2020ApJ...896..161G)  
+Guo, Zhao    
+2020, refereed ([2020ApJ...896..161G](http://adsabs.harvard.edu/abs/2020ApJ...896..161G))  
+
+25. [ROTATION OF KEPLER FIELD DWARFS AND SUB GIANTS: SPECTROSCOPIC $V \SIN I$ FROM APOGEE](http://adsabs.harvard.edu/abs/2020arXiv200614642S)  
+Simonian, Gregory V. A., Pinsonneault, Marc H., Terndrup, Donald M., et al.    
+2020, not refereed ([2020arXiv200614642S](http://adsabs.harvard.edu/abs/2020arXiv200614642S))  
+
+26. [WHITE-DWARF ASTEROSEISMOLOGY WITH THE KEPLER SPACE TELESCOPE](http://adsabs.harvard.edu/abs/2020arXiv200604955C)  
+Córsico, Alejandro H.    
+2020, not refereed ([2020arXiv200604955C](http://adsabs.harvard.edu/abs/2020arXiv200604955C))  
+
+27. [ROTATION OF SOLAR ANALOGS CROSS-MATCHING KEPLER AND GAIA DR2](http://adsabs.harvard.edu/abs/2020arXiv200606204D)  
+do Nascimento, Jose-Dias, Jr, de Almeida, Leandro, Nunes Velloso, Eduardo, et al.    
+2020, not refereed ([2020arXiv200606204D](http://adsabs.harvard.edu/abs/2020arXiv200606204D))  
+
+28. [RELIABILITY CORRECTION IS KEY FOR ROBUST KEPLER OCCURRENCE RATES](http://adsabs.harvard.edu/abs/2020arXiv200615719B)  
+Bryson, Steve, Coughlin, Jeffrey L., Kunimoto, Michelle, et al.    
+2020, not refereed ([2020arXiv200615719B](http://adsabs.harvard.edu/abs/2020arXiv200615719B))  
+
+29. [TWO VIEWS OF THE RADIUS GAP AND THE ROLE OF LIGHT CURVE FITTING](http://adsabs.harvard.edu/abs/2020arXiv200615649P)  
+Petigura, Erik A.    
+2020, not refereed ([2020arXiv200615649P](http://adsabs.harvard.edu/abs/2020arXiv200615649P))  
+
+30. [FIRST EVIDENCE OF INERTIAL MODES IN $\GAMMA$ DORADUS STARS: THE CORE ROTATION REVEALED](http://adsabs.harvard.edu/abs/2020arXiv200609404O)  
+Ouazzani, R-M., Lignières, F., Dupret, M-A., et al.    
+2020, not refereed ([2020arXiv200609404O](http://adsabs.harvard.edu/abs/2020arXiv200609404O))  
+
+31. [EXOMOON INDICATORS IN HIGH-PRECISION TRANSIT LIGHT CURVES](http://adsabs.harvard.edu/abs/2020A&A...638A..43R)  
+Rodenbeck, Kai, Heller, René, Gizon, Laurent    
+2020, refereed ([2020A&A...638A..43R](http://adsabs.harvard.edu/abs/2020A&A...638A..43R))  
+
+32. [ALTERNATION OF THE FLICKERING MORPHOLOGY BETWEEN THE HIGH AND LOW STATE IN MV LYR](http://adsabs.harvard.edu/abs/2020arXiv200616010D)  
+Dobrotka, A., Negoro, H., Konopka, P.    
+2020, not refereed ([2020arXiv200616010D](http://adsabs.harvard.edu/abs/2020arXiv200616010D))  
+
+33. [UNRESOLVED BINARY EXOPLANET HOST STARS FIT AS SINGLE STARS: EFFECTS ON THE STELLAR PARAMETERS](http://adsabs.harvard.edu/abs/2020arXiv200606528F)  
+Furlan, E., Howell, S. B.    
+2020, not refereed ([2020arXiv200606528F](http://adsabs.harvard.edu/abs/2020arXiv200606528F))  
+
+34. [UNVEILING THE STRUCTURE AND DYNAMICS OF RED GIANTS WITH ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2020arXiv200614643B)  
+Basu, Sarbani, Hekker, Saskia    
+2020, not refereed ([2020arXiv200614643B](http://adsabs.harvard.edu/abs/2020arXiv200614643B))  
+
+35. [COMPARING APPROXIMATE BAYESIAN COMPUTATION WITH THE POISSON-LIKELIHOOD METHOD FOR EXOPLANET OCCURRENCE RATES](http://adsabs.harvard.edu/abs/2020arXiv200609667K)  
+Kunimoto, Michelle, Bryson, Steve    
+2020, not refereed ([2020arXiv200609667K](http://adsabs.harvard.edu/abs/2020arXiv200609667K))  
+
+36. [SPIKEY: SELF-LENSING FLARES FROM ECCENTRIC SMBH BINARIES](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1426H)  
 Hu, Betty X., D'Orazio, Daniel J., Haiman, Zoltán, et al.    
 2020, refereed ([2020MNRAS.tmp.1426H](http://adsabs.harvard.edu/abs/2020MNRAS.tmp.1426H))  
 
-17. [ON THE PATTERNS OBSERVED IN KEPLER MULTI-PLANET SYSTEMS](http://adsabs.harvard.edu/abs/2020AJ....159..188Z)  
+37. [ON THE PATTERNS OBSERVED IN KEPLER MULTI-PLANET SYSTEMS](http://adsabs.harvard.edu/abs/2020AJ....159..188Z)  
 Zhu, Wei    
 2020, refereed ([2020AJ....159..188Z](http://adsabs.harvard.edu/abs/2020AJ....159..188Z))  
 
-18. [FORWARD MODELING THE ORBITS OF COMPANIONS TO PULSATING STARS FROM THEIR LIGHT TRAVEL TIME VARIATIONS](http://adsabs.harvard.edu/abs/2020AJ....159..202H)  
+38. [FORWARD MODELING THE ORBITS OF COMPANIONS TO PULSATING STARS FROM THEIR LIGHT TRAVEL TIME VARIATIONS](http://adsabs.harvard.edu/abs/2020AJ....159..202H)  
 Hey, Daniel R., Murphy, Simon J., Foreman-Mackey, Daniel, et al.    
 2020, refereed ([2020AJ....159..202H](http://adsabs.harvard.edu/abs/2020AJ....159..202H))  
 
-19. [IMPROVING THE LOMB-SCARGLE PERIODOGRAM WITH THE THOMSON MULTITAPER](http://adsabs.harvard.edu/abs/2020AJ....159..205S)  
+39. [IMPROVING THE LOMB-SCARGLE PERIODOGRAM WITH THE THOMSON MULTITAPER](http://adsabs.harvard.edu/abs/2020AJ....159..205S)  
 Springford, Aaron, Eadie, Gwendolyn M., Thomson, David J.    
 2020, refereed ([2020AJ....159..205S](http://adsabs.harvard.edu/abs/2020AJ....159..205S))  
 
-20. [TRANSIT DURATION VARIATIONS IN MULTIPLANET SYSTEMS](http://adsabs.harvard.edu/abs/2020AJ....159..207B)  
+40. [TRANSIT DURATION VARIATIONS IN MULTIPLANET SYSTEMS](http://adsabs.harvard.edu/abs/2020AJ....159..207B)  
 Boley, Aaron C., Van Laerhoven, Christa, Granados Contreras, A. P.    
 2020, refereed ([2020AJ....159..207B](http://adsabs.harvard.edu/abs/2020AJ....159..207B))  
 
-21. [NODAL PRECESSION IN CLOSELY SPACED PLANET PAIRS](http://adsabs.harvard.edu/abs/2020AJ....159..217B)  
+41. [NODAL PRECESSION IN CLOSELY SPACED PLANET PAIRS](http://adsabs.harvard.edu/abs/2020AJ....159..217B)  
 Bailey, Nora, Fabrycky, Daniel    
 2020, refereed ([2020AJ....159..217B](http://adsabs.harvard.edu/abs/2020AJ....159..217B))  
 
-22. [ROBUSTLY DETECTING CHANGES IN WARM JUPITERS' TRANSIT IMPACT PARAMETERS](http://adsabs.harvard.edu/abs/2020AJ....159..223D)  
+42. [ROBUSTLY DETECTING CHANGES IN WARM JUPITERS' TRANSIT IMPACT PARAMETERS](http://adsabs.harvard.edu/abs/2020AJ....159..223D)  
 Dawson, Rebekah I.    
 2020, refereed ([2020AJ....159..223D](http://adsabs.harvard.edu/abs/2020AJ....159..223D))  
 
-23. [KEPLER DATA ANALYSIS: NON-GAUSSIAN NOISE AND FOURIER GAUSSIAN PROCESS ANALYSIS OF STELLAR VARIABILITY](http://adsabs.harvard.edu/abs/2020AJ....159..224R)  
+43. [KEPLER DATA ANALYSIS: NON-GAUSSIAN NOISE AND FOURIER GAUSSIAN PROCESS ANALYSIS OF STELLAR VARIABILITY](http://adsabs.harvard.edu/abs/2020AJ....159..224R)  
 Robnik, Jakob, Seljak, Uroš    
 2020, refereed ([2020AJ....159..224R](http://adsabs.harvard.edu/abs/2020AJ....159..224R))  
 
-24. [THE DISCOVERY OF THE LONG-PERIOD, ECCENTRIC PLANET KEPLER-88 D AND SYSTEM CHARACTERIZATION WITH RADIAL VELOCITIES AND PHOTODYNAMICAL ANALYSIS](http://adsabs.harvard.edu/abs/2020AJ....159..242W)  
+44. [THE DISCOVERY OF THE LONG-PERIOD, ECCENTRIC PLANET KEPLER-88 D AND SYSTEM CHARACTERIZATION WITH RADIAL VELOCITIES AND PHOTODYNAMICAL ANALYSIS](http://adsabs.harvard.edu/abs/2020AJ....159..242W)  
 Weiss, Lauren M., Fabrycky, Daniel C., Agol, Eric, et al.    
 2020, refereed ([2020AJ....159..242W](http://adsabs.harvard.edu/abs/2020AJ....159..242W))  
 
-25. [TIDALLY DISTORTED, IRON-ENHANCED EXOPLANETS CLOSELY ORBITING THEIR STARS](http://adsabs.harvard.edu/abs/2020ApJ...894....8P)  
+45. [TIDALLY DISTORTED, IRON-ENHANCED EXOPLANETS CLOSELY ORBITING THEIR STARS](http://adsabs.harvard.edu/abs/2020ApJ...894....8P)  
 Price, Ellen M., Rogers, Leslie A.    
 2020, refereed ([2020ApJ...894....8P](http://adsabs.harvard.edu/abs/2020ApJ...894....8P))  
 
-26. [SPECTROSCOPIC AND ASTEROSEISMIC ANALYSIS OF THE SECONDARY CLUMP RED GIANT HD 226808](http://adsabs.harvard.edu/abs/2020ApJ...894...67D)  
+46. [SPECTROSCOPIC AND ASTEROSEISMIC ANALYSIS OF THE SECONDARY CLUMP RED GIANT HD 226808](http://adsabs.harvard.edu/abs/2020ApJ...894...67D)  
 De Moura, Bruno Lustosa, Beck, Paul G., de Almeida, Leandro, et al.    
 2020, refereed ([2020ApJ...894...67D](http://adsabs.harvard.edu/abs/2020ApJ...894...67D))  
 
-27. [ORBITAL PARAMETER DETERMINATION FOR WIDE STELLAR BINARY SYSTEMS IN THE AGE OF GAIA](http://adsabs.harvard.edu/abs/2020ApJ...894..115P)  
+47. [ORBITAL PARAMETER DETERMINATION FOR WIDE STELLAR BINARY SYSTEMS IN THE AGE OF GAIA](http://adsabs.harvard.edu/abs/2020ApJ...894..115P)  
 Pearce, Logan A., Kraus, Adam L., Dupuy, Trent J., et al.    
 2020, refereed ([2020ApJ...894..115P](http://adsabs.harvard.edu/abs/2020ApJ...894..115P))  
 
-28. [SOLAR-TYPE STARS OBSERVED BY LAMOST AND KEPLER](http://adsabs.harvard.edu/abs/2020ApJ...894L..11Z)  
+48. [SOLAR-TYPE STARS OBSERVED BY LAMOST AND KEPLER](http://adsabs.harvard.edu/abs/2020ApJ...894L..11Z)  
 Zhang, Jinghua, Shapiro, Alexander I., Bi, Shaolan, et al.    
 2020, refereed ([2020ApJ...894L..11Z](http://adsabs.harvard.edu/abs/2020ApJ...894L..11Z))  
 
-29. [A GEOMETRIC METHOD OF ANALYSIS FOR THE LIGHT CURVES OF ACTIVE GALACTIC NUCLEI](http://adsabs.harvard.edu/abs/2020MNRAS.495..338S)  
+49. [A GEOMETRIC METHOD OF ANALYSIS FOR THE LIGHT CURVES OF ACTIVE GALACTIC NUCLEI](http://adsabs.harvard.edu/abs/2020MNRAS.495..338S)  
 Shoji, Isao, Takata, Tadafumi, Mizumoto, Yoshihiko    
 2020, refereed ([2020MNRAS.495..338S](http://adsabs.harvard.edu/abs/2020MNRAS.495..338S))  
 
-30. [ASTEROSEISMOLOGY OF 36 KEPLER SUBGIANTS - I. OSCILLATION FREQUENCIES, LINEWIDTHS, AND AMPLITUDES](http://adsabs.harvard.edu/abs/2020MNRAS.495.2363L)  
+50. [ASTEROSEISMOLOGY OF 36 KEPLER SUBGIANTS - I. OSCILLATION FREQUENCIES, LINEWIDTHS, AND AMPLITUDES](http://adsabs.harvard.edu/abs/2020MNRAS.495.2363L)  
 Li, Yaguang, Bedding, Timothy R., Li, Tanda, et al.    
 2020, refereed ([2020MNRAS.495.2363L](http://adsabs.harvard.edu/abs/2020MNRAS.495.2363L))  
 
-31. [ASTEROSEISMOLOGY OF 36 KEPLER SUBGIANTS - II. DETERMINING AGES FROM DETAILED MODELLING](http://adsabs.harvard.edu/abs/2020MNRAS.495.3431L)  
+51. [ASTEROSEISMOLOGY OF 36 KEPLER SUBGIANTS - II. DETERMINING AGES FROM DETAILED MODELLING](http://adsabs.harvard.edu/abs/2020MNRAS.495.3431L)  
 Li, Tanda, Bedding, Timothy R., Christensen-Dalsgaard, Jørgen, et al.    
 2020, refereed ([2020MNRAS.495.3431L](http://adsabs.harvard.edu/abs/2020MNRAS.495.3431L))  
 
-32. [EXPLORING FORMATION SCENARIOS FOR THE EXOMOON CANDIDATE KEPLER 1625B I](http://adsabs.harvard.edu/abs/2020MNRAS.495.3763M)  
+52. [EXPLORING FORMATION SCENARIOS FOR THE EXOMOON CANDIDATE KEPLER 1625B I](http://adsabs.harvard.edu/abs/2020MNRAS.495.3763M)  
 Moraes, R. A., Vieira Neto, E.    
 2020, refereed ([2020MNRAS.495.3763M](http://adsabs.harvard.edu/abs/2020MNRAS.495.3763M))  
 
-33. [INVESTIGATION OF CONTACT BINARIES IN THE FIELD OF NGC 6811](http://adsabs.harvard.edu/abs/2020PASJ..tmp..192L)  
+53. [INVESTIGATION OF CONTACT BINARIES IN THE FIELD OF NGC 6811](http://adsabs.harvard.edu/abs/2020PASJ..tmp..192L)  
 Li, Xu-Zhi, Liu, Liang, Zhang, Xu-Dong    
 2020, refereed ([2020PASJ..tmp..192L](http://adsabs.harvard.edu/abs/2020PASJ..tmp..192L))  
 
-34. [THE SUN IS LESS ACTIVE THAN OTHER SOLAR-LIKE STARS](http://adsabs.harvard.edu/abs/2020Sci...368..518R)  
+54. [THE SUN IS LESS ACTIVE THAN OTHER SOLAR-LIKE STARS](http://adsabs.harvard.edu/abs/2020Sci...368..518R)  
 Reinhold, Timo, Shapiro, Alexander I., Solanki, Sami K., et al.    
 2020, refereed ([2020Sci...368..518R](http://adsabs.harvard.edu/abs/2020Sci...368..518R))  
 
-35. [ASTEROSEISMIC MODELING OF GRAVITY MODES IN SLOWLY ROTATING A/F STARS WITH RADIATIVE LEVITATION](http://adsabs.harvard.edu/abs/2020ApJ...895...51M)  
+55. [ASTEROSEISMIC MODELING OF GRAVITY MODES IN SLOWLY ROTATING A/F STARS WITH RADIATIVE LEVITATION](http://adsabs.harvard.edu/abs/2020ApJ...895...51M)  
 Mombarg, Joey S. G., Dotter, Aaron, Van Reeth, Timothy, et al.    
 2020, refereed ([2020ApJ...895...51M](http://adsabs.harvard.edu/abs/2020ApJ...895...51M))  
 
-36. [EARTHS IN OTHER SOLAR SYSTEMS N-BODY SIMULATIONS: THE ROLE OF ORBITAL DAMPING IN REPRODUCING THE KEPLER PLANETARY SYSTEMS](http://adsabs.harvard.edu/abs/2020arXiv200504233M)  
+56. [EARTHS IN OTHER SOLAR SYSTEMS N-BODY SIMULATIONS: THE ROLE OF ORBITAL DAMPING IN REPRODUCING THE KEPLER PLANETARY SYSTEMS](http://adsabs.harvard.edu/abs/2020arXiv200504233M)  
 Mulders, Gijs D., O'Brien, David P., Ciesla, Fred J., et al.    
 2020, not refereed ([2020arXiv200504233M](http://adsabs.harvard.edu/abs/2020arXiv200504233M))  
 
-37. [SUPERFLARES ON THE LATE-TYPE GIANT KIC 2852961 -- SCALING EFFECT BEHIND FLARING AT DIFFERENT ENERGY LEVELS](http://adsabs.harvard.edu/abs/2020arXiv200505397K)  
+57. [SUPERFLARES ON THE LATE-TYPE GIANT KIC 2852961 -- SCALING EFFECT BEHIND FLARING AT DIFFERENT ENERGY LEVELS](http://adsabs.harvard.edu/abs/2020arXiv200505397K)  
 Kővári, Zs., Oláh, K., Günther, M. N., et al.    
 2020, not refereed ([2020arXiv200505397K](http://adsabs.harvard.edu/abs/2020arXiv200505397K))  
 
-38. [NON-GRAY, MONTH-LONG BRIGHTENING OF KIC 8462852 IN THE IMMEDIATE AFTERMATH OF A DEEP DIP](http://adsabs.harvard.edu/abs/2020arXiv200506569H)  
+58. [NON-GRAY, MONTH-LONG BRIGHTENING OF KIC 8462852 IN THE IMMEDIATE AFTERMATH OF A DEEP DIP](http://adsabs.harvard.edu/abs/2020arXiv200506569H)  
 Hitchcock, James, Fossey, Stephen J., Savini, Giorgio    
 2020, not refereed ([2020arXiv200506569H](http://adsabs.harvard.edu/abs/2020arXiv200506569H))  
 
-39. [OPTIMIZED CUTTING OFF TRANSIT ALGORITHM TO STUDY STELLAR ROTATION FROM PLATO MISSION LIGHT CURVES](http://adsabs.harvard.edu/abs/2020arXiv200507756D)  
+59. [OPTIMIZED CUTTING OFF TRANSIT ALGORITHM TO STUDY STELLAR ROTATION FROM PLATO MISSION LIGHT CURVES](http://adsabs.harvard.edu/abs/2020arXiv200507756D)  
 de Almeida, Leandro, Anthony, Francys, Mattiuci, Ana Carolina, et al.    
 2020, not refereed ([2020arXiv200507756D](http://adsabs.harvard.edu/abs/2020arXiv200507756D))  
 
-40. [SCIENCE MERIT FUNCTION FOR THE KEPLER MISSION](http://adsabs.harvard.edu/abs/2020arXiv200507831B)  
+60. [SCIENCE MERIT FUNCTION FOR THE KEPLER MISSION](http://adsabs.harvard.edu/abs/2020arXiv200507831B)  
 Borucki, William J.    
 2020, not refereed ([2020arXiv200507831B](http://adsabs.harvard.edu/abs/2020arXiv200507831B))  
 
-41. [DATA-DRIVEN DERIVATION OF STELLAR PROPERTIES FROM PHOTOMETRIC TIME SERIES DATA USING CONVOLUTIONAL NEURAL NETWORKS](http://adsabs.harvard.edu/abs/2020arXiv200509682B)  
+61. [DATA-DRIVEN DERIVATION OF STELLAR PROPERTIES FROM PHOTOMETRIC TIME SERIES DATA USING CONVOLUTIONAL NEURAL NETWORKS](http://adsabs.harvard.edu/abs/2020arXiv200509682B)  
 Blancato, Kirsten, Ness, Melissa, Huber, Daniel, et al.    
 2020, not refereed ([2020arXiv200509682B](http://adsabs.harvard.edu/abs/2020arXiv200509682B))  
 
-42. [10 YEARS OF STELLAR ACTIVITY FOR GJ 1243](http://adsabs.harvard.edu/abs/2020arXiv200510281D)  
+62. [10 YEARS OF STELLAR ACTIVITY FOR GJ 1243](http://adsabs.harvard.edu/abs/2020arXiv200510281D)  
 Davenport, James. R. A., Tovar Mendoza, Guadalupe, Hawley, Suzanne L.    
 2020, not refereed ([2020arXiv200510281D](http://adsabs.harvard.edu/abs/2020arXiv200510281D))  
 
-43. [THE GAIA-KEPLER STELLAR PROPERTIES CATALOG. II. PLANET RADIUS DEMOGRAPHICS AS A FUNCTION OF STELLAR MASS AND AGE](http://adsabs.harvard.edu/abs/2020arXiv200514671B)  
+63. [THE GAIA-KEPLER STELLAR PROPERTIES CATALOG. II. PLANET RADIUS DEMOGRAPHICS AS A FUNCTION OF STELLAR MASS AND AGE](http://adsabs.harvard.edu/abs/2020arXiv200514671B)  
 Berger, Travis A., Huber, Daniel, Gaidos, Eric, et al.    
 2020, not refereed ([2020arXiv200514671B](http://adsabs.harvard.edu/abs/2020arXiv200514671B))  
 
-44. [MITIGATING FLICKER NOISE IN HIGH-PRECISION PHOTOMETRY. I. CHARACTERIZATION OF THE NOISE STRUCTURE, IMPACT ON THE INFERRED TRANSIT PARAMETERS, AND PREDICTIONS FOR CHEOPS OBSERVATIONS](http://adsabs.harvard.edu/abs/2020A&A...636A..70S)  
+64. [MITIGATING FLICKER NOISE IN HIGH-PRECISION PHOTOMETRY. I. CHARACTERIZATION OF THE NOISE STRUCTURE, IMPACT ON THE INFERRED TRANSIT PARAMETERS, AND PREDICTIONS FOR CHEOPS OBSERVATIONS](http://adsabs.harvard.edu/abs/2020A&A...636A..70S)  
 Sulis, S., Lendl, M., Hofmeister, S., et al.    
 2020, refereed ([2020A&A...636A..70S](http://adsabs.harvard.edu/abs/2020A&A...636A..70S))  
 
-45. [POSSIBLE EVIDENCE OF INDUCED REPETITIVE MAGNETIC RECONNECTION IN A SUPERFLARE FROM A YOUNG SOLAR-TYPE STAR](http://adsabs.harvard.edu/abs/2020A&A...636A..96M)  
+65. [POSSIBLE EVIDENCE OF INDUCED REPETITIVE MAGNETIC RECONNECTION IN A SUPERFLARE FROM A YOUNG SOLAR-TYPE STAR](http://adsabs.harvard.edu/abs/2020A&A...636A..96M)  
 Mancuso, S., Barghini, D., Telloni, D.    
 2020, refereed ([2020A&A...636A..96M](http://adsabs.harvard.edu/abs/2020A&A...636A..96M))  
 
-46. [EXPLORING WHETHER SUPER-PUFFS CAN BE EXPLAINED AS RINGED EXOPLANETS](http://adsabs.harvard.edu/abs/2020AJ....159..131P)  
+66. [EXPLORING WHETHER SUPER-PUFFS CAN BE EXPLAINED AS RINGED EXOPLANETS](http://adsabs.harvard.edu/abs/2020AJ....159..131P)  
 Piro, Anthony L., Vissapragada, Shreyas    
 2020, refereed ([2020AJ....159..131P](http://adsabs.harvard.edu/abs/2020AJ....159..131P))  
 
-47. [LOOSE ENDS FOR THE EXOMOON CANDIDATE HOST KEPLER-1625B](http://adsabs.harvard.edu/abs/2020AJ....159..142T)  
+67. [LOOSE ENDS FOR THE EXOMOON CANDIDATE HOST KEPLER-1625B](http://adsabs.harvard.edu/abs/2020AJ....159..142T)  
 Teachey, Alex, Kipping, David, Burke, Christopher J., et al.    
 2020, refereed ([2020AJ....159..142T](http://adsabs.harvard.edu/abs/2020AJ....159..142T))  
 
-48. [OCCURRENCE AND ARCHITECTURE OF KEPLER PLANETARY SYSTEMS AS FUNCTIONS OF STELLAR MASS AND EFFECTIVE TEMPERATURE](http://adsabs.harvard.edu/abs/2020AJ....159..164Y)  
+68. [OCCURRENCE AND ARCHITECTURE OF KEPLER PLANETARY SYSTEMS AS FUNCTIONS OF STELLAR MASS AND EFFECTIVE TEMPERATURE](http://adsabs.harvard.edu/abs/2020AJ....159..164Y)  
 Yang, Jia-Yi, Xie, Ji-Wei, Zhou, Ji-Lin    
 2020, refereed ([2020AJ....159..164Y](http://adsabs.harvard.edu/abs/2020AJ....159..164Y))  
 
-49. [EXOPLANET SYSTEM KEPLER-2 WITH COMPARISONS TO KEPLER-1 AND 13](http://adsabs.harvard.edu/abs/2020Ap&SS.365...77R)  
+69. [EXOPLANET SYSTEM KEPLER-2 WITH COMPARISONS TO KEPLER-1 AND 13](http://adsabs.harvard.edu/abs/2020Ap&SS.365...77R)  
 Rhodes, Michael D., Püsküllü, çaǧlar, Budding, Edwin, et al.    
 2020, refereed ([2020Ap&SS.365...77R](http://adsabs.harvard.edu/abs/2020Ap&SS.365...77R))  
 
-50. [A RELATIONSHIP BETWEEN STELLAR AGE AND SPOT COVERAGE](http://adsabs.harvard.edu/abs/2020ApJ...893...67M)  
+70. [A RELATIONSHIP BETWEEN STELLAR AGE AND SPOT COVERAGE](http://adsabs.harvard.edu/abs/2020ApJ...893...67M)  
 Morris, Brett M.    
 2020, refereed ([2020ApJ...893...67M](http://adsabs.harvard.edu/abs/2020ApJ...893...67M))  
 
-51. [THE KEPLER PEAS IN A POD PATTERN IS ASTROPHYSICAL](http://adsabs.harvard.edu/abs/2020ApJ...893L...1W)  
+71. [THE KEPLER PEAS IN A POD PATTERN IS ASTROPHYSICAL](http://adsabs.harvard.edu/abs/2020ApJ...893L...1W)  
 Weiss, Lauren M., Petigura, Erik A.    
 2020, refereed ([2020ApJ...893L...1W](http://adsabs.harvard.edu/abs/2020ApJ...893L...1W))  
 
-52. [A HABITABLE-ZONE EARTH-SIZED PLANET RESCUED FROM FALSE POSITIVE STATUS](http://adsabs.harvard.edu/abs/2020ApJ...893L..27V)  
+72. [A HABITABLE-ZONE EARTH-SIZED PLANET RESCUED FROM FALSE POSITIVE STATUS](http://adsabs.harvard.edu/abs/2020ApJ...893L..27V)  
 Vanderburg, Andrew, Rowden, Pamela, Bryson, Steve, et al.    
 2020, refereed ([2020ApJ...893L..27V](http://adsabs.harvard.edu/abs/2020ApJ...893L..27V))  
 
-53. [THE BIO-HABITABLE ZONE AND ATMOSPHERIC PROPERTIES FOR PLANETS OF RED DWARFS](http://adsabs.harvard.edu/abs/2020IJAsB..19..126W)  
+73. [THE BIO-HABITABLE ZONE AND ATMOSPHERIC PROPERTIES FOR PLANETS OF RED DWARFS](http://adsabs.harvard.edu/abs/2020IJAsB..19..126W)  
 Wandel, A., Gale, J.    
 2020, refereed ([2020IJAsB..19..126W](http://adsabs.harvard.edu/abs/2020IJAsB..19..126W))  
 
-54. [SPECTROSCOPY OF HOT Γ DORADUS AND A-F HYBRID KEPLER CANDIDATES CLOSE TO THE HOT BORDER OF THE Δ SCUTI INSTABILITY STRIP](http://adsabs.harvard.edu/abs/2020MNRAS.493.4518K)  
+74. [SPECTROSCOPY OF HOT Γ DORADUS AND A-F HYBRID KEPLER CANDIDATES CLOSE TO THE HOT BORDER OF THE Δ SCUTI INSTABILITY STRIP](http://adsabs.harvard.edu/abs/2020MNRAS.493.4518K)  
 Kahraman Aliçavuș, F., Poretti, E., Catanzaro, G., et al.    
 2020, refereed ([2020MNRAS.493.4518K](http://adsabs.harvard.edu/abs/2020MNRAS.493.4518K))  
 
-55. [CHEMICAL DIVERSITY OF SUPER-EARTHS AS A CONSEQUENCE OF FORMATION](http://adsabs.harvard.edu/abs/2020MNRAS.493.4910S)  
+75. [CHEMICAL DIVERSITY OF SUPER-EARTHS AS A CONSEQUENCE OF FORMATION](http://adsabs.harvard.edu/abs/2020MNRAS.493.4910S)  
 Scora, Jennifer, Valencia, Diana, Morbidelli, Alessandro, et al.    
 2020, refereed ([2020MNRAS.493.4910S](http://adsabs.harvard.edu/abs/2020MNRAS.493.4910S))  
 
-56. [DETERMINING THE SIZE OF THE HELIUM CORE OF KIC 9970396 USING ASTEROSEISMOLOGY: A RED GIANT APPROACHING THE RED GIANT BUMP](http://adsabs.harvard.edu/abs/2020MNRAS.494..511Z)  
+76. [DETERMINING THE SIZE OF THE HELIUM CORE OF KIC 9970396 USING ASTEROSEISMOLOGY: A RED GIANT APPROACHING THE RED GIANT BUMP](http://adsabs.harvard.edu/abs/2020MNRAS.494..511Z)  
 Zhang, Xinyi, Li, Yan, Wu, Tao, et al.    
 2020, refereed ([2020MNRAS.494..511Z](http://adsabs.harvard.edu/abs/2020MNRAS.494..511Z))  
 
-57. [EARTH-SIZE PLANET FORMATION IN THE HABITABLE ZONE OF CIRCUMBINARY STARS](http://adsabs.harvard.edu/abs/2020MNRAS.494.1045B)  
+77. [EARTH-SIZE PLANET FORMATION IN THE HABITABLE ZONE OF CIRCUMBINARY STARS](http://adsabs.harvard.edu/abs/2020MNRAS.494.1045B)  
 Barbosa, G. O., Winter, O. C., Amarante, A., et al.    
 2020, refereed ([2020MNRAS.494.1045B](http://adsabs.harvard.edu/abs/2020MNRAS.494.1045B))  
 
-58. [EXOMOON INDICATORS IN HIGH-PRECISION TRANSIT LIGHT CURVES](http://adsabs.harvard.edu/abs/2020arXiv200402259R)  
+78. [EXOMOON INDICATORS IN HIGH-PRECISION TRANSIT LIGHT CURVES](http://adsabs.harvard.edu/abs/2020arXiv200402259R)  
 Rodenbeck, Kai, Heller, René, Gizon, Laurent    
 2020, not refereed ([2020arXiv200402259R](http://adsabs.harvard.edu/abs/2020arXiv200402259R))  
 
-59. [IMPOSSIBLE MOONS -- TRANSIT TIMING EFFECTS THAT CANNOT BE DUE TO AN EXOMOON](http://adsabs.harvard.edu/abs/2020arXiv200404230K)  
+79. [IMPOSSIBLE MOONS -- TRANSIT TIMING EFFECTS THAT CANNOT BE DUE TO AN EXOMOON](http://adsabs.harvard.edu/abs/2020arXiv200404230K)  
 Kipping, David, Teachey, Alex    
 2020, not refereed ([2020arXiv200404230K](http://adsabs.harvard.edu/abs/2020arXiv200404230K))  
 
-60. [FUNDAMENTAL RELATIONS FOR THE VELOCITY DISPERSION OF STARS IN THE MILKY WAY](http://adsabs.harvard.edu/abs/2020arXiv200406556S)  
+80. [FUNDAMENTAL RELATIONS FOR THE VELOCITY DISPERSION OF STARS IN THE MILKY WAY](http://adsabs.harvard.edu/abs/2020arXiv200406556S)  
 Sharma, Sanjib, Hayden, Michael R., Bland-Hawthorn, Joss, et al.    
 2020, not refereed ([2020arXiv200406556S](http://adsabs.harvard.edu/abs/2020arXiv200406556S))  
 
-61. [CONNECTING MEASUREMENTS OF SOLAR AND STELLAR BRIGHTNESS VARIATIONS](http://adsabs.harvard.edu/abs/2020arXiv200406974N)  
+81. [CONNECTING MEASUREMENTS OF SOLAR AND STELLAR BRIGHTNESS VARIATIONS](http://adsabs.harvard.edu/abs/2020arXiv200406974N)  
 Nèmec, N. -E., Ișık, E., Shapiro, A. I., et al.    
 2020, not refereed ([2020arXiv200406974N](http://adsabs.harvard.edu/abs/2020arXiv200406974N))  
 
-62. [KIC~8975515: A FAST-ROTATING ($\GAMMA$ DOR - $\DELTA$ SCT) HYBRID STAR WITH ROSSBY MODES AND A SLOWER $\DELTA$ SCT COMPANION IN A LONG-PERIOD ORBIT](http://adsabs.harvard.edu/abs/2020arXiv200408048S)  
+82. [KIC~8975515: A FAST-ROTATING ($\GAMMA$ DOR - $\DELTA$ SCT) HYBRID STAR WITH ROSSBY MODES AND A SLOWER $\DELTA$ SCT COMPANION IN A LONG-PERIOD ORBIT](http://adsabs.harvard.edu/abs/2020arXiv200408048S)  
 Samadi-Ghadim, A., Lampens, P., Jassur, D. M., et al.    
 2020, not refereed ([2020arXiv200408048S](http://adsabs.harvard.edu/abs/2020arXiv200408048S))  
 
-63. [AGE DISSECTION OF THE MILKY WAY DISCS: RED GIANTS IN THE KEPLER FIELD](http://adsabs.harvard.edu/abs/2020arXiv200414806M)  
+83. [AGE DISSECTION OF THE MILKY WAY DISCS: RED GIANTS IN THE KEPLER FIELD](http://adsabs.harvard.edu/abs/2020arXiv200414806M)  
 Miglio, Andrea, Chiappini, Cristina, Mackereth, Ted, et al.    
 2020, not refereed ([2020arXiv200414806M](http://adsabs.harvard.edu/abs/2020arXiv200414806M))  
 
-64. [UNCERTAINTIES AND BIASES IN MODELLING 16 CYGNI A AND B](http://adsabs.harvard.edu/abs/2020A&A...635A..26B)  
+84. [UNCERTAINTIES AND BIASES IN MODELLING 16 CYGNI A AND B](http://adsabs.harvard.edu/abs/2020A&A...635A..26B)  
 Bazot, M.    
 2020, refereed ([2020A&A...635A..26B](http://adsabs.harvard.edu/abs/2020A&A...635A..26B))  
 
-65. [RELEVANCE OF THE SMALL FREQUENCY SEPARATION FOR ASTEROSEISMIC STELLAR AGE, MASS, AND RADIUS. A STATISTICAL INVESTIGATION FOR MAIN-SEQUENCE LOW-MASS STARS](http://adsabs.harvard.edu/abs/2020A&A...635A..77V)  
+85. [RELEVANCE OF THE SMALL FREQUENCY SEPARATION FOR ASTEROSEISMIC STELLAR AGE, MASS, AND RADIUS. A STATISTICAL INVESTIGATION FOR MAIN-SEQUENCE LOW-MASS STARS](http://adsabs.harvard.edu/abs/2020A&A...635A..77V)  
 Valle, G., Dell'Omodarme, M., Prada Moroni, P. G., et al.    
 2020, refereed ([2020A&A...635A..77V](http://adsabs.harvard.edu/abs/2020A&A...635A..77V))  
 
-66. [STELLAR MAGNETIC ACTIVITY AND THE BUTTERFLY DIAGRAM OF KEPLER-63](http://adsabs.harvard.edu/abs/2020A&A...635A..78N)  
+86. [STELLAR MAGNETIC ACTIVITY AND THE BUTTERFLY DIAGRAM OF KEPLER-63](http://adsabs.harvard.edu/abs/2020A&A...635A..78N)  
 Netto, Y., Valio, A.    
 2020, refereed ([2020A&A...635A..78N](http://adsabs.harvard.edu/abs/2020A&A...635A..78N))  
 
-67. [A DIAGNOSTIC DIAGRAM FOR Γ DORADUS VARIABLES AND SLOWLY PULSATING B-TYPE STARS](http://adsabs.harvard.edu/abs/2020A&A...635A.106T)  
+87. [A DIAGNOSTIC DIAGRAM FOR Γ DORADUS VARIABLES AND SLOWLY PULSATING B-TYPE STARS](http://adsabs.harvard.edu/abs/2020A&A...635A.106T)  
 Takata, M., Ouazzani, R. -M., Saio, H., et al.    
 2020, refereed ([2020A&A...635A.106T](http://adsabs.harvard.edu/abs/2020A&A...635A.106T))  
 
-68. [SPATIAL DISTRIBUTION OF EXOPLANET CANDIDATES BASED ON KEPLER AND GAIA DATA](http://adsabs.harvard.edu/abs/2020A&A...635A.191M)  
+88. [SPATIAL DISTRIBUTION OF EXOPLANET CANDIDATES BASED ON KEPLER AND GAIA DATA](http://adsabs.harvard.edu/abs/2020A&A...635A.191M)  
 Maliuk, A., Budaj, J.    
 2020, refereed ([2020A&A...635A.191M](http://adsabs.harvard.edu/abs/2020A&A...635A.191M))  
 
-69. [THE ROLE OF DISC TORQUES IN FORMING RESONANT PLANETARY SYSTEMS](http://adsabs.harvard.edu/abs/2020A&A...635A.204A)  
+89. [THE ROLE OF DISC TORQUES IN FORMING RESONANT PLANETARY SYSTEMS](http://adsabs.harvard.edu/abs/2020A&A...635A.204A)  
 Ataiee, S., Kley, W.    
 2020, refereed ([2020A&A...635A.204A](http://adsabs.harvard.edu/abs/2020A&A...635A.204A))  
 
-70. [KEPLER-1661 B: A NEPTUNE-SIZED KEPLER TRANSITING CIRCUMBINARY PLANET AROUND A GRAZING ECLIPSING BINARY](http://adsabs.harvard.edu/abs/2020AJ....159...94S)  
+90. [KEPLER-1661 B: A NEPTUNE-SIZED KEPLER TRANSITING CIRCUMBINARY PLANET AROUND A GRAZING ECLIPSING BINARY](http://adsabs.harvard.edu/abs/2020AJ....159...94S)  
 Socia, Quentin J., Welsh, William F., Orosz, Jerome A., et al.    
 2020, refereed ([2020AJ....159...94S](http://adsabs.harvard.edu/abs/2020AJ....159...94S))  
 
-71. [DIFFUSER-ASSISTED INFRARED TRANSIT PHOTOMETRY FOR FOUR DYNAMICALLY INTERACTING KEPLER SYSTEMS](http://adsabs.harvard.edu/abs/2020AJ....159..108V)  
+91. [DIFFUSER-ASSISTED INFRARED TRANSIT PHOTOMETRY FOR FOUR DYNAMICALLY INTERACTING KEPLER SYSTEMS](http://adsabs.harvard.edu/abs/2020AJ....159..108V)  
 Vissapragada, Shreyas, Jontof-Hutter, Daniel, Shporer, Avi, et al.    
 2020, refereed ([2020AJ....159..108V](http://adsabs.harvard.edu/abs/2020AJ....159..108V))  
 
-72. [SEARCHING THE ENTIRETY OF KEPLER DATA. I. 17 NEW PLANET CANDIDATES INCLUDING ONE HABITABLE ZONE WORLD](http://adsabs.harvard.edu/abs/2020AJ....159..124K)  
+92. [SEARCHING THE ENTIRETY OF KEPLER DATA. I. 17 NEW PLANET CANDIDATES INCLUDING ONE HABITABLE ZONE WORLD](http://adsabs.harvard.edu/abs/2020AJ....159..124K)  
 Kunimoto, Michelle, Matthews, Jaymie M., Ngo, Henry    
 2020, refereed ([2020AJ....159..124K](http://adsabs.harvard.edu/abs/2020AJ....159..124K))  
 
-73. [ANALYSIS OF NEAR 2:1 MEAN-MOTION RESONANCE FOR KEPLER-9B AND C](http://adsabs.harvard.edu/abs/2020AcASn..61...12C)  
+93. [ANALYSIS OF NEAR 2:1 MEAN-MOTION RESONANCE FOR KEPLER-9B AND C](http://adsabs.harvard.edu/abs/2020AcASn..61...12C)  
 Chen, Y. Y., Wang, X. F., Ma, Y. H.    
 2020, refereed ([2020AcASn..61...12C](http://adsabs.harvard.edu/abs/2020AcASn..61...12C))  
 
-74. [A JOINT MASS─RADIUS─PERIOD DISTRIBUTION OF EXOPLANETS](http://adsabs.harvard.edu/abs/2020ApJ...891...12N)  
+94. [A JOINT MASS─RADIUS─PERIOD DISTRIBUTION OF EXOPLANETS](http://adsabs.harvard.edu/abs/2020ApJ...891...12N)  
 Neil, Andrew R., Rogers, Leslie A.    
 2020, refereed ([2020ApJ...891...12N](http://adsabs.harvard.edu/abs/2020ApJ...891...12N))  
 
-75. [FORMING DIVERSE SUPER-EARTH SYSTEMS IN SITU](http://adsabs.harvard.edu/abs/2020ApJ...891...20M)  
+95. [FORMING DIVERSE SUPER-EARTH SYSTEMS IN SITU](http://adsabs.harvard.edu/abs/2020ApJ...891...20M)  
 MacDonald, Mariah G., Dawson, Rebekah I., Morrison, Sarah J., et al.    
 2020, refereed ([2020ApJ...891...20M](http://adsabs.harvard.edu/abs/2020ApJ...891...20M))  
 
-76. [TEMPORAL EVOLUTION OF SPATIALLY RESOLVED INDIVIDUAL STAR SPOTS ON A PLANET-HOSTING SOLAR-TYPE STAR: KEPLER-17](http://adsabs.harvard.edu/abs/2020ApJ...891..103N)  
+96. [TEMPORAL EVOLUTION OF SPATIALLY RESOLVED INDIVIDUAL STAR SPOTS ON A PLANET-HOSTING SOLAR-TYPE STAR: KEPLER-17](http://adsabs.harvard.edu/abs/2020ApJ...891..103N)  
 Namekata, Kosuke, Davenport, James R. A., Morris, Brett M., et al.    
 2020, refereed ([2020ApJ...891..103N](http://adsabs.harvard.edu/abs/2020ApJ...891..103N))  
 
-77. [ATMOSPHERE ORIGINS FOR EXOPLANET SUB-NEPTUNES](http://adsabs.harvard.edu/abs/2020ApJ...891..111K)  
+97. [ATMOSPHERE ORIGINS FOR EXOPLANET SUB-NEPTUNES](http://adsabs.harvard.edu/abs/2020ApJ...891..111K)  
 Kite, Edwin S., Fegley, Bruce, Jr., Schaefer, Laura, et al.    
 2020, refereed ([2020ApJ...891..111K](http://adsabs.harvard.edu/abs/2020ApJ...891..111K))  
 
-78. [M-DWARF ECLIPSING BINARIES WITH FLARE ACTIVITY](http://adsabs.harvard.edu/abs/2020ApJ...892...58H)  
+98. [M-DWARF ECLIPSING BINARIES WITH FLARE ACTIVITY](http://adsabs.harvard.edu/abs/2020ApJ...892...58H)  
 Huang, L. -C., Ip, W. -H., Lin, C. -L., et al.    
 2020, refereed ([2020ApJ...892...58H](http://adsabs.harvard.edu/abs/2020ApJ...892...58H))  
 
-79. [MAGNETIC ACTIVITY OF F-, G-, AND K-TYPE STARS IN THE LAMOST─KEPLER FIELD](http://adsabs.harvard.edu/abs/2020ApJS..247....9Z)  
+99. [MAGNETIC ACTIVITY OF F-, G-, AND K-TYPE STARS IN THE LAMOST─KEPLER FIELD](http://adsabs.harvard.edu/abs/2020ApJS..247....9Z)  
 Zhang, Jinghua, Bi, Shaolan, Li, Yaguang, et al.    
 2020, refereed ([2020ApJS..247....9Z](http://adsabs.harvard.edu/abs/2020ApJS..247....9Z))  
 
-80. [(NOT SO) HIERARCHICAL STELLAR MULTIPLES SEEN THROUGH THE EYES OF KEPLER, TESS, AND OTHER MISSIONS](http://adsabs.harvard.edu/abs/2020CoSka..50..400B)  
+100. [(NOT SO) HIERARCHICAL STELLAR MULTIPLES SEEN THROUGH THE EYES OF KEPLER, TESS, AND OTHER MISSIONS](http://adsabs.harvard.edu/abs/2020CoSka..50..400B)  
 Borkovits, T., Rappaport, S. A.    
 2020, refereed ([2020CoSka..50..400B](http://adsabs.harvard.edu/abs/2020CoSka..50..400B))  
 
-81. [ECLIPSING BINARIES HIDING IN THE BACKGROUND: THE KEPLER PIXEL PROJECT](http://adsabs.harvard.edu/abs/2020CoSka..50..405F)  
+101. [ECLIPSING BINARIES HIDING IN THE BACKGROUND: THE KEPLER PIXEL PROJECT](http://adsabs.harvard.edu/abs/2020CoSka..50..405F)  
 Forró, A., Szabó, R.    
 2020, refereed ([2020CoSka..50..405F](http://adsabs.harvard.edu/abs/2020CoSka..50..405F))  
 
-82. [ON SOME STRANGE FEATURES IN KEPLER EB LIGHT CURVES](http://adsabs.harvard.edu/abs/2020CoSka..50..419N)  
+102. [ON SOME STRANGE FEATURES IN KEPLER EB LIGHT CURVES](http://adsabs.harvard.edu/abs/2020CoSka..50..419N)  
 Nuspl, J., Hajdu, T., Hegedüs, T.    
 2020, refereed ([2020CoSka..50..419N](http://adsabs.harvard.edu/abs/2020CoSka..50..419N))  
 
-83. [CIRCUMBINARY PLANETS - THE NEXT STEPS](http://adsabs.harvard.edu/abs/2020CoSka..50..463M)  
+103. [CIRCUMBINARY PLANETS - THE NEXT STEPS](http://adsabs.harvard.edu/abs/2020CoSka..50..463M)  
 Martin, D. V.    
 2020, refereed ([2020CoSka..50..463M](http://adsabs.harvard.edu/abs/2020CoSka..50..463M))  
 
-84. [SPOT MIGRATION ON THE ECLIPSING BINARY KIC 9821078](http://adsabs.harvard.edu/abs/2020CoSka..50..481B)  
+104. [SPOT MIGRATION ON THE ECLIPSING BINARY KIC 9821078](http://adsabs.harvard.edu/abs/2020CoSka..50..481B)  
 Bahar, E., Özavcı, İ., Şenavcı, H. V.    
 2020, refereed ([2020CoSka..50..481B](http://adsabs.harvard.edu/abs/2020CoSka..50..481B))  
 
-85. [ON THE FIRST Δ SCUTI-LIKE PULSATING AP STAR IN AN ECLIPSING BINARY](http://adsabs.harvard.edu/abs/2020CoSka..50..630S)  
+105. [ON THE FIRST Δ SCUTI-LIKE PULSATING AP STAR IN AN ECLIPSING BINARY](http://adsabs.harvard.edu/abs/2020CoSka..50..630S)  
 Skarka, M., Kabáth, P., Paunzen, E., et al.    
 2020, refereed ([2020CoSka..50..630S](http://adsabs.harvard.edu/abs/2020CoSka..50..630S))  
 
-86. [CAN CLOSE-IN GIANT EXOPLANETS PRESERVE DETECTABLE MOONS?](http://adsabs.harvard.edu/abs/2020MNRAS.492.3499S)  
+106. [CAN CLOSE-IN GIANT EXOPLANETS PRESERVE DETECTABLE MOONS?](http://adsabs.harvard.edu/abs/2020MNRAS.492.3499S)  
 Sucerquia, Mario, Ramírez, Vanesa, Alvarado-Montes, Jaime A., et al.    
 2020, refereed ([2020MNRAS.492.3499S](http://adsabs.harvard.edu/abs/2020MNRAS.492.3499S))  
 
-87. [THE PERFORMANCE OF PHOTOMETRIC REVERBERATION MAPPING AT HIGH REDSHIFT AND THE RELIABILITY OF DAMPED RANDOM WALK MODELS](http://adsabs.harvard.edu/abs/2020MNRAS.492.3940R)  
+107. [THE PERFORMANCE OF PHOTOMETRIC REVERBERATION MAPPING AT HIGH REDSHIFT AND THE RELIABILITY OF DAMPED RANDOM WALK MODELS](http://adsabs.harvard.edu/abs/2020MNRAS.492.3940R)  
 Read, S. C., Smith, D. J. B., Jarvis, M. J., et al.    
 2020, refereed ([2020MNRAS.492.3940R](http://adsabs.harvard.edu/abs/2020MNRAS.492.3940R))  
 
-88. [TREND FILTERING - I. A MODERN STATISTICAL TOOL FOR TIME-DOMAIN ASTRONOMY AND ASTRONOMICAL SPECTROSCOPY](http://adsabs.harvard.edu/abs/2020MNRAS.492.4005P)  
+108. [TREND FILTERING - I. A MODERN STATISTICAL TOOL FOR TIME-DOMAIN ASTRONOMY AND ASTRONOMICAL SPECTROSCOPY](http://adsabs.harvard.edu/abs/2020MNRAS.492.4005P)  
 Politsch, Collin A., Cisewski-Kehe, Jessi, Croft, Rupert A. C., et al.    
 2020, refereed ([2020MNRAS.492.4005P](http://adsabs.harvard.edu/abs/2020MNRAS.492.4005P))  
 
-89. [ACTIVITY AND DIFFERENTIAL ROTATION OF THE EARLY M DWARF KEPLER-45 FROM TRANSIT MAPPING](http://adsabs.harvard.edu/abs/2020MNRAS.492.5141Z)  
+109. [ACTIVITY AND DIFFERENTIAL ROTATION OF THE EARLY M DWARF KEPLER-45 FROM TRANSIT MAPPING](http://adsabs.harvard.edu/abs/2020MNRAS.492.5141Z)  
 Zaleski, S. M., Valio, A., Carter, B. D., et al.    
 2020, refereed ([2020MNRAS.492.5141Z](http://adsabs.harvard.edu/abs/2020MNRAS.492.5141Z))  
 
-90. [ASTEROSEISMOLOGY OF LUMINOUS RED GIANTS WITH KEPLER I: LONG-PERIOD VARIABLES WITH RADIAL AND NON-RADIAL MODES](http://adsabs.harvard.edu/abs/2020MNRAS.493.1388Y)  
+110. [ASTEROSEISMOLOGY OF LUMINOUS RED GIANTS WITH KEPLER I: LONG-PERIOD VARIABLES WITH RADIAL AND NON-RADIAL MODES](http://adsabs.harvard.edu/abs/2020MNRAS.493.1388Y)  
 Yu, Jie, Bedding, Timothy R., Stello, Dennis, et al.    
 2020, refereed ([2020MNRAS.493.1388Y](http://adsabs.harvard.edu/abs/2020MNRAS.493.1388Y))  
 
-91. [PEAS IN A POD? RADIUS CORRELATIONS IN KEPLER MULTI-PLANET SYSTEMS](http://adsabs.harvard.edu/abs/2020arXiv200302290M)  
+111. [PEAS IN A POD? RADIUS CORRELATIONS IN KEPLER MULTI-PLANET SYSTEMS](http://adsabs.harvard.edu/abs/2020arXiv200302290M)  
 Murchikova, Lena, Tremaine, Scott    
 2020, not refereed ([2020arXiv200302290M](http://adsabs.harvard.edu/abs/2020arXiv200302290M))  
 
-92. [UNVEILING THE DISTINCT FORMATION PATHWAYS OF THE INNER AND OUTER DISCS OF THE MILKY WAY WITH BAYESIAN MACHINE LEARNING](http://adsabs.harvard.edu/abs/2020arXiv200303316C)  
+112. [UNVEILING THE DISTINCT FORMATION PATHWAYS OF THE INNER AND OUTER DISCS OF THE MILKY WAY WITH BAYESIAN MACHINE LEARNING](http://adsabs.harvard.edu/abs/2020arXiv200303316C)  
 Ciucă, Ioana, Kawata, Daisuke, Miglio, Andrea, et al.    
 2020, not refereed ([2020arXiv200303316C](http://adsabs.harvard.edu/abs/2020arXiv200303316C))  
 
-93. [ARCHITECTURES OF EXOPLANETARY SYSTEMS. II: AN INTRINSIC RELATION BETWEEN PLANETARY SYSTEM OCCURRENCE AND SPECTRAL TYPE FOR KEPLER'S FGK DWARFS](http://adsabs.harvard.edu/abs/2020arXiv200304348H)  
+113. [ARCHITECTURES OF EXOPLANETARY SYSTEMS. II: AN INTRINSIC RELATION BETWEEN PLANETARY SYSTEM OCCURRENCE AND SPECTRAL TYPE FOR KEPLER'S FGK DWARFS](http://adsabs.harvard.edu/abs/2020arXiv200304348H)  
 He, Matthias Y., Ford, Eric B., Ragozzine, Darin    
 2020, not refereed ([2020arXiv200304348H](http://adsabs.harvard.edu/abs/2020arXiv200304348H))  
 
-94. [DYNAMICAL INSTABILITIES IN SYSTEMS OF MULTIPLE SHORT-PERIOD PLANETS ARE LIKELY DRIVEN BY SECULAR CHAOS: A CASE STUDY OF KEPLER-102](http://adsabs.harvard.edu/abs/2020arXiv200305040V)  
+114. [DYNAMICAL INSTABILITIES IN SYSTEMS OF MULTIPLE SHORT-PERIOD PLANETS ARE LIKELY DRIVEN BY SECULAR CHAOS: A CASE STUDY OF KEPLER-102](http://adsabs.harvard.edu/abs/2020arXiv200305040V)  
 Volk, Kathryn, Malhotra, Renu    
 2020, not refereed ([2020arXiv200305040V](http://adsabs.harvard.edu/abs/2020arXiv200305040V))  
 
-95. [KEPLER PLANETS AND METALLICITY](http://adsabs.harvard.edu/abs/2020arXiv200308431K)  
+115. [KEPLER PLANETS AND METALLICITY](http://adsabs.harvard.edu/abs/2020arXiv200308431K)  
 Kutra, Taylor, Wu, Yanqin    
 2020, not refereed ([2020arXiv200308431K](http://adsabs.harvard.edu/abs/2020arXiv200308431K))  
 
-96. [TIDAL EVOLUTION OF CIRCUMBINARY SYSTEMS WITH ARBITRARY ECCENTRICITIES: APPLICATIONS FOR KEPLER SYSTEMS](http://adsabs.harvard.edu/abs/2020A&A...634A..12Z)  
+116. [TIDAL EVOLUTION OF CIRCUMBINARY SYSTEMS WITH ARBITRARY ECCENTRICITIES: APPLICATIONS FOR KEPLER SYSTEMS](http://adsabs.harvard.edu/abs/2020A&A...634A..12Z)  
 Zoppetti, F. A., Leiva, A. M., Beaugé, C.    
 2020, refereed ([2020A&A...634A..12Z](http://adsabs.harvard.edu/abs/2020A&A...634A..12Z))  
 
-97. [GEMINI-GRACES HIGH-QUALITY SPECTRA OF KEPLER EVOLVED STARS WITH TRANSITING PLANETS. I. DETAILED CHARACTERIZATION OF MULTI-PLANET SYSTEMS KEPLER-278 AND KEPLER-391](http://adsabs.harvard.edu/abs/2020A&A...634A..29J)  
+117. [GEMINI-GRACES HIGH-QUALITY SPECTRA OF KEPLER EVOLVED STARS WITH TRANSITING PLANETS. I. DETAILED CHARACTERIZATION OF MULTI-PLANET SYSTEMS KEPLER-278 AND KEPLER-391](http://adsabs.harvard.edu/abs/2020A&A...634A..29J)  
 Jofré, E., Almenara, J. M., Petrucci, R., et al.    
 2020, refereed ([2020A&A...634A..29J](http://adsabs.harvard.edu/abs/2020A&A...634A..29J))  
 
-98. [EFFECT OF METALLICITY ON THE DETECTABILITY OF ROTATIONAL PERIODS IN SOLAR-LIKE STARS](http://adsabs.harvard.edu/abs/2020A&A...634L...9W)  
+118. [EFFECT OF METALLICITY ON THE DETECTABILITY OF ROTATIONAL PERIODS IN SOLAR-LIKE STARS](http://adsabs.harvard.edu/abs/2020A&A...634L...9W)  
 Witzke, V., Reinhold, T., Shapiro, A. I., et al.    
 2020, refereed ([2020A&A...634L...9W](http://adsabs.harvard.edu/abs/2020A&A...634L...9W))  
 
-99. [MUTUAL ORBITAL INCLINATIONS BETWEEN COLD JUPITERS AND INNER SUPER-EARTHS](http://adsabs.harvard.edu/abs/2020AJ....159...38M)  
+119. [MUTUAL ORBITAL INCLINATIONS BETWEEN COLD JUPITERS AND INNER SUPER-EARTHS](http://adsabs.harvard.edu/abs/2020AJ....159...38M)  
 Masuda, Kento, Winn, Joshua N., Kawahara, Hajime    
 2020, refereed ([2020AJ....159...38M](http://adsabs.harvard.edu/abs/2020AJ....159...38M))  
 
-100. [A FLEXIBLE BAYESIAN FRAMEWORK FOR ASSESSING HABITABILITY WITH JOINT OBSERVATIONAL AND MODEL CONSTRAINTS](http://adsabs.harvard.edu/abs/2020AJ....159...55T)  
+120. [A FLEXIBLE BAYESIAN FRAMEWORK FOR ASSESSING HABITABILITY WITH JOINT OBSERVATIONAL AND MODEL CONSTRAINTS](http://adsabs.harvard.edu/abs/2020AJ....159...55T)  
 Truitt, Amanda R., Young, Patrick A., Walker, Sara I., et al.    
 2020, refereed ([2020AJ....159...55T](http://adsabs.harvard.edu/abs/2020AJ....159...55T))  
 
-101. [THE FEATURELESS TRANSMISSION SPECTRA OF TWO SUPER-PUFF PLANETS](http://adsabs.harvard.edu/abs/2020AJ....159...57L)  
+121. [THE FEATURELESS TRANSMISSION SPECTRA OF TWO SUPER-PUFF PLANETS](http://adsabs.harvard.edu/abs/2020AJ....159...57L)  
 Libby-Roberts, Jessica E., Berta-Thompson, Zachory K., Désert, Jean-Michel, et al.    
 2020, refereed ([2020AJ....159...57L](http://adsabs.harvard.edu/abs/2020AJ....159...57L))  
 
-102. [DEFLATING SUPER-PUFFS: IMPACT OF PHOTOCHEMICAL HAZES ON THE OBSERVED MASS─RADIUS RELATIONSHIP OF LOW-MASS PLANETS](http://adsabs.harvard.edu/abs/2020ApJ...890...93G)  
+122. [DEFLATING SUPER-PUFFS: IMPACT OF PHOTOCHEMICAL HAZES ON THE OBSERVED MASS─RADIUS RELATIONSHIP OF LOW-MASS PLANETS](http://adsabs.harvard.edu/abs/2020ApJ...890...93G)  
 Gao, Peter, Zhang, Xi    
 2020, refereed ([2020ApJ...890...93G](http://adsabs.harvard.edu/abs/2020ApJ...890...93G))  
 
-103. [PHOTOMETRIC ROTATION PERIODS FOR 107 M DWARFS FROM THE APACHE SURVEY](http://adsabs.harvard.edu/abs/2020MNRAS.491.5216G)  
+123. [PHOTOMETRIC ROTATION PERIODS FOR 107 M DWARFS FROM THE APACHE SURVEY](http://adsabs.harvard.edu/abs/2020MNRAS.491.5216G)  
 Giacobbe, P., Benedetto, M., Damasso, M., et al.    
 2020, refereed ([2020MNRAS.491.5216G](http://adsabs.harvard.edu/abs/2020MNRAS.491.5216G))  
 
-104. [A SUPER-EARTH AND A MINI-NEPTUNE AROUND KEPLER-59](http://adsabs.harvard.edu/abs/2020MNRAS.491.5238S)  
+124. [A SUPER-EARTH AND A MINI-NEPTUNE AROUND KEPLER-59](http://adsabs.harvard.edu/abs/2020MNRAS.491.5238S)  
 Saad-Olivera, X., Martinez, C. F., Costa de Souza, A., et al.    
 2020, refereed ([2020MNRAS.491.5238S](http://adsabs.harvard.edu/abs/2020MNRAS.491.5238S))  
 
-105. [TESTING EXOPLANET EVAPORATION WITH MULTITRANSITING SYSTEMS](http://adsabs.harvard.edu/abs/2020MNRAS.491.5287O)  
+125. [TESTING EXOPLANET EVAPORATION WITH MULTITRANSITING SYSTEMS](http://adsabs.harvard.edu/abs/2020MNRAS.491.5287O)  
 Owen, James E., Campos Estrada, Beatriz    
 2020, refereed ([2020MNRAS.491.5287O](http://adsabs.harvard.edu/abs/2020MNRAS.491.5287O))  
 
-106. [FORMATION OF COMPACT SYSTEMS OF SUPER-EARTHS VIA DYNAMICAL INSTABILITIES AND GIANT IMPACTS](http://adsabs.harvard.edu/abs/2020MNRAS.491.5595P)  
+126. [FORMATION OF COMPACT SYSTEMS OF SUPER-EARTHS VIA DYNAMICAL INSTABILITIES AND GIANT IMPACTS](http://adsabs.harvard.edu/abs/2020MNRAS.491.5595P)  
 Poon, Sanson T. S., Nelson, Richard P., Jacobson, Seth A., et al.    
 2020, refereed ([2020MNRAS.491.5595P](http://adsabs.harvard.edu/abs/2020MNRAS.491.5595P))  
 
-107. [UPDATED PULSATION PERIOD RELATIONS OF Γ DOR-TYPE STARS IN ECLIPSING BINARIES: THE CASE OF KIC 2557430](http://adsabs.harvard.edu/abs/2020MNRAS.491.5980H)  
+127. [UPDATED PULSATION PERIOD RELATIONS OF Γ DOR-TYPE STARS IN ECLIPSING BINARIES: THE CASE OF KIC 2557430](http://adsabs.harvard.edu/abs/2020MNRAS.491.5980H)  
 Hoyman, Barıș, Çakırlı, Ömür, Özdarcan, Orkun    
 2020, refereed ([2020MNRAS.491.5980H](http://adsabs.harvard.edu/abs/2020MNRAS.491.5980H))  
 
-108. [THE CLOCKWORK IS MOVING ON - A COMBINED ANALYSIS OF TESS AND KEPLER MEASUREMENTS OF KEPLER-13AB](http://adsabs.harvard.edu/abs/2020MNRAS.492L..17S)  
+128. [THE CLOCKWORK IS MOVING ON - A COMBINED ANALYSIS OF TESS AND KEPLER MEASUREMENTS OF KEPLER-13AB](http://adsabs.harvard.edu/abs/2020MNRAS.492L..17S)  
 Szabó, Gy M., Pribulla, T., Pál, A., et al.    
 2020, refereed ([2020MNRAS.492L..17S](http://adsabs.harvard.edu/abs/2020MNRAS.492L..17S))  
 
-109. [FINDING BINARIES FROM PHASE MODULATION OF PULSATING STARS WITH KEPLER - VI. ORBITS FOR 10 NEW BINARIES WITH MISCHARACTERIZED PRIMARIES](http://adsabs.harvard.edu/abs/2020MNRAS.493.5382M)  
+129. [FINDING BINARIES FROM PHASE MODULATION OF PULSATING STARS WITH KEPLER - VI. ORBITS FOR 10 NEW BINARIES WITH MISCHARACTERIZED PRIMARIES](http://adsabs.harvard.edu/abs/2020MNRAS.493.5382M)  
 Murphy, Simon J., Barbara, Nicholas H., Hey, Daniel, et al.    
 2020, refereed ([2020MNRAS.493.5382M](http://adsabs.harvard.edu/abs/2020MNRAS.493.5382M))  
 
-110. [REVISED ORBITAL PARAMETERS OF BEAMING ECLIPSING BINARY SYSTEM HV CNC FROM KEPLER PHOTOMETRY](http://adsabs.harvard.edu/abs/2020NewA...7501302G)  
+130. [REVISED ORBITAL PARAMETERS OF BEAMING ECLIPSING BINARY SYSTEM HV CNC FROM KEPLER PHOTOMETRY](http://adsabs.harvard.edu/abs/2020NewA...7501302G)  
 Gökay, Gökhan, Özdemir, Sacit, Gürol, Birol    
 2020, refereed ([2020NewA...7501302G](http://adsabs.harvard.edu/abs/2020NewA...7501302G))  
 
-111. [PLANETARY EVOLUTION WITH ATMOSPHERIC PHOTOEVAPORATION I. ANALYTICAL DERIVATION AND NUMERICAL STUDY OF THE EVAPORATION VALLEY AND TRANSITION FROM SUPER-EARTHS TO SUB-NEPTUNES](http://adsabs.harvard.edu/abs/2020arXiv200202455M)  
+131. [PLANETARY EVOLUTION WITH ATMOSPHERIC PHOTOEVAPORATION I. ANALYTICAL DERIVATION AND NUMERICAL STUDY OF THE EVAPORATION VALLEY AND TRANSITION FROM SUPER-EARTHS TO SUB-NEPTUNES](http://adsabs.harvard.edu/abs/2020arXiv200202455M)  
 Mordasini, Christoph    
 2020, not refereed ([2020arXiv200202455M](http://adsabs.harvard.edu/abs/2020arXiv200202455M))  
 
-112. [OCCURRENCE RATES OF PLANETS ORBITING M STARS: APPLYING ABC TO KEPLER DR25, GAIA DR2, AND 2MASS DATA](http://adsabs.harvard.edu/abs/2020arXiv200202573H)  
+132. [OCCURRENCE RATES OF PLANETS ORBITING M STARS: APPLYING ABC TO KEPLER DR25, GAIA DR2, AND 2MASS DATA](http://adsabs.harvard.edu/abs/2020arXiv200202573H)  
 Hsu, Danley C., Ford, Eric B., Terrien, Ryan    
 2020, not refereed ([2020arXiv200202573H](http://adsabs.harvard.edu/abs/2020arXiv200202573H))  
 
-113. [RESOLVING POWER OF ASTEROSEISMIC INVERSION OF THE KEPLER LEGACY SAMPLE](http://adsabs.harvard.edu/abs/2020arXiv200209839K)  
+133. [RESOLVING POWER OF ASTEROSEISMIC INVERSION OF THE KEPLER LEGACY SAMPLE](http://adsabs.harvard.edu/abs/2020arXiv200209839K)  
 Kosovichev, Alexander G., Kitiashvili, Irina N.    
 2020, not refereed ([2020arXiv200209839K](http://adsabs.harvard.edu/abs/2020arXiv200209839K))  
 
-114. [EXTRASOLAR ENIGMAS: FROM DISINTEGRATING EXOPLANETS TO EXOASTEROIDS](http://adsabs.harvard.edu/abs/2020arXiv200210370B)  
+134. [EXTRASOLAR ENIGMAS: FROM DISINTEGRATING EXOPLANETS TO EXOASTEROIDS](http://adsabs.harvard.edu/abs/2020arXiv200210370B)  
 Budaj, Jan, Kabath, Petr, Palle, Enric    
 2020, not refereed ([2020arXiv200210370B](http://adsabs.harvard.edu/abs/2020arXiv200210370B))  
 
-115. [DENSITY BASED OUTLIER SCORING ON KEPLER DATA](http://adsabs.harvard.edu/abs/2020arXiv200300109G)  
+135. [DENSITY BASED OUTLIER SCORING ON KEPLER DATA](http://adsabs.harvard.edu/abs/2020arXiv200300109G)  
 Giles, Daniel, Walkowicz, Lucianne    
 2020, not refereed ([2020arXiv200300109G](http://adsabs.harvard.edu/abs/2020arXiv200300109G))  
 
-116. [CHEMICAL MIXING IN LOW MASS STARS. I. ROTATION AGAINST ATOMIC DIFFUSION INCLUDING RADIATIVE ACCELERATION](http://adsabs.harvard.edu/abs/2020A&A...633A..23D)  
+136. [CHEMICAL MIXING IN LOW MASS STARS. I. ROTATION AGAINST ATOMIC DIFFUSION INCLUDING RADIATIVE ACCELERATION](http://adsabs.harvard.edu/abs/2020A&A...633A..23D)  
 Deal, M., Goupil, M. -J., Marques, J. P., et al.    
 2020, refereed ([2020A&A...633A..23D](http://adsabs.harvard.edu/abs/2020A&A...633A..23D))  
 
-117. [INFLECTION POINT IN THE POWER SPECTRUM OF STELLAR BRIGHTNESS VARIATIONS. I. THE MODEL](http://adsabs.harvard.edu/abs/2020A&A...633A..32S)  
+137. [INFLECTION POINT IN THE POWER SPECTRUM OF STELLAR BRIGHTNESS VARIATIONS. I. THE MODEL](http://adsabs.harvard.edu/abs/2020A&A...633A..32S)  
 Shapiro, A. I., Amazo-Gómez, E. M., Krivova, N. A., et al.    
 2020, refereed ([2020A&A...633A..32S](http://adsabs.harvard.edu/abs/2020A&A...633A..32S))  
 
-118. [ABSOLUTE PROPERTIES OF THE ECLIPSING Γ DOR STAR V404 LYRAE](http://adsabs.harvard.edu/abs/2020AJ....159...24L)  
+138. [ABSOLUTE PROPERTIES OF THE ECLIPSING Γ DOR STAR V404 LYRAE](http://adsabs.harvard.edu/abs/2020AJ....159...24L)  
 Lee, Jae Woo, Hong, Kyeongsoo, Koo, Jae-Rim, et al.    
 2020, refereed ([2020AJ....159...24L](http://adsabs.harvard.edu/abs/2020AJ....159...24L))  
 
-119. [THE FULL KEPLER PHASE CURVE OF THE ECLIPSING HOT WHITE DWARF BINARY SYSTEM KOI-964](http://adsabs.harvard.edu/abs/2020AJ....159...29W)  
+139. [THE FULL KEPLER PHASE CURVE OF THE ECLIPSING HOT WHITE DWARF BINARY SYSTEM KOI-964](http://adsabs.harvard.edu/abs/2020AJ....159...29W)  
 Wong, Ian, Shporer, Avi, Becker, Juliette C., et al.    
 2020, refereed ([2020AJ....159...29W](http://adsabs.harvard.edu/abs/2020AJ....159...29W))  
 
-120. [ROBO-AO KEPLER ASTEROSEISMIC SURVEY. II. DO STELLAR COMPANIONS INHIBIT STELLAR OSCILLATIONS?](http://adsabs.harvard.edu/abs/2020ApJ...888...34S)  
+140. [ROBO-AO KEPLER ASTEROSEISMIC SURVEY. II. DO STELLAR COMPANIONS INHIBIT STELLAR OSCILLATIONS?](http://adsabs.harvard.edu/abs/2020ApJ...888...34S)  
 Schonhut-Stasik, Jessica, Huber, Daniel, Baranec, Christoph, et al.    
 2020, refereed ([2020ApJ...888...34S](http://adsabs.harvard.edu/abs/2020ApJ...888...34S))  
 
-121. [CHEMICAL EVOLUTION IN THE MILKY WAY: ROTATION-BASED AGES FOR APOGEE-KEPLER COOL DWARF STARS](http://adsabs.harvard.edu/abs/2020ApJ...888...43C)  
+141. [CHEMICAL EVOLUTION IN THE MILKY WAY: ROTATION-BASED AGES FOR APOGEE-KEPLER COOL DWARF STARS](http://adsabs.harvard.edu/abs/2020ApJ...888...43C)  
 Claytor, Zachary R., van Saders, Jennifer L., Santos, Ângela R. G., et al.    
 2020, refereed ([2020ApJ...888...43C](http://adsabs.harvard.edu/abs/2020ApJ...888...43C))  
 
-122. [TIDALLY EXCITED OSCILLATIONS IN HEARTBEAT BINARY STARS: PULSATION PHASES AND MODE IDENTIFICATION](http://adsabs.harvard.edu/abs/2020ApJ...888...95G)  
+142. [TIDALLY EXCITED OSCILLATIONS IN HEARTBEAT BINARY STARS: PULSATION PHASES AND MODE IDENTIFICATION](http://adsabs.harvard.edu/abs/2020ApJ...888...95G)  
 Guo, Zhao, Shporer, Avi, Hambleton, Kelly, et al.    
 2020, refereed ([2020ApJ...888...95G](http://adsabs.harvard.edu/abs/2020ApJ...888...95G))  
 
-123. [MACHINE-LEARNING INFERENCE OF THE INTERIOR STRUCTURE OF LOW-MASS EXOPLANETS](http://adsabs.harvard.edu/abs/2020ApJ...889...42B)  
+143. [MACHINE-LEARNING INFERENCE OF THE INTERIOR STRUCTURE OF LOW-MASS EXOPLANETS](http://adsabs.harvard.edu/abs/2020ApJ...889...42B)  
 Baumeister, Philipp, Padovan, Sebastiano, Tosi, Nicola, et al.    
 2020, refereed ([2020ApJ...889...42B](http://adsabs.harvard.edu/abs/2020ApJ...889...42B))  
 
-124. [OBLIQUITY EVOLUTION OF THE POTENTIALLY HABITABLE EXOPLANET KEPLER-62F](http://adsabs.harvard.edu/abs/2020AsBio..20...73Q)  
+144. [OBLIQUITY EVOLUTION OF THE POTENTIALLY HABITABLE EXOPLANET KEPLER-62F](http://adsabs.harvard.edu/abs/2020AsBio..20...73Q)  
 Quarles, Billy, Barnes, Jason W., Lissauer, Jack J., et al.    
 2020, refereed ([2020AsBio..20...73Q](http://adsabs.harvard.edu/abs/2020AsBio..20...73Q))  
 
-125. [COUPLING 1D STELLAR EVOLUTION WITH 3D-HYDRODYNAMICAL SIMULATIONS ON-THE-FLY II: STELLAR EVOLUTION AND ASTEROSEISMIC APPLICATIONS](http://adsabs.harvard.edu/abs/2020MNRAS.491.1160M)  
+145. [COUPLING 1D STELLAR EVOLUTION WITH 3D-HYDRODYNAMICAL SIMULATIONS ON-THE-FLY II: STELLAR EVOLUTION AND ASTEROSEISMIC APPLICATIONS](http://adsabs.harvard.edu/abs/2020MNRAS.491.1160M)  
 Mosumgaard, Jakob Rørsted, Jørgensen, Andreas Christ Sølvsten, Weiss, Achim, et al.    
 2020, refereed ([2020MNRAS.491.1160M](http://adsabs.harvard.edu/abs/2020MNRAS.491.1160M))  
 
-126. [DETERMINATION OF THE STAR-SPOT COVERING FRACTION AS A FUNCTION OF STELLAR AGE FROM OBSERVATIONAL DATA](http://adsabs.harvard.edu/abs/2020MNRAS.491.2706N)  
+146. [DETERMINATION OF THE STAR-SPOT COVERING FRACTION AS A FUNCTION OF STELLAR AGE FROM OBSERVATIONAL DATA](http://adsabs.harvard.edu/abs/2020MNRAS.491.2706N)  
 Nichols-Fleming, Fiona, Blackman, Eric G.    
 2020, refereed ([2020MNRAS.491.2706N](http://adsabs.harvard.edu/abs/2020MNRAS.491.2706N))  
 
-127. [GRAVITY-MODE PERIOD SPACINGS AND NEAR-CORE ROTATION RATES OF 611 Γ DORADUS STARS WITH KEPLER](http://adsabs.harvard.edu/abs/2020MNRAS.491.3586L)  
+147. [GRAVITY-MODE PERIOD SPACINGS AND NEAR-CORE ROTATION RATES OF 611 Γ DORADUS STARS WITH KEPLER](http://adsabs.harvard.edu/abs/2020MNRAS.491.3586L)  
 Li, Gang, Van Reeth, Timothy, Bedding, Timothy R., et al.    
 2020, refereed ([2020MNRAS.491.3586L](http://adsabs.harvard.edu/abs/2020MNRAS.491.3586L))  
 
-128. [CONCERNING THE LI-RICH STATUS OF KIC 9821622: A KEPLER FIELD RGB STAR REPORTED AS A LI-RICH GIANT](http://adsabs.harvard.edu/abs/2020MNRAS.491.3838S)  
+148. [CONCERNING THE LI-RICH STATUS OF KIC 9821622: A KEPLER FIELD RGB STAR REPORTED AS A LI-RICH GIANT](http://adsabs.harvard.edu/abs/2020MNRAS.491.3838S)  
 Singh, Raghubar, Bharat Kumar, Yerra, Reddy, Bacham E., et al.    
 2020, refereed ([2020MNRAS.491.3838S](http://adsabs.harvard.edu/abs/2020MNRAS.491.3838S))  
 
-129. [PULSATION AND ROTATION IN NGC 6811: THE KEPLER SHORT-CADENCE STARS](http://adsabs.harvard.edu/abs/2020MNRAS.491.4345R)  
+149. [PULSATION AND ROTATION IN NGC 6811: THE KEPLER SHORT-CADENCE STARS](http://adsabs.harvard.edu/abs/2020MNRAS.491.4345R)  
 Rodríguez, E., Balona, L. A., López-González, M. J., et al.    
 2020, refereed ([2020MNRAS.491.4345R](http://adsabs.harvard.edu/abs/2020MNRAS.491.4345R))  
 
-130. [A $5/4$ COMMENSURABILITY OF KIC 5773205, THE SMALLEST ECLIPSING RED DWARF DETECTED BY THE KEPLER MISSION](http://adsabs.harvard.edu/abs/2020arXiv200100239M)  
+150. [A $5/4$ COMMENSURABILITY OF KIC 5773205, THE SMALLEST ECLIPSING RED DWARF DETECTED BY THE KEPLER MISSION](http://adsabs.harvard.edu/abs/2020arXiv200100239M)  
 Makarov, Valeri V., Goldin, Alexey    
 2020, not refereed ([2020arXiv200100239M](http://adsabs.harvard.edu/abs/2020arXiv200100239M))  
 
-131. [COMPLEX VARIABILITY OF KEPLER AGN REVEALED BY RECURRENCE ANALYSIS](http://adsabs.harvard.edu/abs/2020arXiv200102800P)  
+151. [COMPLEX VARIABILITY OF KEPLER AGN REVEALED BY RECURRENCE ANALYSIS](http://adsabs.harvard.edu/abs/2020arXiv200102800P)  
 Phillipson, R. A., Boyd, P. T., Smale, A. P., et al.    
 2020, not refereed ([2020arXiv200102800P](http://adsabs.harvard.edu/abs/2020arXiv200102800P))  
 
-132. [FOUR NEW SELF-LENSING BINARIES FROM KEPLER: RADIAL VELOCITY CHARACTERIZATION AND ASTROPHYSICAL IMPLICATIONS](http://adsabs.harvard.edu/abs/2020arXiv200104448M)  
+152. [FOUR NEW SELF-LENSING BINARIES FROM KEPLER: RADIAL VELOCITY CHARACTERIZATION AND ASTROPHYSICAL IMPLICATIONS](http://adsabs.harvard.edu/abs/2020arXiv200104448M)  
 Masuda, Kento, Kawahara, Hajime, Latham, David W., et al.    
 2020, not refereed ([2020arXiv200104448M](http://adsabs.harvard.edu/abs/2020arXiv200104448M))  
 
-133. [DETERMINATION OF POTASSIUM ABUNDANCES FOR GIANT AND DWARF STARS IN THE GALACTIC DISK](http://adsabs.harvard.edu/abs/2020arXiv200104588T)  
+153. [DETERMINATION OF POTASSIUM ABUNDANCES FOR GIANT AND DWARF STARS IN THE GALACTIC DISK](http://adsabs.harvard.edu/abs/2020arXiv200104588T)  
 Takeda, Yoichi    
 2020, not refereed ([2020arXiv200104588T](http://adsabs.harvard.edu/abs/2020arXiv200104588T))  
 
-134. [SIMULTANEOUS BINARY AND ASTEROSEISMIC MODELLING OF THE KEPLER SYSTEM KIC 10661783 WITH THE $\DELTA$ SCUTI COMPONENT](http://adsabs.harvard.edu/abs/2020arXiv200111873M)  
+154. [SIMULTANEOUS BINARY AND ASTEROSEISMIC MODELLING OF THE KEPLER SYSTEM KIC 10661783 WITH THE $\DELTA$ SCUTI COMPONENT](http://adsabs.harvard.edu/abs/2020arXiv200111873M)  
 Miszuda, Amadeusz, Szewczuk, Wojciech, Daszyńska-Daszkiewicz, Jadwiga    
 2020, not refereed ([2020arXiv200111873M](http://adsabs.harvard.edu/abs/2020arXiv200111873M))  
 
